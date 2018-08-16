@@ -65,12 +65,12 @@
 <meta name="msapplication-TileColor" content="#144073">
 
 <!-- CSS -->
-<link rel="stylesheet" href="/generated/style.css">
-{% if entryname %}
-<link rel="stylesheet" href="/generated/{{ entryname }}.css">
+<link rel="stylesheet" href="https://www.vets.gov/generated/style.css">
+{% if entrycss %}
+<link rel="stylesheet" href="{{ entrycss }}">
 
 {% else %}
-<link rel="stylesheet" href="/generated/static-pages.css">
+<link rel="stylesheet" href="https://www.vets.gov/generated/static-pages.css">
 {% endif %}
 
 <!-- Old IE -->
@@ -82,11 +82,11 @@
 <script src="/js/record-event.js"></script>
 <script src="/js/settings.js"></script>
 
-<script defer src="/generated/vendor.entry.js"></script>
-{% if entryname %}
-<script defer src="/generated/{{ entryname }}.entry.js"></script>
+<script defer src="https://www.vets.gov/generated/vendor.entry.js"></script>
+{% if entryjs %}
+<script defer src="{{ entryjs }}"></script>
 {% else %}
-<script defer src="/generated/static-pages.entry.js"></script>
+<script defer src="https://www.vets.gov/generated/static-pages.entry.js"></script>
 {% endif %}
 
 <!-- We participate in the US government’s analytics program. See the data at analytics.usa.gov. -->

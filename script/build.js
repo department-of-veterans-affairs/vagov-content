@@ -1,6 +1,4 @@
 // Builds the site using Metalsmith as the top-level build runner.
-const fs = require('fs');
-const path = require('path');
 const Metalsmith = require('metalsmith');
 const archive = require('metalsmith-archive');
 const assets = require('metalsmith-assets');
@@ -20,116 +18,29 @@ const permalinks = require('metalsmith-permalinks');
 const redirect = require('metalsmith-redirect');
 const sitemap = require('metalsmith-sitemap');
 const watch = require('metalsmith-watch');
-const webpack = require('./metalsmith-webpack').webpackPlugin;
-const webpackConfigGenerator = require('../config/webpack.config');
-const webpackDevServer = require('./metalsmith-webpack').webpackDevServerPlugin;
-const createSettings = require('../config/create-settings');
 const nonceTransformer = require('./metalsmith/nonceTransformer');
-const {
-  getRoutes,
-  getWebpackEntryPoints,
-  getAppManifests
-} = require('./manifest-helpers.js');
+const appIncluder = require('./metalsmith/appIncluder');
+const serve = require('metalsmith-serve');
 
 const sourceDir = '../content/pages';
 
 const smith = Metalsmith(__dirname); // eslint-disable-line new-cap
 
 const optionDefinitions = [
-  { name: 'buildtype', type: String, defaultValue: 'development' },
-  { name: 'mergedbuild', type: Boolean, defaultValue: false },
-  { name: 'no-sanity-check-node-env', type: Boolean, defaultValue: false },
-  { name: 'port', type: Number, defaultValue: 3001 },
   { name: 'watch', type: Boolean, defaultValue: false },
-  { name: 'entry', type: String, defaultValue: null },
-  { name: 'analyzer', type: Boolean, defaultValue: false },
-  { name: 'host', type: String, defaultValue: 'localhost' },
-  { name: 'public', type: String, defaultValue: null },
-
   // Catch-all for bad arguments.
   { name: 'unexpected', type: String, multile: true, defaultOption: true },
 ];
 const options = commandLineArgs(optionDefinitions);
 
-const env = require('get-env')();
-
-if (options.unexpected && options.unexpected.length !== 0) {
-  throw new Error(`Unexpected arguments: '${options.unexpected}'`);
-}
-
-if (options.buildtype === undefined) {
-  options.buildtype = 'development';
-}
-
-switch (options.buildtype) {
-  case 'development':
-  // No extra checks needed in dev.
-    break;
-
-  case 'staging':
-    break;
-
-  case 'production':
-    if (options['no-sanity-check-node-env'] === false) {
-      if (env !== 'prod') {
-        throw new Error(`buildtype ${options.buildtype} expects NODE_ENV to be production, not '${process.env.NODE_ENV}'`);
-      }
-    }
-    break;
-
-  case 'devpreview':
-    options.mergedbuild = true;
-    break;
-
-  case 'preview':
-    options.mergedbuild = true;
-    break;
-
-  default:
-    throw new Error(`Unknown buildtype: '${options.buildtype}'`);
-}
-const manifests = getAppManifests(path.join(__dirname, '..'));
-
-let manifestsToBuild = manifests;
-if (options.entry) {
-  const entryNames = options.entry.split(',').map(name => name.trim());
-  manifestsToBuild = manifests
-    .filter(manifest => entryNames.includes(manifest.entryName));
-}
-
-const webpackConfig = webpackConfigGenerator(
-  options,
-  getWebpackEntryPoints(manifestsToBuild)
-);
-
 // Custom liquid filter(s)
 liquid.filters.humanizeDate = (dt) => moment(dt).format('MMMM D, YYYY');
-
 
 // Set up Metalsmith. BE CAREFUL if you change the order of the plugins. Read the comments and
 // add comments about any implicit dependencies you are introducing!!!
 //
 smith.source(sourceDir);
-smith.destination(`../build/${options.buildtype}`);
-
-// This lets us access the {{buildtype}} variable within liquid templates.
-smith.metadata({ buildtype: options.buildtype });
-smith.metadata({ mergedbuild: options.mergedbuild });
-
-// To block an app from production add the following to the below list:
-//  ignoreList.push('<path-to-content-file>');
-const ignore = require('metalsmith-ignore');
-
-const ignoreList = [];
-if (options.buildtype === 'production') {
-  manifests.filter(m => !m.production).forEach(m => {
-    ignoreList.push(m.contentPage);
-  });
-  ignoreList.push('veteran-id-card/how-to-get.md');
-  ignoreList.push('veteran-id-card/how-to-upload-photo.md');
-  ignoreList.push('education/complaint-tool.md');
-}
-smith.use(ignore(ignoreList));
+smith.destination('../build/production');
 
 // This adds the filename into the "entry" that is passed to other plugins. Without this errors
 // during templating end up not showing which file they came from. Load it very early in in the
@@ -139,7 +50,6 @@ smith.use(filenames());
 smith.use(define({
   // Does anything even look at `site`?
   site: require('../config/site'),
-  buildtype: options.buildtype
 }));
 
 // See the collections documentation here:
@@ -451,6 +361,7 @@ smith.use(collections({
 
 smith.use(dateInFilename(true));
 smith.use(archive());  // TODO(awong): Can this be removed?
+smith.use(appIncluder);
 
 if (options.watch) {
   // TODO(awong): Enable live reload of metalsmith pages per instructions at
@@ -464,95 +375,10 @@ if (options.watch) {
     })
   );
 
-  const appRewrites = getRoutes(manifests).map(url => {
-    return {
-      from: `^${url}(.*)`,
-      to: `${url}/`
-    };
-  }).sort((a, b) => b.from.length - a.from.length);
-
-  // If in watch mode, assume hot reloading for JS and use webpack devserver.
-  const devServerConfig = {
-    contentBase: `build/${options.buildtype}`,
-    historyApiFallback: {
-      rewrites: [
-        ...appRewrites,
-        { from: '^/(.*)', to(context) { return context.parsedUrl.pathname; } }
-      ],
-    },
-    hot: true,
-    port: options.port,
-    publicPath: '/generated/',
-    host: options.host,
-    'public': options.public || undefined,
-    stats: {
-      colors: true,
-      assets: false,
-      version: false,
-      hash: false,
-      timings: true,
-      chunks: false,
-      chunkModules: false,
-      entrypoints: false,
-      children: false,
-      modules: false,
-      warnings: true
-    }
-  };
-
-  // Route all API requests through webpack's node-http-proxy
-  // Useful for local development.
-  try {
-    // Check to see if we have a proxy config file
-    // eslint-disable-next-line import/no-unresolved
-    const api = require('../config/config.proxy.js').api;
-    devServerConfig.proxy = {
-      '/api/v0/*': {
-        target: `https://${api.host}/`,
-        auth: api.auth,
-        secure: true,
-        changeOrigin: true,
-        pathRewrite: { '^/api': '' },
-        rewrite: function rewrite(req) {
-          /* eslint-disable no-param-reassign */
-          req.headers.host = api.host;
-          /* eslint-enable no-param-reassign */
-        }
-      }
-    };
-    // eslint-disable-next-line no-console
-    console.log('API proxy enabled');
-  } catch (e) {
-    // No proxy config file found.
-  }
-
-  smith.use(webpackDevServer(webpackConfig, devServerConfig));
-} else {
-  // Broken link checking does not work well with watch. It continually shows broken links
-  // for permalink processed files. Only run outside of watch mode.
-
-  smith.use(webpack(webpackConfig));
+  smith.use(serve());
 }
 
 smith.use(assets({ source: '../assets', destination: './' }));
-
-const destination = path.resolve(__dirname, `../build/${options.buildtype}`);
-
-// Webpack paths are absolute, convert to relative
-smith.use((files, metalsmith, done) => {
-  Object.keys(files).forEach((file) => {
-    if (file.indexOf(destination) === 0) {
-      /* eslint-disable no-param-reassign */
-      files[file.substr(destination.length + 1)] = files[file];
-      delete files[file];
-      /* esling-enable no-param-reassign */
-    }
-  });
-
-  done();
-});
-
-// smith.use(cspHash({ pattern: ['js/*.js', 'generated/*.css', 'generated/*.js'] }))
 
 // Liquid substitution must occur before markdown is run otherwise markdown will escape the
 // bits of liquid commands (eg., quotes) and break things.
@@ -637,55 +463,6 @@ if (!options.watch && !(process.env.CHECK_BROKEN_LINKS === 'no')) {
   }));
 }
 
-if (options.buildtype !== 'development' && options.buildtype !== 'devpreview') {
-
-  // In non-development modes, we add hashes to the names of asset files in order to support
-  // cache busting. That is done via WebPack, but WebPack doesn't know anything about our HTML
-  // files, so we have to replace the references to those files in HTML and CSS files after the
-  // rest of the build has completed. This is done by reading in a manifest file created by
-  // WebPack that maps the original file names to their hashed versions. Metalsmith actions
-  // are passed a list of files that are included in the build. Those files are not yet written
-  // to disk, but the contents are held in memory.
-
-  smith.use((files, metalsmith, done) => {
-    // Read in the data from the manifest file.
-    const manifestKey = Object.keys(files).find((filename) => {
-      return filename.match(/file-manifest.json$/) !== null;
-    });
-
-    const originalManifest = JSON.parse(files[manifestKey].contents.toString());
-
-    // The manifest contains the original filenames without the addition of .entry
-    // on the JS files. This finds all of those and modifies them to add .entry.
-    const manifest = {};
-    Object.keys(originalManifest).forEach((originalManifestKey) => {
-      const matchData = originalManifestKey.match(/(.*)\.js$/);
-      if (matchData !== null) {
-        const newKey = `${matchData[1]}.entry.js`;
-        manifest[newKey] = originalManifest[originalManifestKey];
-      } else {
-        manifest[originalManifestKey] = originalManifest[originalManifestKey];
-      }
-    });
-
-    // For each file in the build, if it is a HTML or CSS file, loop over all
-    // the keys in the manifest object and do a search and replace for the
-    // key with the value.
-    Object.keys(files).forEach((filename) => {
-      if (filename.match(/\.(html|css)$/) !== null) {
-        Object.keys(manifest).forEach((originalAssetFilename) => {
-          const newAssetFilename = manifest[originalAssetFilename].replace('/generated/', '');
-          const file = files[filename];
-          const contents = file.contents.toString();
-          const regex = new RegExp(originalAssetFilename, 'g');
-          file.contents = new Buffer(contents.replace(regex, newAssetFilename));
-        });
-      }
-    });
-    done();
-  });
-}
-
 /*
 Redirects locally. DevOps must update Nginx config for production
 */
@@ -700,21 +477,12 @@ Convert onclick event handles into nonced script tags
 */
 smith.use(nonceTransformer);
 
-function generateStaticSettings() {
-  const settings = createSettings(options);
-  const settingsPath = path.join(destination, 'js/settings.js');
-  const settingsContent = `window.settings = ${JSON.stringify(settings, null, ' ')};`;
-  fs.writeFileSync(settingsPath, settingsContent);
-}
-
 /* eslint-disable no-console */
 smith.build((err) => {
   if (err) throw err;
 
-  generateStaticSettings();
-
   if (options.watch) {
-    console.log('Metalsmith build finished!  Starting webpack-dev-server...');
+    console.log('Metalsmith build finished!  Starting metalsmith-serve...');
   } else {
     console.log('Build finished!');
   }
