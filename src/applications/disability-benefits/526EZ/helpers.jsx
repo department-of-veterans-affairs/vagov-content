@@ -1,8 +1,6 @@
 import React from 'react';
 import AdditionalInfo from '@department-of-veterans-affairs/formation/AdditionalInfo';
 import Raven from 'raven-js';
-import appendQuery from 'append-query';
-import moment from 'moment';
 import { connect } from 'react-redux';
 import { Validator } from 'jsonschema';
 import fullSchemaIncrease from 'vets-json-schema/dist/21-526EZ-schema.json';
@@ -14,17 +12,17 @@ import cloneDeep from '../../../platform/utilities/data/cloneDeep';
 import set from '../../../platform/utilities/data/set';
 import get from '../../../platform/utilities/data/get';
 import { pick } from 'lodash';
-import { apiRequest } from '../../../platform/utilities/api';
 import { genderLabels } from '../../../platform/static-data/labels';
 
 import { DateWidget } from 'us-forms-system/lib/js/review/widgets';
+import {
+  getDisabilityName,
+  transformDisabilities
+} from '../all-claims/utils';
 
 import {
-  USA,
-  VA_FORM4142_URL,
-  RESERVE_GUARD_TYPES
+  VA_FORM4142_URL
 } from './constants';
-
 
 /**
  * Inspects an array of objects, and attempts to aggregate subarrays at a given property
@@ -120,6 +118,7 @@ export function transform(formConfig, form) {
 
   const additionalDocuments = aggregate(disabilities, 'additionalDocuments');
   const privateRecords = aggregate(disabilities, 'privateRecords');
+  const treatments = aggregate(disabilities, 'treatments');
 
   const transformedData = {
     disabilities: disabilities
@@ -127,12 +126,13 @@ export function transform(formConfig, form) {
       .map(filtered => pick(filtered, disabilityProperties)),
     // Pull phone & email out of phoneEmailCard and into veteran property
     veteran: setPhoneEmailPaths(veteran),
-    // Extract treatments into one top-level array
-    treatments: aggregate(disabilities, 'treatments'),
     attachments: additionalDocuments.concat(privateRecords),
     privacyAgreementAccepted,
     serviceInformation,
     standardClaim,
+    // treatments has a minItems: 1 requirement so only include the property
+    // if there is at least one treatment to send
+    ...treatments.length && { treatments }
   };
 
   const withoutViewFields = filterViewFields(transformedData);
@@ -153,31 +153,6 @@ export function validateDisability(disability) {
     return false;
   }
   return true;
-}
-
-
-export function transformDisabilities(disabilities = []) {
-  return disabilities
-    // We want to remove disabilities without a rating, but 0 counts as a valid rating
-    // TODO: Log the disabilities if they're not service connected
-    // Unfortunately, we don't have decisionCode in the schema, so it's stripped out by the time
-    //  it gets here and we can't tell whether it is service connected or not. This happens in
-    //  the api
-    .filter(disability => {
-      if (disability.ratingPercentage || disability.ratingPercentage === 0) {
-        return true;
-      }
-
-      // TODO: Only log it if the decision code indicates the condition is not non-service-connected
-      const { decisionCode } = disability;
-      if (decisionCode) {
-        Raven.captureMessage('526_increase_disability_filter', {
-          extra: { decisionCode }
-        });
-      }
-
-      return false;
-    }).map(disability => set('disabilityActionType', 'INCREASE', disability));
 }
 
 
@@ -240,42 +215,6 @@ export const supportingEvidenceOrientation = (
   </p>
 );
 
-
-export const evidenceTypeHelp = (
-  <AdditionalInfo triggerText="Which evidence type should I choose?">
-    <h3>Types of evidence</h3>
-    <h4>VA medical records</h4>
-    <p>If you were treated at a VA medical center or clinic, or by a doctor through the TRICARE health care program, you’ll have VA medical records.</p>
-    <h4>Private medical records</h4>
-    <p>If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records.
-      We’ll need to see those records to make a decision on your claim. A Disability Benefit Questionnaire is an example of a private medical record.</p>
-    <h4>Lay statements or other evidence</h4>
-    <p>A lay statement is a written statement from family, friends, or coworkers to help support your claim. Lay statements are also called “buddy statements.” In most cases, you’ll only need your medical records to support your disability claim. Some claims, for example, for Posttraumatic Stress Disorder or for military sexual trauma, could benefit from a lay or buddy statement.</p>
-  </AdditionalInfo>
-);
-
-const capitalizeEach = (word) => {
-  const capFirstLetter = word[0].toUpperCase();
-  return `${capFirstLetter}${word.slice(1)}`;
-};
-
-/**
- * Takes a string and returns the same string with every word capitalized. If no valid
- * string is given as input, returns 'Unknown Condition' and logs to Sentry.
- * @param {string} name the lower-case name of a disability
- * @returns {string} the input name, but with all words capitalized
- */
-export const getDisabilityName = (name) => {
-  if (name && typeof name === 'string') {
-    const splitName = name.split(' ');
-    const capitalizedsplitName = splitName.map(capitalizeEach);
-    return capitalizedsplitName.join(' ');
-  }
-
-  Raven.captureMessage('form_526: no name supplied for ratedDisability');
-  return 'Unknown Condition';
-};
-
 export const disabilityNameTitle = ({ formData }) => {
   return (
     <legend className="schemaform-block-title schemaform-title-underline">{getDisabilityName(formData.name)}</legend>
@@ -286,26 +225,6 @@ export const disabilityNameTitle = ({ formData }) => {
 export const facilityDescription = ({ formData }) => {
   return (
     <p>Please tell us where VA treated you for {getDisabilityName(formData.name)} <strong>after you got your disability rating</strong>.</p>
-  );
-};
-
-
-export const treatmentView = ({ formData }) => {
-  const { from, to } = formData.treatmentDateRange;
-
-  const name = formData.treatmentCenterName || '';
-  let treatmentPeriod = '';
-  if (from && to) {
-    treatmentPeriod = `${from} — ${to}`;
-  } else if (from || to) {
-    treatmentPeriod = `${(from || to)}`;
-  }
-
-  return (
-    <div>
-      <strong>{name}</strong><br/>
-      {treatmentPeriod}
-    </div>
   );
 };
 
@@ -536,7 +455,7 @@ const listDocuments = (documents) => {
 };
 
 
-export const evidenceSummaryView = ({ formData }) => {
+export const evidenceSummaryView = ({ formContext, formData }) => {
   const {
     treatments,
     privateRecordReleases,
@@ -546,6 +465,9 @@ export const evidenceSummaryView = ({ formData }) => {
 
   return (
     <div>
+      {formContext.reviewMode && <div className="form-review-panel-page-header-row">
+        <h5 className="form-review-panel-page-header">{formContext.pageTitle(formData)}</h5>
+      </div>}
       <ul>
         {treatments &&
         <li>We’ll get your medical records from {listCenters(treatments)}.</li>}
@@ -579,10 +501,10 @@ export const editNote = (name) => (
  */
 export const srSubstitute = (srIgnored, substitutionText) => {
   return (
-    <div style={{ display: 'inline' }}>
+    <span>
       <span aria-hidden>{srIgnored}</span>
       <span className="sr-only">{substitutionText}</span>
-    </div>
+    </span>
   );
 };
 
@@ -611,27 +533,6 @@ const unconnectedVetInfoView = (profile) => {
 
 
 export const veteranInfoDescription = connect((state) => state.user.profile)(unconnectedVetInfoView);
-
-
-/**
- * @typedef {Object} Disability
- * @property {String} diagnosticCode
- * @property {String} name
- * @property {String} ratingPercentage
- * @param {Disability} disability
- */
-export const disabilityOption = ({ name, ratingPercentage }) => {
-  // May need to throw an error to Sentry if any of these doesn't exist
-  // A valid rated disability *can* have a rating percentage of 0%
-  const showRatingPercentage = Number.isInteger(ratingPercentage);
-
-  return (
-    <div>
-      <h4>{getDisabilityName(name)}</h4>
-      {showRatingPercentage && <p>Current rating: <strong>{ratingPercentage}%</strong></p>}
-    </div>
-  );
-};
 
 
 export const ITFErrorAlert = (
@@ -706,88 +607,12 @@ export const VAFileNumberDescription = (
 );
 
 
-const PhoneViewField = ({ formData: phoneNumber = '', name }) => {
-  const midBreakpoint = -7;
-  const lastPhoneString = phoneNumber.slice(-4);
-  const middlePhoneString = phoneNumber.slice(midBreakpoint, -4);
-  const firstPhoneString = phoneNumber.slice(0, midBreakpoint);
-
-  const phoneString = `${firstPhoneString}-${middlePhoneString}-${lastPhoneString}`;
-  return (<p><strong>{name}</strong>: {phoneString}</p>);
-};
-
-
-const EmailViewField = ({ formData, name }) => (
-  <p><strong>{name}</strong>: {formData || ''}</p>
-);
-
-
-const EffectiveDateViewField = ({ formData }) => {
-  return (
-    <p>
-      We will use this address starting on <DateWidget value={formData} options={{ monthYear: false }}/>:
-    </p>
-  );
-};
-
-
-const AddressViewField = ({ formData }) => {
-  const { addressLine1, addressLine2, addressLine3, city, state, country, zipCode } = formData;
-  let zipString;
-  if (zipCode) {
-    const firstFive = zipCode.slice(0, 5);
-    const lastChunk = zipCode.length > 5 ? `-${zipCode.slice(5)}` : '';
-    zipString = `${firstFive}${lastChunk}`;
-  }
-
-  let lastLine;
-  if (country === USA) {
-    lastLine = `${city}, ${state} ${zipString}`;
-  } else {
-    lastLine = `${city}, ${country}`;
-  }
-  return (
-    <div>
-      {addressLine1 && <p>{addressLine1}</p>}
-      {addressLine2 && <p>{addressLine2}</p>}
-      {addressLine3 && <p>{addressLine3}</p>}
-      <p>{lastLine}</p>
-    </div>
-  );
-};
-
-
-export const PrimaryAddressViewField = ({ formData }) => (<AddressViewField formData={formData}/>);
-
-
-export const ForwardingAddressViewField = ({ formData }) => {
-  const { effectiveDate } = formData;
-  return (
-    <div>
-      <EffectiveDateViewField formData={effectiveDate}/>
-      <AddressViewField formData={formData}/>
-    </div>
-  );
-};
-
-
-export const phoneEmailViewField = ({ formData }) => {
-  const { primaryPhone, emailAddress } = formData;
-  return (
-    <div>
-      <PhoneViewField formData={primaryPhone} name="Primary phone"/>
-      <EmailViewField formData={emailAddress} name="Email address"/>
-    </div>
-  );
-};
-
-
 export const FDCDescription = (
   <div>
     <h5>Fully developed claim program</h5>
     <p>
       You can apply using the Fully Developed Claim (FDC) program if
-      you’ve uploaded all the supporting documents or additional
+      you’ve uploaded all the supporting documents or supplemental
       forms needed to support your claim.
     </p>
     <a href="/pension/apply/fully-developed-claim/" target="_blank">
@@ -813,38 +638,33 @@ export const noFDCWarning = (
   <div className="usa-alert usa-alert-info no-background-image">
     <div className="usa-alert-body">
       <div className="usa-alert-text">
-        Since you’ll be sending in additional documents later,
-        your application doesn’t qualify for the Fully Developed
-        Claim program. We’ll review your claim through the
-        standard claim process. Please turn in any information to
-        support your claim as soon as you can.
+        <p>
+          Since you’ll be sending in additional documents later, your
+          application doesn’t qualify for the Fully Developed Claim program.
+          We’ll review your claim through the standard claim process. With the
+          standard claim process, you have up to 1 year from the date we
+          receive your claim to turn in any information and evidence.
+        </p>
+        <p>You can turn in your evidence 1 of 3 ways:</p>
+        <ul>
+          <li>
+            Visit the Claim Status tool and upload your documents under the
+            File tab. <a href="/track-claims">Track the status of your
+            claims.</a>
+          </li>
+          <li>
+            Call Veterans Benefits Assistance at <a href="tel:1-800-827-1000">
+            1-800-827-1000</a>, Monday – Friday, 8:30 a.m. – 4:30 p.m. (ET).
+          </li>
+          <li>
+            Save your application and return to it later when you have your
+            evidence ready to upload.
+          </li>
+        </ul>
       </div>
     </div>
   </div>
 );
-
-
-export function queryForFacilities(input = '') {
-  // Only search if the input has a length >= 3, otherwise, return an empty array
-  if (input.length < 3) {
-    return Promise.resolve([]);
-  }
-
-  const url = appendQuery('/facilities/suggested', {
-    type: ['health', 'dod_health'],
-    name_part: input // eslint-disable-line camelcase
-  });
-
-  return apiRequest(url, {},
-    (response) => {
-      return response.data.map(facility => ({ id: facility.id, label: facility.attributes.name }));
-    },
-    (error) => {
-      Raven.captureMessage('Error querying for facilities', { input, error });
-      return [];
-    }
-  );
-}
 
 
 const evidenceTypesDescription = (disabilityName) => {
@@ -905,71 +725,11 @@ export const contactInfoUpdateHelp = () => (
   </div>
 );
 
-
-export const PaymentDescription = () => (
-  <p>
-    This is the bank account information we have on file for you. We’ll pay your
-    disability benefit to this account.
-  </p>
-);
-
-export const hasGuardOrReservePeriod = (formData) => {
-  const serviceHistory = formData.servicePeriods;
-  if (!serviceHistory || !Array.isArray(serviceHistory)) {
-    return false;
+export const validateIfHasEvidence = (errors, fieldData, formData, schema, messages, options, index) => {
+  const { wrappedValidator } = options;
+  if (get('view:hasEvidence', formData, true)) {
+    wrappedValidator(errors, fieldData, formData, schema, messages, index);
   }
-
-  return serviceHistory.reduce((isGuardReserve, { serviceBranch }) => {
-    // For a new service period, service branch defaults to undefined
-    if (!serviceBranch) {
-      return false;
-    }
-    const { nationalGuard, reserve } = RESERVE_GUARD_TYPES;
-    return isGuardReserve
-        || serviceBranch.includes(reserve)
-        || serviceBranch.includes(nationalGuard);
-  }, false);
-};
-
-export const ReservesGuardDescription = ({ formData }) => {
-  const { servicePeriods } = formData;
-  if (!servicePeriods || !Array.isArray(servicePeriods) || !servicePeriods[0].serviceBranch) {
-    return null;
-  }
-
-  const mostRecentPeriod = servicePeriods.filter(({ serviceBranch }) => {
-    const { nationalGuard, reserve } = RESERVE_GUARD_TYPES;
-    return (serviceBranch.includes(nationalGuard) || serviceBranch.includes(reserve));
-  }).map(({ serviceBranch, dateRange }) => {
-    const dateTo = new Date(dateRange.to);
-    return {
-      serviceBranch,
-      to: dateTo
-    };
-  }).sort((periodA, periodB) => (periodB.to - periodA.to))[0];
-
-  if (!mostRecentPeriod) {
-    return null;
-  }
-  const { serviceBranch, to } = mostRecentPeriod;
-  return (
-    <div>
-      Please tell us more about your {serviceBranch} service that ended on {moment(to).format('MMMM DD, YYYY')}.
-    </div>
-  );
 };
 
 export const title10DatesRequired = (formData) => get('view:isTitle10Activated', formData, false);
-
-export const isInFuture = (errors, fieldData) => {
-  const enteredDate = new Date(fieldData);
-  if (enteredDate < Date.now()) {
-    errors.addError('Expected separation date must be in the future');
-  }
-};
-
-export const disabilitiesClarification = (
-  <p>
-    <strong>Please note:</strong> This list only includes disabilities that we've already rated. It doesn't include any disabilities from claims that are in progress.
-  </p>
-);

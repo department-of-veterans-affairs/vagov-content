@@ -9,6 +9,7 @@ import OMBInfo from '@department-of-veterans-affairs/formation/OMBInfo';
 import FormTitle from 'us-forms-system/lib/js/components/FormTitle';
 import { introActions, introSelector } from '../../../../platform/forms/save-in-progress/SaveInProgressIntro';
 import { toggleLoginModal } from '../../../../platform/site-wide/user-nav/actions';
+import BetaGate from '../containers/BetaGate';
 
 import FormStartControls from './FormStartControls';
 
@@ -20,7 +21,7 @@ class IntroductionPage extends React.Component {
   hasSavedForm = () => {
     const { saveInProgress: { user } } = this.props;
     return user.profile && user.profile.savedForms
-      .filter(f => moment.unix(f.metadata.expires_at).isAfter())
+      .filter(f => moment.unix(f.metadata.expiresAt).isAfter())
       .find(f => f.form === this.props.formId);
   }
 
@@ -45,12 +46,14 @@ class IntroductionPage extends React.Component {
       <div className="schemaform-intro">
         <FormTitle title="Apply for increased disability compensation"/>
         <p>Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).</p>
-        <FormStartControls
-          pathname={this.props.location.pathname}
-          user={user}
-          authenticate={this.authenticate}
-          {...this.props}/>
-        {itfAgreement}
+        <BetaGate>
+          <FormStartControls
+            pathname={this.props.location.pathname}
+            user={user}
+            authenticate={this.authenticate}
+            {...this.props}/>
+          {itfAgreement}
+        </BetaGate>
         <h4>Follow the steps below to file a claim for increased disability compensation.</h4>
         <div className="process schemaform-process">
           <ol>
@@ -110,13 +113,15 @@ class IntroductionPage extends React.Component {
             </li>
           </ol>
         </div>
-        <FormStartControls
-          pathname={this.props.location.pathname}
-          user={user}
-          authenticate={this.authenticate}
-          {...this.props}
-          buttonOnly/>
-        {itfAgreement}
+        <BetaGate>
+          <FormStartControls
+            pathname={this.props.location.pathname}
+            user={user}
+            authenticate={this.authenticate}
+            {...this.props}
+            buttonOnly/>
+          {itfAgreement}
+        </BetaGate>
         {/* TODO: Remove inline style after I figure out why .omb-info--container has a left padding */}
         <div className="omb-info--container" style={{ paddingLeft: '0px' }}>
           <OMBInfo resBurden={25} ombNumber="2900-0747" expDate="11/30/2017"/>

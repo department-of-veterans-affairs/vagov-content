@@ -1,5 +1,4 @@
 import _ from 'lodash/fp';
-import moment from 'moment';
 
 import fullSchemaHca from 'vets-json-schema/dist/10-10EZ-schema.json';
 
@@ -26,6 +25,7 @@ import environment from '../../../platform/utilities/environment';
 import applicantDescription from '../../../platform/forms/components/ApplicantDescription';
 import PrefillMessage from '../../../platform/forms/save-in-progress/PrefillMessage';
 import MilitaryPrefillMessage from '../../../platform/forms/save-in-progress/MilitaryPrefillMessage';
+import preSubmitInfo from '../../../platform/forms/preSubmitInfo';
 
 import DowntimeMessage from '../components/DowntimeMessage';
 
@@ -46,7 +46,10 @@ import {
   disclosureWarning,
   expensesGreaterThanIncomeWarning,
   expensesLessThanIncome,
-  deductibleExpensesDescription
+  deductibleExpensesDescription,
+  isAfterCentralTimeDate,
+  isBeforeCentralTimeDate,
+  validateDate,
 } from '../helpers';
 
 import migrations from './migrations';
@@ -60,7 +63,7 @@ import DemographicField from '../components/DemographicField';
 
 import { createDependentSchema, uiSchema as dependentUI, createDependentIncomeSchema, dependentIncomeUiSchema } from '../definitions/dependent';
 
-import { validateServiceDates, validateMarriageDate } from '../validation';
+import { validateServiceDates, validateMarriageDate, validateCurrency } from '../validation';
 
 const dependentSchema = createDependentSchema(fullSchemaHca);
 const dependentIncomeSchema = createDependentIncomeSchema(fullSchemaHca);
@@ -158,6 +161,7 @@ const formConfig = {
   submitErrorText: ErrorMessage,
   title: 'Apply for health care',
   subTitle: 'Form 10-10EZ',
+  preSubmitInfo,
   footerContent: FormFooter,
   getHelp: GetFormHelp,
   defaultDefinitions: {
@@ -410,10 +414,10 @@ const formConfig = {
             lastDischargeDate: dateUI('Service end date'),
             dischargeType: {
               'ui:title': 'Character of service',
-              'ui:required': (formData) => !moment(_.get('lastDischargeDate', formData), 'YYYY-MM-DD').isAfter(moment().startOf('day')),
+              'ui:required': ({ lastDischargeDate: LDD }) => validateDate(LDD) && isBeforeCentralTimeDate(LDD),
               'ui:options': {
                 labels: dischargeTypeLabels,
-                hideIf: (formData) => moment(_.get('lastDischargeDate', formData), 'YYYY-MM-DD').isAfter(moment().startOf('day'))
+                hideIf: ({ lastDischargeDate: LDD }) => !validateDate(LDD) || isAfterCentralTimeDate(LDD),
               }
             },
             'ui:validations': [
@@ -658,9 +662,9 @@ const formConfig = {
           uiSchema: {
             'ui:title': 'Annual income',
             'ui:description': incomeDescription,
-            veteranGrossIncome: currencyUI('Veteran gross annual income from employment'),
-            veteranNetIncome: currencyUI('Veteran net income from your farm, ranch, property or business'),
-            veteranOtherIncome: currencyUI('Veteran other income amount'),
+            veteranGrossIncome: _.set('ui:validations', [validateCurrency], currencyUI('Veteran gross annual income from employment')),
+            veteranNetIncome: _.set('ui:validations', [validateCurrency], currencyUI('Veteran net income from your farm, ranch, property or business')),
+            veteranOtherIncome: _.set('ui:validations', [validateCurrency], currencyUI('Veteran other income amount')),
             'view:spouseIncome': {
               'ui:title': 'Spouse income',
               'ui:options': {
@@ -668,13 +672,16 @@ const formConfig = {
                 (formData.maritalStatus.toLowerCase() !== 'married' && formData.maritalStatus.toLowerCase() !== 'separated')
               },
               spouseGrossIncome: _.merge(currencyUI('Spouse gross annual income from employment'), {
-                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated')
+                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated'),
+                'ui:validations': [validateCurrency]
               }),
               spouseNetIncome: _.merge(currencyUI('Spouse net income from your farm, ranch, property or business'), {
-                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated')
+                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated'),
+                'ui:validations': [validateCurrency]
               }),
               spouseOtherIncome: _.merge(currencyUI('Spouse other income amount'), {
-                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated')
+                'ui:required': (formData) => formData.maritalStatus && (formData.maritalStatus.toLowerCase() === 'married' || formData.maritalStatus.toLowerCase() === 'separated'),
+                'ui:validations': [validateCurrency]
               })
             },
             dependents: {
@@ -717,14 +724,14 @@ const formConfig = {
           uiSchema: {
             'ui:title': 'Previous Calendar Year’s Deductible Expenses',
             'ui:description': deductibleExpensesDescription,
-            deductibleMedicalExpenses: currencyUI('Amount you or your spouse paid in non-reimbursable medical expenses this past year.'),
+            deductibleMedicalExpenses: _.set('ui:validations', [validateCurrency], currencyUI('Amount you or your spouse paid in non-reimbursable medical expenses this past year.')),
             'view:expensesIncomeWarning1': {
               'ui:description': expensesGreaterThanIncomeWarning,
               'ui:options': {
                 hideIf: expensesLessThanIncome('deductibleMedicalExpenses')
               }
             },
-            deductibleFuneralExpenses: currencyUI('Amount you paid in funeral or burial expenses for a deceased spouse or child this past year.'),
+            deductibleFuneralExpenses: _.set('ui:validations', [validateCurrency], currencyUI('Amount you paid in funeral or burial expenses for a deceased spouse or child this past year.')),
             'view:expensesIncomeWarning2': {
               'ui:description': expensesGreaterThanIncomeWarning,
               'ui:options': {
@@ -924,7 +931,7 @@ const formConfig = {
           }
         }
       }
-    },
+    }
   }
 };
 

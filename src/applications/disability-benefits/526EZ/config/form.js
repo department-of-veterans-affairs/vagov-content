@@ -11,9 +11,10 @@ import { uiSchema as autoSuggestUiSchema } from 'us-forms-system/lib/js/definiti
 
 import FormFooter from '../../../../platform/forms/components/FormFooter';
 import environment from '../../../../platform/utilities/environment';
+import preSubmitInfo from '../../../../platform/forms/preSubmitInfo';
 
 import IntroductionPage from '../components/IntroductionPage';
-import ConfirmationPage from '../containers/ConfirmationPage';
+import ConfirmationPoll from '../components/ConfirmationPoll';
 
 import {
   uiSchema as primaryAddressUiSchema,
@@ -25,52 +26,63 @@ import treatmentAddressUiSchema from '../pages/treatmentAddress';
 import {
   uiSchema as paymentInfoUiSchema,
   schema as paymentInfoSchema
-} from '../pages/paymentInfo';
+} from '../../all-claims/pages/paymentInformation';
 
 import {
   uiSchema as reservesNationalGuardUISchema,
   schema as reservesNationalGuardSchema
 } from '../pages/reservesNationalGuardService';
 
-import SelectArrayItemsWidget from '../components/SelectArrayItemsWidget';
+import SelectArrayItemsWidget from '../../all-claims/components/SelectArrayItemsWidget';
 
 import {
   transform,
   prefillTransformer,
   supportingEvidenceOrientation,
-  evidenceTypeHelp,
   disabilityNameTitle,
   vaMedicalRecordsIntro,
   privateMedicalRecordsIntro,
   privateRecordsChoice,
   privateRecordsChoiceHelp,
   facilityDescription,
-  treatmentView,
   download4142Notice,
   authorizationToDisclose,
   // recordReleaseWarning, // TODO: Re-enable after 4142 PDF integration
   documentDescription,
   evidenceSummaryView,
   additionalDocumentDescription,
-  disabilityOption,
   GetFormHelp,
   FDCDescription,
   FDCWarning,
   noFDCWarning,
-  queryForFacilities,
   getEvidenceTypesDescription,
   veteranInfoDescription,
   editNote,
-  hasGuardOrReservePeriod,
-  disabilitiesClarification
+  validateIfHasEvidence
 } from '../helpers';
+
+import {
+  hasGuardOrReservePeriod,
+  queryForFacilities
+} from '../../all-claims/utils';
+
+import {
+  disabilityOption,
+  disabilitiesClarification
+} from '../../all-claims/content/ratedDisabilities';
+
+import {
+  treatmentView
+} from '../../all-claims/content/vaMedicalRecords';
+import { evidenceTypeHelp } from '../../all-claims/content/evidenceTypes';
 
 import { requireOneSelected } from '../validations';
 import { validateBooleanGroup } from 'us-forms-system/lib/js/validation';
 import PhoneNumberWidget from 'us-forms-system/lib/js/widgets/PhoneNumberWidget';
+import PhoneNumberReviewWidget from 'us-forms-system/lib/js/review/PhoneNumberWidget';
 
 const {
-  treatments: treatmentsSchema,
+  treatments,
   // privateRecordReleases, // TODO: Re-enable after 4142 PDF integration
   serviceInformation: {
     properties: { servicePeriods }
@@ -93,29 +105,10 @@ const {
   dateRangeFromRequired,
   dateRangeAllRequired,
   disabilities,
-  specialIssues,
   vaTreatmentCenterAddress
 } = fullSchema526EZ.definitions;
 
 const FIFTY_MB = 52428800;
-
-// TODO: Remove once typeahead supports auto-filling address and treatment center type
-const treatments = ((treatmentsCommonDef) => {
-  const { type, maxItems, items } = treatmentsCommonDef;
-
-  return {
-    type,
-    maxItems,
-    items: {
-      type: items.type,
-      // TODO: use standard required property once treatmentCenterType added
-      // back in schema (because it's required)
-      required: ['treatmentCenterName'],
-      properties: _.omit(['treatmentCenterType'], items.properties)
-    }
-  };
-
-})(treatmentsSchema);
 
 const formConfig = {
   urlPrefix: '/',
@@ -134,7 +127,7 @@ const formConfig = {
   },
   transformForSubmit: transform,
   introduction: IntroductionPage,
-  confirmation: ConfirmationPage,
+  confirmation: ConfirmationPoll,
   footerContent: FormFooter,
   getHelp: GetFormHelp,
   defaultDefinitions: {
@@ -148,10 +141,10 @@ const formConfig = {
     dateRangeFromRequired,
     dateRangeAllRequired,
     disabilities,
-    specialIssues,
   },
   title: 'Apply for increased disability compensation',
   subTitle: 'Form 21-526EZ',
+  preSubmitInfo,
   // getHelp: GetFormHelp, // TODO: May need updated form help content
   chapters: {
     veteranDetails: {
@@ -159,7 +152,6 @@ const formConfig = {
       pages: {
         veteranInformation: {
           title: 'Veteran Information', // TODO: Figure out if this is even necessary
-          description: 'This is the personal information we have on file for you.',
           path: 'veteran-information',
           uiSchema: {
             'ui:description': veteranInfoDescription
@@ -172,7 +164,6 @@ const formConfig = {
         primaryAddress: {
           title: 'Address information',
           path: 'veteran-details/address-information',
-          description: 'This is the contact information we have on file for you. We’ll send any important information about your disability claim to the address listed here. Any updates you make here to your contact information will only apply to this application.',
           uiSchema: primaryAddressUiSchema,
           schema: primaryAddressSchema
         },
@@ -259,6 +250,7 @@ const formConfig = {
                   primaryPhone: {
                     'ui:title': 'Phone number',
                     'ui:widget': PhoneNumberWidget,
+                    'ui:reviewWidget': PhoneNumberReviewWidget,
                     'ui:options': {
                       widgetClassNames: 'va-input-medium-large'
                     },
@@ -347,7 +339,7 @@ const formConfig = {
           }
         },
         evidenceType: {
-          title: (formData, { pagePerItemIndex }) => _.get(`disabilities.${pagePerItemIndex}.name`, formData),
+          title: (formData) => `${formData.name} supporting evidence`,
           path: 'supporting-evidence/:index/evidence-type',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -356,13 +348,24 @@ const formConfig = {
             disabilities: {
               items: {
                 'ui:title': disabilityNameTitle,
+                'view:hasEvidence': {
+                  'ui:title': 'Do you have any evidence that you would like to submit with your claim?',
+                  'ui:description': '',
+                  'ui:widget': 'yesNo',
+                },
                 'view:selectableEvidenceTypes': {
                   'ui:options': {
                     // Only way to get access to the disability info like 'name' within this nested schema
                     updateSchema: (form, schema, uiSchema, index) => ({ title: getEvidenceTypesDescription(form, index) }),
-                    showFieldLabel: true
+                    showFieldLabel: true,
+                    hideIf: (formData, index) => {
+                      return !_.get(`disabilities[${index}].view:hasEvidence`, formData, true);
+                    }
                   },
-                  'ui:validations': [validateBooleanGroup],
+                  'ui:validations': [{
+                    validator: validateIfHasEvidence,
+                    options: { wrappedValidator: validateBooleanGroup }
+                  }],
                   'ui:errorMessages': {
                     atLeastOne: 'Please select at least one type of supporting evidence'
                   },
@@ -374,7 +377,7 @@ const formConfig = {
                   },
                   'view:otherEvidence': {
                     'ui:title': 'Lay statements or other evidence'
-                  }
+                  },
                 },
                 'view:evidenceTypeHelp': {
                   'ui:description': evidenceTypeHelp
@@ -390,6 +393,10 @@ const formConfig = {
                 items: {
                   type: 'object',
                   properties: {
+                    'view:hasEvidence': {
+                      type: 'boolean',
+                      'default': true
+                    },
                     'view:selectableEvidenceTypes': {
                       type: 'object',
                       properties: {
@@ -415,7 +422,7 @@ const formConfig = {
           }
         },
         vaMedicalRecordsIntro: {
-          title: '',
+          title: 'VA medical records introduction',
           path: 'supporting-evidence/:index/va-medical-records-intro',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -426,6 +433,9 @@ const formConfig = {
               items: {
                 'ui:title': disabilityNameTitle,
                 'ui:description': vaMedicalRecordsIntro,
+                'ui:options': {
+                  hideOnReview: true
+                }
               }
             }
           },
@@ -443,7 +453,7 @@ const formConfig = {
           }
         },
         vaFacilities: {
-          title: '',
+          title: (formData) => `${formData.name} VA facilities`,
           path: 'supporting-evidence/:index/va-facilities',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -493,6 +503,7 @@ const formConfig = {
                 type: 'array',
                 items: {
                   type: 'object',
+                  required: ['treatments'],
                   properties: {
                     treatments
                   }
@@ -502,7 +513,7 @@ const formConfig = {
           }
         },
         privateMedicalRecordsIntro: {
-          title: '',
+          title: 'Private medical records introduction',
           path: 'supporting-evidence/:index/private-medical-records-intro',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -512,7 +523,10 @@ const formConfig = {
             disabilities: {
               items: {
                 'ui:title': disabilityNameTitle,
-                'ui:description': privateMedicalRecordsIntro
+                'ui:description': privateMedicalRecordsIntro,
+                'ui:options': {
+                  hideOnReview: true
+                }
               }
             }
           },
@@ -530,7 +544,7 @@ const formConfig = {
           }
         },
         privateRecordChoice: {
-          title: '',
+          title: (formData) => `${formData.name} private medical records choice`,
           path: 'supporting-evidence/:index/private-medical-records-choice',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -593,7 +607,7 @@ const formConfig = {
           }
         },
         authorizationToDisclose: {
-          title: '',
+          title: 'Authorization',
           path: 'supporting-evidence/:index/authorization-to-disclose',
           showPagePerItem: true,
           itemFilter: (item) => _.get('view:selected', item),
@@ -857,16 +871,16 @@ const formConfig = {
           }
         },
         evidenceSummary: {
-          title: 'Summary of evidence',
+          title: (formData) => `${formData.name} evidence summary`,
           path: 'supporting-evidence/:index/evidence-summary',
           showPagePerItem: true,
-          itemFilter: (item) => _.get('view:selected', item),
+          itemFilter: (item) => (_.get('view:hasEvidence', item) && _.get('view:selected', item)),
           arrayPath: 'disabilities',
           uiSchema: {
             disabilities: {
               items: {
                 'ui:title': 'Summary of evidence',
-                'ui:description': evidenceSummaryView
+                'ui:field': evidenceSummaryView
               }
             }
           },
@@ -900,7 +914,7 @@ const formConfig = {
               'ui:options': {
                 yesNoReverse: true,
                 labels: {
-                  Y: 'Yes, I’ve uploaded all my supporting documents.',
+                  Y: 'Yes, I have uploaded all my supporting documents.',
                   N: 'No, I have some extra information that I will submit to VA later.'
                 }
               }
@@ -908,15 +922,13 @@ const formConfig = {
             'view:fdcWarning': {
               'ui:description': FDCWarning,
               'ui:options': {
-                expandUnder: 'standardClaim',
-                expandUnderCondition: false
+                hideIf: (formData) => _.get('standardClaim', formData)
               }
             },
             'view:noFDCWarning': {
               'ui:description': noFDCWarning,
               'ui:options': {
-                expandUnder: 'standardClaim',
-                expandUnderCondition: true
+                hideIf: (formData) => !_.get('standardClaim', formData)
               }
             }
           },

@@ -1,21 +1,13 @@
-import sinon from 'sinon';
 import { expect } from 'chai';
-import { shallow } from 'enzyme';
 import _ from 'lodash';
 
 import {
   validateDisability,
-  transformDisabilities,
   addPhoneEmailToCard,
   prefillTransformer,
-  getDisabilityName,
   get4142Selection,
-  queryForFacilities,
   transform,
-  hasGuardOrReservePeriod,
-  ReservesGuardDescription,
   transformObligationDates,
-  isInFuture,
   getReservesGuardData
 } from '../helpers.jsx';
 import maximalData from './schema/maximal-test';
@@ -33,12 +25,6 @@ describe('526 helpers', () => {
           {
             name: 'Diabetes mellitus0',
             disabilityActionType: 'INCREASE',
-            specialIssues: [
-              {
-                code: 'TRM',
-                name: 'Personal Trauma PTSD'
-              }
-            ],
             ratedDisabilityId: '0',
             ratingDecisionId: '63655',
             diagnosticCode: 5238
@@ -46,12 +32,6 @@ describe('526 helpers', () => {
           {
             name: 'Diabetes mellitus1',
             disabilityActionType: 'INCREASE',
-            specialIssues: [
-              {
-                code: 'TRM',
-                name: 'Personal Trauma PTSD'
-              }
-            ],
             ratedDisabilityId: '1',
             ratingDecisionId: '63655',
             diagnosticCode: 5238
@@ -86,22 +66,6 @@ describe('526 helpers', () => {
           primaryPhone: '4445551212',
           emailAddress: 'test2@test1.net'
         },
-        treatments: [
-          {
-            treatmentCenterName: 'Somerset VA Clinic',
-            treatmentDateRange: {
-              from: '2000-06-06',
-              to: '2004-02-06'
-            }
-          },
-          {
-            treatmentCenterName: 'DC VA Regional Medical Center',
-            treatmentDateRange: {
-              from: '2000-07-04',
-              to: '2010-01-03'
-            }
-          }
-        ],
         attachments: [
           {
             name: 'Screen Shot 2018-07-09 at 11.25.49 AM.png',
@@ -155,7 +119,23 @@ describe('526 helpers', () => {
             waiveVABenefitsToRetainTrainingPay: true
           }
         },
-        standardClaim: false
+        standardClaim: false,
+        treatments: [
+          {
+            treatmentCenterName: 'Somerset VA Clinic',
+            treatmentDateRange: {
+              from: '2000-06-06',
+              to: '2004-02-06'
+            }
+          },
+          {
+            treatmentCenterName: 'DC VA Regional Medical Center',
+            treatmentDateRange: {
+              from: '2000-07-04',
+              to: '2010-01-03'
+            }
+          }
+        ],
       }
     };
     it('should return stringified, transformed data for submit', () => {
@@ -168,18 +148,6 @@ describe('526 helpers', () => {
     });
     it('should accept valid disability data', () => {
       expect(validateDisability(validDisability)).to.equal(true);
-    });
-  });
-  describe('transformDisabilities', () => {
-    it('should create a list of disabilities with disabilityActionType set to INCREASE', () => {
-      expect(transformDisabilities([invalidDisability])).to.deep.equal([validDisability]);
-    });
-    it('should return an empty array when given undefined input', () => {
-      expect(transformDisabilities(undefined)).to.deep.equal([]);
-    });
-    it('should remove ineligible disabilities', () => {
-      const ineligibleDisability = _.omit(invalidDisability, 'ratingPercentage');
-      expect(transformDisabilities([ineligibleDisability])).to.deep.equal([]);
     });
   });
   describe('addPhoneEmailToCard', () => {
@@ -285,20 +253,7 @@ describe('526 helpers', () => {
       expect(newData.formData.obligationTermOfServiceDateRange).to.deep.equal(dateRange);
     });
   });
-  describe('getDisabilityName', () => {
-    it('should return string with each word capitalized when name supplied', () => {
-      expect(getDisabilityName('some disability - some detail')).to.equal('Some Disability - Some Detail');
-    });
-    it('should return Unknown Condition with undefined name', () => {
-      expect(getDisabilityName()).to.equal('Unknown Condition');
-    });
-    it('should return Unknown Condition when input is empty string', () => {
-      expect(getDisabilityName('')).to.equal('Unknown Condition');
-    });
-    it('should return Unknown Condition when name is not a string', () => {
-      expect(getDisabilityName(249481)).to.equal('Unknown Condition');
-    });
-  });
+
   describe('get4142Selection', () => {
     const fullDisabilities = [
       {
@@ -342,175 +297,6 @@ describe('526 helpers', () => {
     it('should return false when no disabilities have 4142 selected', () => {
       const disabilities = fullDisabilities.slice(1);
       expect(get4142Selection(disabilities)).to.equal(false);
-    });
-  });
-
-  describe('queryForFacilities', () => {
-    const originalFetch = global.fetch;
-    beforeEach(() => {
-      // Replace fetch with a spy
-      global.fetch = sinon.stub();
-      global.fetch.resolves({
-        ok: true,
-        headers: { get: () => 'application/json' },
-        json: () => ({
-          data: [
-            { id: 0, attributes: { name: 'first' } },
-            { id: 1, attributes: { name: 'second' } },
-          ]
-        })
-      });
-    });
-
-    afterEach(() => {
-      global.fetch = originalFetch;
-    });
-
-    it('should not call the api if the input length is < 3', () => {
-      queryForFacilities('12');
-      expect(global.fetch.called).to.be.false;
-    });
-
-    it('should call the api if the input length is >= 3', () => {
-      queryForFacilities('123');
-      expect(global.fetch.called).to.be.true;
-    });
-
-    it('should call the api with the input', () => {
-      queryForFacilities('asdf');
-      expect(global.fetch.firstCall.args[0]).to.contain('/facilities/suggested?type%5B%5D=health&type%5B%5D=dod_health&name_part=asdf');
-    });
-
-    it('should return the mapped data for autosuggest if successful', () => {
-      // Doesn't matter what we call this with since our stub will always return the same thing
-      const requestPromise = queryForFacilities('asdf');
-      return requestPromise.then(result => {
-        expect(result).to.eql([
-          { id: 0, label: 'first' },
-          { id: 1, label: 'second' },
-        ]);
-      });
-    });
-
-    it('should return an empty array if unsuccesful', () => {
-      global.fetch.resolves({ ok: false });
-      // Doesn't matter what we call this with since our stub will always return the same thing
-      const requestPromise = queryForFacilities('asdf');
-      return requestPromise.then(result => {
-        // This .then() fires after the apiRequest failure callback returns []
-        expect(result).to.eql([]);
-      });
-    });
-  });
-
-  describe('hasGuardOrReservePeriod', () => {
-    it('should return true when reserve period present', () => {
-      const formData = {
-        servicePeriods: [{
-          serviceBranch: 'Air Force Reserve',
-          dateRange: {
-            to: '2011-05-06',
-            from: '2015-05-06'
-          }
-        }]
-      };
-
-      expect(hasGuardOrReservePeriod(formData)).to.be.true;
-    });
-
-    it('should return true when national guard period present', () => {
-      const formData = {
-        servicePeriods: [{
-          serviceBranch: 'Air National Guard',
-          dateRange: {
-            to: '2011-05-06',
-            from: '2015-05-06'
-          }
-        }]
-      };
-
-      expect(hasGuardOrReservePeriod(formData)).to.be.true;
-    });
-
-    it('should return false when no reserves or guard period present', () => {
-      const formData = {
-        servicePeriods: [{
-          serviceBranch: 'Air Force',
-          dateRange: {
-            from: '2011-05-06',
-            to: '2015-05-06'
-          }
-        }]
-      };
-
-      expect(hasGuardOrReservePeriod(formData)).to.be.false;
-    });
-
-    it('should return false when no service history present', () => {
-      const formData = {};
-
-      expect(hasGuardOrReservePeriod(formData)).to.be.false;
-    });
-  });
-
-  describe('reservesGuardDescription', () => {
-    it('should pick the most recent service branch', () => {
-      const form = {
-        formData: {
-          servicePeriods: [{
-            serviceBranch: 'Air Force',
-            dateRange: {
-              from: '2010-05-08',
-              to: '2018-10-08',
-            }
-          },
-          {
-            serviceBranch: 'Air Force Reserve',
-            dateRange: {
-              from: '2000-05-08',
-              to: '2011-10-08',
-            }
-          },
-          {
-            serviceBranch: 'Marine Corps Reserve',
-            dateRange: {
-              from: '2000-05-08',
-              to: '2018-10-08',
-            }
-          }]
-        }
-      };
-
-      const renderedText = shallow(ReservesGuardDescription(form)).render().text();
-      expect(renderedText).to.contain('Marine Corps Reserve');
-    });
-
-    it('should return null when no service periods present', () => {
-      const form = {
-        formData: {}
-      };
-
-      expect(ReservesGuardDescription(form)).to.equal(null);
-    });
-  });
-
-  describe('isInFuture', () => {
-    it('adds an error when entered date is today or earlier', () => {
-      const addError = sinon.spy();
-      const errors = { addError };
-      const fieldData = '2018-04-12';
-
-      isInFuture(errors, fieldData);
-      expect(addError.calledOnce).to.be.true;
-    });
-
-    it('does not add an error when the entered date is in the future', () => {
-      const addError = sinon.spy();
-      const errors = { addError };
-      const fieldData = '2099-04-12';
-
-      isInFuture(errors, fieldData);
-      expect(addError.callCount).to.equal(0);
     });
   });
 

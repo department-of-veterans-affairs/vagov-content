@@ -65,13 +65,16 @@ class ProfileView extends React.Component {
     if (user.profile.verified) {
       if (user.profile.status === 'OK') {
         content = (
-          <DowntimeNotification appTitle={appTitle} render={this.handleDowntime} dependencies={[externalServices.emis, externalServices.evss, externalServices.mvi]}>
+          <DowntimeNotification appTitle={appTitle} render={this.handleDowntime} dependencies={[externalServices.emis, externalServices.vet360, externalServices.mvi]}>
             <div>
               <Vet360TransactionReporter/>
               <Hero fetchHero={fetchHero} hero={hero} militaryInformation={militaryInformation}/>
               <ContactInformation/>
               <PersonalInformation fetchPersonalInformation={fetchPersonalInformation} personalInformation={personalInformation}/>
-              <MilitaryInformation fetchMilitaryInformation={fetchMilitaryInformation} militaryInformation={militaryInformation}/>
+              <MilitaryInformation
+                veteranStatus={user.profile.veteranStatus}
+                fetchMilitaryInformation={fetchMilitaryInformation}
+                militaryInformation={militaryInformation}/>
             </div>
           </DowntimeNotification>
         );
