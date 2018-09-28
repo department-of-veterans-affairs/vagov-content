@@ -14,7 +14,7 @@ const permalinks = require('metalsmith-permalinks');
 const sitemap = require('metalsmith-sitemap');
 const watch = require('metalsmith-watch');
 
-const webpackMetalsmithConnect = require('../config/webpack-metalsmith-connect');
+const webpackMetalsmithConnect = require('../vagov-apps/config/webpack-metalsmith-connect');
 const environments = require('./constants/environments');
 const createBuildSettings = require('./create-build-settings');
 const createRedirects = require('./create-redirects');
