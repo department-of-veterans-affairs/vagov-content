@@ -14,6 +14,41 @@ import preneedManifest from '../../pre-need/manifest.json';
 import pensionManifest from '../../pensions/manifest.json';
 import disability526Manifest from '../../disability-benefits/526EZ/manifest.json';
 
+import hcaConfig from '../../hca/config/form.js';
+import dependentStatusConfig from '../../disability-benefits/686/config/form';
+import feedbackConfig from '../../edu-benefits/feedback-tool/config/form.js';
+import burialsConfig from '../../burials/config/form.js';
+import edu1990Config from '../../edu-benefits/1990/config/form.js';
+import edu1995Config from '../../edu-benefits/1995/config/form.js';
+import edu1990eConfig from '../../edu-benefits/1990e/config/form.js';
+import edu1990nConfig from '../../edu-benefits/1990n/config/form.js';
+import edu5490Config from '../../edu-benefits/5490/config/form.js';
+import edu5495Config from '../../edu-benefits/5495/config/form.js';
+import edu0993Config from '../../edu-benefits/0993/config/form.js';
+import preneedConfig from '../../pre-need/config/form.jsx';
+import pensionConfig from '../../pensions/config/form.js';
+import vicV2Config from '../../vic-v2/config/form';
+import disability526Config from '../../disability-benefits/526EZ/config/form.js';
+
+export const formConfigs = {
+  '1010ez': hcaConfig,
+  '21-526EZ': disability526Config,
+  '21-686C': dependentStatusConfig,
+  '21P-527EZ': pensionConfig,
+  '21P-530': burialsConfig,
+  '22-0993': edu0993Config,
+  '22-1990': edu1990Config,
+  '22-1990E': edu1990eConfig,
+  '22-1990N': edu1990nConfig,
+  '22-1995': edu1995Config,
+  '22-5490': edu5490Config,
+  '22-5495': edu5495Config,
+  '40-10007': preneedConfig,
+  VIC: vicV2Config,
+  'complaint-tool': feedbackConfig,
+  'FEEDBACK-TOOL': feedbackConfig,
+};
+
 export const formBenefits = {
   '21-526EZ': 'increased disability compensation',
   '21P-527EZ': 'Veterans pension benefits',
@@ -28,8 +63,9 @@ export const formBenefits = {
   '22-5495': 'education benefits',
   '40-10007': 'pre-need determination of eligibility in a VA national cemetery',
   VIC: 'Veteran ID Card',
+  'complaint-tool': 'feedback',
   'FEEDBACK-TOOL': 'feedback',
-  '21-686C': 'dependent status'
+  '21-686C': 'dependent status',
 };
 
 export const formTitles = Object.keys(formBenefits).reduce((titles, key) => {
@@ -38,7 +74,7 @@ export const formTitles = Object.keys(formBenefits).reduce((titles, key) => {
     formNumber = '';
   } else if (key === '1010ez') {
     formNumber = ' (10-10EZ)';
-  } else if (key === 'FEEDBACK-TOOL') {
+  } else if (key === 'FEEDBACK-TOOL' || key === 'complaint-tool') {
     formNumber = ' (GI Bill School Feedback Tool)';
   } else {
     formNumber = ` (${key})`;
@@ -63,8 +99,9 @@ export const formLinks = {
   '40-10007': `${preneedManifest.rootUrl}/`,
   // Not active, will need a new url if we start using this post WBC
   VIC: '/veteran-id-card/apply/',
+  'complaint-tool': `${feedbackManifest.rootUrl}/`,
   'FEEDBACK-TOOL': `${feedbackManifest.rootUrl}/`,
-  '21-686C': `${dependentStatusManifest.rootUrl}/`
+  '21-686C': `${dependentStatusManifest.rootUrl}/`,
 };
 
 export const trackingPrefixes = {
@@ -81,8 +118,9 @@ export const trackingPrefixes = {
   '22-5495': 'edu-5495-',
   '40-10007': 'preneed-',
   VIC: 'veteran-id-card-',
+  'complaint-tool': 'gi_bill_feedback',
   'FEEDBACK-TOOL': 'gi_bill_feedback',
-  '21-686C': '686-'
+  '21-686C': '686-',
 };
 
 export const sipEnabledForms = new Set([
@@ -100,9 +138,9 @@ export const sipEnabledForms = new Set([
   '22-5495',
   '40-10007',
   'VIC',
-  'FEEDBACK-TOOL'
+  'complaint-tool',
+  'FEEDBACK-TOOL',
 ]);
-
 
 export function isSIPEnabledForm(savedForm) {
   const formNumber = savedForm.form;
@@ -111,7 +149,16 @@ export function isSIPEnabledForm(savedForm) {
     return false;
   }
   if (!sipEnabledForms.has(formNumber)) {
-    throw new Error(`Could not find form ${trackingPrefixes[formNumber]} in list of sipEnabledForms`);
+    throw new Error(
+      `Could not find form ${
+        trackingPrefixes[formNumber]
+      } in list of sipEnabledForms`,
+    );
   }
   return true;
 }
+
+export const isFormAuthorizable = formConfig => !!formConfig.authorize;
+
+export const getFormAuthorizationState = (formConfig, state) =>
+  formConfig.getAuthorizationState(state);

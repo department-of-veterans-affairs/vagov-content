@@ -15,11 +15,32 @@
 }
 
 header.merger {
+  z-index: 300;
+
   .va-crisis-line {
     top: 20px;
+
+    button.va-crisis-line-button {
+      background-image: none;
+    }
   }
 }
 
 footer.footer {
   font-size: 16px;
+  width: 100%;
+}
+
+.sign-in-nav {
+  .sign-in-links {
+    color: $color-white;
+  }
+}
+
+#login-root {
+  z-index: 999;
+}
+
+#vetnav {
+  z-index: 299;
 }

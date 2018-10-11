@@ -39,10 +39,11 @@ function applyDefaultOptions(options) {
     contentRoot: '../content',
     destination: path.resolve(__dirname, `../build/${options.buildtype}`),
     assets: {
-      source: '../assets', destination: './'
+      source: '../assets',
+      destination: './',
     },
     collections: require('./collections/default.json'),
-    redirects: []
+    redirects: [],
   });
 
   if (options.buildtype === undefined) {
@@ -65,12 +66,21 @@ function applyEnvironmentOverrides(options) {
   switch (options.buildtype) {
     case environments.DEVELOPMENT:
     case environments.STAGING:
+      options.move = [{ source: 'vets-robots.txt', target: 'robots.txt' }];
+      options.remove = ['va-robots.txt'];
       break;
 
     case environments.PRODUCTION:
+      options.move = [{ source: 'vets-robots.txt', target: 'robots.txt' }];
+      options.remove = ['va-robots.txt'];
+
       if (options['no-sanity-check-node-env'] === false) {
         if (env !== 'prod') {
-          throw new Error(`buildtype ${options.buildtype} expects NODE_ENV to be production, not '${process.env.NODE_ENV}'`);
+          throw new Error(
+            `buildtype ${
+              options.buildtype
+            } expects NODE_ENV to be production, not '${process.env.NODE_ENV}'`,
+          );
         }
       }
       break;
@@ -78,6 +88,9 @@ function applyEnvironmentOverrides(options) {
     case environments.VAGOVDEV:
     case environments.VAGOVSTAGING:
     case environments.PREVIEW:
+      options.move = [{ source: 'va-robots.txt', target: 'robots.txt' }];
+      options.remove = ['vets-robots.txt'];
+
       options['brand-consolidation-enabled'] = true;
       break;
 
@@ -87,10 +100,25 @@ function applyEnvironmentOverrides(options) {
 }
 
 function applyBrandConsolidationOverrides(options) {
+  let currentEnv = 'dev';
+  if (options.buildtype.includes(environments.STAGING)) {
+    currentEnv = 'staging';
+  }
+
+  if (options.buildtype === environments.PREVIEW) {
+    currentEnv = 'preview';
+  }
+
+  // This list also exists in stagingDomains.js
+  const domainReplacements = [
+    { from: 'www\\.va\\.gov', to: `${currentEnv}.va.gov` },
+  ];
+
   Object.assign(options, {
     contentRoot: '../va-gov',
     collections: require('./collections/brand-consolidation.json'),
-    redirects: require('./vagovRedirects.json')
+    redirects: require('./vagovRedirects.json'),
+    domainReplacements,
   });
 }
 
