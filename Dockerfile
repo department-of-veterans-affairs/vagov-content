@@ -16,7 +16,12 @@ RUN apt-get update && apt-get install -y netcat \
   && npm install -g codeclimate-test-reporter \
   && chmod +x /usr/local/lib/node_modules/yarn/bin/yarn.js
 
-RUN mkdir -p /application
+RUN git clone --depth 1 -b master https://github.com/department-of-veterans-affairs/vets-website /application
+
+# Install the latest version of vets-website
+RUN cd /application \
+  && LATEST_VERSION=$(git describe --tags) \
+  && git checkout ${LATEST_VERSION}
 
 WORKDIR /application
 

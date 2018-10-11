@@ -87,7 +87,12 @@ node('vetsgov-general-purpose') {
 
   stage('Setup') {
     try {
-      checkout scm
+
+      // Install the source into a sibling directory to /application, which contains the
+      // build script that Docker will execute from here.
+      dir("${pwd()}:/vagov-content") {
+        checkout scm
+      }
 
       ref = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
 
