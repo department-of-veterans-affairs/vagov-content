@@ -7,7 +7,7 @@ description: VA health care offers access to primary and specialty care, includi
 concurrence:
 lastupdate:
 order: 1
-icon: medkit
+icon: icon-large white fa fa-medkit hub-background-health-care
 promo:
   - image: /img/megamenu/health-care-illustration.png
     heading: VA Telehealth Services
@@ -46,7 +46,7 @@ social:
         - url: tel:1-877-327-0022
           number: 1-877-327-0022
           title: "My HealtheVet Help Desk:"
-        - url: tel:1-877-4AID-VET (1-877-424-3838)
+        - url: tel:18774243838
           number: 1-877-4AID-VET (1-877-424-3838)
           title: "National Call Center for Homeless Veterans:"
       - subhead: Get Updates
@@ -168,12 +168,12 @@ Whatever you’re struggling with—homelessness, chronic pain, anxiety, depress
 
   <div class="link">
     <a href="/health-care/secure-messaging/"><b>Use VA Secure Messaging</b></a>
-    <p>Communicate privately with your VA health care team through secure messaging.</p>
+    <p>Communicate privately with your VA health care team through Secure Messaging.</p>
   </div>
 
   <div class="link">
     <a href="/health-care/schedule-view-va-appointments/"><b>Schedule and View Your VA Appointments</b></a>
-    <p>Find out how to schedule an appointment by phone, online, or through secure messaging.</p>
+    <p>Find out how to schedule an appointment by phone, online, or through Secure Messaging.</p>
   </div>
 
   <div class="link">
@@ -202,7 +202,7 @@ Whatever you’re struggling with—homelessness, chronic pain, anxiety, depress
   </div>
 
  <div class="link">
-    <a href="/track-claims"><b>Check Your Appeal Status</b></a>
+    <a href="/claim-or-appeal-status/"><b>Check Your Appeal Status</b></a>
     <p>Track the status of an open VA health care appeal.</p>
   </div>
 
