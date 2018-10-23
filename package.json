@@ -2,6 +2,10 @@
   "name": "vagov-content",
   "version": "0.0.1",
   "description": "Content files for VA.gov",
+  "engines": {
+    "node": "8.10.0",
+    "yarn": "1.5.1"
+  },
   "scripts": {
     "install": "cd ../vagov-apps && yarn install",
     "start": "cd ../vagov-apps && npm run build"
