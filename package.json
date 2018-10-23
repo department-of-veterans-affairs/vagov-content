@@ -7,7 +7,6 @@
     "yarn": "1.5.1"
   },
   "scripts": {
-    "install": "cd ../vagov-apps && yarn install",
-    "start": "cd ../vagov-apps && npm run build"
+
   }
 }

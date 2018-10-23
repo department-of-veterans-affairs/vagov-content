@@ -1,7 +1,9 @@
 {
   "name": "vagov-content",
   "scripts": {
-    "heroku-prebuild": "git clone --single-branch interim-cms --depth 1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps"
+    "heroku-prebuild": "git clone --single-branch interim-cms --depth 1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
+    "install": "cd ../vagov-apps && yarn install",
+    "heroku-postbuild": "cd ../vagov-apps && npm run heroku-postbuild"
   },
   "env": {
   },
