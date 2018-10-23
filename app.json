@@ -5,7 +5,6 @@
   },
   "env": {
     "INSTALL_HOOKS": "no",
-    "CHECK_BROKEN_LINKS": "no"
   },
   "formation": {
   },

@@ -1,1 +1,1 @@
-web: cd ../vagov-apps && npm run heroku-serve -- build/heroku -p $PORT
+web: npm run heroku-serve -- __build__ -p $PORT

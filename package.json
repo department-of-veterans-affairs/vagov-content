@@ -7,6 +7,10 @@
     "yarn": "1.5.1"
   },
   "scripts": {
-    "heroku-postbuild": "sh __scripts__/create-review-instance.sh"
+    "heroku-postbuild": "sh __scripts__/create-review-instance.sh",
+    "heroku-serve": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
   }
 }
