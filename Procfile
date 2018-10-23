@@ -1,1 +1,1 @@
-web: npm run heroku-serve -- build/heroku -p $PORT
+web: cd ../vets-website && npm run heroku-serve -- build/heroku -p $PORT
