@@ -6,4 +6,4 @@ cd ../vagov-apps
 yarn install --production=false
 npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}
 
-mv build/heroku ../${vagov_content_dir}/site
+mv build/heroku ../${vagov_content_dir}/__build__
