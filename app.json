@@ -1,9 +1,6 @@
 {
   "name": "vagov-content",
   "scripts": {
-    "preinstall": "git clone --single-branch interim-cms --depth 1 https://github.com/department-of-veterans-affairs/vets-website ../vets-website",
-    "install": "cd ../vets-website && yarn install",
-    "start": "cd ../vets-website && npm run build"
   },
   "env": {
   },
