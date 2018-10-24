@@ -4,10 +4,19 @@ title: Types of Veteran ID Cards
 display_title: Types of Veteran ID Cards
 description: Learn about the different types of ID cards available to Veterans and how to apply for them.
 concurrence: Incomplete
+<<<<<<< HEAD
 plainlanguage:
 template: detail-page
 order:
 collection: types-of-veteran-ID-cards
+=======
+order: 3
+spoke: Get Records
+plainlanguage:
+template: detail-page
+collection: records
+children: veteranIdCards
+>>>>>>> vets-website/master
 production: false
 relatedlinks:
  - heading:

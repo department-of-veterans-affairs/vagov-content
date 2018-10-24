@@ -23,11 +23,19 @@ We invite you to use our new beta tool—an online application for increased dis
 
 ### What’s a beta tool?
 
+<<<<<<< HEAD
 A beta tool is a new tool we’re testing to make sure it works the way it should before we give all Vets.gov users access to it. Your feedback will help us make the tool better for all Veterans.
 
 ### What will happen when I try the new tool?
 
 When you agree to test out the new tool, you’ll use our online application to file a claim for increased disability compensation. You’ll have the same access to all the other Vets.gov tools and information as you have right now.
+=======
+A beta tool is a new tool we’re testing to make sure it works the way it should before we give all VA.gov users access to it. Your feedback will help us make the tool better for all Veterans.
+
+### What will happen when I try the new tool?
+
+When you agree to test out the new tool, you’ll use our online application to file a claim for increased disability compensation. You’ll have the same access to all the other VA.gov tools and information as you have right now.
+>>>>>>> vets-website/master
 
 You’ll need to be signed in to your verified DS Logon or My HealtheVet account. If you don’t have one of these accounts, you can create an ID.me account to complete the verification process.
 
