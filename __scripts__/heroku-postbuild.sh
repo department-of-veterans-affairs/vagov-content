@@ -1,7 +1,7 @@
 export CHECK_BROKEN_LINKS="no"
 
 vagov_content_dir=${PWD}
-vagov_apps_dir = ${vagov_content_dir}/.vagov-apps
+vagov_apps_dir=${vagov_content_dir}/.vagov-apps
 
 echo vagov-content located at ${vagov_content_dir}
 echo Installing vagov-apps into ${vagov_apps_dir}
@@ -10,13 +10,13 @@ echo Installing vagov-apps into ${vagov_apps_dir}
 git clone --branch interim-cms --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
 
 # cd into the newly-cloned repo
-# cd ${vagov_apps_dir}
+cd ${vagov_apps_dir}
 
 # # Install all dependencies, including devDependencies
-# yarn install --production=false
+yarn install --production=false
 
 # # Execute the build script
-# npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}
+npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}
 
 
 # ls
@@ -29,8 +29,5 @@ git clone --branch interim-cms --depth=1 https://github.com/department-of-vetera
 # ls
 
 # echo ${vagov_content_dir}/build
-
-# # Move the directory out of /tmp so the files persist
-# mv ${vagov_apps_dir}/build ${vagov_content_dir}/build
 
 # asd
