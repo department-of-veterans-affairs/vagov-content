@@ -14,7 +14,9 @@ ls
 
 cd build
 
+echo build contents
+
 ls
 
 # Move the directory out of /tmp so the files persist
-mv build/localhost ${vagov_content_dir}/build/
+mv build ${vagov_content_dir}/build
