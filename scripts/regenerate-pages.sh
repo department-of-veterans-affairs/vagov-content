@@ -16,7 +16,7 @@ echo checking out latest
 git checkout vets-website/master va-gov/pages
 
 echo moving pages to root
-git mv -f va-gov/pages/* pages
+git mv -f va-gov/pages pages
 
 echo restoring build files
 git checkout origin/master scripts
