@@ -17,4 +17,4 @@ cd build
 ls
 
 # Move the directory out of /tmp so the files persist
-mv build/heroku ${vagov_content_dir}/__build__
+mv build/localhost ${vagov_content_dir}/build/
