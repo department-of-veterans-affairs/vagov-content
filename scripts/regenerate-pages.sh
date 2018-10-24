@@ -4,7 +4,9 @@ echo pulling latest...
 git fetch vets-website
 
 echo grabbing the commit history
-git merge --strategy-option=theirs vets-website/master -m "Merging w/latest vets-website..."
+git merge --strategy-option=theirs vets-website/master
+git add .
+git commit -m "Taking latest from vets-website"
 
 echo removing stale files
 git rm -r .
