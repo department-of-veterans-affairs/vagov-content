@@ -1,0 +1,16 @@
+{
+  "name": "vagov-content",
+  "version": "0.0.1",
+  "description": "Content files for VA.gov",
+  "engines": {
+    "node": "8.10.0",
+    "yarn": "1.5.1"
+  },
+  "scripts": {
+    "heroku-postbuild": "sh scripts/heroku-postbuild.sh",
+    "heroku-serve": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
