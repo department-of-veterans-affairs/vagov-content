@@ -18,6 +18,8 @@ echo build contents
 
 ls
 
+echo ${vagov_content_dir}/build
+
 # Move the directory out of /tmp so the files persist
 mv build ${vagov_content_dir}/build
 
