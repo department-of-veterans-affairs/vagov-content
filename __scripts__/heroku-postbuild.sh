@@ -1,10 +1,15 @@
 export CHECK_BROKEN_LINKS="no"
 
-# Get the absolute path of the content directory
 vagov_content_dir=${PWD}
+vagov_apps_dir = ${vagov_content_dir}/.vagov-apps
 
-git clone --branch interim-cms --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps
-cd ../vagov-apps
+# Install into a subdirectory, so that we're safe from tmp storage.
+git clone --branch interim-cms --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
+
+# CD into the newly-cloned repo
+cd ${vagov_apps_dir}
+
+# Install all dependencies, including devDependencies
 yarn install --production=false
 
 # Execute the build script
@@ -12,7 +17,7 @@ npm run build -- --entry static-pages,style --brand-consolidation-enabled --cont
 
 ls
 
-cd build
+cd ${vagov_apps_dir}/build
 
 echo build contents
 
@@ -21,6 +26,6 @@ ls
 echo ${vagov_content_dir}/build
 
 # Move the directory out of /tmp so the files persist
-mv build ${vagov_content_dir}/build
+mv ${vagov_apps_dir}/build ${vagov_content_dir}/build
 
 # asd
