@@ -16,7 +16,7 @@ cd ${vagov_apps_dir}
 yarn install --production=false
 
 # # Execute the build script
-npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages
+npm run build -- --entry static-pages --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages
 
 # Move into vagov_content so that the build folder is easily references by the Procfile
 mv ${vagov_apps_dir}/build ${vagov_content_dir}/build
