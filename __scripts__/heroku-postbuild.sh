@@ -28,7 +28,7 @@ npm run build -- --entry static-pages,style --brand-consolidation-enabled --cont
 
 # ls
 
-cd ${vagov_apps_dir}/build/localhost
+mv ${vagov_apps_dir}/build ${vagov_content_dir}/build
 
 ls
 
