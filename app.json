@@ -1,10 +1,8 @@
 {
   "name": "vagov-content",
   "scripts": {
-
   },
   "env": {
-    "INSTALL_HOOKS": "no"
   },
   "formation": {
   },
@@ -12,8 +10,6 @@
 
   ],
   "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
-    }
+
   ]
 }
