@@ -5,11 +5,7 @@ title: VA Pension Benefits
 display_title: Pension
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-money hub-background-pension
-=======
 hub: pension
->>>>>>> vets-website/master
 promo:
   - image: /img/megamenu/pension-illustration.png
     heading: Get Your Pension Payments Electronically

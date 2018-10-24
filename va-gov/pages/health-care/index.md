@@ -7,11 +7,7 @@ description: VA health care offers access to primary and specialty care, includi
 concurrence:
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-medkit hub-background-health-care
-=======
 hub: health-care
->>>>>>> vets-website/master
 promo:
   - image: /img/megamenu/health-care-illustration.png
     heading: VA Telehealth Services

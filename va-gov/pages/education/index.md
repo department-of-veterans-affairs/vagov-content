@@ -6,11 +6,7 @@ display_title: Education and Training
 concurrence: complete
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-book hub-background-education
-=======
 hub: education
->>>>>>> vets-website/master
 promo:
   - image: /img/megamenu/education-training-illustration.png
     heading: GI Bill School Feedback Tool

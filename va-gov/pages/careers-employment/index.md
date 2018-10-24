@@ -6,11 +6,7 @@ display_title: Careers and Employment
 concurrence: complete
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-briefcase hub-background-careers
-=======
 hub: careers
->>>>>>> vets-website/master
 aliases:
   - /employment/
 promo:

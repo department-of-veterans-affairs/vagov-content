@@ -6,11 +6,7 @@ display_title: Life Insurance
 concurrence: complete
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-users hub-background-life-insurance
-=======
 hub: life-insurance
->>>>>>> vets-website/master
 promo:
   - image: /img/megamenu/life-insurance-illustration.png
     alt:

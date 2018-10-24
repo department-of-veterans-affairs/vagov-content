@@ -6,11 +6,7 @@ display_title: Disability
 description: Find out if you're eligible for VA disability pay (compensation) for a service-connected disability. Learn about VA disability benefits, ratings, which conditions qualify, how to apply, and what to expect after you apply for Veterans disability.
 concurrence: complete
 lastupdate:
-<<<<<<< HEAD
-icon: icon-large white fa fa-handshake-o hub-background-disability
-=======
 hub: disability
->>>>>>> vets-website/master
 aliases:
   - /disability-benefits/
 promo:
@@ -140,11 +136,7 @@ VA disability compensation (pay) offers a monthly tax-free payment to Veterans w
   </div>
 
   <div class="link">
-<<<<<<< HEAD
-    <a href="#todo-brand-consolidation"><b>Add or Remove a Dependent</b></a>
-=======
     <a href="/disability/add-remove-dependent/"><b>Add or Remove a Dependent</b></a>
->>>>>>> vets-website/master
     <p>Find out how and when to add a dependent spouse, child, or parent to your VA disability benefits. Also learn how to remove a dependent from your benefits.</p>
   </div>
 

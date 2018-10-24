@@ -73,8 +73,6 @@ Depending on the type of claim you file, you may gather supporting documents you
 </div>
 
 
-<<<<<<< HEAD
-=======
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
 <h3 itemprop="name">How do I file?</h3>
@@ -87,7 +85,6 @@ You can file your claim right now.
 </div>
 </div>
 
->>>>>>> vets-website/master
 <div id="react-applicationStatus"></div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">

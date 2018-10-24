@@ -6,11 +6,7 @@ display_title: Records
 concurrence: complete
 lastupdate:
 order: 1
-<<<<<<< HEAD
-icon: icon-large white fa fa-id-card hub-background-records
-=======
 hub: records
->>>>>>> vets-website/master
 promo:
   - image: /img/megamenu/records-illustration.png
     heading: Confirm Your VA Benefit Status
