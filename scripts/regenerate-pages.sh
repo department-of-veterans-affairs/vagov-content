@@ -4,9 +4,7 @@ echo pulling latest...
 git fetch vets-website
 
 echo grabbing the commit history
-git merge --strategy-option=theirs vets-website/master
-git add .
-git commit -m "Merging w/latest vets-website..."
+git merge --strategy-option=theirs vets-website/master -m "Merging w/latest vets-website..."
 
 echo removing stale files
 git rm -r .
@@ -16,7 +14,7 @@ echo checking out latest
 git checkout vets-website/master va-gov/pages
 
 echo moving pages to root
-git mv -f va-gov/pages pages
+git mv -f va-gov/pages/* pages
 
 echo restoring build files
 git checkout origin/master scripts
