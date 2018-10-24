@@ -16,7 +16,7 @@ cd ${vagov_apps_dir}
 yarn install --production=false
 
 # # Execute the build script
-npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}
+npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages
 
 
 # ls
