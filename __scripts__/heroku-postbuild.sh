@@ -28,6 +28,8 @@ npm run build -- --entry static-pages,style --brand-consolidation-enabled --cont
 
 # ls
 
-# echo ${vagov_content_dir}/build
+cd ${vagov_apps_dir}/build/localhost
+
+ls
 
 # asd
