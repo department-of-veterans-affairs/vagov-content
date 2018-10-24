@@ -18,18 +18,6 @@ yarn install --production=false
 # # Execute the build script
 npm run build -- --entry static-pages,style --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages
 
-
-# ls
-
-# #
-# cd ${vagov_apps_dir}/build
-
-# PWD
-
-# ls
-
+# Move into vagov_content so that the build folder is easily references by the Procfile
 mv ${vagov_apps_dir}/build ${vagov_content_dir}/build
 
-ls
-
-# asd
