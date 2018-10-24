@@ -1,7 +1,7 @@
 export CHECK_BROKEN_LINKS="no"
 
 vagov_content_dir=${PWD}
-vagov_apps_dir=${vagov_content_dir}/.vagov-apps
+vagov_apps_dir=${vagov_content_dir}/../vagov-apps
 
 echo vagov-content located at ${vagov_content_dir}
 echo Installing vagov-apps into ${vagov_apps_dir}
