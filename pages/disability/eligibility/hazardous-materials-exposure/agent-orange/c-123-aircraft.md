@@ -1,7 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure from C-123 Aircraft
-display_title: C-123 Aircraft
+title: C-123 Aircraft
 template: detail-page
 order: 4
 aliases:
