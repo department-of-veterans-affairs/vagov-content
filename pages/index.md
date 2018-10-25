@@ -1,10 +1,16 @@
 ---
+test: this is a test
 layout: home.html
 body_class: home
 title: Home
 plainlanguage:
 enablewarning: false
 description: Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
+banner:
+  visible: yes
+  type: warning
+  title: Some VA.gov tools and features may not be working as expected
+  content: 'We’re sorry. We’re working to fix some problems with DS Logon right now. Please check back later or call MyVA311 for help: <a href="tel:18446982311">1-844-698-2311</a>. If you have hearing loss, call TTY: 711.'
 heading: Access and manage your VA benefits and health care
 cards:
   - heading: Health Care
@@ -135,8 +141,7 @@ news:
     title: VA Rapid Appeals
     href: https://www.blogs.va.gov/VAntage/48141/vas-rapid-appeals-modernization-program-ramp-now-open-appeals/
     description: Find out how to get a faster decision on a pending disability compensation appeal through the VA Rapid Appeals Modernization Program (RAMP).
-
-
 ---
-
-this is deliberately empty. leave it that way.
+{% comment %}
+  The homepage has its own layout that is configurable via the settings above. Any content outside of that won't be processed.
+{% endcomment %}
