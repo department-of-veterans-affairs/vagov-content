@@ -7,7 +7,7 @@ echo vagov-content located at ${vagov_content_dir}
 echo Installing vagov-apps into ${vagov_apps_dir}
 
 # Install into a subdirectory, so that we're safe from tmp storage.
-git clone --branch interim-cms --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
+git clone --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
 
 # cd into the newly-cloned repo
 cd ${vagov_apps_dir}
