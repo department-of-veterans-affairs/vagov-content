@@ -43,7 +43,7 @@ aliases:
                           <li>With your existing <strong>DS Logon</strong> account, <strong>or</strong></li>
                           <li>By creating an account through ID.me (a trusted partner)</li>
                         </ul>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
                       </div>
                     </div>
@@ -58,9 +58,9 @@ aliases:
                     <div id="faq-verify-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <h4>Fastest way to verify your identity online</h4>
-                        <p>If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can use your existing account to sign in. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
+                        <p>If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can use your existing account to sign in. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
-                        <h4>How to verify your identity online if you don’t have an existing premium account</h4>
+                        <h4>How to verify your identity online if you don’t have an existing Premium account</h4>
                         <p>If you don’t have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, we’ll help you verify your identity using ID.me—a trusted partner that provides the strongest identity verification system available to prevent fraud and identity theft.</p>
                         <p><strong>To go through the ID.me identity-proofing process, you’ll need:</strong></p>
                         <ul>
@@ -101,7 +101,7 @@ aliases:
                             <a href="/facilities/">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
-                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm that you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and your original paper copy will be shredded to protect your privacy.</p>
+                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm that you’re eligible for a Premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and your original paper copy will be shredded to protect your privacy.</p>
                         <p><strong>Note:</strong> When you open or download a PDF file, you create a temporary file on your computer. Other people may be able to see this file—and any personal health information you fill in—especially if you’re using a public or shared computer.</p>
                       </div>
                     </div>
@@ -132,7 +132,7 @@ aliases:
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-trouble-0" itemprop="name">If I can’t or don’t want to verify my identity through ID.me, what are my other options? </button>
                     <div id="faq-trouble-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>You can use a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account to sign in to VA.gov with a verified account. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again on VA.gov.</p>
+                        <p>You can use a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account to sign in to VA.gov with a verified account. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again on VA.gov.</p>
                         <h4>How to get a Premium DS Logon account</h4>
                         <p>Follow these 2 steps to sign up for a Premium <strong>DS Logon</strong> account.</p>
                         <p><strong>1. First, make sure you’re enrolled in the Defense Enrollment Eligibility Reporting System (DEERS).</strong> This is the database that records all the people who are eligible for military benefits.</p>
@@ -144,24 +144,24 @@ aliases:
                         <p>Go to the DS Logon self-service website and click on the <strong>More DS Logon Options</strong> button. From the choices that appear, select <strong>Need a DS Logon?</strong></p>
                         <p><strong>You’ll be asked to choose how you want to register:</strong></p>
                         <ul>
-                          <li><strong>If you have a Common Access Card (CAC) with accessible card reader,</strong> select this option. It’s the easiest way to get a DS Logon account and upgrade to a premium account right away.</li>
-                          <li><strong>If you have a Defense Finance and Account Service (DFAS) myPay account,</strong> you can select this option. You’ll be able to upgrade to a premium account right away.</li>
+                          <li><strong>If you have a Common Access Card (CAC) with accessible card reader,</strong> select this option. It’s the easiest way to get a DS Logon account and upgrade to a Premium account right away.</li>
+                          <li><strong>If you have a Defense Finance and Account Service (DFAS) myPay account,</strong> you can select this option. You’ll be able to upgrade to a Premium account right away.</li>
                           <li><strong>If you don’t have a CAC or DFAS myPay account,</strong> select the <strong>None of the above conditions apply</strong> option.</li>
                         </ul>
-                           <p>The registration tool will walk you through the sign-up process for your account and will prompt you to upgrade to a premium account through an online proofing process. Through this process, you’ll be asked a series of questions to prove you’re you—and not someone pretending to be you—to help protect the personal information you’ll have access to with a premium account.</p>
+                           <p>The registration tool will walk you through the sign-up process for your account and will prompt you to upgrade to a Premium account through an online proofing process. Through this process, you’ll be asked a series of questions to prove you’re you—and not someone pretending to be you—to help protect the personal information you’ll have access to with a Premium account.</p>
                            <p><a href="https://myaccess.dmdc.osd.mil/">Go to the DS Logon self-service website</a>.</p>
                         <p><strong>Note:</strong> If you’d rather verify your identity and upgrade to a Premium <strong>DS Logon</strong> account in person or by phone, read the instructions in the section above on verifying your identity.</p>
                         <h4>How to get a Premium My HealtheVet account if you’re a VA patient</h4>
                         <p>Follow these 2 steps to sign up for a Premium <strong>My HealtheVet</strong> account.</p>
-                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an advanced account, and then you can upgrade to a premium account.</p>
+                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an advanced account, and then you can upgrade to a Premium account.</p>
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/user-registration/">Sign up for a My HealtheVet account</a>.</p>
                         <p><strong>Note:</strong> If you have a Premium <strong>DS Logon</strong> or ID.me account, you can skip step 1 above, and go right to step 2 to sign in to <strong>My HealtheVet</strong> with either of these accounts.
-                        <p><strong>2. Then, upgrade to a premium account.</strong></p>
+                        <p><strong>2. Then, upgrade to a Premium account.</strong></p>
                         <p>You can do this in 1 of 2 ways.</p>
                         <h5>Upgrade your account using your Premium <strong>DS Logon</strong> or ID.me user ID and password</h5>
-                        <p>To do this, sign in to <strong>My HealtheVet</strong> using your premium <strong>DS Logon</strong> or ID.me user ID and password.</p>
+                        <p>To do this, sign in to <strong>My HealtheVet</strong> using your Premium <strong>DS Logon</strong> or ID.me user ID and password.</p>
                         <p>Once signed in, select the <strong>Upgrade Now</strong> button at the top left side of the screen. Then, on the account upgrade page, check the box certifying that you’re the owner of the account and approve the request, and click <strong>Continue</strong>.</p>
-                        <p>The system will upgrade you to a premium account.</p>
+                        <p>The system will upgrade you to a Premium account.</p>
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/user-login?redirect=/mhv-portal-web/user-registration/user-login">Sign in to to My HealtheVet</a>.
                         <h5>Upgrade your account in person at a VA health facility</h5>
                         <p><strong>You’ll need to have:</strong></p>
@@ -171,7 +171,7 @@ aliases:
                             <a href="/facilities/">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
-                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and the original paper copy will be shredded to protect your privacy.</p>
+                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm you’re eligible for a Premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and the original paper copy will be shredded to protect your privacy.</p>
                         <p><strong>Note:</strong> When you open or download a PDF file, you create a temporary file on your computer. Other people may be able to see this file—and any personal health information you fill in—especially if you’re using a public or shared computer.</p>
                      </div>
                     </div>
