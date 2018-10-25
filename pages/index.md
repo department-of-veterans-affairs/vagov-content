@@ -1,5 +1,4 @@
 ---
-test: this is a test
 layout: home.html
 body_class: home
 title: Home
