@@ -87,30 +87,21 @@ node('vetsgov-general-purpose') {
 
   stage('Setup') {
     try {
+      checkout scm
 
-      dir("vets-website") {
-        checkout scm
-      }
+      ref = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
 
-      // clone vagov-content
-      checkout changelog: false, poll: false, scm: [$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [[$class: 'CloneOption', noTags: true, reference: '', shallow: true], [$class: 'RelativeTargetDirectory', relativeTargetDir: 'vagov-content']], submoduleCfg: [], userRemoteConfigs: [[url: 'git@github.com:department-of-veterans-affairs/vagov-content.git']]]
+      sh "mkdir -p build"
+      sh "mkdir -p logs/selenium"
+      sh "mkdir -p coverage"
 
-      args = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
+      imageTag = java.net.URLDecoder.decode(env.BUILD_TAG).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
 
-      dir("vets-website") {
-        ref = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
-  
-        sh "mkdir -p build"
-        sh "mkdir -p logs/selenium"
-        sh "mkdir -p coverage"
-  
-        imageTag = java.net.URLDecoder.decode(env.BUILD_TAG).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-  
-        dockerImage = docker.build("vets-website:${imageTag}")
-        retry(5) {
-          dockerImage.inside(args) {
-            sh "cd /application && yarn install --production=false"
-          }
+      dockerImage = docker.build("vets-website:${imageTag}")
+      args = "-v ${pwd()}:/application"
+      retry(5) {
+        dockerImage.inside(args) {
+          sh "cd /application && yarn install --production=false"
         }
       }
     } catch (error) {
@@ -148,9 +139,7 @@ node('vetsgov-general-purpose') {
       notify()
       throw error
     } finally {
-      dir("vets-website") {
-        step([$class: 'JUnitResultArchiver', testResults: 'test-results.xml'])
-      }
+      step([$class: 'JUnitResultArchiver', testResults: 'test-results.xml'])
     }
   }
 
@@ -188,27 +177,27 @@ node('vetsgov-general-purpose') {
   // Run E2E and accessibility tests
   stage('Integration') {
     if (shouldBail()) { return }
-    dir("vets-website") {
-      try {
-        parallel (
-          e2e: {
-            sh "export IMAGE_TAG=${imageTag} && docker-compose -p e2e up -d && docker-compose -p e2e run --rm --entrypoint=npm -e BABEL_ENV=test -e BUILDTYPE=production vets-website --no-color run nightwatch:docker"
-          },
 
-          accessibility: {
-            sh "export IMAGE_TAG=${imageTag} && docker-compose -p accessibility up -d && docker-compose -p accessibility run --rm --entrypoint=npm -e BABEL_ENV=test -e BUILDTYPE=production vets-website --no-color run nightwatch:docker -- --env=accessibility"
-          }
-        )
-      } catch (error) {
-        notify()
-        throw error
-      } finally {
-        sh "docker-compose -p e2e down --remove-orphans"
-        sh "docker-compose -p accessibility down --remove-orphans"
-        step([$class: 'JUnitResultArchiver', testResults: 'logs/nightwatch/**/*.xml'])
-      }
+    try {
+      parallel (
+        e2e: {
+          sh "export IMAGE_TAG=${imageTag} && docker-compose -p e2e up -d && docker-compose -p e2e run --rm --entrypoint=npm -e BABEL_ENV=test -e BUILDTYPE=production vets-website --no-color run nightwatch:docker"
+        },
+
+        accessibility: {
+          sh "export IMAGE_TAG=${imageTag} && docker-compose -p accessibility up -d && docker-compose -p accessibility run --rm --entrypoint=npm -e BABEL_ENV=test -e BUILDTYPE=production vets-website --no-color run nightwatch:docker -- --env=accessibility"
+        }
+      )
+    } catch (error) {
+      notify()
+      throw error
+    } finally {
+      sh "docker-compose -p e2e down --remove-orphans"
+      sh "docker-compose -p accessibility down --remove-orphans"
+      step([$class: 'JUnitResultArchiver', testResults: 'logs/nightwatch/**/*.xml'])
     }
   }
+
   stage('Archive') {
     if (shouldBail()) { return }
 
@@ -255,10 +244,8 @@ node('vetsgov-general-purpose') {
       if (!isDeployable()) {
         return
       }
-      dir("vets-website") {
-        script {
-          commit = sh(returnStdout: true, script: "git rev-parse HEAD").trim()
-        }
+      script {
+        commit = sh(returnStdout: true, script: "git rev-parse HEAD").trim()
       }
       if (env.BRANCH_NAME == devBranch) {
         build job: 'deploys/vets-website-dev', parameters: [
