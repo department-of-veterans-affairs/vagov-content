@@ -6,7 +6,7 @@ plainlanguage:
 enablewarning: false
 description: Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
 banner:
-  visible: false
+  visible: true
   type: warning
   title: Some VA.gov tools and features may not be working as expected
   content: 'We’re sorry. We’re working to fix some problems with DS Logon right now. Please check back later or call MyVA311 for help: <a href="tel:18446982311">1-844-698-2311</a>. If you have hearing loss, call TTY: 711.'
