@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Temporary Disability Benefits (Prestablization Rating)
+title: Immediate Help for Temporary Disability Needs (Prestabilization)
 display_title: Prestabilization Ratings
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-hospital_treatment.asp

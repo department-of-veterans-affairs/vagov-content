@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to File a VA Disability Claim
+title: How to Apply for Disability Benefits
 display_title: How to File a Claim
 description: Find out how to apply online for VA disability compensation, and what documents you'll need to start your application today.
 order: 2
@@ -64,6 +64,10 @@ For all disability claims, we'll review your:
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries
+- Supporting or lay statements from family, friends, or coworkers with knowledge of your claimed illness or injuries 
+
+**Please note:** You don’t have to submit evidence or supporting documents for your disability claim. If you don't submit any evidence, we may schedule a claim exam for you to help us decide your claim. You have up to 1 year from the date we receive your claim to turn in any evidence. 
+
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for VA's help to gather evidence. <br>
 [Find out how to gather evidence for your claim](https://www.vets.gov/disability-benefits/apply/evidence/).
@@ -102,6 +106,10 @@ Bring your application to a regional benefit office near you. <br>
 
 You can work with a trained professional called an accredited representative to get help applying for health care benefits. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
+
+<br>
+If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at 1-800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
+
 
 </div>
 </div>
