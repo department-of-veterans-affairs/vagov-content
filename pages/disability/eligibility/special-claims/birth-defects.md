@@ -72,15 +72,15 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 ### How do I get these benefits for my child?
 
-You’ll need to file a claim on behalf of your child and submit this evidence:
+You’ll need to file a claim for benefits for your child. When you file, you’ll have to show that your contact with certain chemicals while serving in the military likely caused your child’s birth defect. <br>
 
 - A document showing the biological relationship between the child and the Veteran parent, **and**
 - Service records that prove the Veteran served in Vietnam or Korea during the qualifying dates listed above, **and**
 - The child's birth certificate, **and**
 - Medical records with the diagnosis of spina bifida or another covered birth defect
 
-[File a claim for disability compensation](/disability/how-to-file-claim/). <br>
-[View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp).
+[Find out how to file a claim for disability compensation](/disability-benefits/apply/).</br>
+[View the current payment rates for birth defects](https://www.benefits.va.gov/compensation/sb2017.asp).
 
 ### Get more information
 
