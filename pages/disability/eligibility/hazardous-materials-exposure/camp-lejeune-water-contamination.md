@@ -52,13 +52,13 @@ You may be able to get disability benefits if you meet all of the requirements l
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for benefits and provide the evidence (supporting documents) listed below:
 - Your military records showing you served at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 while on active duty, or in the National Guard or Reserves, **and**
 - Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
 
-**You can apply in any of these ways:**
-- [Apply online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
-- [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
+**You can file a claim in 1 of 3 ways:**
+- [File a claim online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for 1 or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
+- [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability-benefits/apply/help/), **or**
 - [Get help at a VA regional benefit office](/facilities/)
 
 ### Are Veterans and their family members covered for health care?
