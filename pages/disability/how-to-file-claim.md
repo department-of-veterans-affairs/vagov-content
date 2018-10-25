@@ -110,7 +110,7 @@ You can work with a trained professional called an accredited representative to 
 <h3 itemprop="name">What happens after I file a claim?</h3>
 <div itemprop="itemListElement">
 
-[Find out what happens after you file](/disability-benefits/after-you-apply/).
+[Find out what happens after you file](/disability/after-you-file-claim/).
 
 You don’t need to do anything while you’re waiting unless we send you a letter asking for more information. If we schedule exams for you, be sure not to miss them.
 
