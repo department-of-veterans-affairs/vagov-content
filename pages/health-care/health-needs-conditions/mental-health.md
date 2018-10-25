@@ -24,7 +24,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
 	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
-	    <p>If you're struggling with thoughts of hurting yourself or feeling hopeless, anxious, or depressed and need support right away, our responders can offer confidential help 24/7. Many of them are Veterans themselves.</p>
+	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
 	    <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
 	    <ul>
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
@@ -66,13 +66,13 @@ We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 Yes. You may be able to use one or more of the virtual options listed below.
 
-- **The Veteran Training online self-help portal for overcoming everyday challenges:** You can use this portal's tools to work on problem-solving skills, manage anger, develop parenting skills, and more. The tools are based on proven mental health practices that have successfully helped other Veterans and families. The portal is free, and you don't have to sign in or provide any personal information to use the tools.<br>
+- **The Veteran Training online self-help portal for overcoming everyday challenges:** You can use this portal's tools to help manage your anger, develop parenting and problem-solving skills, and more. The tools are based on proven mental health practices that have successfully helped other Veterans and families. The portal is free, and you don't have to sign in or provide any personal information to use the tools.<br>
 [Visit the Veteran Training portal](www.veterantraining.va.gov).
 
 - **Smartphone apps for Veterans:** We've partnered with the Department of Defense (DoD) to create free smartphone applications you can use to help manage your physical and mental health. These include apps to help you deal with stress, quit smoking, and more.<br>
 [Learn more about apps for Veterans](http://ncgwg.org/wp-content/uploads/2018/04/Resources_-Apps-for-Veterans.pdf).
 
-- **The VA Telemental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at a local VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
+- **The VA TeleMental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at a local VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
 
 ### Can I speak to a fellow Veteran who's been through this before?
 
@@ -81,8 +81,8 @@ Yes. The **BeThere** peer assistance line and outreach center offers support for
 **To talk with a peer coach:**
 
 - [Start an online chat](https://www.betherepeersupport.org/).
-- Call 1-844-357-PEER (<a href="tel:+18443577337">1-844-357-7337</a>)
-- Text to <a href="tel:+14803606188">1-480-360-6188</a>
+- Call 1-844-357-PEER (<a href="tel:+18443577337">1-844-357-7337</a>).
+- Text to <a href="tel:+14803606188">1-480-360-6188</a>.
 
 ### What other options do I have?
 
@@ -97,9 +97,9 @@ Yes. The **BeThere** peer assistance line and outreach center offers support for
 
 [Find a Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
-Or call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to speak to a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
+You can also call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to speak to a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
 
-**If you'd like to connect with other Veterans, families, and local services,** you can visit our Make the Connection website. This site connects millions of Veterans, and their family members and friends, to local VA and community mental health resources. Visit the site to access these referral resources, and hear Veteran testimonials of strength and recovery. <br>
+**If you'd like to connect with other Veterans, families, and local services,** you can visit our Make the Connection website. This site connects millions of Veterans, and their family members and friends, to local VA and community mental health resources. Visit the site to access these referral resources and hear Veteran testimonials of strength and recovery. <br>
 [Go to Make the Connection](https://maketheconnection.net/).
 
 ------
@@ -114,7 +114,7 @@ Get answers to other questions you may have about our services.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">Will using mental health services at VA put my career at risk?</button>
 <div id="questions-risk" class="usa-accordion-content">
 	
-A mental health diagnosis or seeking mental health care doesn't automatically put work-related credentials such as security clearances at risk. Most employers recognize that healthy employees who get help when they need it are more productive and effective in their jobs than those who aren't performing at their best because they're not feeling well.
+Being diagnosed with a mental health condition or seeking mental health care doesn't automatically put work-related credentials, such as security clearances, at risk. Most employers recognize that healthy employees who get help when they need it are more productive and effective in their jobs than those who aren't performing at their best because they're not feeling well.
 
 </div>
 </li>
@@ -122,7 +122,7 @@ A mental health diagnosis or seeking mental health care doesn't automatically pu
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-enrolled">Do I need to be enrolled in VA health care to access mental health care?</button>
 <div id="questions-enrolled" class="usa-accordion-content">
 
-No. If you don’t qualify for VA health care, you may still be able to get certain health care services (like care for issues linked to military sexual trauma). 
+No. If you don’t qualify for VA health care, you may still be able to get certain health care services (like care for issues linked to military sexual trauma).<br>
 
 Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> to find out what your care options may be. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET)
 
@@ -145,7 +145,7 @@ Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-national-guard">I'm in the National Guard or Reserves. Am I eligible to use VA mental health services?</button>
 <div id="questions-national-guard" class="usa-accordion-content">
 
-To learn more about whether you're eligible for services, call your local VA medical center. <br>
+To learn more about whether you're eligible for services, call your nearest VA medical center. <br>
 [Find your nearest VA medical center](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
 Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resource for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
@@ -156,15 +156,15 @@ Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find t
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-same-day">How long will it take to start getting help once I contact VA?</button>
 <div id="questions-same-day" class="usa-accordion-content">
 
-We offer Same-Day Services to make sure that we can either address your mental health need, or schedule the right follow-up care, on the day you reach out to us. This will depend on how urgent your needs are, and the level of treatment you're looking for. 
+We offer same-day services to make sure we can either address your mental health need, or schedule the right follow-up care, on the day you reach out to us. This will depend on how urgent your needs are, and the level of treatment you're looking for. 
 
-**Same-Day Services may include care such as:**  
-- A face-to-face appointment with a VA provider (including walk-in appointments at a clinic or urgent care center)
-- A telehealth or video care appointment with a VA provider
-- A phone call with a nurse who can offer medical advice (called nurse triage)
+**Same-day services may include care such as:**  
+- Meeting face-to-face with a VA provider (including walk-in appointments at a clinic or urgent care center)
+- Having a telehealth or video care appointment with a VA provider
+- Talking by phone with a nurse who can offer medical advice (called nurse triage)
 - Communicating with a VA health care provider through Secure Messaging
 - Scheduling a future appointment
-- Filling a prescription
+- Getting a prescription filled
 
 </div>
 </li>
@@ -182,7 +182,7 @@ We offer Same-Day Services to make sure that we can either address your mental h
 - [Bipolar disorder](https://www.mentalhealth.va.gov/bipolar.asp)
 - [Schizophrenia](https://www.mentalhealth.va.gov/schizophrenia.asp)
 
-We also treat anxiety-related conditions, like:
+**We also treat anxiety-related conditions, like:**
 
 - [Generalized anxiety disorder](https://www.mentalhealth.va.gov/generalizedanxiety.asp)
 - [Panic disorder](https://www.mentalhealth.va.gov/panicdisorder.asp)
@@ -217,12 +217,16 @@ We also treat anxiety-related conditions, like:
 
 Yes. In addition to online resources, Caregiver Support Coordinators at your nearest VA medical center and a caregiver peer support mentoring program can help connect caregivers to one another for support and learning.
 
-- Call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday 8:00 a.m. to 8:00 p.m. (ET)
-- [Find a local Caregiver Support Coordinator](caregiver.va.gov/help_landing.asp).
+**To get support as a caregiver:**
+
+- [Find a local Caregiver Support Coordinator](caregiver.va.gov/help_landing.asp). 
+- Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday 8:00 a.m. to 8:00 p.m. (ET)
 
 You can also contact our **Coaching Into Care** program to speak directly with a licensed psychologist or social worker, free-of-charge. They can provide information on mental health, VA services, and tips on how to begin the conversation about treatment with a loved one.
-- Call <a href="tel:+18888237458">1-888-823-7458</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
+
+**To reach a licensed psychology or social worker:**
 - [Contact Coaching into Care online](https://www.mirecc.va.gov/coaching/). 
+- Or call <a href="tel:+18888237458">1-888-823-7458</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 </div>
 </li>
@@ -251,7 +255,7 @@ You can also get support from resources offered through other government departm
 <div id="resources-veterans" class="usa-accordion-content">
 
 <b>[Military OneSource](https://www.militaryonesource.mil/mental-health)</b><br>
-This free resource provides comprehensive expert support connecting military personnel and their family to resources available to best help them.
+This free resource provides comprehensive expert support connecting military personnel and their family to the resources available to best help them.
 
 <b>[The Psychological Health Resource Center](http://pdhealth.mil/)</b><br>
 The Center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention.
