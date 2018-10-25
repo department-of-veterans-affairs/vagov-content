@@ -17,9 +17,6 @@ promo:
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
-    - url: https://www.benefits.va.gov/TAP/index.asp
-      title: <b>Transition Assistance</b>
-      description: Explore the VA benefits and services you and your family may qualify for, and get help transitioning to VA support as you separate from the military.
     - url: "/education/about-gi-bill-benefits/"
       title: <b>GI Bill Benefits</b>
       description: Explore options for using GI Bill benefits to help pay for school or training, and find out what benefits you can get.
