@@ -122,7 +122,7 @@ Being diagnosed with a mental health condition or seeking mental health care doe
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-enrolled">Do I need to be enrolled in VA health care to access mental health care?</button>
 <div id="questions-enrolled" class="usa-accordion-content">
 
-No. If you don’t qualify for VA health care, you may still be able to get certain health care services (like care for issues linked to military sexual trauma).<br>
+No. If you don’t qualify for VA health care, you may still be able to get certain health care services, like care for needs linked to military sexual trauma.<br>
 
 Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> to find out what your care options may be. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET)
 
@@ -130,11 +130,11 @@ Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> 
 
 - Get free private counseling, alcohol and drug assessment, and other support for combat Veterans and families at one of our 300 community Vet Centers. <br>
 [Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
-- Contact the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. A trained VA counselor will offer information about VA homeless programs, health care, and other services in your area. The call is free and confidential.
+- Contact the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. A trained VA counselor will offer information about VA homelessness programs, health care, and other services in your area. The call is free and confidential.
 - Call or visit your local VA Community  Resource and Referral Center. Even if you don’t qualify for VA health care, our staff can help you find non-VA resources you may qualify for in your community. <br>
 [Find your local Community Resource and Referral Center](https://www.va.gov/HOMELESS/Crrc.asp).
 
-**Or, you can apply for VA health care to access more services:**
+**Or you can apply for VA health care to access more services:**
 
 [Find out if you're eligible for VA health care](https://preview.va.gov/health-care/eligibility/). <br>
 [Learn how to apply for health care benefits](https://preview.va.gov/health-care/how-to-apply/).
@@ -156,12 +156,12 @@ Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find t
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-same-day">How long will it take to start getting help once I contact VA?</button>
 <div id="questions-same-day" class="usa-accordion-content">
 
-We offer same-day services to make sure we can either address your mental health need, or schedule the right follow-up care, on the day you reach out to us. This will depend on how urgent your needs are, and the level of treatment you're looking for. 
+You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health need, or schedule the right follow-up care, right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for. 
 
 **Same-day services may include care such as:**  
 - Meeting face-to-face with a VA provider (including walk-in appointments at a clinic or urgent care center)
 - Having a telehealth or video care appointment with a VA provider
-- Talking by phone with a nurse who can offer medical advice (called nurse triage)
+- Talking by phone with a nurse who can offer medical advice (called "nurse triage")
 - Communicating with a VA health care provider through Secure Messaging
 - Scheduling a future appointment
 - Getting a prescription filled
@@ -222,9 +222,9 @@ Yes. In addition to online resources, Caregiver Support Coordinators at your nea
 - [Find a local Caregiver Support Coordinator](caregiver.va.gov/help_landing.asp). 
 - Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday 8:00 a.m. to 8:00 p.m. (ET)
 
-You can also contact our **Coaching Into Care** program to speak directly with a licensed psychologist or social worker, free-of-charge. They can provide information on mental health, VA services, and tips on how to begin the conversation about treatment with a loved one.
+You can also contact our **Coaching Into Care** program to speak directly with a licensed psychologist or social worker, free-of-charge. They can provide information about mental health and VA services as well as tips for how to begin the conversation about treatment with a loved one.
 
-**To reach a licensed psychology or social worker:**
+**To reach a licensed psychologist or social worker:**
 - [Contact Coaching into Care online](https://www.mirecc.va.gov/coaching/). 
 - Or call <a href="tel:+18888237458">1-888-823-7458</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
@@ -246,7 +246,7 @@ You can use our facility locator to search for VA health facilities near you. <b
 
 ## Resources and Support Beyond VA
 
-You can also get support from resources offered through other government departments and community organizations outside of VA.
+You can also get support from resources offered by other government departments and community organizations outside of VA.
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
@@ -255,7 +255,7 @@ You can also get support from resources offered through other government departm
 <div id="resources-veterans" class="usa-accordion-content">
 
 <b>[Military OneSource](https://www.militaryonesource.mil/mental-health)</b><br>
-This free resource provides comprehensive expert support connecting military personnel and their family to the resources available to best help them.
+This free service provides expert support to connect military personnel and their families with the best available resources to fit their needs.
 
 <b>[The Psychological Health Resource Center](http://pdhealth.mil/)</b><br>
 The Center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention.
@@ -268,14 +268,16 @@ The Center works to improve the lives of Veterans, Servicemembers, and their fam
 
 <b>[The National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)</b><br>
 This 24/7, 365-day-a-year emergency mental health hotline offers help for people experiencing a mental health crisis. This is available through phone and online chat options.
-- Call 1-800-273-TALK (8255) (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
+**To reach the hotline:**
 - [Start an online chat](https://suicidepreventionlifeline.org/chat/).
+- Or call 1-800-273-TALK (8255) (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 
 <b>[The American Foundation for Suicide Prevention](https://afsp.org/)</b><br>
 The Foundation provides mental health resources for those struggling with suicidal ideations, and supportive educational tools for concerned family, friends and peers.
 
 <b>[The Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/)</b><br>
 The administration offers free, confidential help with treatment referral and information services that are available 24/7, 365-days-a-year. This call center provides support for individuals and families facing mental health and/or substance use disorders.
+**To reach the call center:**
 - Call 1-800-662-HELP (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 - [Learn more about the helpline](https://www.samhsa.gov/find-help/national-helpline).
 
@@ -289,10 +291,10 @@ The administration offers free, confidential help with treatment referral and in
 The Alliance builds better lives for millions of Americans affected by mental illness by providing education programs for families and individuals living with mental health problems.
 
 <b>[The Jed Foundation](https://www.jedfoundation.org/)</b><br>
-The foundation works closely with teenagers and young adults during transition periods that may be experiencing mental stress or at risk for suicide. 
+The foundation works closely with teenagers and young adults who may be experiencing mental stress or may be at risk for suicide during times of change. 
 
-<b>[Mental Health America](http://www.mentlhealthamerica.net/)</b><br>
-This organization works to ensure all people live mentally healthier lives through advocacy, and connections to mental health and mental resiliency resources.
+<b>[Mental Health America](http://www.mentalhealthamerica.net/)</b><br>
+This organization works to ensure all people live mentally healthier lives through advocacy and connections to mental health and mental resiliency resources.
 
 </div>
 </li>
