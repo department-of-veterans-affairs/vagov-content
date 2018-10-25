@@ -6,10 +6,10 @@ plainlanguage:
 enablewarning: false
 description: Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
 banner:
-  visible: false
+  visible: true
   type: warning
-  title: Some VA.gov tools and features may not be working as expected
-  content: 'We’re sorry. We’re working to fix some problems with DS Logon right now. Please check back later or call MyVA311 for help: <a href="tel:18446982311">1-844-698-2311</a>. If you have hearing loss, call TTY: 711.'
+  title: Weather is iffy right now
+  content: if you're in an affected area........lorem ipsum
 heading: Access and manage your VA benefits and health care
 cards:
   - heading: Health Care
@@ -126,7 +126,7 @@ hubs:
     description: Apply for a printed Veteran ID card, get your VA benefit letters and medical records, and learn how to apply for a discharge upgrade.
 news:
   - img: /img/homepage/home-1.jpg
-    alt: Four Veterans standing together in front of the United States flag.
+    alt: 4 Veterans standing together in front of the United States flag.
     title: Make the Connection Website
     href: https://maketheconnection.net/
     description: Hear Veterans share their stories of recovery, and find resources near you.
