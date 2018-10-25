@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to File a VA Disability Claim
+title: How to Apply for Disability Benefits
 display_title: How to File a Claim
 description: Find out how to apply online for VA disability compensation, and what documents you'll need to start your application today.
 order: 2
@@ -36,23 +36,22 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file for VA disability benefits.
+Find out how to file a claim for disability compensation.
 
 </div>
 
 ### How do I prepare before starting my application?
 
-- [Find out if you're eligible for VA disability benefits](/disability/eligibility/).
+- [Find out if you're eligible for VA disability compensation](/disability/eligibility/).
 - Gather the supporting documents listed below that you’ll need to file a disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/).
-
-[Find out if you’ll need to turn in any additional (supplemental) forms with your claim](/disability/how-to-file-claim/supplemental-forms/).
+- [Find out if you’ll need to turn in any additional (supplemental) forms with your claim](/disability/how-to-file-claim/supplemental-forms/).
 
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">What documents will VA review to decide my claim?</h4>
+<h4 itemprop="name">What documents do I need to file my claim?</h4>
 <div itemprop="itemListElement">
 
 For your first disability claim, we'll review your:
@@ -82,7 +81,7 @@ Depending on the type of claim you file, you may gather supporting documents you
 
 ##### By mail
 
-File by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf).
+File your claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf).
 
 Print the form, fill it out, and send it to this address:
 
@@ -100,7 +99,7 @@ Bring your application to a regional benefit office near you. <br>
 
 ##### With the help of a trained professional
 
-You can work with a trained professional called an accredited representative to get help applying for health care benefits. <br>
+You can work with a trained professional called an accredited representative to get help filing a claim for disability compensation. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 </div>
@@ -108,10 +107,10 @@ You can work with a trained professional called an accredited representative to 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I file my claim?</h3>
+<h3 itemprop="name">What happens after I file a claim?</h3>
 <div itemprop="itemListElement">
 
-[Find out what happens after you file](/disability/after-you-file-claim/).
+[Find out what happens after you file](/disability-benefits/after-you-apply/).
 
 You don’t need to do anything while you’re waiting unless we send you a letter asking for more information. If we schedule exams for you, be sure not to miss them.
 
