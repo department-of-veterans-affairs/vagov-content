@@ -1,7 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Specific Environmental Hazards
-display_title: Specific Environmental Hazards
+title: Specific Environmental Hazards
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 1

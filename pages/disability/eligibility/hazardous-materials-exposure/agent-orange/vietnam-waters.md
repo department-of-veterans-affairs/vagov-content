@@ -1,7 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure in Waters in or Near Vietnam
-display_title: Vietnam Waters
+title: Vietnam Waters
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page

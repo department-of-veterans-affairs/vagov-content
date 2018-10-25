@@ -1,7 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure from Testing and Storage Areas Outside Vietnam
-display_title: Testing and Storage
+title: Testing and Storage
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
