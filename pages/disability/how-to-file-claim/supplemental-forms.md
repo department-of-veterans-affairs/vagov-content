@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: File Supplemental Forms for Special Claims
+title: Supplemental Disability Forms
 display_title: Supplemental Forms
 description: Download additional forms you may need to apply for some VA disability benefits.
 concurrence: Incomplete
