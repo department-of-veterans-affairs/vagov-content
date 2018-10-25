@@ -153,7 +153,7 @@ aliases:
                         <p><strong>Note:</strong> If you’d rather verify your identity and upgrade to a Premium <strong>DS Logon</strong> account in person or by phone, read the instructions in the section above on verifying your identity.</p>
                         <h4>How to get a Premium My HealtheVet account if you’re a VA patient</h4>
                         <p>Follow these 2 steps to sign up for a Premium <strong>My HealtheVet</strong> account.</p>
-                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an advanced account, and then you can upgrade to a Premium account.</p>
+                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an Advanced account, and then you can upgrade to a Premium account.</p>
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/user-registration/">Sign up for a My HealtheVet account</a>.</p>
                         <p><strong>Note:</strong> If you have a Premium <strong>DS Logon</strong> or ID.me account, you can skip step 1 above, and go right to step 2 to sign in to <strong>My HealtheVet</strong> with either of these accounts.
                         <p><strong>2. Then, upgrade to a Premium account.</strong></p>
