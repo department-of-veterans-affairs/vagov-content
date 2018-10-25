@@ -83,7 +83,7 @@ Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumul
 
 ### How do I get these benefits as a family member?
 
-You'll need to apply for benefits and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for benefits and provide the evidence (supporting documents) listed below:
 - A document proving your relationship to the Veteran who served on active duty for at least 30 days at Camp Lejeune (like a marriage license, birth certificate, or adoption papers), **and**
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
@@ -97,7 +97,7 @@ You'll need to ask your doctor to fill out and sign this form before submitting 
 [Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b).
 
 
-**You can apply in one of these ways:**
+**You can file a claim in 1 of 2 ways:**
 
 - [Fill out a Camp Lejeune Family Member Application (VA Form 10-10068) online](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068), **or**
 
