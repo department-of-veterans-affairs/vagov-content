@@ -1,6 +1,6 @@
 ---
-title: Transitioning to Civilian Employment
-href: https://www.benefits.va.gov/vocrehab/transitioning_from_service.asp
+title: VA Transition Assistance
+href: https://www.benefits.va.gov/tap/
 order: 1
 spoke: Manage Benefits
 private: true
