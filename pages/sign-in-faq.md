@@ -214,7 +214,7 @@ aliases:
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-trouble-3" itemprop="name">What address should I use to verify my identity if I live overseas? </button>
                     <div id="faq-trouble-3" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p><strong>If you have a premium My HealtheVet or DS Logon account,</strong> you can sign in using those credentials and you won’t need to verify your identity.</p>
+                        <p><strong>If you have a Premium My HealtheVet or DS Logon account,</strong> you can sign in using those credentials and you won’t need to verify your identity.</p>
                         <p><strong>If you’re signing in through your ID.me account,</strong> you’ll need to use your most recent official stateside address and phone number (the information that’ll match records like your credit history)—even if it’s not your current contact information.</p>
                       </div>
                     </div>
@@ -240,7 +240,7 @@ aliases:
                     <div id="faq-trouble-5" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>You can try using your driver’s license or passport to verify your identity.</strong> Be sure to follow the image guidelines provided when you upload a copy of your driver’s license or passport.</p>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can sign in using those credentials and you won’t need to verify your identity. If you don’t have an existing premium account, you can find out how to get one by reading the question above about other options for verifying your identity.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can sign in using those credentials and you won’t need to verify your identity. If you don’t have an existing Premium account, you can find out how to get one by reading the question above about other options for verifying your identity.</p>
                       </div>
                     </div>
                   </li>
