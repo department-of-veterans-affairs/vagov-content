@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VR&E Eligibility
+title: Eligibility for Vocational Rehab and Employment (VR&E)
 display_title: Eligibility
 order: 2
 template: detail-page
