@@ -74,6 +74,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 You’ll need to file a claim for benefits for your child. When you file, you’ll have to show that your contact with certain chemicals while serving in the military likely caused your child’s birth defect. <br>
 
+**When you file, you’ll also need to give us:**
 - A document showing the biological relationship between the child and the Veteran parent, **and**
 - Service records that prove the Veteran served in Vietnam or Korea during the qualifying dates listed above, **and**
 - The child's birth certificate, **and**
