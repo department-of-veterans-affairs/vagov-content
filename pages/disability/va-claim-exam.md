@@ -28,7 +28,7 @@ After you file your disability benefits claim, we may ask you to have a claim ex
 
 </div>
 
-<div class="usa-alert usa-alert-warning va-alert">
+<div class="usa-alert usa-alert-warning">
 <div class="usa-alert-body">
 
 ##### Be sure not to miss your scheduled exam.
@@ -89,7 +89,7 @@ If you canâ€™t make it to your appointment, let us know right away. You can most
 </ul>
 </div>
 
-<br>  
+<br>
 
 ### What to expect at your VA claim exam
 
@@ -180,7 +180,7 @@ If you have what we consider to be a good reason for missing your exam (called â
 </ul>
 </div>
 
-<br>  
+<br>
 
 ### After your VA claim exam
 
