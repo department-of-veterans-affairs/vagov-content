@@ -145,4 +145,4 @@ news:
   The homepage has its own layout that is configurable via the settings above. Any content outside of that won't be processed.
 {% endcomment %}
 
-Test
+Testing
