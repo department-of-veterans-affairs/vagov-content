@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VR&E Programs for Servicemembers and Veterans
+title: VR&E Programs for Servicemembers and Veterans (Chapter 31)
 display_title: Programs
 order: 1
 template: detail-page
