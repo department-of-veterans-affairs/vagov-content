@@ -93,7 +93,7 @@ To talk with a peer coach, call Military OneSource's free, confidential peer sup
 
 [Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
-You can also call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to speak to a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
+You can also call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to talk with a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
 
 **If you'd like to connect with other Veterans, families, and local services,** you can visit our Make the Connection website. This site connects millions of Veterans, and their family members and friends, to local VA and community mental health resources. Visit the site to access these referral resources and hear Veteran testimonials of strength and recovery. <br>
 [Go to Make the Connection](https://maketheconnection.net/).
@@ -264,6 +264,7 @@ The center works to improve the lives of Veterans, Servicemembers, and their fam
 
 <b>[The National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)</b><br>
 This 24/7, 365-day-a-year emergency mental health hotline offers support for people experiencing a mental health crisis.<br> 
+
 <b>To reach the hotline:</b>
 - [Start an online chat](https://suicidepreventionlifeline.org/chat/).
 - Or call 1-800-273-TALK (8255) (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
@@ -273,6 +274,7 @@ The foundation provides mental health resources for people struggling with thoug
 
 <b>[The Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/)</b><br>
 SAMHSA offers free, confidential help with treatment referral and information services for individuals and families facing mental health and/or substance use disorders. Support is available 24/7, 365-days-a-year, in both English and Spanish.<br>
+
 <b>To reach SAMHSA's National Helpline:</b>
 - Call 1-800-662-HELP (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 - [Learn more about the helpline](https://www.samhsa.gov/find-help/national-helpline).
