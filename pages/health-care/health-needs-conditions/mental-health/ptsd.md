@@ -122,8 +122,8 @@ If you have symptoms of PTSD and suffered a serious injury, personal trauma, sex
 
 ### Where can I find more information and support?
 
-- See our “Understanding PTSD and PTSD Treatment” booklet for more about PTSD symptoms and treatment. [Read the booklet](http://www.ptsd.va.gov/public/understanding_ptsd/booklet.pdf).
-- Go to our National Center for PTSD website for information about PTSD treatment and support. [Visit the National Center for PTSD](https://www.ptsd.va.gov/public/index.asp).
+- See our “Understanding PTSD and PTSD Treatment” booklet for more about PTSD symptoms and treatment. [Read the booklet](https://www.ptsd.va.gov/publications/print/understandingptsd_booklet.pdf).
+- Go to our National Center for PTSD website for information about PTSD treatment and support. [Visit the National Center for PTSD](https://www.ptsd.va.gov/)
 - Go to these websites for resources and stories of Veterans who’ve overcome PTSD and other mental health challenges:
   - <a href="http://maketheconnection.net/" class="no-external-icon">Visit Make the Connection</a>
   - [Visit About Face](https://www.ptsd.va.gov/apps/AboutFace/).
