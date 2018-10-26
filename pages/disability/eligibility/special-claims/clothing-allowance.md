@@ -47,7 +47,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits.
+You’ll need to file a claim for benefits.
 
 To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
 
