@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for VR&amp;E
+title: How to Apply for VA Voc Rehab and Employment (VR&amp;E)
 display_title: How to Apply
 order: 3
 template: detail-page
