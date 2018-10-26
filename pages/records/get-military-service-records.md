@@ -88,10 +88,10 @@ If you don’t have a Premium DS Logon account, find out how to create or upgrad
 
 <ol class="process">
   <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b>.</li>
-  <li class="process-step list-two">Click on the <b>Personnel File</b> tab</li>
-  <li class="process-step list-three">Then click <b>Request My Personnel File</b></li>
-  <li class="process-step list-four">Fill out the form and select document type <b>DD214/DD215</b> under <b>Service Computation Group</b></li>
-  <li class="process-step list-five">Click <b>Create and Send Request</b></li>
+  <li class="process-step list-two">Click on the <b>Personnel File</b> tab.</li>
+  <li class="process-step list-three">Then click <b>Request My Personnel File.</b></li>
+  <li class="process-step list-four">Fill out the form and select document type <b>DD214/DD215</b> under <b>Service Computation Group</b>.</li>
+  <li class="process-step list-five">Click <b>Create and Send Request</b>.</li>
   
 </ol>
 
@@ -104,16 +104,19 @@ If you don’t have a Premium DS Logon account, find out how to create or upgrad
 <b>Yes. You can request your military records in any of these ways:</b>
 
 <ul>
-  <li>Submit a request through the eVetsRec.gov website</li>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)</li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
   <li>Write a letter to the NPRC</li>
   <li>Visit the NPRC in St. Louis, Missouri, in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
 
-Visit the National Archives website to learn more about requesting your military service records. <br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/veterans/military-service-records">Get instructions for different ways to request your records</a>.
+**The NPRC in Missouri is located at:**
+<p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br>
+</p> 
 
 </div>
 </div>
@@ -134,13 +137,19 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
 
 <b>You can request a copy of the Veteran's military records in any of these ways:</b>
 <ul>
-  <li>Submit a request through the eVetsRec.gov website</li>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)</li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
   <li>Write a letter to the NPRC</li>
   <li>Visit the NPRC in St. Louis, Missouri, in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
+
+**The NPRC in Missouri is located at:**
+<p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br>
+</p> 
 
 <b>You may be considered the next of kin if you're related to the Veteran in any of these ways:</b>
 <ul>
@@ -149,9 +158,6 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
   <li>Child, <b>or</b></li>
   <li>Sibling
 </ul>
-
-Visit the National Archives website to learn more about requesting military service records. <br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/ompf-access">Find out how to access records as the next of kin</a>.
 
 <h4>If you're not the Veteran's next of kin</h4>
 
