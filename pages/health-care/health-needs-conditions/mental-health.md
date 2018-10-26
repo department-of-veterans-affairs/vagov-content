@@ -196,8 +196,8 @@ You'll start receiving help the day you reach out to us. We offer same-day servi
 - **Outpatient care** for Veterans with serious mental illness who have a lot of trouble functioning in daily life
 - **Regular outpatient care**, which may include care provided over the phone, for Veterans facing a difficult time in their lives
 - **Rehabilitation treatment and residential (live-in) programs** for Veterans with mental health problems and other needs (like those related to homelessness, job training, and education) who would be best helped by getting treatment or living in a structured setting for a period of time
-**Primary care** for many common mental and behavioral problems
-**Supported work settings** to help Veterans join the work force and live well in the community
+- **Primary care** for many common mental and behavioral problems
+- **Supported work settings** to help Veterans join the work force and live well in the community
 
 **We also provide care to Veterans in crisis. This includes:**
 - **Emergency mental health care 24 hours a day, 7 days a week**, through VA medical centers and some local, non-VA hospitals
