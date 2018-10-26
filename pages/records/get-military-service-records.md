@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Get Your Military Service Records (including DD214)
+title: Request Your Military Service Records (including DD214)
 display_title: Request Military Records
 concurrence:
 plainlanguage:
@@ -30,16 +30,16 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to access to your military records, including your DD214, through our eBenefits website.
+Find out how to request your military records, including your DD214, through the milConnect website.
 
 </div>
 
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to get your service records</h4>
+    <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
     <br>
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file">Go to eBenefits to Get Your Records</a>
+      <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect to Get Your Records</a>
     </p>
   </div>
 </div>
@@ -57,16 +57,6 @@ You can review and print documents from your Official Military Personnel File.
   <li>DD214</li>
   <li>Report of Separation</li>
   <li>Other release papers</li>
-</ul>
-
-<b>You may also be able to access documents with information about aspects of your service, such as your:</b>
-<ul>
-  <li>Duty stations and assignments</li>
-  <li>Training, qualifications, and performance</li>
-  <li>Awards and decorations</li>
-  <li>Any disciplinary actions</li>
-  <li>Insurance</li>
-  <li>Administrative remarks</li>
 </ul>
 
 </div>
@@ -87,6 +77,23 @@ If you don’t have a Premium DS Logon account, find out how to create or upgrad
 </div>
 </div>
 </div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">Once I've signed in to MilConnect, how do I get to my military service records?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+<b>Follow these steps to get to your military service records:</b>
+
+<ol class="process">
+  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b>.</li>
+  <li class="process-step list-two">Click on the <b>Personnel File</b> tab</li>
+  <li class="process-step list-three">Then click <b>Request My Personnel File</b></li>
+  <li class="process-step list-four">Fill out the form and select document type <b>DD214/DD215</b> under <b>Service Computation Group</b></li>
+  <li class="process-step list-five">Click <b>Create and Send Request</b></li>
+  
+</ol>
 
 <div itemscope itemtype="http://schema.org/Question">
 
