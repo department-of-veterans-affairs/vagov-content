@@ -47,13 +47,13 @@ Find out how to access VA mental health services for posttraumatic stress disord
 
 If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help. 
 
-Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
+Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
 
 ### How do I schedule my first appointment?
 
-**If you're already using VA medical services,** ask your primary care provider to arrange for you to see a VA mental health provider.
+**If you're already using VA medical services,** ask your primary care provider to help you make an appointment with a VA mental health provider.
 
-**If you're not already using VA medical services,** contact your nearest VA medical center (VAMC) or Vet Center to talk about your needs. <br>
+**If you're not already using VA medical services,** contact your nearest VA medical center or Vet Center to talk about your needs. <br>
 [Find your nearest VA medical center or Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health). 
 
 ### What if I'm not sure what kind of help I need?
@@ -64,21 +64,22 @@ We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 ### It's hard for me to get to a VA facility in person. Can I get mental health services online?
 
-Yes. You may be able to use one or more of the virtual options listed below.
+Yes. You may be able to use one or more of the care options listed below.
 
 - **The Veteran Training online self-help portal for overcoming everyday challenges:** You can use this portal's tools to help manage your anger, develop parenting and problem-solving skills, and more. The tools are based on proven mental health practices that have successfully helped other Veterans and families. The portal is free, and you don't have to sign in or provide any personal information to use the tools.<br>
-[Visit the Veteran Training portal](www.veterantraining.va.gov).
+[Visit the Veteran Training portal](http://www.veterantraining.va.gov).
 
 - **Smartphone apps for Veterans:** We've partnered with the Department of Defense (DoD) to create free smartphone applications you can use to help manage your physical and mental health. These include apps to help you deal with stress, quit smoking, and more.<br>
 [Learn more about apps for Veterans](http://ncgwg.org/wp-content/uploads/2018/04/Resources_-Apps-for-Veterans.pdf).
 
-- **The VA TeleMental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at a local VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
+- **The VA TeleMental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at your nearest VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
 
 ### Can I speak to a fellow Veteran who's been through this before?
 
-Yes. The **BeThere** peer assistance line and outreach center offers support for all Veterans and Servicemembers (including National Guard Soldiers and Reservists) and their families. You can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses. 
+Yes. The **BeThere** peer assistance line and outreach center offers support for all Veterans and Servicemembers (including National Guard Soldiers and Reservists) and their families. You can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses.
 
 **To talk with a peer coach:**
+- Call us at 1-800-342-9647 or visit our website at www.MilitaryOneSource.mil
 
 - [Start an online chat](https://www.betherepeersupport.org/).
 - Call 1-844-357-PEER (<a href="tel:+18443577337">1-844-357-7337</a>).
@@ -95,7 +96,7 @@ Yes. The **BeThere** peer assistance line and outreach center offers support for
 - Employment counseling
 - Substance abuse assessment and referral
 
-[Find a Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
 You can also call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to speak to a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
 
@@ -159,10 +160,10 @@ Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find t
 You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health need, or schedule the right follow-up care, right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for. 
 
 **Same-day services may include care such as:**  
-- Meeting face-to-face with a VA provider (including walk-in appointments at a clinic or urgent care center)
+- Meeting face-to-face with a VA health care provider (including walk-in appointments at a clinic or urgent care center)
 - Having a telehealth or video care appointment with a VA provider
-- Talking by phone with a nurse who can offer medical advice (called "nurse triage")
-- Communicating with a VA health care provider through Secure Messaging
+- Talking by phone with a VA nurse who can offer medical advice (called "nurse triage")
+- Communicating with a VA provider through Secure Messaging
 - Scheduling a future appointment
 - Getting a prescription filled
 
@@ -219,7 +220,7 @@ Yes. In addition to online resources, Caregiver Support Coordinators at your nea
 
 **To get support as a caregiver:**
 
-- [Find a local Caregiver Support Coordinator](caregiver.va.gov/help_landing.asp). 
+- [Find a local Caregiver Support Coordinator](https://www.caregiver.va.gov/). 
 - Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday 8:00 a.m. to 8:00 p.m. (ET)
 
 You can also contact our **Coaching Into Care** program to speak directly with a licensed psychologist or social worker, free-of-charge. They can provide information about mental health and VA services as well as tips for how to begin the conversation about treatment with a loved one.
@@ -294,7 +295,7 @@ NAMI builds better lives for millions of Americans affected by mental illness by
 The foundation works closely with teenagers and young adults who may be experiencing mental stress or may be at risk for suicide during times of change. 
 
 <b>[Mental Health America](http://www.mentalhealthamerica.net/)</b><br>
-This organization advocates for policies that promote mental health and the rights of people living with mental health conditions. They also provide education and connections to mental health resources.
+This organization advocates for policies that promote mental health and the rights of people living with mental health problems. They also provide education and connections to mental health resources.
 
 </div>
 </li>
