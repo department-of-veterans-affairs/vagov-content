@@ -135,7 +135,7 @@ You can also fax your application to us at 1-855-840-8299.
 Call our toll-free hotline at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. (<abbr title="eastern time">ET</abbr>).
 
 Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
-[Request a representative](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative).<br>
+[Find a representative](https://www.benefits.va.gov/vso/varo.asp).<br>
 [Find your state’s Veterans agency](https://www.va.gov/statedva.htm).
 
 ## What happens after I apply?

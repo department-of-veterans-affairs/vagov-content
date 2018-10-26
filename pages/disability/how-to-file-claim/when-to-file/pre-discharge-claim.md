@@ -130,13 +130,13 @@ This is the fastest way to get your claim processed. You'll work with an accredi
 
 **Note:** You can't use the DRC program if you're enrolled in the Integrated Disability Evaluation System (IDES) or if you have more than 90 days left on active duty. There are also other factors that may exclude you from this program.<br>
 [Learn about the IDES program](/careers-employment/vocational-rehabilitation/ides/). <br>
-[See the full list of DRC program exclusions](https://www.vets.gov/disability-benefits/apply/evidence/decision-ready-claims/).
+[See the full list of DRC program exclusions](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 **For more information on the DRC program:**
 
 Call our toll-free hotline at <a href="tel:+18008271000">1-800-827-1000</a>. <br>
 
-[Get more DRC information](https://www.vets.gov/disability-benefits/apply/evidence/decision-ready-claims/).
+[Get more DRC information](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 
 Or contact your local VSO.<br>
