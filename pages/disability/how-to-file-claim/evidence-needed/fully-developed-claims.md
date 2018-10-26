@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Fully Developed Claim Program
+title: VA Fully Developed Claims Program
 display_title: Fully Developed Claims
 children: disabilityFullyDevelopedClaims
 plainlanguage: 
