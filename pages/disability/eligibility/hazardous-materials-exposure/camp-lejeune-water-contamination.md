@@ -52,7 +52,7 @@ You may be able to get disability benefits if you meet all of the requirements l
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for benefits and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Your military records showing you served at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 while on active duty, or in the National Guard or Reserves, **and**
 - Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
 
@@ -83,7 +83,7 @@ Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumul
 
 ### How do I get these benefits as a family member?
 
-You’ll need to file a claim for benefits and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - A document proving your relationship to the Veteran who served on active duty for at least 30 days at Camp Lejeune (like a marriage license, birth certificate, or adoption papers), **and**
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
