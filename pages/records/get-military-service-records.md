@@ -55,7 +55,8 @@ You can review and print documents from your Official Military Personnel File.
 <b>You can access your:</b>
 <ul>
   <li>DD214</li>
-  <li>Report of Separation</li>
+  <li>DD215 (Correction to DD214)</li>
+  <li> Report of Separation</li>
   <li>Other release papers</li>
 </ul>
 
@@ -71,7 +72,7 @@ You can review and print documents from your Official Military Personnel File.
 
 You’ll need to have a Premium <b>DS Logon</b> account (used for eBenefits and milConnect).
 
-If you don’t have a Premium DS Logon account, find out how to create or upgrade an account on eBenefits. <br>
+If you don’t have a Premium <b>DS Logon</b> account, find out how to create or upgrade an account on eBenefits. <br>
 <a href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file">Go to eBenefits</a>.
 
 </div>
