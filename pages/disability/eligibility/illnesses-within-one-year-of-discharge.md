@@ -14,7 +14,7 @@ relatedlinks:
       description: "File a fully developed claim and get a faster decision on your disability benefits claim."
     - url: /disability/how-to-file-claim/
       title: How to Apply for Disability Benefits
-      description: "Apply online now, or find out how to apply in person, by mail, or with the help of a trained professional."
+      description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/get-help-filing-claim/
       title: Get Help Filing Your Claim
       description: "Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim."
@@ -63,7 +63,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits and submit your evidence (supporting documents).
+You’ll need to file a claim for benefits. When you file, you’ll have to show that your illness is at least 10% disabling. (For example, you may include a doctor’s report showing that you’re taking medicine for your high blood pressure.) You’ll also need to show that the illness appeared within 1 year after being discharged from active service. <br>
 
 **Your evidence will need to show that both of these are true of your illness:**
 - It's at least 10% disabling. (For example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure.) 
@@ -71,7 +71,7 @@ You’ll need to apply for benefits and submit your evidence (supporting documen
 
 If you have an illness listed in Title 38, Code of Federal Regulation, 3.09(a), you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases that appear within 1 year of your discharge are related to your service. We refer to these as “presumptive diseases.” <br>
 [See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc). <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability-benefits/apply/).
 
 **Exceptions**<br>
 The following diseases are covered, even if they appear more than 1 year after you separated from service:
