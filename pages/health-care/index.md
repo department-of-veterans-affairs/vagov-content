@@ -241,7 +241,7 @@ Chat online with a trained VA staff member
 
 <div class="link">
     <a href="/health-care/health-needs-conditions/mental-health"><b>Mental Health Services</b></a>
-    <p>Find out how to get started accessing VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, substance use problems, and other mental health needs.</p>
+    <p>Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.</p>
   </div>
 
   <div class="link">
