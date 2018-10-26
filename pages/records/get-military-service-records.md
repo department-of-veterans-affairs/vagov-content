@@ -39,7 +39,7 @@ Find out how to request your military records, including your DD214, through the
     <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
     <br>
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the milConnect website. Go to milConnect to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect to Get Your Records</a>
+      <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>
     </p>
   </div>
 </div>
@@ -50,14 +50,8 @@ Find out how to request your military records, including your DD214, through the
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can review and print documents from your Official Military Personnel File.
+You can request documents from your Official Military Personnel File, including your DD214 and DD215 (Correction to DD214).
 
-<b>You can access your:</b>
-<ul>
-  <li>DD214</li>
-  <li>DD215 (Correction to DD214)</li>
-  <li> Report of Separation</li>
-  <li>Other release papers</li>
 </ul>
 
 </div>
@@ -72,8 +66,8 @@ You can review and print documents from your Official Military Personnel File.
 
 You’ll need to have a Premium <b>DS Logon</b> account (used for eBenefits and milConnect).
 
-If you don’t have a Premium <b>DS Logon</b> account, find out how to create or upgrade an account on eBenefits. <br>
-<a href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file">Go to eBenefits</a>.
+If you don’t have a Premium <b>DS Logon</b> account, find out how to create or upgrade an account on milConnect. <br>
+<a href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>.
 
 </div>
 </div>
@@ -81,16 +75,16 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Once I've signed in to MilConnect, how do I get to my military service records?</h2>
+<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my military service records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>Follow these steps to get to your military service records:</b>
+Follow the steps below to request your records.
 
 <ol class="process">
   <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b>.</li>
-  <li class="process-step list-two">Click on the <b>Personnel File</b> tab.</li>
-  <li class="process-step list-three">Then click <b>Request My Personnel File.</b></li>
+  <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
+  <li class="process-step list-three">Then select <b>Request My Personnel File.</b></li>
   <li class="process-step list-four">Fill out the form and select document type <b>DD214/DD215</b> under <b>Service Computation Group</b>.</li>
   <li class="process-step list-five">Click <b>Create and Send Request</b>.</li>
   
@@ -102,7 +96,7 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>Yes. You can request your military records in any of these ways:</b>
+Yes. You can request your military records in any of these ways:
 
 <ul>
   <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
@@ -113,7 +107,7 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
   <li>Hire an independent researcher</li>
 </ul>
 
-**The NPRC in Missouri is located at:**
+The NPRC in Missouri is located at:
 <p class="va-address-block">
 1 Archives Drive<br>
 St. Louis, Missouri 63138<br>
@@ -146,7 +140,7 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
   <li>Hire an independent researcher</li>
 </ul>
 
-**The NPRC in Missouri is located at:**
+The NPRC in Missouri is located at:
 <p class="va-address-block">
 1 Archives Drive<br>
 St. Louis, Missouri 63138<br>
