@@ -76,14 +76,9 @@ Yes. You may be able to use one or more of the care options listed below.
 
 ### Can I speak to a fellow Veteran who's been through this before?
 
-Yes. The **BeThere** peer assistance line and outreach center offers support for all Veterans and Servicemembers (including National Guard Soldiers and Reservists) and their families. You can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses.
+Yes. The **BeThere** peer assistance program, in partnership with Military OneSource, offers support to Servicemembers (including National Guard Soldiers and Reservists), their families, and transitioning Veterans up to 365 days after separation or retirement. Through this program, you can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses.
 
-**To talk with a peer coach:**
-- Call us at 1-800-342-9647 or visit our website at www.MilitaryOneSource.mil
-
-- [Start an online chat](https://www.betherepeersupport.org/).
-- Call 1-844-357-PEER (<a href="tel:+18443577337">1-844-357-7337</a>).
-- Text to <a href="tel:+14803606188">1-480-360-6188</a>.
+To talk with a peer coach, call Military OneSource's free, confidential peer support services at <a href="tel:+1800-342-9647">1-800-342-9647</a>. This service is available 24 hours a day, 365 days a year.
 
 ### What other options do I have?
 
