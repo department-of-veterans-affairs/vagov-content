@@ -46,7 +46,7 @@ To get a burial flag, fill out the Application for United States Flag for Burial
 
 **Bring the application form to:**
 - A funeral director, **or**
-- [A VA regional benefit office](http://www.benefits.va.gov/benefits/offices.asp), **or**
+- [A VA regional benefit office](https://preview.va.gov/facilities/?facilityType=benefits), **or**
 - A United States post office. Call ahead to make sure your local post office has burial flags.
 
 ## How do I display and care for the flag?
