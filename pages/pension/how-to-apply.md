@@ -54,8 +54,8 @@ Apply by mail using an Application for Pension (VA Form 21P-527EZ). <br>
 [Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).
 
 **In person** <br>
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find your nearest VA regional benefit office](/facilities/?facilityType=benefits).
 
 
 **With the help of a trained professional** <br>
