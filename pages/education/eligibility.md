@@ -68,8 +68,8 @@ You may be able to get benefits through 1 of our 2 Montgomery GI Bill programs: 
 
 </div>
 </div>
-</div><div markdown="0"><br></div>
 
+</div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name"> Can I get VA education benefits through other programs?</h3>
@@ -88,6 +88,7 @@ If you have a service-connected disability that limits your ability to work or p
 
 </div>
 </div>
+
 </div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -95,12 +96,14 @@ If you have a service-connected disability that limits your ability to work or p
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may be able to get educational and career counseling (also called Chapter 36) if you’ll be discharged from active duty within 6 months. You may also qualify for these services if you separated from active duty not more than 1 year ago, didn’t receive a dishonorable discharge, and qualify as a Veteran for educational assistance under a VA educational program. Your qualified dependents may also be eligible for counseling under certain programs.<br>
+You may be able to get educational and career counseling (also called Chapter 36) if you’ll be discharged from active duty within 6 months. You may also qualify for these services if you separated from active duty not more than 1 year ago, didn’t receive a dishonorable discharge, and qualify as a Veteran for educational assistance under a VA educational program. <br>
 [Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 <br>
 
 </div>
 </div>
+
+</div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name"> What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?</h3>
@@ -117,6 +120,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
 </div>
 </div>
+
 </div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -134,7 +138,9 @@ If you have a service-connected disability that limits your ability to work or p
 
 </div>
 </div>
-</div>
+
+</div><div markdown="0"><br></div>
+
 <div id="react-applicationStatus" class="static-page-widget"></div>
 
 [Learn more about how to apply for education benefits](/education/how-to-apply/).
