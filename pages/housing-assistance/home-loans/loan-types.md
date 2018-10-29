@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About VA Home Loan Types 
+title: VA Home Loan Types 
 display_title: Loan Types
 concurrence:
 children: housingVALoans
