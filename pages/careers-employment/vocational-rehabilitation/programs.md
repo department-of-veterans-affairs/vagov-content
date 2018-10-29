@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Vocational Rehab Programs for Veterans and Servicemembers (Chapter 31)
+title: Vocational Rehab Programs for Veterans and Servicemembers
 display_title: Programs
 order: 1
 template: detail-page
