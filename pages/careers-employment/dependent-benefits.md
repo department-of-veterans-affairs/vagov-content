@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Dependent Family Members
+title: Employment Benefits for Dependent Family Members
 display_title: Dependent Benefits
 template: detail-page
 order: 6
