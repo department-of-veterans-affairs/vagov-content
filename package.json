@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "description": "Content files for VA.gov",
   "engines": {
-    "node": "8.10.0",
-    "yarn": "1.5.1"
+    "node": "8.10.0"
   },
   "scripts": {
     "heroku-postbuild": "sh scripts/heroku-postbuild.sh",
     "start": "npm --prefix node_modules/vagov-apps run heroku-serve build/localhost"
   },
   "dependencies": {
-    "vagov-apps": "https://github.com/department-of-veterans-affairs/vets-website#ns-14607"
+    "vagov-apps": "git+https://github.com/department-of-veterans-affairs/vets-website.git#ns-14607",
+    "vets-website": "git+https://github.com/department-of-veterans-affairs/vets-website.git#ns-14607"
   }
 }
