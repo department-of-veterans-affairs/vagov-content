@@ -72,7 +72,7 @@ Veterans
 ### How do I get these benefits?
 
 You’ll need to file a claim for benefits. <br>
-[Find out how to file a claim for disability compensation](/disability-benefits/apply/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 [Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
 
