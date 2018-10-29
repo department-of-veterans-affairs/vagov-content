@@ -3,8 +3,6 @@
   "scripts": {
   },
   "env": {
-    "CHECK_BROKEN_LINKS": "no",
-    "INSTALL_HOOKS": "no"
   },
   "formation": {
   },
