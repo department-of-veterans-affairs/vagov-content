@@ -13,6 +13,9 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
+   - url: /careers-employment/education-and-career-counseling/
+     title: Educational and Career Counseling
+     description: If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
     - url: /careers-employment/veteran-owned-business-support/
       title: Register Your Veteran-Owned Small Business
       description: If you have—or want to start—your own business, we can help. Register to do business with VA and get support for your Veteran-owned small business.
@@ -60,6 +63,11 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 </div>
 
 <div id="react-applicationStatus" class="static-page-widget"></div>
+
+**Note:** To apply for vocational rehabilitation and employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to apply through our eBenefits website.
+
+[Find out how to apply for vocational rehab and employment](/careers-employment/vocational-rehabilitation/how-to-apply/).
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
