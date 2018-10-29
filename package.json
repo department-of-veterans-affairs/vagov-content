@@ -8,10 +8,9 @@
   },
   "scripts": {
     "heroku-postbuild": "sh scripts/heroku-postbuild.sh",
-    "heroku-serve": "http-server",
-    "start": "http-server build/localhost"
+    "start": "npm --prefix node_modules/vagov-apps run heroku-serve build/localhost"
   },
   "dependencies": {
-    "http-server": "^0.9.0"
+    "vagov-apps": "https://github.com/department-of-veterans-affairs/vets-website#ns-14607"
   }
 }
