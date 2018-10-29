@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Education Benefits Eligibility
+title: Eligibility for the GI Bill and Other Education Benefits 
 display_title: Eligibility
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education

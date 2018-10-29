@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Options and Eligibility
-display_title: Options & Eligibility
+title: About VA Insurance Options and Eligibility
+display_title: Options and Eligibility
 concurrence: 
 template: detail-page
 children: lifeInsuranceOptions

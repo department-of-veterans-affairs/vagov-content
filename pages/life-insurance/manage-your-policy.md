@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Managing Your Policy
+title: Manage Your VA Life Insurance Policy Online
 display_title: Manage Policy 
 concurrence: 
 order: 1
