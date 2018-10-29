@@ -115,7 +115,7 @@ VA pension benefits provide tax-free monthly payments to wartime Veterans with l
   </div>
 
   <div class="link">
-    <a href="/pension/aid-attendance-housebound/"><b>VA Aid and Attendance or Housebound Allowance Benefits</b></a>
+    <a href="/pension/aid-attendance-housebound/"><b>Aid and Attendance Benefits and Housebound Allowance</b></a>
     <p>If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.</p>
   </div>
 
