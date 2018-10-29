@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for VA Voc Rehab and Employment
+title: How to Apply for VA Vocational Rehab and Employment
 display_title: How to Apply
 order: 3
 template: detail-page
