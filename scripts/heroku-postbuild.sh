@@ -1,4 +1,5 @@
 export CHECK_BROKEN_LINKS="no"
+export INSTALL_HOOKS="no"
 
 vagov_content_dir=${PWD}
 vagov_apps_dir=${vagov_content_dir}/../vagov-apps
