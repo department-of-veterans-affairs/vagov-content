@@ -13,7 +13,7 @@ git clone --branch ns-14607 --depth=1 https://github.com/department-of-veterans-
 cd ${vagov_apps_dir}
 
 # # Install all dependencies, including devDependencies
-yarn install --production=false
+yarn install
 
 # # Execute the build script
 npm run build -- --entry static-pages --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages --content-deployment
