@@ -10,7 +10,6 @@
     "start": "npm --prefix node_modules/vagov-apps run heroku-serve build/localhost"
   },
   "dependencies": {
-    "vagov-apps": "git+https://github.com/department-of-veterans-affairs/vets-website.git#ns-14607",
     "vets-website": "git+https://github.com/department-of-veterans-affairs/vets-website.git#ns-14607"
   }
 }
