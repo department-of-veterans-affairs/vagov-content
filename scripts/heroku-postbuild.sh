@@ -7,13 +7,13 @@ echo vagov-content located at ${vagov_content_dir}
 echo Installing vagov-apps into ${vagov_apps_dir}
 
 # Install into a subdirectory, so that we're safe from tmp storage.
-git clone --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
+git clone -b ns-14607 --depth=1 https://github.com/department-of-veterans-affairs/vets-website ${vagov_apps_dir}
 
 # cd into the newly-cloned repo
 cd ${vagov_apps_dir}
 
-# # Install all dependencies, including devDependencies
-yarn install --production=false
+# # Install dependencies
+yarn install
 
 # # Execute the build script
 npm run build -- --entry static-pages --brand-consolidation-enabled --content-directory=${vagov_content_dir}/pages
