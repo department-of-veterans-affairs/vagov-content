@@ -6,7 +6,9 @@
     "node": "8.10.0"
   },
   "scripts": {
-    "heroku-postbuild": "npm --prefix node_modules/vets-website run build -- --entry static-pages --brand-consolidation-enabled --content-directory=${PWD}/pages",
+    "clean": "rm -rf node_modules && rm package-lock.json",
+    "build": "npm --prefix node_modules/vets-website run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
+    "rebuild": "npm run clean && npm install && npm run build",
     "start": "npm --prefix node_modules/vets-website run heroku-serve build/localhost"
   },
   "dependencies": {
