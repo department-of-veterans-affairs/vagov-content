@@ -96,7 +96,7 @@ We do not sell, rent, or otherwise provide your personal information to outside 
 
 <h3>Digital Analytics Program</h3>
 
-We participate in the <a href="https://digital.gov/dap/">Digital Analytics Program</a>, a government-wide analytics tool for federal agencies. As part of this participation, this website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
+We participate in the <a href="https://digital.gov/dap/" target="_blank">Digital Analytics Program</a>, a government-wide analytics tool for federal agencies. As part of this participation, this website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
 - <a href="https://policies.google.com/privacy?hl=en" target="_blank">Google’s main privacy policy</a>
 - <a href="https://developers.google.com/analytics/" target="_blank">Cookies & Google Analytics on Websites</a>
 - <a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">Opt out of Google Analytics Cookies</a>
