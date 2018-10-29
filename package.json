@@ -14,7 +14,7 @@
     "start": "npm --prefix node_modules/vets-website run heroku-serve build/localhost",
     "heroku-postbuild": "npm run build"
   },
-  "dependencies": {
+  "dependencies":
     "vets-website": "github:department-of-veterans-affairs/vets-website.git#content-deployment-basic"
   }
 }
