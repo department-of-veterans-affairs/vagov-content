@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for Your COE
+title: How to Apply for a VA Home Loan Certificate of Eligibility (COE)
 display_title: How to Apply
 concurrence:
 order: 3

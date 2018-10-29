@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility
+title: Eligibility Requirements for VA Home Loan Programs
+display_title: Eligibility 
 concurrence:
 order: 2
 relatedlinks:
