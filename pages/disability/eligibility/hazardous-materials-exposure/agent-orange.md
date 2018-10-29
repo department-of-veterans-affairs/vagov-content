@@ -67,8 +67,7 @@ You may be able to get disability benefits if both of the below descriptions are
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for benefits. <br>
-[Find out how to file a claim for disability compensation](/disability-benefits/apply/).
+You’ll need to file a claim for benefits and submit your evidence (supporting documents). <br>
 
 **If you have an illness believed to be caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
@@ -89,7 +88,7 @@ When you file your claim, you'll need to submit this evidence:
 </ul>
 </div>
 
-[Apply for disability benefits](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 <br>
 
@@ -114,7 +113,7 @@ When you file your claim, you'll need to submit this evidence:
 </ul>
 </div>
 
-[Apply for disability benefits](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 
 ### Get more information
