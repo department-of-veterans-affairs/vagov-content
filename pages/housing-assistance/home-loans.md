@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Home Loans for Veterans, Servicemembers, and Survivors
-display_title: VA Backed Home Loans
+display_title: VA-Backed Home Loans
 concurrence:
 children: housingHomeLoans
 spoke: VA Home Loans
