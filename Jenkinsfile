@@ -25,10 +25,10 @@ def notify = { ->
 }
 
 def get_master_sha = {
-		def github = GitHub.connect()
-		def repo = github.getRepository('department-of-veterans-affairs/vets-website')
-		def master_branch = repo.getBranch("master")
-		return master_branch.getSHA1()
+  def github = GitHub.connect()
+  def repo = github.getRepository('department-of-veterans-affairs/vets-website')
+  def master_branch = repo.getBranch("master")
+  return master_branch.getSHA1()
 }
 
 node('vetsgov-general-purpose') {
@@ -39,8 +39,8 @@ node('vetsgov-general-purpose') {
       if (!isDeployable()) {
         return
       }
-			script {
-					commit = get_master_sha()
+      script {
+        commit = get_master_sha()
       }
       if (env.BRANCH_NAME == devBranch) {
         build job: 'deploys/vets-website-dev', parameters: [
