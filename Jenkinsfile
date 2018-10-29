@@ -24,13 +24,6 @@ def notify = { ->
   }
 }
 
-def get_master_sha = {
-  def github = GitHub.connect()
-  def repo = github.getRepository('department-of-veterans-affairs/vets-website')
-  def master_branch = repo.getBranch("master")
-  return master_branch.getSHA1()
-}
-
 node('vetsgov-general-purpose') {
   properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', daysToKeepStr: '60']]]);
 
@@ -39,29 +32,8 @@ node('vetsgov-general-purpose') {
       if (!isDeployable()) {
         return
       }
-      script {
-        commit = get_master_sha()
-      }
-      if (env.BRANCH_NAME == devBranch) {
-        build job: 'deploys/vets-website-dev', parameters: [
-          booleanParam(name: 'notify_slack', value: true),
-          stringParam(name: 'ref', value: commit),
-        ], wait: false
-        build job: 'deploys/vets-website-vagovdev', parameters: [
-          booleanParam(name: 'notify_slack', value: true),
-          stringParam(name: 'ref', value: commit),
-        ], wait: false
-      }
-      if (env.BRANCH_NAME == stagingBranch) {
-        build job: 'deploys/vets-website-staging', parameters: [
-          booleanParam(name: 'notify_slack', value: true),
-          stringParam(name: 'ref', value: commit),
-        ], wait: false
-        build job: 'deploys/vets-website-vagovstaging', parameters: [
-          booleanParam(name: 'notify_slack', value: true),
-          stringParam(name: 'ref', value: commit),
-        ], wait: false
-      }
+
+      build job: 'testing/vets-website/master', wait: false
     } catch (error) {
       notify()
       throw error
