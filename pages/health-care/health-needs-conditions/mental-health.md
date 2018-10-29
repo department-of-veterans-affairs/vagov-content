@@ -5,7 +5,7 @@ title: VA Mental Health Services
 display_title: Mental Health
 description: Find out if you qualify for VA benefits for mental health, or how to get care for certain mental health conditions if you don't have VA health care.
 concurrence: complete
-lastupdate: 2018-10-12
+lastupdate: 2018-10-29
 order: 3
 children: healthCareMentalHealth
 aliases:
@@ -45,9 +45,9 @@ Find out how to access VA mental health services for posttraumatic stress disord
 
 ## Getting Started 
 
-If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help. 
+If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you're not alone. And we can help. 
 
-Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
+Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support from other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
 
 ### How do I schedule my first appointment?
 
@@ -58,7 +58,7 @@ Over 1.7 million Veterans received mental health services at VA last year. Our s
 
 ### What if I'm not sure what kind of help I need?
 
-You can call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resource for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>. 
+You can call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resources for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>. 
 
 We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
@@ -93,7 +93,7 @@ To talk with a peer coach, call Military OneSource's free, confidential peer sup
 
 [Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
-You can also call 1-877-WAR VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to talk with a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
+You can also call 1-877-WAR-VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to talk with a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
 
 **If you'd like to connect with other Veterans, families, and local services,** you can visit our Make the Connection website. This site connects millions of Veterans, and their family members and friends, to local VA and community mental health resources. Visit the site to access these referral resources and hear Veteran testimonials of strength and recovery. <br>
 [Go to Make the Connection](https://maketheconnection.net/).
@@ -149,10 +149,10 @@ Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find t
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-same-day">How long will it take to start getting help once I contact VA?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-same-day">How long will it take for me to start getting help once I contact VA?</button>
 <div id="questions-same-day" class="usa-accordion-content">
 
-You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health need, or schedule the right follow-up care, right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for. 
+You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health needs or schedule the right follow-up care right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for. 
 
 **Same-day services may include care such as:**  
 - Meeting face-to-face with a VA health care provider (including walk-in appointments at a clinic or urgent care center)
@@ -172,7 +172,7 @@ You'll start receiving help the day you reach out to us. We offer same-day servi
 
 - [Posttraumatic stress disorder (PTSD)](/health-care/health-needs-conditions/mental-health/ptsd/)
 - [Depression](/health-care/health-needs-conditions/mental-health/depression/)
-- [Suicide prevention](/health-care/health-needs-conditions/mental-health/suicide-prevention/)
+- [Thoughts of suicide](/health-care/health-needs-conditions/mental-health/suicide-prevention/)
 - [Issues related to military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/)
 - [Substance use problems](/health-care/health-needs-conditions/substance-use-problems/)
 - [Bipolar disorder](https://www.mentalhealth.va.gov/bipolar.asp)
@@ -216,9 +216,9 @@ Yes. In addition to online resources, Caregiver Support Coordinators at your nea
 **To get support as a caregiver:**
 
 - [Find a local Caregiver Support Coordinator](https://www.caregiver.va.gov/). 
-- Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday 8:00 a.m. to 8:00 p.m. (ET)
+- Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
-You can also contact our **Coaching Into Care** program to speak directly with a licensed psychologist or social worker, free-of-charge. They can provide information about mental health and VA services as well as tips for how to begin the conversation about treatment with a loved one.
+You can also contact our **Coaching into Care** program to speak directly with a licensed psychologist or social worker, free of charge. They can provide information about mental health and VA services, as well as tips for how to begin the conversation about treatment with a loved one.
 
 **To reach a licensed psychologist or social worker:**
 - [Contact Coaching into Care online](https://www.mirecc.va.gov/coaching/). 
@@ -240,7 +240,7 @@ You can use our facility locator to search for VA health facilities near you. <b
 
 ------
 
-## Resources and Support Beyond VA
+## Resources and Support Outside VA
 
 You can also get support from resources offered by other government departments and community organizations outside of VA.
 
