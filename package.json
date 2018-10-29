@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Content files for VA.gov",
   "engines": {
-    "node": "8.10.0"
+    "node": "8.10.0",
+    "yarn": "1.5.1"
   },
   "scripts": {
     "clean": "rm -rf node_modules && rm package-lock.json",
