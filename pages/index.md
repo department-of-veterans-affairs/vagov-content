@@ -87,7 +87,7 @@ cards:
         nav_path: Request your military records
 hubs:
   - heading: Health Care
-    url: /health-care-broken/
+    url: /health-care/
     hub: health-care
     description: Apply for VA health care, find out how to access services, and manage your health and benefits online.
   - heading: Disability
