@@ -162,7 +162,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.id.me/privacy"><b>ID.me Privacy Policy</b></a>
+    <a href="https://www.id.me/privacy" target="_blank"><b>ID.me Privacy Policy</b></a>
  </div> <br>
 
  <div class="link">
