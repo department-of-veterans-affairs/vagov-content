@@ -82,10 +82,6 @@ You may be able to get help paying for school tuition, testing fees, and advance
 
 [Learn about other educational assistance programs](/education/other-va-education-benefits/).
 
-If you have a service-connected disability that limits your ability to work or prevents you from working, you may be eligible for vocational rehabilitation and employment (VR&E) benefits and services—like help exploring employment options and getting more training if required.
-
-[Find out if you qualify for VR&E benefits and services](/careers-employment/vocational-rehabilitation/eligibility/).
-
 </div>
 </div>
 
@@ -99,6 +95,20 @@ If you have a service-connected disability that limits your ability to work or p
 You may be able to get educational and career counseling (also called Chapter 36) if you’ll be discharged from active duty within 6 months. You may also qualify for these services if you separated from active duty not more than 1 year ago, didn’t receive a dishonorable discharge, and qualify as a Veteran for educational assistance under a VA educational program. <br>
 [Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 <br>
+
+</div>
+</div>
+
+</div><div markdown="0"><br></div>
+
+<div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name"> Are there any related benefits I may also be able to get?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+If you have a service-connected disability that limits your ability to work or prevents you from working, you may be eligible for vocational rehabilitation and employment (VR&E) benefits and services—like help exploring employment options and getting more training if required.
+
+[Find out if you qualify for VR&E benefits and services](/careers-employment/vocational-rehabilitation/eligibility/).
 
 </div>
 </div>
