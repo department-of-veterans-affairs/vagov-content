@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Aid and Attendance and Housebound Allowance
+title: VA Aid and Attendance Benefits and Housebound Allowance
 display_title: Aid and Attendance Benefits and Housebound Allowance
 concurrence: ""
 spoke: Get Benefits
