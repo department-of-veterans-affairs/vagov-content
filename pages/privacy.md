@@ -13,9 +13,9 @@ At VA, we take your privacy seriously. That's why we collect only the personal i
 
 <ul>
   <li><a href="#privacy">VA.gov Privacy Policy</a></li>
-  <li><a href="#privacy-services" target="_blank">VA Privacy Services</a></li>
-  <li><a href="#account" target="_blank">Account Policies</a></li>
-  <li><a href="#other" >Other VA Policies</a></li>
+  <li><a href="#privacy-services">VA Privacy Services</a></li>
+  <li><a href="#account">Account Policies</a></li>
+  <li><a href="#other">Other VA Policies</a></li>
   <li><a href="#links">Federally Required Links</a></li>
 </ul>
 
