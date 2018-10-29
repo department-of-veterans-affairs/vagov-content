@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Survivor Pension Rates
+title: VA Survivors Pension Rates
 display_title: Survivors Pension Rates
 concurrence:  
 spoke: More Resources
