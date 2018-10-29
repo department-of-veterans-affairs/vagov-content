@@ -13,9 +13,9 @@ At VA, we take your privacy seriously. That's why we collect only the personal i
 
 <ul>
   <li><a href="#privacy">VA.gov Privacy Policy</a></li>
-  <li><a href="#privacy-services">VA Privacy Services</a></li>
-  <li><a href="#account">Account Policies</a></li>
-  <li><a href="#other">Other VA Policies</a></li>
+  <li><a href="#privacy-services" target="_blank">VA Privacy Services</a></li>
+  <li><a href="#account" target="_blank">Account Policies</a></li>
+  <li><a href="#other" >Other VA Policies</a></li>
   <li><a href="#links">Federally Required Links</a></li>
 </ul>
 
@@ -97,9 +97,9 @@ We do not sell, rent, or otherwise provide your personal information to outside 
 <h3>Digital Analytics Program</h3>
 
 We participate in the <a href="https://digital.gov/dap/">Digital Analytics Program</a>, a government-wide analytics tool for federal agencies. As part of this participation, this website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
-- <a href="https://policies.google.com/privacy?hl=en">Google’s main privacy policy</a>
-- <a href="https://developers.google.com/analytics/">Cookies & Google Analytics on Websites</a>
-- <a href="https://tools.google.com/dlpage/gaoptout?hl=en">Opt out of Google Analytics Cookies</a>
+- <a href="https://policies.google.com/privacy?hl=en" target="_blank">Google’s main privacy policy</a>
+- <a href="https://developers.google.com/analytics/" target="_blank">Cookies & Google Analytics on Websites</a>
+- <a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">Opt out of Google Analytics Cookies</a>
 
 <h3>Security</h3>
 
@@ -210,9 +210,9 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://usa.gov"><b>USA.gov</b></a>
+  <a href="https://usa.gov" target="_blank"><b>USA.gov</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://whitehouse.gov"><b>White House</b></a>
+  <a href="https://whitehouse.gov" target="_blank"><b>White House</b></a>
  </div> <br>
