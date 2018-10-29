@@ -176,7 +176,7 @@ We can support you in all stages of your job search—from returning to work wit
   <h2>Manage Your Career</h2>
 
   <div class="link">
-    <a href=" https://www.benefits.va.gov/tap/"><b>VA Transition Assistance</b></a>
+    <a href="https://www.benefits.va.gov/tap/"><b>VA Transition Assistance</b></a>
     <p>As you separate from the military, explore your career options by attending a Transition Assistance Program (TAP) briefing.</p>
     </div>
 
