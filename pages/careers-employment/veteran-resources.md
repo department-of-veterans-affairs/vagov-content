@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: External Resources
+title: External Employment Resources for Veterans
 display_title: Veteran Resources
 source: http://www.benefits.va.gov/VOW/vocational-rehabilitation.asp
 template: detail-page
