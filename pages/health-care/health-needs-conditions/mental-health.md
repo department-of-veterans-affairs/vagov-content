@@ -45,9 +45,9 @@ Find out how to access VA mental health services for posttraumatic stress disord
 
 ## Getting Started 
 
-If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you're not alone. And we can help. 
+If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help. 
 
-Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support from other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
+Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
 
 ### How do I schedule my first appointment?
 
@@ -240,7 +240,7 @@ You can use our facility locator to search for VA health facilities near you. <b
 
 ------
 
-## Resources and Support Outside VA
+## Resources and Support outside VA
 
 You can also get support from resources offered by other government departments and community organizations outside of VA.
 
