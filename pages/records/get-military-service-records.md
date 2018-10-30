@@ -37,7 +37,7 @@ Find out how to request your military records, including your DD214, through the
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
-    <br>
+    
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the milConnect website. Go to milConnect to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
       <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>
     </p>
