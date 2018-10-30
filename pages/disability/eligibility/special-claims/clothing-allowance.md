@@ -61,7 +61,7 @@ To get your yearly payment, you’ll need to qualify by August 1 of that year. Y
 **Note**: If you qualify, you'll receive payments between September 1 and October 31.
 
 
-To apply, fill out an Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
+To file a claim, fill out an Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
 [Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
 
 Use our facility locator to find your nearest VA medical center. <br>
