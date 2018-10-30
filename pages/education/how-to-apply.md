@@ -40,7 +40,7 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">How do I prepare before starting my application?</h3>
+<h2 itemprop="name">How do I prepare before starting my application?</h2>
 <div itemprop="itemListElement">
 
 - [Find out if you're eligible for VA education benefits](/education/eligibility/).
@@ -51,7 +51,7 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 
 <div class="feature" markdown="1">
 
-#### What documents and information do I need to apply?
+### What documents and information do I need to apply?
 
 - Social Security number
 - Bank account direct deposit information
@@ -66,12 +66,12 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 
 **Note:** To apply for vocational rehabilitation and employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to apply through our eBenefits website.
 
-[Find out how to apply for vocational rehab and employment](/careers-employment/vocational-rehabilitation/how-to-apply/).
+[Find out how to apply for vocational rehab and employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
 [Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">You can also apply:</h4>
+<h3 itemprop="name">You can also apply:</h3>
 <div itemprop="itemListElement">
 
 #### By mail
@@ -93,7 +93,7 @@ You can work with a trained professional called an accredited representative to 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I apply?</h3>
+<h2 itemprop="name">What happens after I apply?</h2>
 <div itemprop="itemListElement">
 
 [Find out what happens after you apply](/education/after-you-apply/).
@@ -108,7 +108,7 @@ If we’ve asked you for documents, please upload them through the GI Bill websi
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">How long does it take VA to make a decision?</h4>
+<h3 itemprop="name">How long does it take VA to make a decision?</h3>
 <div itemprop="itemListElement">
 
 <div class="card information" markdown="0">
