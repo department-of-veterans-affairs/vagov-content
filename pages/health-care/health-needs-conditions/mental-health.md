@@ -37,29 +37,29 @@ Find out how to access VA mental health services for posttraumatic stress disord
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
 		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is, or if you're enrolled in VA health care.<br>
-			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
+			    <a href="/facilities/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
   	</div>
   </div>
 </div>
 
-## Getting Started 
+## Getting Started
 
-If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help. 
+If you need support for a specific mental health problem—or if you're having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
 
-Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life. 
+Over 1.7 million Veterans received mental health services at VA last year. Our services range from peer support with other Veterans to counseling, therapy, medication, or a combination of these options. Our goal is to help you take charge of your treatment and live a full and meaningful life.
 
 ### How do I schedule my first appointment?
 
 **If you're already using VA medical services,** ask your primary care provider to help you make an appointment with a VA mental health provider.
 
 **If you're not already using VA medical services,** contact your nearest VA medical center or Vet Center to talk about your needs. <br>
-[Find your nearest VA medical center or Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health). 
+[Find your nearest VA medical center or Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
 ### What if I'm not sure what kind of help I need?
 
-You can call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resources for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>. 
+You can call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resources for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>.
 
 We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
@@ -110,7 +110,7 @@ Get answers to other questions you may have about our services.
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">Will using mental health services at VA put my career at risk?</button>
 <div id="questions-risk" class="usa-accordion-content">
-	
+
 Being diagnosed with a mental health condition or seeking mental health care doesn't automatically put work-related credentials, such as security clearances, at risk. Most employers recognize that healthy employees who get help when they need it are more productive and effective in their jobs than those who aren't performing at their best because they're not feeling well.
 
 </div>
@@ -153,7 +153,7 @@ Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find t
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-same-day">How long will it take for me to start getting help once I contact VA?</button>
 <div id="questions-same-day" class="usa-accordion-content">
 
-You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health needs or schedule the right follow-up care right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for. 
+You'll start receiving help the day you reach out to us. We offer same-day services to make sure we can either address your mental health needs or schedule the right follow-up care right away. The specific care you receive will depend on how urgent your needs are and the level of treatment you're looking for.
 
 **Same-day services may include care such as:**  
 - Meeting face-to-face with a VA health care provider (including walk-in appointments at a clinic or urgent care center)
@@ -168,7 +168,7 @@ You'll start receiving help the day you reach out to us. We offer same-day servi
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-problems">What mental health problems does VA treat?</button>
 <div id="questions-problems" class="usa-accordion-content">
-	
+
 **We offer treatment and support for a range of mental health problems, including:**
 
 - [Posttraumatic stress disorder (PTSD)](/health-care/health-needs-conditions/mental-health/ptsd/)
@@ -185,10 +185,10 @@ You'll start receiving help the day you reach out to us. We offer same-day servi
 - [Panic disorder](https://www.mentalhealth.va.gov/panicdisorder.asp)
 - [Social anxiety](https://www.mentalhealth.va.gov/socialanxiety.asp)
 - [Specific phobias](https://www.mentalhealth.va.gov/specificphobias.asp)
-	
+
 </div>
 </li>
-<li>	
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-services">What kinds of mental health services does VA provide?</button>
 <div id="questions-services" class="usa-accordion-content">
 
@@ -216,13 +216,13 @@ Yes. In addition to online resources, Caregiver Support Coordinators at your nea
 
 **To get support as a caregiver:**
 
-- [Find a local Caregiver Support Coordinator](https://www.caregiver.va.gov/). 
+- [Find a local Caregiver Support Coordinator](https://www.caregiver.va.gov/).
 - Or call the Caregiver Support Line <a href="tel:+18552603274">1-855-260-3274</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 You can also contact our **Coaching into Care** program to speak directly with a licensed psychologist or social worker, free of charge. They can provide information about mental health and VA services, as well as tips for how to begin the conversation about treatment with a loved one.
 
 **To reach a licensed psychologist or social worker:**
-- [Contact Coaching into Care online](https://www.mirecc.va.gov/coaching/). 
+- [Contact Coaching into Care online](https://www.mirecc.va.gov/coaching/).
 - Or call <a href="tel:+18888237458">1-888-823-7458</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 </div>
@@ -232,7 +232,7 @@ You can also contact our **Coaching into Care** program to speak directly with a
 <div id="questions-facility" class="usa-accordion-content">
 
 You can use our facility locator to search for VA health facilities near you. <br>
-[Find your nearest VA health facility](/facilities/?zoomLevel=4&page=1&facilityType=health). 
+[Find your nearest VA health facility](/facilities/?zoomLevel=4&page=1&facilityType=health).
 
 </div>
 </li>
@@ -255,7 +255,7 @@ You can also get support from resources offered by other government departments 
 This free service provides expert support to connect military personnel and their families with the best available resources to fit their needs. For support, visit the Military OneSource website or call <a href="tel:+1800-342-9647">1-800-342-9647</a> anytime, day or night.
 
 <b>[The Psychological Health Resource Center](http://pdhealth.mil/)</b><br>
-The center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention. 
+The center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention.
 
 </div>
 </li>
@@ -264,14 +264,14 @@ The center works to improve the lives of Veterans, Servicemembers, and their fam
 <div id="resources-suicide" class="usa-accordion-content">
 
 <b>[The National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)</b><br>
-This 24/7, 365-day-a-year emergency mental health hotline offers support for people experiencing a mental health crisis.<br> 
+This 24/7, 365-day-a-year emergency mental health hotline offers support for people experiencing a mental health crisis.<br>
 
 <b>To reach the hotline:</b>
 - [Start an online chat](https://suicidepreventionlifeline.org/chat/).
 - Or call 1-800-273-TALK (8255) (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 
 <b>[The American Foundation for Suicide Prevention](https://afsp.org/)</b><br>
-The foundation provides mental health resources for people struggling with thoughts of suicide. They also offer supportive educational tools for concerned family, friends and peers. 
+The foundation provides mental health resources for people struggling with thoughts of suicide. They also offer supportive educational tools for concerned family, friends and peers.
 
 <b>[The Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/)</b><br>
 SAMHSA offers free, confidential help with treatment referral and information services for individuals and families facing mental health and/or substance use disorders. Support is available 24/7, 365-days-a-year, in both English and Spanish.<br>
@@ -290,7 +290,7 @@ SAMHSA offers free, confidential help with treatment referral and information se
 NAMI builds better lives for millions of Americans affected by mental illness by providing education programs for families and individuals living with mental health problems.  
 
 <b>[The Jed Foundation](https://www.jedfoundation.org/)</b><br>
-The foundation works closely with teenagers and young adults who may be experiencing mental stress or may be at risk for suicide during times of change. 
+The foundation works closely with teenagers and young adults who may be experiencing mental stress or may be at risk for suicide during times of change.
 
 <b>[Mental Health America](http://www.mentalhealthamerica.net/)</b><br>
 This organization advocates for policies that promote mental health and the rights of people living with mental health problems. They also provide education and connections to mental health resources.
