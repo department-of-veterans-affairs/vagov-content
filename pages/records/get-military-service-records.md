@@ -50,7 +50,22 @@ Find out how to request your military records, including your DD214, through the
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can request documents from your Official Military Personnel File, including your DD214 and DD215 (Correction to DD214).
+You can request documents from your Official Military Personnel File to view and print.
+
+**You can request your:**
+
+- DD214
+- DD215
+- Report of Separation
+- Other release papers
+
+**You can also request documents with information about your service, such as your:**
+
+- Orders and endorsements
+- Performance reports
+- Awards and decorations (commendatory items)
+- Qualifications, licenses, and certificates
+- Security clearance
 
 </ul>
 
@@ -82,13 +97,29 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 Follow the steps below to request your records.
 
 <ol class="process">
-  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b>.</li>
+  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS) from the drop-down menu</b>.</li>
   <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
   <li class="process-step list-three">Then select <b>Request My Personnel File.</b></li>
-  <li class="process-step list-four">Fill out the form and select document type <b>DD214/DD215</b> under <b>Service Computation Group</b>.</li>
+  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request..</li>
   <li class="process-step list-five">Click <b>Create and Send Request</b>.</li>
-  
 </ol>
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What happens after I request documents from my Military Personnel File?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You'll receive an email letting you know that your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
+
+You can also check the status of your request by going back to the "Personnel File" in your DPRIS dashboard. This is also where you'll view and download your files once they're ready.
+
+</div>
+</div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
