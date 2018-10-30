@@ -68,8 +68,8 @@ You may be able to get benefits through 1 of our 2 Montgomery GI Bill programs: 
 
 </div>
 </div>
-</div><div markdown="0"><br></div>
 
+</div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name"> Can I get VA education benefits through other programs?</h3>
@@ -82,12 +82,37 @@ You may be able to get help paying for school tuition, testing fees, and advance
 
 [Learn about other educational assistance programs](/education/other-va-education-benefits/).
 
-If you have a service-connected disability that limits your ability to work or prevents you from working, you may be eligible for vocational rehabilitation and employment (VR&E) benefits and services—like help exploring employment options and getting more training if required.
+</div>
+</div>
 
-[Find out if you qualify for VR&E benefits and services](/careers-employment/vocational-rehabilitation/eligibility/).
+</div><div markdown="0"><br></div>
+
+<div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name">Can I get educational and career counseling through VA?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You may be able to get educational and career counseling (also called Chapter 36) if you’ll be discharged from active duty within 6 months. You may also qualify for these services if you separated from active duty not more than 1 year ago, didn’t receive a dishonorable discharge, and qualify as a Veteran for educational assistance under a VA educational program. <br>
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
+<br>
 
 </div>
 </div>
+
+</div><div markdown="0"><br></div>
+
+<div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name"> Are there any related benefits I may also be able to get?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+If you have a service-connected disability that limits your ability to work or prevents you from working, you may be eligible for Vocational Rehabilitation and Employment benefits and services—like help exploring employment options and getting more training if required. <br>
+
+[Find out if you qualify for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/eligibility/).
+
+</div>
+</div>
+
 </div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -105,6 +130,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
 </div>
 </div>
+
 </div><div markdown="0"><br></div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -117,15 +143,22 @@ In some cases, the dependent or surviving spouse and children of a Veteran can g
 Also, if you haven’t used all of your Post-9/11 GI Bill benefits, you may be able to transfer up to 36 months of benefits to your spouse or a dependent child. <br>
 [Learn more about transferring benefits](/education/transfer-post-9-11-gi-bill-benefits/).
 
-If you have a service-connected disability that limits your ability to work or prevents you from working, your dependent family members may be eligible for career and educational counseling—and other support—through the VR&E program. <br>
-[Learn more about VR&E services for dependent family members](/careers-employment/dependent-benefits/).
+If you have a service-connected disability that limits your ability to work or prevents you from working, your dependent family members may be eligible for educational and career counseling—and other support—through the Vocational Rehabilitation and Employment program. <br>
+[Learn more about vocational rehab services for dependent family members](/careers-employment/dependent-benefits/).
 
 </div>
 </div>
-</div>
+
+</div><div markdown="0"><br></div>
+
 <div id="react-applicationStatus" class="static-page-widget"></div>
 
 [Learn more about how to apply for education benefits](/education/how-to-apply/).
+
+**Note:** To apply for Vocational Rehabilitation and Employment or educational and career counseling benefits and services, you'll need to use a different application.
+
+[Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 
 <div markdown="0"><br></div>
 </div>

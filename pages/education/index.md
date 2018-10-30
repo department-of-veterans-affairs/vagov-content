@@ -223,9 +223,6 @@ hublinks:
 
 <p class="va-introtext">
 VA education benefits help Veterans, Servicemembers, and their qualified family members with needs like paying college tuition, finding the right school or training program, and getting career counseling. Learn how to apply for and manage the education and training benefits you've earned.
-
-You can also call the VA education benefits number at 1-888-GIBILL-1 (888-442-4551). We're here Monday through Friday, 7:00 a.m. — 6:00 p.m. (CT).
-
 </p>
 
 <h3>On This Page</h3>
