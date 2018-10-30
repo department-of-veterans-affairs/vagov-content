@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for Education Benefits
+title: How to Apply for the GI Bill and Other Education Benefits 
 display_title: How to Apply
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 collection: education

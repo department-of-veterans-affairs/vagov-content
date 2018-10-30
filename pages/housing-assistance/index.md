@@ -100,14 +100,11 @@ hublinks:
       external: false
     - url: "/housing-assistance/home-loans/trouble-making-payments/"
       label: Having Trouble Making Payments on a VA-Backed Mortgage?
-      description: Get help to avoid foreclosure if you're struggling to make your monthly
-        mortgage payments.
+      description: Get help to avoid foreclosure if you're struggling to make your monthly mortgage payments.
       external: false
     - url: https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/
       label: A Warning about Home Loan Refinancing Offers
-      description: Learn about the signs of misleading offers to refinance your VA-backed
-        home loan, like claims that you can skip payments or get very low interest rates
-        or other terms that sound too good to be true.
+      description: Learn about the signs of misleading offers to refinance your VA-backed  home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.
       external: false
     - url: https://www.benefits.va.gov/homeloans/resources_veteran.asp
       label: Home Buying Process for Veterans
@@ -125,14 +122,11 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
       label: Find VA-Acquired Properties
-      description: Learn more about buying a home we've acquired because its VA-direct
-        or VA-backed home loan was terminated.
+      description: Learn more about buying a home we've acquired because its VA-direct or VA-backed home loan was terminated.
       external: false
     - url: https://benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf
       label: Guidance on Natural Disasters
-      description: Find out how to get help if you have a VA direct or VA-backed home
-        loan or Specially Adapted Housing grant and your home was damaged by a natural
-        disaster.
+      description: Find out how to get help if you have a VA direct or VA-backed home loan or Specially Adapted Housing grant and your home was damaged by a natural disaster.
       external: false
   - id: manage
     title: Get Veterans Housing Assistance Grants

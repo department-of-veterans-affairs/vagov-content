@@ -96,7 +96,7 @@ hublinks:
         description: Start your Veterans health care application now.</p>
       - url: /health-care/after-you-apply/
         label: After You Apply
-        description: Find out when to expect a decision on your application, and what to do next.</p>
+        description: Find out when to expect a decision on your application, and what to do next.
       - url: /health-care/family-caregiver-benefits/
         label: Family and Caregiver Health Benefits
         description: See if you qualify for VA medical benefits as a spouse, surviving spouse, dependent child, or caregiver.
@@ -143,9 +143,12 @@ hublinks:
         external: true
         label: VA Health Care Costs
         description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
+      - url: /health-care/health-needs-conditions/mental-health/
+        label: Mental Health Service
+        description: Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.
       - url: /health-care/health-needs-conditions/
-        label: Mental Health and Other Health Needs and Conditions
-        description: Find out how to get care for specific needs (like mental health), and learn about service-related health concerns you should be aware of (like Agent Orange-related diseases or Camp Lejeune water contamination).
+        label: Specific Health Needs and Conditions
+        description: Find out how to get care for specific needs (like women's health), and learn about service-related health concerns you should be aware of (like Agent Orange-related diseases or Camp Lejeune water contamination).
       - url: /health-care/wellness-programs/
         label: Veterans Programs for Health and Wellness
         description: Explore VA programs to help you get and stay healthy in both body and mind.

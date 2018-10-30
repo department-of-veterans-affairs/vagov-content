@@ -79,32 +79,26 @@ hublinks:
     links:
     - url: "/life-insurance/options-eligibility/"
       label: About VA Insurance Options and Eligibility
-      description: Find out which life insurance plans you may qualify for—and the benefits
-        you’ll receive with each plan.
+      description: Find out which life insurance plans you may qualify for—and the benefits you’ll receive with each plan.
       external: false
     - url: "/life-insurance/totally-disabled-or-terminally-ill/"
       label: Benefits for Totally Disabled or Terminally Ill Policyholders
-      description: Find out if you can get your insurance premium waived or receive
-        your benefits early in certain situations.
+      description: Find out if you can get your insurance premium waived or receive your benefits early in certain situations.
       external: false
     - url: https://benefits.va.gov/insurance/bfcs.asp
       label: Beneficiary Financial Counseling and Online Will Preparation
-      description: If you're enrolled in a VA life insurance plan, find out if you can
-        get free financial planning and online will preparation services.
+      description: If you're enrolled in a VA life insurance plan, find out if you can get free financial planning and online will preparation services.
       external: false
   - id: manage
     title: Manage Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
       label: Manage Your Policy Online
-      description: Find out how to check your policy's status, update your information,
-        or pay your premium online.
+      description: Find out how to check your policy's status, update your information, or pay your premium online.
       external: false
     - url: https://benefits.va.gov/INSURANCE/updatebene.asp
       label: Update Your Beneficiaries
-      description: Keep the information up to date about who you want to receive your
-        insurance proceeds. This will make it easier for your family members to file
-        a claim in their time of need.
+      description: Keep the information up to date about who you want to receive your insurance proceeds. This will make it easier for your family members to file a claim in their time of need.
       external: false
     - url: https://benefits.va.gov/INSURANCE/sglivgli.asp
       label: File a Claim for Insurance Benefits
@@ -121,47 +115,38 @@ hublinks:
       external: false
     - url: "/life-insurance/file-appeal-for-tsgli/"
       label: File a TSGLI Appeal (VA Form SGLV 8600A)
-      description: If you've received a denial letter for Traumatic Injury Protection
-        Life Insurance benefits that instructs you to use this form, file your appeal
-        by the date provided in your letter.
+      description: If you've received a denial letter for Traumatic Injury Protection Life Insurance benefits that instructs you to use this form, file your appeal by the date provided in your letter.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/vgli_auto_pay.asp
       label: Enroll in VGLI Auto Pay
-      description: Sign up to pay your Veterans' Group Life Insurance premium automatically
-        from your bank account.
+      description: Sign up to pay your Veterans' Group Life Insurance premium automatically from your bank account.
       external: false
     - url: https://www.insurance.va.gov/UnclaimedFunds/
       label: Search for Unclaimed Insurance Funds
-      description: If you think we may owe you funds from a VA insurance policy, search
-        our unclaimed funds records by the qualifying Veteran's name.
+      description: If you think we may owe you funds from a VA insurance policy, search our unclaimed funds records by the qualifying Veteran's name.
       external: false
   - id: more
     title: More Information and Resources
     links:
     - url: https://benefits.va.gov/insurance/lifeins101.asp
       label: How Much Life Insurance Do I Need?
-      description: Use our life insurance needs calculator and VGLI comparison questionnaire
-        to help decide how much life insurance you need.
+      description: Use our life insurance needs calculator and VGLI comparison questionnaire to help decide how much life insurance you need.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/sgli_myths_rumors.asp
       label: Myths and Rumors About SGLI/VGLI Insurance
-      description: Get the facts on common myths, rumors, and misconceptions about SGLI
-        and VGLI insurance.
+      description: Get the facts on common myths, rumors, and misconceptions about SGLI and VGLI insurance.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/SOES.asp
       label: About the SGLI Online Enrollment System (SOES)
-      description: Learn about our new online process for enrolling in Servicemembers'
-        Group Life Insurance.
+      description: Learn about our new online process for enrolling in Servicemembers' Group Life Insurance.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
       label: Contact Us
-      description: Find out how to reach out to ask a question about your policy or
-        file a claim for benefits.
+      description: Find out how to reach out to ask a question about your policy or file a claim for benefits.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/resources-forms.asp
       label: VA Life Insurance Forms
-      description: Find and download the forms you need to apply for and manage your
-        life insurance benefits.
+      description: Find and download the forms you need to apply for and manage your life insurance benefits.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/ins_publications.asp
       label: Publications and Handbooks
@@ -169,14 +154,11 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/payments-eft.asp
       label: Mandatory Electronic Payments
-      description: Learn about the law requiring us to pay all benefits by electronic
-        funds transfer.
+      description: Learn about the law requiring us to pay all benefits by electronic funds transfer.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/uninsurable.asp
       label: Medical Conditions That May Make You Uninsurable
-      description: Find out which medical conditions may make it hard for you to get
-        private life insurance after you separate from service, and what to do to make
-        sure you have coverage.
+      description: Find out which medical conditions may make it hard for you to get private life insurance after you separate from service, and what to do to make sure you have coverage.
       external: false
 ---
 <p class="va-introtext">
