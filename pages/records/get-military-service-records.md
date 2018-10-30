@@ -97,7 +97,7 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 Follow the steps below to request your records.
 
 <ol class="process">
-  <li class="process-step list-one">Click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
+  <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
   <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
   <li class="process-step list-three">Select <b>Request My Personnel File.</b></li>
   <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
@@ -113,9 +113,9 @@ Follow the steps below to request your records.
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You'll receive an email letting you know that your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
+You'll receive an email letting you know your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
 
-You can also check the status of your request by signing in to milConnect and going back to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
+You can also check the status of your request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
@@ -127,7 +127,9 @@ You can also check the status of your request by signing in to milConnect and go
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Yes. You can request your military records in any of these ways:
+Yes. 
+
+**You can request your military records in any of these ways:**
 
 <ul>
   <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC).<br>
