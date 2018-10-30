@@ -9,6 +9,6 @@ heading: Access and manage your VA benefits and health care
 fragments:
   banner: home/banner
   news: home/news
-  cards: home/card
+  cards: home/cards
   hubs: home/hubs
 ---
