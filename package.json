@@ -12,7 +12,7 @@
     "build": "INSTALL_HOOKS=no npm --prefix node_modules/vets-website run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
     "rebuild": "npm run clean && npm install && npm run build",
     "start": "npm --prefix node_modules/vets-website run heroku-serve build/localhost",
-    "heroku-postbuild": "npm run build && npm run clean"
+    "heroku-postbuild": "npm run build && mv node_modules/vets-website/build build && npm run clean"
   },
   "dependencies": {
     "vets-website": "github:department-of-veterans-affairs/vets-website.git"
