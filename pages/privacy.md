@@ -166,11 +166,11 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/privacy-security"><b>My HealtheVet Privacy Policy</b></a>
+  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/privacy-security" target="_blank"><b>My HealtheVet Privacy Policy</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/terms-conditions"><b>My HealtheVet Terms and Conditions</b></a>
+  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/terms-conditions" target="_blank"><b>My HealtheVet Terms and Conditions</b></a>
  </div> <br>
 
  <span id="other"></span>
@@ -180,7 +180,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies"><b>eBenefits Policies</b></a>
+    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies" target="_blank"><b>eBenefits Policies</b></a>
  </div> <br>
 
  <div class="link">
@@ -210,9 +210,9 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://usa.gov" target="_blank"><b>USA.gov</b></a>
+  <a href="https://usa.gov"><b>USA.gov</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://whitehouse.gov" target="_blank"><b>White House</b></a>
+  <a href="https://whitehouse.gov"><b>White House</b></a>
  </div> <br>
