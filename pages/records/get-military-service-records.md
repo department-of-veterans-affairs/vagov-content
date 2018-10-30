@@ -115,7 +115,7 @@ Follow the steps below to request your records.
 
 You'll receive an email letting you know that your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
 
-You can also check the status of your request by going back to the <b>Personnel File</b> tab of your <b>DPRIS</b> dashboard. This is also where you'll view and download your files once they're ready.
+You can also check the status of your request by signing in to milConnect and going back to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
