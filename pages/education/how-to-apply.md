@@ -47,6 +47,11 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 - Gather the documents and information listed below that you’ll need to apply for education benefits.
 - See what benefits you’ll get at the school you want to attend.<br/> [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
 
+**Note:** To apply for vocational rehabilitation and employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to apply through our eBenefits website.
+
+[Find out how to apply for vocational rehab and employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
+
 <div markdown="0"><br></div>
 
 <div class="feature" markdown="1">
@@ -63,11 +68,6 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 </div>
 
 <div id="react-applicationStatus" class="static-page-widget"></div>
-
-**Note:** To apply for vocational rehabilitation and employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to apply through our eBenefits website.
-
-[Find out how to apply for vocational rehab and employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
-[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
