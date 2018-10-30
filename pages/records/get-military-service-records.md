@@ -130,8 +130,8 @@ You can also check the status of your request by signing in to milConnect and go
 Yes. You can request your military records in any of these ways:
 
 <ul>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
-    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC).<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a>.</li>
   <li>Write a letter to the NPRC. Send it to:<br>
     <p class="va-address-block">
 1 Archives Drive<br>
@@ -163,8 +163,8 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
 
 <b>You can request a copy of the Veteran's military records in any of these ways:</b>
 <ul>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
-    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC).<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a>.</li>
   <li>Write a letter to the NPRC. Send it to:<br>
     <p class="va-address-block">
 1 Archives Drive<br>
