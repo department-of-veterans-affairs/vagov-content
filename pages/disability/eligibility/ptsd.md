@@ -81,7 +81,7 @@ Veterans
 ### How do I get these benefits?
 
 You’ll need to file a claim for benefits. <br>
-[Find out how to file a claim for disability compensation](/disability-benefits/apply/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 Please note that the screening process for disability benefits is geared toward getting a full understanding of your PTSD, not treating it. To get help or treatment, contact your health care provider or any of the emergency contacts listed at the top of this page. 
 
