@@ -97,10 +97,10 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 Follow the steps below to request your records.
 
 <ol class="process">
-  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS) from the drop-down menu</b>.</li>
+  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
   <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
   <li class="process-step list-three">Then select <b>Request My Personnel File.</b></li>
-  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request..</li>
+  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
   <li class="process-step list-five">Click <b>Create and Send Request</b>.</li>
 </ol>
 </div>
@@ -109,13 +109,13 @@ Follow the steps below to request your records.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What happens after I request documents from my Military Personnel File?</h2>
+<h2 itemprop="name">What happens after I request my records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 You'll receive an email letting you know that your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
 
-You can also check the status of your request by going back to the "Personnel File" in your DPRIS dashboard. This is also where you'll view and download your files once they're ready.
+You can also check the status of your request by going back to the <b>Personnel File</b> tab of your DPRIS dashboard. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
@@ -132,17 +132,17 @@ Yes. You can request your military records in any of these ways:
 <ul>
   <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
     <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
-  <li>Write a letter to the NPRC</li>
-  <li>Visit the NPRC in St. Louis, Missouri, in person</li>
+  <li>Write a letter to the NPRC. Send it to:<br>
+    <p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br>
+</p> </li>
+  <li>Visit the NPRC in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
 
-The NPRC in Missouri is located at:
-<p class="va-address-block">
-1 Archives Drive<br>
-St. Louis, Missouri 63138<br>
-</p> 
+
 
 </div>
 </div>
@@ -165,17 +165,14 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
 <ul>
   <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)<br>
     <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a></li>
-  <li>Write a letter to the NPRC</li>
-  <li>Visit the NPRC in St. Louis, Missouri, in person</li>
+  <li>Write a letter to the NPRC. Send it to:<br>
+    <p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br></li>
+  <li>Visit the NPRC in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
-
-The NPRC in Missouri is located at:
-<p class="va-address-block">
-1 Archives Drive<br>
-St. Louis, Missouri 63138<br>
-</p> 
 
 <b>You may be considered the next of kin if you're related to the Veteran in any of these ways:</b>
 <ul>
