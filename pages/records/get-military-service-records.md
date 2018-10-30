@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Get Your Military Service Records (including DD214)
+title: Request Your Military Service Records (including DD214)
 display_title: Request Military Records
 concurrence:
 plainlanguage:
@@ -30,16 +30,16 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to access to your military records, including your DD214, through our eBenefits website.
+Find out how to request your military records, including your DD214, through the milConnect website.
 
 </div>
 
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to get your service records</h4>
-    <br>
-  <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file">Go to eBenefits to Get Your Records</a>
+    <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
+    
+  <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the milConnect website. Go to milConnect to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
+      <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>
     </p>
   </div>
 </div>
@@ -50,23 +50,23 @@ Find out how to access to your military records, including your DD214, through o
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can review and print documents from your Official Military Personnel File.
+You can request documents from your Official Military Personnel File to view and download.
 
-<b>You can access your:</b>
-<ul>
-  <li>DD214</li>
-  <li>Report of Separation</li>
-  <li>Other release papers</li>
-</ul>
+**You can request your:**
 
-<b>You may also be able to access documents with information about aspects of your service, such as your:</b>
-<ul>
-  <li>Duty stations and assignments</li>
-  <li>Training, qualifications, and performance</li>
-  <li>Awards and decorations</li>
-  <li>Any disciplinary actions</li>
-  <li>Insurance</li>
-  <li>Administrative remarks</li>
+- DD214
+- DD215
+- Report of Separation
+- Other release papers
+
+**You can also request documents with information about your service, such as your:**
+
+- Orders and endorsements
+- Performance reports
+- Awards and decorations (commendatory items)
+- Qualifications, licenses, and certificates
+- Security clearance
+
 </ul>
 
 </div>
@@ -81,8 +81,41 @@ You can review and print documents from your Official Military Personnel File.
 
 You’ll need to have a Premium <b>DS Logon</b> account (used for eBenefits and milConnect).
 
-If you don’t have a Premium DS Logon account, find out how to create or upgrade an account on eBenefits. <br>
-<a href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file">Go to eBenefits</a>.
+If you don’t have a Premium <b>DS Logon</b> account, find out how to create or upgrade an account on milConnect. <br>
+<a href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>.
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my military service records?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+Follow the steps below to request your records.
+
+<ol class="process">
+  <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
+  <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
+  <li class="process-step list-three">Select <b>Request My Personnel File</b>.</li>
+  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
+  <li class="process-step list-five">Click or tap on the <b>Create and Send Request</b> button.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What happens after I request my records?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You'll receive an email letting you know your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
+
+You can also check the status of your request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
@@ -94,19 +127,24 @@ If you don’t have a Premium DS Logon account, find out how to create or upgrad
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>Yes. You can request your military records in any of these ways:</b>
+Yes. 
+
+**You can request your military records in any of these ways:**
 
 <ul>
-  <li>Submit a request through the eVetsRec.gov website</li>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)</li>
-  <li>Write a letter to the NPRC</li>
-  <li>Visit the NPRC in St. Louis, Missouri, in person</li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC).<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a>.</li>
+  <li>Write a letter to the NPRC. Send it to:<br>
+    <p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br>
+</p> </li>
+  <li>Visit the NPRC in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
 
-Visit the National Archives website to learn more about requesting your military service records. <br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/veterans/military-service-records">Get instructions for different ways to request your records</a>.
+
 
 </div>
 </div>
@@ -127,10 +165,13 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
 
 <b>You can request a copy of the Veteran's military records in any of these ways:</b>
 <ul>
-  <li>Submit a request through the eVetsRec.gov website</li>
-  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC)</li>
-  <li>Write a letter to the NPRC</li>
-  <li>Visit the NPRC in St. Louis, Missouri, in person</li>
+  <li>Mail or fax a Request Pertaining to Military Records (Standard Form SF 180) to the National Personnel Records Center (NPRC).<br>
+    <a href="https://www.archives.gov/files/sf180-request-pertaining-to-military-records-exp-april2018-1.pdf">Download Form SF 180</a>.</li>
+  <li>Write a letter to the NPRC. Send it to:<br>
+    <p class="va-address-block">
+1 Archives Drive<br>
+St. Louis, Missouri 63138<br></li>
+  <li>Visit the NPRC in person</li>
   <li>Contact your state or county Veterans agency</li>
   <li>Hire an independent researcher</li>
 </ul>
@@ -143,15 +184,12 @@ Call our National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800
   <li>Sibling
 </ul>
 
-Visit the National Archives website to learn more about requesting military service records. <br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/ompf-access">Find out how to access records as the next of kin</a>.
-
 <h4>If you're not the Veteran's next of kin</h4>
 
 <b>If the Veteran was discharged more than 62 years ago,</b> you can order a copy of their military records. The National Archives opens all records to the public 62 years after discharge. <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/military-personnel/ompf-archival-requests">Learn how to access archived records</a>. <br>
 
-<b>If the Veteran was discharged less than 62 years ago,</b> you may be able to request limited information from their Official Military Personnel File. <br>
+<b>If the Veteran was discharged less than 62 years ago,</b> you may be able to request limited information from their Military Personnel File. <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/ompf-access-public">Find out about general public access to military records</a>.
 
 </div>
