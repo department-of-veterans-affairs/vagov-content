@@ -99,7 +99,7 @@ Follow the steps below to request your records.
 <ol class="process">
   <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
   <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
-  <li class="process-step list-three">Select <b>Request My Personnel File.</b></li>
+  <li class="process-step list-three">Select <b>Request My Personnel File</b>.</li>
   <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
   <li class="process-step list-five">Click or tap on the <b>Create and Send Request</b> button.</li>
 </ol>
