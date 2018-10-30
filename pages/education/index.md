@@ -15,8 +15,8 @@ promo:
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
-    - url: https://www.benefits.va.gov/TAP/index.asp
-      title: <b>Transition Assistance Program (VA TAP)</b>
+    - url: https://www.benefits.va.gov/tap/
+      title: <b>VA Transition Assistance</b>
       description: Learn about VA benefits available to you and your family as you transition out of active-duty, National Guard, or Reserve service.
     - url:  /careers-employment/vocational-rehabilitation/
       title: <b>Vocational Rehabilitation and Employment</b>

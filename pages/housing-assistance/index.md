@@ -127,7 +127,7 @@ Chat online with a trained VA staff member
   <h2>Get VA Home Loan Benefits</h2>
 
   <div class="link">
-    <a href="/housing-assistance/home-loans/"><b>About VA Home Loan Types</b></a>
+    <a href="/housing-assistance/home-loans/loan-types/"><b>VA Home Loan Types</b></a>
     <p>Learn how VA direct and VA-backed home loans work—and find out which loan type may be right for you.</p>
   </div>
 

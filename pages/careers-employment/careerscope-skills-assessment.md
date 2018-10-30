@@ -1,5 +1,6 @@
 ---
-title: CareerScope
+title: CareerScope Assessment
+display_title: CareerScope
 layout: page-breadcrumbs.html
 template: detail-page
 concurrence: incomplete

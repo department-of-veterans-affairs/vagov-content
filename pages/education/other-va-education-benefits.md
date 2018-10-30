@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Other Educational Assistance Programs
+title: Other VA Education Benefits
+display_title: Other Education Benefits
 concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 collection: education

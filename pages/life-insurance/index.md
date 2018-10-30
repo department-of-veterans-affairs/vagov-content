@@ -100,7 +100,7 @@ VA life insurance can offer financial security and support for Veterans, Service
   </div>
 
   <div class="link">
-    <a href="/life-insurance/totally-disabled-or-terminally-ill/"><b>Benefits for Totally Disabled or Terminally Ill Policyholders</b></a>
+    <a href="/life-insurance/totally-disabled-or-terminally-ill/"><b>Benefits for Policyholders Who Are Totally Disabled or Terminally Ill</b></a>
     <p>Find out if you can get your insurance premium waived or receive your benefits early in certain situations.
   </div>
 

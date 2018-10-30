@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VR&E Programs for Servicemembers and Veterans
+title: Vocational Rehab Programs for Veterans and Servicemembers
 display_title: Programs
 order: 1
 template: detail-page
@@ -29,6 +29,6 @@ aliases:
 
 <div class="va-introtext">
 
-If you're a Servicemember or Veteran with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
+If you're a Veteran or Servicemember with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
 
 </div>
