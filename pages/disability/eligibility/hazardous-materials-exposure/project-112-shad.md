@@ -45,7 +45,7 @@ You may be able to get disability benefits if you meet both of the requirements 
 ### How do I get these benefits?
 
 You’ll need to file a claim for benefits. You can call the VA Special Issues Helpline at <a href="tel:+18007498387">1-800-749-8387</a>. Or you can file a claim online. <br>
-[Find out how to file a claim for disability compensation](/disability-benefits/apply/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 If you were part of Projects 112 or SHAD from 1962 to 1974 and want to know more about a certain test site, ship, or unit, see the declassified Department of Defense fact sheets. <br>
 [Get declassified Department of Defense fact sheets]( http://www.health.mil/Military-Health-Topics/Health-Readiness/Environmental-Exposures/Project-112-SHAD/Fact-Sheets).
