@@ -9,9 +9,9 @@ order: 1
 hub: education
 promo:
   - image: /img/megamenu/education-training-illustration.png
-    heading: GI Bill School Feedback Tool
-    url: "https://www.benefits.va.gov/GIBILL/Feedback.asp"
-    description: Find out how to give us feedback about your GI Bill school.
+    heading: GI Bill® Comparison Tool
+    url: "/gi-bill-comparison-tool"
+    description: Learn about education programs and compare benefits by school.
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
