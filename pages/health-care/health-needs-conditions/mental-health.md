@@ -30,14 +30,14 @@ If you qualify for VA health care, you can get high-quality mental health servic
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
-		    <li>Call TTY if you have hearing loss <a href="tel:+1-800-799-4889">1-800-799-4889</a></li>
+		    <li>Call TTY if you have hearing loss <a href="tel:+1-800-799-4889">1-800-799-4889</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
 		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is, or if you're enrolled in VA health care.<br>
-			    <a href="https://www.accesstopwt.va.gov/Main/StateMap/true">Find your nearest VA medical center</a></li>
+			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
   	</div>
