@@ -50,7 +50,7 @@ Find out how to request your military records, including your DD214, through the
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can request documents from your Official Military Personnel File to view and print.
+You can request documents from your Official Military Personnel File to view and download.
 
 **You can request your:**
 
@@ -97,9 +97,9 @@ If you don’t have a Premium <b>DS Logon</b> account, find out how to create or
 Follow the steps below to request your records.
 
 <ol class="process">
-  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>, then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
+  <li class="process-step list-one">Click <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
   <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
-  <li class="process-step list-three">Then select <b>Request My Personnel File.</b></li>
+  <li class="process-step list-three">Select <b>Request My Personnel File.</b></li>
   <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
   <li class="process-step list-five">Click <b>Create and Send Request</b>.</li>
 </ol>
@@ -115,7 +115,7 @@ Follow the steps below to request your records.
 
 You'll receive an email letting you know that your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
 
-You can also check the status of your request by going back to the <b>Personnel File</b> tab of your DPRIS dashboard. This is also where you'll view and download your files once they're ready.
+You can also check the status of your request by going back to the <b>Personnel File</b> tab of your <b>DPRIS</b> dashboard. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
@@ -187,7 +187,7 @@ St. Louis, Missouri 63138<br></li>
 <b>If the Veteran was discharged more than 62 years ago,</b> you can order a copy of their military records. The National Archives opens all records to the public 62 years after discharge. <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/military-personnel/ompf-archival-requests">Learn how to access archived records</a>. <br>
 
-<b>If the Veteran was discharged less than 62 years ago,</b> you may be able to request limited information from their Official Military Personnel File. <br>
+<b>If the Veteran was discharged less than 62 years ago,</b> you may be able to request limited information from their Military Personnel File. <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.archives.gov/personnel-records-center/ompf-access-public">Find out about general public access to military records</a>.
 
 </div>
