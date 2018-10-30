@@ -40,12 +40,13 @@ Our National Center for PTSD is the world leader in PTSD research, education, an
 	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
-	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
+	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
 	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>
 	    <ul>
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
+		    <li>Call TTY if you have hearing loss <a href="tel:+1-800-799-4889">1-800-799-4889</a></li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
