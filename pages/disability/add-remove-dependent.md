@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Adding Dependents to Your VA Disability Benefits
+title: Add Dependents to Your VA Disability Benefits
 display_title: Add or Remove a Dependent
 description: Find out how to add a dependent family member to your VA disability compensation benefits so you can get a higher payment to help support your family.
 concurrence: Incomplete
