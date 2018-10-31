@@ -3,7 +3,6 @@ layout: home.html
 body_class: home
 title: Home
 plainlanguage:
-enablewarning: false
 description: Apply for and manage the VA benefits and services you’ve earned as a Veteran, Servicemember, or family member—like health care, disability, education, and more.
 heading: Access and manage your VA benefits and health care
 fragments:
@@ -11,4 +10,5 @@ fragments:
   news: home/news
   cards: home/cards
   hubs: home/hubs
+  
 ---
