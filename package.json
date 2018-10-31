@@ -8,12 +8,12 @@
   },
   "scripts": {
     "clean": "rm -rf node_modules && rm package-lock.json",
-    "postinstall": "cd node_modules/vets-website && yarn install --production=false",
-    "build": "INSTALL_HOOKS=no npm --prefix node_modules/vets-website run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
-    "heroku-postbuild": "npm run build && mv node_modules/vets-website/build/localhost public && npm run clean && npm run serve",
-    "serve": "npm install http-server && node_modules/http-server public"
+    "preinstall": "git clone --single-branch --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
+    "postinstall": "cd ../vagov-apps && yarn install --production=false",
+    "build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
+    "serve": "mv ../vagov-apps/build/localhost public && node_modules/http-server public"
   },
   "dependencies": {
-    "vets-website": "github:department-of-veterans-affairs/vets-website.git"
+    "http-server": "^0.11.1"
   }
 }
