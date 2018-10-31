@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Vietnam Waters
+title: Agent Orange Exposure in Vietnam Waters (Blue Navy Veterans)
+display_title: Vietnam Waters
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
