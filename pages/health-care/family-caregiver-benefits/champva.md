@@ -54,7 +54,7 @@ There are other factors that may affect whether you or other family members qual
         </ul>
         <p>Medical claims can’t be paid until you sign your baby up under CHAMPVA, so please get them a Social Security number and set their status as a dependent as soon as possible.</p>
         <a href='https://secure.ssa.gov/ICON/main.jsp'>Find a Social Security office near you.</a><br>
-        <a href='https://preview.va.gov/facilities/?facilityType=benefits'>Find a VA regional benefit office near you.</a><br>
+        <a href='/find-locations/?facilityType=benefits'>Find a VA regional benefit office near you.</a><br>
       </div>
     </li>
     <li>
