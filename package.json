@@ -7,10 +7,12 @@
     "yarn": "1.5.1"
   },
   "scripts": {
-    "preinstall": "git clone --single-branch --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
-    "postinstall": "cd ../vagov-apps && yarn install --production=false",
-    "build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
-    "start": "mv ../vagov-apps/build/localhost public && node_modules/http-server public"
+    "vagov-apps:clone": "git clone --single-branch --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
+    "vagov-apps:install": "cd ../vagov-apps && yarn install --production=false",
+    "vagov-apps:build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
+    "move-output": "mv ../vagov-apps/build/localhost public && node_modules/http-server public",
+    "preinstall": "npm run vagov-apps:clone && npm run vagov-apps:install && vagov-apps:build",
+    "postinstall": "npm run move-output && node_modules/http-server public"
   },
   "dependencies": {
     "http-server": "^0.11.1"
