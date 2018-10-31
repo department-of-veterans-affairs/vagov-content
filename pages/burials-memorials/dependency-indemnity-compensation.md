@@ -125,3 +125,24 @@ First you’ll need to fill out an application for benefits. The application you
 
 - Go to a VA regional benefit office and get help from a VA employee. <br>
 [Find a VA regional benefit office near you](/facilities/).
+
+---------
+
+### If I start my application for compensation, does VA consider this "intent to file"?
+
+No. Simply starting your application doesn’t show your intent to file. You'll need to submit an intent to file form, which sets the effective date (the day you can start getting your benefits). Then you can focus on gathering supporting documents to turn in with your application. If you submit an intent to file before you file your claim, you may be able to get retroactive payments (money you'll get starting from your effective date).
+
+### How do I submit an intent to file form?
+
+Download, fill out, and submit an Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC (VA Form 21-0966). <br>
+[Download VA Form 21-0966](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf).
+
+**Turn in your form in either of these ways:**
+
+- Bring it in or mail it to your nearest regional benefit office. <br>
+[Find your nearest Regional Benefits Office ](/facilities/).
+
+- Work with a trained professional called an accredited representative to get help applying for VA dependency and indemnity compensation. <br>
+[Get help filing a claim](/disability/get-help-filing-claim/).
+
+</br>
