@@ -82,7 +82,7 @@ hublinks:
         for other burial honors.
       external: false
     - url: "/burials-memorials/pre-need-eligibility/"
-      label: Pre-Need Burial Eligibility Determination
+      label: Pre-need Burial Eligibility Determination
       description: Apply for a pre-need eligibility decision letter. This can help you
         pre-plan for burial in a VA national cemetery, and make the process easier for
         your family members in their time of need.
