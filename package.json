@@ -7,7 +7,6 @@
     "yarn": "1.5.1"
   },
   "scripts": {
-    "clean": "rm -rf node_modules && rm package-lock.json",
     "preinstall": "git clone --single-branch --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
     "postinstall": "cd ../vagov-apps && yarn install --production=false",
     "build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
