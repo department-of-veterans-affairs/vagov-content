@@ -10,8 +10,8 @@
     "clean": "rm -rf node_modules && rm package-lock.json",
     "postinstall": "cd node_modules/vets-website && yarn install --production=false",
     "build": "INSTALL_HOOKS=no npm --prefix node_modules/vets-website run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
-    "rebuild": "npm run clean && npm install && npm run build",
-    "heroku-postbuild": "npm run build && mv node_modules/vets-website/build/localhost public && npm run clean"
+    "heroku-postbuild": "npm run build && mv node_modules/vets-website/build/localhost public && npm run clean && npm run serve",
+    "serve": "npm install http-server && node_modules/http-server public"
   },
   "dependencies": {
     "vets-website": "github:department-of-veterans-affairs/vets-website.git"
