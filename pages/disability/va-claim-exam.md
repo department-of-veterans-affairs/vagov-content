@@ -229,7 +229,6 @@ We may ask you to have a claim exam if you appeal your disability benefits decis
 </div>
 </li>
 </ul>
-</div>
 
 ### What if I have more questions about my exam?
 
