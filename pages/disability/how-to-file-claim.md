@@ -120,7 +120,7 @@ Download, fill out, and submit an Intent to File a Claim for Compensation and/or
 - Bring it in or mail it to your nearest regional benefit office. <br>
 [Find your nearest Regional Benefits Office ](/facilities/).
 
-- Work with a trained professional called an accredited representative to get help applying for VA pension benefits. <br>
+- Work with a trained professional called an accredited representative to get help applying for VA disability benefits. <br>
 [Get help filing a claim](/disability/get-help-filing-claim/).
 
 </br>
