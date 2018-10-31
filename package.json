@@ -13,7 +13,7 @@
     "vagov-apps:http-server": "../vagov-apps/node_modules/http-server-server ../vagov-apps/build/localhost",
     "move-output": "mv ../vagov-apps/build build",
     "preinstall": "npm run vagov-apps:clone && npm run vagov-apps:install && npm run vagov-apps:build && npm run move-output",
-    "start": "node_modules/http-server build/localhost"
+    "start": "http-server build/localhost"
   },
   "dependencies": {
     "http-server": "^0.11.1"
