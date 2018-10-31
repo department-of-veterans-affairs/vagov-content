@@ -10,7 +10,7 @@
     "preinstall": "git clone --single-branch --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
     "postinstall": "cd ../vagov-apps && yarn install --production=false",
     "build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-deployment --content-directory=${PWD}/pages --entry static-pages --brand-consolidation-enabled",
-    "serve": "mv ../vagov-apps/build/localhost public && node_modules/http-server public"
+    "start": "mv ../vagov-apps/build/localhost public && node_modules/http-server public"
   },
   "dependencies": {
     "http-server": "^0.11.1"
