@@ -73,6 +73,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Get a VA pension
 - Are a former Prisoner of War (POW)
 - Have received a Purple Heart
+- Have received a Medal of Honor
 - Get (or qualify for) Medicaid benefits
 - Served in Vietnam between January 9, 1962, and May 7, 1975
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
