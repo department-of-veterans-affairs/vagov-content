@@ -43,7 +43,7 @@ Depression is a serious illness, but this common mental health problem is also h
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
-		    <li>Call TTY if you have hearing loss <a href="tel:+1-800-799-4889">1-800-799-4889</a>.</li>
+		    <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
