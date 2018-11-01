@@ -55,25 +55,25 @@ You may be eligible for additional disability compensation for a spouse, child, 
 
 </div>
 
-## When should I file a claim to add a dependent to my benefits?
+## When should I add a dependent to my benefits?
 
-This depends on where you are in the process of applying for disability compensation.
+This depends on where you are in the process of filing for disability compensation.
 
 ### If you haven’t applied yet for disability compensation
 
-You may file a claim for additional disability compensation for a dependent at the same time as you file your original claim for disability compensation.
+You can file a claim for additional compensation for a dependent at the same time as you file your original claim for disability compensation.
 
-If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional disability compensation for your dependent. <br>
+If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional compensation for your dependent. <br>
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
 
 ### If you have one or more dependents, but you didn’t claim them when you originally applied for disability compensation 
 
-If you have a combined disability rating of at least 30%, you may file your claim for additional disability compensation online.
+If you have a combined disability rating of at least 30%, you can file your claim for additional disability compensation online.
 
 ### If something changes in your family status after you received a combined disability rating of at least 30%
 
-You may file a claim for additional disability compensation online whenever you add a dependent.
+You can file a claim for additional disability compensation online whenever you add a dependent.
 
 **You can add a dependent if:**
 
