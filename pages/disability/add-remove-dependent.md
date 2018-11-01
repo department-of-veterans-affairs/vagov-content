@@ -55,13 +55,13 @@ You may be eligible for additional disability compensation for a spouse, child, 
 
 </div>
 
-## When should I file a claim for additional disability compensation for a dependent?
+## When should I file a claim to add a dependent to my benefits?
 
 This depends on where you are in the process of applying for disability compensation.
 
 ### If you haven’t applied yet for disability compensation
 
-You may file a claim at the same time as you apply for disability compensation.
+You may file a claim for additional disability compensation for a dependent at the same time as you file your original claim for disability compensation.
 
 If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional disability compensation for your dependent. <br>
 
@@ -85,14 +85,15 @@ You may file a claim for additional disability compensation online whenever you 
 
 ------
 
-## How do I file a claim? 
-You can file your claim online right now. 
+## How do I add a dependent to my benefits?
+
+You can file a claim for additional compensation for a child or spouse online right now. 
 
 ### To file a claim for additional disability compensation for a child or spouse
 
 **Note:** You may need to provide more information or forms along with your claim.
  
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to File Your Claim</a>	
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to Add a Dependent Child or Spouse</a>	
 
 **If you’re claiming your child who became permanently disabled before they turned 18,** you’ll need to turn in all private medical records relating to the child’s disabilities with your application. 
 
