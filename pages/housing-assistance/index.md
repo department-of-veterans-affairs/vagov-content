@@ -99,13 +99,8 @@ We offer many programs and services that may help—including free health care a
 [Find the nearest VA medical center](#).
 
 **Talk with someone right now:**
-
-If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
-
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">
-Chat online with a trained VA staff member
-</a>.
-
+      <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
    </div>
   </div>
  </div>
