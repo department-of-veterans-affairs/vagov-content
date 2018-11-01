@@ -125,4 +125,4 @@ First you’ll need to fill out an application for benefits. The application you
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 - Go to a VA regional benefit office and get help from a VA employee. <br>
-[Find a VA regional benefit office near you](/facilities/).
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
