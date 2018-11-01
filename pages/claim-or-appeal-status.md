@@ -81,11 +81,30 @@ Find out how to check the status of a VA claim or appeal online.
 You'll see where your claim or appeal is in our review process, and when we think we'll complete our review.
 
 <b>You can also view these details:</b>
-- Any evidence you've filed to support your claim
+- Any evidence you've filed online to support your initial claim
 - Any additional evidence we've requested from you
 - Your claim type
 - What you've claimed
 - Your representative for VA claims
+
+**Note:** You can only upload documents to support your initial claim online. You can't upload documents to support an appeal online.
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What if I don't see a document I sent to VA as evidence?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+This may be because certain documents won't appear online.
+
+<b>You won't see any documents:</b>
+- You sent us by mail or fax, <b>or</b>
+- You brought to us in person, <b>or</b>
+- We've restricted to protect your or someone else's confidentiality (privacy) 
+
 </div>
 </div>
 </div>
