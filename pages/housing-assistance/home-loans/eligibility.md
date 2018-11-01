@@ -69,7 +69,6 @@ You may be able to get a COE if you didn't receive a dishonorable discharge and 
 </div>
 </li>
 </ul>
-</div>
 
 <br>
 
