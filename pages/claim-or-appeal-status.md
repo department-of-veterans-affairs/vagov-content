@@ -100,7 +100,7 @@ You'll see where your claim or appeal is in our review process, and when we thin
 
 This may be because certain documents won't appear online.
 
-<b>You won't be able to see documents that:</b>
+<b>You won't see documents that:</b>
 - You sent to us by mail or fax, <b>or</b>
 - You brought to us in person, <b>or</b>
 - We've restricted to protect your or someone else's confidentiality (privacy) 
