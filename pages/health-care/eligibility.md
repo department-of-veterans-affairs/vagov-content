@@ -73,6 +73,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Get a VA pension
 - Are a former Prisoner of War (POW)
 - Have received a Purple Heart
+- Have received a Medal of Honor
 - Get (or qualify for) Medicaid benefits
 - Served in Vietnam between January 9, 1962, and May 7, 1975
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
@@ -148,7 +149,6 @@ Your priority group may affect how soon we sign you up for health care benefits.
 - Other benefits you may be receiving (like pension benefits)
 
 We assign Veterans with service-connected disabilities the highest priority. We assign the lowest priority to Veterans who earn a higher income and who don’t have any service-connected disabilities qualifying them for disability compensation (monthly payments).<br/>
-[View the different priority groups](https://www.va.gov/HEALTHBENEFITS/resources/priority_groups.asp).
 
 </div>
 </div>

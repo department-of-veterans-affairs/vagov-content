@@ -89,7 +89,7 @@ Apply by mail using an Application for Burial Benefits (VA Form 21P-530). <br>
 [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
 
 Mail the application and other paperwork to your nearest VA regional benefit office. <br>
-[Find your nearest regional benefit office](/facilities).
+[Find your nearest VA regional benefit office](/facilities).
 
 If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>). Our TTY number for people with hearing impairments is 711. Or call your regional benefit office.
 

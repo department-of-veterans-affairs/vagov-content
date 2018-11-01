@@ -38,7 +38,6 @@ After you’ve applied for VA health care, we’ll send you a letter in the mail
 
 **Read your Veterans Health Benefits Handbook.** We’ll send this to you by mail. Your handbook will explain your specific health care benefits (based on the priority group we assigned you), how much you’ll pay in copays, and other helpful information. <br />
 [Download a sample handbook](https://www.va.gov/healthbenefits/vhbh/publications/vhbh_sample_handbook_2014.pdf). <br />
-[Learn more about priority groups](https://www.va.gov/healthbenefits/resources/priority_groups.asp).
 
 </li>
 
