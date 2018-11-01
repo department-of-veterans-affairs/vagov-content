@@ -87,9 +87,9 @@ You can file a claim for additional disability compensation whenever you add a d
 
 ## How do I add a dependent to my benefits?
 
-You can file a claim for additional compensation for a child or spouse online right now. 
-
 ### To file a claim for additional disability compensation for a child or spouse
+
+You can file a claim for additional compensation for a child or spouse online right now through our eBenefits website. 
 
 **Note:** You may need to provide more information or forms along with your claim.
  
