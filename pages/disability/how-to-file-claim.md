@@ -118,8 +118,8 @@ Download, fill out, and submit an Intent to File a Claim for Compensation and/or
 
 **Turn in your form in either of these ways:**
 
-- Bring it in or mail it to your nearest regional benefit office. <br>
-[Find your nearest regional benefits office](/facilities/).
+- Bring it in or mail it to your nearest VA regional benefit office. <br>
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
 - Work with a trained professional called an accredited representative to get help applying for VA disability benefits. <br>
 [Get help filing a claim](/disability/get-help-filing-claim/).
