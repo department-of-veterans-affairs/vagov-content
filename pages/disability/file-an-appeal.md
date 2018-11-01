@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Appeals
+title: File a VA Disability Appeal
 display_title: File an Appeal
 description: Learn about the VA appeals process--how to file an appeal, the average wait time for a decision, and how to track the status of your appeal.
 order: 3
@@ -21,7 +21,7 @@ You have the right to appeal any benefits decision made by the Veterans Benefits
 
 ### Have you already filed an appeal?
 
-When the Veterans Benefits Administration Regional Office receives your Notice of Disagreement, you’ll be able to check the status of your appeal on VA.gov.
+When the Veterans Benefits Administration Regional Office receives your Notice of Disagreement, you’ll be able to check the status of your appeal online.
 
 <a class="usa-button-primary" href="/track-claims">Track Your Appeal</a>
 

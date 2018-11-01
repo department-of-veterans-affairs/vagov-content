@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Educational and Career Counseling
+title: Educational and Career Counseling (Chapter 36)
+display_title: Educational and Career Counseling
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4

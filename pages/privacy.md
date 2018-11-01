@@ -96,10 +96,10 @@ We do not sell, rent, or otherwise provide your personal information to outside 
 
 <h3>Digital Analytics Program</h3>
 
-We participate in the <a href="https://digital.gov/dap/">Digital Analytics Program</a>, a government-wide analytics tool for federal agencies. As part of this participation, this website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
-- <a href="http://www.google.com/intl/en/policies/privacy">Google’s main privacy policy</a>
-- <a href="https://developers.google.com/analytics/">Cookies & Google Analytics on Websites</a>
-- <a href="https://tools.google.com/dlpage/gaoptout?hl=en">Opt out of Google Analytics Cookies</a>
+We participate in the <a href="https://digital.gov/dap/" target="_blank">Digital Analytics Program</a>, a government-wide analytics tool for federal agencies. As part of this participation, this website uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
+- <a href="https://policies.google.com/privacy?hl=en" target="_blank">Google’s main privacy policy</a>
+- <a href="https://developers.google.com/analytics/" target="_blank">Cookies & Google Analytics on Websites</a>
+- <a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">Opt out of Google Analytics Cookies</a>
 
 <h3>Security</h3>
 
@@ -132,7 +132,11 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.va.gov/about_va/va_notices.asp"><b>Notices</b></a>
+  <a href="https://www.oprm.va.gov/privacy/default.aspx"><b>Privacy Service</b></a>
+ </div> <br>
+
+ <div class="link">
+  <a href="https://www.va.gov/about_va/va_notices.asp"><b>Notices</b></a>
  </div> <br>
 
  <div class="link">
@@ -158,15 +162,15 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.id.me/privacy"><b>ID.me Privacy Policy</b></a>
+    <a href="https://www.id.me/privacy" target="_blank"><b>ID.me Privacy Policy</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/privacy-security"><b>My HealtheVet Privacy Policy</b></a>
+  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/privacy-security" target="_blank"><b>My HealtheVet Privacy Policy</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/terms-conditions"><b>My HealtheVet Terms and Conditions</b></a>
+  <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/terms-conditions" target="_blank"><b>My HealtheVet Terms and Conditions</b></a>
  </div> <br>
 
  <span id="other"></span>
@@ -176,15 +180,15 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies"><b>eBenefits Policies</b></a>
+    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies" target="_blank"><b>eBenefits Policies</b></a>
  </div> <br>
 
  <div class="link">
-  <a class="no-external-icon" href="https://www.veteranscrisisline.net/about/privacy-and-security"><b>Veterans Crisis Line Privacy and Security</b></a>
+  <a href="https://www.veteranscrisisline.net/about/privacy-and-security" target="_blank"><b>Veterans Crisis Line Privacy and Security</b></a>
  </div> <br>
 
  <div class="link">
-  <a class="no-external-icon" href="https://www.veteranscrisisline.net/get-help/text"><b>Veterans Crisis Line Text Terms of Service</b></a>
+  <a href="https://www.veteranscrisisline.net/get-help/text" target="_blank"><b>Veterans Crisis Line Text Terms of Service</b></a>
  </div> <br>
 
   <span id="links"></span>
@@ -206,9 +210,9 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://usa.gov"><b>USA.gov</b></a>
+  <a href="https://usa.gov" target="_blank" rel="noopener"><b>USA.gov</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://whitehouse.gov"><b>White House</b></a>
+  <a href="https://whitehouse.gov" target="_blank" rel="noopener"><b>White House</b></a>
  </div> <br>
