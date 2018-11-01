@@ -109,7 +109,7 @@ Or get help applying for disability compensation by:
 
 - Reading our fact sheet on disability compensation for conditions related to MST. <br>
 [Read the fact sheet](http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf).
-- Talking to the MST coordinator at your local VA regional benefit office. <br>
+- Talking to the MST coordinator at your nearest VA regional benefit office. <br>
 [Find an MST coordinator near you](http://www.benefits.va.gov/benefits/mstcoordinators.asp).
 
 <br>
