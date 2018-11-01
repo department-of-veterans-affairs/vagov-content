@@ -27,7 +27,7 @@ You may be able to get compensation as a surviving spouse if you meet the requir
 
 **One of these must be true. You:**
 - Married the Veteran or Servicemember before January 1, 1957, **or**
-- Married the Veteran or Servicemember within 15 years of their discharge from the period of military service during which the illness or injury that caused their death started or got worse, **or**
+- Married the Veteran or Servicemember within 15 years of their discharge from the period of military service during which the qualifying illness or injury started or got worse, **or**
 - Were married to the Veteran or Servicemember for at least 1 year, **or**
 - Had a child with the Veteran or Servicemember, aren’t currently remarried, and either lived with the Veteran or Servicemember without a break until their death or, if separated, weren’t at fault for the separation
 

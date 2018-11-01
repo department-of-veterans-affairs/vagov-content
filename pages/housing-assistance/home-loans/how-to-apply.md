@@ -131,7 +131,6 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
 </div>
 </li>
 </ul>
-</div>
 
 <!-- </li>
 

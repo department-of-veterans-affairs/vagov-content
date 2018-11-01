@@ -34,7 +34,7 @@ Military sexual trauma (MST) refers to sexual assault or repeated, threatening s
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-	<h4 class="usa-alert-title">How do I talk to someone right now?</h4>
+	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
 	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
@@ -51,7 +51,7 @@ Military sexual trauma (MST) refers to sexual assault or repeated, threatening s
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
 		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is, or if you're enrolled in VA health care.<br>
-			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>	    
+			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
   	</div>
