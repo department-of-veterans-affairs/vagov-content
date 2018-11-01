@@ -87,7 +87,7 @@ You'll see where your claim or appeal is in our review process, and when we thin
 - What you've claimed
 - Your representative for VA claims
 
-**Note:** You can only upload documents to support your initial claim online. You can't upload documents to support an appeal online.
+**Note:** You can only upload documents online to support your initial claim. You can't upload documents online to support an appeal.
 </div>
 </div>
 </div>
@@ -100,7 +100,7 @@ You'll see where your claim or appeal is in our review process, and when we thin
 
 This may be because certain documents won't appear online.
 
-<b>You won't see any documents:</b>
+<b>You won't be able to see documents that:</b>
 - You sent to us by mail or fax, <b>or</b>
 - You brought to us in person, <b>or</b>
 - We've restricted to protect your or someone else's confidentiality (privacy) 
