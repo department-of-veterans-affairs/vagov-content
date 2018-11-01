@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Adding dependents to your VA disability benefits may make you eligible to receive a higher compensation payment (also called a benefit rate). Find out how to file a claim for additional disability compensation for a spouse, child, and/or parent.
+Find out how to add a dependent a spouse, child, and/or parent to your VA disability benefits for additional compensation.
 
 </div>
 
@@ -39,6 +39,8 @@ You may be eligible for additional disability compensation for a spouse, child, 
 - Are eligible for VA disability compensation, **and**
 - Have a combined disability rating of at least 30% <br>
 <br>
+
+Adding a dependent may make you eligible to receive a higher compensation payment (also called a benefit rate).
 
 ### Who does VA consider a dependent?
 
