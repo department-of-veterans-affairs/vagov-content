@@ -126,7 +126,7 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 <span class="description">Average number of days to complete disability-related claims in September 2018</span>
 </div>
 
--------------------------
+------
 
 ### If I start my disability compensation application, does VA consider this "intent to file"?
 
