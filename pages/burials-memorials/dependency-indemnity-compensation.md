@@ -124,7 +124,7 @@ First you’ll need to fill out an application for benefits. The application you
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 - Go to a VA regional benefit office and get help from a VA employee. <br>
-[Find a VA regional benefit office near you](/facilities/).
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 ---------
 
@@ -139,8 +139,8 @@ Download, fill out, and submit an Intent to File a Claim for Compensation and/or
 
 **Turn in your form in either of these ways:**
 
-- Bring it in or mail it to your nearest regional benefit office. <br>
-[Find your nearest Regional Benefits Office ](/facilities/).
+- Bring it in or mail it to your nearest VA regional benefit office. <br>
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
 - Work with a trained professional called an accredited representative to get help applying for VA dependency and indemnity compensation. <br>
 [Get help filing a claim](/disability/get-help-filing-claim/).
