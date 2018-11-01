@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to add a dependent a spouse, child, and/or parent to your VA disability benefits for additional compensation.
+Find out how to add a dependent spouse, child, and/or parent to your VA disability benefits for additional compensation.
 
 </div>
 
