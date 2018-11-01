@@ -58,7 +58,8 @@ Find out how to file for VA disability benefits.
 For your first disability claim, we'll review your:
 
 - Discharge papers (DD214 or other separation documents)
-- Service treatment records [(Order service records through the National Archives)](https://www.archives.gov/veterans/military-service-records)
+- Service treatment records <br>
+[(Order service records through the National Archives)](https://www.archives.gov/veterans/military-service-records)
 
 For all disability claims, we'll review your:
 
@@ -95,8 +96,8 @@ Janesville, WI 53547-4444<br>
 
 ##### In person
 
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 ##### With the help of a trained professional
 
