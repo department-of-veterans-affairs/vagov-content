@@ -73,8 +73,7 @@ You’ll need to apply for benefits and submit your evidence (supporting documen
 **If you have an illness believed to be caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
-<div class="usa-accordion">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="evidence-agent-orange">View the evidence requirements</button>
 <div id="evidence-agent-orange" class="usa-accordion-content">
@@ -87,7 +86,6 @@ When you file your claim, you'll need to submit this evidence:
 </div>
 </li>
 </ul>
-</div>
 
 [Apply for disability benefits](/disability/how-to-file-claim/).
 
@@ -96,8 +94,7 @@ When you file your claim, you'll need to submit this evidence:
 **If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange, you’ll need to show the problem started during—or got worse because of—your military service. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
-<div class="usa-accordion">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="illness-not-on-list">View the evidence requirements</button>
 <div id="illness-not-on-list" class="usa-accordion-content">
@@ -112,7 +109,6 @@ When you file your claim, you'll need to submit this evidence:
 </div>
 </li>
 </ul>
-</div>
 
 [Apply for disability benefits](/disability/how-to-file-claim/).
 
