@@ -40,7 +40,7 @@ You may be eligible for additional disability compensation for a spouse, child, 
 - Have a combined disability rating of at least 30% 
 
 Adding a dependent may make you eligible to receive a higher compensation payment (also called a benefit rate).
-
+<br>
 ### Who does VA consider a dependent?
 
 **A dependent is:**
