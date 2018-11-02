@@ -506,7 +506,7 @@
   va_gov_dest: pension/veterans-pension-rates/
   retain_path: false
 - vets_gov_src: download-va-letters/letters
-  va_gov_dest: records/download-va-letters/letters/
+  va_gov_dest: records/download-va-letters/letters
   retain_path: true
 - vets_gov_src: faq/
   va_gov_dest: sign-in-faq/
@@ -520,8 +520,8 @@
 - vets_gov_src: disability-benefits/increase-claims-testing/
   va_gov_dest: disability-benefits/apply/form-526-disability-claim/
   retain_path: false
-- vets_gov_src: disability-benefits/track-claims/
-  va_gov_dest: track-claims/
+- vets_gov_src: disability-benefits/track-claims
+  va_gov_dest: track-claims
   retain_path: true
 - vets_gov_src: education/apply-for-education-benefits/
   va_gov_dest: education/how-to-apply/
@@ -556,8 +556,8 @@
 - vets_gov_src: burials-and-memorials/find-a-cemetery/
   va_gov_dest: https://www.cem.va.gov/cems/listcem.asp
   retain_path: false
-- vets_gov_src: health-care/health-records/
-  va_gov_dest: health-care/get-medical-records/
+- vets_gov_src: health-care/health-records
+  va_gov_dest: health-care/get-medical-records
   retain_path: true
 - vets_gov_src: employment/employers/support-veteran-employees/
   va_gov_dest: careers-employment/
