@@ -48,9 +48,9 @@ To prove that you had contact with Agent Orange during your Thailand service, yo
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-### What if I need help filing a claim?
+### What if I need help filing my claim?
 
-You can connect with a trained professional who will help you. <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
