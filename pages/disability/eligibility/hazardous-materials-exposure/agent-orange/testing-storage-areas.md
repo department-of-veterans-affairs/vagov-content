@@ -53,7 +53,7 @@ See these comprehensive lists for dates and locations of herbicide tests and sto
 [In the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/usa.asp)<br>
 [Outside the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/outside-vietnam.asp)
 
-You can connect with a trained professional who will help you. <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 
