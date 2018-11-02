@@ -71,14 +71,14 @@ If you served on 1 of the ships or boats listed above—and you have 1 or more i
 
 If you don’t have an Agent Orange–related disability at this time, you and your family can still be part of the Agent Orange Health Registry.
 
-### What if I need help filing a claim?
+### What if I need help filing my claim?
 You can get help from us in one of these ways:
 - Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TTY <a href="tel:+18008778339">1-800-877-8339</a>
 - Go to your [nearest VA benefits office](/facilities)
 
 Get more information about ships that may have been exposed to Agent Orange.
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
