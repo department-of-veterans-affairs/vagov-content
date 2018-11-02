@@ -19,7 +19,7 @@ majorlinks:
       title: How to Gather Evidence for Your Claim
       description: Find out your options for gathering documents to support your disability claim.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities That Appear within 1 Year after Discharge
       description: Find out if you can get disability benefits if you have signs of an illness within a year after being discharged from service.
     - url: /disability/get-help-filing-claim/
       title: Get Help Filing a Claim
@@ -51,7 +51,7 @@ Find out how to file a claim for disability compensation.
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">What documents do I need to file my claim?</h4>
+<h4 itemprop="name">What documents will VA review to decide my claim?</h4>
 <div itemprop="itemListElement">
 
 For your first disability claim, we'll review your:
@@ -107,7 +107,7 @@ You can work with a trained professional called an accredited representative to 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I file a claim?</h3>
+<h3 itemprop="name">What happens after I file my claim?</h3>
 <div itemprop="itemListElement">
 
 [Find out what happens after you file](/disability/after-you-file-claim/).
