@@ -39,7 +39,7 @@ You may be able to get disability benefits if you have an illness believed to be
 -----
 
 ### How do I get these benefits?
-You’ll need to file a claim for benefits. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. 
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. 
 
 To prove that you had contact with Agent Orange during your Thailand service, you’ll need to send us supporting documents that show you had regular perimeter security duty, such as:
 - Daily work duty logs, **or**
@@ -48,9 +48,9 @@ To prove that you had contact with Agent Orange during your Thailand service, yo
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-### Need help?
+### What if I need help filing a claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can connect with a trained professional who will help you. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
