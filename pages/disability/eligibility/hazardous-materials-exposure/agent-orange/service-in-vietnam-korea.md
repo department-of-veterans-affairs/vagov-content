@@ -52,8 +52,8 @@ You’ll need to file a claim for disability compensation. When you file, you’
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship allows us to conclude that you had contact with Agent Orange. <br>
 [See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/list.asp).
 
-### What if I need help filing a claim?
+### What if I need help filing my claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
