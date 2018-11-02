@@ -48,7 +48,7 @@ You may be able to get disability benefits if you have a disability that’s rel
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for benefits and get our approval **before** buying a vehicle or adaptive equipment. You can apply for—and use—either grant before or after military discharge. <br>
+You’ll need to file a claim for disability compensation and get our approval **before** buying a vehicle or adaptive equipment. You can apply for—and use—either grant before or after military discharge. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 When you file, you’ll need to show that your disability is service connected or treated as if service connected under 38 U.S.C. 1151. <br>
