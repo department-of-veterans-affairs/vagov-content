@@ -71,8 +71,8 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for benefits. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. <br>
+[Find out how to file a claim](/disability/how-to-file-claim/).
 
 [Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
 
@@ -85,7 +85,7 @@ You’ll need to file a claim for benefits. <br>
 - The waters of the Persian Gulf, the Arabian Sea, and the Red Sea
 - The airspace above these locations
 
-### What if I need help filing my disability claim?
+### What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
