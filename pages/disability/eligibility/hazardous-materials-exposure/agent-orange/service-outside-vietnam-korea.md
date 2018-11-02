@@ -47,16 +47,16 @@ You may be able to get disability benefits if you have one or more illnesses bel
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for benefits. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. If you were exposed outside of the areas listed, please give your location and timeframe of service so we can review your claim. <br>
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. If you were exposed outside of the areas listed, please give your location and timeframe of service so we can review your claim. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 **Exception:**<br>
 If you’re a Blue Water Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
 [Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
 
-### Need help?
+### What if I need help filing a claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can connect with a trained professional who will help you. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
