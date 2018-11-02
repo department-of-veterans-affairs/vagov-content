@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Adding dependents to your VA disability benefits may make you eligible to receive a higher compensation payment (also called a benefit rate). Find out how to file a claim for additional disability compensation for a spouse, child, and/or parent.
+Find out how to add a dependent spouse, child, and/or parent to your VA disability benefits for additional compensation.
 
 </div>
 
@@ -37,7 +37,9 @@ You may be eligible for additional disability compensation for a spouse, child, 
 **Both of these must be true. You:**	
 
 - Are eligible for VA disability compensation, **and**
-- Have a combined disability rating of at least 30% <br>
+- Have a combined disability rating of at least 30% 
+
+Adding a dependent may make you eligible to receive a higher compensation payment (also called a benefit rate).
 <br>
 
 ### Who does VA consider a dependent?
@@ -55,25 +57,25 @@ You may be eligible for additional disability compensation for a spouse, child, 
 
 </div>
 
-## When should I file a claim for additional disability compensation for a dependent?
+## When should I add a dependent to my benefits?
 
-This depends on where you are in the process of applying for disability compensation.
+This depends on where you are in the process of filing for disability compensation.
 
-### If you haven’t applied yet for disability compensation
+### If you haven’t yet filed a claim for disability compensation
 
-You may file a claim at the same time as you apply for disability compensation.
+You can file a claim for additional compensation for a dependent at the same time as you file your original claim for disability compensation.
 
-If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional disability compensation for your dependent. <br>
+If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional compensation for your dependent. <br>
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
 
-### If you have one or more dependents, but you didn’t claim them when you originally applied for disability compensation 
+### If you have one or more dependents, but you didn’t claim them when you originally filed for disability compensation 
 
-If you have a combined disability rating of at least 30%, you may file your claim for additional disability compensation online.
+If you have a combined disability rating of at least 30%, you can file a claim for additional disability compensation now.
 
 ### If something changes in your family status after you received a combined disability rating of at least 30%
 
-You may file a claim for additional disability compensation online whenever you add a dependent.
+You can file a claim for additional disability compensation whenever you add a dependent.
 
 **You can add a dependent if:**
 
@@ -85,14 +87,15 @@ You may file a claim for additional disability compensation online whenever you 
 
 ------
 
-## How do I file a claim? 
-You can file your claim online right now. 
+## How do I add a dependent to my benefits?
 
 ### To file a claim for additional disability compensation for a child or spouse
 
+You can file a claim for additional compensation for a child or spouse online right now through our eBenefits website. 
+
 **Note:** You may need to provide more information or forms along with your claim.
  
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to File Your Claim</a>	
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to Add a Dependent Child or Spouse</a>	
 
 **If you’re claiming your child who became permanently disabled before they turned 18,** you’ll need to turn in all private medical records relating to the child’s disabilities with your application. 
 

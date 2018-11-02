@@ -49,7 +49,7 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us 
+  - heading: Connect with Us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
@@ -58,9 +58,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope-o        
+          icon: fa-envelope-o
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true
@@ -210,7 +210,7 @@ We can support you in all stages of your job search—from returning to work wit
         <ul>
           <li>Call the National Call Center for Homeless Veterans</b> at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You'll talk privately with a trained VA counselor for free.
           <li><b>Contact your nearest VA medical center</b> and ask to talk with the VA social worker. If you’re a female Veteran, ask for the Women Veterans Program Manager. <br>
-            <a href="/facilities/">Find your nearest VA medical center</a>.</li>
+            <a href="/find-locations/">Find your nearest VA medical center</a>.</li>
           <li><b>Get job placement help.</b><br>
             <a href="https://www.va.gov/homeless/cec-contacts.asp">Find a Community Employment Coordinator (CEC) in your area</a>.</li>
         </ul>

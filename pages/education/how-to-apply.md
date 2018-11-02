@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for the GI Bill and Other Education Benefits 
+title: How to Apply for the GI Bill and Other Education Benefits
 display_title: How to Apply
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 collection: education
@@ -80,7 +80,7 @@ Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday thr
 
 #### In person
 Go to a VA regional office and have a VA employee help you.<br/>
-[Find a VA regional benefit office near you](/facilities).
+[Find a VA regional benefit office near you](/find-locations/).
 
 Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
 
