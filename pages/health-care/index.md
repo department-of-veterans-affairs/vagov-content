@@ -38,7 +38,7 @@ social:
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us             
+      - subhead: Call Us
         links:
         - url: tel:1-877-222-VETS(8387)
           number: 1-877-222-VETS(8387)
@@ -48,13 +48,13 @@ social:
           title: "My HealtheVet Help Desk:"
         - url: tel:1-800-983-0937
           number: 1-800-983-0937
-          title: "eBenefits Technical Support:"        
+          title: "eBenefits Technical Support:"
         - url: tel:1-844-698-2311
           number: 1-844-698-2311
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us  
+  - heading: Connect with Us
     admin: Veterans Health Administration
     url: https://www.va.gov/health/
     subsections:
@@ -200,7 +200,7 @@ We offer many programs and services that may help—including free health care a
 
 - **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 - **Contact your nearest VA medical center** and ask to talk with the VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
-[Find the nearest VA medical center](/facilities/).
+[Find the nearest VA medical center](/find-locations/).
 
 **Talk with someone right now:**
 
