@@ -63,7 +63,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to file a claim and submit your evidence (supporting documents).
+You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
 
 **Your evidence will need to show that both of these are true of your illness:**
 - It's at least 10% disabling. (For example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure.) 
