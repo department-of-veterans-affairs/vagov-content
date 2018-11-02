@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Disability Benefits Eligibility
+title: Eligibility for VA Disability Benefits
 display_title: Eligibility
 description: Find out if you're eligible for VA disability compensation or other benefits for a condition related to your military service.
 order: 1
@@ -44,7 +44,7 @@ Find out if you can get disability compensation for an illness or injury that wa
 <h3 itemprop="name">Can I get disability compensation from VA?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-  
+
 You may be able to get disability compensation if you have a current illness or injury (known as a condition) that affects your body or mind and you meet at least one of the requirements listed below.
 
 <b>Both of these must be true. You:</b>

@@ -28,7 +28,7 @@ After you file your disability benefits claim, we may ask you to have a claim ex
 
 </div>
 
-<div class="usa-alert usa-alert-warning va-alert">
+<div class="usa-alert usa-alert-warning">
 <div class="usa-alert-body">
 
 ##### Be sure not to miss your scheduled exam.
@@ -52,8 +52,7 @@ If you have enough medical evidence in your file to support your claim, we won't
 
 ### How to schedule your VA claim exam
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-claim-exam-schedule">How will you contact me to schedule the exam?</button>
 <div id="VA-claim-exam-schedule" class="usa-accordion-content">
@@ -87,14 +86,12 @@ If you canâ€™t make it to your appointment, let us know right away. You can most
 </div>
 </li>
 </ul>
-</div>
 
-<br>  
+<br>
 
 ### What to expect at your VA claim exam
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-claim-exam-bring">What should I bring to my VA claim exam?</button>
 <div id="VA-claim-exam-bring" class="usa-accordion-content">
@@ -178,14 +175,12 @@ If you have what we consider to be a good reason for missing your exam (called â
 </div>
 </li>
 </ul>
-</div>
 
-<br>  
+<br>
 
 ### After your VA claim exam
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-claim-exam-happen">What happens after my exam?</button>
 <div id="VA-claim-exam-happen" class="usa-accordion-content">
@@ -196,7 +191,7 @@ Each claim is different, but it usually takes us about 3 to 4 months to process 
 
 [See our most recent estimate for the average number of days to complete a claim](/disability/how-to-file-claim/#days-to-complete-claim).
 
-[Sign in to VA.gov to track your claim](/track-claims/).
+[Sign in to track your claim](/track-claims/).
 
 </div>
 </li>
@@ -234,7 +229,6 @@ We may ask you to have a claim exam if you appeal your disability benefits decis
 </div>
 </li>
 </ul>
-</div>
 
 ### What if I have more questions about my exam?
 

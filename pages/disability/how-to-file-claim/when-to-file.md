@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Claim Types and When to File
+title: Types of VA Disability Claims and When to File
 display_title: When to File
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -28,8 +28,7 @@ Find out when you can first file a claim for service-connected benefits—and wh
 
 </div>
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-active-duty">Original Claim—File your first claim for disability compensation.</button>
 <div id="claim-active-duty" class="usa-accordion-content"> 
@@ -141,4 +140,3 @@ You can file a secondary claim to get more disability benefits for a new disabil
 </div>
 </li>
 </ul>
-</div>
