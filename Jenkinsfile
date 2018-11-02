@@ -33,7 +33,7 @@ node('vetsgov-general-purpose') {
         return
       }
 
-      build job: 'testing/vets-website/master', wait: false
+      // build job: 'testing/vets-website/master', wait: false
     } catch (error) {
       notify()
       throw error
