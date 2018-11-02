@@ -43,7 +43,7 @@ Veterans
 - Compensation (payments)
 
 ### How do I get these benefits?
-You’ll need to file a claim and provide the evidence (supporting documents) listed below: <br>
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below: <br>
 
 - Medical records that state your illness or disability, <b>and</b>
 - Service records that list your job or specialty, <b>and</b>
