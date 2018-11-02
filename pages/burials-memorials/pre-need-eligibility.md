@@ -104,7 +104,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 <div markdown="0">
 
 ## How do I apply?
-You can apply online right now.
+You can apply online right now!
 
 <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for Pre-need Eligibility</a>
 
