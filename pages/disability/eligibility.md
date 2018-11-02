@@ -15,7 +15,7 @@ majorlinks:
       title: How VA Assigns Disability Ratings
       description: Learn how we assign severity ratings and how they affect your disability payments.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities That Appear within 1 Year after Discharge
       description: If you have signs of an illness that started within a year after you were discharged from active service, find out if you can get disability benefits.
 relatedlinks:
   - heading: Vocational Rehabilitation and Employment (VR&E)
