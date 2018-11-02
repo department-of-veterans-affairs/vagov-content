@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: About VA Health Benefits
+description: Learn how to apply for and manage VA health care benefits for Veterans. We offer primary and specialty Veterans health care services, including home health, geriatric (elder), women's health, and mental health care, as well as prescriptions.
 concurrence: complete
 lastupdate: 2018-10-17
 collection: healthCare
