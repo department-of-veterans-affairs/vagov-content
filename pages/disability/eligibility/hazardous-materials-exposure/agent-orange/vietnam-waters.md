@@ -63,9 +63,9 @@ No. You don’t need to show where you came into contact with Agent Orange. We b
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship means you likely had contact with Agent Orange. <br>
 [See the list of ships that had contact with Agent Orange](https://www.benefits.va.gov/compensation/claims-postservice-agent_orange.asp).
 
-### Need help?
+### What if I need help filing my claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
