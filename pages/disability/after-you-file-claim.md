@@ -15,7 +15,7 @@ majorlinks:
       title: Effective Date of Disability
       description: "Find out when you’ll start getting your disability payments."
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
-      title: What to Expect After You Get a Disability Rating
+      title: What to Expect after You Get a Disability Rating
       description: "Find out what happens after you get your decision notice with your rating."
 relatedlinks:
   - heading: Other VA benefits you may want to explore
