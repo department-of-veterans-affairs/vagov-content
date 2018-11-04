@@ -1,42 +1,41 @@
 import org.kohsuke.github.GitHub
 
-def devBranch = 'master'
-def stagingBranch = 'master'
-def prodBranch = 'master'
+def isMaster = env.BRANCH_NAME == 'fix-content-deploy'
 
-env.CONCURRENCY = 10
-
-def isDeployable = {
-  (env.BRANCH_NAME == devBranch ||
-   env.BRANCH_NAME == stagingBranch) &&
-    !env.CHANGE_TARGET &&
-    !currentBuild.nextBuild // if there's a later build on this job (branch), don't deploy
+def isLatestBuild = {
+  isMaster && !env.CHANGE_TARGET && !currentBuild.nextBuild
 }
 
-def notify = { ->
-  if (env.BRANCH_NAME == devBranch ||
-      env.BRANCH_NAME == stagingBranch ||
-      env.BRANCH_NAME == prodBranch) {
-    message = "vets-website ${env.BRANCH_NAME} branch CI failed. |${env.RUN_DISPLAY_URL}".stripMargin()
-    slackSend message: message,
-    color: 'danger',
-    failOnError: true
-  }
+def getLatestAppCodeCommit = {
+  def github = GitHub.connect()
+  def repo = github.getRepository('department-of-veterans-affairs/vets-website')
+  def ref = repo.getRef('refs/heads/master').getObject()
+  def ghObject = ref.getObject();
+  def latestCommitSha = ghObject.getSha()
+  return latestCommitSha
 }
 
 node('vetsgov-general-purpose') {
   properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', daysToKeepStr: '60']]]);
 
-  stage('Deploy dev or staging') {
-    try {
-      if (!isDeployable()) {
-        return
-      }
+  stage('Deploy VAGOVDEV') {
+    // if (!isLatestBuild()) {
+    //   return
+    // }
 
-      // build job: 'testing/vets-website/master', wait: false
-    } catch (error) {
-      notify()
-      throw error
-    }
+    // build job: 'testing/vets-website/master', wait: false
+
+    // runDeploy('deploys/vets-website-vagovdev', commit)
+
+    // Rebuild the latest commit with the new app-content
+
+    def latestAppCodeCommit = getLatestAppCodeCommit()
+
+    sh "echo ${latestAppCodeCommit}"
+
+    // build job: jobName, parameters: [
+    //     booleanParam(name: 'notify_slack', value: true),
+    //     stringParam(name: 'ref', value: ref),
+    //   ], wait: false
   }
 }
