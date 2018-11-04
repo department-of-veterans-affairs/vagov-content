@@ -1,7 +1,7 @@
 import org.kohsuke.github.GitHub
 
 final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-final appCodeRepo = 'department-of-veterans-affairs/vets-website'
+def appCodeRepo = 'department-of-veterans-affairs/vets-website'
 
 def getAppCodeLatestReleaseSHA = {
 
