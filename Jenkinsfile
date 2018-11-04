@@ -1,17 +1,41 @@
-final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+import org.kohsuke.github.GitHub
 
-def getAppCodeRepo = {
+final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+final appCodeRepo = 'department-of-veterans-affairs/vets-website'
+
+def getAppCodeLatestReleaseSHA = {
   def github = GitHub.connect()
-  def repo = github.getRepository('department-of-veterans-affairs/vets-website')
+  def repo = github.getRepository(appCodeRepo)
   def ref = repo.getRef('heads/master').getObject()
-  def latestCommitSha = ref.getSha()
-  return [
-    latest: latestCommitSha
+  def commit = ref.getSha()
+  return commit
+}
+
+def checkoutAppCode(commit) {
+  def scmOptions = [
+    $class: 'GitSCM',
+    branches: [[name: '*/master']],
+    doGenerateSubmoduleConfigurations: false,
+    extensions: [
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
+      // [$class: 'RelativeTargetDirectory', relativeTargetDir: 'vagov-content']],
+      submoduleCfg: [],
+      userRemoteConfigs: [[url: "git@github.com:${appCodeRepo}.git"]
+      ]
+    ]
   ]
+
+  checkout changelog: false, poll: false, scm: scmOptions
 }
 
 node('vetsgov-general-purpose') {
-  properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', daysToKeepStr: '60']]]);
+  properties([[
+    $class: 'BuildDiscarderProperty',
+    strategy: [
+      $class: 'LogRotator',
+      daysToKeepStr: '60'
+    ]]
+  ]);
 
   stage('Refresh Dev/Staging') {
     if (!isMaster) return
@@ -29,7 +53,17 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    echo 'Deploying Production....'
+    def commit = getAppCodeLatestReleaseSHA()
+
+    dir('vagov-content') {
+      checkout scm
+    }
+
+    dir('vagov-apps') {
+      checkoutAppCode(commit)
+    }
+
+    echo 'done!'
 
   }
 }
