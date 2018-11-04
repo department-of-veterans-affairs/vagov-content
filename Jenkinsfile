@@ -16,21 +16,23 @@ def getAppCodeLatestReleaseSHA = {
 
 def checkoutAppCode(commitSha) {
 
-  // def scmOptions = [
-  //   $class: 'GitSCM',
-  //   branches: [[name: '*/master']],
-  //   doGenerateSubmoduleConfigurations: false,
-  //   extensions: [
-  //     [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
-  //     [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
-  //   ],
-  //   submoduleCfg: [],
-  //   userRemoteConfigs: [
-  //     [url: "git@github.com:${appCodeRepo}.git"]
-  //   ]
-  // ]
+  echo "Checking out ${appCodeRepo} at commit ${commitSha}"
 
-  // checkout changelog: false, poll: false, scm: scmOptions
+  def scmOptions = [
+    $class: 'GitSCM',
+    branches: [[name: '*/master']],
+    doGenerateSubmoduleConfigurations: false,
+    extensions: [
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
+      // [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
+    ],
+    submoduleCfg: [],
+    userRemoteConfigs: [
+      [url: "git@github.com:${appCodeRepo}.git"]
+    ]
+  ]
+
+  checkout changelog: false, poll: false, scm: scmOptions
 }
 
 node('vetsgov-general-purpose') {
@@ -64,12 +66,10 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    // dir('vagov-apps') {
-    //   echo "Checking out ${appCodeRepo} at commit ${commitSha}"
-    //   checkoutAppCode(commitSha)
-    // }
+    dir('vagov-apps') {
+      checkoutAppCode(commitSha)
+    }
 
     echo 'done!'
-
   }
 }
