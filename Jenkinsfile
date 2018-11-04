@@ -64,10 +64,10 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    dir('vagov-apps') {
-      echo "Checking out ${appCodeRepo} at commit ${commitSha}"
-      checkoutAppCode(commitSha)
-    }
+    // dir('vagov-apps') {
+    //   echo "Checking out ${appCodeRepo} at commit ${commitSha}"
+    //   checkoutAppCode(commitSha)
+    // }
 
     echo 'done!'
 
