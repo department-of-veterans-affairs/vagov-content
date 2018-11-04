@@ -10,12 +10,11 @@ def getAppCodeLatestReleaseSHA = {
   def github = GitHub.connect()
   def repo = github.getRepository(appCodeRepo)
   def ref = repo.getRef('heads/master').getObject()
-  def commit = ref.getSha()
-  return commit
+  def commitSha = ref.getSha()
+  return commitSha
 }
 
-def checkoutAppCode(commit) {
-  echo "Checking out ${appCodeRepo} at commit ${commit}"
+def checkoutAppCode(commitSha) {
 
   // def scmOptions = [
   //   $class: 'GitSCM',
@@ -59,14 +58,15 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    def commit = getAppCodeLatestReleaseSHA()
+    def commitSha = getAppCodeLatestReleaseSHA()
 
     dir('vagov-content') {
       checkout scm
     }
 
     dir('vagov-apps') {
-      checkoutAppCode(commit)
+      echo "Checking out ${appCodeRepo} at commit ${commitSha}"
+      checkoutAppCode(commitSha)
     }
 
     echo 'done!'
