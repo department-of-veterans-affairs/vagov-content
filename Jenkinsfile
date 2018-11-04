@@ -63,9 +63,9 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    dir('vagov-apps') {
-      checkoutAppCode(commit)
-    }
+    // dir('vagov-apps') {
+    //   checkoutAppCode(commit)
+    // }
 
     echo 'done!'
 
