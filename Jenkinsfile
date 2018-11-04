@@ -15,6 +15,8 @@ def getAppCodeLatestReleaseSHA = {
 }
 
 def checkoutAppCode(commit) {
+  echo "Checking out ${appCodeRepo} at commit ${commit}"
+
   def scmOptions = [
     $class: 'GitSCM',
     branches: [[name: '*/master']],
@@ -63,9 +65,9 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    // dir('vagov-apps') {
-    //   checkoutAppCode(commit)
-    // }
+    dir('vagov-apps') {
+      checkoutAppCode(commit)
+    }
 
     echo 'done!'
 
