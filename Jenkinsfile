@@ -15,13 +15,15 @@ def getAppCodeLatestReleaseSHA = {
 }
 
 def checkoutAppCode = {
+
+  // Clones the app-code repo into the current directory.
+
   def scmOptions = [
     $class: 'GitSCM',
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
     extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
-      [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
     ],
     submoduleCfg: [],
     userRemoteConfigs: [
@@ -70,10 +72,6 @@ node('vetsgov-general-purpose') {
     echo "Retreiving commit SHA of latest release"
 
     def commitSha = getAppCodeLatestReleaseSHA()
-
-    sh "echo ${commitSha}"
-
-
 
   }
 }
