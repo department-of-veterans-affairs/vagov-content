@@ -4,6 +4,9 @@ final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
 final appCodeRepo = 'department-of-veterans-affairs/vets-website'
 
 def getAppCodeLatestReleaseSHA = {
+
+  // Returns the commit SHA of the latest app-code release.
+
   def github = GitHub.connect()
   def repo = github.getRepository(appCodeRepo)
   def ref = repo.getRef('heads/master').getObject()
@@ -17,11 +20,12 @@ def checkoutAppCode(commit) {
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
     extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
-      // [$class: 'RelativeTargetDirectory', relativeTargetDir: 'vagov-content']],
-      submoduleCfg: [],
-      userRemoteConfigs: [[url: "git@github.com:${appCodeRepo}.git"]
-      ]
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
+      // [$class: 'RelativeTargetDirectory', relativeTargetDir: 'vagov-content']
+    ],
+    submoduleCfg: [],
+    userRemoteConfigs: [
+      [url: "git@github.com:${appCodeRepo}.git"]
     ]
   ]
 
