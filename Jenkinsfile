@@ -22,8 +22,8 @@ def checkoutAppCode(commit) {
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
     extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
-      // [$class: 'RelativeTargetDirectory', relativeTargetDir: 'vagov-content']
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
+      [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
     ],
     submoduleCfg: [],
     userRemoteConfigs: [
