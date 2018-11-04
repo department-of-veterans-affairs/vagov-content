@@ -144,7 +144,7 @@ hublinks:
         label: VA Health Care Costs
         description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
       - url: /health-care/health-needs-conditions/mental-health/
-        label: Mental Health Service
+        label: Mental Health Services
         description: Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.
       - url: /health-care/health-needs-conditions/
         label: Specific Health Needs and Conditions
