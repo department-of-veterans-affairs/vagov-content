@@ -607,3 +607,6 @@
 - vets_gov_src: employment/job-seekers/unemployment-support/
   va_gov_dest: careers-employment/
   retain_path: false
+- vets_gov_src: dashboard/
+  va_gov_dest: my-va/
+  retain_path: true
