@@ -10,7 +10,7 @@ def getLatestAppCodeCommit = {
   def github = GitHub.connect()
   def repo = github.getRepository('department-of-veterans-affairs/vets-website')
   def ref = repo.getRef('heads/master').getObject()
-  def latestCommitSha = ghObject.getSha()
+  def latestCommitSha = ref.getSha()
   return latestCommitSha
 }
 
