@@ -29,6 +29,7 @@ node('vetsgov-general-purpose') {
     // runDeploy('deploys/vets-website-vagovdev', commit)
 
     // Rebuild the latest commit with the new app-content
+    // If there isn't a tar ball for that commit, just exit
 
     def appCode = getAppCodeRepo()
 
