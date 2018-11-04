@@ -17,21 +17,21 @@ def getAppCodeLatestReleaseSHA = {
 def checkoutAppCode(commit) {
   echo "Checking out ${appCodeRepo} at commit ${commit}"
 
-  def scmOptions = [
-    $class: 'GitSCM',
-    branches: [[name: '*/master']],
-    doGenerateSubmoduleConfigurations: false,
-    extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
-      [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
-    ],
-    submoduleCfg: [],
-    userRemoteConfigs: [
-      [url: "git@github.com:${appCodeRepo}.git"]
-    ]
-  ]
+  // def scmOptions = [
+  //   $class: 'GitSCM',
+  //   branches: [[name: '*/master']],
+  //   doGenerateSubmoduleConfigurations: false,
+  //   extensions: [
+  //     [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
+  //     [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
+  //   ],
+  //   submoduleCfg: [],
+  //   userRemoteConfigs: [
+  //     [url: "git@github.com:${appCodeRepo}.git"]
+  //   ]
+  // ]
 
-  checkout changelog: false, poll: false, scm: scmOptions
+  // checkout changelog: false, poll: false, scm: scmOptions
 }
 
 node('vetsgov-general-purpose') {
