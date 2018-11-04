@@ -57,8 +57,6 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    def commitSha = getAppCodeLatestReleaseSHA()
-
     dir('vagov-content') {
       checkout scm
     }
@@ -69,6 +67,13 @@ node('vetsgov-general-purpose') {
       checkoutAppCode()
     }
 
-    echo 'done!'
+    echo "Retreiving commit SHA of latest release"
+
+    def commitSha = getAppCodeLatestReleaseSHA()
+
+    sh "echo ${commitSha}"
+
+
+
   }
 }
