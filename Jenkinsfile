@@ -41,7 +41,7 @@ node('vetsgov-general-purpose') {
     ]]
   ]);
 
-  stage('Refresh Dev/Staging') {
+  stage('Rebuild Dev/Staging') {
     if (!isMaster) return
 
     // Dev/Staging should contain the latest code, so we can just issue a rebuild
