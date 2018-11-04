@@ -1,7 +1,7 @@
 import org.kohsuke.github.GitHub
 
 final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-def appCodeRepo = 'department-of-veterans-affairs/vets-website'
+final appCodeRepo = 'department-of-veterans-affairs/vets-website'
 
 def getAppCodeLatestReleaseSHA = {
 
@@ -14,9 +14,7 @@ def getAppCodeLatestReleaseSHA = {
   return commitSha
 }
 
-def checkoutAppCode(commitSha) {
-
-
+def checkoutAppCode = {
   def scmOptions = [
     $class: 'GitSCM',
     branches: [[name: '*/master']],
@@ -65,10 +63,10 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    echo "Checking out ${appCodeRepo} at commit ${commitSha}"
+    echo "Cloning ${appCodeRepo}"
 
     dir('vagov-apps') {
-      checkoutAppCode(commitSha)
+      checkoutAppCode()
     }
 
     echo 'done!'
