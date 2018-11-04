@@ -16,15 +16,14 @@ def getAppCodeLatestReleaseSHA = {
 
 def checkoutAppCode(commitSha) {
 
-  echo "Checking out ${appCodeRepo} at commit ${commitSha}"
 
   def scmOptions = [
     $class: 'GitSCM',
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
     extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
-      // [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
+      [$class: 'CloneOption', noTags: true, reference: '', shallow: true],
+      [$class: 'RelativeTargetDirectory', relativeTargetDir: './']
     ],
     submoduleCfg: [],
     userRemoteConfigs: [
@@ -50,7 +49,7 @@ node('vetsgov-general-purpose') {
     // Dev/Staging should contain the latest code, so we can just issue a rebuild
     // to the vets-website pipeline and know that'll handle the rest.
 
-    build job: 'testing/vets-website/master', wait: false
+    // build job: 'testing/vets-website/master', wait: false
   }
 
   stage('Refresh Production') {
@@ -65,6 +64,8 @@ node('vetsgov-general-purpose') {
     dir('vagov-content') {
       checkout scm
     }
+
+    echo "Checking out ${appCodeRepo} at commit ${commitSha}"
 
     dir('vagov-apps') {
       checkoutAppCode(commitSha)
