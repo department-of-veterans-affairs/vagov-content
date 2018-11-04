@@ -6,18 +6,20 @@ def isLatestBuild = {
   isMaster && !env.CHANGE_TARGET && !currentBuild.nextBuild
 }
 
-def getLatestAppCodeCommit = {
+def getAppCodeData = {
   def github = GitHub.connect()
   def repo = github.getRepository('department-of-veterans-affairs/vets-website')
   def ref = repo.getRef('heads/master').getObject()
   def latestCommitSha = ref.getSha()
-  return latestCommitSha
+  return [
+    latest: latestCommitSha
+  ]
 }
 
 node('vetsgov-general-purpose') {
   properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', daysToKeepStr: '60']]]);
 
-  stage('Deploy VAGOVDEV') {
+  stage('Deploy vagovdev') {
     // if (!isLatestBuild()) {
     //   return
     // }
@@ -28,9 +30,9 @@ node('vetsgov-general-purpose') {
 
     // Rebuild the latest commit with the new app-content
 
-    def latestAppCodeCommit = getLatestAppCodeCommit()
+    def appCode = latest.getAppCodeData()
 
-    sh "echo ${latestAppCodeCommit}"
+    sh "echo ${appCode.latest}"
 
     // build job: jobName, parameters: [
     //     booleanParam(name: 'notify_slack', value: true),
