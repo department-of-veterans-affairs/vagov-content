@@ -1,10 +1,4 @@
-import org.kohsuke.github.GitHub
-
-def isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-
-def isLatestBuild = {
-  isMaster && !env.CHANGE_TARGET && !currentBuild.nextBuild
-}
+final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
 
 def getAppCodeRepo = {
   def github = GitHub.connect()
@@ -19,25 +13,23 @@ def getAppCodeRepo = {
 node('vetsgov-general-purpose') {
   properties([[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', daysToKeepStr: '60']]]);
 
-  stage('Deploy vagovdev') {
-    // if (!isLatestBuild()) {
-    //   return
-    // }
+  stage('Refresh Dev/Staging') {
+    if (!isMaster) return
 
-    // build job: 'testing/vets-website/master', wait: false
+    // Dev/Staging should contain the latest code, so we can just issue a rebuild
+    // to the vets-website pipeline and know that'll handle the rest.
 
-    // runDeploy('deploys/vets-website-vagovdev', commit)
+    build job: 'testing/vets-website/master', wait: false
+  }
 
-    // Rebuild the latest commit with the new app-content
-    // If there isn't a tar ball for that commit, just exit
+  stage('Refresh Production') {
+    if (!isMaster) return
 
-    def appCode = getAppCodeRepo()
+    // Production is a special case, because it's not redeployed every commit, but
+    // every release instead. So, we need to rebuild Prod using the archive of the
+    // latest release.
 
-    sh "echo ${appCode.latest}"
+    echo Deploying Production....
 
-    // build job: jobName, parameters: [
-    //     booleanParam(name: 'notify_slack', value: true),
-    //     stringParam(name: 'ref', value: ref),
-    //   ], wait: false
   }
 }
