@@ -29,7 +29,7 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    echo Deploying Production....
+    echo 'Deploying Production....'
 
   }
 }
