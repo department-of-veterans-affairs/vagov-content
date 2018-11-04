@@ -6,7 +6,7 @@ def isLatestBuild = {
   isMaster && !env.CHANGE_TARGET && !currentBuild.nextBuild
 }
 
-def getAppCodeData = {
+def getAppCodeRepo = {
   def github = GitHub.connect()
   def repo = github.getRepository('department-of-veterans-affairs/vets-website')
   def ref = repo.getRef('heads/master').getObject()
@@ -30,7 +30,7 @@ node('vetsgov-general-purpose') {
 
     // Rebuild the latest commit with the new app-content
 
-    def appCode = latest.getAppCodeData()
+    def appCode = getAppCodeRepo()
 
     sh "echo ${appCode.latest}"
 
