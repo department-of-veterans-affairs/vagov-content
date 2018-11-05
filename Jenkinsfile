@@ -1,4 +1,3 @@
-import java.net
 import org.kohsuke.github.GitHub
 
 final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
