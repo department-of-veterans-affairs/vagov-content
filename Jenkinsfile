@@ -10,7 +10,7 @@ def getAppCodeLatestReleaseSHA = {
   def repo = github.getRepository(appCodeRepo)
   def releases = repo.listReleases()
   def latestRelease = releases.asList().get(0)
-  def tarball = latestRelease.getTarballUrl()
+  def tarball = latestRelease.getTagName()
 
 
   // def ref = repo.getRef('heads/master').getObject()
