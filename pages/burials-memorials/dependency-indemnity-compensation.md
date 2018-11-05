@@ -18,8 +18,7 @@ If you’re the surviving spouse, child, or parent of a Servicemember who died i
 
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">As a surviving spouse</button>
 <div id="VA-burials-survivor-spouse" class="usa-accordion-content">
@@ -28,7 +27,7 @@ You may be able to get compensation as a surviving spouse if you meet the requir
 
 **One of these must be true. You:**
 - Married the Veteran or Servicemember before January 1, 1957, **or**
-- Married the Veteran or Servicemember within 15 years of their discharge from the period of military service during which the illness or injury that caused their death started or got worse, **or**
+- Married the Veteran or Servicemember within 15 years of their discharge from the period of military service during which the qualifying illness or injury started or got worse, **or**
 - Were married to the Veteran or Servicemember for at least 1 year, **or**
 - Had a child with the Veteran or Servicemember, aren’t currently remarried, and either lived with the Veteran or Servicemember without a break until their death or, if separated, weren’t at fault for the separation
 
@@ -71,13 +70,14 @@ You may be able to get compensation as a surviving child if you meet the require
 - Since their release from active duty and for at least 5 years immediately before their death, **or**
 - For at least 1 year before their death if they were a former Prisoner of War who died after September 30, 1999
 
-**Note:** “Totally disabling” means the Veteran’s injuries made it impossible for them to work.
+**Note:** “Totally disabling” means the Veteran’s injuries make it impossible for them to work.
+</div>
 
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-parent">As a surviving parent</button>
 <div id="VA-burials-survivor-parent" class="usa-accordion-content">
-  
+
 You may be able to get compensation as a surviving parent if both of the descriptions below are true for you. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or Servicemember. Evidence may include documents like military service records, doctor's reports, and medical test results.
 
 **Both of these must be true:**
@@ -92,7 +92,6 @@ You may be able to get compensation as a surviving parent if both of the descrip
 - The Servicemember died from an injury or certain illnesses in the line of duty while on inactive training, **or**
 - The Veteran died from a service-connected illness or injury
 
-   </div>
   </div>
   </li>
  </ul>
@@ -128,4 +127,4 @@ First you’ll need to fill out an application for benefits. The application you
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 - Go to a VA regional benefit office and get help from a VA employee. <br>
-[Find a local VA office](/facilities/).
+[Find a VA regional benefit office near you](/find-locations/).

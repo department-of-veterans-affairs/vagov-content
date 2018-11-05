@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for Disability Benefits
+title: How to File a VA Disability Claim
 display_title: How to File a Claim
 description: Find out how to apply online for VA disability compensation, and what documents you'll need to start your application today.
 order: 2
@@ -66,7 +66,7 @@ For all disability claims, we'll review your:
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for VA's help to gather evidence. <br>
-[Find out how to gather evidence for your claim](https://www.vets.gov/disability-benefits/apply/evidence/).
+[Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/).
 
 **Note**: If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days.
 </div>
@@ -96,7 +96,7 @@ Janesville, WI 53547-4444<br>
 ##### In person
 
 Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+[Find a regional benefit office](/find-locations/).
 
 ##### With the help of a trained professional
 
@@ -121,8 +121,8 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 #### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">96.8 days</span>
-<span class="description">Average number of days to complete disability-related claims in September 2018</span>
+<span class="number">98.8 days</span>
+<span class="description">Average number of days to complete disability-related claims in October 2018</span>
 </div>
 </div>
 </div>

@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Post-9/11 GI Bill
+title: Post-9/11 GI Bill (Chapter 33)
+display_title: Post-9/11 GI Bill
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act now
 concurrence: complete
 gibsAlert: false
