@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Order Hearing Aid Batteries and Prosthetic Socks from VA
 display_title: Order Hearing Aid Batteries and Prosthetic Socks
-description:
+description: Order VA hearing aids, hearing aid batteries, and prosthetic socks online. Find out if you're eligible to use this tool for ordering medical supplies and how to sign in.
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
