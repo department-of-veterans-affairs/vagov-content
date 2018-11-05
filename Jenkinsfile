@@ -1,9 +1,10 @@
+import groovy.transform.Field
 import org.kohsuke.github.GitHub
 
-def isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-def appCodeRepo = 'department-of-veterans-affairs/vets-website'
-def productionEnv = 'vagovdev'
-def productionBuildJob = 'deploys/vets-website-vagovdev'
+@Field String isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+@Field String appCodeRepo = 'department-of-veterans-affairs/vets-website'
+@Field String productionEnv = 'vagovdev'
+@Field String productionBuildJob = 'deploys/vets-website-vagovdev'
 
 def getTagOfAppCodeLatestRelease = {
   def github = GitHub.connect()
