@@ -6,7 +6,6 @@ appCodeRepo = 'vets-website'
 contentRepo = 'vagov-content'
 productionEnv = 'vagovdev'
 productionBuildJob = 'deploys/vets-website-vagovdev'
-latestReleaseTag = null
 
 def getTagOfAppCodeLatestRelease = {
   def github = GitHub.connect()
