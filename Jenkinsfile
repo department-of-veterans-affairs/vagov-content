@@ -49,7 +49,7 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
-  def releaseTag, releaseCommit, dockerImage, contentCommit, tarballName
+  def releaseTag, releaseCommit, dockerImage, contentCommit
 
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
@@ -68,11 +68,18 @@ node('vetsgov-general-purpose') {
     // latest release.
 
     dir(contentRepo) {
+
+      // Checkout the content and grab a reference to the current commmit.
+
       checkout scm
       contentCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
     }
 
     dir(appCodeRepo) {
+
+      // Checkout the app-code, then reset it to the latest commit.
+      // Grab a reference to the tag, commit SHA, and the dockerImage.
+
       checkoutAppCode()
 
       releaseTag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
@@ -84,11 +91,12 @@ node('vetsgov-general-purpose') {
       dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     }
 
+    // Setup the docker-mount config
+
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${appCodeRepo}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
     dockerImage.inside(dockerArgs) {
-
       def installDependencies = "cd /application && yarn install --production=false"
       def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
       def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
@@ -99,7 +107,6 @@ node('vetsgov-general-purpose') {
 
       withCredentials(awsCredentials) {
         def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
-
         def tarballName = "${releaseCommit}__content-${contentCommit}"
         def uploadTarball = "\
           s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
