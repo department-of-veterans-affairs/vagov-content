@@ -70,7 +70,7 @@ node('vetsgov-general-purpose') {
       checkoutAppCode()
       script {
         def tarball = getAppCodeLatestReleaseSHA()
-        echo ${tarball}
+        echo "${tarball}"
         // sh(script: "yarn install --production=false")
       }
     }
