@@ -1,3 +1,4 @@
+import java.net
 import org.kohsuke.github.GitHub
 
 final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
@@ -64,6 +65,9 @@ node('vetsgov-general-purpose') {
       checkoutAppCode()
       script {
         def tag = getTagOfAppCodeLatestRelease()
+        def imageTag = URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+        def dockerImage = docker.build("vets-website:${imageTag}")
+
         sh(script: "git checkout ${tag}")
         // sh(script: "yarn install --production=false")
       }
