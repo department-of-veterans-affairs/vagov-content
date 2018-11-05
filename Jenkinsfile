@@ -34,9 +34,10 @@ def checkoutAppCode = {
 }
 
 def executeBuild(dockerImage) {
-  def installDependencies = "cd /application && yarn install --production=false"
-  def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv}"
-  def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
+  def installDependencies = "yarn install --production=false"
+  def build = "npm --no-color run build -- --buildtype=${productionEnv}"
+  def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+
   sh installDependencies
   sh build
   sh preArchive
@@ -100,7 +101,9 @@ node('vetsgov-general-purpose') {
       def dockerArgs = "-v ${currentDir}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
       dockerImage.inside(dockerArgs) {
-        // executeBuild(dockerImage)
+        dir ('/application') {
+          executeBuild()
+        }
         // archiveBuild()
       }
     }
