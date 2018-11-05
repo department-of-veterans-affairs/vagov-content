@@ -56,7 +56,7 @@ node('vetsgov-general-purpose') {
   }
 
   stage('Refresh Production') {
-    if (!isMaster) return
+    // if (!isMaster) return
 
     // Production is a special case, because it's not redeployed every commit, but
     // every release instead. So, we need to rebuild Prod using the archive of the
