@@ -87,7 +87,7 @@ node('vetsgov-general-purpose') {
 
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
-      def dockerArgs = "-v ./:/application -v ../${contentRepo}:/${contentRepo}"
+      def dockerArgs = "-v .:/application -v ../${contentRepo}:/${contentRepo}"
 
       dockerImage.inside(dockerArgs) {
         def installDependencies = "yarn install --production=false"
