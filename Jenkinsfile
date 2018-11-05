@@ -88,20 +88,20 @@ node('vetsgov-general-purpose') {
       checkout scm
     }
 
-    def tag = getTagOfAppCodeLatestRelease()
-
     dir(appCodeRepo) {
       checkoutAppCode()
-      sh "git checkout ${tag}"
     }
 
-    // def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-    // def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
-    // // def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+    def tag = getTagOfAppCodeLatestRelease()
+    sh "cd ${appCodeRepo} && git checkout ${tag}"
 
-    // dockerImage.inside() {
-    //   // executeBuild(dockerImage)
-    //   // archiveBuild()
-    // }
+    def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
+    def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+
+    dockerImage.inside() {
+      // executeBuild(dockerImage)
+      // archiveBuild()
+    }
   }
 }
