@@ -34,20 +34,7 @@ def checkoutAppCode = {
 }
 
 def archiveBuild = {
-  def awsCredentials = [[
-    $class: 'UsernamePasswordMultiBinding',
-    credentialsId: 'vetsgov-website-builds-s3-upload',
-    usernameVariable: 'AWS_ACCESS_KEY',
-    passwordVariable: 'AWS_SECRET_KEY'
-  ]]
 
-  def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
-  def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 s3://vetsgov-website-builds-s3-upload/${ref}/${productionEnv}.tar.bz2"
-
-  withCredentials(awsCredentials) {
-    sh(script: convertToTarball)
-    sh(script: uploadTarball)
-  }
 }
 
 node('vetsgov-general-purpose') {
@@ -58,6 +45,13 @@ node('vetsgov-general-purpose') {
       daysToKeepStr: '60'
     ]]
   ]);
+
+  def awsCredentials = [[
+    $class: 'UsernamePasswordMultiBinding',
+    credentialsId: 'vetsgov-website-builds-s3-upload',
+    usernameVariable: 'AWS_ACCESS_KEY',
+    passwordVariable: 'AWS_SECRET_KEY'
+  ]]
 
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
@@ -99,7 +93,14 @@ node('vetsgov-general-purpose') {
         sh installDependencies
         sh build
         sh preArchive
-      // archiveBuild()
+
+        withCredentials(awsCredentials) {
+          def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
+          // def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 s3://vetsgov-website-builds-s3-upload/${ref}/${productionEnv}.tar.bz2"
+
+          sh convertToTarball
+          // sh(script: uploadTarball)
+        }
       }
     }
   }
