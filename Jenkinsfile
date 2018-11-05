@@ -131,6 +131,6 @@ node('vetsgov-general-purpose') {
     build job: productionBuildJob, parameters: [
       booleanParam(name: 'notify_slack', value: true),
       stringParam(name: 'ref', value: releaseCommit),
-    ], wait: false
+    ], wait: true
   }
 }
