@@ -100,7 +100,7 @@ node('vetsgov-general-purpose') {
     def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
 
     dockerImage.inside(dockerArgs) {
-      executeBuild(dockerImage)
+      // executeBuild(dockerImage)
       // archiveBuild()
     }
   }
