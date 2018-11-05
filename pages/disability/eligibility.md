@@ -105,7 +105,7 @@ You can file online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation">Go to eBenefits to File a Claim</a>
 
-[Learn more about how to file a claim for disability compensation](/disability-benefits/apply/).
+[Learn more about how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 </div>
 </div>
