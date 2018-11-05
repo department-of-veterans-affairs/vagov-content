@@ -33,10 +33,6 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-def archiveBuild = {
-
-}
-
 node('vetsgov-general-purpose') {
   properties([[
     $class: 'BuildDiscarderProperty',
@@ -79,6 +75,7 @@ node('vetsgov-general-purpose') {
       def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
       sh "git checkout ${tag}"
 
+      // def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
       def currentDir = pwd()
@@ -86,7 +83,7 @@ node('vetsgov-general-purpose') {
 
       dockerImage.inside(dockerArgs) {
         def installDependencies = "yarn install --production=false"
-        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-directory=../${contentRepo}"
+        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
         def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
 
         sh 'cd /application'
@@ -96,10 +93,12 @@ node('vetsgov-general-purpose') {
 
         withCredentials(awsCredentials) {
           def convertToTarball = "tar -C build/${productionEnv} -cf build/${productionEnv}.tar.bz2 ."
-          // def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 s3://vetsgov-website-builds-s3-upload/${ref}/${productionEnv}.tar.bz2"
+          // def uploadTarball = "\
+          //   s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
+          //   s3://vetsgov-website-builds-s3-upload/${releaseCommitSha}/${productionEnv}.tar.bz2"
 
           sh convertToTarball
-          // sh(script: uploadTarball)
+          // echo uploadTarball
         }
       }
     }
