@@ -91,16 +91,15 @@ node('vetsgov-general-purpose') {
       def dockerArgs = "-v ${currentDir}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
       dockerImage.inside(dockerArgs) {
-        dir ('/application') {
-          def installDependencies = "yarn install --production=false"
-          def build = "npm --no-color run build -- --buildtype=${productionEnv}"
-          def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+        def installDependencies = "yarn install --production=false"
+        def build = "npm --no-color run build -- --buildtype=${productionEnv}"
+        def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
 
-          sh installDependencies
-          sh build
-          sh preArchive
-        }
-        // archiveBuild()
+        sh 'cd /application'
+        sh installDependencies
+        sh build
+        sh preArchive
+      // archiveBuild()
       }
     }
   }
