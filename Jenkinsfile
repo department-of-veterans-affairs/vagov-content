@@ -97,7 +97,7 @@ node('vetsgov-general-purpose') {
 
       def args = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
       dockerImage.inside(args) {
-        executeBuild(dockerImage)
+        // executeBuild(dockerImage)
         // archiveBuild()
       }
     }
