@@ -85,20 +85,20 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    def imageTag = java.net.URLDecoder.decode(latestReleaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
-    def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
-
-    latestReleaseTag = getTagOfAppCodeLatestRelease()
-
     dir(contentRepo) {
       checkout scm
     }
 
     dir(appCodeRepo) {
       checkoutAppCode()
-      sh "git checkout ${latestReleaseTag}"
     }
+
+    def tag = getTagOfAppCodeLatestRelease()
+    def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
+    def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+
+    sh "cd ${appCodeRepo} && git checkout ${tag}"
 
     dockerImage.inside(dockerArgs) {
       executeBuild(dockerImage)
