@@ -86,8 +86,6 @@ node('vetsgov-general-purpose') {
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${appCodeRepo}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
-    echo dockerArgs
-
     dockerImage.inside(dockerArgs) {
 
       def installDependencies = "cd /application && yarn install --production=false"
