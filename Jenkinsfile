@@ -97,9 +97,7 @@ node('vetsgov-general-purpose') {
     def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
 
-    dir(appCodeRepo) {
-      sh "git checkout ${tag}"
-    }
+    sh "cd ${appCodeRepo} && git checkout ${tag}"
 
     dockerImage.inside(dockerArgs) {
       executeBuild(dockerImage)
