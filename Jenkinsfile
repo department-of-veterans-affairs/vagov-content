@@ -33,16 +33,6 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-def executeBuild(dockerImage) {
-  def installDependencies = "yarn install --production=false"
-  def build = "npm --no-color run build -- --buildtype=${productionEnv}"
-  def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
-
-  sh installDependencies
-  sh build
-  sh preArchive
-}
-
 def archiveBuild = {
   def awsCredentials = [[
     $class: 'UsernamePasswordMultiBinding',
@@ -102,7 +92,13 @@ node('vetsgov-general-purpose') {
 
       dockerImage.inside(dockerArgs) {
         dir ('/application') {
-          executeBuild()
+          def installDependencies = "yarn install --production=false"
+          def build = "npm --no-color run build -- --buildtype=${productionEnv}"
+          def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+
+          sh installDependencies
+          sh build
+          sh preArchive
         }
         // archiveBuild()
       }
