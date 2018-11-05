@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Agent Orange Exposure While Serving in Vietnam or Korea
 display_title: Service in Vietnam or Korea
+description: If you served in Vietnam or in the Korean DMZ during the Vietnam Era, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
