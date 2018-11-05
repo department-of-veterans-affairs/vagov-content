@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Diseases Related to Agent Orange
 display_title: Related Diseases
-description: Find out what cancers and other illnesses we believe are caused by Agent Orange--and if you can get VA disability compensation if you have one or more of these illnesses. 
+description: Learn about certain cancers and other diseases we believe are related to Agent Orange exposure (called "Agent Orange presumptives"). If you have an illness or other condition and were exposed to Agent Orange, find out if you're eligible for VA disability pay and health care benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 2
