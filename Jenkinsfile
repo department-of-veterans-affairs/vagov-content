@@ -97,6 +97,10 @@ node('vetsgov-general-purpose') {
     def dockerArgs = "-v ${currentDir}/${appCodeRepo}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
     dockerImage.inside(dockerArgs) {
+
+      // Build the site using the "---content-deployment" flag
+      // The build script will use this flag to pull the compiled app-code from the www.va.gov S3 bucket.
+
       def installDependencies = "cd /application && yarn install --production=false"
       def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
       def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
@@ -106,6 +110,9 @@ node('vetsgov-general-purpose') {
       sh preArchive
 
       withCredentials(awsCredentials) {
+
+        // Upload to S3 using the commit SHA from the app-code, suffixed by the content commit SHA
+
         def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
         def tarballName = "${releaseCommit}__content-${contentCommit}"
         def uploadTarball = "\
@@ -115,10 +122,10 @@ node('vetsgov-general-purpose') {
         sh convertToTarball
         sh uploadTarball
 
-        build job: productionBuildJob, parameters: [
-          booleanParam(name: 'notify_slack', value: true),
-          stringParam(name: 'ref', value: tarballName),
-        ], wait: false
+        // build job: productionBuildJob, parameters: [
+        //   booleanParam(name: 'notify_slack', value: true),
+        //   stringParam(name: 'ref', value: tarballName),
+        // ], wait: false
       }
     }
   }
