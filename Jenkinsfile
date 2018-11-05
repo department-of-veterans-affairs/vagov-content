@@ -5,20 +5,14 @@ final appCodeRepo = 'department-of-veterans-affairs/vets-website'
 final productionEnv = 'vagovdev'
 final productionBuildJob = 'deploys/vets-website-vagovdev'
 
-def getAppCodeLatestReleaseSHA = {
+def getTagOfAppCodeLatestRelease = {
   def github = GitHub.connect()
   def repo = github.getRepository(appCodeRepo)
   def releases = repo.listReleases()
   def latestRelease = releases.asList().get(0)
-  def tarball = latestRelease.getTagName()
+  def latestReleaseTagName = latestRelease.getTagName()
 
-
-  // def ref = repo.getRef('heads/master').getObject()
-  // def commitSha = ref.getSha()
-
-  // @todo Return SHA of release, not just latest master.
-
-  return tarball
+  return latestReleaseTagName
 }
 
 def checkoutAppCode = {
@@ -27,7 +21,7 @@ def checkoutAppCode = {
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
     extensions: [
-      [$class: 'CloneOption', noTags: true, reference: '', shallow: true]
+      [$class: 'CloneOption', noTags: false, reference: '', shallow: true]
     ],
     submoduleCfg: [],
     userRemoteConfigs: [
@@ -69,8 +63,8 @@ node('vetsgov-general-purpose') {
     dir('vagov-apps') {
       checkoutAppCode()
       script {
-        def tarball = getAppCodeLatestReleaseSHA()
-        echo "${tarball}"
+        def tag = getTagOfAppCodeLatestRelease()
+        sh(script: "git checkout ${tag}")
         // sh(script: "yarn install --production=false")
       }
     }
