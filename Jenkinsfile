@@ -49,8 +49,6 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
-  def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
-
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
 
@@ -74,9 +72,9 @@ node('vetsgov-general-purpose') {
     dir(appCodeRepo) {
       checkoutAppCode()
 
+      def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
       sh "git checkout ${tag}"
 
-      def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
       def currentDir = pwd()
@@ -93,13 +91,14 @@ node('vetsgov-general-purpose') {
         sh preArchive
 
         withCredentials(awsCredentials) {
+          def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
           def convertToTarball = "tar -C build/${productionEnv} -cf build/${productionEnv}.tar.bz2 ."
-          // def uploadTarball = "\
-          //   s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
-          //   s3://vetsgov-website-builds-s3-upload/${releaseCommitSha}/${productionEnv}.tar.bz2"
+          def uploadTarball = "\
+            s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
+            s3://vetsgov-website-builds-s3-upload/${releaseCommitSha}/${productionEnv}.tar.bz2"
 
           sh convertToTarball
-          // echo uploadTarball
+          echo uploadTarball
         }
       }
     }
