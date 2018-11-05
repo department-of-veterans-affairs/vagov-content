@@ -49,7 +49,7 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
-  def releaseTag, releaseCommit, dockerImage, contentCommit, tarballName
+  def releaseTag, releaseCommit, dockerImage, contentCommit
 
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
@@ -113,12 +113,11 @@ node('vetsgov-general-purpose') {
 
         // Upload to S3 using the commit SHA from the app-code, suffixed by the content commit SHA
 
-        tarballName = "${releaseCommit}__content-${contentCommit}"
-
+        // def tarballName = "${releaseCommit}__content-${contentCommit}"
         def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
         def uploadTarball = "\
           s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
-          s3://vetsgov-website-builds-s3-upload/${tarballName}/${productionEnv}.tar.bz2"
+          s3://vetsgov-website-builds-s3-upload/${releaseCommit}/${productionEnv}.tar.bz2"
 
         sh convertToTarball
         sh uploadTarball
@@ -131,7 +130,7 @@ node('vetsgov-general-purpose') {
 
     build job: productionBuildJob, parameters: [
       booleanParam(name: 'notify_slack', value: true),
-      stringParam(name: 'ref', value: tarballName),
+      stringParam(name: 'ref', value: releaseCommit),
     ], wait: false
   }
 }
