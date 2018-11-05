@@ -34,7 +34,7 @@ With our VA Appointments tools, you can schedule some VA health care appointment
 </div>
 
 <p><b>Please note:</b> The fastest way to make all your VA appointments is usually to call the VA health facility where you want to receive care. If you can’t keep an existing appointment, please contact the facility as soon as possible to reschedule or cancel.<br>
-<a href="/facilities/">Find your VA health facility’s phone number</a>.</p>
+<a href="/find-locations/">Find your VA health facility’s phone number</a>.</p>
 
 <div class="usa-alert usa-alert-warning">
  <div class="usa-alert-body">
@@ -157,7 +157,7 @@ This will depend on the VA health facility where you’re receiving care.
 
 Check with the specific facility where you’re receiving care to ask about scheduling appointments online.<br>
 <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/keeping-up-with-all-your-va-appointments#facility-list">See which VA facilities currently use online scheduling</a>.<br>
-<a href="/facilities">Find a VA health facility</a>.
+<a href="/find-locations/">Find a VA health facility</a>.
 
 </div>
 </div>

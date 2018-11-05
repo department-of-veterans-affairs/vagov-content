@@ -55,7 +55,7 @@ Over 1.7 million Veterans received mental health services at VA last year. Our s
 **If you're already using VA medical services,** ask your primary care provider to help you make an appointment with a VA mental health provider.
 
 **If you're not already using VA medical services,** contact your nearest VA medical center or Vet Center to talk about your needs. <br>
-[Find your nearest VA medical center or Vet Center](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find your nearest VA medical center or Vet Center](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 
 ### What if I'm not sure what kind of help I need?
 
@@ -92,7 +92,7 @@ To talk with a peer coach, call Military OneSource's free, confidential peer sup
 - Employment counseling
 - Substance abuse assessment and referral
 
-[Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find a Vet Center near you](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 
 You can also call 1-877-WAR-VETS (<a href="tel:+18779278387">1-877-927-8387</a>) to talk with a fellow Combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
 
@@ -126,7 +126,7 @@ Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> 
 **Depending on your needs and situation, you can also:**
 
 - Get free private counseling, alcohol and drug assessment, and other support for combat Veterans and families at one of our 300 community Vet Centers. <br>
-[Find a Vet Center near you](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find a Vet Center near you](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 - Contact the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. A trained VA counselor will offer information about VA homelessness programs, health care, and other services in your area. The call is free and confidential.
 - Call or visit your local VA Community  Resource and Referral Center. Even if you don’t qualify for VA health care, our staff can help you find non-VA resources you may qualify for in your community. <br>
 [Find your local Community Resource and Referral Center](https://www.va.gov/HOMELESS/Crrc.asp).
@@ -143,7 +143,7 @@ Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> 
 <div id="questions-national-guard" class="usa-accordion-content">
 
 To learn more about whether you're eligible for services, call your nearest VA medical center. <br>
-[Find your nearest VA medical center](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find your nearest VA medical center](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 
 Or call 1-877-222-VETS (<a href="tel:+18002228387">1-877-222-8387</a>) to find the right resource for your needs. If you have hearing loss, call TTY: <a href="tel:+18008778339">1-800-877-8339</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
@@ -232,7 +232,7 @@ You can also contact our **Coaching into Care** program to speak directly with a
 <div id="questions-facility" class="usa-accordion-content">
 
 You can use our facility locator to search for VA health facilities near you. <br>
-[Find your nearest VA health facility](/facilities/?zoomLevel=4&page=1&facilityType=health).
+[Find your nearest VA health facility](/find-locations/?zoomLevel=4&page=1&facilityType=health).
 
 </div>
 </li>

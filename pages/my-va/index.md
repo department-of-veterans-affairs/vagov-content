@@ -2,6 +2,8 @@
 title: My VA
 layout: page-react.html
 entryname: dashboard
+aliases:
+  - /dashboard/
 ---
 <nav aria-label="Breadcrumb" aria-live="polite" class="va-nav-breadcrumbs"
 id="va-breadcrumbs">
