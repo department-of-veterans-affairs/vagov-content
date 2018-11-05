@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Agent Orange Exposure
 display_title: Agent Orange
-description: Find out if you can get VA disability benefits if you have an illness believed to be caused by contact with Agent Orange during your military service.
+description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityConditionsAgentOrange
