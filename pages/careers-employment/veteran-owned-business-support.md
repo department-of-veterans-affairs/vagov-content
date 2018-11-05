@@ -96,7 +96,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 #### How do I register my small business?
 
 To register as a VOSB or SDVOSB, you’ll need to apply through the Vets First Verification Program. <br>
-[Apply online](https://www.vip.vetbiz.gov/).
+[Apply online](https://www.vip.vetbiz.va.gov/).
 
 Our VA-certified Verification Assistance Counselors—and Verification Program Webinars and Town Halls—can help guide you through the process. If you use these pre-qualification resources, you can help speed up the decision on your application.</br>
 

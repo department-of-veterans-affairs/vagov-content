@@ -105,4 +105,18 @@ In some cases, you may need to turn in one or more supplemental forms to support
 </div>
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">Can I upload evidence to support an appeal?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+No. You can only upload evidence to support your initial claim. <br>
+[Learn more about filing an appeal](https://preview.va.gov/disability/file-an-appeal/).
+
+</div>
+</div>
+</div>
+
+
 <br/>

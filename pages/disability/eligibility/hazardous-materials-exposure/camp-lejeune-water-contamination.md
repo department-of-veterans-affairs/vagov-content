@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Contaminated Drinking Water at Camp Lejeune
+title: Health Issues Related to Camp Lejeune Water Contamination
 display_title: Camp Lejeune Water Contamination
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
@@ -59,7 +59,7 @@ You’ll need to apply for benefits and provide the evidence (supporting documen
 **You can apply in any of these ways:**
 - [Apply online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
 - [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
-- [Get help at a VA regional benefit office](/facilities/)
+- [Get help at a VA regional benefit office](/find-locations/)
 
 ### Are Veterans and their family members covered for health care?
 
@@ -88,7 +88,7 @@ You'll need to apply for benefits and provide the evidence (supporting documents
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
 
-And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods: 
+And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods:
 - Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**
 - Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014 and up to 2 years before the date you apply for benefits)
 

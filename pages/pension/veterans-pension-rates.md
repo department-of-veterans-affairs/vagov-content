@@ -1,10 +1,13 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Pension Rates
+title: VA Pension Rates for Veterans
+display_title: Veterans Pension Rates
 concurrence:
 spoke: More Resources
 order: 1
+aliases:
+  - /pension/rates/
 ---
 
 <div class="va-introtext">

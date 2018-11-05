@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for Education Benefits
+title: How to Apply for the GI Bill and Other Education Benefits
 display_title: How to Apply
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 collection: education
@@ -13,6 +13,9 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
+    - url: /careers-employment/education-and-career-counseling/
+      title: Educational and Career Counseling
+      description: If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
     - url: /careers-employment/veteran-owned-business-support/
       title: Register Your Veteran-Owned Small Business
       description: If you have—or want to start—your own business, we can help. Register to do business with VA and get support for your Veteran-owned small business.
@@ -37,18 +40,23 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">How do I prepare before starting my application?</h3>
+<h2 itemprop="name">How do I prepare before starting my application?</h2>
 <div itemprop="itemListElement">
 
 - [Find out if you're eligible for VA education benefits](/education/eligibility/).
 - Gather the documents and information listed below that you’ll need to apply for education benefits.
 - See what benefits you’ll get at the school you want to attend.<br/> [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
 
+**Note:** To apply for Vocational Rehabilitation and Employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to use a different application.
+
+[Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
+
 <div markdown="0"><br></div>
 
 <div class="feature" markdown="1">
 
-#### What documents and information do I need to apply?
+### What documents and information do I need to apply?
 
 - Social Security number
 - Bank account direct deposit information
@@ -63,7 +71,7 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">You can also apply:</h4>
+<h3 itemprop="name">You can also apply:</h3>
 <div itemprop="itemListElement">
 
 #### By mail
@@ -72,7 +80,7 @@ Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday thr
 
 #### In person
 Go to a VA regional office and have a VA employee help you.<br/>
-[Find a VA regional benefit office near you](/facilities).
+[Find a VA regional benefit office near you](/find-locations/).
 
 Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
 
@@ -85,7 +93,7 @@ You can work with a trained professional called an accredited representative to 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I apply?</h3>
+<h2 itemprop="name">What happens after I apply?</h2>
 <div itemprop="itemListElement">
 
 [Find out what happens after you apply](/education/after-you-apply/).
@@ -100,7 +108,7 @@ If we’ve asked you for documents, please upload them through the GI Bill websi
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">How long does it take VA to make a decision?</h4>
+<h3 itemprop="name">How long does it take VA to make a decision?</h3>
 <div itemprop="itemListElement">
 
 <div class="card information" markdown="0">
