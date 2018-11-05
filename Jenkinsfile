@@ -102,7 +102,7 @@ node('vetsgov-general-purpose') {
       // The build script will use this flag to pull the compiled app-code from the www.va.gov S3 bucket.
 
       def installDependencies = "cd /application && yarn install --production=false"
-      def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
+      def build = "npm --prefix /application --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
       def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
 
       sh installDependencies
