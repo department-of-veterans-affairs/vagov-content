@@ -49,6 +49,8 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
+  def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
+
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
 
@@ -72,7 +74,6 @@ node('vetsgov-general-purpose') {
     dir(appCodeRepo) {
       checkoutAppCode()
 
-      def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
       sh "git checkout ${tag}"
 
       def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
