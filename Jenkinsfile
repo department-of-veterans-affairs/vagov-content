@@ -1,7 +1,9 @@
 import org.kohsuke.github.GitHub
 
 isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-appCodeRepo = 'department-of-veterans-affairs/vets-website'
+orgName = 'department-of-veterans-affairs'
+appCodeRepo = 'vets-website'
+contentRepo = 'vagov-content'
 productionEnv = 'vagovdev'
 productionBuildJob = 'deploys/vets-website-vagovdev'
 
@@ -25,17 +27,16 @@ def checkoutAppCode = {
     ],
     submoduleCfg: [],
     userRemoteConfigs: [
-      [url: "git@github.com:${appCodeRepo}.git"]
+      [url: "git@github.com:${orgName}/${appCodeRepo}.git"]
     ]
   ]
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
 def executeBuild(dockerImage) {
-  def installDependencies = "yarn install --production=false"
-  def build = "npm --no-color run build -- --buildtype=${productionEnv}"
-  def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
-
+  def installDependencies = "cd /application && yarn install --production=false"
+  def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv}"
+  def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
   sh installDependencies
   sh build
   sh preArchive
@@ -83,24 +84,24 @@ node('vetsgov-general-purpose') {
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
-    dir('vagov-content') {
+    dir(contentRepo) {
       checkout scm
     }
 
-    dir('vagov-apps') {
+    def tag = getTagOfAppCodeLatestRelease()
+
+    dir(appCodeRepo) {
       checkoutAppCode()
-      def tag = getTagOfAppCodeLatestRelease()
-
       sh "git checkout ${tag}"
-
-      def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-      def dockerImage = docker.build("vets-website:${imageTag}")
-
-      dockerImage.inside() {
-        executeBuild(dockerImage)
-        // archiveBuild()
-      }
     }
 
+    def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
+    def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+
+    dockerImage.inside(dockerArgs) {
+      executeBuild(dockerImage)
+      // archiveBuild()
+    }
   }
 }
