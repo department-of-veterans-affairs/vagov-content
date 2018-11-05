@@ -1,9 +1,9 @@
 import org.kohsuke.github.GitHub
 
-final isMaster = env.BRANCH_NAME == 'fix-content-deploy'
-final appCodeRepo = 'department-of-veterans-affairs/vets-website'
-final productionEnv = 'vagovdev'
-final productionBuildJob = 'deploys/vets-website-vagovdev'
+def isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+def appCodeRepo = 'department-of-veterans-affairs/vets-website'
+def productionEnv = 'vagovdev'
+def productionBuildJob = 'deploys/vets-website-vagovdev'
 
 def getTagOfAppCodeLatestRelease = {
   def github = GitHub.connect()
