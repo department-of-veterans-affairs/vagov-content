@@ -95,13 +95,13 @@ node('vetsgov-general-purpose') {
       sh "git checkout ${tag}"
     }
 
-    def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
-    // def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+    // def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+    // def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
+    // // def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
 
-    dockerImage.inside() {
-      // executeBuild(dockerImage)
-      // archiveBuild()
-    }
+    // dockerImage.inside() {
+    //   // executeBuild(dockerImage)
+    //   // archiveBuild()
+    // }
   }
 }
