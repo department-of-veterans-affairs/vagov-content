@@ -65,7 +65,7 @@ node('vetsgov-general-purpose') {
       checkoutAppCode()
       script {
         def tag = getTagOfAppCodeLatestRelease()
-        def imageTag = URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+        def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
         def dockerImage = docker.build("vets-website:${imageTag}")
 
         sh(script: "git checkout ${tag}")
