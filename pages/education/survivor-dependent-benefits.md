@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: VA Education Benefits for Survivors and Dependents
-display_title: Survivors and Dependents
+display_title: Survivor and Dependent Benefits
 concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 children: educationGIBillSurvivors

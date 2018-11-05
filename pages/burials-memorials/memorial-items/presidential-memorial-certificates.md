@@ -43,7 +43,7 @@ You can apply for a PMC in person, by mail, or by fax.
 ### In person
 
 You can apply at any VA regional benefit office.<br>
-[Find your nearest VA regional benefit office](/facilities).
+[Find your nearest VA regional benefit office](/find-locations/).
 
 ### By mail
 
