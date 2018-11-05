@@ -91,7 +91,7 @@ node('vetsgov-general-purpose') {
     dir(appCodeRepo) {
       checkoutAppCode()
 
-      def tag = 'vets-website-v0-1-383' //getTagOfAppCodeLatestRelease()
+      def tag = 'vets-website/v0-1-383' //getTagOfAppCodeLatestRelease()
       sh "git checkout ${tag}"
 
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
