@@ -60,7 +60,7 @@ social:
           external: true
           icon: fa-envelope
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true
@@ -93,7 +93,7 @@ hublinks:
       description: Complete your application online now.
       external: false
     - url: "/pension/aid-attendance-housebound/"
-      label: VA Aid and Attendance or Housebound Allowance Benefits
+      label: Aid and Attendance Benefits and Housebound Allowance
       description: If you need help with daily activities or you're housebound, find
         out how to apply for extra VA pension benefits.
       external: false

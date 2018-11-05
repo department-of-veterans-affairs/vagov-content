@@ -77,7 +77,7 @@ You may be able to get compensation as a surviving child if you meet the require
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-parent">As a surviving parent</button>
 <div id="VA-burials-survivor-parent" class="usa-accordion-content">
-  
+
 You may be able to get compensation as a surviving parent if both of the descriptions below are true for you. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or Servicemember. Evidence may include documents like military service records, doctor's reports, and medical test results.
 
 **Both of these must be true:**
