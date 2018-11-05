@@ -90,13 +90,15 @@ node('vetsgov-general-purpose') {
     dir('vagov-apps') {
       checkoutAppCode()
       def tag = getTagOfAppCodeLatestRelease()
+
+      sh "git checkout ${tag}"
+
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("vets-website:${imageTag}")
+      def dockerArgs = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
 
-      sh(script: "git checkout ${tag}")
+      dockerImage.inside(dockerArgs) {
 
-      def args = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
-      dockerImage.inside(args) {
         executeBuild(dockerImage)
         // archiveBuild()
       }
