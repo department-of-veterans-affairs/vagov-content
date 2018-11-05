@@ -101,7 +101,7 @@ node('vetsgov-general-purpose') {
     sh "cd ${appCodeRepo} && git checkout ${tag}"
 
     dockerImage.inside(dockerArgs) {
-      executeBuild(dockerImage)
+      // executeBuild(dockerImage)
       // archiveBuild()
     }
   }
