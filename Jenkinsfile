@@ -36,9 +36,9 @@ def executeBuild(dockerImage) {
   def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv}"
   def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
 
-  sh(script: installDependencies)
-  sh(script: build)
-  sh(script: preArchive)
+  sh installDependencies
+  sh build
+  sh preArchive
 }
 
 def archiveBuild = {
@@ -97,7 +97,7 @@ node('vetsgov-general-purpose') {
 
       def args = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
       dockerImage.inside(args) {
-        // executeBuild(dockerImage)
+        executeBuild(dockerImage)
         // archiveBuild()
       }
     }
