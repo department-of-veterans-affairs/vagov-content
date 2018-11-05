@@ -35,30 +35,6 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."       
-  - heading: Connect with Us
-    admin: All VA Organizations
-    url: https://va.gov/landing_organizations.htm
-    subsections:
-      - subhead: Get Updates
-        links:
-         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
-           label: Veterans Records Email Updates
-           external: true
-           icon: fa-envelope-square
-      - subhead: Follow Us  
-        links:
-        - url: https://twitter.com/DeptVetAffairs/
-          label: Veterans Affairs Twitter
-          external: true
-          icon: fa-twitter
-        - url: "https://www.facebook.com/VeteransAffairs/"
-          label: Veterans Affairs Facebook
-          external: true
-          icon: fa-facebook
-        - url: "https://www.youtube.com/user/DeptVetAffairs"
-          label: Veterans Affairs YouTube
-          external: true
-          icon: fa-youtube
 hublinks:
   - id: get
     title: Get Your Records and Documents

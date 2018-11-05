@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Aid and Attendance Benefits and Housebound Allowance
+title: VA Aid and Attendance Benefits and Housebound Allowance
+display_title: Aid and Attendance Benefits and Housebound Allowance
 concurrence: ""
 spoke: Get Benefits
 order: 4
@@ -54,7 +55,7 @@ Include this information:
 #### Apply in person
 
 You can bring your information to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+[Find a regional benefit office](/find-locations/).
 
 ### How long does it take VA to make a decision?
 
