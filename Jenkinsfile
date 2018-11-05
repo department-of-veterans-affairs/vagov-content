@@ -95,7 +95,7 @@ node('vetsgov-general-purpose') {
         sh preArchive
 
         withCredentials(awsCredentials) {
-          def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
+          def convertToTarball = "tar -C /build/${productionEnv} -cf /build/${productionEnv}.tar.bz2 ."
           // def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 s3://vetsgov-website-builds-s3-upload/${ref}/${productionEnv}.tar.bz2"
 
           sh convertToTarball
