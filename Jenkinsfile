@@ -95,9 +95,8 @@ node('vetsgov-general-purpose') {
 
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("vets-website:${imageTag}")
-      def dockerArgs = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
 
-      dockerImage.inside(dockerArgs) {
+      dockerImage.inside() {
 
         executeBuild(dockerImage)
         // archiveBuild()
