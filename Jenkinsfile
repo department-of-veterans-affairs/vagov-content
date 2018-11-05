@@ -41,7 +41,7 @@ def executeBuild(dockerImage) {
   sh(script: preArchive)
 }
 
-def archiveBuild {
+def archiveBuild = {
   def awsCredentials = [[
     $class: 'UsernamePasswordMultiBinding',
     credentialsId: 'vetsgov-website-builds-s3-upload',
