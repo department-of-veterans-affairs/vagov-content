@@ -90,20 +90,17 @@ node('vetsgov-general-purpose') {
 
     dockerImage.inside(dockerArgs) {
 
-      dir('/application') {
-        def installDependencies = "yarn install --production=false"
-        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
-        def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+      def installDependencies = "cd /application && yarn install --production=false"
+      def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
+      def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
 
-        sh installDependencies
-        sh build
-        sh preArchive
-
-      }
+      sh installDependencies
+      sh build
+      sh preArchive
 
       withCredentials(awsCredentials) {
         // def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
-        def convertToTarball = "tar -C build/${productionEnv} -cf build/${productionEnv}.tar.bz2 ."
+        def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
         // def uploadTarball = "\
         //   s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
         //   s3://vetsgov-website-builds-s3-upload/${releaseCommitSha}/${productionEnv}.tar.bz2"
