@@ -115,10 +115,10 @@ node('vetsgov-general-purpose') {
         sh convertToTarball
         sh uploadTarball
 
-        // build job: jobName, parameters: [
-        //   booleanParam(name: 'notify_slack', value: true),
-        //   stringParam(name: 'ref', value: ref),
-        // ], wait: false
+        build job: productionBuildJob, parameters: [
+          booleanParam(name: 'notify_slack', value: true),
+          stringParam(name: 'ref', value: tarballName),
+        ], wait: false
       }
     }
   }
