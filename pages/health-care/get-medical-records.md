@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Get Your VA Medical Records Online
 display_title: Get Medical Records
-description:
+description: Get, organize, and share your VA medical records online through our VA Blue Button tool. This can help you communicate better with your health care team. Plus, share your records with non-VA community providers through the Veterans Health Information Exchange (also called VLER).
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
