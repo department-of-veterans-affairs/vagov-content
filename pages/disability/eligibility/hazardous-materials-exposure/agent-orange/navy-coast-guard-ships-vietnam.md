@@ -75,7 +75,7 @@ If you don’t have an Agent Orange–related disability at this time, you and y
 ### What if I need help filing my claim?
 You can get help from us in one of these ways:
 - Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TTY <a href="tel:+18008778339">1-800-877-8339</a>
-- Go to your [nearest VA benefits office](/facilities)
+- Go to your [nearest VA benefits office](/find-locations/)
 
 Get more information about ships that may have been exposed to Agent Orange.
 
