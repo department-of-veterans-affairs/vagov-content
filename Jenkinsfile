@@ -82,5 +82,30 @@ node('vetsgov-general-purpose') {
       releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
       dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     }
+
+    // def currentDir = pwd()
+    // def dockerArgs = "-v ${currentDir}/${spp}:/application -v ${appCodeRepo}/${contentRepo}:/${contentRepo}"
+
+    // dockerImage.inside(dockerArgs) {
+    //   def installDependencies = "yarn install --production=false"
+    //   def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
+    //   def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+
+    //   sh 'cd /application'
+    //   sh installDependencies
+    //   sh build
+    //   sh preArchive
+
+    //   withCredentials(awsCredentials) {
+    //     // def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
+    //     def convertToTarball = "tar -C build/${productionEnv} -cf build/${productionEnv}.tar.bz2 ."
+    //     // def uploadTarball = "\
+    //     //   s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
+    //     //   s3://vetsgov-website-builds-s3-upload/${releaseCommitSha}/${productionEnv}.tar.bz2"
+
+    //     sh convertToTarball
+    //     // echo uploadTarball
+    //   }
+    }
   }
 }
