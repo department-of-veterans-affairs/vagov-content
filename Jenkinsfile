@@ -92,7 +92,7 @@ node('vetsgov-general-purpose') {
 
       dockerImage.inside(dockerArgs) {
         def installDependencies = "yarn install --production=false"
-        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-directory=/${contentRepo}"
+        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-directory=/${contentRepo} --brand-consolidation-enabled"
         def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
 
         sh 'cd /application'
