@@ -6,28 +6,22 @@ final productionEnv = 'vagovdev'
 final productionBuildJob = 'deploys/vets-website-vagovdev'
 
 def getAppCodeLatestReleaseSHA = {
-
-  // Returns the commit SHA of the latest app-code release.
-
   def github = GitHub.connect()
   def repo = github.getRepository(appCodeRepo)
   def releases = repo.listReleases()
   def latestRelease = releases.asList().get(0)
-  def tagName = latestRelease.getTagName()
+  def tarball = latestRelease.getTarballUrl()
 
 
-  def ref = repo.getRef('heads/master').getObject()
-  def commitSha = ref.getSha()
+  // def ref = repo.getRef('heads/master').getObject()
+  // def commitSha = ref.getSha()
 
   // @todo Return SHA of release, not just latest master.
 
-  return commitSha
+  return tarball
 }
 
 def checkoutAppCode = {
-
-  // Clones the app-code repo into the current directory.
-
   def scmOptions = [
     $class: 'GitSCM',
     branches: [[name: '*/master']],
@@ -40,11 +34,9 @@ def checkoutAppCode = {
       [url: "git@github.com:${appCodeRepo}.git"]
     ]
   ]
-
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-//https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/
 node('vetsgov-general-purpose') {
   properties([[
     $class: 'BuildDiscarderProperty',
@@ -77,7 +69,8 @@ node('vetsgov-general-purpose') {
     dir('vagov-apps') {
       checkoutAppCode()
       script {
-        def commitSha = getAppCodeLatestReleaseSHA()
+        def tarball = getAppCodeLatestReleaseSHA()
+        echo ${tarball}
         // sh(script: "yarn install --production=false")
       }
     }
