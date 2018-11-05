@@ -23,20 +23,9 @@ If you’ve filed a claim for disability compensation, you can continue uploadin
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can upload evidence to support your claim through our claim tracking tool that helps you check the status of your claim. <br>
+You can upload evidence to support your claim through our claim tracking tool. This tool also helps you check the status of your claim. <br>
 
-Once you're signed in to VA.gov, follow these steps to upload evidence: 
-
-<ol class="process">
-  <li class="process-step list-one"><b>Go to your "My VA" dashboard.</b><br>
-   You'll find the link for this dashboard in the top right corner of the page once you're signed in.</li>
-  <li class="process-step list-two"><b>Scroll down to the "Track Claims" section.</b><br>
-  There, you'll see a summary of the latest status information for any open claims or appeals you may have.</li>
-  <li class="process-step list-three"><b>Click on the "View Status" button for a specific claim.</b><br>
-   You'll go to a page with more details about that claim's status and supporting evidence. You'll also see if we're requesting any additional evidence from you. From here, you can upload evidence.</li>  
-</ol>
-
-[Find out how to sign in to use this tool]((/claim-or-appeal-status).
+[Find out how to sign in to use this tool](/claim-or-appeal-status).
 
 </div>
 </div>
