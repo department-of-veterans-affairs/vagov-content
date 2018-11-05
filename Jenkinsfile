@@ -31,6 +31,33 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
+def executeBuild(dockerImage) {
+  def installDependencies = "yarn install --production=false"
+  def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv}"
+  def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
+
+  sh(script: installDependencies)
+  sh(script: build)
+  sh(script: preArchive)
+}
+
+def archiveBuild {
+  def awsCredentials = [[
+    $class: 'UsernamePasswordMultiBinding',
+    credentialsId: 'vetsgov-website-builds-s3-upload',
+    usernameVariable: 'AWS_ACCESS_KEY',
+    passwordVariable: 'AWS_SECRET_KEY'
+  ]]
+
+  def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
+  def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 s3://vetsgov-website-builds-s3-upload/${ref}/${productionEnv}.tar.bz2"
+
+  withCredentials(awsCredentials) {
+    sh(script: convertToTarball)
+    sh(script: uploadTarball)
+  }
+}
+
 node('vetsgov-general-purpose') {
   properties([[
     $class: 'BuildDiscarderProperty',
@@ -62,13 +89,16 @@ node('vetsgov-general-purpose') {
 
     dir('vagov-apps') {
       checkoutAppCode()
-      script {
-        def tag = getTagOfAppCodeLatestRelease()
-        def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-        def dockerImage = docker.build("vets-website:${imageTag}")
+      def tag = getTagOfAppCodeLatestRelease()
+      def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+      def dockerImage = docker.build("vets-website:${imageTag}")
 
-        sh(script: "git checkout ${tag}")
-        // sh(script: "yarn install --production=false")
+      sh(script: "git checkout ${tag}")
+
+      def args = "-v ${pwd()}/vets-website:/application -v ${pwd()}/vagov-content:/vagov-content"
+      dockerImage.inside(args) {
+        executeBuild(dockerImage)
+        // archiveBuild()
       }
     }
 
