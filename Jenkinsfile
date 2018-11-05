@@ -1,7 +1,7 @@
 import groovy.transform.Field
 import org.kohsuke.github.GitHub
 
-@Field String isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+@Field Boolean isMaster = env.BRANCH_NAME == 'fix-content-deploy'
 @Field String appCodeRepo = 'department-of-veterans-affairs/vets-website'
 @Field String productionEnv = 'vagovdev'
 @Field String productionBuildJob = 'deploys/vets-website-vagovdev'
