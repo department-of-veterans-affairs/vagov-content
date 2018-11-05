@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Eligibility for VA Disability Benefits
 display_title: Eligibility
-description: Find out if you're eligible for VA disability compensation or other benefits for a condition related to your military service.
+description: Read VA disability benefits eligibility criteria to see if you qualify for compensation for a presumptive disability or other service-connected conditions. A presumptive disability is an illness or injury we believe is related to military service. You can also learn more about dependent eligibility.
 order: 1
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
