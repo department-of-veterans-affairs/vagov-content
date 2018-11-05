@@ -90,18 +90,19 @@ node('vetsgov-general-purpose') {
 
     dir(appCodeRepo) {
       checkoutAppCode()
-    }
 
-    def tag = 'vets-website-v0-1-383' //getTagOfAppCodeLatestRelease()
-    def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
-    def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
-    def dockerArgs = "-v ${pwd()}/${appCodeRepo}:/application -v ${pwd()}/${contentRepo}:/${contentRepo}"
+      def tag = 'vets-website-v0-1-383' //getTagOfAppCodeLatestRelease()
+      sh "git checkout ${tag}"
 
-    sh "cd ${appCodeRepo} && git checkout ${tag}"
+      def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+      def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
+      def currentDir = pwd()
+      def dockerArgs = "-v ${currentDir}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
-    dockerImage.inside(dockerArgs) {
-      // executeBuild(dockerImage)
-      // archiveBuild()
+      dockerImage.inside(dockerArgs) {
+        // executeBuild(dockerImage)
+        // archiveBuild()
+      }
     }
   }
 }
