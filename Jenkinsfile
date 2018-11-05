@@ -44,6 +44,7 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
+//https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/
 node('vetsgov-general-purpose') {
   properties([[
     $class: 'BuildDiscarderProperty',
