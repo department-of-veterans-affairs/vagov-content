@@ -49,7 +49,7 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
-  def releaseTag, releaseCommit, dockerImage
+  def releaseTag, releaseCommit, dockerImage, contentCommit
 
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
@@ -69,6 +69,7 @@ node('vetsgov-general-purpose') {
 
     dir(contentRepo) {
       checkout scm
+      contentCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
     }
 
     dir(appCodeRepo) {
@@ -100,7 +101,7 @@ node('vetsgov-general-purpose') {
         def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
         def uploadTarball = "\
           s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
-          s3://vetsgov-website-builds-s3-upload/${releaseCommit}/${productionEnv}.tar.bz2"
+          s3://vetsgov-website-builds-s3-upload/${releaseCommit}__content-${contentCommit}/${productionEnv}.tar.bz2"
 
         sh convertToTarball
         echo uploadTarball
