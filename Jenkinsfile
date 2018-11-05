@@ -75,7 +75,7 @@ node('vetsgov-general-purpose') {
       checkoutAppCode()
 
       releaseTag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
-      sh "git checkout ${tag}"
+      sh "git checkout ${releaseTag}"
 
       def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
 
@@ -88,7 +88,7 @@ node('vetsgov-general-purpose') {
 
     dockerImage.inside(dockerArgs) {
       def installDependencies = "yarn install --production=false"
-      def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
+      def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=/${contentRepo}"
       def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
 
       sh 'cd /application'
