@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Transferring Post-9/11 GI Bill Benefits
+title: Transfer Your Post-9/11 GI Bill Benefits
 display_title: Transfer Post-9/11 GI Bill Benefits
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: complete

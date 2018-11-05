@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veterans Pension
+title: How to Apply for a VA Veterans Pension
 display_title: How to Apply
 concurrence: ""
 order: 2
@@ -18,7 +18,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to apply for a tax-free Veterans pension.
+Find out how to apply for a tax-free VA Veterans pension.
 
 </div>
 

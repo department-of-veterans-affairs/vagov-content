@@ -31,8 +31,7 @@ aliases:
           <div class="row">
             <div class="small-12 columns">
               <h4>Signing in to VA.gov</h4>
-              <div class="usa-accordion" aria-multiselectable="true">
-                <ul class="usa-unstyled-list">
+              <ul class="usa-accordion" aria-multiselectable="true">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-vetsgov-0" itemprop="name">How do I sign in to VA.gov? </button>
                     <div id="faq-vetsgov-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -52,7 +51,7 @@ aliases:
                 <br/>
                 <a name="verifying-your-identity"></a>
                 <h4>Verifying your identity on VA.gov</h4>
-                <ul class="usa-unstyled-list">
+                <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-verify-0" itemprop="name">How do I verify my identity online? </button>
                     <div id="faq-verify-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -127,7 +126,7 @@ aliases:
                 </ul>
                 <br/>
                 <h4>Common issues with verifying identity</h4>
-                <ul class="usa-unstyled-list">
+                <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-trouble-0" itemprop="name">If I can’t or don’t want to verify my identity through ID.me, what are my other options? </button>
                     <div id="faq-trouble-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -168,7 +167,7 @@ aliases:
                         <ul>
                           <li><strong>A completed and signed Individuals’ Request for a Copy of Their Own Health Information (VA Form 10-5345a-MHV).</strong> This “VA release of information” form gives us permission to share an electronic copy of your health record with your online account. You can download a PDF copy of the form now, call ahead to ask the staff to mail you a form, or ask for a form when you get there.<br/>
                             <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV</a>.<br/>
-                            <a href="/facilities/">Find the phone number for your nearest VA health care facility</a>.</li>
+                            <a href="/find-locations/">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
                         <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and the original paper copy will be shredded to protect your privacy.</p>
@@ -261,7 +260,7 @@ aliases:
                 <a name="why-verify"></a>
                 <a name="what-is-idme"></a>
                 <h4>Privacy and security on VA.gov</h4>
-                <ul class="usa-unstyled-list">
+                <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-security-0" itemprop="name">Why should I trust VA.gov? </button>
                     <div id="faq-security-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -313,8 +312,7 @@ aliases:
                       </div>
                     </div>
                   </li>
-                 </ul>
-              </div>
+               </ul>
             </div>
           </div>
         </div>

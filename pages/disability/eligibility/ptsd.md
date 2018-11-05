@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Posttraumatic Stress Disorder (PTSD)
+title: VA Disability Compensation for Posttraumatic Stress Disorder (PTSD)
 display_title: PTSD
 description: Find out if you can get VA disability benefits for posttraumatic stress disorder, or PTSD, if you suffered a traumatic event while in the military. 
 concurrence: complete
@@ -21,7 +21,7 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-	<h4 class="usa-alert-title">How do I talk to someone right now?</h4>
+	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
 	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">

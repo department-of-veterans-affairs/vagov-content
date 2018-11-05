@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for Disability Benefits
+title: How to File a VA Disability Claim
 display_title: How to File a Claim
 description: Find out how to apply online for VA disability compensation, and what documents you'll need to start your application today.
 order: 2
@@ -122,8 +122,8 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 #### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">96.8 days</span>
-<span class="description">Average number of days to complete disability-related claims in September 2018</span>
+<span class="number">98.8 days</span>
+<span class="description">Average number of days to complete disability-related claims in October 2018</span>
 </div>
 </div>
 </div>

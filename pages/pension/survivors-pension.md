@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Survivors Pension
+title: VA Survivors Pension
 display_title: Survivors Pension
 concurrence: ""
 children: pensionSurvivors
@@ -72,4 +72,4 @@ You can work with a trained professional called an accredited representative to 
 
 ### How long does it take VA to make a decision?
 
-It depends. We process claims in the order we received them, unless a claim requires priority processing.   
+It depends. We process claims in the order we received them, unless a claim requires priority processing.

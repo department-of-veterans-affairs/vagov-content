@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Contaminated Drinking Water at Camp Lejeune
+title: Health Issues Related to Camp Lejeune Water Contamination
 display_title: Camp Lejeune Water Contamination
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
@@ -88,7 +88,7 @@ You'll need to apply for benefits and provide the evidence (supporting documents
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
 
-And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods: 
+And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods:
 - Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**
 - Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014 and up to 2 years before the date you apply for benefits)
 
