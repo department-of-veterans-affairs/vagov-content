@@ -89,13 +89,17 @@ node('vetsgov-general-purpose') {
     echo dockerArgs
 
     dockerImage.inside(dockerArgs) {
-      def installDependencies = "cd /application && yarn install --production=false"
-      def build = "cd /application && npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
-      def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
 
-      sh installDependencies
-      sh build
-      sh preArchive
+      dir('/application') {
+        def installDependencies = "yarn install --production=false"
+        def build = "npm --no-color run build -- --buildtype=${productionEnv} --content-deployment --content-directory=../${contentRepo}"
+        def preArchive = "node script/pre-archive/index.js --buildtype=${productionEnv}"
+
+        sh installDependencies
+        sh build
+        sh preArchive
+
+      }
 
       withCredentials(awsCredentials) {
         // def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
