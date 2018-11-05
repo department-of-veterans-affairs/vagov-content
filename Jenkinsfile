@@ -75,7 +75,7 @@ node('vetsgov-general-purpose') {
       def tag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
       sh "git checkout ${tag}"
 
-      // def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
+      def releaseCommitSha = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
       def imageTag = java.net.URLDecoder.decode(tag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       def dockerImage = docker.build("${appCodeRepo}:${imageTag}")
       def currentDir = pwd()
