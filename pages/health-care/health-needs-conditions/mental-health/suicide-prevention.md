@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veteran Suicide Prevention
 display_title: Suicide Prevention
+description: Find out how to access Veteran suicide prevention support from VA, including our 24/7 Veterans Crisis Line. If you're a Veteran in a mental health crisis and you're thinking about hurting yourself—or you know a Veteran who’s considering this—act now. You're not alone, and you can get help.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 3
