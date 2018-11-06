@@ -61,46 +61,42 @@ node('vetsgov-general-purpose') {
   }
 
   stage('Rebuild Production') {
-    // if (!isMaster) return
+    if (!isMaster) return
 
     // Production is a special case, because it's not redeployed every commit, but
     // every release instead. So, we need to rebuild Prod using the archive of the
     // latest release.
 
+    // Checkout the content and grab a reference to the current commmit.
     dir(contentRepo) {
-
-      // Checkout the content and grab a reference to the current commmit.
-
       checkout scm
       contentCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
     }
 
+    // Checkout the app-code, then reset it to the latest commit.
+    // Grab a reference to the tag, commit SHA, and the dockerImage.
     dir(appCodeRepo) {
-
-      // Checkout the app-code, then reset it to the latest commit.
-      // Grab a reference to the tag, commit SHA, and the dockerImage.
-
       checkoutAppCode()
 
-      releaseTag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
-      sh "git checkout ${releaseTag}"
+      // releaseTag = getTagOfAppCodeLatestRelease()
+      // sh "git checkout ${releaseTag}"
+      // releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
 
-      def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+      // def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
 
-      releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
+      // temporary
+      releaseTag = 'vets-website/v0.1.383'
+      releaseCommit = 'dab158f1e0bd5776963c4fa459a55c8237445f86'
       dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     }
 
     // Setup the docker-mount config
-
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${appCodeRepo}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
+    // Build the site using the "---content-deployment" flag
+    // The build script will use this flag to pull the compiled app-code from the www.va.gov S3 bucket.
     dockerImage.inside(dockerArgs) {
-
-      // Build the site using the "---content-deployment" flag
-      // The build script will use this flag to pull the compiled app-code from the www.va.gov S3 bucket.
-
       def installDependencies = "cd /application && yarn install --production=false"
       def build = "npm --prefix /application --no-color run build -- --buildtype=${productionEnv} --content-deployment"
       def preArchive = "cd /application && node script/pre-archive/index.js --buildtype=${productionEnv}"
@@ -109,11 +105,8 @@ node('vetsgov-general-purpose') {
       sh build
       sh preArchive
 
+      // Upload to S3 using the commit SHA of the release.
       withCredentials(awsCredentials) {
-
-        // Upload to S3 using the commit SHA from the app-code, suffixed by the content commit SHA
-
-        // def tarballName = "${releaseCommit}__content-${contentCommit}"
         def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
         def uploadTarball = "\
           s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
@@ -126,11 +119,11 @@ node('vetsgov-general-purpose') {
   }
 
   stage('Deploy Production') {
-    // if (!isMaster) return
+    if (!isMaster) return
 
-    build job: productionBuildJob, parameters: [
-      booleanParam(name: 'notify_slack', value: true),
-      stringParam(name: 'ref', value: releaseCommit),
-    ], wait: true
+    // build job: productionBuildJob, parameters: [
+    //   booleanParam(name: 'notify_slack', value: true),
+    //   stringParam(name: 'ref', value: releaseCommit),
+    // ], wait: true
   }
 }
