@@ -55,13 +55,19 @@ Find out how to file a claim for disability compensation.
 <h4 itemprop="name">What information do I need to file my claim?</h4>
 <div itemprop="itemListElement">
 
+For your first disability claim, we'll review your:
+
+- Discharge papers (DD214 or other separation documents)
+- Service treatment records <br>
+[(Order service records through the National Archives)](https://www.archives.gov/veterans/military-service-records)
+
 For all disability claims you'll have a chance to provide evidence to support your claim. Evidence could include:
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries
-- Private medical records and hospital reports that relate to your claimed illnesses or injuries 
-- Supporting or lay statements from family, friends, or coworkers with knowledge of your claimed illness or injuries 
+- Private medical records and hospital reports that relate to your claimed illnesses or injuries
+- Supporting or lay statements from family, friends, or coworkers with knowledge of your claimed illness or injuries
 
-**Please note:** You don’t have to submit evidence or supporting documents for your disability claim. If you don't submit any evidence, we may schedule a claim exam for you to help us decide your claim. You have up to 1 year from the date we receive your claim to turn in any evidence. 
+**Please note:** You don’t have to submit evidence or supporting documents for your disability claim. If you don't submit any evidence, we may schedule a claim exam for you to help us decide your claim. You have up to 1 year from the date we receive your claim to turn in any evidence.
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for VA's help to gather evidence. <br>
 [Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/).
@@ -93,8 +99,8 @@ Janesville, WI 53547-4444<br>
 
 ##### In person
 
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/find-locations/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 ##### With the help of a trained professional
 
