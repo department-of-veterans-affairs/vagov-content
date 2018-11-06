@@ -48,8 +48,8 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, you’ll have to show that you were aboard one of the U.S. Navy and Coast Guard ships that entered Vietnam’s inland waterways. If your ship docked or landed crewmembers, you’ll have to show that you went ashore. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you were aboard one of the U.S. Navy and Coast Guard ships that entered Vietnam’s inland waterways. If your ship docked or landed crewmembers, you’ll have to show that you went ashore. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 #### What if I didn’t go ashore or serve aboard a ship that entered the inland waterways of Vietnam? 
 
@@ -65,9 +65,9 @@ No. You don’t need to show where you came into contact with Agent Orange. We b
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship means you likely had contact with Agent Orange. <br>
 [See the list of ships that had contact with Agent Orange](https://www.benefits.va.gov/compensation/claims-postservice-agent_orange.asp).
 
-### Need help?
+### What if I need help filing my claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information

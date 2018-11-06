@@ -95,7 +95,7 @@ Apply for the Vocational Rehabilitation and Employment Program.
 
 <li class="process-step list-five">
 
-If you’re eligible, we’ll invite you to an orientation session at your nearest VA regional office.
+If you’re eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.
 </li>
 
 <li class="process-step list-six">

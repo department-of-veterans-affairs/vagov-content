@@ -61,8 +61,8 @@ Mail it to the Pension Management Center (PMC) for your state. <br>
 
 #### In person
 
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/find-locations/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 
 #### With the help of a trained professional

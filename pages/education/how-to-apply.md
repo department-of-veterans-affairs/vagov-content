@@ -79,8 +79,8 @@ Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday thr
 [See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp).
 
 #### In person
-Go to a VA regional office and have a VA employee help you.<br/>
-[Find a VA regional benefit office near you](/find-locations/).
+Go to a VA regional benefit office and have a VA employee help you.<br/>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
 

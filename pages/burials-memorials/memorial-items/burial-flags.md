@@ -46,13 +46,13 @@ To get a burial flag, fill out the Application for United States Flag for Burial
 
 **Bring the application form to:**
 - A funeral director, **or**
-- [A VA regional benefit office](http://www.benefits.va.gov/benefits/offices.asp), **or**
+- [A VA regional benefit office](/find-locations/?facilityType=benefits), **or**
 - A United States post office. Call ahead to make sure your local post office has burial flags.
 
 ## How do I display and care for the flag?
 
 To protect the flag from weather damage, don’t leave it outside for long periods of time. <br>
-[Find out how to display and fold the flag]( https://www.legion.org/flag/questions-answers/91522/how-flag-be-displayed-fully-open-or-half-open-casket).
+[Find out how to display and fold the flag](https://www.legion.org/flag/questions-answers/91522/how-flag-be-displayed-fully-open-or-half-open-casket).
 
 The Veteran’s family can also donate the flag to a national cemetery that has an Avenue of Flags so that it can be flown on patriotic holidays.
 
