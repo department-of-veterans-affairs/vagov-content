@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About Disability Housing Grants for Veterans
+title: Disability Housing Grants for Veterans
 display_title: Housing Grants
 children: housingAssistanceDisabilityHousingGrants
 lastupdate:
@@ -32,9 +32,10 @@ You may be able to get an SAH grant if you’re using the grant money to buy, bu
 - Blindness in both eyes (having only light perception) along with the loss or loss of use of a leg
 - Certain severe burns
 - The loss or loss of use of one or both lower extremities (feet or legs) after September 11, 2001, that makes it so you can’t balance or walk without the help of braces, crutches, canes, or a wheelchair <br>
-**Please note:** We can only give this grant to 30 Veterans and Servicemembers each fiscal year (FY). We've already given out all of the available grants for 2018. If you qualify for but don't receive a grant in 2018 because the cap was reached, you may be able to use this benefit in FY 2019 or future years if the law continues to give us the authority to offer these grants and we don't go beyond the new FY cap.
 
-For FY 2018, you may be able to get up to 3 grants—for a total of up to $81,080—through the SAH grant program.
+**Please note:** We can only give this grant to 30 Veterans and Servicemembers each fiscal year (FY). We've already given out all of the available grants for FY 2019. If you qualify for but don't receive a grant in 2019 because the cap was reached, you may be able to use this benefit in FY 2020 or future years if the law continues to give us the authority to offer these grants and we don't go beyond the new FY cap.
+
+For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,645—through the SAH grant program.
 
 <br>
 
@@ -53,7 +54,7 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 - Certain severe burns
 - Certain respiratory or breathing injuries
 
-For FY 2018, you may be able to get up to 3 grants—for a total of up to $16,217—through the SHA grant program.
+For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program.
 
 <div class="feature" markdown=“1”>
 
@@ -66,9 +67,9 @@ You may be able to get a Temporary Residence Adaptation (TRA) grant if you meet 
 - Qualify for an SAH or SHA grant (see above), **and**
 - Are living temporarily in a family member’s home that needs changes to meet your needs
 
-**If you qualify for an SAH grant**, you can get up to $35,593 through the TRA grant program for FY 2018.
+**If you qualify for an SAH grant**, you can get up to $37,597 through the TRA grant program for FY 2019.
 
-**If you qualify for an SHA grant**, you can get up to $6,355 through the TRA grant program for FY 2018.
+**If you qualify for an SHA grant**, you can get up to $6,713 through the TRA grant program for FY 2019.
 
 </div>
 

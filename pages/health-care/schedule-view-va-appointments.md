@@ -34,26 +34,28 @@ With our VA Appointments tools, you can schedule some VA health care appointment
 </div>
 
 <p><b>Please note:</b> The fastest way to make all your VA appointments is usually to call the VA health facility where you want to receive care. If you can’t keep an existing appointment, please contact the facility as soon as possible to reschedule or cancel.<br>
-<a href="/facilities/">Find your VA health facility’s phone number</a>.</p>
+<a href="/find-locations/">Find your VA health facility’s phone number</a>.</p>
 
 <div class="usa-alert usa-alert-warning">
  <div class="usa-alert-body">
-    <h4 class="usa-alert-title">How do I talk to someone right now?</h4>
+    <h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
     <a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
-        <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
+             <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>      
         <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
         <ul>
              <li>Call <a href="tel:+18002738255">1-800-273-8255</a>, then press 1.</li>
           <li><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/">Start a confidential Veterans Chat</a>.</li>
            <li>Text <a href="sms:838255">838255</a>.</li>
-           <li>Call TTY <a href="tel:+18007994889">1-800-799-4889</a> for support if you have hearing loss.
+           <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.
            </ul>
             <p><strong>You can also:</strong></p>
            <ul>
              <li>Call <a href="tel:911">911</a>.</li>
           <li>Go to the nearest emergency room.</li>
+             <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is or if you're enrolled in VA health care.<br>
+			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
         </ul>
       </div>
      </div>
@@ -155,7 +157,7 @@ This will depend on the VA health facility where you’re receiving care.
 
 Check with the specific facility where you’re receiving care to ask about scheduling appointments online.<br>
 <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/keeping-up-with-all-your-va-appointments#facility-list">See which VA facilities currently use online scheduling</a>.<br>
-<a href="/facilities">Find a VA health facility</a>.
+<a href="/find-locations/">Find a VA health facility</a>.
 
 </div>
 </div>

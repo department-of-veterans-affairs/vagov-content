@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Radiation Exposure 
+title: Ionizing Radiation Exposure
+display_title: Radiation Exposure
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-environmental_hazards.asp,http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -60,13 +61,13 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to file a claim and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Medical records showing that you've been diagnosed with one of the illnesses on our list of those believed to be caused by radiation—or that your doctor states may be caused by radiation exposure, **and**
 - Service records showing that you were part of one of the radiation risk activities described above
 
 **Note:** When you file your claim, we’ll ask the military branch that you served with (or the Defense Threat Reduction Agency) to give us a range of how much radiation they think you may have come into contact with. We’ll use the highest level of the range they report to decide on your benefits.
 
-[Apply for benefits](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 
 

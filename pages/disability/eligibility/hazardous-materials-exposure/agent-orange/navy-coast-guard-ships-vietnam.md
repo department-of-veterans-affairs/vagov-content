@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Navy or Coast Guard Ships in Vietnam
+title: Agent Orange Exposure on U.S. Navy or Coast Guard Ships
+display_title: Navy or Coast Guard Ships in Vietnam
 concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -64,21 +65,21 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits.<br>
-[Apply for disability benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation.<br>
+[Find out how to file a claim](/disability/how-to-file-claim/).
 
 If you served on 1 of the ships or boats listed above—and you have 1 or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
 
 If you don’t have an Agent Orange–related disability at this time, you and your family can still be part of the Agent Orange Health Registry.
 
-### Need help?
-Get help from us in 1 of 2 ways:
-- Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TDD <a href="tel:+18008778339">1-800-877-8339</a>
-- Go to your [nearest VA benefits office](/facilities)
+### What if I need help filing my claim?
+You can get help from us in one of these ways:
+- Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TTY <a href="tel:+18008778339">1-800-877-8339</a>
+- Go to your [nearest VA benefits office](/find-locations/)
 
 Get more information about ships that may have been exposed to Agent Orange.
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information

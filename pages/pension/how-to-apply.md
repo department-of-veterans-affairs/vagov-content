@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veterans Pension
+title: How to Apply for a VA Veterans Pension
 display_title: How to Apply
 concurrence: ""
 order: 2
@@ -18,7 +18,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to apply for a tax-free Veterans pension.
+Find out how to apply for a tax-free VA Veterans pension.
 
 </div>
 
@@ -54,8 +54,8 @@ Apply by mail using an Application for Pension (VA Form 21P-527EZ). <br>
 [Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).
 
 **In person** <br>
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
 
 **With the help of a trained professional** <br>
@@ -87,8 +87,8 @@ Turn in your form in any of these ways:
 - Mail it to the Pension Management Center (PMC) for your state. <br>
 [Find your PMC](/pension/pension-management-centers/).
 
-- Turn it in at a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+- Turn it in at a VA regional benefit office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 - Work with a trained professional called an accredited representative to get help applying for VA pension benefits. <br>
 [Get help filing a claim](/disability/get-help-filing-claim/).

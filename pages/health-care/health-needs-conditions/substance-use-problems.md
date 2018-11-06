@@ -30,21 +30,24 @@ If you’re struggling with substance use problems, you’re not alone. Many Vet
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-	<h4 class="usa-alert-title">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
+	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
+	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
-	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
-	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>
+	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+	    <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
 	    <ul>
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
+		    <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
+		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is or if you're enrolled in VA health care.<br>
+			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
   	</div>
@@ -100,8 +103,8 @@ Once you’ve signed up:
 - **If you don’t have a VA primary care provider or have never been seen in a VA hospital or clinic:**
   - [Find a Substance Use Disorder (SUD) program near you](https://www.va.gov/directory/guide/SUD.asp), **or**
   - Call our general information hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a>, **or**
-  - Contact your local VA medical center. [Find a VA medical center near you](/facilities/).
-- **If you served in Operation Enduring Freedom (OEF), Operation Iraqi Freedom (OIF), or Operation New Dawn (OND),** call your local VA medical center, and ask to speak to the OEF/OIF/OND coordinator. [Find a VA medical center near you](/facilities/).
+  - Contact your local VA medical center. [Find a VA medical center near you](/find-locations/).
+- **If you served in Operation Enduring Freedom (OEF), Operation Iraqi Freedom (OIF), or Operation New Dawn (OND),** call your local VA medical center, and ask to speak to the OEF/OIF/OND coordinator. [Find a VA medical center near you](/find-locations/).
 
 <br>
 
@@ -109,7 +112,7 @@ Once you’ve signed up:
 
 You may still be able to get care:
 
-- **If you’ve served in a combat zone,** get free private counseling, alcohol and drug assessment, and other support at one of our 300 community Vet Centers. [Find a Vet Center near you](/facilities/).
+- **If you’ve served in a combat zone,** get free private counseling, alcohol and drug assessment, and other support at one of our 300 community Vet Centers. [Find a Vet Center near you](/find-locations/).
 - **If you’re homeless or at risk of becoming homeless:**
   - Visit our website to learn about VA programs for Veterans who are homeless. [Learn about our homelessness programs](https://www.va.gov/homeless/).
   - Contact the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. A trained VA counselor will offer information about VA homeless programs, health care, and other services in your area. The call is free and confidential (private).

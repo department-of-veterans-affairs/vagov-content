@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Survivors Pension
+title: VA Survivors Pension
 display_title: Survivors Pension
 concurrence: ""
 children: pensionSurvivors
@@ -61,8 +61,8 @@ Mail it to the Pension Management Center (PMC) for your state. <br>
 
 #### In person
 
-Bring your application to a regional benefit office near you. <br>
-[Find a regional benefit office](/facilities/).
+Bring your application to a VA regional benefit office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 
 #### With the help of a trained professional
@@ -72,4 +72,4 @@ You can work with a trained professional called an accredited representative to 
 
 ### How long does it take VA to make a decision?
 
-It depends. We process claims in the order we received them, unless a claim requires priority processing.   
+It depends. We process claims in the order we received them, unless a claim requires priority processing.

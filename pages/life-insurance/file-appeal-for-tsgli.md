@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: File an Appeal for Traumatic Injury Protection Life Insurance (TSGLI)
+title: File a TSGLI Appeal (VA Form SGLV 8600A)
 display_title: File a TSGLI Appeal
 collection: lifeInsurance
 lastupdate:

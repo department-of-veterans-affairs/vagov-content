@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Title 38 U.S.C. 1151 Claims 
+title: VA Title 38 U.S.C. 1151 Claims
 display_title: Title 38 U.S.C. 1151 Claims
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
@@ -41,8 +41,8 @@ Compensation
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, you’ll have to show that the added disability happened because of VA medical care or a VA program designed to help you find, get, or keep a job. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that the added disability happened because of VA medical care or a VA program designed to help you find, get, or keep a job. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 We’ll award any compensation payments in the same way we would if your disability was related to your military service (a service-connected disability).
 

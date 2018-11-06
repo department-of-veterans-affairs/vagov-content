@@ -17,9 +17,9 @@ private: true
 </div>
 
 <script>
-if (location.search.substring(1) === 'success=true') {
   window.opener.sessionStorage.clear();
-  window.opener.document.location.href = '/';
+  window.opener.localStorage.removeItem('hasSession');
+  window.opener.localStorage.removeItem('userFirstName');
+  window.opener.location = '/';
   window.close();
-}
 </script>

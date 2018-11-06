@@ -28,7 +28,7 @@ crosslinks:
       title: <b>Life Insurance</b>
       description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
 social:
-  - heading: Ask Questions    
+  - heading: Ask Questions
     subsections:
       - subhead: Message Us
         links:
@@ -56,9 +56,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope        
+          icon: fa-envelope
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true
@@ -74,7 +74,78 @@ social:
         - url: "https://www.instagram.com/vabenefits/"
           label: Veterans Benefits Instagram
           icon: fa-instagram
-           
+hublinks:
+  - id: get
+    title: Get VA Home Loan Benefits
+    links:
+    - url: "/housing-assistance/home-loans/"
+      label: About VA Home Loan Types
+      description: Learn how VA direct and VA-backed home loans work—and find out which
+        loan type may be right for you.
+      external: false
+    - url: "/housing-assistance/home-loans/eligibility/"
+      label: Eligibility
+      description: Find out if you're eligible for a VA direct or VA-backed home loan,
+        based on your service history and duty status. You can also see if you're eligible
+        as a surviving spouse.
+      external: false
+    - url: "/housing-assistance/home-loans/how-to-apply/"
+      label: How to Apply for Your Certificate of Eligibility
+      description: Get instructions for how to apply for your VA home loan Certificate
+        of Eligibility (COE)—and what to do next depending on your loan type.
+      external: false
+    - url: "/claim-or-appeal-status/"
+      label: Check Your Appeal Status
+      description: Track the status of an open home loan COE appeal.
+      external: false
+    - url: "/housing-assistance/home-loans/trouble-making-payments/"
+      label: Having Trouble Making Payments on a VA-Backed Mortgage?
+      description: Get help to avoid foreclosure if you're struggling to make your monthly mortgage payments.
+      external: false
+    - url: https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/
+      label: A Warning about Home Loan Refinancing Offers
+      description: Learn about the signs of misleading offers to refinance your VA-backed  home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.
+      external: false
+    - url: https://www.benefits.va.gov/homeloans/resources_veteran.asp
+      label: Home Buying Process for Veterans
+      description: Watch a video and get more information about using your VA home loan
+        benefit to buy a home.
+      external: false
+    - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp
+      label: VA Loan Funding Fee
+      description: Find out if you'll need to pay this fee when using your home loan
+        benefits.
+      external: false
+    - url: https://benefits.va.gov/HOMELOANS/contact_rlc_info.asp
+      label: Find a VA Regional Loan Center
+      description: Look up contact information for your nearest regional loan center.
+      external: false
+    - url: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
+      label: Find VA-Acquired Properties
+      description: Learn more about buying a home we've acquired because its VA-direct or VA-backed home loan was terminated.
+      external: false
+    - url: https://benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf
+      label: Guidance on Natural Disasters
+      description: Find out how to get help if you have a VA direct or VA-backed home loan or Specially Adapted Housing grant and your home was damaged by a natural disaster.
+      external: false
+  - id: manage
+    title: Get Veterans Housing Assistance Grants
+    links:
+    - url: "/housing-assistance/disability-housing-grants/"
+      label: About Disability Housing Grants for Veterans
+      description: Find out how to apply for a housing grant as a Veteran or Servicemember
+        with a service-connected disability.
+      external: false
+    - url: "/housing-assistance/disability-housing-grants/how-to-apply/"
+      label: Apply for a Specially Adapted Housing Grant
+      description: Get financial help to make changes to your home to help you live
+        more independently with a service-connected disability.
+      external: false
+    - url: "/claim-or-appeal-status/"
+      label: Check Your SAH Grant Claim Status
+      description: Track the status of an open claim for a Specially Adapted Housing
+        grant.
+      external: false
 ---
 <p class="va-introtext">
 VA housing assistance can help Servicemembers, Veterans, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
@@ -86,7 +157,7 @@ VA housing assistance can help Servicemembers, Veterans, and their surviving spo
 </ul>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-title">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
 
@@ -96,15 +167,11 @@ We offer many programs and services that may help—including free health care a
 
 - **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 - **Contact your nearest VA medical center** and ask to talk with the VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
-[Find the nearest VA medical center](#).
+[Find the nearest VA medical center](/find-locations/?facilityType=health).
 
 **Talk with someone right now:**
-
-Whatever you’re struggling with—homelessness, chronic pain, anxiety, depression, trouble sleeping, or anger—we can support you, day or night.<br>
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">
-Chat online with a trained VA staff member
-</a>
-
+      <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
    </div>
   </div>
  </div>
@@ -117,93 +184,3 @@ Chat online with a trained VA staff member
       document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
     });
 </script>
-
-<section class='usa-grid'>
-  <div class="va-h-ruled--stars"></div>
-</section>
-
-<section id="get" class="merger-majorlinks">
-
-  <h2>Get VA Home Loan Benefits</h2>
-
-  <div class="link">
-    <a href="/housing-assistance/home-loans/"><b>About VA Home Loan Types</b></a>
-    <p>Learn how VA direct and VA-backed home loans work—and find out which loan type may be right for you.</p>
-  </div>
-
-  <div class="link">
-    <a href="/housing-assistance/home-loans/eligibility/"><b>Eligibility</b></a>
-    <p>Find out if you're eligible for a VA direct or VA-backed home loan, based on your service history and duty status. You can also see if you're eligible as a surviving spouse.
-  </div>
-
-  <div class="link">
-    <a href="/housing-assistance/home-loans/how-to-apply/"><b>How to Apply for Your Certificate of Eligibility</b></a>
-    <p>Get instructions for how to apply for your VA home loan Certificate of Eligibility (COE)—and what to do next depending on your loan type.</p>
-  </div>
-
-  <div class="link">
-    <a href="/claim-or-appeal-status/"><b>Check Your Appeal Status</b></a>
-    <p>Track the status of an open home loan COE appeal.</p>
-  </div>
-
-  <div class="link">
-    <a href="/housing-assistance/home-loans/trouble-making-payments/"><b>Having Trouble Making Payments on a VA-Backed Mortgage?</b></a>
-    <p>Get help to avoid foreclosure if you're struggling to make your monthly mortgage payments.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/"><b>A Warning about Home Loan Refinancing Offers</b></a>
-    <p>Learn about the signs of misleading offers to refinance your VA-backed home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.benefits.va.gov/homeloans/resources_veteran.asp"><b>Home Buying Process for Veterans</b></a>
-    <p>Watch a video and get more information about using your VA home loan benefit to buy a home.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp"><b>VA Loan Funding Fee</b></a>
-    <p>Find out if you'll need to pay this fee when using your home loan benefits.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://benefits.va.gov/HOMELOANS/contact_rlc_info.asp"><b>Find a VA Regional Loan Center</b></a>
-    <p>Look up contact information for your nearest regional loan center.</p>
-  </div>
-  
-  <div class="link">
-    <a href="https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp"><b>Find VA-Acquired Properties</b></a>
-    <p>Learn more about buying a home we've acquired because its VA-direct or VA-backed home loan was terminated.</p>
-  </div>
-  
-  <div class="link">
-    <a href="https://benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf"><b>Guidance on Natural Disasters </b></a>
-    <p>Find out how to get help if you have a VA direct or VA-backed home loan or Specially Adapted Housing grant and your home was damaged by a natural disaster.</p>
-  </div>
-
-</section>
-
-<section class='usa-grid'>
-  <div class="va-h-ruled--stars"></div>
-</section>
-
-<section id="manage" class="merger-majorlinks">
-
-  <h2>Get Veterans Housing Assistance Grants</h2>
-
-  <div class="link">
-    <a href="/housing-assistance/disability-housing-grants/"><b>About Disability Housing Grants for Veterans</b></a>
-    <p>Find out how to apply for a housing grant as a Veteran or Servicemember with a service-connected disability.</p>
-    </div>
-
-  <div class="link">
-    <a href="/housing-assistance/disability-housing-grants/how-to-apply/"><b>Apply for a Specially Adapted Housing Grant</b></a>
-    <p>Get financial help to make changes to your home to help you live more independently with a service-connected disability.</p>
-  </div>
-
-  <div class="link">
-    <a href="/claim-or-appeal-status/"><b>Check Your SAH Grant Claim Status</b></a>
-    <p>Track the status of an open claim for a Specially Adapted Housing grant.</p>
-  </div>
-
-</section>

@@ -30,7 +30,7 @@ If you have an illness or injury that you believe was caused—or made worse—b
 
 <div class="feature" markdown="1">
 
-### Can I use the BDD program to get my disability benefits sooner?
+### Can I use the BDD program to get my disability compensation sooner?
 
 You can use the BDD program if you meet all of the requirements listed below.
 
@@ -76,12 +76,11 @@ Compensation (monthly payments)
 
 <span id="ways-to-file"></span>
 
-### How do I apply for disability benefits before I leave the service?
+### How do I file a claim for disability compensation before I leave the service?
 
-Choose the scenario below that matches your situation to find out how to apply for disability benefits before discharge.
+Choose the scenario below that matches your situation to find out how to file a claim for disability compensation before discharge.
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bdd-program">If you have 180 to 90 days left on active duty: <br>
 Apply through the BDD program</button>
@@ -91,8 +90,8 @@ If you have 180 to 90 days left on active duty, you'll need to apply for benefit
 
 ### If you're stationed in the U.S.
 
-You can apply for benefits online, by mail, or in person. <br>
-[Learn more about how to apply for benefits](/disability/how-to-file-claim/).
+You can file a claim online, by mail, or in person. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).	
 
 **To complete the process, you'll need to:**
 
@@ -103,7 +102,7 @@ You can apply for benefits online, by mail, or in person. <br>
 ### If you're stationed overseas
 
 Depending on where you're stationed, you can start your claim at a BDD office or through the “Fly-in” claim process, which lets you apply by fax or email before your in-person appointment. <br>
-[Find out how to apply overseas](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/).
+[Find out how to file a claim overseas](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/).
 
 #### Need help applying?
 
@@ -130,13 +129,13 @@ This is the fastest way to get your claim processed. You'll work with an accredi
 
 **Note:** You can't use the DRC program if you're enrolled in the Integrated Disability Evaluation System (IDES) or if you have more than 90 days left on active duty. There are also other factors that may exclude you from this program.<br>
 [Learn about the IDES program](/careers-employment/vocational-rehabilitation/ides/). <br>
-[See the full list of DRC program exclusions](https://www.vets.gov/disability-benefits/apply/evidence/decision-ready-claims/).
+[See the full list of DRC program exclusions](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 **For more information on the DRC program:**
 
 Call our toll-free hotline at <a href="tel:+18008271000">1-800-827-1000</a>. <br>
 
-[Get more DRC information](https://www.vets.gov/disability-benefits/apply/evidence/decision-ready-claims/).
+[Get more DRC information](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 
 Or contact your local VSO.<br>
@@ -145,7 +144,7 @@ Or contact your local VSO.<br>
 ### File a fully developed or standard claim
 
 The difference in these claim types is based on how you gather evidence (supporting documents like a doctor's report and medical test results) to support your claim.<br>
-[Learn about the application process](/disability/how-to-file-claim/).<br>	
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
 [Find out what evidence you need for fully developed and standard claims](/disability/how-to-file-claim/evidence-needed/).
 
 </div>
@@ -163,7 +162,6 @@ If you’re found to be medically unfit for duty, IDES will give you a proposed 
 </div>
 </li>
 </ul>
-</div>
 
 
 ### How can I get support for myself and my family as I transition to civilian life?

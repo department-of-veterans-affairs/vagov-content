@@ -41,8 +41,7 @@ A service-connected disability is a disability that we’ve concluded was caused
 
 There are other factors that may affect whether you or other family members qualify for CHAMPVA. Please click on the description that matches your status to learn more:
 
-<div class="usa-accordion" aria-multiselectable="true">
-  <ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
     <li>
       <button class="usa-button-unstyled usa-accordion-button" aria-controls="expecting">A new or expectant parent</button>
       <div id="expecting" class="usa-accordion-content">
@@ -50,11 +49,11 @@ There are other factors that may affect whether you or other family members qual
         <p><b>You’ll need to:</b></p>
         <ul>
           <li>Get a Social Security number for your baby by applying at the nearest Social Security Administration office, <b>and</b></li>
-          <li>Set up the baby’s status as a dependent of the Veteran sponsor by contacting your local VA regional benefit office.</li>
+          <li>Set up the baby’s status as a dependent of the Veteran sponsor by contacting your nearest VA regional benefit office.</li>
         </ul>
         <p>Medical claims can’t be paid until you sign your baby up under CHAMPVA, so please get them a Social Security number and set their status as a dependent as soon as possible.</p>
         <a href='https://secure.ssa.gov/ICON/main.jsp'>Find a Social Security office near you.</a><br>
-        <a href='http://www.benefits.va.gov/benefits/offices.asp'>Find your VA regional office.</a><br>
+        <a href='/find-locations/?facilityType=benefits'>Find a VA regional benefit office near you.</a><br>
       </div>
     </li>
     <li>
@@ -111,7 +110,6 @@ There are other factors that may affect whether you or other family members qual
 
 </li>
 </ul>
-</div>
 
 <br>
 

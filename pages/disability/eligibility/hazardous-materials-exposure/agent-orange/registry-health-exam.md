@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Registry Health Exam for Veterans
+title: VA Agent Orange Registry Exam
 display_title: Registry Health Exam
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
@@ -59,17 +59,16 @@ A VA health care provider will go over your exam and test results with you. You�
 
 Please note that:
 
-- This exam isn’t a VA claim exam (also known as a C&P exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to apply. <br>
-[Apply for disability benefits now](/disability/how-to-file-claim/).
+- This exam isn’t a VA claim exam (also known as a C&P exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to file a claim. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 - You don’t need to sign up for the VA health care system to get a Registry exam.
 - The exam is based on your memory of service, not on your military records.
 - The exam will not confirm if you had contact with Agent Orange.
 - You can get another free Registry exam if you have a new illness in the future.
 - Your family members can’t get an Agent Orange Registry health exam. The exam is only for qualified Veterans.
 
-### Need help?
-Need to make an appointment for your Agent Orange Registry health exam? <br>
-[Contact your local VA Environmental Health Coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp)
+### How do I make an appointment for an Agent Orange Registry health exam? <br>
+[Contact your local VA Environmental Health Coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
 ### Get more information
 [Learn more about the Agent Orange Registry health exam](https://www.publichealth.va.gov/exposures/agentorange/benefits/registry-exam.asp). 

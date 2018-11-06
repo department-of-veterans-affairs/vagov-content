@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Decision Ready Claims Program
+title: VA Decision Ready Claims (DRC) Program
 display_title: Decision Ready Claims
 description: 
 concurrence: incomplete
@@ -15,12 +15,12 @@ relatedlinks:
       description: "Find out what evidence we’ll need—and what your options are for gathering documents to support your claim."
     - url: /disability/how-to-file-claim/
       title: How to Apply for Disability Benefits
-      description: "Apply online now, or find out how to apply in person, by mail, or with the help of a trained professional."
+      description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge Claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities That Appear within 1 Year after Discharge
       description: "You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service."
 aliases:
   - /disability-benefits/apply/evidence/decision-ready-claims/
@@ -105,8 +105,7 @@ You can't file your claim through the Decision Ready Claims program if any of th
 
 <h4>Check more exclusions for certain claim types</h4>
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="exclusions-predischarge">More exclusions for pre-discharge claims</button>
 <div id="exclusions-predischarge" class="usa-accordion-content">
@@ -135,7 +134,6 @@ You can't file your DIC claim through the DRC program if any of the below factor
 </div>
 </li>
 </ul>
-</div>
 
 -----
 
@@ -166,8 +164,7 @@ You can expect a decision within 30 days or less from the time you submit your c
 
 ### More questions about the Decision Ready Claims program
 
-<div class="usa-accordion" aria-multiselectable="true">
-<ul class="usa-unstyled-list">
+<ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="more-vso">How do I find an accredited VSO?</button>
 <div id="more-vso" class="usa-accordion-content">
@@ -219,5 +216,3 @@ Reach out to your local VSO or call our toll-free number at <a href="tel:+1phone
 </div>
 </li>
 </ul>
-</div>
-

@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Replacing Damaged Clothing
+title: VA Clothing Allowance for Veterans with Certain Disabilities
 display_title: Clothing Allowance
-description: Find out if you qualify for a VA clothing allowance if your clothing has been damaged because of a skin medicine or medical device you need for a service-connected condition. 
+description: Find out if you qualify for a VA clothing allowance if your clothing has been damaged because of a skin medicine or medical device you need for a service-connected condition.
 concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -22,7 +22,7 @@ Has your clothing been damaged by your prosthetic or orthopedic device (such as 
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you meet both of the requirements listed below. 
+You may be able to get disability benefits if you meet both of the requirements listed below.
 
 **Both of these must be true:**
 
@@ -47,7 +47,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits.
+You’ll need to file a claim for disability compensation.
 
 To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
 
@@ -61,10 +61,10 @@ To get your yearly payment, you’ll need to qualify by August 1 of that year. Y
 **Note**: If you qualify, you'll receive payments between September 1 and October 31.
 
 
-To apply, fill out an Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
+To file a claim, fill out an Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
 [Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
 
 Use our facility locator to find your nearest VA medical center. <br>
-[Find a VA medical center near you](/facilities/).
+[Find a VA medical center near you](/find-locations/).
 
 For more information, call us at <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>). We collect applications throughout the year and hold them until the August 1 closing date.

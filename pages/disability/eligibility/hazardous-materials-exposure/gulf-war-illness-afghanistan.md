@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illness from Service in Afghanistan
+title: Gulf War Illnesses Linked to Service in Afghanistan
 display_title: Gulf War Illness Afghanistan
 concurrence: 
 source: 
@@ -65,10 +65,10 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. <br>
+[Find out how to file a claim](/disability/how-to-file-claim/).
 
-### What if I need help filing my disability claim?
+### What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).

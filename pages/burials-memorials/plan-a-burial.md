@@ -85,16 +85,16 @@ To start, you may want to choose a funeral director to help you plan the burial.
 **You'll need to tell us:**
 
  - The cemetery where you'd prefer the Veteran, spouse, dependent family member be buried <br>
- [Find a VA national cemetery](/facilities/).<br>
+ [Find a VA national cemetery](/find-locations/).<br>
  [Find a state Veterans cemetery](https://www.cem.va.gov/grants/veterans_cemeteries.asp).
  - The type of burial you'd like for the person (casket or cremation) and the size of the casket or cremation urn
  - [The type of gravesite memorial you'd like](/burials-memorials/memorial-items/headstones-markers-medallions/). This may be a headstone, grave marker, niche cover, or medallion.
- 
+
 **If the person is a Veteran or Reservist, you'll also need to tell us if you'd like burial honors or memorial items, such as:**
  - [A burial flag](/burials-memorials/memorial-items/burial-flags/)
  - [A Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/)
  - Other possible military honors beyond the playing of "Taps" and flag folding and presentation
- 
+
  [Request gravesite memorials and burial honors](/burials-memorials/memorial-items/).<br>
  [Learn more about military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp).
 

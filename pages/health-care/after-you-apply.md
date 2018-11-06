@@ -38,14 +38,13 @@ After you’ve applied for VA health care, we’ll send you a letter in the mail
 
 **Read your Veterans Health Benefits Handbook.** We’ll send this to you by mail. Your handbook will explain your specific health care benefits (based on the priority group we assigned you), how much you’ll pay in copays, and other helpful information. <br />
 [Download a sample handbook](https://www.va.gov/healthbenefits/vhbh/publications/vhbh_sample_handbook_2014.pdf). <br />
-[Learn more about priority groups](https://www.va.gov/healthbenefits/resources/priority_groups.asp).
 
 </li>
 
 <li class="process-step list-three">
 
 **Get your Veterans Health Identification Card (VHIC).** This is the card you’ll use for ID and to check in at your VA health care appointments. To get your card, contact your local VA medical center and speak with the enrollment coordinator. Ask the coordinator to help you arrange to have your picture taken for your new VHIC. Or, you can request your VHIC at your next VA health care appointment. <br /> [Learn more about the VHIC](https://www.va.gov/HEALTHBENEFITS/vhic/index.asp). <br />
-[Find a VA medical center near you](/facilities/).
+[Find a VA medical center near you](/find-locations/).
 
 </li>
 
@@ -78,7 +77,7 @@ Contact your local VA medical center or clinic and ask for:
 - The urgent care clinic, **or**
 - The emergency room
 
-[Find a VA health facility near you](/facilities/).
+[Find a VA health facility near you](/find-locations/).
 
 <br>
 
@@ -112,7 +111,7 @@ Health Eligibility Center<br>
 Atlanta, GA 30329<br>
 </p>
 
-You can also get help updating your personal information by visiting your local VA facility. [Find a VA facility near you](/facilities/).
+You can also get help updating your personal information by visiting your local VA facility. [Find a VA facility near you](/find-locations/).
 
 <br>
 
