@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Survivors Pension
 display_title: Survivors Pension
+description: Find out if you're eligible and how to apply for a VA survivors pension (some people call this a "VA widows pension" or "VA death pension"). You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
 concurrence: ""
 children: pensionSurvivors
 spoke: Get Benefits
