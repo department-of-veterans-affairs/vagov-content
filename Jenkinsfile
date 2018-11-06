@@ -65,34 +65,27 @@ node('vetsgov-general-purpose') {
   stage('Rebuild Production') {
     if (!isMaster) return
 
-    // Checkout the content.
     dir(contentRepo) {
       checkout scm
     }
 
-    // Checkout the app-code, then reset it to the latest commit.
-    // Grab a reference to the tag, commit SHA, and the dockerImage.
     dir(appCodeRepo) {
       checkoutAppCode()
 
-      // releaseTag = getTagOfAppCodeLatestRelease()
-      // sh "git checkout ${releaseTag}"
-      // releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
+      // Testing-only, because GH throttles API requests and will cap you.
+      releaseTag = 'vets-website/v0.1.383' //getTagOfAppCodeLatestRelease()
 
-      releaseTag = 'vets-website/v0.1.383'
+      sh "git checkout ${releaseTag}"
+      releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
+
       def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
 
-      // temporary
-      releaseCommit = 'dab158f1e0bd5776963c4fa459a55c8237445f86'
       dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     }
 
-    // Setup the docker-mount config
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${appCodeRepo}:/application -v ${currentDir}/${contentRepo}:/${contentRepo}"
 
-    // Build the site using the "---content-deployment" flag
-    // The build script will use this flag to pull the compiled app-code from the www.va.gov S3 bucket.
     dockerImage.inside(dockerArgs) {
       def installDependencies = "cd /application && yarn install --production=false"
       def build = "npm --prefix /application --no-color run build -- --buildtype=${productionEnv} --content-deployment"
@@ -102,8 +95,10 @@ node('vetsgov-general-purpose') {
       sh build
       sh preArchive
 
-      // Upload to S3 using the commit SHA of the release.
       withCredentials(awsCredentials) {
+        // testing-only
+        releaseCommit = 'dab158f1e0bd5776963c4fa459a55c8237445f86'
+
         def buildOutput = "/application/build/${productionEnv}"
         def tarballFileName = "/application/build/${productionEnv}.tar.bz2"
         def tarballUploadDestination = "s3://vetsgov-website-builds-s3-upload/${releaseCommit}/${productionEnv}.tar.bz2"
@@ -117,12 +112,12 @@ node('vetsgov-general-purpose') {
     }
   }
 
-  // stage('Deploy Production') {
-  //   if (!isMaster) return
+  stage('Deploy Production') {
+    if (!isMaster) return
 
-  //   build job: productionBuildJob, parameters: [
-  //     booleanParam(name: 'notify_slack', value: true),
-  //     stringParam(name: 'ref', value: releaseCommit),
-  //   ], wait: true
-  // }
+    // build job: productionBuildJob, parameters: [
+    //   booleanParam(name: 'notify_slack', value: true),
+    //   stringParam(name: 'ref', value: releaseCommit),
+    // ], wait: true
+  }
 }
