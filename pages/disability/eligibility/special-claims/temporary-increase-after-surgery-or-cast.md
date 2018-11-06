@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Temporary Disability Rating After Surgery or Getting a Cast
 display_title: Increase after Surgery or Cast
-description: Find out if you can get a temporary 100% disability rating and VA convalescence pay (sometimes called "back pay") because of a surgery or service-connected disability that's left you unable to move. 
+description: Find out if you can get temporary VA disability after surgery for a service-connected disability, or after getting a cast that's left you unable to move. You may be able to get a temporary 100% disability rating and increased compensation during your recovery (called convalescence).
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-convalescence.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
