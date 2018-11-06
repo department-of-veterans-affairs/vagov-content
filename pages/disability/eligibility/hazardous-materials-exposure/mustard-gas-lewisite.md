@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Mustard Gas or Lewisite Exposure
 display_title: Mustard Gas or Lewisite
+description: Find out if you can get VA disability pay and other benefits for illnesses related to mustard gas or lewisite exposure. You may have had contact with mustard gas or lewisite if you served in certain areas during WW2 or if you participated in biological and chemical testing.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-mustard.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
