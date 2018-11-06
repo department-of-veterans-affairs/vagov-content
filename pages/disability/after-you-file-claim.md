@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: The VA Claim Process after You File Your Claim
 display_title: After You File Your Claim
-description: Find out what happens after you file your VA disability claim, including how long you'll wait for a decision and what steps we take before the preparation for notification.
+description: Find out what happens in the VA claim process after you file your claim. Learn about the steps in the VA disability claim processing timeline and how long it takes, on average, to get your VA disability rating.
 order: 3
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
