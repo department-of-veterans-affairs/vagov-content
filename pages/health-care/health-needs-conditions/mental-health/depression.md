@@ -49,7 +49,7 @@ Depression is a serious illness, but this common mental health problem is also h
             <ul>
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
-		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is, or if you're enrolled in VA health care.<br>
+		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is or if you're enrolled in VA health care.<br>
 			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
