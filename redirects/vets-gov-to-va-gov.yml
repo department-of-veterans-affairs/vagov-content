@@ -613,3 +613,6 @@
 - vets_gov_src: /health-care/messaging/
   va_gov_dest: /health-care/secure-messaging/
   retain_path: true
+- vets_gov_src: /health-care/prescriptions
+  va_gov_dest: /health-care/refill-track-prescriptions/
+  retain_path: true
