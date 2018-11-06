@@ -9,6 +9,8 @@ lastupdate: 2018-08-22
 collection: healthCare
 spoke: Manage Benefits
 order: 8
+aliases:
+  - /health-care/messaging
 children:
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
