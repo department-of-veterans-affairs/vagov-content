@@ -18,6 +18,7 @@ private: true
 
 <script>
   window.opener.sessionStorage.clear();
-  window.opener.document.location.href = '/';
+  window.opener.localStorage.clear();
+  window.opener.location = '/';
   window.close();
 </script>
