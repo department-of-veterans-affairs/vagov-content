@@ -104,10 +104,12 @@ node('vetsgov-general-purpose') {
 
       // Upload to S3 using the commit SHA of the release.
       withCredentials(awsCredentials) {
-        def convertToTarball = "tar -C /application/build/${productionEnv} -cf /application/build/${productionEnv}.tar.bz2 ."
-        def uploadTarball = "\
-          s3-cli put --acl-public --region us-gov-west-1 /application/build/${productionEnv}.tar.bz2 \
-          s3://vetsgov-website-builds-s3-upload/${releaseCommit}/${productionEnv}.tar.bz2"
+        def buildOutput = "/application/build/${productionEnv}"
+        def tarballFileName = "/application/build/${productionEnv}.tar.bz2"
+        def tarballUploadDestination = "s3://vetsgov-website-builds-s3-upload/${releaseCommit}/${productionEnv}.tar.bz2"
+
+        def convertToTarball = "tar -C ${buildOutput} -cf ${tarballFileName} ."
+        def uploadTarball = "s3-cli put --acl-public --region us-gov-west-1 ${tarballFileName} ${tarballUploadDestination}"
 
         sh convertToTarball
         sh uploadTarball
