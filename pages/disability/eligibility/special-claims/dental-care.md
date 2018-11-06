@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Dental Benefits for Veterans with Disabilities
 display_title: Dental Care
-description: Find out if you qualify for VA dental benefits. Learn more about this disability benefit from the VA dental benefits fact sheet. 
+description: Find out if you can get VA dental benefits for disabled Veterans. If you have a service-connected disability or meet other qualifications, you may be able to get some or all of your dental care through VA.
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-dental.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
