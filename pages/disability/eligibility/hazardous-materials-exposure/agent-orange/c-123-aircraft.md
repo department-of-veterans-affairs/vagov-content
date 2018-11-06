@@ -55,9 +55,9 @@ Check our list of military units and Air Force Specialty codes to see if your un
 
 </div>
 
-### How to Apply for Benefits Online
+### How to File a Claim Online
 
-This is the fastest way to file a claim and get your decision:
+This is the fastest way to file a claim for disability compensation and get your decision:
 
 <ol class="process" markdown="0">
 <li class="process-step list-one" markdown="1">
@@ -98,7 +98,7 @@ Type C-123 next to the disability in the text box.
 </li>
 </ol>
 
-### How to Apply for Benefits by Mail or Fax
+### How to File a Claim by Mail or Fax
 
 <ol class="process" markdown="0">
 <li class="process-step list-one" markdown="1">
@@ -149,11 +149,11 @@ Janesville, WI<br />
 
 </ol>
 
-### Need help?
+### What if I need help filing my claim?
 Call the C-123 Hotline: <a href="tel:+18007498387">1-800-749-8387</a><br>
 <a href="mailto:VSCC123.VAVBASPL@va.gov">Email the St. Paul Regional Benefit Office</a>
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
