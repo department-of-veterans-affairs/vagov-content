@@ -49,28 +49,25 @@ node('vetsgov-general-purpose') {
     passwordVariable: 'AWS_SECRET_KEY'
   ]]
 
-  def releaseTag, releaseCommit, dockerImage, contentCommit
+  def releaseTag, releaseCommit, dockerImage
 
+  // Dev/Staging should contain the latest code, so we can just issue a rebuild
+  // to the vets-website pipeline and know that'll handle the rest.
   stage('Rebuild Dev/Staging') {
     if (!isMaster) return
-
-    // Dev/Staging should contain the latest code, so we can just issue a rebuild
-    // to the vets-website pipeline and know that'll handle the rest.
 
     // build job: 'testing/vets-website/master', wait: false
   }
 
+  // Production is a special case, because it's not redeployed every commit, but
+  // every release instead. So, we need to rebuild Prod using the archive of the
+  // latest release.
   stage('Rebuild Production') {
     if (!isMaster) return
 
-    // Production is a special case, because it's not redeployed every commit, but
-    // every release instead. So, we need to rebuild Prod using the archive of the
-    // latest release.
-
-    // Checkout the content and grab a reference to the current commmit.
+    // Checkout the content.
     dir(contentRepo) {
       checkout scm
-      contentCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
     }
 
     // Checkout the app-code, then reset it to the latest commit.
