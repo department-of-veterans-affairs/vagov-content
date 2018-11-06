@@ -1,6 +1,6 @@
 import org.kohsuke.github.GitHub
 
-isMaster = env.BRANCH_NAME == 'fix-content-deploy'
+isMaster = env.BRANCH_NAME == 'content-deploy-fast'
 orgName = 'department-of-veterans-affairs'
 appCodeRepo = 'vets-website'
 contentRepo = 'vagov-content'
@@ -118,12 +118,12 @@ node('vetsgov-general-purpose') {
     }
   }
 
-  stage('Deploy Production') {
-    if (!isMaster) return
+  // stage('Deploy Production') {
+  //   if (!isMaster) return
 
-    // build job: productionBuildJob, parameters: [
-    //   booleanParam(name: 'notify_slack', value: true),
-    //   stringParam(name: 'ref', value: releaseCommit),
-    // ], wait: true
-  }
+  //   build job: productionBuildJob, parameters: [
+  //     booleanParam(name: 'notify_slack', value: true),
+  //     stringParam(name: 'ref', value: releaseCommit),
+  //   ], wait: true
+  // }
 }
