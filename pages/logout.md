@@ -18,6 +18,8 @@ private: true
 
 <script>
   window.opener.sessionStorage.clear();
-  window.opener.document.location.href = '/';
+  window.opener.localStorage.removeItem('hasSession');
+  window.opener.localStorage.removeItem('userFirstName');
+  window.opener.location = '/';
   window.close();
 </script>

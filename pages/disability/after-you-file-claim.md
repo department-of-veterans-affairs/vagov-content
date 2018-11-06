@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: The VA Claim Process after You File Your Claim
 display_title: After You File Your Claim
-description: Find out what happens after you file your VA disability claim, including how long you'll wait for a decision and what steps we take before the preparation for notification.
+description: Find out what happens after you file a claim for VA disability compensation, including how long you'll wait for a decision and what steps we take before the preparation for notification.
 order: 3
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -15,7 +15,7 @@ majorlinks:
       title: Effective Date of Disability
       description: "Find out when you’ll start getting your disability payments."
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
-      title: What to Expect After You Get a Disability Rating
+      title: What to Expect after You Get a Disability Rating
       description: "Find out what happens after you get your decision notice with your rating."
 relatedlinks:
   - heading: Other VA benefits you may want to explore
@@ -29,7 +29,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out what happens to your claim after you apply for disability benefits. 
+Find out what happens to your claim after you file for disability compensation. 
 
 </div>
 
@@ -54,14 +54,17 @@ You don’t need to do anything unless we send you a letter asking for more info
 
 <div markdown="0"><br></div>
 
-### What happens after I apply?
+### What happens after I file a claim?
 
 <ol class="process">
 <li class="process-step list-one">
 
 #### Claim Received
+We’ll let you know when we receive your disability claim.  
+- **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about 1 hour of applying.<br>
+- **If you file online for increased disability compensation,** you’ll get an on-screen message from us after you submit the form. <br>
+- **If you mail your application,** we’ll send you a letter to let you know we have your claim. You should get this letter about 1 week, plus mailing time, after we receive your claim.
 
-You’ll see a notice from us in your claims list within about 1 hour if you applied online with VONAPP Direct Connect. If you applied through the U.S. mail, you’ll need to allow for mailing time plus 1 week before you get a note telling you we have your claim.
 
 </li>
 
@@ -96,7 +99,7 @@ We’ll get your entire claim decision packet ready to be mailed.
 </li>
 
 <li class="process-step list-five">
-
+  
 #### Claim Complete
 
 We’ll send you a packet by U.S. mail that includes details of the decision on your claim. Please allow 7 to 10 business days for your packet to arrive before contacting a VA call center.
