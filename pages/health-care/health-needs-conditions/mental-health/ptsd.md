@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Posttraumatic Stress Disorder (PTSD)
 display_title: PTSD
-description: Find out how to get VA health care benefits and services for posttraumatic stress disorder (PTSD).
+description: VA is the world leader in PTSD treatment, serving millions of Veterans. Find out how to get help to manage your posttraumatic stress disorder symptoms. Whether you just returned from a deployment or have been home for 40 years, it’s never too late.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 1
