@@ -82,10 +82,10 @@ node('vetsgov-general-purpose') {
       // sh "git checkout ${releaseTag}"
       // releaseCommit = sh(returnStdout: true, script: 'git rev-parse HEAD').trim()
 
-      // def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
+      releaseTag = 'vets-website/v0.1.383'
+      def imageTag = java.net.URLDecoder.decode(releaseTag).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
 
       // temporary
-      releaseTag = 'vets-website/v0.1.383'
       releaseCommit = 'dab158f1e0bd5776963c4fa459a55c8237445f86'
       dockerImage = docker.build("${appCodeRepo}:${imageTag}")
     }
