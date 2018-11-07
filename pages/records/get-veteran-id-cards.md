@@ -81,7 +81,7 @@ You need to be enrolled in VA health care to receive a Veteran Health Identifica
 <section>
 
 ### Veteran Choice Card
-A Veteran Choice Card is a form of ID given to Veterans receiving care under the VA Choice program. Under this program, Veterans receive care through a community provider. If you have this ID card, you don’t need to request another type of photo ID card to prove you’re a Veteran. 
+A Veteran Choice Card is a form of ID given to Veterans receiving care under the VA Choice program. Under this program, Veterans receive care through a community provider.  
 
 <ul class="usa-accordion">
 <li>
