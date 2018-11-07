@@ -136,7 +136,7 @@ hublinks:
         to civilian jobs, and access other career resources.
       external: true
       target: _blank
-    - url: "https://www.va.gov/jobs/
+    - url: https://www.va.gov/jobs/
       label: Find VA Careers and Support
       description: Get support for starting or advancing your career at VA or other
         federal government departments.
