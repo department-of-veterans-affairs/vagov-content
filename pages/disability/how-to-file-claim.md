@@ -52,23 +52,19 @@ Find out how to file a claim for disability compensation.
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">What information will VA review to decide my claim?</h4>
+<h4 itemprop="name">What evidence (supporting documents) will I need to provide to support my claim?</h4>
 <div itemprop="itemListElement">
-
-For your first disability claim, we'll review your:
-
-- Discharge papers (DD214 or other separation documents)
-- Service treatment records <br>
-[(Order service records through the National Archives)](https://www.archives.gov/veterans/military-service-records)
-
-For all disability claims, we'll review:
+ 
+**You can help to support your claim by providing evidence such as any:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries
-- Any supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened
+- Supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence. <br>
 [Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/).
+
+We'll also review your discharge papers (DD214 or other separation documents) and service treatment records. 
 
 **Please note**: You don’t have to submit any evidence to support your claim, but we may schedule a claim exam so we can learn more about your condition. 
 
