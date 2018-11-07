@@ -314,7 +314,7 @@
   va_gov_dest: education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
   retain_path: false
 - vets_gov_src: education/tools-programs/careerscope/
-  va_gov_dest: education/careerscope-skills-assessment/
+  va_gov_dest: careers-employment/careerscope-skills-assessment/
   retain_path: false
 - vets_gov_src: education/tools-programs/locate-a-school/
   va_gov_dest: education/choosing-a-school/
