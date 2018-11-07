@@ -5,7 +5,6 @@ description: If your service-connected disability has gotten worse, use VA Form 
 entryname: 526EZ-claims-increase
 layout: page-react.html
 description: Learn how to apply online for increased disability compensation.
-hideFromSidebar: true
 spoke: Manage Benefits
 order: 2
 ---
