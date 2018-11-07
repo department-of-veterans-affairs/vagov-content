@@ -28,7 +28,6 @@ widgets:
     timeout: 20
     loadingMessage: Checking your application status.
     errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
-description: Find the right VA education benefits for you, and apply to start getting help paying tuition. We can also help you find the right school or training program.
 aliases:
   - /education/apply/
 ---
