@@ -23,7 +23,7 @@ aliases:
               <div class="feature">
                 <h4>Need help?</h4>
                 <p>
-                  <a href="https://www.accesstocare.va.gov/sign-in-help">Submit a request to get help</a>.
+                  <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request to get help</a>.
                 </p>
               </div>
             </div>
