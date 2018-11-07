@@ -9,7 +9,6 @@ lastupdate: 2018-10-17
 collection: healthCare
 spoke: Get Benefits
 order: 3
-description: Find out what documents you'll need to apply for VA health care benefits. Apply online for VA health care benefits today.
 aliases:
   - /health-care/apply
 widgets:
