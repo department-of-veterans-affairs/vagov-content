@@ -43,7 +43,7 @@ Find out how to file a claim for disability compensation.
 ### How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA disability compensation](/disability/eligibility/).
-- Gather any supporting documents you'll submit yourself when you file your disability claim.
+- Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/).
 
@@ -52,10 +52,10 @@ Find out how to file a claim for disability compensation.
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">What evidence (supporting documents) will I need to provide to support my claim?</h4>
+<h4 itemprop="name">What evidence will I need to provide to support my claim?</h4>
 <div itemprop="itemListElement">
  
-**You can help to support your claim by providing evidence such as any:**
+**You can help to support your claim by providing documents such as any:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries
@@ -66,7 +66,7 @@ Depending on the type of claim you file, you may gather supporting documents you
 
 We'll also review your discharge papers (DD214 or other separation documents) and service treatment records. 
 
-**Please note**: You don’t have to submit any evidence to support your claim, but we may schedule a claim exam so we can learn more about your condition. 
+**Please note**: You don’t have to submit any evidence to support your claim, but we may need to schedule a claim exam so we can learn more about your condition. 
 
 You should also know that you have up to a year from the date we receive your claim to turn in any evidence. If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days. 
 </div>
