@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Military Sexual Trauma (MST)
 display_title: Military Sexual Trauma
-description: If you're a Veteran who experienced military sexual trauma (MST) while serving, find out if you can get VA health care benefits and services to help you recover.
+description: If you've experienced military sexual trauma (MST)—sexual assault or repeated harassment—find out how to access free VA services to help you recover. You can get care even if you're not enrolled in VA health care. You should know that MST can happen to both men and women Veterans.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 4
@@ -35,20 +35,23 @@ Military sexual trauma (MST) refers to sexual assault or repeated, threatening s
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
+	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
-	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
-	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>
+	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+	    <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
 	    <ul>
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
+		    <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
+		    <li>Go directly to your nearest VA medical center. It doesn't matter what your discharge status is or if you're enrolled in VA health care.<br>
+			    <a href="/find-locations/?facilityType=health">Find your nearest VA medical center</a>.</li>
 	    </ul>
 	  </div>
   	</div>
@@ -109,7 +112,7 @@ Or get help applying for disability compensation by:
 
 - Reading our fact sheet on disability compensation for conditions related to MST. <br>
 [Read the fact sheet](http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf).
-- Talking to the MST coordinator at your local VA regional benefit office. <br>
+- Talking to the MST coordinator at your nearest VA regional benefit office. <br>
 [Find an MST coordinator near you](http://www.benefits.va.gov/benefits/mstcoordinators.asp).
 
 <br>

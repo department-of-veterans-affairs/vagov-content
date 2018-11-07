@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How to Apply for a VA Home Loan Certificate of Eligibility (COE)
 display_title: How to Apply
+description: Find out how to apply for a VA home loan Certificate of Eligibility (COE). To get a VA-backed home loan, you'll give this COE to your lender to show that you qualify for this benefit based on your service history and duty status. Learn more about the rest of the loan application process.
 concurrence:
 order: 3
 relatedlinks:
@@ -142,7 +143,7 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
 
 You can apply online right now.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to Apply</a>
 
 #### You can also apply:
 
@@ -162,5 +163,5 @@ To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 2
 
 Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender (for most loans, the lender will be a private bank or mortgage company; for the Native American Direct Loan, we’ll be your lender).
 
- 
+
 

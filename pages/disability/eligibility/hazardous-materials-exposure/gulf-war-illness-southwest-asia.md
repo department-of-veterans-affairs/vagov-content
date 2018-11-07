@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Gulf War Illness Linked to Service in Southwest Asia
 display_title: Gulf War Illness SW Asia
+description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Southwest Asia (often called "Gulf War Syndrome"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-gulfwar.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -71,8 +72,8 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. <br>
-[Apply for disability benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. <br>
+[Find out how to file a claim](/disability/how-to-file-claim/).
 
 [Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
 
@@ -85,7 +86,7 @@ You’ll need to apply for benefits. <br>
 - The waters of the Persian Gulf, the Arabian Sea, and the Red Sea
 - The airspace above these locations
 
-### What if I need help filing my disability claim?
+### What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).

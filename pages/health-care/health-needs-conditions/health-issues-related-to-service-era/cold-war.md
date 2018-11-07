@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Cold War Veterans Health Issues
 display_title: Cold War Era
-description: Learn what health conditions you might be at risk of developing if you’re a Cold War era Veteran. Find out what to do next to take care of your health.
+description: Learn about health issues that may affect Cold War Veterans. Find out what steps to take to care for your health and whether you may be eligible for VA health care and disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 4

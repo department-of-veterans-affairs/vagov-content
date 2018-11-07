@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request a Presidential Memorial Certificate to Honor a Veteran or Reservist
 display_title: Presidential Memorial Certificates
+description: Find out how to apply for a presidential memorial certificate (PMC) to honor the military service of a Veteran or Reservist. A PMC is an engraved paper certificate signed by the current president of the United States.
 order: 3
 concurrence: incomplete
 aliases:
@@ -43,7 +44,7 @@ You can apply for a PMC in person, by mail, or by fax.
 ### In person
 
 You can apply at any VA regional benefit office.<br>
-[Find your nearest VA regional benefit office](/find-locations/).
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
 ### By mail
 

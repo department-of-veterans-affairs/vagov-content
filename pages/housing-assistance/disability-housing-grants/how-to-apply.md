@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How to Apply for a Specially Adapted Housing (SAH) Grant
 display_title: How to Apply
+description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
 concurrence:
 order: 1
 ---
@@ -71,7 +72,7 @@ Fill out an Application in Acquiring Specially Adapted Housing or Special Home A
 [Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf). <br>
 
 Bring the completed application to your nearest VA regional benefit office. <br>
-<a href="/find-locations/">Find a regional benefit office near you</a>.
+<a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.
 
 Or call us at <a href="tel:+18008271000">1-800-827-1000</a>.
 

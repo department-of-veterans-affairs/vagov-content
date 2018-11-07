@@ -71,8 +71,8 @@ If you’re enrolled in VA health care, you should have a Veteran Health Identif
 
 
 You need to be enrolled in VA health care to receive a Veteran Health Identification Card. If you aren't signed up for VA health care, you can apply online now. <br>
-[Find out how to apply for VA health care](/health-care/how-to-apply/). </br>
-[Learn more about the VHIC](https://www.va.gov/healthbenefits/vhic/index.asp).
+- [Find out how to apply for VA health care](/health-care/how-to-apply/). </br>
+- [Learn more about the VHIC](https://www.va.gov/healthbenefits/vhic/index.asp).
 
 </div>
 </li>
@@ -89,8 +89,8 @@ If you receive care under the VA Choice program through a community provider, yo
 <div id="get-Veteran-Choice-card" class="usa-accordion-content">
 
 You need to be receiving care under the VA Choice program to get a Choice Card. <br>
-[Learn more about the Veteran Choice program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).</br>
-Contact the Choice Program call center at <a href="tel:+18666068198">1-866-606-8198</a>.
+- [Learn more about the Veteran Choice program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).</br>
+- Contact the Choice Program call center at <a href="tel:+18666068198">1-866-606-8198</a>.
 
 </div>
 </li>

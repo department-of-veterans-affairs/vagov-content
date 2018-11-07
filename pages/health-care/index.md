@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Health Care
 display_title: Health Care
-description: VA health care offers access to primary and specialty care, including home health, geriatric (elder), women's health, and mental health care. Find out how to apply for and manage the Veterans health care benefits you've earned.
+description: Learn how to apply for and manage VA health care benefits for Veterans. We offer primary and specialty Veterans health care services, including home health, geriatric (elder), women's health, and mental health care, as well as prescriptions.
 concurrence:
 lastupdate:
 order: 1
@@ -204,11 +204,8 @@ We offer many programs and services that may help—including free health care a
 
 **Talk with someone right now:**
 
-Whatever you’re struggling with—homelessness, chronic pain, anxiety, depression, trouble sleeping, or anger—we can support you, day or night.<br>
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">
-Chat online with a trained VA staff member
-</a>
-
+If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.<br>
+<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.
    </div>
   </div>
  </div>

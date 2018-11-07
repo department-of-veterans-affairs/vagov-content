@@ -610,3 +610,9 @@
 - vets_gov_src: dashboard/
   va_gov_dest: my-va/
   retain_path: true
+- vets_gov_src: /health-care/messaging/
+  va_gov_dest: /health-care/secure-messaging/
+  retain_path: false
+- vets_gov_src: /health-care/prescriptions/
+  va_gov_dest: /health-care/refill-track-prescriptions/
+  retain_path: false

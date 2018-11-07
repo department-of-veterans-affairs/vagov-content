@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Mental Health Services
 display_title: Mental Health
-description: Find out if you qualify for VA benefits for mental health, or how to get care for certain mental health conditions if you don't have VA health care.
+description: Find out how to get started with VA mental health services for Veterans. We offer same-day care, and you can access some Veterans mental health services even if you're not enrolled in VA health care. Learn how to get care for mental health issues like PTSD, depression, anxiety, grief, and more.
 concurrence: complete
 lastupdate: 2018-10-29
 order: 3
@@ -30,7 +30,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
 	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
-		    <li>Call TTY if you have hearing loss <a href="tel:+1-800-799-4889">1-800-799-4889</a>.</li>
+		    <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>
             <ul>

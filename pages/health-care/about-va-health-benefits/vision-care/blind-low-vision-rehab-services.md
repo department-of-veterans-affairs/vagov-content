@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Blind and Low Vision Rehabilitation Services
 display_title: Blind and Low-Vision Services
+description: Learn about VA benefits for Veterans who are blind or have low vision. Benefits include blind rehabilitation services at VA blind rehab centers.
 concurrence: complete
 lastupdate: 2018-10-17
 order: 1

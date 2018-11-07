@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How to Apply for the GI Bill and Other Education Benefits
 display_title: How to Apply
+description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, Servicemember, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 collection: education
 spoke: Get Benefits
@@ -79,8 +80,8 @@ Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday thr
 [See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp).
 
 #### In person
-Go to a VA regional office and have a VA employee help you.<br/>
-[Find a VA regional benefit office near you](/find-locations/).
+Go to a VA regional benefit office and have a VA employee help you.<br/>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
 Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
 

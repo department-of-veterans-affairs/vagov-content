@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Vision Care
 display_title: Vision Care
-description: Find out if you're eligible for VA vision benefits, and if VA vision care will cover the cost of eyeglasses.
+description: VA vision care provides cost-free eyeglasses for Veterans who meet certain requirements. We also cover routine eye exams and preventive vision testing (like testing for glaucoma) for Veterans enrolled in VA health care. Learn more about VA vision care.
 concurrence: complete
 lastupdate: 2017-06-28
 collection: healthCareCoverage

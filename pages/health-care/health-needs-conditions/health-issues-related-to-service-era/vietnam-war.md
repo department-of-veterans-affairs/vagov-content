@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Vietnam War Veterans Health Issues
 display_title: Vietnam War
-description: Learn what health conditions you might be at risk of developing if you’re a Vietnam War Veteran.
+description: Learn about diseases and other health issues that may affect Vietnam War Veterans. Find out what steps to take to care for your health and whether you may be eligible for VA health care and disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 5

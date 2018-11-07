@@ -80,16 +80,16 @@ aliases:
                     <div id="faq-verify-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>Yes. You can verify your identity in person at your nearest VA regional office. If you’re a VA patient, you can also verify your identity in person at your local VA health care facility.</p>
-                        <h4>Verifying your identity in person at a VA regional office</h4>
+                        <h4>Verifying your identity in person at a VA regional benefit office</h4>
                         <p>You can verify your identity at your nearest VA regional office as part of the process of getting a Premium <strong>DS Logon</strong> account. You can then use this account to sign in to VA.gov without having to verify your identity online.</p>
                         <p><strong>You’ll need to:</strong></p>
                         <ul>
                           <li>Bring 2 forms of ID that meet the requirements of the U.S. Citizenship and Immigration Services Form I-9. Accepted forms of ID include an unexpired U.S. passport and a current driver’s license.<br/>
                             <a href="https://www.uscis.gov/i-9-central/acceptable-documents/list-documents/form-i-9-acceptable-documents" class="login-required">See what other documents are accepted</a>.</li>
-                          <li>Make sure the VA regional office has your current address on file</li>
+                          <li>Make sure the VA regional benefit office has your current address on file</li>
                         </ul>
                         <p>After your <strong>DS Logon</strong> request goes through, you’ll receive a <strong>DS Logon</strong> activation letter by mail in 7-12 business days. You’ll use the information from the letter to activate your account on the <strong>DS Logon</strong> self-service website.</p>
-                        <p><a href="/find-locations/">Find a VA regional office near you</a>.</p>
+                        <p><a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.</p>
                         <p><a href="https://myaccess.dmdc.osd.mil/identitymanagement/consent?continueToUrl=%2Fidentitymanagement%2Fauthenticate.do%3Fexecution%3De4s1">Visit the DS Logon self-service website</a>.
                         <h4>Verifying your identity in person if you’re a VA patient</h4>
                         <p>If you’re a VA patient, you can verify your identity at your local VA health care facility as part of the process of getting a Premium <strong>My HealtheVet</strong> account. You can then use this account to sign in to VA.gov without having to verify your identity online.</p>
@@ -97,7 +97,7 @@ aliases:
                         <ul>
                           <li><strong>An Individuals’ Request for a Copy of Their Own Health Information (VA Form 10-5345a-MHV).</strong> You can download a PDF copy of this “VA release of information” form now, call ahead to ask the staff to mail you a form, or ask for a form when you get there.<br/>
                            <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV</a>.<br/>
-                            <a href="/find-locations/">Find the phone number for your nearest VA health care facility</a>.</li>
+                            <a href="/find-locations/?facilityType=health">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
                         <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm that you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and your original paper copy will be shredded to protect your privacy.</p>
