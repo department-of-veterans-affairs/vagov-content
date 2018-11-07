@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Transfer Your Post-9/11 GI Bill Benefits
 display_title: Transfer Post-9/11 GI Bill Benefits
+description: Find out if you can transfer any of your unused Post-9/11 GI Bill benefits to your spouse or dependent children. And learn how to apply for a transfer online or by mail.
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: complete
 order: 3
