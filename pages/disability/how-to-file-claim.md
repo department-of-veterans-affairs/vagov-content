@@ -55,7 +55,7 @@ Find out how to file a claim for disability compensation.
 <h4 itemprop="name">What evidence will I need to provide to support my claim?</h4>
 <div itemprop="itemListElement">
  
-**You can help to support your claim by providing documents such as any:**
+**You can help to support your claim by providing documents, such as:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries
