@@ -1,15 +1,17 @@
 - img: /img/homepage/secva.jpg
   alt: Video of VA Secretary Robert Wilkie's video announcing the new VA.gov.
   title: VA.Gov Revised by Veterans
-  href: https://youtu.be/DEfRlL63nCg
+  href: 'https://youtu.be/DEfRlL63nCg'
   description: VA Secretary Robert Wilkie talks about the redesign intentionally built with Veterans, for Veterans.  
+  
 - img: /img/homepage/access-to-care.jpg
   alt: Elderly Veteran being examined by a health care practitioner.
   title: Health Care Access and Quality
-  href: https://www.accesstocare.va.gov/
+  href: 'https://www.accesstocare.va.gov/'
   description: Get wait times and compare quality and patient-satisfaction data for VA health facilities.
+  
 - img: /img/homepage/hp-vantage.jpg
   alt: Graphic for the VAntage Point
-  title: VAntage Point: News You Can Use
-  href: https://www.blogs.va.gov/VAntage/
+  title: 'VAntage Point: News You Can Use'
+  href: 'https://www.blogs.va.gov/VAntage/'
   description: VAntage Point is VA’s official blog. Here you will find stories from around VA and the Veteran community.
