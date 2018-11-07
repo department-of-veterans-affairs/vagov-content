@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: CHAMPVA Benefits
 display_title:
+description: Learn about CHAMPVA benefits, which cover the cost of health care for the spouse or child of a Veteran who has disabilities or is deceased. Find out about CHAMPVA eligibility, and how to submit an application for the Civilian Health and Medical Program of the Department of Veteran Affairs.
 concurrence: complete
 lastupdate: 2018-10-17
 order: 1

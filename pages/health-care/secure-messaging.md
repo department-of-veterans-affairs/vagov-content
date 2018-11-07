@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Secure Messaging
 display_title: Use Secure Messaging
-description:
+description: Use VA Secure Messaging to communicate online with your VA health care team. Our My HealtheVet Secure Messaging tool keeps your messages safe, private, and secure. You can ask non-urgent, non-emergency health-related questions, give updates on your condition, request referrals, and more.
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare

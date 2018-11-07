@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Agent Orange Exposure from Testing and Storage Areas outside Vietnam
 display_title: Testing and Storage
+description: If you were part of testing or storing Agent Orange on military bases in the U.S. or elsewhere, you may have been exposed to this toxic chemical. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with Agent Orange.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page

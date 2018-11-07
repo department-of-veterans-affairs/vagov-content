@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: The VA Claim Process after You File Your Claim
 display_title: After You File Your Claim
-description: Find out what happens after you file a claim for VA disability compensation, including how long you'll wait for a decision and what steps we take before the preparation for notification.
+description: Find out what happens in the VA claim process after you file your claim. Learn about the steps in the VA disability claim processing timeline and how long it takes, on average, to get your VA disability rating.
 order: 3
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -22,14 +22,14 @@ relatedlinks:
     links:
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
-      description: If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required. 
+      description: If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
 aliases:
   - /disability-benefits/after-you-apply/
 ---
 
 <div class="va-introtext">
 
-Find out what happens to your claim after you file for disability compensation. 
+Find out what happens to your claim after you file for disability compensation.
 
 </div>
 
@@ -60,7 +60,7 @@ You don’t need to do anything unless we send you a letter asking for more info
 <li class="process-step list-one">
 
 #### Claim Received
-We’ll let you know when we receive your disability claim.  
+We’ll let you know when we receive your disability claim.
 - **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about 1 hour of applying.<br>
 - **If you file online for increased disability compensation,** you’ll get an on-screen message from us after you submit the form. <br>
 - **If you mail your application,** we’ll send you a letter to let you know we have your claim. You should get this letter about 1 week, plus mailing time, after we receive your claim.
@@ -90,7 +90,7 @@ If we need more evidence during the review, your claim may return to this step m
 
 </li>
 
-<li class="process-step list-four"> 
+<li class="process-step list-four">
 
 #### Preparation for Notification
 
@@ -99,7 +99,7 @@ We’ll get your entire claim decision packet ready to be mailed.
 </li>
 
 <li class="process-step list-five">
-  
+
 #### Claim Complete
 
 We’ll send you a packet by U.S. mail that includes details of the decision on your claim. Please allow 7 to 10 business days for your packet to arrive before contacting a VA call center.

@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Depression Treatment for Veterans
 display_title: Depression
+description: If you're a Veteran living with depression, find out how to get help through VA. You may be able to get access to health services as well as VA disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 2

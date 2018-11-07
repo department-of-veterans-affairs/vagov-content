@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Upload Evidence to Support Your Claim
 display_title: Upload Evidence to Support Your Claim
-description:
+description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
 collection:
 order: 5

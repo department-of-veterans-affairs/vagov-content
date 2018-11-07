@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans Health Issues Related to Service History
 display_title: Health Issues Related to Service Era
-description: Learn what health conditions you may be at risk of developing depending on where and when you served on active duty.
+description: Learn about Veterans health issues that may be related to where and when you served. Find out what steps to take to care for your health and whether you may be eligible for VA health care and disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 1

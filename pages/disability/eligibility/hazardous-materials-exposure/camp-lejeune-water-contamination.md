@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Health Issues Related to Camp Lejeune Water Contamination
 display_title: Camp Lejeune Water Contamination
+description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
 aliases:
