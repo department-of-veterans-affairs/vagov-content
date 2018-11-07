@@ -30,8 +30,6 @@ You can upload evidence to support your claim through our claim tracking tool. T
 </div>
 </div>
 </div>
-</div>
-
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -46,7 +44,6 @@ You can continue uploading documents for up to one year from the date we receive
 If we decide your claim early, you’ll still have the rest of the one-year period to provide more information or evidence. </div>
 </div>
 </div>
-</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -57,7 +54,6 @@ If we decide your claim early, you’ll still have the rest of the one-year peri
 We’ll remove your claim from the Fully Developed Claims program and process it as a standard claim.
 
 If we decide your claim earlier than one year from the date we received the claim, you’ll still have the rest of the year to provide any additional information or evidence.
-</div>
 </div>
 </div>
 
@@ -124,6 +120,6 @@ No. You can only upload evidence to support your initial claim. <br>
 </div>
 </div>
 </div>
-
+</div>
 
 <br/>
