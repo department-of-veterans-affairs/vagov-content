@@ -46,7 +46,6 @@ You can continue uploading documents for up to one year from the date we receive
 If we decide your claim early, you’ll still have the rest of the one-year period to provide more information or evidence. </div>
 </div>
 </div>
-</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
