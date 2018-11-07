@@ -23,7 +23,7 @@ aliases:
               <div class="feature">
                 <h4>Need help?</h4>
                 <p>
-                  Call MyVA311 for help: <a href="tel:+18446982311">1-844-698-2311</a>. If you have hearing loss, call TTY: 711.
+                  <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request to get help</a>.
                 </p>
               </div>
             </div>
