@@ -121,13 +121,11 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
   - A copy of your marriage license, **and**
   - The Veteran’s death certificate
 
-  <br>
- [Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
-
- <br>
-
- [Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/). <br />
- [Get military service records online](https://www.archives.gov/veterans/military-service-records/).
+[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
+<br/>
+[Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/).
+<br/>
+[Get military service records online](https://www.archives.gov/veterans/military-service-records/).
 
 </div>
 </li>
