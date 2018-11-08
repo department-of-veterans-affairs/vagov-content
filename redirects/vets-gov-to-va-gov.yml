@@ -619,6 +619,6 @@
 - vets_gov_src: /healthcare/
   va_gov_dest: /health-care/
   retain_path: true
-- vets_gov_src: /veteran-id-card/
-  va_gov_dest: /records/get-veteran-id-cards/
+- vets_gov_src: veteran-id-card
+  va_gov_dest: records/get-veteran-id-cards
   retain_path: false
