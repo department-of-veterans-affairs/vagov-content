@@ -95,6 +95,7 @@ Our Survivors and Burial Benefits Kit can guide you and your family members thro
 - Information about survivors’ benefits
 - Sample forms you and your family members may need to fill out
 - A section where you can record the personal information your family members will need and the location of important documents, like your birth certificate or will
+
  [Plan ahead using the VA Survivors and Burial Benefits Kit](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf).
 
 **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility. <br>
