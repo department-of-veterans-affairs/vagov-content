@@ -65,7 +65,7 @@ Follow the steps below to request your records.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What kinds of records can I request with this tool?</h2>
+<h2 itemprop="name">What types of records can I request with this tool?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
