@@ -62,7 +62,7 @@ Then turn in your completed application to a Real-Time Automated Personnel Ident
 <section>
 
 ### Veteran Health Identification Card
-If you’re enrolled in VA health care, you should have a Veteran Health Identification Card (VHIC) that you use to check in to your appointments at VA medical centers. You may also use this card to get discounts offered to Veterans at many stores, businesses, and restaurants. If you have a VHIC, you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.
+When you’re enrolled in VA health care, you get a Veteran Health Identification Card (VHIC) that you use to check in to your appointments at VA medical centers. You may also use this card to get discounts offered to Veterans at many stores, businesses, and restaurants. If you have a VHIC, you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.
 
 <ul class="usa-accordion">
 <li>
@@ -81,14 +81,14 @@ You need to be enrolled in VA health care to receive a Veteran Health Identifica
 <section>
 
 ### Veteran Choice Card
-A Veteran Choice Card is a form of ID given to Veterans receiving care under the VA Choice program. Under this program, Veterans receive care through a community provider.  
+When you receive care through a community provider under the VA Choice program, you get a form of ID called a Veteran Choice Card.
 
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="get-Veteran-Choice-card">How do I get a Veteran Choice Card?</button>
 <div id="get-Veteran-Choice-card" class="usa-accordion-content">
 
-You need to be receiving care under the VA Choice program to get a Choice Card. <br>
+When you receive care under the VA Choice program, you get a Veteran Choice Card. <br>
 - [Learn more about the Veteran Choice program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).</br>
 - Contact the Choice Program call center at <a href="tel:+18666068198">1-866-606-8198</a>.
 
