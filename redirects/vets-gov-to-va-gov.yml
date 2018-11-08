@@ -505,8 +505,8 @@
 - vets_gov_src: pension/rates/
   va_gov_dest: pension/veterans-pension-rates/
   retain_path: false
-- vets_gov_src: download-va-letters/letters
-  va_gov_dest: records/download-va-letters/letters
+- vets_gov_src: download-va-letters
+  va_gov_dest: records/download-va-letters
   retain_path: true
 - vets_gov_src: faq/
   va_gov_dest: sign-in-faq/
@@ -619,3 +619,6 @@
 - vets_gov_src: /healthcare/
   va_gov_dest: /health-care/
   retain_path: true
+- vets_gov_src: /veteran-id-card/
+  va_gov_dest: /records/get-veteran-id-cards/
+  retain_path: false
