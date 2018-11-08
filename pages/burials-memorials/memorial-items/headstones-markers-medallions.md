@@ -105,9 +105,9 @@ You can apply for one of these memorial items if you're representing the Veteran
 ### What do I need to know about burial in a private cemetery?
 You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. <br>
 [Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp).
- If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
+If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
- If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
+If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
 [Learn more about medallions and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf).
 </div>
 
