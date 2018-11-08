@@ -46,7 +46,26 @@ Find out how to request your military records, including your DD214, through the
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What can I do with this tool?</h2>
+<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my military service records?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+Follow the steps below to request your records.
+
+<ol class="process">
+  <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
+  <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
+  <li class="process-step list-three">Select <b>Request My Personnel File</b>.</li>
+  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
+  <li class="process-step list-five">Click or tap on the <b>Create and Send Request</b> button.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What kinds of records can I request with this tool?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -69,40 +88,6 @@ You can request documents from your Official Military Personnel File to view and
 
 </ul>
 
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h2 itemprop="name">What kind of account do I need to use this tool?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-You’ll need to have a Premium <b>DS Logon</b> account (used for eBenefits and milConnect).
-
-If you don’t have a Premium <b>DS Logon</b> account, find out how to create or upgrade an account on milConnect. <br>
-<a href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>.
-
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my military service records?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-Follow the steps below to request your records.
-
-<ol class="process">
-  <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
-  <li class="process-step list-two">Choose the <b>Personnel File</b> tab.</li>
-  <li class="process-step list-three">Select <b>Request My Personnel File</b>.</li>
-  <li class="process-step list-four">Fill out the form. In the <b>Document Index</b> section, check the boxes next to the document(s) you'd like to request.</li>
-  <li class="process-step list-five">Click or tap on the <b>Create and Send Request</b> button.</li>
-</ol>
 </div>
 </div>
 </div>
