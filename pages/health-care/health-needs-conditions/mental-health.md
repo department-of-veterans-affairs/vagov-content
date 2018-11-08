@@ -71,7 +71,7 @@ Yes. You may be able to use one or more of the care options listed below.
 [Visit the Veteran Training portal](http://www.veterantraining.va.gov).
 
 - **Smartphone apps for Veterans:** We've partnered with the Department of Defense (DoD) to create free smartphone applications you can use to help manage your physical and mental health. These include apps to help you deal with stress, quit smoking, and more.<br>
-[Learn more about apps for Veterans](http://ncgwg.org/wp-content/uploads/2018/04/Resources_-Apps-for-Veterans.pdf).
+[Learn more about apps for Veterans](https://ncgwg.org/wp-content/uploads/2018/04/Resources_-Apps-for-Veterans.pdf).
 
 - **The VA TeleMental Health program:** You can connect with a VA mental health provider through a computer or mobile device in your home or at your nearest VA health facility. If you're enrolled in VA health care, ask any of your providers to help connect you with our telemental health program.
 
