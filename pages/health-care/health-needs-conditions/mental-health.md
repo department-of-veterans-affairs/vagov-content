@@ -133,8 +133,8 @@ Call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000</a> 
 
 **Or you can apply for VA health care to access more services:**
 
-[Find out if you're eligible for VA health care](https://preview.va.gov/health-care/eligibility/). <br>
-[Learn how to apply for health care benefits](https://preview.va.gov/health-care/how-to-apply/).
+[Find out if you're eligible for VA health care](/health-care/eligibility/). <br>
+[Learn how to apply for health care benefits](/health-care/how-to-apply/).
 
 </div>
 </li>
