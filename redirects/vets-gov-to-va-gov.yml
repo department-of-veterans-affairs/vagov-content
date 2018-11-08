@@ -622,3 +622,6 @@
 - vets_gov_src: veteran-id-card
   va_gov_dest: records/get-veteran-id-cards
   retain_path: false
+- vets_gov_src: welcome-to-va/
+  va_gov_dest: welcome-kit/
+  retain_path: false
