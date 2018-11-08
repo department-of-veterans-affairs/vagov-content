@@ -81,14 +81,14 @@ You need to be enrolled in VA health care to receive a Veteran Health Identifica
 <section>
 
 ### Veteran Choice Card
-When you receive care through a community provider under the VA Choice program, you get a form of ID called a Veteran Choice Card.
+When you receive care from a community provider through the VA Choice program, you get a form of ID called a Veteran Choice Card.
 
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="get-Veteran-Choice-card">How do I get a Veteran Choice Card?</button>
 <div id="get-Veteran-Choice-card" class="usa-accordion-content">
 
-When you receive care under the VA Choice program, you get a Veteran Choice Card. <br>
+You can get a Veteran Choice Card if you receive care through the VA Choice program. <br>
 - [Learn more about the Veteran Choice program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).</br>
 - Contact the Choice Program call center at <a href="tel:+18666068198">1-866-606-8198</a>.
 
