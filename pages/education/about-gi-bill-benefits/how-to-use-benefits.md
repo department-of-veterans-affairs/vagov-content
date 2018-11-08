@@ -10,6 +10,7 @@ plainlanguage:
 concurrence:
 aliases:
   - /education/work-learn/
+  - /education/work-learn/non-traditional/
   - /education/tools-programs/
   - /education/advanced-training-and-certifications/
 majorlinks:
