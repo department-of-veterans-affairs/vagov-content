@@ -625,3 +625,6 @@
 - vets_gov_src: welcome-to-va/
   va_gov_dest: welcome-kit/
   retain_path: false
+- vets_gov_src: /facilities/
+  va_gov_dest: /find-locations/
+  retain_path: true
