@@ -70,14 +70,14 @@ At the time of need, the person planning the burial can also request other honor
 
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/). <br />
-[Learn about memorials and burial honors](/burials-and-memorials/honor/). <br>
+[Learn about memorials and burial honors](/burials-memorials/honor/). <br>
 [See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf).
 
 
 ## If I'm the survivor of a Veteran or Servicemember, what other benefits can I get?
 
 We give the surviving spouse, children, and parents of deceased Servicemembers and Veterans a range of benefits. These may include tax-free monetary benefits and help paying for the funeral service. <br>
-[Learn about survivor benefits](/burials-and-memorials/survivor-and-dependent-benefits/).
+[Learn about survivor benefits](/burials-memorials/survivor-and-dependent-benefits/).
 
 -------
 
@@ -85,7 +85,7 @@ We give the surviving spouse, children, and parents of deceased Servicemembers a
 
 Yes. You can plan ahead to make the process of applying for a burial in a VA national cemetery easier for your family members in the event of your death. To do this, you’ll need to apply for a pre-need eligibility determination. <br>
 
-[Find out how to apply](/burials-and-memorials/pre-need/).
+[Find out how to apply](/burials-memorials/pre-need/).
 
  **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
  [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp).
