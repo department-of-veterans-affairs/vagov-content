@@ -28,6 +28,8 @@ Any Veteran who was not dishonorably discharged and meets any of the requirement
 - Died on or after November 1, 1990, **or**
 - Was buried in an unmarked grave and served before September 7, 1980, **or**
 - Was buried in an unmarked grave and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
+- An eligible spouse or other family member buried in a national cemetery, state/tribal Veterans cemetery, military post cemetery, or military base cemetery<br>
+**Note**: Spouses and dependents buried in a private cemetery aren't eligible for these memorial items.
 
 **Note:** An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may also be eligible for these memorial items.
 
@@ -99,9 +101,13 @@ You can apply for one of these memorial items if you're representing the Veteran
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
+[Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf). <br>
+[See the emblems of belief you can choose to place on a headstone or marker](https://www.cem.va.gov/cem/docs/emblems.pdf).
+<br>	<br>
+
 </div>
 
-## Special arrangements
+### How do I make special arrangements?
 
 We provide memorial headstones and markers for qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
 
