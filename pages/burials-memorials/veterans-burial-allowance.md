@@ -32,6 +32,7 @@ You may be able to get burial allowances if you're paying for the burial and fun
 **One of these must describe your relationship or role. You’re:**
 
 - The Veteran’s surviving spouse (**Note:** we recognize same-sex marriages), **or**
+- The surviving partner from a legal union (a relationship made formal in a document issued by the State recognizing the union), **or**
 - A surviving child of the Veteran, **or**
 - A parent of the Veteran, **or**
 - The executor or administrator of the Veteran’s estate (someone who officially represents the Veteran)
@@ -54,7 +55,7 @@ To get this benefit, the Veteran must not have received a dishonorable discharge
 
 </div>
 
-## When do I need to file a claim?
+### Is there a time limit for filing?
 
 You must file a claim for a non-service-connected burial allowance within 2 years after the Veteran’s burial or cremation. If a Veteran’s discharge was changed after death from dishonorable to another status, you must file for an allowance claim within 2 years after the discharge update.
 
@@ -66,6 +67,9 @@ There's no time limit to file for a service-connected burial, plot, or interment
 - An allowance for the plot or interment
 - An allowance for transporting the Veteran’s remains for burial in a national cemetery
 
+**Note**: The Veteran's family will need to cover the cost of funeral director services.
+
+
 <div class="feature" markdown="1">
 
 ### What documents and information do I need to apply?
@@ -76,6 +80,9 @@ There's no time limit to file for a service-connected burial, plot, or interment
 - Any documents you have for the cost of transporting the Veteran’s remains
 
 </div>
+
+### As a surviving spouse, do I need to file a claim for burial costs?
+No. When we receive notice of the Veteran’s passing, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
 
 <div id="react-applicationStatus" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
