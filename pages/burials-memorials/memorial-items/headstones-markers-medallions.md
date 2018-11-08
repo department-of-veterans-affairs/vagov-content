@@ -28,10 +28,8 @@ Any Veteran who was not dishonorably discharged and meets any of the requirement
 - Died on or after November 1, 1990, **or**
 - Was buried in an unmarked grave and served before September 7, 1980, **or**
 - Was buried in an unmarked grave and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
-- An eligible spouse or other family member buried in a national cemetery, state/tribal Veterans cemetery, military post cemetery, or military base cemetery<br>
-**Note**: Spouses and dependents buried in a private cemetery aren't eligible for these memorial items.
 
-**Note:** An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may also be eligible for these memorial items.
+**Note:** An eligible spouse or *dependent* buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may also be eligible for these memorial items. Spouses and dependents buried in a private cemetery aren't eligible.
 
 <br>
 
