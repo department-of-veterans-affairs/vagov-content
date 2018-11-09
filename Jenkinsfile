@@ -69,7 +69,7 @@ node('vetsgov-general-purpose') {
     }
 
     def output = sh(returnStdout: true, script: "cat output.log").trim()
-    def hasError = output.indexOf('npm ERR!')
+    def hasError = output.indexOf('npm ERR!') > -1
     if (hasError) {
       commentBrokenLinks(output)
       error(output)
