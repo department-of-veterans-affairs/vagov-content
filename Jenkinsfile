@@ -75,8 +75,8 @@ node('vetsgov-general-purpose') {
         def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
         sh installDependencies
         // sh build
-        output = sh(returnStdout: true, script: installDependencies).trim()
-        echo output
+        output = sh(returnStdout: true, script: build).trim()
+        echo "Got it - ${output}"
       }
     } catch (error) {
       // echo error
