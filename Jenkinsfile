@@ -77,6 +77,7 @@ node('vetsgov-general-purpose') {
         sh build
       }
     } catch (error) {
+      echo error
       dir (APP_CODE_REPO) {
         output = sh(returnStdout: true, script: "docker-compose logs").trim()
         echo output
