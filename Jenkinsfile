@@ -73,11 +73,13 @@ node('vetsgov-general-purpose') {
       dockerImage.inside(dockerArgs) {
         def installDependencies = "cd /application && yarn install --production=false"
         def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages >> build-output.txt"
+
         sh installDependencies
         sh build
+        output = sh(returnStdout: true, script: 'head /application/build-output.txt').trim()
       }
     } catch (error) {
-      output = sh(returnStdout: true, script: 'head vets-website/build-output.txt').trim()
+
       echo output
     }
   }
