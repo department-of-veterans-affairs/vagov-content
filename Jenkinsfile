@@ -38,7 +38,7 @@ node('vetsgov-general-purpose') {
     }
 
     dir(appCodeRepo) {
-      checkoutAppCode()
+      this.checkoutAppCode()
       imageTag = java.net.URLDecoder.decode(env.BUILD_TAG).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
       dockerImage = docker.build("vets-website:${imageTag}")
     }
