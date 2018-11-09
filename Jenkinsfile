@@ -82,7 +82,8 @@ node('vetsgov-general-purpose') {
       }
     } catch (error) {
       output = sh(returnStdout: true, script: "cat test.txt").trim()
-      commentBrokenLinks(output)
+      echo output
+      // commentBrokenLinks(output)
     }
   }
 
