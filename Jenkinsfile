@@ -23,10 +23,10 @@ def checkoutAppCode = {
 
 def commentBrokenLinks(buildOutput) {
   // Find all lines with broken links in production build
-  def broken_links = sh (
-    script: 'grep -o \'\\[vagovprod\\].*>>> href: ".*",\' consoleText',
-    returnStdout: true
-  ).trim()
+  // def broken_links = sh (
+  //   script: 'grep -o \'\\[vagovprod\\].*>>> href: ".*",\' consoleText',
+  //   returnStdout: true
+  // ).trim()
 
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def comment = buildOutput[brokenLinksStart]
@@ -82,8 +82,8 @@ node('vetsgov-general-purpose') {
       }
     } catch (error) {
       output = sh(returnStdout: true, script: "cat test.txt").trim()
-      echo output
-      // commentBrokenLinks(output)
+      // echo output
+      commentBrokenLinks(output)
     }
   }
 
