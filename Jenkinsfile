@@ -79,7 +79,7 @@ node('vetsgov-general-purpose') {
       }
     } catch (error) {
 
-      output = sh(returnStdout: true, script: "head build-output.txt").trim()
+      output = sh(returnStdout: true, script: "cat build-output.txt").trim()
       echo output
     }
   }
