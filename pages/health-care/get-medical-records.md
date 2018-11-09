@@ -8,6 +8,8 @@ concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
 spoke: Manage Benefits
+aliases:
+  - /health-records/
 order: 13
 children:
 ---
