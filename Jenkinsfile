@@ -75,14 +75,14 @@ node('vetsgov-general-purpose') {
       writeFile file: "test.txt", text: "test"
       dockerImage.inside(dockerArgs) {
         def installDependencies = "cd /application && yarn install --production=false"
-        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages > test.txt"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages &> test.txt"
 
         sh installDependencies
         sh build
       }
     } catch (error) {
       output = sh(returnStdout: true, script: "cat test.txt").trim()
-      // echo output
+      echo output
       commentBrokenLinks(output)
     }
   }
