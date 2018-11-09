@@ -32,19 +32,15 @@ def commentBrokenLinks(buildOutput) {
 
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
-  def comment = buildOutput[brokenLinksStart..brokenLinkEnd]
-
-  // echo "Here we go!!"
-  echo comment
-
-  // def github = GitHub.connect()
-  // def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
-  // def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
-
-  // // Post our comment with broken links formatted as a Markdown table
-  // pr.comment("This pull request contains broken links :warning:\n\n|File| Link URL to be fixed|\n|--|--|\n" +
-  //            broken_links.replaceAll(/\[production\] |>>> href: |,/,"|") +
-  //            "\n\n _Note: Long file names or URLs may be cut-off_")
+  def comment = 'This content failed to build! :warning:
+```
+buildOutput[brokenLinksStart..brokenLinkEnd]
+```
+'
+  def github = GitHub.connect()
+  def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
+  def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+  pr.comment(comment)
 }
 
 node('vetsgov-general-purpose') {
