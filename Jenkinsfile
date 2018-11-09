@@ -69,18 +69,18 @@ node('vetsgov-general-purpose') {
     }
 
     def currentDir = pwd()
-    def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
+    def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}  >> /build-output.txt"
 
     try {
       dockerImage.inside(dockerArgs) {
         def installDependencies = "cd /application && yarn install --production=false"
-        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages >> /build-output.txt"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
 
         sh installDependencies
         sh build
       }
     } catch (error) {
-      output = sh(returnStdout: true, script: "cat build-output.txt").trim()
+      output = sh(returnStdout: true, script: "cat /build-output.txt").trim()
       commentBrokenLinks(output)
     }
   }
