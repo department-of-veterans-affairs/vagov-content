@@ -24,11 +24,9 @@ def checkoutAppCode = {
 def commentBrokenLinks(buildOutput) {
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
-  def comment = 'This content failed to build! :warning:
-```
-buildOutput[brokenLinksStart..brokenLinkEnd]
-```
-'
+  def comment = 'This content failed to build! :warning:'
+  comment += "```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}```"
+
   def github = GitHub.connect()
   def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
   def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
