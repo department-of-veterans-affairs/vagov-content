@@ -76,10 +76,10 @@ node('vetsgov-general-purpose') {
         sh installDependencies
         // sh build
         output = sh(returnStdout: true, script: build).trim()
-        echo "Got it - ${output}"
       }
     } catch (error) {
-      // echo error
+      echo "error!"
+      echo output
       // dir (APP_CODE_REPO) {
       //   output = sh(returnStdout: true, script: "docker-compose logs").trim()
       //   echo output
