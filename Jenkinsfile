@@ -50,7 +50,7 @@ node('vetsgov-general-purpose') {
 
     dockerImage.inside(dockerArgs) {
       def installDependencies = "cd /application && yarn install --production=false"
-      def build = "npm --prefix /application --no-color run build -- --buildtype=${productionEnv} --content-deployment"
+      def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
       sh installDependencies
       sh build
     }
