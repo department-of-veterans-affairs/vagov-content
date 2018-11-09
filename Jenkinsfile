@@ -76,6 +76,7 @@ node('vetsgov-general-purpose') {
         sh installDependencies
         // sh build
         output = sh(returnStdout: true, script: installDependencies).trim()
+        echo output
       }
     } catch (error) {
       // echo error
