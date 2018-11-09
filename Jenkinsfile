@@ -28,11 +28,13 @@ def commentBrokenLinks(buildOutput) {
   //   returnStdout: true
   // ).trim()
 
-  def brokenLinksStart = buildOutput.indexOf('Error:')
-  def comment = buildOutput[brokenLinksStart]
+  echo buildOutput
 
-  echo "Here we go!!"
-  echo comment
+  // def brokenLinksStart = buildOutput.indexOf('Error:')
+  // def comment = buildOutput[brokenLinksStart]
+
+  // echo "Here we go!!"
+  // echo comment
 
   // def github = GitHub.connect()
   // def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
