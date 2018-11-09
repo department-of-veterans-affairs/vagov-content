@@ -23,8 +23,8 @@ def checkoutAppCode = {
 
 def commentBrokenLinks(buildOutput) {
   def brokenLinksStart = buildOutput.indexOf('Error:')
-  def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
-  def comment = 'This content failed to build! :warning:'
+  def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE') - 1
+  def comment = ':warning: This content failed to build with the following output:'
   comment += "\n```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}\n```\n"
 
   def github = GitHub.connect()
