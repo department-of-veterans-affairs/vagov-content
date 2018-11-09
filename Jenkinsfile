@@ -78,10 +78,9 @@ node('vetsgov-general-purpose') {
       }
     } catch (error) {
       dir (APP_CODE_REPO) {
-       script {
         output = sh(returnStdout: true, script: "docker-compose logs").trim()
+        echo output
       }
-      echo output
     }
   }
 
