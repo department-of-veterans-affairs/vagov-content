@@ -31,7 +31,7 @@ def commentBrokenLinks(buildOutput) {
   // echo buildOutput
 
   def brokenLinksStart = buildOutput.indexOf('Error:')
-  def comment = buildOutput[brokenLinksStart, -1]
+  def comment = buildOutput[brokenLinksStart..-1]
 
   // echo "Here we go!!"
   echo comment
