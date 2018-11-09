@@ -48,7 +48,6 @@ node('vetsgov-general-purpose') {
 
   def imageTag
   def dockerImage
-  def output
 
   properties([[
     $class: 'BuildDiscarderProperty',
@@ -73,6 +72,7 @@ node('vetsgov-general-purpose') {
     def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
 
     writeFile file: "test.txt", text: "test"
+
     dockerImage.inside(dockerArgs) {
       def installDependencies = "cd /application && yarn install --production=false"
       def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages 2>&1 | tee test.txt"
@@ -80,6 +80,7 @@ node('vetsgov-general-purpose') {
       sh installDependencies
       sh build
     }
+
     def output = sh(returnStdout: true, script: "cat test.txt").trim()
     def hasError = output.indexOf('npm ERR!')
     if (hasError) {
