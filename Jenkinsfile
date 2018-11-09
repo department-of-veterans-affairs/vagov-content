@@ -21,6 +21,26 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
+def commentBrokenLinks = {
+  // Pull down console log replacing URL with IP since we can't hit internal DNS
+  sh "curl -O \$(echo ${env.BUILD_URL} | sed 's/jenkins.vetsgov-internal/172.31.1.100/')consoleText"
+
+  // Find all lines with broken links in production build
+  def broken_links = sh (
+    script: 'grep -o \'\\[vagovprod\\].*>>> href: ".*",\' consoleText',
+    returnStdout: true
+  ).trim()
+
+  def github = GitHub.connect()
+  def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
+  def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+
+  // Post our comment with broken links formatted as a Markdown table
+  pr.comment("This pull request contains broken links :warning:\n\n|File| Link URL to be fixed|\n|--|--|\n" +
+             broken_links.replaceAll(/\[production\] |>>> href: |,/,"|") +
+             "\n\n _Note: Long file names or URLs may be cut-off_")
+}
+
 node('vetsgov-general-purpose') {
 
   def imageTag
@@ -48,11 +68,15 @@ node('vetsgov-general-purpose') {
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
 
-    dockerImage.inside(dockerArgs) {
-      def installDependencies = "cd /application && yarn install --production=false"
-      def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
-      sh installDependencies
-      sh build
+    try {
+      dockerImage.inside(dockerArgs) {
+        def installDependencies = "cd /application && yarn install --production=false"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
+        sh installDependencies
+        sh build
+      }
+    } catch (error) {
+      commentBrokenLinks()
     }
   }
 
