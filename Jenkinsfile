@@ -25,7 +25,7 @@ def commentBrokenLinks(buildOutput) {
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
   def comment = 'This content failed to build! :warning:'
-  comment += "```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}```"
+  comment += "\n```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}\n```\n"
 
   def github = GitHub.connect()
   def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
