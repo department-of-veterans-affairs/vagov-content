@@ -72,18 +72,13 @@ node('vetsgov-general-purpose') {
     try {
       dockerImage.inside(dockerArgs) {
         def installDependencies = "cd /application && yarn install --production=false"
-        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages >> build-output.txt"
         sh installDependencies
-        // sh build
-        output = sh(returnStdout: true, script: build).trim()
+        sh build
       }
     } catch (error) {
-      echo "error!"
+      output = sh(returnStdout: true, script: 'head vets-website/build-output.txt').trim()
       echo output
-      // dir (APP_CODE_REPO) {
-      //   output = sh(returnStdout: true, script: "docker-compose logs").trim()
-      //   echo output
-      // }
     }
   }
 
