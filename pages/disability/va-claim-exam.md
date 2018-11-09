@@ -32,9 +32,13 @@ After you file your disability benefits claim, we may ask you to have a claim ex
 <div class="usa-alert usa-alert-warning">
 <div class="usa-alert-body">
 
-##### Be sure not to miss your scheduled exam.
+<h3 class="usa-alert-heading">
+Be sure not to miss your scheduled exam.
+</h3>
 
+<p class="usa-alert-text">
 If you miss your exam, we may not be able to reschedule you right away, and your claim may be delayed while you wait for a new appointment. Or we may need to rate your claim “as-is.” This means we’ll base our decision about your disability benefits only on the evidence we have in your file, which may not be enough.
+</p>
 
 </div>
 </div>

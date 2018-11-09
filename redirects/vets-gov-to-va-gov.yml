@@ -314,7 +314,7 @@
   va_gov_dest: education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
   retain_path: false
 - vets_gov_src: education/tools-programs/careerscope/
-  va_gov_dest: education/careerscope-skills-assessment/
+  va_gov_dest: careers-employment/careerscope-skills-assessment/
   retain_path: false
 - vets_gov_src: education/tools-programs/locate-a-school/
   va_gov_dest: education/choosing-a-school/
@@ -505,8 +505,8 @@
 - vets_gov_src: pension/rates/
   va_gov_dest: pension/veterans-pension-rates/
   retain_path: false
-- vets_gov_src: download-va-letters/letters
-  va_gov_dest: records/download-va-letters/letters
+- vets_gov_src: download-va-letters
+  va_gov_dest: records/download-va-letters
   retain_path: true
 - vets_gov_src: faq/
   va_gov_dest: sign-in-faq/
@@ -521,7 +521,7 @@
   va_gov_dest: disability-benefits/apply/form-526-disability-claim/
   retain_path: false
 - vets_gov_src: disability-benefits/track-claims
-  va_gov_dest: track-claims
+  va_gov_dest: claim-or-appeal-status 
   retain_path: true
 - vets_gov_src: education/apply-for-education-benefits/
   va_gov_dest: education/how-to-apply/
@@ -530,13 +530,13 @@
   va_gov_dest: education/how-to-apply/
   retain_path: false
 - vets_gov_src: families-caregivers/
-  va_gov_dest: /
+  va_gov_dest: ""
   retain_path: false
 - vets_gov_src: id-card-beta/
   va_gov_dest: records/get-veteran-id-cards/
   retain_path: false
 - vets_gov_src: signin/
-  va_gov_dest: /
+  va_gov_dest: ""
   retain_path: false
 - vets_gov_src: disability-benefits/conditions/
   va_gov_dest: disability/eligibility/
@@ -616,3 +616,15 @@
 - vets_gov_src: /health-care/prescriptions/
   va_gov_dest: /health-care/refill-track-prescriptions/
   retain_path: false
+- vets_gov_src: /healthcare/
+  va_gov_dest: /health-care/
+  retain_path: true
+- vets_gov_src: veteran-id-card
+  va_gov_dest: records/get-veteran-id-cards
+  retain_path: false
+- vets_gov_src: welcome-to-va/
+  va_gov_dest: welcome-kit/
+  retain_path: false
+- vets_gov_src: /facilities/
+  va_gov_dest: /find-locations/
+  retain_path: true

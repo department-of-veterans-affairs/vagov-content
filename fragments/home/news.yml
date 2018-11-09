@@ -1,15 +1,17 @@
-- img: /img/homepage/home-1.jpg
-  alt: Four Veterans standing together in front of the United States flag.
-  title: Make the Connection Website
-  href: https://maketheconnection.net/
-  description: Hear Veterans share their stories of recovery, and find resources near you.
-- img: /img/homepage/home-2.jpg
-  alt: Prescription medicine bottles being processed through the automated system at the VA Mail Order Pharmacy.
+- img: /img/homepage/hp-img-secva-graphic.jpg
+  alt: Video of VA Secretary Robert Wilkie's video announcing the new VA.gov.
+  title: Welcome to the New VA.gov!
+  href: 'https://youtu.be/DEfRlL63nCg'
+  description: VA Secretary Robert Wilkie talks about the redesign intentionally built with Veterans, for Veterans.  
+  
+- img: /img/homepage/access-to-care.jpg
+  alt: Elderly Veteran being examined by a health care practitioner.
   title: Health Care Access and Quality
-  href: https://www.accesstocare.va.gov/
+  href: 'https://www.accesstocare.va.gov/'
   description: Get wait times and compare quality and patient-satisfaction data for VA health facilities.
-- img: /img/homepage/home-3.jpg
-  alt: Close-up of an American flag patch on the sleeve of a U.S. military combat uniform.
-  title: VA Rapid Appeals
-  href: https://www.blogs.va.gov/VAntage/48141/vas-rapid-appeals-modernization-program-ramp-now-open-appeals/
-  description: Find out how to get a faster decision on a pending disability compensation appeal through the VA Rapid Appeals Modernization Program (RAMP).
+  
+- img: /img/homepage/hp-vantage.jpg
+  alt: Graphic for the VAntage Point
+  title: 'VAntage Point: News You Can Use'
+  href: 'https://www.blogs.va.gov/VAntage/'
+  description: VAntage Point is VA’s official blog. Here you will find stories from around VA and the Veteran community.
