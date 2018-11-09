@@ -31,7 +31,8 @@ def commentBrokenLinks(buildOutput) {
   // echo buildOutput
 
   def brokenLinksStart = buildOutput.indexOf('Error:')
-  def comment = buildOutput[brokenLinksStart..-1]
+  def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
+  def comment = buildOutput[brokenLinksStart..brokenLinkEnd]
 
   // echo "Here we go!!"
   echo comment
