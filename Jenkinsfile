@@ -45,6 +45,7 @@ node('vetsgov-general-purpose') {
 
   def imageTag
   def dockerImage
+  def output
 
   properties([[
     $class: 'BuildDiscarderProperty',
@@ -68,15 +69,15 @@ node('vetsgov-general-purpose') {
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
 
-    try {
-      dockerImage.inside(dockerArgs) {
-        def installDependencies = "cd /application && yarn install --production=false"
-        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
-        sh installDependencies
-        sh build
+    dockerImage.inside(dockerArgs) { c ->
+      try {
+      def installDependencies = "cd /application && yarn install --production=false"
+      def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages"
+      sh installDependencies
+      sh build
+      } catch (error) {
+        sh "docker logs ${c.id}"
       }
-    } catch (error) {
-      commentBrokenLinks()
     }
   }
 
