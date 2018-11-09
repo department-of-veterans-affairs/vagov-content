@@ -31,6 +31,7 @@ def commentBrokenLinks(buildOutput) {
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def comment = buildOutput[brokenLinksStart]
 
+  echo "Here we go!!"
   echo comment
 
   // def github = GitHub.connect()
@@ -82,7 +83,6 @@ node('vetsgov-general-purpose') {
       }
     } catch (error) {
       output = sh(returnStdout: true, script: "cat test.txt").trim()
-      echo output
       commentBrokenLinks(output)
     }
   }
