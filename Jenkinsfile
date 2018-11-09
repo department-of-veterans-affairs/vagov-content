@@ -85,7 +85,7 @@ node('vetsgov-general-purpose') {
     def hasError = output.indexOf('npm ERR!')
     if (hasError) {
       commentBrokenLinks(output)
-      hrow new IOException(output)
+      throw new IOException(output)
     }
   }
 
