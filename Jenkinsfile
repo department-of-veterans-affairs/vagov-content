@@ -22,14 +22,6 @@ def checkoutAppCode = {
 }
 
 def commentBrokenLinks(buildOutput) {
-  // Find all lines with broken links in production build
-  // def broken_links = sh (
-  //   script: 'grep -o \'\\[vagovprod\\].*>>> href: ".*",\' consoleText',
-  //   returnStdout: true
-  // ).trim()
-
-  // echo buildOutput
-
   def brokenLinksStart = buildOutput.indexOf('Error:')
   def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE')
   def comment = 'This content failed to build! :warning:
