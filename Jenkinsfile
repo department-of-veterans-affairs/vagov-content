@@ -10,9 +10,6 @@ def checkoutAppCode = {
     $class: 'GitSCM',
     branches: [[name: '*/master']],
     doGenerateSubmoduleConfigurations: false,
-    extensions: [
-      [$class: 'CloneOption', noTags: false, reference: '', shallow: true]
-    ],
     submoduleCfg: [],
     userRemoteConfigs: [
       [url: "git@github.com:${GITHUB_ORG}/${APP_CODE_REPO}.git"]
