@@ -19,7 +19,7 @@ If you’re leaving active service soon, find out how to get free educational an
 
 <div class="feature" markdown="1">
 
-### Can I get educational and career counseling?
+## Can I get educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
@@ -39,7 +39,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 -	Counseling to help you decide which civilian or military jobs you want
 -	Educational and career counseling to help you find a training program or job
@@ -47,13 +47,28 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
-You’ll need to apply:
+You’ll need to apply.
+
+**You can apply online now:**
 
 1. Log in to [eBenefits](https://www.ebenefits.va.gov).
 2. Select “Apply.”
 3. Select “Vocational Rehabilitation and Employment Benefits.”
-4. Apply for “Educational and Career Counseling.”<br /><br />
+4. Apply for “Educational and Career Counseling.”
 
-If you qualify, we’ll invite you to an orientation session at a VA regional office near you. You can also use CareerScope&reg; to find careers you might enjoy. [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
+**You can also apply by mail:**
+
+Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
+[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf).
+
+Mail the form to your nearest VA regional benefit office. Please include "Attention: Vocational Rehabilitation and Employment" on the envelope. <br>
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+
+### What happens after I apply?
+
+If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
+
+You can also use CareerScope&reg; to find careers you might enjoy. <br>
+[Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
