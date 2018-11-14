@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Life Insurance
 display_title: Life Insurance
+description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your Veterans life insurance policy online, file claims for benefits, and access helpful resources.
 concurrence: complete
 lastupdate:
 order: 1

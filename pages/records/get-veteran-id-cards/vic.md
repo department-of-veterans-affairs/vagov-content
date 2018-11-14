@@ -68,7 +68,7 @@ If you receive an email from us asking for additional information or evidence to
 <br>
 ### How do I check the status of my application after I've applied?
 You can sign in to your AccessVA account to check the status of your VIC application.<br>
-[Sign in to your AccessVA account](https://preprod.access.va.gov/accessva/?cspSelectFor=vic).
+[Sign in to your AccessVA account](https://access.va.gov/accessva/?cspSelectFor=vic).
 
 ### How do I replace my Veteran ID Card if it’s lost or stolen?
 To request a new card, please send us an email. <br>

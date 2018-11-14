@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA Individual Unemployability (Veterans Who Can't Work Due to a Disability)
 display_title: Unemployability
-description: Find out if you can get VA disability compensation because of a service-connected disability that's left you unable to work (called "individual unemployability"). 
+description: Find out how to file for VA individual unemployability compensation if you're an unemployed Veteran who can't work due to a service-connected disability. With this benefit, you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating.
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-individual_unemployability.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
@@ -46,7 +46,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, you’ll have to provide evidence (supporting documents like a doctor’s report or medical test results) showing that your disability prevents you from holding down a steady job. We’ll also review your work and education history. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, you’ll have to provide evidence (supporting documents like a doctor’s report or medical test results) showing that your disability prevents you from holding down a steady job. We’ll also review your work and education history. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 **Example:** A Veteran has a service-connected heart condition and a 60% disability rating. She was still able to work until last year when she began to get chest pain when doing anything physical, like walking or lifting boxes. Her doctor told her to retire as soon as possible. She filed a claim for more disability compensation. We reviewed her work and education history and agreed that she was individually unemployable because of her service-connected disability. So we increased her disability compensation to the same rate as a 100% disabled Veteran.

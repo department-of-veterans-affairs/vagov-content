@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans Pension Eligibility
 display_title: Eligibility
+description: Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. Review VA non-service-connected pension eligibility requirements and learn more about how to apply.
 concurrence:
 order: 1
 children: pensionEligibility

@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Increased Disability Rating for Time Spent in a Hospital
 display_title: Increase for Time in Hospital
+description: If you spent time in a VA or VA-approved hospital for a disability related to your military service, find out if you can get added disability pay. You may be able to get a temporary 100% disability rating for the time you sent in the hospital.
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-hospital_treatment.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -40,8 +41,8 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. <br>
-[Apply for disability benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. <br>
+[Find out how to file a claim](/disability/how-to-file-claim/).
 
 **Note:** If you weren’t in a VA hospital, when filing your claim you’ll need to give us your hospital discharge summary showing the length and cause of your hospital stay. 
 

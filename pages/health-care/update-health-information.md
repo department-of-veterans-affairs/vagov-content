@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Update Your Health Benefits Information (VA Form 10-10EZR)
 display_title: Update Health Benefits Info
-description:
+description: Update your VA health benefits information with VA Form 10-10 EZR. Use this form to update your personal, financial, or insurance information after you're enrolled in VA health care.
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare

@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Non-Hodgkin's Lymphoma Linked to Agent Orange
 display_title: Non-Hodgkin's Lymphoma
+description: Non-Hodgkin's Lymphoma (a type of cancer) can be caused by contact with Agent Orange. If you served in or near Vietnam during the Vietnam War, or in certain related jobs, and you have this cancer, find out if you're eligible for VA disability pay and other benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
@@ -53,9 +54,9 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. We consider non-Hodgkin’s lymphoma to be related to contact with Agent Orange. So, when you apply for benefits, you won’t have to show that your illness is related to Agent Orange or that it began during—or got worse because of—your military service.
+You’ll need to file a claim for disability compensation. We consider non-Hodgkin’s lymphoma to be related to contact with Agent Orange. So, when you file a claim, you won’t have to show that your illness is related to Agent Orange or that it began during—or got worse because of—your military service.
 
-[Apply for benefits](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 ### Get more information
 

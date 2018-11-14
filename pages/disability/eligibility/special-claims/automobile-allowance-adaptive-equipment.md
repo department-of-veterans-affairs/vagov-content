@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA Automobile Allowance and Adaptive Equipment
 display_title: Auto Allowance and Adaptive Equipment
+description: Find out if you can get a VA automobile allowance if you're a Veteran living with a service-connected disability that prevents you from driving. Our automotive adaptive-equipment grants can help you buy or update a vehicle with special features that enable you to drive. Learn how to file a claim.
 concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -49,10 +50,10 @@ You may be able to get disability benefits if you have a disability that’s rel
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits and get our approval **before** buying a vehicle or adaptive equipment. You can apply for—and use—either grant before or after military discharge. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation and get our approval **before** buying a vehicle or adaptive equipment. You can apply for—and use—either grant before or after military discharge. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-When you apply, you’ll need to show that your disability is service connected or treated as if service connected under 38 U.S.C. 1151. <br>
+When you file, you’ll need to show that your disability is service connected or treated as if service connected under 38 U.S.C. 1151. <br>
 [Learn more about 38 U.S.C. 1151](/disability/eligibility/special-claims/1151-claims-title-38/).
 <br>
 

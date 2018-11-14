@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Housing Assistance
 display_title: Housing
+description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veterans housing assistance, including VA-backed home loans and grants for Veterans with service-connected disabilities. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.
 concurrence: complete
 lastupdate:
 order: 1
@@ -170,12 +171,8 @@ We offer many programs and services that may help—including free health care a
 [Find the nearest VA medical center](/find-locations/?facilityType=health).
 
 **Talk with someone right now:**
-
-Whatever you’re struggling with—homelessness, chronic pain, anxiety, depression, trouble sleeping, or anger—we can support you, day or night.<br>
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">
-Chat online with a trained VA staff member
-</a>
-
+      <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
    </div>
   </div>
  </div>

@@ -9,6 +9,16 @@ order: 1
 hub: careers
 aliases:
   - /employment/
+  - /employment/employers/support-veteran-employees/
+  - /employment/job-seekers/
+  - /job-seekers/alternative/
+  - /job-seekers/career-fairs/
+  - /job-seekers/create-resume/
+  - /job-seekers/employment-support/
+  - /job-seekers/federal-employment/
+  - /job-seekers/interest-profiler/
+  - /job-seekers/less-than-one-year/
+  - /job-seekers/military-transcripts/
 promo:
   - image: /img/megamenu/careers-employment-illustration.png
     heading: VA for Vets
@@ -136,7 +146,7 @@ hublinks:
         to civilian jobs, and access other career resources.
       external: true
       target: _blank
-    - url: https://localhost/jobs/?utm_source=jobs_button&utm_campaign=ChooseVA_Website_Buttons
+    - url: https://www.va.gov/jobs/
       label: Find VA Careers and Support
       description: Get support for starting or advancing your career at VA or other
         federal government departments.
@@ -215,8 +225,8 @@ We can support you in all stages of your job search—from returning to work wit
             <a href="https://www.va.gov/homeless/cec-contacts.asp">Find a Community Employment Coordinator (CEC) in your area</a>.</li>
         </ul>
         <p><b>Talk with someone right now:</b>
-        <p>Whatever you’re struggling with—homelessness, chronic pain, anxiety, depression, trouble sleeping, or anger—we can support you, day or night.</p>
-        <a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat" class="no-external-icon" >Chat online with a trained VA staff member</a>.</p>
+      <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
+      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
       </div>
     </div>
   </div>
@@ -230,123 +240,3 @@ We can support you in all stages of your job search—from returning to work wit
       document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
     });
 </script>
-
-<section class='usa-grid'>
-  <div class="va-h-ruled--stars"></div>
-</section>
-
-<section id="get" class="merger-majorlinks">
-
-  <h2>Get Career and Employment Assistance</h2>
-
-  <div class="link">
-    <a href="/careers-employment/vocational-rehabilitation/programs/"><b>About Vocational Rehabilitation and Employment (Chapter 31) Programs</b></a>
-    <p>Explore support-and-services program tracks for Veterans and Servicemembers with service-connected disabilities. Our programs can help you learn new skills, find a new job, start a new business, get educational counseling, or return to your former job.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/vocational-rehabilitation/eligibility/"><b>Eligibility</b></a>
-    <p>If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you're eligible for vocational rehab.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/vocational-rehabilitation/how-to-apply/"><b>How to Apply</b></a>
-    <p>Get step-by-step instructions on how to apply for voc rehab benefits.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/education-and-career-counseling/"><b>Educational and Career Counseling (Chapter 36)</b></a>
-    <p>Find out how to get free educational and career counseling as a recently discharged Veteran or a dependent family member. </p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/veteran-owned-business-support/"><b>Support for Your Veteran-Owned Small Business</b></a>
-    <p>Register to do business with VA and get support for your Veteran-owned small business.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/dependent-benefits/"><b>Support for Dependent Family Members</b></a>
-    <p>See if you're eligible for educational and vocational counseling as the dependent spouse or child of a Veteran or Servicemember.</p>
-  </div>
-
-</section>
-
-<section class='usa-grid'>
-  <div class="va-h-ruled--stars"></div>
-</section>
-
-<section id="manage" class="merger-majorlinks">
-
-  <h2>Manage Your Career</h2>
-
-  <div class="link">
-    <a href="https://www.benefits.va.gov/tap/"><b>VA Transition Assistance</b></a>
-    <p>As you separate from the military, explore your career options by attending a Transition Assistance Program (TAP) briefing.</p>
-    </div>
-
-  <div class="link">
-    <a href="/careers-employment/careerscope-skills-assessment/"><b>Match Your Interests and Skills to a Career with a CareerScope Assessment</b></a>
-    <p>Use this online tool to get recommendations for careers you may enjoy and succeed in, and training programs to help you get started.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://dol.gov/veterans/findajob/" target="_blank" rel="noopener"><b>Find a Job (Department of Labor)</b></a>
-    <p>Search for jobs, get help translating your military skills and experience to civilian jobs, and access other career resources.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.va.gov/jobs/?utm_source=jobs_button&utm_campaign=ChooseVA_Website_Buttons"><b>Find VA Careers and Support</b></a>
-    <p>Get support for starting or advancing your career at VA or other federal government departments.</p>
-  </div>
-
-  <div class="link">
-    <a href="/records/download-va-letters/"><b>Print Your Civil Service Preference Letter</b></a>
-    <p>Print your Civil Service Preference Letter to verify your hiring preference for federal jobs.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://linkedinforgood.linkedin.com/programs/veterans" target="_blank" rel="noopener"><b>Get Free Classes for a Year (LinkedIn)</b></a>
-    <p>Get 1 year of free access to LinkedIn Premium and LinkedIn Learning.</p>
-  </div>
-
-</section>
-
-<section class='usa-grid'>
-  <div class="va-h-ruled--stars"></div>
-</section>
-
-<section id="more" class="merger-majorlinks">
-
-  <h2>More Information and Resources</h2>
-
-  <div class="link">
-    <a href="https://benefits.va.gov/VOCREHAB/subsistence_allowance_rates.asp"><b>Subsistence Allowance Rates</b></a>
-    <p>View the current subsistence allowance rates to find out the amount we'll provide to help you pay for basic needs (like food and clothing) if you're an eligible Veteran participating in the Voc Rehab program.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/vetsuccess-on-campus/"><b>VetSuccess on Campus</b></a>
-    <p>Find out if our counselors can help you transition from military to college life.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.benefits.va.gov/vocrehab/program_definitions.asp"><b>Vocational Rehabilitation Programs for Veterans and Servicemembers</b></a>
-    <p>Explore our support-and-services tracks for help learning new skills, finding a job, starting a business, getting educational counseling, or returning to your former job.</p>
-  </div>
-
-  <div class="link">
-    <a href="https://www.benefits.va.gov/vocrehab/success_stories.asp"><b>Voc Rehab Success Stories</b></a>
-    <p>Read Veterans' stories of how Voc Rehab counselors and services helped them overcome challenges, find new opportunities, and achieve greater goals.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/veteran-resources/"><b>Resources for Veterans</b></a>
-    <p>Get links to more resources outside of VA that can help you in your job search.</p>
-  </div>
-
-  <div class="link">
-    <a href="/careers-employment/family-resources/"><b>Resources for Family Members</b></a>
-    <p>Access valuable career resources for spouses and other family members of Veterans and Servicemembers.</p>
-  </div>
-
-</section>
