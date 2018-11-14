@@ -43,7 +43,6 @@ You may be eligible for the maximum benefit rate under the Post-9/11 GI Bill at 
 - Served at least 36 months on active duty (either all at once or total over separate time periods)
 - Received a Purple Heart and were honorably discharged after any amount of service
 - Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were discharged after 60 days with a service-connected disability
-- Are the dependent child using benefits transferred by a Veteran
 - Are the dependent child using benefits transferred by a Servicemember who has served for at least 36 months on active duty and qualifies at the 100% level
 
 **Note:** At this time, you're not eligible if you're an active-duty Servicemember or the spouse of an active-duty Servicemember. But, as of August 1, 2022, you may become eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty Servicemember who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty Servicemember who qualifies at the 100% level.
@@ -56,7 +55,7 @@ You may be eligible for the maximum benefit rate under the Post-9/11 GI Bill at 
 <h2 itemprop="name">What benefits can I get?</h2>
 <div itemprop="itemListElement">
 
-Money to help pay for the higher cost of tuition at a private school or for attendance as a nonresident student at a public school
+Money to help pay for the higher cost of tuition at a private school or for attendance as a nonresident student at a public school. If you qualify, your school will contribute a certain amount toward your extra tuition and fees through a grant, scholarship, or similar program. We'll match the contribution.
 
 </div>
 </div>
@@ -141,6 +140,21 @@ This depends on the school. Schools can choose to offer different amounts to stu
 school also could provide $1,800 for students in the school of engineering and $2,500 for students in the school of nursing.
 
 </div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">Can you give me an example of how the Yellow Ribbon Program works?</button>
+<div id="questions-risk" class="usa-accordion-content">
+  
+Yes. Let's say you're attending a public school as an out-of-state student. 
+
+The school charges $10,000 per year for in-state tuition and fees, but $16,000 per year for out-of-state tuition and fees.
+
+We'll pay the in-state costs of $10,000 under the Post-9/11 GI Bill. But you'll need to pay the extra $6,000 for out-of-state costs.
+
+If you qualify for the Yellow Ribbon Program, you can get some or all of that extra amount paid. We'll match the amount your school contributes to the program. So if your school offers $3,000 in Yellow Ribbon contributions, we'll also pay $3,000 to the
+school, and your full amount will be paid. If your school offers $2,000 in Yellow Ribbon contributions, we'll pay $2,000 to your
+school, and you'll need to pay the remaining $2,000.
+
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">If I participate in the Yellow Ribbon Program this year, will I automatically be in the program next year?</button>
