@@ -3,11 +3,13 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Health Care
 display_title: Health Care
-description: VA health care offers access to primary and specialty care, including home health, geriatric (elder), women's health, and mental health care. Find out how to apply for and manage the Veterans health care benefits you've earned.
+description: Learn how to apply for and manage VA health care benefits for Veterans. We offer primary and specialty Veterans health care services, including home health, geriatric (elder), women's health, and mental health care, as well as prescriptions.
 concurrence:
 lastupdate:
 order: 1
 hub: health-care
+aliases:
+  - /health-care/medical-information-terms-conditions/
 promo:
   - image: /img/megamenu/health-care-illustration.png
     heading: VA Telehealth Services

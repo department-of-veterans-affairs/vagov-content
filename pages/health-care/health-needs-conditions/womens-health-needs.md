@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Women’s Health Care Needs
+description: Learn about VA women's health care services. Find out how to get care for women Veterans, including wellness and preventive care, maternity care, and treatment and support for other women's health issues.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 7

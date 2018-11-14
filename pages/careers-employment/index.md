@@ -9,6 +9,16 @@ order: 1
 hub: careers
 aliases:
   - /employment/
+  - /employment/employers/support-veteran-employees/
+  - /employment/job-seekers/
+  - /job-seekers/alternative/
+  - /job-seekers/career-fairs/
+  - /job-seekers/create-resume/
+  - /job-seekers/employment-support/
+  - /job-seekers/federal-employment/
+  - /job-seekers/interest-profiler/
+  - /job-seekers/less-than-one-year/
+  - /job-seekers/military-transcripts/
 promo:
   - image: /img/megamenu/careers-employment-illustration.png
     heading: VA for Vets
@@ -136,7 +146,7 @@ hublinks:
         to civilian jobs, and access other career resources.
       external: true
       target: _blank
-    - url: https://localhost/jobs/?utm_source=jobs_button&utm_campaign=ChooseVA_Website_Buttons
+    - url: https://www.va.gov/jobs/
       label: Find VA Careers and Support
       description: Get support for starting or advancing your career at VA or other
         federal government departments.

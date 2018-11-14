@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: The Affordable Care Act and Your Health Coverage
 display_title: Affordable Care Act
+description: Learn about the Affordable Care Act (ACA) and VA health care. Find out how the ACA may affect health care for Veterans and their families.
 collection: healthCare
 lastupdate: 2018-02-13
 spoke: More Resources

@@ -3,12 +3,12 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How to Apply for VA Health Care
 display_title: How to Apply
+description: Find out what documents you'll need to apply for VA health care benefits. Get instructions for completing your VA health care enrollment online or by phone, fax, or mail.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 lastupdate: 2018-10-17
 collection: healthCare
 spoke: Get Benefits
 order: 3
-description: Find out what documents you'll need to apply for VA health care benefits. Apply online for VA health care benefits today.
 aliases:
   - /health-care/apply
 widgets:

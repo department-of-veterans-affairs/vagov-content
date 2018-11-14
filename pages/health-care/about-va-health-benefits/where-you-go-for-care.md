@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Where You'll Go for Care
 display_title:
-description: Find out where you'll get care through VA after you sign up. Health care settings may include a VA medical center, a community clinic, or a Vet center. 
+description: Learn about where you'll go for care through VA, including your nearest VA medical center, VA clinic, and Vet Center. Find out what to do if you need to get emergency care from a non-VA facility, if you live in a rural location far from a VA health facility, or if you need care while traveling.
 concurrence: complete
 lastupdate: 2018-01-09
 order: 2

@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: What to Expect after You Get a Disability Rating
 display_title: After You Get a Rating
-description: After you receive your VA disability rating, find out when you'll get your first VA disability check (sometimes called "VA disability back pay") and what to do if you disagree with your rating.
+description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 aliases:
@@ -67,7 +67,7 @@ If you disagree with your disability rating, you can file an appeal. You’ll ne
 - **For Education Benefits:** You can get VA support for college or job training under special programs. Or, talk with a VA education counselor to find out what benefits you may be able to get. <br>
 [Learn about education benefits](/education/).
 - **For Dependent Benefits:** If you’re 30% or more disabled due to a disability caused by service in the military, you can get financial support and benefits for your qualified dependents.<br>
-[Learn more about adding dependents to your disability benefits](https://preview.va.gov/disability/add-remove-dependent/).
+[Learn more about adding dependents to your disability benefits](/disability/add-remove-dependent/).
 - **For Other Benefits:** Check with your local or state VA offices for other benefits you may be able to get—like help with buying a home or making changes to your home to make it more accessible, or help with getting a job. <br>
 [Find your state's Veterans Affairs website](https://www.va.gov/statedva.htm).
 

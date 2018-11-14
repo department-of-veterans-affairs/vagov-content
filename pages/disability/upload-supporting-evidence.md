@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Upload Evidence to Support Your Claim
 display_title: Upload Evidence to Support Your Claim
-description:
+description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
 collection:
 order: 5
@@ -30,8 +30,6 @@ You can upload evidence to support your claim through our claim tracking tool. T
 </div>
 </div>
 </div>
-</div>
-
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -46,7 +44,6 @@ You can continue uploading documents for up to one year from the date we receive
 If we decide your claim early, you’ll still have the rest of the one-year period to provide more information or evidence. </div>
 </div>
 </div>
-</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -57,7 +54,6 @@ If we decide your claim early, you’ll still have the rest of the one-year peri
 We’ll remove your claim from the Fully Developed Claims program and process it as a standard claim.
 
 If we decide your claim earlier than one year from the date we received the claim, you’ll still have the rest of the year to provide any additional information or evidence.
-</div>
 </div>
 </div>
 
@@ -119,11 +115,11 @@ In some cases, you may need to turn in one or more supplemental forms to support
 <div itemprop="text">
 
 No. You can only upload evidence to support your initial claim. <br>
-[Learn more about filing an appeal](https://preview.va.gov/disability/file-an-appeal/).
+[Learn more about filing an appeal](/disability/file-an-appeal/).
 
 </div>
 </div>
 </div>
-
+</div>
 
 <br/>

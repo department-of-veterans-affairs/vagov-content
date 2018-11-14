@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA Fully Developed Claims Program
 display_title: Fully Developed Claims
+description: Find out how to file a fully developed claim to get a faster decision on your VA disability compensation claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
 children: disabilityFullyDevelopedClaims
 plainlanguage: 
 template: detail-page

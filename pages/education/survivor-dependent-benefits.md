@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Education Benefits for Survivors and Dependents
 display_title: Survivor and Dependent Benefits
+description: Find out if you're eligible and how to apply for GI Bill and other VA education benefits for dependents and survivors. You can also compare the benefits offered through the Survivors' and Dependents' Educational Assistance (DEA) program and the Fry Scholarship.
 concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 children: educationGIBillSurvivors

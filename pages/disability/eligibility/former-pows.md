@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Disability Benefits for Former Prisoners of War (POWs)
 display_title: Former POWs
+description: Learn about VA disability compensation and other benefits for former Prisoners of War (POWs). Learn which conditions these benefits cover and how to file your claim.
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-pow.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act

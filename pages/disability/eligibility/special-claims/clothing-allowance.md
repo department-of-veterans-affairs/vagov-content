@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA Clothing Allowance for Veterans with Certain Disabilities
 display_title: Clothing Allowance
-description: Find out if you qualify for a VA clothing allowance if your clothing has been damaged because of a skin medicine or medical device you need for a service-connected condition.
+description: Find out if you can get a VA clothing allowance to replace clothing damaged by your prosthetic or orthopedic device or by certain medicines. To get a yearly payment, you'll need to qualify by August 1 of each year. Learn more about rates and how to file a claim.
 concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
