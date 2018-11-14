@@ -2,12 +2,12 @@
 layout: page-breadcrumbs.html
 title: Disability Compensation Effective Date
 display_title: Effective Dates
-description: Learn how we decide the effective date, or the date you'll start getting VA disability compensation (sometimes called "VA disability back pay").
+description: Learn about the VA disability compensation effective date, which is the date we receive your claim or the date you were first injured or first fell ill. Once we decide your claim, you may qualify to receive disability back pay to the compensation effective date.
 concurrence: complete
 order: 1
 plainlanguage: 11-9-16 certified in compliance with the Plain Writing Act
 template: detail-page
-relatedlinks: 
+relatedlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
@@ -15,7 +15,7 @@ relatedlinks:
       description: "File a fully developed claim and get a faster decision on your disability benefits claim."
     - url: /disability/how-to-file-claim/
       title: How to Apply for Disability Benefits
-      description: "Apply online now, or find out how to apply in person, by mail, or with the help of a trained professional."
+      description: "Apply online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/get-help-filing-claim/
       title: Get Help Filing Your Claim
       description: "Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim."

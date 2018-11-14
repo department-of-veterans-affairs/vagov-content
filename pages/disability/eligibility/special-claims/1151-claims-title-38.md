@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA Title 38 U.S.C. 1151 Claims
 display_title: Title 38 U.S.C. 1151 Claims
+description: Find out if you can get compensation from VA for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -41,8 +42,8 @@ Compensation
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, you’ll have to show that the added disability happened because of VA medical care or a VA program designed to help you find, get, or keep a job. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that the added disability happened because of VA medical care or a VA program designed to help you find, get, or keep a job. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 We’ll award any compensation payments in the same way we would if your disability was related to your military service (a service-connected disability).
 

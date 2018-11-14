@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Health Needs and Conditions
 display_title:
-description: Find out if a specific health care condition or need is covered under VA health care benefits. Learn how to access services.
+description: Find out how to access VA health services for specific health needs and conditions. Learn about which Veterans health issues are covered and how to get help for your specific needs (like mental health problems, PTSD, or women's health needs).
 concurrence: complete
 lastupdate: 2018-10-17
 collection: healthCare

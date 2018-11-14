@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How to Apply for a Veterans Burial Allowance
 display_title: Burial Allowance
+description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
 order: 3
 spoke: Get Benefits
 collection: burials
@@ -89,9 +90,9 @@ Apply by mail using an Application for Burial Benefits (VA Form 21P-530). <br>
 [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
 
 Mail the application and other paperwork to your nearest VA regional benefit office. <br>
-[Find your nearest VA regional benefit office](/find-locations/).
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
-If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>). Our TTY number for people with hearing impairments is 711. Or call your regional benefit office.
+If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>). Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
 
 ------
 ## Burial Allowance Amounts

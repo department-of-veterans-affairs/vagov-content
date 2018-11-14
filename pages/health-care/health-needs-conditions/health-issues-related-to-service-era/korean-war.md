@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Korean War Veterans Health Issues
 display_title: Korean War
+description: Learn about diseases and other health issues that may affect Korean War Veterans. Find out what steps to take to care for your health and whether you may be eligible for VA health care and disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 6
