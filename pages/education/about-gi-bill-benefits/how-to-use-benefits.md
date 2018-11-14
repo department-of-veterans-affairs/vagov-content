@@ -8,6 +8,11 @@ children: educationHowToUseBenefits
 order: 4
 plainlanguage:
 concurrence:
+aliases:
+  - /education/work-learn/
+  - /education/work-learn/non-traditional/
+  - /education/tools-programs/
+  - /education/advanced-training-and-certifications/
 majorlinks:
   - heading: Work toward a Degree
     links:
