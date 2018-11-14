@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: View Your VA Lab and Test Results Online
 display_title: View Lab and Test Results
-description:
+description: View your VA test and lab results online with our My HealtheVet VA Labs + Tests tool. Find out if you're eligible to use this tool and how to sign in. You can also enter results from non-VA labs and tests to keep all your information in one place.
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare

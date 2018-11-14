@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Your VA Primary Care Provider and PACT Team
 display_title: Your Care Team
-description: Learn  about the VA health care providers on your VA health care team. Find out how to change your primary care provider and how to schedule an appointment.
+description: Learn about your VA primary care provider and other health care providers on your VA PACT team (patient aligned care team). Find out how to change your VA primary care provider and how to schedule an appointment.
 concurrence: complete
 lastupdate: 2018-01-09
 order: 1

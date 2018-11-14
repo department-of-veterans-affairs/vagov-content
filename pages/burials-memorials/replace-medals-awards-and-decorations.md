@@ -1,6 +1,6 @@
 ---
 title: Replace Medals, Awards, and Decorations
-href: https://www.cem.va.gov/recmed_records.asp
+href: https://www.archives.gov/veterans/replace-medals
 target: _blank
 order: 4
 collection: burials

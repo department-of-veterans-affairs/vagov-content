@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: File a VA Disability Appeal
 display_title: File an Appeal
-description: Learn about the VA appeals process--how to file an appeal, the average wait time for a decision, and how to track the status of your appeal.
+description: Learn about the VA appeals process and how to file a notice of disagreement to start an appeal if you disagree with our decision on your claim. Get answers to questions about the steps in the VA appeals timeline and find out how long it usually takes us to make a decision on an appeal.
 order: 3
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act

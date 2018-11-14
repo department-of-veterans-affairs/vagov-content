@@ -2,8 +2,7 @@
 layout: page-breadcrumbs.html
 title: File Supplemental Forms for Special Claims
 display_title: Supplemental Forms
-description: Download additional forms you may need to apply for some VA disability benefits.
-concurrence: Incomplete
+description: Find out if you'll need to turn in any supplemental forms when you file your VA disability claim.
 plainlanguage: 
 template: detail-page
 order: 3

@@ -2,6 +2,7 @@
 title: Veteran ID Card
 layout: page-react.html
 entryname: veteran-id-card
+hideFromSidebar: true
 ---
 <nav aria-label="Breadcrumb" aria-live="polite" class="va-nav-breadcrumbs"
 id="va-breadcrumbs">

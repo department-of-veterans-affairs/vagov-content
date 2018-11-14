@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Agent Orange Exposure While Serving in Vietnam or Korea
 display_title: Service in Vietnam or Korea
+description: If you served in Vietnam or in the Korean DMZ during the Vietnam Era, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -47,14 +48,14 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, you’ll have to show that you served in Vietnam (including aboard a ship on the inland waterways) or in the Korean Demilitarized Zone during the time periods listed above. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you served in Vietnam (including aboard a ship on the inland waterways) or in the Korean Demilitarized Zone during the time periods listed above. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship allows us to conclude that you had contact with Agent Orange. <br>
 [See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/list.asp).
 
-### Need help?
+### What if I need help filing my claim?
 
-Want to connect with a trained professional who can help you with VA-related claims? <br>
+You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 

@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Chemical and Biological Exposure Through Projects 112 or SHAD
 display_title: Project 112/SHAD
+description: If you were part of Project 112 or Project SHAD, you may be at risk for certain illnesses. Find out if you can get VA disability pay and other benefits. You can also learn more about certain test sites, ships, and units involved in this chemical and biological warfare testing from 1962 to 1974.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-project_112_shad.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -45,8 +46,8 @@ You may be able to get disability benefits if you meet both of the requirements 
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. You can call the VA Special Issues Helpline at <a href="tel:+18007498387">1-800-749-8387</a>. Or apply now for disability benefits. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. You can call the VA Special Issues Helpline at <a href="tel:+18007498387">1-800-749-8387</a>. Or you can file a claim online. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 If you were part of Projects 112 or SHAD from 1962 to 1974 and want to know more about a certain test site, ship, or unit, see the declassified Department of Defense fact sheets. <br>
 [Get declassified Department of Defense fact sheets]( http://www.health.mil/Military-Health-Topics/Health-Readiness/Environmental-Exposures/Project-112-SHAD/Fact-Sheets).

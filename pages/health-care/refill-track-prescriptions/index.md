@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Prescription Refill and Tracking
 display_title: Refill and Track Prescriptions
-description:
+description: Use our VA prescription refill tool to refill and track your VA prescriptions online. Find out if you're eligible to use this tool and how to sign in.
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare

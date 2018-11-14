@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Home Loan Types 
 display_title: Loan Types
+description: Learn about the different VA home loan types, including VA direct and VA-backed home loans to help you buy, build, repair, or refinance a home. 
 concurrence:
 children: housingVALoans
 order: 1
