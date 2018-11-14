@@ -23,30 +23,24 @@ If you need help paying for school or job training and you’ve served on active
 <div class="feature" markdown="0">
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Can I get education benefits?</h3>
+<h2 itemprop="name">Can I get Post-9/11 GI Bill benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can get education benefits if you meet both of the requirements listed below.
+You can get Post-9/11 GI Bill benefits if you meet at least one of the requirements listed below.
 
-**Both of these must be true:**
-- You qualify for any GI Bill program, **and**
-- You’ve served on active duty for at least 90 days—with or without a break in service—after September 10, 2001.
+**At least one of these must be true. You:**
 
-If you qualify for more than one VA education benefit, you’ll have to pick which one you want to use. This is an irrevocable decision, meaning you can’t change your mind.
+- Served at least 90 days on active duty (either all at once or total over separate time periods) after September 10, 2001
+- Received a Purple Heart and were honorably discharged after any amount of service
+- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were honorably discharged with a service-connected disability
+- Are the dependent child using benefits transferred by a qualifying Veteran or Servicemember
 
-</div>
-</div>
-</div>
+**Notes:**
 
-<div itemscope itemtype="http://schema.org/Question">
+**If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015,** you may qualify to receive restored benefits under the Post-9/11 Bill.
 
-<h3 itemprop="name">Who’s covered?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-- Veterans
-- Qualified dependents
+**If you qualify for more than one VA education benefit,** you’ll have to pick which one you want to use. This is an irrevocable decision, meaning you can’t change your mind.
 
 </div>
 </div>
@@ -58,14 +52,16 @@ If you qualify for more than one VA education benefit, you’ll have to pick whi
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Post-9/11 GI Bill benefits expire 15 years after your last separation date from active service. You must use all of your benefit by that time or you’ll lose whatever’s left.
+This depends on when you were discharged from active duty.
 
-**If your service ended on or after January 1, 2013:** There’s no time limit (known as a “delimiting date”) to use your education benefits. A recently enacted law gets rid of the expiration date for you. This change may not be reflected in some of the letters you receive from us. We're working to update our systems to support this change. We appreciate your patience as we make the updates to our systems. [Learn more about this and other new provisions from Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act.](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp)
-</div>
-</div>
-</div>
-</div>
+**If your service ended before January 1, 2013,** your Post-9/11 GI Bill benefits will expire 15 years after your last separation date from active service. You must use all of your benefit by that time or you’ll lose whatever’s left.
 
+**If your service ended on or after January 1, 2013,** your benefits won't expire thanks to a new law called the Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act. Some letters you receive from us may not yet reflect this change. Thank you for your patience as we work to update our systems.<br>
+[Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).
+
+</div>
+</div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
