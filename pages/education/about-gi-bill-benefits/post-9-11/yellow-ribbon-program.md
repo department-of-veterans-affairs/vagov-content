@@ -274,5 +274,3 @@ If the school still participates in the program, they must continue to offer fun
 </li>
 </ul>
 </div>
-
-<script type="text/javascript">
