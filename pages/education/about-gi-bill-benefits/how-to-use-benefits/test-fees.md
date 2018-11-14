@@ -87,9 +87,11 @@ We will pay you back for the approved tests listed below:
 For tests taken before August 1, 2018, if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. For national tests taken after August 1, 2018, we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
 </div>
 </li>
+</ul>
 
 ### How do I get this benefit?
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="licensing-certification-get-benefits">For Licensing and Certification</button>
   

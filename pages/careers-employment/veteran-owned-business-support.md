@@ -8,6 +8,9 @@ order: 5
 spoke: Get Benefits
 aliases:
   - /employment/job-seekers/register-your-business/
+  - /employment/job-seekers/service-disabled/
+  - /employment/job-seekers/skills-translator/
+  - /employment/job-seekers/unemployment-support/
 ---
 
 <div class="va-introtext">
