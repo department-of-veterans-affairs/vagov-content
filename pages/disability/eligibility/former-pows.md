@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Disability Benefits for Former Prisoners of War (POWs)
 display_title: Former POWs
+description: Learn about VA disability compensation and other benefits for former Prisoners of War (POWs). Learn which conditions these benefits cover and how to file your claim.
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-pow.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -83,5 +84,5 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to apply for benefits. When you apply, please include any documents that confirm you spent time as a POW. You’ll also need to include a doctor’s report stating that you have 1 or more of the conditions listed here—and that the condition is at least 10% disabling. <br>
-[Apply for benefits](/disability/how-to-file-claim/).
+You’ll need to file a claim for disability compensation. When you file, please include any documents that confirm you spent time as a POW. You’ll also need to include a doctor’s report stating that you have 1 or more of the conditions listed here—and that the condition is at least 10% disabling. <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).

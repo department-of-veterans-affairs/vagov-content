@@ -15,12 +15,12 @@ relatedlinks:
       description: "Find out what evidence we’ll need—and what your options are for gathering documents to support your claim."
     - url: /disability/how-to-file-claim/
       title: How to Apply for Disability Benefits
-      description: "Apply online now, or find out how to apply in person, by mail, or with the help of a trained professional."
+      description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge Claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities That Appear within 1 Year after Discharge
       description: "You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service."
 aliases:
   - /disability-benefits/apply/evidence/decision-ready-claims/

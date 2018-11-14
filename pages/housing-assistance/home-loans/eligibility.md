@@ -2,7 +2,8 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Eligibility Requirements for VA Home Loan Programs
-display_title: Eligibility 
+display_title: Eligibility
+description: Review eligibility requirements for VA home loan programs. Find out if you qualify for a Certificate of Eligibility (COE), which shows your lender that you qualify for a VA-backed home loan. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 concurrence:
 order: 2
 relatedlinks:

@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Operation Enduring Freedom Veterans Health Issues
 display_title: Operation Enduring Freedom
-description: Learn what health conditions you might be at risk of developing if you served in Afghanistan during Operation Enduring Freedom.  Find out what to do next to take care of your health.
+description: If you're a Veteran of Operation Enduring Freedom (OEF) in Afghanistan, learn about health issues that may be related to your service. Find out what steps to take to care for your health and whether you may be eligible for VA health care and disability compensation.
 concurrence: complete
 lastupdate: 2017-06-28
 order: 1

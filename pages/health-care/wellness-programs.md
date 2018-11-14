@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Veterans Programs for Health and Wellness
 display_title: Wellness Programs
+description: Learn about Veterans programs for health and wellness. Get help through VA programs to quit tobacco use, prevent disease, manage your weight, and maintain your mental health.
 lastupdate: 2018-08-22
 template: detail-page
 collection: healthCare

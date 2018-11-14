@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Upload Evidence to Support Your Claim
 display_title: Upload Evidence to Support Your Claim
-description:
+description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
 collection:
 order: 5
@@ -17,13 +17,18 @@ If you’ve filed a claim for disability compensation, you can continue uploadin
 
 </div>
 
-<div class="va-sign-in-alert usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to upload evidence.</h4> <br>
-    <p class="usa-alert-text"> To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" target="_blank" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status">Go to eBenefits to Upload Evidence</a>
-    </p>
-  </div>
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">How do I upload evidence online to support my claim?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You can upload evidence to support your claim through our claim tracking tool. This tool also helps you check the status of your claim. <br>
+
+[Find out how to sign in to use this tool](/claim-or-appeal-status).
+
+</div>
+</div>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
@@ -39,7 +44,6 @@ You can continue uploading documents for up to one year from the date we receive
 If we decide your claim early, you’ll still have the rest of the one-year period to provide more information or evidence. </div>
 </div>
 </div>
-</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -50,7 +54,6 @@ If we decide your claim early, you’ll still have the rest of the one-year peri
 We’ll remove your claim from the Fully Developed Claims program and process it as a standard claim.
 
 If we decide your claim earlier than one year from the date we received the claim, you’ll still have the rest of the year to provide any additional information or evidence.
-</div>
 </div>
 </div>
 
@@ -112,11 +115,11 @@ In some cases, you may need to turn in one or more supplemental forms to support
 <div itemprop="text">
 
 No. You can only upload evidence to support your initial claim. <br>
-[Learn more about filing an appeal](https://preview.va.gov/disability/file-an-appeal/).
+[Learn more about filing an appeal](/disability/file-an-appeal/).
 
 </div>
 </div>
 </div>
-
+</div>
 
 <br/>
