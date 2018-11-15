@@ -23,7 +23,7 @@ You can take part in our work-study program if you meet all of the requirements 
 
 **All of these must be true. You:**
 
-  - Are enrolled at least three-quarter time at a college, university, vocational or professional school, or other institution of higher learning, **and**
+  - Are enrolled at least three-quarter time in a college degree, vocational, or professional program, **and**
   - Have found an open job either at a nearby VA facility or in a VA-related role at your school, **and**
   - Can finish the work-study contract while you still qualify for education benefits, **and**
   - Are using an approved VA education benefits program to pay for your education or training
