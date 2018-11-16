@@ -19,28 +19,50 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits under this program?
+## Can I get education benefits under this program?
 You can get education benefits if you meet the requirements listed below.
 
 **One of these must be true:**
 - You have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
 - You’re an officer in the Selected Reserve and you agreed to serve 6 years in addition to your initial service obligation
 
+**Note:** Your obligation must have started after June 30, 1985, or for some types of training after September 30, 1990.
+
 **And all of these must also be true. You:**
 - Finish your initial active duty for training (IADT), **and**
-- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT, **and**
+- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use your benefits to meet this requirement), **and**
 - Stay in good standing while serving in an active Selected Reserve unit.
+
+**What you should know about eligibility:**
+- You're still eligible if you were discharged from Selected Reserve service due to a disability, as long as the disability wasn't caused by misconduct.
+- If you're ordered to active duty, we may extend your period of eligibility.
+
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
-You may get up to $368 per month in compensation (payments).
+You may get up to $384 per month in compensation (payments) for up to 36 months.
+[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
-### How do I get these benefits?
+------
 
+## How do I get these benefits?
+
+First, get the Notice of Basic Eligibility (DD Form 2384-1) from your unit. Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify your eligibility.
+
+Then, make we've approved your selected training program. If you're not sure, we can explain the requirements to you and your school or employer.
+
+Next, apply online for the MGIB-SR program.
 [Apply online now](/education/apply-for-education-benefits/application/1990/).
 
-### How can I use my MGIB-SR education benefits?
+You can also apply by mail, in person, or with the help of a trained professional.
+[Learn more about how to apply online](/education/how-to-apply/).
+
+## What if I already started training?
+
+You'll need to fill out a copy of the Application for Education Benefits (VA Form 22-1990). Take this form and your Notice of Basic Eligibility (DD Form 2384-1) to your school or employer. Ask them to complete VA Form 22-1999 and send all forms to us.
+
+## How can I use my MGIB-SR education benefits?
 
 You can use your benefits in many ways to advance your education and training.
 
@@ -50,7 +72,7 @@ You can use your benefits in many ways to advance your education and training.
 - [Vocational/technical training and non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
 - [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
 - [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [High-tech training if you're a Reservist in a non-degree educational program that lasts two years or less](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
+- [High-tech training if you're in a non-degree educational program that lasts 2 years or less](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
 - [Correspondence courses](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
 - [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
 
