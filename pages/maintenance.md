@@ -18,7 +18,7 @@ private: true
       </div>
     </div>
   </div>
-   {% include va-gov/includes/common-and-popular.html %}
+   {% include src/site/includes/common-and-popular.html %}
 </div>
 
 <!-- Maintenance Page End -->
