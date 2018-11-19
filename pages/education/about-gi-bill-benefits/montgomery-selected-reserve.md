@@ -20,7 +20,7 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 <div class="feature" markdown="1">
 
 ## Can I get education benefits under this program?
-You can get education benefits if you meet the requirements listed below.
+You can get education benefits if you meet the requirements listed below. 
 
 **One of these must be true:**
 - You have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
@@ -30,12 +30,14 @@ You can get education benefits if you meet the requirements listed below.
 
 **And all of these must also be true. You:**
 - Finish your initial active duty for training (IADT), **and**
-- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use your benefits to meet this requirement), **and**
+- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use 12 hours of college to meet this requirement), **and**
 - Stay in good standing while serving in an active Selected Reserve unit.
 
 **What you should know about eligibility:**
+- You remain eligible for 14 years from the date of your first 6-year obligation.
 - You're still eligible if you were discharged from Selected Reserve service due to a disability, as long as the disability wasn't caused by misconduct.
-- If you're ordered to active duty, we may extend your period of eligibility.
+- If you're ordered to active duty, we may extend your period of eligibility by the amount of time you were mobilized plus 4 months.
+- If your unit was deactivated between October 1, 2007 and September 30, 2014, you'll keep your original period of eligibility.
 
 </div>
 
@@ -89,8 +91,7 @@ You can use your benefits in many ways to advance your education and training.
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
-
-### Get more information
+## Get more information
 - [Ask questions on the GI Bill customer service page](http://gibill.custhelp.com/). You can also search frequently asked questions.
 - Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>) or TDD/TTY <a href="tel:18008778339">1-800-877-8339</a>.
 
