@@ -37,16 +37,21 @@ Money for tuition
 
 ## How do I get this benefit?
 
-You’ll need to apply. <br>
-[Apply for benefits](/education/how-to-apply/).
+First, make sure we've approved your selected program. If you have questions, we can help you and your school understand the requirements. 
+
+Then, fill out an Application for VA education Benefits (VA Form 22-1990). You’ll need to apply. <br>
+[Apply for education benefits online now](/education/apply-for-education-benefits/application/1990/introduction).
+
+You can also apply by mail, in person, or with the help of a trained professional. <br>
+[Learn more about how to apply for education benefits](/education/how-to-apply/).
 
 ### If you're on active duty
 
-You'll need to have Education Services Officer approve your enromment, and your Commanding Officer verify your service.
+You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.
 
 ### If you've started training
 
-Take your application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us.
+Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us.
 
 ## What’s covered under VEAP education benefits?
 
@@ -83,5 +88,12 @@ To ask for a refund, complete an Application for Refund of Educational Contribut
 Send the form to your nearest VA regional benefit office. <br>
 [Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
-## Get more information
-[Read the VEAP pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch32_pamphlet.pdf).
+## Am I eligible for these benefits through the Educational Assistance Pilot Program?
+
+You may be eligible for this program if you meet all of the requirements listed below.
+
+**All of these must be true. You:**
+
+- Enlisted between Dec. 1, 1980, and Sept. 30, 1981, **and**
+- Enlisted in one of the following Air Force Specialties: 20723, 20731, 20830, 46130, 46230A, B, C, D, E, F, G, H, J, or Z, 46430, 81130, **and**
+- Enlisted at one of the following locations: Beckley, W.V.; Buffalo, N.Y.; Dallas ; Fargo, N.D.; Houston ; Jackson, Miss. ; Louisville, K y.; Memphis, T enn.; Omaha, Neb .; Philadelphia ; Seattle ; Sioux Falls, S.D.; Syracuse, N.Y.
