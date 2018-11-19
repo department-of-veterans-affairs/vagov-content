@@ -55,29 +55,32 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
 </div>
 
-<div class="usa-accordion">
-<ul class="usa-unstyled-list">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">Obtener instrucciones de aplicación en español.</button>
-<div id="questions-risk" class="usa-accordion-content">
-
-Complete una solicitud de beneficios de salud (formulario 10-10EZ de VA).
-[Descargar el formulario VA 10-10EZ](https://www.va.gov/vaforms/medical/pdf/10-10EZ_Spanish.pdf).
-
-**Para aplicar por correo**, llene la solicitud de beneficios de salud (VA Form 10-10 EZ), envía tu solicitud aquí: 
-
-<p class="va-address-block">
-Health Eligibility Center<br>
-2957 Clairmont Rd., Suite 200<br>
-Atlanta, GA 30329
-</p>
-
-**Para aplicar en persona**, diríjase a un centro medico o clinica VA cerca de usted. Lleve la solicitud de beneficios de salud (VA Form 10-10EZ). <br>
-[Busque un centro médico o clínica VA cerca de usted](/find-locations/?facilityType=health).
-
-</div>
-</li>
-</ul>
+<div class="form-expanding-group">
+  <button type="button" class="additional-info-button va-button-link" aria-controls="tooltip-1">
+    <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.
+      <i class="fa fa-angle-down"></i>
+    </span>
+  </button>
+  <span id="tooltip-1">
+    <div class="additional-info-content">
+      <p>Llene la solicitud para Beneficions de Salud (Forma 10010EZ).</p>
+      <p>[Obtenga la Forma VA 10-10EZ](https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf).</p>
+      <p>Usted o alguien con poder legal para representarlo tiene que firmar la forma, e incluir la fecha en que fué firmada.</p>
+      <ul>
+        <li><b>Si esta usando un poder legal</b>, tendra que incluir una copia de la forma con su solicitud.</li>
+        <li><b>Si firma con una X</b>, 2 personas que usted conoce tienen que tambien firmar acertando que lo vieron firmar la forma.</li>
+      </ul>
+      <p><b>Puede mandar su solicitud por correo a esta dirección:</b></p>
+      <p class="va-address-block">
+        Health Eligibility Center<br>
+        2957 Clairmont Rd., Suite 200<br>
+        Atlanta, GA 30329</p>
+      <p><b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:</p>
+      <p>[Encuentre el Centro o Clínica de Veteranos mas cercano a usted](\find-locations\%3ffacilityType=health).</p>
+      <p>O reciba ayuda por medio del Departmaneto de Veteranos de su estado.</p>
+      <p>[Encuentre el Departamento de Veteranos de su estado](https://www.va.gov/statedva.htm).</p>
+    </div>
+  </span>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
