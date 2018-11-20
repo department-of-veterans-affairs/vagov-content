@@ -84,7 +84,7 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
 #### How to change your beneficiaries—or to reduce, turn down, or restore SGLI coverage
 
-**If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard or National Oceanic and Atmospheric Administration** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
+**If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
 <ol class="process" markdown="1">
   <li class="process-step list-one">
