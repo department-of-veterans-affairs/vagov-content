@@ -16,10 +16,10 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 
 </div>
 
-
 <div class="feature" markdown="1">
 
 ## Can I get education benefits under this program?
+
 You can get education benefits if you meet the requirements listed below. 
 
 **One of these must be true:**
@@ -30,39 +30,83 @@ You can get education benefits if you meet the requirements listed below.
 
 **And all of these must also be true. You:**
 - Finish your initial active duty for training (IADT), **and**
-- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use 12 hours of college to meet this requirement), **and**
+- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
 - Stay in good standing while serving in an active Selected Reserve unit.
 
-**What you should know about eligibility:**
-- You remain eligible for 14 years from the date of your first 6-year obligation.
-- You're still eligible if you were discharged from Selected Reserve service due to a disability, as long as the disability wasn't caused by misconduct.
-- If you're ordered to active duty, we may extend your period of eligibility by the amount of time you were mobilized plus 4 months.
-- If your unit was deactivated between October 1, 2007 and September 30, 2014, you'll keep your original period of eligibility.
+## Can I receive MGIB-SR benefits after I leave the Selected Reserve?
+
+You can receive Your eligibility for this program usually ends the day you leave the Selected Reserve. But there are exceptions to this rule.
+
+You can still qualify for MGIB-SR benefits for 10 years from the date of your first 6-year oblication (if you signed up before October 1, 1992) or 14 years from the date of your first 6-year obligation (if you signed up after October 1, 1992) if you meet either of the requirements listed below.
+
+**At least one of these must be true:**
+- You separated because of a disability, as long as that disability wasn't caused by misconduct, **or**
+- Your unit was deactivated between October 1, 2007 and September 30, 2014, **or**
+- You were involuntarily separated for reasons other than misconduct between October 1, 2007 and September 30, 2014
+
+## How does the MGIB-SR work with the MGIB-Active Duty (MGIB-AD)?
+
+- If you enter Active Guard and Reserve (AGR) status, we'll suspend your eligibility for MGIB-SR. You can qualify again if you return to the Selected Reserve within a year of when your AGR status ends. You may qualify for MGIB-Active Duty (MGIB-AD) based on your AGR status.
+- If you elected to have your total service in the Selected Reserve credited toward your eligibility for the MGIB-AD "2 x 4" program, you don't qualify for MGIB-SR. This program allows you to qualify for the MGIB-AD with 2 years of active duty service without a break plus a 4-year Selected Reserve obligation as long as you enter the Selected Reserve within a year of release from active duty.
+- If you qualify for MGIB-AD and then sign up for another 6 years in the Selected Reserve, you can qualify for both MGIB-AD and MGID-SR.<br>
+[Learn more about the MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty).
 
 </div>
 
 ## What benefits can I get?
 
-You may get up to $384 per month in compensation (payments) for up to 36 months.
+You can get up to $384 per month in compensation (payments) for up to 36 months.
 [View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
 ------
 
 ## How do I get these benefits?
 
-First, get the Notice of Basic Eligibility (DD Form 2384-1) from your unit. Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify your eligibility.
+Follow the steps below to apply for these benefits.
 
-Then, make we've approved your selected training program. If you're not sure, we can explain the requirements to you and your school or employer.
-
-Next, apply online for the MGIB-SR program.
-[Apply online now](/education/apply-for-education-benefits/application/1990/).
-
-You can also apply by mail, in person, or with the help of a trained professional.
-[Learn more about how to apply online](/education/how-to-apply/).
-
-## What if I already started training?
-
-You'll need to fill out a copy of the Application for Education Benefits (VA Form 22-1990). Take this form and your Notice of Basic Eligibility (DD Form 2384-1) to your school or employer. Ask them to complete VA Form 22-1999 and send all forms to us.
+<ol class="process">
+  <li class="process-step list-one">
+    ### Get your Notice of Basic Eligibility (DD Form 2384-1) from your unit
+    Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify your eligibility.
+    </li>
+  <li class="process-step list-two">
+    ### Make sure we've approved your selected training program.
+    If you're not sure, we can help explain the requirements to you and your school. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: <a href="tel:18008778339">1-800-877-8339</a>.
+  </li>
+  <li class="process-step list-three">
+    ### Apply for the MGIB-SR program
+    #### If you haven't started training
+    Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
+    [Apply online now](/education/apply-for-education-benefits/application/1990/). 
+    **You can also apply:**
+    **By mail**
+    Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
+    [Download VA Form 22-1990])(https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf).
+    Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
+    [Find your VA regional processing office](https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550).
+    **In person**
+    Go to a VA regional benefit office and have a VA employee help you. Bring a copy of your VA Form 22-1990 with you.<br>
+    [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
+    Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
+    **With the help of a trained professional**
+    You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
+    [Get help filing your claim](/disability/get-help-filing-claim/).
+    #### If you already started training
+    Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
+    [Download VA Form 22-1990])(https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf).
+    Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.
+  </li>
+   <li class="process-step list-three">
+     ### Certify your enrollment
+     The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.</li>
+  <li class="process-step list-four">
+  ### Verify your continued enrollment each month
+    You'll then need to verify your enrollment each month to keep receiving payments.
+    **You can verify your enrollment:**
+    - Online through our Web Automated Verification system (called "WAVE").<br>
+     [Verify your enrollment online](https://www.gibill.va.gov/wave/index.do?_ga=2.52284009.1924984484.1542640153-1173244138.1525894550).
+    - Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.     
+</ol>
 
 ## How can I use my MGIB-SR education benefits?
 
