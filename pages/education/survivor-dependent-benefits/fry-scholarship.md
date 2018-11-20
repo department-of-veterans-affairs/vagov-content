@@ -26,15 +26,15 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 - **If you turned 18 or graduated high school before January 1, 2013**, you can get a Fry Scholarship from the time you turn 18 or graduate high school (whichever comes first) until you're 33 years old.
 - **If you turn 18 or graduated high school after January 1, 2013**, you can get a Fry Scholarship at any age over 18 or after high school graduation (whichever comes first).
 - You can be married or unmarried.
-- If your parent died in the line of duty before August 1, 2011, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. But you can use only one program at a time. We cap combined benefits at 81 months of full-time training.<br>
+- **If your parent died in the line of duty before August 1, 2011**, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. But you can use only one program at a time. We cap combined benefits at 81 months of full-time training.<br>
 [Read about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
-- If you're receiving Dependency and Indemnity Compensation (DIC), you'll need to give up those payments when you start to use the Fry Scholarship. <br>
+- **If you're receiving Dependency and Indemnity Compensation (DIC)**, you'll need to give up those payments when you start to use the Fry Scholarship. <br>
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 
 
 ### If you're the spouse of the Servicemember
 
-- If you remarry, you'll no longer be eligible for the Fry Scholarship.
+- **If you remarry**, you'll no longer be eligible for the Fry Scholarship.
 - You can still get Dependency and Indemnity Compensation (DIC) payments while using the Fry Scholarship.<br>
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 </div>
