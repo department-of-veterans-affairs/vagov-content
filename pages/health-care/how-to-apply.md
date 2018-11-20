@@ -56,15 +56,11 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
 </div>
 
 <div class="form-expanding-group">
-  <button type="button" class="additional-info-button va-button-link" aria-controls="tooltip-1">
-    <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.
-      <i class="fa fa-angle-down"></i>
-    </span>
-  </button>
-  <span id="tooltip-1">
+  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>  
+  <span id="spanishhelptext-1">
     <div class="additional-info-content">
       <p>Llene la solicitud para Beneficions de Salud (Forma 10010EZ).</p>
-      <p>[Obtenga la Forma VA 10-10EZ](https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf).</p>
+      <p><a href="https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf">Obtenga la Forma VA 10-10EZ</a>.</p>
       <p>Usted o alguien con poder legal para representarlo tiene que firmar la forma, e incluir la fecha en que fué firmada.</p>
       <ul>
         <li><b>Si esta usando un poder legal</b>, tendra que incluir una copia de la forma con su solicitud.</li>
@@ -76,9 +72,9 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
         2957 Clairmont Rd., Suite 200<br>
         Atlanta, GA 30329</p>
       <p><b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:</p>
-      <p>[Encuentre el Centro o Clínica de Veteranos mas cercano a usted](\find-locations\%3ffacilityType=health).</p>
+      <p><a href="\find-locations\%3ffacilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.</p>
       <p>O reciba ayuda por medio del Departmaneto de Veteranos de su estado.</p>
-      <p>[Encuentre el Departamento de Veteranos de su estado](https://www.va.gov/statedva.htm).</p>
+      <p><a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>.</p>
     </div>
   </span>
 </div>
