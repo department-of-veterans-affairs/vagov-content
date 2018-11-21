@@ -31,7 +31,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-You can use VA education benefits at some—but not all—schools.
+You can use your GI Bill benefits at some—but not all—schools. Use the resources listed below to find GI Bill approved schools, compare the benefits you'll receive at different schools, and get more advice to help you choose a school.
 
 </div>
 
@@ -43,18 +43,16 @@ You can use VA education benefits at some—but not all—schools.
 [Learn about the Principles of Excellence program guidelines](/education/choosing-a-school/principles-of-excellence/).
 - Find schools that take part in the Yellow Ribbon Program, which can help you pay for school costs not covered by the Post-9/11 GI Bill.<br>
 [Learn more about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
-- Find out what benefits you’ll get at different schools.<br>
+- Check what benefits you’ll get at different schools.<br>
 [Use our GI Bill Comparison Tool](/gi-bill-comparison-tool).
 
-## Use these school decision resources to choose your school wisely
+## Get guidance on choosing and paying for a school
 
-- Watch our **Know Before You Go** video to get advice from other Veterans, based on their experiences of using the GI Bill.<br>
+- Watch our “Know Before You Go” video to get advice from other Veterans, based on their experiences of using the GI Bill.<br>
 [Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4).
-- Read our **Factors to Consider When Choosing a School** guide to using the GI Bill.<br>
+- Read our “Factors to Consider When Choosing a School” guide to using the GI Bill.<br>
 [Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf).
-- Visit the Consumer Financial Protection Bureau's (CFPB) **Paying for College** website for tools and resources to help make smart decisions about financing your college education.<br>
+- Visit the Consumer Financial Protection Bureau's (CFPB)  “Paying for College” website for tools and resources to help make smart decisions about financing your college education.<br>
 [Visit the CFPB's website](https://www.consumerfinance.gov/paying-for-college/).
-- Visit the U.S. Department of Education's **College Scorecard** website to compare schools by programs, degrees, location, and size. And find out the average annual cost, graduation rate, alumni salary information, and more for the schools you're considering.<br>
+- Visit the U.S. Department of Education's  “College Scorecard” website to compare schools by programs, degrees, location, and size. And find out the average annual cost, graduation rate, alumni salary information, and more for the schools you're considering.<br>
 [Visit the College Scorecard website](https://collegescorecard.ed.gov/).
-
-
