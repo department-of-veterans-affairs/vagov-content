@@ -48,10 +48,12 @@ You’ll need to apply.
 
 **You can apply online now:**
 
-1. Log in to [eBenefits](https://www.ebenefits.va.gov).
-2. Select “Apply.”
-3. Select “Vocational Rehabilitation and Employment Benefits.”
-4. Apply for “Educational and Career Counseling.”
+<ol class="process">
+  <li class="process-step list-one"><ahref="https://www.ebenefits.va.gov">Sign in to eBenefits</a>.</li>
+  <li class="process-step list-two">Select “Apply.”</li>
+  <li class="process-step list-three">Select “Vocational Rehabilitation and Employment Benefits.”</li>
+  <li class="process-step list-four">Apply for “Educational and Career Counseling.”</li>
+</ol>
 
 **You can also apply by mail:**
 
