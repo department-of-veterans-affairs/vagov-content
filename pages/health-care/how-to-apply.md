@@ -56,8 +56,7 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
 </div>
 
 <div class="form-expanding-group additional-info-container">
-  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.  
-    </span>  
+  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>  
   <span id="spanishhelptext-1">
     <div class="additional-info-content">
       Llene la solicitud para Beneficions de Salud (Forma 10010EZ).<br>
