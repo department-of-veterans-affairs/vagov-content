@@ -55,7 +55,7 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
 </div>
 
-<div class="form-expanding-group">
+<div class="form-expanding-group additional-info-container">
   <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.  
     </span>  
   <span id="spanishhelptext-1">
