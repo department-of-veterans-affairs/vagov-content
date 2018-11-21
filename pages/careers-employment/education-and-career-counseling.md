@@ -19,7 +19,7 @@ If you’re leaving active service soon, find out how to get free educational an
 
 <div class="feature" markdown="1">
 
-## Can I get educational and career counseling?
+### Can I get educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
@@ -31,11 +31,6 @@ You can get these services if you’ll be discharged from active duty within 6 m
 - [Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 - [Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 - [The Survivors’ and Dependents’ Educational Assistance Program (DEA)](/education/survivor-dependent-benefits/dependents-education-assistance/)
-
-### Who’s covered?
-
-- Veterans
-- Qualified dependents
 
 </div>
 
