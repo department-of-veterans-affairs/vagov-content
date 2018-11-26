@@ -35,7 +35,7 @@ You can use your GI Bill benefits at some—but not all—schools. Use the resou
 
 </div>
 
-## Learn about GI Bill benefits at different schools before you apply
+## Learn about GI Bill benefits at different schools
 
 - Find out which schools we’ve approved.<br>
 [Use our school search tool]( https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do;jsessionid=qtMbSxQFpzyL7GpnQrtnNGv6G9CGQQvb2YqM9Cvw3vB2pv2lXhfJ!-1531379871).
@@ -52,9 +52,9 @@ You can use your GI Bill benefits at some—but not all—schools. Use the resou
 [Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4).
 - Read our “Factors to Consider When Choosing a School” guide to using the GI Bill.<br>
 [Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf).
-- Visit the Consumer Financial Protection Bureau's “Paying for College” website for tools and resources to help make smart decisions about financing your college education.<br>
+- Visit the Consumer Financial Protection Bureau's “Paying for College” website for tools and resources to help you make smart decisions about financing your college education.<br>
 [Visit the "Paying for College" website](https://www.consumerfinance.gov/paying-for-college/).
-- Go to the U.S. Department of Education's  “College Scorecard” website to compare schools by programs, degrees, location, and size. And find out the average annual cost, graduation rate, alumni salary information, and more for the schools you're considering.<br>
+- Go to the U.S. Department of Education's  “College Scorecard” website to compare schools by programs, degrees, location, and size. And get more information about the schools you're considering, like the average annual cost, graduation rate, and average salaries of school alumni.<br>
 [Visit the "College Scorecard" website](https://collegescorecard.ed.gov/).
 - Visit the Federal Trade Commission's consumer website for helpful tips and information on managing money, credit, and debt.<br>
 [Visit the Federal Trade Commission's website](https://www.consumer.ftc.gov).
