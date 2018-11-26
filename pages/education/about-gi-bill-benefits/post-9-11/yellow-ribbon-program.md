@@ -18,12 +18,12 @@ The Yellow Ribbon Program can help you pay for higher out-of-state, private scho
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">Can I get this benefit?</h3>
+<h3 itemprop="name">Am I eligible for the Yellow Ribbon Program?</h3>
 <div itemprop="itemListElement">
 
-You can get this benefit if you and your school meet the requirements listed below.
+You may be eligible for this program if you and your school meet the requirements listed below.
 
-#### You must qualify for the maximum benefit rate under the Post-9/11 GI Bill
+#### You must qualify for the maximum benefit rate under the Post-9/11 GI Bill.
 
 **To qualify, at least one of these must be true. You:**
 
@@ -36,11 +36,11 @@ You can get this benefit if you and your school meet the requirements listed bel
 
 **Note:** At this time, you're not eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty Servicemember or the spouse of an active-duty Servicemember. But, as of August 1, 2022, you may become eligible if you're an active-duty Servicemember who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty Servicemember who qualifies at the 100% level.
 
-#### And your school must meet certain requirements
+#### And your school must meet certain requirements.
 
-**All of these must be true. Your school:**
-- Takes part in the Yellow Ribbon Program, **and**
-- Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and*
+**All of these must be true. Your school has:**
+- Offers the Yellow Ribbon Program, **and**
+- Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and**
 - Has confirmed your enrollment with us
 
 [See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br />
@@ -50,7 +50,7 @@ You can get this benefit if you and your school meet the requirements listed bel
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h2 itemprop="name">What benefits can I get?</h2>
+<h2 itemprop="name">What benefit can I get through this program?</h2>
 <div itemprop="itemListElement">
 
 Money to help pay for the higher cost of tuition at a private school or for attendance as a nonresident student at a public school.
@@ -64,11 +64,11 @@ If you qualify, your school will contribute a certain amount toward your extra t
 
 <h2 itemprop="name">How do I get this benefit?</h2>
 <div itemprop="itemListElement">
-
+  
 <ol class="process">
 <li class="process-step list-one">
 
-### Apply for benefits
+### Apply for Post-9/11 GI Bill benefits
 
 [Apply for Post-9/11 GI Bill benefits](/education/how-to-apply/). <br>
 If you qualify for benefits, you’ll get a Certificate of Eligibility (COE).
@@ -77,9 +77,9 @@ If you qualify for benefits, you’ll get a Certificate of Eligibility (COE).
 
 <li class="process-step list-two">
 
-### Turn in your COE
+### Turn in your COE to your school
 
-Bring your COE to your school’s certifying official, or to the financial aid, military liaison, or other office as determined by your school, and ask to apply to your school’s Yellow Ribbon Program.
+Bring your COE to your school’s certifying official, or to the financial aid, military liaison, or other appropriate office. Ask to apply for your school’s Yellow Ribbon Program.
 
 </li>
 
@@ -88,8 +88,8 @@ Bring your COE to your school’s certifying official, or to the financial aid, 
 ### Wait for a decision
 
 **Your school will decide:**
--  Whether it has already enrolled the maximum number of students for the program period. Enrollment is on a first-come, first-served basis. We have an agreement with each school about on how many students may be covered each year.
--  How much funding you'll receive. Your school decides this amount by adding up tuition and mandatory fees, and then subtracting any specific aid you’ve gotten from other sources—such as scholarships or grants, as well as your Post-9/11 GI Bill tuition payment. Your school applies the Yellow Ribbon Program benefit to this final amount.
+- **Whether it has already enrolled the maximum number of students for the program period.** Enrollment is on a first-come, first-served basis. We have an agreement with each school about how many students they'll cover each year.
+- **How much funding you'll receive.** Your school decides this amount. They'll add up tuition and mandatory fees, then subtract any aid you’ve received from other sources—such as scholarships, grants, and your Post-9/11 GI Bill tuition payment. Your school will apply the Yellow Ribbon Program benefit to this final amount.
 
 </li>
 
@@ -97,7 +97,7 @@ Bring your COE to your school’s certifying official, or to the financial aid, 
 
 ### Follow up
 
-You’ll get a notice from your school about whether it has accepted you into the program and how much money you’ll get for tuition.
+You’ll get a notice from your school about whether it has accepted you into the program and how much money you’ll receive for tuition.
 
 </li>
 </ol>
@@ -150,7 +150,7 @@ The school charges $10,000 per year for in-state tuition and fees, but $16,000 p
 We'll pay the in-state costs of $10,000 under the Post-9/11 GI Bill. But you'll need to pay the extra $6,000 for out-of-state costs.
 
 If you qualify for the Yellow Ribbon Program, you can get some or all of that extra amount paid. We'll match the amount your school contributes to the program. So if your school offers $3,000 in Yellow Ribbon contributions, we'll also pay $3,000 to the
-school, and your full amount will be paid. If your school offers $2,000 in Yellow Ribbon contributions, we'll pay $2,000 to your
+school, and you'll be covered for the full amount. If your school offers $2,000 in Yellow Ribbon contributions, we'll pay $2,000 to your
 school, and you'll need to pay the remaining $2,000.
 
 </div>
@@ -202,11 +202,11 @@ Yes, if your school still has Yellow Ribbon funds available for the per-student 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-8">If I participate in the Yellow Ribbon Program this year, will I automatically be in the program next year?</button>
 <div id="questions-8" class="usa-accordion-content">
 
-Not always. We require Yellow Ribbon Program agreements for each new year.
+Not always. We require a new Yellow Ribbon Program agreement each year.
 
 If your school has an approved agreement with us and continues to participate in the program, they must continue to offer the Yellow Ribbon benefits to you the next year as long as you meet all of the requirements listed below.
 
-**All of these must be true. You**
+**All of these must be true. You:**
 - Make acceptable progress toward completing your program (accoding to your school), **and**
 - Stay enrolled in the school without a break (following the school's policy), **and**
 - Have money left under your Post-9/11 GI Bill benefits
