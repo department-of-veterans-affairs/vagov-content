@@ -21,32 +21,29 @@ The Yellow Ribbon Program can help you pay for higher out-of-state, private scho
 <h3 itemprop="name">Can I get this benefit?</h3>
 <div itemprop="itemListElement">
 
-You can get this benefit if you meet both of the requirements listed below.
+You can get this benefit if you and your school meet the requirements listed below.
 
-**Both of these must be true:**
-- You qualify for the maximum benefit rate under the Post-9/11 GI Bill, **and**
-- Your school takes part in the Yellow Ribbon Program, hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement, and has confirmed your enrollment with us
+#### You must qualify for the maximum benefit rate under the Post-9/11 GI Bill
 
-If you’re the dependent of a Veteran who qualifies for transfer of entitlement for the Post-9/11 GI Bill, you may also be able to get this benefit. <br />
-[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).<br />
-[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br />
-
-</div>
-
-<br>
-<h3 itemprop="name">Am I eligible for the maximum benefit rate under the Post-9/11 GI Bill?</h3>
-<div itemprop="itemListElement">
-
-You may be eligible for the maximum benefit rate under the Post-9/11 GI Bill if you meet at least one of the requirements listed below.
-
-**At least one of these must be true. You:**
+**To qualify, at least one of these must be true. You:**
 
 - Served at least 36 months on active duty (either all at once or total over separate time periods), **or**
 - Received a Purple Heart and were honorably discharged after any amount of service, **or**
 - Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were discharged after 60 days with a service-connected disability, **or**
-- Are the dependent child using benefits transferred by a Servicemember who has served for at least 36 months on active duty and qualifies at the 100% level
+- Are the dependent child using benefits transferred by a Veteran or a Servicemember who has served for at least 36 months on active duty and qualifies at the 100% level
+
+[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).<br />
 
 **Note:** At this time, you're not eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty Servicemember or the spouse of an active-duty Servicemember. But, as of August 1, 2022, you may become eligible if you're an active-duty Servicemember who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty Servicemember who qualifies at the 100% level.
+
+#### And your school must meet certain requirements
+
+**All of these must be true. Your school:**
+- Takes part in the Yellow Ribbon Program, **and**
+- Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and*
+- Has confirmed your enrollment with us
+
+[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br />
 
 </div>
 </div>
@@ -90,7 +87,7 @@ Bring your COE to your school’s certifying official, or to the financial aid, 
 
 ### Wait for a decision
 
-#### Your school will decide:
+**Your school will decide:**
 -  Whether it has already enrolled the maximum number of students for the program period. Enrollment is on a first-come, first-served basis. We have an agreement with each school about on how many students may be covered each year.
 -  How much funding you'll receive. Your school decides this amount by adding up tuition and mandatory fees, and then subtracting any specific aid you’ve gotten from other sources—such as scholarships or grants, as well as your Post-9/11 GI Bill tuition payment. Your school applies the Yellow Ribbon Program benefit to this final amount.
 
