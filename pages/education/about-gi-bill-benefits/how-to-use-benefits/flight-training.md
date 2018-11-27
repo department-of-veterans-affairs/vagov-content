@@ -18,7 +18,7 @@ Want to become a pilot? Find out how your VA education benefits can help pay for
 
 
 <div class="feature" markdown=“1” itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">Can I use the GI Bill to pay for flight training?</h2>
+<h3 itemprop="name">Can I use the GI Bill to pay for flight training?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
