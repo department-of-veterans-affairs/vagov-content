@@ -18,30 +18,34 @@ If you’re the child or spouse of a Veteran or Servicemember who has died, is c
 
 <div class="feature">
 
-## Can I get education benefits through the DEA program?
+### Can I get education benefits through the DEA program?
 
-**You may qualify for DEA benefits if you’re the child or spouse of a Veteran** and one of the below descriptions is true of the Veteran.
+### If you’re the child or spouse of a Veteran
+
+You may qualify for DEA benefits if one of the below descriptions is true of the Veteran.
 
 **One of these must be true. The Veteran:**
 
 - Is permanently and totally disabled due to a service-connected disability, or
 - Died while on active duty or as a result of a service-connected disability
 
-**You may qualify for DEA benefits if you’re the child or spouse of a Servicemember** and one of the below descriptions is true of the Servicemember.
+### If you're the child or spouse of a Servicemember
+
+You may qualify for DEA benefits if one of the below descriptions is true of the Servicemember.
 
 **One of these must be true. The Servicemember:**
 - Is missing in action or captured in the line of duty by a hostile force, **or**
 - Was forcibly detained (held) or interned in the line of duty by a foreign entity
 - Is in the hospital or getting outpatient treatment for a service-connected permanent and total disability and is likely to be discharged for that disability (effective December 23, 2006)
 
-### If you're the child of the Veteran or Servicemember
+### More eligibility requirements if you're the child of a Veteran or Servicemember
 
 - You can get benefits if you’re between the ages of 18 and 26, except in certain cases. You may be married or unmarried.
 - If you’re over 18 years old and using DEA, you can’t get Dependency and Indemnity Compensation (DIC) from us. <br>
 [Learn about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 - If you join the military, you can’t use this benefit while on active duty. And if want to use this benefit after you leave the service, you can't have a dishonorable discharge. Military service can extend your eligibility, but this increase doesn’t usually go past your 31st birthday.
 
-### If you’re the spouse of the Veteran or Servicemember**
+### More eligibility requirements if you're the spouse of a Veteran or Servicemember
 
 - Your benefits start on the date we conclude that you qualify or on the date of the Veteran’s death, and last for 10 years.
 - If we rated the Veteran as permanently and totally disabled, with an effective date that’s 3 years after discharge, you’ll qualify for benefits for 20 years from that effective date. This new policy began on October 10, 2008. We won’t pay benefits for training you started before this date.
