@@ -11,7 +11,7 @@ order: 8
 
 <div class="va-introtext">
 
-If you're enrolled in a high-technology program with the goal of working in the high-tech industry, find out if you can get a single higher payment (called a "lump sum" or "accelerated" payment) to help cover the higher per-month costs for these courses of study.
+If you're enrolled in a high-technology program, find out if you can get a single higher payment (called a "lump sum" or "accelerated" payment) to help cover the higher per-month costs for these types of programs.
 
 </div>
 
@@ -27,9 +27,11 @@ Your eligibility depends on your service status, program, and tuition cost.
 You can get this benefit if you meet all of the requirements listed below.
 
 **All of these must be true:**
-- You’re eligible for the Montgomery GI Bill Active Duty (MGIB-AD), **and**
+- You’re eligible for the Montgomery GI Bill Active Duty (MGIB-AD) program, **and**
 - You're enrolled in a qualifying high-tech degree or non-degree program, **and**
--	Your tuition and fees are more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
+-	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
+
+[Find out if you're eligible for the MGIB-AD program](/education/about-gi-bill-benefits/montgomery-active-duty/).
 
 ### If you're in the Reserves
 
@@ -37,14 +39,17 @@ You can get this benefit if you meet all of the requirements listed below.
 
 **All of these must be true:**
 
--	You’re a current REAP recipient or a Reservist using the Montgomery GI Bill Selected Reserve (MGIB-SR), **and**
+-	You’re a current Reserve Educational Assistance Program (REAP) recipient or a Reservist using the Montgomery GI Bill Selected Reserve (MGIB-SR) program, **and**
 - You're enrolled in a qualifying high-tech, non-degree program that lasts for 2 years or less, **and**
--	Your tuition and fees are more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
+-	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
+
+[Learn more about REAP](/education/other-va-education-benefits/reap/).
+[Learn more about MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
 
 <br />
 
 **Note:** 
-You can’t get this benefit under the Post-9/11 GI Bill, Dependents’ Educational Assistance (DEA) program, or VEAP.
+You can’t get this benefit under the Post-9/11 GI Bill, Dependents’ Educational Assistance (DEA) program, or the Veterans' Educational Assistance Program (VEAP).
 
 </div>
 
