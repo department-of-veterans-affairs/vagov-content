@@ -15,21 +15,27 @@ The Reserve Educational Assistance Program (REAP) ended on November 25, 2015, bu
 
 </div>
 
-## What happens if I've been REAP benefits to pay for my education since before November 24, 2015?
+## How do the changes to REAP affect me?
 
-If you were already attending a school or training program on November 24, 2015, or during the last semester, quarter, or term ending prior to that date, you can keep using your REAP benefits until November 25, 2019.
+Choose the description below that best fits your situation to find out how the changes affect you, and what to do next.
 
-## What if I applied for REAP benefits, but didn't start school until after November 24, 2015?
+### If you were actively using REAP benefits before November 24, 2015:
+
+You can keep using your REAP benefits until November 25, 2019.
+
+**Note:** You fit this description if you were already attending a school or training program on November 24, 2015, or during the last semester, quarter, or term ending prior to that date.
+
+### If you applied for REAP benefits, but didn't start school until after November 24, 2015:
 
 You're no longer eligible to receive REAP benefits. You may be eligible for Post-9/11 GI Bill benefits. <br>
 [Learn more about the Post 9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 
-## What if I applied for REAP benefits after November, 2015?
+### If you applied for REAP benefits after November, 2015:
 
 You're not eligible to receive REAP benefits, but you may be eligible for Post-9/11 GI Bill benefits. We review your application and give you the benefits you qualify for.<br>
 [Learn more about the Post 9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/) 
 
-## If I was eligible for REAP benefits, but lost them when the program ended, how do I switch over to the Post-9/11 GI Bill?
+### If we determined you were eligible for REAP benefits, but you lost your benefits when the program ended:
 
 You can credit your REAP eligibility toward your Post-9/11 GI Bill eligibility if you meet both of the requirements listed below.
 
