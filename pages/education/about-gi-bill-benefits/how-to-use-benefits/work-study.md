@@ -17,7 +17,7 @@ Find out if you can earn money while you go to school through our work-study pro
 
 <div class="feature" markdown="1">
 
-## Can I be a part of the VA work-study program?
+### Can I take part in the VA work-study program?
 
 You can take part in our work-study program if you meet all of the requirements listed below.
 
