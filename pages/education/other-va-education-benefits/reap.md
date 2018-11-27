@@ -15,7 +15,7 @@ The Reserve Educational Assistance Program (REAP) ended on November 25, 2015, bu
 
 </div>
 
-## How do the changes to REAP affect me?
+## How does REAP ending affect me?
 
 Choose the description below that best fits your situation to find out how the changes affect you, and what to do next.
 
