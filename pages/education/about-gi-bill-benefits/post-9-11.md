@@ -63,6 +63,7 @@ This depends on when you were discharged from active duty.
 </div>
 </div>
 </div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -77,7 +78,6 @@ This depends on when you were discharged from active duty.
 </div>
 </div>
 </div>
-
 
 -------
 
