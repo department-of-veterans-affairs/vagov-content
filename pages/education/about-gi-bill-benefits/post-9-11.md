@@ -23,7 +23,7 @@ If you need help paying for school or job training and you’ve served on active
 <div class="feature" markdown="0">
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Can I get Post-9/11 GI Bill benefits?</h2>
+<h3 itemprop="name">Can I get Post-9/11 GI Bill benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -31,20 +31,21 @@ You can get Post-9/11 GI Bill benefits if you meet at least one of the requireme
 
 **At least one of these must be true. You:**
 
-- Served at least 90 days on active duty (either all at once or total over separate time periods) after September 10, 2001
-- Received a Purple Heart and were honorably discharged after any amount of service
-- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were honorably discharged with a service-connected disability
-- Are the dependent child using benefits transferred by a qualifying Veteran or Servicemember
+- Served at least 90 days on active duty (either all at once or total over separate time periods) after September 10, 2001, **or**
+- Received a Purple Heart and were honorably discharged after any amount of service, **or**
+- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were honorably discharged with a service-connected disability, **or**
+- Are a dependent child using benefits transferred by a qualifying Veteran or Servicemember
 
 **Notes:**
 
-**If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015,** you may qualify to receive restored benefits under the Post-9/11 Bill.
+- If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 Bill.
+- If you qualify for more than one VA education benefit, you’ll have to pick which one you want to use. This is an irrevocable decision, meaning you can’t change your mind.
 
-**If you qualify for more than one VA education benefit,** you’ll have to pick which one you want to use. This is an irrevocable decision, meaning you can’t change your mind.
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+<br>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -65,7 +66,7 @@ This depends on when you were discharged from active duty.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What benefits can I get?</h3>
+<h2 itemprop="name">What benefits can I get through this program?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -82,7 +83,7 @@ This depends on when you were discharged from active duty.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How do I get these benefits?</h3>
+<h2 itemprop="name">How do I get these benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -97,7 +98,7 @@ The benefit amount depends on which school you go to, how much active-duty servi
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What benefits does the Post-9/11 GI Bill include?</h3>
+<h2 itemprop="name">What benefits does the Post-9/11 GI Bill include?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -106,14 +107,14 @@ The benefit amount depends on which school you go to, how much active-duty servi
 - Up to 36 months of education benefits, in most cases payable for 15 years after your release from active duty
 - A percentage-of-maximum-benefit scale based on how much active service you’ve had since September 10, 2001
 
-**Example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. Three years of active service would qualify you for 100% of the benefit.
+**Example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit.
 
 </div>
 </div>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
- <h3 itemprop="name">How do I know how much of my Post-9/11 GI Bill benefits are left?</h3>
+ <h2 itemprop="name">How do I know how much of my Post-9/11 GI Bill benefits are left?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
@@ -126,7 +127,7 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Other possible benefits</h3>
+<h2 itemprop="name">Other possible benefits</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -141,10 +142,9 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 </div>
 </div>
 
-
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How can I use my Post-9/11 GI Bill benefits?</h3>
+<h2 itemprop="name">How can I use my Post-9/11 GI Bill benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -181,7 +181,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Get more information</h3>
+<h2 itemprop="name">Get more information</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -196,4 +196,5 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 </div>
 </div>
 
-GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. Read our [Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
