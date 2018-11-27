@@ -62,11 +62,9 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-You can receive up to 36 months of benefits. 
+**You can receive up to 36 months of benefits, including:** 
   
-**If you qualify for the maximum benefit, you may receive:**
-
-- **Tuition and fees**. We'll cover the full cost of in-state tuition and fees up to the maximum national average of $22,805.34.
+- **Tuition and fees**. If you qualify for the maximum benefit, we'll cover the full cost of in-state tuition and fees up to the maximum national average of $22,805.34.
 - **Money for housing** (if you're in school more than half time). We'll base your monthly housing allowance on the cost of living where your school is located.
 - **Money for books and supplies**. You can receive up to $1,000 per school year.
 - **Money to help you move from a rural area to go to school**. You may qualify for this one-time payment of $500  and you're either moving at least 500 miles to go to school or have no other option but to fly by plane to get to your school.
