@@ -36,10 +36,16 @@ You can get Post-9/11 GI Bill benefits if you meet at least one of the requireme
 - Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were honorably discharged with a service-connected disability, **or**
 - Are a dependent child using benefits transferred by a qualifying Veteran or Servicemember
 
-**Notes:**
+**Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 Bill.
 
-- If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 Bill.
-- If you qualify for more than one VA education benefit, you’ll have to pick which one you want to use. This is an irrevocable decision, meaning you can’t change your mind.
+<br>
+<div itemscope itemtype="http://schema.org/Question">
+  
+<h3 itemprop="name">What if I qualify for other VA education benefits too?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You’ll have to pick which benefit you'd like to use. This is an irrevocable decision, meaning you can’t change your mind.
 
 </div>
 </div>
@@ -127,15 +133,17 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Other possible benefits</h2>
+<h2 itemprop="name">Can my family members or I get any additional benefits through the Post-9/11 GI Bill?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
+  
+**You may qualify for these additional benefits:**
 
-- You may be able to get money through the Yellow Ribbon Program to cover higher private-school and out-of-state tuition and fees. <br>
+- If you need more money to cover higher private-school or out-of-state tuition, you can apply for the Yellow Ribbon Program. <br>
 [Learn about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
 - If you’re a qualified Servicemember, you can transfer all 36 months or a portion of your Post-9/11 GI Bill benefits to a spouse or child. The Department of Defense approves a transfer of benefits. <br>
 [Learn about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).
-- The Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship) offers Post-9/11 GI Bill benefits to children and surviving spouses of Servicemembers who died in the line of duty after September 10, 2001. <br>
+- If you're the child or surviving spouse of a Servicemember who died in the line of duty after September 10, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). <br>
 [Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
 
 </div>
