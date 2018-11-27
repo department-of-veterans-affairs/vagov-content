@@ -75,8 +75,12 @@ You’ll earn an hourly wage that’s the same as the federal minimum wage or yo
 
 ## How will I get paid?
 
-You may elect to be paid in advance for 40% of the hours in your work-study agreement, or for 50 hours, whichever is fewer. After you’ve worked the hours covered by your first payment, we’ll pay you each time you finish 50 hours of service, or biweekly, whichever comes first.
+You may elect to be paid in advance for 40% of the hours in your work-study agreement, or for 50 hours, whichever is fewer. After you’ve worked the hours covered by your first payment, we’ll pay you each time you finish 50 hours of service or every other week, whichever comes first.
 
 ## When and how much can I work?
 
-You can work during or between enrollment periods. The total number of hours you work during your enrollment can’t be more than 25 times the number of weeks in your enrollment period.
+You can work during or between enrollment periods.
+
+You can't work more hours total than 25 times the number of weeks in your enrollment period. 
+
+**For example:** If you're enrolled for a semester that lasts for 15 weeks, you can work up to 375 hours for that enrollment period.
