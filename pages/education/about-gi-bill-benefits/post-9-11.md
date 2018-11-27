@@ -54,12 +54,36 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 </div>
 </div>
 </div>
-
-<br>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Does this benefit expire?</h3>
+<h2 itemprop="name">What benefits can I get through the Post-9/11 GI Bill?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+  
+You can receive up to 36 months of benefits. 
+  
+**If you qualify for the maximum benefit, you may receive:**
+
+- **Tuition and fees**. We'll cover the full cost of in-state tuition and fees up to the maximum national average of $22,805.34.
+- **Money for housing** (if you're in school more than half time). We'll base your monthly housing allowance on the cost of living where your school is located.
+- **Money for books and supplies**. You can receive up to $1,000 per school year.
+- **Money to help you move from a rural area to go to school**. You may qualify for this one-time payment of $500  and you're either moving at least 500 miles to go to school or have no other option but to fly by plane to get to your school.
+
+**Here's how we'll determine how much of the benefit you'll qualify for:**
+
+The specific amount you'll receive will depend on how much active service you’ve had since September 10, 2001. We'll calculate this amount based on a percentage of the maximum benefit. 
+
+**For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charged $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">Do these benefits expire?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -69,21 +93,6 @@ This depends on when you were discharged from active duty.
 
 **If your service ended on or after January 1, 2013,** your benefits won't expire thanks to a new law called the Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act. Some letters you receive from us may not yet reflect this change. Thank you for your patience as we work to update our systems.<br>
 [Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).
-
-</div>
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h2 itemprop="name">What benefits can I get through this program?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-- Tuition and fees
-- Money for housing (if you’re in school more than half time)
-- Money for books and supplies (up to $1,000 per school year)
 
 </div>
 </div>
@@ -101,23 +110,6 @@ You’ll need to apply. <br>
 [Apply for education benefits](/education/how-to-apply/).
 
 The benefit amount depends on which school you go to, how much active-duty service you’ve had since September 10, 2001, and how many credits or training hours you’re taking.
-
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h2 itemprop="name">What benefits does the Post-9/11 GI Bill include?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-- The full tuition amount for in-state schools up to the maximum national average of $22,805.34
-- A Basic Allowance for Housing (BAH) based on the cost of living where your school is located
-- Up to 36 months of education benefits, in most cases payable for 15 years after your release from active duty
-- A percentage-of-maximum-benefit scale based on how much active service you’ve had since September 10, 2001
-
-**Example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit.
 
 </div>
 </div>
