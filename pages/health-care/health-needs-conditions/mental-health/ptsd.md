@@ -28,9 +28,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Whether you just returned from a deployment or have been home for 40 years, it’s never too late to get help for posttraumatic stress disorder (PTSD). Getting counseling or treatment can help you manage your symptoms and keep them from getting worse.
-
-Our National Center for PTSD is the world leader in PTSD research, education, and treatment. Find out how to access PTSD health services through VA.
+Whether you just returned from a deployment or have been home for 40 years, it’s never too late to get help for posttraumatic stress disorder (PTSD). Getting counseling or treatment can help you manage your symptoms and keep them from getting worse. Find out how to access PTSD health services through VA.
 
 </div>
 
@@ -132,7 +130,7 @@ If you have symptoms of PTSD and suffered a serious injury, personal trauma, sex
 
 - See our “Understanding PTSD and PTSD Treatment” booklet for more about PTSD symptoms and treatment. <br>
 [Read the booklet](https://www.ptsd.va.gov/publications/print/understandingptsd_booklet.pdf).
-- Go to our National Center for PTSD website for information about PTSD treatment and support. <br>
+- Go to our National Center for PTSD website for information about PTSD treatment and support. The National Center for PTSD is the world leader in PTSD research, education, and treatment.  <br>
 [Visit the National Center for PTSD](https://www.ptsd.va.gov/).
 - Go to these websites for resources and stories of Veterans who’ve overcome PTSD and other mental health challenges:
   - <a href="http://maketheconnection.net/" class="no-external-icon">Visit Make the Connection</a>
