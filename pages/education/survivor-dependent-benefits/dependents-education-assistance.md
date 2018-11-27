@@ -20,6 +20,8 @@ If you’re the child or spouse of a Veteran or Servicemember who has died, is c
 
 ### Can I get education benefits through the DEA program?
 
+You may be able to get these benefits if both you and the Veteran or Servicemember meet certain eligibility requirements.
+
 ### If you’re the child or spouse of a Veteran
 
 You may qualify for DEA benefits if one of the below descriptions is true of the Veteran.
