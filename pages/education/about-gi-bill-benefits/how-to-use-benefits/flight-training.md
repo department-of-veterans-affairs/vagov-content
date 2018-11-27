@@ -12,7 +12,7 @@ aliases:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Want to become a pilot? Find out how your VA education benefits can help pay for flight training.
+Find out how your VA education benefits can help pay for flight training to advance your pilot qualifications.
 
 </div>
 
@@ -23,8 +23,9 @@ Want to become a pilot? Find out how your VA education benefits can help pay for
 <div itemprop="text">
 
 You can get benefits for flight training if you meet all of the requirements listed below.
-<br>
+
 **All of these must be true. You:**
+
 - Qualify for the Post-9/11 GI Bill, Montgomery GI Bill, or Reserve Educational Assistance Program (REAP), **and**
 - Have a private pilot’s license, **and**
 - Have a second-class medical certificate valid for second-class privileges—or a first-class medical certificate if you want to pursue the Airline Transport Pilot (ATP) certificate
@@ -40,11 +41,11 @@ You can get benefits for flight training if you meet all of the requirements lis
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You'll get different benefits, depending on the program you use.
+This depends on the VA benefit program you use and other factors.
 
 ### If you use the Montgomery GI Bill Active Duty (MGIB-AD) or the Reserve Educational Assistance Program (REAP)
 
-We’ll pay you back for 60% of the approved fees.<br>
+We’ll pay you back for 60% of the approved fees your flight school charges.<br>
 [Learn about MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty/).<br>
 [Learn about REAP](/education/other-va-education-benefits/reap/).<br>
 [View the current payment rates for MGIB-AD and REAP](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
@@ -55,11 +56,11 @@ We’ll pay you back for 60% of the approved fees.<br>
 
 - Your level of eligibility (you're eligible for a certain percent of benefits up to 100% based on how long you served on active duty after September 10, 2001), **and**
 - How much money you have left to help pay for school or training under the Post-9/11 GI Bill (called your "remaining entitlement"), **and**
-- The program and the type of school you’re enrolled in
+- The program and type of school you’re enrolled in
 
 **If you're enrolled in:**
 
-- **A degree program that consists of flight training at a public college or university**, we’ll pay you back for up to the full in-state cost of tuition and fees (depending on your level of eligibility and remaining entitlement). You may also receive a housing allowance and money to help buy books and supplies.
+- **A degree program that consists of flight training at a public college or university**, we’ll pay you back for up to the full in-state cost of tuition and fees (depending on your level of eligibility and remaining entitlement). You may also receive a monthly housing allowance and money to help buy books and supplies.
 - **A degree program that consists of flight training at a private college or university**, we’ll pay you back for the net cost of tuition and fees up to a yearly limit (depending on your level of eligibility and remaining entitlement). You may also receive a housing allowance and money to help buy books and supplies. You can also apply for additional funds to cover tuition and fees above the yearly limit through the Yellow Ribbon Program.<br>
 [Learn more about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
 - **A vocational program at a stand-alone Part 141 pilot school**, we’ll pay you back for the net cost of training up to a yearly limit (depending on your level of eligibility and remaining entitlement). You won't be eligible for a housing allowance or money to help buy books and supplies.
