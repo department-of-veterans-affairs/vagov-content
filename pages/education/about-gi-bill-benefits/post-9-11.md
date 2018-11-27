@@ -38,6 +38,10 @@ You can get Post-9/11 GI Bill benefits if you meet at least one of the requireme
 
 **Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 Bill.
 
+</div>
+</div>
+</div>
+
 <br>
 <div itemscope itemtype="http://schema.org/Question">
   
