@@ -109,7 +109,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
         2957 Clairmont Rd., Suite 200<br>
         Atlanta, GA 30329</p>
       <b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:<br>
-      <a href="\find-locations\%3ffacilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.<br>
+      <a href="/find-locations/?facilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.<br>
       O reciba ayuda por medio del Departmaneto de Veteranos de su estado.<br>
       <a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>.
     </div>
