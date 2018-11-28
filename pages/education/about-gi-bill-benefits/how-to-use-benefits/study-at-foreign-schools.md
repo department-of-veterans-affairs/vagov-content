@@ -59,7 +59,7 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
   <li>Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
   [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).</li>
   <li>If you still have questions about the school or program, you can submit a question to us using the GI Bill website. <br>
-    [Go to the GI Bill website](https://gibill.custhelp.com/app/utils/login_form/redirect/ask). <br>
+    <a href="https://gibill.custhelp.com/app/utils/login_form/redirect/ask">Go to the GI Bill website</a>. <br>
     You can also send us a request for information about your program's approval status by mail. Send your request to:<br>
     <p class="va-address-block">
       Foreign School Approval Group (22-EDU)<br>
