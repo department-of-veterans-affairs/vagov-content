@@ -53,27 +53,26 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
 <ol class="process">
 <li class="process-step list-one">
 
-### Before you enroll, make sure we've approved your school for education benefits
+### Before you enroll, make sure we've approved your school for education benefits.
 
-- Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
-[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
-- If you still have questions about the school or program, you can submit a question to us using the GI Bill website. <br>
-[Go to the GI Bill website](https://gibill.custhelp.com/app/utils/login_form/redirect/ask).
-- You can also send us a request for information about your program's approval status by mail. Send your request to:
-<p class="va-address-block">
-  Foreign School Approval Group (22-EDU)<br>
-  VA Regional Office <br>
-  130 S. Elmwood Avenue Suite 601 <br>
-  Buffalo, NY 14202
-  </p> <br>
-  You'll need to give us the name of the foreign school, the complete address, and the name of the program you want to enroll in. We’ll let you know if your program has already been approved.
-- If you or your qualified dependent want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
-
-</li>
-
+<ul>
+  <li>Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
+  [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).</li>
+  <li>If you still have questions about the school or program, you can submit a question to us using the GI Bill website. <br>
+    [Go to the GI Bill website](https://gibill.custhelp.com/app/utils/login_form/redirect/ask). <br>
+    You can also send us a request for information about your program's approval status by mail. Send your request to:<br>
+    <p class="va-address-block">
+      Foreign School Approval Group (22-EDU)<br>
+      VA Regional Office <br>
+      130 S. Elmwood Avenue Suite 601 <br>
+      Buffalo, NY 14202
+    </p>
+    You'll need to give us the name of the foreign school, the complete address, and the name of the program you want to enroll in. We’ll let you know if your program has already been approved.</li>
+  <li><b>If you or your qualified dependent want to enroll in a program that we haven’t approved</b>, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</li>
+  </ul>
 <li class="process-step list-two">
 
-### Apply for benefits<br>
+### Apply for benefits.<br>
 [Find out how to apply](/education/how-to-apply/).
 
 Turn in your application to us at least 90 days before you leave for your new school. We’ll decide what benefits you get based on your school’s location.<br>
@@ -86,7 +85,7 @@ If you get approved for benefits, turn in your Certificate of Eligibility (COE) 
 
 <li class="process-step list-three">
 
-### Make arrangements for school and traveling
+### Make arrangements for school and travel.
 
 - Be sure you have enough money to cover all your needs until VA payments begin.
 - Make arrangements with the school for acceptance, enrollment, payment of tuition and fees, and housing.
@@ -97,7 +96,7 @@ If you get approved for benefits, turn in your Certificate of Eligibility (COE) 
 
 <li class="process-step list-four">
 
-### Give written permission for school officials to release necessary information to us
+### Give written permission for school officials to release necessary information to us.
 
 If you don’t do this, it could affect when you get benefits.
 
