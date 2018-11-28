@@ -17,7 +17,7 @@ If your parent or spouse was an active-duty Servicemember who died in the line o
 
 <div class="feature" markdown="1">
 
-## Can I get Fry Scholarship benefits?
+### Can I get Fry Scholarship benefits?
 
 You may be able to get benefits under the Fry Scholarship if you’re the child or surviving spouse of an active-duty Servicemember who died in the line of duty on or after September 11, 2001.
 
