@@ -17,7 +17,7 @@ If you plan to study at a foreign school, find out how you can use VA benefits t
 
 <div class="feature" markdown=“1”>
 
-## Can I get VA education benefits to study at a foreign school?
+### Can I get VA education benefits to study at a foreign school?
 You can get education benefits if you meet all of the requirements listed below.
 
 **All of these must be true:**
@@ -34,9 +34,7 @@ You can get education benefits if you meet all of the requirements listed below.
 - Money for school
 - Money for your housing costs during enrollment
 
------
-
-## Can I attend any foreign school?
+### Can I attend any foreign school?
 
 - We’ll accept degrees from schools in foreign countries that are similar to degrees granted by U.S. colleges and universities that are accredited (meaning approved and recognized according to certain standards).
 - For private schools overseas, the degree must be of equal value to those granted by public colleges and universities in the same country, and the school must have the same entrance requirements.
@@ -47,6 +45,8 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
 <a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>
 
 **Exception:** Programs at schools located in the United States that offer courses in a foreign country through the Department of Defense don’t qualify as foreign training. Also, year abroad and similar programs offered by schools in the United States don’t qualify as foreign training.
+
+-----
 
 ## How do I get these benefits?
 
@@ -104,7 +104,7 @@ Make sure you give written permission for school officials to release necessary 
 </li>
 </ol>
 
-## Where will you process my claim?
+### Where will you process my claim?
 
 **If you're training in Puerto Rico or the U. S. Virgin Islands**, our Atlanta Regional Processing Office in Decatur, Georgia will process your claim.
 
@@ -112,7 +112,7 @@ Make sure you give written permission for school officials to release necessary 
 
 **If you are training in any other foreign country or area**, our Buffalo Regional Processing Office will process your claim.
 
-## What if I need more help?
+### What if I need more help?
 
 **To get more information or help with your application:**
 
