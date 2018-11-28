@@ -18,15 +18,18 @@ You can continue your education by using part of your military pay to help cover
 
 <div class="feature" markdown="1">
 
-## Can I get this benefit?
+### Can I get this benefit?
 
-You can get this benefit if you meet all of the requirements listed below.
+You can get this benefit if you meet the requirements listed below.
 
 **All of these must be true. You:**
   - Entered service for the first time between January 1, 1977, and June 30, 1985, **and**
   - Opened and put money into your VEAP account before April 1, 1987, **and**
-  - Put in $25–$2,700 on your own, **and**
-  - Finished your first period of service and didn't receive a dishonorable discharge
+  - Put in $25–$2,700 on your own
+
+**And one of these must be true. You:**
+  - Finished your first period of service and didn't receive a dishonorable discharge, **or**
+  - Are currently on active duty and have at least 3 months of contributions available
   
 </div>
 
@@ -37,21 +40,28 @@ Money for tuition
 
 ## How do I get this benefit?
 
-First, make sure we've approved your selected program. If you have questions, we can help you and your school understand the requirements. 
-
-Then, fill out an Application for VA education Benefits (VA Form 22-1990). You’ll need to apply. <br>
-[Apply for education benefits online now](/education/apply-for-education-benefits/application/1990/introduction).
-
-You can also apply by mail, in person, or with the help of a trained professional. <br>
-[Learn more about how to apply for education benefits](/education/how-to-apply/).
-
-### If you're on active duty
-
-You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.
-
-### If you've started training
-
-Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us.
+<ol class="process">
+  <li class="process-step list-one">
+    ### Make sure we've approved your selected program
+        If you have questions, we can help you and your school understand the requirements.
+    <ul>
+      <li>Call our VA Benefits Hotline at <a href="tel:+18008271000">1-800-827-1000</a>). If you have hearing loss, call TTY: 711.</li>
+      <li>Or go to a VA regional benefit office near you. <br>
+        <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a>.</li>
+    </ul>
+  </li>
+  <li class="process-step list-two">
+    ### Apply for benefits
+    #### If you haven't started training
+    Submit an Application for VA education Benefits (VA Form 22-1990) online. <br>
+    <a href="/education/apply-for-education-benefits/application/1990/introduction">Apply for education benefits online now</a>.
+    You can also apply by mail, in person, or with the help of a trained professional. <br>
+    <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.
+    #### If you're on active duty
+    You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.
+    #### If you've already started training
+    Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us.
+    <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
 
 ## What’s covered under VEAP education benefits?
 
