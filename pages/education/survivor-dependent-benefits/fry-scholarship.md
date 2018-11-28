@@ -24,7 +24,7 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 ### If you're the child of the Servicemember
 
 - **If you turned 18 or graduated high school before January 1, 2013**, you can get a Fry Scholarship until you're 33 years old.
-- **If you turn 18 or graduated high school after January 1, 2013**, you can get a Fry Scholarship at any age.
+- **If you turn 18 or graduate high school after January 1, 2013**, you can get a Fry Scholarship at any age over 18 or after you graduate (whichever comes first).
 - You can be married or unmarried.
 - **If your parent died in the line of duty before August 1, 2011**, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. But you can use only one program at a time. We cap combined benefits at 81 months of full-time training.<br>
 [Read about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
