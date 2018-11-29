@@ -120,21 +120,19 @@ Follow the steps below to apply for these benefits.
     Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. 
     <br>
-    <h5>You can also apply:</h5>
-    <b>By mail</b>
+    <b>You can also apply:</b>
+    <b>By mail</b><br>
     Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
     <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. 
     Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
-    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.
-    <br>
-    <b>In person</b>
+    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.<br>
+    <b>In person</b><br>
     Go to a VA regional benefit office and have a VA employee help you. Bring a copy of your VA Form 22-1990 with you.<br>
-    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.
+    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.<br>
     Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.<br>
-    <br>
-    <b>With the help of a trained professional</b>
+    <b>With the help of a trained professional</b><br>
     You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
-    <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>].
+    <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>].<br>
     <br>
     <h4>If you already started training</h4>
     Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
@@ -145,9 +143,9 @@ Follow the steps below to apply for these benefits.
      <h3>Certify your enrollment</h3>
      The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.</li>
   <li class="process-step list-four">
-  <h3>Verify your continued enrollment each month<h3>
-    You'll then need to verify your enrollment each month to keep receiving payments.
-    **You can verify your enrollment:**
+  <h3>Verify your continued enrollment each month</h3>
+    You'll then need to verify your enrollment each month to keep receiving payments.<br>
+    <b>You can verify your enrollment:</b>
     <ul>
       <li>Online through our Web Automated Verification system (called "WAVE").<br>
         <ahref="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
