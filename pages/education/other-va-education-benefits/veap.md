@@ -12,24 +12,23 @@ aliases:
 
 <div class="va-introtext">
 
-You can continue your education by using part of your military pay to help cover the cost of school. Find out if you can get benefits through the Veterans' Educational Assistance Program (VEAP)—a $2-to-$1 government-match program for educational assistance.
+You may be able to continue your education by using part of your military pay to help cover the cost of school. Find out if you can get benefits through the Veterans' Educational Assistance Program (VEAP)—a $2-to-$1 government-match program for educational assistance.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get this benefit?
+### Can I get VEAP benefits?
 
-You can get this benefit if you meet the requirements listed below.
+You can get these benefits if you meet all of the requirements listed below.
 
 **All of these must be true. You:**
   - Entered service for the first time between January 1, 1977, and June 30, 1985, **and**
   - Opened and put money into your VEAP account before April 1, 1987, **and**
-  - Put in $25–$2,700 on your own
+  - Put in $25–$2,700 on your own, **and**
+  - Finished your first period of service and didn't receive a dishonorable discharge
 
-**And one of these must be true. You:**
-  - Finished your first period of service and didn't receive a dishonorable discharge, **or**
-  - Are currently on active duty and have at least 3 months of contributions available
+**Note:** If you're currently on active duty, you must have at least 3 months of contributions available to use your VEAP benefits.
   
 </div>
 
@@ -63,7 +62,7 @@ Money for tuition
     You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.<br>
     <br>
     <b>If you've already started training:</b><br>
-    Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
+    Take your VA Form 22-1990 application and a copy of your DD214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
     <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
   </li>
   <li class="process-step list-three">
@@ -95,7 +94,7 @@ We’ll help you pay for these types of training, programs, and fees:
 
 The amount of benefits you get (up to 36 months) will depend on how much money you put into your VEAP every month.
 
-You have 10 years from your release from active duty to use your VEAP benefits. If you don't use the money after 10 years, you can ask for a refund for the amount left in your fund.
+You have 10 years from your release from active duty to use your VEAP benefits. If you don't use the money after 10 years, we'll automatically refund it to you.
 
 **Note:** If you’re on active duty now and want to use VEAP, you must have at least 3 months of contributions in the fund.
 
@@ -109,12 +108,3 @@ To ask for a refund, complete an Application for Refund of Educational Contribut
 Send the form to your nearest VA regional benefit office. <br>
 [Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
-### Am I eligible for these benefits through the Educational Assistance Pilot Program?
-
-You may be eligible for this program if you meet all of the requirements listed below.
-
-**All of these must be true. You:**
-
-- Enlisted between Dec. 1, 1980, and Sept. 30, 1981, **and**
-- Enlisted in one of the following Air Force Specialties: 20723, 20731, 20830, 46130, 46230A, B, C, D, E, F, G, H, J, or Z, 46430, 81130, **and**
-- Enlisted at one of the following locations: Beckley, W.V.; Buffalo, N.Y.; Dallas ; Fargo, N.D.; Houston ; Jackson, Miss. ; Louisville, K y.; Memphis, T enn.; Omaha, Neb .; Philadelphia ; Seattle ; Sioux Falls, S.D.; Syracuse, N.Y.
