@@ -75,7 +75,7 @@ Money for tuition
 
 ### What’s covered under VEAP education benefits?
 
-We’ll help you pay for these types of training, programs, and fees:
+**We’ll help you pay for these types of training, programs, and fees:**
 
 - [Undergraduate and graduate degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)
 - [Co-op training](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)
@@ -85,10 +85,11 @@ We’ll help you pay for these types of training, programs, and fees:
 - [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
 - [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
 - [Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
-- In some cases:
-  - Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses),
-  - Deficiency courses (classes some student must take in order to be admitted to a certain college)
-  - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
+
+**In some cases, we'll help you pay for these types of courses:**
+- Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses),
+- Deficiency courses (classes some student must take in order to be admitted to a certain college)
+- Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
 ### How many months of benefits can I get, and how long do I have to use them?
 
