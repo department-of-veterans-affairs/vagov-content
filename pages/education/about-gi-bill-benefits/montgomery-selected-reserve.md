@@ -12,15 +12,15 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, find out if you qualify for you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. Find out if you qualify.
+If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. Find out if you qualify.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits under this program?
+### Can I get education benefits under the MGIB-SR program?
 
-You can get education benefits if you meet the requirements listed below. 
+You can get education benefits under this program if you meet the requirements listed below. 
 
 **One of these must be true:**
 - You have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
@@ -31,7 +31,7 @@ You can get education benefits if you meet the requirements listed below.
 **And all of these must also be true. You:**
 - Complete your initial active duty for training (IADT), **and**
 - Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
-- Stay in good standing while serving in an active Selected Reserve unit.
+- Stay in good standing while serving in an active Selected Reserve unit
 
 </div>
 
@@ -47,9 +47,9 @@ You can receive benefits until your eligibility period ends or you use all of yo
 If you stay in the Selected Reserve, you can stay eligible for 14 years after you started your first 6-year obligation. We may extend your eligibility period if any of the below situations occurs.
 
 **One of these must be true to extend your eligibility period:**
-- You're called up to active duty under title 10, U.S. Code (federal authority). In this case, we'll extend your eligibility by the period of your active duty plus 4 months. You receive a separate extension for each call-up, and it applies even if you leave the Selected Reserve. **Note:** By law, we can't extend your eligibility if you're called up under title 32, U.S. Code (state authority).
-- Your eligibility expires while you're enrolled in training. In this case, we'll usually extend your eligibility to the end of the term, quarter, or semester. If your school doesn't have terms, we can usually extend your eligibility for 12 weeks.
-- You can't train due to a disability caused by Selected Reserve service. In this case, you'll need to apply for an extension with a year of when your eligibility ends or your disability prevents you from getting training, whichever is later.
+- **You're called up to active duty under title 10, U.S. Code (federal authority)**. In this case, we'll extend your eligibility by the period of your active duty plus 4 months. You receive a separate extension for each call-up, and it applies even if you leave the Selected Reserve. **Note:** By law, we can't extend your eligibility if you're called up under title 32, U.S. Code (state authority).
+- **Your eligibility expires while you're enrolled in training**. In this case, we'll usually extend your eligibility to the end of the term, quarter, or semester. If your school doesn't have terms, we can usually extend your eligibility for 12 weeks.
+- **You can't train because of a disability caused by Selected Reserve service**. In this case, you'll need to apply for an extension with a year of when your eligibility ends or your disability prevents you from getting training, whichever is later.
 
 </div>
 </li>
@@ -59,10 +59,10 @@ If you stay in the Selected Reserve, you can stay eligible for 14 years after yo
  
 This depends on the reason you left. Your eligibility for this program usually ends the day you leave the Selected Reserve. But there are exceptions to this rule.
 
-You can still qualify for MGIB-SR benefits for 14 years from the date of your first 6-year obligation if you meet either of the requirements listed below.
+You can still qualify for MGIB-SR benefits for 14 years from the date of your first 6-year obligation if any of the below descriptions are true for you.
 
 **At least one of these must be true:**
-- You separated because of a disability, as long as that disability wasn't caused by misconduct, **or**
+- You separated because of a disability that wasn't caused by misconduct, **or**
 - Your unit was deactivated between October 1, 2007 and September 30, 2014, **or**
 - You were involuntarily separated for reasons other than misconduct between October 1, 2007 and September 30, 2014
 
@@ -73,7 +73,7 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 <div id="eligibility-2" class="usa-accordion-content">
 
 - **If you enter Active Guard and Reserve (AGR) status**, we'll suspend your eligibility for MGIB-SR. You can qualify again if you return to the Selected Reserve within a year of when your AGR status ends. You may qualify for MGIB-Active Duty (MGIB-AD) based on your AGR status.
-- **If you elected to have your total service in the Selected Reserve credited toward your eligibility for the MGIB-AD "2 x 4" program**, you don't qualify for MGIB-SR. This program allows you to qualify for the MGIB-AD with 2 years of active duty service without a break plus a 4-year Selected Reserve obligation as long as you enter the Selected Reserve within a year of release from active duty.
+- **If you elected to have your total service in the Selected Reserve credited toward your eligibility for the MGIB-AD "2 x 4" program**, you don't qualify for MGIB-SR. This program allows you to qualify for MGIB-AD with 2 years of active duty service without a break plus a 4-year Selected Reserve obligation as long as you enter the Selected Reserve within a year of release from active duty.
 - **If you qualify for MGIB-AD and then sign up for another 6 years in the Selected Reserve**, you can qualify for both MGIB-AD and MGID-SR.<br>
 [Learn more about the MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty).
 
@@ -95,7 +95,7 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 
 ## What benefits can I get?
 
-You can get up to $384 per month in compensation (payments) for up to 36 months.
+You can get up to $384 per month in compensation (payments) for up to 36 months.<br>
 [View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
 ------
@@ -107,30 +107,35 @@ Follow the steps below to apply for these benefits.
 <ol class="process">
   <li class="process-step list-one">
     <h3>Get your Notice of Basic Eligibility (DD Form 2384-1) from your unit</h3>
-    Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify your eligibility.
+    Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify it.
     </li>
   <li class="process-step list-two">
     <h3>Make sure we've approved your selected training program</h3>
-    If you're not sure, we can help explain the requirements to you and your school. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: <a href="tel:18008778339">1-800-877-8339</a>.
+    If you're not sure, we can help explain the requirements to you and your school. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
   </li>
   <li class="process-step list-three">
     <h3>Apply for the MGIB-SR program</h3>
+    <br>
     <h4>If you haven't started training</h4>
     Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. 
+    <br>
     <h5>You can also apply:</h5>
     <b>By mail</b>
     Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
     <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. 
     Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
     <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.
+    <br>
     <b>In person</b>
     Go to a VA regional benefit office and have a VA employee help you. Bring a copy of your VA Form 22-1990 with you.<br>
     <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.
-    Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
+    Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.<br>
+    <br>
     <b>With the help of a trained professional</b>
     You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
     <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>].
+    <br>
     <h4>If you already started training</h4>
     Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
     <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.
@@ -142,10 +147,12 @@ Follow the steps below to apply for these benefits.
   <li class="process-step list-four">
   <h3>Verify your continued enrollment each month<h3>
     You'll then need to verify your enrollment each month to keep receiving payments.
-    <h4>You can verify your enrollment:</h4>
-    - Online through our Web Automated Verification system (called "WAVE").<br>
-    <ahref=https://www.gibill.va.gov/wave/index.do>Verify your enrollment online</a>.
-    - Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.
+    **You can verify your enrollment:**
+    <ul>
+      <li>Online through our Web Automated Verification system (called "WAVE").<br>
+        <ahref="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
+      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.</li>
+    </ul>
     </li>
 </ol>
 
@@ -195,7 +202,7 @@ If your Reserve or Guard component changes their decision and decides you qualif
 
 Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
-We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY <a href="tel:18008778339">1-800-877-8339</a>.
+We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
 
 </div>
 </li>
@@ -204,7 +211,7 @@ We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="mgib-works3">What happens if I can't complete my training and receive no credit because I'm called to active duty?</button>
 <div id="mgib-works3" class="usa-accordion-content">
 
-If you can't complete your training and receive no credit because you're called to active duty under title 10, U.S. Code (federal authority), we'll restore the entitlement you used during the time you didn't get credit. This means you'll keep the money for that period and we'll add can a month to your benefits that you can use in the future.
+If you can't complete your training and receive no credit because you're called to active duty under title 10, U.S. Code (federal authority), we'll restore the entitlement you used during the time you didn't get credit. This means you'll keep the money for that period and we'll add a month to your benefits that you can use in the future.
 
 **Note:** By law, we can't restore entitlement if you're called up under title 32, U.S. Code (State authority).
 </div>
@@ -213,6 +220,6 @@ If you can't complete your training and receive no credit because you're called 
 
 ## Get more information
 - [Ask questions on the GI Bill customer service page](http://gibill.custhelp.com/). You can also search frequently asked questions.
-- Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY <a href="tel:18008778339">1-800-877-8339</a>.
+- Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase. Read our Terms of Use.
