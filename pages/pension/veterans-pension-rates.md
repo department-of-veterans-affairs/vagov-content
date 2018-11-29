@@ -27,13 +27,17 @@ Your MAPR amount = $26,036 <br>
 Your yearly income = $10,000 <br>
 Your VA pension = $16,036 for the year (or $1,336 paid each month)
 
-### Find your Maximum Annual Pension Rate (MAPR) amount
+## What's the net worth limit to qualify for a Veterans Pension?
+
+The 2018 net worth limit to qualify for a Veterans Pension is $123,600. This amount will increase by the same percentage as any Social Security cost-of-living increase. 
+
+## Find your Maximum Annual Pension Rate (MAPR) amount
 
 *Date of Cost-of-Living Increase: December 1, 2017* <br>
 *Increase Factor: 2%* <br>
 *Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
 
-#### For Veterans with no dependents:
+### For Veterans with no dependents:
 
 | **If you have no dependents and…** | **Your MAPR amount is:** |
 | --- | --- |
@@ -44,7 +48,7 @@ Your VA pension = $16,036 for the year (or $1,336 paid each month)
 **Note:** <br>
 If you have medical expenses, you may deduct only the amount that’s above 5% of your MAPR amount ($676 for a Veteran with no spouse or child).
 
-#### For Veterans with at least 1 dependent spouse or child:
+### For Veterans with at least 1 dependent spouse or child:
 
 | **If you have 1 dependent and…** | **Your MAPR amount is:** |
 | --- | --- |
@@ -57,7 +61,7 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 - **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
-#### For 2 Veterans who are married to each other:
+### For 2 Veterans who are married to each other:
 
 | **If you’re 2 Veterans who are married to each other and:** | **Your MAPR amount is:** |
 | --- | --- |
@@ -75,7 +79,7 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 
 [Get historic rate charts from past years](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
 
-#### Read full regulations from Title 38 Code of Federal Regulations
+### Read full regulations from Title 38 Code of Federal Regulations
 
 [3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
