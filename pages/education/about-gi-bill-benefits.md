@@ -56,7 +56,7 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/
       title: Tutorial Assistance
       description: If you’re using VA educational benefits and you're struggling with the coursework, find out if you can get help paying for a tutor.
-      url: /education/submit-school-feedback/
+    - url: /education/submit-school-feedback/
       title: GI Bill&reg; School Feedback Tool
       description: If you have any concerns about your GI Bill school, you can submit them to us through our GI Bill&reg; School Feedback Tool. Find out how to submit feedback about your school. 
     - url: /education/opt-out-information-sharing/
