@@ -72,14 +72,9 @@ You can get education benefits if you were honorably discharged and you meet the
 - You were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, **or**
 - You entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, and you chose MGIB between October 9, 1996, and July 9, 1997
 
-<br>
-
-### Who’s covered?
-
-Veterans
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 You may get up to 36 months of education benefits. We'll pay the benefits monthly and the amount depends on the following factors:
 
@@ -89,12 +84,14 @@ You may get up to 36 months of education benefits. We'll pay the benefits monthl
 - Whether you qualify for a college fund or kicker
 - How much you have paid into the $600 Buy-Up program
 
-### How do I get these benefits?
+**Note:** You usually have 10 years to use your MGIB-AD benefits, but the time limit can be fewer or more years depending on the situation.
+
+## How do I get these benefits?
 
 [Apply online now](/education/apply-for-education-benefits/application/1990/).
 
 
-### How can I use my MGIB-AD education benefits?
+## How can I use my MGIB-AD education benefits?
 
 You can use your GI Bill benefits in many ways to advance your education and training.
 
@@ -131,3 +128,4 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 [Read the Montgomery GI Bill Active Duty pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf).
 
 “GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+
