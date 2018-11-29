@@ -52,20 +52,27 @@ Money for tuition
   </li>
   <li class="process-step list-two">
     <h3>Apply for benefits</h3>
-    <h4>If you haven't started training</h4><br>
+    <br>
+    <b>If you haven't started training:</b><br>
     Submit an Application for VA education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/introduction">Apply for education benefits online now</a>.
     You can also apply by mail, in person, or with the help of a trained professional. <br>
     <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
-    <h4>If you're on active duty</h4><br>
+    <b>If you're on active duty:</b><br>
     You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.<br>
-    <h4>If you've already started training</h4><br>
+    <b>If you've already started training:</b><br>
     Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
     <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
+  </li>
+  <li class="process-step list=three">
+  <h3>Verify your enrollment</h3><br>
+  Ask your school or training official to verify your enrollment with us. We'll review your application and let you know if we need anything else.
+  </li>
+</ol>
 
 ## More questions about VEAP benefits
 
-#### What’s covered under VEAP education benefits?
+### What’s covered under VEAP education benefits?
 
 We’ll help you pay for these types of training, programs, and fees:
 
@@ -82,7 +89,7 @@ We’ll help you pay for these types of training, programs, and fees:
   - Deficiency courses (classes some student must take in order to be admitted to a certain college)
   - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
-#### How many months of benefits can I get, and how long do I have to use them?
+### How many months of benefits can I get, and how long do I have to use them?
 
 The amount of benefits you get (up to 36 months) will depend on how much money you put into your VEAP every month.
 
@@ -90,7 +97,7 @@ You have 10 years from your release from active duty to use your VEAP benefits. 
 
 **Note:** If you’re on active duty now and want to use VEAP, you must have at least 3 months of contributions in the fund.
 
-#### Can I get the money back that I put into my VEAP account?
+### Can I get the money back that I put into my VEAP account?
 
 Yes. You can withdraw the money in your VEAP account if you don’t meet basic qualifying requirements or if you formally ask for a refund.
 
@@ -100,7 +107,7 @@ To ask for a refund, complete an Application for Refund of Educational Contribut
 Send the form to your nearest VA regional benefit office. <br>
 [Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
-#### Am I eligible for these benefits through the Educational Assistance Pilot Program?
+### Am I eligible for these benefits through the Educational Assistance Pilot Program?
 
 You may be eligible for this program if you meet all of the requirements listed below.
 
