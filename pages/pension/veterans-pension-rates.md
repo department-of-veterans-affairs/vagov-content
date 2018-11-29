@@ -37,41 +37,41 @@ Your VA pension = $16,036 for the year (or $1,336 paid each month)
 
 | **If you have no dependents and…** | **Your MAPR amount is:** |
 | --- | --- |
-| You don’t qualify for Housebound or Aid and Attendance benefits | $13,166 |
-| You qualify for Housebound benefits | $16,089 |
-| You qualify for Aid and Attendance benefits | $21,962 |
+| You don’t qualify for Housebound or Aid and Attendance benefits | $13,535 |
+| You qualify for Housebound benefits | $16,540 |
+| You qualify for Aid and Attendance benefits | $22,577 |
 
 **Note:** <br>
-If you have medical expenses, you may deduct only the amount that’s above 5% of your MAPR amount ($659 for a Veteran with no spouse or child).
+If you have medical expenses, you may deduct only the amount that’s above 5% of your MAPR amount ($676 for a Veteran with no spouse or child).
 
 #### For Veterans with at least 1 dependent spouse or child:
 
 | **If you have 1 dependent and…** | **Your MAPR amount is:** |
 | --- | --- |
-| You don’t qualify for Housebound or Aid and Attendance benefits | $17,241 |
-| You qualify for Housebound benefits | $20,166 |
-| You qualify for Aid and Attendance benefits | $26,036 |
+| You don’t qualify for Housebound or Aid and Attendance benefits | $17,724 |
+| You qualify for Housebound benefits | $20,731 |
+| You qualify for Aid and Attendance benefits | $26,766 |
 
 **Note:**
-- **If you have more than one dependent**, add $2,250 to your MAPR amount for each additional dependent.
-- **If you have a child who works**, you may exclude their wages up to $10,650 for 2018.
-- **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($863 for a Veteran with 1 dependent).
+- **If you have more than one dependent**, add $2,313 to your MAPR amount for each additional dependent.
+- **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
+- **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
 #### For 2 Veterans who are married to each other:
 
 | **If you’re 2 Veterans who are married to each other and:** | **Your MAPR amount is:** |
 | --- | --- |
-| Neither of you qualifies for Housebound or Aid and Attendance benefits | $17,241 |
-| One of you qualifies for Housebound benefits | $20,166 |
-| Both of you qualify for Housebound benefits | $23,087 |
-| One of you qualifies for Aid and Attendance benefits | $26,036 |
-| One of you qualifies for Housebound benefits and one of you qualifies for Aid and Attendance benefits | $28,953 |
-| Both of you qualify for Aid and Attendance benefits | $34,837 |
+| Neither of you qualifies for Housebound or Aid and Attendance benefits | $17,724 |
+| One of you qualifies for Housebound benefits | $20,731 |
+| Both of you qualify for Housebound benefits | $23,734 |
+| One of you qualifies for Aid and Attendance benefits | $26,766 |
+| One of you qualifies for Housebound benefits and one of you qualifies for Aid and Attendance benefits | $29,764 |
+| Both of you qualify for Aid and Attendance benefits | $35,813 |
 
 **Note:**
-- **If you have more than one dependent**, add $2,205 to your MAPR amount for each additional child.
-- **If you have a child who works**, you may exclude their wages up to $10,650 for 2018.
-- **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($863 for a Veteran with 1 dependent).
+- **If you have more than one dependent**, add $2,313 to your MAPR amount for each additional child.
+- **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
+- **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
 [Get historic rate charts from past years](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
 
