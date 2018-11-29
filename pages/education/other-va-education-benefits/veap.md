@@ -45,7 +45,7 @@ Money for tuition
     <h3>Make sure we've approved your selected program</h3><br>
     If you have questions, we can help you and your school understand the requirements.
     <ul>
-      <li>Call our VA Benefits Hotline at <a href="tel:+18008271000">1-800-827-1000</a>). If you have hearing loss, call TTY: 711.</li>
+      <li>Call our VA Benefits Hotline at <a href="tel:+18008271000">1-800-827-1000</a>. If you have hearing loss, call TTY: 711.</li>
       <li>Or go to a VA regional benefit office near you. <br>
         <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a>.</li>
     </ul>
@@ -58,13 +58,15 @@ Money for tuition
     <a href="/education/apply-for-education-benefits/application/1990/introduction">Apply for education benefits online now</a>.
     You can also apply by mail, in person, or with the help of a trained professional. <br>
     <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
+    <br>
     <b>If you're on active duty:</b><br>
     You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.<br>
+    <br>
     <b>If you've already started training:</b><br>
     Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
     <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
   </li>
-  <li class="process-step list=three">
+  <li class="process-step list-three">
   <h3>Verify your enrollment</h3><br>
   Ask your school or training official to verify your enrollment with us. We'll review your application and let you know if we need anything else.
   </li>
