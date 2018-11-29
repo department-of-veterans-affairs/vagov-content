@@ -38,12 +38,12 @@ Money for tuition
 
 ------
 
-## How do I get this benefit?
+## How do I get VEAP benefits?
 
 <ol class="process">
   <li class="process-step list-one">
-    ### Make sure we've approved your selected program
-        If you have questions, we can help you and your school understand the requirements.
+    <h3>Make sure we've approved your selected program</h3><br>
+    If you have questions, we can help you and your school understand the requirements.
     <ul>
       <li>Call our VA Benefits Hotline at <a href="tel:+18008271000">1-800-827-1000</a>). If you have hearing loss, call TTY: 711.</li>
       <li>Or go to a VA regional benefit office near you. <br>
@@ -51,19 +51,21 @@ Money for tuition
     </ul>
   </li>
   <li class="process-step list-two">
-    ### Apply for benefits
-    #### If you haven't started training
+    <h3>Apply for benefits</h3>
+    <h4>If you haven't started training</h4><br>
     Submit an Application for VA education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/introduction">Apply for education benefits online now</a>.
     You can also apply by mail, in person, or with the help of a trained professional. <br>
-    <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.
-    #### If you're on active duty
-    You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.
-    #### If you've already started training
-    Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us.
+    <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
+    <h4>If you're on active duty</h4><br>
+    You'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.<br>
+    <h4>If you've already started training</h4><br>
+    Take your VA Form 22-1990 application and Member Copy of DD Form 214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
     <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
 
-## What’s covered under VEAP education benefits?
+## More questions about VEAP benefits
+
+#### What’s covered under VEAP education benefits?
 
 We’ll help you pay for these types of training, programs, and fees:
 
@@ -80,7 +82,7 @@ We’ll help you pay for these types of training, programs, and fees:
   - Deficiency courses (classes some student must take in order to be admitted to a certain college)
   - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
-## How many months of benefits can I get, and how long do I have to use them?
+#### How many months of benefits can I get, and how long do I have to use them?
 
 The amount of benefits you get (up to 36 months) will depend on how much money you put into your VEAP every month.
 
@@ -88,7 +90,7 @@ You have 10 years from your release from active duty to use your VEAP benefits. 
 
 **Note:** If you’re on active duty now and want to use VEAP, you must have at least 3 months of contributions in the fund.
 
-## Can I get the money back that I put into my VEAP account?
+#### Can I get the money back that I put into my VEAP account?
 
 Yes. You can withdraw the money in your VEAP account if you don’t meet basic qualifying requirements or if you formally ask for a refund.
 
@@ -98,7 +100,7 @@ To ask for a refund, complete an Application for Refund of Educational Contribut
 Send the form to your nearest VA regional benefit office. <br>
 [Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
 
-## Am I eligible for these benefits through the Educational Assistance Pilot Program?
+#### Am I eligible for these benefits through the Educational Assistance Pilot Program?
 
 You may be eligible for this program if you meet all of the requirements listed below.
 
