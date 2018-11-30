@@ -34,7 +34,7 @@ The 2018 net worth limit to qualify for a Veterans Pension is $127,061. This amo
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
-*Date of Cost-of-Living Increase: December 1, 2017* <br>
+*Date of Cost-of-Living Increase: December 1, 2018* <br>
 *Increase Factor: 2%* <br>
 *Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
 
