@@ -13,10 +13,9 @@ aliases:
 
 <div class="va-introtext">
 
-If you served at least 2 years on active duty, you may qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. Find out if you qualify.
+If you've served on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. 
 
 </div>
-
 
 <div class="feature" markdown="1">
 
@@ -24,16 +23,20 @@ If you served at least 2 years on active duty, you may qualify for the Montgomer
 
 You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of categories below.
 
+**Note:** You can't qualify for MGIB-AD benefits unless you receive a fully honorable discharge. "Under honorable conditions" and "general" discharges don't make you eligible for this program. But, if you have more than one period of service and receive an honorable discharge from at least one service period, you may be able to qualify if that period of service meets eligibility requirements.<br>
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions).
+
 <br>
 
-#### One of the below categories must describe you
+### One of the below categories must describe you
 
-##### CATEGORY I
+#### CATEGORY I
 
 **At least one of these is true. You:**
 - Served for 3 years continuously (no breaks in service), **or**
 - Served for 2 years if that was your agreement when you enlisted, **or**
 - Served continuously for 4 years (the 2 by 4 program) if you entered the Selected Reserve within a year of leaving active duty, **or**
+- Separated early for a qualifying reason (like a service-connected disability, hardship, illness or injury that interfered with your performance of duty but wasn't caused by misconduct, or due to convenience of the government or a reduction in force in some cases)
 - Are on active duty now (if you want to use your MGIB-AD benefits while on active duty)
 
 **And all of these are true. You:**
@@ -44,7 +47,7 @@ You can get education benefits through this program if you were honorably discha
 - Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withrdrew your election not to participate during the December 1, 1988 to June 30, 1989 "open period" for withdrawal), **and**
 - Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your scholarship program)
 
-##### CATEGORY II
+#### CATEGORY II
 
 **All of these are true. You:**
 
@@ -54,8 +57,7 @@ You can get education benefits through this program if you were honorably discha
 - Served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
 - Had at least 1 day remaining of entitlement under the Vietnam Era GI Bill (Chapter 4) as of December 31, 1989
 
-
-##### CATEGORY III
+#### CATEGORY III
 
 **All of these are true. You:**
 
@@ -69,7 +71,7 @@ You can get education benefits through this program if you were honorably discha
 - Involuntarily separated on or after November 30, 1993, **or**
 - Voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
 
-##### CATEGORY IV
+#### CATEGORY IV
 
 **Both of these are true. You:**
 
@@ -86,13 +88,14 @@ You can get education benefits through this program if you were honorably discha
 
 ## What benefits can I get?
 
-You may get up to 36 months of education benefits. We'll pay the benefits monthly. The amount you'll receive depends on these  factors:
+You may get up to 36 months of education benefits. We'll pay the benefits monthly. The amount you'll receive depends on these factors:
 
 - Length of service
 - Type of educational or training program
 - Your category (as defined above)
 - Whether you qualify for a college fund or kicker
-- How much you have paid into the $600 Buy-Up program
+- How much you have paid into the $600 Buy-Up program <br>
+[Learn more about the $600 Buy-Up Program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/).
 
 **Note:** You usually have 10 years from the date of your last separation from active duty to use your MGIB-AD benefits, but this may change depending on your situation.
 
@@ -103,15 +106,24 @@ Follow the steps below to apply for these benefits.
 <ol class="process">
   <li class="process-step list-one">
     <h3>Make sure we've approved your program</h3>
-    Before you enroll, make sure we’ve approved your school for education benefits.
-Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. 
-[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
-If you still have questions about the school or program, you can submit a question to us using the GI Bill website. 
-Go to the GI Bill website. 
-If you or your qualified dependent want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
-
-
-[Apply online now](/education/apply-for-education-benefits/application/1990/).
+    Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>. <br>
+    If you still have questions about the school or program, you can call our GI Bill Hotline at 1-888-GIBILL-1 (<a href="tel+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or you can submit a question to us using the GI Bill website. <br>
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.<br> 
+    If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
+  </li>
+  <li class="process-step list-two">
+    <h3>Apply for benefits</h3>
+    You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
+    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. <br>
+    You can also apply: <br>
+    <b>By mail</b>
+    Fill out VA Form 22-1990, and send it to the VA regional processing office that's in the same location as your school.<br>
+    Download VA Form 22-1990. <br>
+    Find your VA regional processing office.<br>
+    <b>In person</b>
+    Go to a VA regional benefits office and ask a VA employee to help you.... 
+    
 
 
 ## How can I use my MGIB-AD education benefits?
