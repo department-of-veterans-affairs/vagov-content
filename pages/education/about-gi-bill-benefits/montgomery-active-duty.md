@@ -20,9 +20,9 @@ If you served at least 2 years on active duty, you may qualify for the Montgomer
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits?
+### Can I get education benefits through the MGIB-AD program?
 
-You can get education benefits if you were honorably discharged and you meet the requirements of one of categories below.
+You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of categories below.
 
 <br>
 
@@ -30,53 +30,63 @@ You can get education benefits if you were honorably discharged and you meet the
 
 ##### CATEGORY I
 
-**All of these are true:**
+**At least one of these is true. You:**
+- Served for 3 years continuously (no breaks in service), **or**
+- Served for 2 years if that was your agreement when you enlisted, **or**
+- Served continuously for 4 years (the 2 by 4 program) if you entered the Selected Reserve within a year of leaving active duty, **or**
+- Are on active duty now (if you want to use your MGIB-AD benefits while on active duty)
 
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You entered active duty for the first time after June 30, 1985, **and**
-- You had military pay reduced by $100 a month for the first 12 months of service, **and**
-- You served for 3 years continuously (no breaks in service), or for 2 years if that was your agreement when you enlisted. Or, if you entered the Selected Reserve within a year of leaving active duty, you served continuously for 4 years (the 2 by 4 program)
+**And all of these are true. You:**
+
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Entered active duty for the first time after June 30, 1985, **and**
+- Had military pay reduced by $100 a month for the first 12 months of service, **and**
+- Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withrdrew your election not to participate during the December 1, 1988 to June 30, 1989 "open period" for withdrawal), **and**
+- Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your scholarship program)
 
 ##### CATEGORY II
 
-**All of these are true:**
+**All of these are true. You:**
 
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You entered active duty before January 1, 1977, or you entered active duty before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977, **and**
-- You served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
-- You had at least 1 day remaining of chapter 34 entitlement as of December 31, 1989
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Entered active duty before January 1, 1977, or you entered active duty before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977, **and**
+- Weren't commissioned after December 31, 1976 as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your ROTC program), **and**
+- Served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
+- Had at least 1 day remaining of entitlement under the Vietnam Era GI Bill (Chapter 4) as of December 31, 1989
+
 
 ##### CATEGORY III
 
-**All of these are true:**
+**All of these are true. You:**
 
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You don’t qualify for MGIB under categories I or II, **and**
-- Before separation, you had military pay reduced by $1,200
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Don’t qualify for MGIB under categories I or II, **and**
+- Had military pay reduced by $1,200 before separation
 
-**And one of these is true:**
+**And one of these is true. You:**
 
-- You were on active duty on September 30, 1990, and you separated involuntarily (not by your choice) after February 2, 1991, **or**
-- You involuntarily separated on or after November 30, 1993, **or**
-- You voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
+- Were on active duty on September 30, 1990, and you separated involuntarily (not by your choice) after February 2, 1991, **or**
+- Involuntarily separated on or after November 30, 1993, **or**
+- Voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
 
 ##### CATEGORY IV
 
-**Both of these are true:**
+**Both of these are true. You:**
 
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You had military pay reduced by $100 a month for 12 months or made a $1,200 lump-sum contribution (meaning you paid it all at once)
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Had military pay reduced by $100 a month for 12 months or made a $1,200 lump-sum contribution (meaning you paid it all at once)
 
-**And one of these is true:**
+**And one of these is true. You:**
 
-- You were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, **or**
-- You entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, and you chose MGIB between October 9, 1996, and July 9, 1997
+- Were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service), **or**
+- Were participating in VEAP on or before October 9, 1996 (even if you don't have any money in your VEAP account), served on active duty from October 9, 1996 through April 1, 2000, elected MGIB by October 31, 2001, and contributed $2,700 to MGIB within 18 months of the election, **or**
+- Entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, chose MGIB between October 9, 1996, and July 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service)
 
 </div>
 
 ## What benefits can I get?
 
-You may get up to 36 months of education benefits. We'll pay the benefits monthly and the amount depends on the following factors:
+You may get up to 36 months of education benefits. We'll pay the benefits monthly. The amount you'll receive depends on these  factors:
 
 - Length of service
 - Type of educational or training program
@@ -84,9 +94,22 @@ You may get up to 36 months of education benefits. We'll pay the benefits monthl
 - Whether you qualify for a college fund or kicker
 - How much you have paid into the $600 Buy-Up program
 
-**Note:** You usually have 10 years to use your MGIB-AD benefits, but the time limit can be fewer or more years depending on the situation.
+**Note:** You usually have 10 years from the date of your last separation from active duty to use your MGIB-AD benefits, but this may change depending on your situation.
 
 ## How do I get these benefits?
+
+Follow the steps below to apply for these benefits.
+
+<ol class="process">
+  <li class="process-step list-one">
+    <h3>Make sure we've approved your program</h3>
+    Before you enroll, make sure we’ve approved your school for education benefits.
+Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. 
+[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
+If you still have questions about the school or program, you can submit a question to us using the GI Bill website. 
+Go to the GI Bill website. 
+If you or your qualified dependent want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
+
 
 [Apply online now](/education/apply-for-education-benefits/application/1990/).
 
