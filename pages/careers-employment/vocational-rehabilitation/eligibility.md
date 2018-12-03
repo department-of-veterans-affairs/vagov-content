@@ -98,6 +98,19 @@ You can apply online right now.
 - Supportive rehabilitation services including case management, counseling, and medical referrals
 - Independent living services if you're unable to work due to the severity of your disabilities
 
+### What happens after I apply for VR&E services? 
+After you apply, we'll schedule a meeting for you with a Vocational Rehabilitation Counselor (VRC) to find out if you have an employment handicap and if you’re eligible for VR&E benefits and services. You have an employment handicap if your service-connected disability limits your ability to prepare for, obtain, and maintain suitable employment (a job that doesn’t make your disability worse, is stable, and matches your abilities, aptitudes, and interests).
+
+After we make an entitlement decision, you and your counselor will work together to develop a rehabilitation plan. 
+
+### What's included in a rehabilitation plan? 
+A rehabilitation plan is a written plan that outlines the resources we'll use to help you find employment. Depending on your situation, your VRC will work with you to choose one of the following support-and-services tracks to help you find and keep a job, and live as independently as possible: 
+- Reemployment with a former employer
+- Job placement and counseling services for new employment
+- Help with starting your own business 
+- Long-term training or services to help you find work in a different field that better suits your abilities and interests
+- Independent living services if you can’t return to work right away 
+
 <br>
 
 ### Get more information
