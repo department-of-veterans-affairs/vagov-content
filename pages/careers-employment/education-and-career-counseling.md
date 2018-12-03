@@ -56,4 +56,9 @@ You’ll need to apply:
 3. Select “Vocational Rehabilitation and Employment Benefits.”
 4. Apply for “Educational and Career Counseling.”<br /><br />
 
+You can also apply by mail using an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
+[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf). <br>
+Mail the completed form to your nearest VA regional office.<br> 
+[Find your nearest VA regional office](/facilities/).
+
 If you qualify, we’ll invite you to an orientation session at a VA regional office near you. You can also use CareerScope&reg; to find careers you might enjoy. [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
