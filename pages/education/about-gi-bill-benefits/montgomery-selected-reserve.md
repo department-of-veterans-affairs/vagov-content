@@ -84,9 +84,7 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 <div id="eligibility-3" class="usa-accordion-content">
 
 - **If you receive a Senior ROTC (SROTC) scholarship for serving as an officer on active duty in the Army, Navy, Air Force, or Marine Corps (section 2107 of title 10, U.S. Code)**, you can't get MGIB-SR benefits at the same time. If you receive only a monthly stipend, you can still qualify for MGIB-SR benefits.
-
 - **If you receive an ROTC scholarship for serving as an officer in the Army Reserve or Army National Guard (section 2107a of title 10, U.S. Code)**, you can still receive MGIB-SR benefits.
-
 - **If you graduate from a service academy**, you can still receive MGIB-SR benefits.
 
 </div>
@@ -120,11 +118,10 @@ Follow the steps below to apply for these benefits.
     Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. 
     <br>
-    <b>You can also apply:</b>
+    <b>You can also apply:</b><br>
     <b>By mail</b><br>
-    Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. 
-    Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
+    Fill out VA Form 22-1990. Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.<br>
     <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.<br>
     <b>In person</b><br>
     Go to a VA regional benefit office and have a VA employee help you. Bring a copy of your VA Form 22-1990 with you.<br>
@@ -132,11 +129,11 @@ Follow the steps below to apply for these benefits.
     Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.<br>
     <b>With the help of a trained professional</b><br>
     You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
-    <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>].<br>
+    <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>.<br>
     <br>
     <h4>If you already started training</h4>
     Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. <br>
     Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.
   </li>
    <li class="process-step list-three">
