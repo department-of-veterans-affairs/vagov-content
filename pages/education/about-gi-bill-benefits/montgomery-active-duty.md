@@ -108,23 +108,41 @@ Follow the steps below to apply for these benefits.
     <h3>Make sure we've approved your program</h3>
     Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
     <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>. <br>
-    If you still have questions about the school or program, you can call our GI Bill Hotline at 1-888-GIBILL-1 (<a href="tel+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or you can submit a question to us using the GI Bill website. <br>
+    If you still have questions about the school or program, you can call our GI Bill Hotline at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or you can submit a question to us using the GI Bill website. <br>
     <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.<br> 
-    If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
+    <b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
   </li>
   <li class="process-step list-two">
     <h3>Apply for benefits</h3>
     You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. <br>
-    You can also apply: <br>
+    <b>You can also apply:</b> <br>
     <b>By mail</b>
     Fill out VA Form 22-1990, and send it to the VA regional processing office that's in the same location as your school.<br>
-    Download VA Form 22-1990. <br>
-    Find your VA regional processing office.<br>
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. <br>
+    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.<br>
     <b>In person</b>
-    Go to a VA regional benefits office and ask a VA employee to help you.... 
-    
-
+    Go to a VA regional benefits office and ask a VA employee to help you. Bring a copy of your VA Form 22-1990 with you.<br>
+    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>. <br>
+    <b>With the help of a trained professional</b> <br>
+    You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
+    <a href="/disability/get-help-filing-claim/">Get help finding your claim</a>.
+  </li>
+  <li class="process-step list-three">
+    <h3>Verify your enrollment</h3><br>
+    Ask your school or training official to certify your enrollment with us. The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.
+    </li>
+  <li class="process-step list-four">
+  <h3>Verify your continued enrollment each month</h3>
+    You'll then need to verify your enrollment each month to keep receiving payments.<br>
+    <b>You can verify your enrollment:</b>
+    <ul>
+      <li>Online through our Web Automated Verification system (called "WAVE").<br>
+        <ahref="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
+      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.</li>
+    </ul>
+    </li>
+</ol>
 
 ## How can I use my MGIB-AD education benefits?
 
@@ -159,8 +177,11 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 - [Accelerated payments for high-tech programs](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
 - [$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/): While on active duty, you can pay into this program up to a maximum (the highest amount allowed) of $600 to get increased monthly benefits. If you pay the maximum amount, you can qualify for up to $5,400 in added GI Bill benefits.
 
+## Get more information
+
 [Use the GI Bill Comparison Tool to compare benefits at schools](/gi-bill-comparison-tool). <br>
 [Read the Montgomery GI Bill Active Duty pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf).
 
-“GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+“GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” <br>
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
 
