@@ -63,3 +63,6 @@ Mail the completed form to your nearest VA regional office.<br>
 [Find your nearest VA regional office](/facilities/).
 
 If you qualify, we’ll invite you to an orientation session at a VA regional office near you. You can also use CareerScope&reg; to find careers you might enjoy. [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
+
+[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be).
+
