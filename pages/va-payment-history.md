@@ -24,6 +24,15 @@ Find out how to view your payment history for VA benefits.
   </div>
 </div>
 
+<div aria-live="polite" role="alert" class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">We've started our busy spring enrollment season</h3>
+    <div class="usa-alert-text">
+      We process more GI Bill payments during this busy time of year, and we expect to keep up with the increase. But if your monthly payment is delayed, and you’re having trouble paying your bills or meeting your basic needs, please call us at <a href="tel:+18884424551">1-888-442-4551</a>. We're here Monday through Friday, 7:00 a.m. - 6:00 p.m. (CT).
+    </div>
+  </div>
+</div>
+
 <div itemscope itemtype="http://schema.org/Question">
 
 <h2 itemprop="name">What payment information can I view when I sign in?</h2>
