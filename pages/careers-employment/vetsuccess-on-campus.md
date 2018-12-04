@@ -42,5 +42,6 @@ This program is also available to dependents of Veterans who meet at least one o
 - [Are eligible for the Survivors’ and Dependents’ Educational Assistance Program](/education/survivor-dependent-benefits/dependents-education-assistance/), **or**
 - Have had GI Bill benefits transferred from a spouse or parent, **or**
 - [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
+<br>
 
 [Watch this video to learn more about VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg).
