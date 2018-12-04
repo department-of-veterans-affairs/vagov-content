@@ -87,7 +87,7 @@ Ask your school to include your request for accelerated payment when they send y
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">View a list of approved high-tech programs for recipients of the Montgomery GI Bill Active Duty (MGB-AD)</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">View approved high-tech programs for Montgomery GI Bill Active Duty recipients</button>
 <div id="questions-risk" class="usa-accordion-content">
 
 These programs are approved only for active-duty GI Bill recipients:
