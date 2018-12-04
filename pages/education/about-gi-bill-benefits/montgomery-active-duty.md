@@ -23,9 +23,6 @@ If you've served on active duty, find out if you qualify for the Montgomery GI B
 
 You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of categories below.
 
-**Note:** You can't qualify for MGIB-AD benefits unless you receive a fully honorable discharge. "Under honorable conditions" and "general" discharges don't make you eligible for this program. But, if you have more than one period of service and receive an honorable discharge from at least one service period, you may be able to qualify if that period of service meets eligibility requirements.<br>
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions).
-
 <br>
 
 ### One of the below categories must describe you
@@ -40,17 +37,15 @@ You can get education benefits through this program if you were honorably discha
 - Are on active duty now (if you want to use your MGIB-AD benefits while on active duty)
 
 **And all of these are true. You:**
-
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Entered active duty for the first time after June 30, 1985, **and**
 - Had military pay reduced by $100 a month for the first 12 months of service, **and**
-- Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withrdrew your election not to participate during the December 1, 1988 to June 30, 1989 "open period" for withdrawal), **and**
+- Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withdrew your election not to participate during the December 1, 1988 to June 30, 1989 "open period" for withdrawal), **and**
 - Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your scholarship program)
 
 #### CATEGORY II
 
 **All of these are true. You:**
-
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Entered active duty before January 1, 1977, or you entered active duty before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977, **and**
 - Weren't commissioned after December 31, 1976 as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your ROTC program), **and**
@@ -60,13 +55,11 @@ You can get education benefits through this program if you were honorably discha
 #### CATEGORY III
 
 **All of these are true. You:**
-
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Don’t qualify for MGIB under categories I or II, **and**
 - Had military pay reduced by $1,200 before separation
 
 **And one of these is true. You:**
-
 - Were on active duty on September 30, 1990, and you separated involuntarily (not by your choice) after February 2, 1991, **or**
 - Involuntarily separated on or after November 30, 1993, **or**
 - Voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
@@ -74,12 +67,10 @@ You can get education benefits through this program if you were honorably discha
 #### CATEGORY IV
 
 **Both of these are true. You:**
-
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Had military pay reduced by $100 a month for 12 months or made a $1,200 lump-sum contribution (meaning you paid it all at once)
 
 **And one of these is true. You:**
-
 - Were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service), **or**
 - Were participating in VEAP on or before October 9, 1996 (even if you don't have any money in your VEAP account), served on active duty from October 9, 1996 through April 1, 2000, elected MGIB by October 31, 2001, and contributed $2,700 to MGIB within 18 months of the election, **or**
 - Entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, chose MGIB between October 9, 1996, and July 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service)
@@ -96,8 +87,6 @@ You may get up to 36 months of education benefits. We'll pay the benefits monthl
 - Whether you qualify for a college fund or kicker
 - How much you have paid into the $600 Buy-Up program <br>
 [Learn more about the $600 Buy-Up Program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/).
-
-**Note:** You usually have 10 years from the date of your last separation from active duty to use your MGIB-AD benefits, but this may change depending on your situation.
 
 ## How do I get these benefits?
 
@@ -138,7 +127,7 @@ Follow the steps below to apply for these benefits.
     <b>You can verify your enrollment:</b>
     <ul>
       <li>Online through our Web Automated Verification system (called "WAVE").<br>
-        <ahref="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
+        <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
       <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.</li>
     </ul>
     </li>
@@ -176,6 +165,87 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 - [Tuition Assistance Top-Up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
 - [Accelerated payments for high-tech programs](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
 - [$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/): While on active duty, you can pay into this program up to a maximum (the highest amount allowed) of $600 to get increased monthly benefits. If you pay the maximum amount, you can qualify for up to $5,400 in added GI Bill benefits.
+
+## More questions about how MGIB-AD benefits work
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="howmgibadworks-0">Do I have to have received a fully honorable discharge to qualify for MGIB-AD benefits?</button>
+<div id="howmgibadworks-0" class="usa-accordion-content">
+
+Yes. You can't qualify for MGIB-AD benefits unless you receive a fully honorable discharge. "Under honorable conditions" and "general" discharges don't make you eligible for this program. <br>
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions). <br>
+
+If you have more than one period of service and receive an honorable discharge from at least one service period, you may be able to qualify if that period of service meets eligibility requirements.<br>
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgibad-works1">Can I still get MGIB-AD benefits if I receive repayment from the military for an education loan?</button>
+<div id="mgibad-works1" class="usa-accordion-content">
+
+This depends on your situation.
+
+**If you declined MGIB because you receive repayment for an education loan**, you're not eligible for MGIB-AD benefits.
+
+**If you didn't decline MGIB and have received loan repayment**, you can still qualify for MGIB-AD. But we'll subtract the months counted toward your loan repayment from the total amount of MGIB benefits you can receive.
+
+**If you receive loan repayment for one period of active duty, but served another period of active duty**, you may still qualify for up to 36 months of benefits based on your additional period of active duty as long as you didn't decline MGIB.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">How long will I remain eligible for MGID-AD benefits after separating from active duty?</button>
+<div id="eligibility-1" class="usa-accordion-content">
+ 
+In general, you'll be eligible for MGID-AD benefits for 10 years from the date of your last separation from active duty, or when you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
+
+We may extend your eligibility period if any of the below situations occurs.
+
+**One of these must be true to extend your eligibility period:**
+- **You couldn't train for a period of time because of a disability or because you were held by a foreign government power**. In this case, we'll extend your eligibility period by the amount of time you were prevented from training.
+- **You reenter active duty and serve for at least 90 days all at once with no breaks** (not counting any period of active duty for training). In this case, your new eligibility period will begin after your last separation from active duty.
+- **You reenter active duty and serve for less than 90 days because you're separated for a qualified reason**. These include a service-connected disability, a medical condition that you had before entering active duty, a hardship, or a reduction in force. In this case, your new eligibility period will begin after your last separation from active duty.
+- **You serve 2 or more years on active duty and then 4 or more years in the Selected Reserve**. In this case, you have 10 years from your release from active duty or 10 years from when you complete your Selected Service period, whichever is later.
+
+</div>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgibad-works2">Can I get the full amount of benefits if I leave active duty early?</button>
+<div id="mgibad-works2" class="usa-accordion-content">
+
+This depends on your situation.
+
+<b>If you qualify for MGIB-AD benefits under Category I above with an early separation for Convenience of the Government</b>, you may be eligible for the full 36 months of MGIB-AD benefits. Note that to qualify under this reason, you must have:
+<ul>
+  <li>30 months of continuous active duty if your obligation was 3 or more years, <b>or</b></li>
+  <li>20 months of continuous active duty if your obligation was less than 3 years</li>
+</ul>
+<b>If you qualify for MGIB under Category I above for any of the reasons listed below</b>, you'll be eligible for less than 36 months. You'll earn one month of benefits for each month you served on active duty.
+
+Reasons for early separation that fall under this category include:
+<ul>
+  <li>A service-connected disability</li>
+  <li>Hardship</li>
+  <li>A medical condition that you had before entering service</li>
+  <li>A physical or mental condition that interfered with your ability to perform your duty and didn't result from misconduct on your part<li>
+  <li>A reduction in force (RIF) in some cases.</li>
+</ul>
+
+<b>Note:</b> If you leave service early, don't assume your separation reason meets the requirement for MGIB benefits. Check with your education services officer or education counselor before you separate to make sure you don't lose your benefits.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-2">Can I qualify for more than one VA education benefit?</button>
+<div id="eligibility-2" class="usa-accordion-content">
+
+Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
+
+We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
+</div>
+</li>
+</ul>
 
 ## Get more information
 
