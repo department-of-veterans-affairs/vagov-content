@@ -31,3 +31,7 @@ aliases:
 [Operation Pave: Paving Access for Veterans Employment](http://www.pva.org/site/c.ajIRK9NJLcJ2E/b.7750849/k.36C/Operation_PAVE_Paving_Access_for_Veterans_Employment.htm) helps Veterans with spinal-cord injuries find jobs and access resources for workplace accommodations. Workplace accommodations are changes or adjustments to a job, work environment, or work process that set you up to do your job despite your disability. Examples of workplace accommodations include special equipment, ramps to make buildings wheelchair accessible, or modified work schedules.
 
 [Veterans' Employment and Training Service (VETS)](https://www.dol.gov/vets/) provides Veterans, Servicemembers, and family members with employment resources and advice. VETS also gives information on how Veterans can protect their employment rights. 
+
+[VA for Vets](https://www.vaforvets.va.gov/) The Veteran Employment Services Office's (VESO) site helps Veterans and Servicemembers transitioning to civilian life find a job. 
+
+[The National Resource Directory](https://nrd.gov/) provides links to employment resources across all government agencies. 
