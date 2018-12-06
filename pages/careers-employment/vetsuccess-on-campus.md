@@ -44,4 +44,7 @@ This program is also available to dependents of Veterans who meet at least one o
 - [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
 <br>
 
-[Watch this video to learn more about VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg).
+**Watch these videos to learn more about VetSuccess on Campus:** <br>
+[VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg) <br>
+[VSOC resources available to Veterans](https://www.youtube.com/watch?v=NWLClB5TX_k&feature=youtu.be) <br>
+[VSOC mentor program](https://www.youtube.com/watch?v=9bSkspOd_uo&feature=youtu.be)
