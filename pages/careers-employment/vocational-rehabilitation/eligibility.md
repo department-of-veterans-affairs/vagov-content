@@ -111,8 +111,9 @@ A rehabilitation plan is a written plan that outlines the resources we'll use to
 - Long-term training or services to help you find work in a different field that better suits your abilities and interests
 - Independent living services if you can’t return to work right away 
 
-
-[Watch this video to learn more about VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be).
+**Watch these videos to learn more about VR&E:**<br>
+[VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>
+[VR&E's 5 Tracks to Employment](https://www.youtube.com/watch?v=iWjc8aYPqqg&feature=youtu.be)
 <br>
 
 ### Get more information
