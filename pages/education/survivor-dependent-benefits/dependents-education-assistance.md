@@ -52,6 +52,7 @@ Qualified dependents
 We’ll make a monthly payment to the school of up to $1,041 for up to 45 months for:
 - College or graduate degree programs
 - Career-training certificate courses
+- Education and career counseling
 - Apprenticeships
 - On-the-job training
 
