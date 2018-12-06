@@ -32,6 +32,11 @@ VetSuccess on Campus (VSOC) supports Veterans, Servicemembers, and some eligible
 Our counselors can help you with your Veterans’ benefits, which may include VA health services and education benefits. They can also show you how to get referrals for health services and disability accommodations (like help with taking notes or completing writing assignments) in the classroom. <br>
 [Find out if your college has a VSOC Counselor](http://www.benefits.va.gov/vocrehab/vsoc.asp).
 
+**Watch these videos to learn more about VetSuccess on Campus:** <br>
+[VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg) <br>
+[VSOC resources available to Veterans](https://www.youtube.com/watch?v=NWLClB5TX_k&feature=youtu.be) <br>
+[VSOC mentor program](https://www.youtube.com/watch?v=9bSkspOd_uo&feature=youtu.be)
+
 ### VetSuccess for dependents
 
 This program is also available to dependents of Veterans who meet at least one of the requirements listed below.
@@ -44,7 +49,4 @@ This program is also available to dependents of Veterans who meet at least one o
 - [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
 <br>
 
-**Watch these videos to learn more about VetSuccess on Campus:** <br>
-[VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg) <br>
-[VSOC resources available to Veterans](https://www.youtube.com/watch?v=NWLClB5TX_k&feature=youtu.be) <br>
-[VSOC mentor program](https://www.youtube.com/watch?v=9bSkspOd_uo&feature=youtu.be)
+
