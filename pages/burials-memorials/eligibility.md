@@ -70,7 +70,7 @@ At the time of need, the person planning the burial can also request other honor
 
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/). <br />
-[Learn about memorials and burial honors](/burials-memorials/honor/). <br>
+[Learn about memorials and burial honors](/burials-memorials/memorial-items/). <br>
 [See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf).
 
 
@@ -90,13 +90,10 @@ Yes. You can plan ahead to make the process of applying for a burial in a VA nat
  **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
  [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp).
  
- ### How can I make sure my family members have all the information and documents they need to plan for the future?
+## How can I make sure my family members have all the information and documents they need to plan for the future?
 Our Survivors and Burial Benefits Kit can guide you and your family members through the planning process so they have what they need to prepare for the future and get the benefits they're entitled to. This kit, called "Planning Your Legacy," includes:
 - Information about survivors’ benefits
 - Sample forms you and your family members may need to fill out
 - A section where you can record the personal information your family members will need and the location of important documents, like your birth certificate or will
 
  [Plan ahead using the VA Survivors and Burial Benefits Kit](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf).
-
-**Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility. <br>
-[Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp).
