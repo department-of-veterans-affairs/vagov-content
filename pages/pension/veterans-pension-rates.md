@@ -35,7 +35,7 @@ The 2018 net worth limit to qualify for a Veterans Pension is $127,061. We've re
 
 ## What's a transfer penalty?
 
-A transfer penalty is a period of time when you aren't eligibile for a Veterans Pension. This temporary loss of pension benefits happens only if you transfer assets that make your net worth greater than the VA net worth limit for a Veterans Pension. The current penalty period rate is $2,230. This dollar amount is used to determine the transfer penalty.
+A transfer penalty is a period of time when a Veteran isn't eligible for pension benefits because of the way they transferred assets. We'll apply this penalty only if you transfer assets in the 3 years before you apply for a Veterans Pension—and the transfer lowers your net worth and allows you to qualify for pension benefits. The current penalty period rate is $2,230. This dollar amount is used to determine the transfer penalty.
 
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
