@@ -69,8 +69,8 @@ At the time of need, the person planning the burial can also request other honor
 - [Headstone, marker, niche cover, or medallion to identify a gravesite located outside a VA national cemetery](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 
-[Learn about the burial planning process](/burials-memorials/plan-a-burial/). <br />
-[Learn about memorials and burial honors](/burials-memorials/memorial-items/). <br>
+[Learn about the burial planning process](/burials-memorials/plan-a-burial/). <br>
+[Learn about memorial items](/burials-memorials/memorial-items/). <br>
 [See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf).
 
 
