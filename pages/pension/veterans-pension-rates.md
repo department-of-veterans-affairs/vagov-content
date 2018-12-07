@@ -29,9 +29,13 @@ Your VA pension = $16,036 for the year (or $1,336 paid each month)
 
 ## What's the net worth limit to qualify for a Veterans Pension?
 
-The 2018 net worth limit to qualify for a Veterans Pension is $127,061. We've recently changed the way we determine this rate to make the decision process simpler and more fair for all Veterans. The current penalty period rate is $2,230.
+The 2018 net worth limit to qualify for a Veterans Pension is $127,061. We've recently changed the way we determine this rate to make the decision process simpler and more fair for all Veterans. 
 
 **Note:** In the future, the net worth limit will increase by the same percentage as Social Security cost-of-living increases. We'll update the limit here when there's an increase.
+
+## What's a transfer penalty?
+
+A transfer penalty is a period of time when you aren't eligibile for a Veterans Pension. This temporary loss of pension benefits happens only if you transfer assets that make your net worth greater than the VA net worth limit for a Veterans Pension. The current penalty period rate is $2,230. This dollar amount is used to determine the transfer penalty.
 
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
