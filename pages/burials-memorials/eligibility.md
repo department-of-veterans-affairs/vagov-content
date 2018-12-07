@@ -76,8 +76,9 @@ At the time of need, the person planning the burial can also request other honor
 
 ## If I'm the survivor of a Veteran or Servicemember, what other benefits can I get?
 
-We give the surviving spouse, children, and parents of deceased Servicemembers and Veterans a range of benefits. These may include tax-free monetary benefits and help paying for the funeral service. <br>
-[Learn about survivor benefits](/burials-memorials/survivor-and-dependent-benefits/).
+We give the surviving spouse, children, and parents of Veterans and Servicemembers a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance).
+[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/). 
+[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/).
 
 -------
 
