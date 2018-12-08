@@ -30,9 +30,13 @@ Your VA pension = $6,837 for the year (or $569 paid each month)
 
 ## What's the net worth limit to qualify for a Survivors Pension?
 
-The 2018 net worth limit to qualify for a Survivors Pension is $127,061. We've recently changed the way we determine this rate to make the decision process simpler and more fair for all survivors. The current penalty period rate is $2,230.
+The 2018 net worth limit to qualify for a Survivors Pension is $127,061. We've recently changed the way we determine this rate to make the decision process simpler and more fair for all survivors seeking pension benefits. 
 
 **Note:** In the future, the net worth limit will increase by the same percentage as Social Security cost-of-living increases. We'll update the limit here when there's an increase.
+
+## What's a transfer penalty?
+
+A transfer penalty is a period of time when a survivor isn't eligible for pension benefits because of the way they transferred assets. We'll apply this penalty only if you transfer assets in the 3 years before you apply for a Survivors Pension—and the transfer lowers your net worth enough for you to qualify for pension benefits. The current penalty period rate is $2,230. This dollar amount is used to determine the transfer penalty.
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
