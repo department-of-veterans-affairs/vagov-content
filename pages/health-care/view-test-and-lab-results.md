@@ -26,7 +26,7 @@ With our Labs + Tests tool, you can view your VA lab and test results online thr
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-The Labs + Tests is part of the My HealtheVet personal health record. It can help you view and keep a record of your lab and test results.
+The Labs + Tests tool is part of the My HealtheVet personal health record. It can help you view and keep a record of your lab and test results.
 
 **You can use the Labs + Tests tool to:**
 - View some of your VA lab and test results (like blood tests)
