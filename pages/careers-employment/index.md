@@ -176,7 +176,7 @@ hublinks:
         to college life.
       external: false
     - url: https://www.benefits.va.gov/vocrehab/program_definitions.asp
-      label: Vocational Rehab and Employment Glossary
+      label: Voc Rehab and Employment Glossary
       description: See the definitions of our programs and other common terms you may read when learning about Vocational Rehabilitation and Employment benefits.
       external: false
     - url: https://www.benefits.va.gov/vocrehab/success_stories.asp
