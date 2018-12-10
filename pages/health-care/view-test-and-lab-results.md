@@ -14,7 +14,7 @@ children:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-View your VA lab and test results online through your My HealtheVet personal health record. Find out if you're eligible to use this tool and how to sign in.
+With our Labs + Tests tool, you can view your VA lab and test results online through your My HealtheVet personal health record. Find out if you're eligible to use this tool and how to sign in.
 
 </div>
 
@@ -22,11 +22,11 @@ View your VA lab and test results online through your My HealtheVet personal hea
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">How can the VA Labs + Tests tool help me manage my health care?</h2>
+<h2 itemprop="name">How can this tool help me manage my health care?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Labs + Tests is part of the My HealtheVet personal health record. It can help you view and keep a record of your lab and test results.
+The Labs + Tests is part of the My HealtheVet personal health record. It can help you view and keep a record of your lab and test results.
 
 **You can use the Labs + Tests tool to:**
 - View some of your VA lab and test results (like blood tests)
