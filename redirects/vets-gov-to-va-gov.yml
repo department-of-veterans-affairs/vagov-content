@@ -511,9 +511,6 @@
 - vets_gov_src: faq/
   va_gov_dest: sign-in-faq/
   retain_path: false
-- vets_gov_src: health-care/medical-information-terms-conditions/
-  va_gov_dest: health-care/
-  retain_path: false
 - vets_gov_src: beta-enrollment/claim-increase/
   va_gov_dest: disability-benefits/apply/form-526-disability-claim/
   retain_path: false
