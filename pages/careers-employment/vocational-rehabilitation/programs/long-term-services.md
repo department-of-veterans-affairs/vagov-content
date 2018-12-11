@@ -123,4 +123,6 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 - Counselors to help you transition from military to college life. <br>
 [Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
 - Links to more resources outside VA that can help you in your job search. <br>
-[See our list of external resources](/careers-employment/veteran-resources/).
+[See our list of external resources](/careers-employment/veteran-resources/).<br>
+- If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may be eligible for an additional two months of the Employment Adjustment Allowance.<br>
+[Contact your VR&E counselor for more information](/facilities/).
