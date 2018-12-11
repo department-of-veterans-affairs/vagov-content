@@ -27,30 +27,30 @@ You may be eligible for this program if you and your school meet the requirement
 
 **To qualify, at least one of these must be true. You:**
 
-- Served at least 36 months on active duty (either all at once or total over separate time periods), **or**
+- Served at least 36 months on active duty (either all at once or with breaks in service), **or**
 - Received a Purple Heart and were honorably discharged after any amount of service, **or**
-- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were discharged after 60 days with a service-connected disability, **or**
+- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001, and were discharged after 60 days with a service-connected disability, **or**
 - Are a dependent child using benefits transferred by a Veteran or a Servicemember who has served for at least 36 months on active duty and qualifies at the 100% level
 
-[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).<br />
+[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).<br>
 
 **Note:** At this time, you're not eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty Servicemember or the spouse of an active-duty Servicemember. But, as of August 1, 2022, you may become eligible if you're an active-duty Servicemember who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty Servicemember who qualifies at the 100% level.
 
 #### And your school must meet certain requirements.
 
-**All of these must be true. Your school has:**
+**All of these must be true. Your school:**
 - Offers the Yellow Ribbon Program, **and**
 - Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and**
 - Has confirmed your enrollment with us
 
-[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br />
+[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br>
 
 </div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h2 itemprop="name">What benefit can I get through this program?</h2>
+<h2 itemprop="name">What benefits can I get through this program?</h2>
 <div itemprop="itemListElement">
 
 Money to help pay for the higher cost of tuition at a private school or for attendance as a nonresident student at a public school.
@@ -106,23 +106,23 @@ You’ll get a notice from your school about whether it has accepted you into th
 </div>
 </div>
 
-## Answers to more questions about the Yellow Ribbon Program
+## Learn more about the Yellow Ribbon Program
 
 Get answers to other questions you may have about the Yellow Ribbon Program.
 
-### Questions about how much funding you'll receive through the program
+### How much funding you'll receive through the program
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-1">Do all participants in the program receive the same amount of funding?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-1">Do all students in the Yellow Ribbon Program receive the same amount of funding?</button>
 <div id="questions-1" class="usa-accordion-content">
 
 This depends on the school. Schools can choose to offer different amounts to students based on 2 factors:
 - Student status (undergraduate, graduate, doctoral), **and**
-- College or professional school 
+- Type of school (college or professional)
 
-**For example:** A school could provide $1,000 for undergraduates, $1,500 for graduate students and $2,000 for doctoral students. The
+**For example:** A school could provide $1,000 for undergraduates, $1,500 for graduate students, and $2,000 for doctoral students. The
 school also could provide $1,800 for students in the school of engineering and $2,500 for students in the school of nursing.
 
 </div>
@@ -133,7 +133,7 @@ school also could provide $1,800 for students in the school of engineering and $
 
 This depends on the agreement we have with your school. 
 
-Your school’s agreement with us states the amount the school will contribute, and that we'll match, to make up all or part of the difference between what the Post-9/11 GI Bill will pay and the unmet tuition and fees charges. 
+Your school’s agreement with us states how much it will contribute and how much we'll match. This amount makes up all or part of the difference between what the Post-9/11 GI Bill will pay and the unmet tuition and fees. 
 
 **Here's how it works:**
 
@@ -141,20 +141,20 @@ Let's say you're attending a public school as an out-of-state student.
 
 The school charges $10,000 per year for in-state tuition and fees, but $16,000 per year for out-of-state tuition and fees.
 
-We'll pay the in-state costs of $10,000 under the Post-9/11 GI Bill. But you'll need to pay the extra $6,000 for out-of-state costs.
+We'll pay the in-state $10,000 cost under the Post-9/11 GI Bill. But you'll need to pay the extra $6,000 for the out-of-state cost.
 
-If you qualify for the Yellow Ribbon Program, you can get some or all of that extra amount paid. We'll match the amount your school contributes to the program. So if your school offers $3,000 in Yellow Ribbon contributions, we'll also pay $3,000 to the
-school, and you'll be covered for the full amount. If your school offers $2,000 in Yellow Ribbon contributions, we'll pay $2,000 to your
+If you qualify for the Yellow Ribbon Program, you can get some or all of that extra amount paid. We'll match the amount your school contributes to the program. So if your school funds $3,000 of your tuition, we'll also pay $3,000 to your
+school, and you'll be covered for the full amount. If your school funds $2,000 through the Yellow Ribbon Program, we'll also pay $2,000 to your
 school, and you'll need to pay the remaining $2,000.
 
-**Note:** Your school's agreement may also state that they'll contribute only toward degrees at certain colleges or professional schools, or for only certain degree levels (like undergraduate, graduate, or doctoral degrees). <br>
+**Note:** Your school's agreement may also state that they'll contribute only toward degrees at certain colleges or professional schools, or only for certain degree levels (like undergraduate, graduate, or doctoral degrees). <br>
 
 [Learn more about each school's agreement](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp).
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-4">Do I have to attend full-time to be in the Yellow Ribbon Program?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-4">Do I have to attend full time to be in the Yellow Ribbon Program?</button>
 <div id="questions-4" class="usa-accordion-content">
 
 No. You don't have to attend full-time to be in the program.
@@ -167,7 +167,7 @@ No. You don't have to attend full-time to be in the program.
 
 First, we'll determine how much the Post-9/11 GI Bill will pay. We'll do this by subtracting any financial aid you have that's designated solely for paying tuition and fees from the total amount your school charges. 
 
-Then, your school's Yellow Ribbon contributions, and our matching contributions, can cover part or all of the remaining unmet charges.
+Then, your school's funding through the Yellow Ribbon Program and our matching contributions can cover part or all of the remaining unmet charges.
 
 </div>
 </li>
@@ -175,7 +175,7 @@ Then, your school's Yellow Ribbon contributions, and our matching contributions,
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-6">What fees will the Yellow Ribbon funds cover?</button>
 <div id="questions-6" class="usa-accordion-content">
 
-Yellow Ribbon funds may cover any mandatory fees for your education program.
+Yellow Ribbon funds may cover any mandatory (required) fees for your education program.
 
 Yellow Ribbon and Post-9/11 GI Bill funds won't cover any fees that aren't mandatory, such as:
 - Room and board
@@ -194,7 +194,7 @@ Yes, if your school still has Yellow Ribbon funds available for the per-student 
 </li>
 </ul>
 
-### Questions about how your benefits may change from year to year
+### How your benefits may change from year to year
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
@@ -213,7 +213,7 @@ If your school has an approved agreement with us and continues to participate in
 
 [Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/).
 
-**If you transfer to a different school**, your new school needs to offer Yellow Ribbon benefits and accept your application in order for you to continue in the program. Your first school's decision doesn't affect your new school's decision.
+**If you transfer to a different school,** your new school needs to offer Yellow Ribbon benefits and accept your application for you to continue in the program. Your first school's decision doesn't affect your new school's decision.
 
 </div>
 </li>
@@ -221,7 +221,7 @@ If your school has an approved agreement with us and continues to participate in
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-9">If I participate in the Yellow Ribbon Program this year, will I automatically receive the same amount of funding next year?</button>
 <div id="questions-9" class="usa-accordion-content">
 
-No. Even if you stay enrolled, keep progressing in your program, and having money left in your Post-9/11 GI Bill benefits, your school can choose to offer a different amount each year. 
+No. Even if you stay enrolled, keep progressing in your program, and have money left in your Post-9/11 GI Bill benefits, your school can choose to offer a different amount each year. 
 
 </div>
 </li>
@@ -247,9 +247,9 @@ We base refunds on each school's refund policy. You'll need to pay us back for a
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-12">If I leave my school but return after a semester, am I still approved for the Yellow Ribbon Program?</button>
 <div id="questions-12" class="usa-accordion-content">
   
-If the school still offers the program, they must continue to offer funding to you as long as you meet all of the requirements listed below.
+If the school still offers the program, they must continue to give you funding as long as you meet all of the requirements listed below.
 
-**All of these must be true. You**
+**All of these must be true. You:**
 - Make acceptable progress toward completing your program (according to your school), **and**
 - Stay enrolled in the school without a break (following the school's policy), **and**
 - Have money left in your Post-9/11 GI Bill benefits
