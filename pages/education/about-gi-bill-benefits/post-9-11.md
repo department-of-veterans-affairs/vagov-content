@@ -27,16 +27,16 @@ If you need help paying for school or job training and you’ve served on active
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can get Post-9/11 GI Bill benefits if you meet at least one of the requirements listed below.
+You can get these education benefits if you meet at least one of the requirements listed below.
 
 **At least one of these must be true. You:**
 
-- Served at least 90 days on active duty (either all at once or total over separate time periods) after September 10, 2001, **or**
+- Served at least 90 days on active duty (either all at once or with breaks in service) after September 10, 2001, **or**
 - Received a Purple Heart and were honorably discharged after any amount of service, **or**
-- Served for at least 30 continuous days (all at once, without a break) after September 10, 2001 and were honorably discharged with a service-connected disability, **or**
+- Served for at least 30 continuous days (all at once, without a break in service) after September 10, 2001, and were honorably discharged with a service-connected disability, **or**
 - Are a dependent child using benefits transferred by a qualifying Veteran or Servicemember
 
-**Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 Bill.
+**Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 GI Bill.
 
 </div>
 </div>
@@ -64,16 +64,16 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
   
 **You can receive up to 36 months of benefits, including:** 
   
-- **Tuition and fees**. If you qualify for the maximum benefit, we'll cover the full cost of in-state tuition and fees up to the maximum national average of $22,805.34.
-- **Money for housing** (if you're in school more than half time). We'll base your monthly housing allowance on the cost of living where your school is located.
-- **Money for books and supplies**. You can receive up to $1,000 per school year.
-- **Money to help you move from a rural area to go to school**. You may qualify for this one-time payment of $500  and you're either moving at least 500 miles to go to school or have no other option but to fly by plane to get to your school.
+- **Tuition and fees.** If you qualify for the maximum benefit, we'll cover the full cost of in-state tuition and fees up to the maximum national average of $22,805.34.
+- **Money for housing (if you're in school more than half time).** We'll base your monthly housing allowance on the cost of living where your school is located.
+- **Money for books and supplies.** You can receive up to $1,000 per school year.
+- **Money to help you move from a rural area to go to school.** You may qualify for this one-time payment of $500 if you live in a county with 6 or fewer people per square mile and you're either moving at least 500 miles to go to school or have no other option but to fly by plane to get to your school.
 
 **Here's how we'll determine how much of the benefit you'll qualify for:**
 
 The specific amount you'll receive will depend on how much active service you’ve had since September 10, 2001. We'll calculate this amount based on a percentage of the maximum benefit. 
 
-**For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charged $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
+**For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charges $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
 
 </div>
 </div>
@@ -87,7 +87,7 @@ The specific amount you'll receive will depend on how much active service you’
 
 This depends on when you were discharged from active duty.
 
-**If your service ended before January 1, 2013,** your Post-9/11 GI Bill benefits will expire 15 years after your last separation date from active service. You must use all of your benefit by that time or you’ll lose whatever’s left.
+**If your service ended before January 1, 2013,** your Post-9/11 GI Bill benefits will expire 15 years after your last separation date from active service. You must use all of your benefits by that time or you’ll lose whatever’s left.
 
 **If your service ended on or after January 1, 2013,** your benefits won't expire thanks to a new law called the Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act. Some letters you receive from us may not yet reflect this change. Thank you for your patience as we work to update our systems.<br>
 [Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).
