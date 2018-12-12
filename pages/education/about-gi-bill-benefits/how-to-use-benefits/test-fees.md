@@ -38,9 +38,9 @@ If you’re a Veteran and you qualify for the GI Bill, we may pay you back for t
 - Will pay for you to retake a test you passed if you need to take it again to get recertified or retain a license you already have.
 - Won't pay for fees or costs related to getting the actual license or certification document.
 
-**For tests taken before August 1, 2018**, if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. 
+**For tests taken before August 1, 2018,** if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. 
 
-**For licensing and certification tests taken after August 1, 2018**, we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
+**For tests taken after August 1, 2018,** we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
 </div>
 </li>
 
@@ -49,7 +49,7 @@ If you’re a Veteran and you qualify for the GI Bill, we may pay you back for t
   
 <div id="national-testing-kinds-of-benefits" class="usa-accordion-content">
   
-### If you’re a Veteran or Servicemember and you qualify for the GI Bill, we may pay you back for testing fees.
+### If you’re a Veteran or Servicemember and you qualify for the GI Bill, we may pay you back for testing fees
 
 **These include:**
 
@@ -57,7 +57,7 @@ If you’re a Veteran and you qualify for the GI Bill, we may pay you back for t
 - The cost of specialized tests
 - Administrative fees <br>
 
-### We'll also pay you back for the approved tests listed below.
+### We'll also pay you back for the approved tests listed below
 
 **Approved college admissions tests:**
 
@@ -89,7 +89,7 @@ If you’re a Veteran and you qualify for the GI Bill, we may pay you back for t
 
 [See the complete list of tests and fees](https://inquiry.vba.va.gov/weamspub/buildSearchNE.do).
 
-### We won’t pay you back for certain fees and costs.
+### We won’t pay you back for certain fees and costs
 
 **These include:**
 
@@ -101,7 +101,7 @@ If you’re a Veteran and you qualify for the GI Bill, we may pay you back for t
 
 **For tests taken before August 1, 2018**, if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. 
 
-**For national tests taken after August 1, 2018**, we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
+**For tests taken after August 1, 2018**, we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
 
 </div>
 </li>
