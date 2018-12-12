@@ -8,8 +8,6 @@ concurrence:
 lastupdate:
 order: 1
 hub: health-care
-aliases:
-  - /health-care/medical-information-terms-conditions/
 promo:
   - image: /img/megamenu/health-care-illustration.png
     heading: VA Telehealth Services
