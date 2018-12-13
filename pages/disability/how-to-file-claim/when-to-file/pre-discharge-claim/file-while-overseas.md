@@ -34,11 +34,16 @@ To complete the process, you'll need to:
 <spand id="stationed-korea">
 
 ### In Korea
-You can get in touch with the Yongsan BDD office:
-- **By phone** at DSN 738-5121 (or commercial 02-7918-5121), **or**
-- **In person** by going to the office located in building 4037 on Yongsan South Post, next door to the 1st Replacement Company (1RC). It's open Monday through Friday, 8:00 a.m. to 11:30 a.m., and 12:30 p.m. to 4:30 p.m. You don't need an appointment.
+You can get in touch with the Camp Humphreys office:
+- **By phone** at DSN 757-2914 (or commercial 050-3357-2914), **or**
+- **In person** by going to the Korea BDD office located in the One-Stop Building on Camp Humphreys. The Korea BDD office is next to the SFL-TAP office and is open Monday through Friday, 8:00 a.m. to 4:00 p.m.
 
-VA staff are also available at the Osan Air Base on the third Thursday of each month from 8:00 a.m. to 4:00 p.m. Contact the Airman Family and Readiness Center at DSN 784-5440 for location information.
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+USAG Camp Humphreys <br>
+Building P-6400, Office V301 <br>
+APO, AP 96271-5228
+</p>
 
 To complete the process, you'll need to:
 - Have a copy of your service treatment records for your most recent service period, **and**
