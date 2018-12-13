@@ -33,8 +33,8 @@ aliases:
               <h4>Signing in to VA.gov</h4>
               <ul class="usa-accordion" aria-multiselectable="true">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-vetsgov-0" itemprop="name">How do I sign in to VA.gov? </button>
-                    <div id="faq-vetsgov-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-0" itemprop="name">How do I sign in to VA.gov? </button>
+                    <div id="faq-signin-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>You can sign in to VA.gov in 1 of 3 ways:</strong></p>
                         <ul>
@@ -42,8 +42,27 @@ aliases:
                           <li>With your existing <strong>DS Logon</strong> account, <strong>or</strong></li>
                           <li>By creating an account through ID.me (a trusted partner)</li>
                         </ul>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your clyaims status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+                <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-1" itemprop="name">Why did I receive an email from ID.me asking me to confirm my email address? </button>
+                    <div id="faq-signin-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>We need to confirm your email address before we can give you access to your VA.gov account. We partner with ID.me to provide this service securely.</p>
+                        <p>ID.me is a digital identity platform that helps people like you easily prove your identity so you can access advanced online services—while keeping your personal information safe.</p>
+                        <p>ID.me is a trusted VA partner and 1 of only 4 Single Sign-On providers that meet the U.S. government’s most rigorous requirements for online identity proofing and authentication. ID.me provides the strongest identity verification system available to prevent fraud and identity theft. This service uses bank-grade encryption to keep your personal information safe. And they give you control over which services and businesses can share your information.</p>                        
+                      </div>
+                    </div>
+                  </li>
+                <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I didn't receive a confirmation email for my account from VA.gov. What should I do? </button>
+                    <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>First, please double check your inbox and your spam folder. Look for an email from ID.me, our trusted technology partner that helps us to confirm your identity and keep your personal information safe.</p>
+                        <p>If you still don't see your confirmation email, please use our online form to submit a request for help.</p>                        <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.
                       </div>
                     </div>
                   </li>
