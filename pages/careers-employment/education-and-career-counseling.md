@@ -27,16 +27,8 @@ You can get these services if you’ll be discharged from active duty within 6 m
 -	Separated from active duty not more than 1 year ago and didn't receive a dishonorable discharge, **and**
 -	Qualify as a Veteran for educational assistance under a VA educational program
  
-
-**Note:** Dependents who qualify for educational assistance may also get educational and career counseling under the below programs in addition to Chapter 36:
-- [Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
-- [Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
-- [The Survivors’ and Dependents’ Educational Assistance Program (DEA)](/education/survivor-dependent-benefits/dependents-education-assistance/)
-
-### Who’s covered?
-
-- Veterans
-- Qualified dependents
+**Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
+[Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/).
 
 </div>
 
