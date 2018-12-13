@@ -23,7 +23,7 @@ The GI Bill covers more than just tuition. We may pay you back for the cost of c
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="licensing-certification-kinds-of-benefits">For Licensing and Certification</button>
   
 <div id="licensing-certification-kinds-of-benefits" class="usa-accordion-content">
-If you’re a Veteran and you qualify for the GI Bill, we may pay you back for test fees up to $2,000 for a job that requires a license or certification in order for you to work. These include tests for jobs such as a mechanic, medical technician, therapist, computer network engineer, website developer, attorney, or other professional.<br>
+If you’re a Veteran and you qualify for the GI Bill, we may pay you back for test fees up to $2,000 for a job that requires a license or certification in order for you to work.<br>
  
 [Find out which tests are covered and how much they cost](https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do). <br>
 
