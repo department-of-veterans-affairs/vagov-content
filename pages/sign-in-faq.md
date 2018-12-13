@@ -58,7 +58,7 @@ aliases:
                     </div>
                   </li>
                 <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I didn't receive a confirmation email for my account from VA.gov. What should I do? </button>
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I didn't receive a confirmation email from VA.gov. What should I do? </button>
                     <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>First, please double check your inbox and your spam folder. Look for an email from ID.me, our trusted technology partner that helps us to confirm your identity and keep your personal information safe.</p>
