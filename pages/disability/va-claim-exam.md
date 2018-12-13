@@ -101,7 +101,7 @@ If you can’t make it to your appointment, let us know right away. You can most
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-claim-exam-bring">What should I bring to my VA claim exam?</button>
 <div id="VA-claim-exam-bring" class="usa-accordion-content">
 
-Bring to your exam any new non-VA medical records that you haven’t given us yet. These might include records from a recent surgery or illness.
+You shouldn't bring anything to your VA claim exam. The examiner won't be able to review records you bring to the exam. If you have any new non-VA medical records, please turn them in to VA. These might include records from a recent surgery or illness.
 
 </div>
 </li>
