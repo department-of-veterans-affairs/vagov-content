@@ -19,7 +19,7 @@ If you’re leaving active service soon, find out how to get free educational an
 
 <div class="feature" markdown="1">
 
-### Can I get educational and career counseling?
+## Can I get educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
@@ -32,7 +32,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 -	Counseling to help you decide which civilian or military jobs you want
 -	Educational and career counseling to help you find a training program or job
@@ -40,21 +40,35 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
-You’ll need to apply:
+Follow the steps below to apply online or by mail.
 
-1. Log in to [eBenefits](https://www.ebenefits.va.gov).
-2. Select “Apply.”
-3. Select “Vocational Rehabilitation and Employment Benefits.”
-4. Apply for “Educational and Career Counseling.”<br /><br />
+### Apply online
 
-You can also apply by mail using an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
+<ol class="process">
+  <li class="process-step list-one"><a href="https://www.ebenefits.va.gov">Sign in to eBenefits</a></li>
+  <li class="process-step list-two">Select "Apply."</li>
+  <li class="process-step list-three">Select “Vocational Rehabilitation and Employment Benefits.”</li>
+  <li class="process-step list-four">Apply for “Educational and Career Counseling.”</li>
+  <li class="process-step list-five">If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.</li>
+  
+</ol>
+
+### Or apply by mail
+
+Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
 [Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf). <br>
-Mail the completed form to your nearest VA regional office.<br> 
-[Find your nearest VA regional office](/facilities/).
 
-If you qualify, we’ll invite you to an orientation session at a VA regional office near you. You can also use CareerScope&reg; to find careers you might enjoy. [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
+Mail the completed form to your nearest VA regional benefit office.<br> 
+[Find your nearest VA regional benefit office]().
 
-[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be).
+If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
+
+## Get more information
+
+[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be). <br>
+
+Use CareerScope&reg; to find careers you might enjoy. <br>
+[Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/). <br>
 
