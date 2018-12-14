@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Transitioning to VA Health Care after Discharge or Separation
+display_title: Transitioning to VA Health Care
 description: 
 concurrence: 
 lastupdate: 2018-12-14
@@ -56,8 +57,7 @@ You may qualify for VA health care if you were called to active duty by a federa
 </div>
 </div>
 
-<div class="feature" markdown=“0” itemscope itemtype="http://schema.org/Question">
-
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Can I apply for VA health care before I’ve ended my service?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -67,6 +67,7 @@ Yes. You can apply as soon as you’ve received your separation or retirement pa
 </div>
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Can I use VA health care while I’m still on active duty?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -76,6 +77,7 @@ Answer....
 </div>
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">What if I’ve just separated and I don’t know where to start?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -96,7 +98,7 @@ Find out if you’re eligible for health care benefits and how to transition to 
 
 </div>
 
-<div class="feature" markdown=“0” itemscope itemtype="http://schema.org/Question">
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">What does enhanced eligibility mean for me?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -133,7 +135,7 @@ We'll use the documents listed below to determine your service in a theater of c
 </div>
 </div>
 
-<div class="feature" markdown=“0” itemscope itemtype="http://schema.org/Question">
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">What happens after my enhanced eligibility period ends?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -146,7 +148,7 @@ But, we may shift you to a lower priority group, depending on your income level.
 </div>
 </div>
 
-<div class="feature" markdown=“0” itemscope itemtype="http://schema.org/Question">
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Will I have to pay a copay for care?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -161,7 +163,7 @@ If you want to be considered for cost-free care based on your income, you'll nee
 </div>
 </div>
 
-<div class="feature" markdown=“0” itemscope itemtype="http://schema.org/Question">
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Do I also qualify for dental care through VA?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -178,6 +180,7 @@ As a combat Veteran, you may qualify for the one-time correction of dental condi
 
 You may also qualify for dental care based on other factors. <br>
 [Learn more about VA dental care eligibility](/health-care/about-va-health-benefits/dental-care/).
+</div>
 </div>
 </div>
 </div>
