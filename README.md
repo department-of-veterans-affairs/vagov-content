@@ -1,8 +1,8 @@
 # VA.gov Interim CMS
-This repository contains the content pages for VA.gov.
+Welcome to the VA.gov content repo :writing_hand:
 
 ## Table of contents
-- [General overview](docs/index.md)
+- [Tour the repo](docs/index.md)
 - [How content is written](docs/how-content-is-written.md)
 
 ### FAQs
