@@ -47,7 +47,7 @@ You can receive free medical care for any condition related to your service in I
 
 <h4>If you’re in the process of being medically retired from active duty</h4>
 Talk with a VA benefit counselor to find out if you qualify for VA health care for a service-connected injury. Your counselor will help you to apply and determine what your military and VA medical board ratings mean for your health care coverage. <br>
-[Find your nearest regional VA benefit office](/va-locations).
+[Find your nearest regional VA benefit office](/find-locations/).
 
 You and your family may also qualify to receive other health care benefits through TRICARE. <br>
 [Go to the TRICARE website](https://tricare.mil).
