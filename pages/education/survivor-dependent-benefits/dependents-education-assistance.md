@@ -52,7 +52,7 @@ Qualified dependents
 We’ll make a monthly payment to the school of up to $1,041 for up to 45 months for:
 - College or graduate degree programs
 - Career-training certificate courses
-- Education and career counseling
+- Educational and career counseling
 - Apprenticeships
 - On-the-job training
 
@@ -87,5 +87,6 @@ First, contact your school’s certifying official to make sure your program is 
 #### If you’ve already started your program:
 - Take your application to your school or employer.
 - Ask your school to fill out a VA Enrollment Certification (VA Form 22-1999) and send it to us along with your application.
+
 ### Get more information
 - Read the [DEA pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf).
