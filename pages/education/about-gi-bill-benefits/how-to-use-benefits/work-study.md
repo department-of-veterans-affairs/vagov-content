@@ -63,7 +63,7 @@ You can get a job that's related to VA work, meets your interests, and fills a n
 
 **For example, you can work for a:**
 - VA facility
-- Department of Defense, Coast Guard, or National Guard locations that oversee MGIB-SR or REAP
+- Department of Defense, Coast Guard, or National Guard location that oversees MGIB-SR or REAP
 - State Veterans agency to help Veterans get Vocational Rehabilitation and Employment benefits
 - Center of Excellence for Veteran Student Success to support the academic, financial, physical, and social needs of Veteran students
 - Cooperative program that we run together with a college, university, or other institution of higher learning
