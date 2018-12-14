@@ -43,10 +43,12 @@ You may be eligible for VA health care benefits and certain TRICARE benefits. <b
 
 <h4>If you’re an OEF/OIF/OND combat Veteran who has just returned from service</h4>
 You can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge or release. <br>
-[Read more below about enhanced VA health care eligibility for combat Veterans](#combat-veterans). 
+[Read more below about enhanced eligibility for combat Veterans](#combat-veterans). 
 
 <h4>If you’re in the process of being medically retired from active duty</h4>
-Talk with a VA benefit counselor to find out if you qualify for VA health care for a service-connected injury. Your counselor will help you to apply and determine what your military and VA medical board ratings mean for your health care coverage. If you qualify for VA health care, you’ll likely receive care for your service-connected injury at a VA medical center or other VA health facility.
+Talk with a VA benefit counselor to find out if you qualify for VA health care for a service-connected injury. Your counselor will help you to apply and determine what your military and VA medical board ratings mean for your health care coverage. <br>
+[Find your nearest regional VA benefit office](/va-locations).
+
 You and your family may also qualify to receive other health care benefits through TRICARE. <br>
 [Go to the TRICARE website](https://tricare.mil).
 
