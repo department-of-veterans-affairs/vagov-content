@@ -7,13 +7,12 @@ Although it's referred to as the VA.gov Interim CMS, the content files here are 
 ## Directory structure
 As of writing, the directory structure consist of the following (in order of importance) -
 
-- `pages/`
-- `assets/`
-- `fragments/`
-- `docs/`
-- `.github/`
-- `redirects/`
-- Files sitting at the root
+- [`pages/`](#pages)
+- [`assets/`](#assets)
+- [`fragments/`](#fragments)
+- [`docs/`](#docs)
+- [`.github/`](#.github)
+- [Files sitting at the root](#files-sitting-at-the-root)
 
 ### pages
 The content pages for VA.gov. Each file here will become visible on the website as an HTML webpage.
