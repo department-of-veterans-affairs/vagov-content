@@ -42,7 +42,7 @@ aliases:
                           <li>With your existing <strong>DS Logon</strong> account, <strong>or</strong></li>
                           <li>By creating an account through ID.me (a trusted partner)</li>
                         </ul>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your clyaims status or sending a secure message to your health care team.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claim status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
                       </div>
                     </div>
@@ -61,7 +61,7 @@ aliases:
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I didn't receive a confirmation email from VA.gov. What should I do? </button>
                     <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>First, please double check your inbox and your spam folder. Look for an email from ID.me, our trusted technology partner that helps us to confirm your identity and keep your personal information safe.</p>
+                        <p>First, please double check your inbox and your spam folder. Look for an email from ID.me, our trusted technology partner that helps us confirm your identity and keep your personal information safe.</p>
                         <p>If you still don't see your confirmation email, please use our online form to submit a request for help.</p>                        <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.
                       </div>
                     </div>
