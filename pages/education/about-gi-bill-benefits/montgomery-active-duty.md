@@ -72,7 +72,7 @@ You can get education benefits through this program if you were honorably discha
 
 **And one of these is true. You:**
 - Were on active duty on October 9, 1996, had money left in a VEAP account on that date, chose MGIB before October 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service), **or**
-- Were participating in VEAP on or before October 9, 1996 (even if you don't have any money in your VEAP account), served on active duty from October 9, 1996 through April 1, 2000, elected MGIB by October 31, 2001, and contributed $2,700 to MGIB within 18 months of the election, **or**
+- Were participating in VEAP on or before October 9, 1996 (even if you don't have any money in your VEAP account), served on active duty from October 9, 1996, through April 1, 2000, elected MGIB by October 31, 2001, and contributed $2,700 to MGIB within 18 months of the election, **or**
 - Entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, chose MGIB between October 9, 1996, and July 9, 1997, and contributed $1,200 (we can collect the remainder if you didn't pay it all during service)
 
 </div>
