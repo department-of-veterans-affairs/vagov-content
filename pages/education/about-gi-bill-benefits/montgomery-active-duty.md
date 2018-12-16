@@ -48,7 +48,7 @@ You can get education benefits through this program if you were honorably discha
 **All of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Entered active duty before January 1, 1977, or you entered active duty before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977, **and**
-- Weren't commissioned after December 31, 1976 as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your ROTC program), **and**
+- Weren't commissioned after December 31, 1976, as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996, and received $3,400 or less during any one year of your ROTC program), **and**
 - Served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
 - Had at least 1 day remaining of entitlement under the Vietnam Era GI Bill (Chapter 4) as of December 31, 1989
 
