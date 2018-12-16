@@ -32,16 +32,16 @@ You can get education benefits through this program if you were honorably discha
 **At least one of these is true. You:**
 - Served for 3 years continuously (no breaks in service), **or**
 - Served for 2 years if that was your agreement when you enlisted, **or**
-- Served continuously for 4 years (the 2 by 4 program) if you entered the Selected Reserve within a year of leaving active duty, **or**
-- Separated early for a qualifying reason (like a service-connected disability, hardship, illness or injury that interfered with your performance of duty but wasn't caused by misconduct, or due to convenience of the government or a reduction in force in some cases)
+- Served continuously (without a break in service) for 4 years—called the 2 by 4 program—if you entered the Selected Reserve within a year of leaving active duty, **or**
+- Separated early for a qualifying reason (like a service-connected disability, hardship, illness, or injury that interfered with your performance of duty but wasn't caused by misconduct; or due to convenience of the government or a reduction in force in some cases)
 - Are on active duty now (if you want to use your MGIB-AD benefits while on active duty)
 
 **And all of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Entered active duty for the first time after June 30, 1985, **and**
 - Had military pay reduced by $100 a month for the first 12 months of service, **and**
-- Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withdrew your election not to participate during the December 1, 1988 to June 30, 1989 "open period" for withdrawal), **and**
-- Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996 and received $3,400 or less during any one year of your scholarship program)
+- Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withdrew your election not to participate during the December 1, 1988, to June 30, 1989, "open period" for withdrawal), **and**
+- Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996, and received $3,400 or less during any one year of your scholarship program)
 
 #### CATEGORY II
 
