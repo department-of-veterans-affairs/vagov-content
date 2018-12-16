@@ -42,20 +42,22 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 ## How do I get these benefits?
 
-Follow the steps below to apply online or by mail.
+First, you’ll need to apply for VR&E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-### Apply online
+#### Follow these steps to apply online now
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://www.ebenefits.va.gov">Sign in to eBenefits</a></li>
-  <li class="process-step list-two">Select "Apply."</li>
-  <li class="process-step list-three">Select “Vocational Rehabilitation and Employment Benefits.”</li>
-  <li class="process-step list-four">Apply for “Educational and Career Counseling.”</li>
-  <li class="process-step list-five">If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.</li>
+  <li class="process-step list-one"><a href="https://www.ebenefits.va.gov">Sign in to your eBenefits account.</a></li>
+  <li class="process-step list-two">Click <b>Additional Benefits</b> on your dashboard.</li>
+  <li class="process-step list-three">Choose <b>Vocational Rehabilitation and Employment Program</b>.</li>
+  <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
+  <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
   
 </ol>
 
-### Or apply by mail
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
+
+### You can also apply by mail
 
 Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
 [Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf). <br>
