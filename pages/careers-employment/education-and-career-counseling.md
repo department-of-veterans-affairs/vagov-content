@@ -63,7 +63,7 @@ Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br
 [Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf). <br>
 
 Mail the completed form to your nearest VA regional benefit office.<br> 
-[Find your nearest VA regional benefit office]().
+[Find your nearest VA regional benefit office](/find-locations/).
 
 If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
 
