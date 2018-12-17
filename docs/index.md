@@ -15,7 +15,7 @@ As of this writing, the directory structure consist of the following (in order o
 - [Files sitting at the root](#files-sitting-at-the-root)
 
 ### pages
-The content pages for VA.gov. Each file here will become visible on the website as an HTML webpage.
+The content pages for VA.gov. Each file here is visible on the website as an HTML webpage.
 
 The directory structure determines the published-website hierarchy (called the information architecture) and the URL. For example, `pages/health-care/sample-page.md` will be published to `www.va.gov/health-care/sample-page/`.
 
