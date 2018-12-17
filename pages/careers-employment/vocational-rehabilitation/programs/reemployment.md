@@ -63,7 +63,7 @@ First, you’ll need to apply for VR&E benefits. Then, you’ll work with your V
 
 <li class="process-step list-one">
 
-Log in to your eBenefits account.
+Sign in to your eBenefits account.
 
 </li>
 
