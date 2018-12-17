@@ -1,7 +1,7 @@
 Welcome to the VA.gov Interim CMS :writing_hand:
 
 # Overview
-- [Tour the repo](docs/index.md).
+- [Tour the content repository](docs/index.md).
 
 ## How to get access so you can edit VA.gov pages (for VA employees)
 1. Using your VA.gov email address, [create a GitHub account](https://github.com/join).
