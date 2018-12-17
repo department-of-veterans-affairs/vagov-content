@@ -98,11 +98,6 @@ You can apply online right now.
 - Supportive rehabilitation services including case management, counseling, and medical referrals
 - Independent living services if you're unable to work due to the severity of your disabilities
 
-**Watch these videos to learn more about VR&E:**<br>
-[VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>
-[VR&E's 5 Tracks to Employment](https://www.youtube.com/watch?v=iWjc8aYPqqg&feature=youtu.be)
-<br>
-
 ### Get more information
 
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
@@ -121,3 +116,8 @@ You can apply online right now.
 [See our list of external resources](/careers-employment/veteran-resources/).
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
 [Contact your VR&E counselor for more information](/facilities/).
+
+**Watch these videos to learn more about VR&E:**<br>
+[VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>
+[VR&E's 5 tracks to employment](https://www.youtube.com/watch?v=iWjc8aYPqqg&feature=youtu.be)
+<br>
