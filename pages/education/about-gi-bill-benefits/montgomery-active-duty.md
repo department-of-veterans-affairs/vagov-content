@@ -144,36 +144,8 @@ Follow the steps below to apply for these benefits.
 
 ## How can I use my MGIB-AD education benefits?
 
-You can use your GI Bill benefits in many ways to advance your education and training.
-
-**Work toward a degree:**
-
-- [Undergraduate and graduate degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)
-- [Tutorial Assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)
-
-**Train for a specific career, trade, or industry:**
-
-- [Vocational/technical training and non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
-- [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
-- [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
-- [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
-
-**Work while you study:**
-
-- [Co-op training](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)
-- [Work Study](/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)
-
-**Take classes from home:**
-
-- [Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
-- [Independent and distance learning](/education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning/)
-
-**Get increased or faster payments:**
-
-- [Tuition Assistance Top-Up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
-- [Accelerated payments for high-tech programs](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
-- [$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/): While on active duty, you can pay into this program up to a maximum (the highest amount allowed) of $600 to get increased monthly benefits. If you pay the maximum amount, you can qualify for up to $5,400 in added GI Bill benefits.
+You can use your GI Bill benefits in many ways to advance your education and training. <br>
+[Find out how to use your GI Bill benefits](/education/about-gi-bill-benefits/how-to-use-benefits/).
 
 ## More questions about how MGIB-AD benefits work
 
