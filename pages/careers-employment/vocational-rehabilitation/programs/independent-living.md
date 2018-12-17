@@ -71,7 +71,7 @@ First, you’ll need to apply for VR&amp;E benefits. Then, you’ll work with yo
 <ol class="process">
 <li class="process-step list-one">
 
-Log in to your eBenefits account.
+Sign in to your eBenefits account.
 
 </li>
 
