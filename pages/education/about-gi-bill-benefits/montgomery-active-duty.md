@@ -21,7 +21,7 @@ If you've served on active duty, find out if you qualify for the Montgomery GI B
 
 ### Can I get education benefits through the MGIB-AD program?
 
-You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of categories below.
+You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of the categories below.
 
 <br>
 
@@ -96,30 +96,39 @@ Follow the steps below to apply for these benefits.
   <li class="process-step list-one">
     <h3>Make sure we've approved your program</h3>
     Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
-    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>. <br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.
+    <br>
     If you still have questions about the school or program, you can call our GI Bill Hotline at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or you can submit a question to us using the GI Bill website. <br>
-    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.<br> 
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.
+    <br>
     <b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
   </li>
   <li class="process-step list-two">
     <h3>Apply for benefits</h3>
     You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
-    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. <br>
-    <b>You can also apply:</b> <br>
+    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>.
+    <br>
+    <b>You can also apply:</b>
+    <br>
     <b>By mail</b>
+    <br>
     Fill out VA Form 22-1990, and send it to the VA regional processing office that's in the same location as your school.<br>
     <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. <br>
-    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.<br>
+    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.
+    <br>
     <b>In person</b>
+    <br>
     Go to a VA regional benefits office and ask a VA employee to help you. Bring a copy of your VA Form 22-1990 with you.<br>
-    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>. <br>
-    <b>With the help of a trained professional</b> <br>
+    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>. 
+    <br>
+    <b>With the help of a trained professional</b> 
+    <br>
     You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
     <a href="/disability/get-help-filing-claim/">Get help finding your claim</a>.
   </li>
   <li class="process-step list-three">
     <h3>Verify your enrollment</h3><br>
-    Ask your school or training official to certify your enrollment with us. The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.
+    Ask your school or training official to certify your enrollment with us. The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.
     </li>
   <li class="process-step list-four">
   <h3>Verify your continued enrollment each month</h3>
@@ -128,7 +137,7 @@ Follow the steps below to apply for these benefits.
     <ul>
       <li>Online through our Web Automated Verification system (called "WAVE").<br>
         <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
-      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.</li>
+      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a> and follow the instructions. The system will tell you when you've completed your verification.</li>
     </ul>
     </li>
 </ol>
@@ -173,7 +182,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="howmgibadworks-0">Do I have to have received a fully honorable discharge to qualify for MGIB-AD benefits?</button>
 <div id="howmgibadworks-0" class="usa-accordion-content">
 
-Yes. You can't qualify for MGIB-AD benefits unless you receive a fully honorable discharge. "Under honorable conditions" and "general" discharges don't make you eligible for this program. <br>
+Yes. If you didn't receive a fully honorable discharge, you don't qualify for MGIB-AD benefits. "Under honorable conditions" and "general" discharges don't make you eligible for this program. <br>
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions). <br>
 
 If you have more than one period of service and receive an honorable discharge from at least one service period, you may be able to qualify if that period of service meets eligibility requirements.<br>
@@ -190,22 +199,22 @@ This depends on your situation.
 
 **If you didn't decline MGIB and have received loan repayment**, you can still qualify for MGIB-AD. But we'll subtract the months counted toward your loan repayment from the total amount of MGIB benefits you can receive.
 
-**If you receive loan repayment for one period of active duty, but served another period of active duty**, you may still qualify for up to 36 months of benefits based on your additional period of active duty as long as you didn't decline MGIB.
+**If you receive loan repayment for one period of active duty, and you served an additional period of active duty**, you may still qualify for up to 36 months of benefits based on your additional period of active duty as long as you didn't decline MGIB.
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">How long will I remain eligible for MGID-AD benefits after separating from active duty?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">How long will I be eligible for MGIB-AD benefits after separating from active duty?</button>
 <div id="eligibility-1" class="usa-accordion-content">
  
-In general, you'll be eligible for MGID-AD benefits for 10 years from the date of your last separation from active duty, or when you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
+In general, you'll be eligible for these benefits for 10 years from the date of your last separation from active duty, or until you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
 
-We may extend your eligibility period if any of the below situations occurs.
+We may extend your eligibility period for any of the situations listed below.
 
 **One of these must be true to extend your eligibility period:**
-- **You couldn't train for a period of time because of a disability or because you were held by a foreign government power**. In this case, we'll extend your eligibility period by the amount of time you were prevented from training.
-- **You reenter active duty and serve for at least 90 days all at once with no breaks** (not counting any period of active duty for training). In this case, your new eligibility period will begin after your last separation from active duty.
-- **You reenter active duty and serve for less than 90 days because you're separated for a qualified reason**. These include a service-connected disability, a medical condition that you had before entering active duty, a hardship, or a reduction in force. In this case, your new eligibility period will begin after your last separation from active duty.
+- **You couldn't train for a period of time because of a disability or because you were held by a foreign government power.** In this case, we'll extend your eligibility period by the amount of time you were prevented from training.
+- **You reenter active duty and serve for at least 90 days all at once with no breaks (not counting any period of active duty for training).** In this case, your new eligibility period will begin after your last separation from active duty.
+- **You reenter active duty and serve for less than 90 days because you separate for a qualified reason.** A qualified reason includes a service-connected disability, a medical condition that you had before entering active duty, a hardship, or a reduction in force. In this case, your new eligibility period will begin after your last separation from active duty.
 - **You serve 2 or more years on active duty and then 4 or more years in the Selected Reserve**. In this case, you have 10 years from your release from active duty or 10 years from when you complete your Selected Service period, whichever is later.
 
 </div>
@@ -220,14 +229,14 @@ This depends on your situation.
   <li>30 months of continuous active duty if your obligation was 3 or more years, <b>or</b></li>
   <li>20 months of continuous active duty if your obligation was less than 3 years</li>
 </ul>
-<b>If you qualify for MGIB under Category I above for any of the reasons listed below</b>, you'll be eligible for less than 36 months. You'll earn one month of benefits for each month you served on active duty.
+<b>If you qualify for MGIB under Category I above with an early separation for any of the reasons listed below</b>, you'll be eligible for less than 36 months. You'll earn one month of benefits for each month you served on active duty.
 
 Reasons for early separation that fall under this category include:
 <ul>
   <li>A service-connected disability</li>
   <li>Hardship</li>
   <li>A medical condition that you had before entering service</li>
-  <li>A physical or mental condition that interfered with your ability to perform your duty and didn't result from misconduct on your part<li>
+  <li>A physical or mental condition that interfered with your ability to perform your duty and didn't result from misconduct on your part</li>
   <li>A reduction in force (RIF) in some cases.</li>
 </ul>
 
@@ -239,7 +248,7 @@ Reasons for early separation that fall under this category include:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-2">Can I qualify for more than one VA education benefit?</button>
 <div id="eligibility-2" class="usa-accordion-content">
 
-Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
+Yes. You may qualify for more than one education benefit. If you're eligible for more than one, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
 We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
 
