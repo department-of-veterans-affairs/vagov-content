@@ -19,7 +19,7 @@ If you’re leaving active service soon, find out how to get free educational an
 
 <div class="feature" markdown="1">
 
-## Can I get educational and career counseling?
+### Can I get educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
@@ -42,17 +42,16 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 ## How do I get these benefits?
 
-First, you’ll need to apply for VR&E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
+First, you’ll need to apply for Vocational Rehabilitation and Employment benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
 #### Follow these steps to apply online now
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://www.ebenefits.va.gov">Sign in to your eBenefits account.</a></li>
+  <li class="process-step list-one">Sign in to your eBenefits account.</li>
   <li class="process-step list-two">Click <b>Additional Benefits</b> on your dashboard.</li>
   <li class="process-step list-three">Choose <b>Vocational Rehabilitation and Employment Program</b>.</li>
   <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
   <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
-  
 </ol>
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
