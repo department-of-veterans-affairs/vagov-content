@@ -34,6 +34,6 @@ aliases:
 
 **[VA for Vets](https://www.vaforvets.va.gov/)**, the website of the Veteran Employment Services Office's (VESO), can help you find a job when you transition to civilian life. 
 
-[The National Resource Directory](https://nrd.gov/) provides links to employment resources across all government agencies. 
+**[The National Resource Directory](https://nrd.gov/)** provides links to employment resources across all government agencies. 
 
-[Veterans Opportunity to Work](https://www.benefits.va.gov/vow/) helps Veterans get access to education and training services and help with transitioning to civilian life.  
+**[Veterans Opportunity to Work](https://www.benefits.va.gov/vow/)** connects you with education and training services designed to help you transition to civilian life.  
