@@ -7,4 +7,4 @@ Welcome to the VA.gov Interim CMS! :writing_hand:
 
 ## How to gain edit access to VA.gov (for VA employees)
 1. Using your VA.gov email address, create a [GitHub account](https://github.com/join).
-2. Open an issue on the Interim CMS [requesting access](https://github.com/department-of-veterans-affairs/vagov-content/issues/new?title=Add+New+User&assignee=ncksllvn&template=request-access.md).
+2. Open an issue on the Interim CMS [requesting access](https://github.com/department-of-veterans-affairs/vagov-content/issues/new?title=Requesting+Access+to+Interim-CMS&assignee=ncksllvn&template=request-access.md).
