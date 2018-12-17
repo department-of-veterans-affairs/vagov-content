@@ -89,4 +89,4 @@ First, contact your school’s certifying official to make sure your program is 
 - Ask your school to fill out a VA Enrollment Certification (VA Form 22-1999) and send it to us along with your application.
 
 ### Get more information
-- Read the [DEA pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf).
+[Read the DEA pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf).
