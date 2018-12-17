@@ -17,15 +17,13 @@ If you've served on active duty, find out if you qualify for the Montgomery GI B
 
 </div>
 
-<div class="feature" markdown="1">
-
-### Can I get education benefits through the MGIB-AD program?
+## Can I get education benefits through the MGIB-AD program?
 
 You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of the categories below.
 
-<br>
-
 ### One of the below categories must describe you
+
+<div class="feature" markdown="1">
 
 #### CATEGORY I
 
@@ -43,6 +41,10 @@ You can get education benefits through this program if you were honorably discha
 - Didn't decline MGIB in writing when you entered active-duty service (unless you qualify under Category III or withdrew your election not to participate during the December 1, 1988, to June 30, 1989, "open period" for withdrawal), **and**
 - Weren't commissioned as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996, and received $3,400 or less during any one year of your scholarship program)
 
+</div>
+
+<div class="feature" markdown="1">
+
 #### CATEGORY II
 
 **All of these are true. You:**
@@ -51,6 +53,10 @@ You can get education benefits through this program if you were honorably discha
 - Weren't commissioned after December 31, 1976, as a service academy graduate or ROTC scholarship graduate (unless you received the commission after qualifying for MGIB or received a commission as an ROTC scholarship graduate after September 30, 1996, and received $3,400 or less during any one year of your ROTC program), **and**
 - Served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
 - Had at least 1 day remaining of entitlement under the Vietnam Era GI Bill (Chapter 4) as of December 31, 1989
+
+</div>
+
+<div class="feature" markdown="1">
 
 #### CATEGORY III
 
@@ -63,6 +69,10 @@ You can get education benefits through this program if you were honorably discha
 - Were on active duty on September 30, 1990, and you separated involuntarily (not by your choice) after February 2, 1991, **or**
 - Involuntarily separated on or after November 30, 1993, **or**
 - Voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
+
+</div>
+
+<div class="feature" markdown="1">
 
 #### CATEGORY IV
 
@@ -88,6 +98,7 @@ You may get up to 36 months of education benefits. We'll pay the benefits monthl
 - How much you have paid into the $600 Buy-Up program <br>
 [Learn more about the $600 Buy-Up Program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/).
 
+------
 ## How do I get these benefits?
 
 Follow the steps below to apply for these benefits.
@@ -108,36 +119,14 @@ Follow the steps below to apply for these benefits.
     You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>.
     <br>
-    <b>You can also apply:</b>
-    <br>
-    <b>By mail</b>
-    <br>
-    Fill out VA Form 22-1990, and send it to the VA regional processing office that's in the same location as your school.<br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. <br>
-    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.
-    <br>
-    <b>In person</b>
-    <br>
-    Go to a VA regional benefits office and ask a VA employee to help you. Bring a copy of your VA Form 22-1990 with you.<br>
-    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>. 
-    <br>
-    <b>With the help of a trained professional</b> 
-    <br>
-    You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
-    <a href="/disability/get-help-filing-claim/">Get help finding your claim</a>.
+    <b>You can also apply by mail, in person, or with the help of a trained professional.<br>
+      [Learn more about other ways to apply](/education/how-to-apply/).    
   </li>
   <li class="process-step list-three">
     <h3>Verify your enrollment</h3><br>
-    Ask your school or training official to certify your enrollment with us. The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.
-    </li>
-  <li class="process-step list-four">
-  <h3>Verify your continued enrollment each month</h3>
-    You'll then need to verify your enrollment each month to keep receiving payments.<br>
-    <b>You can verify your enrollment:</b>
-    <ul>
-      <li>Online through our Web Automated Verification system (called "WAVE").<br>
-        <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
-      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a> and follow the instructions. The system will tell you when you've completed your verification.</li>
+    Ask your school or training official to certify your enrollment with us. The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<br>
+    You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+        <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>        
     </ul>
     </li>
 </ol>
@@ -147,11 +136,11 @@ Follow the steps below to apply for these benefits.
 You can use your GI Bill benefits in many ways to advance your education and training. <br>
 [Find out how to use your GI Bill benefits](/education/about-gi-bill-benefits/how-to-use-benefits/).
 
-## More questions about how MGIB-AD benefits work
+## More about how MGIB-AD works
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="howmgibadworks-0">Do I have to have received a fully honorable discharge to qualify for MGIB-AD benefits?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="howmgibadworks-0">Do I have to have received a fully honorable discharge to qualify for this benefit?</button>
 <div id="howmgibadworks-0" class="usa-accordion-content">
 
 Yes. If you didn't receive a fully honorable discharge, you don't qualify for MGIB-AD benefits. "Under honorable conditions" and "general" discharges don't make you eligible for this program. <br>
@@ -162,7 +151,7 @@ If you have more than one period of service and receive an honorable discharge f
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgibad-works1">Can I still get MGIB-AD benefits if I receive repayment from the military for an education loan?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgibad-works1">Can I still get this benefit if I'm already receiving education loan repayments?</button>
 <div id="mgibad-works1" class="usa-accordion-content">
 
 This depends on your situation.
@@ -176,7 +165,7 @@ This depends on your situation.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">How long will I be eligible for MGIB-AD benefits after separating from active duty?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">How long will I be eligible for this benefit after separating from active duty?</button>
 <div id="eligibility-1" class="usa-accordion-content">
  
 In general, you'll be eligible for these benefits for 10 years from the date of your last separation from active duty, or until you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
@@ -227,11 +216,6 @@ We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18
 </div>
 </li>
 </ul>
-
-## Get more information
-
-[Use the GI Bill Comparison Tool to compare benefits at schools](/gi-bill-comparison-tool). <br>
-[Read the Montgomery GI Bill Active Duty pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf).
 
 “GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” <br>
 [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
