@@ -98,6 +98,15 @@ You can apply online right now.
 - Supportive rehabilitation services including case management, counseling, and medical referrals
 - Independent living services if you're unable to work due to the severity of your disabilities
 
+### If I'm eligible for GI Bill benefits, can I get paid the Post-9/11 GI Bill subsistence rate for my VR&E program?
+If you're participating in a VR&E program and also qualify for Post-9/11 GI Bill benefits you can choose to get paid the GI Bill subsistence rate instead of the Chapter 31 subsistence allowance rate. In most cases the GI Bill rate is higher.
+
+You'll need to officially choose the GI Bill subsistence rate. Your VRC can help you with this.<br> 
+[Contact your VRC for more information](/facilities/).<br>
+[View the current Chapter 31 subsistence allowance rates](https://benefits.va.gov/VOCREHAB/subsistence_allowance_rates.asp?_ga=2.203704281.836500684.1545080344-1582256389.1508352376).<br>
+[View the current Post-9/11 GI Bill benefit rates](/education/benefit-rates/).
+
+
 ### Get more information
 
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
