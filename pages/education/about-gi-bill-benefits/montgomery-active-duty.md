@@ -176,9 +176,10 @@ We may extend your eligibility period for any of the situations listed below.
 - <b>You couldn't train for a period of time because of a disability or because you were held by a foreign government power.</b> In this case, we'll extend your eligibility period by the amount of time you were prevented from training.
 - <b>You reenter active duty and serve for at least 90 days all at once with no breaks (not counting any period of active duty for training).</b> In this case, your new eligibility period will begin after your last separation from active duty.
 - <b>You reenter active duty and serve for less than 90 days because you separate for a qualified reason.</b> A qualified reason includes a service-connected disability, a medical condition that you had before entering active duty, a hardship, or a reduction in force. In this case, your new eligibility period will begin after your last separation from active duty.
-- <b>You serve 2 or more years on active duty and then 4 or more years in the Selected Reserve.<b/> In this case, you have 10 years from your release from active duty or 10 years from when you complete your Selected Service period, whichever is later.
+- <b>You serve 2 or more years on active duty and then 4 or more years in the Selected Reserve.</b> In this case, you have 10 years from your release from active duty or 10 years from when you complete your Selected Service period, whichever is later.
 
 </div>
+</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="mgibad-works2">Can I get the full amount of benefits if I leave active duty early?</button>
 <div id="mgibad-works2" class="usa-accordion-content">
@@ -217,6 +218,6 @@ We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18
 </li>
 </ul>
 
-“GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” <br>
+GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
 [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
 
