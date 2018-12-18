@@ -130,10 +130,7 @@ Follow the steps below to apply for these benefits.
     <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.</P.
     <p></p>
     <p>Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.</p>
-  </li>
-   <li class="process-step list-three">
-     <h3>Certify your enrollment</h3>
-     The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.</li>
+    </li>
   <li class="process-step list-four">
     <h3>Ask your school or training program to certify your enrollment</h3><br>
     <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
