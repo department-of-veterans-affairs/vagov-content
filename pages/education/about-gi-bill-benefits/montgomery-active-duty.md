@@ -106,27 +106,27 @@ Follow the steps below to apply for these benefits.
 <ol class="process">
   <li class="process-step list-one">
     <h3>Make sure we've approved your program</h3>
-    Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
-    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.
-    <br>
-    If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website. <br>
-    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.
-    <br>
-    <b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.
+    <p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</P.
+    <p></p>    
+    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>
   </li>
   <li class="process-step list-two">
     <h3>Apply for benefits</h3>
-    You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
-    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>.
-    <br>
-    You can also apply by mail, in person, or with the help of a trained professional.<br>
-    [Learn more about other ways to apply](/education/how-to-apply/).    
+    <p>You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
+      <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>.</p>
+  <p></p>
+    <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a>.</p>    
   </li>
   <li class="process-step list-three">
     <h3>Ask your school or training program to certify your enrollment</h3><br>
-    The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<br>
-    <b>Note:</b> You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
-    <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>        
+    <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
+                                     <p></p>
+    <p><b>Note:</b> You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+    <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
+                                                     </li>        
     </ul>
     </li>
 </ol>
