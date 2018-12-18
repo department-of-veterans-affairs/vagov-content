@@ -22,9 +22,9 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 
 You can get education benefits under this program if you meet the requirements listed below. 
 
-**One of these must be true:**
-- You have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
-- You’re an officer in the Selected Reserve and you agreed to serve 6 years in addition to your initial service obligation
+**One of these must be true. You:**
+- Have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
+- Are an officer in the Selected Reserve and you agreed to serve 6 years in addition to your initial service obligation
 
 **Note:** Your obligation must have started after June 30, 1985, or for some types of training after September 30, 1990.
 
@@ -108,9 +108,12 @@ Follow the steps below to apply for these benefits.
     Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify it.
     </li>
   <li class="process-step list-two">
-    <h3>Make sure we've approved your selected training program</h3>
-    If you're not sure, we can help explain the requirements to you and your school. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
-  </li>
+    <h3>Make sure we've approved your program</h3>
+<p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</P.
+    <p></p>    
+    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>  </li>
   <li class="process-step list-three">
     <h3>Apply for the MGIB-SR program</h3>
     <br>
@@ -118,57 +121,34 @@ Follow the steps below to apply for these benefits.
     Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
     <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. 
     <br>
-    <b>You can also apply:</b><br>
-    <b>By mail</b><br>
-    Fill out VA Form 22-1990. Send your completed application to the VA regional claims processing office that’s in the same location as your school.<br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.<br>
-    <a href="https://www.benefits.va.gov/gibill/regional_processing.asp?_ga=2.11978228.1924984484.1542640153-1173244138.1525894550">Find your VA regional processing office</a>.<br>
-    <b>In person</b><br>
-    Go to a VA regional benefit office and have a VA employee help you. Bring a copy of your VA Form 22-1990 with you.<br>
-    <a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.<br>
-    Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.<br>
-    <b>With the help of a trained professional</b><br>
-    You can work with a trained professional called an accredited representative to get help applying for education benefits.<br>
-    <a href="/disability/get-help-filing-claim/">Get help filing your claim</a>.<br>
-    <br>
+    <p></p>
+    <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a>.</p>    
+  <p></p>
     <h4>If you already started training</h4>
-    Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>. <br>
-    Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.
+    <p>Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.</P.
+    <p></p>
+    <p>Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.</p>
   </li>
    <li class="process-step list-three">
      <h3>Certify your enrollment</h3>
      The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.</li>
   <li class="process-step list-four">
-  <h3>Verify your continued enrollment each month</h3>
-    You'll then need to verify your enrollment each month to keep receiving payments.<br>
-    <b>You can verify your enrollment:</b>
-    <ul>
-      <li>Online through our Web Automated Verification system (called "WAVE").<br>
-        <ahref="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</li>
-      <li>Or by phone. Call <a href="tel:+18778232378">1-877-823-2378</a>. Follow the instructions. The system will tell you when you've completed your verification.</li>
+    <h3>Ask your school or training program to certify your enrollment</h3><br>
+    <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
+                                     <p></p>
+    <p><b>Note:</b> You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+    <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
+  </li>
     </ul>
     </li>
 </ol>
 
 ## How can I use my MGIB-SR education benefits?
 
-You can use your benefits in many ways to advance your education and training.
-
-**We may help you pay for:**
-
-- [Undergraduate and graduate degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)
-- [Vocational/technical training and non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
-- [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
-- [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [High-tech training if you're in a non-degree educational program that lasts 2 years or less](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
-- [Correspondence courses](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
-- [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
-
-**We may also:**
-
-- [Help with the cost of books, tuition, and housing if you’re in a co-op training program](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)
-- [Pay you back for the cost of test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+You can use your benefits in many ways to advance your education and training. <br>
+[Find out how to use your GI Bill benefits](/education/about-gi-bill-benefits/how-to-use-benefits/).
 
 **In some cases, we may help you pay for:**
 
@@ -178,7 +158,7 @@ You can use your benefits in many ways to advance your education and training.
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
-## More questions about how MGIB-SR benefits work
+## More about how MGIB-SR benefits work
 
 <ul class="usa-accordion">
 <li>
@@ -214,7 +194,10 @@ If you can't complete your training and receive no credit because you're called 
 </ul>
 
 ## Get more information
-- [Ask questions on the GI Bill customer service page](http://gibill.custhelp.com/). You can also search frequently asked questions.
-- Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+- Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
+[Ask a question online](http://gibill.custhelp.com/). <br>
 
-GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase. Read our Terms of Use.
+- Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
+GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase.<br>
+  [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
