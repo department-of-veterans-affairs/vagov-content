@@ -108,7 +108,7 @@ Follow the steps below to apply for these benefits.
     <h3>Make sure we've approved your program</h3>
     <p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
     <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
-    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</P.
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</p>.
     <p></p>    
     <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>
   </li>
