@@ -28,7 +28,7 @@ Congress repealed this part of the law. This means the fee no longer applies for
 
 </div>
 
-#### Does my health coverage through VA meet the ACA’s minimum essential coverage requirement for 2018? 
+## Does my health coverage through VA meet the ACA’s minimum essential coverage requirement for 2018? 
 
 Your health coverage meets the minimum essential coverage requirement for 2018 if you were signed up for one of the programs listed below. If you were covered under one of these programs in 2018, you won't have to pay the fee.
 
@@ -39,10 +39,11 @@ Your health coverage meets the minimum essential coverage requirement for 2018 i
 - [The Spina Bifida Health Care Benefits Program](https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp), **or** 
 - [A Department of Defense TRICARE plan that provides minimum essential coverage](https://tricare.mil/About/MEC)
 
-### Does the ACA change my VA health benefits?
+## Does the ACA change my VA health benefits?
+
 No. The health care law doesn’t change your VA health benefits or your out-of-pocket costs. 
 
-### If I’m not signed up for a VA or Department of Defense health care program, how do I get health coverage for 2019?
+## If I’m not signed up for a VA or Department of Defense health care program, how do I get health coverage for 2019?
 
 You may be able to get coverage through the Health Insurance Marketplace. Open enrollment for 2019 is over. But you can still enroll or change plans if you have certain life changes or qualify for free or low-cost coverage through Medicaid or the Children’s Health Insurance Program (CHIP). <br>
 [Go to HealthCare.gov to find if you can enroll or change your plan](https://www.healthcare.gov/).
