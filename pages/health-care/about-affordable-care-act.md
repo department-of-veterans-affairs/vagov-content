@@ -5,7 +5,7 @@ title: The Affordable Care Act and Your Health Coverage
 display_title: Affordable Care Act
 description: Learn about the Affordable Care Act (ACA) and VA health care. Find out how the ACA may affect health care for Veterans and their families.
 collection: healthCare
-lastupdate: 2018-12-19
+lastupdate: 2018-12-20
 spoke: More Resources
 order: 23
 aliases:
@@ -18,11 +18,11 @@ The Affordable Care Act (ACA)—also known as the health care law—was created 
 
 </div>
 
-## What does the ACA mean for me?
+## Does the ACA affect me?
 
-Through 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
+Through the end of 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
 
-Congress repealed this part of the law for plans starting in 2019 and after. This means that starting in plan year 2019 (for which you'll file taxes in April 2020), the individual shared responsibility payment no longer applies. So if you don't have health insurance coverage in 2019, you won't have to pay the fee—even if you don't have an exemption.
+Congress repealed this part of the law for plans starting in 2019 and after. The individual shared responsibility payment no longer applies starting in plan year 2019 (for which you'll file taxes in April 2020). So if you don't have health insurance coverage in 2019, you won't have to pay the fee—even if you don't have an exemption.
 
 **Note:** If you didn't have coverage or an exemption in 2018, you may still have to pay a fee when you file your 2018 taxes in April 2019. <br>
 [Go to HealthCare.gov to learn more about exemptions](https://www.healthcare.gov/exemptions-tool/#/).
@@ -45,5 +45,5 @@ No. The health care law doesn’t change your VA health benefits or your out-of-
 ## If I’m not signed up for a VA or Department of Defense health care program, how do I get health coverage for 2019?
 
 You may be able to get coverage through the Health Insurance Marketplace. Open enrollment for 2019 is over. But you can still enroll or change plans if you have certain life changes or qualify for free or low-cost coverage through Medicaid or the Children’s Health Insurance Program (CHIP). <br>
-[Go to HealthCare.gov to find if you can enroll or change your plan](https://www.healthcare.gov/).
+[Go to HealthCare.gov to find out if you can enroll or change your plan](https://www.healthcare.gov/).
 
