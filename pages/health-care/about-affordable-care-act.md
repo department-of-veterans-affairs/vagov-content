@@ -18,19 +18,15 @@ The Affordable Care Act (ACA)—also known as the health care law—was created 
 
 </div>
 
-<div class="feature" markdown=“1”>
+## What does the ACA mean for me?
 
-### What does the ACA mean for me?
+Through 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee is known as an individual shared responsibility payment. It’s also sometimes called the “penalty,” “fine,” or “individual mandate.”
 
-Through 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption. If you had affordable health coverage options, but chose not to buy health insurance, you had to pay a fee when filing your taxes. This fee is known as an individual shared responsibility payment. It’s also sometimes called the “penalty,” “fine,” or “individual mandate.”
-
-Congress repealed this part of the law. This means the fee no longer applies for plans starting in 2019. But, if you didn't have coverage or an exemption in 2018, you may still have to pay a fee when you file your 2018 taxes.
-
-</div>
+Congress has now repealed this part of the law. This means the fee no longer applies for plans starting in 2019. But, if you didn't have coverage or an exemption in 2018, you may still have to pay a fee when you file your 2018 taxes.
 
 ## Does my health coverage through VA meet the ACA’s minimum essential coverage requirement for 2018? 
 
-Your health coverage meets the minimum essential coverage requirement for 2018 if you were signed up for one of the programs listed below. If you were covered under one of these programs in 2018, you won't have to pay the fee.
+Your health coverage meets the minimum essential coverage requirement for 2018 if you were signed up for one of the programs listed below. If you were covered under one of these programs in 2018, you won't have to pay the fee when you file your 2018 taxes.
 
 **To qualify, you must have been enrolled in one of these programs:**
 - [The VA health care program](/health-care/about-va-health-benefits/), **or** 
