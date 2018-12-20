@@ -22,7 +22,7 @@ The Affordable Care Act (ACA)—also known as the health care law—was created 
 
 Through the end of 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
 
-Congress repealed this part of the law for plans starting in 2019 and after. The individual shared responsibility payment no longer applies starting in plan year 2019 (for which you'll file taxes in April 2020). So if you don't have health insurance coverage in 2019, you won't have to pay the fee—even if you don't have an exemption.
+Congress changed this part of the law for plans starting in 2019 and after. The individual shared responsibility payment no longer applies starting in plan year 2019 (for which you'll file taxes in April 2020). So if you don't have health insurance coverage in 2019, you won't have to pay the fee—even if you don't have an exemption.
 
 **Note:** If you didn't have coverage or an exemption in 2018, you may still have to pay a fee when you file your 2018 taxes in April 2019. <br>
 [Go to HealthCare.gov to learn more about exemptions](https://www.healthcare.gov/exemptions-tool/#/).
