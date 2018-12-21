@@ -218,6 +218,8 @@ We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18
 </li>
 </ul>
 
+<br>
+
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
 [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
 
