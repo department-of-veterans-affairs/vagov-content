@@ -43,10 +43,10 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech, non-degree program that lasts for 2 years or less, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Learn more about REAP](/education/other-va-education-benefits/reap/).
-[Learn more about MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
+[Learn more about REAP](/education/other-va-education-benefits/reap/). <br>
+[Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
 
-<br />
+<br>
 
 **Note:** 
 You can’t get this benefit under the Post-9/11 GI Bill, Dependents’ Educational Assistance (DEA) program, or the Veterans' Educational Assistance Program (VEAP).
@@ -87,7 +87,7 @@ Ask your school to include your request for accelerated payment when they send y
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">View approved high-tech programs for Montgomery GI Bill Active Duty recipients</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-risk">View the approved high-tech programs for Montgomery GI Bill Active Duty recipients</button>
 <div id="questions-risk" class="usa-accordion-content">
 
 These programs are approved only for active-duty GI Bill recipients:
