@@ -126,9 +126,7 @@ Follow the steps below to apply for these benefits.
                                      <p></p>
     <p><b>Note:</b> You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
     <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
-                                                     </li>        
-    </ul>
-    </li>
+    </li>        
 </ol>
 
 ## How can I use my MGIB-AD education benefits?
