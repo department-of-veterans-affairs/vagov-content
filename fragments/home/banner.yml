@@ -19,11 +19,10 @@
 #   '
 #
 
-visible: false
+visible: true
 type: warning
-title: Some VA.gov tools and features may not be working as expected
+title: Important Note for Veterans and VA Employees
 content: '
-    We’re sorry. We’re working to fix some problems with DS Logon right now.
-    Please check back later or call MyVA311 for help: <a href="tel:18446982311">1-844-698-2311</a>.
-    If you have hearing loss, call TTY: 711.
+    The Department of Veterans Affairs is fully funded for fiscal year 2019, and in the event of a government shutdown, 
+    all VA operations will continue unimpeded.
   '
