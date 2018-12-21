@@ -30,7 +30,7 @@ You can get education benefits under this program if you meet the requirements l
 
 **And all of these must also be true. You:**
 - Complete your initial active duty for training (IADT), **and**
-- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
+- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**Note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
 - Stay in good standing while serving in an active Selected Reserve unit
 
 </div>
@@ -74,7 +74,7 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 
 - **If you enter Active Guard and Reserve (AGR) status**, we'll suspend your eligibility for MGIB-SR. You can qualify again if you return to the Selected Reserve within a year of when your AGR status ends. You may qualify for MGIB-Active Duty (MGIB-AD) based on your AGR status.
 - **If you elected to have your total service in the Selected Reserve credited toward your eligibility for the MGIB-AD "2 x 4" program**, you don't qualify for MGIB-SR. This program allows you to qualify for MGIB-AD with 2 years of active duty service without a break plus a 4-year Selected Reserve obligation as long as you enter the Selected Reserve within a year of release from active duty.
-- **If you qualify for MGIB-AD and then sign up for another 6 years in the Selected Reserve**, you can qualify for both MGIB-AD and MGID-SR.<br>
+- **If you qualify for MGIB-AD and then sign up for another 6 years in the Selected Reserve**, you can qualify for both MGIB-AD and MGIB-SR.<br>
 [Learn more about the MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty).
 
 </div>
