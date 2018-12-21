@@ -46,13 +46,11 @@ For example, to edit `www.va.gov/disability/eligibility/`, we would navigate to 
 
 #### 2. Click the pencil icon in the top-right corner of the panel containing the page contents to open an editor.
 
-![Click the pencil icon to open an editor](images/create-branch.png)
+![Click the pencil icon to open an editor](images/edit-page.png)
 
 An editor like the one below should open -
 
 ![Page editor](images/page-editor.png)
-
-__Pages are written using Markdown, whi
 
 #### 3. Finally, save your changes.
 Once you've made your changes, scroll to the bottom of the page. Once there, you should see a a box titled "Commit changes". On GitHub, this means to save your changes to your branch. To do so, just type a title along with an optional description, then press the green "Commit changes" button.
@@ -88,6 +86,13 @@ A [pull request](https://help.github.com/articles/about-pull-requests/) is the t
 ![Edit pull request title](images/edit-pr-title.png)
 
 Your pull request is created!
+
+#### 6. Optionally, preview your changes
+To confirm that your changes look the way you expect, you can use a Heroku review instance. After you open a pull request in the Interim CMS, along the bottom-right side of the page a "View deployment" button will become visible.
+
+![Preview the page](images/view-deployment.png)
+
+That button is a link to a version of the website generated from the code in your branch. This means that any changes you make can be verified by checking that link and navigating to your edits.
 
 ---
 
