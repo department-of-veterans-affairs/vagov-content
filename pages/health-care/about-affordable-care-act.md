@@ -22,7 +22,7 @@ The Affordable Care Act (ACA)—also known as the health care law—was created 
 
 You don't have to pay a penalty if you don't have health insurance in 2019 or any year after that.
 
-Through the end of 2018, this law required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
+Through the end of 2018, the ACA required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
 
 Congress changed this part of the law for plans starting in 2019 and after. The individual shared responsibility payment no longer applies starting in plan year 2019 (for which you'll file taxes in April 2020).
 
