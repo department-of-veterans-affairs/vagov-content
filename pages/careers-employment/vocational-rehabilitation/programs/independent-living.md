@@ -48,7 +48,7 @@ You may be eligible for independent living services if you’re a Servicemember 
 
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 **Depending on your needs, services may include:**
 
@@ -62,11 +62,11 @@ These services generally last up to 24 months. In some cases, you may be able to
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 First, you’ll need to apply for VR&amp;E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-#### If you have your VA disability rating, follow these steps to apply:
+### If you have your VA disability rating, follow these steps to apply:
 
 <ol class="process">
 <li class="process-step list-one">
