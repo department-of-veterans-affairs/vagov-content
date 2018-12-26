@@ -47,17 +47,17 @@ You may be eligible for help if you're a Veteran with a service-connected disabi
 
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 Help with the process of returning to the job you held before you deployed.
 
 <hr>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 First, you’ll need to apply for VR&E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-#### If you have your VA disability rating, follow these steps to apply:
+### If you have your VA disability rating, follow these steps to apply:
 
 <ol class="process">
 
