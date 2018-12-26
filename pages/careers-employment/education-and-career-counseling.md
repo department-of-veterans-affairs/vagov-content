@@ -44,7 +44,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 First, you’ll need to apply for Vocational Rehabilitation and Employment benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-#### Follow these steps to apply online now
+### Follow these steps to apply online now
 
 <ol class="process">
   <li class="process-step list-one">Sign in to your eBenefits account.</li>
@@ -66,7 +66,7 @@ Mail the completed form to your nearest VA regional benefit office.<br>
 
 If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
 
-## Get more information
+### Get more information
 
 [Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be). <br>
 
