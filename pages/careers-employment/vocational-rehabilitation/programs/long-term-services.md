@@ -48,7 +48,7 @@ You may be eligible for these benefits if you’re a Servicemember or Veteran wi
 
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 - A complete skills assessment
 - Career guidance
@@ -59,11 +59,11 @@ You may be eligible for these benefits if you’re a Servicemember or Veteran wi
 
 <hr>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 First, you’ll need to apply for VR&E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-#### If you have your VA disability rating, follow these steps to apply:
+### If you have your VA disability rating, follow these steps to apply:
 
 <ol class="process">
 
