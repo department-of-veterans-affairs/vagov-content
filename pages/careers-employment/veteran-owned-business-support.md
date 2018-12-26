@@ -79,7 +79,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <br>
 <span id="business-advantages">
 
-#### What kind of advantages and support can I get when I register my business?
+### What kind of advantages and support can I get when I register my business?
 
 - The ability to do business with us. If you want to do business with VA, your company must be registered as a VOSB or SDVOSB.
 - Priority when you bid on contracts for other federal or state government agencies
@@ -96,7 +96,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <br>
 <span id="business-how">
 
-#### How do I register my small business?
+### How do I register my small business?
 
 To register as a VOSB or SDVOSB, you’ll need to apply through the Vets First Verification Program. <br>
 [Apply online](https://www.vip.vetbiz.va.gov/).
@@ -109,7 +109,7 @@ Our VA-certified Verification Assistance Counselors—and Verification Program W
 <br>
 <span id="business-bidding">
 
-#### How do I get advice for bidding on federal contracts in my area?
+### How do I get advice for bidding on federal contracts in my area?
 
 Contact your local VA Small Business Liaison. <br>
 [Find a VA Small Business Liaison near you](https://www.va.gov/OSDBU/about/contacts.asp).
@@ -117,7 +117,7 @@ Contact your local VA Small Business Liaison. <br>
 <br>
 <span id="business-questions">
 
-#### What if I have other questions about these benefits?
+### What if I have other questions about these benefits?
 
 **To learn more about how we can help you access opportunities:**
 
@@ -130,7 +130,7 @@ To learn more about OSDBU and to access our events calendar and other online res
 <br>
 <span id="business-resources">
 
-#### Are there other resources that can help me start or grow a business?
+### Are there other resources that can help me start or grow a business?
 
 Yes. The U.S. Small Business Administration (SBA) can provide you with resources to help you start or grow your own business. And many universities and nonprofit organizations offer free or low-cost entrepreneur and business-focused courses for Veterans and military family members. Some courses are online, while others are in-person classes.</br>
 [Visit the Small Business Administration website](https://www.sba.gov/).</br>
