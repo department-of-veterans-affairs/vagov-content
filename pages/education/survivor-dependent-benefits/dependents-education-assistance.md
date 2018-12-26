@@ -22,13 +22,11 @@ If you’re the child or spouse of a Veteran or Servicemember who has died, is c
 
 You may be able to get these benefits if both you and the Veteran or Servicemember meet certain eligibility requirements.
 
-You may qualify for DEA benefits if one of the below descriptions is true of the Veteran.
-
-**One of these must be true. The Veteran or Servicemember:**
+**One of the descriptions below must be true. The Veteran or Servicemember:**
 
 - Is permanently and totally disabled due to a service-connected disability, **or**
 - Died while on active duty or as a result of a service-connected disability, **or**
-- Is missing in action or captured in the line of duty by a hostile force, **or**
+- Is missing in action or was captured in the line of duty by a hostile force, **or**
 - Was forcibly detained (held) or interned in the line of duty by a foreign entity, **or**
 - Is in the hospital or getting outpatient treatment for a service-connected permanent and total disability and is likely to be discharged for that disability (effective December 23, 2006)
 
@@ -37,7 +35,7 @@ You may qualify for DEA benefits if one of the below descriptions is true of the
 - You can get benefits if you’re between the ages of 18 and 26, except in certain cases. You may be married or unmarried.
 - If you’re over 18 years old and using DEA, you can’t get Dependency and Indemnity Compensation (DIC) from us. <br>
 [Learn about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
-- If you join the military, you can’t use this benefit while on active duty. And if want to use this benefit after you leave the service, you can't have a dishonorable discharge. Military service can extend your eligibility, but this increase doesn’t usually go past your 31st birthday.
+- If you join the military, you can’t use this benefit while on active duty. And if you want to use this benefit after you leave the service, you can't have a dishonorable discharge. Military service can extend your eligibility, but this increase doesn’t usually go past your 31st birthday.
 
 ### If you're the spouse of a Veteran or Servicemember
 
@@ -56,7 +54,7 @@ We’ll make a monthly payment to your school of up to $1,224 for:
 - Apprenticeships
 - On-the-job training
 
-**Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on August 1, 2018 or after, you can get benefits for up to 36 months.
+**Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on August 1, 2018, or after, you can get benefits for up to 36 months.
 
 [View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp).
 
@@ -80,8 +78,6 @@ First, contact your school’s certifying official to make sure your program is 
 - Apply by mail. You’ll need to fill out a Dependents’ Application for VA Education Benefits (VA Form 22-5490) and mail it to the regional processing office for your state. You’ll find the address on the last page of the form. <br>
 [Download VA Form 22-5490](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf). <br>
 
-
-<br>
 
 ### If you haven’t started school or a training program:
 - Get help from a trained professional trusted to help with VA-related claims. <br>
