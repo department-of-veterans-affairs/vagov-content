@@ -81,7 +81,7 @@ You may be able to get up to 36 months of benefits, including:
 
 - If you qualify for both the Fry Scholarship and DEA, you'll need to choose which program you want to use. Once you choose, you can’t change your mind.
 
-**Exception:** If your parent died in the line of duty before August 1, 2011, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. You can get up to 81 months of full-training through these programs, but you can use only one program at a time. <br>
+**Exception:** If your parent died in the line of duty before August 1, 2011, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. You can get up to 81 months of full-time training through these programs, but you can use only one program at a time. <br>
 [Read about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
 
 </li>
