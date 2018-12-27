@@ -21,7 +21,7 @@ If your parent or spouse was an active-duty Servicemember who died in the line o
 
 You may be able to get benefits under the Fry Scholarship if you’re the child or surviving spouse of an active-duty Servicemember who died in the line of duty on or after September 11, 2001.
 
-#### If you're the child of a Servicemember
+#### As the child of a Servicemember
 
 - You can be married or unmarried.
 - **If you turned 18 or graduated from high school before January 1, 2013,** you can get a Fry Scholarship until you're 33 years old.
@@ -32,7 +32,7 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 
 
-#### If you're the spouse of a Servicemember
+#### As the spouse of a Servicemember
 
 - **If you remarry,** you'll no longer be eligible for the Fry Scholarship.
 - You can still get Dependency and Indemnity Compensation (DIC) payments while using the Fry Scholarship.<br>
