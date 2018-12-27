@@ -34,7 +34,7 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 
 #### If you're the spouse of a Servicemember
 
-- **If you remarry**, you'll no longer be eligible for the Fry Scholarship.
+- **If you remarry,** you'll no longer be eligible for the Fry Scholarship.
 - You can still get Dependency and Indemnity Compensation (DIC) payments while using the Fry Scholarship.<br>
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 </div>
