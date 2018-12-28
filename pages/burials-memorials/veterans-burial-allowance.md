@@ -55,7 +55,7 @@ To get this benefit, the Veteran must not have received a dishonorable discharge
 
 </div>
 
-### Is there a time limit for filing?
+## Is there a time limit for filing?
 
 You must file a claim for a non-service-connected burial allowance within 2 years after the Veteran’s burial or cremation. If a Veteran’s discharge was changed after death from dishonorable to another status, you must file for an allowance claim within 2 years after the discharge update.
 
@@ -69,19 +69,14 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 **Note**: The Veteran's family will need to cover the cost of funeral director services.
 
-
-<div class="feature" markdown="1">
-
-### What documents and information do I need to apply?
+## What documents and information do I need to apply?
 
 **You may need a copy of:**
 - The Veteran’s military discharge papers (DD214 or other separation documents)
 - The Veteran’s death certificate
 - Any documents you have for the cost of transporting the Veteran’s remains
 
-</div>
-
-### As a surviving spouse, do I need to file a claim for burial costs?
+## As a surviving spouse, do I need to file a claim for burial costs?
 No. When we receive notice of the Veteran’s passing, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
 
 <div id="react-applicationStatus" class="static-page-widget">
