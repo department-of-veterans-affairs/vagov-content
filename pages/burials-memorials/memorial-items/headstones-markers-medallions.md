@@ -78,9 +78,7 @@ You can apply for one of these memorial items if you're representing the Veteran
     Quantico, VA 22134-3903<br>
 </p>
 
-<div class="feature">
-
-### What information goes on the headstone or marker?
+## What information goes on the headstone or marker?
 
 **You must put this information on the headstone or marker:**
 - The person's legal name
@@ -102,9 +100,8 @@ You can apply for one of these memorial items if you're representing the Veteran
 [Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf). <br>
 [See the emblems of belief you can choose to place on a headstone or marker](https://www.cem.va.gov/cem/docs/emblems.pdf).
 <br>
-</div>
 
-### What do I need to know about burial in a private cemetery?
+## What do I need to know about burial in a private cemetery?
 
 You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. <br>
 [Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp).
@@ -116,7 +113,7 @@ If you'd like, you can request a medallion to attach to a privately purchased he
 [Learn more about medallions and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf).
 
 
-### How do I make special arrangements?
+## How do I make special arrangements?
 
 We provide memorial headstones and markers for qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
 
