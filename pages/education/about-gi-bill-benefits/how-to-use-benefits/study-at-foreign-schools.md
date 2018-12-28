@@ -36,7 +36,7 @@ You can get education benefits if you meet all of the requirements listed below.
 
 ### Can I attend any foreign school?
 
-- We’ll accept degrees from schools in foreign countries that are similar to degrees granted by accredited U.S. colleges and universities. Accredited means that a group of experts has confirmed the school meets certain recognized quality standards.
+- We’ll accept degrees from schools in foreign countries that are similar to degrees granted by accredited U.S. colleges and universities. "Accredited" means that a group of experts has confirmed the school meets certain recognized quality standards.
 - For private schools overseas, the degree must be of equal value to those granted by public colleges and universities in the same country, and the school must have the same entrance requirements.
 - Independent study courses must be accredited by a nationally recognized accrediting association.
 
@@ -108,11 +108,11 @@ If you don’t do this, it could affect when you get benefits.
 
 ### Where will you process my claim?
 
-**If you're training in Puerto Rico or the U. S. Virgin Islands**, our Atlanta Regional Processing Office in Decatur, Georgia will process your claim.
+**If you're training in Puerto Rico or the U.S. Virgin Islands,** our Atlanta Regional Processing Office in Decatur, Georgia, will process your claim.
 
-**If you're training in the Republic of the Philippines, American Samoa, Guam, Midway, Wake Island, any of the islands in the Federated States of the Marshall Islands, the Republic of Micronesia, or the Republic of Palau**, our Muskogee Regional Processing Office will process your claim.
+**If you're training in the Republic of the Philippines, American Samoa, Guam, Midway, Wake Island, any of the islands in the Federated States of the Marshall Islands, the Republic of Micronesia, or the Republic of Palau,** our Muskogee Regional Processing Office will process your claim.
 
-**If you are training in any other foreign country or area**, our Buffalo Regional Processing Office will process your claim.
+**If you're training in any other foreign country or area,** our Buffalo Regional Processing Office will process your claim.
 
 ### What if I need more help?
 
