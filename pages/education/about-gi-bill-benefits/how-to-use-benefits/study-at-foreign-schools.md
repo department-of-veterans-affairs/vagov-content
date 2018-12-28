@@ -68,7 +68,7 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
       Buffalo, NY 14202
     </p>
     You'll need to give us the name of the foreign school, the complete address, and the name of the program you want to enroll in. We’ll let you know if your program has already been approved.</li>
-  <li><b>If you or your qualified dependent want to enroll in a program that we haven’t approved</b>, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</li>
+  <li><b>If you or your qualified dependent want to enroll in a program that we haven’t approved,</b> you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</li>
   </ul>
 <li class="process-step list-two">
 
@@ -100,7 +100,7 @@ If you get approved for benefits, turn in your Certificate of Eligibility (COE) 
 
 If you don’t do this, it could affect when you get benefits.
 
-**If you plan to attend the foreign school for more than one year**, tell the school within 120 days of when you want to re-enroll for another year. Ask the certifying official to submit an enrollment certification for you. Normally, foreign schools certify their students for one academic year. So you'll need to make sure the school knows your plans for continued enrollment to avoid any delay in getting your benefits.
+**If you plan to attend the foreign school for more than one year,** tell the school within 120 days of when you want to re-enroll for another year. Ask the certifying official to submit an enrollment certification for you. Normally, foreign schools certify their students for one academic year. So you'll need to make sure the school knows your plans for continued enrollment to avoid any delay in getting your benefits.
 </li>
 
 </li>
