@@ -36,7 +36,7 @@ You can get a burial flag if you’re the next of kin or a close friend of the V
 - Died while serving on active duty after May 27, 1941, <b>or</b>
 - Served after January 31, 1955, <b>or</b>
 - Served in peacetime and left military service before June 27, 1950, after serving at least 1 enlistment, or because of a disability that was caused—or made worse—by their active military service, <b>or</b>
-- Served in the Selected Reserves (in certain cases), or served in the military forces of the Philippines while in service of the United States and died on or after April 25, 1951. For more information on either of these situations, call 1-800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
+- Served in the Selected Reserves (in certain cases), or served in the military forces of the Philippines while in service of the United States and died on or after April 25, 1951. For more information on either of these situations, call <a href="tel:+18008271000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
 
 </div>
 
@@ -52,6 +52,8 @@ To get a burial flag, fill out the Application for United States Flag for Burial
 
 ## How do I care for the flag?
 
+Follow these guidelines to care for the flag:
+
 - To protect the flag from weather damage, don’t leave it outside for long periods of time.
 - Use and display the flag carefully so it can't be damaged in any way.
 - Don't add or attach any words or symbols or other kinds of drawings to the flag.
@@ -60,7 +62,7 @@ To get a burial flag, fill out the Application for United States Flag for Burial
 On the last page of the Application for United States Flag for Burial Purposes, you can read more about how to care for a burial flag. You can also see how the flag will be displayed and then folded at a memorial service. <br>
 [Read more about burial flags on the last page of the application](https://www.vba.va.gov/pubs/forms/VBA-27-2008-ARE.pdf)
 
-### What else should I know about burials flags?
+## What else should I know about burials flags?
 The Veteran’s family can donate the flag to a national cemetery that has an Avenue of Flags so that it can be flown on patriotic holidays.
 
 We can’t replace flags that are lost, destroyed, or stolen, but some Veterans organizations may be able to help if something happens to the flag we gave you.
