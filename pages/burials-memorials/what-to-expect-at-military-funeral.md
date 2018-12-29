@@ -31,7 +31,7 @@ The family may choose to have military funeral honors. This may include the play
 **Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
 [Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/).
 
-## What else should I know about military funeral etiquette?
+## How can I pay my respects at a military funeral?
 
 **People attending a military funeral may:**
 - Bring flowers, which may go with the casket or urn when it’s taken from the committal shelter to the gravesite, **and**
