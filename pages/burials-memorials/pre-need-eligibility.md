@@ -130,7 +130,7 @@ Please don't send us the originals of your DD214 and other supporting documents 
 
 ### By fax
 
-You can also fax your application to us at 1-855-840-8299.
+You can fax your application to us at 1-855-840-8299.
 
 ### By email
 You can email your application to us at <a href="mailto:eligibility.preneed@va.gov">eligibility.preneed@va.gov</a>.
