@@ -99,7 +99,8 @@ To start, you may want to choose a funeral director to help you plan the burial.
  - Other possible military honors beyond the playing of "Taps" and flag folding and presentation
 
  [Request gravesite memorials and burial honors](/burials-memorials/memorial-items/).<br>
- [Learn more about military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp). <br>
+ [Learn more about military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp).
+ 
 **Note:** You may be able to schedule a weekend burial at certain national cemeteries. <br>
 [Learn about the weekend burial program](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf).
 </li>
