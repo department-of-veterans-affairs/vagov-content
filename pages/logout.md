@@ -17,7 +17,6 @@ private: true
 </div>
 
 <script>
-  var returnUrl = window.sessionStorage.getItem('returnUrl');
   window.sessionStorage.removeItem('returnUrl');
   window.localStorage.removeItem('hasSession');
   window.localStorage.removeItem('userFirstName');
