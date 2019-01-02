@@ -25,6 +25,7 @@ private: true
   if (isFullScreenLoginEnabled) {
     window.location = '/';
   } else {
+    window.opener.location = '/';
     window.close();
   }
 </script>
