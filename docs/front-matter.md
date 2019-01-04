@@ -72,13 +72,15 @@ There are 3 standard template options for content:
 
 `title: VA Burial Benefits and Memorial Items`
 
-It is also what Google uses for SEO meta content. 
+This is also the text that:
+* Is used as the name of the tab and bookmark
+* Google uses for SEO meta content
 
 **Display title** is an optional shorter version of the title that appears in the side navigation and breadcrumbs. If left blank, these locations will display the content in the `title` field. Example:
 
 `display_title: Burials and Memorials`
 
-**Heading** is currently a conditional front matter attribute. When a value is defined, it will display as the title at the top of the page. If left empty, the title will be used to display at the top of the page.
+**Heading** is currently a conditional front matter attribute. When a value is defined, it will display as the <h1> heading visable at the top of the page. If left empty, the title will be used to display as the <h1> heading.
 
 ### Permalink
 
