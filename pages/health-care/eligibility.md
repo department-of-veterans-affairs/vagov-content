@@ -216,7 +216,7 @@ You may be assigned to Priority Group 2 if you have a service-connected disabili
 
 **Note:** If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998 or were discharged from active duty on or after January 28, 2003, you're eligible for enhanced benefits for 5 years after discharge. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
 
-<Priority Group 7</h5>
+<h5>Priority Group 7</h5>
 
 **You may be assigned to Priority Group 7 if both of the below descriptions are true for you:**
 - Your gross household income is below the geographically-adjusted income limits (GMT) for where you live, **and**
