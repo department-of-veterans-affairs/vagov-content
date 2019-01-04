@@ -80,7 +80,7 @@ This is also the text that:
 
 `display_title: Burials and Memorials`
 
-**Heading** is currently a conditional front matter attribute. When a value is defined, it will display as the <h1> heading visable at the top of the page. If left empty, the title will be used to display as the <h1> heading.
+**Heading** is currently a conditional front matter attribute. When a value is defined, it will display as the `<h1>` heading visable at the top of the page. If left empty, the title will be used to display as the `<h1>` heading.
 
 ### Permalink
 
