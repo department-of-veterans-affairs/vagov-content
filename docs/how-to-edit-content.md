@@ -1,16 +1,19 @@
 # How to edit content
 
 ## Where to find the correct page to edit
-The [`pages`](https://github.com/department-of-veterans-affairs/vagov-content/tree/master/pages) directory of the Interim CMS reflects that of the published website - Each Markdown file (files with the `.md` file extension) is compiled into an HTML page of the corresponding location on the website. [Learn how to write content with Markdown](https://www.markdownguide.org).
+The [`pages`](https://github.com/department-of-veterans-affairs/vagov-content/tree/master/pages) directory of the Interim CMS reflects the structure (information architecture) of the published website. 
 
-For example, `pages/health-care/after-you-apply.md` is compiled into HTMl and then published to `https://www.va.gov/health-care/after-you-apply/`. So, if you need to edit that page, `pages/health-care/after-you-apply.md` is the markdown file you'll need to edit.
+Each markdown file (files with the `.md` file extension) is compiled into an HTML page with a corresponding (matching) location on the website. In other words, the url for a webpage shows you the location of that page's file in github. <br>
+[Learn how to write content with markdown](https://www.markdownguide.org).
+
+For example, `pages/health-care/after-you-apply.md` is compiled into HTML and then published to `https://www.va.gov/health-care/after-you-apply/`. So, if you need to edit that page, `pages/health-care/after-you-apply.md` is the markdown file you'll need to edit.
 
 ## How to edit content
-The general steps to edit a page (or multiple pages) are as follows:
+Follow these steps to edit a page (or multiple pages):
 
-1. [Create a "branch" to group your changes](#create-a-branch-to-group-your-changes)
-2. [Perform your page edits](#perform-your-page-edits)
-2. [Open a "pull request" to propose the change](#open-a-pull-request)
+1. [Create a "branch" to collect your edits](#create-a-branch-to-collect-your-edits)
+2. [Enter your edits](#enter-your-edits)
+2. [Open a "pull request" to propose the edits](#open-a-pull-request)
 3. [Assign a reviewer to approve your changes](#assign-a-reviewer)
 4. ["Merge" your changes to publish them to the website](#merge-your-changes)
 
@@ -18,26 +21,26 @@ This can all be done on the homepage of the Interim CMS at GitHub.
 
 ---
 
-### Create a branch to group your changes
-A [branch](https://help.github.com/articles/about-branches/) is a term used to describe a collection of code. The default branch of GitHub projects is the "master" branch. This means that the code in the master branch is the code that is ultimately published to the live website. If you need to edit a page, you create your own branch to collect all of your changes. Later, you'll propose that the changes in your branch become part of the master branch.
+### Create a branch to collect your edits
+A [branch](https://help.github.com/articles/about-branches/) is a term used to describe a collection of code. The default branch of GitHub projects is the "master" branch. This means that the code in the master branch is the code that's ultimately published to the live website. If you need to edit a page, you create your own branch to collect all of your changes. Later, you'll propose that the changes in your branch become part of the master branch.
 
-#### 1. Start on the master branch
-Near the top-left corner of the Interim CMS and just above the directories, you should notice a dropdown containing the words "Branch: master". This indicates that you're currently on the master branch.
+#### 1. Start from the master branch
+Near the top-left corner of the Interim CMS, just above the directories, you should notice a dropdown containing the words "Branch: master." This indicates that you're currently on the master branch.
 
-If you don't see "master" in that dropdown, you may be exporing a different branch. To go to the master branch, you can click the dropdown, type "master", and then click the result that says "master" as shown below.
+If you don't see "master" in that dropdown, you may be exporing a different branch. To go to the master branch, you can click the dropdown, type "master," and then click the result that says, "master." See below.
 
 ![How to change your branch to the master branch](images/find-master.png)
 
 #### 2. Create your branch
-Next, you'll create your own branch where you'll make your changes. To create the branch, click the dropdown in the top-left corner of the Interim CMS that should currently say "Branch: master". Then, type a name for you branch. This name is up to you, but in general it should describe the work you'll be doing in some way. Once you've typed your branch name, click the link to create the branch as shown below.
+Next, you'll create your own branch where you'll enter your edits. To create the branch, click the dropdown in the top-left corner of the Interim CMS that should currently say, "Branch: master." Then, type a name for your branch. This name is up to you, but in general it should describe the work you'll be doing in some way. Once you've typed your branch name, click the blue box that says, "Create branch," and includes the name you just typed. See below.
 
 ![Create your own branch](images/create-branch.png)
 
-Once created, you'll automatically be switched from the master branch to your new branch. Because you created your branch while being on the master branch prior, the code in your new branch should be identical to those in the master branch.
+Once you've clicked that blue box, you've successfully created and can start editing in your branch. You're not in master anymore--github automatically locates you in your new branch. Because you created your branch from the master branch, the code in your new branch is identical to what's in the master branch.
 
 ---
 
-### Perform your page edits
+### Enter your edits
 Now that you've created your own branch, you can make all of your edits.
 
 #### 1. First, locate the page to be edited.
