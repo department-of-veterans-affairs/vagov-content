@@ -39,7 +39,7 @@ When we receive a pension claim, we review the terms and conditions of any asset
 
 If you transfer assets for less than fair market value during the look-back period, and those assets would have pushed your net worth above the limit for a VA pension, you may be subject to a penalty period of up to 5 years. You won't be eligible for pension benefits during this time.
 
-**Note:** This new policy took effect on October 18, 2018. If you filed your claim before this date, the look-back period doesn't apply. (A look-back period never includes a date prior to October 18, 2018.)
+**Note:** This new policy took effect on October 18, 2018. If you filed your claim before this date, the look-back period doesn't apply. (A look-back period never includes a date before October 18, 2018.)
 
 ## What’s a penalty period? 
 
