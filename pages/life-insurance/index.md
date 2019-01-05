@@ -11,9 +11,9 @@ hub: life-insurance
 promo:
   - image: /img/megamenu/life-insurance-illustration.png
     alt:
-    heading: SGLI Online Enrollment System (SOES)
-    url: "https://www.benefits.va.gov/INSURANCE/SOES.asp"
-    description: Learn about our new online enrollment system for Servicemembers' Group Life Insurance.
+    heading: Veterans’ Group Life Insurance (VGLI)
+    url: "/life-insurance/options-eligibility/vgli/"
+    description: Get group life insurance once you’ve ended your service.
 
 crosslinks:
   - heading: Other VA Benefits and Services
@@ -94,7 +94,7 @@ hublinks:
     title: Manage Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
-      label: Manage Your Policy Online
+      label: Online Policy Access
       description: Find out how to check your policy's status, update your information, or pay your premium online.
       external: false
     - url: https://benefits.va.gov/INSURANCE/updatebene.asp
