@@ -72,7 +72,7 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 
 **Note:**
 - **If you have more than one dependent**, add $2,313 to your MAPR amount for each additional dependent.
-- **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
+- **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
 ### For 2 Veterans who are married to each other:
@@ -88,7 +88,7 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 
 **Note:**
 - **If you have more than one dependent**, add $2,313 to your MAPR amount for each additional child.
-- **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
+- **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
 [Get historic rate charts from past years](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
