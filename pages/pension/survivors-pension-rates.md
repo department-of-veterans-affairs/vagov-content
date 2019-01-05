@@ -65,7 +65,7 @@ A penalty period is a length of time when a Veteran isn’t eligible for pension
 **Notes:**
 - The Survivor Benefit Plan (SBP)/Minimum Income Annuity (MIW) limitation is $9,078.
 - **If you have more than one child**, add $2,313 to your MAPR amount for each additional child.
-- **If you have a child who works**, you may exclude their wages up to $12,000 for 2018.
+- **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($594 for a surviving spouse with 1 dependent).
 
 ### For qualified surviving spouses with no dependents:
