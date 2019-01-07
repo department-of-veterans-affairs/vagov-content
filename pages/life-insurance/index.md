@@ -94,7 +94,7 @@ hublinks:
     title: Manage Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
-      label: Online Policy Access
+      label: Access Your Policy Online
       description: Find out how to check your policy's status, update your information, or pay your premium online.
       external: false
     - url: https://benefits.va.gov/INSURANCE/updatebene.asp
