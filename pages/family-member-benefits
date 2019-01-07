@@ -1,0 +1,180 @@
+---
+layout: page-breadcrumbs.html
+template: level2-index
+title: VA Benefits for Family Members of Veterans and Service Members
+display_title: Family Member Benefits
+description: 
+concurrence:
+lastupdate:
+order: 1
+hub: family-member
+promo:
+  - image: 
+    heading: 
+    url: 
+    description: 
+crosslinks:
+  - heading: 
+    links:
+    - url: 
+      title: 
+      description: 
+social:
+  - heading: Ask Questions
+    subsections:
+      - subhead: Message Us
+        links:
+        - url: https://iris.custhelp.va.gov/app/ask
+          label: "Ask a question online"
+      - subhead: Call Us
+        links:
+        - url: tel:1-877-222-VETS(8387)
+          number: 1-877-222-VETS(8387)
+          title: "Health Benefits Hotline:"
+        - url: tel:1-877-327-0022
+          number: 1-877-327-0022
+          title: "My HealtheVet Help Desk:"
+        - url: tel:1-800-983-0937
+          number: 1-800-983-0937
+          title: "eBenefits Technical Support:"
+        - url: tel:1-844-698-2311
+          number: 1-844-698-2311
+          title: "Call MyVA311 for Help:"
+        - url:
+          title: "If you have hearing loss, call TTY: 711."
+  - heading: Connect with Us
+    admin: Veterans Health Administration
+    url: https://www.va.gov/health/
+    subsections:
+      - subhead: Get Updates
+        links:
+        - url: https://public.govdelivery.com/accounts/USVHA/subscribers/qualify?category_id=USVHA_C4&email=dwdw%40gmail.com&commit.x=36&commit.y=11
+          label: Veterans Health Email Updates
+          external: true
+          icon: fa-envelope
+      - subhead: Follow Us
+        links:
+        - url: "https://twitter.com/VeteransHealth"
+          label: Veterans Health Twitter
+          external: true
+          icon: fa-twitter
+        - url: "https://www.facebook.com/VeteransHealth"
+          label: Veterans Health Facebook
+          external: true
+          icon: fa-facebook
+        - url: "https://www.youtube.com/user/VeteransHealthAdmin"
+          label: Veterans Health YouTube
+          external: true
+          icon: fa-youtube
+hublinks:
+  - id: "spouse"
+    title: Benefits for Spouses and Dependent Children
+    links:
+      - url: 
+        label: Health Care
+        description: Learn how VA health care works and which Veterans health care services we cover.</p>
+      - url: 
+        label: Education and Training
+        description: 
+      - url: 
+        label: Survivors Pension 
+        description: 
+      - url: 
+        label: Home Loan Programs for Spouses
+        description: 
+      - url: 
+        label: Life Insurance
+        description: 
+      - url: 
+        label: Burial in a VA National Cemetery
+        description: 
+      - url: 
+        label: Veteran Records and Documents
+        description:
+  - id: "survivor"
+    title: Benefits Survivors May Need
+    links:
+      - url: 
+        label: Burial Benefits and Memorial Items
+        description: 
+      - url: 
+        label: Life Insurance Beneficiary Financial Counseling
+        description: 
+      - url: 
+        label: Compensation for Surviving Spouse and Dependents (DIC)
+        description: 
+      - url: 
+        label: Survivors Pension
+        description: 
+      - url: 
+        label: TRICARE 
+        description: 
+      - url: 
+        label: CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
+        description: 
+      - url: 
+        label: Financial Counseling to Avoid Foreclosure 
+        description: 
+      - url: 
+        label: Home Loan Programs for Spouses
+        description: 
+      - url: 
+        label: Fry Scholarship for Education
+        description: 
+      - url: 
+        label: Survivors' and Dependents' Education Assistance Program
+        description: 
+  - id: "caregiver"
+    title: Benefits Family Caregivers May Need
+    links:
+      - url:         
+        label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
+        description: 
+      - url: 
+        label: VA Caregiver Support Program
+        description: 
+     
+---
+
+<p class="va-introtext">
+As the spouse or qualified dependent of a Veteran or service member, you may be eligible for VA benefits, including health care, help with paying for school or training, and life insurance. If you're the survivor of a Veteran or service member, you may qualify for additional benefits, including help with burial costs and survivor compensation. If you're caring for a Veteran or service member, we can also offer you added support. Find out what benefits you may be eligible for.
+</p>
+
+<h3>On This Page</h3>
+
+<ul>
+  <li><a href="#spouse">Benefits for Spouses and Dependent Children</a></li>
+  <li><a href="#survivor">Benefits Survivors May Need</a></li>
+  <li><a href="#caregiver">Benefits Family Caregivers May Need</a></li>
+</ul>
+
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">How do I get help for a Veteran who's homeless, at risk of becoming homeless, or in crisis?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <div id="crisis-expander-content" class="expander-content expander-content-closed">
+      <div class="expander-content-inner usa-alert-text">
+
+We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
+
+**Find the support you need:**
+
+- **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+- **Contact your nearest VA medical center** and ask to talk with the VA social worker. <br>
+[Find the nearest VA medical center](/find-locations/).
+
+**Talk with someone right now:**
+
+If you're concerned about a Veteran in crisis, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.<br>
+<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.
+   </div>
+  </div>
+ </div>
+</div>
+
+<script type="text/javascript">
+  // Toggle the expandable crisis info
+  document.getElementById('crisis-expander-link')
+    .addEventListener('click', function () {
+      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
+    });
+</script>
