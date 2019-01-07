@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Online Policy Access
-display_title: Manage Policy 
+title: Access Your Policy Online
+display_title: Access Your Policy Online 
 concurrence: 
 order: 1
 spoke: Manage Benefits
