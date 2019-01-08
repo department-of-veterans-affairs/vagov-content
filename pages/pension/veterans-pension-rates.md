@@ -48,7 +48,7 @@ A penalty period is a length of time when a Veteran isn’t eligible for pension
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
 *Date of Cost-of-Living Increase: December 1, 2018* <br>
-*Increase Factor: 2%* <br>
+*Increase Factor: 2.8%* <br>
 *Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
 
 ### For Veterans with no dependents:
