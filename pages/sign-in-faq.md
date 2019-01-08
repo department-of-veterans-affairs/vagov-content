@@ -68,7 +68,7 @@ display_title: Frequently Asked Questions
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-3" itemprop="name">I can't sign in to VA.gov. What should I do? </button>
                     <div id="faq-signin-3" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p><strong>If you're seeing the message "We're sorry. Something went wrong on our end"</strong>, try taking these steps:
+                        <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,”</strong> try taking these steps:
                           <ul>
                             <li>Clear your Internet browser's cookies and cache.</li>
                             <li>Make sure you have cookies enabled in your browser settings.</li>
