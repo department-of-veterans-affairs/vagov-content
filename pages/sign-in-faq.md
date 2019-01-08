@@ -64,6 +64,31 @@ display_title: Frequently Asked Questions
                       </div>
                     </div>
                   </li>
+                <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-3" itemprop="name">I can't sign in to VA.gov. What should I do? </button>
+                    <div id="faq-signin-3" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>Mstrong>If you're seeing the message "We're sorry. Something went wrong on our end," when you try to sign in to VA.gov</strong>, try taking these steps:
+                          <ul>
+                            <li>Clear your Internet browser's cookies and cache.</li>
+                            <li>Make sure you have cookies enabled in your browser settings.</li>
+                            <li>If you're using Internet Explorer or Microsoft Edge and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead.</li>
+                            <li>If you're using Chrome or Firefox and it's not working, make sure you've updated your browser with the latest updates.</li>
+                        </ul>
+                        <p><strong>If you can't sign in because you're using the wrong password</strong>, try resetting the password for the account you use to sign in to VA.gov:</p>
+                        <ul>
+                          <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a></li>
+                          <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a></li>
+                          <li><a href="https://help.id.me/hc/en-us/articles/360011411534-How-do-I-reset-my-ID-me-password-">Reset your password for ID.me</a></li>   
+                        </ul>
+                      <p><strong>If you need other support from ID.me</strong>, visit their support page.</br>
+                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a></p>
+              <p><strong>If you have questions about the Veteran ID Card</strong>, please send an email to <a href="mailto:VIC@va.gov">VIC@va.gov</a></p>
+              <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can know how to help you better.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
                 </ul>
                 <br/>
                 <a name="verifying-your-identity"></a>
