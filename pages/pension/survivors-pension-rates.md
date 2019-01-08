@@ -44,7 +44,7 @@ If you transfer assets for less than fair market value during the look-back peri
 
 ## What’s a penalty period? 
 
-A penalty period is a length of time when a Veteran isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period. 
+A penalty period is a length of time when a survivor isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period. 
 
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
