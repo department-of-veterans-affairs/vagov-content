@@ -84,7 +84,7 @@ display_title: Frequently Asked Questions
                       <p><strong>If you need other support from ID.me</strong>, visit their support page.</br>
                       <a href="https://help.id.me/hc/en-us">Visit ID.me support</a></p>
               <p><strong>If you have questions about the Veteran ID Card</strong>, please send an email to <a href="mailto:VIC@va.gov">VIC@va.gov</a></p>
-              <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can know how to help you better.<br>
+              <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
                     </div>
