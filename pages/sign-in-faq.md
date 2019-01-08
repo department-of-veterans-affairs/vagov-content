@@ -72,7 +72,9 @@ display_title: Frequently Asked Questions
                           <ul>
                             <li>Clear your Internet browser's cookies and cache.</li>
                             <li>Make sure you have cookies enabled in your browser settings.</li>
-                            <li>If you're using Internet Explorer or Microsoft Edge and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead.</li>
+                            <li>If you're using Internet Explorer or Microsoft Edge and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead.<br>
+                            <a href="https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAsdHhBRCwARIsAAhRhsk_uwlqzTaYptK2zKbuv-5g5Zk9V_qaKTe1Y5ptlxudmMG_Y7XqyDkaAs0HEALw_wcB&gclsrc=aw.ds">Download Google Chrome</a>.<br>
+                            <a href="https://www.mozilla.org/en-US/firefox/new/">Download Mozilla Firefox</a>.</li>
                             <li>If you're using Chrome or Firefox and it's not working, make sure you've updated your browser with the latest updates.</li>
                         </ul>
                         <p><strong>If you can't sign in because you're using the wrong password</strong>, try resetting the password for the account you use to sign in to VA.gov:</p>
