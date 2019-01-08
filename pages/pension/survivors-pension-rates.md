@@ -50,7 +50,7 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
 *Date of Cost-of-Living Increase: December 1, 2018* <br>
-*Increase Factor: 2%* <br>
+*Increase Factor: 2.8%* <br>
 *Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
 
 ### For qualified surviving spouses with at least 1 dependent:
