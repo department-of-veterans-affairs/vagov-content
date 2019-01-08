@@ -19,20 +19,6 @@ crosslinks:
     - url: 
       title: 
       description: 
-social:
-  - heading: Ask Questions
-    subsections:
-      - subhead: Message Us
-        links:
-	- url: https://iris.custhelp.va.gov/app/ask
-          label: "Ask a question online"
-      - subhead: Call Us
-        links:
-	- url: tel:1-800-827-1000
-	  number: 1-800-827-1000
-          title: "Call MyVA311 for Help:"
-        - url:
-          title: "If you have hearing loss, call TTY: 711." 
 hublinks:
   - id: "spouse"
     title: Benefits for Spouses and Dependent Children
@@ -67,9 +53,6 @@ hublinks:
       - url: https://benefits.va.gov/insurance/bfcs.asp?_ga=2.20372474.311206835.1546861480-1173244138.1525894550
         label: Life Insurance Beneficiary Financial Counseling
         description: 
-      - url: https://benefits.va.gov/INSURANCE/sglivgli.asp?_ga=2.253549259.311206835.1546861480-1173244138.1525894550
-        label: File an Insurance Claim
-	description: 
       - url: /burials-memorials/dependency-indemnity-compensation/
         label: Compensation for Surviving Spouse and Dependents (DIC)
         description: 
