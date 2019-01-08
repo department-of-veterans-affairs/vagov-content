@@ -70,67 +70,70 @@ hublinks:
   - id: "spouse"
     title: Benefits for Spouses and Dependent Children
     links:
-      - url: 
+      - url: /health-care/family-caregiver-benefits/
         label: Health Care
         description: Find out if you qualify for health care through VA or the Department of Defense. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran's service.
-      - url: 
+      - url: /education/survivor-dependent-benefits/
         label: Education and Training
         description: Learn how to apply for help with paying for school or training as the dependent or surviving spouse or child of a Veteran, and how your Veteran sponsor may transfer some of their Post-9/11 GI Bill benefits to you if they don't use them all.
       - url: /pension/survivors-pension/
         label: Survivors Pension 
         description: Find out if you’re eligible and how to apply for a survivors pension as a surviving spouse or child of a deceased Veteran with wartime service.
-      - url: 
+      - url: /housing-assistance/home-loans/spouses/
         label: Home Loan Programs for Spouses
         description: If you're the surviving spouse of a Veteran or the spouse of a service member who is missing in action or is a prisoner of war (POW), learn how to apply for VA home loan programs to buy, build, repair, or refinance a home. 
-      - url: 
+      - url: /life-insurance/
         label: Life Insurance
         description: 
-      - url: 
+      - url: /burials-memorials/pre-need-eligibility
         label: Burial in a VA National Cemetery
         description: 
-      - url: 
+      - url: /records/
         label: Veteran Records and Documents
         description:
   - id: "survivor"
     title: Benefits Survivors May Need
-    links:
-      - url: 
+    links: 
+      - url: /burials-memorials/ 
         label: Burial Benefits and Memorial Items
         description: 
-      - url: 
+      - url: https://benefits.va.gov/insurance/bfcs.asp?_ga=2.20372474.311206835.1546861480-1173244138.1525894550
         label: Life Insurance Beneficiary Financial Counseling
         description: 
-      - url: 
+      - url: https://benefits.va.gov/INSURANCE/sglivgli.asp?_ga=2.253549259.311206835.1546861480-1173244138.1525894550
+        label: File an Insurance Claim
+	description: 
+      - url: /burials-memorials/dependency-indemnity-compensation/
         label: Compensation for Surviving Spouse and Dependents (DIC)
         description: 
-      - url: 
+      - url: /pension/survivors-pension/
         label: Survivors Pension
         description: 
-      - url: 
+      - url: https://www.tricare.mil/
         label: TRICARE 
         description: 
-      - url: 
+      - url: /health-care/family-caregiver-benefits/champva/
         label: CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
         description: 
-      - url: 
+      - url: /housing-assistance/home-loans/trouble-making-payments/
         label: Financial Counseling to Avoid Foreclosure 
         description: 
-      - url: /pension/survivors-pension/
+      - url: /housing-assistance/home-loans/spouses/
         label: Home Loan Programs for Spouses
         description: If you're the surviving spouse of a Veteran or the spouse of a service member who is missing in action or is a prisoner of war (POW), learn how to apply for VA home loan programs to buy, build, repair, or refinance a home.
-      - url: 
+      - url: /education/survivor-dependent-benefits/fry-scholarship
         label: Fry Scholarship for Education
         description: 
-      - url: 
+      - url: /education/survivor-dependent-benefits/dependents-education-assistance/
         label: Survivors' and Dependents' Education Assistance Program
         description: 
   - id: "caregiver"
     title: Benefits Family Caregivers May Need
     links:
-      - url:         
+      - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
         label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
         description: 
-      - url: 
+      - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
         description: 
      
