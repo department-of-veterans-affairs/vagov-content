@@ -77,13 +77,13 @@ display_title: Frequently Asked Questions
                         </ul>
                         <p><strong>If you can't sign in because you're using the wrong password</strong>, try resetting the password for the account you use to sign in to VA.gov:</p>
                         <ul>
-                          <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a></li>
-                          <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a></li>
-                          <li><a href="https://help.id.me/hc/en-us/articles/360011411534-How-do-I-reset-my-ID-me-password-">Reset your password for ID.me</a></li>   
+                          <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a>.</li>
+                          <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a>.</li>
+                          <li><a href="https://help.id.me/hc/en-us/articles/360011411534-How-do-I-reset-my-ID-me-password-">Reset your password for ID.me</a>.</li>   
                         </ul>
                       <p><strong>If you need other support from ID.me</strong>, visit their support page.</br>
-                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a></p>
-              <p><strong>If you have questions about the Veteran ID Card</strong>, please send an email to <a href="mailto:VIC@va.gov">VIC@va.gov</a></p>
+                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a>.</p>
+              <p><strong>If you have questions about the Veteran ID Card</strong>, please send an email to <a href="mailto:VIC@va.gov">VIC@va.gov</a>.</p>
               <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
