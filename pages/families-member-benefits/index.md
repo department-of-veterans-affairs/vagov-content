@@ -24,48 +24,15 @@ social:
     subsections:
       - subhead: Message Us
         links:
-        - url: https://iris.custhelp.va.gov/app/ask
+	- url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
       - subhead: Call Us
         links:
-        - url: tel:1-877-222-VETS(8387)
-          number: 1-877-222-VETS(8387)
-          title: "Health Benefits Hotline:"
-        - url: tel:1-877-327-0022
-          number: 1-877-327-0022
-          title: "My HealtheVet Help Desk:"
-        - url: tel:1-800-983-0937
-          number: 1-800-983-0937
-          title: "eBenefits Technical Support:"
-        - url: tel:1-844-698-2311
-          number: 1-844-698-2311
+	- url: tel:1-800-827-1000
+	  number: 1-800-827-1000
           title: "Call MyVA311 for Help:"
         - url:
-          title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us
-    admin: Veterans Health Administration
-    url: https://www.va.gov/health/
-    subsections:
-      - subhead: Get Updates
-        links:
-        - url: https://public.govdelivery.com/accounts/USVHA/subscribers/qualify?category_id=USVHA_C4&email=dwdw%40gmail.com&commit.x=36&commit.y=11
-          label: Veterans Health Email Updates
-          external: true
-          icon: fa-envelope
-      - subhead: Follow Us
-        links:
-        - url: "https://twitter.com/VeteransHealth"
-          label: Veterans Health Twitter
-          external: true
-          icon: fa-twitter
-        - url: "https://www.facebook.com/VeteransHealth"
-          label: Veterans Health Facebook
-          external: true
-          icon: fa-facebook
-        - url: "https://www.youtube.com/user/VeteransHealthAdmin"
-          label: Veterans Health YouTube
-          external: true
-          icon: fa-youtube
+          title: "If you have hearing loss, call TTY: 711." 
 hublinks:
   - id: "spouse"
     title: Benefits for Spouses and Dependent Children
@@ -85,12 +52,12 @@ hublinks:
       - url: /life-insurance/
         label: Life Insurance
         description: 
-      - url: /burials-memorials/pre-need-eligibility
+      - url: /burials-memorials/pre-need-eligibility/
         label: Burial in a VA National Cemetery
         description: 
       - url: /records/
         label: Veteran Records and Documents
-        description:
+        description: Learn how to access VA benefit letters, medical records, ID cards, and other Veteran records.
   - id: "survivor"
     title: Benefits Survivors May Need
     links: 
@@ -135,8 +102,7 @@ hublinks:
         description: 
       - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
-        description: 
-     
+        description:      
 ---
 
 <p class="va-introtext">
