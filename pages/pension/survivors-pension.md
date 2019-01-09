@@ -46,6 +46,8 @@ You may be able to get this benefit if you’re unmarried and you meet at least 
 - You're under age 23 and attending a VA-approved school, **or**
 - You're unable to care for yourself due to a disability that happened before age 18
 
+[Find out about survivors pension rates](/pension/survivors-pension-rates/).
+
 </div>
 
 ### How do I apply?
