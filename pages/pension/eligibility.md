@@ -51,7 +51,7 @@ You may be able to get pension benefits if you meet the requirements listed belo
 
 #### Who’s covered?
 
-Veterans.
+Veterans
 
 If you’re a surviving spouse or a child of a deceased Veteran with wartime service, please check our Survivors Pension page to see if you qualify for pension benefits. <br>
 [Learn more about the Survivors Pension program](/pension/survivors-pension/).
@@ -75,4 +75,5 @@ If you've received one of these discharge statuses, you may not be eligible for 
   <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
 </div>
 
+[Learn more about Aid and Attendance and Housebound benefits](/pension/aid-attendance-housebound/).<br>
 [Find out how to apply for a survivors pension](/pension/survivors-pension/). <br>
