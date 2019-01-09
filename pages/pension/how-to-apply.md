@@ -53,7 +53,7 @@ Find out how to apply for a tax-free VA Veterans pension.
   **By mail** <br>
 Mail a completed Application for Pension (VA Form 21P-527EZ) to the Pension Management Center (PMC) for your state. <br>
 [Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).<br>
-[Find your PMC](pension/pension-management-centers/).
+[Find your PMC](/pension/pension-management-centers/).
 
 **In person** <br>
 Bring your application to a VA regional benefit office near you. <br>
