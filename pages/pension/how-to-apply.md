@@ -23,7 +23,7 @@ Find out how to apply for a tax-free VA Veterans pension.
 
 </div>
 
-### How do I prepare before starting my application?
+## How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA pension benefits](/pension/eligibility/).
 - Gather the information listed below that you’ll need to fill out your pension application.
@@ -68,18 +68,18 @@ You can work with a trained professional called an accredited representative to 
 
 [Find out how to apply for a survivors pension](/pension/survivors-pension/).
 
-### How long does it take VA to make a decision?
+## How long does it take VA to make a decision?
 
 It depends. We process claims in the order we receive them, unless a claim requires priority processing.
 
 
 -------------
 
-### If I start my pension application, does VA consider this "intent to file"?
+## If I start my pension application, does VA consider this "intent to file"?
 
 No. Simply starting your pension application doesn’t show your intent to file. You'll need to submit an intent to file form, which sets the effective date (the day you can start getting your benefits). Then you can focus on gathering supporting documents to turn in with your pension application. If you submit an intent to file before you file your claim, you may be able to get retroactive payments (money you'll get starting from your effective date).
 
-### How do I submit an intent to file form?
+## How do I submit an intent to file form?
 
 Download, fill out, and submit an Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC (VA Form 21-0966). <br>
 [Download VA Form 21-0966](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf).
