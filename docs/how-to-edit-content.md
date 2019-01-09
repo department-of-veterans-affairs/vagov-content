@@ -70,7 +70,7 @@ If there are any related edits that need to be made on other pages, you can make
 ### Open a pull request
 A [pull request](https://help.github.com/articles/about-pull-requests/) is the term for when you propose that the edits from your branch become part of the master branch. You can think of the edits in your branch as a draft, and once they're moved into master via a pull request, those edits get published. To open a pull request, follow these steps:
 
-#### 1. Click the "Pull requests" tab toward the top of the page (the tab, not the link in the black stipe)
+#### 1. Click the "Pull requests" tab toward the top of the page (the tab, not the link in the black stripe)
 
 ![Click pull requests tab](images/pr-tab.png)
 
