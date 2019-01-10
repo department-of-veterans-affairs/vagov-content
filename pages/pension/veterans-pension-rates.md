@@ -91,7 +91,19 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 - **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
-[Get historic rate charts from past years](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
+**Get historic rate charts from past years**
+[2017](https://www.benefits.va.gov/PENSION/rates_veteran_pen17.asp) |
+[2016](https://www.benefits.va.gov/PENSION/rates_veteran_pen16.asp) |
+[2014](https://www.benefits.va.gov/PENSION/rates_veteran_pen14.asp) |
+[2013](https://www.benefits.va.gov/PENSION/rates_veteran_pen13.asp) |
+[2012](https://www.benefits.va.gov/PENSION/rates_veteran_pen12.asp) |
+[2011](https://www.benefits.va.gov/PENSION/rates_veteran_pen11.asp) |
+[2009](https://www.benefits.va.gov/PENSION/rates_veteran_pen09.asp) |
+[2008](https://www.benefits.va.gov/PENSION/rates_veteran_pen08.asp) |
+[2007](https://www.benefits.va.gov/PENSION/rates_veteran_pen07.asp) |
+[2006](https://www.benefits.va.gov/PENSION/rates_veteran_pen06.asp) |
+[2005](https://www.benefits.va.gov/PENSION/rates_veteran_pen05.asp) |
+[2004 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen04.asp) |
 
 ### Read full regulations from Title 38 Code of Federal Regulations
 
