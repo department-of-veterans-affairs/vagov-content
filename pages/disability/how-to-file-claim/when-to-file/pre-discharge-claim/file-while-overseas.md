@@ -54,5 +54,5 @@ To complete the process, you'll need to:
 <spand id="stationed-emea">
 
 ### In Europe, Africa, or the Middle East
-If you're separating from any station in Europe, Northern Africa, or the Middle East, please contact our office at <a href="mailto:GermanyBDD.vbapit@va.gov">GermanyBDD.vbapit@va.gov</a> for detailed instructions based on your location.
+If you're separating from any station in Europe, Africa, or the Middle East, please contact our office at <a href="mailto:GermanyBDD.vbapit@va.gov">GermanyBDD.vbapit@va.gov</a> for detailed instructions based on your location.
 
