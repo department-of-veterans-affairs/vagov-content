@@ -56,6 +56,17 @@ Veterans
 If you’re a surviving spouse or a child of a deceased Veteran with wartime service, please check our Survivors Pension page to see if you qualify for pension benefits. <br>
 [Learn more about the Survivors Pension program](/pension/survivors-pension/).
 
+
+### How do I know if I served under an eligible wartime period? 
+We recognize the following wartime periods to determine eligibility for pension benefits:
+
+- Mexican Border period (May 9, 1916 to April 5, 1917 for Veterans who served in Mexico, on its borders, or adjacent waters)
+- World War I (April 6, 1917 to November 11, 1918)
+- World War II (December 7, 1941 to December 31, 1946)
+- Korean conflict (June 27, 1950 to January 31, 1955)
+- Vietnam War era (February 28, 1961 to May 7, 1975 for Veterans who served in the Republic of Vietnam during that period. August 5, 1964 to May 7, 1975 for Veterans who served outside of the Republic of Vietnam.)
+- Gulf War (August 2, 1990 through a future date to be set by law or presidential proclamation)
+
 <br>
 
 ### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
