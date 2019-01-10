@@ -161,6 +161,10 @@ hublinks:
       label: Medical Conditions That May Make You Uninsurable
       description: Find out which medical conditions may make it hard for you to get private life insurance after you separate from service, and what to do to make sure you have coverage.
       external: false
+    - url: https://www.benefits.va.gov/insurance/dividends_special.asp
+      label: Special Dividend Rumors
+      description: Learn the truth about the rumor that there are special dividends for veterans who don't have an active government life insurance policy.
+      external: false
 ---
 <p class="va-introtext">
 VA life insurance can offer financial security and support for Veterans, Servicemembers, their spouses and dependent children. Explore your options, manage your policy, and file claims to get the insurance benefits you've earned.</p>
