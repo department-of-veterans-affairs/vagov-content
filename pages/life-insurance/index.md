@@ -163,7 +163,7 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/insurance/dividends_special.asp
       label: Special Dividend Rumors
-      description: Learn the truth about the rumor that there are special dividends for veterans who don't have an active government life insurance policy.
+      description: Learn the truth about the rumors that there are special dividends for veterans who don't have an active government life insurance policy.
       external: false
 ---
 <p class="va-introtext">
