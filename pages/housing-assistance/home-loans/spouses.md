@@ -48,13 +48,11 @@ At least one of these must be true. The Veteran:
 </li>
 </ul>
 
-<br>
-
 ## What information will I need to apply for my COE?
 
-**If you're the surviving spouse of a Veteran**, you'll need the Veteran's discharge documents (DD214 or equivalent).
-**If you’re receiving Dependency & Indemnity Compensation (DIC)</strong>, you’ll also need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817).<br>
-  <a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a>.
+**If you're the surviving spouse of a Veteran**, you'll need the Veteran's discharge documents (DD214 or equivalent). <br>
+**If you’re receiving Dependency & Indemnity Compensation (DIC)**, you’ll also need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817).<br>
+  <a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a>. <br>
 **Or if you’re not receiving DIC benefits**, you’ll need to fill out and send these documents:<br>
 - An Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**<br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>.
@@ -67,12 +65,12 @@ You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to Apply</a>
 
-#### You can also apply:
+### You can also apply:
 
-##### Through our Web LGY system
+#### Through our Web LGY system
 In some cases, you can get your COE through your lender using our Web LGY system. Ask your lender about this option.
 
-##### By mail
+#### By mail
 To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and mail it to the address listed on the form. Please keep in mind that this may take longer than applying online or through our Web LGY system. <br>
 [Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf).
 
