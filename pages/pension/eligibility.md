@@ -56,9 +56,10 @@ Veterans
 If you’re a surviving spouse or a child of a deceased Veteran with wartime service, please check our Survivors Pension page to see if you qualify for pension benefits. <br>
 [Learn more about the Survivors Pension program](/pension/survivors-pension/).
 
+<br>
 
 ### How do I know if I served under an eligible wartime period? 
-We recognize the following wartime periods to determine eligibility for pension benefits:
+We recognize the following wartime periods to decide eligibility for pension benefits:
 
 - Mexican Border period (May 9, 1916 to April 5, 1917 for Veterans who served in Mexico, on its borders, or adjacent waters)
 - World War I (April 6, 1917 to November 11, 1918)
