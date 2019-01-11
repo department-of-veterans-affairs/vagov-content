@@ -103,7 +103,12 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 [2007](https://www.benefits.va.gov/PENSION/rates_veteran_pen07.asp) |
 [2006](https://www.benefits.va.gov/PENSION/rates_veteran_pen06.asp) |
 [2005](https://www.benefits.va.gov/PENSION/rates_veteran_pen05.asp) |
-[2004 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen04.asp) |
+[2004](https://www.benefits.va.gov/PENSION/rates_veteran_pen04.asp) |
+[2003](https://www.benefits.va.gov/PENSION/rates_veteran_pen03.asp) |
+[2002](https://www.benefits.va.gov/PENSION/rates_veteran_pen02.asp) |
+[2001](https://www.benefits.va.gov/PENSION/rates_veteran_pen01.asp) |
+[2000](https://www.benefits.va.gov/PENSION/rates_veteran_pen00.asp) |
+[1999 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen99.asp)
 
 ### Read full regulations from Title 38 Code of Federal Regulations
 
