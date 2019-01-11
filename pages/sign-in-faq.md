@@ -56,7 +56,8 @@ display_title: Frequently Asked Questions
                       </div>
                     </div>
                   </li>
-              </ul>         
+              </ul>
+              <br>
              <h4>Common issues with signing in to VA.gov</h4>
               <ul class="usa-accordion" aria-multiselectable="true">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -78,8 +79,8 @@ display_title: Frequently Asked Questions
                     </div>
                   </li>
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">I can't sign in to VA.gov because my password isn't working. What should I do? </button>
-                    <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-1" itemprop="name">What if I can't sign in to VA.gov because my password isn't working? </button>
+                    <div id="faq-signinissue-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>Try resetting the password for the account you use to sign in to VA.gov:</p>
                         <ul>
@@ -95,8 +96,8 @@ display_title: Frequently Asked Questions
                     </div>
                   </li>
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I've tried the steps to fix the problems above, but I still can't sign in to VA.gov. What should I do? </button>
-                    <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-2" itemprop="name">What if I've tried the steps to fix the problems above, but I still can't sign in to VA.gov? </button>
+                    <div id="faq-signinissue-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>Use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
