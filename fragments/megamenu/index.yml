@@ -301,14 +301,5 @@
         href: https://www.cem.va.gov/cem/legacy/index.asp
       - text: Volunteer or Donate
         href: https://www.volunteer.va.gov/index.asp
-    columnThree:
-      img:
-        src: https://www.va.gov/img/va-financial-report-fy2018.jpeg
-        alt: Agency Financial Report
-      link:
-        text: Agency Financial Report
-        href: https://www.va.gov/finance/afr/index.asp
-      description: View the 2018 report on VA’s progress in providing benefits and
-        health care.
 - title: Find a VA Location
   href: https://www.va.gov/find-locations/
