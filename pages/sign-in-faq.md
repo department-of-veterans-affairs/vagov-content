@@ -64,7 +64,7 @@ display_title: Frequently Asked Questions
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
                     <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:
+                        <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:</strong>
                           <ul>
                             <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as "Browsing Data," "Browsing History," or "Website Data."</li>
                             <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the "Tools," "Settings," or "Preferences" menu.</li>
@@ -82,7 +82,7 @@ display_title: Frequently Asked Questions
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-1" itemprop="name">What if I can't sign in to VA.gov because my password isn't working? </button>
                     <div id="faq-signinissue-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>Try resetting the password for the account you use to sign in to VA.gov:</p>
+                        <p><strong>First, try resetting the password for the account you use to sign in to VA.gov:</strong></p>
                         <ul>
                           <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a>.</li>
                           <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a>.</li>
@@ -99,7 +99,7 @@ display_title: Frequently Asked Questions
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-2" itemprop="name">What if I've tried the steps to fix the problems above, but I still can't sign in to VA.gov? </button>
                     <div id="faq-signinissue-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>Use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+                        <p>You can use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
                     </div>
