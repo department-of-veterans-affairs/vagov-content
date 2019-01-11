@@ -66,8 +66,8 @@ display_title: Frequently Asked Questions
                       <div itemprop="text">
                         <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:</strong>
                           <ul>
-                            <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as "Browsing Data," "Browsing History," or "Website Data."</li>
-                            <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the "Tools," "Settings," or "Preferences" menu.</li>
+                            <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as “Browsing Data,” “Browsing History,” or “Website Data.”</li>
+                            <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the “Tools,” “Settings,” or “Preferences” menu.</li>
                             <li>If you're using Internet Explorer or Microsoft Edge and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead. <br>
                               <a href="https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAsdHhBRCwARIsAAhRhsk_uwlqzTaYptK2zKbuv-5g5Zk9V_qaKTe1Y5ptlxudmMG_Y7XqyDkaAs0HEALw_wcB&gclsrc=aw.ds">Download Google Chrome</a>.<br>
                               <a href="https://www.mozilla.org/en-US/firefox/new/">Download Mozilla Firefox</a>.</li></li>
