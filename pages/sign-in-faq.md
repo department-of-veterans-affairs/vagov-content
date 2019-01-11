@@ -79,7 +79,7 @@ display_title: Frequently Asked Questions
                     </div>
                   </li>
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-1" itemprop="name">What if I can't sign in to VA.gov because my password isn't working? </button>
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-1" itemprop="name">What should I do if I can't sign in to VA.gov because my password isn't working? </button>
                     <div id="faq-signinissue-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>First, try resetting the password for the account you use to sign in to VA.gov:</strong></p>
