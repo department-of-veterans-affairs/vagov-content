@@ -26,16 +26,6 @@
           href: https://www.va.gov/health-care/view-test-and-lab-results/
         - text: Order Hearing Aid Batteries and Prosthetic Socks
           href: https://www.va.gov/health-care/order-hearing-aid-batteries-prosthetic-socks/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/health-care-illustration.png
-          alt: VA Telehealth Services
-        link:
-          text: VA Telehealth Services
-          href: https://www.telehealth.va.gov/
-        description: Find out how we use telehealth technologies to provide specialty
-          care and health monitoring to Veterans at their local VA clinic or in their
-          own home.
       seeAllLink:
         text: Health Care
         href: https://www.va.gov/health-care/
@@ -63,15 +53,6 @@
           href: https://www.va.gov/disability-benefits/apply/form-526-disability-claim/
         - text: File an Appeal
           href: https://www.va.gov/disability/file-an-appeal/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/disability-illustration.png
-          alt: Decision Ready Claims
-        link:
-          text: Decision Ready Claims (DRC) Program
-          href: https://www.va.gov/disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-        description: Find out if you can use the DRC program to get a decision on
-          your disability claim in 30 days or less.
       seeAllLink:
         text: Disability
         href: https://www.va.gov/disability/
@@ -103,14 +84,6 @@
           href: https://www.va.gov/education/change-gi-bill-benefits/
         - text: Change Your Direct Deposit Information
           href: https://www.va.gov/change-direct-deposit-and-contact-information/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/education-training-illustration.png
-          alt: GI Bill School Feedback
-        link:
-          text: GI Bill® Comparison Tool
-          href: "/gi-bill-comparison-tool"
-        description: Learn about education programs and compare benefits by school.
       seeAllLink:
         text: Education
         href: https://www.va.gov/education/
@@ -139,15 +112,6 @@
           href: https://www.va.gov/jobs/
         - text: Print Your Civil Service Preference Letter
           href: https://www.va.gov/records/download-va-letters/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/careers-employment-illustration.png
-          alt: VA for Vets
-        link:
-          text: VA for Vets
-          href: https://www.vaforvets.va.gov/
-        description: Get help transitioning to a civilian career and matching your
-          skills and experiences to VA job opportunities.
       seeAllLink:
         text: Careers and Employment
         href: https://www.va.gov/careers-employment/
@@ -175,15 +139,6 @@
           href: https://www.va.gov/va-payment-history/
         - text: Change Your Direct Deposit and Contact Information
           href: https://www.va.gov/change-direct-deposit-and-contact-information/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/pension-illustration.png
-          alt: Electronic Pension Payments
-        link:
-          text: Get Your Pension Payments Electronically
-          href: https://www.godirect.gov/gpw
-          target: _blank
-        description: Sign up for direct deposit or a pre-paid debit card.
       seeAllLink:
         text: Pension
         href: https://www.va.gov/pension/
@@ -207,15 +162,6 @@
           href: https://www.va.gov/claim-or-appeal-status/
         - text: How to Apply for an SAH Grant
           href: https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/housing-assistance-illustration.png
-          alt: National Call Center for Homeless Veterans
-        link:
-          text: National Call Center for Homeless Veterans
-          href: https://www.va.gov/homeless/nationalcallcenter.asp
-        description: Find out how we can help you or a Veteran you care about connect
-          with VA and local resources 24 hours a day, 7 days a week.
       seeAllLink:
         text: Housing Assistance
         href: https://www.va.gov/housing-assistance/
@@ -241,15 +187,6 @@
           href: https://www.benefits.va.gov/INSURANCE/sglivgli.asp
         - text: Check Your Appeal Status
           href: https://www.va.gov/claim-or-appeal-status/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/life-insurance-illustration.png
-          alt: SGLI Online Enrollment System (SOES)
-        link:
-          text: SGLI Online Enrollment System (SOES)
-          href: https://www.benefits.va.gov/INSURANCE/SOES.asp
-        description: Learn about our new online enrollment system for Servicemembers'
-          Group Life Insurance.
       seeAllLink:
         text: Life Insurance
         href: https://www.va.gov/life-insurance/
@@ -279,15 +216,6 @@
           href: https://www.cem.va.gov/cems/listcem.asp
         - text: Request Military Records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/burials-memorials-illustration.png
-          alt: National Cemetery Administration Mobile Site
-        link:
-          text: National Cemetery Administration Mobile Site
-          href: https://m.va.gov/
-        description: Locate a grave, search for cemeteries, and find benefits information
-          and resources from your mobile phone or tablet.
       seeAllLink:
         text: Burials and Memorials
         href: https://www.va.gov/burials-memorials/
@@ -316,15 +244,6 @@
         - text: Search Historical Military Records (National Archives)
           href: https://www.archives.gov/
           target: _blank
-      columnThree:
-        img:
-          src: https://www.va.gov/img/megamenu/records-illustration.png
-          alt: Veteran ID Card
-        link:
-          text: Confirm Your VA Benefit Status
-          href: https://www.va.gov/records/download-va-letters/
-        description: Download letters like your eligibility or award letter for certain
-          benefits.
       seeAllLink:
         text: Records
         href: https://www.va.gov/records/
