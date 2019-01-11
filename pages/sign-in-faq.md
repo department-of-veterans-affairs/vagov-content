@@ -18,14 +18,6 @@ display_title: Frequently Asked Questions
                   Get answers to common questions about signing in to VA.gov to manage your benefits and services online. Find out how to sign in with your existing <strong>My HealtheVet</strong> or <strong>DS Logon</strong> account—or how to use ID.me to create your account.
                 </p>
               </div>
-              <div class="feature">
-                <h4>Need help?</h4>
-                <p>
-                  <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request to get help signing in</a>.
-                </p>
-              </div>
-            </div>
-          </div>
           <div class="row">
             <div class="small-12 columns">
               <h4>Signing in to VA.gov</h4>
@@ -64,11 +56,14 @@ display_title: Frequently Asked Questions
                       </div>
                     </div>
                   </li>
-                <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-3" itemprop="name">I can't sign in to VA.gov. What should I do? </button>
-                    <div id="faq-signin-3" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+              </ul>         
+             <h4>Common issues with signing in to VA.gov</h4>
+              <ul class="usa-accordion" aria-multiselectable="true">
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
+                    <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,”</strong> try taking these steps:
+                        <p>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:
                           <ul>
                             <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as "Browsing Data," "Browsing History," or "Website Data."</li>
                             <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the "Tools," "Settings," or "Preferences" menu.</li>
@@ -77,21 +72,38 @@ display_title: Frequently Asked Questions
                               <a href="https://www.mozilla.org/en-US/firefox/new/">Download Mozilla Firefox</a>.</li></li>
                             <li>If you're using Chrome or Firefox and it's not working, make sure you've updated your browser with the latest updates.</li>
                         </ul>
-                        <p><strong>If you can't sign in because you're using the wrong password</strong>, try resetting the password for the account you use to sign in to VA.gov:</p>
+                      <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">I can't sign in to VA.gov because my password isn't working. What should I do? </button>
+                    <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>Try resetting the password for the account you use to sign in to VA.gov:</p>
                         <ul>
                           <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a>.</li>
                           <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a>.</li>
                           <li><a href="https://help.id.me/hc/en-us/articles/360011411534-How-do-I-reset-my-ID-me-password-">Reset your password for ID.me</a>.</li>   
                         </ul>
-                      <p><strong>If you need other support from ID.me</strong>, visit their support page.</br>
-                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a>.</p>
-              <p><strong>If you have questions about the Veteran ID Card</strong>, please send an email to <a href="mailto:VIC@va.gov">VIC@va.gov</a>.</p>
+                        <p><strong>Note:</strong> If you need more support from ID.me, visit their support page.</br>
+                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a>.</p>  
               <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
                     </div>
                   </li>
-                </ul>
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I've tried the steps to fix the problems above, but I still can't sign in to VA.gov. What should I do? </button>
+                    <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>Use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+          </ul>
                 <br/>
                 <a name="verifying-your-identity"></a>
                 <h4>Verifying your identity on VA.gov</h4>
