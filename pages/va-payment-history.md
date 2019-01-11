@@ -97,10 +97,10 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
 <b>If you have a disability rating of 30% or higher</b>, you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
-<a href="https://www.benefits.va.gov/compensation/add-dependents.asp">Find out how to add eligible dependents</a>.
+<a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
 
 <b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
-<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
+<a href="/disability-benefits/apply/form-526-disability-claim/introduction/">File for a VA disability increase</a>.
 
 </div>
 </div>
