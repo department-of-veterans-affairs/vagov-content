@@ -87,7 +87,24 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 | --- | --- |
 | A qualified surviving child  | $2,313 |
 
-[Get historic rate charts from past years](https://www.benefits.va.gov/pension/current_rates_survivor_pen.asp).
+**Get historic rate charts from past years**
+[2017](https://www.benefits.va.gov/PENSION/rates_survivor_pen17.asp) |
+[2016](https://www.benefits.va.gov/PENSION/rates_survivor_pen16.asp) |
+[2014](https://www.benefits.va.gov/PENSION/rates_survivor_pen14.asp) |
+[2013](https://www.benefits.va.gov/PENSION/rates_survivor_pen13.asp) |
+[2012](https://www.benefits.va.gov/PENSION/rates_survivor_pen12.asp) |
+[2011](https://www.benefits.va.gov/PENSION/rates_survivor_pen11.asp) |
+[2009](https://www.benefits.va.gov/PENSION/rates_survivor_pen09.asp) |
+[2008](https://www.benefits.va.gov/PENSION/rates_survivor_pen08.asp) |
+[2007](https://www.benefits.va.gov/PENSION/rates_survivor_pen07.asp) |
+[2006](https://www.benefits.va.gov/PENSION/rates_survivor_pen06.asp) |
+[2005](https://www.benefits.va.gov/PENSION/rates_survivor_pen05.asp) |
+[2004](https://www.benefits.va.gov/PENSION/rates_survivor_pen04.asp) |
+[2003](https://www.benefits.va.gov/PENSION/rates_survivor_pen03.asp) |
+[2002](https://www.benefits.va.gov/PENSION/rates_survivor_pen02.asp) |
+[2001](https://www.benefits.va.gov/PENSION/rates_survivor_pen01.asp) |
+[2000](https://www.benefits.va.gov/PENSION/rates_survivor_pen00.asp) |
+[1999 and earlier](https://www.benefits.va.gov/PENSION/rates_survivor_pen99.asp)
 
 ### Read the full regulations from Title 38 Code of Federal Regulations
 
