@@ -48,13 +48,7 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us
-    admin: Veterans Benefits Administration
-    url: https://www.benefits.va.gov/benefits/
-    admin: Veterans Health Administration
-    url: https://www.va.gov/health/
-    admin: National Cemetery Administration
-    url: https://www.cem.va.gov/
+  - heading: Connect with Us 
     subsections:
       - subhead: Get Updates
         links:
