@@ -104,7 +104,10 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 [2002](https://www.benefits.va.gov/PENSION/rates_survivor_pen02.asp) |
 [2001](https://www.benefits.va.gov/PENSION/rates_survivor_pen01.asp) |
 [2000](https://www.benefits.va.gov/PENSION/rates_survivor_pen00.asp) |
-[1999 and earlier](https://www.benefits.va.gov/PENSION/rates_survivor_pen99.asp)
+[1999 and earlier](https://www.benefits.va.gov/PENSION/rates_survivor_pen99.asp)<br>
+
+[View protected pension rates for section 306 and old law VA disability and death pension benefits](https://www.benefits.va.gov/PENSION/current_protected_pension_rate_tables.asp?_ga=2.57360490.1785335407.1546886869-1582256389.1508352376).
+<br>
 
 ### Read the full regulations from Title 38 Code of Federal Regulations
 
