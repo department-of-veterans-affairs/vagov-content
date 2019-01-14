@@ -68,12 +68,12 @@ display_title: Frequently Asked Questions
                           <ul>
                             <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as “Browsing Data,” “Browsing History,” or “Website Data.”</li>
                             <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the “Tools,” “Settings,” or “Preferences” menu.</li>
-                            <li>If you're using Internet Explorer or Microsoft Edge and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead. <br>
+                            <li>If you're using Internet Explorer or Microsoft Edge, and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead. <br>
                               <a href="https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAsdHhBRCwARIsAAhRhsk_uwlqzTaYptK2zKbuv-5g5Zk9V_qaKTe1Y5ptlxudmMG_Y7XqyDkaAs0HEALw_wcB&gclsrc=aw.ds">Download Google Chrome</a>.<br>
                               <a href="https://www.mozilla.org/en-US/firefox/new/">Download Mozilla Firefox</a>.</li></li>
                             <li>If you're using Chrome or Firefox and it's not working, make sure you've updated your browser with the latest updates.</li>
                         </ul>
-                      <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+                      <p><strong>If you've taken the steps above and still can't sign in,</strong> please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
                     </div>
@@ -90,7 +90,7 @@ display_title: Frequently Asked Questions
                         </ul>
                         <p><strong>Note:</strong> If you need more support from ID.me, visit their support page.</br>
                       <a href="https://help.id.me/hc/en-us">Visit ID.me support</a>.</p>  
-              <p><strong>If you've taken the steps above and still can't sign in</strong>, please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <p><strong>If you've taken the steps above and still can't sign in,</strong> please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
               <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
                       </div>
                     </div>
