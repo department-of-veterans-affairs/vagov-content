@@ -25,7 +25,7 @@ As indicated by the `.md` file extension, these pages are written in the [Markdo
 Static assets that are linked to or referenced by content pages. This includes PDFs, images, and more.
 
 ### fragments
-Specific chunks of content, such as for a cetain website component. An example of this is the homepage warning banner.
+Specific chunks of content, such as for a certain website component. An example of this is the homepage warning banner.
 
 ### docs
 Documentation, such as for the doc you're reading now :slighty_smiling_face:.
