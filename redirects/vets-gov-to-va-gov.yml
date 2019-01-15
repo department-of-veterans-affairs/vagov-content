@@ -511,9 +511,6 @@
 - vets_gov_src: faq/
   va_gov_dest: sign-in-faq/
   retain_path: false
-- vets_gov_src: health-care/medical-information-terms-conditions/
-  va_gov_dest: health-care/
-  retain_path: false
 - vets_gov_src: beta-enrollment/claim-increase/
   va_gov_dest: disability-benefits/apply/form-526-disability-claim/
   retain_path: false
@@ -521,7 +518,7 @@
   va_gov_dest: disability-benefits/apply/form-526-disability-claim/
   retain_path: false
 - vets_gov_src: disability-benefits/track-claims
-  va_gov_dest: claim-or-appeal-status 
+  va_gov_dest: claim-or-appeal-status
   retain_path: true
 - vets_gov_src: education/apply-for-education-benefits/
   va_gov_dest: education/how-to-apply/
@@ -628,3 +625,12 @@
 - vets_gov_src: /facilities/
   va_gov_dest: /find-locations/
   retain_path: true
+- vets_gov_src: employment/commitments
+  va_gov_dest: https://www.hirevets.gov/
+  retain_path: false
+- vets_gov_src: employment/employer-list
+  va_gov_dest: careers-employment/
+  retain_path: false
+- vets_gov_src: employment/download_employers
+  va_gov_dest: careers-employment/
+  retain_path: false
