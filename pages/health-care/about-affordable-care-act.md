@@ -5,7 +5,7 @@ title: The Affordable Care Act and Your Health Coverage
 display_title: Affordable Care Act
 description: Learn about the Affordable Care Act (ACA) and VA health care. Find out how the ACA may affect health care for Veterans and their families.
 collection: healthCare
-lastupdate: 2018-02-13
+lastupdate: 2018-12-20
 spoke: More Resources
 order: 23
 aliases:
@@ -18,63 +18,34 @@ The Affordable Care Act (ACA)—also known as the health care law—was created 
 
 </div>
 
-<div class="feature" markdown=“1”>
+## Do I still have to pay a penalty if I don't have health insurance?
 
-### What does the ACA mean for me?
+You don't have to pay a penalty if you don't have health insurance in 2019 or any year after that.
 
-Under this law, if you’re a U.S. taxpayer, you and your family members must meet one of the requirements listed below.
+Through the end of 2018, the ACA required all U.S. taxpayers to have health coverage that met a minimum standard (called the “minimum essential coverage” requirement) unless they qualified for an exemption due to certain life events, financial status, or other factors. This meant that if you had affordable health coverage options, but chose not to buy health insurance, you would have to pay a fee when filing your taxes. This fee was known as an individual shared responsibility payment. It was also sometimes called the “penalty,” “fine,” or “individual mandate.”
 
-**You and your family members must:**
+Congress changed this part of the law for plans starting in 2019 and after. The individual shared responsibility payment no longer applies starting in plan year 2019 (for which you'll file taxes in April 2020).
 
-- Have health coverage that meets a minimum standard (called the “minimum essential coverage” requirement), **or**
-- Qualify for an exemption, **or**
-- Pay a fee when filing your taxes if you have affordable health coverage options but choose not to buy health insurance. This fee is known as an individual shared responsibility payment. It’s also sometimes called the “penalty,” “fine,” or “individual mandate.”
+**Note:** If you didn't have coverage or an exemption in 2018, you may still have to pay a fee when you file your 2018 taxes in April 2019. <br>
+[Go to HealthCare.gov to learn more about exemptions](https://www.healthcare.gov/exemptions-tool/#/).
 
-[Find out how much you may have to pay for not having health insurance](https://www.healthcare.gov/fees/fee-for-not-being-covered/).<br>
-[Learn more about the individual shared responsibility payment from the Internal Revenue Service]( https://www.irs.gov/affordable-care-act/the-individual-shared-responsibility-payment-an-overview).<br>
+## Does my health coverage through VA meet the ACA’s minimum essential coverage requirement for 2018? 
 
-#### Does my health coverage through VA meet the ACA’s minimum essential coverage requirement? 
-Your health coverage meets the minimum essential coverage requirement if you’re signed up for one of the programs listed below.
+Your health coverage meets the minimum essential coverage requirement for 2018 if you were signed up for one of the programs listed below. If you were covered under one of these programs in 2018, you won't have to pay the fee when you file your 2018 taxes.
 
-**To qualify, you must be signed up for one of these programs:**
+**To qualify, you must have been enrolled in one of these programs:**
 - [The VA health care program](/health-care/about-va-health-benefits/), **or** 
 - [The Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)](/health-care/family-caregiver-benefits/champva/), **or** 
 - [CHAMPVA through the Program of Comprehensive Assistance to Family Caregivers]( /health-care/family-caregiver-benefits/comprehensive-assistance/), **or** 
 - [The Spina Bifida Health Care Benefits Program](https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp), **or** 
-- [A Department of Defense TRICARE plan that provides minimum essential coverage](https://tricare.mil/About/MEC) 
+- [A Department of Defense TRICARE plan that provides minimum essential coverage](https://tricare.mil/About/MEC)
 
-If you’re covered under one of these programs, you don’t need to do anything more to avoid the penalty fee. If you’re not covered under one of these programs, you can apply at any time.
+## Does the ACA change my VA health benefits?
 
-**Are you a Servicemember or Veteran?** <br>[Find out if you qualify for VA health benefits](/health-care/eligibility/).<br><br>
-**Are you a family member or caregiver?** <br>[Find out if you qualify for health benefits for family members and caregivers](/health-care/family-caregiver-benefits/comprehensive-assistance/).
-<br>
-
-</div>
-
-### Does the ACA change my VA health benefits?
 No. The health care law doesn’t change your VA health benefits or your out-of-pocket costs. 
 
-### If I’m not signed up for a VA or Department of Defense health care program, how do I get health coverage to meet the requirement?
-If you’re not signed up for a health care program—and you don’t meet the health care law coverage standards—you’ll need to get coverage through the Health Insurance Marketplace.
+## If I’m not signed up for a VA or Department of Defense health care program, how do I get health coverage for 2019?
 
-Through the Marketplace, you can shop for and buy private health insurance (health plans that aren't provided by VA) to fit your budget and meet your needs. You may be able to get financial assistance, like lower costs on monthly premiums or out-of-pocket costs. You may also qualify for free or low-cost coverage through Medicaid or the Children’s Health Insurance Program (CHIP). 
+You may be able to get coverage through the Health Insurance Marketplace. Open enrollment for 2019 is over. But you can still enroll or change plans if you have certain life changes or qualify for free or low-cost coverage through Medicaid or the Children’s Health Insurance Program (CHIP). <br>
+[Go to HealthCare.gov to find out if you can enroll or change your plan](https://www.healthcare.gov/).
 
-The 2018 Health Insurance Marketplace open enrollment period was November 1, 2017, to December 15, 2017. You can enroll after open enrollment only if you have life changes—like losing your coverage, getting married, or having a baby—or if you qualify for Medicaid or CHIP.<br>
-[Get more details on enrollment dates](https://www.healthcare.gov/quick-guide/dates-and-deadlines/).<br>
-[Apply for health coverage and find out if you qualify for assistance](https://www.healthcare.gov/).
-<br>
-
-### What if members of my family have access to affordable coverage but remain uninsured?
-
-If your family members have access to affordable coverage but remain uninsured, you may have to pay a penalty fee when filing your taxes. This payment will either be a flat fee or a percentage of your taxable household income, depending on which amount is higher. The fee will only be for the months you didn’t have qualifying health coverage.<br>
-[Find out how much you may pay for not having health insurance](https://www.healthcare.gov/fees/fee-for-not-being-covered/).<br>
-[Learn more about the individual shared responsibility payment]( https://www.irs.gov/affordable-care-act/the-individual-shared-responsibility-payment-an-overview). <br>
-
-### Can I get an exemption so I don’t have to pay the penalty fee for being uninsured?
-You may qualify for an exemption for a number of reasons, like:
-- Certain hardships
-- Some life events
-- Health coverage or financial status
-- Membership in some groups
-
-[Learn more about exemptions](https://www.healthcare.gov/health-coverage-exemptions/exemptions-from-the-fee/).

@@ -10,6 +10,7 @@ order: 3
 children: healthCareMentalHealth
 aliases:
   - /health-care/health-conditions/mental-health/
+  - /mental-health-services/
 ---
 
 <div class="va-introtext">
