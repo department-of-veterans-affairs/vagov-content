@@ -93,7 +93,7 @@ If you’re a **current member of the National Guard or Reserves**, and have **n
 
 If you're a **discharged member of the National Guard** and were **never activated**, you’ll need:
 
-* Your Report of Separation and Record of Service (NGB Form 22) for each period of National Guard service, **or**
+* Your Report of Separation and Record of Service (NGB Form 22) for each period of National Guard service, **and**
 * Your Retirement Points Statement (NGB Form 23) and proof of the character of service
 
 </div>
