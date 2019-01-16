@@ -92,14 +92,14 @@ Pearsall started the PDN “Personal Project” award-winning Veterans Portrait 
 
 Between her photography, teaching, and speaking engagements, Pearsall completed her first photography book, ***Shooter: Combat from Behind the Camera***. The book received worldwide praise, and was hailed as "a book of the highest levels in the annals of combat journalism." Her second book, ***A Photojournalist's Field Guide: In the Trenches with Combat Photographer Stacy Pearsall***, was called "a must have for every aspiring photographer," with critics noting that “even pros can pick up a few new tricks to help them become better photographers.”
 
-**Learn more about Stacy, her books, and the Veterans Portrait Project:**
+**Learn more about Pearsall and the Veterans Portrait Project:**
 
 [Visit Pearsall's website](https://www.stacypearsall.com). <br>
-[Visit the Veterans Portrait Project website](www.veteransportraitproject.com). <br>
+[Visit the Veterans Portrait Project website](http://www.veteransportraitproject.com). <br>
 
 **Connect with Pearsall on social media:**
 
-[Stacy Pearsall on Facebook](facebook.com/SLPearsall) <br>
+[Stacy Pearsall on Facebook](https://facebook.com/SLPearsall) <br>
 [@slpearsall on Instagram](https://www.instagram.com/slpearsall/) <br>
 [@StacyPearsall on Twitter](https://twitter.com/StacyPearsall) <br>
 
