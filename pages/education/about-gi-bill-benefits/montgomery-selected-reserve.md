@@ -31,7 +31,8 @@ You can get education benefits under this program if you meet the requirements l
 **And all of these must also be true. You:**
 - Complete your initial active duty for training (IADT), **and**
 - Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**Note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
-- Stay in good standing while serving in an active Selected Reserve unit
+- Stay in good standing while serving in an active Selected Reserve unit <br>
+(**Note:** You'll still be eligible if you're discharged from Selected Reserve service due to a disability that was not caused by misconduct)
 
 </div>
 
@@ -44,12 +45,9 @@ You can get education benefits under this program if you meet the requirements l
  
 You can receive benefits until your eligibility period ends or you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
 
-If you stay in the Selected Reserve, you can stay eligible for 14 years after you started your first 6-year obligation. We may extend your eligibility period if any of the below situations occurs.
+If you stay in the Selected Reserve, you can stay eligible for 14 years after you started your first 6-year obligation. 
 
-**One of these must be true to extend your eligibility period:**
-- **You're called up to active duty under title 10, U.S. Code (federal authority)**. In this case, we'll extend your eligibility by the period of your active duty plus 4 months. You receive a separate extension for each call-up, and it applies even if you leave the Selected Reserve. **Note:** By law, we can't extend your eligibility if you're called up under title 32, U.S. Code (state authority).
-- **Your eligibility expires while you're enrolled in training**. In this case, we'll usually extend your eligibility to the end of the term, quarter, or semester. If your school doesn't have terms, we can usually extend your eligibility for 12 weeks.
-- **You can't train because of a disability caused by Selected Reserve service**. In this case, you'll need to apply for an extension with a year of when your eligibility ends or your disability prevents you from getting training, whichever is later.
+We may extend your eligibility period if you're called up to active duty. If this happens, we'll extend your eligibility for the amount of time you're mobilized + 4 months. For example, if you're mobilized for 12 months, we'll extend your eligibility period for 16 months. This extension still applies even if you leave the Selected Reserves after mobilization.
 
 </div>
 </li>
@@ -65,27 +63,6 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 - You separated because of a disability that wasn't caused by misconduct, **or**
 - Your unit was deactivated between October 1, 2007 and September 30, 2014, **or**
 - You were involuntarily separated for reasons other than misconduct between October 1, 2007 and September 30, 2014
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-2">How does eligibility work between the MGIB-SR and MGIB-Active Duty (MGIB-AD)?</button>
-<div id="eligibility-2" class="usa-accordion-content">
-
-- **If you enter Active Guard and Reserve (AGR) status**, we'll suspend your eligibility for MGIB-SR. You can qualify again if you return to the Selected Reserve within a year of when your AGR status ends. You may qualify for MGIB-Active Duty (MGIB-AD) based on your AGR status.
-- **If you elected to have your total service in the Selected Reserve credited toward your eligibility for the MGIB-AD "2 x 4" program**, you don't qualify for MGIB-SR. This program allows you to qualify for MGIB-AD with 2 years of active duty service without a break plus a 4-year Selected Reserve obligation as long as you enter the Selected Reserve within a year of release from active duty.
-- **If you qualify for MGIB-AD and then sign up for another 6 years in the Selected Reserve**, you can qualify for both MGIB-AD and MGIB-SR.<br>
-[Learn more about the MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty).
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-3">Can I qualify for MGIB-SR if I receive a Reserve Officers' Training Corps (ROTC) scholarship?</button>
-<div id="eligibility-3" class="usa-accordion-content">
-
-- **If you receive a Senior ROTC (SROTC) scholarship for serving as an officer on active duty in the Army, Navy, Air Force, or Marine Corps (section 2107 of title 10, U.S. Code)**, you can't get MGIB-SR benefits at the same time. If you receive only a monthly stipend, you can still qualify for MGIB-SR benefits.
-- **If you receive an ROTC scholarship for serving as an officer in the Army Reserve or Army National Guard (section 2107a of title 10, U.S. Code)**, you can still receive MGIB-SR benefits.
-- **If you graduate from a service academy**, you can still receive MGIB-SR benefits.
 
 </div>
 </li>
@@ -155,40 +132,11 @@ You can use your benefits in many ways to advance your education and training. <
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
-## More about how MGIB-SR benefits work
-
-<ul class="usa-accordion">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgib-works1">What should I do if I disagree with a decision about my eligibility?</button>
-<div id="mgib-works1" class="usa-accordion-content">
-
-Contact your unit education officer. Your Reserve or Guard component makes decisions about your eligibility.
-
-If your Reserve or Guard component changes their decision and decides you qualify, we'll pay benefits for periods when you were eligible.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgib-works2">Can I qualify for more than one VA education benefit?</button>
-<div id="mgib-works2" class="usa-accordion-content">
+### Can I qualify for more than one VA education benefit?</button>
 
 Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
 We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
-
-</div>
-</li>
-<li>
-
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="mgib-works3">What happens if I can't complete my training and receive no credit because I'm called to active duty?</button>
-<div id="mgib-works3" class="usa-accordion-content">
-
-If you can't complete your training and receive no credit because you're called to active duty under title 10, U.S. Code (federal authority), we'll restore the entitlement you used during the time you didn't get credit. This means you'll keep the money for that period and we'll add a month to your benefits that you can use in the future.
-
-**Note:** By law, we can't restore entitlement if you're called up under title 32, U.S. Code (State authority).
-</div>
-</li>
-</ul>
 
 ## Get more information
 - Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
