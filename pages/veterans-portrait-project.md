@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: level2-index
+template: detail-page
 title: The Veterans Portrait Project on VA.gov
 display_title: Veterans Portrait Project
 description:
@@ -13,74 +13,77 @@ The images of U.S. Veterans that you see on the VA.gov homepage come from the Ve
 
 Pearsall has photographed more than 7,500 Veterans so far, and hopes to capture portraits of Veterans in every state and province the U.S. Department of Defense recruits from. She got the idea for the project after being injured in combat. “After spending hours in VA waiting rooms surrounded by Veterans from every generation and branch of service,” she says, “I was compelled to honor and thank them in the only way I know how: photography.”
 
-## Featured Veterans
+[Learn more about the Veterans featured on VA.gov](#veterans). <br>
+[Learn more about Stacy Pearsall, founder of the Veterans Portrait Project](#pearsall).
+
+<h2 id="veterans">Featured Veterans</h2> 
 
 **VA.gov currently features the Pearsall's images of these Veterans:**
 
-**Dr. Sankaran S.B.**
-Army
-O-6
-Physician (Radiologist)
-05/69-08/94
-Vietnam War
+**Dr. Sankaran S.B.** <br>
+Army <br>
+O-6 <br>
+Physician (Radiologist) <br>
+May 1969 to August 1994 <br>
+Vietnam War <br>
 
-**Theodore R.B., Jr.**
-Marine Corps
-WWII
-***Note: Theodore doesn't appear to be on the VPP site, so I can't confirm/expand on details***
+**Theodore R.B., Jr.** <br>
+Marine Corps <br>
+WWII <br>
+Additional details unknown <br>
 
 **Marilyn C.**
-Marine Corps
-E-4
-Artist
-06/18/51 - 12/01/52
-Korean War
+Marine Corps <br>
+E-4 <br>
+Artist <br>
+June 1951 to December 1952 <br>
+Korean War <br>
 
-**Johnny T.C.**
-Branch unknown
-Artillery Forward Observer
-Vietnam War
-***Note: Johnny's picture on the VPP site doesn't have details, but rather a brief story about it. I was able to glean his position from the story, but not the other details. His picture in our files says "Branch unknown".
+**Johnny T.C.** <br>
+Branch unknown <br>
+Artillery Forward Observer <br>
+Vietnam War <br>
+Additional details unknown <br>
 
-**John D.**
-Navy
-O-3
-05/22/98-Present
-Naval Flight Officer
-OEF, OSW
+**John D.** <br>
+Navy <br>
+O-3 <br>
+May 1998 to the present <br>
+Naval Flight Officer <br>
+OEF, OSW <br>
+ 
+**Bobby H.** <br>
+Army <br>
+E- <br>
+Truck Driver <br>
+May 1991 to June 1992 <br>
+October 2001 to June 2011 <br>
+Desert Shield/Storm <br>
+OIF <br>
 
-**Bobby H.**
-Army
-E-
-Truck Driver
-05/03/91-06/92
-10/31/01-06/11
-Desert Shield/Storm
-OIF
+**Nicole L.** <br>
+Air Force <br>
+E-6 <br>
+Emergency Management <br>
+February 2004 to the present <br>
+OEF, OIF <br>
 
-**Nicole L.**
-Air Force
-E-6
-Emergency Management
-Feb. 6, 2004 - Present
-OEF, OIF
+**Rick P.** <br>
+Air Force <br>
+E-4 <br>
+Weapons Tech. <br>
+AC-130 Gunner <br>
+September 1971 to March 1975 <br>
+Vietnam War <br>
 
-**Rick P.**
-Air Force
-E-4
-Weapons Tech.
-AC-130 Gunner
-Sept. 1971 - Mar. 1975
-Vietnam War
+**Sharon A.S.** <br>
+Army <br>
+O-6 <br>
+Nurse <br>
+December 1985 to December 2010 <br>
+Desert Shield/Storm <br>
 
-**Sharon A.S.**
-Army
-O-6
-Nurse
-12/13/85-12/01/10
-Desert Shield/Storm
-
-## More about Stacy Pearsall, founder of the Veterans Portrait Project
+<h2 id="pearsall">More about Stacy Pearsall, founder of the Veterans Portrait Project</h2> 
 
 Stacy L. Pearsall got her start as an Air Force photographer at age 17. During her time in service, she traveled to over 41 countries, and attended the Military Photojournalism Program at S.I. Newhouse School of Public Communications at Syracuse University. During 3 combat tours, she earned the Bronze Star Medal and Air Force Commendation with Valor for combat actions in Iraq. 
 
