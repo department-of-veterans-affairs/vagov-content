@@ -109,6 +109,6 @@ Between her photography, teaching, and speaking engagements, Pearsall completed 
 **Connect with the Veterans Portrait Project on social media:**
 
 [Veterans Portraits on Facebook](https://www.facebook.com/VeteransPortraits/) <br>
-[@veterans_portrait_projects on Instagram](https://www.instagram.com/veterans_portrait_project/) <br>
+[@veterans_portrait_project on Instagram](https://www.instagram.com/veterans_portrait_project/) <br>
 [@vetportraits on Twitter](https://twitter.com/vetportraits) <br>
 
