@@ -18,7 +18,7 @@ Pearsall has photographed more than 7,500 Veterans so far, and hopes to capture 
 
 <h2 id="veterans">Featured Veterans</h2> 
 
-**VA.gov currently features the Pearsall's images of these Veterans:**
+**VA.gov currently features Pearsall's images of these Veterans:**
 
 **Dr. Sankaran S.B.** <br>
 Army <br>
