@@ -52,7 +52,7 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 </div>
 </div>
 
-<h3 itemprop="name">What evidence will I need to submit along with my claim?</h3>
+<h3 itemprop="name">What evidence will I need to submit along with my disability claim?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -82,7 +82,7 @@ Once you start your fully developed claim, you'll have up to 1 year to complete 
 
 <br>
 
-### What should the evidence show to support my claim?
+### What should the evidence show to support my disability claim?
 
 This depends on the type of claim you’re filing.
 
@@ -92,7 +92,7 @@ This depends on the type of claim you’re filing.
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original disability claim—the first claim you file for disability benefits</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original Claim—the first claim you file for disability benefits</button>
 <div id="claim-original" class="usa-accordion-content">
 
 **You'll need to submit:**
@@ -103,7 +103,15 @@ This depends on the type of claim you’re filing.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
+<div id="claim-increased" class="usa-accordion-content">
+
+You'll need to submit current medical evidence that shows your disability has gotten worse.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New Claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
 <div id="claim-new" class="usa-accordion-content">
 
 **You'll need to submit:**
@@ -113,7 +121,7 @@ This depends on the type of claim you’re filing.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened Claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
 <div id="claim-reopened" class="usa-accordion-content">
 
 You'll need to submit new evidence that we've never considered before and that's related to the issue you're claiming.
@@ -121,15 +129,7 @@ You'll need to submit new evidence that we've never considered before and that's
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
-<div id="claim-increased" class="usa-accordion-content">
-
-You'll need to submit current medical evidence that shows your disability has gotten worse.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary claim—a claim for a new disability that’s linked to a service-connected disability you already have</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Claim—a claim for a new disability that’s linked to a service-connected disability you already have</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
 **You'll need to submit:**
@@ -198,13 +198,13 @@ Yes. We can help you through the Fully Developed Claims program.
 
 ### When should I turn in my evidence? 
 
-To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim.
+To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your disability claim.
 
 **Note:** If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
 
 <br>
 
-### Should I work with a Veterans Service Officer (VSO) to file my claim?
+### Should I work with a Veterans Service Officer (VSO) to file my disability claim?
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/).
