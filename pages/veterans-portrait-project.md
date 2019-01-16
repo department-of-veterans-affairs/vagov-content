@@ -8,7 +8,7 @@ concurrence:
 ---
 
 <div class="va-introtext">
-The images of U.S. Veterans that you see on the VA.gov homepage come from the Veterans Portrait Project, an initiative founded by retired Air Force Staff Sergeant and Aerial Combat Photojournalist Stacy Pearsall to honor her fellow Veterans through photography.  
+The images of U.S. Veterans that you see on the VA.gov homepage come from the Veterans Portrait Project, an initiative started by retired Air Force Staff Sergeant and Aerial Combat Photojournalist Stacy Pearsall to honor her fellow Veterans through photography.  
 </div>
 
 Pearsall has photographed more than 7,500 Veterans so far, and hopes to capture portraits of Veterans in every state and province the U.S. Department of Defense recruits from. She got the idea for the project after being injured in combat. “After spending hours in VA waiting rooms surrounded by Veterans from every generation and branch of service,” she says, “I was compelled to honor and thank them in the only way I know how: photography.”
@@ -32,7 +32,7 @@ Marine Corps <br>
 WWII <br>
 Additional details unknown <br>
 
-**Marilyn C.**
+**Marilyn C.** <br>
 Marine Corps <br>
 E-4 <br>
 Artist <br>
@@ -85,15 +85,15 @@ Desert Shield/Storm <br>
 
 <h2 id="pearsall">More about Stacy Pearsall, founder of the Veterans Portrait Project</h2> 
 
-Stacy L. Pearsall got her start as an Air Force photographer at age 17. During her time in service, she traveled to over 41 countries, and attended the Military Photojournalism Program at S.I. Newhouse School of Public Communications at Syracuse University. During 3 combat tours, she earned the Bronze Star Medal and Air Force Commendation with Valor for combat actions in Iraq. 
+Stacy L. Pearsall got her start as an Air Force photographer at age 17. During her time in service, she traveled to over 41 countries and attended the Military Photojournalism Program at S.I. Newhouse School of Public Communications at Syracuse University. During 3 combat tours, she earned the Bronze Star Medal and Air Force Commendation with Valor for combat actions in Iraq. 
 
-Though combat disabled and retired from military service, Pearsall continues to work around the world. With her service animal, America’s VetDogs Charlie, by her side, she works as an independent photographer represented by Aurora Photos. Her photographs have been exhibited at The Woodruff Arts Center, The Pentagon, the Smithsonian National Portrait Gallery, the National Veterans Memorial and Museum, and many other galleries and venues. In addition to her photography, Pearsall is also an author, educator, military consultant, BRAVO748 public speaker, and founder of the Veterans Portrait Project. She also serves as a Nikon and Manfrotto Ambassador and Ilford Master.
+Though combat disabled and retired from military service, Pearsall continues to work around the world. With her service animal, America’s VetDogs Charlie, by her side, she works as an independent photographer represented by Aurora Photos. Her photographs have been exhibited at the Woodruff Arts Center, the Pentagon, the Smithsonian National Portrait Gallery, the National Veterans Memorial and Museum, and many other galleries and venues. In addition to her photography, Pearsall is also an author, educator, military consultant, BRAVO748 public speaker, and founder of the Veterans Portrait Project. She also serves as a Nikon and Manfrotto Ambassador and Ilford Master.
 
 Pearsall is one of only 2 women to win the National Press Photographers Association's (NPPA) Military Photographer of the Year competition, and is the only woman to have won it twice. Her additional honors include the Hill Vets 100 award, the Daughters of the American Revolution Margaret Cochran Corbin award, the White House's Champion of Change designation, and an honorary doctorate degree from The Citadel. Pearsall has served as a nominating juror for the Pulitzer Prize and as a presidential-appointed board member for the NPPA.
 
-Pearsall started the PDN “Personal Project” award-winning Veterans Portrait Project series in 2008 while she rehabilitated from combat injuries sustained in Iraq. Spending hours in VA waiting rooms surrounded by Veterans from every generation and branch of service, she felt compelled to honor and thank them in the only way she knows how: through photography. Since then she has  documented roughly 7,500 veterans in over 125 engagements.
+Pearsall started the Photo District News (PDN) “Personal Project” award-winning Veterans Portrait Project series in 2008 while she rehabilitated from combat injuries sustained in Iraq. Spending hours in VA waiting rooms surrounded by Veterans from every generation and branch of service, she felt compelled to honor and thank them in the only way she knows how: through photography. Since then she has documented roughly 7,500 Veterans in over 125 engagements.
 
-Between her photography, teaching, and speaking engagements, Pearsall completed her first photography book, ***Shooter: Combat from Behind the Camera***. The book received worldwide praise, and was hailed as "a book of the highest levels in the annals of combat journalism." Her second book, ***A Photojournalist's Field Guide: In the Trenches with Combat Photographer Stacy Pearsall***, was called "a must have for every aspiring photographer," with critics noting that “even pros can pick up a few new tricks to help them become better photographers.”
+Between her photography, teaching, and speaking engagements, Pearsall completed her first photography book, "Shooter: Combat from Behind the Camera." The book received worldwide praise and was hailed as "a book of the highest levels in the annals of combat journalism." Her second book, "A Photojournalist's Field Guide: In the Trenches with Combat Photographer Stacy Pearsall," was called "a must have for every aspiring photographer," with critics noting that “even pros can pick up a few new tricks to help them become better photographers.”
 
 **Learn more about Pearsall and the Veterans Portrait Project:**
 
