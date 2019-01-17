@@ -8,8 +8,8 @@ concurrence:
 order: 1
 children: pensionEligibility
 spoke: Get Benefits
-majorlinks:
-  - heading:
+relatedlinks:
+  - heading: Other pension benefits
     links:
     - url: /pension/survivors-pension/
       title: VA Survivors Pension
