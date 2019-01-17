@@ -50,10 +50,10 @@ social:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Not a Veteran?
     subsections:
-      - subhead: Get Home Loan Information For Others
+      - subhead: Get Home Loan Information for:
         links:
         - url: https://www.benefits.va.gov/homeloans/appraiser.asp
-          label: "Appraisers and Staff Appraisers"
+          label: "Appraisers and Staff Appraiser Reviewers"
         - url: https://www.benefits.va.gov/homeloans/lenders.asp
           label: "Lenders"
         - url: https://www.benefits.va.gov/homeloans/realtors.asp
