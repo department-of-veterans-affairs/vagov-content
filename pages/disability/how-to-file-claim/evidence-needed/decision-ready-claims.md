@@ -62,7 +62,7 @@ You can file a Decision Ready Claim if you meet all of the requirements listed b
 **All of these must be true:**
 
 - You're filing one of the claim types listed above, **and**
-- You've already filed a VA claim and received a rating decision from us on that claim (unless you're filing a pre-discharge or DIC claim), **and**
+- You've already filed a VA disability claim and received a rating decision from us on that claim (unless you're filing a pre-discharge or DIC claim), **and**
 - None of the exclusions listed below apply to you
 
 </div>
@@ -160,7 +160,7 @@ You'll need to follow the steps below. When you work with an accredited VSO and 
 
 ### When can I expect a decision on my DRC?
 
-You can expect a decision within 30 days or less from the time you submit your claim.
+You can expect a decision within 30 days or less from the time you submit your disability claim.
 
 ### More questions about the Decision Ready Claims program
 
