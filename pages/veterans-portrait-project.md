@@ -20,68 +20,60 @@ Pearsall has photographed more than 7,500 Veterans so far, and hopes to capture 
 
 **VA.gov currently features Pearsall's images of these Veterans:**
 
-**Dr. Sankaran S.B.** <br>
+**Dr. Sankaran B.** <br>
 Army <br>
-O-6 <br>
 Physician (Radiologist) <br>
 May 1969 to August 1994 <br>
 Vietnam War <br>
 
-**Theodore R.B., Jr.** <br>
-Marine Corps <br>
+**Theodore B.** <br>
+Marine Corps (Active Duty, Reserve) <br>
+Admin, Intelligence, U.S. Ambassador <br>
+January 1944 to May 1951 <br>
 WWII <br>
-Additional details unknown <br>
 
 **Marilyn C.** <br>
 Marine Corps <br>
-E-4 <br>
 Artist <br>
 June 1951 to December 1952 <br>
 Korean War <br>
 
-**Johnny T.C.** <br>
-Branch unknown <br>
+**Johnny C.** <br>
+Army <br>
 Artillery Forward Observer <br>
+March 1966 to September 1969
 Vietnam War <br>
-Additional details unknown <br>
 
 **John D.** <br>
 Navy <br>
-O-3 <br>
+Naval Flight Officer
 May 1998 to the present <br>
-Naval Flight Officer <br>
 OEF, OSW <br>
  
 **Bobby H.** <br>
 Army <br>
-E- <br>
-Truck Driver <br>
-May 1991 to June 1992 <br>
-October 2001 to June 2011 <br>
-Desert Shield/Storm <br>
+88M Truck Driver <br>
+May 1991 to June 2011 <br>
+Desert Shield, OIF <br>
 OIF <br>
 
 **Nicole L.** <br>
 Air Force <br>
-E-6 <br>
 Emergency Management <br>
 February 2004 to the present <br>
 OEF, OIF <br>
 
 **Rick P.** <br>
 Air Force <br>
-E-4 <br>
-Weapons Tech. <br>
-AC-130 Gunner <br>
+Weapons Technician, Gunner (spectre). <br>
 September 1971 to March 1975 <br>
 Vietnam War <br>
 
-**Sharon A.S.** <br>
+**Sharon S.** <br>
 Army <br>
-O-6 <br>
 Nurse <br>
 December 1985 to December 2010 <br>
-Desert Shield/Storm <br>
+Desert Shield/Storm and Enduring Freedom<br>
 
 <h2 id="pearsall">More about Stacy Pearsall, founder of the Veterans Portrait Project</h2> 
 
@@ -99,16 +91,3 @@ Between her photography, teaching, and speaking engagements, Pearsall completed 
 
 [Visit Pearsall's website](https://www.stacypearsall.com). <br>
 [Visit the Veterans Portrait Project website](http://www.veteransportraitproject.com). <br>
-
-**Connect with Pearsall on social media:**
-
-[Stacy Pearsall on Facebook](https://facebook.com/SLPearsall) <br>
-[@slpearsall on Instagram](https://www.instagram.com/slpearsall/) <br>
-[@StacyPearsall on Twitter](https://twitter.com/StacyPearsall) <br>
-
-**Connect with the Veterans Portrait Project on social media:**
-
-[Veterans Portraits on Facebook](https://www.facebook.com/VeteransPortraits/) <br>
-[@veterans_portrait_project on Instagram](https://www.instagram.com/veterans_portrait_project/) <br>
-[@vetportraits on Twitter](https://twitter.com/vetportraits) <br>
-
