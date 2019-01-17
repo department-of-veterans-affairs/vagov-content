@@ -72,7 +72,7 @@ Vietnam War <br>
 Army <br>
 Nurse <br>
 December 1985 to December 2010 <br>
-Desert Shield, Desert Storm, and Enduring Freedom< br>
+Desert Shield, Desert Storm, and Enduring Freedom <br>
 
 <h2 id="pearsall">More about Stacy Pearsall, founder of the Veterans Portrait Project</h2> 
 
