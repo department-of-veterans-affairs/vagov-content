@@ -67,7 +67,7 @@ A Veteran filed a disability claim that included prior treatment from a private 
 
 <br>
 
-### When do I need to turn in my evidence to support my standard claim?
+### When do I need to turn in my evidence to support my standard disability claim?
 
 You’ll need to turn in the information and evidence as soon as you can.
 
@@ -75,7 +75,7 @@ You have up to 1 year from the date we receive your claim to turn in any informa
 
 <br>
 
-### How do I get started filing my standard claim?
+### How do I get started filing my standard disability claim?
 
 You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
