@@ -48,6 +48,18 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
+  - heading: Not a Veteran?
+    subsections:
+      - subhead: Get Other Home Loan Information
+        links:
+        - url: https://www.benefits.va.gov/homeloans/appraiser.asp
+          label: "Information for Appraisers and Staff Appraisers"
+        - url: https://www.benefits.va.gov/homeloans/lenders.asp
+          label: "Information for Lenders"
+        - url: https://www.benefits.va.gov/homeloans/realtors.asp
+          label: "Information for Real Estate Professionals"
+        - url: https://www.benefits.va.gov/homeloans/servicers.asp
+          label: "Information for Servicers"
   - heading: Connect with Us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
