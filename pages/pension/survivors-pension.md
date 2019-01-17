@@ -7,6 +7,12 @@ description: Find out if you're eligible and how to apply for a VA survivors pen
 concurrence: ""
 children: pensionSurvivors
 spoke: Get Benefits
+relatedlinks:
+  - heading: More information for survivors
+    links:
+    - url: /pension/survivors-pension-rates/
+      title: VA Survivors Pension Rates
+      description: View pension rates for surviving spouses and children.
 order: 5
 ---
 
@@ -57,8 +63,6 @@ You may be able to get this benefit if you’re unmarried and you meet at least 
 - You're under age 18, **or**
 - You're under age 23 and attending a VA-approved school, **or**
 - You're unable to care for yourself due to a disability that happened before age 18
-
-[Find out about survivors pension rates](/pension/survivors-pension-rates/).
 
 </div>
 
