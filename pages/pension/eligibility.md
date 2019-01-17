@@ -8,6 +8,15 @@ concurrence:
 order: 1
 children: pensionEligibility
 spoke: Get Benefits
+majorlinks:
+  - heading:
+    links:
+    - url: /pension/survivors-pension/
+      title: VA Survivors Pension
+      description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
+    - url: /pension/aid-attendance-housebound/
+      title: Aid and Attendance Benefits and Housebound Allowance
+      description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
 widgets:
   - root: react-applicationStatus
     timeout: 20
@@ -49,24 +58,15 @@ You may be able to get pension benefits if you meet the requirements listed belo
 
 <br>
 
-#### Who’s covered?
-
-Veterans
-
-If you’re a surviving spouse or a child of a deceased Veteran with wartime service, please check our Survivors Pension page to see if you qualify for pension benefits. <br>
-[Learn more about the Survivors Pension program](/pension/survivors-pension/).
-
-<br>
-
 ### How do I know if I served under an eligible wartime period? 
 We recognize the following wartime periods to decide eligibility for pension benefits:
 
-- Mexican Border period (May 9, 1916 to April 5, 1917 for Veterans who served in Mexico, on its borders, or adjacent waters)
-- World War I (April 6, 1917 to November 11, 1918)
-- World War II (December 7, 1941 to December 31, 1946)
-- Korean conflict (June 27, 1950 to January 31, 1955)
-- Vietnam War era (February 28, 1961 to May 7, 1975 for Veterans who served in the Republic of Vietnam during that period. August 5, 1964 to May 7, 1975 for Veterans who served outside of the Republic of Vietnam.)
-- Gulf War (August 2, 1990 through a future date to be set by law or presidential proclamation)
+- Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)
+- World War I (April 6, 1917, to November 11, 1918)
+- World War II (December 7, 1941, to December 31, 1946)
+- Korean conflict (June 27, 1950, to January 31, 1955)
+- Vietnam War era (February 28, 1961, to May 7, 1975, for Veterans who served in the Republic of Vietnam during that period. August 5, 1964, to May 7, 1975, for Veterans who served outside the Republic of Vietnam.)
+- Gulf War (August 2, 1990, through a future date to be set by law or presidential proclamation)
 
 <br>
 
@@ -87,5 +87,3 @@ If you've received one of these discharge statuses, you may not be eligible for 
   <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
 </div>
 
-[Learn more about Aid and Attendance and Housebound benefits](/pension/aid-attendance-housebound/).<br>
-[Find out how to apply for a survivors pension](/pension/survivors-pension/). <br>
