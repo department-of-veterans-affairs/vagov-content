@@ -53,7 +53,7 @@ social:
       - subhead: "Get Home Loan Information for:"
         links:
         - url: https://www.benefits.va.gov/homeloans/appraiser.asp
-          label: "Appraisers and Staff Appraiser Reviewers"
+          label: "Appraisers and Staff Appraisal Reviewers (SARs)"
         - url: https://www.benefits.va.gov/homeloans/lenders.asp
           label: "Lenders"
         - url: https://www.benefits.va.gov/homeloans/realtors.asp
