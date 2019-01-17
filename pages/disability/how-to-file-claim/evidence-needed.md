@@ -32,7 +32,7 @@ When you file a disability claim, we review all available evidence (supporting d
 
 <div class="feature" markdown="1">
 
-### What evidence will VA look for to support my claim?
+### What evidence will VA look for to support my disability claim?
 
 **We'll look for evidence that shows you have:**
 - A current physical or mental disability (damage to your body or mind that makes you less able—or totally unable—to do everyday tasks, including meaningful work), **and**
@@ -41,7 +41,7 @@ When you file a disability claim, we review all available evidence (supporting d
 
 </div>
 
-### What documents will I need to support my claim?
+### What documents will I need to support my disability claim?
 
 We require certain documents to support all claims for disability benefits. 
 
