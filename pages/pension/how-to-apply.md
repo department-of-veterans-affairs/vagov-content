@@ -8,6 +8,15 @@ concurrence: ""
 order: 2
 spoke: Get Benefits
 children: pensionApplication
+relatedlinks:
+  - heading: Other pension benefits
+    links:
+    - url: /pension/survivors-pension/
+      title: VA Survivors Pension
+      description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
+    - url: /pension/aid-attendance-housebound/
+      title: Aid and Attendance Benefits and Housebound Allowance
+      description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
 widgets:
   - root: react-applicationStatus
     timeout: 20
@@ -52,7 +61,8 @@ Find out how to apply for a tax-free VA Veterans pension.
 
   **By mail** <br>
 Fill out an Application for Pension (VA Form 21P-527EZ). <br>
-[Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).<br>
+[Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).
+
 Mail the completed form to the Pension Management Center (PMC) for your state.<br>
 [Find your PMC](/pension/pension-management-centers/).
 
