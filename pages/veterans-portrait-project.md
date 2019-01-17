@@ -28,7 +28,7 @@ Vietnam War <br>
 
 **Theodore B.** <br>
 Marine Corps (Active Duty, Reserve) <br>
-Admin, Intelligence, U.S. Ambassador <br>
+Admin., Intelligence, U.S. Ambassador <br>
 January 1944 to May 1951 <br>
 WWII <br>
 
@@ -41,12 +41,12 @@ Korean War <br>
 **Johnny C.** <br>
 Army <br>
 Artillery Forward Observer <br>
-March 1966 to September 1969
+March 1966 to September 1969 <br>
 Vietnam War <br>
 
 **John D.** <br>
 Navy <br>
-Naval Flight Officer
+Naval Flight Officer <br>
 May 1998 to the present <br>
 OEF, OSW <br>
  
@@ -55,7 +55,6 @@ Army <br>
 88M Truck Driver <br>
 May 1991 to June 2011 <br>
 Desert Shield, OIF <br>
-OIF <br>
 
 **Nicole L.** <br>
 Air Force <br>
@@ -65,7 +64,7 @@ OEF, OIF <br>
 
 **Rick P.** <br>
 Air Force <br>
-Weapons Technician, Gunner (spectre). <br>
+Weapons Technician, Gunner (spectre) <br>
 September 1971 to March 1975 <br>
 Vietnam War <br>
 
@@ -73,7 +72,7 @@ Vietnam War <br>
 Army <br>
 Nurse <br>
 December 1985 to December 2010 <br>
-Desert Shield/Storm and Enduring Freedom<br>
+Desert Shield, Desert Storm, and Enduring Freedom< br>
 
 <h2 id="pearsall">More about Stacy Pearsall, founder of the Veterans Portrait Project</h2> 
 
