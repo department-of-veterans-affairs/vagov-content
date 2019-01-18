@@ -129,27 +129,9 @@ You can work with a trained professional called an accredited representative to 
 </div>
 </div>
 
-<div class="feature">
 
-<div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-<h4 itemprop="name">What if I'm the caregiver of a post-9/11 Veteran or Servicemember?</h4>
-<div itemprop="itemListElement">
 
-You may qualify for VA health care and other benefits. View the Application for the Program of Comprehensive Assistance for Family Caregivers (VA Form 10-10CG).
 
-[Download Form 10-10CG](/health-care/forms/vha-10-10CG.pdf).
-
-#### What if I need long-term care?
-
-If you need community nursing home care, domiciliary care, adult day health care, geriatric evaluation, or respite care, you may need to fill out an Application for Extended Care Services (VA Form 10-10EC).
-
-[Download Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf).
-
-</div>
-</div>
-</div>
-
-<div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
 <h3 itemprop="name">What happens after I apply?</h3>
 <div itemprop="itemListElement">
@@ -185,4 +167,32 @@ To update your personal, insurance, or financial information from an earlier app
 
 </div>
 </div>
+</div>
+------
+
+## More information about applying
+
+<div class="usa-accordion">
+<ul class="usa-unstyled-list">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-caregiver">What if I'm the caregiver of a post-9/11 Veteran or service member?</button>
+<div id="questions-caregiver" class="usa-accordion-content">
+
+You may qualify for VA health care and other benefits. View the Application for the Program of Comprehensive Assistance for Family Caregivers (VA Form 10-10CG).
+
+<a href=”/health-care/forms/vha-10-10CG.pdf”>Download Form 10-10CG (pdf)</a>.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-long-term-care">What if I need long-term care?</button>
+<div id="questions-long-term-care" class="usa-accordion-content">
+
+If you need community nursing home care, domiciliary care, adult day health care, geriatric evaluation, or respite care, you may need to fill out an Application for Extended Care Services (VA Form 10-10EC).
+
+<a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf”>Download Form 10-10EC (pdf)</a>.
+
+</div>
+</li>
+</ul>
 </div>
