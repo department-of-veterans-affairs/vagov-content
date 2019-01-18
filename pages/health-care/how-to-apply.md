@@ -22,7 +22,7 @@ widgets:
 
 <div itemprop="description" class="va-introtext">
 
-Find out how to apply for VA health care benefits as a Veteran or Servicemember.
+Find out how to apply for VA health care benefits as a Veteran or service member.
 
 </div>
 
