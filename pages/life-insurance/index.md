@@ -11,9 +11,9 @@ hub: life-insurance
 promo:
   - image: /img/megamenu/life-insurance-illustration.png
     alt:
-    heading: Service-Disabled Veterans Insurance (S-DVI)
-    url: "/life-insurance/options-eligibility/s-dvi/"
-    description: If you’re disabled because of an injury or illness caused—or made worse—by your active service, continue your life insurance beyond 2 years after you leave the military.
+    heading: SGLI Online Enrollment System (SOES)
+    url: "https://www.benefits.va.gov/INSURANCE/SOES.asp"
+    description: Learn about our new online enrollment system for Servicemembers' Group Life Insurance.
 
 crosslinks:
   - heading: Other VA Benefits and Services
