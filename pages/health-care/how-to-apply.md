@@ -56,7 +56,7 @@ Find out how to apply for VA health care benefits as a Veteran or Servicemember.
 </div>
 
 <div class="form-expanding-group additional-info-container">
-  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>  
+  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>
   <span id="spanishhelptext-1">
     <div class="additional-info-content">
       Llene la solicitud para Beneficions de Salud (Forma 10-10EZ).<br>
@@ -174,6 +174,7 @@ If you’ve also applied for a VA pension or disability benefits, you can check 
 </div>
 </div>
 
+<span id="how-to-update-information"></span>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 <h3 itemprop="name">How do I update my information if I’m already signed up?</h3>
