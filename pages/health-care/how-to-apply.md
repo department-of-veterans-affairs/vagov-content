@@ -180,7 +180,7 @@ To update your personal, insurance, or financial information from an earlier app
 
 You may qualify for VA health care and other benefits. View the Application for the Program of Comprehensive Assistance for Family Caregivers (VA Form 10-10CG).
 
-<a href=”/health-care/forms/vha-10-10CG.pdf”>Download Form 10-10CG (pdf)</a>.
+<a href="https://www.va.gov/health-care/forms/vha-10-10CG.pdf">Download Form 10-10CG (pdf)</a>.
 
 </div>
 </li>
