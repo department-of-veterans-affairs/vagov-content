@@ -168,6 +168,7 @@ To update your personal, insurance, or financial information from an earlier app
 </div>
 </div>
 </div>
+
 ------
 
 ## More information about applying
@@ -190,7 +191,7 @@ You may qualify for VA health care and other benefits. View the Application for 
 
 If you need community nursing home care, domiciliary care, adult day health care, geriatric evaluation, or respite care, you may need to fill out an Application for Extended Care Services (VA Form 10-10EC).
 
-<a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf”>Download Form 10-10EC (pdf)</a>.
+<a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf">Download Form 10-10EC (pdf)</a>.
 
 </div>
 </li>
