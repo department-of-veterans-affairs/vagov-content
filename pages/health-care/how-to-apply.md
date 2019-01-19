@@ -164,6 +164,16 @@ If you’ve also applied for a VA pension or disability benefits, you can check 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-update-my-information"> How do I update my information if I’m already signed up?</button>
+<div id="questions- update-my-information" class="usa-accordion-content">
+
+To update your personal, insurance, or financial information from an earlier application, fill out a Health Benefits Update Form (VA Form 10-10EZR). 
+
+<a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10ezr-fill.pdf">Download Form 10-10EZR (pdf)</a>.
+
+</div>
+</li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-caregiver">What if I'm the caregiver of a post-9/11 Veteran or service member?</button>
 <div id="questions-caregiver" class="usa-accordion-content">
 
@@ -180,17 +190,6 @@ You may qualify for VA health care and other benefits. View the Application for 
 If you need community nursing home care, domiciliary care, adult day health care, geriatric evaluation, or respite care, you may need to fill out an Application for Extended Care Services (VA Form 10-10EC).
 
 <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf">Download Form 10-10EC (pdf)</a>.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-update-my-information"> How do I update my information if I’m already signed up?</button>
-<div id="questions- update-my-information" class="usa-accordion-content">
-
-To update your personal, insurance, or financial information from an earlier application, fill out a Health Benefits Update Form (VA Form 10-10EZR). 
-
-<a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10ezr-fill.pdf">Download Form 10-10EZR (pdf)</a>.
 
 </div>
 </li>
