@@ -164,8 +164,8 @@ If you’ve also applied for a VA pension or disability benefits, you can check 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-update-my-information"> How do I update my information if I’m already signed up?</button>
-<div id="questions- update-my-information" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-update-my-information">How do I update my information if I’m already signed up?</button>
+<div id="questions-update-my-information" class="usa-accordion-content">
 
 To update your personal, insurance, or financial information from an earlier application, fill out a Health Benefits Update Form (VA Form 10-10EZR). 
 
