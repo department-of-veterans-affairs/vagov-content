@@ -41,7 +41,7 @@ You may be eligible for this program if you and your school meet the requirement
 **All of these must be true. Your school:**
 - Offers the Yellow Ribbon Program, **and**
 - Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and**
-- Has confirmed your enrollment with us
+- Has certified your enrollment with us and provided Yellow Ribbon Program information
 
 [See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br>
 
