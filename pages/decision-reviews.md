@@ -51,12 +51,13 @@ In choosing a Supplemental Claim, you are adding new evidence that is relevant t
 your case or identifying evidence for review. A regional office employee will
 determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](#).
 
-<!-- Todo: Add icon  -->
-You must add evidence VA did not have and that relates to your case.
+<!-- Todo: Update icon to FA5  -->
+
+<i class="fa fa-files-o"></i> You must add evidence VA did not have and that relates to your case.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number">4-5 months</span>
+  <span class="number"><i class="heading-level-4"3 4 class="fa fa-clock-o"></i><span-5 months</span></span>
   <span class="description">Average time to complete your review.</span>
 </div>
 
@@ -69,16 +70,16 @@ reviewer at different regional office will take another look at your case and de
 whether the decision can be changed based on a difference of opinion or because VA
 made an error. [Learn how to request a Higher-Level Review](#).
 
-<!-- Todo: Add icon  -->
-You cannot submit any evidence.
+<!-- Todo: Update icon to FA5  -->
+<i class="fa fa-ban"></i> You cannot submit any evidence.
 
-<!-- Todo: Add icon  -->
-You and/or your representative can speak with the reviewer on the phone. You
+<!-- Todo: Update icon to FA5  -->
+<i class="fa fa-phone"></i> You and/or your representative can speak with the reviewer on the phone. You
 can say why you think the decision should be changed and identify errors.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number">4-5 months</span>
+  <span class="number"><i class="heading-level-4"3 4 class="fa fa-clock-o"></i><span-5 months</span></span>
   <span class="description">Average time to complete a decision on your review. The review may take
 longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
 </div>
@@ -98,23 +99,23 @@ A judge at the Board of Veterans’ Appeals in Washington, DC will review your c
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number">About 1 year</span>
+  <span class="number"><span class="heading-level-3"><i class="fa fa-clock-o"></i> About 1 year</span></span>
   <span class="description">
     Average time to complete an appeal. With no new evidence and no hearing, a
     judge will decide your case in 1 year.
   </span>
 </div>
 
-<!-- Todo: Add icon  -->
-You have the option to add new evidence that will be reviewed by a judge.
+<!-- Todo: Update icon to FA5  -->
+<i class="fa fa-files-o"></i> You have the option to add new evidence that will be reviewed by a judge.
 
-<!-- Todo: Add icon  -->
-You have the option to request a hearing with a judge. A video conference
+<!-- Todo: Update icon to FA5  -->
+<i class="fa fa-user"></i> You have the option to request a hearing with a judge. A video conference
 hearing will take place at a [VA location near you](#).
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number">About 6 years</span>
+  <span class="number"><span class="heading-level-3"><i class="fa fa-clock-o"></i> About 6 years</span></span>
   <span class="description">
     It will take about 6 years for a decision if you want to add evidence for review
     or request a hearing with a judge.
