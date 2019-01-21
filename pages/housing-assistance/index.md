@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: housing
 promo:
-  - image: /img/megamenu/housing-assistance-illustration.png
+  - image: /img/hub-illustrations/housing.png
     heading: National Call Center for Homeless Veterans
     url: "https://www.va.gov/homeless/nationalcallcenter.asp"
     description: Find out how we can help you or a Veteran you care about connect with VA and local resources 24 hours a day, 7 days a week.

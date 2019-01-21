@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: life-insurance
 promo:
-  - image: /img/megamenu/life-insurance-illustration.png
+  - image: /img/hub-illustrations/life-insurance.png
     alt:
     heading: SGLI Online Enrollment System (SOES)
     url: "https://www.benefits.va.gov/INSURANCE/SOES.asp"
@@ -33,7 +33,7 @@ social:
       - subhead: Message Us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
-          label: "Ask a question online"    
+          label: "Ask a question online"
       - subhead: Call Us
         links:
         - url: tel:1-800-419-1473
@@ -47,7 +47,7 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us 
+  - heading: Connect with Us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
@@ -56,9 +56,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope        
+          icon: fa-envelope
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true

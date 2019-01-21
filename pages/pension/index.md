@@ -8,7 +8,7 @@ lastupdate:
 order: 1
 hub: pension
 promo:
-  - image: /img/megamenu/pension-illustration.png
+  - image: /img/hub-illustrations/pension.png
     heading: Get Your Pension Payments Electronically
     url: "https://www.godirect.gov/gpw"
     description: Sign up for direct deposit or a pre-paid debit card.
