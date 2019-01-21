@@ -90,6 +90,8 @@ You can request a Higher-Level Review of an original claim or Supplemental Claim
 decision. This option is not available afer a Higher-Level Review or Board Appeal
 decision.
 
+<br>
+
 ### Appeal to a Veterans Law Judge
 
 [Download VA Form 10182 (Board Appeal)](#)
@@ -125,6 +127,8 @@ hearing will take place at a [VA location near you](#).
 #### Can I request a Board Appeal?
 
 You can request a Board Appeal afer an original claim, Supplemental Claim or HigherLevel Review decision. You cannot request a Board Appeal afer a Board Appeal decision.
+
+<br>
 
 ## After a Board decision
 
