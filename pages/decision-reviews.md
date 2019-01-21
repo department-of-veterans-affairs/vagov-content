@@ -57,7 +57,7 @@ determine whether the new evidence changes the decision. [Learn how to request a
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><i class="heading-level-4"3 4 class="fa fa-clock-o"></i><span-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="fa fa-clock-o"></i> 5 months</span></span>
   <span class="description">Average time to complete your review.</span>
 </div>
 
@@ -79,7 +79,7 @@ can say why you think the decision should be changed and identify errors.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><i class="heading-level-4"3 4 class="fa fa-clock-o"></i><span-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="fa fa-clock-o"></i> 5 months</span></span>
   <span class="description">Average time to complete a decision on your review. The review may take
 longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
 </div>
