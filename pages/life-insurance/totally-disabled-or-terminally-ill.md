@@ -10,8 +10,8 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Managing Your Policy
-      description: Need to file a benefits claim after your family member has died? Manage your policy online.
+      title: Accessing Your Policy
+      description: Need to file a benefits claim after your family member has died? Access your policy online.
 aliases:
   - /life-insurance/disabled-and-terminally-ill/
 ---
