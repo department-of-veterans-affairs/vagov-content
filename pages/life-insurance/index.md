@@ -173,6 +173,6 @@ VA life insurance can offer financial security and support for Veterans, Service
 
 <ul>
   <li><a href="#get">Get VA Life Insurance</a></li>
-  <li><a href="#access">Access Your Policy and Benefits</a></li>
+  <li><a href="#manage">Manage Your Policy and Benefits</a></li>
   <li><a href="#more">More Information and Resources</a></li>
 </ul>
