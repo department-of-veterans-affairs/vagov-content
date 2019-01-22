@@ -91,7 +91,7 @@ hublinks:
       description: If you're enrolled in a VA life insurance plan, find out if you can get free financial planning and online will preparation services.
       external: false
   - id: manage
-    title: Manage Your Policy and Benefits
+    title: Access Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
       label: Access Your Policy Online
@@ -163,7 +163,7 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/insurance/dividends_special.asp
       label: Special Dividend Rumors
-      description: Learn the truth about the rumors that there are special dividends for veterans who don't have an active government life insurance policy.
+      description: Learn the truth about the rumors that there are special dividends for Veterans who don't have an active government life insurance policy.
       external: false
 ---
 <p class="va-introtext">
