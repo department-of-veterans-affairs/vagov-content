@@ -110,8 +110,6 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 [2000](https://www.benefits.va.gov/PENSION/rates_veteran_pen00.asp) |
 [1999 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen99.asp)<br>
 
-[View protected pension rates for section 306 and old law VA disability and death pension benefits](https://www.benefits.va.gov/PENSION/current_protected_pension_rate_tables.asp?_ga=2.57360490.1785335407.1546886869-1582256389.1508352376).
-<br>
 
 ### Read full regulations from Title 38 Code of Federal Regulations
 
