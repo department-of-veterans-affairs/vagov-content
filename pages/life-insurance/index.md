@@ -91,10 +91,10 @@ hublinks:
       description: If you're enrolled in a VA life insurance plan, find out if you can get free financial planning and online will preparation services.
       external: false
   - id: manage
-    title: Manage Your Policy and Benefits
+    title: Access Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
-      label: Manage Your Policy Online
+      label: Access Your Policy Online
       description: Find out how to check your policy's status, update your information, or pay your premium online.
       external: false
     - url: https://benefits.va.gov/INSURANCE/updatebene.asp
@@ -160,6 +160,10 @@ hublinks:
     - url: https://www.benefits.va.gov/INSURANCE/uninsurable.asp
       label: Medical Conditions That May Make You Uninsurable
       description: Find out which medical conditions may make it hard for you to get private life insurance after you separate from service, and what to do to make sure you have coverage.
+      external: false
+    - url: https://www.benefits.va.gov/insurance/dividends_special.asp
+      label: Special Dividend Rumors
+      description: Learn the truth about the rumors that there are special dividends for Veterans who don't have an active government life insurance policy.
       external: false
 ---
 <p class="va-introtext">
