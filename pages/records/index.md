@@ -53,7 +53,7 @@ hublinks:
       external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters
-      description: Download a copy of letters like your eligibility or award letter for certain benefits.
+      description: Download letters like your eligibility or award letter for certain benefits.
       external: false
     - url: "/housing-assistance/home-loans/how-to-apply/"
       label: Find Out How to Apply for a VA Home Loan Certificate of Eligibility

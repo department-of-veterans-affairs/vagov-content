@@ -4,7 +4,7 @@
   "description": "Content files for VA.gov",
   "engines": {
     "node": "8.10.0",
-    "yarn": "1.5.1"
+    "yarn": "1.12.3"
   },
   "scripts": {
     "vagov-apps:clone": "git clone --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
