@@ -89,4 +89,4 @@ Between her photography, teaching, and speaking engagements, Pearsall completed 
 **Learn more about Pearsall and the Veterans Portrait Project:**
 
 [Visit Pearsall's website](https://www.stacypearsall.com). <br>
-[Visit the Veterans Portrait Project website](http://www.veteransportraitproject.com). <br>
+[Visit the Veterans Portrait Project website](https://www.veteransportraitproject.com). <br>
