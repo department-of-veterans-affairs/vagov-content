@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: life-insurance
 promo:
-  - image: /img/megamenu/life-insurance-illustration.png
+  - image: /img/hub-illustrations/life-insurance.png
     alt:
     heading: SGLI Online Enrollment System (SOES)
     url: "https://www.benefits.va.gov/INSURANCE/SOES.asp"
@@ -33,7 +33,7 @@ social:
       - subhead: Message Us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
-          label: "Ask a question online"    
+          label: "Ask a question online"
       - subhead: Call Us
         links:
         - url: tel:1-800-419-1473
@@ -47,7 +47,7 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us 
+  - heading: Connect with Us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
@@ -56,9 +56,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope        
+          icon: fa-envelope
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true
@@ -91,10 +91,10 @@ hublinks:
       description: If you're enrolled in a VA life insurance plan, find out if you can get free financial planning and online will preparation services.
       external: false
   - id: manage
-    title: Manage Your Policy and Benefits
+    title: Access Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
-      label: Manage Your Policy Online
+      label: Access Your Policy Online
       description: Find out how to check your policy's status, update your information, or pay your premium online.
       external: false
     - url: https://benefits.va.gov/INSURANCE/updatebene.asp
@@ -160,6 +160,10 @@ hublinks:
     - url: https://www.benefits.va.gov/INSURANCE/uninsurable.asp
       label: Medical Conditions That May Make You Uninsurable
       description: Find out which medical conditions may make it hard for you to get private life insurance after you separate from service, and what to do to make sure you have coverage.
+      external: false
+    - url: https://www.benefits.va.gov/insurance/dividends_special.asp
+      label: Special Dividend Rumors
+      description: Learn the truth about the rumors that there are special dividends for Veterans who don't have an active government life insurance policy.
       external: false
 ---
 <p class="va-introtext">

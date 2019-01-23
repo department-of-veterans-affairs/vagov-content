@@ -56,8 +56,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </div>
 </div>
 
-<div class="feature" markdown=“1” itemscope itemtype="http://schema.org/Question">
-
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Is there anything that will make me more likely to get these benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -86,7 +85,6 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 </div>
 </div>
 
-<div markdown="0"><br></div>
 
 <div id="react-applicationStatus" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
@@ -210,7 +208,7 @@ No. Whether or not you have other health insurance coverage doesn’t affect the
 
 **If you're an OEF/OIF/OND combat Veteran who has just returned from service,** you can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge. 
 
-[Learn more about health care benefits for transitioning Servicemembers](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
+[Learn more about health care benefits for transitioning service members](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
 
 </div>
 </div>

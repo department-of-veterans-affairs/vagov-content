@@ -20,7 +20,7 @@ aliases:
   - /job-seekers/less-than-one-year/
   - /job-seekers/military-transcripts/
 promo:
-  - image: /img/megamenu/careers-employment-illustration.png
+  - image: /img/hub-illustrations/careers.png
     heading: VA for Vets
     url: "https://www.vaforvets.va.gov"
     description: Get help transitioning to a civilian career and matching your skills and experiences to VA job opportunities.
