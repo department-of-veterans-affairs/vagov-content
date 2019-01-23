@@ -62,7 +62,7 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 **At least one of these must be true:**
 - You separated because of a disability that wasn't caused by misconduct, **or**
 - Your unit was deactivated between October 1, 2007 and September 30, 2014, **or**
-- You were involuntarily separated for reasons other than misconduct between October 1, 2007 and September 30, 2014
+- You were involuntarily separated (not by choice) for reasons other than misconduct between October 1, 2007 and September 30, 2014
 
 </div>
 </li>
@@ -139,10 +139,12 @@ Yes. If you're eligible for more than one benefit, you'll need to decide which t
 We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
 
 ## Get more information
-- Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
+
+Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
 [Ask a question online](http://gibill.custhelp.com/). <br>
 
-- Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+Or call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase.<br>
-  [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
