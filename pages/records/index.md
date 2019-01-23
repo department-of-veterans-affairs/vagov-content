@@ -8,7 +8,7 @@ lastupdate:
 order: 1
 hub: records
 promo:
-  - image: /img/megamenu/records-illustration.png
+  - image: /img/hub-illustrations/records.png
     heading: Confirm Your VA Benefit Status
     url: "/records/download-va-letters/"
     description: Download letters like your eligibility or award letter for certain benefits.
@@ -34,7 +34,7 @@ social:
           number: 1-844-698-2311
           title: "Call MyVA311 for Help:"
         - url:
-          title: "If you have hearing loss, call TTY: 711."       
+          title: "If you have hearing loss, call TTY: 711."
 hublinks:
   - id: get
     title: Get Your Records and Documents
