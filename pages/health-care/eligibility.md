@@ -56,8 +56,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </div>
 </div>
 
-<div class="feature" markdown=“1” itemscope itemtype="http://schema.org/Question">
-
+<div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Is there anything that will make me more likely to get these benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -86,10 +85,33 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 </div>
 </div>
 
-<div markdown="0"><br></div>
 
 <div id="react-applicationStatus" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
+</div>
+
+<div class="form-expanding-group additional-info-container">
+  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>  
+  <span id="spanishhelptext-1">
+    <div class="additional-info-content">
+      Llene la solicitud para Beneficions de Salud (Forma 10-10EZ).<br>
+      <a href="https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf">Obtenga la Forma VA 10-10EZ</a>.<br>
+      Usted o alguien con poder legal para representarlo tiene que firmar la forma, e incluir la fecha en que fué firmada.<br>
+      <ul>
+        <li><b>Si esta usando un poder legal</b>, tendra que incluir una copia de la forma con su solicitud.</li>
+        <li><b>Si firma con una X</b>, 2 personas que usted conoce tienen que tambien firmar acertando que lo vieron firmar la forma.</li>
+      </ul>
+      <b>Puede mandar su solicitud por correo a esta dirección:</b><br>
+      <p class="va-address-block">
+        Health Eligibility Center<br>
+        2957 Clairmont Rd., Suite 200<br>
+        Atlanta, GA 30329</p>
+      <b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:<br>
+      <a href="/find-locations/?facilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.<br>
+      O reciba ayuda por medio del Departmaneto de Veteranos de su estado.<br>
+      <a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>.
+    </div>
+  </span>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
@@ -186,7 +208,7 @@ No. Whether or not you have other health insurance coverage doesn’t affect the
 
 **If you're an OEF/OIF/OND combat Veteran who has just returned from service,** you can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge. 
 
-[Learn more about health care benefits for transitioning Servicemembers](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
+[Learn more about health care benefits for transitioning service members](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
 
 </div>
 </div>

@@ -3,8 +3,6 @@ layout: page.html
 permalink: /sign-in-faq.html
 title: Frequently Asked Questions about Signing In to VA.gov
 display_title: Frequently Asked Questions
-aliases:
-  - /faq/
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -20,21 +18,13 @@ aliases:
                   Get answers to common questions about signing in to VA.gov to manage your benefits and services online. Find out how to sign in with your existing <strong>My HealtheVet</strong> or <strong>DS Logon</strong> account—or how to use ID.me to create your account.
                 </p>
               </div>
-              <div class="feature">
-                <h4>Need help?</h4>
-                <p>
-                  <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request to get help</a>.
-                </p>
-              </div>
-            </div>
-          </div>
           <div class="row">
             <div class="small-12 columns">
               <h4>Signing in to VA.gov</h4>
               <ul class="usa-accordion" aria-multiselectable="true">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-vetsgov-0" itemprop="name">How do I sign in to VA.gov? </button>
-                    <div id="faq-vetsgov-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-0" itemprop="name">How do I sign in to VA.gov? </button>
+                    <div id="faq-signin-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>You can sign in to VA.gov in 1 of 3 ways:</strong></p>
                         <ul>
@@ -42,12 +32,79 @@ aliases:
                           <li>With your existing <strong>DS Logon</strong> account, <strong>or</strong></li>
                           <li>By creating an account through ID.me (a trusted partner)</li>
                         </ul>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, using it to sign in is the easiest way to get access to all VA.gov tools. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claim status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
                       </div>
                     </div>
                   </li>
-                </ul>
+                <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-1" itemprop="name">Why did I receive an email from ID.me asking me to confirm my email address? </button>
+                    <div id="faq-signin-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>We need to confirm your email address before we can give you access to your VA.gov account. We partner with ID.me to provide this service securely.</p>
+                        <p>ID.me is a digital identity platform that helps people like you easily prove your identity so you can access advanced online services—while keeping your personal information safe.</p>
+                        <p>ID.me is a trusted VA partner and 1 of only 4 Single Sign-On providers that meet the U.S. government’s most rigorous requirements for online identity proofing and authentication. ID.me provides the strongest identity verification system available to prevent fraud and identity theft. This service uses bank-grade encryption to keep your personal information safe. And they give you control over which services and businesses can share your information.</p>                        
+                      </div>
+                    </div>
+                  </li>
+                <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-2" itemprop="name">I didn't receive a confirmation email from VA.gov. What should I do? </button>
+                    <div id="faq-signin-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>First, please double check your inbox and your spam folder. Look for an email from ID.me, our trusted technology partner that helps us confirm your identity and keep your personal information safe.</p>
+                        <p>If you still don't see your confirmation email, please use our online form to submit a request for help.</p>                        <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.
+                      </div>
+                    </div>
+                  </li>
+              </ul>
+              <br>
+             <h4>Common issues with signing in to VA.gov</h4>
+              <ul class="usa-accordion" aria-multiselectable="true">
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
+                    <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:</strong>
+                          <ul>
+                            <li>Clear your Internet browser's cookies and cache. Depending on which browser you're using, you'll usually find this information referred to as “Browsing Data,” “Browsing History,” or “Website Data.”</li>
+                            <li>Make sure you have cookies enabled in your browser settings. Depending on which browser you're using, you'll usually find this information in the “Tools,” “Settings,” or “Preferences” menu.</li>
+                            <li>If you're using Internet Explorer or Microsoft Edge, and clearing your cookies and cache doesn't fix the problem, try using Google Chrome or Mozilla Firefox as your browser instead. <br>
+                              <a href="https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAsdHhBRCwARIsAAhRhsk_uwlqzTaYptK2zKbuv-5g5Zk9V_qaKTe1Y5ptlxudmMG_Y7XqyDkaAs0HEALw_wcB&gclsrc=aw.ds">Download Google Chrome</a>.<br>
+                              <a href="https://www.mozilla.org/en-US/firefox/new/">Download Mozilla Firefox</a>.</li></li>
+                            <li>If you're using Chrome or Firefox and it's not working, make sure you've updated your browser with the latest updates.</li>
+                        </ul>
+                      <p><strong>If you've taken the steps above and still can't sign in,</strong> please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-1" itemprop="name">What should I do if I can't sign in to VA.gov because my password isn't working? </button>
+                    <div id="faq-signinissue-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p><strong>First, try resetting the password for the account you use to sign in to VA.gov:</strong></p>
+                        <ul>
+                          <li><a href="https://www.myhealth.va.gov/mhv-portal-web/forgot-password?action=new">Reset your password for My HealtheVet</a>.</li>
+                          <li><a href="https://myaccess.dmdc.osd.mil/identitymanagement/resetpassword.do">Reset your password for DS Logon</a>.</li>
+                          <li><a href="https://help.id.me/hc/en-us/articles/360011411534-How-do-I-reset-my-ID-me-password-">Reset your password for ID.me</a>.</li>   
+                        </ul>
+                        <p><strong>Note:</strong> If you need more support from ID.me, visit their support page.</br>
+                      <a href="https://help.id.me/hc/en-us">Visit ID.me support</a>.</p>  
+              <p><strong>If you've taken the steps above and still can't sign in,</strong> please use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-2" itemprop="name">What if I've tried the steps to fix the problems above, but I still can't sign in to VA.gov? </button>
+                    <div id="faq-signinissue-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                      <div itemprop="text">
+                        <p>You can use our online form to submit a request for help. Please note on the form which steps you've tried so we can better understand how to help you.<br>
+              <a href="https://www.accesstocare.va.gov/sign-in-help"  target="_blank">Submit a request for help</a>.</p>
+                      </div>
+                    </div>
+                  </li>
+          </ul>
                 <br/>
                 <a name="verifying-your-identity"></a>
                 <h4>Verifying your identity on VA.gov</h4>
@@ -57,9 +114,9 @@ aliases:
                     <div id="faq-verify-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <h4>Fastest way to verify your identity online</h4>
-                        <p>If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can use your existing account to sign in. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
+                        <p>If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can use your existing account to sign in. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again before doing common tasks on VA.gov, like checking your claims status or sending a secure message to your health care team.</p>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a>.</p>
-                        <h4>How to verify your identity online if you don’t have an existing premium account</h4>
+                        <h4>How to verify your identity online if you don’t have an existing Premium account</h4>
                         <p>If you don’t have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, we’ll help you verify your identity using ID.me—a trusted partner that provides the strongest identity verification system available to prevent fraud and identity theft.</p>
                         <p><strong>To go through the ID.me identity-proofing process, you’ll need:</strong></p>
                         <ul>
@@ -100,7 +157,7 @@ aliases:
                             <a href="/find-locations/?facilityType=health">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
-                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm that you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and your original paper copy will be shredded to protect your privacy.</p>
+                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm that you’re eligible for a Premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and your original paper copy will be shredded to protect your privacy.</p>
                         <p><strong>Note:</strong> When you open or download a PDF file, you create a temporary file on your computer. Other people may be able to see this file—and any personal health information you fill in—especially if you’re using a public or shared computer.</p>
                       </div>
                     </div>
@@ -131,7 +188,7 @@ aliases:
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-trouble-0" itemprop="name">If I can’t or don’t want to verify my identity through ID.me, what are my other options? </button>
                     <div id="faq-trouble-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p>You can use a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account to sign in to VA.gov with a verified account. Because you already verified your identity when you got your premium account, you won’t need to verify your identity again on VA.gov.</p>
+                        <p>You can use a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account to sign in to VA.gov with a verified account. Because you already verified your identity when you got your Premium account, you won’t need to verify your identity again on VA.gov.</p>
                         <h4>How to get a Premium DS Logon account</h4>
                         <p>Follow these 2 steps to sign up for a Premium <strong>DS Logon</strong> account.</p>
                         <p><strong>1. First, make sure you’re enrolled in the Defense Enrollment Eligibility Reporting System (DEERS).</strong> This is the database that records all the people who are eligible for military benefits.</p>
@@ -143,24 +200,24 @@ aliases:
                         <p>Go to the DS Logon self-service website and click on the <strong>More DS Logon Options</strong> button. From the choices that appear, select <strong>Need a DS Logon?</strong></p>
                         <p><strong>You’ll be asked to choose how you want to register:</strong></p>
                         <ul>
-                          <li><strong>If you have a Common Access Card (CAC) with accessible card reader,</strong> select this option. It’s the easiest way to get a DS Logon account and upgrade to a premium account right away.</li>
-                          <li><strong>If you have a Defense Finance and Account Service (DFAS) myPay account,</strong> you can select this option. You’ll be able to upgrade to a premium account right away.</li>
+                          <li><strong>If you have a Common Access Card (CAC) with accessible card reader,</strong> select this option. It’s the easiest way to get a DS Logon account and upgrade to a Premium account right away.</li>
+                          <li><strong>If you have a Defense Finance and Account Service (DFAS) myPay account,</strong> you can select this option. You’ll be able to upgrade to a Premium account right away.</li>
                           <li><strong>If you don’t have a CAC or DFAS myPay account,</strong> select the <strong>None of the above conditions apply</strong> option.</li>
                         </ul>
-                           <p>The registration tool will walk you through the sign-up process for your account and will prompt you to upgrade to a premium account through an online proofing process. Through this process, you’ll be asked a series of questions to prove you’re you—and not someone pretending to be you—to help protect the personal information you’ll have access to with a premium account.</p>
+                           <p>The registration tool will walk you through the sign-up process for your account and will prompt you to upgrade to a Premium account through an online proofing process. Through this process, you’ll be asked a series of questions to prove you’re you—and not someone pretending to be you—to help protect the personal information you’ll have access to with a Premium account.</p>
                            <p><a href="https://myaccess.dmdc.osd.mil/">Go to the DS Logon self-service website</a>.</p>
                         <p><strong>Note:</strong> If you’d rather verify your identity and upgrade to a Premium <strong>DS Logon</strong> account in person or by phone, read the instructions in the section above on verifying your identity.</p>
                         <h4>How to get a Premium My HealtheVet account if you’re a VA patient</h4>
                         <p>Follow these 2 steps to sign up for a Premium <strong>My HealtheVet</strong> account.</p>
-                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an advanced account, and then you can upgrade to a premium account.</p>
+                        <p><strong>1. First, sign up for an account on the My HealtheVet website.</strong> You’ll need to have your Social Security number on hand. Be sure to choose <strong>VA Patient</strong> on the registration form. This will automatically upgrade your account to an Advanced account, and then you can upgrade to a Premium account.</p>
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/user-registration/">Sign up for a My HealtheVet account</a>.</p>
                         <p><strong>Note:</strong> If you have a Premium <strong>DS Logon</strong> or ID.me account, you can skip step 1 above, and go right to step 2 to sign in to <strong>My HealtheVet</strong> with either of these accounts.
-                        <p><strong>2. Then, upgrade to a premium account.</strong></p>
+                        <p><strong>2. Then, upgrade to a Premium account.</strong></p>
                         <p>You can do this in 1 of 2 ways.</p>
                         <h5>Upgrade your account using your Premium <strong>DS Logon</strong> or ID.me user ID and password</h5>
-                        <p>To do this, sign in to <strong>My HealtheVet</strong> using your premium <strong>DS Logon</strong> or ID.me user ID and password.</p>
+                        <p>To do this, sign in to <strong>My HealtheVet</strong> using your Premium <strong>DS Logon</strong> or ID.me user ID and password.</p>
                         <p>Once signed in, select the <strong>Upgrade Now</strong> button at the top left side of the screen. Then, on the account upgrade page, check the box certifying that you’re the owner of the account and approve the request, and click <strong>Continue</strong>.</p>
-                        <p>The system will upgrade you to a premium account.</p>
+                        <p>The system will upgrade you to a Premium account.</p>
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/user-login?redirect=/mhv-portal-web/user-registration/user-login">Sign in to to My HealtheVet</a>.
                         <h5>Upgrade your account in person at a VA health facility</h5>
                         <p><strong>You’ll need to have:</strong></p>
@@ -170,7 +227,7 @@ aliases:
                             <a href="/find-locations/">Find the phone number for your nearest VA health care facility</a>.</li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
-                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm you’re eligible for a premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and the original paper copy will be shredded to protect your privacy.</p>
+                        <p>A VA staff member will verify your identity. Then they’ll record your information in the <strong>My HealtheVet</strong> system and confirm you’re eligible for a Premium account. A copy of your VA Form 10-5345a-MHV will be added to your VA medical record, and the original paper copy will be shredded to protect your privacy.</p>
                         <p><strong>Note:</strong> When you open or download a PDF file, you create a temporary file on your computer. Other people may be able to see this file—and any personal health information you fill in—especially if you’re using a public or shared computer.</p>
                      </div>
                     </div>
@@ -213,7 +270,7 @@ aliases:
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-trouble-3" itemprop="name">What address should I use to verify my identity if I live overseas? </button>
                     <div id="faq-trouble-3" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p><strong>If you have a premium My HealtheVet or DS Logon account,</strong> you can sign in using those credentials and you won’t need to verify your identity.</p>
+                        <p><strong>If you have a Premium My HealtheVet or DS Logon account,</strong> you can sign in using those credentials and you won’t need to verify your identity.</p>
                         <p><strong>If you’re signing in through your ID.me account,</strong> you’ll need to use your most recent official stateside address and phone number (the information that’ll match records like your credit history)—even if it’s not your current contact information.</p>
                       </div>
                     </div>
@@ -239,7 +296,7 @@ aliases:
                     <div id="faq-trouble-5" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>You can try using your driver’s license or passport to verify your identity.</strong> Be sure to follow the image guidelines provided when you upload a copy of your driver’s license or passport.</p>
-                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can sign in using those credentials and you won’t need to verify your identity. If you don’t have an existing premium account, you can find out how to get one by reading the question above about other options for verifying your identity.</p>
+                        <p><strong>Note:</strong> If you have a Premium <strong>My HealtheVet</strong> or Premium <strong>DS Logon</strong> account, you can sign in using those credentials and you won’t need to verify your identity. If you don’t have an existing Premium account, you can find out how to get one by reading the question above about other options for verifying your identity.</p>
                       </div>
                     </div>
                   </li>

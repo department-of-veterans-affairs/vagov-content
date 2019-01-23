@@ -48,7 +48,7 @@ Click on the statement below that describes you best to find out your benefits c
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-care-disability">I have a service-connected disability or condition, and I get disability compensation (monthly payments).</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-care-disability">I have a service-connected dental disability or condition for which I receive compensation (monthly payments).</button>
 <div id="dental-care-disability" class="usa-accordion-content">
 
 **You’re in:** Class I

@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: housing
 promo:
-  - image: /img/megamenu/housing-assistance-illustration.png
+  - image: /img/hub-illustrations/housing.png
     heading: National Call Center for Homeless Veterans
     url: "https://www.va.gov/homeless/nationalcallcenter.asp"
     description: Find out how we can help you or a Veteran you care about connect with VA and local resources 24 hours a day, 7 days a week.
@@ -48,6 +48,18 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
+  - heading: Not a Veteran?
+    subsections:
+      - subhead: "Get Home Loan Information for:"
+        links:
+        - url: https://www.benefits.va.gov/homeloans/appraiser.asp
+          label: "Appraisers and Staff Appraisal Reviewers (SARs)"
+        - url: https://www.benefits.va.gov/homeloans/lenders.asp
+          label: "Lenders"
+        - url: https://www.benefits.va.gov/homeloans/realtors.asp
+          label: "Real Estate Professionals"
+        - url: https://www.benefits.va.gov/homeloans/servicers.asp
+          label: "Servicers of VA Loans"
   - heading: Connect with Us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/

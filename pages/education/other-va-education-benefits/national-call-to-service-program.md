@@ -42,7 +42,7 @@ Veterans
 
 ### What benefits can I get?
 
-You may chose one of these:
+You may choose one of these:
 
 -	A cash bonus of $5,000, **or**
 -	Repayment of a qualifying student loan not more than $18,000, **or**

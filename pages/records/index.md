@@ -8,7 +8,7 @@ lastupdate:
 order: 1
 hub: records
 promo:
-  - image: /img/megamenu/records-illustration.png
+  - image: /img/hub-illustrations/records.png
     heading: Confirm Your VA Benefit Status
     url: "/records/download-va-letters/"
     description: Download letters like your eligibility or award letter for certain benefits.
@@ -34,7 +34,7 @@ social:
           number: 1-844-698-2311
           title: "Call MyVA311 for Help:"
         - url:
-          title: "If you have hearing loss, call TTY: 711."       
+          title: "If you have hearing loss, call TTY: 711."
 hublinks:
   - id: get
     title: Get Your Records and Documents
@@ -53,7 +53,7 @@ hublinks:
       external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters
-      description: Download a copy of letters like your eligibility or award letter for certain benefits.
+      description: Download letters like your eligibility or award letter for certain benefits.
       external: false
     - url: "/housing-assistance/home-loans/how-to-apply/"
       label: Find Out How to Apply for a VA Home Loan Certificate of Eligibility

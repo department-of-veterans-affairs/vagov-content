@@ -8,10 +8,8 @@ concurrence:
 lastupdate:
 order: 1
 hub: health-care
-aliases:
-  - /health-care/medical-information-terms-conditions/
 promo:
-  - image: /img/megamenu/health-care-illustration.png
+  - image: /img/hub-illustrations/health-care.png
     heading: VA Telehealth Services
     url: "https://www.telehealth.va.gov/"
     description: Find out how we use telehealth technologies to provide specialty care and health monitoring to Veterans at their local VA clinic or in their own home.
