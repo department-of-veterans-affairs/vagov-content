@@ -30,7 +30,7 @@ You can get education benefits through this program if you were honorably discha
 **At least one of these is true. You served continuously (without a break) for:**
 - 3 years, **or**
 - 2 years if that was your agreement when you enlisted, **or**
-- 4 years if you entered the Selected Reserves within a year of leaving active duty (called the 2 by 4 program)
+- 4 years if you entered the Selected Reserve within a year of leaving active duty (called the 2 by 4 program)
 
 **And all of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
@@ -46,7 +46,7 @@ You can get education benefits through this program if you were honorably discha
 **All of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
 - Entered active duty before January 1, 1977 (or before January 2, 1978 under a delayed enlistment program contracted before January 1, 1977), **and**
-- Served at least 1 day between October 19, 1984, and June 30, 1985 and stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserves within 1 year of leaving active duty and served 4 years), **and**
+- Served at least 1 day between October 19, 1984, and June 30, 1985 and stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
 - Had at least 1 day of entitlement left under the Vietnam Era GI Bill (Chapter 4) as of December 31, 1989
 
 </div>
