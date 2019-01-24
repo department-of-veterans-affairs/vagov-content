@@ -40,7 +40,7 @@ You may also qualify for free VA health care, prescriptions medicines, or both i
 
 If you know your priority group, keep reading below to find out what your copay may be for different types of care, tests, and prescriptions medicines. 
 
-If you haven't yet enrolled in VA health care, you can use our Health Benefits Explorer tool to see what your copays may be.
+If you haven't yet enrolled in VA health care, you can use our Health Benefits Explorer tool to see what your copays may be. <br>
 [Go to the Health Benefits Explorer]( http://hbexplorer.vacloud.us/).
 
 </div>
@@ -62,7 +62,7 @@ You also won’t need to pay a copay to visit your VA priority care provider or 
 
 You won’t need to pay a copay for any care or tests related to your service-connected exposure. You may be charged a copay for care or tests not covered under related treatment services.
 
-<h3>If you’re in Priority Group 7 or 8, or if you’re in Priority Group 6 and receive care that’s not related to your service-connected exposure</h3>
+<h3>If you’re in Priority Group 7 or 8</h3>
 
 You’ll pay the copay amounts listed below for outpatient care.
 
@@ -91,7 +91,7 @@ You won’t need to pay a copay for any inpatient care related to your service-c
 
 You’ll pay a reduced copay of $272.80 for the first 90 days of care within a year (365 days), and $136.40 for each additional day within the same period. You’ll also pay a $2 per day charge.
 
-<h3>If you’re in Priority Group 8<h3>
+<h3>If you’re in Priority Group 8</h3>
 
 You’ll pay our full copay rate of $1,364 for the first 90 days of care within a year (365 days) and $682 for each additional day within the same period. You’ll also pay a $10 per day charge.
  	 
@@ -118,7 +118,7 @@ You will pay a copay for medications a VA health care provider prescribes to tre
 
 The amount you’ll pay will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
 
-<h4> 2019 copay amounts by outpatient medication tier and supply
+<h4>2019 copay amounts by outpatient medication tier and supply</h4>
 
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
 | --------------- | -------------------- | -------------------- | -------------------- |
@@ -152,14 +152,14 @@ You'll pay a copay for services after 21 days of care—unless you qualify for a
 - If you're in priority group 4 and you're a former Prisoner of War, you'll only need to pay a copay if we're providing care for a non-service-connected condition.
 - If you're in priority group 8 and your income is below the limit to qualify for a VA Veterans Pension, you won't need to pay a copay for these services.
 
-We'll base your copay on the financial information you provide on your Application for Extended Care Services (VA Form 10-10EC).<br>
-[Download VA Form 10-10EC)](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf). <br>
-
-We'll also base it on the level of care needed:
+<b>We'll base your copay on the level of care needed:</b>
 
 - <b>Inpatient care:</b> You'll pay up to $97 per day to stay in a facility that provides care like a nursing home or respite care facility (a place you can stay temporarily if your family caregiver needs to be away or needs a break) or if you need to stay overnight in a VA facility for a geriatric evaluation to determine your needs and care plan.  
-- <b>Outpatient care:</b> You'll pay $15 per day for services in a facility that don't require an overnight stay like adult day care, daytime respite care, or an outpatient geriatric evaluation.
-- <b>In-home care (also called domiciliary care):</b> You'll pay $5 per day for care provided in your home from a visiting nurse, home health aide, or other caregiver.
+- <b>Outpatient care:</b> You'll pay up to $15 per day for services in a facility that don't require an overnight stay like adult day care, daytime respite care, or an outpatient geriatric evaluation.
+- <b>In-home care (also called domiciliary care):</b> You'll pay up to $5 per day for care provided in your home from a visiting nurse, home health aide, or other caregiver.
+
+Your actual copay will depend on the financial information you provide on your Application for Extended Care Services (VA Form 10-10EC).<br>
+[Download VA Form 10-10EC)](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf). <br>
 
 <h3>If you're in priority group 6</h3>
 
@@ -176,7 +176,7 @@ You won’t need to pay a copay for any long-term or geriatric care related to y
 
 You won't need to pay a copay for these services, no matter what priority group you're in:
 
-- [Special registry exams to determine if you're at risk of health problems because of your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
+- [Special registry exams to determine if you're at risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
 - [Counseling and care for military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/) 
 - [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
 - Care that's part of a VA research project
