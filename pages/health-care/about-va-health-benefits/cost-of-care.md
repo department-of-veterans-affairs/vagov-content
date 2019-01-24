@@ -14,8 +14,8 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 
 </div>
 
-<b>Jump to a section:</b>
-[Get basic information about VA copays](#copays-basic).
+<b>Jump to a section:</b> <br>
+[Get basic information about VA copays](#copays-basic). <br>
 [Get copay rates effective January 1, 2019](#copays-rates).
 
 <span id="copays-basic"></span>
