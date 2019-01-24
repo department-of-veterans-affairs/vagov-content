@@ -58,7 +58,7 @@ Money for tuition
     You can also apply by mail, in person, or with the help of a trained professional. <br>
     <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
     <br>
-    <b>Note:</b>
+    <b>Note:</b><br>
     <b>If you're on active duty right now,</b> you'll need to have your Education Services Officer approve your enrollment, and your Commanding Officer verify your service.<br>
     <b>If you're not on active duty right now,</b> you'll need to send copy 4 (member copy) of your DD214, Certificate of Release, or Discharge from Active Duty.<br>
     <br>
