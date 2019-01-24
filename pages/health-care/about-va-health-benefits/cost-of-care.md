@@ -14,8 +14,16 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 
 </div>
 
+<b>Jump to a section:</b>
+[Get basic information about VA copays](#copays-basic).
+[Get copay rates effective January 1, 2019](#copays-rates).
+
+<span id="copays-basic"></span>
+
+<h2>Basic information about VA copays</h2>
+ 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What’s an insurance copay?</h2>
+<h3 itemprop="name">What’s an insurance copay?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -26,7 +34,7 @@ A health insurance copay (short for “copayment”) is a fixed amount you’re 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">Can I get free VA health care, or will I have to pay copays?</h2>
+<h3 itemprop="name">Can I get free VA health care, or will I have to pay copays?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -48,21 +56,49 @@ If you haven't yet enrolled in VA health care, you can use our Health Benefits E
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What will I pay for outpatient care like a doctor’s visit or medical test?</h2>
+<h3 itemprop="name">What VA health care services can I get for free, no matter what priority group I'm in?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You won't need to pay a copay for these services, no matter what priority group you're in:
+
+- [Special registry exams to determine if you're at risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
+- [Counseling and care for military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/) 
+- [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
+- Care that's part of a VA research project
+- Care related to a VA-rated service-connected disability
+- [Readjustment counseling and related mental-health services](/health-care/health-needs-conditions/mental-health/)
+-	Care for cancer of head or neck caused by nose or throat radium treatments received while in the military
+-	Individual or group services to help you stop smoking or lose weight
+-	Publicly announced VA public health initiatives like health fairs
+-	Care for health conditions that may be related to combat service if you've served in a theater of combat operations after November 11, 1998 
+- Lab tests and electrocardiograms (EKG or ECG)
+- Hospice care
+
+</div>
+</div>
+</div>
+
+<span id="copays-rates"></span>
+
+<h2>Copay rates effective January 1, 2019</h2>
+
+<div itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name">What will I pay for outpatient care like a doctor’s visit or medical test?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 You won’t need to pay any copays for tests like X-rays, lab tests, or for preventive tests and services like screenings or immunizations.
 
-<h3>If you’re in Priority Groups 1 through 5</h3>
+<h4>If you’re in priority groups 1 through 5</h4>
 
 You also won’t need to pay a copay to visit your VA priority care provider or a specialist or specialty tests like an MRI, CAT scan, or nuclear medicine study.
 
-<h3>If you’re in Priority Group 6</h3>
+<h4>If you’re in priority group 6</h4>
 
 You won’t need to pay a copay for any care or tests related to your service-connected exposure. You may be charged a copay for care or tests not covered under related treatment services.
 
-<h3>If you’re in Priority Group 7 or 8</h3>
+<h4>If you’re in priority group 7 or 8</h4>
 
 You’ll pay the copay amounts listed below for outpatient care.
 
@@ -75,23 +111,23 @@ You’ll pay the copay amounts listed below for outpatient care.
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What will I pay for inpatient care that requires me to stay one or more nights in a VA hospital or other health facility?</h2>
+<h3 itemprop="name">What will I pay for inpatient care that requires me to stay one or more nights in a VA health facility?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<h3>If you’re in Priority Groups 1 through 5</h3>
+<h4>If you’re in priority groups 1 through 5</h4>
 
-You won’t need to pay a copay for inpatient care.
+You won’t need to pay a copay for inpatient care in a VA hospital or other health facility.
 
-<h3>If you’re in Priority Group 6</h3>
+<h4>If you’re in priority group 6</h4>
 
 You won’t need to pay a copay for any inpatient care related to your service-connected exposure. You may be charged a copay for care not covered under related treatment services.
 
-<h3>If you’re in Priority Group 7</h3>
+<h4>If you’re in priority group 7</h4>
 
 You’ll pay a reduced copay of $272.80 for the first 90 days of care within a year (365 days), and $136.40 for each additional day within the same period. You’ll also pay a $2 per day charge.
 
-<h3>If you’re in Priority Group 8</h3>
+<h4>If you’re in priority group 8</h4>
 
 You’ll pay our full copay rate of $1,364 for the first 90 days of care within a year (365 days) and $682 for each additional day within the same period. You’ll also pay a $10 per day charge.
  	 
@@ -102,15 +138,15 @@ You’ll pay our full copay rate of $1,364 for the first 90 days of care within 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What will I pay for prescription medicines?</h2>
+<h3 itemprop="name">What will I pay for prescription medicines?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<h3>If you’re in Priority Group 1</h3>
+<h4>If you’re in priority group 1</h4>
 
 You won’t pay a copay for any prescription medicines.
 
-<h3>If you’re in Priority Groups 2 through 8</h3>
+<h4>If you’re in priority groups 2 through 8</h4>
 
 You won’t pay a copay for medications a VA health care provider prescribes to treat a service-connected disability.
 
@@ -118,7 +154,7 @@ You will pay a copay for medications a VA health care provider prescribes to tre
 
 The amount you’ll pay will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
 
-<h4>2019 copay amounts by outpatient medication tier and supply</h4>
+<h5>2019 copay amounts by outpatient medication tier and supply</h5>
 
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
 | --------------- | -------------------- | -------------------- | -------------------- |
@@ -136,15 +172,15 @@ To find out what tier your medicines may be in, read the resources below or ask 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What will I pay for long-term or geriatric (elder) care?</h2>
+<h3 itemprop="name">What will I pay for long-term or geriatric (elder) care?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<h3>If you're in priority groups 1 or 2</h3>
+<h4>If you're in priority groups 1 or 2</h4>
 
 You won't need to pay a copay for long-term or geriatric (elder) care.
 
-<h3>If you're in priority groups 4, 5, 7, or 8</h3>
+<h4>If you're in priority groups 4, 5, 7, or 8</h4>
 
 You won't need to pay a copay for long-term or geriatric care for the first 21 days of care. 
 
@@ -159,9 +195,9 @@ You'll pay a copay for services after 21 days of care—unless you qualify for a
 - <b>In-home care (also called domiciliary care):</b> You'll pay up to $5 per day for care provided in your home from a visiting nurse, home health aide, or other caregiver.
 
 Your actual copay will depend on the financial information you provide on your Application for Extended Care Services (VA Form 10-10EC).<br>
-[Download VA Form 10-10EC)](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf). <br>
+[Download VA Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf). <br>
 
-<h3>If you're in priority group 6</h3>
+<h4>If you're in priority group 6</h4>
 
 You won’t need to pay a copay for any long-term or geriatric care related to your service-connected exposure. You may be charged a copay for care not covered under related treatment services.
 
@@ -169,26 +205,3 @@ You won’t need to pay a copay for any long-term or geriatric care related to y
 </div>
 </div>
 
-<div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What VA health care services can I get for free, no matter what priority group I'm in?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-You won't need to pay a copay for these services, no matter what priority group you're in:
-
-- [Special registry exams to determine if you're at risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
-- [Counseling and care for military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/) 
-- [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
-- Care that's part of a VA research project
-- Care related to a VA-rated service-connected disability
-- [Readjustment counseling and related mental-health services](/health-care/health-needs-conditions/mental-health/)
--	Care for cancer of head or neck caused by nose or throat radium treatments received while in the military
--	Individual or group services to help you stop smoking or lose weight
--	Publicly announced VA public health initiatives like health fairs
--	Care for health conditions that may be related to combat service if you've served in a theater of combat operations after November 11, 1998 
-- Lab tests and electrocardiograms
-- Hospice care
-
-</div>
-</div>
-</div>
