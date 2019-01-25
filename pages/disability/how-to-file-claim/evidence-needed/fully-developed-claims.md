@@ -161,7 +161,7 @@ You'll need to submit new evidence that we've never considered before and that's
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-umemployable">Individual Unemployability-a claim for a 100% disability rating because you're unable to work</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-umemployable">Individual Unemployability</button>
 <div id="special-umemployable" class="usa-accordion-content">
 
 **You'll need to submit:**
@@ -173,7 +173,7 @@ You'll need to submit new evidence that we've never considered before and that's
  </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary Total Disability-a claim for a temporary 100% disability rating for time spent in a hospital</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary Total Disability</button>
 <div id="special-temporary" class="usa-accordion-content">
 
 **You'll need to submit:**
@@ -188,8 +188,8 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-title 38 U.S.C.">VA Title 38 U.S.C. 1151 Claims</button>
-<div id="special-title 38 U.S.C" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-title">VA Title 38 U.S.C. 1151 Claims</button>
+<div id="special-title" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these led directly to an added disability or to your injury or disease getting worse:**
 - VA carelessness or negligence, **or**
@@ -199,10 +199,9 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - VA compensated work therapy (CWT)(under 38 U.S.C. 1718)
 </div>
 </li>
-
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid and attendance">Aid and Attendance</button>
-<div id="special-aid and attendance" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance</button>
+<div id="special-aid" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true:**
 - You need another person to help you perform daily activities, like bathing, feeding, and dressing, **or**
@@ -222,8 +221,8 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-home adaptation">Specially Adapted Housing or Special Home Adaptation</button>
-<div id="special-home adaptation" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-home">Specially Adapted Housing or Special Home Adaptation</button>
+<div id="special-home" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows:** 
 - You're a Veteran or Servicemember with a permanent and totally disabling service-connected disability<br>
@@ -233,8 +232,8 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto allowance">Auto Allowance</button>
-<div id="special-auto allowance" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Auto Allowance</button>
+<div id="special-auto" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true:**<br>
 You have:
@@ -246,13 +245,13 @@ You have:
 - Ankylosis in 1 or both knees or hips (**Note:** This qualifies you for an adaptive-equipment grant only)<br>
 
 **You'll also need to submit:** 
--An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
+An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled child">Seriously Disabled Child</button>
-<div id="special-disabled child" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously Disabled Child</button>
+<div id="special-disabled" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows:**
 The child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
