@@ -132,7 +132,7 @@ You can use your benefits in many ways to advance your education and training. <
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
-### Can I qualify for more than one VA education benefit?</button>
+## Can I qualify for more than one VA education benefit?
 
 Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
