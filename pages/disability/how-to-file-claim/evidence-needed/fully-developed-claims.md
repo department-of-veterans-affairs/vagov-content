@@ -100,7 +100,7 @@ This depends on the type of claim you’re filing.
 - Evidence of an event, injury, or disease that happened during your active-duty service, **and**
 - Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
 
-If you have a disability that’s been diagnosed by a doctor and that we consider to be related to your military service because of a specific aspect of that service, you may be able to get disability benefits based on this presumed disability. This usually applies to:<br>
+Under certain situations, we may presume a link between your military service and your disability even if there is no evidence. This usually applies to:<br>
 - [A chronic (long-lasting) illness that appears within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
 - [An illness caused by contact with contaminants (toxic chemicals) or other hazardous materials](/disability/eligibility/hazardous-materials-exposure/), **or**
 - [An illness caused by your time spent as a POW](/disability/eligibility/former-pows/)<br>
@@ -138,7 +138,7 @@ You'll need to submit current medical or lay evidence that shows your disability
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened Claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
 <div id="claim-reopened" class="usa-accordion-content">
 
-You'll need to submit new evidence that we've never considered before and that's related to the issue you're claiming.
+You'll need to submit new evidence that we've never reviewed before and that's related to the issue you're claiming.
 
 </div>
 </li>
@@ -154,10 +154,10 @@ You'll need to submit new evidence that we've never considered before and that's
 
 **You'll also need to submit 1 of these forms:**
   - A completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781), <br>
-  [(Download VA Form 21-0781)](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
+  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
-  [(Download VA Form 21-0781a)](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)
+  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)
 </div>
 </li>
 <li>
@@ -167,9 +167,9 @@ You'll need to submit new evidence that we've never considered before and that's
 **You'll need to submit:**
 - Medical evidence that shows a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood). Odd jobs (marginal employment), don’t count.
 - A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-  [(Download VA Form 21-8940)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf).
+  [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf).
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
-  [(Download VA Form 21-4192)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
+  [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
  </div>
 </li>
 <li>
@@ -210,13 +210,13 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - Your eyesight is limited (even with glasses or contact lenses you have only 5/200 or less in both eyes; or concentric contraction of the visual field to 5 degrees or less)<br>
 
 **For Housebound benefits, you'll need to submit evidence that shows:** 
-- You have a single service-connected disability rated at 100% disabling and another service-connected disability rated at 60% or more disability, **or**
+- You have a single service-connected disability rated at 100% disabling and another service-connected disability rated at 60% or more disabling, **or**
 - You spend most of your time in your home because of a permanent disability (a disability that doesn’t go away).<br>
 
 **You'll also need to submit 1 of these forms:**
-  - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)
+  - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)<br>
 [Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf), **or**<br>
-- If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)
+- If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
 </div>
 </li>
@@ -225,9 +225,9 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 <div id="special-home" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows:** 
-- You're a Veteran or Servicemember with a permanent and totally disabling service-connected disability<br>
+- You're a Veteran or Servicemember with a qualifying permanent and totally disabling service-connected disability<br>
 [Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/), **and**
-- An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)
+- An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
 [Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf).<br>
 </div>
 </li>
@@ -244,8 +244,8 @@ You have:
 - Amyotrophic lateral sclerosis (ALS), **or**
 - Ankylosis in 1 or both knees or hips (**Note:** This qualifies you for an adaptive-equipment grant only)<br>
 
-**You'll also need to submit:** 
-An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
+**You'll also need to submit:**
+- An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
 </div>
 </li>
@@ -253,8 +253,8 @@ An Application for Automobile or Other Conveyance and Adaptive Equipment (VA For
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously Disabled Child</button>
 <div id="special-disabled" class="usa-accordion-content">
 
-**You'll need to submit evidence that shows:**
-The child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
+**You'll need to submit:**<br>
+Medical evidence that shows the child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
 
 </div>
 </li>
@@ -287,9 +287,18 @@ Yes. We can help you through the Fully Developed Claims program.
 
 ### When should I turn in my evidence? 
 
-To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim.
+To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim. If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. <br>
+If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
 
-**Note:** If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
+<br>
+
+### How do I turn in my information and evidence?
+
+You'll need to upload all medical evidence or supporting documents at the end of the disability compensation form. 
+
+You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional.<br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
 
 <br>
 
@@ -302,13 +311,6 @@ For some types of claims, you can work with a VSO to submit a decision-ready cla
 [Find out if you're eligible for the Decision Ready Claims program](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 <br>
-
-### How do I turn in my information and evidence?
-
-You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional.<br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-
-**Note:** Please be sure to upload all medical evidence or supporting documents at the end of the form.
 
 ### More helpful resources
 
