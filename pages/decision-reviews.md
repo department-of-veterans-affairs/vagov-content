@@ -28,7 +28,7 @@ relatedlinks:
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar <i class="fas fa-calendar-alt"></i>
+      Mark your calendar <i class="far fa-calendar-alt"></i>
     </h4>
     <p class="usa-alert-text">
       You have 1 year from the date on your decision letter to choose an option
@@ -52,11 +52,11 @@ your case or identifying evidence for review. A regional office employee will
 determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](#).
 
 
-<i class="fas fa-copy"></i> You must add evidence VA did not have and that relates to your case.
+<i class="far fa-copy"></i> You must add evidence VA did not have and that relates to your case.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="fas fa-clock"></i> 5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 5 months</span></span>
   <span class="description">Average time to complete your review.</span>
 </div>
 
@@ -76,7 +76,7 @@ can say why you think the decision should be changed and identify errors.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="fas fa-clock"></i> 5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 5 months</span></span>
   <span class="description">Average time to complete a decision on your review. The review may take
 longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
 </div>
@@ -98,21 +98,21 @@ A judge at the Board of Veterans’ Appeals in Washington, DC will review your c
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="fas fa-clock"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 1 year</span></span>
   <span class="description">
     Average time to complete an appeal. With no new evidence and no hearing, a
     judge will decide your case in 1 year.
   </span>
 </div>
 
-<i class="fas fa-copy"></i> You have the option to add new evidence that will be reviewed by a judge.
+<i class="far fa-copy"></i> You have the option to add new evidence that will be reviewed by a judge.
 
 <i class="fas fa-user"></i> You have the option to request a hearing with a judge. A video conference
 hearing will take place at a [VA location near you](#).
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="fas fa-clock"></i> About 6 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 6 years</span></span>
   <span class="description">
     It will take about 6 years for a decision if you want to add evidence for review
     or request a hearing with a judge.
