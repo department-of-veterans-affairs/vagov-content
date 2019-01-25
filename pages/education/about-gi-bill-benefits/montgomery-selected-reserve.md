@@ -43,11 +43,11 @@ You can get education benefits under this program if you meet the requirements l
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-0">How long can I receive benefits if I stay in the Selected Reserve?</button>
 <div id="eligibility-0" class="usa-accordion-content">
  
-You can receive benefits until your eligibility period ends or you use all of your entitlement, whichever comes first. Entitlement means the number of months of benefits you may receive.
+You can receive benefits until your eligibility period ends or you use all of your entitlement, whichever comes first. "Entitlement" means the number of months of benefits you may receive.
 
-If you stay in the Selected Reserve, you can stay eligible for 14 years after you started your first 6-year obligation. 
+If you stay in the Selected Reserve, you'll be eligible for 14 years after you started your first 6-year obligation. 
 
-We may extend your eligibility period if you're called up to active duty. If this happens, we'll extend your eligibility for the amount of time you're mobilized + 4 months. For example, if you're mobilized for 12 months, we'll extend your eligibility period for 16 months. This extension still applies even if you leave the Selected Reserves after mobilization.
+We may extend your eligibility period if you're called to active duty. If this happens, we'll extend your eligibility for the amount of time you're mobilized plus 4 months. For example, if you're mobilized for 12 months, we'll extend your eligibility period for 16 months. This extension still applies even if you leave the Selected Reserves after mobilization.
 
 </div>
 </li>
@@ -61,8 +61,8 @@ You can still qualify for MGIB-SR benefits for 14 years from the date of your fi
 
 **At least one of these must be true:**
 - You separated because of a disability that wasn't caused by misconduct, **or**
-- Your unit was deactivated between October 1, 2007 and September 30, 2014, **or**
-- You were involuntarily separated (not by choice) for reasons other than misconduct between October 1, 2007 and September 30, 2014
+- Your unit was deactivated between October 1, 2007, and September 30, 2014, **or**
+- You involuntarily separated (not by choice) for reasons other than misconduct between October 1, 2007, and September 30, 2014
 
 </div>
 </li>
