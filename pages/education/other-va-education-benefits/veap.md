@@ -54,14 +54,12 @@ Money for tuition
     <br>
     <h4>If you haven't started training yet</h4><br>
     Submit an Application for VA Education Benefits (VA Form 22-1990) online. <br>
-    <a href="/education/apply-for-education-benefits/application/1990/introduction/">Apply for education benefits online now</a>.
-    
+    <a href="/education/apply-for-education-benefits/application/1990/introduction/">Apply for education benefits online now</a>. <br>
     You can also apply by mail, in person, or with the help of a trained professional. <br>
     <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
     <br>
     <b>Note:</b><br>
-    <b>If you're on active duty right now,</b> you'll need to have your Education Services Officer approve your enrollment and your Commanding Officer verify your service.
-    
+    <b>If you're on active duty right now,</b> you'll need to have your Education Services Officer approve your enrollment and your Commanding Officer verify your service. <br>
     <b>If you're not on active duty right now,</b> you'll need to send copy 4 (member copy) of your DD214, Certificate of Release, or Discharge from Active Duty.<br>
     <br>
     <h4>If you've already started training</h4><br>
