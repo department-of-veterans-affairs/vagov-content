@@ -96,9 +96,14 @@ This depends on the type of claim you’re filing.
 <div id="claim-original" class="usa-accordion-content">
 
 **You'll need to submit:**
-- Medical evidence of a current physical or mental disability, **and**
+- Medical or lay evidence of a current physical or mental disability, **and**
 - Evidence of an event, injury, or disease that happened during your active-duty service, **and**
-- Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link.
+- Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
+
+If you have a disability that’s been diagnosed by a doctor and that we consider to be related to your military service because of a specific aspect of that service, you may be able to get disability benefits based on this presumed disability. This usually applies to:<br>
+- [A chronic (long-lasting) illness that appears within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
+- [An illness caused by contact with contaminants (toxic chemicals) or other hazardous materials](/disability/eligibility/hazardous-materials-exposure/), **or**
+- [An illness caused by your time spent as a POW](/disability/eligibility/former-pows/)<br>
 
 </div>
 </li>
@@ -106,7 +111,7 @@ This depends on the type of claim you’re filing.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
 <div id="claim-increased" class="usa-accordion-content">
 
-You'll need to submit current medical evidence that shows your disability has gotten worse.
+You'll need to submit current medical or lay evidence that shows your disability has gotten worse and affects your ability to work. 
 
 </div>
 </li>
@@ -115,7 +120,7 @@ You'll need to submit current medical evidence that shows your disability has go
 <div id="claim-new" class="usa-accordion-content">
 
 **You'll need to submit:**
-- Medical evidence of a current physical or mental disability, **and**
+- Medical or lay evidence of a current physical or mental disability, **and**
 - Evidence of an event, injury, or disease that happened during your active-duty service, **and**
 - Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually, we need medical records or medical opinions from health care providers to support this link.
 </div>
@@ -125,7 +130,7 @@ You'll need to submit current medical evidence that shows your disability has go
 <div id="claim-secondary" class="usa-accordion-content">
 
 **You'll need to submit:**
-- Medical evidence of the new physical or mental disability, **and**
+- Medical or lay evidence of the new physical or mental disability, **and**
 - Evidence of a link between the new disability and the disability we've already determined is service connected. Usually we need medical records or medical opinions from health care providers to support this link.
 </div>
 </li>
@@ -138,25 +143,11 @@ You'll need to submit new evidence that we've never considered before and that's
 </div>
 </li>
 </ul>
-
 <br>
 
-**Find out which additional forms you'll need if you're filing a claim for these issues:**
+**Find out what additional evidence or forms you'll need if you're filing a claim for these issues:**
 
 <ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-umemployable">Individual Unemployability</button>
-<div id="special-umemployable" class="usa-accordion-content">
-
-**You'll also need to submit all of these items:**
-  - A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-  [(Download VA Form 21-8940)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
-  - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
-  [(Download VA Form 21-4192)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
-  - Medical evidence that a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood)
-
-</div>
-</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="special-ptsd">PTSD (posttraumatic stress disorder)</button>
 <div id="special-ptsd" class="usa-accordion-content">
@@ -167,12 +158,114 @@ You'll need to submit new evidence that we've never considered before and that's
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
   [(Download VA Form 21-0781a)](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-umemployable">Individual Unemployability-a claim for a 100% disability rating because you're unable to work</button>
+<div id="special-umemployable" class="usa-accordion-content">
+
+**You'll need to submit:**
+- Medical evidence that shows a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood). Odd jobs (marginal employment), don’t count.
+- A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
+  [(Download VA Form 21-8940)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
+- A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
+  [(Download VA Form 21-4192)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
+ </div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary Total Disability-a claim for a temporary 100% disability rating for time spent in a hospital</button>
+<div id="special-temporary" class="usa-accordion-content">
+
+**You'll need to submit:**
+- Evidence that shows you spent more than 21 days in a VA hospital or other approved hospital for a service-connected disability, **or**
+- Evidence that shows you were under hospital observation for more than 21 days at our expense for a service-connected disability<br>
+
+**If you had surgery, you'll need to submit evidence that shows:**
+- The surgery required a recovery time of at least 1 month or reports show that the surgery or treatment was for a service-connected disability, **and**
+- The surgery resulted in severe issues for you, like surgical wounds that haven’t totally healed, stumps or recent amputations, being unable to move due to being put in splints or casts, being unable to leave your house, or having to use a wheelchair or crutches <br>
+
+If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-title 38 U.S.C.">VA Title 38 U.S.C. 1151 Claims</button>
+<div id="special-title 38 U.S.C" class="usa-accordion-content">
+
+**You'll need to submit evidence that shows at least one of these led directly to an added disability or to your injury or disease getting worse:**
+- VA carelessness or negligence, **or**
+- VA medical or surgical treatment, **or**
+- A VA health exam, **or**
+- A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
+- VA compensated work therapy (CWT)(under 38 U.S.C. 1718)
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid and attendance">Aid and Attendance</button>
+<div id="special-aid and attendance" class="usa-accordion-content">
+
+**You'll need to submit evidence that shows at least one of these is true:**
+- You need another person to help you perform daily activities, like bathing, feeding, and dressing, **or**
+- You have to stay in bed—or spend a large portion of the day in bed—because of illness, **or**
+- You're a patient in a nursing home due to the loss of mental or physical abilities related to a disability, **or**
+- Your eyesight is limited (even with glasses or contact lenses you have only 5/200 or less in both eyes; or concentric contraction of the visual field to 5 degrees or less)<br>
+
+**For Housebound benefits, you'll need to submit evidence that shows:** 
+- You have a single service-connected disability rated at 100% disabling and another service-connected disability rated at 60% or more disability, **or**
+- You spend most of your time in your home because of a permanent disability (a disability that doesn’t go away).<br>
+
+**You'll also need to submit 1 of these forms:**
+  - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)
+[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf), **or**<br>
+- If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)
+[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-home adaptation">Specially Adapted Housing or Special Home Adaptation</button>
+<div id="special-home adaptation" class="usa-accordion-content">
+
+**You'll need to submit evidence that shows:** 
+- You're a Veteran or Servicemember with a permanent and totally disabling service-connected disability<br>
+[Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/), **and**
+- An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)
+[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf).<br>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto allowance">Auto Allowance</button>
+<div id="special-auto allowance" class="usa-accordion-content">
+
+**You'll need to submit evidence that shows at least one of these is true:**<br>
+You have:
+- Loss, or permanent loss of use, of 1 or both feet, **or**
+- Loss, or permanent loss of use, of 1 or both hands, **or**
+- Permanent decreased vision in both eyes: 20/200 vision or less in your better eye with glasses, or greater than 20/200 vision but with a visual field defect that has reduced your peripheral vision to 20 degrees or less in your better eye, **or**
+- A severe burn injury, **or**
+- Amyotrophic lateral sclerosis (ALS), **or**
+- Ankylosis in 1 or both knees or hips (**Note:** This qualifies you for an adaptive-equipment grant only)<br>
+
+**You'll also need to submit:** 
+-An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
+[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled child">Seriously Disabled Child</button>
+<div id="special-disabled child" class="usa-accordion-content">
+
+**You'll need to submit evidence that shows:**
+The child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
+</div>
+</li>
 
 </div>
 </li>
 </ul>
 
 <br>
+
+[Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program](disability/how-to-file-claim/when-to-file/pre-discharge-claim/).<br>
 
 [Learn more about claims for conditions related to contact with hazardous materials](/disability/eligibility/hazardous-materials-exposure/). <br>
 
