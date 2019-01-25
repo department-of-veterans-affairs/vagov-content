@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Decision Reviews
-display_title: Decision Reviews
+title: Decision Reviews and Appeals
+display_title: Decision Reviews and Appeals
 vagovprod: false
 vagovstaging: false
 relatedlinks:
@@ -18,6 +18,16 @@ relatedlinks:
       title: If you have a fiduciary claim
       description: Learn more if this applies to you and how to request a review.
 ---
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      The Appeals process has changed
+    </h4>
+    <p class="usa-alert-text">
+      This information applies to VA decisions received after February 19, 2019. For information on appealing a disability compensation decision received before February 19, 2019, visit the <a href="#">File a Legacy Disability Appeal page</a>.
+    </p>
+  </div>
+</div>
 
 <div itemprop="description" class="va-introtext">
   If you disagree with a VA decision, you can choose one of the
@@ -25,7 +35,7 @@ relatedlinks:
   satisfied with that review, you can try another option.
 </div>
 
-<div class="va-sign-in-alert usa-alert usa-alert-info">
+<div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
       Mark your calendar <i class="far fa-calendar-alt"></i>
