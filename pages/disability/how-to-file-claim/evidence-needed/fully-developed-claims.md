@@ -111,7 +111,7 @@ If you have a disability that’s been diagnosed by a doctor and that we conside
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
 <div id="claim-increased" class="usa-accordion-content">
 
-You'll need to submit current medical or lay evidence that shows your disability has gotten worse and affects your ability to work. 
+You'll need to submit current medical or lay evidence that shows your disability has gotten worse. 
 
 </div>
 </li>
@@ -167,9 +167,9 @@ You'll need to submit new evidence that we've never considered before and that's
 **You'll need to submit:**
 - Medical evidence that shows a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood). Odd jobs (marginal employment), don’t count.
 - A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-  [(Download VA Form 21-8940)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
+  [(Download VA Form 21-8940)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf).
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
-  [(Download VA Form 21-4192)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
+  [(Download VA Form 21-4192)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
  </div>
 </li>
 <li>
@@ -218,7 +218,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
   - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)
 [Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf), **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)
-[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
+[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
 </div>
 </li>
 <li>
@@ -265,7 +265,7 @@ The child became permanently disabled because of a physical or mental disability
 
 <br>
 
-[Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program](disability/how-to-file-claim/when-to-file/pre-discharge-claim/).<br>
+[Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).<br>
 
 [Learn more about claims for conditions related to contact with hazardous materials](/disability/eligibility/hazardous-materials-exposure/). <br>
 
