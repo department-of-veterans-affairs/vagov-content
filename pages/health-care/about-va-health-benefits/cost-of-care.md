@@ -40,11 +40,7 @@ A health insurance copay (short for “copayment”) is a fixed amount you’re 
 
 This depends, in part, on the priority group we assign you to when you enroll in VA health care. We’ll assign you to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). 
 
-You may also qualify for free VA health care, prescriptions medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if:
-- You’re a former Prisoner of War, **or**
-- You have service-connected disabilities that we’ve rated at least 50% disabling, **or**
-- You have service-connected disabilities that we’ve rated 0-40% disabling, and you’ve taken the copay test to determine your prescription copay status, **or**
-- A VA provider has determined that you’re catastrophically disabled (meaning you have a severely disabling injury or health condition that’s permanently made it difficult for you to do normal daily living activities and need help to do things like leave your home or bed)
+You may also qualify for free VA health care, prescription medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if you're a former Prisoner of War or if you have service-connected disabilities that we've rated at least 50% disabling.
 
 If you know your priority group, keep reading below to find out what your copay may be for different types of care, tests, and prescriptions medicines. 
 
@@ -83,45 +79,26 @@ You won't need to pay a copay for these services, no matter what priority group 
 
 <h2>Copay rates effective January 1, 2019</h2>
 
-<div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What will I pay for outpatient care like a doctor’s visit or medical test?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+<h3>Outpatient care (primary or specialty care that doesn't require an overnight stay)</h3>
 
 You won’t need to pay any copays for tests like X-rays, lab tests, or for preventive tests and services like screenings or immunizations.
 
-<h4>If you’re in priority groups 1 through 5</h4>
+<h4>If you have a service-connected disability rating of 10% or higher</h4>
+You won't need to pay a copay for any type of outpatient care.
 
-You also won’t need to pay a copay to visit your VA priority care provider or a specialist or specialty tests like an MRI, CAT scan, or nuclear medicine study.
+<h4>If you don't have a service-connected disability rating of 10% or higher</h4>
+You may need to pay a copay for non-service-connected outpatient care at the rates listed below.
 
-<h4>If you’re in priority group 6</h4>
+| Type of care | Copay amount for each visit or test | 
+| --------------- | -------------------- | 
+| <b>Primary care services</b> <br>(like a visit to your primary care doctor)        | $15                | 
+| <b>Specialty care services</b> <br>(like a visit to a hearing specialist, eye doctor, surgeon, or cardiologist or a specialty test like an MRI or CAT scan)         | $50                | 
+ 
+<h3>Inpatient care (care that requires you to stay one or more nights in a hospital or other health facility)</h3>
 
-You won’t need to pay a copay for any care or tests related to your service-connected exposure. You may be charged a copay for care or tests not covered under related treatment services.
+<h4>If you have a service-connected disability rating of 10% or higher</h4>
 
-<h4>If you’re in priority group 7 or 8</h4>
-
-You’ll pay the copay amounts listed below for outpatient care.
-
-- <b>Basic care services:</b> You’ll pay $15 each time you visit your VA primary care provider for basic care.
-
-- <b>Specialty care services:</b> You’ll pay $50 each time you visit a VA specialist such as a surgeon, audiologist (hearing specialist), optometrist (eye doctor), or  cardiologist (heart doctor). You’ll also pay $50 for special tests like an MRI, CAT scan, or nuclear medicine study.
-
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What will I pay for inpatient care that requires me to stay one or more nights in a VA health facility?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-<h4>If you’re in priority groups 1 through 5</h4>
-
-You won’t need to pay a copay for inpatient care in a VA hospital or other health facility.
-
-<h4>If you’re in priority group 6</h4>
-
-You won’t need to pay a copay for any inpatient care related to your service-connected exposure. You may be charged a copay for care not covered under related treatment services.
+You won't need to pay a copay for any type of outpatient care.
 
 <h4>If you’re in priority group 7</h4>
 
