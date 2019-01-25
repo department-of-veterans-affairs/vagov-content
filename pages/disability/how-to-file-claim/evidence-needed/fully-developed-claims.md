@@ -256,8 +256,6 @@ You have:
 
 **You'll need to submit evidence that shows:**
 The child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
-</div>
-</li>
 
 </div>
 </li>
