@@ -28,7 +28,7 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 - **If you turn 18 or graduate from high school after January 1, 2013,** you can get a Fry Scholarship at any age over 18 or after you graduate (whichever comes first).
 - **If your parent died in the line of duty before August 1, 2011,** you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. But you can use only one program at a time. We cap combined benefits at 81 months of full-time training.<br>
 [Read about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
-- **If you're receiving Dependency and Indemnity Compensation (DIC)**, you'll need to give up those payments when you start to use the Fry Scholarship. <br>
+- **If you're receiving Dependency and Indemnity Compensation (DIC),** you'll need to give up those payments when you start to use the Fry Scholarship. <br>
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 
 
@@ -79,7 +79,7 @@ You may be able to get up to 36 months of benefits, including:
 
 ### Choose your program
 
-- If you qualify for both the Fry Scholarship and DEA, you'll need to choose which program you want to use. Once you choose, you can’t change your mind.
+If you qualify for both the Fry Scholarship and DEA, you'll need to choose which program you want to use. Once you choose, you can’t change your mind.
 
 **Exception:** If your parent died in the line of duty before August 1, 2011, you may qualify for both the Fry Scholarship and the Survivors’ and Dependents’ Educational Assistance (DEA) program. You can get up to 81 months of full-time training through these programs, but you can use only one program at a time. <br>
 [Read about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
