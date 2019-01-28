@@ -12,6 +12,19 @@ spoke: Manage Benefits
 aliases:
   - /disability-benefits/claims-appeal/
 ---
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      The Appeals process has changed
+    </h4>
+    <p class="usa-alert-text">
+      The information on this page describes the appeals process if you disagree with a VA decision you received before February 19, 2019. The process is different for decisions received after this date.<br>
+      <a href="/disability/file-an-appeal/">Learn about your options if you disagree with a VA decision you received after February 19, 2019</a>.
+    </p>
+  </div>
+</div>
+
+<br>
 
 <div class="va-introtext">
 You have the right to appeal any benefits decision made by the Veterans Benefits Administration. The VA appeals process is set in law and is different from other judicial appeals processes. Find out how to file an appeal.
