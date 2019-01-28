@@ -154,10 +154,10 @@ You'll need to submit new evidence that we've never reviewed before and that's r
 
 **You'll also need to submit 1 of these forms:**
   - A completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781), <br>
-  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
+  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf).<br>
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
-  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)
+  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf).
 </div>
 </li>
 <li>
