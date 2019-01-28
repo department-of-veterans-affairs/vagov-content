@@ -246,7 +246,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - Amyotrophic lateral sclerosis (ALS), **or**
 - Ankylosis in 1 or both knees or hips (**Note:** This qualifies you for an adaptive-equipment grant only)<br>
 
-**You'll also need to submit:**
+**You'll also need to submit:**<br>
 An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
 </div>
