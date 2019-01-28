@@ -24,7 +24,8 @@ relatedlinks:
       The Appeals process has changed
     </h4>
     <p class="usa-alert-text">
-      This information applies to VA decisions received after February 19, 2019. For information on appealing a disability compensation decision received before February 19, 2019, visit the <a href="#">File a Legacy Disability Appeal page</a>.
+      The information on this page describes your options if you disagree with a VA decision you received after February 19, 2019. <br>
+      <a href="#">Find out how to appeal a disability compensation decision you received before February 19, 2019</a>.
     </p>
   </div>
 </div>
