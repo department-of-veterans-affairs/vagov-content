@@ -95,10 +95,10 @@ This depends on the type of claim you’re filing.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original Claim—the first claim you file for disability benefits</button>
 <div id="claim-original" class="usa-accordion-content">
 
-**You'll need to submit:**
-- Evidence of a current physical or mental disability from a medical professional or layperson (someone who's not a trained professional) , **and**
-- Evidence of an event, injury, or disease that happened during your active-duty service, **and**
-- Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
+**You'll need to submit evidence of:**
+- A current physical or mental disability from a medical professional or layperson (someone who's not a trained professional) , **and**
+- An event, injury, or disease that happened during your active-duty service, **and**
+- A link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
 
 Under certain situations, we may conclude that there's a link between your military service and your disability even if there's no evidence. This usually applies to:<br>
 - [A chronic (long-lasting) illness that appears within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
@@ -119,26 +119,26 @@ You'll need to submit current evidence from a medical professional or layperson 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New Claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
 <div id="claim-new" class="usa-accordion-content">
 
-**You'll need to submit:**
-- Evidence of a current physical or mental disability from a medical professional or layperson (someone who's not a trained professional), **and**
-- Evidence of an event, injury, or disease that happened during your active-duty service, **and**
-- Evidence of a link between your current disability and the event, injury, or disease that happened during your service. Usually, we need medical records or medical opinions from health care providers to support this link.
+**You'll need to submit evidence of:**
+- A current physical or mental disability from a medical professional or layperson (someone who's not a trained professional), **and**
+- An event, injury, or disease that happened during your active-duty service, **and**
+- A link between your current disability and the event, injury, or disease that happened during your service. Usually, we need medical records or medical opinions from health care providers to support this link.
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Service-Connected Claim—a claim for a new disability that’s linked to a service-connected disability you already have</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
-**You'll need to submit:**
-- Evidence of the new physical or mental disability from a medical professional or layperson (someone who's not a trained professional), **and**
-- Evidence of a link between the new disability and the disability we've already determined is service connected. Usually we need medical records or medical opinions from health care providers to support this link.
+**You'll need to submit evidence of:**
+- The new physical or mental disability from a medical professional or layperson (someone who's not a trained professional), **and**
+- A link between the new disability and the disability we've already determined is service connected. Usually we need medical records or medical opinions from health care providers to support this link.
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened Claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
 <div id="claim-reopened" class="usa-accordion-content">
 
-You'll need to submit new evidence that we've never reviewed before and that's related to the issue you're claiming.
+You'll need to submit new evidence we've haven't reviewed before that's related to the issue you're claiming.
 
 </div>
 </li>
@@ -215,7 +215,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll also need to submit one of these forms:**
   - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)<br>
-[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf), <br>
+[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf). <br>
 **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
@@ -247,7 +247,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - Ankylosis in 1 or both knees or hips (**Note:** This qualifies you for an adaptive-equipment grant only)<br>
 
 **You'll also need to submit:**
-- An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
+An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
 </div>
 </li>
