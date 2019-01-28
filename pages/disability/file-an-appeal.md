@@ -18,7 +18,8 @@ aliases:
       The Appeals process has changed
     </h4>
     <p class="usa-alert-text">
-      The information on this page describes the appeals process if you disagree with a VA decision you received before February 19, 2019. The process is different for decisions received after this date.<br>
+      The information on this page describes the appeals process if you disagree with a VA decision you received before February 19, 2019. <br>
+      The process is different for decisions received after this date.<br>
       <a href="/disability/file-an-appeal/">Learn about your options if you disagree with a VA decision you received after February 19, 2019</a>.
     </p>
   </div>
