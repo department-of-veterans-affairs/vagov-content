@@ -173,7 +173,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
   [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
   
- [Learn more about Individual Umemployability](/disability/eligibility/special-claims/unemployability/).<br>
+ [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).<br>
  </div>
 </li>
 <li>
@@ -204,7 +204,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
 - VA compensated work therapy (CWT)(under 38 U.S.C. 1718)<br>
 
-[Learn more about VA Title 38 U.S.C. 1151 Claims](/disability/eligibility/special-claims/1151-claims-title-38/).<br>
+[Learn more about VA Title 38 U.S.C. 1151 claims](/disability/eligibility/special-claims/1151-claims-title-38/).<br>
 </div>
 </li>
 <li>
