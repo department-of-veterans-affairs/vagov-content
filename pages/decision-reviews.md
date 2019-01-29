@@ -25,10 +25,10 @@ relatedlinks:
     </h4>
     <p class="usa-alert-text">
       <b>For VA decisions received after February 19, 2019</b> <br>
-Please keep reading below to find out how to get your decision reviewed. <br>
+Please keep reading below to learn about your decision review options. <br>
       <b>For VA decisions received before February 19, 2019</b> <br>
-You'll need to follow a different process for filing an appeal. <br>
-<a href="/disability/file-an-appeal/">Learn about filing an appeal</a>.
+You'll need to follow a different process to appeal the decision. <br>
+<a href="/disability/file-an-appeal/">Learn how to file an appeal</a>.
     </p>
   </div>
 </div>
