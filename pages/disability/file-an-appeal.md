@@ -22,7 +22,7 @@ aliases:
       The information on this page describes the appeals process if you disagree with a VA decision you received before February 19, 2019. <br>
       <b>After February 19, 2019</b> <br>
       The process is different for decisions received after this date.<br>
-      <a href="/disability/file-an-appeal/">Learn about your options to get a VA decision reviewed that you received after February 19, 2019</a>.
+      <a href="/disability/file-an-appeal/">Learn about getting a VA decision reviewed that you received after February 19, 2019</a>.
     </p>
   </div>
 </div>
