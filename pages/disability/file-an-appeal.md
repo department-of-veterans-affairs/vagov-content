@@ -18,11 +18,11 @@ aliases:
       The Appeals process has changed
     </h4>
     <p class="usa-alert-text">
-      <b>Before February 19, 2019</b> <br>
-      The information on this page describes the appeals process if you disagree with a VA decision you received before February 19, 2019. <br>
-      <b>After February 19, 2019</b> <br>
-      The process is different for decisions received after this date.<br>
-      <a href="/decision-reviews/">Learn about getting a VA decision reviewed that you received after February 19, 2019</a>.
+      <b>For VA Decisions received before February 19, 2019</b> <br>
+      Please keep reading below to find out what to do if you disagree with our decision on your claim. <br>
+      <b>For VA Decisions received after February 19, 2019</b> <br>
+      You'll need to follow our new process for getting your decision reviewed.<br>
+      <a href="/decision-reviews/">Learn about getting your decision reviewed</a>.
     </p>
   </div>
 </div>
