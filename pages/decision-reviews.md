@@ -24,8 +24,11 @@ relatedlinks:
       The Appeals process has changed
     </h4>
     <p class="usa-alert-text">
-      The information on this page describes your options if you disagree with a VA decision you received after February 19, 2019. The process is different for decisions received before this date.<br>
-      <a href="/disability/file-an-appeal/">Appeal a disability compensation decision you received before February 19, 2019</a>.
+      <b>For VA decisions received after February 19, 2019</b> <br>
+Please keep reading below to find out how to get your decision reviewed. <br>
+      <b>For VA decisions received before February 19, 2019</b> <br>
+You'll need to follow a different process for filing an appeal. <br>
+<a href="/disability/file-an-appeal/">Learn about filing an appeal</a>.
     </p>
   </div>
 </div>
