@@ -157,7 +157,9 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
   [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf).<br>
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
-  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf).
+  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf).<br>
+  
+[Learn more about PTSD claims](/disability/eligibility/ptsd/).<br>
 </div>
 </li>
 <li>
@@ -170,6 +172,8 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
   [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf).
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
   [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
+  
+ [Learn more about Individual Umemployability](/disability/eligibility/special-claims/unemployability/).<br>
  </div>
 </li>
 <li>
@@ -184,7 +188,9 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 - Required a recovery time of at least 1 month (or the surgery or treatment was for a service-connected disability), **and**
 - Resulted in severe issues for you, like surgical wounds that haven’t totally healed, stumps or recent amputations, being unable to move due to being put in splints or casts, being unable to leave your house, or having to use a wheelchair or crutches <br>
 
-If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.
+If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.<br>
+
+[Learn more about temporary total disability benefits](/disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/).<br>
 </div>
 </li>
 <li>
@@ -196,11 +202,13 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - VA medical or surgical treatment, **or**
 - A VA health exam, **or**
 - A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
-- VA compensated work therapy (CWT)(under 38 U.S.C. 1718)
+- VA compensated work therapy (CWT)(under 38 U.S.C. 1718)<br>
+
+[Learn more about VA Title 38 U.S.C. 1151 Claims](/disability/eligibility/special-claims/1151-claims-title-38/).<br>
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance and Housebound Benefits</button>
 <div id="special-aid" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You:**
@@ -219,6 +227,8 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
+
+[Learn more about Aid and Attendance and Housebound benefits](/pension/aid-attendance-housebound/).<br>
 </div>
 </li>
 <li>
@@ -231,10 +241,12 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
 [Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf).<br>
+
+[Learn more about disability housing grants](/housing-assistance/disability-housing-grants/).<br>
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Auto Allowance</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Auto Allowance and Adaptive Equipment</button>
 <div id="special-auto" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You have:**
@@ -249,6 +261,8 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 **You'll also need to submit:**<br>
 An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
+
+[Learn more about auto allowances and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/).<br>
 </div>
 </li>
 <li>
@@ -315,6 +329,6 @@ For some types of claims, you can work with a VSO to submit a decision-ready cla
 
 ### More helpful resources
 
-[View the official evidence requirements for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
+[View the evidence requirements listed on the form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
 [Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp). <br>
 [View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp). 
