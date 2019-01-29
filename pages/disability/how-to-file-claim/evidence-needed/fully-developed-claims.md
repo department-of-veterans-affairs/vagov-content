@@ -315,5 +315,6 @@ For some types of claims, you can work with a VSO to submit a decision-ready cla
 
 ### More helpful resources
 
+[View the official evidence requirements for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
 [Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp). <br>
 [View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp). 
