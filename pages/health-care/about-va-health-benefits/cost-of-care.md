@@ -90,6 +90,7 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 
 <b>If you don't have a service-connected disability rating of 10% or higher,</b> you may need to pay a copay for non-service-connected outpatient care at the rates listed below.
 
+<h5>2019 outpatient care copay rates</h5>
 | Type of outpatient care | Copay amount for each visit or test | 
 | ---------- | --------------- | 
 | <b>Primary care services</b> <br>(like a visit to your primary care doctor)    | $15                | 
@@ -105,8 +106,7 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 
 <b>If you’re in priority group 7 or 8,</b> you'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 877-222-VETS (8387).
 
-<h5>Reduced inpatient care rates for priority group 7</h5>
-
+<h5>2019 reduced inpatient care copay rates for priority group 7</h5>
 | Length of stay | Copay amount | 
 | ---------- | --------------- | 
 | <b>First 90 days of care within a year (365 days)</b>   | $272.80 for total stay + $2 per day charge                | 
@@ -114,8 +114,7 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 
 **Note:** You may be in priority group 7 and qualify for these rates if you have a gross household income below the geographically-adjusted VA income limits for where you live and you agree to pay copayments.
 
-<h5>Full inpatient care rates for priority group 8</h5>
-
+<h5>2019 full inpatient care copay rates for priority group 8</h5>
 | Length of stay | Copay amount | 
 | ---------- | --------------- | 
 | <b>First 90 days of care within a year (365 days)</b>   | $21,364 for total stay + $10 per day charge                | 
@@ -127,28 +126,31 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 
 <h3>Medications</h3>
 
-<b>If you’re in priority group 1,</b> you won’t pay a copay for any medications.
+<b>If you’re in priority group 1</b>
+You won’t pay a copay for any medications.
 
-<b>If you’re in priority groups 2 through 8,</b> you'll pay a copay for medications your health care provider prescribes to treat non-service-connected conditions—unless you qualify for an exemption based on your income or other factors. You'll also pay a copay for over-the-counter medications (like aspirin, cough syrup, or vitamins) that you get from a VA pharmacy. You may want to consider buying your over-the-counter medications on your own.
+<b>If you’re in priority groups 2 through 8</b>
 
-If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications, you may want to complete a medication copay exemption test. <br>
-[View the current VA national income limits](http://nationalincomelimits.vaftl.us/). <br>
-[Learn about the VA financial assessment](https://www.va.gov/HEALTHBENEFITS/cost/financial_assessment.asp).
+You'll pay a copay for medications your health care provider prescribes to treat non-service-connected conditions—unless you qualify for an exemption based on your income or other factors. You'll also pay a copay for over-the-counter medications (like aspirin, cough syrup, or vitamins) that you get from a VA pharmacy. You may want to consider buying your over-the-counter medications on your own. You won't pay a copay for any medications you receive while staying overnight in a VA hospital or other approved healthy facility. The cost for these medications is covered by your inpatient care copay.
 
 The amount you’ll pay will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
 
-<h5>2019 copay amounts by outpatient medication tier and supply</h5>
+<h5>2019 outpatient medication copay amounts</h5>
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
 | --------------- | -------------------- | -------------------- | -------------------- |
 | <b>Tier 1</b><br> (preferred generic prescription medicines)        | $5                | $10                | $15                |
 | <b>Tier 2</b><br> (non-preferred generic prescription medicines and some over-the-counter medicines)        | $8                | $16                | $24                |
 | <b>Tier 3</b><br> (brand name prescription medicines)        | $11                | $22                | $33                |
 
+<b>If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications,</b> you may want to complete a medication copay exemption test. <br>
+[View the current VA national income limits](http://nationalincomelimits.vaftl.us/). <br>
+[Learn about the VA financial assessment](https://www.va.gov/HEALTHBENEFITS/cost/financial_assessment.asp).
+
 ------
 
 <h3>Long-term and geriatric care</h3>
 
-You won't need to pay a copay for long-term care (also called extended care) and geriatric care (also called elder care) for the first 21 days of care in a 12-month period. Starting on the 22nd day of care, we'll base your copays on 2 factors:
+You won't need to pay a copay for long-term care (also called extended care) or geriatric care (also called elder care) for the first 21 days of care in a 12-month period. Starting on the 22nd day of care, we'll base your copays on 2 factors:
 - The level of care you're receiving, **and**
 - The financial information you provide on your Application for Extended Care Services (VA Form 10-10EC).<br>
 [Download VA Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf).
