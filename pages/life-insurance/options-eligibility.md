@@ -45,11 +45,15 @@ aliases:
 <div class="va-introtext">
 
 Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemember? Find out which life insurance programs may be right for you. <br>
-[See an overview of all the VA life insurance options available to you](https://www.benefits.va.gov/insurance/overviewInsurance.html).
 
 </div>
 
-**Are you ending your military tour of duty soon?** You’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage. 
+### How do I know which life insurance option to choose?
+We offer six life insurance programs to choose from. To decide which one is right for you, read an overview of each program and the benefits you'll receive from each one. <br> 
+[See an overview of all the VA life insurance options available to you](https://www.benefits.va.gov/insurance/overviewInsurance.html).<br>
+
+### How soon do I need to choose a life insurance option after I separate from the service? 
+If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage. 
 
 
 
