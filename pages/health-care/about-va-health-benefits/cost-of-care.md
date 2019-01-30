@@ -22,7 +22,7 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 
 </div>
 
-<h3>On this page</b><br>
+<h3>On this page</h3>
 [Basic information about VA copays](#copays-basic). <br>
 [Copay rates effective January 1, 2019](#copays-rates).
 
@@ -35,9 +35,9 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-A health insurance copay (short for “copayment”) is a fixed amount you’re required to pay each time you receive certain types of care, tests, and prescription medicines. 
+A health insurance copay (short for “copayment”) is a fixed amount you’re required to pay each time you receive certain types of care, tests, and prescription medicines either directly through us or from an approved community health care provider. 
 
-You may need to pay a copay for care you receive directly through us or through an approved community health care provider if at least one of the below descriptions is true:
+You may need to pay a copay for 3 main reasons:
 - The care isn't related to a service-connected illness or injury, **or**
 - Your income is higher than our thresholds for free care, **or**
 - We don't have your income information
@@ -99,12 +99,14 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 
 ------
 
-<h3>Inpatient care<h3>
+<h3>Inpatient care</h3>
 <b>(Care that requires you to stay one or more nights in a hospital or other health facility</b>
 
-<b>If you have a service-connected disability rating of 10% or higher,</b> you won't need to pay a copay for inpatient care.
+<b>If you have a service-connected disability rating of 10% or higher</b>
+You won't need to pay a copay for inpatient care.
 
-<b>If you’re in priority group 7 or 8,</b> you'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 877-222-VETS (8387).
+<b>If you’re in priority group 7 or 8</b>
+You'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 877-222-VETS (8387).
 
 <h5>2019 reduced inpatient care copay rates for priority group 7</h5>
 | Length of stay | Copay amount | 
@@ -127,6 +129,7 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 <h3>Medications</h3>
 
 <b>If you’re in priority group 1</b>
+
 You won’t pay a copay for any medications.
 
 <b>If you’re in priority groups 2 through 8</b>
