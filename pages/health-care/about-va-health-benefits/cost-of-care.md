@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA copays—what you'll pay for VA health care
+title: VA copays—what you'll pay for health care
 display_title: VA Copays
 collection: healthCareCoverage
 order: 3
@@ -18,7 +18,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you’re enrolled in VA health care, you may need to pay a fixed amount for some types of care, tests, and medications. This is called a copay. Find out how we determine your copay for different types of treatment.
+If you’re a Veteran enrolled in VA health care, you may need to pay a fixed amount for some types of care, tests, and medications. This is called a copay (short for "copayment"). Find out how we determine your copay for different types of treatment.
 
 </div>
 
@@ -31,22 +31,15 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 <h2>Basic information about VA copays</h2>
  
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What’s an insurance copay, and will I have to pay one?</h3>
+<h3 itemprop="name">Can I get free VA health care as a Veteran, or will I have to pay a copay?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-A health insurance copay (short for “copayment”) is a fixed amount you’re required to pay each time you receive certain types of care, tests, and prescription medicines either directly through us or from an approved community health care provider. 
-
-You may need to pay a copay for 3 main reasons:
-- The care isn't related to a service-connected illness or injury, **or**
-- Your income is higher than our thresholds for free care, **or**
-- We don't have your income information
+You may need to pay a copay for care that isn't related to a service-connected illness or injury. This will be based, in part, on the priority group we assign you to when you enroll in VA health care. We'll assign you to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). 
 
 You may qualify for free VA health care, prescription medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if you're a former Prisoner of War or if you have service-connected disabilities that we've rated at least 50% disabling.
 
-<b>If you've already enrolled in VA health care,</b> you should have been assigned to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). Keep reading below to find out what your copay may be for different types of care, tests, and prescriptions medicines depending on your disability rating or priority group. 
-
-<b>If you haven't yet enrolled in VA health care,</b> you can use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
+<b>If you haven't applied for VA health care yet,</b> you can use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Go to the Health Benefits Explorer]( http://hbexplorer.vacloud.us/).
 
 </div>
@@ -54,11 +47,11 @@ You may qualify for free VA health care, prescription medicines, or both if you 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What VA health care services can I get for free, no matter what priority group I'm in?</h3>
+<h3 itemprop="name">Are there any VA health care services that all Veterans can get for free?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You won't need to pay a copay for these services, no matter what priority group you're in:
+Yes. You won't pay a copay for any of these services, no matter your priority group or income level:
 
 - [Special registry exams to determine if you're at risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
 - [Counseling and care for military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/) 
@@ -132,7 +125,9 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 
 <h4>If you’re in priority group 1</h4>
 
-You won’t pay a copay for any medications.
+You won’t pay a copay for any medications. 
+
+You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor.
 
 <h4>If you’re in priority groups 2 through 8</h4>
 
@@ -164,9 +159,11 @@ You won't need to pay a copay for long-term care (also called extended care) or 
 - The financial information you provide on your Application for Extended Care Services (VA Form 10-10EC).<br>
 [Download VA Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf).
 
-<h5>2019 copay amounts by level of care</h5>
+<h5>2019 long-term and geriatric copay amounts by level of care</h5>
 |Level of care | Types of care included | Copay amount for each day of care|
 | --------------- | -------------------- | -------------------- |
 |<b>Inpatient care</b> | <ul><li>Short-term or long-term stays in a community living center (formerly called nursing homes)</li><li>Overnight respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Overnight geriatric evaluations (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $97 |
-|<b>Outpatient care</b> | <li>Adult day health care (in-home or at a care facility)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 |
+|<b>Outpatient care</b> | <li>Adult day health care (care in your home or at a facility that provides daytime social activities, companionship, recreation, care, and support)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 |
 |<b>Domicilitary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
+
+[Learn more about long-term care options](https://vagov-content-pr-246.herokuapp.com/health-care/about-va-health-benefits/long-term-care/).
