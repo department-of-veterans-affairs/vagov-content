@@ -177,7 +177,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
  </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary Total Disability</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary 100% Disability Rating</button>
 <div id="special-temporary" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows you experienced at least one of these situations at a hospital. You:**
@@ -190,7 +190,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.<br>
 
-[Learn more about temporary total disability benefits](/disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/).<br>
+[Learn more about temporary 100% disability benefits](/disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/).<br>
 </div>
 </li>
 <li>
