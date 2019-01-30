@@ -208,7 +208,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance and Housebound Benefits</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance Benefits and Housebound Allowance</button>
 <div id="special-aid" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You:**
@@ -228,7 +228,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
 
-[Learn more about Aid and Attendance and Housebound benefits](/pension/aid-attendance-housebound/).<br>
+[Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/).<br>
 </div>
 </li>
 <li>
@@ -262,7 +262,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
 
-[Learn more about auto allowances and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/).<br>
+[Learn more about automobile allowance and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/).<br>
 </div>
 </li>
 <li>
