@@ -392,6 +392,9 @@ display_title: Frequently Asked Questions
     case '#what-is-idme':
       openAccordion('faq-security-2');
       break;
+    case '#sign-in-issue':
+      openAccordion('faq-signinissue-0');
+      break;
   }
 })();
 </script>
