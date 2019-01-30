@@ -60,14 +60,16 @@ $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI cove
 
 ### How do I get these benefits?
 
-You’ll need to apply for these benefits. When you apply, you won’t need to prove you’re in good health as long as you sign up within 240 days of leaving the military.
+You’ll need to apply for VGLI within one year and 120 days of leaving the military. 
+
+If you sign up within 240 days of leaving the military, you won’t need to prove you’re in good health. If you sign up after the 240-day period, you'll need to submit evidence that you're in good health. 
 
 **Apply in one of these ways:**
 
 - Apply through the Office of Servicemembers' Group Life Insurance (OSGLI), using the Prudential website. <br>
 [Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment).
 - [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management).
-- Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance. <br>
+- Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
 [Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf).
 
 
@@ -669,7 +671,8 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp). <br>
+[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1).
 
 ---
 
