@@ -246,7 +246,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Auto Allowance and Adaptive Equipment</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Automobile Allowance and Adaptive Equipment</button>
 <div id="special-auto" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You have:**
