@@ -86,9 +86,11 @@ You won't need to pay a copay for these services, no matter what priority group 
 
 You won’t need to pay any copays for tests like X-rays, lab tests, or for preventive tests and services like screenings or immunizations.
 
-<b>If you have a service-connected disability rating of 10% or higher,</b> you won't need to pay a copay for any type of outpatient care.
+<h4>If you have a service-connected disability rating of 10% or higher</h4> <br>
+You won't need to pay a copay for any type of outpatient care.
 
-<b>If you don't have a service-connected disability rating of 10% or higher,</b> you may need to pay a copay for non-service-connected outpatient care at the rates listed below.
+<h4>If you don't have a service-connected disability rating of 10% or higher</h4> <br>
+You may need to pay a copay for non-service-connected outpatient care at the rates listed below.
 
 <h5>2019 outpatient care copay rates</h5>
 | Type of outpatient care | Copay amount for each visit or test | 
@@ -102,11 +104,11 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 <h3>Inpatient care</h3>
 <b>(Care that requires you to stay one or more nights in a hospital or other health facility</b>
 
-<b>If you have a service-connected disability rating of 10% or higher</b>
+<h4>If you have a service-connected disability rating of 10% or higher</h4>
 You won't need to pay a copay for inpatient care.
 
-<b>If you’re in priority group 7 or 8</b>
-You'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 877-222-VETS (8387).
+<h4>If you’re in priority group 7 or 8</h4>
+You'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
 
 <h5>2019 reduced inpatient care copay rates for priority group 7</h5>
 | Length of stay | Copay amount | 
@@ -128,15 +130,19 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 
 <h3>Medications</h3>
 
-<b>If you’re in priority group 1</b>
+<h4>If you’re in priority group 1</h4>
 
 You won’t pay a copay for any medications.
 
-<b>If you’re in priority groups 2 through 8</b>
+<h4>If you’re in priority groups 2 through 8</h4>
 
-You'll pay a copay for medications your health care provider prescribes to treat non-service-connected conditions—unless you qualify for an exemption based on your income or other factors. You'll also pay a copay for over-the-counter medications (like aspirin, cough syrup, or vitamins) that you get from a VA pharmacy. You may want to consider buying your over-the-counter medications on your own. You won't pay a copay for any medications you receive while staying overnight in a VA hospital or other approved healthy facility. The cost for these medications is covered by your inpatient care copay.
+<b>You'll pay a copay for:</b>
+- Medications your health care provider prescribes to treat non-service-connected conditions, **and**
+- Over-the-counter medications (like aspirin, cough syrup, or vitamins) that you get from a VA pharmacy. You may want to consider buying your over-the-counter medications on your own.
 
-The amount you’ll pay will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
+**Note:** The cost for any medications you receive while staying in a VA or other approved hospital or health facility are covered by your inpatient care copay.
+
+The amount you’ll pay for these medications will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
 
 <h5>2019 outpatient medication copay amounts</h5>
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
@@ -159,9 +165,8 @@ You won't need to pay a copay for long-term care (also called extended care) or 
 [Download VA Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf).
 
 <h5>2019 copay amounts by level of care</h5>
-|Level of care | Types of care included | Copay amount |
+|Level of care | Types of care included | Copay amount for each day of care|
 | --------------- | -------------------- | -------------------- |
-|<b>Inpatient care</b> | <ul><li>Short-term or long-term stays in a community living center (formerly called nursing homes)</li><li>Overnight respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Overnight geriatric evaluations (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $97 each day |
-|<b>Outpatient care</b> | <li>Adult day health care (in-home or at a care facility)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 each day |
-|<b>Domicilitary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 each day |
-
+|<b>Inpatient care</b> | <ul><li>Short-term or long-term stays in a community living center (formerly called nursing homes)</li><li>Overnight respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Overnight geriatric evaluations (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $97 |
+|<b>Outpatient care</b> | <li>Adult day health care (in-home or at a care facility)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 |
+|<b>Domicilitary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
