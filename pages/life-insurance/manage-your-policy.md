@@ -27,5 +27,5 @@ If you have a VA life insurance policy with a file number that starts with a V, 
 [Find your policy through VA](https://insurance.va.gov/home/). 
 
 If you have a Veterans’ Group Life Insurance (VGLI) policy with a VGLI control number, access your policy online either through eBenefits or the Office of Servicemembers’ Group Life Insurance at Prudential Insurance Company of America. Prudential works with us to provide SGLI and VGLI benefits to Servicemembers and Veterans. <br>
-[Find your VGLI policy through eBenefits](https://www.ebenefits.va.gov/ebenefits/manage/insurance). <br>
+[Find your policy through eBenefits](https://www.ebenefits.va.gov/ebenefits/manage/insurance). <br>
 <a href="https://giosgli.prudential.com/osgli/web/OSGLIMenu.html" data-popup>Find your policy through Prudential Insurance Company of America</a>.
