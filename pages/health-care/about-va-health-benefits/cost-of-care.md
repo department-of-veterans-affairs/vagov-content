@@ -1,11 +1,19 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Copays—What You'll Pay for VA Health Care
+title: VA copays—what you'll pay for VA health care
 display_title: VA Copays
 collection: healthCareCoverage
 order: 3
 lastupdate: 2019-01-24
+relatedlinks:
+  - url: /health-care/make-a-payment/
+    title: Make a payment
+    description: Pay your VA medical bill online, by mail, phone, or in person.
+  - url: /health-care/manage-copay-debt/
+    title: Manage your VA copay debt
+    description: If you're having trouble paying your copays, find out how we can help you manage your debt.
+
 ---
 
 <div class="va-introtext">
@@ -14,9 +22,9 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 
 </div>
 
-<b>Jump to a section:</b> <br>
-[Get basic information about VA copays](#copays-basic). <br>
-[Get copay rates effective January 1, 2019](#copays-rates).
+<h3>On this page</b><br>
+[Basic information about VA copays](#copays-basic). <br>
+[Copay rates effective January 1, 2019](#copays-rates).
 
 <span id="copays-basic"></span>
 
@@ -29,22 +37,16 @@ If you’re enrolled in VA health care, you may need to pay a fixed amount for s
 
 A health insurance copay (short for “copayment”) is a fixed amount you’re required to pay each time you receive certain types of care, tests, and prescription medicines. 
 
-</div>
-</div>
-</div>
+You may need to pay a copay for care you receive directly through us or through an approved community health care provider if at least one of the below descriptions is true:
+- The care isn't related to a service-connected illness or injury, **or**
+- Your income is higher than our thresholds for free care, **or**
+- We don't have your income information
 
-<div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get free VA health care, or will I have to pay copays?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+You may qualify for free VA health care, prescription medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if you're a former Prisoner of War or if you have service-connected disabilities that we've rated at least 50% disabling.
 
-This depends, in part, on the priority group we assign you to when you enroll in VA health care. We’ll assign you to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). 
+<b>If you've already enrolled in VA health care,</b> you should have been assigned to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). Keep reading below to find out what your copay may be for different types of care, tests, and prescriptions medicines depending on your disability rating or priority group. 
 
-You may also qualify for free VA health care, prescription medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if you're a former Prisoner of War or if you have service-connected disabilities that we've rated at least 50% disabling.
-
-If you know your priority group, keep reading below to find out what your copay may be for different types of care, tests, and prescriptions medicines. 
-
-If you haven't yet enrolled in VA health care, you can use our Health Benefits Explorer tool to see what your copays may be. <br>
+<b>If you haven't yet enrolled in VA health care,</b> you can use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Go to the Health Benefits Explorer]( http://hbexplorer.vacloud.us/).
 
 </div>
@@ -97,15 +99,29 @@ You won’t need to pay any copays for tests like X-rays, lab tests, or for prev
 ------
 
 <h3>Inpatient care<h3>
-<b>(Care that requires you to stay one or more nights in a hospital or other health facility)</b>
+<b>(Care that requires you to stay one or more nights in a hospital or other health facility</b>
 
 <b>If you have a service-connected disability rating of 10% or higher,</b> you won't need to pay a copay for inpatient care.
 
-<b>If you’re in priority group 7,</b> you’ll pay a reduced copay of $272.80 for the first 90 days of care within a year (365 days), and $136.40 for each additional day within the same period. You’ll also pay a $2 per day charge.
+<b>If you’re in priority group 7 or 8,</b> you'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 877-222-VETS (8387).
 
-<b>If you’re in priority group 8,</b> you’ll pay our full copay rate of $1,364 for the first 90 days of care within a year (365 days) and $682 for each additional day within the same period. You’ll also pay a $10 per day charge.
- 	 
-<b>Note:</b> If you live in a high-cost area, you may qualify for a reduced inpatient copay rate. To find out, call us toll-free at 877-222-VETS (8387).
+<h5>Reduced inpatient care rates for priority group 7</h5>
+
+| Length of stay | Copay amount | 
+| ---------- | --------------- | 
+| <b>First 90 days of care within a year (365 days)</b>   | $272.80 for total stay + $2 per day charge                | 
+| <b>Each additional day within the same year (365 days)</b>     | $136.40 a day + $2 per-day charge                | 
+
+**Note:** You may be in priority group 7 and qualify for these rates if you have a gross household income below the geographically-adjusted VA income limits for where you live and you agree to pay copayments.
+
+<h5>Full inpatient care rates for priority group 8</h5>
+
+| Length of stay | Copay amount | 
+| ---------- | --------------- | 
+| <b>First 90 days of care within a year (365 days)</b>   | $21,364 for total stay + $10 per day charge                | 
+| <b>Each additional day within the same year (365 days)</b>     | $682 a day + $10 per-day charge                | 
+
+**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the geographically-adjusted VA income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. 
 
 ------
 
@@ -128,10 +144,6 @@ The amount you’ll pay will depend on the “tier” of the medication and the 
 | <b>Tier 2</b><br> (non-preferred generic prescription medicines and some over-the-counter medicines)        | $8                | $16                | $24                |
 | <b>Tier 3</b><br> (brand name prescription medicines)        | $11                | $22                | $33                |
 
-To find out what tier your medicines may be in, read the resources below or ask your VA health care provider: <br>
-[Read the full list of 2019 Tier 1 medications (pdf)](https://www.pbm.va.gov/PBM/Tiered_Copay/Tier_1_CO-PAY_MEDICATION_LIST.pdf). <br>
-[Read the full list of 2019 tiered medicines (excel doc)](http://www.pbm.va.gov/PBM/Tiered_Copay/TierCopayExcelPPSN.xlsx).
-
 ------
 
 <h3>Long-term and geriatric care</h3>
@@ -142,7 +154,6 @@ You won't need to pay a copay for long-term care (also called extended care) and
 [Download VA Form 10-10EC](https://www.va.gov/vaforms/medical/pdf/vha-10-10EC-fill.pdf).
 
 <h5>2019 copay amounts by level of care</h5>
-
 |Level of care | Types of care included | Copay amount |
 | --------------- | -------------------- | -------------------- |
 |<b>Inpatient care</b> | <ul><li>Short-term or long-term stays in a community living center (formerly called nursing homes)</li><li>Overnight respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Overnight geriatric evaluations (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $97 each day |
