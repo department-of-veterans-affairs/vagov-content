@@ -303,6 +303,7 @@ Yes. We can help you through the Fully Developed Claims program.
 ### When should I turn in my evidence? 
 
 To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim. If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. <br>
+
 If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
 
 <br>
