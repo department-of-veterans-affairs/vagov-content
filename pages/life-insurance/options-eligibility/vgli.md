@@ -674,6 +674,17 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 [Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp). <br>
 [Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1).
 
+### Additional VGLI forms
+- VGLI Beneficiary Designation (SGLV 8721) <br>
+[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf). <br>
+- Application for Reinstatement of VGLI Coverage (SGLV 180) <br>
+[Download SGLV 180](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf). <br>
+- Claim for Accelerated Benefits (SGLV 8284) <br> 
+[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
+- Claim for Death Benefits (SGLV 8283) <br>
+[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf) <br>
+
+
 ---
 
 ### Veterans’ Mortgage Life Insurance (VMLI)
