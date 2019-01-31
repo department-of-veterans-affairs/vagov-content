@@ -44,12 +44,13 @@ aliases:
 
 <div class="va-introtext">
 
-Are you a service member, Veteran, or spouse or dependent child of a Servicemember? Find out which life insurance programs may be right for you. <br>
+Are you a service member, Veteran, or spouse or dependent child of a service member? Find out which life insurance programs may be right for you. <br>
 
 </div>
 
 ## How do I know which life insurance program I'm eligible for?
-There are different programs for Veterans, service members, and family members. You may also be able to get short-term financial coverage to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to continue your life insurance beyond 2 years after you leave the military. Find out which life insurance program is right for you. <br> 
+
+Different programs cover Veterans, service members, and family members. You may also be able to get short-term financial coverage to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to continue your life insurance beyond 2 years after you leave the military. <br> 
 [See our overview of VA life insurance programs](https://www.benefits.va.gov/insurance/overviewInsurance.html).<br>
 
 **Note:** If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to be sure there's no break in your coverage. 
