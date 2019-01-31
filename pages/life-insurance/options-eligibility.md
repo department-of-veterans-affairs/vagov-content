@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: About VA Insurance Options and Eligibility
 display_title: Options and Eligibility
-description: If you're a Veteran, Servicemember, or the spouse or dependent child of a Servicemember, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
+description: If you're a Veteran, service member, or the spouse or dependent child of a service member, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
 concurrence: 
 template: detail-page
 children: lifeInsuranceOptions
@@ -44,16 +44,15 @@ aliases:
 
 <div class="va-introtext">
 
-Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemember? Find out which life insurance programs may be right for you. <br>
+Are you a service member, Veteran, or spouse or dependent child of a Servicemember? Find out which life insurance programs may be right for you. <br>
 
 </div>
 
-## How do I know which life insurance option to choose?
-We offer six life insurance programs to choose from. To decide which one is right for you, read an overview of each program and the benefits you'll receive from each one. <br> 
-[See an overview of all the VA life insurance options available to you](https://www.benefits.va.gov/insurance/overviewInsurance.html).<br>
+## How do I know which life insurance program I'm eligible for?
+There are different programs for Veterans, service members, and family members. You may also be able to get short-term financial coverage to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to continue your life insurance beyond 2 years after you leave the military. Find out what's right for you. <br> 
+[See our overview of VA life insurance programs](https://www.benefits.va.gov/insurance/overviewInsurance.html).<br>
 
-## How soon do I need to choose a life insurance option after I separate from the service? 
-If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage. 
+**Note:** If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to be sure there's no break in your coverage. 
 
 
 
