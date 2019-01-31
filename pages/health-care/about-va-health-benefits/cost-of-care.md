@@ -18,59 +18,37 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you’re a Veteran enrolled in VA health care, you may need to pay a fixed amount for some types of care, tests, and medications. This is called a copay (short for "copayment"). Find out how we determine your copay for different types of treatment.
+If you’re a Veteran enrolled in VA health care, you may need to pay a fixed amount for some types of care, tests, and medications. This is called a copay (short for "copayment"). Find out how we determine your copay—and view current rates for different types of treatment.
 
 </div>
 
-<h3>On this page</h3>
-[Basic information about VA copays](#copays-basic). <br>
-[Copay rates effective January 1, 2019](#copays-rates).
-
-<span id="copays-basic"></span>
-
-<h2>Basic information about VA copays</h2>
- 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get free VA health care as a Veteran, or will I have to pay a copay?</h3>
+<h2 itemprop="name">Can I get free VA health care as a Veteran, or will I have to pay a copay?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may need to pay a copay for care that isn't related to a service-connected illness or injury. This will be based, in part, on the priority group we assign you to when you enroll in VA health care. We'll assign you to 1 of 8 priority groups, depending on your military service history, disability rating, income level, whether or not you qualify for Medicaid, and other benefits you may be receiving (like pension benefits). 
+As a Veteran, you can get free VA health care for any illness or injury that we determine is related to your military service (called "service connected"). <br>
 
-You may qualify for free VA health care, prescription medicines, or both if you meet certain eligibility requirements. For example, you may qualify for free care if you're a former Prisoner of War or if you have service-connected disabilities that we've rated at least 50% disabling.
+You can also get certain services for free—like readjustment counseling and related mental-health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service.<br>
+[Find out how to get started with mental health care](/health-care/health-needs-conditions/mental-health/). <br>
+[Learn more about military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
+[Explore health issues related to different services eras](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
 
-<b>If you haven't applied for VA health care yet,</b> you can use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
+You may need to pay a copay for care that isn't related to a service-connected illness or injury. This will depend on the priority group we assign you to when you enroll in VA health care. We base your priority group on factors such as:
+- Your military service history
+- Your disability rating
+- Your income level
+- Whether or not you qualify for Medicaid
+- Other benefits you may be receiving (like a Veterans pension). 
+
+We have 8 priority groups. The higher the number of your priority group, the more likely you'll be to pay copays.
+
+If you haven't applied for VA health care yet, you can use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Go to the Health Benefits Explorer]( http://hbexplorer.vacloud.us/).
 
 </div>
 </div>
 </div>
-
-<div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Are there any VA health care services that all Veterans can get for free?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-Yes. You won't pay a copay for any of these services, no matter your priority group or income level:
-
-- [Special registry exams to determine if you're at risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
-- [Counseling and care for military sexual trauma (MST)](/health-care/health-needs-conditions/military-sexual-trauma/) 
-- [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
-- Care that's part of a VA research project
-- Care related to a VA-rated service-connected disability
-- [Readjustment counseling and related mental-health services](/health-care/health-needs-conditions/mental-health/)
--	Care for cancer of head or neck caused by nose or throat radium treatments received while in the military
--	Individual or group services to help you stop smoking or lose weight
--	Publicly announced VA public health initiatives like health fairs
--	Care for health conditions that may be related to combat service if you've served in a theater of combat operations after November 11, 1998 
-- Lab tests and electrocardiograms (EKG or ECG)
-- Hospice care
-
-</div>
-</div>
-</div>
-
-<span id="copays-rates"></span>
 
 <h2>Copay rates effective January 1, 2019</h2>
 
@@ -124,13 +102,11 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 <h3>Medications</h3>
 
 <h4>If you’re in priority group 1</h4>
-
 You won’t pay a copay for any medications. 
 
-You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor.
+**Note:** You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor.
 
 <h4>If you’re in priority groups 2 through 8</h4>
-
 <b>You'll pay a copay for:</b>
 - Medications your health care provider prescribes to treat non-service-connected conditions, **and**
 - Over-the-counter medications (like aspirin, cough syrup, or vitamins) that you get from a VA pharmacy. You may want to consider buying your over-the-counter medications on your own.
