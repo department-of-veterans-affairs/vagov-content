@@ -177,7 +177,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
 
-To apply, fill out the SGLI Disability Extension Application and send it to the OSGLI address listed on the application. <br>
+To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and send it to the OSGLI address listed on the application. <br>
 [Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf).
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI).
@@ -190,6 +190,15 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 ### Where can I find more information?
 
 [Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+
+### Additional SGLI forms
+- Servicemembers' Group Life Insurance Supplemental Beneficiary Form (SGLV 8286S) <br>
+[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf). <br>
+- Claim for Death Benefits (SGLV 8283)<br>
+[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf). <br>
+- Claim for Accelerated Benefits (SGLV 8284) <br>
+[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf). <br>
+
 
 ------------
 
