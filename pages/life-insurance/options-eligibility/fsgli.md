@@ -323,11 +323,11 @@ You can’t convert other types of policies—such as term, variable, or univers
 [View the companies you can choose from](https://www.benefits.va.gov/INSURANCE/forms/ParticList.htm).
 - Apply at the local sales office of the company you chose.
 - Give a copy of the most recent Leave and Earnings Statement (LES) to the agent, showing the deduction for spousal SGLI. You’ll also have to provide proof of coverage with one of these documents:
-  - The Servicemember’s separation document (Form DD214 or NGB-22, or written orders)
-  - The Certificate of Dissolution of Marriage between the spouse and the Servicemember
-  - The Servicemember’s FSGLI spousal declination
-  - The Servicemember’s SGLI declination
-  - The Servicemember’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
+  - The service member’s separation document (Form DD214 or NGB-22, or written orders)
+  - The Certificate of Dissolution of Marriage between the spouse and the service member
+  - The service member’s FSGLI spousal declination
+  - The service member’s SGLI declination
+  - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
 
 
 <br>
