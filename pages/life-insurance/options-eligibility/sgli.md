@@ -20,7 +20,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a Servicemember who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
+If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
 
 </div>
 
@@ -56,13 +56,13 @@ You may be able to get full-time SGLI coverage if you meet both of the requireme
 
 #### Who’s covered? 
 
-Servicemembers
+Service members
 
 </div>
 
 <br>
 
-### What kind of life insurance benefits can I get with SGLI?
+## What kind of life insurance benefits can I get with SGLI?
 
 - Coverage up to the top limit of $400,000—in $50,000 increments
 - 120 days of free coverage from the date you left the military
@@ -72,17 +72,17 @@ Servicemembers
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 If you qualify for SGLI, we’ll automatically sign you up through your service branch. See your unit’s personnel office for more information.
 
 <br>
 
-### Can I make changes to my benefits? 
+## Can I make changes to my benefits? 
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
-#### How to change your beneficiaries—or to reduce, turn down, or restore SGLI coverage
+### How to change your beneficiaries—or to reduce, turn down, or restore SGLI coverage
 
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
@@ -123,7 +123,7 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 
 <br>
 
-### How much will I pay for these benefits?
+## How much will I pay for these benefits?
 
 If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatically taken out of your base pay. The current basic SGLI premium rate is 7 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic Injury Protection coverage (TSGLI). <br>
 [Learn more about TSGLI](/life-insurance/options-eligibility/tsgli/).
@@ -143,7 +143,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 <br>
 
-### How do I convert my SGLI when I leave the military? 
+## How do I convert my SGLI when I leave the military? 
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/).
 
@@ -154,7 +154,7 @@ You can also convert your SGLI policy into a civilian policy within 120 days fro
 
 <span id="extension"></span>
 
-### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military? 
+## Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military? 
 You may be able to keep your coverage for up to 2 years after the date you left the military if you’re within 2 years of your separation date and you meet either of the requirements listed below.
 
 **At least one of these must be true:**
@@ -173,7 +173,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 <br>
 
-### How do I apply for SGLI Disability Extension? 
+## How do I apply for SGLI Disability Extension? 
 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
 
@@ -191,7 +191,7 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 
 [Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
 
-### Additional SGLI forms
+### Additional life insurance forms
 - Servicemembers' Group Life Insurance Supplemental Beneficiary Form (SGLV 8286S) <br>
 [Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf). <br>
 - Claim for Death Benefits (SGLV 8283)<br>
