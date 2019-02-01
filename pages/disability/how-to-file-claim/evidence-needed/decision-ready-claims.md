@@ -74,7 +74,7 @@ You can file a Decision Ready Claim if you meet all of the requirements listed b
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can't file your claim through the Decision Ready Claims program if any of the exclusions listed below apply to you.
+You can't file your disability claim through the Decision Ready Claims program if any of the exclusions listed below apply to you.
 
 <h4>Exclusions for all Decision Ready Claims</h4>
 
