@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: File Supplemental Forms for Special Claims
-display_title: Supplemental Forms
-description: Find out if you'll need to turn in any supplemental forms when you file your VA disability claim.
+title: File Additional Forms for Your Disability Claim
+display_title: Additional Forms
+description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
 plainlanguage: 
 template: detail-page
 order: 3
@@ -18,14 +18,14 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you’ll need to turn in any supplemental forms when you file your disability claim. 
+Find out if you’ll need to turn in any additional forms when you file your disability claim. 
 
 </div>
 
 
-### Do I need to turn in any supplemental forms?
+### Do I need to turn in any additional forms?
 
-In some cases, you may need to turn in one or more supplemental forms to support your disability claim. 
+In some cases, you may need to turn in one or more additional forms to support your disability claim. 
 
 <div class="va-table-overflow">
 <table class="va-table-explanatory">
