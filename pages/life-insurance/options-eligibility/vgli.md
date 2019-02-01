@@ -44,13 +44,13 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 #### Who’s covered?
 
 * Veterans
-* Former Servicemembers
+* Former service members
 
 </div>
 
 <br>
 
-### What life insurance benefits can I get with VGLI?
+## What life insurance benefits can I get with VGLI?
 
 $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI coverage you had when you left the military.
 
@@ -58,7 +58,7 @@ $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI cove
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to apply for VGLI within one year and 120 days of leaving the military. 
 
@@ -83,7 +83,7 @@ Fax the form to 1-800-236-6142, or mail it to:
 
 <br>
 
-### How much will I pay for these benefits?
+## How much will I pay for these benefits?
 
 VGLI premium rates are based on your age and the amount of insurance coverage you want. 
 
@@ -637,7 +637,7 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 <br>
 
-### Can I convert my VGLI policy into a commercial policy?
+## Can I convert my VGLI policy into a commercial policy?
 
 Yes. You can convert your policy into a commercial (civilian) policy at any time. You’ll be able to convert at standard premium rates, without having to provide proof that you’re in good health.
 
@@ -674,7 +674,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 [Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp). <br>
 [Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1).
 
-### Additional VGLI forms
+### Additional life insurance forms
 - VGLI Beneficiary Designation (SGLV 8721) <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf). <br>
 - Application for Reinstatement of VGLI Coverage (SGLV 180) <br>
