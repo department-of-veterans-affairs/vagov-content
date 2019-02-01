@@ -66,7 +66,7 @@ We’ll automatically insure you under FSGLI. In this case, we’ll automaticall
 
 We won’t automatically cover you. You’ll need to sign up through your service member.
 
-**If your service member’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your service member sign you up online. 
+**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have your service member sign you up online through the SGLI Online Enrollment System (SOES). 
 
 To access SOES, have your service member:
 
@@ -245,7 +245,7 @@ If you’re signed up as a spouse in the Defense Enrollment Eligibility Reportin
 
 Yes. If you have spousal coverage and you want to reduce, turn down, or cancel it:
 
-**If your service member’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your service member submit your changes online.
+**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have your service member submit your changes online through the SGLI Online Enrollment System (SOES).
 
 To access SOES, have your service member:
 
