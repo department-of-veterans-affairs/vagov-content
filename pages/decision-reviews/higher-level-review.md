@@ -1,0 +1,132 @@
+---
+layout: page-breadcrumbs.html
+template: detail-page
+title: Request a Higher-Level Review
+display_title: Request a Higher-Level Review
+vagovprod: false
+vagovstaging: false
+relatedlinks: false
+---
+<br>
+<div itemprop="description" class="va-introtext">
+If you disagree with VA’s decision, you can request to have a senior reviewer look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
+</div>
+
+<i class="far fa-copy" style="zoom:1.25"></i>  You can’t submit any evidence.
+<br>
+<br>
+<i class="fas fa-phone" style="zoom:1.25"></i>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+
+### How long does it take VA to make a decision?
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 4-5 months</span></span>
+  <span class="description">Average time to complete a decision on your review. The review may take
+longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
+</div>
+
+<div class="feature" markdown="0">
+
+### What should I expect if I request a call with a senior reviewer? (this is optional)
+
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
+
+The informal conference, or phone call, will take place within the estimated decision time frame. During this call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
+</div>
+
+### How do I request a Higher-Level-Review?
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). 
+<a href="#">Download VA Form 20-0996.</a>
+
+<ol class="process">
+<li class="process-step list-one">
+
+#### Select a benefit type in Part I of the form
+The most common benefit type is compensation, but if you’re unsure, check your VA decision letter. You can’t select multiple benefit types. You must complete a separate form for each type.
+
+</li>
+
+<li class="process-step list-two">
+
+### Optional: Request a call (informal conference) with the reviewer
+<i class="fas fa-phone" style="zoom:1.25" ></i>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+<br>
+<br>
+To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request. 
+
+</li>
+
+<li class="process-step list-three">
+
+### List the issue(s) you want reviewed in Part III of the form
+List the issue(s) you want reviewed in Part III of the form
+You can include all or just some of the issues VA has decided. You’ll need to list the issue(s) you disagree with and the VA decision date for each.
+
+[comment]: <> (Cannot find Font Awesome 5 icon to match no copy icon in markup)
+
+<i class="far fa-times-circle" style="zoom:1.25"></i> You can’t submit any evidence. 
+<br>
+<br>
+__What if I have new and relevant evidence?__
+<br>
+If you have evidence to submit, please select another review option.
+<br> 
+<a href="#">Learn more about the review options.</a>
+</li>
+
+<li class="process-step list-four">
+
+### Apply
+__By mail__
+<br>
+Apply by mail using the Decision Review Request: Higher-Level Review (VA Form 20-0996). <a href="#">Download VA Form 20-0996</a>.
+<br>
+<br>
+Print the form, fill it out, and send it to the specific benefit office you selected on the form:
+<p class="va-address-block">
+Compensation<br>
+Department of Veterans Affairs<br>
+Claims Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+
+</p>
+
+__In person__
+<br>
+Bring your application to a regional benefit office. 
+<a href="#">Find a regional benefit office near you</a>.
+<br>
+
+__By fax__
+<br>
+Fax your application to <a href="tel:+1phonenumber">1-844-531-7818</a>
+<br>
+<br>
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT), to request a form.
+</li>
+</ol>
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      Mark your calendar <i class="far fa-calendar"></i>
+    </h4>
+    <p class="usa-alert-text">
+      You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim (VA Form 20-0995). 
+      <a href="#">Download VA Form 20-0995</a>
+    </p>
+  </div>
+</div>
+
+### What happens next?
+<a href="#">Find out what happens after you request a decision review </a>.
+You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
+<br>
+<a href="#" class="usa-button-primary">Track the Status of Your Claim </a>
+
+### What if I need help?
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+<a href="#">Get help requesting a decision review</a>.
+
+### What if I have more questions?
+You can get answers to your questions on our Frequently Asked Questions page.
+<a href="#">See the FAQ</a>.
