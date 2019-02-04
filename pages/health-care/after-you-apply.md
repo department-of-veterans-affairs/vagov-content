@@ -63,7 +63,7 @@ After you’ve applied for VA health care, we’ll send you a letter in the mail
 - [How can I learn more about my benefits and accessing services?](#after-need-help)
 - [How do I update my personal information?](#after-update-information)
 - [What if my application isn’t approved and I disagree with the decision?](#after-not-approved)
-- [What does it mean if I get a letter saying my income is above VA's limits for free health care or medications?](#after-income)
+- [What does it mean if I get a letter saying that VA verified my income and it's above the limits for free health care or medications?](#after-income)
 - [Once I'm enrolled, do I need to provide my income information every year?](#after-income-update)
 - [What should I do if I'm already enrolled in VA health care, but I just got a letter saying VA has determined I'm not eligible and will be removed from enrollment?](#after-removed-enrollment)
 - [How do I cancel my VA health care enrollment if I no longer want or need it?](#after-cancel-enrollment)
@@ -129,7 +129,7 @@ If you disagree with the decision, you can file an appeal. We’ll send you a le
 
 <span id="after-income">
   
-#### What does it mean if I get a letter saying my income is above VA's limits for free health care or medications?
+#### What does it mean if I get a letter saying that VA verified my income and it's above the limits for free health care or medications?
 
 If the household income information you provide when you apply shows that your income falls below our national limits so that you qualify for free VA health care, medications, or both, we're required by law to verify that this self-reported information is accurate. We do this by confirming your information with the Internal Revenue Service (IRS) and Social Security Administration (SSA).
 
