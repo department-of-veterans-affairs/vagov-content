@@ -139,6 +139,7 @@ You can get help in any of these ways:
 **Jump to a section:**
 
 - [What are priority groups and how do they affect me?](#priority-groups)
+- [Why does VA need my income information, and do I have to provide it?](#income-info)
 - [I have other health insurance (like Medicare, Medicaid, or private insurance). Does that affect whether I can get VA health care benefits?](#other-health-insurance)
 - [When I leave active-duty service, how do I know if I’m eligible for TRICARE, VA health care, or both?](#leave-active-service)
 - [If I can't get VA health care benefits, how else can I get health insurance?](#cannot-get)
@@ -171,6 +172,31 @@ Your priority group may affect how soon we sign you up for health care benefits.
 - Other benefits you may be receiving (like pension benefits)
 
 We assign Veterans with service-connected disabilities the highest priority. We assign the lowest priority to Veterans who earn a higher income and who don’t have any service-connected disabilities qualifying them for disability compensation (monthly payments).<br/>
+
+</div>
+</div>
+</div>
+<br>
+<span id="income-info"></span>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h4 itemprop="name">Why does VA need my income information, and do I have to provide it?</h4>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+We ask for your income to help us determine if you're eligible for VA health care based on your income, which priority group we'll assign you to, and whether you'll need to pay copays for certain types of care or medications.
+
+<b>You don't have to provide your income information if any of the below descriptions is true. You:</b>
+- Have a VA-rated service-connected disability, **or**
+- Receive a Veterans Pension, **or**
+- Have a special eligibility (such as being a recently discharged combat Veteran or a recipient of the Purple Heart or Medal of Honor)
+
+<b>If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998,</b> you're eligible for free VA health care for 5 years after your discharge date for any illness that may be related to your military service. You don't have to provide your income for this eligibility. But you can provide your income to help us determine if you're eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.
+
+<b>If you were exposed to Agent Orange in Vietnam or related jobs, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Guld,<b> you're eligible for free care related to your exposure. You don't have to provide your income for this eligibility. But you can provide your income to help us determine if you're eligible for free care for conditions ot related to your service.
+
+<b>If you agree to pay copays for your care,</b> you don't have to provide your income information. But you should know that unless you meet a VA health care eligibility requirement that's not related to income (like receiving a Purple Heart or Medal of Honor or serving in certain combat areas), we may deny your enrollment based on our enrollment restriction.
 
 </div>
 </div>
