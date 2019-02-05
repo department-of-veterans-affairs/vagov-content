@@ -14,13 +14,14 @@ relatedlinks:
     title: Manage your VA copay debt
     description: If you're having trouble paying your copays, find out how we can help you manage your debt.
 ---
-
+<div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
 You'll need to pay your balance in full by the due date on your first billing statement to avoid late charges, interest, or other collection actions. Find out how to pay your bill now—and what to do if you're having trouble making payments.
 
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">How do I pay my VA medical copay?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -58,6 +59,7 @@ Visit your nearest VA medical center and ask for the agent cashier's office. Bri
 </div>
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">What if I'm having trouble making the payments?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -69,12 +71,13 @@ You have options such as requesting a monthly repayment plan or disputing the ch
 </div>
 </div>
 
+<div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">What if I need help understanding my VA patient statement?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 Call us at <a href="tel:+18664001238">1-866-400-1238</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). Or visit your nearest VA medical center or other health facility and ask to talk with a member of the facility's revenue staff. <br>
-[Find your nearest VA health facility](/find-locations/].
+[Find your nearest VA health facility](/find-locations/).
 [View a guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf).
 
 </div>
