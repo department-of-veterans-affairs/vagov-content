@@ -12,7 +12,7 @@ relatedlinks:
     links:
     - url: /copay/
       title: VA copay information
-      description: Find out how we determine if you'll pay a copay for certain types of care and medications.
+      description: Learn more about VA health care copays and view current copay rates.
     - url: /health-care/make-a-payment/
       title: Make a payment
       description: Pay your VA medical bill online, by mail, phone, or in person.
