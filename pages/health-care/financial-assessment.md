@@ -8,14 +8,17 @@ spoke: More Resources
 order: 18
 lastupdate: 2019-02-05
 relatedlinks:
-  - url: /copay/
-    description: Find out how we determine if you'll pay a copay for certain types of care and medications.
-  - url: /health-care/make-a-payment/
-    title: Make a payment
-    description: Pay your VA medical bill online, by mail, phone, or in person.
-  - url: /health-care/manage-copay-debt/
-    title: Manage your VA copay debt
-    description: If you're having trouble paying your copays, find out how we can help you manage your debt.
+  - heading: Other information you may need
+    links:
+    - url: /copay/
+      title: VA copay information
+      description: Find out how we determine if you'll pay a copay for certain types of care and medications.
+    - url: /health-care/make-a-payment/
+      title: Make a payment
+      description: Pay your VA medical bill online, by mail, phone, or in person.
+    - url: /health-care/manage-copay-debt/
+      title: Manage your VA copay debt
+      description: If you're having trouble paying your copays, find out how we can help you manage your debt.
 
 ---
 
