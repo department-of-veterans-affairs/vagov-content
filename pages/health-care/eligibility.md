@@ -10,6 +10,15 @@ collection: healthCare
 children: healthEligibility
 spoke: Get Benefits
 order: 2
+relatedlinks:
+  - heading: Other information you may need
+    links:
+    - url: /health-care/financial-assessment/
+      title: Financial assessment and income verification
+      description: Learn more about our financial assessment and income verification process—and how we use this to determine whether you'll pay copays.
+    - url: /copay/
+      title: VA copay information
+      description: Find out how we determine if you'll pay a copay for certain types of care and medications.
 widgets:
   - root: react-applicationStatus
     timeout: 20
@@ -78,8 +87,9 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
 - Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
 
-**If none of the above apply to you**, you may still qualify for care based on your income. Learn more about how the amount of money your family makes can affect whether you qualify for VA benefits. <br>
-[Learn more about income limits](http://nationalincomelimits.vaftl.us/).
+**If none of the above apply to you**, you may still qualify for care based on your income. <br>
+[Learn how we assess and verify your income](/health-care/financial-assessment/).
+[View our current income limits](http://nationalincomelimits.vaftl.us/).
 
 </div>
 </div>
@@ -139,7 +149,6 @@ You can get help in any of these ways:
 **Jump to a section:**
 
 - [What are priority groups and how do they affect me?](#priority-groups)
-- [Why does VA need my income information, and do I have to provide it?](#income-info)
 - [I have other health insurance (like Medicare, Medicaid, or private insurance). Does that affect whether I can get VA health care benefits?](#other-health-insurance)
 - [When I leave active-duty service, how do I know if I’m eligible for TRICARE, VA health care, or both?](#leave-active-service)
 - [If I can't get VA health care benefits, how else can I get health insurance?](#cannot-get)
@@ -177,32 +186,6 @@ We assign Veterans with service-connected disabilities the highest priority. We 
 </div>
 </div>
 <br>
-<span id="income-info"></span>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h4 itemprop="name">Why does VA need my income information, and do I have to provide it?</h4>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-We ask for your income to help us determine if you're eligible for VA health care based on your income, which priority group we'll assign you to, and whether you'll need to pay copays for certain types of care or medications.
-
-<b>You don't have to provide your income information if any of the below descriptions is true. You:</b>
-- Have a VA-rated service-connected disability, **or**
-- Receive a Veterans Pension, **or**
-- Have a special eligibility (such as being a recently discharged combat Veteran or a recipient of the Purple Heart or Medal of Honor)
-
-<b>If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998,</b> you're eligible for free VA health care for 5 years after your discharge date for any illness that may be related to your military service. You don't have to provide your income for this eligibility. But you can provide your income to help us determine if you're eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.
-
-<b>If you were exposed to Agent Orange in Vietnam or related jobs, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Guld,<b> you're eligible for free care related to your exposure. You don't have to provide your income for this eligibility. But you can provide your income to help us determine if you're eligible for free care for conditions ot related to your service.
-
-<b>If you agree to pay copays for your care,</b> you don't have to provide your income information. But you should know that unless you meet a VA health care eligibility requirement that's not related to income (like receiving a Purple Heart or Medal of Honor or serving in certain combat areas), we may deny your enrollment based on our enrollment restriction.
-
-</div>
-</div>
-</div>
-<br>
-
 <span id="other-health-insurance"></span>
 
 <div itemscope itemtype="http://schema.org/Question">
