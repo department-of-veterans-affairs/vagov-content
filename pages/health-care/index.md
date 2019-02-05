@@ -140,7 +140,7 @@ hublinks:
       - url: /health-care/financial-assessment/
         label: Financial Assessment and Income Verification
         description: Learn how we assess and verify your income to determine if you qualify for VA health care and whether you'll need to pay a copay for certain types of care and medications.
-      - url: /health-care//about-va-health-benefits/copay/
+      - url: /health-care/about-va-health-benefits/copay/
         label: VA Copay Information
         description: Learn more about VA health care copays and view current copay rates.
       - url: /health-care/health-needs-conditions/mental-health/
