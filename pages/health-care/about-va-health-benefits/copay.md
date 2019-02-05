@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA copays—what you'll pay for health care
-display_title: VA Copays
+title: VA copay information—what you'll pay for health care
+display_title: Copay Information
 collection: healthCareCoverage
 order: 3
 lastupdate: 2019-01-24
@@ -73,7 +73,7 @@ You may need to pay a copay for non-service-connected outpatient care at the rat
 ------
 
 <h3>Inpatient care</h3>
-<b>(Care that requires you to stay one or more nights in a hospital or other health facility</b>
+<b>(Care that requires you to stay one or more nights in a hospital or other health facility)</b>
 
 <h4>If you have a service-connected disability rating of 10% or higher</h4>
 You won't need to pay a copay for inpatient care.
@@ -87,7 +87,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $272.80 for total stay + $2 per day charge                | 
 | <b>Each additional day within the same year (365 days)</b>     | $136.40 a day + $2 per-day charge                | 
 
-**Note:** You may be in priority group 7 and qualify for these rates if you have a gross household income below the geographically-adjusted VA income limits for where you live and you agree to pay copayments.
+**Note:** You may be in priority group 7 and qualify for these rates if you have a gross household income below our income limits for where you live and you agree to pay copayments.
 
 <h5>2019 full inpatient care copay rates for priority group 8</h5>
 | Length of stay | Copay amount | 
@@ -95,7 +95,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $21,364 for total stay + $10 per day charge                | 
 | <b>Each additional day within the same year (365 days)</b>     | $682 a day + $10 per-day charge                | 
 
-**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the geographically-adjusted VA income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. 
+**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the our income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. 
 
 ------
 
