@@ -132,7 +132,7 @@ hublinks:
         service records) to help support your open disability claim.
       external: false
     - url: "/disability/how-to-file-claim/supplemental-forms/"
-      label: File Supplemental Forms for Special Claims
+      label: File Additional Forms for Your Disablity Claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.
       external: false
