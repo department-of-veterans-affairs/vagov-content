@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA copay information—what you'll pay for health care
+title: VA copay information
 display_title: Copay Information
 collection: healthCareCoverage
 order: 3
