@@ -72,7 +72,7 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 
 <br>
 
-### Are there any risks to using the Fully Developed Claims program?
+## Are there any risks to using the Fully Developed Claims program?
 
 No. Filing a fully developed claim won't affect the attention we give to your claim or the benefits you're entitled to receive.
 
@@ -82,7 +82,7 @@ Once you start your fully developed claim, you'll have up to 1 year to complete 
 
 <br>
 
-### What should the evidence show to support my disability claim?
+## What should the evidence show to support my disability claim?
 
 This depends on the type of claim you’re filing.
 
@@ -119,16 +119,6 @@ You'll need to submit current evidence from a medical professional or layperson 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New Claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
 <div id="claim-new" class="usa-accordion-content">
-
-
-</div>
-</li>
-<li>
-
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened Claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
-<div id="claim-reopened" class="usa-accordion-content">
-
-You'll need to submit new evidence that we've never considered before and that's related to the issue you're claiming.
 
 
 **You'll need to submit evidence of:**
@@ -301,7 +291,7 @@ You'll need to submit medical evidence that shows the child became permanently d
 
 <br>
 
-### Can VA help me gather evidence?
+## Can VA help me gather evidence?
 
 Yes. We can help you through the Fully Developed Claims program.
 
@@ -314,7 +304,7 @@ Yes. We can help you through the Fully Developed Claims program.
 
 <br>
 
-### When should I turn in my evidence? 
+## When should I turn in my evidence? 
 
 
 
@@ -324,7 +314,7 @@ If we decide your claim before 1 year from the date we receive the claim, you’
 
 <br>
 
-### How do I turn in my information and evidence?
+## How do I turn in my information and evidence?
 
 You'll need to upload all medical evidence or supporting documents at the end of the disability compensation form. 
 
@@ -335,7 +325,7 @@ You can start your online application right now, or find out how to file a claim
 
 <br>
 
-### Should I work with a Veterans Service Officer (VSO) to file my disability claim?
+## Should I work with a Veterans Service Officer (VSO) to file my disability claim?
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/).
