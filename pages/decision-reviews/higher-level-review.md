@@ -108,7 +108,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar <i class="far fa-calendar"></i>
+      Mark your calendar 
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim (VA Form 20-0995). 

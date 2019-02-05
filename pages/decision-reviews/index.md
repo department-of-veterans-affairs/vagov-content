@@ -44,7 +44,7 @@ You'll need to follow a different process to appeal the decision. <br>
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar <i class="far fa-calendar"></i>
+      Mark your calendar 
     </h4>
     <p class="usa-alert-text">
       You have 1 year from the date on your decision letter to choose an option
