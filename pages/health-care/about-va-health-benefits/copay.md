@@ -7,12 +7,17 @@ collection: healthCareCoverage
 order: 3
 lastupdate: 2019-01-24
 relatedlinks:
-  - url: /health-care/make-a-payment/
-    title: Make a payment
-    description: Pay your VA medical bill online, by mail, phone, or in person.
-  - url: /health-care/manage-copay-debt/
-    title: Manage your VA copay debt
-    description: If you're having trouble paying your copays, find out how we can help you manage your debt.
+  - heading: Other information you may need
+    links:
+    - url: /health-care/financial-assessment/
+      title: Financial assessment and income verification
+      description: Learn more about our financial assessment and income verification process—and how we use this to determine whether you'll pay copays.
+    - url: /health-care/make-a-payment/
+      title: Make a payment
+      description: Pay your VA medical bill online, by mail, phone, or in person.
+    - url: /health-care/manage-copay-debt/
+      title: Manage your VA copay debt
+      description: If you're having trouble paying your copays, find out how we can help you manage your debt.
 
 ---
 
