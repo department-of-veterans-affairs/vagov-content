@@ -68,7 +68,7 @@ your case or identifying evidence for review. A regional office employee will
 determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](#).
 
 
-<i class="far fa-copy"></i> You must add evidence VA did not have and that relates to your case.
+<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA did not have and that relates to your case.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -85,9 +85,9 @@ reviewer at different regional office will take another look at your case and de
 whether the decision can be changed based on a difference of opinion or because VA
 made an error. [Learn how to request a Higher-Level Review](#).
 
-<i class="fas fa-ban"></i> You cannot submit any evidence.
+<span class="heading-level-3"><i class="fas fa-ban"></i></span>  You cannot submit any evidence.
 
-<i class="fas fa-phone"></i> You and/or your representative can speak with the reviewer on the phone. You
+<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You
 can say why you think the decision should be changed and identify errors.
 
 <!-- Todo: Implement updated number component -->
@@ -121,9 +121,9 @@ A judge at the Board of Veterans’ Appeals in Washington, DC will review your c
   </span>
 </div>
 
-<i class="far fa-copy"></i> You have the option to add new evidence that will be reviewed by a judge.
+<span class="heading-level-3"><i class="far fa-copy"></i></span>  You have the option to add new evidence that will be reviewed by a judge.
 
-<i class="fas fa-user"></i> You have the option to request a hearing with a judge. A video conference
+<span class="heading-level-3"><i class="fas fa-user"></i></span>  You have the option to request a hearing with a judge. A video conference
 hearing will take place at a [VA location near you](#).
 
 <!-- Todo: Implement updated number component -->

@@ -12,10 +12,10 @@ relatedlinks: false
 If you disagree with VA’s decision, you can request to have a senior reviewer look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
 </div>
 
-<i class="far fa-copy" style="zoom:1.25"></i>  You can’t submit any evidence.
+<span class="heading-level-3"><i class="fas fa-ban"></i></span>  You can’t submit any evidence.
 <br>
 <br>
-<i class="fas fa-phone" style="zoom:1.25"></i>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
 
 ### How long does it take VA to make a decision?
 <div class="card information">
@@ -48,7 +48,7 @@ The most common benefit type is compensation, but if you’re unsure, check your
 <li class="process-step list-two">
 
 ### Optional: Request a call (informal conference) with the reviewer
-<i class="fas fa-phone" style="zoom:1.25" ></i>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
 <br>
 <br>
 To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request. 
@@ -63,7 +63,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 [comment]: <> (Cannot find Font Awesome 5 icon to match no copy icon in markup)
 
-<i class="far fa-times-circle" style="zoom:1.25"></i> You can’t submit any evidence. 
+<span class="heading-level-3"><i class="far fa-times-circle"></i></span> You can’t submit any evidence. 
 <br>
 <br>
 __What if I have new and relevant evidence?__

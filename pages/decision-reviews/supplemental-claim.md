@@ -14,7 +14,7 @@ relatedlinks: false
 When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying evidence for review. A reviewer will determine whether the new evidence changes the decision.
 </div>
 
-<i class="far fa-copy"></i> You must add evidence VA didn’t have before that’s relevant to your case.
+<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
 
 <div class="feature" markdown="0">
 
@@ -51,7 +51,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 ### Gather new and relevant evidence to submit
 
-<i class="far fa-copy"></i> You must add new and relevant evidence (supporting documents) or identify evidence you’d like us to gather for review. 
+<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like us to gather for review. 
 
 **List the location(s) of VA evidence in Part III**. VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
 

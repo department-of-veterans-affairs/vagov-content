@@ -13,10 +13,10 @@ relatedlinks: false
 When you choose this option, you’re appealing to a Veterans Law Judge at the Board of Veterans Appeals in Washington, DC. A judge who’s an expert in Veterans law will review your case.
 </div>
 
-<i class="far fa-copy" style="zoom:1.25"></i>  You have the option to add new evidence that a judge will review.
+<span class="heading-level-3"><i class="far fa-copy"></i></span>  You have the option to add new evidence that a judge will review.
 <br>
 <br>
-<i class="fas fa-user" style="zoom:1.25"></i>  You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
+<span class="heading-level-3"><i class="fas fa-user" ></i></span>  You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
 
 ### Can I add new evidence?
 You have the option to add new evidence for a judge to review. You’ll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
@@ -57,7 +57,7 @@ __Direct Review__
 I want a Veterans Law Judge to review my case as quickly as possible. 
 <br>
 
-<i class="fas fa-phone" style="zoom:1.25"></i>  You can’t submit any evidence.
+<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You can’t submit any evidence.
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 1 year</span></span>
   <span class="description">Average time to complete your review. With no new evidence and no hearing, a judge will decide your case in 1 year.</span>
@@ -80,7 +80,7 @@ I want a video conference hearing with a Veterans Law Judge at a nearby VA locat
 At your hearing, the judge will ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file.
 Learn more what happens at a hearing.
 
-<i class="far fa-copy" style="zoom:1.25"></i>  You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
+<span class="heading-level-3"><i class="far fa-copy"></i></span>  You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 6 years</span></span>
