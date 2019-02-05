@@ -51,7 +51,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 </div>
 </div>
 
-### What evidence will VA take responsibility for gathering when I file a standard disability claim?
+## What evidence will VA take responsibility for gathering when I file a standard disability claim?
 
 **With your permission, we’ll get related records from:**
 - Any federal agency (including the military)
@@ -67,7 +67,7 @@ A Veteran filed a disability claim that included prior treatment from a private 
 
 <br>
 
-### When do I need to turn in my evidence to support my standard disability claim?
+## When do I need to turn in my evidence to support my standard disability claim?
 
 You’ll need to turn in the information and evidence as soon as you can.
 
@@ -75,14 +75,14 @@ You have up to 1 year from the date we receive your claim to turn in any informa
 
 <br>
 
-### How do I get started filing my standard disability claim?
+## How do I get started filing my standard disability claim?
 
 You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 <br>
 
-### Does it take longer to get a decision from VA on a standard claim than a fully developed claim?
+## Does it take longer to get a decision from VA on a standard claim than a fully developed claim?
 
 Yes. The process is slower for getting a decision on a standard disability claim. This is because we need time to gather evidence for your claim. 
 
