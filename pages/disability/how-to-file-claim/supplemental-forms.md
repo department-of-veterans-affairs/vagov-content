@@ -23,7 +23,7 @@ Find out if you’ll need to turn in any additional forms when you file your dis
 </div>
 
 
-### Do I need to turn in any additional forms?
+## Do I need to turn in any additional forms?
 
 In some cases, you may need to turn in one or more additional forms to support your disability claim. 
 
