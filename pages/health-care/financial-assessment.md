@@ -10,7 +10,7 @@ lastupdate: 2019-02-05
 relatedlinks:
   - heading: Other information you may need
     links:
-    - url: /copay/
+    - url: /health-care/about-va-health-benefits/copay/
       title: VA copay information
       description: Learn more about VA health care copays and view current copay rates.
     - url: /health-care/make-a-payment/
