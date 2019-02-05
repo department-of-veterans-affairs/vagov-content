@@ -91,6 +91,59 @@ Janesville, WI 53547-4444<br>
 
 </p>
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Other benefit office addresses</button>
+<div id="VA-burials-survivor-spouse" class="usa-accordion-content">
+
+<b>Pension/Survivors Benefits</b>
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+</p>
+
+<b>Fiduciary</b>
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+</p>
+
+<b>Education</b>
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+</p>
+
+<b>Veterans Health Administration</b>
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+</p>
+
+<p class="va-address-block">
+<b>Veterans Health Administration</b><br>
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+</p>
+
+
+</div>
+</ul>
+
 __In person__
 <br>
 Bring your application to a regional benefit office. 
