@@ -47,7 +47,7 @@ Find out how to file a claim for disability compensation.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/).
 
-- [Find out if you’ll need to turn in any additional forms with your disability claim](/disability/how-to-file-claim/additional-forms/).
+- [Find out if you’ll need to turn in any additional forms with your disability claim](/disability/how-to-file-claim/supplemental-forms/).
 
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
