@@ -103,7 +103,7 @@ You can't file your disability claim through the Decision Ready Claims program i
 </div>
 </div>
 
-<h4>Check more exclusions for certain claim types</h4>
+<h4>More exclusions for certain claim types</h4>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
