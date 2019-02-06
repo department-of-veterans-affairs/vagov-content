@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure While Serving outside Vietnam or Korea
+title: Agent Orange exposure while serving outside Vietnam or Korea
 display_title: Service outside Vietnam or Korea
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
