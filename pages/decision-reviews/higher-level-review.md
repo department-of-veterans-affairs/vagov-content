@@ -81,7 +81,9 @@ __By mail__
 Apply by mail using the Decision Review Request: Higher-Level Review (VA Form 20-0996). <a href="#">Download VA Form 20-0996</a>.
 <br>
 <br>
-Print the form, fill it out, and send it to the specific benefit office you selected on the form:
+Print the form, fill it out, and send it to the benefit office that matches the benefit type you selected on the form. 
+
+<b>Compensation</b>
 <p class="va-address-block">
 Compensation<br>
 Department of Veterans Affairs<br>
