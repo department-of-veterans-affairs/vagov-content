@@ -26,7 +26,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 10px"><i class="far fa-copy"></i></span>  
+    <span class="heading-level-3" style="padding-right: 20px"><i class="far fa-copy"></i></span>  
   </div>
   <div class="vads-u-flex--auto">  
     You have the option to add new evidence that a judge will review.
@@ -34,7 +34,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 10px"><i class="fas fa-user" >  </i></span>
+    <span class="heading-level-3" style="padding-right: 20px"><i class="fas fa-user" >  </i></span>
   </div>
   <div class="vads-u-flex--1">  
   You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
@@ -83,7 +83,7 @@ I want a Veterans Law Judge to review my case as quickly as possible.
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 10px"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3" style="padding-right: 20px"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--auto">  
       You can’t submit any evidence.
@@ -114,7 +114,7 @@ Learn more what happens at a hearing.
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 10px"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3" style="padding-right: 20px"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--auto">  
       You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
