@@ -33,12 +33,12 @@ We're committed to providing free health care to Veterans who can't afford to pa
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-We’re required by law to collect this information. We use it to help us determine 3 things:
+We’re required by law to collect this information. We use it to help us determine:
 - If you’re eligible for VA health care based on your income, **and**
-- Whether you’ll need to pay copays for certain types of care or medications, **and**
-- Which of our 8 priority groups we’ll assign you to 
+- Whether you’ll need to pay copays for certain types of care or medications
 
-This part of the application process is called an income assessment or financial assessment (formerly known as a means test).
+This part of the application process is called an income assessment or financial assessment (formerly known as a means test). <br>
+[Learn more about applying for VA health care](/health-care/apply/).
 
 </div>
 </div>
@@ -56,13 +56,15 @@ This part of the application process is called an income assessment or financial
 
 <b>Read more about providing financial information if:</b>
 
-<b> <div class="usa-accordion">
+<div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-combat">You're a recent combat Veteran</button>
 <div id="questions-combat" class="usa-accordion-content">
 
-**If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998,** you don't have to provide your income to qualify for 5 years of free VA health care for any illness that may be related to your military service. But you can provide your income to help us determine if you’re eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.<br>
+If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998, you don't have to provide your income to qualify for 5 years of free VA health care for any illness that may be related to your military service.
+
+You can still provide your income to help us determine if you’re eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.<br>
 <a href="https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp">Learn more about VA health care for returning service members</a>.
 
 </div>
@@ -71,7 +73,9 @@ This part of the application process is called an income assessment or financial
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-hazards">You were exposed to hazardous materials during service</button>
 <div id="questions-hazards" class="usa-accordion-content">
 
-**If you were exposed to Agent Orange in or near Vietnam, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Gulf,** you don't have to provide your income information to qualify for free care related to your exposure. But you can provide your income to help us determine if you’re eligible for free care for conditions not related to your service. <br>
+If you were exposed to Agent Orange in or near Vietnam, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Gulf, you don't have to provide your income information to qualify for free care related to your exposure. 
+
+You can still provide your income to help us determine if you’re eligible for for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service. <br>
 [Learn more about hazardous exposures](/disability/eligibility/hazardous-materials-exposure/).
 
 </div>
@@ -167,6 +171,7 @@ We’ll receive your income information from the Internal Revenue Service (IRS) 
 **Note:** We encourage you to report changes in your income as well as any chances to your personal information (like your address, phone number, dependents, or other health insurance). You can do this any time by using our Health Benefits Update Form (VA Form 10-10EZR). <br>
 [Learn how to submit your VA Form 10-10EZR](/health-care/update-health-information/). 
 
+</div>
 </div>
 </div>
 </div>
