@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Make a payment on your VA copay bill
-display_title: Make a Payment
+display_title: Make a payment
 collection: healthCare
 spoke: Manage Benefits
 order: 15
