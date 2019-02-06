@@ -85,7 +85,6 @@ Print the form, fill it out, and send it to the benefit office that matches the 
 
 <b>Compensation</b>
 <p class="va-address-block">
-Compensation<br>
 Department of Veterans Affairs<br>
 Claims Intake Center<br>
 PO Box 4444<br>
