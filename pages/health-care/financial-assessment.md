@@ -94,7 +94,7 @@ You can still provide your income to help us determine if you’re eligible for 
 
 You’ll need to provide your gross household income for the previous year. So if you’re applying for health care in 2019, you’ll need to provide your gross household income for 2018.
 
-Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year from all sources before taxes. This includes your total income from work before taxes. It also includes other income like money you may have taken from a retirement fund or income from the sale of a house. If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
+Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year before taxes. This includes your income from work as well as any other sources, like money you may have taken from a retirement fund or income from the sale of a house. If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
 
 </div>
 </div>
@@ -124,7 +124,7 @@ Because of tax deadlines, we usually begin your income verification process the 
 If your self-reported income is below our income limits, but the income we receive from the IRS and SSA shows that you have income above these limits, we’ll notify you (and your spouse or partner if applicable) by letter. You’ll have the chance to verify or dispute this information. You can also send documents showing you have additional deductible expenses that we should consider. <br>
 [View our current income limits]( http://nationalincomelimits.vaftl.us/).
 
-<b>Read more about:<b/>
+<b>Read more about:</b>
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
