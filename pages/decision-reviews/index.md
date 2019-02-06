@@ -24,10 +24,10 @@ relatedlinks:
       The Appeals process has changed
     </h4>
     <p class="usa-alert-text">
-      <b>For VA decisions received after February 19, 2019</b> <br>
+      <b>For VA decisions you received after February 19, 2019</b> <br>
 Please keep reading below to learn about your decision review options. <br>
-      <b>For VA decisions received before February 19, 2019</b> <br>
-You'll need to follow a different process to appeal the decision. <br>
+      <b>For VA decisions you received before February 19, 2019</b> <br>
+You'll need to follow a different process to appeal your disability compensation decision. <br>
 <a href="/disability/file-an-appeal/">Learn how to file an appeal</a>.
     </p>
   </div>
@@ -37,7 +37,7 @@ You'll need to follow a different process to appeal the decision. <br>
 
 <div itemprop="description" class="va-introtext">
   If you disagree with a VA decision, you can choose one of the
-  following review options to continue your case. If you are not
+  following review options to continue your case. If you aren't
   satisfied with that review, you can try another option.
 </div>
 
@@ -47,7 +47,7 @@ You'll need to follow a different process to appeal the decision. <br>
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have 1 year from the date on your decision letter to choose an option
+      You have 1 year from the date on your decision letter to request a decision review
       and submit the corresponding form unless <a href="#">one of these unusual situations applies</a>.
     </p>
   </div>
