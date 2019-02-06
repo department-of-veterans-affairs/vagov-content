@@ -6,7 +6,7 @@ display_title: Make a Payment
 collection: healthCare
 spoke: Manage Benefits
 order: 15
-lastupdate: 2019-01-24
+lastupdate: 2019-02-06
 relatedlinks:
   heading: Other information you may need
   links:
@@ -16,7 +16,9 @@ relatedlinks:
   - url: /health-care/manage-copay-debt/
     title: Manage your VA copay debt
     description: If you're having trouble paying your copays, find out how we can help you manage your debt.
+    
 ---
+
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
