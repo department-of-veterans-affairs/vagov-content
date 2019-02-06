@@ -20,24 +20,24 @@ If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, 
 
 <br>
 
-#### For Active-Duty Servicemembers
+#### For Active-Duty servicemembers
 
 You may be able to get disability benefits if you have an illness believed to be caused by contact with Agent Orange and both of the below descriptions are true for you.
 
 **Both of these must be true:**
 
 - You served in a regular Air Force unit location where a C-123 aircraft with traces of Agent Orange was assigned, **and**
-- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
+- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange.
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
 [See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
-Check our list of military units and Air Force Specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
+Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
 [View the list of codes](https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf).
 
 <br>
 
-#### For Reservists
+#### For reservists
 
 You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange and you were assigned to flight, ground, or medical crew duties at one of the below locations.
 
@@ -51,12 +51,12 @@ If you have an illness believed to be caused by Agent Orange, you won’t need t
 [See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
 
-Check our list of military units and Air Force Specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
+Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
 [View the list of codes]( https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf).
 
 </div>
 
-### How to File a Claim Online
+### How to file a claim online
 
 This is the fastest way to file a claim for disability compensation and get your decision:
 
@@ -99,7 +99,7 @@ Type C-123 next to the disability in the text box.
 </li>
 </ol>
 
-### How to File a Claim by Mail or Fax
+### How to file a claim by mail or fax
 
 <ol class="process" markdown="0">
 <li class="process-step list-one" markdown="1">
@@ -137,8 +137,8 @@ Fill out the printed form—and make sure you include each C-123-related disabil
 <li class="process-step list-three" markdown="0">
 
 <p>Mail your claim with supporting documents to:</p>
-<p class='va-address-block'>Department of Veterans Affairs Claims Intake Center<br/>
-Attention: C-123 Claims<br />
+<p class='va-address-block'>Department of Veterans Affairs claims intake center<br/>
+Attention: C-123 claims<br />
 PO Box 5088<br />
 Janesville, WI<br />
 53547-5088</p>
@@ -159,5 +159,5 @@ You can get help from a trained professional trusted to help with VA-related cla
 
 ### Get more information
 Want to know more about C-123 aircraft Agent Orange claims? <br>
-[Download our C-123 Aircraft Agent Orange Exposure Claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf).
+[Download our C-123 aircraft Agent Orange exposure claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf).
 
