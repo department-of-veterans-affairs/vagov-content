@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Eligibility for VA Disability Benefits
+title: Eligibility for VA disability benefits
 display_title: Eligibility
 description: Read VA disability benefits eligibility criteria to see if you qualify for compensation for a presumptive disability or other service-connected conditions. A presumptive disability is an illness or injury we believe is related to military service. You can also learn more about dependent eligibility.
 order: 1
@@ -12,16 +12,16 @@ majorlinks:
   - heading:
     links:
     - url: /disability/about-disability-ratings/
-      title: How VA Assigns Disability Ratings
+      title: How VA assigns disability ratings
       description: Learn how we assign severity ratings and how they affect your disability payments.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear within 1 Year after Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: If you have signs of an illness that started within a year after you were discharged from active service, find out if you can get disability benefits.
 relatedlinks:
   - heading: Vocational Rehabilitation and Employment (VR&E)
     links:
     - url: /careers-employment/vocational-rehabilitation/eligibility/
-      title: VR&E Eligibility
+      title: VR&E eligibility
       description: If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
     - url: /careers-employment/vocational-rehabilitation/ides/
       title: Accessing VR&E through the Integrated Disability Evaluation System (IDES)
