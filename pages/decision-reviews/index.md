@@ -67,12 +67,17 @@ In choosing a Supplemental Claim, you are adding new evidence that is relevant t
 your case or identifying evidence for review. A regional office employee will
 determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](#).
 
-
-<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA did not have and that relates to your case.
-
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+     You must add evidence VA did not have and that relates to your case.
+  </div>   
+</div>
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 5 months</span></span>
   <span class="description">Average time to complete your review.</span>
 </div>
 
@@ -85,14 +90,27 @@ reviewer at different regional office will take another look at your case and de
 whether the decision can be changed based on a difference of opinion or because VA
 made an error. [Learn how to request a Higher-Level Review](#).
 
-<span class="heading-level-3"><i class="fas fa-ban"></i></span>  You cannot submit any evidence.
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-ban"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+      You cannot submit any evidence.
+  </div>
+</div>      
 
-<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You
-can say why you think the decision should be changed and identify errors.
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
+  </div>
+  <div class="vads-u-flex--1">
+  You and/or your representative can speak with the reviewer on the phone. You can say why you think the decision should be changed and identify errors.
+  </div>
+</div>   
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 5 months</span></span>
   <span class="description">Average time to complete a decision on your review. The review may take
 longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
 </div>
@@ -114,21 +132,34 @@ A judge at the Board of Veterans’ Appeals in Washington, DC will review your c
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3" ><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
   <span class="description">
     Average time to complete an appeal. With no new evidence and no hearing, a
     judge will decide your case in 1 year.
   </span>
 </div>
 
-<span class="heading-level-3"><i class="far fa-copy"></i></span>  You have the option to add new evidence that will be reviewed by a judge.
-
-<span class="heading-level-3"><i class="fas fa-user"></i></span>  You have the option to request a hearing with a judge. A video conference
-hearing will take place at a [VA location near you](#).
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3"><i class="far fa-copy" style="margin-right: 1.5rem"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+      You have the option to add new evidence that will be reviewed by a judge.
+  </div>
+</div>  
+<div class ="vads-u-display--flex vads-u-margin-y--1">    
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3"><i class="fas fa-user" style="margin-right: 1.5rem"></i></span>
+  </div>
+  <div class="vads-u-flex--1"> 
+      You have the option to request a hearing with a judge. A video conference
+hearing will take place at a <a href ="https://www.va.gov/find-locations/">VA location near you</a>.
+  </div>
+</div>  
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 6 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 6 years</span></span>
   <span class="description">
     It will take about 6 years for a decision if you want to add evidence for review
     or request a hearing with a judge.
@@ -139,7 +170,6 @@ hearing will take place at a [VA location near you](#).
 
 You can request a Board Appeal afer an original claim, Supplemental Claim or HigherLevel Review decision. You cannot request a Board Appeal afer a Board Appeal decision.
 
-<br>
 
 ## After a Board decision
 

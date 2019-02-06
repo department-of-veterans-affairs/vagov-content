@@ -26,7 +26,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 20px"><i class="far fa-copy"></i></span>  
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>  
   </div>
   <div class="vads-u-flex--auto">  
     You have the option to add new evidence that a judge will review.
@@ -34,7 +34,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 20px"><i class="fas fa-user" >  </i></span>
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-user" >  </i></span>
   </div>
   <div class="vads-u-flex--1">  
   You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
@@ -83,15 +83,15 @@ I want a Veterans Law Judge to review my case as quickly as possible.
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 20px"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
   </div>
-  <div class="vads-u-flex--auto">  
+  <div class="vads-u-flex--1">  
       You can’t submit any evidence.
   </div>
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
   <span class="description">Average time to complete your review. With no new evidence and no hearing, a judge will decide your case in 1 year.</span>
 </div>
 
@@ -100,7 +100,7 @@ __Evidence Submission__
 I have additional evidence for a Veterans Law Judge to review.
 You must submit evidence within 90 days of the date VA receives your Board Appeal form.
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 6 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 6 years</span></span>
   <span class="description">Average time to complete your review when you add new evidence.
 </span>
 </div>
@@ -114,15 +114,15 @@ Learn more what happens at a hearing.
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="padding-right: 20px"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--auto">  
+  <div class="vads-u-flex--1">  
       You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
   </div>
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> About 6 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 6 years</span></span>
   <span class="description">Average time to complete your review if you request a hearing with a judge.
 </span>
 </div>

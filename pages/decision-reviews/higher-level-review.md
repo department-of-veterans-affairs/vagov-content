@@ -11,15 +11,27 @@ relatedlinks: false
 <div itemprop="description" class="va-introtext">
 If you disagree with VA’s decision, you can request to have a senior reviewer look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
 </div>
-
-<span class="heading-level-3"><i class="fas fa-ban"></i></span>  You can’t submit any evidence.
 <br>
-<br>
-<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-ban"></i></span>
+  </div>
+  <div class="vads-u-flex--1">    
+      You can’t submit any evidence.
+  </div>
+</div>      
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>  
+  </div>
+  <div class="vads-u-flex--1">  
+    You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+  </div>
+</div>    
 
 ### How long does it take VA to make a decision?
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
   <span class="description">Average time to complete a decision on your review. The review may take
 longer if VA needs to obtain records or schedule a new exam to correct an error.</span>
 </div>
@@ -48,9 +60,15 @@ The most common benefit type is compensation, but if you’re unsure, check your
 <li class="process-step list-two">
 
 ### Optional: Request a call (informal conference) with the reviewer
-<span class="heading-level-3"><i class="fas fa-phone"></i></span>  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
-<br>
-<br>
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+      You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+  </div>
+</div>
+<br>      
 To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request. 
 
 </li>
@@ -62,10 +80,16 @@ List the issue(s) you want reviewed in Part III of the form
 You can include all or just some of the issues VA has decided. You’ll need to list the issue(s) you disagree with and the VA decision date for each.
 
 [comment]: <> (Cannot find Font Awesome 5 icon to match no copy icon in markup)
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-times-circle"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+     You can’t submit any evidence.
+  </div>
+</div>      
+<br>
 
-<span class="heading-level-3"><i class="far fa-times-circle"></i></span> You can’t submit any evidence. 
-<br>
-<br>
 __What if I have new and relevant evidence?__
 <br>
 If you have evidence to submit, please select another review option.
