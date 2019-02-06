@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure
+title: Agent Orange exposure
 display_title: Agent Orange
 description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
@@ -11,10 +11,10 @@ majorlinks:
   - heading: You may have had contact with Agent Orange if you served in any of these ways
     links:
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
-      title: On C-123 Airplanes
+      title: On C-123 airplanes
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/thailand-military-bases/
-      title: On Thailand Military Bases
+      title: On Thailand military bases
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/service-in-vietnam-korea/
       title: In Vietnam or Korea
@@ -29,7 +29,7 @@ majorlinks:
       title: On U.S. Navy and Coast Guard Ships in Vietnam
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/vietnam-waters/
-      title: In Waters in or near Vietnam
+      title: In waters in or near Vietnam
       description: Between January 9, 1962, and May 7, 1975
 aliases:
   - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/
@@ -115,7 +115,7 @@ When you file your claim, you'll need to submit this evidence:
 
 ### Get more information
 
-[See the Veterans Compensation Benefits Rate Tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
+[See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
 
 Contact us if you have questions:
 - Call the Agent Orange Help Line at 1-800-749-8387 **or** 
@@ -124,8 +124,8 @@ Contact us if you have questions:
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
 
 **If you think you may have had contact with Agent Orange** or other herbicides while serving in the military, you can request a health exam. <br>
-[Get an Agent Orange Registry Health Exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
+[Get an Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
 
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
-[Learn about Non-Hodgkin’s Lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn about Non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
 
