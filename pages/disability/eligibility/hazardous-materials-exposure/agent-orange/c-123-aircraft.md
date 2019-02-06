@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure from C-123 Aircraft
-display_title: C-123 Aircraft
+title: Agent Orange exposure from C-123 aircraft
+display_title: C-123 aircraft
 description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 template: detail-page
 order: 4
