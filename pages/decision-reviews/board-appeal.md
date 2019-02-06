@@ -5,7 +5,18 @@ title: Request a Board Appeal
 display_title: Request a Board Appeal
 vagovprod: false
 vagovstaging: false
-relatedlinks: false
+relatedlinks:
+  - heading: Unusual situations that may be relevant to you
+    links:
+    - url: "#"
+      title: If you are one of multiple people claiming the same benefit
+      description: See if this applies to you and find out how to request a review.
+    - url: "#"
+      title: If you have an insurance claim
+      description: See if this applies to you and find out how to request a review.
+    - url: "#"
+      title: If you have a fiduciary claim
+      description: See if this applies to you and find out how to request a review.
 ---
 <br>
 
@@ -112,7 +123,49 @@ Board of Veterans’ Appeals<br>
 PO Box 27063 <br>
 Washington, DC 20038<br>
 </p>
-</li>
 
-<li class="process-step list-four">
+
+__In person__
+<br>
+Bring your application to a regional benefit office. 
+<br>
+<a href="https://www.va.gov/find-locations/">Find a regional benefit office near you</a>.
+
+__By fax__
+Fax your application to <a href="tel:+1phonenumber">1-844-678-8979</a>.
+<br>
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
+</ol>
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      Mark your calendar 
+    </h4>
+    <p class="usa-alert-text">
+      You have <b>1 year</b> from the date on your decision letter to choose an option and request a Board Appeal (VA Form 10182). 
+      <a href="#">Download VA Form 10-10182</a>
+    </p>
+  </div>
+</div>
+
+## After a Board decision
+If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim or appeal to the U.S. Court of Appeals for Veterans Claims. 
+<a href="#">Learn more about your options after a Board decision</a>.
+
+## What happens next?
+<a href="#">Find out what happens after you request a decision review</a>.
+<br>
+You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
+<a href="#" class="usa-button-primary">Track the Status of Your Appeal </a>
+
+## What If I need help?
+
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+<br>
+<a href="#">Get help requesting a decision review</a>.
+
+## What if I have more questions?
+You can get answers to your questions on our Frequently Asked Questions page.
+<br>
+<a href="#">See the FAQ</a>.
