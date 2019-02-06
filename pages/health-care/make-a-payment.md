@@ -8,6 +8,8 @@ spoke: Manage Benefits
 order: 15
 lastupdate: 2019-01-24
 relatedlinks:
+  heading: Other information you may need
+  links:
   - url: /health-care/about-va-health-benefits/cost-of-care/
     title: VA copay information
     description: Learn more about VA health care copays and view current copay rates.
@@ -18,7 +20,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-You'll need to pay your total VA copay bill balance by the due date on the billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment now—and what to do if you're having trouble making payments.
+You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments.
 
 </div>
 
@@ -27,7 +29,7 @@ You'll need to pay your total VA copay bill balance by the due date on the billi
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>You can pay your bill:</b>
+<b>You can pay your bill in any of these 4 ways:</b>
 
 <h3>Online</h3>
 
@@ -36,11 +38,11 @@ Pay directly from your bank account or by debit or credit card on the secure Pay
 
 <h3>By phone</h3>
 
-Call us at <a href="tel:+18888274817">1-888-827-4817</a>. 
+Call us at <a href="tel:+18888274817">1-888-827-4817</a>. Be sure to have your account number ready.
 
 <h3>By mail</h3>
 
-Send a check or money order to the address below. Make the check or money order payable to “VA,” and be sure to include the account number and payment stub.
+Send your payment stub along with a check or money order to the address below. Make the check or money order payable to “VA,” and include your account number on the check.
 
 <p class="va-address-block">
 Department of Veterans Affairs <br>
@@ -50,7 +52,7 @@ Atlanta, GA 30353-0269 <br>
 
 <h3>In person</h3>
 
-Visit your nearest VA medical center and ask for the agent cashier's office. Bring your payment stub along with a check or money order made payable to “VA,” and be sure to include the account number on your check.
+Visit your nearest VA medical center, and ask for the agent cashier's office. Bring your payment stub along with a check or money order made payable to “VA.” Be sure to include your account number on the check.
 <br>
 [Find your nearest VA medical center](/find-locations/).
 
@@ -65,7 +67,7 @@ Visit your nearest VA medical center and ask for the agent cashier's office. Bri
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You have options such as requesting a monthly repayment plan or disputing the charges on your billing statement. But you need to act quickly. If you don't pay your balance or set up an approved repayment plan within 30 days, we're required by law to add late charges. These charges include interest (starting from the date the charges first appeared on your statement) plus a monthly administrative cost or collection fee. <br>
+You have options such as requesting a monthly repayment plan or disputing the charges on your billing statement. But you need to act quickly to avoid late charges, interest, or collection actions. <br>
 [Find out how to manage your VA copay debt](/health-care/manage-copay-debt/).
 
 </div>
