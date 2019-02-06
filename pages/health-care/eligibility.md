@@ -65,6 +65,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </div>
 </div>
 
+<span id="enhanced"></span>
 <div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Is there anything that will make me more likely to get these benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
