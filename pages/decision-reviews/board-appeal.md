@@ -26,7 +26,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-2" style="padding-right: 10px"><i class="far fa-copy"></i></span>  
+    <span class="heading-level-3" style="padding-right: 10px"><i class="far fa-copy"></i></span>  
   </div>
   <div class="vads-u-flex--auto">  
     You have the option to add new evidence that a judge will review.
@@ -34,7 +34,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-2" style="padding-right: 10px"><i class="fas fa-user" >  </i></span>
+    <span class="heading-level-3" style="padding-right: 10px"><i class="fas fa-user" >  </i></span>
   </div>
   <div class="vads-u-flex--1">  
   You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
