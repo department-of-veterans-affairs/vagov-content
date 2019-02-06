@@ -24,34 +24,28 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Learn about our financial assessment (formerly called a “means test”) and income verification process. And find out how we use this process to help determine if you’re eligible for VA health and whether or not you’ll need to pay copays for certain types of care or medications.
+We're committed to providing free health care to Veterans who can't afford to pay for their care. Find out how we assess and verify your income to help determine if you’re eligible for VA health based on your income—and whether or not you’ll need to pay copays for certain types of care or medications.
 
 </div>
 
-<h3>On this page</h3>
-- [Providing your income when you apply](#apply)
-- [Verifying your self-reported income](#verify)
-- [Updating your income after you're enrolled](#update)
-
-<span id="apply"></span>
-<h2>Providing your income when you apply for VA health care</h2>
-
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Why does VA ask for my income information when I’m applying for health care?</h3>
+<h2 itemprop="name">Why does VA ask for my income information when I’m applying for health care?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-We ask for your income to help us determine if you’re eligible for VA health care based on your income, whether you’ll need to pay copays for certain types of care or medications, and which priority group we’ll assign you to. We’re required by law to collect this information.
+We’re required by law to collect this information. We use it to help us determine 3 things:
+- If you’re eligible for VA health care based on your income, **and**
+- Whether you’ll need to pay copays for certain types of care or medications, **and**
+- Which of our 8 priority groups we’ll assign you to 
 
-We remain committed to provide free health care for all conditions we determine are connected to a Veteran’s service—and to provide free care to all Veterans who have a disability rating of 50% or higher, have catastrophic medical conditions, or who can’t afford to pay for their care. You may qualify for free health care, medications, or both if your income falls below our national limits—even if you don’t qualify based on other factors. <br>
-[View our current income limits](http://nationalincomelimits.vaftl.us/).
+This part of the application process is called an income assessment or financial assessment (and was called a means test in the past).
 
 </div>
 </div>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Do I have to provide my income information when I apply for VA health care?</h3>
+<h3 itemprop="name">Do I have to provide my income information?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -63,12 +57,13 @@ This depends on factors like your military service history and disability rating
 -	Receive a Veterans pension, **or**
 -	Have a special eligibility (such as being a recently discharged combat Veteran or Purple Heart recipient)
 
-If none of these descriptions applies to you, we’ll ask you to provide your income information as part of the VA health care application process.
+If none of these descriptions applies to you, we’ll ask you to provide your income information as part of the VA health care application process. If you agree to pay copays for your care, you don’t have to provide this information. But you should know that unless you meet a VA health care eligibility requirement that’s not related to income, we may deny your enrollment. <br>
+[Learn more about VA health care eligibility]( https://www.va.gov/health-care/eligibility/). 
 
-**Note:**
+**Notes:**
 - **If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998,** you don't have to provide your income to qualify for 5 years of free VA health care for any illness that may be related to your military service. But you can provide your income to help us determine if you’re eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.<br>
 [Learn more about VA health care for returning service members](https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp).
-- **If you were exposed to Agent Orange in or near Vietnam, ionizing radiation in certain service locations or jobs,or environmental contaminants in the Persian Gulf,** you don't have to provide your income information to qualify for free care related to your exposure. But you can provide your income to help us determine if you’re eligible for free care for conditions not related to your service. <br>
+- **If you were exposed to Agent Orange in or near Vietnam, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Gulf,** you don't have to provide your income information to qualify for free care related to your exposure. But you can provide your income to help us determine if you’re eligible for free care for conditions not related to your service. <br>
 [Learn more about hazardous exposures](/disability/eligibility/hazardous-materials-exposure/).
 
 </div>
@@ -82,36 +77,14 @@ If none of these descriptions applies to you, we’ll ask you to provide your in
 
 You’ll need to provide your gross household income for the previous year. So if you’re applying for health care in 2019, you’ll need to provide your gross household income for 2018.
 
-Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year from all sources before taxes. This includes your total income from work (not the money you receive in your paycheck, but the total before taxes are taken out). It also includes other income like money you took from your retirement fund or income from the sale of a house. 
-
-If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
+Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year from all sources before taxes. This includes your total income from work before taxes. It also includes other income like money you may have taken from a retirement fund or income from the sale of a house. If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
 
 </div>
 </div>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What if I don’t want to provide my income?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-If you agree to pay copays for your care, you don’t have to provide your income information. 
-
-But you should know that unless you meet a VA health care eligibility requirement that’s not related to income (like receiving a Purple Heart or Medal of Honor or serving in certain combat areas), we may deny your enrollment.
-
-[Learn more about VA health care eligibility]( https://www.va.gov/health-care/eligibility/). 
-
-</div>
-</div>
-</div>
-
-------
-
-<span id="verify"></span>
-<h2>Verifying your self-reported income</h2>
-
-<div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Does VA verify the income information I provide?</h3>
+<h2 itemprop="name">Does VA verify the income information I provide?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -135,6 +108,7 @@ If your self-reported income is below our income limits, but the income we recei
 [View our current income limits]( http://nationalincomelimits.vaftl.us/).
 
 <h4> If you don’t respond</h4>
+
 **If we don’t hear from you within 45 days,** we’ll send you a reminder letter.
 
 **If we don’t hear from you within 75 days,** we’ll assume the information from the IRS and SSA is correct. We’ll send you a letter to explain the changes in your eligibility or copay status. We’ll also explain how you can appeal our decision.
@@ -149,13 +123,8 @@ If your self-reported income is below our income limits, but the income we recei
 </div>
 </div>
 
-------
-
-<span id="update"></span>
-<h2>Updating your income after you’re enrolled in VA health care</h2>
-
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Once I’m enrolled in VA health care, do I need to provide my income information every year?</h3>
+<h2 itemprop="name">Once I’m enrolled in VA health care, do I need to update my income information every year?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -175,7 +144,7 @@ We’ll receive your income information from the Internal Revenue Service (IRS) 
 <div itemprop="text">
 
 We encourage you to report changes in your income as well as any chances to your personal information (like your address, phone number, dependents, or other health insurance). You can do this any time by using our Health Benefits Update Form (VA Form 10-10EZR). <br>
-[Learn how to submit your VA Form 10-10EZR)](/health-care/update-health-information/). 
+[Learn how to submit your VA Form 10-10EZR](/health-care/update-health-information/). 
 
 </div>
 </div>
