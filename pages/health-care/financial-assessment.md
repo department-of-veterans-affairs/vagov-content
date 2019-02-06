@@ -126,7 +126,7 @@ If your self-reported income is below our income limits, but the income we recei
 
 <b>Read more about:<b/>
 
-<b> <div class="usa-accordion">
+<div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="verification-process">The income verification process</button>
