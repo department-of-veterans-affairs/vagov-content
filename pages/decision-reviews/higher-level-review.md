@@ -276,6 +276,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 __In person__
 <br>
 Bring your application to a regional benefit office. 
+<br>
 <a href="#">Find a regional benefit office near you</a>.
 <br>
 
@@ -294,6 +295,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim (VA Form 20-0995). 
+      <br>
       <a href="#">Download VA Form 20-0995</a>
     </p>
   </div>
