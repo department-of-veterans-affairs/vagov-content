@@ -224,15 +224,16 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 <div class ="vads-u-display--flex vads-u-flex-direction--row">
 <div class ="vads-u-flex--1">
-  <b>Veterans Health Administration</b>
+  <b>Vocational Rehabilitation and Employment</b>
     <p class="va-address-block">
-Department of Veterans Affairs<br>
-Veterans Health Administration<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+     Department of Veterans Affairs<br>
+     Vocational Rehabilitation and Employment Intake Center<br>
+     PO Box 4444<br>
+     Janesville, WI 53547-4444<br>
+     Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
+
 
 <div class ="vads-u-flex--1">
   <b>Insurance</b>
