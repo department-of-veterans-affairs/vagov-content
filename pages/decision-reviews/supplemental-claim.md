@@ -58,7 +58,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 **What if I don’t have any new and relevant evidence?**
 If you don’t have evidence to submit, please select another review option.
 <br>
-<a href="/decision-reviews/supplemental-claim/">Learn more about the review options</a>.
+[Learn more about the review options](/decision-reviews/supplemental-claim/).
 
 </li>
 
@@ -70,7 +70,7 @@ If you don’t have evidence to submit, please select another review option.
 Apply by mail using Decision Review Request: Supplemental Claim (VA Form 20-0995). 
 <br>
 
-<a href="/decision-reviews/supplemental-claim/">Download VA Form 20-0995</a>.
+[Download VA Form 20-0995](#).
 
 <br>
 
@@ -86,7 +86,7 @@ Janesville, WI 53547-4444<br>
 
 **In person**
 Bring your application to a regional benefit office. 
-<a href="/decision-reviews/supplemental-claim/">Find a regional benefit office near you</a>.
+[Find a regional benefit office near you](/find-locations/).
 
 **By fax**
 <br>
@@ -108,20 +108,20 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 </div>
 
 ## What happens next?
-<a href="#">Find out what happens after you request a decision review</a>.
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
 <br>
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
-<a href="#" class="usa-button-primary">Track the status of your claim</a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim</a>
 
 
 ## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ## What if I have more questions?
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>  
+[See the FAQ](/decision-reviews/faq/)  
 
 
