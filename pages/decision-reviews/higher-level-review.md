@@ -224,7 +224,7 @@ __In person__
 <br>
 Bring your application to a regional benefit office. 
 <br>
-<a href="#">Find a regional benefit office near you</a>.
+[Find a regional benefit office near you](/find-locations/).
 <br>
 
 __By fax__
@@ -249,15 +249,15 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 </div>
 
 ### What happens next?
-<a href="#">Find out what happens after you request a decision review </a>.
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 <br>
-<a href="#" class="usa-button-primary">Track the Status of Your Claim </a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
 
 ### What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ### What if I have more questions?
 You can get answers to your questions on our Frequently Asked Questions page.
-<a href="#">See the FAQ</a>.
+[See the FAQ](/decision-reviews/faq/).
