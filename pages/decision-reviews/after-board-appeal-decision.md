@@ -18,7 +18,7 @@ If you disagree with the Board’s decision, you have 2 options. You can file a 
 
 If you have new and relevant evidence, you can file a Supplemental Claim to continue your review.
 <br> 
-<a href="#">Learn more about Supplemental Claims</a>.  
+[Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/).  
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -29,7 +29,7 @@ If you have new and relevant evidence, you can file a Supplemental Claim to cont
   </div>
 </div>  
 
-<a href ="#">Download VA Form 20-0995</a>.
+[Download VA Form 20-0995](#).
 
 You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself.  
 <a href="#">Learn more about filing a Court Appeal</a>.
@@ -48,19 +48,19 @@ You can request a review of the Board’s decision from the U.S. Court of Appeal
 </div>
 
 ## What happens next?
-<a href="#">Find out what happens after you request a decision review</a>.
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="#" class="usa-button-primary">Track the Status of Your Claim </a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
 
 ## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
 <br> 
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ## What if I have more questions?
 
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>.
+[See the FAQ](/decision-reviews/faq/).
