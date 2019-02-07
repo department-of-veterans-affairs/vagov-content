@@ -15,6 +15,7 @@ relatedlinks:
       description: 
 aliases:
   - /disability-benefits/apply/evidence/fully-developed-disability-claims/
+  - /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
 ---
 
 <div itemprop="description" class="va-introtext">
