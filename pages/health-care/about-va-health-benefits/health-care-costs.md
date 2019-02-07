@@ -12,12 +12,9 @@ relatedlinks:
     - url: /health-care/financial-assessment/
       title: How we assess and verify your income
       description: Learn more about our process—and how we use your income information to help determine whether you'll pay copays.
-    - url: /health-care/make-a-payment/
-      title: Make a payment
-      description: Pay your VA copay bill online, by mail, phone, or in person.
-    - url: /health-care/manage-copay-debt/
-      title: Manage your VA copay debt
-      description: If you're having trouble paying your copays, or disagree with the charges, find out how we can help you manage your debt.
+    - url: /health-care/pay-copay-bill/
+      title: Pay your copay bill
+      description: Find out how to pay your bill—and what to do if you're struggling to make your payments.    
 
 ---
 
@@ -48,7 +45,7 @@ You can also get certain services for free—like readjustment counseling and re
 <div itemprop="text">
 
 You may need to pay a copay for care provided by a VA or approved community health care provider to treat conditions not related to a your service. This will depend on factors such as your disability rating, income level, military service record, and the priority group we assign you to when you enroll in VA health care. We have 8 priority groups. The higher the number of your priority group, the more likely you'll be to pay copays.<br>
-[View current copay rates](#rates).
+[View current copay rates](/health-care/copay-rates/).
 
 If you haven't applied for VA health care yet, you can review VA health care eligibility requirements, or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Learn more about VA health care eligibility requirements](/health-care/eligibility/).<br>
