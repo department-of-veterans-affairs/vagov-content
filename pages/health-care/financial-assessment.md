@@ -10,15 +10,12 @@ lastupdate: 2019-02-05
 relatedlinks:
   - heading: Other information you may need
     links:
-    - url: /health-care/about-va-health-benefits/copay/
-      title: VA copay information
-      description: Learn more about VA health care copays and view current copay rates.
-    - url: /health-care/make-a-payment/
-      title: Make a payment
+    - url: /health-care/copay-rates/
+      title: Current copay rates
+      description: View current copay rates for certain care and medications.
+    - url: /health-care/pay-copay-bill/
+      title: Pay your copay bill
       description: Pay your VA copay bill online, by mail, phone, or in person.
-    - url: /health-care/manage-copay-debt/
-      title: Manage your VA copay debt
-      description: If you're having trouble paying your copays, find out how we can help you manage your debt.
 
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
