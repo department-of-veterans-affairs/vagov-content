@@ -18,9 +18,9 @@ relatedlinks:
     - url: /health-care/financial-assessment/
       title: Financial assessment and income verification
       description: Learn more about how we assess and verify your income to help determine your eligibility and whether you'll pay copays for certain types of care and medications.
-    - url: /health-care/about-va-health-benefits/copay/
-      title: VA copay information
-      description: Find out more about VA copays and view current copay rates.      
+    - url: /health-care/copay-rates/
+      title: Current VA copay rates
+      description: View current rates for copays for certain care and medications.
 
 ---
 
