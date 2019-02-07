@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-We're committed to providing free health care to Veterans who can't afford to pay for their care. Find out how we assess and verify your income to help determine if you’re eligible for free VA health based—and whether or not you’ll need to pay copays for certain types of care or medications.
+We're committed to providing free health care to Veterans who can't afford to pay for their care. Find out how we assess and verify your income to help determine if you’re eligible for free VA health care—and whether or not you’ll need to pay copays for certain types of care or medications.
 
 </div>
 
@@ -151,7 +151,7 @@ If our review of your information still shows that your income is above our limi
 
 - **If you completed a financial assessment only to find out if you were eligible for cost-free medications or for beneficiary travel pay,** you’ll need to provide updated income information each year.
 
-- **If we determined that you’re eligible for free VA health care because your household income is below our income limit,** you don’t have to provide updated income information each year. But, if you last provided your updated income information before March 24, 2014, you’ll need to provide your current information at your next VA appointment. </br>
+- **If we determined that you’re eligible for free VA health care because your household income is below our income limit,** you don’t have to provide updated income information each year. But, if you last provided your updated income information before March 24, 2014, you’ll need to provide your current information at your next VA appointment. </br> </br>
 We’ll receive your income information from the IRS and SSA each year to confirm that you’re still eligible for free VA health care. We’ll contact you only if this information changes your eligibility or copay requirements. If you disagree with the information, you can keep using VA health care services while we review your situation.
 
 **Note:** Even when not required, we encourage you to report changes in your income. It's also important to let us know about changes to your personal information (like your address, phone number, dependents, or other health insurance). You can do this any time by using our Health Benefits Update Form (VA Form 10-10EZR). <br>
