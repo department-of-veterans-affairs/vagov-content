@@ -127,4 +127,21 @@ After 120 days, we're required by law to transfer your debt to the U.S. Treasury
 </div>
 </div>
 </div>
+
+------
+
+<h2>How to get help with Veterans Choice Program billing issues</h2>
+
+If you receive care through the Choice Program and you're having issues with adverse credit reporting or debt collections because of incorrect or delayed billing, we can help.
+
+Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. 
+
+We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
+[Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).
+
+</div>
+</div>
+</div>
+</div>
+
 </div>
