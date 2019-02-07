@@ -107,7 +107,7 @@ Your gross household income means the total amount of money you—and anyone liv
 
 This depends on your situation. We don’t verify all Veterans’ income. 
 
-If the household income information you provide shows that your income falls below our limits and qualifies you for free VA health care, medications, or both, we’re required by law to verify that your self-reported information is accurate. We do this by confirming your information with the Internal Revenue Service (IRS) and Social Security Administration (SSA). <br>
+If the information you provide shows that your income falls below our limits and qualifies you for free VA health care, medications, or both, we’re required by law to verify the information. We do this by confirming your information with the Internal Revenue Service (IRS) and Social Security Administration (SSA). <br>
 [View our current income limits]( http://nationalincomelimits.vaftl.us/).
 
 Because of tax deadlines, we usually begin this process the next July after you report your income. So for example, if you provide information for the year 2018, we’ll verify it in July of 2019.
@@ -118,19 +118,19 @@ Because of tax deadlines, we usually begin this process the next July after you 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="verification-process">Find out what happens if the IRS and SSA information shows you have income above our limits</button>
 <div id="verification-process" class="usa-accordion-content">
 
-If the IRS and SSA information shows that you have income above our limits, we’ll notify you (and your spouse or partner if applicable) by letter. You’ll have the chance to verify or dispute this information. You can also send documents showing you have additional deductible expenses that we should consider. 
+If the information we receive from the IRS and SSA shows that you have income above our limits, we’ll notify you (and your spouse or partner if applicable) by letter. You’ll have the chance to verify or dispute this information. You can also send documents showing you have additional deductible expenses that we should consider. 
 
-<b>If you don't respond to our letter</b>
+<b>If you don't respond to our letter:</b>
 
 **After 45 days,** we’ll send you a reminder letter.
 
 **After 75 days,** we’ll assume the information from the IRS and SSA is correct. We’ll send you a letter to explain the changes in your eligibility or copay status. We’ll also explain how you can appeal our decision.
 
-<b>If you respond by disputing the information in our letter</b>
+<b>If you respond by disputing the information in our letter:</b>
 
 When we receive your response, we’ll assign an income verification case manager to work with you (and your representative, if you choose to have one). Your case manager will guide you through the process and help you find any authorized deductions that may reduce your total gross household income below our limits. We aim to resolve all cases within 75 days.
 
-If our review of your information still shows that your income is above our income limits for free health care or medications, we’ll send you a final letter explaining that you’ll need to pay copays for future care as well as for any care you received during the year for which we were reviewing your income. We’ll also explain how to appeal our decision.
+If our review of your information still shows that your income is above our limits, we’ll send you a final letter explaining that you’ll need to pay copays for future care as well as for any care you received during the year for which we were reviewing your income. We’ll also explain how to appeal our decision.
 
 </div>
 </li>
@@ -152,7 +152,6 @@ If our review of your information still shows that your income is above our inco
 - **If you completed a financial assessment only to find out if you were eligible for cost-free medications or for beneficiary travel pay,** you’ll need to provide updated income information each year.
 
 - **If we determined that you’re eligible for free VA health care because your household income is below our income limit,** you don’t have to provide updated income information each year. But, if you last provided your updated income information before March 24, 2014, you’ll need to provide your current information at your next VA appointment. </br>
-</br>
 We’ll receive your income information from the IRS and SSA each year to confirm that you’re still eligible for free VA health care. We’ll contact you only if this information changes your eligibility or copay requirements. If you disagree with the information, you can keep using VA health care services while we review your situation.
 
 **Note:** Even when not required, we encourage you to report changes in your income. It's also important to let us know about changes to your personal information (like your address, phone number, dependents, or other health insurance). You can do this any time by using our Health Benefits Update Form (VA Form 10-10EZR). <br>
