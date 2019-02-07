@@ -82,8 +82,8 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 
 First, you should know that we won't withhold any treatment or medication from you because you can't pay your copays. But we're required by law to collect all copay debts for VA health care services.
 
-You have 30 days from the time you receive a copay billing statement from us to pay the full amount, set up a payment plan to pay the amount over time, request a waiver, or dispute the charges. <br>
-[Find out how to dispute your copay charges](/health-care/pay-copay-bill/dispute/).
+You have 30 days from the time you receive a copay billing statement from us to pay the full amount, dispute the charges, or request financial hardship assistance (like a repayment plan or debt relief) before we'll begin to add late charges and interest. <br>
+[Learn how to dispute your copay charges](/health-care/pay-copay-bill/dispute/). <br>
 [Learn how to request financial hardship assistance](/health-care/pay-copay-bill/financial-hardship/).
 
 <b>Find out what happens if you don't take one of these actions within:</b>
