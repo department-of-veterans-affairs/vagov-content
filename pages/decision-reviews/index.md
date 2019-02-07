@@ -8,13 +8,13 @@ vagovstaging: false
 relatedlinks:
   - heading: Unusual situations that may apply
     links:
-    - url: "#"
+    - url: "/decision-reviews/multiple-party-claims/"
       title: If you are one of multiple people claiming the same benefit
       description: Learn more if this applies to you and how to request a review.
-    - url: "#"
+    - url: "/decision-reviews/insurance-claims/"
       title: If you have an insurance claim
       description: Learn more if this applies to you and how to request a review.
-    - url: "#"
+    - url: "/decision-reviews/fiduciary-claims/"
       title: If you have a fiduciary claim
       description: Learn more if this applies to you and how to request a review.
 ---
@@ -48,24 +48,26 @@ You'll need to follow a different process to appeal your disability compensation
     </h4>
     <p class="usa-alert-text">
       You have 1 year from the date on your decision letter to request a decision review
-      and submit the corresponding form unless <a href="#">one of these unusual situations applies</a>.
+      and submit the corresponding form unless <a href="#unusual-situations">one of these unusual situations applies</a>.
     </p>
   </div>
 </div>
 
 ## Decision Review Options
 
-- [Add new and relevant evidence (Supplemental Claim)](#)
-- [Ask for a second opinion from a senior reviewer (Higher-Level Review)](#)
-- [Appeal to a Veterans Law Judge at the Board of Veterans’ Appeals (Board Appeal)](#)
+- [Add new and relevant evidence (Supplemental Claim)](#supplemental-claim)
+- [Ask for a second opinion from a senior reviewer (Higher-Level Review)](#higher-level-review)
+- [Appeal to a Veterans Law Judge at the Board of Veterans’ Appeals (Board Appeal)](#board-appeal)
+
+<div id="supplemental-claim">
 
 ### Add new and relevant evidence
-
+</div>
 [Download VA Form 20-0995 (Supplemental Claim)](#)
 
 In choosing a Supplemental Claim, you are adding new evidence that is relevant to
 your case or identifying evidence for review. A regional office employee will
-determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](#).
+determine whether the new evidence changes the decision. [Learn how to request a supplemental claim](/decision-reviews/supplemental-claim).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -81,14 +83,16 @@ determine whether the new evidence changes the decision. [Learn how to request a
   <span class="description">Average time to complete your review.</span>
 </div>
 
-### Ask for a second opinion from a senior reviewer
+<div id="higher-level-review">
 
+### Ask for a second opinion from a senior reviewer
+</div>
 [Download VA Form 20-0996 (Higher-Level Review)](#)
 
 In choosing a Higher-Level Review, you are asking for another review. A senior
 reviewer at different regional office will take another look at your case and determine
 whether the decision can be changed based on a difference of opinion or because VA
-made an error. [Learn how to request a Higher-Level Review](#).
+made an error. [Learn how to request a Higher-Level Review](/decision-reviews/get-help-with-review-request).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -123,12 +127,14 @@ decision.
 
 <br>
 
-### Appeal to a Veterans Law Judge
+<div id="board-appeal">
 
+### Appeal to a Veterans Law Judge
+</div>
 [Download VA Form 10182 (Board Appeal)](#)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC will review your case. <br>
-[Learn more about how to request a Board Appeal](#).
+[Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -153,7 +159,7 @@ A judge at the Board of Veterans’ Appeals in Washington, DC will review your c
   </div>
   <div class="vads-u-flex--1"> 
       You have the option to request a hearing with a judge. A video conference
-hearing will take place at a <a href ="https://www.va.gov/find-locations/">VA location near you</a>.
+hearing will take place at a <a href ="/find-locations/">VA location near you</a>.
   </div>
 </div>  
 
@@ -175,11 +181,11 @@ You can request a Board Appeal afer an original claim, Supplemental Claim or Hig
 
 If you disagree with the Board’s decision and have new and relevant evidence that
 supports your case, you can request a Supplemental Claim. You can also appeal to the
-Court of Appeals for Veterans Claims. [Learn more about your options afer a Board decision](#).
+Court of Appeals for Veterans Claims. [Learn more about your options afer a Board decision](/decision-reviews/after-board-appeal-decision).
 
 ## What happens after I apply?
 
-[Find out what happens afer you apply](#).
+[Find out what happens afer you apply](/decision-reviews/after-you-request-review).
 
 You don’t need to do anything while you’re waiting unless we send a letter asking for
 more information. If VA schedule exams for you, be sure not to miss them.
@@ -187,17 +193,17 @@ more information. If VA schedule exams for you, be sure not to miss them.
 You can check the status of your appeal online. The time frame you see may vary based
 on how complex your appeal.
 
-<a href="#" class="usa-button-primary">Track the Status of Your Appeal</a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Appeal</a>
 
 ## What if I need help?
 
 If you need help, a Veterans Service Organization or VA-accredited attorney or agent can
 represent you, provide guidance or help you file out an application. Contact your local VA
-office for assistance or [get help filing your appeal](#). You can also call the White House Hotline
-at [1-855-948-3211](#).
+office for assistance or [get help filing your appeal](/decision-reviews/get-help-with-review-request). You can also call the White House Hotline
+at <a href="tel:+1phonenumber">1-855-948-3211</a>.
 
 ## What if I have more questions?
 
-You can get answers to your questions on our [Frequently Asked Questions](#).
+You can get answers to your questions on our [Frequently Asked Questions](/decision-reviews/faq).
 
-
+<div id="unusual-situations"></div>
