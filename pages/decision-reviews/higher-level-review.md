@@ -117,7 +117,7 @@ Janesville, WI 53547-4444<br>
 </p>
 
 <!-- <ul class="usa-accordion" aria-multiselectable="true">
-  <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Other benefit office addresses</button>
+  <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Find addresses for other benefit types</button>
     <div id="VA-burials-survivor-spouse" class="usa-accordion-content">
 
 <b>Pension/Survivors Benefits</b>
