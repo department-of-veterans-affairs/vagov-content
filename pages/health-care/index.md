@@ -137,7 +137,7 @@ hublinks:
   - id: "more"
     title: More Information and Resources
     links:
-      - url: /health-care/about-va-health-benefits/copay-rates/
+      - url: /health-care/copay-rates/
         label: Current Copay Rates
         description: View the current copay rates for certain types of care and medications.
       - url: /health-care/health-needs-conditions/mental-health/
@@ -156,10 +156,10 @@ hublinks:
         external: true
         label: The Veterans Choice Program
         description: If you're enrolled in VA health care, find out if you can receive care from a local community provider through the Veterans Choice Program.
-     - url: /health-care/financial-assessment/
+      - url: /health-care/financial-assessment/
         label: How Your Income Affects Eligibility and Copays
         description: Learn how we assess and verify your income to determine if you qualify for VA health care and whether you'll need to pay a copay for certain types of care and medications.
-     - url: /health-care/about-affordable-care-act/
+      - url: /health-care/about-affordable-care-act/
         label: The Affordable Care Act (ACA) and Your Health Coverage
         description: Find out what you need to know about the Affordable Care Act and what it means for Veterans.
       - url: https://www.research.va.gov/mvp/
@@ -171,7 +171,7 @@ hublinks:
         description: Get information about your VA facility, like how quickly you can be seen and what other Veterans say about their experiences.
       - url: https://www.va.gov/health/rights/patientrights.asp
         external: true
-        label:  Patient Rights and Responsibilities
+        label: Patient Rights and Responsibilities
         description: Read about your basic rights and responsibilities when you receive care at a VA health facility or live in a VA community living center.
 
 ---
