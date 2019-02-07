@@ -5,8 +5,13 @@ title: Fiduciary Claims
 display_title: Fiduciary Claims
 vagovprod: false
 vagovstaging: false
-relatedlinks: false
----
+relatedlinks:
+  - heading: Learn more about the fiduciary program
+    links:
+    - url: "#"
+      title: Fiduciary and Beneficiary Programs
+      description: Learn about this program if you’d like to apply as a fiduciary for a family member or friend.
+------
 <br>
 <div itemprop="description" class="va-introtext">
 If you disagree with a VA decision, you can choose one of the following review options to continue your case. If you aren’t satisfied with that review, you can try another option.
@@ -76,3 +81,60 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. 
 <br>
 <a href="#">Learn more about how to request a Board Appeal</a>.
+
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 1 year</span></span>
+  <span class="description">Average time to complete your review. With no new evidence and no hearing, a judge will decide your case in 1 year.</span>
+</div>
+
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+     You have the option to add new evidence that a judge will review.
+  </div>   
+</div>
+<div class ="vads-u-display--flex vads-u-margin-y--1">    
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3"><i class="fas fa-user" style="margin-right: 1.5rem"></i></span>
+  </div>
+  <div class="vads-u-flex--1"> 
+    You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
+  </div>
+</div>  
+
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 6 year</span></span>
+  <span class="description">Average time to complete your review when you submit new evidence or request a hearing with a judge.</span>
+</div>
+
+__Can I request a Board Appeal?__
+
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request two Board Appeals in a row.
+
+## After a Board Decision
+
+If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. 
+<br>
+<a href="#">Learn more about your options after a Board decision.</a>
+
+## What happens next?
+
+<a href="#">Find out what happens after you request a decision review</a>. 
+
+You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
+
+<a href="#" class="usa-button-primary">Track the Status of Your Appeal</a>
+
+## What if I need help?
+
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+<br>
+<a href="#">Get help requesting a decision review</a>.
+
+## What if I have more questions?
+You can get answers to your questions on our Frequently Asked Questions page.
+<br>
+<a href="#">See the FAQ</a>.
+
