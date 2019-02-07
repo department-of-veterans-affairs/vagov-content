@@ -15,14 +15,14 @@ relatedlinks:
     description: Learn more about VA health care copays and view current copay rates.
   - url: /health-care/manage-copay-debt/
     title: Manage your VA copay debt
-    description: If you're having trouble paying your copays, find out how we can help you manage your debt.
+    description: If you're having trouble paying your copay bill, or disagree with the charges, find out how we can help you manage your debt.
     
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments.
+You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments or disagree with your bill.
 
 </div>
 
@@ -65,11 +65,11 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What if I can't pay my bill?</h2>
+<h2 itemprop="name">What if I disagree with or can't afford to pay my bill?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You have options such as requesting a monthly repayment plan or disputing the charges on your billing statement. But you need to act quickly to avoid late charges, interest, or collection actions. <br>
+You have the right to dispute your copay charges. If you're having trouble making payments, you have options such as requesting a monthly repayment plan or debt relief. But you need to act within 30 days to avoid late charges and interest, and within 60 days to avoid other collection actions. <br>
 [Find out how to manage your VA copay debt](/health-care/manage-copay-debt/).
 
 </div>
@@ -87,6 +87,7 @@ Or visit your nearest VA medical center or other health facility and ask to talk
 [Find your nearest VA health facility](/find-locations/). <br>
 [View a guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf).
 
+</div>
 </div>
 </div>
 </div>
