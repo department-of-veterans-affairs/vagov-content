@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How we assess and verify your income
-display_title: How we assess and verify your income
+title: How your income affects eligibility and copays
+display_title: How income affects eligibility and copays
 collection: healthCare
 spoke: More Resources
 order: 18
