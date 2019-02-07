@@ -25,7 +25,7 @@ You don’t need to do anything unless VA sends you a letter asking for more inf
 ### What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ### What if I want to choose a different review option after I’ve submitted the form?
 
@@ -36,4 +36,4 @@ If you’ve submitted a form and want to change your review option, you have to 
 <br>
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>.
+<a href="/decision-reviews/faq/">See the FAQ</a>.
