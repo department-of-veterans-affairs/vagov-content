@@ -15,7 +15,7 @@ relatedlinks:
       description: Learn more about VA health care copays and view current copay rates.
     - url: /health-care/make-a-payment/
       title: Make a payment
-      description: Pay your VA medical bill online, by mail, phone, or in person.
+      description: Pay your VA copay bill online, by mail, phone, or in person.
     - url: /health-care/manage-copay-debt/
       title: Manage your VA copay debt
       description: If you're having trouble paying your copays, find out how we can help you manage your debt.
