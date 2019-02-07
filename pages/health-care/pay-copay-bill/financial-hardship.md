@@ -9,12 +9,13 @@ order:
 lastupdate: 2019-01-24
 
 ---
+
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 We have programs to help if you're struggling because of life situations like losing your job, having a sudden decrease in income, or having increases in out-of-pocket family health care expenses.
 </div>
-<div itemscope itemtype="http://schema.org/Question">
 
+<div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">What can I do if I can't afford to pay my current VA copay debt?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
