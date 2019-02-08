@@ -18,6 +18,8 @@ order: 18
 - [Medications](#inpatient)
 - [Geriatrics and extended care](#geriatrics)
 
+<b>Note:</b> Some Veterans are exempt from paying copays due to disability rating, income level, or special eligibility factors.
+
 <h3>Outpatient care</h3>
 <b>(Primary or specialty care that doesn't require an overnight stay)</b>
 
