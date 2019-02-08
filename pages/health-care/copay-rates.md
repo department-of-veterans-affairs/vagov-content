@@ -9,7 +9,18 @@ lastupdate: 2019-02-07
 collection: healthCare
 spoke: More Resources
 order: 18
+relatedlinks:
+  - heading: Other information you may need
+    links:
+    - url: /health-care/pay-copay-bill/
+      title: Pay your copay bill
+      description: Find out how to pay your copay bill—and what to do if you're having trouble making payments.
+    - url: /health-care/financial-assessment/
+      title: How your income affects eligibility and copays
+      description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care and medications.
+      
 ---
+
 <h2>Effective January 1, 2019</h2>
 
 <b>View rates for:</b>
