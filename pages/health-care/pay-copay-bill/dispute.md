@@ -13,7 +13,7 @@ relatedlinks:
     - url: /health-care/pay-copay-bill/financial-hardship/
       title: Request financial hardship assistance
       description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
-    - url: /health-care/current-copay-rates/
+    - url: /health-care/copay-rates/
       title: Current copay rates
       description: View our current copay rates for different services and medication. 
     - url: /health-care/update-health-information/
