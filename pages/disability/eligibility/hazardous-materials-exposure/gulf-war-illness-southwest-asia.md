@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illness Linked to Service in Southwest Asia
+title: Gulf War Illness linked to service in Southwest Asia
 display_title: Gulf War Illness SW Asia
 description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Southwest Asia (often called "Gulf War Syndrome"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
 concurrence: incomplete
