@@ -16,7 +16,7 @@ relatedlinks:
       title: Update your health benefits information (VA Form 10-10EZR)
       description: Update your personal, financial, or insurance information after you’re enrolled in the VA health care program.
     - url: /health-care/financial-assessment/
-      title: Financial assessment and income verification
+      title: How your income affects eligibility and copays
       description: Learn more about how we assess and verify your income to help determine your eligibility and whether you'll pay copays for certain types of care and medications.
     - url: /health-care/copay-rates/
       title: Current VA copay rates
