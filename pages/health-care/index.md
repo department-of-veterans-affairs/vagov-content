@@ -138,8 +138,8 @@ hublinks:
     title: More Information and Resources
     links:
       - url: /health-care/copay-rates/
-        label: Current Copay Rates
-        description: View the current copay rates for certain types of care and medications.
+        label: Copay Rates
+        description: View our current copay rates for different types of care, tests, and medications.
       - url: /health-care/health-needs-conditions/mental-health/
         label: Mental Health Services
         description: Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.
@@ -156,9 +156,6 @@ hublinks:
         external: true
         label: The Veterans Choice Program
         description: If you're enrolled in VA health care, find out if you can receive care from a local community provider through the Veterans Choice Program.
-      - url: /health-care/financial-assessment/
-        label: How Your Income Affects Eligibility and Copays
-        description: Learn how we assess and verify your income to determine if you qualify for VA health care and whether you'll need to pay a copay for certain types of care and medications.
       - url: /health-care/about-affordable-care-act/
         label: The Affordable Care Act (ACA) and Your Health Coverage
         description: Find out what you need to know about the Affordable Care Act and what it means for Veterans.
