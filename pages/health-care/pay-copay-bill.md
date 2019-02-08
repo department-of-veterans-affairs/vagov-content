@@ -77,6 +77,7 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 </div>
 
 <span id="collection"></span>
+
 <div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">What happens if I don't pay my bill?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
