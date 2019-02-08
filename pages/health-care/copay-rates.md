@@ -15,9 +15,9 @@ relatedlinks:
     - url: /health-care/pay-copay-bill/
       title: Pay your copay bill
       description: Find out how to pay your copay bill—and what to do if you're having trouble making payments.
-    - url: /health-care/financial-assessment/
-      title: How your income affects eligibility and copays
-      description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care and medications.
+    - url: /health-care/about-va-health-benefits/health-care-costs/
+      title: Your health care costs
+      description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
       
 ---
 
@@ -29,7 +29,8 @@ relatedlinks:
 - [Medications](#medications)
 - [Geriatrics and extended care](#geriatrics)
 
-<b>Note:</b> Some Veterans are exempt from paying copays due to disability rating, income level, or special eligibility factors.
+<b>Note:</b> Some Veterans are exempt from paying copays due to disability rating, income level, or special eligibility factors. <br>
+[Learn how we determine whether you'll pay copays](/health-care/about-va-health-benefits/health-care-costs/).
 
 ------
 <span id="outpatient"></span>
