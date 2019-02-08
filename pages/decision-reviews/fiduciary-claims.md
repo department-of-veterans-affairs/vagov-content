@@ -41,7 +41,7 @@ Please choose one of the options below for your next review.
 
 ### Ask for a second opinion from a senior reviewer
 
-<a href="#">Download VA Form 20-0996 (Higher-Level Review)</a>
+[Download VA Form 20-0996 (Higher-Level Review)](#)
 
 When you choose a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer at a different regional office will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 
 <br>
@@ -75,12 +75,12 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim 
 
 ### Appeal to a Veterans Law Judge
 
-<a href="#">Download VA Form 10182 (Board Appeal)</a>
+[Download VA Form 10182 (Board Appeal)](#)
 <br>
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. 
 <br>
-<a href="#">Learn more about how to request a Board Appeal</a>.
+[Learn more about how to request a Board Appeal](#).
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 1 year</span></span>
@@ -117,11 +117,11 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. 
 <br>
-<a href="#">Learn more about your options after a Board decision.</a>
+[Learn more about your options after a Board decision.](#)
 
 ## What happens next?
 
-<a href="#">Find out what happens after you request a decision review</a>. 
+[Find out what happens after you request a decision review](#). 
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
@@ -131,10 +131,10 @@ You don’t need to do anything while you wait unless VA sends you a letter aski
 
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](#).
 
 ## What if I have more questions?
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>.
+[See the FAQ](#).
 

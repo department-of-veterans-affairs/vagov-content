@@ -28,12 +28,12 @@ If you disagree with a VA decision, you can choose one of the following review o
 ## Decisions Review Options
 
 ### Add new and relevant evidence
-<a href="#">Download VA Form 20-0995 (Supplemental Claim)</a>
+[Download VA Form 20-0995 (Supplemental Claim)](#)
 <br>
 
 When you choose a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying evidence for review. A reviewer will determine whether the new evidence changes the decision. 
 <br>
-<a href="#">Learn how to file a Supplemental Claim</a>.
+[Learn how to file a Supplemental Claim](#).
 <br>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -52,12 +52,12 @@ When you choose a Supplemental Claim, you’re adding new evidence that’s rele
 
 ### Ask for a second opinion from a senior reviewer
 
-<a href="#">Download VA Form 20-0996 (Higher-Level Review)</a>
+[Download VA Form 20-0996 (Higher-Level Review)](#)
 <br>
 
 When you choose to request a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 
 <br>
-<a href="#">Learn how to request a Higher-Level Review</a>.
+[Learn how to request a Higher-Level Review](#).
 <br>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -87,7 +87,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board decision.
 
 ### Appeal to a Veterans Law Judge
-<a href="#">Download VA Form 10182 (Board Appeal)</a>
+[Download VA Form 10182 (Board Appeal)](#)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. 
 <br>
@@ -132,17 +132,17 @@ You can request a Board Appeal after an initial claim, Supplemental Claim or Hig
 
 You also have the option to bring an action in a United States district court. You have 6 years to bring such an action after accrual of the right for which the claim is made. You may want to speak with an attorney about this option.
 <br>
-<a href="#">See 38 C.F.R. 1984</a>.
+[See 38 C.F.R. 1984](#).
 
 ## After a Board Decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
 <br> 
-<a href="#">Learn more about your options after a Board decision</a>.
+[Learn more about your options after a Board decision](#).
 
 ## What happens next?
 
-<a href="#">Find out what happens after you request a decision review</a>. 
+[Find out what happens after you request a decision review](#). 
 <br>
 
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
@@ -153,10 +153,10 @@ You don’t need to do anything while you’re waiting unless VA sends you a let
 
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](#).
 
 ## What if I have more questions?
 
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>
+[See the FAQ](#)

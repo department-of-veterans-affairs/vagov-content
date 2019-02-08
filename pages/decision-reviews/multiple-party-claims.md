@@ -37,7 +37,7 @@ Because you’re one of multiple people claiming the same benefit, the Higher-Le
 
 ### Appeal to a Veterans Law Judge
 
-<a href="#">Download VA Form 10182 (Board Appeal)</a>
+[Download VA Form 10182 (Board Appeal)](#)
 <br>
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case.
 You have the option to add new evidence that a judge will review.
@@ -68,7 +68,7 @@ This option will take longer. Find a time estimate listed below.
 
 Fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-<a href="#">Download VA Form 10182</a>. 
+[Download VA Form 10182](#). 
 
 ### Choose one of the 3 options to appeal with a Veterans Law Judge
 <ol class="process">
@@ -132,7 +132,7 @@ Learn more what happens at a hearing.
 __By mail__
 <br>
 Apply by mail using the Decision Review Request: Board Appeal (VA Form 10182). 
-<a href="#">Download VA Form 10182</a>. 
+[Download VA Form 10182](#). 
 <br>
 
 Print the form, fill it out, and send it to this address:
@@ -145,7 +145,7 @@ __In person__
 <br>
 Bring your application to a regional benefit office.
 <br> 
-<a href="#">Find a regional benefit office near you</a>.
+[Find a regional benefit office near you](/find-locations/).
 
 __By fax__
 <br>
@@ -161,24 +161,24 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
 <br> 
-<a href="#">Learn more about your options after a Board decision</a>.
+[Learn more about your options after a Board decision](/decision-reviews/after-board-appeal-decision/).
 
 ## What happens next?
 
-<a href="#">Find out what happens after you request a decision review</a>.
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="#" class="usa-button-primary">Track the Status of Your Appeal</a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Appeal</a>
 
 ## What if I need help?
 
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
 <br> 
-<a href="#">Get help requesting a decision review</a>.
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ## What if I have more questions?
 
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-<a href="#">See the FAQ</a>.
+[See the FAQ](/decision-reviews/faq/).

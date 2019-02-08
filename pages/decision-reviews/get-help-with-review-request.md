@@ -8,13 +8,13 @@ vagovstaging: false
 relatedlinks:
   - heading: More information about decision review options
     links:
-    - url: "#"
+    - url: "/decision-reviews/supplemental-claim/"
       title: Add new and relevant evidence
       description: Find out how to continue your case by adding new and relevant evidence.
-    - url: "#"
+    - url: "/decision-reviews/higher-level-review/"
       title: Ask for a second opinion by a senior reviewer
       description: Find out how to continue your case by having a senior reviewer look at your case.
-    - url: "#"
+    - url: "/decision-reviews/board-appeal/"
       title: Appeal to a Veterans Law Judge
       description: Find out how to appeal to a Veterans’ Law Judge.              
 ------
@@ -61,17 +61,17 @@ called VSOs), as well as for local government offices.
 In general, no individual or organization may charge you a fee to help you request a decision review. However, they may charge you for unusual expenses. VA-accredited claims agents and attorneys may charge for their services only after VA makes a decision about your initial claim. Make sure you ask up front about any fees that you’ll be charged. If you believe a claims agent or attorney charged a fee that’s too high, you can challenge it. 
 <br>
 
-<a href="#">Find out more in the “How to Challenge a Fee” guide.</a>
+[Find out more in the “How to Challenge a Fee” guide.](#)
 
 ### How do I find an accredited representative or a VSO?
 
 You can find an accredited representative or a VSO in 1 of 2 ways:
 - Go to eBenefits to find a local representative (including a recognized VSO, an attorney, or a claims agent) by state/territory, zip code, or the organization’s name.
 <br> 
-<a href="#">Go to eBenefits</a>.
+[Go to eBenefits](#).
 - Or search the VA Office of General Counsel’s list to find VA-recognized organizations and VA-accredited individuals by name, city, state, or zip code.
 <br> 
-<a href="#">Search the VA Office of General Counsel’s list</a>.
+[Search the VA Office of General Counsel’s list](#).
 
 ### How do I get an accredited representative or a VSO to work on my behalf?
 
@@ -79,15 +79,15 @@ You’ll need to either use eBenefits or fill out a form and mail it in.
 Choose one of these ways:
 - Use eBenefits to let VA know you’ll be working with a representative or to change your current representation.
 <br> 
-<a href="#">Go to eBenefits</a>.
+[Go to eBenefits](#).
 - To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative form (VA Form 21-22).
 <br>  
-<a href="#">Download VA Form 21-22</a>.
+[Download VA Form 21-22](#).
 - To have a claims agent or attorney help you, fill out an Appointment of Individual as Claimant’s Representative form (VA Form 21-22a).
 <br> 
-<a href="#">Download VA Form 21-22a</a>.
+[Download VA Form 21-22a](#).
 
 If you’re filling out one of the forms, you’ll need to mail it to your nearest VA regional benefit office. Please speak to the service organization or representative before you send your request. 
 <br>
-<a href="#">Find a VA regional benefit office near you</a>.
+[Find a VA regional benefit office near you](/find-locations/).
 
