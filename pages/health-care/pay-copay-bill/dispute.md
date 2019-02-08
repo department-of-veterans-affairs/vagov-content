@@ -14,8 +14,8 @@ relatedlinks:
       title: Request financial hardship assistance
       description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
     - url: /health-care/copay-rates/
-      title: Current copay rates
-      description: View our current copay rates for different services and medication. 
+      title: Copay rates
+      description: View our current copay rates for different services and medications. 
     - url: /health-care/update-health-information/
       title: Update your health benefits information (VA Form 10-10EZR)
       description: Update your personal, financial, or insurance information after you’re enrolled in the VA health care program.
@@ -44,7 +44,7 @@ Mail the letter, or bring it in person to the business office or health administ
 
 <b>If we receive your dispute after 60 and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits, federal payments, or wages. <br>
 
-[Learn more about the collection process](/pay-copay-bill/#collection).
+[Learn more about the collection process](/health-care/pay-copay-bill/#collection).
 
 </div>
 </div>
