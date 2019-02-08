@@ -11,7 +11,7 @@ relatedlinks: false
 <br>
 
 <div itemprop="description" class="va-introtext">
-When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying evidence for review. A reviewer will determine whether the new evidence changes the decision.
+When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
 </div>
 
 <span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
@@ -20,6 +20,12 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 ### How long does it take VA to make a decision?
 
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
+</div>
+
+### What’s considered new and relevant evidence?
 VA can’t accept your Supplemental Claim without new and relevant evidence.
 - New evidence is information that VA didn’t have before the last decision.
 - Relevant evidence is information that could prove or disprove something about your case.
@@ -51,7 +57,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 ### Gather new and relevant evidence to submit
 
-<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like us to gather for review. 
+<span class="heading-level-3"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
 
 **List the location(s) of VA evidence in Part III**. VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
 
@@ -85,6 +91,7 @@ Janesville, WI 53547-4444<br>
 </p>
 
 **In person**
+<br>
 Bring your application to a regional benefit office. 
 [Find a regional benefit office near you](/find-locations/).
 
