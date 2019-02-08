@@ -11,7 +11,7 @@ template: detail-page
 order: 6
 ---
 
-The GI Bill covers more than just tuition. We may pay you back for the cost of certain tests you need to take to become a licensed or certified professional—or to apply for college or a training course. We only cover tests approved for the GI Bill under this benefit, so find out what’s approved before you take any tests.
+The GI Bill covers more than just tuition. You can use part of your entitlement to cover the cost of certain tests you need to take to become a licensed or certified professional—or to apply for college or a training course. We only cover tests approved for the GI Bill under this benefit, so find out what’s approved before you take any tests.
 
 
 <span id="ways-to-file"></span>
@@ -23,22 +23,22 @@ The GI Bill covers more than just tuition. We may pay you back for the cost of c
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="licensing-certification-kinds-of-benefits">For Licensing and Certification</button>
   
 <div id="licensing-certification-kinds-of-benefits" class="usa-accordion-content">
-If you’re a Veteran and you qualify for the GI Bill, we may pay you back for test fees up to $2,000 for a job that requires a license or certification in order for you to work.<br>
+If you’re a Veteran and you qualify for the GI Bill, you may be able to use part of your entitlement to cover test fees up to $2,000 for a job that requires a license or certification in order for you to work.<br>
  
 [Find out which tests are covered and how much they cost](https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do). <br>
 
-**Note:** If you don't see a test listed, it still may be a valid test that's not yet approved for reimbursement.
+**Note:** If you don't see a test listed, it still may be a valid test that's not yet approved. Submit an application for reimbursement.
 
 ### What you should know about test benefits
 
 **We:**
 
-- Will pay for tests for as many different covered licenses or certifications as you'd like.
+- Will pay for tests for as many approved licenses or certifications as you'd like.
 - Will pay for tests even if you don't score high enough to get your license or certification. You can take the same test as many times as you need.
 - Will pay for you to retake a test you passed if you need to take it again to get recertified or retain a license you already have.
 - Won't pay for fees or costs related to getting the actual license or certification document.
 
-**For tests taken before August 1, 2018,** if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. 
+**For tests taken before August 1, 2018,** if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. ***NEED TO LOOK AT THIS AGAIN***
 
 **For tests taken after August 1, 2018,** we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
 </div>
