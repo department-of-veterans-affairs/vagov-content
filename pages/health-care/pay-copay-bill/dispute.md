@@ -42,7 +42,9 @@ Mail the letter, or bring it in person to the business office or health administ
 
 <b>If we receive your dispute within 60 days from the date of your first billing statement,</b> we won't start the collection process until we've resolved your dispute.
 
-<b>If we receive your dispute after 60 and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and refund any money withheld from your VA benefits, federal payments, or wages to you.
+<b>If we receive your dispute after 60 and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits, federal payments, or wages. <br>
+
+[Learn more about the collection process](/pay-copay-bill/#collection).
 
 </div>
 </div>
@@ -56,8 +58,8 @@ Mail the letter, or bring it in person to the business office or health administ
 Yes. You can choose to have legal representation for all VA payment disputes. 
 
 <b>You have 2 options for getting legal representation. You can:</b>
-- Work with a Veteran Service Organization (VSO) or other VA-recognized service organization for free, **or**
-- Hire an attorney or a VA-accredited agent (a trusted professional who's trained an certified in our processes) for a fee
+- Work with a Veteran Service Organization (VSO) or other VA-recognized service organization for no charge, **or**
+- Hire an attorney or a VA-accredited agent (a trusted professional who's trained and certified in our processes) for a fee
 
 <b>To find an accredited representative or VSO:</b>
 
