@@ -14,7 +14,7 @@ relatedlinks:
       title: Dispute your copay charges
       description: If you disagree with the charges or amounts on your copay bill, find out how to file a dispute.
     - url: /health-care/copay-rates/
-      title: Current copay rates
+      title: Copay rates
       description: View our current copay rates for different services and medication. 
     - url: /health-care/update-health-information/
       title: Update your health benefits information (VA Form 10-10EZR)
@@ -37,7 +37,7 @@ If you're struggling because of life situations like losing your job, having a s
 <div itemprop="text">
 
 You can request either of the 2 financial hardship assistance options listed below, depending on your situation. To avoid late charges, including interest and other fees, you'll need to take actions within 30 days of receiving your bill. <br>
-[Learn more about VA debt collection](/pay-copay-bill/#collection).
+[Learn more about VA debt collection](/health-care/pay-copay-bill/#collection).
 
 <h3>Set up a repayment plan to pay your debt over time</h3>
 
