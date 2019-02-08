@@ -21,6 +21,7 @@ relatedlinks:
       
 ---
 
+<div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
 We're committed to providing free health care for all service-connected conditions as well as for all Veterans with catastrophic disabilities or disability ratings of at least 50% as well as those who can't afford to pay for care. Find out how we assess and verify your income to help determine if you’re eligible for free VA health care—and what you may need to pay towards the cost of certain types of care, tests, or medications.
