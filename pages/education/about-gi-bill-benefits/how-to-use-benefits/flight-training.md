@@ -55,15 +55,15 @@ We’ll pay you back for 60% of the approved fees your flight school charges.<br
 **Your payment depends on 3 factors:**
 
 - Your level of eligibility (you're eligible for a certain percent of benefits up to 100% based on how long you served on active duty after September 10, 2001), **and**
-- How much money you have left to help pay for school or training under the Post-9/11 GI Bill (called your "remaining entitlement"), **and**
+- How many months you have left under the Post-9/11 GI Bill (called your "remaining entitlement"), **and**
 - The program and type of school you’re enrolled in
 
 **If you're enrolled in:**
 
-- **A degree program that consists of flight training at a public college or university**, we’ll pay you back for up to the full in-state cost of tuition and fees (depending on your level of eligibility and remaining entitlement). You may also receive a monthly housing allowance and money to help buy books and supplies.
-- **A degree program that consists of flight training at a private college or university**, we’ll pay you back for the net cost of tuition and fees up to a yearly limit (depending on your level of eligibility and remaining entitlement). You may also receive a housing allowance and money to help buy books and supplies. You can also apply for additional funds to cover tuition and fees above the yearly limit through the Yellow Ribbon Program.<br>
+- **A degree program that consists of flight training at a public college or university**, we’ll pay for up to the full in-state cost of tuition and fees (depending on your level of eligibility and remaining entitlement). You may also receive a monthly housing allowance and money to help buy books and supplies.
+- **A degree program that consists of flight training at a private college or university**, we’ll pay for the net cost of tuition and fees up to a yearly limit (depending on your level of eligibility and remaining entitlement). You may also receive a housing allowance and money to help buy books and supplies. You can also apply for additional funds to cover tuition and fees above the yearly limit through the Yellow Ribbon Program.<br>
 [Learn more about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
-- **A vocational program at a stand-alone Part 141 pilot school**, we’ll pay you back for the net cost of training up to a yearly limit (depending on your level of eligibility and remaining entitlement). You won't be eligible for a housing allowance or money to help buy books and supplies.
+- **A vocational program at a stand-alone Part 141 pilot school**, we’ll pay for the net cost of training up to a yearly limit (depending on your level of eligibility and remaining entitlement). You won't be eligible for a housing allowance or money to help buy books and supplies.
 
 [Find out if you're eligible for the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/). <br>
 [Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/). <br>
