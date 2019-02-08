@@ -4,6 +4,7 @@ template: detail-page
 title: Pay your VA copay bill
 display_title: Pay your copay bill
 collection: healthCare
+children: healthCarePayCopayBill
 spoke: Manage Benefits
 order: 15
 lastupdate: 2019-02-07
@@ -12,7 +13,7 @@ majorlinks:
   links: 
   - url: /health-care/pay-copay-bill/dispute/
     title: Dispute your copay charges
-    description: If you think the charges, or amounts, on your bill are incorrect, find out how to file a dispute.
+    description: If you think the charges or amounts on your bill are incorrect, find out how to file a dispute.
   - url: /health-care/pay-copay-bill/financial-hardship/
     title: Request financial hardship assistance
     description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
@@ -21,7 +22,8 @@ relatedlinks:
   links:
   - url: /health-care/current-copay-rates/
     title: Current copay rates
-    description: View our current copay rates for services and medication.      
+    description: View our current copay rates for different services and medication.      
+
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -65,7 +67,7 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 
 **Note:** We can deposit your check through either a one-time electronic funds transfer or as a check transaction. If we make an electronic funds transfer, your bank may withdraw the funds from your account on the same day as we process your payment and you won't receive your check back from your bank.
 
-<h3>If you need help understanding your patient statement:</h3>
+<h3>If you need help understanding your patient statement</h3>
 - [View our guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf).
 - Call us at <a href="tel:+18664001238">1-866-400-1238</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). 
 - Or visit your nearest VA medical center or other health facility and ask to talk with a member of the facility's revenue staff. <br>
@@ -76,7 +78,7 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What happens if I don't pay my VA copays?</h2>
+<h2 itemprop="name">What happens if I don't pay my bill?/h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -109,7 +111,7 @@ After 60 days, we may take action to collect your copay debt. This may include o
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-60">120 days</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-120">120 days</button>
 <div id="questions-120" class="usa-accordion-content">
 
 After 120 days, we're required by law to transfer your debt to the U.S. Treasury. They will add more fees and interest to your copay debt. They may also:
@@ -129,12 +131,12 @@ After 120 days, we're required by law to transfer your debt to the U.S. Treasury
 </div>
 
 ------
+<div itemscope itemtype="http://schema.org/Question">
+<h2 itemprop="name">How can I get help with Veterans Choice Program billing issues?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
-<h2>How to get help with Veterans Choice Program billing issues</h2>
-
-If you receive care through the Choice Program and you're having issues with adverse credit reporting or debt collections because of incorrect or delayed billing, we can help.
-
-Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. 
+If you receive care through the Choice Program and you're having issues with adverse credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. (ET)
 
 We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
 [Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).
@@ -142,6 +144,4 @@ We encourage you to continue working with your VA primary care team to get the h
 </div>
 </div>
 </div>
-</div>
-
 </div>
