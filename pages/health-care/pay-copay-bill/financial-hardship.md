@@ -13,7 +13,7 @@ relatedlinks:
     - url: /health-care/pay-copay-bill/dispute/
       title: Dispute your copay charges
       description: If you disagree with the charges or amounts on your copay bill, find out how to file a dispute.
-    - url: /health-care/current-copay-rates/
+    - url: /health-care/copay-rates/
       title: Current copay rates
       description: View our current copay rates for different services and medication. 
     - url: /health-care/update-health-information/
