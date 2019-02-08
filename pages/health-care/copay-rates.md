@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Current VA health care copay rates
-display_title: Current copay rates
+title: VA health care copay rates
+display_title: Copay rates
 description: Review VA health care eligibility criteria. Find out if you qualify for VA health care, how VA priority groups may affect you, and how to apply.
 plainlanguage: 
 lastupdate: 2019-02-07
@@ -26,11 +26,13 @@ relatedlinks:
 <b>View rates for:</b>
 - [Outpatient care](#outpatient)
 - [Inpatient care](#inpatient)
-- [Medications](#inpatient)
+- [Medications](#medications)
 - [Geriatrics and extended care](#geriatrics)
 
 <b>Note:</b> Some Veterans are exempt from paying copays due to disability rating, income level, or special eligibility factors.
 
+------
+<span id="outpatient"></span>
 <h3>Outpatient care</h3>
 <b>(Primary or specialty care that doesn't require an overnight stay)</b>
 
@@ -51,6 +53,7 @@ You may need to pay a copay for outpatient care for conditions not related to yo
 
 ------
 
+<span id="inpatient"></span>
 <h3>Inpatient care</h3>
 <b>(Care that requires you to stay one or more days in a hospital)</b>
 
@@ -78,6 +81,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 
 ------
 
+<span id="medications"></span>
 <h3>Medications</h3>
 
 <h4>If you’re in priority group 1</h4>
@@ -107,6 +111,7 @@ The amount you’ll pay for these medications will depend on the “tier” of t
 
 ------
 
+<span id="geriatrics"></span>
 <h3>Geriatrics and extended care</h3>
 
 You won't need to pay a copay for geriatric care (also called elder care) or extended care (also called long-term care) for the first 21 days of care in a 12-month period. Starting on the 22nd day of care, we'll base your copays on 2 factors:
