@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Health Issues Related to Camp Lejeune Water Contamination
-display_title: Camp Lejeune Water Contamination
+title: Health issues related to Camp Lejeune water contamination
+display_title: Camp Lejeune water contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
@@ -100,9 +100,9 @@ You'll need to ask your doctor to fill out and sign this form before submitting 
 
 **You can file a claim in one of these ways:**
 
-- [Fill out a Camp Lejeune Family Member Application (VA Form 10-10068) online](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068), **or**
+- [Fill out a Camp Lejeune family member application (VA Form 10-10068) online](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068), **or**
 
-- [Download the Camp Lejeune Family Member Application (VA Form 10-10068)](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
+- [Download the Camp Lejeune family member application (VA Form 10-10068)](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
 <br>
 Fax it to 1-512-460-5536, or mail it to:
 
