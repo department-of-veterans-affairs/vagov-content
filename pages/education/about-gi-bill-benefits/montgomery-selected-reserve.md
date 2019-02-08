@@ -30,7 +30,7 @@ You can get education benefits under this program if you meet the requirements l
 
 **And all of these must also be true. You:**
 - Complete your initial active duty for training (IADT), **and**
-- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**Note:** you can't use 12 hours toward a college degree to meet this requirement), **and**
+- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**Note:** You can't use 12 hours toward a college degree to meet this requirement), **and**
 - Stay in good standing while serving in an active Selected Reserve unit <br>
 (**Note:** You'll still be eligible if you're discharged from Selected Reserve service due to a disability that was not caused by misconduct)
 
@@ -90,7 +90,7 @@ Follow the steps below to apply for these benefits.
     <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
     <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</P.
     <p></p>    
-    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>  </li>
+    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. And you can't use the benefit until we've approved it. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>  </li>
   <li class="process-step list-three">
     <h3>Apply for the MGIB-SR program</h3>
     <br>
