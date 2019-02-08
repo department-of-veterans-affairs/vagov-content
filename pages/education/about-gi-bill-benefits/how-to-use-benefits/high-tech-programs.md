@@ -43,7 +43,6 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech, non-degree program that lasts for 2 years or less, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Learn more about REAP](/education/other-va-education-benefits/reap/). <br>
 [Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
 
 <br>
@@ -100,9 +99,9 @@ These programs are approved only for active-duty GI Bill recipients:
 01.0905 Dairy Science <br>
 01.0906 Livestock Management <br>
 01.0907 Poultry Science <br>
-01.10 Food Science and Technology <br>
 
-**01.1001 Food Science** <br>
+**01.10 Food Science and Technology** <br>
+01.1001 Food Science <br>
 01.1002 Food Technology and Processing <br>
 01.1099 Food Science and Technology <br>
 01.1101 Plant Sciences General <br>
@@ -111,21 +110,21 @@ These programs are approved only for active-duty GI Bill recipients:
 01.1104 Agricultural and Horticultural Plant Breeding <br>
 01.1105 Plant Protection and Integrated Pest Management <br>
 01.1106 Range Science Management <br>
-01.12 Soil Sciences <br>
 
-**01.1201 Soil Science and Agronomy General** <br>
+**01.12 Soil Sciences** <br>
+01.1201 Soil Science and Agronomy General <br>
 01.1202 Soil Chemistry and Physics <br>
 01.1203 Soil Microbiology <br>
 01.1299 Soil Sciences <br>
-03.01 Natural Resources Conservation and Research <br>
 
-**03.0104 Environmental Science** <br>
-03.03 Fishing and Fisheries Sciences and Management  <br>
+**03.01 Natural Resources Conservation and Research** <br>
+03.0104 Environmental Science <br>
 
-**03.0301 Fishing Fisheries Sciences and Management** <br>
-03.05 Forestry <br>
+**03.03 Fishing and Fisheries Sciences and Management**  <br>
+03.0301 Fishing Fisheries Sciences and Management <br>
 
-**03.0501 Forestry, General** <br>
+**03.05 Forestry** <br>
+03.0501 Forestry, General <br>
 03.0502 Forest Sciences and Biology <br>
 03.0506 Forest Management/Forest Resources Management <br>
 03.0508 Urban Forestry <br>
@@ -206,7 +205,8 @@ Programs that prepare individuals to undertake advanced and specialized leadersh
 
 **30.11 Gerontology** <br>
 30.1101 Gerontology <br>
-30.16 Accounting and Computer Science <br>
+
+**30.16 Accounting and Computer Science** <br>
 30.1601 Accounting and Computer Science <br>
 
 **30.17 Behavioral Sciences** <br>
