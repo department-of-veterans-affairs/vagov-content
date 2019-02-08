@@ -5,8 +5,23 @@ title: Request financial hardship assistance
 display_title: Request financial hardship assistance
 collection: healthCare
 spoke: Manage Benefits
-order: 
-lastupdate: 2019-02-07
+order: 17
+lastupdate: 2019-02-08
+relatedlinks:
+  - heading: Other information you may need
+    links:
+    - url: /health-care/pay-copay-bill/dispute/
+      title: Dispute your copay charges
+      description: If you disagree with the charges or amounts on your copay bill, find out how to file a dispute.
+    - url: /health-care/current-copay-rates/
+      title: Current copay rates
+      description: View our current copay rates for different services and medication. 
+    - url: /health-care/update-health-information/
+      title: Update your health benefits information (VA Form 10-10EZR)
+      description: Update your personal, financial, or insurance information after you’re enrolled in the VA health care program.
+    - url: /health-care/financial-assessment/
+      title: How your income affects eligibility and copays
+      description: Learn more about how we assess and verify your income to help determine your eligibility and whether you'll pay copays for certain types of care and medications.
 
 ---
 
@@ -43,7 +58,7 @@ If you can't pay your VA debt all at once, you have the right to set up a monthl
 
 <h3>Request debt relief for some or all of your copay debt</h3>
 
-You have the right to request a waiver (request for debt relief), write-off (termination of debt), or compromise (negotiation of a lower payment amount) of part or all of your balance. If we grant part or all of your request, you won't have to pay the amount of the balance we agree to relieve.
+If you don't think you can pay your debt even with monthly payments, you have the right to request a waiver (request for debt relief), write-off (termination of debt), or compromise (negotiation of a lower payment amount) of part or all of your balance. If we grant part or all of your request, you won't have to pay the amount of the balance we agree to relieve.
 
 <b>To request debt relief:</b>
 
