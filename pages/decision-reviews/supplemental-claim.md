@@ -16,8 +16,6 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 <span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
 
-<div class="feature" markdown="0">
-
 ### How long does it take VA to make a decision?
 
 <div class="card information">
@@ -25,7 +23,8 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
-### What’s considered new and relevant evidence?
+<div class="feature" markdown="0">
+  ### What’s considered new and relevant evidence?
 VA can’t accept your Supplemental Claim without new and relevant evidence.
 - New evidence is information that VA didn’t have before the last decision.
 - Relevant evidence is information that could prove or disprove something about your case.
