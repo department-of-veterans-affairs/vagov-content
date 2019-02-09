@@ -56,7 +56,7 @@ You may qualify for additional free VA health care depending on your income, dis
 You may need to pay a fixed amount for some types of care, tests, and medications you receive from a VA health care provider or an approved community health care provider to treat conditions not related to your service. This is called a copay (short for "copayment"). 
 
 Whether or not you'll need to pay copays depends on factors such as your disability rating, income level, military service record, and the priority group we place you in when you enroll in VA health care. We have 8 priority groups. If you have a higher priority group number, you'll be more likely to pay copays.<br>
-[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
+[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).<br>
 [View current copay rates](/health-care/copay-rates/).
 
 If you haven't applied for VA health care yet, you can review VA health care eligibility requirements, or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
@@ -96,7 +96,7 @@ As part of the VA health care application process, we'll ask for information abo
 <b>If you qualify for VA enhanced eligibility status,</b> you won't need to provide your income information. <br>
 [View the requirements for enhanced eligibility status](/health-care/eligibility/#enhanced).
 
-<b>If you don't meet these requirements, but you agree to pay copays for your care,</b> you don't have to provide your financial information. But if you don't, we may decline your enrollment unless you qualify based on eligibility factors other than income. We also won't be able to consider your eligibility for free medications or beneficiary travel pay.
+<b>If you don't qualify for enhanced eligibility status, but you agree to pay copays for your care,</b> you don't have to provide your financial information. But if you don't, we may decline your enrollment. We also won't be able to consider your eligibility for free medications or beneficiary travel pay.
 
 <b>Read more about providing financial information if:</b>
 
@@ -138,7 +138,7 @@ You can still provide your income to help us determine if you’re eligible for 
 
 You’ll need to provide your gross household income for the previous year. So if you’re applying for health care in 2019, you’ll need to provide your gross household income for 2018.
 
-Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year before taxes. This includes your income from work as well as any other sources, like money you may have taken from a retirement fund or income from the sale of a house. If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
+Your gross household income means the total amount of money you—and anyone living with you in your home—earned within one calendar year, before taxes. This includes your income from work as well as any other sources, like money you may have taken from a retirement fund or income from the sale of a house. If you have a spouse, partner, or dependent child who also contributes income to your family, you’ll need to include this income in your application.
 
 </div>
 </div>
@@ -149,10 +149,10 @@ Your gross household income means the total amount of money you—and anyone liv
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-This depends on your situation. If the information you provide shows that your income falls below our limits and qualifies you for free VA health care, medications, or both, we’re required by law to verify the information. We do this by confirming your information with the Internal Revenue Service (IRS) and Social Security Administration (SSA). <br>
+This depends on your situation. If the information you provide shows that your income falls below our limits and qualifies you for free VA health care, medications, or both, we’re required by law to verify the information. We do this by confirming your information with the Internal Revenue Service (IRS) and the Social Security Administration (SSA). <br>
 [View our current income limits]( http://nationalincomelimits.vaftl.us/).
 
-Because of tax deadlines, we usually begin this process the next July after you report your income. So for example, if you provide information for the year 2018, we’ll verify it in July of 2019.
+Because of tax deadlines, we usually begin this process in July, the year after you report your income. So, for example, if you provide information for the year 2018, we’ll verify it in July of 2019.
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
