@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-We're committed to providing free health care for all service-connected conditions as well as for all Veterans with catastrophic disabilities or disability ratings of at least 50% as well as those who can't afford to pay for care. Find out how we assess and verify your income to help determine if you’re eligible for free VA health care—and what you may need to pay towards the cost of certain types of care, tests, or medications.
+We're committed to providing free health care for Veterans with service-connected conditions, catastrophic disabilities, and disability ratings of at least 50%—as well as for those who can't afford to pay for care. Learn about how we assess and verify your income to help determine if you’re eligible for free VA health care. And find out how much you may need to pay to cover  the cost of certain types of care, tests, or medications.
 
 </div>
 
@@ -37,31 +37,31 @@ We're committed to providing free health care for all service-connected conditio
 
 You can get free VA health care for any illness or injury that we determine is related to your military service (called "service connected"). <br>
 
-You can also get certain services for free—like readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
-[Find out how to get started with mental health care](/health-care/health-needs-conditions/mental-health/). <br>
-[Learn more about military sexual trauma services](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
+Certain services are also free. You can get readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
+[Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/). <br>
+[Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
 [Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
 
-You may qualify for additional free VA health care, depending on your income, disability rating, or other special eligibility factors. Keep reading below to learn more.
+You may qualify for additional free VA health care depending on your income, disability rating, or other special eligibility factors. Keep reading below to learn more.
 
 </div>
 </div>
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Will I need to pay for certain types of care, tests, or medications?</h3>
+<h3 itemprop="name">Will I need to pay for any of my care, tests, or medications?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may need to pay a fixed amount for some types of care, tests, and medications provided by a VA or approved community health care provider to treat conditions not related to a your service. This is called a copay (short for "copayment"). 
+You may need to pay a fixed amount for some types of care, tests, and medications you receive from a VA health care provider or an approved community health care provider to treat conditions not related to your service. This is called a copay (short for "copayment"). 
 
-This will depend on factors such as your disability rating, income level, military service record, and the priority group we assign you to when you enroll in VA health care. We have 8 priority groups. The higher the number of your priority group, the more likely you'll be to pay copays.<br>
+Whether or not you'll need to pay copays depends on factors such as your disability rating, income level, military service record, and the priority group we place you in when you enroll in VA health care. We have 8 priority groups. If you have a higher priority group number, you'll be more likely to pay copays.<br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 [View current copay rates](/health-care/copay-rates/).
 
 If you haven't applied for VA health care yet, you can review VA health care eligibility requirements, or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Learn more about VA health care eligibility requirements](/health-care/eligibility/).<br>
-[Go to the Health Benefits Explorer]( http://hbexplorer.vacloud.us/).
+[Go to the Health Benefits Explorer](http://hbexplorer.vacloud.us/).
 
 </div>
 </div>
