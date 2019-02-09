@@ -92,7 +92,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
 
 **If none of the above apply to you**, you may still qualify for care based on your income. <br>
-[Learn how we assess and verify your income](/health-care/financial-assessment/).
+[Learn how we assess and verify your income](/health-care/about-va-health-benefits/health-care-costs/).
 [View our current income limits](http://nationalincomelimits.vaftl.us/).
 
 </div>
@@ -174,7 +174,8 @@ You can get help in any of these ways:
 When you apply for VA health care, you’ll be assigned 1 of 8 priority groups. This system helps to make sure that Veterans who need immediate care can get signed up quickly.
 
 Your priority group may affect how soon we sign you up for health care benefits. It may also affect how much (if anything) you’ll have to pay toward the cost of your care.<br/>
-[Learn more about health benefit copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
+[Learn more about health care costs](/health-care/about-va-health-benefits/health-care-costs/).
+[View current copay rates](/health-care/copay-rates/).
 
 **Your priority group will be based on:**
 
