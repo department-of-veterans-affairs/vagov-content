@@ -16,6 +16,8 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 <span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
 
+<div class="feature" markdown="0">
+  
 ### Can I file a Supplemental Claim?
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
@@ -25,6 +27,7 @@ You can file a Supplemental Claim within <b>1 year</b> of a decision if you have
 Learn about your Decision Review options if you have one of these types of claims: 
 - [Fiduciary Claim](/decision-reviews/fiduciary-claims/)
 - [Multiple Party or Contested Claim](/decision-reviews/multiple-party-claims/)
+</div>
 
 ### How long does it take VA to make a decision?
 
@@ -33,8 +36,6 @@ Learn about your Decision Review options if you have one of these types of claim
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
-<div class="feature" markdown="0">
-  
 ### What’s considered new and relevant evidence?
 
 **New evidence** is information that VA didn’t have before the last decision.<br>
@@ -42,7 +43,6 @@ Learn about your Decision Review options if you have one of these types of claim
 
 You can submit evidence yourself, or you can ask VA to get evidence, like medical records, that’s at a VA medical center or other federal facility. VA can’t accept your Supplemental Claim without new and relevant evidence.
 
-</div>
 
 ### How do I file a Supplemental Claim with new evidence
 Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995) to file a Supplemental Claim. 
@@ -84,7 +84,7 @@ If you don’t have evidence to submit, please select another review option.
 ### Apply
 **By mail**
 <br>
-Apply by mail using Decision Review Request: Supplemental Claim (VA Form 20-0995). 
+Apply by mail using theDecision Review Request: Supplemental Claim (VA Form 20-0995). 
 <br>
 <a href="#">Download VA Form 20-0995</a>.
 
