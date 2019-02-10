@@ -90,15 +90,120 @@ Apply by mail using Decision Review Request: Supplemental Claim (VA Form 20-0995
 
 <br>
 
-Print the form, fill it out, and send it to the specific benefit office you selected on the form:
+Print the form, fill it out, and send it to the benefit office that matches the benefit type you selected on the form. 
 
+<b>Compensation</b>
 <p class="va-address-block">
-Compensation<br>
 Department of Veterans Affairs<br>
 Claims Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
+
 </p>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+  <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Find addresses for other benefit types</button>
+    <div id="VA-burials-survivor-spouse" class="usa-accordion-content" >
+
+<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-flex--1">
+  <b>Pension/Survivors Benefits</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Pension/Survivors Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+
+<div class ="vads-u-flex--1">
+  <b>Fiduciary</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Fiduciary Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+</div>
+
+<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-flex--1">
+  <b>Education</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Education Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+
+<div class ="vads-u-flex--1">
+  <b>Veterans Health Administration</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Veterans Health Administration<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+</div>
+
+<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-flex--1">
+  <b>Vocational Rehabilitation and Employment</b>
+    <p class="va-address-block">
+     Department of Veterans Affairs<br>
+     Vocational Rehabilitation and Employment Intake Center<br>
+     PO Box 4444<br>
+     Janesville, WI 53547-4444<br>
+     Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+
+
+<div class ="vads-u-flex--1">
+  <b>Insurance</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Insurance Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+</div>
+
+<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-flex--1">
+  <b>Loan Guaranty</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+Loan Guaranty Benefits Intake Center<br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+
+<div class ="vads-u-flex--1">
+  <b>National Cemetery Administration</b>
+    <p class="va-address-block">
+Department of Veterans Affairs<br>
+National Cemetery <br>
+PO Box 4444<br>
+Janesville, WI 53547-4444<br>
+Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+    </p>
+</div>
+</div>
+
+</div>
+</ul>
 
 **In person**
 <br>
