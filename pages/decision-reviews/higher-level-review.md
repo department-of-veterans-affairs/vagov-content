@@ -9,7 +9,7 @@ relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
+If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. Find out how to request a Higher-Level Review.
 </div>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
