@@ -44,8 +44,8 @@ Learn about your Decision Review options if you have one of these types of claim
 You can submit evidence yourself, or you can ask VA to get evidence, like medical records, that’s at a VA medical center or other federal facility. VA can’t accept your Supplemental Claim without new and relevant evidence.
 
 
-### How do I file a Supplemental Claim with new evidence
-Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995) to file a Supplemental Claim. <br>
+### How do I file a Supplemental Claim with new evidence?
+To file a Supplemental Claim, fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
 <a href="#">Download VA Form 20-0995</a>. 
 
 <ol class="process">
@@ -66,13 +66,15 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 <li class="process-step list-three">
 
-### Gather new and relevant evidence to submit
+#### Gather new and relevant evidence to submit
 
 <span class="heading-level-3"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
 
-**List the location(s) of VA evidence in Part III**. VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
+**List the location(s) of VA evidence in Part III**. <br>
+VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
 
-**What if I don’t have any new and relevant evidence?**
+**What if I don’t have any new and relevant evidence?**  <br>
+
 If you don’t have evidence to submit, please select another review option.
 <br>
 [Learn more about the review options](/decision-reviews/).
@@ -113,7 +115,7 @@ Department of Veterans Affairs<br>
 Pension/Survivors Benefits Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
@@ -124,7 +126,7 @@ Department of Veterans Affairs<br>
 Fiduciary Benefits Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 </div>
@@ -137,7 +139,7 @@ Department of Veterans Affairs<br>
 Education Benefits Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
@@ -148,7 +150,7 @@ Department of Veterans Affairs<br>
 Veterans Health Administration<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 </div>
@@ -161,7 +163,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
      Vocational Rehabilitation and Employment Intake Center<br>
      PO Box 4444<br>
      Janesville, WI 53547-4444<br>
-     Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+     Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
@@ -173,7 +175,7 @@ Department of Veterans Affairs<br>
 Insurance Benefits Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 </div>
@@ -186,7 +188,7 @@ Department of Veterans Affairs<br>
 Loan Guaranty Benefits Intake Center<br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
@@ -197,7 +199,7 @@ Department of Veterans Affairs<br>
 National Cemetery <br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 </div>
@@ -212,7 +214,7 @@ Bring your application to a regional benefit office. <br>
 
 **By fax**
 <br>
-Fax your application to <a href="tel:+1phonenumber">1-844-531-7818</a>.
+Fax your application to 1-844-531-7818.
 
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
