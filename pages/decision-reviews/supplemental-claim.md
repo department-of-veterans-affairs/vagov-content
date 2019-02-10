@@ -74,7 +74,6 @@ You can include all or just some of the issues VA decided. You must list the iss
 VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
 
 **What if I don’t have any new and relevant evidence?**  <br>
-
 If you don’t have evidence to submit, please select another review option.
 <br>
 [Learn more about the review options](/decision-reviews/).
