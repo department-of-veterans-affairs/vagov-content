@@ -11,10 +11,20 @@ relatedlinks: false
 <br>
 
 <div itemprop="description" class="va-introtext">
-When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
+When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision. Find out how to file a Supplemental Claim.
 </div>
 
 <span class="heading-level-3"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
+
+### Can I file a Supplemental Claim?
+
+You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
+
+**Exceptions:** You can't file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). 
+
+Learn about your Decision Review options if you have one of these types of claims: 
+- [Fiduciary Claim](/decision-reviews/fiduciary-claims/)
+- [Multiple Party or Contested Claim](/decision-reviews/multiple-party-claims/)
 
 ### How long does it take VA to make a decision?
 
@@ -24,23 +34,25 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 </div>
 
 <div class="feature" markdown="0">
-  ### What’s considered new and relevant evidence?
-VA can’t accept your Supplemental Claim without new and relevant evidence.
-- New evidence is information that VA didn’t have before the last decision.
-- Relevant evidence is information that could prove or disprove something about your case.
-- You can submit evidence yourself, or you can ask VA to get evidence, like medical records, that’s at a VA medical center or other federal facility.
+  
+### What’s considered new and relevant evidence?
+
+**New evidence** is information that VA didn’t have before the last decision.<br>
+**Relevant evidence** is information that could prove or disprove something about your case.
+
+You can submit evidence yourself, or you can ask VA to get evidence, like medical records, that’s at a VA medical center or other federal facility. VA can’t accept your Supplemental Claim without new and relevant evidence.
 
 </div>
 
 ### How do I file a Supplemental Claim with new evidence
 Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995) to file a Supplemental Claim. 
-<a href="/decision-reviews/supplemental-claim/">Download VA Form 20-0995</a>. 
+<a href="placeholder">Download VA Form 20-0995</a>. 
 
 <ol class="process">
 <li class="process-step list-one">
 
 #### Select a benefit type in Part I on the form
-The most common benefit type is compensation, but if you’re unsure, check your VA decision letter. You can’t select multiple benefit types. You must complete a separate form for each type.
+The most common benefit type is compensation, but if you’re unsure, check your VA decision. You can’t select multiple benefit types. You must complete a separate form for each type.
 
 </li>
 
@@ -63,7 +75,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 **What if I don’t have any new and relevant evidence?**
 If you don’t have evidence to submit, please select another review option.
 <br>
-[Learn more about the review options](/decision-reviews/supplemental-claim/).
+[Learn more about the review options](/decision-reviews/).
 
 </li>
 
@@ -74,8 +86,7 @@ If you don’t have evidence to submit, please select another review option.
 <br>
 Apply by mail using Decision Review Request: Supplemental Claim (VA Form 20-0995). 
 <br>
-
-[Download VA Form 20-0995](#).
+<a href="placeholder">Download VA Form 20-0995</a>.
 
 <br>
 
@@ -108,7 +119,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have 1 year from the date on your decision letter to file a Supplemental Claim (VA Form 20-0995). <a href="#">Download VA Form 20-0995</a>
+      You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim.
     </p>
   </div>
 </div>
