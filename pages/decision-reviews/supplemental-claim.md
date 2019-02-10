@@ -45,7 +45,7 @@ You can submit evidence yourself, or you can ask VA to get evidence, like medica
 
 
 ### How do I file a Supplemental Claim with new evidence
-Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995) to file a Supplemental Claim. 
+Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995) to file a Supplemental Claim. <br>
 <a href="#">Download VA Form 20-0995</a>. 
 
 <ol class="process">
@@ -207,7 +207,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 **In person**
 <br>
-Bring your application to a regional benefit office. 
+Bring your application to a regional benefit office. <br>
 [Find a regional benefit office near you](/find-locations/).
 
 **By fax**
@@ -230,8 +230,8 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 </div>
 
 ## What happens next?
-[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
-<br>
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).<br>
+
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim</a>
 
@@ -244,6 +244,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 ## What if I have more questions?
 You can get answers to your questions on our Frequently Asked Questions page.
 <br>
-[See the FAQ](/decision-reviews/faq/)  
+[See the FAQ](/decision-reviews/faq/).
 
 
