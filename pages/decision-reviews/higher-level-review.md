@@ -48,8 +48,8 @@ If you request an informal conference with a senior reviewer, they’ll call the
 
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
 
-### How do I request a Higher-Level-Review?
-To request a higher-level review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+### How do I request a Higher-Level Review?
+To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="#">Download VA Form 20-0996.</a>
 
 <ol class="process">
@@ -105,10 +105,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 __By mail__
 <br>
-Apply by mail using the Decision Review Request: Higher-Level Review (VA Form 20-0996). <a href="#">Download VA Form 20-0996</a>.
-<br>
-<br>
-Print the form, fill it out, and send it to the benefit office that matches the benefit type you selected on the form. 
+Send the completed VA Form 20-0996 and any supporting documents to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -225,14 +222,14 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 __In person__
 <br>
-Bring your application to a regional benefit office. 
+Bring your completed form and any supporting documents to a VA regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 <br>
 
 __By fax__
 <br>
-Fax your application to <a href="tel:+1phonenumber">1-844-531-7818</a>.
+Fax your completed form and any supporting documents to <a href="tel:+1phonenumber">1-844-531-7818</a>.
 <br>
 <br>
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT), to request a form.
@@ -261,5 +258,5 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ### What if I have more questions?
-You can get answers to your questions on our Frequently Asked Questions page. <br>
-[See the FAQ](/decision-reviews/faq/).
+Get answers to frequently asked questions about decision reviews. <br>
+[Go to FAQs](/decision-reviews/faq/).
