@@ -84,15 +84,10 @@ If you don’t have evidence to submit, please select another review option.
 <li class="process-step list-four">
 
 ### Apply
+
 **By mail**
-<br>
-Apply by mail using theDecision Review Request: Supplemental Claim (VA Form 20-0995). 
-<br>
-<a href="#">Download VA Form 20-0995</a>.
 
-<br>
-
-Print the form, fill it out, and send it to the benefit office that matches the benefit type you selected on the form. 
+Send the completed VA Form 20-0995 and any supporting documents to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -209,12 +204,12 @@ Fax: <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 **In person**
 <br>
-Bring your application to a regional benefit office. <br>
+Bring your completed form and any supporting documents to a VA regional benefit office. <br>
 [Find a regional benefit office near you](/find-locations/).
 
 **By fax**
 <br>
-Fax your application to 1-844-531-7818.
+Fax your completed form and any supporting documents to 1-844-531-7818.
 
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
@@ -226,7 +221,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim.
+      You have <b>1 year</b> from the date on your decision to file a Supplemental Claim.
     </p>
   </div>
 </div>
@@ -244,8 +239,8 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ## What if I have more questions?
-You can get answers to your questions on our Frequently Asked Questions page.
+Get answers to frequently asked questions about decision reviews.
 <br>
-[See the FAQ](/decision-reviews/faq/).
+[Go to FAQs](/decision-reviews/faq/).
 
 
