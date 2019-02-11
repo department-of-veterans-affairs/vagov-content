@@ -3,8 +3,9 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Dispute your VA copay charges
 display_title: Dispute copay charges
-collection: healthCarePay
-order: 1
+collection: healthCare
+spoke: Manage Benefits
+order: 16
 lastupdate: 2019-02-08
 relatedlinks:
   - heading: Other information you may need
