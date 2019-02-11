@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Temporary Disability Benefits (Prestabilization Rating)
-display_title: Prestabilization Ratings
+title: VA temporary disability benefits (prestabilization rating)
+display_title: Prestabilization ratings
 description: Find out if you can get VA temporary disability benefits if you recently ended your active military service and you have a service-connected disability. If you qualify, you'll get what's called a prestabilization rating. This rating will continue for one year after your discharge.
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-hospital_treatment.asp
