@@ -34,7 +34,7 @@ relatedlinks:
 
 ------
 <span id="outpatient"></span>
-<h2>VA copay rates for outpatient care</h2>
+<h2>Outpatient care copay rates</h2>
 <b>(Primary or specialty care that doesn't require an overnight stay)</b>
 
 <h3>If you have a service-connected disability rating of 10% or higher</h3>
@@ -55,7 +55,7 @@ You may need to pay a copay for outpatient care for conditions not related to yo
 ------
 
 <span id="inpatient"></span>
-<h2>VA copay rates for inpatient care</h2>
+<h2>Inpatient care copay rates</h2>
 <b>(Care that requires you to stay one or more days in a hospital)</b>
 
 <h3>If you have a service-connected disability rating of 10% or higher</h3>
@@ -83,7 +83,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 ------
 
 <span id="medications"></span>
-<h2>VA copay rates for medications</h2>
+<h2>Medication copay rates</h2>
 
 <h3>If you’re in priority group 1</h3>
 You won’t pay a copay for any medications. 
@@ -113,7 +113,7 @@ The amount you’ll pay for these medications will depend on the “tier” of t
 ------
 
 <span id="geriatrics"></span>
-<h2>VA copay rates for geriatrics and extended care</h2>
+<h2>Geriatric and extended care copay rates</h2>
 
 You won't need to pay a copay for geriatric care (also called elder care) or extended care (also called long-term care) for the first 21 days of care in a 12-month period. Starting on the 22nd day of care, we'll base your copays on 2 factors:
 - The level of care you're receiving, **and**
