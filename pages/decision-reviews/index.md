@@ -182,7 +182,7 @@ You can request a Board Appeal afer an original claim, Supplemental Claim or Hig
 
 If you disagree with the Board’s decision and have new and relevant evidence that
 supports your case, you can request a Supplemental Claim. You can also appeal to the
-Court of Appeals for Veterans Claims. [Learn more about your options afer a Board decision](/decision-reviews/after-board-appeal-decision).
+Court of Appeals for Veterans Claims. [Learn more about your options afer a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision).
 
 ## What happens after I apply?
 

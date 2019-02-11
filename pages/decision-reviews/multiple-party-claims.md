@@ -161,7 +161,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
 <br> 
-[Learn more about your options after a Board decision](/decision-reviews/after-board-appeal-decision/).
+[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision/).
 
 ## What happens next?
 

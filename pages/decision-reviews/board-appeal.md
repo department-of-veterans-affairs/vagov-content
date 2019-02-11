@@ -180,10 +180,10 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 ## After a Board Decision
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
 <br> 
-[Learn more about your options after a Board decision](/decision-reviews/after-board-appeal-decision/).
+[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision/).
 
 ## What happens next?
-[Find out what happens after you request a decision review](/decision-reviews/after-board-appeal-decision/).
+[Find out what happens after you request a decision review](/decision-reviews/board-appeal/after-board-appeal-decision/).
 <br>
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 <br>
