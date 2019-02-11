@@ -8,21 +8,20 @@ spoke: Manage Benefits
 order: 15
 lastupdate: 2019-02-07
 majorlinks:
-  heading: Explore your options for managing copay costs
-  links: 
-  - url: /health-care/pay-copay-bill/dispute/
-    title: Dispute your copay charges
-    description: If you think the charges or amounts on your bill are incorrect, find out how to file a dispute.
-  - url: /health-care/pay-copay-bill/financial-hardship/
-    title: Request financial hardship assistance
-    description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
+  - heading: Explore your options for managing copay costs
+    links: 
+    - url: /health-care/pay-copay-bill/dispute/
+      title: Dispute your copay charges
+      description: If you think the charges or amounts on your bill are incorrect, find out how to file a dispute.
+    - url: /health-care/pay-copay-bill/financial-hardship/
+      title: Request financial hardship assistance
+      description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
 relatedlinks:
-  heading: Other information you may need
-  links:
-  - url: /health-care/current-copay-rates/
-    title: Current copay rates
-    description: View our current copay rates for different services and medication.      
-
+  - heading: Other information you may need
+    links:
+    - url: /health-care/copay-rates
+      title: Current copay rates
+      description: View our current copay rates for different services and medication.      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
