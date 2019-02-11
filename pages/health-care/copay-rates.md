@@ -144,11 +144,11 @@ You won't need to pay a copay for any of the services listed below, no matter yo
 - [Care that may be related to combat service for Veterans that served in a theater of combat operations after November 11, 1998](https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp)
 - [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
 - [Care related to a VA-rated service-connected disability](/disability/about-disability-ratings/)
-- [Care for cancer of head or neck caused by nose or throat radium treatments received while in the military]
+- [Care for cancer of head or neck caused by nose or throat radium treatments received while in the military](https://www.publichealth.va.gov/exposures/radiation/benefits/registry-exam.asp)
 - [Individual or group programs to help you quit smoking or lose weight](/health-care/wellness-programs/)
 - [Hospice care](https://www.va.gov/GERIATRICS/Guide/LongTermCare/Hospice_Care.asp#)
 - [Care that's part of a VA research project (like the Million Veteran Program)](https://www.research.va.gov/MVP/default.cfm)
 - Laboratory (lab) tests
 - Electrocardiograms (EKGs or ECGs) to check for heart disease or other heart problems
-- VA public health initiatives (like health fairs) that are announced to the public
+- VA health initiatives that are open to the public (like health fairs) 
  
