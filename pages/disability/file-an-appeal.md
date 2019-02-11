@@ -21,9 +21,9 @@ aliases:
     <p class="usa-alert-text">
 <b>For VA decisions received after February 19, 2019</b> <br>
 You'll need to follow our new process for getting your decision reviewed.<br>
-<a href="/decision-reviews/">Learn about VA decision reviews and appeals</a>.
+<a href="/decision-reviews/">Learn about VA decision reviews and appeals</a>. <br>
 <b>For VA decisions received before February 19, 2019</b> <br>
-Please keep reading below to find out how to file an appeal. <br>
+Please keep reading below to find out how to file an appeal.
     </p>
   </div>
 </div>
