@@ -31,7 +31,7 @@ When you agree to test out the new tool, you’ll use our online application to 
 
 ### What types of disability claims can I file with the tool?
 
-You can file claims for a new condition, secondary condition, and increased compensation benefits.
+You can file claims for new conditions, secondary conditions, and increased compensation benefits.
 
 ### How can I apply?
 
