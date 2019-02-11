@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Disability Compensation for Posttraumatic Stress Disorder (PTSD)
+title: VA disability compensation for posttraumatic stress disorder (PTSD)
 display_title: PTSD
 description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PSTD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
 concurrence: complete
@@ -29,7 +29,7 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>	  
 	    <ul>
               <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
-	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon" >Start a confidential Veterans Chat</a>.</li>
+	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon" >Start a confidential Veterans chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
             </ul>
      	    <p><strong>You can also:</strong></p>	  
