@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request financial hardship assistance
 display_title: Request financial hardship assistance
-collection: healthCare
 spoke: Manage Benefits
 order: 17
 lastupdate: 2019-02-08
