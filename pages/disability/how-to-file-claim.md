@@ -9,6 +9,7 @@ template: detail-page
 collection: disability
 children: disabilityApply
 spoke: Get Benefits
+appealsbanner: true
 majorlinks:
   - heading: More information about filing disability claims
     links:

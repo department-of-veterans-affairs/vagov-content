@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
+appealsbanner: true
 vagovprod: false
 vagovstaging: false
 relatedlinks:
