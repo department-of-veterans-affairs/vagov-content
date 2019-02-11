@@ -35,7 +35,7 @@ You may be able to get disability benefits if you have a disability that’s rel
 ### Who’s covered?
 
 - Veterans
-- Servicemembers
+- Service members
 </div>
 
 ### What kind of disability benefits can I get?
