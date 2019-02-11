@@ -29,7 +29,9 @@ relatedlinks:
 - [Medications](#medications)
 - [Geriatrics and extended care](#geriatrics)
 
-<b>Note:</b> Some Veterans are exempt from paying copays due to disability rating, income level, or special eligibility factors. <br>
+[View services that don't require a copay](#exempt)
+
+<b>Note:</b> Some Veterans don't have to pay copays (they're "exempt") due to their disability rating, income level, or special eligibility factors. <br>
 [Learn how we determine whether you'll pay copays](/health-care/about-va-health-benefits/health-care-costs/).
 
 ------
@@ -128,3 +130,25 @@ You won't need to pay a copay for geriatric care (also called elder care) or ext
 |<b>Domicilitary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
 
 [Learn more about long-term care options](https://vagov-content-pr-246.herokuapp.com/health-care/about-va-health-benefits/long-term-care/).
+
+------
+
+<span id="exempt"></span>
+<h2>Services that don't require a copay</h2>
+
+You won't need to pay a copay for any of the services listed below, no matter your disability rating or priority group.
+
+- [Readjustment counseling and related mental health services](/health-care/health-needs-conditions/mental-health/)
+- [Counseling and care for issues related to military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/)
+- [Exams to determine your risk of health problems linked to your military service](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
+- [Care that may be related to combat service for Veterans that served in a theater of combat operations after November 11, 1998](https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp)
+- [VA claim exams (also called compensation and pension, or C&P, exams)](/disability/va-claim-exam/)
+- [Care related to a VA-rated service-connected disability](/disability/about-disability-ratings/)
+- [Care for cancer of head or neck caused by nose or throat radium treatments received while in the military]
+- [Individual or group programs to help you quit smoking or lose weight](/health-care/wellness-programs/)
+- [Hospice care](https://www.va.gov/GERIATRICS/Guide/LongTermCare/Hospice_Care.asp#)
+- [Care that's part of a VA research project (like the Million Veteran Program)](https://www.research.va.gov/MVP/default.cfm)
+- Laboratory (lab) tests
+- Electrocardiograms (EKGs or ECGs) to check for heart disease or other heart problems
+- VA public health initiatives (like health fairs) that are announced to the public
+ 
