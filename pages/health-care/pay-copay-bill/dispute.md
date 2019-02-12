@@ -36,8 +36,17 @@ You have the right to dispute all or part of your VA copay charges. To avoid lat
 
 Write a letter explaining why you think the copay charges or balance amount may not be correct.
 
-Mail the letter, or bring it in person to the business office or health administration office at your nearest VA medical center. If you send your dispute by mail, include "Billing Dispute" on the mailing envelope. <br>
+Mail the letter, or bring it in person to the business office or health administration office at your nearest VA medical center. If you send your dispute by mail, please include "Billing Dispute" on the mailing envelope. <br>
 [Find the address for your nearest VA medical center](/find-locations/).
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+<h2 itemprop="name">Will VA still go through the debt collection process if I dispute the charges?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 <b>If we receive your dispute within 60 days from the date of your first billing statement,</b> we won't start the collection process until we've resolved your dispute.
 
@@ -57,7 +66,7 @@ Mail the letter, or bring it in person to the business office or health administ
 Yes. You can choose to have legal representation for all VA payment disputes. 
 
 <b>You have 2 options for getting legal representation. You can:</b>
-- Work with a Veteran Service Organization (VSO) or other VA-recognized service organization for no charge, **or**
+- Work with a Veteran service organization (VSO) or other VA-recognized service organization for no charge, **or**
 - Hire an attorney or a VA-accredited agent (a trusted professional who's trained and certified in our processes) for a fee
 
 <b>To find an accredited representative or VSO:</b>
