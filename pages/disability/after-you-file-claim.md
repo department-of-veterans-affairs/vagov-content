@@ -111,7 +111,7 @@ We’ll send you a packet by U.S. mail that includes details of the decision on 
 
 If you disagree with our decision, you can appeal it.
 
-**If you received your decision before February 19, 2019,** follow the appeals process. <br>
+**If you received your decision before February 19, 2019,** you can start the appeals process by filing a Notice of Disagreement. <br>
 [Learn how to file an appeal now](/disability/file-an-appeal/).
 
 **If you received your decision after February 19, 2019,** you'll need to follow our new process for getting your decision reviewed. <br>
