@@ -5,7 +5,7 @@ title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
 appealsbanner: true
 relatedlinks:
-  - heading: Uncommon situations that may be true for you
+  - heading: Rare situations that may be true for you
     links:
     - url: "/decision-reviews/multiple-party-claims/"
       title: Multiple Party or Contested Claims
@@ -47,8 +47,8 @@ You'll need to follow a different process to appeal your disability compensation
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
-      unless one of 3 uncommon situations is true for you.<br>
-      <a href="#unusual-situations">Find out if one of these situations applies to you</a>.
+      unless one of 3 rare situations is true for you.<br>
+      <a href="#unusual-situations">Find out if one of these rare situations applies to you</a>.
     </p>
   </div>
 </div>
@@ -152,7 +152,7 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 <div class="card information">
   <span class="number"><span class="heading-level-3" ><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
   <span class="description">
-    The Board’s goal for deciding appeals with no new evidence and no hearing.
+    The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.
   </span>
 </div>
 
