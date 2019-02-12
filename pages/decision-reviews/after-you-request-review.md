@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: After You Request a Decision Review
 display_title: After You Request a Decision Review
-vagovprod: false
-vagovstaging: false
 relatedlinks: false
 ---
 <br>

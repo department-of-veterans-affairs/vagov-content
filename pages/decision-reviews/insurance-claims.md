@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Insurance Claims
 display_title: Insurance Claims
-vagovprod: false
-vagovstaging: false
 relatedlinks: false
 ---
 <br>

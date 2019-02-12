@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Frequently Asked Questions About Decision Reviews
 display_title: Frequently Asked Questions About Decision Reviews
-vagovprod: false
-vagovstaging: false
 relatedlinks:
   - heading: Unusual situations that may be relevant to you
     links:

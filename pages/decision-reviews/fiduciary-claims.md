@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Fiduciary Claims
 display_title: Fiduciary Claims
-vagovprod: false
-vagovstaging: false
 relatedlinks:
   - heading: Learn more about the fiduciary program
     links:

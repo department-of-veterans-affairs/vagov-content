@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: File a Supplemental Claim with New Evidence
 display_title: File a Supplemental Claim with New Evidence
-vagovprod: false
-vagovstaging: false
 relatedlinks: false
 ---
 

@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Get Help with Your Decision Review Request
 display_title: Get Help with Decision Reviews
-vagovprod: false
-vagovstaging: false
 relatedlinks:
   - heading: More information about decision review options
     links:

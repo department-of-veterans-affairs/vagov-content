@@ -3,8 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request a Board Appeal
 display_title: Request a Board Appeal
-vagovprod: false
-vagovstaging: false
 ---
 <br>
 
