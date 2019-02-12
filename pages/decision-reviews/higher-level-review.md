@@ -36,17 +36,17 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board Appeal. It’s also not available if you’re one of multiple people claiming the same benefit (this is rare).
 </div>
 
-### How long does it take VA to make a decision?
-<div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
-  <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
-</div>
-
 ### What should I expect if I request a call with a senior reviewer?
 
 If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
 
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
+
+### How long does it take VA to make a decision?
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
+</div>
 
 ### How do I request a Higher-Level Review?
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
@@ -105,7 +105,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 __By mail__
 <br>
-Send the completed VA Form 20-0996 and any supporting documents to the benefit office that matches the benefit type you selected on the form.
+Send the completed VA Form 20-0996 to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -222,7 +222,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 __In person__
 <br>
-Bring your completed form and any supporting documents to a VA regional benefit office. 
+Bring your completed form to a VA regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 <br>
