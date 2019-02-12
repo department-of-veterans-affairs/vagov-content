@@ -5,18 +5,6 @@ title: Request a Board Appeal
 display_title: Request a Board Appeal
 vagovprod: false
 vagovstaging: false
-relatedlinks:
-  - heading: Unusual situations that may be relevant to you
-    links:
-    - url: "#"
-      title: If you are one of multiple people claiming the same benefit
-      description: See if this applies to you and find out how to request a review.
-    - url: "#"
-      title: If you have an insurance claim
-      description: See if this applies to you and find out how to request a review.
-    - url: "#"
-      title: If you have a fiduciary claim
-      description: See if this applies to you and find out how to request a review.
 ---
 <br>
 
@@ -156,12 +144,12 @@ Washington, DC 20038<br>
 
 **In person**
 <br>
-Bring your completed form and any supporting documents to a VA regional benefit office. 
+Bring your completed form to a VA regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 
 **By fax**
-Fax your completed form and any supporting documents to <a href="tel:+1phonenumber">1-844-678-8979</a>.
+Fax your completed form to <a href="tel:+1phonenumber">1-844-678-8979</a>.
 <br>
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
