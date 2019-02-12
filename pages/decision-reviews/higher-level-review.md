@@ -118,9 +118,9 @@ Janesville, WI 53547-4444<br>
   <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Find addresses for other benefit types</button>
     <div id="VA-burials-survivor-spouse" class="usa-accordion-content" >
 
-<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
 <div class ="vads-u-flex--1">
-  <b>Pension/Survivors Benefits</b>
+  <h4>Pension/Survivors Benefits</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
 Pension/Survivors Benefits Intake Center<br>
@@ -131,10 +131,10 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 
 <div class ="vads-u-flex--1">
-  <b>Fiduciary</b>
+  <h4>National Cemetery Administration</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
-Fiduciary Benefits Intake Center<br>
+National Cemetery <br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
 Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
@@ -142,9 +142,9 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 </div>
 
-<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
 <div class ="vads-u-flex--1">
-  <b>Education</b>
+  <h4>Education</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
 Education Benefits Intake Center<br>
@@ -155,7 +155,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 
 <div class ="vads-u-flex--1">
-  <b>Veterans Health Administration</b>
+  <h4>Veterans Health Administration</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
 Veterans Health Administration<br>
@@ -166,9 +166,9 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 </div>
 
-<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
 <div class ="vads-u-flex--1">
-  <b>Vocational Rehabilitation and Employment</b>
+  <h4>Vocational Rehabilitation and Employment</h4>
     <p class="va-address-block">
      Department of Veterans Affairs<br>
      Vocational Rehabilitation and Employment Intake Center<br>
@@ -180,7 +180,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 
 <div class ="vads-u-flex--1">
-  <b>Insurance</b>
+  <h4>Insurance</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
 Insurance Benefits Intake Center<br>
@@ -191,23 +191,12 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 </div>
 
-<div class ="vads-u-display--flex vads-u-flex-direction--row">
+<div class ="vads-u-display--flex ">
 <div class ="vads-u-flex--1">
-  <b>Loan Guaranty</b>
+  <h4>Loan Guaranty</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
 Loan Guaranty Benefits Intake Center<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
-    </p>
-</div>
-
-<div class ="vads-u-flex--1">
-  <b>National Cemetery Administration</b>
-    <p class="va-address-block">
-Department of Veterans Affairs<br>
-National Cemetery <br>
 PO Box 4444<br>
 Janesville, WI 53547-4444<br>
 Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
