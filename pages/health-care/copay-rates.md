@@ -64,7 +64,7 @@ You may need to pay a copay for outpatient care for conditions not related to yo
 You won't need to pay a copay for inpatient care.
 
 <h3>If you’re in priority group 7 or 8</h3>
-You'll pay either our full copay rate, or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out, call us toll-free at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET)
+You'll pay either our full copay rate or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out if you qualify for a reduced inpatient copay rate, call us toll-free at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET).
 
 <h4>2019 reduced inpatient care copay rates for priority group 7</h4>
 | Length of stay | Copay amount | 
@@ -78,10 +78,10 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 <h4>2019 full inpatient care copay rates for priority group 8</h4>
 | Length of stay | Copay amount | 
 | ---------- | --------------- | 
-| <b>First 90 days of care within a year (365 days)</b>   | $21,364 copay for total stay + $10 charge per day                | 
+| <b>First 90 days of care within a year (365 days)</b>   | $1,364 copay for total stay + $10 charge per day                | 
 | <b>Each additional day within the same year (365 days)</b>     | $682 copay per day + $10 charge per day                | 
 
-**Note:** You may be in priority group 8 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, and you have a gross household income above the our income limits for where you live, agree to pay copayments, and meet other specific enrollment and service-connected eligibility criteria. <br>
+**Note:** You may be in priority group 8 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, and you have a gross household income above our income limits for where you live, agree to pay copays, and meet other specific enrollment and service-connected eligibility criteria. <br>
 <br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
@@ -103,14 +103,14 @@ You won’t pay a copay for any medications.
 
 **Note:** The cost for any medications you receive while staying in a VA or other approved hospital or health facility are covered by your inpatient care copay.
 
-The amount you’ll pay for these medications will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a co-pay cap.
+The amount you’ll pay for these medications will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a copay cap.
 
 <h4>2019 outpatient medication copay amounts</h4>
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
 | --------------- | -------------------- | -------------------- | -------------------- |
 | <b>Tier 1</b><br> (preferred generic prescription medicines)        | $5                | $10                | $15                |
 | <b>Tier 2</b><br> (non-preferred generic prescription medicines and some over-the-counter medicines)        | $8                | $16                | $24                |
-| <b>Tier 3</b><br> (brand name prescription medicines)        | $11                | $22                | $33                |
+| <b>Tier 3</b><br> (brand-name prescription medicines)        | $11                | $22                | $33                |
 
 <b>If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications,</b> you may want to provide your income information to us to determine if you qualify for free medications. <br>
 [View the current VA national income limits](http://nationalincomelimits.vaftl.us/). <br>
@@ -131,7 +131,7 @@ You won't need to pay a copay for geriatric care (also called elder care) or ext
 | --------------- | -------------------- | -------------------- |
 |<b>Inpatient care</b> | <ul><li>Short-term or long-term stays in a community living center (formerly called nursing homes)</li><li>Overnight respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Overnight geriatric evaluations (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $97 |
 |<b>Outpatient care</b> | <li>Adult day health care (care in your home or at a facility that provides daytime social activities, companionship, recreation, care, and support)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 |
-|<b>Domicilitary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
+|<b>Domiciliary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
 
 [Learn more about long-term care options](https://vagov-content-pr-246.herokuapp.com/health-care/about-va-health-benefits/long-term-care/).
 
