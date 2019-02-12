@@ -26,7 +26,7 @@ relatedlinks:
 
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
-If you're struggling because of life situations like losing your job, having a sudden decrease in income, or having increases in out-of-pocket family health care expenses, we can help. Learn how to request financial hardship assistance to manage current VA copay debt, or to request an exemption from future copays. 
+If you're struggling because of life situations like losing your job, having a sudden decrease in income, or having an increase in out-of-pocket family health care expenses, we can help. You can request financial hardship assistance to manage your current VA copay debt or request an exemption from future copays. 
   
 </div>
 
@@ -35,12 +35,12 @@ If you're struggling because of life situations like losing your job, having a s
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can request either of the 2 financial hardship assistance options listed below, depending on your situation. To avoid late charges, including interest and other fees, you'll need to take action within 30 days of receiving your bill. <br>
+You can request either of the 2 financial hardship assistance options below, depending on your situation. To avoid late charges, including interest and other fees, you'll need to take action within 30 days of receiving your bill. <br>
 [Learn more about VA late charges and debt collection](/health-care/pay-copay-bill/#collection).
 
 <h3>Option 1: Set up a repayment plan to pay your debt over time</h3>
 
-If you can't pay your copay debt all at once, you have the right to set up a monthly repayment plan at any time. We'll review your proposed payment plan based on the amount of debt you owe and your ability to pay within a reasonable time. We usually require you to pay off the full debt within 3 years.
+If you can't pay your copay debt all at once, you can set up a monthly repayment plan at any time. We'll review your proposed payment plan based on the amount of debt you owe and your ability to pay within a reasonable time. We usually require you to pay off the full debt within 3 years.
 
 <b>To set up a repayment plan:</b>
 
@@ -52,14 +52,14 @@ If you can't pay your copay debt all at once, you have the right to set up a mon
     You can send these by mail, or bring them in person, to the business office or health administration office at your nearest VA medical center.<br>
 <a href="/find-locations/">Find the address of your nearest VA medical center</a>.</li>
   <li class="process-step list-three"><b>Once we approve your repayment plan, begin sending your monthly payments.</b><br>
-    If you receive a coupon book with your approved repayment plan, please send payments to the address shown on the coupon. You can also make a payment by mail or in person at your VA medical center's facility revenue office.</li>
+    If you receive a coupon book with your approved repayment plan, please send payments to the address shown on the coupon. You can also make a payment by mail or in person at your VA medical center's revenue office.</li>
 </ol>
 
-<b>Note:</b> Repayment plans don't include new charges you may receive after submitting your proposed plan. If you submit your plan and then receive a bill with new charges, please submit a new VA Form 1100 for the new charges. If you keep receiving new charges, please call us at <a href="tel:+18664001238">1-866-400-1238</a> every 90 days to request a new repayment plan. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET) If you have hearing loss, call TTY: 711.<br>
+<b>Note:</b> Repayment plans don't include new charges you may receive after submitting your proposed plan. If you submit your plan and then receive a bill with new charges, please submit a new VA Form 1100 for the new charges. If you keep receiving new charges, please call us at <a href="tel:+18664001238">1-866-400-1238</a> every 90 days to request a new repayment plan. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 711.<br>
 
 <h3>Option 2: Request debt relief for some or all of your copay debt</h3>
 
-If you don't think you can pay your debt even with monthly payments, you have the right to request debt relief for all or part of your balance. You can request a waiver (asking us to stop collection action on the debt), write-off (asking us to cancel the debt), or compromise (asking us to accept a lower amount of money as full payment of the debt). If we grant part or all of your request, you won't have to pay the amount of the balance we agree to relieve.
+If you don't think you can pay your debt with a monthly repayment plan, you can request request debt relief for all or part of your balance. You can request a waiver (asking us to stop collection action on the debt), write-off (asking us to cancel the debt), or compromise (asking us to accept a lower amount of money as full payment of the debt). If we grant part or all of your request, you won't have to pay the amount of the balance we agree to reduce.
 
 <b>To request debt relief:</b>
 
