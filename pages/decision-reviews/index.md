@@ -48,7 +48,7 @@ You'll need to follow a different process to appeal your disability compensation
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
       unless one of 3 rare situations is true for you.<br>
-      <a href="#unusual-situations">Find out if one of these rare situations applies to you</a>.
+      <a href="#rare-situations">Find out if one of these rare situations applies to you</a>.
     </p>
   </div>
 </div>
@@ -209,4 +209,4 @@ at <a href="tel:+1phonenumber">1-855-948-3211</a>.
 
 You can get answers to your questions on our [Frequently Asked Questions](/decision-reviews/faq).
 
-<div id="unusual-situations"></div>
+<div id="rare-situations"></div>
