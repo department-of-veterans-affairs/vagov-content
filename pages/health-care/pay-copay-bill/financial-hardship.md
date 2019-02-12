@@ -59,7 +59,7 @@ If you can't pay your copay debt all at once, you can set up a monthly repayment
 
 <h3>Option 2: Request debt relief for some or all of your copay debt</h3>
 
-If you don't think you can pay your debt with a monthly repayment plan, you can request request debt relief for all or part of your balance. You can request a waiver (asking us to stop collection action on the debt), write-off (asking us to cancel the debt), or compromise (asking us to accept a lower amount of money as full payment of the debt). If we grant part or all of your request, you won't have to pay the amount of the balance we agree to reduce.
+If you don't think you can pay your debt with a monthly repayment plan, you can request debt relief for all or part of your balance. You can request a waiver (asking us to stop collection action on the debt), write-off (asking us to cancel the debt), or compromise (asking us to accept a lower amount of money as full payment of the debt). If we grant part or all of your request, you won't have to pay the amount of the balance we agree to relieve.
 
 <b>To request debt relief:</b>
 
