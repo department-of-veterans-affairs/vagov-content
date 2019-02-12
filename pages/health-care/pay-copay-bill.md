@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Pay your VA copay bill
 display_title: Pay your copay bill
-collection: healthCarePay
+collection: healthCare
 spoke: Manage Benefits
 order: 15
 lastupdate: 2019-02-07
