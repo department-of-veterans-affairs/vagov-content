@@ -40,9 +40,15 @@ You may be able to get VA health care benefits if you served in the active milit
 
 - **If you’re a current or former member of the Reserves or National Guard,** you must have been called to active duty by a federal order and completed the full period for which you were called or ordered to active duty. If you had or have active-duty status for training purposes only, you don’t qualify for VA health care.
 
-<br>
+</div>
+</div>
+</div>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -91,7 +97,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 </div>
 
 <div class="form-expanding-group additional-info-container">
-  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>  
+  <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>
   <span id="spanishhelptext-1">
     <div class="additional-info-content">
       Llene la solicitud para Beneficions de Salud (Forma 10-10EZ).<br>
@@ -195,18 +201,18 @@ No. Whether or not you have other health insurance coverage doesn’t affect the
 <span id="leave-active-service"></span>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h4 itemprop="name">When I leave active-duty service, how do I know if I'm eligible for TRICARE, VA health care, or both?</h4>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-**If you're retiring,** you're eligible for TRICARE. You may also qualify for certain VA health care benefits. 
+**If you're retiring,** you're eligible for TRICARE. You may also qualify for certain VA health care benefits.
 
 
-**If you're separating from service due to a service-connected illness or injury,** you may be eligible for VA health care benefits and certain TRICARE benefits. 
+**If you're separating from service due to a service-connected illness or injury,** you may be eligible for VA health care benefits and certain TRICARE benefits.
 
 
-**If you're an OEF/OIF/OND combat Veteran who has just returned from service,** you can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge. 
+**If you're an OEF/OIF/OND combat Veteran who has just returned from service,** you can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge.
 
 [Learn more about health care benefits for transitioning service members](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
 
