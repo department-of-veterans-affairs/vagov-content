@@ -34,7 +34,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments or disagree with your bill.
+You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments or you disagree with your bill.
 
 </div>
 
@@ -56,7 +56,7 @@ Call us at <a href="tel:+18888274817">1-888-827-4817</a>. Be sure to have your a
 
 <h3>By mail</h3>
 
-Send your payment stub, along with a check or money order, to the address below. Make the check or money order payable to “VA,” and be sure to include your account number.
+Send your payment stub, along with a check or money order made payable to "VA," to the address below. Be sure to include your account number on the check or money order. 
 
 <p class="va-address-block">
 Department of Veterans Affairs <br>
@@ -105,7 +105,7 @@ You have 30 days from the time you receive a copay billing statement from us to 
 
 After 30 days, we're required to add late charges to your bill.
 
-This includes interest (starting from the date the charges first appeared on your statement) plus a monthly administration or collection fee, at rates we set each year. These charges will continue to grow overtime until you pay your full balance or set up an approved repayment plan. 
+This includes interest (starting from the date the charges first appeared on your statement) plus a monthly administration or collection fee, at rates we set each year. These charges will continue to grow over time until you pay your full balance or set up an approved repayment plan. 
 
 <b>Note:</b> If you set up a repayment plan and don't pay your installments on time, we'll continue adding the monthly administrative or collection fee until you pay off your balance. We may add other costs if we need to take further collection action.
 
@@ -151,7 +151,7 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you receive care through the Choice Program and you're having issues with adverse credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. (ET)
+If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. (ET).
 
 We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
 [Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).
