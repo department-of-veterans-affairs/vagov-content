@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: VA health care copay rates
-display_title: Copay rates
+display_title: Copay Rates
 description: Review VA health care eligibility criteria. Find out if you qualify for VA health care, how VA priority groups may affect you, and how to apply.
 plainlanguage: 
 lastupdate: 2019-02-07
