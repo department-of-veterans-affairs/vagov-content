@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request financial hardship assistance
 display_title: Request financial hardship assistance
-spoke: Manage Benefits
-order: 17
+collection: healthCarePay
+order: 2
 lastupdate: 2019-02-08
 relatedlinks:
   - heading: Other information you may need
