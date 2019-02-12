@@ -17,7 +17,7 @@ relatedlinks:
     - url: "/decision-reviews/fiduciary-claims/"
       title: If you have a fiduciary claim
       description: See if this applies to you and find out how to request a review.              
-------
+---
 <br>
 <div itemprop="description" class="va-introtext">
 Learn more about the review options and how to request a review. If you need help requesting a review, a Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 

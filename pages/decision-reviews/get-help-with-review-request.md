@@ -17,7 +17,7 @@ relatedlinks:
     - url: "/decision-reviews/board-appeal/"
       title: Appeal to a Veterans Law Judge
       description: Find out how to appeal to a Veterans’ Law Judge.              
-------
+---
 <br>
 <div itemprop="description" class="va-introtext">
 If you need help requesting a decision review, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Organization (VSO) representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.

@@ -11,7 +11,7 @@ relatedlinks:
     - url: "#"
       title: Fiduciary and Beneficiary Programs
       description: Learn about this program if you’d like to apply as a fiduciary for a family member or friend.
-------
+---
 <br>
 <div itemprop="description" class="va-introtext">
 If you disagree with a VA decision, you can choose one of the following review options to continue your case. If you aren’t satisfied with that review, you can try another option.
