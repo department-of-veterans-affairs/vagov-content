@@ -83,7 +83,8 @@ determine whether it changes the decision. <br>
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
-But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <a href="#unusual-situations">Learn about your options in these uncommon situations</a>
+But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
+<a href="#unusual-situations">Learn about your options in these uncommon situations</a>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -100,7 +101,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
-whether the decision can be changed based on a difference of opinion or an error that VA made. 
+whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
 [Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -145,7 +146,7 @@ A judge at the Board of Veterans’ Appeals in Washington, DC, will review your 
 
 #### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
