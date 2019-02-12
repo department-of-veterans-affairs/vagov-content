@@ -27,7 +27,6 @@ When you apply for VA health care, you’ll be assigned to 1 of the 8 priority g
 
 You'll be assigned based on factors like your military service history, disability rating, income level, and any other benefits you may be receiving. If you qualify for more than one priority group, we'll assign you to highest one. 
 
-
 </div>
 </div>
 </div>
@@ -40,7 +39,7 @@ You'll be assigned based on factors like your military service history, disabili
 Your priority group determines how quickly you'll be enrolled in VA health care, and whether you'll need to pay copays for certain types of non-service-connected care and medications.
 
 If you're assigned to priority group 7 or 8, you'll need to agree to pay copays to receive VA health care benefits.
-[View current copay rates](/health-care/copay-rates/).
+[View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
 
 </div>
 </div>
@@ -50,7 +49,6 @@ If you're assigned to priority group 7 or 8, you'll need to agree to pay copays 
 <h2 itemprop="name">What are the different priority groups?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-
 
 <h3>Priority group 1</h3>
 
