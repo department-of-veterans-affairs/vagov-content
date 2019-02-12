@@ -91,7 +91,7 @@ You may be eligible for a hardship determination, which would qualify you for a 
 <ol class="process">
   <li class="process-step list-one"><b>Fill out a Request for Hardship Determination (VA Form 10-10HS).</b> <br>
 <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10HS-fill.pdf">Download VA Form 10-10HS</a>.</li>
-  <li class="process-step list-two"><b>Write a letter explaining why you're requesting a hardship determination and copay exemption.</b><br>
+  <li class="process-step list-two"><b>Write a letter explaining why you're requesting a hardship determination.</b><br>
     The letter should describe the financial issues that make it hard for you to pay your copays.</li>  
   <li class="process-step list-three"><b>Submit your completed form and letter to us.</b> <br>
     You can send these by mail, or bring them in person, to the business office or health administration office at your nearest VA medical center. <br>
