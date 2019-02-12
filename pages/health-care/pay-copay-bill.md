@@ -60,7 +60,7 @@ Send your payment stub, along with a check or money order made payable to "VA," 
 
 <p class="va-address-block">
 Department of Veterans Affairs <br>
-P.O. Box 530269 <br>
+PO Box 530269 <br>
 Atlanta, GA 30353-0269 <br>
 </p>
 
