@@ -4,8 +4,6 @@ template: detail-page
 title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
 appealsbanner: true
-vagovprod: false
-vagovstaging: false
 relatedlinks:
   - heading: Uncommon situations that may be true for you
     links:
