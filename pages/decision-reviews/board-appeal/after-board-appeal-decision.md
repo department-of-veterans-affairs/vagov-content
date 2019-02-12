@@ -16,7 +16,8 @@ If you disagree with the Board’s decision, you have 2 options. You can file a 
 
 If you have new and relevant evidence, you can file a Supplemental Claim to continue your review.
 <br> 
-[Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/).  
+[Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/). <br>
+[Download VA Form 20-0995](#).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -27,6 +28,17 @@ If you have new and relevant evidence, you can file a Supplemental Claim to cont
   </div>
 </div>  
 
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      Mark your calendar 
+    </h4>
+    <p class="usa-alert-text">
+      You have <b>1 year</b> from the date on your decision to file a Supplemental Claim.
+    </p>
+  </div>
+</div>
+
 ### How long does it take VA to make a decision?
 
 <div class="card information">
@@ -34,7 +46,7 @@ If you have new and relevant evidence, you can file a Supplemental Claim to cont
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
-[Download VA Form 20-0995](#).
+<br>
 
 ### File a Court Appeal
 
@@ -50,7 +62,7 @@ You can request a review of the Board’s decision from the U.S. Court of Appeal
     <p class="usa-alert-text">
       You have <b>120 days</b> from  the date on your decision to file a Court Appeal. 
       <br>
-      <b>Note</b>: A Court Appeal must be filed with the Court, not with VA.
+      Note: A Court Appeal must be filed with the Court, not with VA.
     </p>
   </div>
 </div>
