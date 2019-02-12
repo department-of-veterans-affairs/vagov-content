@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Pay your VA copay bill
-display_title: Pay your copay bill
+display_title: Pay Your Copay Bill
 collection: healthCare
 children: healthCarePay
 spoke: Manage Benefits
@@ -13,7 +13,7 @@ majorlinks:
     links: 
     - url: /health-care/pay-copay-bill/dispute/
       title: Dispute your copay charges
-      description: If you think the charges or amounts on your bill are incorrect, find out how to file a dispute.
+      description: If you disagree with the charges or amounts on your bill, find out how to file a dispute.
     - url: /health-care/pay-copay-bill/financial-hardship/
       title: Request financial hardship assistance
       description: If you're struggling to pay your copays, learn how to request a repayment plan, debt relief, or copay exemption.
@@ -22,7 +22,13 @@ relatedlinks:
     links:
     - url: /health-care/copay-rates
       title: Current copay rates
-      description: View our current copay rates for different services and medication.      
+      description: View our current copay rates for different services and medication.
+    - url: /health-care/about-va-health-benefits/health-care-costs/
+      title: Your health care costs
+      description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
+    - url: /health-care/about-va-health-benefits/va-health-care-and-other-insurance/
+      title: VA health care and other insurance
+      description: Learn how VA works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -50,7 +56,7 @@ Call us at <a href="tel:+18888274817">1-888-827-4817</a>. Be sure to have your a
 
 <h3>By mail</h3>
 
-Send your payment stub along with a check or money order to the address below. Make the check or money order payable to “VA,” and include your account number on the check.
+Send your payment stub, along with a check or money order, to the address below. Make the check or money order payable to “VA,” and be sure to include your account number.
 
 <p class="va-address-block">
 Department of Veterans Affairs <br>
@@ -60,7 +66,7 @@ Atlanta, GA 30353-0269 <br>
 
 <h3>In person</h3>
 
-Visit your nearest VA medical center, and ask for the agent cashier's office. Bring your payment stub along with a check or money order made payable to “VA.” Be sure to include your account number on the check.
+Visit your nearest VA medical center, and ask for the agent cashier's office. Bring your payment stub, along with a check or money order made payable to “VA.” Be sure to include your account number on the check or money order.
 <br>
 [Find your nearest VA medical center](/find-locations/).
 
@@ -97,7 +103,9 @@ You have 30 days from the time you receive a copay billing statement from us to 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-30">30 days</button>
 <div id="questions-30" class="usa-accordion-content">
 
-After 30 days, we're required to add late charges to your bill. This includes interest (starting from the date the charges first appeared on your statement) plus a monthly administration or collection fee, at rates we set each rate. These charges will continue to grow overtime until you pay your full balance or set up an approved repayment plan. 
+After 30 days, we're required to add late charges to your bill.
+
+This includes interest (starting from the date the charges first appeared on your statement) plus a monthly administration or collection fee, at rates we set each year. These charges will continue to grow overtime until you pay your full balance or set up an approved repayment plan. 
 
 <b>Note:</b> If you set up a repayment plan and don't pay your installments on time, we'll continue adding the monthly administrative or collection fee until you pay off your balance. We may add other costs if we need to take further collection action.
 
@@ -107,7 +115,11 @@ After 30 days, we're required to add late charges to your bill. This includes in
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-60">60 days</button>
 <div id="questions-60" class="usa-accordion-content">
 
-After 60 days, we may take action to collect your copay debt. This may include offsetting other VA benefits you may receive, meaning that we would reduce or withhold part of your VA benefits (like disability compensation, GI Bill payments, or Veterans pension payments) to pay your copay debt. We may also notify credit reporting agencies, which may negatively affect your credit scores. 
+After 60 days, we may take action to collect your copay debt. 
+
+This may include offsetting other VA benefits you may receive, meaning that we would reduce or withhold part of your VA benefits (like disability compensation, GI Bill payments, or Veterans pension payments) to pay your copay debt.
+
+We may also notify credit reporting agencies, which may cause your credit score to decrease. 
 
 </div>
 </li>
@@ -115,12 +127,14 @@ After 60 days, we may take action to collect your copay debt. This may include o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-120">120 days</button>
 <div id="questions-120" class="usa-accordion-content">
 
-After 120 days, we're required by law to transfer your debt to the U.S. Treasury. They will add more fees and interest to your copay debt. They may also:
+After 120 days, we're required by law to transfer your debt to the U.S. Treasury.
+
+The U.S. Treasury will add more fees and interest to your copay debt. They may also:
 - Offset any federal and state payments you're entitled to. This means they may reduce or withhold part of your tax refunds, Social Security benefits, or any federal or state salary or retirement benefits to pay your debt.
 - Refer your account to a private collection agency, which will add more fees and interest to your debt.
 - Garnish your wages from a non-federal job. This means they may take part of your wages to pay your debt.
 
-<a href=https://fiscal.treasury.gov/top/faqs-for-the-public.htm>Read frequently asked questions about the Treasury Offset Program</a>. 
+<a href="https://fiscal.treasury.gov/top/">Visit the Treasury Offset Program website to learn more</a>. 
 
 </div>
 </li>
