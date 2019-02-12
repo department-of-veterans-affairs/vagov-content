@@ -29,7 +29,7 @@ relatedlinks:
 - [Medications](#medications)
 - [Geriatrics and extended care](#geriatrics)
 
-[View services that don't require a copay](#exempt)
+[View services that don't require a copay](#exempt).
 
 <b>Note:</b> Some Veterans don't have to pay copays (they're "exempt") due to their disability rating, income level, or special eligibility factors. <br>
 [Learn how we determine whether you'll pay copays](/health-care/about-va-health-benefits/health-care-costs/).
@@ -52,7 +52,7 @@ You may need to pay a copay for outpatient care for conditions not related to yo
 | <b>Specialty care services</b> <br>(like a visit to a hearing specialist, eye doctor, surgeon, or cardiologist)     | $50                | 
 | <b>Specialty tests</b> <br>(like an MRI or CAT scan)         | $50                | 
 
-<b>Note:</b> You won’t need to pay any copays for tests like X-rays, lab tests, or for preventive tests and services like screenings or immunizations.
+<b>Note:</b> You won’t need to pay any copays for X-rays, lab tests, or preventive tests and services like health screenings or immunizations.
 
 ------
 
@@ -72,7 +72,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $272.80 copay for total stay + $2 charge per day                | 
 | <b>Each additional day within the same year (365 days)</b>     | $136.40 copay per day + $2 charge per day                | 
 
-**Note:** You may be in priority group 7 and qualify for these rates if you have a gross household income below our income limits for where you live and you agree to pay copay.
+**Note:** You may be in priority group 7 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, but you have a gross household income below our income limits for where you live and you agree to pay copays.
 
 <h4>2019 full inpatient care copay rates for priority group 8</h4>
 | Length of stay | Copay amount | 
@@ -80,7 +80,9 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $21,364 copay for total stay + $10 charge per day                | 
 | <b>Each additional day within the same year (365 days)</b>     | $682 copay per day + $10 charge per day                | 
 
-**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the our income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. 
+**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the our income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. <br>
+<br>
+[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
 ------
 
@@ -90,7 +92,8 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 <h3>If you’re in priority group 1</h3>
 You won’t pay a copay for any medications. 
 
-**Note:** You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor.
+**Note:** You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor. <br>
+[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
 <h3>If you’re in priority groups 2 through 8</h3>
 <b>You'll pay a copay for:</b>
