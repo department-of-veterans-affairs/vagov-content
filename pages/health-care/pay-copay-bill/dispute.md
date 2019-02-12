@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Dispute your VA copay charges
-display_title: Dispute copay charges
+display_title: Dispute Copay Charges
 collection: healthCarePay
 order: 1
 lastupdate: 2019-02-08
