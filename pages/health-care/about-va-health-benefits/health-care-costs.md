@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Your health care costs
-display_title: Your health care costs
+display_title: Your Health Care Costs
 collection: healthCareCoverage
 order: 3
 lastupdate: 2019-02-07
