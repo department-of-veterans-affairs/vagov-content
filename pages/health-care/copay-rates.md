@@ -27,7 +27,7 @@ relatedlinks:
 - [Outpatient care](#outpatient)
 - [Inpatient care](#inpatient)
 - [Medications](#medications)
-- [Geriatrics and extended care](#geriatrics)
+- [Geriatric and extended care](#geriatrics)
 
 [View services that don't require a copay](#exempt).
 
@@ -72,7 +72,8 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $272.80 copay for total stay + $2 charge per day                | 
 | <b>Each additional day within the same year (365 days)</b>     | $136.40 copay per day + $2 charge per day                | 
 
-**Note:** You may be in priority group 7 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, but you have a gross household income below our income limits for where you live and you agree to pay copays.
+**Note:** You may be in priority group 7 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, but you have a gross household income below our income limits for where you live and you agree to pay copays. <br>
+[View the current VA national income limits](http://nationalincomelimits.vaftl.us/).
 
 <h4>2019 full inpatient care copay rates for priority group 8</h4>
 | Length of stay | Copay amount | 
@@ -80,7 +81,7 @@ You'll pay either our full copay rate, or a reduced copay rate. If you live in a
 | <b>First 90 days of care within a year (365 days)</b>   | $21,364 copay for total stay + $10 charge per day                | 
 | <b>Each additional day within the same year (365 days)</b>     | $682 copay per day + $10 charge per day                | 
 
-**Note:** You may be in priority group 8 and qualify for these rates if you have a gross household income above the our income limits for where you live and you agree to pay copayments and meet other specific enrollment and service-connected eligibility criteria. <br>
+**Note:** You may be in priority group 8 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, and you have a gross household income above the our income limits for where you live, agree to pay copayments, and meet other specific enrollment and service-connected eligibility criteria. <br>
 <br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
@@ -111,9 +112,9 @@ The amount you’ll pay for these medications will depend on the “tier” of t
 | <b>Tier 2</b><br> (non-preferred generic prescription medicines and some over-the-counter medicines)        | $8                | $16                | $24                |
 | <b>Tier 3</b><br> (brand name prescription medicines)        | $11                | $22                | $33                |
 
-<b>If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications,</b> you may want to complete a medication copay exemption test. <br>
+<b>If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications,</b> you may want to provide your income information to us to determine if you qualify for free medications. <br>
 [View the current VA national income limits](http://nationalincomelimits.vaftl.us/). <br>
-[Learn about the VA financial assessment](https://www.va.gov/HEALTHBENEFITS/cost/financial_assessment.asp).
+[Find out how we determine your health care costs](/health-care/about-va-health-benefits/health-care-costs/).
 
 ------
 
