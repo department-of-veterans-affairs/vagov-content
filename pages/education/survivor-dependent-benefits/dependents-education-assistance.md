@@ -48,13 +48,13 @@ You may be able to get these benefits if both you and the Veteran or Servicememb
 
 ## What benefits can I get?
 
-We’ll make a monthly payment to your school of up to $1,224 for:
+We’ll make a monthly payment to your school to help cover the cost of:
 - College or graduate degree programs
 - Career-training certificate courses
 - Apprenticeships
 - On-the-job training
 
-**Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on August 1, 2018, or after, you can get benefits for up to 36 months.
+**Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on or after August 1, 2018, you can get benefits for up to 36 months.
 
 [View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp).
 
