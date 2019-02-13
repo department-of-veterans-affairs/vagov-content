@@ -95,7 +95,7 @@ But you canâ€™t file a Supplemental Claim if you have a Fiduciary Claim or youâ€
 
 <br>
 
--------------------
+________________________
 
 <div id="higher-level-review">
 
@@ -139,7 +139,7 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 <br>
 
----------------------------
+_______________________
 
 <div id="board-appeal">
 
@@ -188,7 +188,7 @@ hearing will take place at a VA location near you.
 
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
-----------------------------
+__________________________
 
 ## After a Board Decision
 
