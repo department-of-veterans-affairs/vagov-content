@@ -44,7 +44,7 @@ Money for tuition
     <h3>Make sure we've approved your selected program</h3><br>
     If you have questions, we can help you and your school understand the requirements.
     <ul>
-      <li>Call our VA Benefits Hotline at <a href="tel:+18008271000">1-800-827-1000</a>. If you have hearing loss, call TTY: 711.</li>
+      <li>Call our Education Call Center at <a href="tel:+18884424551">1-888-442-4551</a>. If you have hearing loss, call TTY: 711.</li>
       <li>Or go to a VA regional benefit office near you. <br>
         <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a>.</li>
     </ul>
