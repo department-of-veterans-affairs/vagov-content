@@ -55,13 +55,13 @@ You'll need to follow a different process to appeal your disability compensation
 
 ## Decision Review Options
 
-- [Supplemental Claim: Add new and relevant evidence](#supplemental-claim)
-- [Higher-Level Review: Ask for a new look from a senior reviewer](#higher-level-review)
-- [Board Appeal: Ask a Veterans Law Judge to review your case](#board-appeal)
+- [Add new and relevant evidence](#supplemental-claim)
+- [Ask for a new look from a senior reviewer](#higher-level-review)
+- [Ask a Veterans Law Judge to review your case](#board-appeal)
 
 <div id="supplemental-claim">
 
-### Supplemental Claim: Add new and relevant evidence
+### Add new and relevant evidence
 
 <a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (Supplemental Claim)</a>
 
@@ -95,9 +95,11 @@ But you canâ€™t file a Supplemental Claim if you have a Fiduciary Claim or youâ€
 
 <br>
 
+-------------------
+
 <div id="higher-level-review">
 
-### Higher-Level Review: Ask for a new look from a senior reviewer
+### Ask for a new look from a senior reviewer
 
 <a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (Higher-Level Review)</a>
 
@@ -137,9 +139,11 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 <br>
 
+---------------------------
+
 <div id="board-appeal">
 
-### Board Appeal: Ask a Veterans Law Judge to review your case
+### Ask a Veterans Law Judge to review your case
 
 [Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/vagov-10182.pdf)
 
@@ -183,6 +187,8 @@ hearing will take place at a VA location near you.
 #### Can I request a Board Appeal?
 
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
+
+----------------------------
 
 ## After a Board Decision
 
