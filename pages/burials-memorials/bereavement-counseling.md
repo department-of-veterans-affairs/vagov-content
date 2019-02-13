@@ -1,28 +1,28 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Bereavement Counseling
+title: Bereavement counseling
 display_title:
 order: 6
-spoke: Get Benefits
+spoke: Get benefits
 collection: burials
 relatedlinks:
   - heading: Other helpful information
     links:
     - url: /burials-memorials/veterans-burial-allowance/
-      title: How to Apply for a Burial Allowance
+      title: How to apply for a burial allowance
       description: Find out if you can get paid back for funeral and other burial costs.
     - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for Survivors and Dependents
+      title: Compensation for survivors and dependents
       description: Find out if you can get tax-free monetary benefits.
     - url: /burials-memorials/plan-a-burial/
-      title: Burial Planning
+      title: Burial planning
       description: Find out the steps you’ll need to take to arrange for a Servicemember, Veteran, or eligible family member’s burial.
     - url: /burials-memorials/what-to-expect-at-military-funeral/
-      title: What to Expect at a Memorial Service
+      title: What to expect at a memorial service
       description: Find out what will happen to help you prepare for this day.
     - url: /pension/survivors-pension/
-      title: How to Apply for a Survivors Pension
+      title: How to apply for a survivors pension
       description: If you’re an unmarried surviving spouse or an unmarried child of a deceased Veteran with wartime service, find out if you can get monthly payments.
 
 aliases:
@@ -31,7 +31,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re the surviving spouse, child, or parent of a Servicemember who died while serving their country, you may qualify for bereavement counseling through VA. Bereavement counseling (also sometimes called "grief counseling") provides assistance and support for people going through emotional and psychological stress after the death of a loved one.
+If you’re the surviving spouse, child, or parent of a service member who died while serving their country, you may qualify for bereavement counseling through VA. Bereavement counseling (also sometimes called "grief counseling") provides assistance and support for people going through emotional and psychological stress after the death of a loved one.
 
 </div>
 
@@ -42,7 +42,7 @@ If you’re the surviving spouse, child, or parent of a Servicemember who died w
 ### Can I get bereavement (or grief) counseling?
 
 **You may qualify for bereavement counseling if you’re the surviving spouse, child, or parent of:**
-- A Servicemember who died while serving their country
+- A service member who died while serving their country
 - A Reservist who died while on active duty
 - A National Guard Soldier who died while on active duty
 
