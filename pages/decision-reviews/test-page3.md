@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Higher-Level Review
-display_title: Request a Higher-Level Review
+title: test page 3
+display_title: test page 3
+vagovprod: false
+vagovstaging: false
 relatedlinks: false
 ---
 <br>
@@ -10,17 +12,17 @@ relatedlinks: false
 If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. Find out how to request a Higher-Level Review.
 </div>
 <br>
-<div class ="vads-u-display--flex vads-u-margin-y--1">
+<div class ="vads-u-display--flex vads-u-margin-y--1 icon-text">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-ban"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">    
       You can’t submit any evidence.
   </div>
 </div>      
-<div class ="vads-u-display--flex vads-u-margin-y--1">
+<div class ="vads-u-display--flex vads-u-margin-y--1 icon-text">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>  
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>  
   </div>
   <div class="vads-u-flex--1">  
     You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
@@ -36,7 +38,7 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim 
 
 ### How long does it take VA to make a decision?
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i> 4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
@@ -48,7 +50,7 @@ During the call, you and/or your representative can talk about why you think the
 
 ### How do I request a Higher-Level Review?
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996.</a>
+<a href="#">Download VA Form 20-0996.</a>
 
 <ol class="process">
 <li class="process-step list-one">
@@ -103,7 +105,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 __By mail__
 <br>
-Send the completed VA Form 20-0996 to the benefit office that matches the benefit type you selected on the form.
+Send the completed VA Form 20-0996 and any supporting documents to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -233,7 +235,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 
 __In person__
 <br>
-Bring your completed form to a VA regional benefit office. 
+Bring your completed form and any supporting documents to a VA regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 <br>
@@ -271,3 +273,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 ### What if I have more questions?
 Get answers to frequently asked questions about decision reviews. <br>
 [Go to FAQs](/decision-reviews/faq/).
+
+
+
