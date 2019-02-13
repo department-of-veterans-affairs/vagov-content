@@ -65,11 +65,11 @@ With our VA Appointments tools, you can schedule some VA health care appointment
 
 <h2>View Your VA Appointments Online</h2>
 
-<div class="cta-widget" data-app-id="appointments"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="appointments"></div>
 
 <h2>Schedule or Cancel a VA Appointment Online</h2>
 
-<div class="cta-widget" data-app-id="appointments"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="appointments"></div>
 
 
 <div itemscope itemtype="http://schema.org/Question">

@@ -73,7 +73,7 @@ You should also know that you have up to a year from the date we receive your cl
 </div>
 
 
-<div id="react-applicationStatus"></div>
+<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 

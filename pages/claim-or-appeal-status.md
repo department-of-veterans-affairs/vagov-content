@@ -12,7 +12,7 @@ lastupdate: 2018-09-20
 Find out how to check the status of a VA claim or appeal online.
 </div>
 
-<div class="cta-widget" data-app-id="claims-and-appeals"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="claims-and-appeals"></div>
 
 <h2 itemprop="name">What types of claims and appeals can I track with this tool?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">

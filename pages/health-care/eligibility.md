@@ -92,7 +92,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 </div>
 
 
-<div id="react-applicationStatus" class="static-page-widget">
+<div id="react-applicationStatus" data-widget-type="health-care-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
 </div>
 
