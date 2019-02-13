@@ -18,7 +18,7 @@ If you disagree with a VA decision, you can choose one of the following review o
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision letter to file a Supplemental Claim (VA Form 20-0995). 
       <br>
-      <a href="#">Download VA Form 20-0995</a>
+      <a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995</a>
     </p>
   </div>
 </div>
@@ -26,7 +26,7 @@ If you disagree with a VA decision, you can choose one of the following review o
 ## Decisions Review Options
 
 ### Add new and relevant evidence
-[Download VA Form 20-0995 (Supplemental Claim)](#)
+[Download VA Form 20-0995 (Supplemental Claim)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
 <br>
 
 When you choose a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying evidence for review. A reviewer will determine whether the new evidence changes the decision. 
@@ -50,7 +50,7 @@ When you choose a Supplemental Claim, you’re adding new evidence that’s rele
 
 ### Ask for a second opinion from a senior reviewer
 
-[Download VA Form 20-0996 (Higher-Level Review)](#)
+[Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
 <br>
 
 When you choose to request a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 

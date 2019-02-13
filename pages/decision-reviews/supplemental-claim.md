@@ -39,7 +39,7 @@ You can submit evidence yourself, or you can ask VA to get evidence, like medica
 
 ### How do I file a Supplemental Claim with new evidence?
 To file a Supplemental Claim, fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
-<a href="#">Download VA Form 20-0995</a>. 
+<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995</a>. 
 
 <ol class="process">
 <li class="process-step list-one">

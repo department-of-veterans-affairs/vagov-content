@@ -23,7 +23,7 @@ If you disagree with a VA decision, you can choose one of the following review o
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision letter to request a decision review.
       <br>
-      <a href="#">Download VA Form 20-0995</a>
+      <a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995</a>
     </p>
   </div>
 </div>
@@ -39,7 +39,7 @@ Please choose one of the options below for your next review.
 
 ### Ask for a second opinion from a senior reviewer
 
-[Download VA Form 20-0996 (Higher-Level Review)](#)
+[Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
 
 When you choose a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer at a different regional office will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 
 <br>
