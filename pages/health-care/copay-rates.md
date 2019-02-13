@@ -64,7 +64,7 @@ You may need to pay a copay for outpatient care for conditions not related to yo
 You won't need to pay a copay for inpatient care.
 
 <h3>If you’re in priority group 7 or 8</h3>
-You'll pay either our full copay rate or a reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter your priority group. To find out if you qualify for a reduced inpatient copay rate, call us toll-free at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET).
+You'll pay either our full copay rate or reduced copay rate. If you live in a high-cost area, you may qualify for a reduced inpatient copay rate no matter what priority group you're in. To find out if you qualify for a reduced inpatient copay rate, call us toll-free at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET).
 
 <h4>2019 reduced inpatient care copay rates for priority group 7</h4>
 | Length of stay | Copay amount | 
@@ -93,7 +93,7 @@ You'll pay either our full copay rate or a reduced copay rate. If you live in a 
 <h3>If you’re in priority group 1</h3>
 You won’t pay a copay for any medications. 
 
-**Note:** You may be in priority group 1 if we've rated your service-connected disability as 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor. <br>
+**Note:** You may be in priority group 1 if we've rated your service-connected disability at 50% or more disabling, if we've determined that you can't work because of your service-connected disability (called unemployable), or if you've received the Medal of Honor. <br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
 <h3>If you’re in priority groups 2 through 8</h3>
@@ -140,7 +140,7 @@ You won't need to pay a copay for geriatric care (also called elder care) or ext
 <span id="exempt"></span>
 <h2>Services that don't require a copay</h2>
 
-You won't need to pay a copay for any of the services listed below, no matter your disability rating or priority group.
+You won't need to pay a copay for any of the services listed below, no matter what your disability rating is or what priority group you're in.
 
 - [Readjustment counseling and related mental health services](/health-care/health-needs-conditions/mental-health/)
 - [Counseling and care for issues related to military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/)
