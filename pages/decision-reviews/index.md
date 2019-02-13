@@ -97,7 +97,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 <br>
 
 ### Higher-Level Review: Ask for a new look from a senior reviewer
-</div>
+
 [Download VA Form 20-0996 (Higher-Level Review)](decision-reviews/higher-level-review/)
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
@@ -139,7 +139,7 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 <div id="board-appeal">
 
 ### Board Appeal: Ask a Veterans Law Judge to review your case
-</div>
+
 [Download VA Form 10182 (Board Appeal)](decision-reviews/board-appeal/)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
