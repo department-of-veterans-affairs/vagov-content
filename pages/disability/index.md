@@ -13,7 +13,7 @@ promo:
   - image: /img/hub-illustrations/disability.png
     heading: Fully Developed Claims Program
     url: "/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
-    description: Use the Fully Developed Claims program to get a faster decision by submitting evidence along with your claim.
+    description: Use this program to get a faster decision by submitting evidence along with your claim.
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
