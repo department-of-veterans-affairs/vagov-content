@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: After You Apply for a Pre-need Eligibility Determination
-display_title: After You Apply
+title: After you apply for a pre-need eligibility determination
+display_title: After you apply
 order: 3
 majorlinks:
   - heading:
