@@ -81,7 +81,7 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
-  <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing.</span>
+  <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.</span>
 </div>
 
 **Evidence Submission**
