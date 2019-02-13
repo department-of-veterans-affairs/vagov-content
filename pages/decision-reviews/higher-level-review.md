@@ -115,11 +115,12 @@ Janesville, WI 53547-4444<br>
 </p>
 
 <ul class="usa-accordion" aria-multiselectable="true">
-  <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">Find addresses for other benefit types</button>
-    <div id="VA-burials-survivor-spouse" class="usa-accordion-content" >
+  <button class="usa-button-unstyled usa-accordion-button" 
+    aria-controls="VA-other-benefit-addresses">Find addresses for other benefit types</button>
+    <div id="VA-other-benefit-addresses" class="usa-accordion-content" >
 
 <div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>Pension/Survivors Benefits</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
@@ -130,7 +131,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>National Cemetery Administration</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
@@ -143,7 +144,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 
 <div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>Education</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
@@ -154,7 +155,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
     </p>
 </div>
 
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>Veterans Health Administration</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
@@ -167,7 +168,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 
 <div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>Vocational Rehabilitation and Employment</h4>
     <p class="va-address-block">
      Department of Veterans Affairs<br>
@@ -179,7 +180,7 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 
 
-<div class ="vads-u-flex--1">
+<div class ="vads-u-flex--1 address-item">
   <h4>Insurance</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
@@ -191,8 +192,8 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
 </div>
 </div>
 
-<div class ="vads-u-display--flex ">
-<div class ="vads-u-flex--1">
+<div class ="vads-u-display--flex vads-u-flex-direction--row address-row">
+<div class ="vads-u-flex--1 address-item">
   <h4>Loan Guaranty</h4>
     <p class="va-address-block">
 Department of Veterans Affairs<br>
