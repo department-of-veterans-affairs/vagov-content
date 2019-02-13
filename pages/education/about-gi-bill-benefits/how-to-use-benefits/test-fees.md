@@ -27,7 +27,7 @@ If you’re a Veteran and you qualify for the GI Bill, you may be able to use pa
  
 [Find out which tests are covered and how much they cost](https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do). <br>
 
-**Note:** If you don't see a test listed, it still may be a valid test that's not yet approved. Submit an application for reimbursement.
+**Note:** If you don't see a test listed, it still may be a valid test that's not yet approved. Please submit an application for reimbursement.
 
 ### What you should know about test benefits
 
@@ -37,8 +37,8 @@ If you’re a Veteran and you qualify for the GI Bill, you may be able to use pa
 - Will pay for tests even if you don't score high enough to get your license or certification. You can take the same test as many times as you need.
 - Will pay for you to retake a test you passed if you need to take it again to get recertified or retain a license you already have.
 - Won't pay for fees or costs related to getting the actual license or certification document.
+- Won't pay more than $2,000 in fees for one test.
 
-**For tests taken before August 1, 2018,** if we paid you back for testing under the Post-9/11 GI Bill, we charged you at least a month of entitlement pay. ***NEED TO LOOK AT THIS AGAIN***
 
 **For tests taken after August 1, 2018,** we'll prorate the entitlement charges under the Post-9/11 GI Bill based on the actual amount of the fee charged for the test.
 </div>
