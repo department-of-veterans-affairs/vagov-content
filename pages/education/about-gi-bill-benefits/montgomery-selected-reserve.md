@@ -112,7 +112,7 @@ Follow the steps below to apply for these benefits.
     <h3>Ask your school or training program to certify your enrollment</h3><br>
     <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
                                      <p></p>
-    <p><b>Note:</b> You'll then need to verify your enrollment each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+    <p><b>Note:</b> You'll then need to verify your enrollment at the end of each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
     <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
   </li>
     </ul>
