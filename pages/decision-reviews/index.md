@@ -80,6 +80,12 @@ determine whether it changes the decision. <br>
   </div>   
 </div>
 
+<!-- Todo: Implement updated number component -->
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
+</div>
+
 #### Can I file a Supplemental Claim?
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
@@ -87,15 +93,9 @@ You can file a Supplemental Claim within <b>1 year</b> of a decision if you have
 But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
 <a href="#rare-situations">Learn about your options in these rare situations</a>
 
-<!-- Todo: Implement updated number component -->
-<div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
-  <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
-</div>
+<br>
 
 <div id="higher-level-review">
-
-<br>
 
 ### Higher-Level Review: Ask for a new look from a senior reviewer
 
@@ -124,16 +124,16 @@ whether the decision can be changed based on a difference of opinion or an error
   </div>
 </div>   
 
-#### Can I request a Higher-Level Review?
-
-You can request a Higher-Level Review of an initial claim or Supplemental Claim
-decision. This option isn't available after a Higher-Level Review or Board Appeal.
-
 <!-- Todo: Implement updated number component -->
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
+
+#### Can I request a Higher-Level Review?
+
+You can request a Higher-Level Review of an initial claim or Supplemental Claim
+decision. This option isn't available after a Higher-Level Review or Board Appeal.
 
 <br>
 
@@ -145,10 +145,6 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
-
-#### Can I request a Board Appeal?
-
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -183,6 +179,10 @@ hearing will take place at a VA location near you.
     The Board will take longer to decide your appeal if you submit new evidence or request a hearing.
   </span>
 </div>
+
+#### Can I request a Board Appeal?
+
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
 ## After a Board Decision
 
