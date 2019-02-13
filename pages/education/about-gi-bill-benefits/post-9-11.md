@@ -31,9 +31,9 @@ You can get these education benefits if you meet at least one of the requirement
 
 **At least one of these must be true. You:**
 
-- Served at least 90 days on active duty (either all at once or with breaks in service) after September 10, 2001, **or**
+- Served at least 90 days on active duty (either all at once or with breaks in service) on or after September 11, 2001, **or**
 - Received a Purple Heart on or after September 11, 2001, and were honorably discharged after any amount of service, **or**
-- Served for at least 30 continuous days (all at once, without a break in service) after September 10, 2001, and were honorably discharged with a service-connected disability, **or**
+- Served for at least 30 continuous days (all at once, without a break in service) on or after September 11, 2001, and were honorably discharged with a service-connected disability, **or**
 - Are a dependent child using benefits transferred by a qualifying Veteran or Servicemember
 
 **Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 GI Bill.
@@ -64,7 +64,7 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
   
 **You can receive up to 36 months of benefits, including:** 
   
-- **Tuition and fees.** If you qualify for the maximum benefit, we'll cover the full cost of public in-state tuition and fees. We cap the rates for private and foreign schools, and update those rates each year.<br>
+- **Tuition and fees.** If you qualify for the maximum benefit, we'll cover the full cost of public, in-state tuition and fees. We cap the rates for private and foreign schools, and update those rates each year.<br>
 [ View current rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp).
 - **Money for housing (if you're in school more than half time).** We'll base your monthly housing allowance on the cost of living where your school is located.
 - **Money for books and supplies.** You can receive up to $1,000 per school year.
@@ -76,7 +76,7 @@ The specific amount you'll receive will depend on how much active service you’
 
 **For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charges $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
 
-Note that this will change August 1, 2020. In this example, 90 days of active service will qualify you for 50% of the maximum amount.
+Note that this will change August 1, 2020. In this example, 90 days of active service would qualify you for 50% of the maximum amount as of August 1, 2020.
 
 </div>
 </div>
