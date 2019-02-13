@@ -52,7 +52,7 @@ If you can't pay your copay debt all at once, you can set up a monthly repayment
     You can send these by mail, or bring them in person, to the business office or health administration office at your nearest VA medical center.<br>
 <a href="/find-locations/">Find the address of your nearest VA medical center</a>.</li>
   <li class="process-step list-three"><b>Once we approve your repayment plan, begin sending your monthly payments.</b><br>
-    If you receive a coupon book with your approved repayment plan, please send payments to the address shown on the coupon. You can also make a payment by mail or in person at your VA medical center's revenue office.</li>
+    If you receive a coupon book with your approved repayment plan, please send payments to the address on the coupon. You can also make a payment by mail or in person at your VA medical center's revenue office.</li>
 </ol>
 
 <b>Note:</b> Repayment plans don't include new charges you may receive after submitting your proposed plan. If you submit your plan and then receive a bill with new charges, please submit a new VA Form 1100 for the new charges. If you keep receiving new charges, please call us at <a href="tel:+18664001238">1-866-400-1238</a> every 90 days to request a new repayment plan. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 711.<br>
