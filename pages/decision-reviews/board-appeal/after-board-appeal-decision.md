@@ -12,9 +12,9 @@ If you disagree with the Board’s decision, you have 2 options. You can file a 
 
 ## Decision Review Options
 
-### Add new and relevant evidence
+### Supplemental Claim (add new and relevant evidence)
 
-If you have new and relevant evidence, you can file a Supplemental Claim to continue your review.
+If you have new and relevant evidence, you can file a Supplemental Claim (VA Form 20-0995) to continue your review.
 <br> 
 [Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/). <br>
 [Download VA Form 20-0995](#).
@@ -48,11 +48,11 @@ If you have new and relevant evidence, you can file a Supplemental Claim to cont
 
 <br>
 
-### File a Court Appeal
+### Court Appeal (appeal the Board's decision)
 
 You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself.
 <br>  
-[Learn more about filing a Court Appeal](/decision-reviews/supplemental-claim/).
+[Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
@@ -60,7 +60,7 @@ You can request a review of the Board’s decision from the U.S. Court of Appeal
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>120 days</b> from  the date on your decision to file a Court Appeal. 
+      You have <b>120 days</b> from the date on your decision to file a Court Appeal. 
       <br>
       Note: A Court Appeal must be filed with the Court, not with VA.
     </p>
