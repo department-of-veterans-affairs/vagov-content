@@ -18,7 +18,7 @@ If you’re one of multiple people claiming the right to the same benefit, you h
     <p class="usa-alert-text">
       You have <b>60 days</b> from the date on your decision letter to request a Decision Review Request: Board Appeal (VA Form 10182). 
       <br>
-      <a href="#">Download VA Form 10182</a>.
+      <a href="/decision-reviews/forms/vagov-10182.pdf">Download VA Form 10182</a>.
     </p>
   </div>
 </div>
@@ -35,7 +35,7 @@ Because you’re one of multiple people claiming the same benefit, the Higher-Le
 
 ### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182 (Board Appeal)](#)
+[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/vagov-10182.pdf)
 <br>
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case.
 You have the option to add new evidence that a judge will review.
@@ -66,7 +66,7 @@ This option will take longer. Find a time estimate listed below.
 
 Fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182](#). 
+[Download VA Form 10182](/decision-reviews/forms/vagov-10182.pdf). 
 
 ### Choose one of the 3 options to appeal with a Veterans Law Judge
 <ol class="process">

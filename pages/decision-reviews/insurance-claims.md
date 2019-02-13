@@ -85,7 +85,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board decision.
 
 ### Appeal to a Veterans Law Judge
-[Download VA Form 10182 (Board Appeal)](#)
+[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/vagov-10182.pdf)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. 
 <br>
