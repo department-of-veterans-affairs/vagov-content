@@ -36,7 +36,7 @@ You have the right to dispute all or part of your VA copay charges. To avoid lat
 
 Write a letter explaining why you think the copay charges or balance amount may not be correct.
 
-Mail the letter, or bring it in person to the business office or health administration office at your nearest VA medical center. If you send your dispute by mail, please include "Billing Dispute" on the mailing envelope. <br>
+Mail the letter, or bring it in person, to the business office or health administration office at your nearest VA medical center. If you send your dispute by mail, please include "Billing Dispute" on the mailing envelope. <br>
 [Find the address for your nearest VA medical center](/find-locations/).
 
 </div>
@@ -50,7 +50,7 @@ Mail the letter, or bring it in person to the business office or health administ
 
 <b>If we receive your dispute within 60 days from the date of your first billing statement,</b> we won't start the collection process until we've resolved your dispute.
 
-<b>If we receive your dispute after 60 and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits, federal payments, or wages. <br>
+<b>If we receive your dispute after 60 days and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits, federal payments, or wages. <br>
 
 [Learn more about the collection process](/health-care/pay-copay-bill/#collection).
 
