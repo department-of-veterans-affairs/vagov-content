@@ -84,7 +84,7 @@ determine whether it changes the decision. <br>
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
 But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#unusual-situations">Learn about your options in these uncommon situations</a>
+<a href="#unusual-situations">Learn about your options in these rare situations</a>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -98,7 +98,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 
 ### Higher-Level Review: Ask for a new look from a senior reviewer
 
-[Download VA Form 20-0996 (Higher-Level Review)](decision-reviews/higher-level-review/)
+[Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/higher-level-review/)
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
@@ -140,7 +140,7 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 ### Board Appeal: Ask a Veterans Law Judge to review your case
 
-[Download VA Form 10182 (Board Appeal)](decision-reviews/board-appeal/)
+[Download VA Form 10182 (Board Appeal)](/decision-reviews/board-appeal/)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
@@ -192,9 +192,9 @@ U.S. Court of Appeals for Veterans Claims. <br>
 
 ## What happens next?
 
-[Find out what happens after you request a Decision Review](/decision-reviews/after-you-request-review).
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review).
 
-You don’t need to do anything while you’re waiting unless VA sends you a letter asking for
+You don’t need to do anything while you wait unless VA sends you a letter asking for
 more information. If VA schedules exams for you, be sure not to miss them.
 
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Appeal</a>
@@ -208,6 +208,7 @@ at <a href="tel:+1phonenumber">1-855-948-3211</a>.
 
 ## What if I have more questions?
 
-You can get answers to your questions on our [Frequently Asked Questions](/decision-reviews/faq).
+Get answers to frequently asked questions about decision reviews.
+[Go to FAQs](/decision-reviews/faq).
 
 <div id="rare-situations"></div>
