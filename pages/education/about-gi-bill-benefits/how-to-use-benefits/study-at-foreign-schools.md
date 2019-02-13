@@ -108,11 +108,9 @@ If you don’t do this, it could affect when you get benefits.
 
 ### Where will you process my claim?
 
-**If you're training in Puerto Rico or the U.S. Virgin Islands,** our Atlanta Regional Processing Office in Decatur, Georgia, will process your claim.
+**If you're training in the Republic of the Philippines, American Samoa, Guam, Midway, Puerto Rico, Wake Island, any of the islands in the Federated States of the Marshall Islands, the Republic of Micronesia, or the Republic of Palau,** our Muskogee Regional Processing Office will process your claim.
 
-**If you're training in the Republic of the Philippines, American Samoa, Guam, Midway, Wake Island, any of the islands in the Federated States of the Marshall Islands, the Republic of Micronesia, or the Republic of Palau,** our Muskogee Regional Processing Office will process your claim.
-
-**If you're training in any other foreign country or area,** our Buffalo Regional Processing Office will process your claim.
+**If you're training in the U.S. Virgin Islands or any other foreign country or area,** our Buffalo Regional Processing Office will process your claim.
 
 ### What if I need more help?
 
