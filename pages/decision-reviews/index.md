@@ -63,7 +63,8 @@ You'll need to follow a different process to appeal your disability compensation
 
 ### Supplemental Claim: Add new and relevant evidence
 
-[Download VA Form 20-0995 (Supplemental Claim)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
+<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (Supplemental Claim)</a>
+
 
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
 your case or identifying evidence for review. A reviewer will look at all the evidence and 
@@ -84,7 +85,7 @@ determine whether it changes the decision. <br>
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
 But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#unusual-situations">Learn about your options in these rare situations</a>
+<a href="#rare-situations">Learn about your options in these rare situations</a>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -98,7 +99,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 
 ### Higher-Level Review: Ask for a new look from a senior reviewer
 
-[Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (Higher-Level Review)</a>
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
