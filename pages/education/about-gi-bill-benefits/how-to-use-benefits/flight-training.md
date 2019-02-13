@@ -55,7 +55,7 @@ We’ll pay you back for 60% of the approved fees your flight school charges.<br
 **Your payment depends on 3 factors:**
 
 - Your level of eligibility (you're eligible for a certain percent of benefits up to 100% based on how long you served on active duty after September 10, 2001), **and**
-- How many months you have left under the Post-9/11 GI Bill (called your "remaining entitlement"), **and**
+- How much entitlement you have left for school or training under the Post-9/11 GI Bill, **and**
 - The program and type of school you’re enrolled in
 
 **If you're enrolled in:**
