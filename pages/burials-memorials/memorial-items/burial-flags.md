@@ -1,18 +1,18 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Burial Flag to Honor a Veteran or Reservist
-display_title: Burial Flags
+title: Request a burial flag to honor a Veteran or Reservist
+display_title: Burial flags
 description: Find out how to apply for a United States burial flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist in honor of their military service. And learn how to properly display and care for burial flags.
 order: 2
 concurrence: incomplete
 relatedlinks:
-  - header: Other Memorial Items
+  - header: Other memorial items
   - url: /burials-memorials/memorial-items/presidential-memorial-certificates/
-    title: Presidential Memorial Certificates
+    title: Presidential memorial certificates
     description: Find out if you can get an engraved paper certificate signed by the current president to honor the service of a Veteran or Reservist.
   - url: /burials-memorials/memorial-items/headstones-markers-medallions/
-    title: Headstones, Markers, Niche Covers, and Medallions
+    title: Headstones, markers, niche covers, and medallions
     description: Apply for one of these memorial items to identify the burial place of a Veteran or eligible family member.
 aliases:
   - /burials-and-memorials/honor/flags-and-memorial-certificates/
