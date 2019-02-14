@@ -103,7 +103,7 @@ You won’t pay a copay for any medications.
 
 **Note:** The cost for any medications you receive while staying in a VA or other approved hospital or health facility are covered by your inpatient care copay.
 
-The amount you’ll pay for these medications will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a year, you won’t have to pay any more even if you still get more medications. This is called a copay cap.
+The amount you’ll pay for these medications will depend on the “tier” of the medication and the amount of medication you’re getting, which we determine by days of supply. Once you’ve paid $700 in medication copays within a calendar year (January 1 to December 31), you won’t have to pay any more that year—even if you still get more medications. This is called a copay cap.
 
 <h4>2019 outpatient medication copay amounts</h4>
 | Outpatient medication tier | 1-30 day supply | 31-60 day supply | 61-90 day supply |
