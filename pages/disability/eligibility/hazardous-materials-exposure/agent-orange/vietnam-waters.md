@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange exposure in Vietnam waters (Blue Navy Veterans)
+title: Agent Orange exposure in Vietnam waters ("blue water" Navy Veterans)
 display_title: Vietnam waters
-description: If you served on a Blue Water Navy ship on the inland waterways of Vietnam or ever came ashore in Vietnam, you likely had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
+description: If you served on a "blue water" Navy ship on the inland waterways of Vietnam or ever came ashore in Vietnam, you likely had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you served on a Blue Water Navy ship on the **inland waterways** of Vietnam between January 9, 1962, and May 7, 1975—or you ever came ashore in Vietnam—you likely had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange. 
+If you served on a "blue water" Navy ship on the **inland waterways** of Vietnam between January 9, 1962, and May 7, 1975—or you ever came ashore in Vietnam—you likely had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange. 
 
 If you served on the **coastal waterways** of Vietnam between January 9, 1962, and May 7, 1975, and you came ashore, you may have had contact with Agent Orange. We'll need additional information from you to determine if you may be able to get disability benefits. 
 
@@ -71,5 +71,5 @@ You can get help from a trained professional trusted to help with VA-related cla
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ### Get more information
-[Learn more about Blue Water Veterans and Agent Orange](http://www.publichealth.va.gov/exposures/agentorange/locations/blue-water-veterans.asp#sthash.Srfgf1kO.dpuf).
+[Learn more about "blue water" Veterans and Agent Orange](http://www.publichealth.va.gov/exposures/agentorange/locations/blue-water-veterans.asp#sthash.Srfgf1kO.dpuf).
 
