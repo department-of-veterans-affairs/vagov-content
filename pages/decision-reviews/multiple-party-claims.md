@@ -7,7 +7,7 @@ relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you’re one of multiple people claiming the right to the same benefit, you have 60 days to appeal to a Veterans Law Judge at the Board of Veterans’ Appeals in Washington, DC. A judge who’s an expert in Veterans law will review your case.
+If you’re one of multiple people claiming the right to the same benefit, you have 60 days to appeal to a Veterans Law Judge at the Board of Veterans’ Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case.
 </div>
 
 <div class="usa-alert usa-alert-info">
@@ -16,31 +16,11 @@ If you’re one of multiple people claiming the right to the same benefit, you h
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>60 days</b> from the date on your decision letter to request a Decision Review Request: Board Appeal (VA Form 10182). 
-      <br>
-      <a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.
+      You have <b>60 days</b> from the date on your decision to request a Board Appeal. 
     </p>
   </div>
 </div>
 
-## Decision Review Options
-
-### Add new and relevant evidence
-
-Because you’re one of multiple people claiming the same benefit, you can’t file a  Supplemental Claim.
-
-### Ask for a second opinion from a senior reviewer
-
-Because you’re one of multiple people claiming the same benefit, the Higher-Level Review option is not available.
-
-### Appeal to a Veterans Law Judge
-
-[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf)
-<br>
-A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case.
-You have the option to add new evidence that a judge will review.
-<br>
-You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
 
 ### Can I add new evidence?
 
@@ -49,115 +29,127 @@ You also have the option to request a hearing with a judge. A video conference h
     <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
-      You have the option to add new evidence to be reviewed by a judge. You must submit this evidence within 90 days from the date VA receives your Board Appeal form. 
-      <br>
-      This option will take longer. Find a time estimate listed below.
+      You have the option to add new evidence for a judge to review. You'll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
+
+This option will take longer. Find a time estimate listed below.
   </div>
 </div>  
 
 ### Can I request a hearing?
 
-You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you. At your hearing, the judge will ask you questions about your appeal. The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
-<br>
-<br>
-This option will take longer. Find a time estimate listed below.
+You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you. 
+
+### What happens at a hearing?
+
+You and the judge will have a conversation. The judge will ask you questions, but it won’t be like a cross-examination. The judge will talk to you about the evidence needed to grant your appeal. Your representative, if you have one, may help you at the hearing.
+
+The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
+
+This option will take longer. Find a time estimate below.
 
 ### How do I request a Board Appeal?
 
-Fill out the Decision Review Request: Board Appeal (VA Form 10182).
+To request a Board Appeal, fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
 [Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf). 
 
-### Choose one of the 3 options to appeal with a Veterans Law Judge
 <ol class="process">
   <li class="process-step list-one">
+    
+### Choose one of the 3 options to appeal with a Veterans Law Judge
 
-__Direct Review__
-I want a Veterans Law Judge to review my case as quickly as possible.  
-You can’t submit any evidence.
-
-<div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
-  <span class="description">Average time to complete your review. With no new evidence and no hearing, a judge will decide your case in 1 year.</span>
-</div>
-
-__Evidence Submission__
-I have additional evidence for a Veterans Law Judge to review.
+**Direct Review**
+<br>
+If you want a Veterans Law Judge to review your case as quickly as possible, choose a Direct Review. 
+<br>
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--1">  
-    You must submit evidence within 90 days of the date VA receives your Board Appeal form.
-  </div>   
-</div>
+      You can’t submit any evidence.
+  </div>
+</div>  
+
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 6 years</span></span>
-  <span class="description">Average time to complete your review if you want to add new evidence.</span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> About 1 year</span></span>
+  <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.</span>
 </div>
 
-__Hearing Request__
-I want a video conference hearing with a Veterans Law Judge at a nearby VA location.
+**Evidence Submission**
 <br>
-At your hearing, the judge will ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file.
-Learn more what happens at a hearing.
+If you have additional evidence for a Veterans Law Judge to review, choose Evidence Submission.
+You must submit evidence within 90 days of the date VA receives your Board Appeal form.
+<div class="card information">
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> At least 2 years</span></span>
+  <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you add new evidence, it’ll take longer than the Direct Review appeal option.
+</span>
+</div>
+
+**Hearing Request**
 <br>
+If you want a video conference hearing with a Veterans Law Judge at a nearby VA location, choose a Hearing Request. 
+
+At your hearing, you and a Veterans Law Judge will have a conversation, and they’ll ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file. <br>
+[Learn more about what happens at a hearing](#what-happens-at-hearing).
+
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
-     You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
-  </div>   
-</div>
+      You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
+  </div>
+</div>  
+
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 6 years</span></span>
-  <span class="description">Average time to complete your review if you request a hearing with a judge.</span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> At least 2 years</span></span>
+  <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you request a hearing, it’ll take longer than the Direct Review appeal option.
+</span>
 </div>
-  </li>
+</li>
 
   <li class="process-step list-two">
 
-  ### List the issue(s) you want to appeal in Part III
-  You can include all or just some of the issues VA has decided. You’ll need to list the issue(s) you disagree with and the VA decision date for each.
+### List the issue(s) you want to appeal in Part III
+You can include all or just some of the issues VA has decided. You’ll need to list the issue(s) you disagree with and the VA decision date for each.
 
   </li>
 
   <li class="process-step list-three">
 
 ### Apply
-__By mail__
-<br>
-Apply by mail using the Decision Review Request: Board Appeal (VA Form 10182). 
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf). 
-<br>
 
-Print the form, fill it out, and send it to this address:
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.
+
+**By mail**
+
+Send the completed VA Form 10182 and any supporting documents to this address:
+
 <p class="va-address-block">
 Board of Veterans’ Appeals<br>
 PO Box 27063<br>
 Washington, DC 20038<br>
 
-__In person__
-<br>
-Bring your application to a regional benefit office.
+**In person**
+
+Bring your completed form to a VA regional benefit office. 
 <br> 
 [Find a regional benefit office near you](/find-locations/).
 
-__By fax__
-<br>
-Fax your application to <a href="tel:+1phonenumber">1-844-678-8979</a>.
-<br>
-<br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
+**By fax**
+
+Fax your completed form to 1-844-678-8979.
+
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET) to request a form.
 </p>
   </li>
 </ol>
 
 ## After a Board Decision
 
-If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
+If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims.
 <br> 
 [Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision/).
 
@@ -177,6 +169,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I have more questions?
 
-You can get answers to your questions on our Frequently Asked Questions page.
+You can get answers to frequently asked questions about decision reviews.
 <br>
-[See the FAQ](/decision-reviews/faq/).
+[Go to FAQs](/decision-reviews/faq/).
