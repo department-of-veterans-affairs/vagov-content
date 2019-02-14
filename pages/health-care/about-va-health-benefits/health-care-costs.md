@@ -40,8 +40,8 @@ You can get free VA health care for any illness or injury that we determine is r
 We also provide certain other services for free. For example, you can get readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
 [Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/). <br>
 [Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
-[Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
-[View more services provided at no cost](/health-care/copay-rates/#exempt).
+[Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/). <br>
+[View more services we provide at no cost](/health-care/copay-rates/#exempt).
 
 You may qualify for additional free VA health care depending on your income, disability rating, or other special eligibility factors. Keep reading below to learn more.
 
@@ -56,7 +56,7 @@ You may qualify for additional free VA health care depending on your income, dis
 
 You may need to pay a fixed amount for some types of care, tests, and medications you receive from a VA health care provider or an approved community health care provider to treat conditions not related to your service. This is called a copay (short for "copayment"). 
 
-Whether or not you'll need to pay copays—and how much you'll pay—depends on factors such as your disability rating, income level, military service record, and which of our 8 priority groups we assign you to when you enroll in VA health care. For example, if you have a service-connected condition that we've rated at 50% or more disabling or that we've determined makes you unable to work (called unemployable), or if you've received a Medal of Honor, you'll be assigned to priority group 1 and you won't pay copays for any types of care, tests, or medications. <br>
+Whether or not you'll need to pay copays—and how much you'll pay—depends on factors such as your disability rating, income level, military service record, and which of our 8 priority groups we assign you to when you enroll in VA health care. For example, if you have a service-connected condition that we've rated at 50% or more disabling or that we've determined makes you unable to work (called unemployable), or if you've received a Medal of Honor, we'll assign you to priority group 1 and you won't pay copays for any types of care, tests, or medications. <br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).<br>
 [View current copay rates](/health-care/copay-rates/).
 
