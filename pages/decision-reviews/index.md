@@ -208,10 +208,9 @@ more information. If VA schedules exams for you, be sure not to miss them.
 
 ## What if I need help?
 
-If you need help, a Veterans Service Organization or VA-accredited attorney or agent can
-represent you, provide guidance or help you file out an application. Contact your local VA
-office for assistance or [get help filing your appeal](/decision-reviews/get-help-with-review-request). You can also call the White House Hotline
-at <a href="tel:+1phonenumber">1-855-948-3211</a>.
+A Veterans Service Organization or VA-accredited attorney or agent can
+help you request a decision review. 
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request). 
 
 ## What if I have more questions?
 
