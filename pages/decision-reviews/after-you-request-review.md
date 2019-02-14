@@ -9,12 +9,13 @@ relatedlinks: false
 <div itemprop="description" class="va-introtext">
 When your review is complete, VA will mail you a decision packet that includes details about the decision on your case.
 
-If you requested a decision review and haven’t heard back from VA within the expected time frame, please don’t request another review. Call VA at <a href="tel:+1phonenumber">1-800-827-1000</a>.
 </div>
 
 ### What should I do while I wait?
 <br>
 You don’t need to do anything unless VA sends you a letter asking for more information. If VA schedules any exams for you, be sure not to miss them.
+
+If you requested a decision review and haven’t heard back from VA yet, please don’t request another review. Call VA at <a href="tel:+1phonenumber">1-800-827-1000</a>.
 
 <br>
 
