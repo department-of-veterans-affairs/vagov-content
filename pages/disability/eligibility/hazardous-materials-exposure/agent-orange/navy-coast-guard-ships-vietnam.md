@@ -25,7 +25,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 
 **One of these must be true:**
 - You served on ships or boats that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
-- You had 1 of the following designations:
+- You had one of the following designations:
 
   - AGP (Assault Group Patrol/Patrol Craft Tender)
   - LCM (Landing Craft, Mechanized)
@@ -69,19 +69,15 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 You’ll need to file a claim for disability compensation.<br>
 [Find out how to file a claim](/disability/how-to-file-claim/).
 
-If you served on 1 of the ships or boats listed above—and you have 1 or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
+If you served on one of the ships or boats listed above—and you have one or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
 
-If you don’t have an Agent Orange–related disability at this time, you and your family can still be part of the Agent Orange Health Registry.
+If you don’t have an Agent Orange–related disability at this time, you and your family can still be part of the Agent Orange Registry.
 
 ### What if I need help filing my claim?
 You can get help from us in one of these ways:
-- Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TTY <a href="tel:+18008778339">1-800-877-8339</a>
-- Go to your [nearest VA benefits office](/find-locations/)
-
-Get more information about ships that may have been exposed to Agent Orange.
-
-You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+- Call <a href="tel:+1-800-827-1000">1-800-827-1000</a> or TTY <a href="tel:+18008778339">1-800-877-8339</a>, **or**
+- [Go to your nearest VA regional benefit office](/find-locations/), **or**
+- [Get help from a trained professional trusted to help with VA-related claims](/disability/get-help-filing-claim/)
 
 ### Get more information
 Want to find out if the ship you were on had contact with Agent Orange?<br>
