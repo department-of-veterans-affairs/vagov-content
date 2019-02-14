@@ -17,8 +17,6 @@ You don’t need to do anything unless VA sends you a letter asking for more inf
 
 If you requested a decision review and haven’t heard back from VA yet, please don’t request another review. Call VA at <a href="tel:+1phonenumber">1-800-827-1000</a>.
 
-<br>
-
 <a href="https://www.va.gov/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim or Appeal</a>
 
 ### What if I need help?
