@@ -14,7 +14,7 @@ relatedlinks:
     links:
     - url: /health-care/pay-copay-bill/
       title: Pay your copay bill
-      description: Find out how to pay your copay bill—and what to do if you're having trouble making payments.
+      description: Find out how to pay your copay bill—and what to do if you disagree with the charges or are having trouble making payments.
     - url: /health-care/about-va-health-benefits/health-care-costs/
       title: Your health care costs
       description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
@@ -82,7 +82,6 @@ You'll pay either our full copay rate or reduced copay rate. If you live in a hi
 | <b>Each additional day within the same year (365 days)</b>     | $682 copay per day + $10 charge per day                | 
 
 **Note:** You may be in priority group 8 and qualify for these rates if you don't meet eligibility requirements for priority groups 1 through 6, and you have a gross household income above our income limits for where you live, agree to pay copays, and meet other specific enrollment and service-connected eligibility criteria. <br>
-<br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).
 
 ------
