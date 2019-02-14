@@ -46,6 +46,8 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that 
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
 </div>
 
+<br>
+
 ### Ask for a new look from a senior reviewer
 
 [Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
@@ -82,6 +84,8 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 <br>
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board decision.
 
+<br>
+
 ### Appeal to a Veterans Law Judge
 [Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf)
 
@@ -110,9 +114,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
   </div>
 </div>  
 
-
 <br>
-
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> At least 2 years</span></span>
