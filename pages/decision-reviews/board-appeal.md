@@ -170,9 +170,9 @@ If you disagree with the Board’s decision and have new and relevant evidence t
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/board-appeal/after-board-appeal-decision/).
-<br>
+
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
-<br>
+
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Appeal </a>
 
 ## What if I need help?
