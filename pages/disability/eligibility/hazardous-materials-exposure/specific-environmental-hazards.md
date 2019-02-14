@@ -24,7 +24,7 @@ If you had contact with certain environmental hazards while serving in Iraq, Afg
 You may be able to get disability benefits if you have an illness or other condition believed to be caused by your contact with an environmental hazard while serving in the military. This may include contact with:
   - Particulate matter or large burn pits in Iraq, Afghanistan, and Djibouti in the Horn of Africa
   - A large sulfur fire at Mishraq State Sulfur Mine near Mosul, Iraq
-  - Hexavalent chromium at the Qarmat Ali Water Treatment Plant in Basra, Iraq
+  - Hexavalent chromium at the Qarmat Ali water treatment plant in Basra, Iraq
   - Pollutants from a waste incinerator near the Naval Air Facility at Atsugi, Japan
 
 <br>
