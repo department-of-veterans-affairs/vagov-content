@@ -21,7 +21,7 @@ If you have new and relevant evidence, you can file a Supplemental Claim (VA For
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
       You must add new evidence that VA didn’t have before that supports your case.
@@ -42,7 +42,7 @@ If you have new and relevant evidence, you can file a Supplemental Claim (VA For
 ### How long does it take VA to make a decision?
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
