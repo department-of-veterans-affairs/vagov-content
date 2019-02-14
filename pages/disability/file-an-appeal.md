@@ -13,22 +13,6 @@ spoke: Manage Benefits
 aliases:
   - /disability-benefits/claims-appeal/
 ---
-<div class="usa-alert usa-alert-warning">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">
-      The Appeals process has changed
-    </h4>
-    <p class="usa-alert-text">
-<b>For VA decisions received after February 19, 2019</b> <br>
-You'll need to follow our new process for getting your decision reviewed.<br>
-<a href="/decision-reviews/">Learn about VA decision reviews and appeals</a>. 
-      <br>
-<b>For VA decisions received before February 19, 2019</b> <br>
-Please keep reading below to find out how to appeal your disability compensation decision.
-    </p>
-  </div>
-</div>
-
 <br>
 
 <div class="va-introtext">
