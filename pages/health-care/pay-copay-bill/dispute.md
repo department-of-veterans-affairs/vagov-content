@@ -48,9 +48,13 @@ Mail the letter, or bring it in person, to the business office or health adminis
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>If we receive your dispute within 60 days from the date of your first billing statement,</b> we won't start the collection process until we've resolved your dispute.
+This depends on when we receive your dispute.
 
-<b>If we receive your dispute after 60 days and we've already started the collection process,</b> we'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits, federal payments, or wages. <br>
+<b>If we receive your dispute within 90 from the date the charges first appear on your billing statement,</b> we won't start any collective action until we've resolved your dispute. 
+
+<b>If we don't receive your dispute within 90 days,</b> we may offset other VA benefits you may receive, meaning that we would reduce or withhold part of your VA benefits (like disability compensation, GI Bill payments, or Veterans pension payments) to pay your copay debt. We'll continue with that process while we're reviewing your dispute. If we resolve the dispute in your favor, we'll remove all late charges from your account and pay you back any money withheld from your VA benefits. <br>
+
+<b>If we don't receive your dispute within 120 days,</b> we may transfer your debt to the U.S. Treasury for further collection action.
 
 [Learn more about the collection process](/health-care/pay-copay-bill/#collection).
 
