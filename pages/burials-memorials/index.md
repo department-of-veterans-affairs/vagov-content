@@ -11,7 +11,7 @@ aliases:
   - /burials-and-memorials/
 promo:
   - image: /img/hub-illustrations/burials.png
-    heading: Find national cemetery administration information
+    heading: Find National Cemetery Administration information
     url: "https://m.va.gov/"
     description: Locate a grave, search for cemeteries, and find benefits information and resources.
 crosslinks:
@@ -56,7 +56,7 @@ social:
       - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVANCA/subscribers/qualify
-          label: National cemeteries email updates
+          label: National Cemeteries email updates
           external: true
           icon: fa-envelope
       - subhead: Follow us
