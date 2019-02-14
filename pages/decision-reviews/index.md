@@ -83,7 +83,7 @@ determine whether it changes the decision. <br>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
 </div>
 
@@ -129,7 +129,7 @@ whether the decision can be changed based on a difference of opinion or an error
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
@@ -153,7 +153,7 @@ A judge at the Board of Veterans’ Appeals in Washington, DC, will review your 
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3" ><i class="far fa-clock vads-u-margin-right--0p75"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3" ><i class="far fa-clock vads-u-margin-right--1p5"></i>About 1 year</span></span>
   <span class="description">
     The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.
   </span>
@@ -179,7 +179,7 @@ hearing will take place at a VA location near you.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">
     The Board will take longer to decide your appeal if you submit new evidence or request a hearing.
   </span>
