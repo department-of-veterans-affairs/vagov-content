@@ -37,7 +37,7 @@ We're committed to providing free health care for conditions related to military
 
 You can get free VA health care for any illness or injury that we determine is related to your military service (called "service connected"). <br>
 
-We also provide certain other services for free. For example, you can get readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
+We also provide certain other services for free. These include readjustment counseling and related mental health services, care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
 [Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/). <br>
 [Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
 [Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/). <br>
