@@ -7,7 +7,7 @@ display_title: Request a Board Appeal
 <br>
 
 <div itemprop="description" class="va-introtext">
-When you choose this option, you’re appealing to a Veterans Law Judge at the Board of Veterans' Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case. Find out how to request a Board Appeal.
+When you choose this option, you’re appealing to a Veterans Law Judge at the Board of Veterans' Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case. 
 </div>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -36,7 +36,7 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 ### Can I add new evidence?
 You have the option to add new evidence for a judge to review. You’ll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
-<br>
+
 This option will take longer. Find a time estimate below.
 
 ### Can I request a hearing?
