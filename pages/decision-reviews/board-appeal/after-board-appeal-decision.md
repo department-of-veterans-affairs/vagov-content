@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: After a Board Appeal Decision
 display_title: After a Board Appeal Decision
-relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -39,18 +38,17 @@ If you have new and relevant evidence, you can file a Supplemental Claim (VA For
   </div>
 </div>
 
-### How long does it take VA to make a decision?
+#### How long does it take VA to make a decision?
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
-<br>
 
 ### File a Court Appeal
 
-You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself.<br>  
+You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you,or you can represent yourself.<br>  
 [Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
 
 <div class="usa-alert usa-alert-info">

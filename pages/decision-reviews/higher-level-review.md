@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request a Higher-Level Review
 display_title: Request a Higher-Level Review
-relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -83,7 +82,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 [comment]: <> (Cannot find Font Awesome 5 icon to match no copy icon in markup)
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-times-circle"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You can’t submit any evidence.
@@ -234,7 +233,7 @@ Bring your completed form to a VA regional benefit office.
 
 __By fax__
 <br>
-Fax your completed form and any supporting documents to <a href="tel:+1phonenumber">1-844-531-7818</a>.
+Fax your completed form and any supporting documents to 1-844-531-7818.
 <br>
 <br>
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT), to request a form.

@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Multiple Party or Contested Claims
 display_title: Multiple Party or Contested Claims
-relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -58,7 +57,7 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">  
       You can’t submit any evidence.
@@ -73,7 +72,16 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 **Evidence Submission**
 <br>
 If you have additional evidence for a Veterans Law Judge to review, choose Evidence Submission.
-You must submit evidence within 90 days of the date VA receives your Board Appeal form.
+
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+      You must submit evidence within 90 days of the date VA receives your Board Appeal form.
+  </div>
+</div>  
+
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you add new evidence, it’ll take longer than the Direct Review appeal option.

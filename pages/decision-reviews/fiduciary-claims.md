@@ -43,7 +43,7 @@ When you choose a Higher-Level Review, you’re asking for another review of the
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-times-circle"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You can’t submit any evidence.
@@ -51,7 +51,7 @@ When you choose a Higher-Level Review, you’re asking for another review of the
 </div>      
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--1">
   You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.

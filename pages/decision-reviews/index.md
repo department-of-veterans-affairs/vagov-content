@@ -17,23 +17,7 @@ relatedlinks:
       title: Fiduciary Claims
       description: If you have a fiduciary claim, find out how to request a decision review.
 ---
-<div class="usa-alert usa-alert-warning">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">
-      The Appeals process has changed
-    </h4>
-    <p class="usa-alert-text">
-      <b>For VA decisions you received after February 19, 2019</b> <br>
-Please keep reading below to learn about your decision review options. <br>
-      <b>For VA decisions you received before February 19, 2019</b> <br>
-You'll need to follow a different process to appeal your disability compensation decision. <br>
-<a href="/disability/file-an-appeal/">Learn how to file an appeal</a>.
-    </p>
-  </div>
-</div>
-
 <br>
-
 <div itemprop="description" class="va-introtext">
   If you disagree with a VA decision, you can choose one of the
   following review options to continue your case. If you aren't
@@ -95,8 +79,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 <a href="#rare-situations">Learn about your options in these rare situations</a>
 
 <br>
-
-________________________
+<br>
 
 <div id="higher-level-review">
 
@@ -139,8 +122,8 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim
 decision. This option isn't available after a Higher-Level Review or Board Appeal.
 
 <br>
+<br>
 
-_______________________
 
 <div id="board-appeal">
 
@@ -189,8 +172,8 @@ hearing will take place at a VA location near you.
 
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
-__________________________
-
+<br>
+<br>
 ## After a Board Decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that

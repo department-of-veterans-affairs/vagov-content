@@ -72,7 +72,7 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">  
       You can’t submit any evidence.
@@ -87,7 +87,16 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 **Evidence Submission**
 <br>
 If you have additional evidence for a Veterans Law Judge to review, choose Evidence Submission.
-You must submit evidence within 90 days of the date VA receives your Board Appeal form.
+
+<div class ="vads-u-display--flex vads-u-margin-y--1">
+  <div class="vads-u-flex--auto">
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
+  </div>
+  <div class="vads-u-flex--1">  
+      You must submit evidence within 90 days of the date VA receives your Board Appeal form.
+  </div>
+</div> 
+
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you add new evidence, it’ll take longer than the Direct Review appeal option.
@@ -150,7 +159,7 @@ Bring your completed form to a VA regional benefit office.
 **By fax**
 
 Fax your completed form to 1-844-678-8979.
-<br>
+
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
 </ol>

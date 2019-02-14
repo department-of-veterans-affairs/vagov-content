@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: File a Supplemental Claim with New Evidence
 display_title: File a Supplemental Claim with New Evidence
-relatedlinks: false
 ---
 
 <br>
@@ -215,7 +214,6 @@ Fax your completed form and any supporting documents to 1-844-531-7818.
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
 </ol>
-
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">

@@ -3,7 +3,6 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Insurance Claims
 display_title: Insurance Claims
-relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -60,7 +59,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-times-circle"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You can’t submit any evidence.
@@ -81,7 +80,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 </div>
 
 ### Can I request a Higher-Level Review?
-<br>
+
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board decision.
 
 <br>
