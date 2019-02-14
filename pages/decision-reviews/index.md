@@ -5,7 +5,7 @@ title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
 decision_reviews_banner: true
 relatedlinks:
-  - heading: Rare situations that may be true for you
+  - heading: Rare situations that may apply to you
     links:
     - url: "/decision-reviews/multiple-party-claims/"
       title: Multiple Party or Contested Claims
@@ -31,24 +31,23 @@ relatedlinks:
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
-      unless one of these rare situations is true for you. You have a:<br>
-      <a href="/decision-reviews/fiduciary-claims/">Fiduciary Claim</a> <br>
-      <a href="/decision-reviews/multiple-party-claims/">Multiple Party Claim</a>
+      unless you have a fiduciary claim or a Multiple Party Claim. 
+      <a href="#rare-situations">See if one of these rare situations applies to you.</a>
     </p>
   </div>
 </div>
 
 ## Decision Review Options
 
-- [Add new and relevant evidence](#supplemental-claim)
-- [Ask for a new look from a senior reviewer](#higher-level-review)
-- [Ask a Veterans Law Judge to review your case](#board-appeal)
+- [Add new and relevant evidence (file a Supplemental Claim](#supplemental-claim)
+- [Ask for a new look from a senior reviewer (request a Higher-Level Review)](#higher-level-review)
+- [Appeal to a Veterans Law Judge (request a Board Appeal)](#board-appeal)
 
 <div id="supplemental-claim">
 
 ### Add new and relevant evidence
 
-<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (Supplemental Claim)</a>
+<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (Supplemental Claim)</a>.
 
 
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
@@ -76,7 +75,7 @@ determine whether it changes the decision. <br>
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
 But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#rare-situations">Learn about your options in these rare situations</a>
+<a href="#rare-situations">Learn about your options in these rare situations</a>.
 
 <br>
 <br>
@@ -85,7 +84,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 
 ### Ask for a new look from a senior reviewer
 
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (Higher-Level Review)</a>
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (Higher-Level Review)</a>.
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
@@ -127,9 +126,9 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 <div id="board-appeal">
 
-### Ask a Veterans Law Judge to review your case
+### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf).
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
