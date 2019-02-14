@@ -112,10 +112,10 @@ This includes interest (starting from the date the charges first appeared on you
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-60">60 days</button>
-<div id="questions-60" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-90">90 days</button>
+<div id="questions-90" class="usa-accordion-content">
 
-After 60 days, we may take action to collect your copay debt. 
+After 90 days, we may take action to collect your copay debt. 
 
 This may include offsetting other VA benefits you may receive, meaning that we would reduce or withhold part of your VA benefits (like disability compensation, GI Bill payments, or Veterans pension payments) to pay your copay debt.
 
@@ -127,7 +127,7 @@ We may also notify credit reporting agencies, which may cause your credit score 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-120">120 days</button>
 <div id="questions-120" class="usa-accordion-content">
 
-After 120 days, we're required by law to transfer your debt to the U.S. Treasury.
+After 120 days, we're required by law to transfer your debt to the U.S. Treasury. At this point, we can't help you with managing your copay debt.
 
 The U.S. Treasury will add more fees and interest to your copay debt. They may also:
 - Offset any federal and state payments you're entitled to. This means they may reduce or withhold part of your tax refunds, Social Security benefits, or any federal or state salary or retirement benefits to pay your debt.
@@ -144,6 +144,9 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 </div>
 </div>
 </div>
+
+For more information, watch our video on Veteran copayments.
+[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
 
 ------
 <div itemscope itemtype="http://schema.org/Question">
