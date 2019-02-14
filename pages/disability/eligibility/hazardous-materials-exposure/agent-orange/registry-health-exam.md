@@ -26,8 +26,8 @@ You can get an Agent Orange Registry health exam if you served in any of the way
 **You must have served in one of these ways:**
 
   - In Vietnam between 1962 and 1975 for any length of time, **or**
-  - On smaller river patrol and swift boats that were on the inland waterways of Vietnam (also known as “Brown Water Veterans”), **or** 
-  - In Korea in a unit in or near the Demilitarized Zone (DMZ) anytime between April 1, 1968, and August 31, 1971, **or**
+  - On smaller river patrol and swift boats that were on the inland waterways of Vietnam (also known as “brown water" Veterans), **or** 
+  - In Korea in a unit in or near the demilitarized zone (DMZ) anytime between April 1, 1968, and August 31, 1971, **or**
   - In Thailand (U.S. Air Force Veterans) on Royal Thai Air Force (RTAF) bases near U-Tapao, Ubon, Nakhon Phanom, Udorn, Takhli, Korat, and Don Muang near the air base perimeter anytime between February 28, 1961, and May 7, 1975, **or**
   - In Thailand (U.S. Army Veterans) as perimeter security personnel on RTAF bases in Thailand anytime between February 28, 1961, and May 7, 1975, **or**
   - In Thailand (U.S. Army Veterans) on some small Army installations in Thailand anytime between February 28, 1961, and May 7, 1975—if you were a member of a military police (MP) unit or assigned a job with duty placing you at or near the base perimeter, **or**
@@ -42,8 +42,8 @@ Veterans
 
 ### How do I get these benefits?
 
-To schedule your exam, contact your local VA Environmental Health Coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
-[Find a VA Environmental Health Coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp).
+To schedule your exam, contact your local VA environmental health coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
+[Find a VA environmental health coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
 ### What should I expect at the exam?
 
@@ -60,16 +60,16 @@ A VA health care provider will go over your exam and test results with you. You�
 
 Please note that:
 
-- This exam isn’t a VA claim exam (also known as a C&P exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to file a claim. <br>
+- This exam isn’t a VA claim exam (also known as a compensation and pension, or C&P, exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to file a claim. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-- You don’t need to sign up for the VA health care system to get a Registry exam.
+- You don’t need to sign up for the VA health care system to get a registry exam.
 - The exam is based on your memory of service, not on your military records.
 - The exam will not confirm if you had contact with Agent Orange.
-- You can get another free Registry exam if you have a new illness in the future.
+- You can get another free registry exam if you have a new illness in the future.
 - Your family members can’t get an Agent Orange Registry health exam. The exam is only for qualified Veterans.
 
 ### How do I make an appointment for an Agent Orange Registry health exam? <br>
-[Contact your local VA Environmental Health Coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp).
+[Contact your local VA environmental health coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
 ### Get more information
 [Learn more about the Agent Orange Registry health exam](https://www.publichealth.va.gov/exposures/agentorange/benefits/registry-exam.asp). 
