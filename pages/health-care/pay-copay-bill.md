@@ -28,7 +28,7 @@ relatedlinks:
       description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
     - url: /health-care/about-va-health-benefits/va-health-care-and-other-insurance/
       title: VA health care and other insurance
-      description: Learn how VA works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
+      description: Learn how VA health care works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -145,7 +145,7 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 </div>
 </div>
 
-For more information, watch our video on Veteran copayments.
+For more information, watch our video on Veteran copayments. <br>
 [Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
 
 ------
