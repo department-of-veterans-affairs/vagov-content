@@ -100,32 +100,6 @@ Janesville, WI 53547-4444<br>
 <div class="vads-l-row medium-screen:vads-u-margin-x--neg2">
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors Benefits</h4>
-      <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
-      <p class="va-address-block">
-        Department of Veterans Affairs<br>
-        Claim Intake Center<br>
-        Attention: Philadelphia Pension Center<br>
-        PO Box 5206<br>
-        Janesville, WI 53547-4444<br>
-        Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
-      </p>
-  </div>
-
-  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
-      <p>If you live in AL, AR, IL, IN, KY, LA, MI, MS, MO, OH, TN or WI</p>
-      <p class="va-address-block">
-        Department of Veterans Affairs<br>
-        Claim Intake Center<br>
-        Attention: Milwaukee Pension Center<br>
-        PO Box 5192<br>
-        Janesville, WI 53547-4444<br>
-        Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
-      </p>
-  </div>
-
-  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
       <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX, 
       UT, WA, WY, Mexico, Central America, South America, or Caribbean</p>
       <p class="va-address-block">
@@ -134,51 +108,73 @@ Janesville, WI 53547-4444<br>
         Attention: St. Paul Pension Center <br>
         PO Box 5265<br>
         Janesville, WI 53547-4444<br>
-        Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+        Fax 1-844-655-1604<br>
       </p>
   </div>
-  
+
+  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
+    <h4>Pension/Survivors Benefits</h4>
+      <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
+      <p class="va-address-block">
+        Department of Veterans Affairs<br>
+        Claim Intake Center<br>
+        Attention: Philadelphia Pension Center<br>
+        PO Box 5206<br>
+        Janesville, WI 53547-4444<br>
+        Fax 1-844-655-1604<br>
+      </p>
+  </div>
+
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>National Cemetery Administration</h4>
       <p class="va-address-block">
-Department of Veterans Affairs<br>
-National Cemetery <br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
+      </p>
+  </div>
+
+  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
+    <h4>Pension/Survivors Benefits</h4>
+      <p>If you live in AL, AR, IL, IN, KY, LA, MI, MS, MO, OH, TN, or WI</p>
+      <p class="va-address-block">
+        Department of Veterans Affairs<br>
+        Claim Intake Center<br>
+        Attention: Milwaukee Pension Center<br>
+        PO Box 5192<br>
+        Janesville, WI 53547-4444<br>
+        Fax 1-844-655-1604<br>
       </p>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Education</h4>
       <p class="va-address-block">
-Department of Veterans Affairs<br>
-Education Benefits Intake Center<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
       </p>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Veterans Health Administration</h4>
       <p class="va-address-block">
-Department of Veterans Affairs<br>
-Veterans Health Administration<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
       </p>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Vocational Rehabilitation and Employment</h4>
       <p class="va-address-block">
-     Department of Veterans Affairs<br>
-     Vocational Rehabilitation and Employment Intake Center<br>
-     PO Box 4444<br>
-     Janesville, WI 53547-4444<br>
-     Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
       </p>
   </div>
 
@@ -186,22 +182,20 @@ Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Insurance</h4>
       <p class="va-address-block">
-Department of Veterans Affairs<br>
-Insurance Benefits Intake Center<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
       </p>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Loan Guaranty</h4>
       <p class="va-address-block">
-Department of Veterans Affairs<br>
-Loan Guaranty Benefits Intake Center<br>
-PO Box 4444<br>
-Janesville, WI 53547-4444<br>
-Fax <a href="tel:+1phonenumber">1-844-655-1604</a><br>
+Please refer to your<br>
+decision for instructions<br>
+on how to submit the<br>
+form.<br>
       </p>
   </div>
 
