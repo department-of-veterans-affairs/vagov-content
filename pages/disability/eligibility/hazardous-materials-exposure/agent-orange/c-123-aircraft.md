@@ -20,14 +20,14 @@ If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, 
 
 <br>
 
-#### For Active-Duty service members
+#### For active-duty service members
 
 You may be able to get disability benefits if you have an illness believed to be caused by contact with Agent Orange and both of the below descriptions are true for you.
 
 **Both of these must be true:**
 
 - You served in a regular Air Force unit location where a C-123 aircraft with traces of Agent Orange was assigned, **and**
-- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange.
+- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
 [See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
@@ -111,7 +111,7 @@ Fill out the Application for Disability Compensation and Related Compensation Be
 
 <li class="process-step list-two" markdown="0">
 
-Fill out the printed form—and make sure you include each C-123-related disability in Section I, Block 13 on the form.
+Fill out the printed form—and make sure you include each C-123-related disability in section I, block 13 on the form.
 
 </li>
 
@@ -151,8 +151,8 @@ Janesville, WI<br />
 </ol>
 
 ### What if I need help filing my claim?
-Call the C-123 Hotline: <a href="tel:+18007498387">1-800-749-8387</a><br>
-<a href="mailto:VSCC123.VAVBASPL@va.gov">Email the St. Paul Regional Benefit Office</a>
+- Call the C-123 hotline at <a href="tel:+18007498387">1-800-749-8387</a>, **or**<br>
+- <a href="mailto:VSCC123.VAVBASPL@va.gov">Email the St. Paul regional benefit office</a>
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
