@@ -21,6 +21,9 @@ relatedlinks:
     - url: /health-care/health-needs-conditions/
       title: Health Needs and Conditions
       description: Find out how to access VA services for mental health, women’s health, and other specific needs.
+    - url: /health-care/about-affordable-care-act/
+      title: The Affordable Care Act and your health coverage
+      description: Find out what you need to know about the ACA and your health coverage.
     - url: /disability/
       title: Disability Benefits
       description: Have an illness or injury that was caused—or made worse—by your active-duty service? Find out if you can get disability compensation (monthly payments) from VA.
@@ -31,8 +34,6 @@ relatedlinks:
 If you have other forms of health care coverage (like a private insurance plan, Medicare, Medicaid, or TRICARE), you can use VA health care benefits along with these plans. Learn more about how VA works with other health insurance.
 
 </div>
-
-<div class="feature" markdown=“1”>
 
 ### Why does VA require me to provide information on my health insurance coverage (including coverage under a spouse’s plan)?
 
@@ -77,7 +78,7 @@ No. Whether or not you have health insurance coverage doesn’t affect the VA he
 - [If I already have VA health care benefits, should I still sign up for Medicare when I turn 65?](#sign-up-for-medicare)
 - [If I’m signed up for VA health care, and I also have Medicare, what’s covered by each?](#va-vs-medicare-coverage)
 - [Can I use my Health Savings Account (HSA) or Health Reimbursement Arrangement (HRA) to help pay for VA care for non-service-connected conditions?](#health-savings-account)
-- [Does VA need permission to bill my other health insurance for care related to a sensitive condition (like alcohol or drug abuse or HIV)?](#permission)
+- [Does VA need my permission to bill my other health insurance provider for care related to a sensitive diagnosis (like alcohol or drug abuse or HIV)?](#permission)
 
 <br>
 
@@ -131,16 +132,16 @@ We may also accept reimbursement from HRAs for care we provide to treat your non
 
 <span id="permission">
 
-#### Does VA need permission to bill my other health insurance for care related to a sensitive diagnosis (like alcohol or drug abuse or HIV)?
+#### Does VA need my permission to bill my other health insurance for care related to a sensitive diagnosis (like alcohol or drug abuse or HIV)?
 
 No. As a result of the VA MISSION Act of 2018, we no longer need permission to bill health insurance providers for care related to a sensitive diagnosis (like alcohol or drug abuse, alcoholism, HIV or HIV testing, sickle cell anemia, or other diagnoses included in Public Law 38 U.S.C. §7332-protected information).
 
-Before submitting any claims for care related to a sensitive diagnosis, we notified Veterans of this change by sending a one-time notice to all Veterans who signed a release of information refusing to allow us to bill for care related to a sensitive diagnosis. The Federal Register also published this change. <br>
+Before submitting any claims for care related to a sensitive diagnosis, we notified Veterans of this change by sending a one-time notice to all Veterans who has signed a release of information refusing to allow us to bill for care related to a sensitive diagnosis in the past. The Federal Register also published this change. <br>
 [Read the notice on the Federal Register website](https://www.federalregister.gov/documents/2019/01/28/2018-28285/confidentiality-of-certain-medical-records-under-the-mission-act).
 
-We're now submitting claims to health insurance carriers for all non-service-connected care without a signature or written authorization permitting us to disclose protected information on these claims or in Veterans' medical records.
+We're now submitting claims to health insurance carriers for all non-service-connected care, even if we don't have a signature or written authorization permitting us to disclose protected information on these claims or in Veterans' medical records.
 
 We're required by law to bill your health insurance (including your spouse's insurance if you're covered under the policy). The money collected goes back to VA medical centers to support health care costs provided to all Veterans.
 
-You have the right to submit a restriction request asking us not to disclose your health information for billing purposes, but we're not  required to grant your request. To submit a restriction request, please contact your nearest VA health facility and ask to talk with the privacy officer. You can also ask to talk with the billing office for more information. <br>
+You can submit a restriction request asking us not to disclose your health information for billing purposes, but we're not required to grant your request. To submit a restriction request, please contact your nearest VA health facility and ask to talk with the privacy officer. You can also ask to talk with the billing office for more information. <br>
 [Find your nearest VA health facility](/find-locations/).
