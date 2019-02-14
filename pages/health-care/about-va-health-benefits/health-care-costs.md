@@ -17,7 +17,7 @@ relatedlinks:
       description: View current copay rates for different types of care, tests, and medications.
     - url: /health-care/about-va-health-benefits/va-health-care-and-other-insurance/
       title: VA health care and other insurance
-      description: Learn how VA works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
+      description: Learn how VA health care works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
       
 ---
 
