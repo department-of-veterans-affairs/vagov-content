@@ -12,7 +12,7 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-ban"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
   <div class="vads-u-flex--1">    
       You can’t submit any evidence.
@@ -20,7 +20,7 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 </div>      
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>  
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>  
   </div>
   <div class="vads-u-flex--1">  
     You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
@@ -36,7 +36,7 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim 
 
 ### How long does it take VA to make a decision?
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
@@ -63,7 +63,7 @@ The most common benefit type is compensation, but if you’re unsure, check your
 ### Optional: Request a call (informal conference) with the reviewer
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--1">  
       You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
@@ -83,7 +83,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 [comment]: <> (Cannot find Font Awesome 5 icon to match no copy icon in markup)
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-times-circle"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-times-circle"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You can’t submit any evidence.

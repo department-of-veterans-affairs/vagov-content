@@ -28,7 +28,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 ### How long does it take VA to make a decision?
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
@@ -63,7 +63,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 #### Gather new and relevant evidence to submit
 
-<span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
+<span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
 
 **List the location(s) of VA evidence in Part III**. <br>
 VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
