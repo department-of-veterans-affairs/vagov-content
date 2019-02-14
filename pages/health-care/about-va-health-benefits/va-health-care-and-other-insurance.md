@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Health Care and Other Insurance
+title: VA health care and other insurance
 display_title:
 description: Find out how you can use VA health care along with other health insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE). Get answers to questions about how VA health care works for Veterans with other insurance.
 concurrence: complete
@@ -44,8 +44,8 @@ We don’t bill Medicare or Medicaid, but we may bill Medicare supplemental heal
 
 ### What if my health insurance provider doesn’t cover all the non-service-connected care that VA bills them for?
 
-You won’t have to pay any unpaid balance not covered by your health insurance provider. But, depending on your eligibility priority group, you may have to pay a VA copayment for non-service-connected care. <br>
-[Learn more about eligibility priority groups](https://www.va.gov/healthbenefits/resources/publications/hbco/hbco_enrollment_eligibility.asp).
+You won’t have to pay any unpaid balance not covered by your health insurance provider. But, depending on your eligibility priority group, you may have to pay a copay for non-service-connected care. <br>
+[Learn more about how we determine if you'll need to pay copays](/health-care/about-va-health-benefits/health-care-costs/).
 
 <br>
 
@@ -53,7 +53,7 @@ You won’t have to pay any unpaid balance not covered by your health insurance 
 
 Yes. Giving us your health insurance information helps you because:
 
-- When your private health insurance provider pays us for your non-service-connected care, we may be able to use the funds to offset part—or all—of your VA copayment.
+- When your private health insurance provider pays us for your non-service-connected care, we may be able to use the funds to offset part—or all—of your VA copay.
 - Your private insurer may apply your VA health care charges toward your annual deductible (the amount of money you pay toward your care each year before your insurance starts paying for care).
 
 <br>
@@ -63,12 +63,6 @@ Yes. Giving us your health insurance information helps you because:
 No. Whether or not you have health insurance coverage doesn’t affect the VA health care benefits you can get.
 
 <br>
-
-### If I’m signed up for the VA health care program, does that mean I meet the requirements to have health care under the Affordable Care Act (ACA)?
-
-Yes. Being signed up for VA health care meets your Affordable Care Act health coverage requirement of having “minimum essential health coverage.” You don’t need any other insurance to meet this requirement. We’ll update this site if the ACA changes with new laws. [Learn more about the ACA, VA, and you](https://www.va.gov/health/aca/FAQ.asp).
-
-</div>
 
 **Note:** It’s always a good idea to let your VA doctor know if you’re receiving care outside VA. This helps your provider coordinate your care to help keep you safe and make sure you’re getting care that’s proven to work and that meets your specific needs.
 
@@ -81,6 +75,7 @@ Yes. Being signed up for VA health care meets your Affordable Care Act health co
 - [If I already have VA health care benefits, should I still sign up for Medicare when I turn 65?](#sign-up-for-medicare)
 - [If I’m signed up for VA health care, and I also have Medicare, what’s covered by each?](#va-vs-medicare-coverage)
 - [Can I use my Health Savings Account (HSA) or Health Reimbursement Arrangement (HRA) to help pay for VA care for non-service-connected conditions?](#health-savings-account)
+- [Does VA need permission to bill my other health insurance for care related to a sensitive condition (like alcohol or drug abuse or HIV)?](#permission)
 
 <br>
 
@@ -117,7 +112,8 @@ You’ll need to choose which benefits to use each time you receive care.
 
 To use VA benefits, you’ll need to get care at a VA medical center or other VA location. We’ll also cover your care if we pre-authorize you (meaning we give you permission ahead of time) to get services in a non-VA hospital or other care setting. Keep in mind that you may need to pay a VA copayment for non-service-connected care.
 
-If you go to a non-VA care setting, Medicare may pay for your care. Or, if we only authorize some services in a non-VA location, then Medicare may pay for other services you may need during your stay. Check your Medicare plan so you know which care locations and services you’re covered for. [Learn more about Medicare](http://www.medicare.gov).
+If you go to a non-VA care setting, Medicare may pay for your care. Or, if we only authorize some services in a non-VA location, then Medicare may pay for other services you may need during your stay. Check your Medicare plan so you know which care locations and services you’re covered for. <br>
+[Learn more about Medicare](http://www.medicare.gov).
 
 <br>
 
@@ -128,3 +124,21 @@ If you go to a non-VA care setting, Medicare may pay for your care. Or, if we on
 Yes. We may bill and accept reimbursement from High Deductible Health Plans (HDHPs) for medical care and services to treat your non-service-connected conditions. If you have an HDHP linked to an HSA, you can use your HSA to pay your VA copayments for non-service-connected care.
 
 We may also accept reimbursement from HRAs for care we provide to treat your non-service-connected conditions.
+
+<br>
+
+<span id="permission">
+
+#### Does VA need permission to bill my other health insurance for care related to a sensitive diagnosis (like alcohol or drug abuse or HIV)?
+
+No. As a result of the VA MISSION Act of 2018, we no longer need permission to bill health insurance providers for care related to a sensitive diagnosis (like alcohol or drug abuse, alcoholism, HIV or HIV testing, sickle cell anemia, or other diagnoses included in Public Law 38 U.S.C. §7332-protected information).
+
+Before submitting any claims for care related to a sensitive diagnosis, we notified Veterans of this change by sending a one-time notice to all Veterans who signed a release of information refusing to allow us to bill for care related to a sensitive diagnosis. The Federal Register also published this change. <br>
+[Read the notice on the Federal Register website](https://www.federalregister.gov/documents/2019/01/28/2018-28285/confidentiality-of-certain-medical-records-under-the-mission-act).
+
+We're now submitting claims to health insurance carriers for all non-service-connected care without a signature or written authorization permitting us to disclose protected information on these claims or in Veterans' medical records.
+
+We're required by law to bill your health insurance (including your spouse's insurance if you're covered under the policy). The money collected goes back to VA medical centers to support health care costs provided to all Veterans.
+
+You have the right to submit a restriction request asking us not to disclose your health information for billing purposes, but we're not  required to grant your request. To submit a restriction request, please contact your nearest VA health facility and ask to talk with the privacy officer. You can also ask to talk with the billing office for more information. <br>
+[Find your nearest VA health facility](/find-locations/).
