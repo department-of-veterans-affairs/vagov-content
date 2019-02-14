@@ -231,6 +231,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).<br>
 
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
+
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim</a>
 
 
