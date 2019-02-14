@@ -59,7 +59,7 @@ When you choose a Higher-Level Review, you’re asking for another review of the
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
@@ -79,13 +79,13 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal/).
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3 "><i class="far fa-clock vads-u-margin-right--1p5"></i>About 1 year</span></span>
   <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.</span>
 </div>
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You have the option to add new evidence that a judge will review.
@@ -93,7 +93,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">    
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3"><i class="fas fa-user" style="margin-right: 1.5rem"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-user"></i></span>
   </div>
   <div class="vads-u-flex--1"> 
     You also have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
@@ -101,7 +101,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">The Board will take longer to decide your appeal if you add new evidence or request a hearing.</span>
 </div>
 

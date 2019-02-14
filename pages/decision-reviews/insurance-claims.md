@@ -34,7 +34,7 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that 
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
     You must add evidence that VA didn’t have before that supports your case.
@@ -42,7 +42,7 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that 
 </div>  
 <br>
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
 </div>
 
@@ -60,7 +60,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-times-circle"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-times-circle"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You can’t submit any evidence.
@@ -68,7 +68,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 </div>      
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="fas fa-phone"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--1">
   You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
@@ -76,7 +76,7 @@ When you choose to request a Higher-Level Review, you’re asking for another re
 </div>   
 <br>
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
@@ -94,12 +94,12 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 <a href="#">Learn more about how to request a Board Appeal</a>.
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>About 1 year</span></span>
   <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.</span>
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
      You have the option to add new evidence that will be reviewed by a judge.
@@ -107,7 +107,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 </div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">    
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3"><i class="fas fa-user" style="margin-right: 1.5rem"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-user"></i></span>
   </div>
   <div class="vads-u-flex--1"> 
     You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
@@ -117,7 +117,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 <br>
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock" style="margin-right: 1.5rem"></i> At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">The Board will take longer to decide your appeal if you add new evidence or request a hearing.
 </span>
 </div>

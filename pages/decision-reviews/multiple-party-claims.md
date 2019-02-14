@@ -66,7 +66,7 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> About 1 year</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>About 1 year</span></span>
   <span class="description">The Board’s goal for deciding appeals with no new evidence and no hearing is about a year.</span>
 </div>
 
@@ -75,7 +75,7 @@ If you want a Veterans Law Judge to review your case as quickly as possible, cho
 If you have additional evidence for a Veterans Law Judge to review, choose Evidence Submission.
 You must submit evidence within 90 days of the date VA receives your Board Appeal form.
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you add new evidence, it’ll take longer than the Direct Review appeal option.
 </span>
 </div>
@@ -97,7 +97,7 @@ At your hearing, you and a Veterans Law Judge will have a conversation, and they
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
   <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you request a hearing, it’ll take longer than the Direct Review appeal option.
 </span>
 </div>

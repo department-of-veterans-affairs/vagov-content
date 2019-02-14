@@ -28,7 +28,7 @@ But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you�
 ### How long does it take VA to make a decision?
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--0p75"></i> 4-5 months</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
 </div>
 
