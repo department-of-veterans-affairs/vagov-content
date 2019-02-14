@@ -23,7 +23,6 @@ If you disagree with a VA decision on a fiduciary claim, you can choose one of t
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review.
       <br>
-      <a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995</a>
     </p>
   </div>
 </div>
