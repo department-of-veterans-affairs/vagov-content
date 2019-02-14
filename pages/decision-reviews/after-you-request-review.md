@@ -8,7 +8,7 @@ relatedlinks: false
 <br>
 <div itemprop="description" class="va-introtext">
 When your review is complete, VA will mail you a decision packet that includes details about the decision on your case.
-<br>
+
 If you requested a decision review and haven’t heard back from VA within the expected time frame, please don’t request another review. Call VA at <a href="tel:+1phonenumber">1-800-827-1000</a>.
 </div>
 
@@ -28,10 +28,14 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 ### What if I want to choose a different review option after I’ve submitted the form?
 
 <br>
-If you’ve submitted a form and want to change your review option, you have to send in a new decision review form within 1 year from the date on your VA decision letter or 60 days from the date you submitted your form. Please check your VA decision letter and be sure to request a review before the deadline.
+If you’ve submitted a form and want to change your review option, you can send in a new decision review request form within 1 year from the date on your VA decision. You must include a letter that says you want to withdraw your existing review and switch to a different option. 
+
+If you requested a Board Appeal and want to switch to a different appeal option, you can send in a new Board Appeal form with a different option selected. You can switch appeal options within 1 year from the date on your VA decision or 60 days from the date you submitted your original form.
+
+You can’t select a new review option if you’ve already submitted evidence or had a hearing.
 
 ## What if I have more questions?
 <br>
-You can get answers to your questions on our Frequently Asked Questions page.
+Get answers to frequently asked questions about decision reviews.
 <br>
-<a href="/decision-reviews/faq/">See the FAQ</a>.
+<a href="/decision-reviews/faq/">Go to FAQs</a>.
