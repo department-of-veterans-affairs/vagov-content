@@ -21,7 +21,7 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
 
 But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-[See your decision review options for a Fiduciary Claim](/decision-reviews/fiduciary-claims/)
+[See your decision review options for a Fiduciary Claim](/decision-reviews/fiduciary-claims/) <br>
 [See your decision review options for a Multiple Party Claim](/decision-reviews/multiple-party-claims/)
 </div>
 
