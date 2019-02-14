@@ -7,7 +7,7 @@ relatedlinks: false
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you disagree with a VA decision on a insurance claim, you can choose one of the following review options to continue your case. If you aren’t satisfied with that review, you can try another option.
+If you disagree with a VA decision on an insurance claim, you can choose one of the following review options to continue your case. If you aren’t satisfied with that review, you can try another option.
 </div>
 
 <div class="usa-alert usa-alert-info">
