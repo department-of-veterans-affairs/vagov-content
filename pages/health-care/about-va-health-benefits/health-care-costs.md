@@ -11,7 +11,7 @@ relatedlinks:
     links:
     - url: /health-care/pay-copay-bill/
       title: Pay your copay bill
-      description: Find out how to pay your bill—and what to do if you're struggling to make your payments.
+      description: Find out how to pay your bill—and what to do if you disagree with the charges or are struggling to make your payments.
     - url: /health-care/copay-rates/
       title: Copay rates
       description: View current copay rates for different types of care, tests, and medications.
@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-We're committed to providing free health care for Veterans with service-connected conditions, catastrophic disabilities, and disability ratings of at least 50%—as well as for those who can't afford to pay for care. Learn about how we assess and verify your income to help determine if you’re eligible for free VA health care. And find out how much you may need to pay to cover  the cost of certain types of care, tests, or medications.
+We're committed to providing free health care for conditions related to military service and for all Veterans with catastrophic disabilities and disability ratings of at least 50%—as well as for those who can't afford to pay for care. Learn more about how we'll determine if you'll need to pay for any part of your care.
 
 </div>
 
@@ -37,10 +37,11 @@ We're committed to providing free health care for Veterans with service-connecte
 
 You can get free VA health care for any illness or injury that we determine is related to your military service (called "service connected"). <br>
 
-Certain services are also free. You can get readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
+We also provide certain other services for free. For example, you can get readjustment counseling and related mental health services, counseling and care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
 [Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/). <br>
 [Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
 [Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
+[View more services provided at no cost](/health-care/copay-rates/#exempt).
 
 You may qualify for additional free VA health care depending on your income, disability rating, or other special eligibility factors. Keep reading below to learn more.
 
@@ -55,7 +56,7 @@ You may qualify for additional free VA health care depending on your income, dis
 
 You may need to pay a fixed amount for some types of care, tests, and medications you receive from a VA health care provider or an approved community health care provider to treat conditions not related to your service. This is called a copay (short for "copayment"). 
 
-Whether or not you'll need to pay copays depends on factors such as your disability rating, income level, military service record, and the priority group we place you in when you enroll in VA health care. We have 8 priority groups. If you have a higher priority group number, you'll be more likely to pay copays.<br>
+Whether or not you'll need to pay copays—and how much you'll pay—depends on factors such as your disability rating, income level, military service record, and which of our 8 priority groups we assign you to when you enroll in VA health care. For example, if you have a service-connected condition that we've rated at 50% or more disabling or that we've determined makes you unable to work (called unemployable), or if you've received a Medal of Honor, you'll be assigned to priority group 1 and you won't pay copays for any types of care, tests, or medications. <br>
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).<br>
 [View current copay rates](/health-care/copay-rates/).
 
@@ -72,11 +73,11 @@ If you haven't applied for VA health care yet, you can review VA health care eli
 <h2>How we assess and verify your income to determine eligibility and copays</h2>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">How does VA determine whether I'll need to pay copays?</h3>
+<h3 itemprop="name">How does VA determine whether I'll need to pay copays based on my income?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-As part of the VA health care application process, we'll ask for information about your income. This is called an income assessment or financial assessment (formerly known as a means test). We’re required by law to collect this information for most Veterans. 
+If you're not already receiving VA disability compensation or pension payments, or don't have special eligibility factors (like receiving the Medal of Honor), we'll ask for information about your income as part of our health care enrollment process. This is called an income assessment or financial assessment (formerly known as a means test). We’re required by law to collect this information. 
 
 **We use your income information to help determine:**
 - If you’re eligible for VA health care based on your income, **and**
@@ -93,7 +94,7 @@ As part of the VA health care application process, we'll ask for information abo
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>If you qualify for VA enhanced eligibility status,</b> you won't need to provide your income information. <br>
+<b>If you qualify for VA health care enhanced eligibility status,</b> you won't need to provide your income information. <br>
 [View the requirements for enhanced eligibility status](/health-care/eligibility/#enhanced).
 
 <b>If you don't qualify for enhanced eligibility status, but you agree to pay copays for your care,</b> you don't have to provide your financial information. But if you don't, we may decline your enrollment. We also won't be able to consider your eligibility for free medications or beneficiary travel pay.
