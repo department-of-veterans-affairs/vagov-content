@@ -58,7 +58,7 @@ This option will take longer. Find a time estimate below.
 ### How do I request a Board Appeal?
 To request a Board Appeal, fill out the Decision Review Request: Board Appeal (VA Form 10182). 
 <br>
-<a href="/decision-reviews/forms/vagov-10182.pdf">Download VA Form 10182</a>.
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.
 
 <ol class="process">
 <li class="process-step list-one">

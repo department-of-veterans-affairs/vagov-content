@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
-appealsbanner: true
+decision_reviews_banner: true
 relatedlinks:
   - heading: Rare situations that may be true for you
     links:
@@ -141,7 +141,7 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 ### Board Appeal: Ask a Veterans Law Judge to review your case
 
-[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/vagov-10182.pdf)
+[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf)
 
 A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
