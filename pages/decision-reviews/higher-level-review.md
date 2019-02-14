@@ -123,14 +123,14 @@ Janesville, WI 53547-4444<br>
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors Benefits</h4>
       <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX, 
-      UT, WA, WY, Mexico, Central America, South America, or Caribbean</p>
+      UT, WA, WY, Mexico, Central America, South America, or the Caribbean</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
-        Claim Intake Center<br>
+        Claims Intake Center<br>
         Attention: St. Paul Pension Center <br>
-        PO Box 5265<br>
-        Janesville, WI 53547-4444<br>
-        Fax 1-844-655-1604<br>
+        PO Box 5365<br>
+        Janesville, WI 53547-5365<br>
+        Fax: 1-844-655-1604<br>
       </p>
   </div>
 
@@ -139,11 +139,24 @@ Janesville, WI 53547-4444<br>
       <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
-        Claim Intake Center<br>
+        Claims Intake Center<br>
         Attention: Philadelphia Pension Center<br>
         PO Box 5206<br>
-        Janesville, WI 53547-4444<br>
-        Fax 1-844-655-1604<br>
+        Janesville, WI 53547-5206<br>
+        Fax: 1-844-655-1604<br>
+      </p>
+  </div>
+
+  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
+    <h4>Pension/Survivors Benefits</h4>
+      <p>If you live in AL, AR, IL, IN, KY, LA, MI, MS, MO, OH, TN, or WI</p>
+      <p class="va-address-block">
+        Department of Veterans Affairs<br>
+        Claims Intake Center<br>
+        Attention: Milwaukee Pension Center<br>
+        PO Box 5192<br>
+        Janesville, WI 53547-5192<br>
+        Fax: 1-844-655-1604<br>
       </p>
   </div>
 
@@ -154,19 +167,6 @@ Please refer to your<br>
 decision for instructions<br>
 on how to submit the<br>
 form.<br>
-      </p>
-  </div>
-
-  <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
-      <p>If you live in AL, AR, IL, IN, KY, LA, MI, MS, MO, OH, TN, or WI</p>
-      <p class="va-address-block">
-        Department of Veterans Affairs<br>
-        Claim Intake Center<br>
-        Attention: Milwaukee Pension Center<br>
-        PO Box 5192<br>
-        Janesville, WI 53547-4444<br>
-        Fax 1-844-655-1604<br>
       </p>
   </div>
 
