@@ -129,6 +129,8 @@ You can include all or just some of the issues VA decided. You’ll need to list
 
 ### Apply
 
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.
+
 **By mail**
 
 Send the completed VA Form 10182 and any supporting documents to this address:
@@ -139,15 +141,15 @@ PO Box 27063 <br>
 Washington, DC 20038<br>
 </p>
 
-
 **In person**
-<br>
+
 Bring your completed form to a VA regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 
 **By fax**
-Fax your completed form to <a href="tel:+1phonenumber">1-844-678-8979</a>.
+
+Fax your completed form to 1-844-678-8979.
 <br>
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
 </li>
