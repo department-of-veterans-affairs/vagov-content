@@ -47,8 +47,9 @@ You'll need to follow a different process to appeal your disability compensation
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
-      unless one of 3 rare situations is true for you.<br>
-      <a href="#rare-situations">Find out if one of these rare situations applies to you</a>.
+      unless one of these rare situations is true for you. You have a:<br>
+      <a href="/decision-reviews/fiduciary-claims/">Fiduciary Claim</a> <br>
+      <a href="/decision-reviews/multiple-party-claims/">Multiple Party Claim</a>
     </p>
   </div>
 </div>
