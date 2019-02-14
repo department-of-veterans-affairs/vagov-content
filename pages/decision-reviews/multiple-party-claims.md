@@ -24,16 +24,9 @@ If you’re one of multiple people claiming the right to the same benefit, you h
 
 ### Can I add new evidence?
 
-<div class ="vads-u-display--flex vads-u-margin-y--1">
-  <div class="vads-u-flex--auto">
-    <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span>
-  </div>
-  <div class="vads-u-flex--1">  
-      You have the option to add new evidence for a judge to review. You'll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
+You have the option to add new evidence for a judge to review. You'll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
 
-This option will take longer. Find a time estimate listed below.
-  </div>
-</div>  
+This option will take longer. Find a time estimate listed below. 
 
 ### Can I request a hearing?
 
