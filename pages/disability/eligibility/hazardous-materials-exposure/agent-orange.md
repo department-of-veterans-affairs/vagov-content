@@ -23,10 +23,10 @@ majorlinks:
       title: Outside of Vietnam or Korea
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/testing-storage-areas/
-      title: In Testing and Storage Areas Outside of Vietnam
+      title: In testing and storage areas outside of Vietnam
       description: Between 1944 and a yet-to-be-determined date
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/
-      title: On U.S. Navy and Coast Guard Ships in Vietnam
+      title: On U.S. Navy and Coast Guard ships in Vietnam
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/vietnam-waters/
       title: In waters in or near Vietnam
@@ -118,8 +118,8 @@ When you file your claim, you'll need to submit this evidence:
 [See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
 
 Contact us if you have questions:
-- Call the Agent Orange Help Line at 1-800-749-8387 **or** 
-- Send an email to GW/AOHelpline@vba.va.gov
+- Call the Agent Orange help line at <a href="tel:+18007498387">1-800-749-8387</a>, **or** 
+- Send an email to <a href="mailto:GW/AOHelpline@vba.va.gov">GW/AOHelpline@vba.va.gov</a>
 
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
 
@@ -127,5 +127,5 @@ Contact us if you have questions:
 [Get an Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
 
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
-[Learn about Non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
 
