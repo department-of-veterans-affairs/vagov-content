@@ -53,7 +53,7 @@ Yes. Giving us your health insurance information helps you because:
 - When your private health insurance provider pays us for your non-service-connected care, we may be able to use the funds to offset part—or all—of your VA copay.
 - Your private insurer may apply your VA health care charges toward your annual deductible (the amount of money you pay toward your care each year before your insurance starts paying for care).
 
-[Watch our video about VA and private health insurance](https://www.youtube.com/watch?time_continue=86&v=rBH-b2B0X3E).
+[Watch our video about VA health care and private health insurance](https://www.youtube.com/watch?time_continue=86&v=rBH-b2B0X3E).
 
 ### Does my current health insurance status affect whether I can get VA health care benefits?
 
