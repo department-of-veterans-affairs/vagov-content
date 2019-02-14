@@ -64,6 +64,9 @@ If you haven't applied for VA health care yet, you can review VA health care eli
 [Learn more about VA health care eligibility requirements](/health-care/eligibility/).<br>
 [Go to the Health Benefits Explorer](http://hbexplorer.vacloud.us/).
 
+For more information, watch our video on Veteran copayments.
+[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
+
 </div>
 </div>
 </div>
