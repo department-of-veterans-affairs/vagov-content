@@ -17,7 +17,7 @@ majorlinks:
       title: Asbestos
       description: If you worked in certain military jobs, you may have had contact with asbestos (toxic fibers once used in many buildings and products).
     - url: /disability/eligibility/special-claims/birth-defects/
-      title: Birth defects like Spina Bifida
+      title: Birth defects like spina bifida
       description: If you served in South Vietnam or the Republic of Korea during certain time periods, you may have had contact with chemicals like Agent Orange believed to cause birth defects in the children of Veterans.
     - url: /disability/eligibility/hazardous-materials-exposure/mustard-gas-lewisite/
       title: Contact with mustard gas or lewisite
