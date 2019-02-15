@@ -151,6 +151,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I have more questions?
 
-You can get answers to frequently asked questions about decision reviews.
+Get answers to frequently asked questions about decision reviews.
 <br>
 [Go to FAQs](/decision-reviews/faq/).
