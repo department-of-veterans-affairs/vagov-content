@@ -31,7 +31,7 @@ relatedlinks:
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
-      unless you have a fiduciary claim or a Multiple Party Claim. <br>
+      unless you have a fiduciary claim or a multiple party claim. <br>
       <a href="#rare-situations">See if one of these rare situations applies to you.</a>
     </p>
   </div>
@@ -74,7 +74,7 @@ determine whether it changes the decision. <br>
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
-But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
+But you can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
 <a href="#rare-situations">Learn about your options in these rare situations</a>.
 
 <br>
@@ -130,7 +130,7 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 [Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf).
 
-A judge at the Board of Veterans’ Appeals in Washington, DC, will review your case. <br>
+A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
 
 <!-- Todo: Implement updated number component -->
