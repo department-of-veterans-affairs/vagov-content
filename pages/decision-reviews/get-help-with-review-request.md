@@ -78,8 +78,7 @@ Choose one of these ways:
 - Use eBenefits to let VA know you’ll be working with a representative or to change your current representation.
 <br> 
 [Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/manage/representative?_ga=2.165882619.432161254.1549749081-1632380512.1525475597).
-- To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative form (VA Form 21-22).
-<br>  
+- To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative form (VA Form 21-22). <br>
 [Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf?_ga=2.164333946.432161254.1549749081-1632380512.1525475597).
 - To have a claims agent or attorney help you, fill out an Appointment of Individual as Claimant’s Representative form (VA Form 21-22a).
 <br> 
