@@ -15,7 +15,7 @@ If you disagree with a VA decision on an insurance claim, you can choose one of 
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision letter to request a decision review.
+      You have <b>1 year</b> from the date on your decision to request a decision review.
     </p>
   </div>
 </div>
