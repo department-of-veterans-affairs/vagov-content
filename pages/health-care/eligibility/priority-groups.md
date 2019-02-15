@@ -14,26 +14,18 @@ order: 1
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-We want to make sure we can deliver full health care benefits and the highest quality care to all Veterans enrolled in the VA health care program. To help do this effectively, we enroll Veterans based on a priority system. 
+We want to make sure we can deliver full health care benefits and the highest quality care to all Veterans enrolled in the VA health care program. To help do this effectively, we enroll Veterans based on a priority system.  
 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What are the VA priority groups, and how do they affect my benefits?</h2>
+<h2 itemprop="name">How does my VA priority group affect my eligibility and benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How does my priority group affect my eligibility and benefits?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-Your priority group determines how quickly you'll be enrolled in VA health care, and whether you'll need to pay copays for certain types of non-service-connected care and medications.
+Your priority group helps to determine:
+- How quickly you'll be enrolled in VA health care, **and**
+- Whether you'll need to pay copays for certain types of non-service-connected care and medications
 
 If you're assigned to priority group 7 or 8, you'll need to agree to pay copays to receive VA health care benefits.
 [View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
@@ -43,14 +35,13 @@ If you're assigned to priority group 7 or 8, you'll need to agree to pay copays 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">What are the different priority groups?</h2>
+<h2 itemprop="name">How will VA assign me to a priority group?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 When you apply for VA health care, you’ll be assigned to 1 of the 8 priority groups below, with 1 being the highest priority group. 
 
 You'll be assigned based on factors like your military service history, disability rating, income level, and any other benefits you may be receiving. If you qualify for more than one priority group, we'll assign you to highest one. 
-
 
 <h3>Priority group 1</h3>
 
@@ -152,6 +143,22 @@ If you're assigned to priority group 8, your eligibility for VA health care bene
 - You don't have a service-connected condition, **and**
 - You don't meet the criteria for sub priority group c or d above
 
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+<h2 itemprop="name">Once I'm assigned to a priority group, will it ever change?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+Your priority group may change in some cases, such as if:
+- Your income changes, **or**
+- Your service-connected disability gets worse and we give you a higher disability rating
+
+<b>If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998 or were discharged from active duty on or after January 28, 2003,</b> you're eligible for enhanced benefits for 5 years after discharge. During this time, we'll assign you to priority group 6. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
+
+</div>
 </div>
 </div>
 </div>
