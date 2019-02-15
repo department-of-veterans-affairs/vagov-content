@@ -29,9 +29,12 @@ If you disagree with a VA decision on a fiduciary claim, you can choose one of t
 
 ## Decision Review Options
 
-Please choose one of the options below for your next review.
+### Add new and relevant evidence	
 
-**Note:** For Fiduciary Claims you won't be able to add new and relevant evidence with a Supplemental Claim. But you can file a new claim if you have new evidence. 
+The Supplemental Claim option isn’t available for fiduciary claims. You can file a new claim if you have new evidence. 	
+<br>
+
+Please choose one of the options below for your next review.
 
 ### Ask for a new look from a senior reviewer
 
