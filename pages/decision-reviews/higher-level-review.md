@@ -48,7 +48,7 @@ During the call, you and/or your representative can talk about why you think the
 ### How do I request a Higher-Level Review?
 
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996.</a>
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>.
 
 <ol class="process">
 <li class="process-step list-one">
@@ -255,17 +255,17 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
   </div>
 </div>
 
-### What happens next?
+## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/). <br>
 
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
 
-### What if I need help?
+## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
-### What if I have more questions?
+## What if I have more questions?
 Get answers to frequently asked questions about decision reviews. <br>
 [Go to FAQs](/decision-reviews/faq/).
