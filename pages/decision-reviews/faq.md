@@ -29,11 +29,11 @@ Learn more about the review options and how to request a review. If you need hel
 
 In order to file a Supplemental Claim, you have to add evidence that’s both new and relevant. New evidence is information that VA didn’t have before the last decision. Relevant evidence is information that could prove or disprove something about your case. VA can’t accept a Supplemental Claim without new and relevant evidence. You can either submit the evidence yourself or identify evidence, like medical records, that you’d like VA to get for you.
 </div>
-<div id="missed-exam">
+<div id="duty-assist">
 
 ### What’s “Duty to Assist”?
 
-VA's Duty to Assist requires VA to assist you in getting evidence, such as medical records, that's needed to support your case. VA’s Duty to Assist applies during your initial claim, and it also applies if you file a Supplemental Claim. If you request a Higher-Level Review or Board Appeal, the Duty to Assist does not apply. However, the reviewer or judge will look at whether VA met its Duty to Assist during your initial claim or Supplemental Claim, and if not, have VA correct that error. Your review may take longer if this is needed.
+VA's Duty to Assist requires VA to assist you in getting evidence, such as medical records, that's needed to support your case. VA’s Duty to Assist applies during your initial claim and if you file a Supplemental Claim. If you request a Higher-Level Review or Board Appeal, Duty to Assist doesn't apply. However, the reviewer or judge will look at whether VA met its Duty to Assist during your initial claim or Supplemental Claim, and if not, they'll have VA correct that error. Your review may take longer if this is needed.
 </div>
 <div id="miss-deadline">
 
@@ -46,7 +46,7 @@ If the deadline has passed, you can either:
 
 **Or**
 
-- Send a letter to VA requesting that it revise the decision based on a Clear and Unmistakable Error (CUE). CUE is a specific and rare kind of error. To prove CUE, you must show that the correct facts, known at the time, were not before VA or that VA incorrectly applied the law as it existed at the time. It must be undebatable that error occurred and that this error changed the outcome of your case. Misinterpretation of the facts or a failure by VA to meet its Duty to Assist are not sufficient reasons. Please seek guidance from a qualified representative, as you can only request CUE once per decision.  
+- Send a letter to VA requesting that it revise the decision based on a Clear and Unmistakable Error (CUE). CUE is a specific and rare kind of error. To prove CUE, you must show that the correct facts, known at the time, were not before VA or that VA incorrectly applied the law as it existed at the time. It must be undebatable that an error occurred and that this error changed the outcome of your case. Misinterpretation of the facts or a failure by VA to meet its Duty to Assist aren't sufficient reasons. Please seek guidance from a qualified representative, as you can only request CUE once per decision.  
 
 If you disagree with a Board decision, your decision will have information on additional ways to address errors.
 </div>
@@ -54,7 +54,7 @@ If you disagree with a Board decision, your decision will have information on ad
 
 ### What should I expect if I request a call with a senior reviewer?  
 
-If you request an informal conference with a senior reviewer on the Higher-Level Review option, they’ll call the phone number that you or your representative provided on form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
+If you request an informal conference with a senior reviewer on the Higher-Level Review option, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
 
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
 </div>
