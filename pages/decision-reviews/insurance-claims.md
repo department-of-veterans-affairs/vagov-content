@@ -127,9 +127,7 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 ## Bring an Action in District Court
 
-You also have the option to bring an action in a United States district court. You have 6 years to bring such an action after accrual of the right for which the claim is made. You may want to speak with an attorney about this option.
-<br>
-[See 38 C.F.R. 1984](#).
+You also have the option to bring an action in a United States district court. You have 6 years to bring such an action after accrual of the right for which the claim is made. You may want to speak with an attorney about this option. <br>
 
 ## After a Board Decision
 
