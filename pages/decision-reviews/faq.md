@@ -66,7 +66,7 @@ You have the option to request a hearing with a judge. A video conference hearin
 
 At your hearing, you and the judge will have a conversation. The judge may ask you a few questions, but it won’t be like a cross-examination. The judge will talk to you about the evidence needed to grant your appeal. Your representative, if you have one, may help you at the hearing.
 
-The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it is not required.
+The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn't required.
 </div>
 
 <div id="change-review">
