@@ -18,8 +18,8 @@ When you choose to file a Supplemental Claim, youâ€™re adding new evidence thatâ
 ### Can I file a Supplemental Claim?
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence, unless you have a fiduciary claim or a multiple party claim (this is rare). <br>
-[See your options for a fiduciary claim](/decision-reviews/fiduciary-claims/). <br>
-[See your options for a multiple party claim](/decision-reviews/multiple-party-claims/).
+[Fiduciary claim](/decision-reviews/fiduciary-claims/). <br>
+[Multiple party claim](/decision-reviews/multiple-party-claims/).
 </div>
 
 ### How long does it take VA to make a decision?
