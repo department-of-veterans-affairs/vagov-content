@@ -6,7 +6,7 @@ display_title: Fiduciary Claims
 relatedlinks:
   - heading: Learn more about the fiduciary program
     links:
-    - url: "#"
+    - url: "https://www.benefits.va.gov/fiduciary/"
       title: Fiduciary and Beneficiary Programs
       description: Learn about this program if you’d like to apply as a fiduciary for a family member or friend.
 ---
@@ -133,7 +133,7 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
 ## What if I have more questions?
-You can get answers to frequently asked questions about decision reviews.
+Get answers to frequently asked questions about decision reviews.
 <br>
 [Go to FAQs](/decision-reviews/faq/).
 
