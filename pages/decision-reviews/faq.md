@@ -25,19 +25,19 @@ Learn more about the review options and how to request a review. If you need hel
 
 <div id="relevant-evidence">
 
-### What’s new and relevant evidence?
+## What’s new and relevant evidence?
 
 In order to file a Supplemental Claim, you have to add evidence that’s both new and relevant. New evidence is information that VA didn’t have before the last decision. Relevant evidence is information that could prove or disprove something about your case. VA can’t accept a Supplemental Claim without new and relevant evidence. You can either submit the evidence yourself or identify evidence, like medical records, that you’d like VA to get for you.
 </div>
 <div id="duty-assist">
 
-### What’s “Duty to Assist”?
+## What’s “Duty to Assist”?
 
 VA's Duty to Assist requires VA to assist you in getting evidence, such as medical records, that's needed to support your case. VA’s Duty to Assist applies during your initial claim and if you file a Supplemental Claim. If you request a Higher-Level Review or Board Appeal, Duty to Assist doesn't apply. However, the reviewer or judge will look at whether VA met its Duty to Assist during your initial claim or Supplemental Claim, and if not, they'll have VA correct that error. Your review may take longer if this is needed.
 </div>
 <div id="miss-deadline">
 
-### What if I miss the deadline for submitting my request?
+## What if I miss the deadline for submitting my request?
 
 Submitting your request on time will ensure that you receive the maximum benefit if your case is granted. Please check the deadline for each review option and submit your request before that date. 
 
@@ -52,7 +52,7 @@ If you disagree with a Board decision, your decision will have information on ad
 </div>
 <div id="higher-level-review">
 
-### What should I expect if I request a call with a senior reviewer?  
+## What should I expect if I request a call with a senior reviewer?  
 
 If you request an informal conference with a senior reviewer on the Higher-Level Review option, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
 
@@ -60,7 +60,7 @@ During the call, you and/or your representative can talk about why you think the
 </div>
 <div id="request-hearing">
 
-### What should I expect if I request a hearing with a Veterans Law Judge?  
+## What should I expect if I request a hearing with a Veterans Law Judge?  
 
 You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you. 
 
@@ -71,7 +71,7 @@ The hearing will be transcribed and added to your appeal file. You can add new a
 
 <div id="change-review">
 
-### What if I want to choose a different review option after I’ve already submitted a form?
+## What if I want to choose a different review option after I’ve already submitted a form?
 
 If you’ve submitted a form and want to change your review option, you can send in a new decision review request form within 1 year from the date on your VA decision. You must include a letter that says you want to withdraw your existing review and switch to a different option. 
 
