@@ -6,7 +6,7 @@ display_title: After a Board Appeal Decision
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you disagree with the Board’s decision, you have 2 options. You can file a Supplemental Claim by adding new and relevant evidence to continue your case, or you can appeal to the U.S. Court of Appeals for Veterans Claims.
+If you disagree with the Board’s decision, you have two options. You can file a Supplemental Claim by adding new and relevant evidence to continue your case, or you can appeal to the U.S. Court of Appeals for Veterans Claims.
 </div>
 
 ## Decision Review Options
