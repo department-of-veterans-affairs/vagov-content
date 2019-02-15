@@ -2,19 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Get Help with Your Decision Review Request
-display_title: Get Help with Decision Reviews
-relatedlinks:
-  - heading: More information about decision review options
-    links:
-    - url: "/decision-reviews/supplemental-claim/"
-      title: Add New and Relevant Evidence
-      description: Find out how to continue your case by adding new and relevant evidence.
-    - url: "/decision-reviews/higher-level-review/"
-      title: Ask for a Second Opinion by a Senior Reviewer
-      description: Find out how to continue your case by having a senior reviewer look at your case.
-    - url: "/decision-reviews/board-appeal/"
-      title: Appeal to a Veterans Law Judge
-      description: Find out how to appeal to a Veterans’ Law Judge.              
+display_title: Get Help with Decision Reviews            
 aliases:
   - /decision-reviews/get-help/
 ---
