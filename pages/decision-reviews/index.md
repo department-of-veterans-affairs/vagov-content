@@ -172,13 +172,13 @@ hearing will take place at a VA location near you.
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
 
 <br>
-<br>
+
 ## After a Board Decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that
 supports your case, you can request a Supplemental Claim. You can also appeal to the
 U.S. Court of Appeals for Veterans Claims. <br>
-[Learn more about your options afer a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision).
+[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision).
 
 ## What happens next?
 
@@ -192,12 +192,12 @@ more information. If VA schedules exams for you, be sure not to miss them.
 ## What if I need help?
 
 A Veterans Service Organization or VA-accredited attorney or agent can
-help you request a decision review. 
+help you request a decision review. <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request). 
 
 ## What if I have more questions?
 
-Get answers to frequently asked questions about decision reviews.
+Get answers to frequently asked questions about decision reviews. <br>
 [Go to FAQs](/decision-reviews/faq).
 
 <div id="rare-situations"></div>
