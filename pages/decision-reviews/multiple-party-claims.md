@@ -75,7 +75,7 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">  
       You must submit evidence within 90 days of the date VA receives your Board Appeal form.
