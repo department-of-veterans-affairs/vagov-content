@@ -39,7 +39,7 @@ relatedlinks:
 
 ## Decision Review Options
 
-- [Add new and relevant evidence (file a Supplemental Claim](#supplemental-claim)
+- [Add new and relevant evidence (file a Supplemental Claim)](#supplemental-claim)
 - [Ask for a new look from a senior reviewer (request a Higher-Level Review)](#higher-level-review)
 - [Appeal to a Veterans Law Judge (request a Board Appeal)](#board-appeal)
 
