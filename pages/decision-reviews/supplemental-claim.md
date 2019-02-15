@@ -76,7 +76,7 @@ If you don’t have evidence to submit, please select another review option.
 
 ### Apply
 
-Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). 
+Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
 [Download VA Form 20-0995](/decision-reviews/forms/supplemental-claim-20-0995.pdf).
 
 **By mail**
