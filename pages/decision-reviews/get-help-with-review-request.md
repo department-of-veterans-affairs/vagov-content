@@ -15,6 +15,8 @@ relatedlinks:
     - url: "/decision-reviews/board-appeal/"
       title: Appeal to a Veterans Law Judge
       description: Find out how to appeal to a Veterans’ Law Judge.              
+aliases:
+  - /decision-reviews/get-help/
 ---
 <br>
 <div itemprop="description" class="va-introtext">
