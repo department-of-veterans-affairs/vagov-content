@@ -122,20 +122,22 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 ### Apply
 
-<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.
+Fill out the Decision Review Request: Board Appeal (VA Form 10182).
+<br>
+[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf).
 
 **By mail**
 
-Send the completed VA Form 10182 and any supporting documents to this address:
+Send the completed form and any supporting documents to this address:
 
 <p class="va-address-block">
 Board of Veterans’ Appeals<br>
 PO Box 27063<br>
-Washington, DC 20038<br>
+Washington, D.C. 20038<br>
 
 **In person**
 
-Bring your completed form to a VA regional benefit office. 
+Bring your completed form to a regional benefit office. 
 <br> 
 [Find a regional benefit office near you](/find-locations/).
 
@@ -151,8 +153,6 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 ## After a Board Decision
 
 If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims.
-<br> 
-[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision/).
 
 ## What happens next?
 
