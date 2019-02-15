@@ -169,7 +169,7 @@ hearing will take place at a VA location near you.
 
 #### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request two Board Appeals in a row.
 
 <br>
 
