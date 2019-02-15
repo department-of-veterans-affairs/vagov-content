@@ -6,7 +6,7 @@ display_title: Request a Higher-Level Review
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. Find out how to request a Higher-Level Review.
+If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. 
 </div>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -46,6 +46,7 @@ If you request an informal conference with a senior reviewer, they’ll call the
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
 
 ### How do I request a Higher-Level Review?
+
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996.</a>
 
@@ -90,7 +91,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 </div>      
 <br>
 
-__What if I have new and relevant evidence?__
+**What if I have new and relevant evidence?**
 <br>
 If you have evidence to submit, please select another review option.
 <br> 
@@ -100,9 +101,13 @@ If you have evidence to submit, please select another review option.
 <li class="process-step list-four">
 
 ### Apply
-__By mail__
-<br>
-Send the completed VA Form 20-0996 to the benefit office that matches the benefit type you selected on the form.
+
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996.</a>
+
+**By mail**
+
+Send the completed form to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -224,19 +229,19 @@ form.<br>
     </div>
 </ul>
 
-__In person__
+**In person**
 <br>
-Bring your completed form to a VA regional benefit office. 
+Bring your completed form to a regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 <br>
 
-__By fax__
+**By fax**
 <br>
 Fax your completed form and any supporting documents to 1-844-531-7818.
 <br>
 <br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT), to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET), to request a form.
 </li>
 </ol>
 <div class="usa-alert usa-alert-info">
@@ -245,7 +250,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision letter to file a Higher-Level Review.
+      You have <b>1 year</b> from the date on your decision to file a Higher-Level Review.
     </p>
   </div>
 </div>
