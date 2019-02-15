@@ -31,7 +31,7 @@ relatedlinks:
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review
-      unless you have a fiduciary claim or a Multiple Party Claim. 
+      unless you have a fiduciary claim or a Multiple Party Claim. <br>
       <a href="#rare-situations">See if one of these rare situations applies to you.</a>
     </p>
   </div>
