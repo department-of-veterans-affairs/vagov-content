@@ -145,7 +145,7 @@ Bring your completed form to a regional benefit office.
 
 Fax your completed form to 1-844-678-8979.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET) to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET), to request a form.
 </p>
   </li>
 </ol>
