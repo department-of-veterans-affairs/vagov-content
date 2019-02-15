@@ -5,7 +5,7 @@ title: VA health care and other insurance
 display_title: VA Health Care and Other Insurance
 description: Find out how you can use VA health care along with other health insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE). Get answers to questions about how VA health care works for Veterans with other insurance.
 concurrence: complete
-lastupdate: 2017-06-28
+lastupdate: 2019-02-14
 order: 3
 aliases:
   - /health-care/about-va-health-care/va-health-care-and-other-insurance/
