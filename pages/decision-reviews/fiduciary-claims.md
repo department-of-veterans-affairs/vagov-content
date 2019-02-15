@@ -42,7 +42,7 @@ Please choose one of the options below for your next review.
 
 When you choose a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 
 <br>
-[Learn how to request a Higher-Level Review](decision-reviews/higher-level-review/).
+[Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/).
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
