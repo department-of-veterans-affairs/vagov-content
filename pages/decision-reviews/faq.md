@@ -3,18 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Frequently Asked Questions About Decision Reviews
 display_title: Frequently Asked Questions About Decision Reviews
-relatedlinks:
-  - heading: Unusual situations that may be relevant to you
-    links:
-    - url: "/decision-reviews/multiple-party-claims/"
-      title: If you’re one of multiple people claiming the same benefit
-      description: See if this applies to you and find out how to request a review.
-    - url: "/decision-reviews/insurance-claims/"
-      title: If you have an insurance claim
-      description: See if this applies to you and find out how to request a review.
-    - url: "/decision-reviews/fiduciary-claims/"
-      title: If you have a fiduciary claim
-      description: See if this applies to you and find out how to request a review.              
+relatedlinks:         
 ---
 <br>
 <div itemprop="description" class="va-introtext">
