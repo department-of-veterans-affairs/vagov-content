@@ -8,7 +8,7 @@ display_title: File a Supplemental Claim with New Evidence
 <br>
 
 <div itemprop="description" class="va-introtext">
-When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision. Find out how to file a Supplemental Claim.
+When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision. 
 </div>
 
 <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
@@ -17,11 +17,9 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
   
 ### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
-
-But you can’t file a Supplemental Claim if you have a Fiduciary Claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-[See your decision review options for a Fiduciary Claim](/decision-reviews/fiduciary-claims/) <br>
-[See your decision review options for a Multiple Party Claim](/decision-reviews/multiple-party-claims/)
+You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence, unless you have a fiduciary claim or a multiple party claim (this is rare). <br>
+[See your options for a fiduciary claim](/decision-reviews/fiduciary-claims/) <br>
+[See your options for a multiple party claim](/decision-reviews/multiple-party-claims/)
 </div>
 
 ### How long does it take VA to make a decision?
@@ -78,9 +76,12 @@ If you don’t have evidence to submit, please select another review option.
 
 ### Apply
 
+Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). 
+[Download VA Form 20-0995](/decision-reviews/forms/supplemental-claim-20-0995.pdf).
+
 **By mail**
 
-Send the completed VA Form 20-0995 and any supporting documents to the benefit office that matches the benefit type you selected on the form.
+Send the completed form and any supporting documents to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -204,14 +205,14 @@ form.<br>
 
 **In person**
 <br>
-Bring your completed form and any supporting documents to a VA regional benefit office. <br>
+Bring your completed form and any supporting documents to a regional benefit office. <br>
 [Find a regional benefit office near you](/find-locations/).
 
 **By fax**
 <br>
 Fax your completed form and any supporting documents to 1-844-531-7818.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 7:00 a.m. - 7:00 p.m. (CT) to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET) to request a form.
 </li>
 </ol>
 <div class="usa-alert usa-alert-info">
@@ -230,7 +231,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim</a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim</a>
 
 
 ## What if I need help?
