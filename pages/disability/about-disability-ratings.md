@@ -28,7 +28,7 @@ Find out how we determine your disability rating.
 
 We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate.
 
-## What does VA use to decide my disability rating?
+### What does VA use to decide my disability rating?
 
 We base your rating on:
 
@@ -79,24 +79,25 @@ To make this table easier to use online, we’ve separated it into smaller table
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="19-29">19% to 29% disabling</button>
 <div id="19-29" class="usa-accordion-content">
 
-| Coverage amount | Monthly premium rate |
-| --------------- | -------------------- |
-| $100,000        | $5.00                |
-| $90,000         | $4.50                |
-| $80,000         | $4.00                |
-| $70,000         | $3.50                |
-| $60,000         | $3.00                |
-| $50,000         | $2.50                |
-| $40,000         | $2.00                |
-| $30,000         | $1.50                |
-| $20,000         | $1.00                |
-| $10,000         | $0.50                |
+|     | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **19** | 27 | 35  | 43  | 51  | 60  | 68  | 76  | 84  | 92  |
+| **20** | 28 | 36 | 44 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **21** | 29 | 37 | 45 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **22** | 30 | 38 | 45 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **23** | 31 | 38 | 46 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **24** | 32 | 39 | 47 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **25** | 33 | 40 | 48 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **26** | 33 | 41 | 48 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **27** | 34 | 42 | 49 | 52 | 60  | 68  | 76  | 84  | 92  |
+| **28** | 35 | 36 | 50 |  52 | 60  | 68  | 76  | 84  | 92  |
+| **29** | 36 | 36 | 50 |  52 | 60  | 68  | 76  | 84  | 92  |
 
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-39">30% to 39% disabling</button>
-<div id="age-30-39" class="usa-accordion-content">
+<div id="30-39" class="usa-accordion-content">
 
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
@@ -115,7 +116,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="40-49">40% to 49% disabling</button>
-<div id="age-40-49" class="usa-accordion-content">
+<div id="40-49" class="usa-accordion-content">
 
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
@@ -134,7 +135,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="50-59">50% to 59% disabling</button>
-<div id="age-50-59" class="usa-accordion-content">
+<div id="50-59" class="usa-accordion-content">
 
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
@@ -153,7 +154,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="60-69">60% to 69% disabling</button>
-<div id="age-60-69" class="usa-accordion-content">
+<div id="60-69" class="usa-accordion-content">
     
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
@@ -172,26 +173,19 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-79">70% to 79% disabling</button>
-<div id="age-70-79" class="usa-accordion-content">
+<div id="70-79" class="usa-accordion-content">
 
-| Coverage amount | Monthly premium rate |
-| --------------- | -------------------- |
-| $100,000        | $5.00                |
-| $90,000         | $4.50                |
-| $80,000         | $4.00                |
-| $70,000         | $3.50                |
-| $60,000         | $3.00                |
-| $50,000         | $2.50                |
-| $40,000         | $2.00                |
-| $30,000         | $1.50                |
-| $20,000         | $1.00                |
-| $10,000         | $0.50                |
+|     | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **19** | 27  | 35  | 43  | 51  | 60  | 68  | 76  | 84  | 92  |
+| **20** | 28 | 36 | 44 | 52 | 60  | 68  | 76  | 84  | 92  |
+
 
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="80-89">80% to 89% disabling</button>
-<div id="age-80-89" class="usa-accordion-content">
+<div id="80-89" class="usa-accordion-content">
 
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
@@ -210,7 +204,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="90-94">90% to 94% disabling</button>
-<div id="age-90-94" class="usa-accordion-content">
+<div id="90-94" class="usa-accordion-content">
 
 | Coverage amount | Monthly premium rate |
 | --------------- | -------------------- |
