@@ -152,7 +152,7 @@ Washington, D.C. 20038<br>
 
 **In person**
 
-Bring your completed form to a VA regional benefit office. 
+Bring your completed form to a regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 
