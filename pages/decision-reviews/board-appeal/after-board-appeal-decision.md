@@ -48,7 +48,8 @@ If you have new and relevant evidence, you can file a Supplemental Claim (VA For
 
 ### File a Court Appeal
 
-You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you,or you can represent yourself.<br>  
+You can request a review of the Board’s decision from the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you,or you can represent yourself.
+<br>
 [Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
 
 <div class="usa-alert usa-alert-info">
