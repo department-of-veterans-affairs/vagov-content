@@ -15,6 +15,7 @@ relatedlinks:
       description: 
 aliases:
   - /disability-benefits/apply/evidence/fully-developed-disability-claims/
+  - /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
 ---
 
 <div itemprop="description" class="va-introtext">
@@ -322,9 +323,6 @@ You can start your online application right now, or find out how to file a claim
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/).
-
-For some types of claims, you can work with a VSO to submit a decision-ready claim and get your decision in 30 days or less.<br>
-[Find out if you're eligible for the Decision Ready Claims program](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 <br>
 

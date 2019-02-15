@@ -15,10 +15,7 @@ relatedlinks:
       description: If you have 180 to 90 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
       title: Fully Developed Disability Claims
-      description: Find out how to use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting your evidence (supporting documents) along with your claim.
-    - url: /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-      title: Decision Ready Claims Program
-      description: Find out if you can use the Decision Ready Claims program to get a decision on your claim in 30 days or less by working with an accredited Veterans Service Organization (VSO).      
+      description: Find out how to use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting your evidence (supporting documents) along with your claim.    
 aliases:
   - /disability-benefits/apply/claim-types/
 ---
