@@ -151,8 +151,21 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 ## After a Board Decision
 
-If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims.<br>
-[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision/).
+If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself. <br>
+[Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
+
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      Mark your calendar 
+    </h4>
+    <p class="usa-alert-text">
+      You have <b>120 days</b> from the date on your decision to file a Court Appeal. 
+      <br>
+      <b>Note:</b> A Court Appeal must be filed with the Court, not with VA.
+    </p>
+  </div>
+</div>
 
 ## What happens next?
 
