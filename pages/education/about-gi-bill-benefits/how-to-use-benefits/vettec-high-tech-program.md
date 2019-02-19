@@ -50,4 +50,4 @@ You’ll need to apply by filling out an Application for Veteran Employment thro
 
 If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).
 
-[Apply for education benefits](/education//how-to-apply/).
+[Apply for education benefits](/education/how-to-apply/).
