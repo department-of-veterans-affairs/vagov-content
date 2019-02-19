@@ -77,15 +77,6 @@ You’ll need to file a claim for disability compensation. When you file, you’
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
 
-You can also file your claim by mail.  Mail your claim with supporting documents to:</p>
-<p class='va-address-block'>Department of Veterans Affairs Claims Intake Center<br/>
-Attention: C-123 Claims<br />
-PO Box 5088<br />
-Janesville, WI<br />
-53547-5088</p>
-
-<p>Or, fax your claim with supporting documents to:<br />
-608-373-6694</p>
 
 
 
