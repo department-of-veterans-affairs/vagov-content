@@ -93,7 +93,8 @@ Janesville, WI 53547-4444<br>
 
 </p>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion process-accordion">
+  <li>
   <button class="usa-button-unstyled usa-accordion-button" 
     aria-controls="VA-other-benefit-addresses">Find addresses for other benefit types</button>
     <div id="VA-other-benefit-addresses" class="usa-accordion-content" >
@@ -202,6 +203,7 @@ form.<br>
 
 </div>
     </div>
+    </li>
 </ul>
 
 **In person**
