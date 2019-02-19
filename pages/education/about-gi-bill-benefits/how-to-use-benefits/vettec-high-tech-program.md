@@ -1,17 +1,17 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veteran Employment through Technology Education Courses (Vet Tec) Pilot Program 
+title: Veteran Employment through Technology Education Courses (Vet Tec) Program 
 display_title: Vet Tec Program
 description: 
 concurrence: incomplete
 aliases:
-order: 8
+order: 7
 ---
 
 <div class="va-introtext">
 
-If you’re interested in enrolling in a high-tech program or in employment in a high-tech career, you may be eligible for Vet Tec, a new VA education program that lets you use your existing GI Bill benefits for high-tech training programs.  
+If you’re interested in taking a high-tech course or in employment in a high-tech career, you may be eligible for Vet Tec, a new VA education program that lets you use your existing GI Bill benefits to enroll in high-tech training programs.  
 
 </div>
 
@@ -21,7 +21,8 @@ If you’re interested in enrolling in a high-tech program or in employment in a
 
 You can get this benefit if you meet the requirements listed below: 
 -	You’re a Veteran or inactive-duty Reservist or National Guard member, **and**
--	You qualify for VA education assistance under the GI Bill or currently receive GI Bill benefits. 
+-	You qualify for VA education assistance under the GI Bill or currently receive GI Bill benefits. <br>
+
 You aren’t eligible for the Vet Tec program while you’re on active duty. 
 
 <br>
