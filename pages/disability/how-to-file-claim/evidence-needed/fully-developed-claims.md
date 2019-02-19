@@ -136,8 +136,8 @@ You'll need to submit current evidence from a medical professional or layperson 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-reopened">Reopened Claim—a claim providing new evidence to support a disability claim that was denied at least 1 year ago</button>
-<div id="claim-reopened" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-supplemental">Supplemental Claim—a claim providing new evidence to support a disability claim that was denied</button>
+<div id="claim-supplemental" class="usa-accordion-content">
 
 You'll need to submit new evidence we've haven't reviewed before that's related to the issue you're claiming.
 
