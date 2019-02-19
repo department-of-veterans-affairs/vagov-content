@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: After You Request a Decision Review
 display_title: After You Request a Decision Review
+hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">

@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Frequently Asked Questions About Decision Reviews
 display_title: Frequently Asked Questions About Decision Reviews
-relatedlinks:         
+hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">

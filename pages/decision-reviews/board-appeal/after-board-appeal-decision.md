@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: After a Board Appeal Decision
 display_title: After a Board Appeal Decision
+hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">

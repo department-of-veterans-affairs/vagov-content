@@ -2,7 +2,8 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Get Help with Your Decision Review Request
-display_title: Get Help with Decision Reviews            
+display_title: Get Help with Decision Reviews         
+hidesidenav: true
 aliases:
   - /decision-reviews/get-help/
 ---

@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Multiple Party or Contested Claims
 display_title: Multiple Party or Contested Claims
+hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
