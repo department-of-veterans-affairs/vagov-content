@@ -109,6 +109,12 @@ We’ll send you a packet by U.S. mail that includes details of the decision on 
 
 ### What should I do if I disagree with your decision on my claim?
 
-If you disagree with our decision, you can appeal it. The decision notice will have instructions on how to file an appeal. [File an appeal now](/disability/file-an-appeal/).
+If you disagree with our decision, you can appeal it.
+
+**If you received your decision before February 19, 2019,** you can start the appeals process by filing a Notice of Disagreement. <br>
+[Learn how to appeal your decision](/disability/file-an-appeal/).
+
+**If you received your decision after February 19, 2019,** you'll need to follow our new process for getting your decision reviewed. <br>
+[Learn how to get your decision reviewed](/decision-reviews/).
 
 <div markdown="0"><br></div>
