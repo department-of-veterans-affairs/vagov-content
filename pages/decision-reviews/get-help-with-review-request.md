@@ -2,19 +2,9 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Get Help with Your Decision Review Request
-display_title: Get Help with Decision Reviews
-relatedlinks:
-  - heading: More information about decision review options
-    links:
-    - url: "/decision-reviews/supplemental-claim/"
-      title: Add new and relevant evidence
-      description: Find out how to continue your case by adding new and relevant evidence.
-    - url: "/decision-reviews/higher-level-review/"
-      title: Ask for a second opinion by a senior reviewer
-      description: Find out how to continue your case by having a senior reviewer look at your case.
-    - url: "/decision-reviews/board-appeal/"
-      title: Appeal to a Veterans Law Judge
-      description: Find out how to appeal to a Veterans’ Law Judge.              
+display_title: Get Help with Decision Reviews            
+aliases:
+  - /decision-reviews/get-help/
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -35,7 +25,7 @@ Accredited representatives and VSOs need to:
 Recognized organizations and individuals can legally represent a Veteran, service member, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
 </div>
 
-### What does an accredited representative or VSO do?
+## What does an accredited representative or VSO do?
 **Accredited representatives and VSOs can help you understand and apply for VA benefits, like:**
 - Disability compensation
 - Education
@@ -54,14 +44,14 @@ Recognized organizations and individuals can legally represent a Veteran, servic
 **Note:** Veterans Service Officers work for Veterans Service Organizations (both are 
 called VSOs), as well as for local government offices.
 
-### What does it cost to use an accredited representative or a VSO?
+## What does it cost to use an accredited representative or a VSO?
 
 In general, no individual or organization may charge you a fee to help you request a decision review. However, they may charge you for unusual expenses. VA-accredited claims agents and attorneys may charge for their services only after VA makes a decision about your initial claim. Make sure you ask up front about any fees that you’ll be charged. If you believe a claims agent or attorney charged a fee that’s too high, you can challenge it. 
 <br>
 
 [Find out more in the “How to Challenge a Fee” guide](https://www.va.gov/OGC/docs/Accred/HowtoChallengeaFee.pdf).
 
-### How do I find an accredited representative or a VSO?
+## How do I find an accredited representative or a VSO?
 
 You can find an accredited representative or a VSO in 1 of 2 ways:
 - Go to eBenefits to find a local representative (including a recognized VSO, an attorney, or a claims agent) by state/territory, zip code, or the organization’s name.
@@ -71,15 +61,14 @@ You can find an accredited representative or a VSO in 1 of 2 ways:
 <br> 
 [Search the VA Office of General Counsel’s list](https://www.va.gov/ogc/apps/accreditation/index.asp).
 
-### How do I get an accredited representative or a VSO to work on my behalf?
+## How do I get an accredited representative or a VSO to work on my behalf?
 
 You’ll need to either use eBenefits or fill out a form and mail it in.
 Choose one of these ways:
 - Use eBenefits to let VA know you’ll be working with a representative or to change your current representation.
 <br> 
 [Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/manage/representative?_ga=2.165882619.432161254.1549749081-1632380512.1525475597).
-- To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative form (VA Form 21-22).
-<br>  
+- To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative form (VA Form 21-22). <br>
 [Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf?_ga=2.164333946.432161254.1549749081-1632380512.1525475597).
 - To have a claims agent or attorney help you, fill out an Appointment of Individual as Claimant’s Representative form (VA Form 21-22a).
 <br> 

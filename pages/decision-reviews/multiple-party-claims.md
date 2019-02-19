@@ -93,7 +93,6 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 If you want a video conference hearing with a Veterans Law Judge at a nearby VA location, choose a Hearing Request. 
 
 At your hearing, you and a Veterans Law Judge will have a conversation, and they’ll ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file. <br>
-[Learn more about what happens at a hearing](#what-happens-at-hearing).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -152,7 +151,21 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 ## After a Board Decision
 
-If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims.
+If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself. <br>
+[Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
+
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-heading">
+      Mark your calendar 
+    </h4>
+    <p class="usa-alert-text">
+      You have <b>120 days</b> from the date on your decision to file a Court Appeal. 
+      <br>
+      <b>Note:</b> A Court Appeal must be filed with the Court, not with VA.
+    </p>
+  </div>
+</div>
 
 ## What happens next?
 
@@ -170,6 +183,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I have more questions?
 
-You can get answers to frequently asked questions about decision reviews.
+Get answers to frequently asked questions about decision reviews.
 <br>
 [Go to FAQs](/decision-reviews/faq/).

@@ -108,7 +108,6 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 If you want a video conference hearing with a Veterans Law Judge at a nearby VA location, choose a Hearing Request. 
 
 At your hearing, you and a Veterans Law Judge will have a conversation, and they’ll ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file. <br>
-[Learn more about what happens at a hearing](#what-happens-at-hearing).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -153,7 +152,7 @@ Washington, D.C. 20038<br>
 
 **In person**
 
-Bring your completed form to a VA regional benefit office. 
+Bring your completed form to a regional benefit office. 
 <br>
 [Find a regional benefit office near you](/find-locations/).
 
@@ -161,7 +160,7 @@ Bring your completed form to a VA regional benefit office.
 
 Fax your completed form to 1-844-678-8979.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET) to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET), to request a form.
 </li>
 </ol>
 <div class="usa-alert usa-alert-info">

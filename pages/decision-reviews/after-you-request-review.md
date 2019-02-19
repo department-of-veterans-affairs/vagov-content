@@ -10,7 +10,7 @@ When your review is complete, VA will mail you a decision packet that includes d
 
 </div>
 
-### What should I do while I wait?
+## What should I do while I wait?
 
 You don’t need to do anything unless VA sends you a letter asking for more information. If VA schedules any exams for you, be sure not to miss them.
 
@@ -18,12 +18,12 @@ If you requested a decision review and haven’t heard back from VA yet, please 
 
 <a href="https://www.va.gov/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim or Appeal</a>
 
-### What if I need help?
+## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
 
-### What if I want to choose a different review option after I’ve submitted the form?
+## What if I want to choose a different review option after I’ve submitted a form?
 
 If you’ve submitted a form and want to change your review option, you can send in a new decision review request form within 1 year from the date on your VA decision. You must include a letter that says you want to withdraw your existing review and switch to a different option. 
 

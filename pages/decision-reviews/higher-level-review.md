@@ -104,7 +104,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996.</a>
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>.
 
 **By mail**
 

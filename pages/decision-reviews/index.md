@@ -31,7 +31,7 @@ relatedlinks:
       Mark your calendar 
     </h4>
     <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision to request a decision review
+      You have <b>1 year</b> from the date on your decision to request a decision review,
       unless you have a fiduciary claim or a multiple party claim. <br>
       <a href="#rare-situations">See if one of these rare situations applies to you.</a>
     </p>
@@ -76,7 +76,7 @@ determine whether it changes the decision. <br>
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
 
 But you can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#rare-situations">Learn about your options in these rare situations</a>.
+<a href="#rare-situations">See if one of these rare situations applies to you</a>.
 
 <br>
 <br>
@@ -176,9 +176,7 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 ## After a Board Decision
 
-If you disagree with the Board’s decision and have new and relevant evidence that
-supports your case, you can request a Supplemental Claim. You can also appeal to the
-U.S. Court of Appeals for Veterans Claims. <br>
+If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. <br>
 [Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision).
 
 ## What happens next?
