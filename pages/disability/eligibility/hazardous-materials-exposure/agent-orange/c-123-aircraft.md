@@ -61,20 +61,19 @@ Check our list of military units and Air Force Specialty codes to see if your un
 - Health care
 - Compensation (payments)
 
+----
+
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure with Agent Orange while serving in the military.  You can send us supporting documents along with your online application, including: 
 
-<div class="feature">
+  - Discharge or separation papers (DD214 or other separation documents)
+  - USAF Form 2096 (unit where you were assigned at the time of the training action)
+  - USAF Form 5 (aircraft flight duties)
+  - USAF Form 781 (aircraft maintenance duties)
+  - Dependency records (marriage certificate and children’s birth certificates)
+  - Medical evidence (like a doctor’s report or medical test results)
 
-<ul>
-  <li>Discharge or separation papers (DD214 or other separation documents)</li>
-  <li>USAF Form 2096 (unit where you were assigned at the time of the training action)</li>
-  <li>USAF Form 5 (aircraft flight duties)</li>
-  <li>USAF Form 781 (aircraft maintenance duties)</li>
-  <li>Dependency records (marriage certificate and children’s birth certificates)</li>
-  <li>Medical evidence (like a doctor’s report or medical test results)</li>
-</ul>
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
 
