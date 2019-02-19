@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request a Higher-Level Review
 display_title: Request a Higher-Level Review
+hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">

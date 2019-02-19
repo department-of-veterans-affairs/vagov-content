@@ -4,6 +4,7 @@ template: detail-page
 title: VA Decision Reviews and Appeals
 display_title: VA Decision Reviews and Appeals
 decision_reviews_banner: true
+hidesidenav: true
 relatedlinks:
   - heading: Rare situations that may apply to you
     links:
