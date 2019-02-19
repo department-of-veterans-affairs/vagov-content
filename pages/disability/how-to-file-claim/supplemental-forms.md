@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: File Supplemental Forms for Special Claims
-display_title: Supplemental Forms
-description: Find out if you'll need to turn in any supplemental forms when you file your VA disability claim.
+title: File Additional Forms for Your Disability Claim
+display_title: Additional Forms
+description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
 plainlanguage: 
 template: detail-page
 order: 3
@@ -18,14 +18,14 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you’ll need to turn in any supplemental forms when you file your disability claim. 
+Find out if you’ll need to turn in any additional forms when you file your disability claim. 
 
 </div>
 
 
-### Do I need to turn in any supplemental forms?
+## Do I need to turn in any additional forms?
 
-In some cases, you may need to turn in one or more supplemental forms to support your disability claim. 
+In some cases, you may need to turn in one or more additional forms to support your disability claim. 
 
 <div class="va-table-overflow">
 <table class="va-table-explanatory">
@@ -55,12 +55,18 @@ In some cases, you may need to turn in one or more supplemental forms to support
     <td><strong>Claiming Posttraumatic Stress Disorder (PTSD)</strong></td>
     <td><p>A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF">Download VA Form 21-0781</a>.</p>
+        <p><strong>Or</strong></p>
+        <p>You can fill out VA Form 21-0781 when you file a disability claim online.</p>
+        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
     </td>
   </tr>
   <tr>
    <td><strong>Claiming PTSD based on a personal assault</strong></td>
     <td><p>A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf">Download VA Form 21-0781a</a>.</p>
+        <p><strong>Or</strong></p>
+        <p>You can fill out VA Form 21-0781a when you file a disability claim online.</p>
+        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
     </td>
   </tr>
   <tr>
@@ -73,6 +79,12 @@ In some cases, you may need to turn in one or more supplemental forms to support
    <td><strong>Claiming an Auto Allowance</strong></td>
     <td><p>An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf">Download VA Form 21-4502</a>.</p>
+    </td>
+  </tr>
+  <tr>
+   <td><strong>Claiming an Auto Adaptive-Equipment Grant</strong></td>
+    <td><p>An Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394)</p>
+        <p><a href="https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf">Download VA Form 10-1394</a>.</p>
     </td>
   </tr>
   <tr>
@@ -95,6 +107,15 @@ In some cases, you may need to turn in one or more supplemental forms to support
         <p><strong>If your dependent is a child in school between the ages of 18 and 23</strong>, you’ll also need to turn in a Request for Approval of School Attendance (VA Form 21-674).</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf">Download VA Form 21-674</a>.</p> 
         <p><strong>If your dependent is a seriously disabled child</strong>, you’ll also need to turn in all private medical records for the child’s disabilities.</p>
+    </td>
+  </tr>
+  <tr>
+   <td><strong>Authorizing the release of your medical records to VA</strong></td>
+    <td><p>Authorization to Disclose Information to VA (VA Form 21-4142)</p>
+        <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf">Download VA Form 21-4142</a>.</p>
+        <p><strong>Or</strong></p>
+        <p>You can fill out VA Form 21-4142 when you file a disability claim online.</p>
+        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
     </td>
   </tr>
 </tbody>

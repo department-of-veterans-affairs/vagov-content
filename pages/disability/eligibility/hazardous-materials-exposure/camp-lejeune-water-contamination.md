@@ -58,7 +58,8 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
 
 **You can file a claim in any of these ways:**
-- [File a claim online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
+- [File a claim online](/disability/how-to-file-claim/) or [file a claim on eBenefits](http://www.ebenefits.va.gov).
+Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results), **or**
 - [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
 
