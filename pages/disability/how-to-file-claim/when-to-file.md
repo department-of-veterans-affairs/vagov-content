@@ -89,7 +89,7 @@ Our decision on your new claim will be based only on new evidence (like a doctor
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Service-Connected Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
 You can file a secondary claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
