@@ -14,7 +14,7 @@ majorlinks:
     links:
     - url: /disability/how-to-file-claim/when-to-file/
       title: Claim Types and When to File
-      description: Learn about standard claims, reopened claims, secondary claims, and more.
+      description: Learn about standard claims, supplemental claims, secondary claims, and more.
     - url: /disability/how-to-file-claim/evidence-needed/
       title: How to Gather Evidence for Your Claim
       description: Find out your options for gathering documents to support your disability claim.
