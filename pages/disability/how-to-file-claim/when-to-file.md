@@ -72,41 +72,6 @@ You can file a claim for increased disability compensation if you have a rated s
 
 </div>
 </li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
-<div id="claim-special" class="usa-accordion-content">
-
-You can file a special claim to request compensation for special needs. 
-
-**These may include needs like:**
-- A specially equipped vehicle if your service-connected disability prevents you from driving, **or**
-- Temporary payments if you're recovering from surgery or other treatment and unable to move, **or**
-- Increased payments if you can't work because of your service-connected disability
-
-[Learn more about special claims](/disability/eligibility/special-claims/).<br>
-<br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Reopened Claim—Provide new evidence to support a disability claim that was denied in the past.</button>
-<div id="claim-new-evidence" class="usa-accordion-content">
-
-You can file a reopened claim if you meet all of the requirements listed below.
-
-**All of these must be true:**
-- We denied your claim at least 1 or more years ago, **and**
-- You didn’t file an appeal at that time, **and**
-- You have new and material evidence (new supporting documents like a doctor’s report or medical test results) that we haven’t seen before and that's directly related to your claim
-
-For example, you might file a reopened claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
-
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-
-</div>
-</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New Claim—File a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
 <div id="claim-more-benefits" class="usa-accordion-content">
@@ -132,6 +97,40 @@ You can file a secondary claim to get more disability benefits for a new disabil
 **For example, you might file a secondary claim if you:**
 - Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
 - Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
+
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
+<div id="claim-special" class="usa-accordion-content">
+
+You can file a special claim to request compensation for special needs. 
+
+**These may include needs like:**
+- A specially equipped vehicle if your service-connected disability prevents you from driving, **or**
+- Temporary payments if you're recovering from surgery or other treatment and unable to move, **or**
+- Increased payments if you can't work because of your service-connected disability
+
+[Learn more about special claims](/disability/eligibility/special-claims/).<br>
+<br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—Provide new evidence to support a disability claim that was denied.</button>
+<div id="claim-new-evidence" class="usa-accordion-content">
+
+You can file a supplemental claim if you meet all of the requirements listed below.
+
+**All of these must be true:**
+- We denied your disability claim, **and**
+- You didn’t file an appeal at that time, **and**
+- You have new and material evidence (new supporting documents like a doctor’s report or medical test results) that we haven’t seen before and that's directly related to your claim
+
+For example, you might file a supplemental claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
