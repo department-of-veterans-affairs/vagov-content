@@ -9,6 +9,7 @@ aliases:
   - /disability-benefits/eligibility/ratings/
 spoke: More Resources
 children: disabilityAboutRatings
+
 ---
 <div class="va-introtext">
 
@@ -18,7 +19,7 @@ Find out how we determine your disability rating, and what additional factors ca
 
 ### On this page
 - [How we assign disability ratings](#assign)
-- [How we determine combined ratings](#combined)
+- [How we determine combined disability ratings](#combined)
 
 ------
 
@@ -26,14 +27,14 @@ Find out how we determine your disability rating, and what additional factors ca
 
 ### What is a disability rating?
 
-We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate.
+We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate. Your compensation rate then determines how much money you’ll receive from us each month. 
 
 ### What does VA use to decide my disability rating?
 
 **We base your rating on:**
 
 - The evidence you give us (like a doctor’s report or medical test results), **and**
-- The results of your VA claim (C&P) exam (if we determine you need this exam), **and**
+- The results of your VA claim exam (also called a compensation and pension, or C&P, exam), if we determine you need this exam, **and**
 - Other information we may get from other sources (like federal agencies)
 
 ### What if I have more than one disability?
@@ -45,13 +46,13 @@ Read below to find out more about how we’ll calculate your combined disability
 
 ### How do ratings work for a disability I had before entering the service that got worse because of my service?
 
-If you get disability benefits for a disability that you had before entering the military that got worse because of your service (called a preservice claim), the amount of compensation (monthly payments) you’ll get will be based on the level of aggravation, or how much worse your service made your disability.
+If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation, or how much worse your service made your disability.
 
 For example, if you had an illness or injury (also known as a condition) that was 10% disabling when you entered the military, and it became 20% disabling due to service, then the level of aggravation would be 10%.
 
 ### Can I get increased payments if I have a severe disability or dependents?
 
-Yes. We may increase your monthly payments if one or more of these is true for you. You have a:
+Yes. We may increase your monthly payments if one or more of situations below is true for you. You have a:
 
 - Very severe disability or loss of limb, **or**
 - Spouse, child, or dependent parent and your combined disability is 30% or greater, **or**
@@ -64,9 +65,19 @@ Yes. Your compensation may end up being less than it otherwise would be if eithe
 - Receive military retirement pay, disability severance pay, or separation pay
 - Are incarcerated in a federal, state, or local facility for more than 60 days for conviction of a felony
 
-------
+### Do you give cost-of-living increases to disability payments?
 
-## How we determine combined ratings
+Yes. We’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the Social Security Administration’s (SSA) website. <br>
+[Go to the SSA website](http://www.socialsecurity.gov/cola/).
+
+### What happens after I get my disability rating?
+
+[Find out what to expect after you get your rating](/disability/about-disability-ratings/after-you-get-a-rating/).
+
+------
+<span id="combined"></a>
+
+## How we determine combined disability ratings
 
 If you have more than one disability, we’ll use the combing ratings table below to calculate your combined disability rating. 
 
@@ -255,6 +266,19 @@ To make this table easier to use online, we’ve separated it into smaller table
   <br>
   So in our example, we’ll look for 50 in the left column and 30 in the top row.
   
+|    | 10 | 20 | *30* | 40 | 50 | 60 | 70 | 80 | 90 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| ***50*** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 |
+| **51** | 56 | 61 | 66 | 71 | 76 | 80 | 85 | 90 | 95 |
+| **52** | 57 | 62 | 66 | 71 | 76 | 81 | 86 | 90 | 95 |
+| **53** | 58 | 62 | 67 | 72 | 77 | 81 | 86 | 91 | 95 |
+| **54** | 59 | 63 | 68 | 72 | 77 | 82 | 86 | 91 | 95 |
+| **55** | 60 | 64 | 69 | 73 | 78 | 82 | 87 | 91 | 96 |
+| **56** | 60 | 65 | 69 | 74 | 78 | 82 | 87 | 91 | 96 |
+| **57** | 61 | 66 | 70 | 74 | 79 | 83 | 87 | 91 | 96 |
+| **58** | 62 | 66 | 71 | 75 | 79 | 83 | 87 | 92 | 96 |
+| **59** | 63 | 67 | 71 | 75 | 80 | 84 | 88 | 92 | 96 |
+
   </li>
   <li class="process-step list-three">
   
@@ -262,10 +286,23 @@ To make this table easier to use online, we’ve separated it into smaller table
   <br>
   In our example, this would be 65.
   
+|    | 10 | 20 | *30* | 40 | 50 | 60 | 70 | 80 | 90 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| ***50*** | 55 | 60 | ***65*** | 70 | 75 | 80 | 85 | 90 | 95 |
+| **51** | 56 | 61 | 66 | 71 | 76 | 80 | 85 | 90 | 95 |
+| **52** | 57 | 62 | 66 | 71 | 76 | 81 | 86 | 90 | 95 |
+| **53** | 58 | 62 | 67 | 72 | 77 | 81 | 86 | 91 | 95 |
+| **54** | 59 | 63 | 68 | 72 | 77 | 82 | 86 | 91 | 95 |
+| **55** | 60 | 64 | 69 | 73 | 78 | 82 | 87 | 91 | 96 |
+| **56** | 60 | 65 | 69 | 74 | 78 | 82 | 87 | 91 | 96 |
+| **57** | 61 | 66 | 70 | 74 | 79 | 83 | 87 | 91 | 96 |
+| **58** | 62 | 66 | 71 | 75 | 79 | 83 | 87 | 92 | 96 |
+| **59** | 63 | 67 | 71 | 75 | 80 | 84 | 88 | 92 | 96 |
+  
   </li>
   <li class="process-step list-four">
   
-  <b>If you have 2 disabilities,</b> we’ll round the combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
+  <b>If you have 2 disabilities,</b> we’ll round that combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
   <br>
   So in our example, your combined disability rating would be 70%.
   
@@ -274,11 +311,31 @@ To make this table easier to use online, we’ve separated it into smaller table
   
   <b>If you have more than 2 disabilities,</b> we’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
   <br>
-  So in our example, your combined disability rating would be 70%. <br>
-  <br>
   For example, if we add a third disability, rated at 10% disabling, to our original example, we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row—and find the number where the left column and top row meet. In this example, that number would be 69. <br>
+<br>  
+|    | *10* | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| **60** | 64 | 68 | 72 | 76 | 80 | 84 | 88 | 92 | 96 |
+| **61** | 65 | 69 | 73 | 77 | 81 | 84 | 88 | 92 | 96 |
+| **62** | 66 | 70 | 73 | 77 | 81 | 85 | 89 | 92 | 96 |
+| **63** | 67 | 70 | 74 | 78 | 82 | 85 | 89 | 93 | 96 |
+| **64** | 68 | 71 | 75 | 78 | 82 | 86 | 89 | 93 | 96 |
+| ***65*** | ***69*** | 72 | 76 | 79 | 83 | 86 | 90 | 93 | 97 |
+| **66** | 69 | 73 | 76 | 80 | 83 | 86 | 90 | 93 | 97 |
+| **67** | 70 | 74 | 77 | 80 | 84 | 87 | 90 | 93 | 97 |
+| **68** | 71 | 74 | 78 | 81 | 84 | 87 | 90 | 94 | 97 |
+| **69** | 72 | 75 | 78 | 81 | 85 | 88 | 91 | 94 | 97 |
+
   <br>
   We would then round this number up to 70%, and this would be your combined disability rating.
   </li>
 </ol>
 
+## Get more information
+
+Watch our videos to learn more about how VA disability ratings and compensation work: <br>	
+[Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg)
+[Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
+[Compensation 101: What is service connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
+
+If you need help understanding your benefits or accessing services, please call us at <a href="tel:+18778271000">1-877-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET) 
