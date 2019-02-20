@@ -5,7 +5,7 @@ title: VA priority groups
 display_title: Priority Groups
 description: 
 plainlanguage: 
-lastupdate: 2019-02-12
+lastupdate: 2019-02-120
 collection: healthEligibility
 order: 1
 
@@ -14,16 +14,16 @@ order: 1
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-We want to make sure we can deliver full health care benefits and the highest quality care to all Veterans enrolled in the VA health care program. To help do this effectively, we enroll Veterans based on a priority system.  
+We use VA priority groups to help make sure that we can get care quickly to Veterans who need it most, and that we can deliver full health care benefits and the highest quality care to all Veterans enrolled in the VA health care program. 
 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How does my VA priority group affect my eligibility and benefits?</h2>
+<h2 itemprop="name">How do VA priority groups affect my eligibility and benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Your priority group helps to determine:
+**Your VA priority group helps to determine:**
 - How quickly you'll be enrolled in VA health care, **and**
 - Whether you'll need to pay copays for certain types of non-service-connected care and medications
 
@@ -148,15 +148,15 @@ If you're assigned to priority group 8, your eligibility for VA health care bene
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">Once I'm assigned to a priority group, will it ever change?</h2>
+<h2 itemprop="name">Once I'm assigned to a VA priority group, will it ever change?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Your priority group may change in some cases, such as if:
+**Your priority group may change in some cases, such as if:**
 - Your income changes, **or**
 - Your service-connected disability gets worse and we give you a higher disability rating
 
-<b>If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998 or were discharged from active duty on or after January 28, 2003,</b> you're eligible for enhanced benefits for 5 years after discharge. During this time, we'll assign you to priority group 6. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
+**If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998 or were discharged from active duty on or after January 28, 2003,** you're eligible for enhanced benefits for 5 years after discharge. During this time, we'll assign you to priority group 6. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
 
 </div>
 </div>
