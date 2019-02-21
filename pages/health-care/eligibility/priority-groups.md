@@ -58,7 +58,7 @@ If you qualify for more than one priority group, we'll assign you to highest one
 
 - Have a service-connected disability that we've rated as 50% or more disabling, **or**
 - Have a service-connected disability that we've concluded makes you unable to work (also called unemployable), **or**
-- Were awarded the Medal of Honor (MOH)
+- Received the Medal of Honor (MOH)
 
 <h3>Priority group 2</h3>
 
@@ -69,7 +69,7 @@ We may assign you to priority group 2 if you have a service-connected disability
 **We may assign you to priority group 3 if any of the below descriptions are true. You:**
 
 - Are a former prisoner of war (POW), **or**
-- Were awarded a Purple Heart medal, **or**
+- Received the Purple Heart medal, **or**
 - Were discharged for a disability that was caused by—or got worse because of—your active-duty service, **or**
 - Have a service-connected disability that we've rated as 10% or 20% disabling, **or**
 - Were awarded special eligibility classification under Title 38, U.S.C § 1151, "benefits for individuals disabled by treatment or vocational rehabilitation"
@@ -79,7 +79,7 @@ We may assign you to priority group 2 if you have a service-connected disability
 **We may assign you to priority group 4 if either of the below descriptions is true. You:**
 
 - Are receiving VA aid and attendance or housebound benefits, **or**
-- Have been determined by us to be catastrophically disabled
+- Have received a VA determination of being catastrophically disabled
 
 <h3>Priority group 5</h3>
 
