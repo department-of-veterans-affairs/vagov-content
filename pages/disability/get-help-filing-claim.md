@@ -13,9 +13,6 @@ relatedlinks:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
       title: Fully Developed Disability Claims
       description: Find out how to use the Fully Developed Claims program to get a faster decision on your claim by sending in all the evidence you have—or can easily get—when you file your claim.
-    - url: /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-      title: Decision Ready Claims Program
-      description: Find out if you can use the DRC program to get a decision on your claim in 30 days or less by working with an accredited VSO.
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge Claim
       description: If you have 90 to 180 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
@@ -135,27 +132,6 @@ You'll need to either use eBenefits or fill out a form and mail it in.
 
 If you're filling out one of the forms, you'll need to mail it to your nearest VA regional office. Please speak to the service organization or representative before you send your request. <br>
 [Find a VA regional office near you](/find-locations/).
-
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h3 itemprop="name">What's the Decision Ready Claims program?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-For certain types of claims, you may be able to work with your VSO to submit a claim that's decision-ready so you can get your claim processed as fast as possible.
-
-**To submit a DRC, you'll need to:**
-
-- Appoint and work with an accredited Veterans Service Organization (VSO), **and**
-- Gather all relevant and required evidence to support your claim, **and**
-- Attend a VA claim exam, if needed, before submitting your claim
-
-When you work with an accredited VSO and provide all the needed evidence with your application, you can get a decision on your claim in 30 days or less. <br>
-[Find out if you're eligible for the Decision Ready Claims program](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
 
 </div>
 </div>

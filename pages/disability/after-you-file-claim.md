@@ -36,8 +36,8 @@ Find out what happens to your claim after you file for disability compensation.
 ### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">109.6 days</span>
-<span class="description">Average number of days to complete disability-related claims in December 2018</span>
+<span class="number">131.9 days</span>
+<span class="description">Average number of days to complete disability-related claims in January 2019</span>
 </div>
 
 #### The amount of time it takes to review your claim depends on:
@@ -109,6 +109,12 @@ We’ll send you a packet by U.S. mail that includes details of the decision on 
 
 ### What should I do if I disagree with your decision on my claim?
 
-If you disagree with our decision, you can appeal it. The decision notice will have instructions on how to file an appeal. [File an appeal now](/disability/file-an-appeal/).
+If you disagree with our decision, you can appeal it.
+
+**If you received your decision before February 19, 2019,** you can start the appeals process by filing a Notice of Disagreement. <br>
+[Learn how to appeal your decision](/disability/file-an-appeal/).
+
+**If you received your decision after February 19, 2019,** you'll need to follow our new process for getting your decision reviewed. <br>
+[Learn how to get your decision reviewed](/decision-reviews/).
 
 <div markdown="0"><br></div>
