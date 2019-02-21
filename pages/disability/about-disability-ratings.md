@@ -41,7 +41,7 @@ We assign you a disability rating based on the severity of your disability. We u
 
 We’ll use a method called the “whole person theory” to determine what we call your combined disability rating. We do this to make sure that your total disability rating doesn’t add up to more than 100%. That’s because a person can’t be more than 100% able-bodied. 
 
-Read below to find out more about how we’ll calculate your combined disability rating using our combined ratings table. 
+Read below to find out more about how we’ll calculate your combined disability rating using our combined ratings table. <br>
 [Go to the combined ratings table](#combined)
 
 ### How do ratings work for a disability I had before entering the service that got worse because of my service?
