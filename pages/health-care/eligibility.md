@@ -10,6 +10,18 @@ collection: healthCare
 children: healthEligibility
 spoke: Get Benefits
 order: 2
+majorlinks:
+  heading: More eligibility information you may need
+  links:
+  - url: /health-care/eligibility/priority-groups/
+    title: Priority groups
+    description: Find out what VA priority groups are, how they work, and how they may affect you.
+  - url: https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp
+    title: Active duty service members
+    description: If you've received your separation or retirement orders, explore whether you may be eligible for TRICARE, VA health care, or both.
+  - url: https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp
+    title: Returning service members (OEF/OIF/OND)
+    description: If you served in a theater of combat operations after November 11, 1998, learn about your enhanced eligibility for health care benefits.
 widgets:
   - root: react-applicationStatus
     timeout: 20
@@ -54,8 +66,8 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
 
 </div>
@@ -85,7 +97,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
 
 **If none of the above apply to you**, you may still qualify for care based on your income. Learn more about how the amount of money your family makes can affect whether you qualify for VA benefits. <br>
-[Learn more about income limits](http://nationalincomelimits.vaftl.us/).
+[Learn more about income limits](http://nationalincomelimits.vaftl.us/)
 
 </div>
 </div>
@@ -101,7 +113,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
   <span id="spanishhelptext-1">
     <div class="additional-info-content">
       Llene la solicitud para Beneficions de Salud (Forma 10-10EZ).<br>
-      <a href="https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf">Obtenga la Forma VA 10-10EZ</a>.<br>
+      <a href="https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf">Obtenga la Forma VA 10-10EZ</a><br>
       Usted o alguien con poder legal para representarlo tiene que firmar la forma, e incluir la fecha en que fué firmada.<br>
       <ul>
         <li><b>Si esta usando un poder legal</b>, tendra que incluir una copia de la forma con su solicitud.</li>
@@ -115,7 +127,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
       <b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:<br>
       <a href="/find-locations/?facilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.<br>
       O reciba ayuda por medio del Departmaneto de Veteranos de su estado.<br>
-      <a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>.
+      <a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>
     </div>
   </span>
 </div>
@@ -128,12 +140,12 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 
 You can get help in any of these ways:
 
-- Call our toll-free hotline at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. (<abbr title="eastern time">ET</abbr>).
+- Call our toll-free hotline at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 - Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
-[Request a representative](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative).
+[Request a representative](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative)
 
-- [Find your state’s Veterans agency](https://www.va.gov/statedva.htm).
+- [Find your state’s Veterans agency](https://www.va.gov/statedva.htm)
 
 </div>
 </div>
@@ -166,17 +178,7 @@ You can get help in any of these ways:
 When you apply for VA health care, you’ll be assigned 1 of 8 priority groups. This system helps to make sure that Veterans who need immediate care can get signed up quickly.
 
 Your priority group may affect how soon we sign you up for health care benefits. It may also affect how much (if anything) you’ll have to pay toward the cost of your care.<br/>
-[Learn more about health benefit copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
-
-**Your priority group will be based on:**
-
-- Your military service history, **and**
-- Your disability rating, **and**
-- Your income level, **and**
-- Whether or not you qualify for Medicaid, **and**
-- Other benefits you may be receiving (like pension benefits)
-
-We assign Veterans with service-connected disabilities the highest priority. We assign the lowest priority to Veterans who earn a higher income and who don’t have any service-connected disabilities qualifying them for disability compensation (monthly payments).<br/>
+[Learn more about priority groups](/health-care/eligibility/priority-groups)
 
 </div>
 </div>
@@ -192,7 +194,7 @@ We assign Veterans with service-connected disabilities the highest priority. We 
 <div itemprop="text">
 
 No. Whether or not you have other health insurance coverage doesn’t affect the VA health care benefits you can get. <br/>
-[Learn more about how VA works with other insurance](/health-care/about-va-health-benefits/va-health-care-and-other-insurance/).
+[Learn more about how VA works with other insurance](/health-care/about-va-health-benefits/va-health-care-and-other-insurance/)
 
 </div>
 </div>
@@ -214,7 +216,7 @@ No. Whether or not you have other health insurance coverage doesn’t affect the
 
 **If you're an OEF/OIF/OND combat Veteran who has just returned from service,** you can receive free medical care for any condition related to your service in Iraq or Afghanistan for 5 years after discharge.
 
-[Learn more about health care benefits for transitioning service members](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp).
+[Learn more about health care benefits for transitioning service members](https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp)
 
 </div>
 </div>
@@ -229,7 +231,7 @@ No. Whether or not you have other health insurance coverage doesn’t affect the
 <div itemprop="text">
 
 Visit healthcare.gov to find out if you qualify for health insurance.<br/>
-[Go to healthcare.gov](https://www.healthcare.gov/). <br/>
+[Go to healthcare.gov](https://www.healthcare.gov/) <br/>
 
 </div>
 </div>
@@ -267,7 +269,7 @@ Or, call our general VA hotline at <a href="tel:+1-800-827-1000">1-800-827-1000<
 <div itemprop="text">
 
 We cover routine eye exams and preventive tests under VA health care benefits. In some cases, you may get coverage for eyeglasses or services for blind or low vision rehabilitation. <br/>
-[Learn more about vision care through VA](/health-care/about-va-health-benefits/vision-care/).
+[Learn more about vision care through VA](/health-care/about-va-health-benefits/vision-care/)
 
 </div>
 </div>
@@ -283,7 +285,7 @@ We cover routine eye exams and preventive tests under VA health care benefits. I
 <div itemprop="text">
 
 In certain cases, you may receive dental care as part of your VA health benefits. <br/>
-[Find out if you can get dental care through VA](/health-care/about-va-health-benefits/dental-care/).
+[Find out if you can get dental care through VA](/health-care/about-va-health-benefits/dental-care/)
 
 </div>
 </div>
@@ -299,7 +301,7 @@ In certain cases, you may receive dental care as part of your VA health benefits
 <div itemprop="text">
 
 If you have an illness or injury that was caused—or made worse—by your active-duty service, you may be able to get disability compensation. <br/>
-[Find out if you qualify for disability benefits](/disability/eligibility/).
+[Find out if you qualify for disability benefits](/disability/eligibility/)
 
 </div>
 </div>
