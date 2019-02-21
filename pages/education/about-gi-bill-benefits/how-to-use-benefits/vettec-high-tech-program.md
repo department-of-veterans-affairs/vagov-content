@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veteran Employment through Technology Education Courses (Vet Tec) Program 
+title: Veteran Employment through Technology Education Courses (VET TEC) Program 
 display_title: Vet Tec Program
 description: 
 concurrence: incomplete
@@ -11,44 +11,61 @@ order: 7
 
 <div class="va-introtext">
 
-If you’re interested in taking a high-tech course or in employment in a high-tech career, you may be eligible for Vet Tec, a new VA education program that lets you use your existing GI Bill benefits to enroll in high-tech training programs.  
+If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new VET TEC program. 
 
 </div>
 
+## What is VET TEC?
+
+VET TEC is our new pilot program that matches Veterans with leading training providers to gain the skills and expertise they need to start or advance their career in the high-tech industry in as little as 6 months.
+
+To use the VET TEC program, all you need is one unexpired day of GI Bill entitlement. And your VET TEC training won't count against your GI Bill benefits.
+
 <div class="feature" markdown="1">
 
-### Can I get this education benefit?
+### Am I eligible for this program?
 
-You can get this benefit if you meet the requirements listed below: 
--	You’re a Veteran or inactive-duty Reservist or National Guard member, **and**
--	You qualify for VA education assistance under the GI Bill or currently receive GI Bill benefits. <br>
+You may be eligible for VET TEC if you meet all of the requirements listed below.
 
-You aren’t eligible for the Vet Tec program while you’re on active duty. 
+**All of these must be true. You:**
+-	Are a Veteran or inactive-duty Reservist or National Guard member, **and**
+-	Qualify for VA education assistance under the GI Bill or currently receive GI Bill benefits, **and**
+- Have at least one day of unexpired GI Bill entitlement 
+
+**Note:** You aren’t eligible for VET TEC while you’re on active duty. 
 
 <br>
 </div>
 
+## What types of training does VET TEC cover?
 
-## What programs are covered by Vet Tec?
-
-With the Vet Tec pilot program, you can use your GI Bill benefits to enroll in one of these training programs: 
+With VET TEC, you can get training in one of these high-demand training areas:
 -	Computer software
+-	Computer programming 
+-	Data processing 
 -	Information science 
 -	Media application
--	Data processing 
--	Computer programming 
 
 ## What benefits can I get under the Vet Tec program? 
 
--	Tuition for full-time high-tech training program
--	Money for housing
+-	Tuition for a full-time high-tech training program
+-	Money for housing during your training
 
 ---------
 
-## How do I get these benefits? 
+## How do I enroll in VET TEC?
 
-You’ll need to apply by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
+First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
 
-If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).
+If we determine that you're eligible for VET TEC, you'll need to apply to the VA-approved training provider of your choice. Your training provider may assess your qualifications to help determine whether you'll likely successfully complete their training program and find meaningful, relevant employment. <br>
+[View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
 
-[Apply for education benefits](/education/how-to-apply/).
+**Note:** If you haven’t already applied for VA education benefits, you’ll need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
+[Apply for education benefits](/education/how-to-apply/)
+
+### Get more information
+
+If you have questions about the program or how to apply:
+
+- Call us at 1-888-GIBILL1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
+- Or email us at [VETTEC.VBABUF@va.gov](mailto:VETTEC.VBABUF@va.gov).
