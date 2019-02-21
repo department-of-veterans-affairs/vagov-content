@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Upload Evidence to Support Your Disability Claim
-display_title: Upload Evidence to Support Your Claim
+display_title: Upload Evidence to Support Your Disability Claim
 description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
 collection:
@@ -102,7 +102,7 @@ You can search for DBQs to download by form name or by symptom. <br>
 
 ### Any Additional Forms Needed to Support Your Claim
 
-In some cases, you may need to turn in one or more additional forms to support your disability claim.
+In some cases, you may need to turn in one or more additional forms to support your disability claim. <br>
 [See if you need to complete any additional forms](/disability/how-to-file-claim/supplemental-forms/).
 </div>
 </div>
