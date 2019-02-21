@@ -185,6 +185,9 @@ If you're assigned to priority group 8, your eligibility for VA health care bene
 - Your income changes, **or**
 - Your service-connected disability gets worse and we give you a higher disability rating
 
+[Update your income or other health benefits information](/health-care/update-health-information/)
+[File for increased disability compensation](/disability-benefits/apply/form-526-disability-claim/introduction)
+
 **If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998 or were discharged from active duty on or after January 28, 2003,** you're eligible for enhanced benefits for 5 years after discharge. During this time, we'll assign you to priority group 6. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
 
 </div>
