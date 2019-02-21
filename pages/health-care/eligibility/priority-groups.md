@@ -128,7 +128,7 @@ If you're assigned to priority group 8, your eligibility for VA health care bene
 
 <h5>Sub priority a</h5>
 <ul>
-  <li>You have a non-compensable service-connected condition that we've rated as 0% disabling, <b>and</b></ul>
+  <li>You have a non-compensable service-connected condition that we've rated as 0% disabling, <b>and</b></li>
   <li>You enrolled in the VA health care program before January 16, 2003, <b>and</b></li>
   <li>You've remained enrolled since that date and/or were placed in this sub priority group because your eligibility status changed</li>
 </ul>
