@@ -277,6 +277,8 @@ You'll need to submit medical evidence that shows the child became permanently d
 </ul>
 
 <br>
+**Note:** This information serves as a 5103 Notice about the medical and supporting evidence you’ll need to provide to support your disability claim.<br>
+
 
 [Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).<br>
 
