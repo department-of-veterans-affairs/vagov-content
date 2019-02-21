@@ -28,7 +28,7 @@ When you apply for VA health care, we’ll assign you to 1 of 8 priority groups.
 **Your priority group may affect:**
 - How soon we sign you up for health care benefits, **and**
 - How much (if anything) you’ll have to pay toward the cost of your care <br>
-[Learn more about your health care costs](https:va.gov/HEALTHBENEFITS/cost/copay_rates.asp)
+[Learn more about your health care costs](https:va.gov/HEALTHBENEFITS/cost/copay_rates.asp) <br>
 [View current VA copay rates](https:va.gov/HEALTHBENEFITS/cost/copay_rates.asp)
 
 </div>
@@ -119,40 +119,59 @@ We may assign you to priority group 2 if you have a service-connected disability
 
 If you're assigned to priority group 8, your eligibility for VA health care benefits will depend on which subpriority group we place you in.
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="subgroups">View the criteria for the priority 8 subgroups</button>
+<div id="subgroups" class="usa-accordion-content">
+
 <h4>You may be eligible for VA health care benefits if we place you in one of these sub priority groups:</h4>
 
 <h5>Sub priority a</h5>
-- You have a non-compensable service-connected condition that we've rated as 0% disabling, **and**
-- You enrolled in the VA health care program before January 16, 2003, **and**
-- You've remained enrolled since that date and/or were placed in this sub priority group because your eligibility status changed
+<ul>
+  <li>You have a non-compensable service-connected condition that we've rated as 0% disabling, <b>and</b></ul>
+  <li>You enrolled in the VA health care program before January 16, 2003, <b>and</b></li>
+  <li>You've remained enrolled since that date and/or were placed in this sub priority group because your eligibility status changed</li>
+</ul>
 
 <h5>Sub priority group b</h5>
-- You have a non-compensable service-connected condition that we've rated as 0% disabling, **and**
-- You enrolled in the VA health care program on or after June 15, 2009, **and**
-- Your income exceeds current VA or geographic limits by 10% or less
+<ul>
+  <li>You have a non-compensable service-connected condition that we've rated as 0% disabling, <b>and</b></li>
+  <li>You enrolled in the VA health care program on or after June 15, 2009, <b>and</b></li>
+  <li>Your income exceeds current VA or geographic limits by 10% or less</li>
+</ul>
 
 <h5>Sub priority group c</h5>
-- You don't have a service-connected condition, **and**
-- You enrolled in the VA health care program as of January 16, 2003, **and**
-- You've remained enrolled since that date and/or were placed in this sub priority group because your eligibility status changed
+<ul>
+  <li>You don't have a service-connected condition, <b>and</b></li>
+  <li>You enrolled in the VA health care program as of January 16, 2003, <b>and</b></li>
+  <li>You've remained enrolled since that date and/or were placed in this sub priority group because your eligibility status changed</li>
+</ul>
 
-<h5>Sub priority group d:</h5>
-- You don't have a service-connected condition, **and**
-- You enrolled in the VA health care program on or after June 15, 2009, **and**
-- Your income exceeds current VA or geographic limits by 10% or less
+<h5>Sub priority group d</h5>
+<ul>
+  <li>You don't have a service-connected condition, <b>and</b></li>
+  <li>You enrolled in the VA health care program on or after June 15, 2009, <b>and</b></li>
+  <li>Your income exceeds current VA or geographic limits by 10% or less</li>
+</ul>
 
-**You're not eligible for VA health care benefits if we place you in one of these sub priority groups:**
+<h4>You're not eligible for VA health care benefits if we place you in one of these sub priority groups:</h4>
 
 <h5>Sub priority group e</h5>
-- You have a non-compensable service-connected condition that we've rated as 0% disabling, **and**
-- You don't meet the criteria for sub priority group a or b above
+<ul>
+  <li>You have a non-compensable service-connected condition that we've rated as 0% disabling, <b>and</b></li>
+  <li>You don't meet the criteria for sub priority group a or b above</li>
+</ul>
 
-**Note:** You're eligible for care for your service-connected condition only.
+<b>Note:</b> You're eligible for care for your service-connected condition only.
 
 <h5>Sub priority group g</h5>
-- You don't have a service-connected condition, **and**
-- You don't meet the criteria for sub priority group c or d above
-
+<ul>
+  <li>You don't have a service-connected condition, <b>and</b></li>
+  <li>You don't meet the criteria for sub priority group c or d above</li>
+</ul>
+</div>
+</li>
+</ul>
 </div>
 </div>
 </div>
