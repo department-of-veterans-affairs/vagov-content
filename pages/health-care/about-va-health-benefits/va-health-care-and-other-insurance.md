@@ -45,7 +45,7 @@ We don’t bill Medicare or Medicaid, but we may bill Medicare supplemental heal
 ### What if my health insurance provider doesn’t cover all the non-service-connected care that VA bills them for?
 
 You won’t have to pay any unpaid balance not covered by your health insurance provider. But, depending on your eligibility priority group, you may have to pay a VA copayment for non-service-connected care. <br>
-[Learn more about eligibility priority groups](https://www.va.gov/healthbenefits/resources/publications/hbco/hbco_enrollment_eligibility.asp).
+[Learn more about eligibility priority groups](/health-care/eligibility/priority-groups/).
 
 <br>
 
