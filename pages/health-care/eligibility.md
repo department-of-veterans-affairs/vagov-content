@@ -25,7 +25,7 @@ Find out if you can get VA health care as a Veteran.
 
 <div class="feature" markdown=“1” itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Can I get VA health care benefits?</h3>
+<h3 itemprop="name"> How can I get VA health care benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
