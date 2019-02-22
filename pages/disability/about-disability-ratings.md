@@ -57,7 +57,6 @@ For example, if you had an illness or injury (also known as a condition) that wa
 Yes. We may increase or decrease your compensation amount in certain situations. <br>
 [Learn more about compensation rates](/disability/compensation-rates)
 
-
 ### What happens after I get my disability rating?
 
 [Find out what to expect after you get your rating](/disability/about-disability-ratings/after-you-get-a-rating/)
@@ -238,6 +237,8 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 </ul>
 
+[Download the full combined ratings table (pdf)](https://www.benefits.va.gov/compensation/rates-index.asp)
+
 ### How we use the combined ratings table
 
 <b>We’ll follow these steps to use calculate your combined rating:</b>
@@ -296,16 +297,15 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **64** | 68 | 71 | 75 | 78 | 82 | 86 | 89 | 93 | 96 |
 | ***65*** | ***69*** | 72 | 76 | 79 | 83 | 86 | 90 | 93 | 97 |
 
-  <br>
-  We would then round this number up to 70%, and this would be your combined disability rating.
+<br>
+We would then round this number up to 70%, and this would be your combined disability rating.
   </li>
 </ol>
-
 ## Get more information
 
 Watch our videos to learn more about how VA disability ratings and compensation work: <br>	
-[Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg)
-[Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
+[Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg) <br>
+[Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc) <br>
 [Compensation 101: What is service connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
 
 If you need help understanding your benefits or accessing services, please call us at <a href="tel:+18778271000">1-877-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. 
