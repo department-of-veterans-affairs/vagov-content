@@ -58,7 +58,7 @@ social:
         - url: https://www.instagram.com/deptvetaffairs/
           label: VA Instagram
           icon: fa-instagram
-relatedlinks:
+crosslinks:
   - heading: Help a Veteran or service member get and manage their benefits
   - links:
       - url: /records/
@@ -165,7 +165,7 @@ As the family member of a Veteran or service member, you may qualify for certain
 <ul>
   <li><a href="#spouse">General benefits for spouses and dependent children</a></li>
   <li><a href="#survivor">Benefits for survivors</a></li>
-  <li><a href="#caregiver">Benefits and services to help family members care, and manage benefits, for a Veteran</a></li>
+  <li><a href="#caregiver">Benefits and services for family members caring for a Veteran or service member</a></li>
 </ul>
 
 <div class="usa-alert usa-alert-warning">
