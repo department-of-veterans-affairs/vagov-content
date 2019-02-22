@@ -267,7 +267,7 @@ You'll need to submit medical evidence that shows the child became permanently d
 
 <br>
 
-**Note:** We’re required by law to tell you the evidence you’ll need to provide to support your disability claim. The information above serves as this notification (called “section 5103 notice”). <br>
+**Note:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information above serves as this notification (called “section 5103 notice”). <br>
 
 [View the evidence requirements listed on the form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf). <br>
 
