@@ -13,21 +13,6 @@ promo:
     heading: VA Caregiver Support Program
     url: https://www.caregiver.va.gov/
     description: Find out how to get the support you need to care for a Veteran.
-crosslinks:
-  - heading: Other VA services for family members
-    links:
-    - url: /records/
-      title: Veteran records and documents 
-      description: Learn how to access VA benefit letters, medical records, ID cards, and other Veteran records.
-    - url: https://www.socialwork.va.gov/fisher.asp
-      title: Fisher House Program
-      description: Learn about free, temporary accomodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
-    - url: https://www.benefits.va.gov/fiduciary/index.asp
-      title: Fiduciary program
-      description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.
-    - url: https://www.mirecc.va.gov/coaching/
-      title: Coaching Into Care
-      description: Connect with a licensed pyschologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community. 
 social:
   - heading: Ask questions
     subsections:
@@ -73,33 +58,45 @@ social:
         - url: https://www.instagram.com/deptvetaffairs/
           label: VA Instagram
           icon: fa-instagram
+crosslinks:
+  - heading: Benefits for Veterans and service members
+  - links:
+    - url: "/health-care/"
+      title: <b>VA health care for Veterans</b>
+      description: Health care benefits, and online health management tools, for Veterans with service-connected disabilities or who meet other eligibility requirements.
+    - url: "/disability/"
+      title: <b>Disability compensation</b>
+      description: Monthly payments, and online benefit management tools, for conditions related to military service.
+    - url: "/education/"
+      title: <b>Education and training</b>
+      description: Help with paying for college and training programs, plus online tools to track and manage benefits over time.
+    - url: "/pension/how-to-apply/"
+      title: <b>Veterans pension</b>
+      description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
+    - url: "/housing-assistance/"
+      title: <b>Housing assistance for Veterans and service members</b>
+      description: Home loan programs for Veterans and servicemembers as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as indepently as possible.
+    - url: "/life-insurance/"
+      title: <b>Life insurance</b>
+      description: Life insurance options, and online policy management tools, for Veterans and their families.
 hublinks:
   - id: "spouse"
-    title: Benefits for spouses and dependent children
+    title: General benefits for spouses and dependent children
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you qualify for health care through VA or the Department of Defense. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran's service.
+        description: Find out if you qualify for health care through VA or the Department of Defense. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran's service. If you already have health care through VA, find out how to manage your health and benefits.
       - url: /education/survivor-dependent-benefits/
         label: Education and training
         description: Learn how to apply for help with paying for school or training as the dependent or surviving spouse or child of a Veteran, and how your Veteran sponsor may transfer some of their Post-9/11 GI Bill benefits to you if they don't use them all.
-      - url: /pension/survivors-pension/
-        label: Survivors pension 
-        description: Find out if you’re eligible and how to apply for a survivors pension as a surviving spouse or child of a deceased Veteran with wartime service.
-      - url: /housing-assistance/home-loans/spouses/
-        label: Home loan programs for spouses
-        description: If you're the surviving spouse of a Veteran or the spouse of a service member who is missing in action or is a prisoner of war (POW), learn about VA home loan programs to buy, build, repair, or refinance a home. 
       - url: /life-insurance/
         label: Life insurance
         description: Learn how to get Family Servicemembers' Group Life Insurance (FSGLI) coverage for your family. And explore other options such as getting accelerated benefits in the case of terminal illness or mortgage protection insurance for a home that's been adapted to meet the needs of a Veteran with service-connected disabilities.
       - url: /burials-memorials/pre-need-eligibility/
         label: Burial in a VA national cemetery
         description: Apply in advance for eligibility to be buried in a VA national cemetery to make the burial planning process easier for your family members in their time of need.
-      - url: /burials-memorials/ 
-        label: Burial benefits and memorial items
-        description: Learn about burial planning at time of need, as well as how to apply for burial benefits and memorial items to honor the service of a Veteran or Reservist. 
   - id: "survivor"
-    title: Benefits survivors may need
+    title: Benefits for survivors
     links: 
       - url: /burials-memorials/ 
         label: Burial benefits and memorial items
@@ -135,14 +132,25 @@ hublinks:
         label: Survivors' and Dependents' Education Assistance Program
         description: Find out if you're eligible and how to apply for help with paying for school or job training through this program (also known as Chapter 35).
   - id: "caregiver"
-    title: Benefits Family Caregivers May Need
+    title: Benefits and services for family members caring for a Veteran or service member
     links:
+      - url: https://www.benefits.va.gov/fiduciary/index.asp
+        label: Fiduciary program
+        description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
+      - url: https://www.socialwork.va.gov/fisher.asp
+        label: Fisher House program
+        description: Learn about free, temporary accomodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
+      - url: https://www.mirecc.va.gov/coaching/
+        label: Coaching into care
+        description: Connect with a licensed pyschologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community. 
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
         label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out if you're eligible and how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
-        label: VA Caregiver Support Program
-        description: Learn how to access training, educational resoures, tools, and advice to help support you in caring for a Veteran family member.     
+        label: VA caregiver support program
+        description: Learn how to access training, educational resoures, tools, and advice to help support you in caring for a Veteran family member.
+      
+        
 ---
 
 <p class="va-introtext">
@@ -152,9 +160,9 @@ As the family member of a Veteran or service member, you may qualify for certain
 <h3>On this page</h3>
 
 <ul>
-  <li><a href="#spouse">Benefits for spouses and dependent children</a></li>
-  <li><a href="#survivor">Benefits survivors may need</a></li>
-  <li><a href="#caregiver">Benefits family caregivers may nNeed</a></li>
+  <li><a href="#spouse">General benefits for spouses and dependent children</a></li>
+  <li><a href="#survivor">Benefits for survivors</a></li>
+  <li><a href="#caregiver">Benefits and services for family members caring for a Veteran or service member</a></li>
 </ul>
 
 <div class="usa-alert usa-alert-warning">
