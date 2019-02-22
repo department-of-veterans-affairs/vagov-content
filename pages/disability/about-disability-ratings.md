@@ -63,7 +63,6 @@ Yes. We may increase or decrease your compensation amount in certain situations.
 
 ------
 <span id="combined"></a>
-
 ## How we determine combined disability ratings
 
 If you have more than one disability, we’ll use the combined ratings table below to calculate your combined disability rating. 
@@ -301,6 +300,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 We would then round this number up to 70%, and this would be your combined disability rating.
   </li>
 </ol>
+
 ## Get more information
 
 Watch our videos to learn more about how VA disability ratings and compensation work: <br>	
