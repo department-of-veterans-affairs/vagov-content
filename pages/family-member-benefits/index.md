@@ -10,7 +10,7 @@ order: 1
 hub: family-member
 promo:
   - image: 
-    heading: VA Caregiver Support Program
+    heading: VA caregiver support program
     url: https://www.caregiver.va.gov/
     description: Find out how to get the support you need to care for a Veteran.
 social:
@@ -75,7 +75,7 @@ crosslinks:
       description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
     - url: "/housing-assistance/"
       title: <b>Housing assistance for Veterans and service members</b>
-      description: Home loan programs for Veterans and servicemembers as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as indepently as possible.
+      description: Home loan programs for Veterans and service members as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as independently as possible.
     - url: "/life-insurance/"
       title: <b>Life insurance</b>
       description: Life insurance options, and online policy management tools, for Veterans and their families.
@@ -85,7 +85,7 @@ hublinks:
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you qualify for health care through VA or the Department of Defense. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran's service. If you already have health care through VA, find out how to manage your health and benefits.
+        description: Find out if you qualify for health care through CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs) or the Department of Defense's TRICARE program. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran's service. If you already have health care through VA, find out how to manage your health and benefits.
       - url: /education/survivor-dependent-benefits/
         label: Education and training
         description: Learn how to apply for help with paying for school or training as the dependent or surviving spouse or child of a Veteran, and how your Veteran sponsor may transfer some of their Post-9/11 GI Bill benefits to you if they don't use them all.
@@ -134,22 +134,21 @@ hublinks:
   - id: "caregiver"
     title: Benefits and services for family members caring for a Veteran or service member
     links:
-      - url: https://www.benefits.va.gov/fiduciary/index.asp
-        label: Fiduciary program
-        description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
-      - url: https://www.socialwork.va.gov/fisher.asp
-        label: Fisher House program
-        description: Learn about free, temporary accomodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
-      - url: https://www.mirecc.va.gov/coaching/
-        label: Coaching into care
-        description: Connect with a licensed pyschologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community. 
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
         label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out if you're eligible and how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
         label: VA caregiver support program
-        description: Learn how to access training, educational resoures, tools, and advice to help support you in caring for a Veteran family member.
-      
+        description: Learn how to access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
+      - url: https://www.benefits.va.gov/fiduciary/index.asp
+        label: Fiduciary program
+        description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
+     - url: https://www.socialwork.va.gov/fisher.asp
+        label: Fisher House program
+        description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
+      - url: https://www.mirecc.va.gov/coaching/
+        label: Coaching into care
+        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community.       
         
 ---
 
@@ -179,7 +178,7 @@ As the family member of a Veteran or service member, you may qualify for certain
           <li>Text <a href="sms:838255">838255</a>.</li>
           <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
         </ul>
-        <p>If you're concerned about a Veteran who's homeless or at risk of becomming homeless, we offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.</p>
+        <p>If you're concerned about a Veteran who's homeless or at risk of becoming homeless, we offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.</p>
         <p><strong>Get the support you need:</strong></p>
         <ul>
           <li>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.</li>
