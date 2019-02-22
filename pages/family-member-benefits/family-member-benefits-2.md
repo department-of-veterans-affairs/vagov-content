@@ -59,7 +59,7 @@ social:
           label: VA Instagram
           icon: fa-instagram
 crosslinks:
-  - heading: Help a Veteran or service member get and manage their benefits
+  - heading: Benefits for Veterans and service members
   - links:
     - url: "/health-care/"
       title: <b>VA health care for Veterans</b>
