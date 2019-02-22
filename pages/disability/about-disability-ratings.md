@@ -27,7 +27,9 @@ Find out how we determine your VA disability rating, and what happens if you hav
 
 ### What is a VA disability rating?
 
-We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate. Your compensation rate then determines how much money you’ll receive from us each month. 
+We assign you a disability rating based on the severity of your disability. We express this rating as a percentage, representing the percentage of impairment from your overall health and ability to function.
+
+We then use your disability rating to determine your disability compensation rate. Your compensation rate then determines how much money you’ll receive from us each month. We also use your disability rating to help determine your eligibility for other benefits, like VA health care.
 
 ### What does VA use to decide my disability rating?
 
@@ -65,11 +67,13 @@ Yes. We may increase or decrease your compensation amount in certain situations.
 
 ## How we determine combined disability ratings
 
-If you have more than one disability, we’ll use the combing ratings table below to calculate your combined disability rating. 
+If you have more than one disability, we’ll use the combined ratings table below to calculate your combined disability rating. 
 
 To make this table easier to use online, we’ve separated it into smaller tables, based on the percentage of the most severe, or highest rated, disability (as shown in left column of each table). 
 
 **Note:** If you have 2 disabilities, each rated at 10% disabling, your combined disability rating is 19%. 
+
+### Combined ratings table
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
@@ -233,6 +237,8 @@ To make this table easier to use online, we’ve separated it into smaller table
 </div>
 </li>
 </ul>
+
+### How we use the combined ratings table
 
 <b>We’ll follow these steps to use calculate your combined rating:</b>
 
