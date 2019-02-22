@@ -61,27 +61,24 @@ social:
 crosslinks:
   - heading: Help a Veteran or service member get and manage their benefits
   - links:
-      - url: /records/
-        label: Veteran records and documents 
-        description: Learn how to access VA benefit letters, medical records, ID cards, and other Veteran records.
-      - url: /health-care/
-        label: VA health care for Veterans
-        description: Health care benefits, and online health management tools, for Veterans with service-connected disabilities or who meet other eligibility requirements.
-      - url: /disability/
-        label: Disability compensation
-        description: Monthly payments, and online benefit management tools, for conditions related to military service.
-      - url: /education/
-        label: Education and training
-        description: Help with paying for college and training programs, plus online tools to track and manage benefits over time.
-      - url: /pension/how-to-apply/
-        label: Veterans pension
-        description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
-      - url: /housing-assistance/
-        label: Housing assistance for Veterans and service members
-        description: Home loan programs for Veterans and servicemembers as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as indepently as possible.
-      - url: /life-insurance/
-        label: Life insurance
-        description: Life insurance options, and online policy management tools, for Veterans and their families.
+    - url: "/health-care/"
+      title: <b>VA health care for Veterans</b>
+      description: Health care benefits, and online health management tools, for Veterans with service-connected disabilities or who meet other eligibility requirements.
+    - url: "/disability/"
+      title: <b>Disability compensation</b>
+      description: Monthly payments, and online benefit management tools, for conditions related to military service.
+    - url: "/education/"
+      title: <b>Education and training</b>
+      description: Help with paying for college and training programs, plus online tools to track and manage benefits over time.
+    - url: "/pension/how-to-apply/"
+      title: <b>Veterans pension</b>
+      description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
+    - url: "/housing-assistance/"
+      title: <b>Housing assistance for Veterans and service members</b>
+      description: Home loan programs for Veterans and servicemembers as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as indepently as possible.
+    - url: "/life-insurance/"
+      title: <b>Life insurance</b>
+      description: Life insurance options, and online policy management tools, for Veterans and their families.
 hublinks:
   - id: "spouse"
     title: General benefits for spouses and dependent children
