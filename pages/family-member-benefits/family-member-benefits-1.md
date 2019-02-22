@@ -116,7 +116,7 @@ hublinks:
       - url: https://www.benefits.va.gov/fiduciary/index.asp
         label: Fiduciary program
         description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
-     - url: /records/
+      - url: /records/
         label: Veteran records and documents 
         description: Learn how to access VA benefit letters, medical records, ID cards, and other Veteran records.
       - url: https://www.socialwork.va.gov/fisher.asp
@@ -140,7 +140,7 @@ hublinks:
       - url: /pension/aid-attendance-housebound/
         label: VA aid and attendance benefits and housebound allowance
         description: If the Veteran you're caring for receives a Veterans pension and needs help with daily activities, or is housebound, find out if they may qualify for may qualify for added monthly payments.
-       - url: /life-insurance/
+      - url: /life-insurance/
         label: Life insurance
         description: Learn about life insurance options for Veterans who are totally disabled, as well as how to get advance benefits if the Veteran you're caring for has a terminal illness.
   
