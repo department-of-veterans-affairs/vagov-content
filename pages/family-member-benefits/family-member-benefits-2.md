@@ -73,7 +73,7 @@ crosslinks:
       - url: /education/
         label: Education and training
         description: Help with paying for college and training programs, plus online tools to track and manage benefits over time.
-      - url: /pension/veterans-pension/
+      - url: /pension/how-to-apply/
         label: Veterans pension
         description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
       - url: /housing-assistance/
