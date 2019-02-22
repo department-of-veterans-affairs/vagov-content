@@ -92,8 +92,8 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **28** | 35 | 42 | 50 | 57 | 64 | 71 | 78 | 86 | 93 |
 | **29** | 36 | 43 | 50 | 57 | 65 | 72 | 79 | 86 | 93 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.</div>
-
+<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+</div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-39">30% to 39% disabling</button>
@@ -113,7 +113,6 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **39** | 45 | 51 | 57 | 63 | 70 | 76 | 82 | 88 | 94 |
 
 <b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
-
 </div>
 </li>
 <li>
@@ -134,7 +133,6 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **49** | 54 | 59 | 64 | 69 | 75 | 80 | 85 | 90 | 95 |
 
 <b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
-
 </div>
 </li>
 <li>
@@ -195,7 +193,6 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **79** | 81 | 83 | 85 | 87 | 90 | 92 | 94 | 96 | 98 |
 
 <b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
-
 </div>
 </li>
 <li>
@@ -231,7 +228,6 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **94** | 95 | 95 | 96 | 96 | 97 | 98 | 98 | 99 | 99 |
 
 <b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
-
 </div>
 </li>
 </ul>
