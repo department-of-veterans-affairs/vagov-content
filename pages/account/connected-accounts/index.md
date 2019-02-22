@@ -2,7 +2,6 @@
 title: Connected Accounts
 layout: page-react.html
 entryname: connected-accounts
-preview: true
 vagovstaging: true
 vagovprod: true
 ---
