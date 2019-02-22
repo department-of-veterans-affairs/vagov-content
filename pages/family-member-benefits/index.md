@@ -10,7 +10,7 @@ order: 1
 hub: family-member
 promo:
   - image: 
-    heading: VA caregiver support program
+    heading: VA Caregiver Support Program
     url: https://www.caregiver.va.gov/
     description: Find out how to get the support you need to care for a Veteran.
 social:
@@ -138,16 +138,16 @@ hublinks:
         label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out if you're eligible and how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
-        label: VA caregiver support program
+        label: VA Caregiver Support Program
         description: Learn how to access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
       - url: https://www.benefits.va.gov/fiduciary/index.asp
-        label: Fiduciary program
+        label: VA Fiduciary Program
         description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
       - url: https://www.socialwork.va.gov/fisher.asp
-        label: Fisher House program
+        label: Fisher House Program
         description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
       - url: https://www.mirecc.va.gov/coaching/
-        label: Coaching into care
+        label: Coaching Into Care 
         description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community.       
         
 ---
