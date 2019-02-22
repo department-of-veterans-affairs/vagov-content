@@ -57,7 +57,7 @@ In some cases, you may need to turn in one or more additional forms to support y
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF">Download VA Form 21-0781</a>.</p>
         <p><strong>Or</strong></p>
         <p>You can fill out VA Form 21-0781 when you file a disability claim online.</p>
-        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
+        <p>[File a disability compensation claim](/disability/file-disability-claim-form-21-526ez/).</p>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ In some cases, you may need to turn in one or more additional forms to support y
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf">Download VA Form 21-0781a</a>.</p>
         <p><strong>Or</strong></p>
         <p>You can fill out VA Form 21-0781a when you file a disability claim online.</p>
-        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
+        <p>[File a disability compensation claim](/disability/file-disability-claim-form-21-526ez/).</p>
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ In some cases, you may need to turn in one or more additional forms to support y
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf">Download VA Form 21-4142</a>.</p>
         <p><strong>Or</strong></p>
         <p>You can fill out VA Form 21-4142 when you file a disability claim online.</p>
-        <p>[File a disability compensation claim](/disability-benefits/apply/form-526-all-claims/).</p>
+        <p>[File a disability compensation claim](/disability/file-disability-claim-form-21-526ez/).</p>
     </td>
   </tr>
 </tbody>
