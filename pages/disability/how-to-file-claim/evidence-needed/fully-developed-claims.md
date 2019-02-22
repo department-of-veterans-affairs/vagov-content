@@ -331,6 +331,6 @@ You don't have to, but we encourage you to work with an accredited VSO. These tr
 
 ### More helpful resources
 
-[View the evidence requirements listed on the form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
+[View the evidence requirements listed on the 21-526EZ paper form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
 [Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp). <br>
 [View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp). 
