@@ -130,8 +130,8 @@ hublinks:
   - id: manage
     title: Manage Your Career
     links:
-    - url: https://www.benefits.va.gov/vocrehab/transitioning_from_service.asp
-      label: Transitioning to Civilian Employment
+    - url: https://www.benefits.va.gov/tap/tap-index.asp
+      label: VA Transition Assistance
       description: As you separate from the military, explore your career options by
         attending a Transition Assistance Program (TAP) briefing.
       external: false
