@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Veteran Employment through Technology Education Courses (VET TEC) Program 
-display_title: Vet Tec Program
+display_title: VET TEC Program
 description: 
 concurrence: incomplete
 aliases:
