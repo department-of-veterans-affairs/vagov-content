@@ -42,6 +42,9 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/
       title: Non-College Degree Programs
       description: Funding for specific training programs (like HVAC repair, truck driving, or EMT training)
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/
+      title: VET TEC Education Program 
+      description: Gain computer skills and experience to start or advance your career in the high-technology industry with our new VET TEC pilot program.
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/flight-training/
       title: Flight Training
       description: Help paying for training to become a pilot
