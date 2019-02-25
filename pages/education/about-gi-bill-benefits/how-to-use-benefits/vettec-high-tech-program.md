@@ -6,7 +6,7 @@ display_title: VET TEC Program
 description: 
 concurrence: incomplete
 aliases:
-order: 7
+order: 9
 ---
 
 <div class="va-introtext">
