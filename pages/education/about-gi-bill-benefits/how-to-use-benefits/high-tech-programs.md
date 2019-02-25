@@ -123,7 +123,7 @@ These programs are approved only for active-duty GI Bill recipients:
 03.0104 Environmental Science <br>
 
 **03.03 Fishing and Fisheries Sciences and Management**  <br>
-03.0301 Fishing Fisheries Sciences and Management <br>
+03.0301 Fishing and Fisheries Sciences and Management <br>
 
 **03.05 Forestry** <br>
 03.0501 Forestry, General <br>
