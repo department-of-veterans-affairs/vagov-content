@@ -33,9 +33,6 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
       title: Get Paid Back for Test Fees
       description: Reimbursement for the cost of tests to become a licensed or certified professional, or to apply for college or a training course
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/
-      title: VET TEC Education Program 
-      description: Gain computer skills and experience to start or advance your career in the high-technology industry with our new VET TEC pilot program.
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
       title: Accelerated Payments for High-Technology Programs
       description: A lump-sum payment to help cover the cost of courses in high-tech degree or non-degree programs
