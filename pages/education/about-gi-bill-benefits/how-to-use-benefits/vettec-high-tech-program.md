@@ -28,11 +28,12 @@ To use the VET TEC program, all you need is one unexpired day of GI Bill entitle
 You may be eligible for VET TEC if you meet all of the requirements listed below.
 
 **All of these must be true. You:**
--	Are a Veteran or inactive-duty Reservist or National Guard member, **and**
--	Qualify for VA education assistance under the GI Bill or currently receive GI Bill benefits, **and**
-- Have at least one day of unexpired GI Bill entitlement 
+-	Aren't on active duty, **and**
+-	Qualify for VA education assistance under the GI Bill, **and**
+- Have at least one day of unexpired GI Bill benefits, **and**
+- Are accepted into a program by a VA-approved training provider  
 
-**Note:** You aren’t eligible for VET TEC while you’re on active duty. 
+**Note:** VET TEC is a five-year pilot program. Veteran participation is dependent on the availability of funding. 
 
 <br>
 </div>
@@ -53,11 +54,11 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 ---------
 
-## How do I enroll in VET TEC?
+## How do I apply for VET TEC?
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
 
-If we determine that you're eligible for VET TEC, you'll need to apply to the VA-approved training provider of your choice. Your training provider may assess your qualifications to help determine whether you'll likely successfully complete their training program and find meaningful, relevant employment. <br>
+If we determine that you're eligible for VET TEC, you'll need to apply to the VA-approved training provider of your choice. Your training provider may assess your qualifications to help determine whether you'll likely to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
 
 **Note:** If you haven’t already applied for VA education benefits, you’ll need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
