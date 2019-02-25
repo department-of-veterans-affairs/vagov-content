@@ -16,48 +16,113 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 
 </div>
 
-
 <div class="feature" markdown="1">
 
-### Can I get education benefits under this program?
-You can get education benefits if you meet the requirements listed below.
+### Can I get education benefits under the MGIB-SR program?
 
-**One of these must be true:**
-- You have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
-- You’re an officer in the Selected Reserve and you agreed to serve 6 years in addition to your initial service obligation
+You can get education benefits under this program if you meet the requirements listed below. 
+
+**One of these must be true. You:**
+- Have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
+- Are an officer in the Selected Reserve and you agreed to serve 6 years in addition to your initial service obligation
+
+**Note:** Your obligation must have started after June 30, 1985, or for some types of training after September 30, 1990.
 
 **And all of these must also be true. You:**
-- Finish your initial active duty for training (IADT), **and**
-- Get a high school diploma or something of equal value, like a High School Equivalency Diploma or GED, before finishing IADT, **and**
-- Stay in good standing while serving in an active Selected Reserve unit.
+- Complete your initial active duty for training (IADT), **and**
+- Get a high school diploma or certificate of equal value, like a High School Equivalency Diploma or GED, before finishing IADT (**Note:** You can't use 12 hours toward a college degree to meet this requirement), **and**
+- Stay in good standing while serving in an active Selected Reserve unit <br>
+(**Note:** You'll still be eligible if you're discharged from Selected Reserve service due to a disability that was not caused by misconduct)
+
 </div>
 
-### What benefits can I get?
+## More information about eligibility requirements
 
-You may get up to $368 per month in compensation (payments).
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-0">How long can I receive benefits if I stay in the Selected Reserve?</button>
+<div id="eligibility-0" class="usa-accordion-content">
+ 
+You can receive benefits until your eligibility period ends or you use all of your entitlement, whichever comes first. "Entitlement" means the number of months of benefits you may receive.
 
-### How do I get these benefits?
+If you stay in the Selected Reserve, you'll be eligible for 14 years after you started your first 6-year obligation. 
 
-[Apply online now](/education/apply-for-education-benefits/application/1990/).
+We may extend your eligibility period if you're called to active duty. If this happens, we'll extend your eligibility for the amount of time you're mobilized plus 4 months. For example, if you're mobilized for 12 months, we'll extend your eligibility period for 16 months. This extension still applies even if you leave the Selected Reserves after mobilization.
 
-### How can I use my MGIB-SR education benefits?
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">Can I receive MGIB-SR benefits after I leave the Selected Reserve?</button>
+<div id="eligibility-1" class="usa-accordion-content">
+ 
+This depends on the reason you left. Your eligibility for this program usually ends the day you leave the Selected Reserve. But there are exceptions to this rule.
 
-You can use your benefits in many ways to advance your education and training.
+You can still qualify for MGIB-SR benefits for 14 years from the date of your first 6-year obligation if any of the below descriptions are true for you.
 
-**We may help you pay for:**
+**At least one of these must be true:**
+- You separated because of a disability that wasn't caused by misconduct, **or**
+- Your unit was deactivated between October 1, 2007, and September 30, 2014, **or**
+- You involuntarily separated (not by choice) for reasons other than misconduct between October 1, 2007, and September 30, 2014
 
-- [Undergraduate and graduate degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)
-- [Vocational/technical training and non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
-- [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
-- [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [High-tech training if you're a Reservist in a non-degree educational program that lasts two years or less](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
-- [Correspondence courses](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
-- [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
+</div>
+</li>
+</ul>
 
-**We may also:**
+## What benefits can I get?
 
-- [Help with the cost of books, tuition, and housing if you’re in a co-op training program](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)
-- [Pay you back for the cost of test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+You can get up to $384 per month in compensation (payments) for up to 36 months.<br>
+[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
+
+------
+
+## How do I get these benefits?
+
+Follow the steps below to apply for these benefits.
+
+<ol class="process">
+  <li class="process-step list-one">
+    <h3>Get your Notice of Basic Eligibility (DD Form 2384-1) from your unit</h3>
+    Your unit will also code your eligibility into the Department of Defense (DoD) personnel system so we can verify it.
+    </li>
+  <li class="process-step list-two">
+    <h3>Make sure we've approved your program</h3>
+<p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</P.
+    <p></p>    
+    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. And you can't use the benefit until we've approved it. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>  </li>
+  <li class="process-step list-three">
+    <h3>Apply for the MGIB-SR program</h3>
+    <br>
+    <h4>If you haven't started training</h4>
+    Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
+    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>. 
+    <br>
+    <p></p>
+    <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a>.</p>    
+  <p></p>
+    <h4>If you already started training</h4>
+    <p>Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a>.</P.
+    <p></p>
+    <p>Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.</p>
+    </li>
+  <li class="process-step list-four">
+    <h3>Ask your school or training program to certify your enrollment</h3><br>
+    <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
+                                     <p></p>
+    <p><b>Note:</b> You'll then need to verify your enrollment at the end of each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+    <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
+  </li>
+    </ul>
+    </li>
+</ol>
+
+## How can I use my MGIB-SR education benefits?
+
+You can use your benefits in many ways to advance your education and training. <br>
+[Find out how to use your GI Bill benefits](/education/about-gi-bill-benefits/how-to-use-benefits/).
 
 **In some cases, we may help you pay for:**
 
@@ -67,9 +132,19 @@ You can use your benefits in many ways to advance your education and training.
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch1606).
 
+## Can I qualify for more than one VA education benefit?
 
-### Get more information
-- [Ask questions on the GI Bill customer service page](http://gibill.custhelp.com/). You can also search frequently asked questions.
-- Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>) or TDD/TTY <a href="tel:18008778339">1-800-877-8339</a>.
+Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
-GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase. Read our Terms of Use.
+We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
+## Get more information
+
+Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
+[Ask a question online](http://gibill.custhelp.com/). <br>
+
+Or call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
+
+GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase.<br>
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).

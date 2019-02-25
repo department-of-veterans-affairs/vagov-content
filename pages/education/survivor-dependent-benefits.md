@@ -42,11 +42,6 @@ If you’re a dependent spouse or child—or the surviving spouse or child—of 
 If you’re a dependent who doesn’t meet the above criteria, you may still qualify for education benefits if the Veteran or Servicemember transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
 [Learn about transferred benefits](/education/transfer-post-9-11-gi-bill-benefits/).
 
-<br>
-
-### Who’s covered?
-- Qualified spouses
-- Qualified dependents
 </div>
 
 ### What benefits can I get?
@@ -86,7 +81,7 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
 <tbody>
   <tr>
     <th scope="row"><strong>Benefit Payments</strong></th>
-    <td>We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,041.</td>
+    <td>We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224.</td>
     <td>
     <ul>
       <li><strong>Tuition and Fee Payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
