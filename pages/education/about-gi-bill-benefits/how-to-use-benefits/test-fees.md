@@ -105,9 +105,11 @@ If you’re a Veteran and you qualify for the GI Bill, you may be able to use pa
 
 </div>
 </li>
+</ul>
 
 ## How do I get this benefit?
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="licensing-certification-get-benefits">For Licensing and Certification</button>
   
