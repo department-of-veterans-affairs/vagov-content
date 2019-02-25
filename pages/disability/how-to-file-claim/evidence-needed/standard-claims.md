@@ -62,8 +62,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 - Make every reasonable effort to request relevant records that you authorize us to get that aren’t at a federal facility (including records from non-VA doctors and hospitals), **and**
 - Provide a medical exam for you, or get a doctor’s opinion if we need it to make a decision on your claim
 
-**Example**<br>
-A Veteran filed a disability claim that included prior treatment from a private doctor and a prior Social Security disability award. In this case, we were responsible for getting the Social Security records. We also helped to get the private doctor’s records, but the Veteran was responsible for making sure we got those.
+**Example:** A Veteran filed a disability claim that included prior treatment from a private doctor and a prior Social Security disability award. In this case, we were responsible for getting the Social Security records. We also helped to get the private doctor’s records, but the Veteran was responsible for making sure we got those.
 
 
 <br>
