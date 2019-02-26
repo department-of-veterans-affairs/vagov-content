@@ -67,94 +67,57 @@ hublinks:
       - url: /education/eligibility/
         label: GI Bill and other education benefits
         description: <b>Active duty, National Guard, Reserves</b> <br> Find out if you qualify for VA education benefits to help pay for school or training.
-      - url: /health-care/eligibility/
-        label: Eligibility
-        description: Find out if you’re eligible for Veterans health care benefits and how priority groups work.
-      - url: /health-care/how-to-apply/
-        label: How to Apply
-        description: Get instructions for how to prepare and apply for VA health care online, by phone, by mail, or in person.
-      - url: /health-care/apply/application/
-        label: Apply Online (VA Form 10-10EZ)
-        description: Start your Veterans health care application now.</p>
-      - url: /health-care/after-you-apply/
-        label: After You Apply
-        description: Find out when to expect a decision on your application, and what to do next.
-      - url: /health-care/family-caregiver-benefits/
-        label: Family and Caregiver Health Benefits
-        description: See if you qualify for VA medical benefits as a spouse, surviving spouse, dependent child, or caregiver.
-  - id: "manage"
+      - url: /housing-assistance/home-loans/eligibility/
+        label: Certificate of eligibility for a VA-backed home loans
+        description: <b>Active duty, National Guard, Reserves</b> <br> Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. 
+      - url: /life-insurance/options-eligibility/sgli/
+        label: Life insurance for you and your family
+        description: <b>Active duty, National Guard, Reserves</b> <br> Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement.
+  - id: "separting-retiring"
     title: VA benefits to consider when separating or retiring
     links:
-      - url: /health-care/refill-track-prescriptions/
-        label: Refill and Track Your VA Prescriptions
-        description: Order a prescription refill and track your shipment online.
-      - url: /health-care/secure-messaging/
-        label: Use VA Secure Messaging
-        description: Communicate privately with your VA health care team through Secure Messaging.
-      - url: /health-care/schedule-view-va-appointments/
-        label: Schedule and View Your VA Appointments
-        description: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
-      - url: /health-care/view-test-and-lab-results/
-        label: View Your VA Lab and Test Results
-        description: View, download, and print your labs and test results.
-      - url: /health-care/order-hearing-aid-batteries-prosthetic-socks/
-        label: Order Hearing Aid Batteries and Prosthetic Socks
-        description: Order these items online for home delivery.
-      - url: /health-care/get-medical-records/
-        label: Get Your VA Medical Records (also called "VA Blue Button")
-        description: Set up your personal health record and download reports to share with your VA and non-VA doctors.
-      - url: /health-care/update-health-information/
-        label: Update Your Health Benefits Information (VA Form 10-10EZR)
-        description: Update your personal, financial, or insurance information after you’re enrolled in the VA health care program.
-      - url: https://www.pay.gov/public/form/start/25987221
-        external: true
-        target: _blank
-        label: Make a VA Health Care Payment Online
-        description: Pay your VA copay securely online through Pay.gov.
-      - url: /claim-or-appeal-status/
-        label: Check Your Appeal Status
-        description: Track the status of an open VA health care appeal.
-      - url: https://www.va.gov/HEALTHBENEFITS/vtp/Beneficiary_Travel.asp
-        external: true
-        label: Get VA Travel Pay (Reimbursement)
-        description: Find out how to apply for reimbursement for your travel to a VA health facility.
-  - id: "more"
+      - url: https://www.benefits.va.gov/tap/tap-index.asp
+        label: Transition Assistance Program (TAP)
+        description: 
+      - url: https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp
+        label: Transitioning to VA health care after separation or retirement
+        description: 
+      - url: disability/how-to-file-claim/when-to-file/pre-discharge-claim/
+        label: Pre-discharge disability claim
+        description: 
+      - url: /careers-employment/education-and-career-counseling/
+        label: Educational and career counseling
+        description: 
+      - url: /careers-employment/vocational-rehabilitation/
+        label: Vocational rehabilitation and employment
+        description: 
+      - url: /life-insurance/options-eligibility/sgli/
+        label: Transitioning your life insurance after separation
+        description: 
+  - id: "other-benefits"
     title: Other VA benefits to consider as a Veteran
     links:
-      - url: https://www.va.gov/healthbenefits/cost/index.asp
-        external: true
-        label: VA Health Care Costs
-        description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
-      - url: /health-care/health-needs-conditions/mental-health/
-        label: Mental Health Services
-        description: Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.
-      - url: /health-care/health-needs-conditions/
-        label: Specific Health Needs and Conditions
-        description: Find out how to get care for specific needs (like women's health), and learn about service-related health concerns you should be aware of (like Agent Orange-related diseases or Camp Lejeune water contamination).
-      - url: /health-care/wellness-programs/
-        label: Veterans Programs for Health and Wellness
-        description: Explore VA programs to help you get and stay healthy in both body and mind.
-      - url: /health-care/health-needs-conditions/chemical-hazardous-materials-exposure/
-        label: Chemical or Hazardous Material Exposure
-        description: Learn about health concerns linked to exposures during military service. Learn about the special VA health registries you can join that document Veterans' exposure to Agent Orange, depleted uranium, ionizing radiation, airborne hazards, and other hazardous materials.
-      - url: https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp
-        external: true
-        label: The Veterans Choice Program
-        description: If you're enrolled in VA health care, find out if you can receive care from a local community provider through the Veterans Choice Program.
-      - url: /health-care/about-affordable-care-act/
-        label: The Affordable Care Act (ACA) and Your Health Coverage
-        description: Find out what you need to know about the Affordable Care Act and what it means for Veterans.
-      - url: https://www.research.va.gov/mvp/
-        label: The Million Veteran Program
-        description: See if you can be a part of this voluntary research study to better understand the role genes play in our health.
-      - url: https://www.accesstocare.va.gov/
-        target: _blank
-        label: Access and Quality in VA Health Care
-        description: Get information about your VA facility, like how quickly you can be seen and what other Veterans say about their experiences.
-      - url: https://www.va.gov/health/rights/patientrights.asp
-        external: true
-        label:  Patient Rights and Responsibilities
-        description: Read about your basic rights and responsibilities when you receive care at a VA health facility or live in a VA community living center.
+      - url: /disability/
+        label: Disability compensation
+        description:         
+      - url: /careers-employment/veteran-owned-business-support/
+        label: Veteran-owned small business support
+        description: 
+      - url: /pension/eligibility/
+        label: Veterans pension
+        description: 
+      - url: /pension/aid-attendance-housebound/
+        label: Aid and attendance or housebound allowances
+        description: 
+      - url: /housing-assistance/disability-housing-grants/
+        label: Disability housing grants
+        description: 
+      - url: /life-insurance        
+        label: More life insurance options
+        description: 
+      - url: /burials-memorials/pre-need-eligibility/
+        label: Pre-need eligibility for burial in a VA national cemetery
+        description: 
 
 ---
 
@@ -162,12 +125,12 @@ hublinks:
 With VA health care, you’re covered for regular checkups with your primary care provider and appointments with specialists (like cardiologists, gynecologists, and mental health providers). You can access Veterans health care services like home health and geriatric (elder) care, and you can get medical equipment, prosthetics, and prescriptions. Find out how to apply for and manage the health care benefits you've earned.
 </p>
 
-<h3>On This Page</h3>
+<h3>On this page</h3>
 
 <ul>
-  <li><a href="#get">Get VA Health Care</a></li>
-  <li><a href="#manage">Manage Your Health and Benefits</a></li>
-  <li><a href="#more">More Information and Resources</a></li>
+  <li><a href="#during-after">VA benefits you can use during and after service</a></li>
+  <li><a href="#separating-retiring">VA benefits to consider when separating or retiring</a></li>
+  <li><a href="#other-benefits">Other VA benefits to consider as a Veteran</a></li>
 </ul>
 
 <div class="usa-alert usa-alert-warning">
