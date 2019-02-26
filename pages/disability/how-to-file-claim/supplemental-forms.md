@@ -78,7 +78,7 @@ In some cases, you may need to turn in one or more additional forms to support y
   <tr>
    <td><strong>Claiming an Auto Adaptive-Equipment Grant</strong></td>
     <td><p>An Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394)</p>
-        <p><a href="https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf">Download VA Form 10-1394</a>.</p>
+        <p><a href="https://www.vba.gov/vaforms/medical/pdf/10-1394-fill.pdf">Download VA Form 10-1394</a>.</p>
     </td>
   </tr>
   <tr>
