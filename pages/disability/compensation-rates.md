@@ -10,18 +10,18 @@ spoke: More Resources
 majorlinks:
   heading: VA benefit rates
   links:
-    - url: https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp
-      title: What are the current VA compensation benefits rates?
-      description: To calculate your monthly benefits payment, we consider several things, including whether you have a spouse or children as well as other factors.
-    - url: https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp
-      title: How can I find my Special Monthly Compensation (SMC) rate?
-      description: We assign you a disability rating based on the severity of your disability. We use this rating to determine your Special Monthly Compensation (SMC) rate.
-    - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
-      title: Rates for automobile allowance, clothing allowance, and Medal of Honor recipients
-      description: If you have a special disability or if you have received a Medal of Honor, you may be eligible for special disability benefits. 
-    - url: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
-      title: My child has a birth defect. Does my child qualify for special VA benefits?
-      description: In some cases, a parent’s past contact with specific chemicals causes birth defects birth defect. If you served in South Vietnam or the Republic of Korea—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits.
+  - url: https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp
+    title: What are the current VA compensation benefits rates?
+    description: To calculate your monthly benefits payment, we consider several things, including whether you have a spouse or children as well as other factors.
+  - url: https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp
+    title: How can I find my Special Monthly Compensation (SMC) rate?
+    description: We assign you a disability rating based on the severity of your disability. We use this rating to determine your Special Monthly Compensation (SMC) rate.
+  - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
+    title: Rates for automobile allowance, clothing allowance, and Medal of Honor recipients
+    description: If you have a special disability or if you have received a Medal of Honor, you may be eligible for special disability benefits. 
+  - url: /disability/eligibility/special-claims/birth-defects/
+    title: My child has a birth defect. Does my child qualify for special VA benefits?
+    description: In some cases, a parent’s past contact with specific chemicals causes birth defects birth defect. If you served in South Vietnam or the Republic of Korea—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits.
       
 ---
 <div class="va-introtext">
