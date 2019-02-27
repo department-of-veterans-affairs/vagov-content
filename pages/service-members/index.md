@@ -33,7 +33,7 @@ social:
           title: "eBenefits Technical Support:"
         - url: tel:1-844-698-2311
           number: 1-844-698-2311
-          title: "Call MyVA311 for Help:"
+          title: "Call MyVA311 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Connect with us
@@ -102,7 +102,7 @@ hublinks:
         description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time.        
       - url: /careers-employment/veteran-owned-business-support/
         label: Veteran-owned small business support
-  description: <b>Active duty (including Goast Guard), National Guard and Reserves (if called to active duty by a federal order or service-disabled)</b> <br> Register to do business with VA and get support for your Veteran-own small business.
+        description: <b>Active duty (including Goast Guard), National Guard and Reserves (if called to active duty by a federal order or service-disabled)</b> <br> Register to do business with VA and get support for your Veteran-own small business.
       - url: /pension/eligibility/
         label: Veterans pension
         description: <b>Active duty during wartime</b> <br> If you served on active duty during wartime, are over 65 or have a service-connected disability, and you have limited or no income, find out if you qualify for a Veterans Pension. 
@@ -132,29 +132,6 @@ If you're serving in the U.S. Armed Forces, you may be eligible for VA benefits 
   <li><a href="#separating-retiring">VA benefits to consider when separating or retiring</a></li>
   <li><a href="#other-benefits">Other VA benefits to consider as a Veteran</a></li>
 </ul>
-
-<div class="usa-alert usa-alert-warning">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed">
-      <div class="expander-content-inner usa-alert-text">
-
-We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
-
-**Find the support you need:**
-
-- **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
-- **Contact your nearest VA medical center** and ask to talk with the VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
-[Find the nearest VA medical center](/find-locations/).
-
-**Talk with someone right now:**
-
-If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.<br>
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.
-   </div>
-  </div>
- </div>
-</div>
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
