@@ -44,7 +44,7 @@ We don’t bill Medicare or Medicaid, but we may bill Medicare supplemental heal
 ### What if my health insurance provider doesn’t cover all the non-service-connected care that VA bills them for?
 
 You won’t have to pay any unpaid balance not covered by your health insurance provider. But, depending on your eligibility priority group, you may have to pay a copay for non-service-connected care. <br>
-[Learn more about how we determine if you'll need to pay copays](/health-care/about-va-health-benefits/health-care-costs/).
+[Learn more about how we determine if you'll need to pay copays](/health-care/about-va-health-benefits/health-care-costs/)
 
 ### Does it help me in any way to give VA my health insurance information?
 
@@ -53,7 +53,7 @@ Yes. Giving us your health insurance information helps you because:
 - When your private health insurance provider pays us for your non-service-connected care, we may be able to use the funds to offset part—or all—of your VA copay.
 - Your private insurer may apply your VA health care charges toward your annual deductible (the amount of money you pay toward your care each year before your insurance starts paying for care).
 
-[Watch our video about VA health care and private health insurance](https://www.youtube.com/watch?time_continue=86&v=rBH-b2B0X3E).
+[Watch our video about VA health care and private health insurance](https://www.youtube.com/watch?time_continue=86&v=rBH-b2B0X3E)
 
 ### Does my current health insurance status affect whether I can get VA health care benefits?
 
@@ -102,7 +102,7 @@ You’ll need to choose which benefits to use each time you receive care.
 To use VA benefits, you’ll need to get care at a VA medical center or other VA location. We’ll also cover your care if we pre-authorize you (meaning we give you permission ahead of time) to get services in a non-VA hospital or other care setting. Keep in mind that you may need to pay a VA copayment for non-service-connected care.
 
 If you go to a non-VA care setting, Medicare may pay for your care. Or, if we only authorize some services in a non-VA location, then Medicare may pay for other services you may need during your stay. Check your Medicare plan so you know which care locations and services you’re covered for. <br>
-[Learn more about Medicare](http://www.medicare.gov).
+[Go to the Medicare website to learn more](http://www.medicare.gov)
 
 <span id="health-savings-account">
 
@@ -119,11 +119,11 @@ We may also accept reimbursement from HRAs for care we provide to treat your non
 No. As a result of the VA MISSION Act of 2018, we no longer need permission to bill health insurance providers for care related to a sensitive diagnosis (like alcohol or drug abuse, alcoholism, HIV or HIV testing, sickle cell anemia, or other diagnoses included in Public Law 38 U.S.C. §7332-protected information).
 
 Before submitting any claims for care related to a sensitive diagnosis, we notified Veterans of this change by sending a one-time notice to all Veterans who has signed a release of information refusing to allow us to bill for care related to a sensitive diagnosis in the past. The Federal Register also published this change. <br>
-[Read the notice on the Federal Register website](https://www.federalregister.gov/documents/2019/01/28/2018-28285/confidentiality-of-certain-medical-records-under-the-mission-act).
+[Read the notice on the Federal Register website](https://www.federalregister.gov/documents/2019/01/28/2018-28285/confidentiality-of-certain-medical-records-under-the-mission-act)
 
 We're now submitting claims to health insurance carriers for all non-service-connected care, even if we don't have a signature or written authorization permitting us to disclose protected information on these claims or in Veterans' medical records.
 
 We're required by law to bill your health insurance (including your spouse's insurance if you're covered under the policy). The money collected goes back to VA medical centers to support health care costs provided to all Veterans.
 
 You can submit a restriction request asking us not to disclose your health information for billing purposes, but we're not required to grant your request. To submit a restriction request, please contact your nearest VA health facility and ask to talk with the privacy officer. You can also ask to talk with the billing office for more information. <br>
-[Find your nearest VA health facility](/find-locations/).
+[Find your nearest VA health facility](/find-locations/)
