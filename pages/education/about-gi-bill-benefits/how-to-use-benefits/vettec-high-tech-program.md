@@ -33,7 +33,7 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 - Have at least one day of unexpired GI Bill benefits, **and**
 - Are accepted into a program by a VA-approved training provider  
 
-**Note:** VET TEC is a five-year pilot program. Veteran participation is dependent on the availability of funding. 
+**Note:** VET TEC is a five-year pilot program. Veteran participation depends on the availability of funding. 
 
 <br>
 </div>
@@ -61,7 +61,8 @@ First, you'll need to apply for the VET TEC program by filling out an Applicatio
 If we determine that you're eligible for VET TEC, you'll need to apply to the VA-approved training provider of your choice. Your training provider may assess your qualifications to help determine whether you'll likely to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
 
-**Note:** If you haven’t already applied for VA education benefits, you’ll need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
+**Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
+
 [Apply for education benefits](/education/how-to-apply/)
 
 ### Get more information
