@@ -75,7 +75,7 @@ The hearing will be transcribed and added to your appeal file. You can add new a
 
 If you’ve submitted a form and want to change your review option, you can send in a new decision review request form within 1 year from the date on your VA decision. You must include a letter that says you want to withdraw your existing review and switch to a different option. 
 
-If you requested a Board Appeal and want to switch to a different appeal option, you can send in a new Board Appeal form with a different option selected. You can switch appeal options within 1 year from the date on your VA decision or 60 days from the date you submitted your original form.
+If you requested a Board Appeal and want to switch to a different appeal option, you can send in a new Board Appeal form with a different option selected. You can switch appeal options within 1 year from the date on your VA decision or 60 days from the date you submitted your original form. You can’t select a different appeal option if you’ve already submitted evidence or had a hearing.
 
 You can’t select a new review option if you’ve already submitted evidence or had a hearing.
 </div>
