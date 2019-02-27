@@ -134,24 +134,39 @@ If you're serving in the U.S. Armed Forces, you may be eligible for VA benefits 
   <li><a href="#other-benefits">Other VA benefits to consider as a Veteran</a></li>
 </ul>
 
-<div class="usa-alert usa-alert-warning">
+<div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">Get free mental health care for a year after
+separation—no matter your discharge status, service history, or eligibility for VA health care.<br><a id="crisis-expander-link">Get care now</a></h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
 
-We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
+If you need support for a specific mental health problem—or if you’re having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
 
-**Find the support you need:**
+**To access free VA mental health services right away:**
 
-- **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
-- **Contact your nearest VA medical center** and ask to talk with the VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
-[Find the nearest VA medical center](/find-locations/).
+- **Call or walk in to any VA medical center**—anytime, day or night. <br>
+[Find youre nearest VA health facility](https://www.va.gov/find-locations/?
+zoomLevel=4&page=1&address=&facilityType=health
+&serviceType)
+- **Call or walk in to any Vet Center** during clinical hours. <br>
+[Find your nearest Vet Center](https://www.va.gov/find-locations/?
+zoomLevel=4&page=1&address=&facilityType=health
+&serviceType)
+- **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you
+have hearing loss, call TTY: 1-800-877-8339.
 
-**Talk with someone right now:**
+You don’t need to be enrolled in VA health care to get care. <br>
+[Learn more about accessing VA mental health services](https://www.va.gov/health-care/health-needsconditions/
+mental-health/)
 
-If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.<br>
-<a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.
+**To connect with other resources for Veterans and transitioning service members:**
+- [Visit the Department of Defense (DoD) Military OneSource website](https://www.militaryonesource.mil/)
+- [Visit our mental health site for transitioning service members](https://www.mentalhealth.va.gov/transitioningservice/
+programs.asp)
+- [Read about our commitment to supporting transitioning Veterans](https://www.whitehouse.gov/presidential-actions/
+presidential-executive-order-supporting-veteranstransition-uniformed-service-civilian-life/)
+
    </div>
   </div>
  </div>
