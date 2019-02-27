@@ -38,10 +38,10 @@ We're committed to providing free health care for conditions related to military
 You can get free VA health care for any illness or injury that we determine is related to your military service (called "service connected"). <br>
 
 We also provide certain other services for free. These include readjustment counseling and related mental health services, care for issues related to military sexual trauma (MST), and a registry health exam to determine if you're at risk of health problems linked to your military service. <br>
-[Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/). <br>
-[Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/). <br>
-[Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/). <br>
-[View more services we provide at no cost](/health-care/copay-rates/#exempt).
+[Find out how to get mental health care](/health-care/health-needs-conditions/mental-health/) <br>
+[Learn more about services for military sexual trauma](/health-care/health-needs-conditions/military-sexual-trauma/) <br>
+[Explore health issues related to service history](/health-care/health-needs-conditions/health-issues-related-to-service-era/) <br>
+[View more services we provide at no cost](/health-care/copay-rates/#exempt)
 
 You may qualify for additional free VA health care depending on your income, disability rating, or other special eligibility factors. Keep reading below to learn more.
 
@@ -57,15 +57,15 @@ You may qualify for additional free VA health care depending on your income, dis
 You may need to pay a fixed amount for some types of care, tests, and medications you receive from a VA health care provider or an approved community health care provider to treat conditions not related to your service. This is called a copay (short for "copayment"). 
 
 Whether or not you'll need to pay copays—and how much you'll pay—depends on factors such as your disability rating, income level, military service record, and which of our 8 priority groups we assign you to when you enroll in VA health care. For example, if you have a service-connected condition that we've rated at 50% or more disabling or that we've determined makes you unable to work (called unemployable), or if you've received a Medal of Honor, we'll assign you to priority group 1 and you won't pay copays for any types of care, tests, or medications. <br>
-[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp).<br>
-[View current copay rates](/health-care/copay-rates/).
+[Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp)<br>
+[View current copay rates](/health-care/copay-rates/)
 
 If you haven't applied for VA health care yet, you can review VA health care eligibility requirements, or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
-[Learn more about VA health care eligibility requirements](/health-care/eligibility/).<br>
-[Go to the Health Benefits Explorer](http://hbexplorer.vacloud.us/).
+[Learn more about VA health care eligibility requirements](/health-care/eligibility/)<br>
+[Go to the Health Benefits Explorer](http://hbexplorer.vacloud.us/)
 
 For more information, watch our video on Veteran copayments.
-[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
+[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be)
 
 </div>
 </div>
@@ -86,7 +86,7 @@ If you're not already receiving VA disability compensation or pension payments, 
 - If you’re eligible for VA health care based on your income, **and**
 - Whether you’ll need to pay copays for certain types of care or medications
 
-[Learn more about applying for VA health care](/health-care/apply/).
+[Learn more about applying for VA health care](/health-care/apply/)
 
 </div>
 </div>
@@ -98,7 +98,7 @@ If you're not already receiving VA disability compensation or pension payments, 
 <div itemprop="text">
 
 <b>If you qualify for VA health care enhanced eligibility status,</b> you won't need to provide your income information. <br>
-[View the requirements for enhanced eligibility status](/health-care/eligibility/#enhanced).
+[View the requirements for enhanced eligibility status](/health-care/eligibility/#enhanced)
 
 <b>If you don't qualify for enhanced eligibility status, but you agree to pay copays for your care,</b> you don't have to provide your financial information. But if you don't, we may decline your enrollment. We also won't be able to consider your eligibility for free medications or beneficiary travel pay.
 
@@ -113,7 +113,7 @@ If you're not already receiving VA disability compensation or pension payments, 
 If you served in combat after the Gulf War or in combat against a hostile force after November 11, 1998, you don't have to provide your income to qualify for 5 years of free VA health care for any illness that may be related to your military service.
 
 You can still provide your income to help us determine if you’re eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service.<br>
-<a href="https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp">Learn more about VA health care for returning service members</a>.
+<a href="https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp">Learn more about VA health care for returning service members</a>
 
 </div>
 </li>
@@ -124,7 +124,7 @@ You can still provide your income to help us determine if you’re eligible for 
 If you were exposed to Agent Orange in or near Vietnam, ionizing radiation in certain service locations or jobs, or environmental contaminants in the Persian Gulf, you don't have to provide your income information to qualify for free care related to your exposure. 
 
 You can still provide your income to help us determine if you’re eligible for a higher priority group, beneficiary travel pay, or free care for conditions not related to your service. <br>
-<a href="/disability/eligibility/hazardous-materials-exposure/">Learn more about hazardous exposures</a>.
+<a href="/disability/eligibility/hazardous-materials-exposure/">Learn more about hazardous exposures</a>
 
 </div>
 </li>
@@ -154,7 +154,7 @@ Your gross household income means the total amount of money you—and anyone liv
 <div itemprop="text">
 
 This depends on your situation. If the information you provide shows that your income falls below our limits and qualifies you for free VA health care, medications, or both, we’re required by law to verify the information. We do this by confirming your information with the Internal Revenue Service (IRS) and the Social Security Administration (SSA). <br>
-[View our current income limits]( http://nationalincomelimits.vaftl.us/).
+[View our current income limits]( http://nationalincomelimits.vaftl.us/)
 
 Because of tax deadlines, we usually begin this process in July, the year after you report your income. So, for example, if you provide information for the year 2018, we’ll verify it in July of 2019.
 
@@ -202,7 +202,7 @@ If our review shows that your income is still above our limits, we’ll send you
 We’ll receive your income information from the IRS and the SSA each year to confirm that you’re still eligible for free VA health care. We’ll contact you only if this information changes your eligibility or copay requirements. If you disagree with the information, you can keep using VA health care services while we review your situation.
 
 **Note:** Even when not required, we encourage you to report changes in your income. It's also important to let us know about changes to your personal information (like your address, phone number, dependents, or other health insurance). You can do this any time by using our Health Benefits Update Form (VA Form 10-10EZR). <br>
-[Learn how to submit your VA Form 10-10EZR](/health-care/update-health-information/). 
+[Learn how to submit your VA Form 10-10EZR](/health-care/update-health-information/) 
 
 </div>
 </div>
