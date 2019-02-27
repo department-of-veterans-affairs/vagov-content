@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA benefits for service members
+title: <i class="icon-large white hub-icon-service-member hub-background-service-member"></i> VA benefits for service members
 display_title: Benefits for service members
 description: 
 concurrence:
@@ -120,7 +120,6 @@ hublinks:
         description: Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and make the process easier for your family members in their time of need. 
 
 ---
-<i class="icon-large white hub-icon-service-member hub-background-service-member"></i>
 
 <p class="va-introtext">
 If you're serving in the U.S. Armed Forces, you may be eligible for VA benefits both during service and after separation or retirement. If you're serving in the National Guard, Reserves, or Coast Guard, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply.
