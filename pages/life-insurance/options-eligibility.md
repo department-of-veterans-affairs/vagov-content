@@ -33,8 +33,8 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Managing Your Policy
-      description: Already have VA life insurance? Manage your policy online.
+      title: Access Your Policy Online
+      description: Already have VA life insurance? Access your policy online.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for Disabled and Terminally Ill Policyholders
       description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
@@ -50,7 +50,3 @@ Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemembe
 
 **Are you ending your military tour of duty soon?** You’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage. 
 
-Keep in mind that some life insurance policies provide dividend options (cash payments made to policy holders when the company makes a profit).<br>
-[Learn more about dividend options](https://www.benefits.va.gov/insurance/dividends_options.asp).<br>
-[Learn the truth about dividend rumors](https://www.benefits.va.gov/insurance/dividends_special.asp).<br>
-[Search for unclaimed funds](https://insurance.va.gov/UnclaimedFunds/).

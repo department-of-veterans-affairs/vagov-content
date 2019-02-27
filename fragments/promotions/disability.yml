@@ -1,8 +1,7 @@
 img:
-  src: https://www.va.gov/img/megamenu/disability-illustration.png
-  alt: Decision Ready Claims
+  src: https://www.va.gov/img/hub-illustrations/disability.png
+  alt: Fully Developed Claims Program
 link:
-  text: Decision Ready Claims (DRC) Program
-  href: https://www.va.gov/disability/how-to-file-claim/evidence-needed/decision-ready-claims/
-description: Find out if you can use the DRC program to get a decision on
-  your disability claim in 30 days or less.
+  text: Fully Developed Claims Program
+  href: https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/
+description: Use this program to get a faster decision by submitting evidence along with your claim.

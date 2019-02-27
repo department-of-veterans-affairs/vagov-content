@@ -20,7 +20,7 @@ aliases:
   - /job-seekers/less-than-one-year/
   - /job-seekers/military-transcripts/
 promo:
-  - image: /img/megamenu/careers-employment-illustration.png
+  - image: /img/hub-illustrations/careers.png
     heading: VA for Vets
     url: "https://www.vaforvets.va.gov"
     description: Get help transitioning to a civilian career and matching your skills and experiences to VA job opportunities.
@@ -130,8 +130,8 @@ hublinks:
   - id: manage
     title: Manage Your Career
     links:
-    - url: https://www.benefits.va.gov/vocrehab/transitioning_from_service.asp
-      label: Transitioning to Civilian Employment
+    - url: https://www.benefits.va.gov/tap/tap-index.asp
+      label: VA Transition Assistance
       description: As you separate from the military, explore your career options by
         attending a Transition Assistance Program (TAP) briefing.
       external: false

@@ -20,12 +20,5 @@ private: true
   window.sessionStorage.removeItem('authReturnUrl');
   window.localStorage.removeItem('hasSession');
   window.localStorage.removeItem('userFirstName');
-
-  var isFullScreenLoginEnabled = window.localStorage.getItem('enableFullScreenLogin');
-  if (isFullScreenLoginEnabled) {
-    window.location = '/';
-  } else {
-    window.opener.location = '/';
-    window.close();
-  }
+  window.location = '/';
 </script>

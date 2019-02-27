@@ -40,7 +40,7 @@ Find out how to apply for a tax-free VA Veterans pension.
 - Medical information
 </div>
 
-<div id="react-applicationStatus" class="static-page-widget">
+<div id="react-applicationStatus" data-widget-type="pension-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
 </div>
 
