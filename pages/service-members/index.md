@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA benefits for transitioning service members
-display_title: Benefits for transitioning service members
+title: VA benefits for service members
+display_title: Benefits for service members
 description: 
 concurrence:
 lastupdate:
@@ -81,16 +81,16 @@ hublinks:
         description: 
       - url: https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp
         label: Transitioning to VA health care after separation or retirement
-        description: 
+        description: <b>Full-time active duty (including National Guard and Reserves if called to active duty by a federal order)</b> <br> Learn about transitioning from TRICARE to VA health care, and how to apply for health care benefits once you've received your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.
       - url: disability/how-to-file-claim/when-to-file/pre-discharge-claim/
         label: Pre-discharge disability claim
-        description: 
+        description: <b>Full-time active duty (including National Guard, Reserves, or Coast Guard) <br> If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. Find out how to file your claim, and what to do if you have less than 90 days left on active duty.
       - url: /careers-employment/education-and-career-counseling/
         label: Educational and career counseling
-        description: 
+        description: <b>Active duty</b> <br> Find out how to get free educational and career counseling. You'll need to apply no sooner than 6 months before discharge and no later than 1 year after discharge.
       - url: /careers-employment/vocational-rehabilitation/
         label: Vocational rehabilitation and employment
-        description: 
+        description: <b>Active duty</b> <br> If you have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You may be eligible if you're nearing your time of discharge and up to 12 years from the date you receive your notice of separation or first VA service-connected disability rating.
       - url: /life-insurance/options-eligibility/sgli/
         label: Transitioning your life insurance after separation
         description: 
@@ -122,7 +122,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-With VA health care, you’re covered for regular checkups with your primary care provider and appointments with specialists (like cardiologists, gynecologists, and mental health providers). You can access Veterans health care services like home health and geriatric (elder) care, and you can get medical equipment, prosthetics, and prescriptions. Find out how to apply for and manage the health care benefits you've earned.
+If you're serving in the U.S. Armed Forces, you may be eligible for VA benefits both during service and after separation or retirement. If you're serving in the National Guard, Reserves, or Coast Guard, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply.
 </p>
 
 <h3>On this page</h3>
