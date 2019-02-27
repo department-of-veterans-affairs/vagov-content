@@ -5,7 +5,7 @@ title: VA priority groups
 display_title: Priority Groups
 description: 
 plainlanguage: 
-lastupdate: 2019-02-120
+lastupdate: 2019-02-27
 collection: healthEligibility
 order: 1
 
@@ -107,7 +107,7 @@ We may assign you to priority group 2 if you have a service-connected disability
 **We may assign you to priority group 7 if both of the below descriptions are true for you:**
 - Your gross household income is below the geographically adjusted income limits (GMT) for where you live, **and**
 - You agree to pay copays <br>
-[View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
+[View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp)
 
 <h3>Priority group 8</h3>
 
