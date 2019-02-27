@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: service-member
 promo:
-  - image: /assets/img/hub-illustrations/service-member.png
+  - image: /img/hub-illustrations/service-member.png
     heading: VA Transition Assistance Program 
     url: https://www.benefits.va.gov/tap/tap-index.asp
     description: Explore your career options and learn how to access the VA benefits you've earned.
@@ -73,7 +73,7 @@ hublinks:
       - url: /life-insurance/options-eligibility/sgli/
         label: Life insurance for you and your family
         description: <b>Active duty, National Guard, Reserves</b> <br> Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement.
-  - id: "separting-retiring"
+  - id: "separating-retiring"
     title: VA benefits to consider when separating or retiring
     links:
       - url: https://www.benefits.va.gov/tap/tap-index.asp
@@ -82,7 +82,7 @@ hublinks:
       - url: https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp
         label: Transitioning to VA health care after separation or retirement
         description: <b>Full-time active duty (including National Guard and Reserves if called to active duty by a federal order)</b> <br> Learn about transitioning from TRICARE to VA health care, and how to apply for health care benefits once you've received your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.
-      - url: disability/how-to-file-claim/when-to-file/pre-discharge-claim/
+      - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
         label: Pre-discharge disability claim
         description: <b>Full-time active duty (including full-time, active-duty National Guard, Reserves, or Coast Guard) <br> If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. Find out how to file your claim, and what to do if you have less than 90 days left on active duty.
       - url: /careers-employment/education-and-career-counseling/
