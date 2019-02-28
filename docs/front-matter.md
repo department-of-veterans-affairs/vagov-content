@@ -200,4 +200,4 @@ relatedlinks:
 
 ### Production flag
 
-Metadata to indicate whether page should be included in production build and deploy pipeline. Defaults to `true` if absent. Useful for creating one-time prototype pages that should only be depoloyed on staging (e.g. this [sandbox for an appeals tool](https://github.com/department-of-veterans-affairs/vagov-content/blob/d5ce4f9ce0c3fc178a9856512829667933cff2df/pages/dst/index.md)).
+Metadata to indicate whether page should be included in production build and deploy pipeline. Defaults to `true` if absent. Useful for creating one-time prototype pages that should only be depoloyed on staging (e.g. this [sandbox for an appeals tool](https://github.com/department-of-veterans-affairs/vagov-content/blob/d5ce4f9ce0c3fc178a9856512829667933cff2df/pages/dst/index.md)). For more details, check out our [main documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Front%20End%20Feature%20Flags.md) on using front end feature flags.
