@@ -28,7 +28,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 -	Qualify as a Veteran for educational assistance under a VA educational program
  
 **Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
-[Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/).
+[Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/)
 
 </div>
 
@@ -59,18 +59,18 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 ### You can also apply by mail
 
 Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
-[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf). <br>
+[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
 
 Mail the completed form to your nearest VA regional benefit office.<br> 
-[Find your nearest VA regional benefit office](/find-locations/).
+[Find your nearest VA regional benefit office](/find-locations/)
 
 If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
 
 ### Get more information
 
-[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be). <br>
+[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be) <br>
 
 Use CareerScope&reg; to find careers you might enjoy. <br>
-[Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/). <br>
+[Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/) <br>
 
 
