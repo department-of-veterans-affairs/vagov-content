@@ -48,7 +48,7 @@ You need to pay your full VA copay bill balance by the due date on your billing 
 <h3>Online</h3>
 
 Pay directly from your bank account or by debit or credit card on the secure Pay.gov website. <br>
-[Go to Pay.gov](https://www.pay.gov/public/form/start/25987221).
+[Go to Pay.gov](https://www.pay.gov/public/form/start/25987221)
 
 <h3>By phone</h3>
 
@@ -68,15 +68,15 @@ Atlanta, GA 30353-0269 <br>
 
 Visit your nearest VA medical center, and ask for the agent cashier's office. Bring your payment stub, along with a check or money order made payable to “VA.” Be sure to include your account number on the check or money order.
 <br>
-[Find your nearest VA medical center](/find-locations/).
+[Find your nearest VA medical center](/find-locations/)
 
 **Note:** We can deposit your check through either a one-time electronic funds transfer or as a check transaction. If we make an electronic funds transfer, your bank may withdraw the funds from your account on the same day as we process your payment and you won't receive your check back from your bank.
 
 <h3>If you need help understanding your patient statement</h3>
-- [View our guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf).
-- Call us at <a href="tel:+18664001238">1-866-400-1238</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). 
+- [View our guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf)
+- Call us at <a href="tel:+18664001238">1-866-400-1238</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 - Or visit your nearest VA medical center or other health facility and ask to talk with a member of the facility's revenue staff. <br>
-[Find your nearest VA health facility](/find-locations/). <br>
+[Find your nearest VA health facility](/find-locations/) <br>
 
 </div>
 </div>
@@ -92,8 +92,8 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 First, you should know that we won't withhold any treatment or medication from you because you can't pay your copays. But we're required by law to collect all copay debts for VA health care services.
 
 You have 30 days from the time you receive a copay billing statement from us to pay the full amount, dispute the charges, or request financial hardship assistance (like a repayment plan or debt relief) before we'll begin to add late charges and interest. <br>
-[Learn how to dispute your copay charges](/health-care/pay-copay-bill/dispute/). <br>
-[Learn how to request financial hardship assistance](/health-care/pay-copay-bill/financial-hardship/).
+[Learn how to dispute your copay charges](/health-care/pay-copay-bill/dispute/) <br>
+[Learn how to request financial hardship assistance](/health-care/pay-copay-bill/financial-hardship/)
 
 <b>Find out what happens if you don't take one of these actions within:</b>
 
@@ -134,7 +134,7 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 - Refer your account to a private collection agency, which will add more fees and interest to your debt.
 - Garnish your wages from a non-federal job. This means they may take part of your wages to pay your debt.
 
-<a href="https://fiscal.treasury.gov/top/">Visit the Treasury Offset Program website to learn more</a>. 
+<a href="https://fiscal.treasury.gov/top/">Visit the Treasury Offset Program website to learn more</a> 
 
 </div>
 </li>
@@ -146,7 +146,7 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 </div>
 
 For more information, watch our video on Veteran copayments. <br>
-[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
+[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be)
 
 ------
 <div itemscope itemtype="http://schema.org/Question">
@@ -154,10 +154,10 @@ For more information, watch our video on Veteran copayments. <br>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. (ET).
+If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. ET.
 
 We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
-[Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp).
+[Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp)
 
 </div>
 </div>
