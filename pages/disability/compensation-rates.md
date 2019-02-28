@@ -19,7 +19,7 @@ majorlinks:
     - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
       title: Special allowance compensation rates
       description: View current compensation rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
-    - url: /disability/eligibility/special-claims/birth-defects/
+    - url: https://www.benefits.va.gov/compensation/sb2018.asp
       title: Birth defect compensation rates
       description: View current compensation rates for children with spina bifida and other birth defects due to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
       
@@ -58,7 +58,7 @@ Yes. Your compensation may end up being less than it otherwise would be if eithe
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="cost">Do you give cost-of-living increases to disability payments?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="cost">Does VA give cost-of-living increases for disability payments?</button>
 <div id="cost" class="usa-accordion-content">
 
 Yes. We’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the Social Security Administration’s (SSA) website. <br>
