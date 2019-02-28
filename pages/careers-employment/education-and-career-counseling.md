@@ -73,3 +73,4 @@ If you qualify, we’ll invite you to an orientation session at a VA regional be
 Use CareerScope&reg; to find careers you might enjoy. <br>
 [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/). <br>
 
+

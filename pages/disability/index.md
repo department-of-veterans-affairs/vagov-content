@@ -10,10 +10,10 @@ hub: disability
 aliases:
   - /disability-benefits/
 promo:
-  - image: /img/megamenu/disability-illustration.png
-    heading: Decision Ready Claims (DRC) Program
-    url: "/disability/how-to-file-claim/evidence-needed/decision-ready-claims/"
-    description: Find out if you can use the DRC program to get a decision on your claim in 30 days or less.
+  - image: /img/hub-illustrations/disability.png
+    heading: Fully Developed Claims Program
+    url: "/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
+    description: Use this program to get a faster decision by submitting evidence along with your claim.
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
@@ -61,9 +61,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope        
+          icon: fa-envelope
       - subhead: Follow Us
-        links:      
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true

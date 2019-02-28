@@ -20,7 +20,7 @@ With our VA Prescription Refill and Tracking tool, you can refill your VA prescr
 
 </div>
 
-<div class="cta-widget" data-app-id="rx"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="rx"></div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
