@@ -73,7 +73,7 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 
 <br>
 
-### Are there any risks to using the Fully Developed Claims program?
+## Are there any risks to using the Fully Developed Claims program?
 
 No. Filing a fully developed claim won't affect the attention we give to your claim or the benefits you're entitled to receive.
 
@@ -83,9 +83,10 @@ Once you start your fully developed claim, you'll have up to 1 year to complete 
 
 <br>
 
-### What should the evidence show to support my disability claim?
+## What should the evidence show to support my disability claim?
 
 This depends on the type of claim you’re filing.<br>
+
 [See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/)<br>
 
 
@@ -99,7 +100,7 @@ This depends on the type of claim you’re filing.<br>
 
 <br>
 
-### Can VA help me gather evidence?
+## Can VA help me gather evidence?
 
 Yes. We can help you through the Fully Developed Claims program.
 
@@ -112,7 +113,7 @@ Yes. We can help you through the Fully Developed Claims program.
 
 <br>
 
-### When should I turn in my evidence? 
+## When should I turn in my evidence? 
 
 To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim. If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. <br>
 
@@ -120,7 +121,7 @@ If we decide your claim before 1 year from the date we receive the claim, you’
 
 <br>
 
-### How do I turn in my information and evidence?
+## How do I turn in my information and evidence?
 
 You'll need to upload all medical evidence or supporting documents at the end of the disability compensation form. 
 
@@ -130,7 +131,7 @@ You can start your online application right now, or find out how to file a claim
 
 <br>
 
-### Should I work with a Veterans Service Officer (VSO) to file my claim?
+## Should I work with a Veterans Service Officer (VSO) to file my claim?
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/)
