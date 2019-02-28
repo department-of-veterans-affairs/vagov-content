@@ -11,7 +11,7 @@ aliases:
   - /health-care/health-conditions/conditions-related-to-service-era/
 children: healthCareServiceRelated
 majorlinks:
-  - heading:
+  - heading: Explore health issues by service era
     links:
     - url: /health-care/health-needs-conditions/health-issues-related-to-service-era/operation-enduring-freedom/
       title: Operation Enduring Freedom in Afghanistan
@@ -39,5 +39,4 @@ majorlinks:
 <div class="va-introtext">
 
 Certain health concerns may be more likely to affect Veterans who served in a specific time and place. Find out which health concerns you should be aware of depending on when and where you served.
-
 </div>
