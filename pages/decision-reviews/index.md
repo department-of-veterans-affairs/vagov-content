@@ -162,7 +162,7 @@ hearing will take place at a VA location near you.
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>Longer</span></span>
   <span class="description">
     The Board will take longer to decide your appeal if you submit new evidence or request a hearing.
   </span>

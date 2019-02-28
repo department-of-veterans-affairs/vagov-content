@@ -105,7 +105,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>Longer</span></span>
   <span class="description">The Board will take longer to decide your appeal if you add new evidence or request a hearing.</span>
 </div>
 
