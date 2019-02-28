@@ -11,22 +11,22 @@ majorlinks:
   - heading: View current rate tables
     links:
     - url: https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp
-      title: Veterans disability compensation benefit rates
+      title: Veterans disability compensation rates
       description: View current compensation rates for Veterans with and without dependents.
     - url: https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp
       title: Special monthly compensation (SMC) rates
       description: View current special monthly compensation rates, based on severity of disability and dependents.
     - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
-      title: Special allowance compensation rates
+      title: Special allowances compensation rates
       description: View current compensation rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
     - url: https://www.benefits.va.gov/compensation/sb2018.asp
       title: Birth defect compensation rates
-      description: View current compensation rates for children with spina bifida and other birth defects due to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
+      description: View current compensation rates for children who have spina bifida or other birth defects linked to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
       
 ---
 <div class="va-introtext">
 
-View current VA disability compensation payment rates, and learn what factors other than your disability rating may affect the amount you receive each month.
+Find your current VA disability compensation rate, based on your disability rating. And learn what other factors may affect your monthly payment amount.
 
 </div>
 
