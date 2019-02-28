@@ -67,7 +67,7 @@ Service members
 - Coverage up to the top limit of $400,000—in $50,000 increments
 - 120 days of free coverage from the date you left the military
 - Extension of free coverage for up to 2 years (if you’re totally disabled) when you leave the military. <br>
-[See below for information on the SGLI-Disability Extension](#extension).
+[See below for information on the SGLI-Disability Extension](#extension)
 - Part-time coverage (if you’re a Reserve member who doesn’t qualify for full-time coverage)
 
 <br>
@@ -89,7 +89,7 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 <ol class="process" markdown="1">
   <li class="process-step list-one">
   
-  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
+  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/)
   
   </li>
   
@@ -117,16 +117,16 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 <br>
 
 **If you’re a member of the Public Health Service,** you'll need to fill out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and give it to your unit's personnel officer. <br>
-[Download the Servicemembers' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf).
+[Download the Servicemembers' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
 <br>
-[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp).
+[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 <br>
 
 ## How much will I pay for these benefits?
 
 If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatically taken out of your base pay. The current basic SGLI premium rate is 7 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic Injury Protection coverage (TSGLI). <br>
-[Learn more about TSGLI](/life-insurance/options-eligibility/tsgli/).
+[Learn more about TSGLI](/life-insurance/options-eligibility/tsgli/)
 
 **These are the SGLI premium rates effective July 1, 2014:**
 
@@ -145,10 +145,10 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 ## How do I convert my SGLI when I leave the military? 
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
-[Learn more about VGLI](/life-insurance/options-eligibility/vgli/).
+[Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
-[Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf).
+[Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
 <br>
 
@@ -178,26 +178,26 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
 
 To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and send it to the OSGLI address listed on the application. <br>
-[Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf).
+[Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI).
 
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
-[Learn more about VGLI](/life-insurance/options-eligibility/vgli/).
+[Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
 <br>
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp)
 
 ### Additional life insurance forms
 - Servicemembers' Group Life Insurance Supplemental Beneficiary Form (SGLV 8286S) <br>
-[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf). <br>
+[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf) <br>
 - Claim for Death Benefits (SGLV 8283)<br>
-[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf). <br>
+[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
 - Claim for Accelerated Benefits (SGLV 8284) <br>
-[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf). <br>
+[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 
 
 ------------
@@ -207,5 +207,5 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
 
 To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp). <br>
-[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/).
+[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
+[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)
