@@ -51,7 +51,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 </div>
 </div>
 
-## What evidence will VA take responsibility for gathering when I file a standard disability claim?
+## What evidence will VA gather when I file a standard disability claim?
 
 **With your permission, we’ll get related records from:**
 - Any federal agency (including the military)
