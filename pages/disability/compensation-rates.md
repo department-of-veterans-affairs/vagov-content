@@ -18,7 +18,7 @@ majorlinks:
       description: View current special monthly compensation rates, based on severity of disability and dependents.
     - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
       title: Special allowance compensation rates
-      description: View current rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
+      description: View current compensation rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
     - url: /disability/eligibility/special-claims/birth-defects/
       title: Birth defect compensation rates
       description: View current compensation rates for children with spina bifida and other birth defects due to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
@@ -26,7 +26,7 @@ majorlinks:
 ---
 <div class="va-introtext">
 
-View current VA disability compensation rates based on disability, and learn what factors other than your disability rating may affect your payment.
+View current VA disability compensation payment rates, and learn what factors other than your disability rating may affect the amount you receive each month.
 
 </div>
 
