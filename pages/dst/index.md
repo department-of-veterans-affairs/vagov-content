@@ -4,17 +4,17 @@ layout: page-breadcrumbs.html
 template: detail-page
 
 # The title of the tab.
-title: Appeals Sandbox
+title: Decision Support Tool Demo
 
 # The <h1> visible on the page
-display_title: Appeals Sandbox
+display_title: Decision Support Tool Demo
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: false
 ---
 
 <div class="va-introtext">
-Example introductory text.
+Demo page for the decision support tool. 
 </div>
 
 <script>
