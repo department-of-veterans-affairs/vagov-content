@@ -12,16 +12,16 @@ relatedlinks:
     links:
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge Claim
-      description: Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program
+      description: Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program.
     - url: /disability/eligibility/hazardous-materials-exposure/
       title: Exposure to Hazardous Chemicals and Materials
-      description: Learn more about claims for conditions related to contact with hazardous materials
+      description: Learn more about claims for conditions related to contact with hazardous materials.
     - url: /disability/eligibility/former-pows/
       title: Disability Benefits for Former Prisoners of War (POWs)
-      description: Learn more about claims for former Prisoners of War (POWs)
+      description: Learn more about claims for former Prisoners of War (POWs).
     - url: /disability/eligibility/special-claims/
       title: Special Claims
-      description: Learn more about other special claims
+      description: Learn more about other special claims.
 aliases:
   - /disability-benefits/apply/evidence/fully-developed-disability-claims/
   - /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
