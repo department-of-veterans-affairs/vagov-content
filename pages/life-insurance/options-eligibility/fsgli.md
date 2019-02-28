@@ -93,7 +93,7 @@ To access SOES, have your service member:
 Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have your service member turn it in to their unit's personnel officer. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).
+[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 
 <br>
 
@@ -253,7 +253,7 @@ To access SOES, have your service member:
 
   <li class="process-step list-one">
   
-  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
+  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/)
   
   </li>
   
@@ -278,9 +278,9 @@ To access SOES, have your service member:
 Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your service member is part of the Public Health Service,** you'll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have your service member turn it in to their unit's personnel officer. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).
+[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 <br>
-[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp).
+[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 **Note:** We automatically cover dependent children. This coverage can’t be turned down, reduced, or canceled.
 
@@ -320,7 +320,7 @@ You can’t convert other types of policies—such as term, variable, or univers
 **If you’d like to convert FSGLI coverage, you must also:**
 
 - Choose a company from the list of companies that take part in this program. <br>
-[View the companies you can choose from](https://www.benefits.va.gov/INSURANCE/forms/ParticList.htm).
+[View the companies you can choose from](https://www.benefits.va.gov/INSURANCE/forms/ParticList.htm)
 - Apply at the local sales office of the company you chose.
 - Give a copy of the most recent Leave and Earnings Statement (LES) to the agent, showing the deduction for spousal SGLI. You’ll also have to provide proof of coverage with one of these documents:
   - The service member’s separation document (Form DD214 or NGB-22, or written orders)
@@ -334,8 +334,12 @@ You can’t convert other types of policies—such as term, variable, or univers
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp)
 
 ### Additional life insurance forms
 - Claim for Family Coverage Death Benefits (SGLV 8283A) <br>
 [Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) 
+- Family Coverage Accelerated Benefits Option Form (SGLV 8284A) <br>
+[Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
+- Report of a Death of a Family Member (SGLV 8700) <br>
+[Download SGLV 8700](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
