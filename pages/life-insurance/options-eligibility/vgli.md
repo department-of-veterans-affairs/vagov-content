@@ -67,10 +67,10 @@ If you sign up within 240 days of leaving the military, you won’t need to prov
 **Apply in one of these ways:**
 
 - Apply through the Office of Servicemembers' Group Life Insurance (OSGLI), using the Prudential website. <br>
-[Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment).
-- [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management).
+[Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment)
+- [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management)
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
-[Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf).
+[Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
 
 
 Fax the form to 1-800-236-6142, or mail it to:
@@ -631,7 +631,7 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 </li>
 </ul>
 
-[See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp).
+[See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp)
 
 <br>
 
@@ -648,7 +648,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
   <li class="process-step list-one">
   
   Choose your new insurance company. <br>
-  [View our list of companies that take part in this program]( https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf).
+  [View our list of companies that take part in this program]( https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
   
   </li>
   
@@ -671,14 +671,14 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp). <br>
-[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1).
+[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp) <br>
+[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1)
 
 ### Additional life insurance forms
 - VGLI Beneficiary Designation (SGLV 8721) <br>
-[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf). <br>
+[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf) <br>
 - Application for Reinstatement of VGLI Coverage (SGLV 180) <br>
-[Download SGLV 180](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf). <br>
+[Download SGLV 180](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf) <br>
 - Claim for Accelerated Benefits (SGLV 8284) <br> 
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - Claim for Death Benefits (SGLV 8283) <br>
@@ -692,6 +692,6 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
 
 To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp). <br>
+[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
 
-[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/).
+[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)
