@@ -37,7 +37,7 @@ You have the right to dispute all or part of your VA copay charges. To avoid lat
 Write a letter explaining why you think the copay charges or balance amount may not be correct.
 
 Mail the letter, or bring it in person, to the business office or health administration office at your nearest VA medical center. If you send your dispute by mail, please include "Billing Dispute" on the mailing envelope. <br>
-[Find the address for your nearest VA medical center](/find-locations/).
+[Find the address for your nearest VA medical center](/find-locations/)
 
 </div>
 </div>
@@ -56,7 +56,7 @@ This depends on when we receive your dispute.
 
 <b>If we don't receive your dispute within 120 days,</b> we may transfer your debt to the U.S. Treasury for further collection action.
 
-[Learn more about the collection process](/health-care/pay-copay-bill/#collection).
+[Learn more about the collection process](/health-care/pay-copay-bill/#collection)
 
 </div>
 </div>
@@ -76,13 +76,13 @@ Yes. You can choose to have legal representation for all VA payment disputes.
 <b>To find an accredited representative or VSO:</b>
 
 - Go to eBenefits to find a local representative (including a recognized VSO, an attorney, or a claims agent) by state/territory, zip code, or the organization’s name. <br>
-<a href="https://www.ebenefits.va.gov/ebenefits/vso-search?_ga=2.197424556.2097259274.1549232369-1173244138.1525894550">Go to eBenefits</a>.
+<a href="https://www.ebenefits.va.gov/ebenefits/vso-search?_ga=2.197424556.2097259274.1549232369-1173244138.1525894550">Go to eBenefits</a>
 - Or search the VA Office of the General Counsel’s list to find VA-recognized organizations and VA-accredited individuals by name, city, state, or zip code. <br>
-<a href="https://www.va.gov/ogc/apps/accreditation/index.asp">Search the VA Office of the General Counsel’s list</a>.
+<a href="https://www.va.gov/ogc/apps/accreditation/index.asp">Search the VA Office of the General Counsel’s list</a>
 
 <b>To set up representative with an accredited representative or VSO:</b>
 
-Contact us at <a href="tel:+18664001238">1-866-400-1238</a> to request the necessary forms. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. (ET). If you have hearing loss, call TTY: 711.
+Contact us at <a href="tel:+18664001238">1-866-400-1238</a> to request the necessary forms. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 If you choose to hire an attorney or accredited agent for a fee, you'll need to send a copy of the agreement of payment to us at:
 <p class="va-address-block">
