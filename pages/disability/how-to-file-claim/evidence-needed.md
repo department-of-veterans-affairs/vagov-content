@@ -51,11 +51,11 @@ We require certain documents to support all claims for disability benefits.
 **Note:** In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Your records may have been destroyed in the fire if you were discharged from the Army between November 1, 1912 and January 1, 1960, or if you were discharged from the Air Force between September 25, 1947 and January 1, 1964. If you think your records may have been involved in this fire, you can learn more about the fire and how to get help filing a claim. <br>
 [Learn more about the fire at the NPRC](https://www.benefits.va.gov/COMPENSATION/NPRC1973Fire.asp).
 
-
+<span id="evidence-show"></span>
 ## What should the evidence show to support my disability claim?
-Find out what evidence you'll need for these different claim types.
+This depends on the type of claim you’re filing. Find out what evidence you'll need for the different claim types listed below.
 
-**Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information belows serves as this notification (called “section 5103 notice”).<br>
+**Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information below serves as this notification (called “section 5103 notice”).<br>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
