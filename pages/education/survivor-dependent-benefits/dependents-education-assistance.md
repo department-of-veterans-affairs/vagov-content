@@ -34,7 +34,7 @@ You may be able to get these benefits if both you and the Veteran or Servicememb
 
 - You can get benefits if you’re between the ages of 18 and 26, except in certain cases. You may be married or unmarried.
 - If you’re over 18 years old and using DEA, you can’t get Dependency and Indemnity Compensation (DIC) from us. <br>
-[Learn about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
+[Learn about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp)
 - If you join the military, you can’t use this benefit while on active duty. And if you want to use this benefit after you leave the service, you can't have a dishonorable discharge. Military service can extend your eligibility, but this increase doesn’t usually go past your 31st birthday.
 
 ### If you're the spouse of a Veteran or Servicemember
@@ -51,17 +51,18 @@ You may be able to get these benefits if both you and the Veteran or Servicememb
 We’ll make a monthly payment to your school to help cover the cost of:
 - College or graduate degree programs
 - Career-training certificate courses
+- Educational and career counseling
 - Apprenticeships
 - On-the-job training
 
 **Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on or after August 1, 2018, you can get benefits for up to 36 months.
 
-[View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp).
+[View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp)
 
 ### What if I qualify for both DEA and the Fry Scholarship?
 
 You'll need to pick one or the other. Once you make this choice, you can’t switch to the other program. <br>
-[Learn about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
+[Learn about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 
 **Exception:** If you’re the child of a Servicemember who died in the line of duty before August 1, 2011, you can use both DEA and the Fry Scholarship and get up to 81 months of education and training. You'll need to use one program at a time.
 
@@ -76,16 +77,20 @@ We may prescribe special restorative training, if needed, to help you overcome o
 First, contact your school’s certifying official to make sure your program is approved for VA benefits. Then, you can:
 - [Apply online now](/education/apply-for-education-benefits/application/5490/introduction), **or**
 - Apply by mail. You’ll need to fill out a Dependents’ Application for VA Education Benefits (VA Form 22-5490) and mail it to the regional processing office for your state. You’ll find the address on the last page of the form. <br>
-[Download VA Form 22-5490](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf). <br>
+[Download VA Form 22-5490](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf) <br>
 
 
 ### If you haven’t started school or a training program:
 - Get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 - Get more information about schools and see if we’ve approved your program. <br>
-[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
+[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
 
 ### If you’ve already started your program:
 - Take your application to your school or employer.
 - Ask your school to fill out a VA Enrollment Certification (VA Form 22-1999) and send it to us along with your application.
+
+
+### Get more information
+[Read the DEA pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf)
 
