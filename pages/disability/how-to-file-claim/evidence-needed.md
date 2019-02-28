@@ -38,7 +38,7 @@ When you file a disability claim, we review all available evidence (supporting d
 
 </div>
 
-### What documents will I need to support my claim?
+## What documents will I need to support my claim?
 
 We require certain documents to support all claims for disability benefits. 
 
@@ -52,7 +52,7 @@ We require certain documents to support all claims for disability benefits.
 [Learn more about the fire at the NPRC](https://www.benefits.va.gov/COMPENSATION/NPRC1973Fire.asp).
 
 
-### What should the evidence show to support my disability claim?
+## What should the evidence show to support my disability claim?
 Find out what evidence you'll need for these different claim types.
 
 **Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information belows serves as this notification (called “section 5103 notice”).<br>
