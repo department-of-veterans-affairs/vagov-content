@@ -26,11 +26,11 @@ majorlinks:
 ---
 <div class="va-introtext">
 
-View current VA disability compensation rates, and learn what other factors may affect your payment.
+View current VA disability compensation rates based on disability, and learn what factors other than your disability rating may affect your payment.
 
 </div>
 
-## Helpful information about your compensation payments
+### Factors that may affect your compensation payments
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
