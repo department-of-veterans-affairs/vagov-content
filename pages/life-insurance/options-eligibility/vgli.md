@@ -637,7 +637,11 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 ## Can I choose or update my beneficiaries?  
 Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
-You'll need to fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
+**Update your beneficiary information in one of these ways:** 
+
+- Access your policy online. <br> 
+[Find your policy through Prudential Life Insurance Company of America](https://giosgli.prudential.com/osgli/web/OSGLIMenu.html), **or** <br>
+- Fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
 
 Fax the form to 1-800-236-6142, or mail it to:
