@@ -29,7 +29,7 @@ Demo page for the decision support tool.
     <input type="submit" value="submit" />
 </form>
 
-<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://s3-us-gov-west-1.amazonaws.com/staging-va-gov-assets/js/jquery-1.12.0.min.js"></script>
 <script type="text/javascript">
 $('#address_form').submit(function(e) {
     e.preventDefault();
@@ -42,7 +42,7 @@ $('#address_form').submit(function(e) {
     });
     $.ajax({
         type: 'POST',
-        url: 'http://ec2-35-170-241-240.compute-1.amazonaws.com/',
+        url: 'https://veteligibilitystatus.com',
         dataType: 'json',
         contentType: 'application/json; charset=utf-8',
         data: JSON.stringify(data),
