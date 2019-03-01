@@ -8,20 +8,35 @@ order: 1
 aliases:
 spoke: More Resources
 majorlinks:
-  - heading: View current rate tables
+  - heading: View current disability compensation rates
     links:
     - url: https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp
       title: Veterans disability compensation rates
-      description: View current compensation rates for Veterans with and without dependents.
+      description: View current disability compensation rates based on disability rating and number of dependents.
     - url: https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp
       title: Special monthly compensation (SMC) rates
-      description: View current special monthly compensation rates, based on severity of disability and dependents.
+      description: View current compensation rates that may apply to you if you qualify for special monthly compensation based on the severity of your disability.
     - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
       title: Special allowances compensation rates
-      description: View current compensation rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
+      description: View current compensation rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
     - url: https://www.benefits.va.gov/compensation/sb2018.asp
       title: Birth defect compensation rates
-      description: View current compensation rates for children who have spina bifida or other birth defects linked to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
+      description: View current compensation rates that may apply to your family if your child has spina bifida or certain other birth defects linked to your or another parent’s service in South Vietnam or the Republic of Korea.
+relatedlinks:
+  - heading: View rates for other types of VA compensation
+    links: 
+    - url: https://benefits.va.gov/Compensation/current_rates_dic.asp
+      title: VA dependency and indemnity compensation rates (VA DIC)
+      description: View current rates for VA DIC compensation for eligible surviving spouses and children. 
+    - url: https://benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp
+      title: Parents dependency and indemnity compensation rates
+      description: View current rates for VA DIC compensation for eligible surviving parents. 
+    - url: https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
+      title: Veterans pension rates
+      description: View current Veterans pension rates, including rates for aid and attendance or housebound allowance.
+    - url: https://www.benefits.va.gov/pension/current_rates_survivor_pen.asp
+      title: Survivors pension rates
+      description: View current Survivors pension rates, including rates for aid and attendance or housebound allowance.    
       
 ---
 <div class="va-introtext">
