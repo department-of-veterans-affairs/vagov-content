@@ -17,43 +17,43 @@ vagovprod: false
 Demo page for the decision support tool. 
 </div>
 
-        <form id="address_form">
-            <label>Street Address:</label><input type="text" name="street"/>
-            <br/>
-            <label>City:</label><input type="text" name="city"/>
-            <br/>
-            <label>State:</label><input type="text" name="state"/>
-            <br/>
-            <label>Zip:</label><input type="text" name="zip_code"/>
-            <br/>
-            <input type="submit" value="submit" />
-        </form>
-        
-        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-        <script type="text/javascript">
-            $('#address_form').submit(function(e) {
-                    e.preventDefault();
-                    var data = {};
-                    var Form = this;
-                    $.each(this.elements, function(i, v) {
-                        var input = $(v);
-                        data[input.attr("name")] = input.val();
-                        delete data["undefined"];
-                    });
-                    $.ajax({
-                        type: 'POST',
-                        url: 'http://ec2-35-170-241-240.compute-1.amazonaws.com/',
-                        dataType: 'json',
-                        contentType: 'application/json; charset=utf-8',
-                        data: JSON.stringify(data),
-                        context: Form,
-                        success: function(callback) {
-                            console.log(callback);
-                            $(this).text('Address input was ' + callback.street + ' ' + callback.city + ' ' + callback.state + ' ' + callback.zip_code + '!');
-                        },
-                        error: function() {
-                            $(this).html("error!");
-                        }
-                    });
-                });
-        </script>
+<form id="address_form">
+    <label>Street Address:</label><input type="text" name="street"/>
+    <br/>
+    <label>City:</label><input type="text" name="city"/>
+    <br/>
+    <label>State:</label><input type="text" name="state"/>
+    <br/>
+    <label>Zip:</label><input type="text" name="zip_code"/>
+    <br/>
+    <input type="submit" value="submit" />
+</form>
+
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">
+$('#address_form').submit(function(e) {
+    e.preventDefault();
+    var data = {};
+    var Form = this;
+    $.each(this.elements, function(i, v) {
+        var input = $(v);
+        data[input.attr("name")] = input.val();
+        delete data["undefined"];
+    });
+    $.ajax({
+        type: 'POST',
+        url: 'http://ec2-35-170-241-240.compute-1.amazonaws.com/',
+        dataType: 'json',
+        contentType: 'application/json; charset=utf-8',
+        data: JSON.stringify(data),
+        context: Form,
+        success: function(callback) {
+            console.log(callback);
+            $(this).text('Address input was ' + callback.street + ' ' + callback.city + ' ' + callback.state + ' ' + callback.zip_code + '!');
+        },
+        error: function() {
+            $(this).html("error!");
+        }
+    });
+});
+</script>
