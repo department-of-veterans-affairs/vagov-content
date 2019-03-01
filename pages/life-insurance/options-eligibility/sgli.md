@@ -157,6 +157,11 @@ When you leave the military, you can apply to convert to Veterans’ Group Life 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
+**View these diagrams showing when you can convert a SGLI policy** <br>
+[SGLI to VGLI conversion](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
+[SGLI to VGLI conversion if you're a Reservist and National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
+[SGLI to VGLI conversion if you're in the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
+[SGLI to VGLI conversion if you're on the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
 <br>
 
 <span id="extension"></span>
@@ -196,7 +201,8 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp)
+[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp) <br>
+
 
 ### Additional life insurance forms
 - Servicemembers' Group Life Insurance Supplemental Beneficiary Form (SGLV 8286S) <br>
