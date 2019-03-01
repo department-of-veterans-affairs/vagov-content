@@ -119,7 +119,25 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 **If you’re a member of the Public Health Service,** you'll need to fill out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and give it to your unit's personnel officer. <br>
 [Download the Servicemembers' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
 <br>
-[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
+[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)<br>
+
+
+You can also update your beneficiary by filling out a Designation of Beneficiary and Optional Settlement (VA Form 29-336). <br>
+[Download VA Form 29-336](https://www.vba.va.gov/pubs/forms/VBA-29-336-ARE.pdf)
+
+If you're unable to sign your name on the form, you'll need to do one of the below:  
+
+- Make a mark in place of your signature on the form. Two people who aren't listed as your beneficiaries must witness you making the mark and sign the form, **or**
+
+- Send us letter explaining your condition and why you can't sign the form.
+
+**To update a beneficiary for an incompetent Veteran:**
+
+Only a court-appointed guardian can change a beneficiary designation for the Veteran. The guardian must: 
+
+- Fill out a Designation of Beneficiary and Optional Settlement (VA Form 29-336), **and**
+
+- Include their guardianship documents and court order that authorizes them to change a beneficiary designation with the form. 
 
 <br>
 
