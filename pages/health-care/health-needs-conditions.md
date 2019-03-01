@@ -41,7 +41,7 @@ At VA, we offer many services and programs for Veterans with specific needs—li
 
 Yes. Certain health concerns may be more likely to affect Veterans who served in a specific time and place. Find out which health concerns you should be aware of depending on when and where you served. <br>
 
-[Get health information by service dates and locations](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
+[Get health information by service dates and locations](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
 
 </div>
 
