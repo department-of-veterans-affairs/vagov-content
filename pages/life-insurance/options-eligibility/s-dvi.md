@@ -72,14 +72,14 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 <br>
 
-### What kind of life insurance benefits can I get with S-DVI?
+## What kind of life insurance benefits can I get with S-DVI?
 
 - Up to $10,000 of coverage
 - Up to $30,000 of supplemental coverage
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 **You’ll need to apply for benefits in 1 of 2 ways:**
 
@@ -103,7 +103,7 @@ If you want to apply for Supplemental S-DVI, you must have already applied for a
 
 <br>
 
-### How much will I pay for these benefits?
+## How much will I pay for these benefits?
 
 Your premium rate (the amount you’ll pay each month for your coverage) depends on all of the factors listed below.
 
@@ -117,7 +117,7 @@ See the premium rates and a description of the plan options. <br>
 
 <br>
 
-### Can I get a waiver so I don’t have to pay the premiums?
+## Can I get a waiver so I don’t have to pay the premiums?
 
 Yes, in some cases. Under certain conditions, the basic S-DVI policy provides for a waiver of premiums for Veterans who are totally disabled. <br>
 [Learn more about premium waivers](/life-insurance/totally-disabled-or-terminally-ill/#waiver)
@@ -132,7 +132,7 @@ You must pay your premiums for Supplemental S-DVI.
 
 -------------
 
-### Veterans’ Mortgage Life Insurance (VMLI)
+## Veterans’ Mortgage Life Insurance (VMLI)
 
 If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
 
