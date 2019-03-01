@@ -102,7 +102,7 @@ Yes. Certain health concerns may be more likely to affect Veterans who served in
 
 **[Get an overview of what’s covered by VA health care](/health-care/about-va-health-benefits/)**
 
-**[Get more information in our health topics index](https://www.va.gov/health/topics/index.asp)**
+**[Use our health topics index to find more information](https://www.va.gov/health/topics/index.asp)**
 
 </div>
 </div>
