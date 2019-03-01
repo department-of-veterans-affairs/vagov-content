@@ -637,6 +637,7 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 ## Can I choose or update my beneficiaries?  
 Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
+
 **Update your beneficiary information in one of these ways:** 
 
 - Access your policy online. <br> 
