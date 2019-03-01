@@ -144,6 +144,12 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 <br>
 
+## How do I file a life insurance claim?
+You'll need to fill out a Claim for Death Benefits (SGLV 8283) and call your Branch of Service Casualty Assistance Office for help in submitting the form to the Office of Servicemembers Group Life Insurance (OSGLI). <br>
+[Download a Claim for Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf).
+
+<br>
+
 ## How do I convert my SGLI when I leave the military? 
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
