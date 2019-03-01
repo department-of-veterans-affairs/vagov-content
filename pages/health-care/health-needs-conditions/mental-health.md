@@ -22,7 +22,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
+	<a id="crisis-expander-link">Find out how to get support anytime, day or night</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
 	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
@@ -62,7 +62,7 @@ If you need support for a specific mental health problem—or if you’re having
 - **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
 
 You don’t need to be enrolled in VA health care to get care. <br>
-<a href="https://www.va.gov/health-care/health-needs-conditions/mental-health/">Learn more about accessing VA mental health services</a>
+<a href="/health-care/health-needs-conditions/mental-health/">Learn more about accessing VA mental health services</a>
 
 **To connect with other resources for Veterans and transitioning service members:**
 - <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
