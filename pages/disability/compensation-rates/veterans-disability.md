@@ -7,21 +7,6 @@ template: detail-page
 order: 1
 aliases:
 spoke: More Resources
-majorlinks:
-  - heading: View current rate tables
-    links:
-    - url: https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp
-      title: Veterans disability compensation rates
-      description: View current compensation rates for Veterans with and without dependents.
-    - url: https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp
-      title: Special monthly compensation (SMC) rates
-      description: View current special monthly compensation rates, based on severity of disability and dependents.
-    - url: https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp
-      title: Special allowances compensation rates
-      description: View current compensation rates for Veterans who qualify for an automobile or clothing allowance, or who've received the Medal of Honor.
-    - url: https://www.benefits.va.gov/compensation/sb2018.asp
-      title: Birth defect compensation rates
-      description: View current compensation rates for children who have spina bifida or other birth defects linked to a parent's past contact with certain chemicals during service in South Vietnam or the Republic of Korea.
       
 ---
 <div class="va-introtext">
@@ -37,7 +22,7 @@ Find your current VA disability compensation rate, based on your disability rati
 | 10% | $140.05 | 
 | 20% | $276.84 | 
 
-### Veterans with a dependent spouse or parent, but no children
+### Veterans with a 30% to 100% disability rating and a dependent spouse or parent, but no children
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-no-children">30% to 60% disabling</button>
@@ -79,7 +64,7 @@ Find your current VA disability compensation rate, based on your disability rati
 </li>
 </ul>
 
-### Veterans with dependents, including children
+### Veterans with a 30% to 100% disability rating and dependents, including children
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-yes-children">30% to 60% disabling</button>
