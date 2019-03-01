@@ -42,7 +42,7 @@ $('#address_form').submit(function(e) {
     });
     $.ajax({
         type: 'POST',
-        url: 'http://ec2-35-170-241-240.compute-1.amazonaws.com/',
+        url: 'https://veteligibilitystatus.com',
         dataType: 'json',
         contentType: 'application/json; charset=utf-8',
         data: JSON.stringify(data),
