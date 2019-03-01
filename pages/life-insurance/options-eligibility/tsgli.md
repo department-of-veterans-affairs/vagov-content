@@ -73,13 +73,13 @@ Service members covered by SGLI
 
 <br>
 
-### What kind of life insurance benefits can I get through TSGLI?
+## What kind of life insurance benefits can I get through TSGLI?
 
 You may get $25,000 to $100,000 in short-term financial support to help in your recovery from a traumatic injury.
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’re automatically covered through TSGLI if you’re signed up for full-time SGLI. This insurance covers you even if your injury happened while you were off duty.
 
@@ -89,7 +89,7 @@ To get payments—including retroactive TSGLI payments—you’ll need to apply.
 
 <br>
 
-### How do I appeal a decision if I’m denied benefits?
+## How do I appeal a decision if I’m denied benefits?
 
 First, look at the denial letter you received from your branch of service. Your letter will tell you if you should use the TSGLI Appeal Request Form (SGLV 8600A)—and how long you’ll have to submit your appeal.
 
@@ -99,7 +99,7 @@ If your letter says to complete this form, fill it out and submit it to your bra
 
 <br>
 
-### How much will I pay for these benefits? 
+## How much will I pay for these benefits? 
 
 If you have SGLI coverage, your SGLI premium (which is automatically deducted from your base pay) includes a $1-per-month flat-rate premium for TSGLI. This is all you’ll pay for this benefit.
 
