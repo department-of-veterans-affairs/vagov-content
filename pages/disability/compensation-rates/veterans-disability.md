@@ -22,6 +22,8 @@ Find your current VA disability compensation rate, based on your disability rati
 | 10% | $140.05 | 
 | 20% | $276.84 | 
 
+**Note:** If you have a 10% to 20% disability rating, you won't receive added amounts for children or other dependents.
+
 ### Veterans with a 30% to 100% disability rating and a dependent spouse or parent, but no children
 
 <ul class="usa-accordion" aria-multiselectable="true">
@@ -31,12 +33,20 @@ Find your current VA disability compensation rate, based on your disability rati
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
 | Veteran alone (no dependents) | $428.83 | $617.73 | $879.36 | $1,113.86 |
-| Veteran with spouse only | $479.83 | $685.73 | $964.36 | $1,215.86 |
+| Veteran with spouse (no parents) | $479.83 | $685.73 | $964.36 | $1,215.86 |
 | Veteran with spouse and one parent | $520.83 | $739.73 | $1,032.36 | $1,297.86 |
 | Veteran with spouse and 2 parents | $561.83 | $793.73 | $1,100.36 | $1,379.86 |
 | Veteran with one parent (no spouse) | $469.83 | $671.73 | $947.36 | $1,195.86 |
 | Veteran with 2 parents (no spouse) | $510.83 | $725.73 | $1,015.36 | $1,277.86 |
-| Added amount for Veteran with spouse receiving aid and attendance (A&A) | $428.83 | $617.73 | $879.36 | $1,113.86 |
+
+<h5> Added amounts </h5>
+
+| Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
+| -- | -- |-- |-- |-- | 
+| Spouse receiving aid and attendance (A&A) | $47.00 | $62.00 | $78.00 | $94.00 |
+
+<b>Note:</b> If you have a spouse who's receiving A&A, add this added amount to your base rate to get your total monthly compensation rate. <br>
+For example: If you're a Veteran with a 30% disability rating with one spouse who's receiving A&A, you would start with the rate of $479.83 for a Veteran with spouse (no parents). Then you would add the $47.00 rate for a spouse receiving A&A. So your total monthly rate would be $479.83 + $47.00 = <b>$526.83</b>.  
 
 </div>
 </li>
@@ -48,7 +58,7 @@ Find your current VA disability compensation rate, based on your disability rati
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
 | Veteran alone (no dependents) | $1,403.71 | $1,631.69 | $1,833.62 | $3,057.13 |
-| Veteran with spouse only | $1,522.71 | $1,767.69 | $1,986.62 | $3,227.58 |
+| Veteran with spouse (no parents) | $1,522.71 | $1,767.69 | $1,986.62 | $3,227.58 |
 | Veteran with spouse and one parent | $1,617.71 | $1,876.69 | $2,109.62 | $3,364.37 |
 | Veteran with spouse and 2 parents | $1,712.71 | $1,985.69 | $2,232.62 | $3,501.16 |
 | Veteran with one parent (no spouse) | $1,498.71 | $1,740.69 | $1,956.62 | $3,193.92 |
@@ -58,7 +68,10 @@ Find your current VA disability compensation rate, based on your disability rati
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| Added amount for a spouse receiving aid and attendance (A&A) | $109.00 | $125.00 | $141.00 | $156.32 |
+| Spouse receiving aid and attendance (A&A) | $109.00 | $125.00 | $141.00 | $156.32 |
+
+<b>Note:</b> If you have a spouse who's receiving A&A, add this added amount to your base rate to get your total monthly compensation rate. <br>
+For example: If you're a Veteran with a 70% disability rating with one spouse who's receiving A&A, you would start with the rate of $1,522.71 for a Veteran with spouse (no parents). Then you would add the $109.00 rate for a spouse receiving A&A. So your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>.  
 
 </div>
 </li>
@@ -89,6 +102,13 @@ Find your current VA disability compensation rate, based on your disability rati
 | Each additional child over age 18 in a qualifying school program | $82.00 | $109.00 | $136.00 | $164.00 |
 | Spouse receiving aid and attendance (A&A) | $47.00 | $62.00 | $78.00 | $94.00 |
 
+<ul>
+      <li><b>If you have more than one child,</b> please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find the base rate, then add the amount for each child, depending on their age and school status. <br>
+For example: If you're a Veteran with a 30% disability rating, and you have a spouse, 3 children who are under 18, and one child who is over 18 and in a qualifying school program, you would start with your base rate of $516.83 for a Veteran with one child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 3) as well as the rate of $191.00 for each additional child over 18 in a qualifying school program. Your total would be $516.83 + ($25.00 x 3) + $82.00 = <b>$623.83</b>.</li>
+      <li><b>If you have a spouse who receives aid and attendance (A&A),</b> you can find your total monthly compensation rate by adding the rate for spouse receiving aid and attendance to your base rate. If you also have more than one child, you'll add the amount for each additional child as well. <br>
+For example: If you're a Veteran with a 30% disability rating have 2 children who are under age 18 as well as a spouse who's receiving A&A, you would start with your base rate of $516.83 for a Veteran with one child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 2) as well as the rate of $47.00 for a spouse receiving A&A. So your total monthly compensation rate would be $516.83 + ($25.00 x 2) + $47.00 = <b>$613.83</b>.</li>
+</ul>
+
 </div>
 </li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-100-yes-children">70% to 100% disabling</button>
@@ -105,7 +125,6 @@ Find your current VA disability compensation rate, based on your disability rati
 | Veteran with one child and one parent (no spouse) | $1,577.71 | $1,940.69 | $2,181.62 | $3,444.70 |
 | Veteran with one child and 2 parents (no spouse) | $1,672.71 | $1,849.69 | $2,079.62 | $3,330.71 |
 
-
 <h5> Added amounts </h5>
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
@@ -116,12 +135,12 @@ Find your current VA disability compensation rate, based on your disability rati
 
 <b>How to factor in added amounts:</b>
 
-- <b>If you have more than one child,</b> please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find the base rate, then add the amount for each child, depending on their age and school status. <br>
-<br>
-For example: If you're a Veteran with a 70% disability rating, and you have a spouse, 3 children who are under 18, and one child who is over 18 and in a qualifying school program, you would start with your base rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 3) as well as the rate of $191.00 for each additional child over 18 in a qualifying school program. Your total would be $1,609.71 + ($59 x 3) + $191 = <b>$1,997.71</b>. 
-- <b>If you have a spouse who receives aid and attendance (A&A),</b> you can find your total monthly compensation rate by adding the rate for spouse receiving aid and attendance to your base rate. If you also have more than one child, you'll add the amount for each additional child as well. <br>
-<br>
-For example: If you're a Veteran with a 70% disability rating have 2 children who are under age 18 as well as a spouse who's receiving A&A, you would start with your base rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 2) as well as the rate of $109 for a spouse receiving A&A. So your total monthly compensation rate would be $1,609.71 + ($59 x 2) + $109 = <b>$1,836.71</b>.
+<ul>
+      <li><b>If you have more than one child,</b> please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find the base rate, then add the amount for each child, depending on their age and school status. <br>
+For example: If you're a Veteran with a 70% disability rating, and you have a spouse, 3 children who are under 18, and one child who is over 18 and in a qualifying school program, you would start with your base rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 3) as well as the rate of $191.00 for each additional child over 18 in a qualifying school program. Your total would be $1,609.71 + ($59.00 x 3) + $191.00 = <b>$1,997.71</b>.</li>
+      <li><b>If you have a spouse who receives aid and attendance (A&A),</b> you can find your total monthly compensation rate by adding the rate for spouse receiving aid and attendance to your base rate. If you also have more than one child, you'll add the amount for each additional child as well. <br>
+For example: If you're a Veteran with a 70% disability rating have 2 children who are under age 18 as well as a spouse who's receiving A&A, you would start with your base rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 2) as well as the rate of $109 for a spouse receiving A&A. So your total monthly compensation rate would be $1,609.71 + ($59.00 x 2) + $109.00 = <b>$1,836.71</b>.</li>
+</ul>
 
 </div>
 </li>
