@@ -635,6 +635,19 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 <br>
 
+## Can I choose or update my beneficiaries?  
+Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
+You'll need to fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
+[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
+
+Fax the form to 1-800-236-6142, or mail it to:
+
+<p class="va-address-block">
+  OSGLI<br>
+  PO Box 41618<br>
+  Philadelphia, PA 19176-9913<br>
+</p>
+
 <br>
 
 ## Can I convert my VGLI policy into a commercial policy?
