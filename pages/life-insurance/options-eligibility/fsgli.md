@@ -297,9 +297,15 @@ Nothing. We provide dependent coverage at no cost until the child is 18 years ol
 
 <br>
 
-### Can my service member get extended coverage for our dependent child?
+## Can my service member get extended coverage for our dependent child?
 
 Yes, in some cases. Coverage lasts until the child is 18 years old. But, if the child is a full-time student between 18 and 22 years old, we may extend the coverage. Or, if the child becomes permanently and totally disabled before turning 18 and is no longer able to support themselves, we may extend the coverage—in some cases indefinitely.
+
+<br>
+
+## How do I file a life insurance claim? 
+You’ll need to fill out a Claim for Family Coverage Death Benefits (SGLV 8283A) and call your Branch of Service Casualty Assistance Office for help in submitting the form to the Office of Servicemembers Group Life Insurance (OSGLI). <br>
+[Download a Claim for Family Coverage Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf)
 
 <br>
 
