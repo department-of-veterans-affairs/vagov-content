@@ -29,7 +29,7 @@ Demo page for the decision support tool.
     <input type="submit" value="submit" />
 </form>
 
-<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://s3-us-gov-west-1.amazonaws.com/staging-va-gov-assets/js/jquery-1.12.0.min.js"></script>
 <script type="text/javascript">
 $('#address_form').submit(function(e) {
     e.preventDefault();
