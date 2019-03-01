@@ -107,4 +107,7 @@ Send notice of any changes to:
 </p>
 
 [Read our life insurance publications for more guidance](https://www.benefits.va.gov/INSURANCE/ins_publications.asp) <br>
+
+### Where can I find more information?
+
 [Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)
