@@ -655,6 +655,20 @@ Fax the form to 1-800-236-6142, or mail it to:
 
 <br>
 
+## How do I file a life insurance claim? 
+You’ll need to fill out a Claim for Death Benefits (SGLV 8283) and include a copy of the Veteran's death certificate. <br>
+[Download a Claim for Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf) <br>
+
+Fax the form to 1-877-832-4943, or mail it to: 
+
+<p class="va-address-block">
+  OSGLI<br>
+  PO Box 70173<br>
+  Philadelphia, PA 19176-9912<br>
+</p>
+
+<br>
+
 ## Can I convert my VGLI policy into a commercial policy?
 
 Yes. You can convert your policy into a commercial (civilian) policy at any time. You’ll be able to convert at standard premium rates, without having to provide proof that you’re in good health.
