@@ -125,9 +125,9 @@ For more information, you can download these fact sheets:
 - [Female Veterans: Lesbian and bisexual health care](https://www.patientcare.va.gov/LGBT/docs/va-pcs-lgbt-factsheet-lesbian-bisexual.pdf#)
 
 You can also find out more about LGBT programs at VA medical centers across the nation. <br>
-[View VA medical center LGBT program websites](https://www.patientcare.va.gov/LGBT/VAFacilities.asp).
+[View VA medical center LGBT program websites](https://www.patientcare.va.gov/LGBT/VAFacilities.asp)
 
-[Read about our approach to recognizing same-sex marriage](https://www.va.gov/opa/marriage/).
+[Read about our approach to recognizing same-sex marriage](https://www.va.gov/opa/marriage/)
 
 ------
 
@@ -137,7 +137,8 @@ You can also find out more about LGBT programs at VA medical centers across the 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help. [Learn more about your VA health care coverage](/health-care/about-va-health-benefits/).
+If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help.<br> 
+[Learn more about your VA health care coverage](/health-care/about-va-health-benefits/)
 
 If you need help accessing services, call our toll-free hotline at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. (<abbr title="eastern time">ET</abbr>).
 
