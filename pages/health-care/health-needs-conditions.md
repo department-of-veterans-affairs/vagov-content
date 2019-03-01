@@ -100,7 +100,9 @@ Yes. Certain health concerns may be more likely to affect Veterans who served in
 - [Women’s health care needs](/health-care/health-needs-conditions/womens-health-needs/)
 
 
-**[Get an overview of what’s covered by VA health care](/health-care/about-va-health-benefits/).**
+**[Get an overview of what’s covered by VA health care](/health-care/about-va-health-benefits/)**
+
+**[Get more information in our health topics index](/health/topics/index.asp)**
 
 </div>
 </div>
@@ -151,9 +153,9 @@ If you need help accessing services, call our toll-free hotline at 1-877-222-VET
 <div itemprop="text">
 
 Yes. If you’re signed up for the VA health care program, you can manage your VA health and benefits online through VA.gov: <br>
-[Refill your prescriptions](/health-care/refill-track-prescriptions). <br>
-[Send a message to your VA health care provider](/health-care/secure-messaging). <br>
-[Check the status of a disability or pension claim](/track-claims/).
+[Refill your prescriptions](/health-care/refill-track-prescriptions) <br>
+[Send a message to your VA health care provider](/health-care/secure-messaging) <br>
+[Check the status of a disability or pension claim](/track-claims/)
 
 </div>
 </div>
