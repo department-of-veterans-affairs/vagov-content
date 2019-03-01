@@ -197,6 +197,10 @@ If you get approved, you’ll receive a notice 20 months after your separation d
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
+**View this diagram showing when you can convert a SGLI-DE policy**<br>
+[SGLI-DE to VGLI conversion](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
+
+
 <br>
 
 ### Where can I find more information?
