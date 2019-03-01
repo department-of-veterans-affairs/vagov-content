@@ -110,4 +110,5 @@ Send notice of any changes to:
 
 ### Where can I find more information?
 
-[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)
+[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)<br>
+[Read an overview of how to file a claim for VMLI](https://www.benefits.va.gov/INSURANCE/images/VMLI_Claim.pdf)
