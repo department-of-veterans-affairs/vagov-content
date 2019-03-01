@@ -40,18 +40,18 @@ You may be able to get VMLI if you have a severe disability, and you meet all of
 
 #### Who’s covered?
 
-- Servicemembers
+- Service members
 - Veterans
 
 </div>
 
 <br>
 
-### What kind of life insurance benefits can I get with VMLI?
+## What kind of life insurance benefits can I get with VMLI?
 
 Up to $200,000 in mortgage life insurance—paid directly to the bank or other lender that holds your mortgage. 
 
-#### Important details about VMLI:
+### Important details about VMLI:
 
 - The money will be paid directly to the bank or other lender that holds your mortgage—not to a life insurance beneficiary (a person chosen to receive the money from a policy when the insured dies).
 - The amount of coverage will equal the amount you still owe on your mortgage, but won’t be more than $200,000. 
@@ -60,18 +60,18 @@ Up to $200,000 in mortgage life insurance—paid directly to the bank or other l
 
 <br>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 First, you’ll need to apply for an SAH grant. If you get the SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI. If you already have an SAH grant, ask your agent about VMLI.
 
 Your agent will help you fill out a Veterans’ Mortgage Life Insurance Statement (VA Form 29-8636).<br>
-[Download VA Form 29-8636](https://www.benefits.va.gov/INSURANCE/forms/29-8636_08-2011.pdf). 
+[Download VA Form 29-8636](https://www.benefits.va.gov/INSURANCE/forms/29-8636_08-2011.pdf) 
 
 **Note:** Remember, you must apply for VMLI before your 70th birthday.
 
 <br>
 
-### How much will I pay for these benefits?
+## How much will I pay for these benefits?
 
 **Your VMLI premium will be based on all of these factors:**
 
@@ -80,11 +80,12 @@ Your agent will help you fill out a Veterans’ Mortgage Life Insurance Statemen
 - How many more mortgage payments you need to make to pay off your mortgage, **and**
 - The amount of VMLI coverage you need
 
-Use our VMLI Premium Calculator to figure out what your premium may be. [Go to the VMLI Premium Calculator](https://insurance.va.gov/VMLICalc/VMLICalc.asp).
+Use our VMLI Premium Calculator to figure out what your premium may be. <br>
+[Go to the VMLI Premium Calculator](https://insurance.va.gov/VMLICalc/VMLICalc.asp)
 
 <br>
 
-### What happens if I move, refinance, or make other changes to my mortgage?
+## What happens if I move, refinance, or make other changes to my mortgage?
 
 The home covered by VMLI must be your primary residence (the home where you live most of the time).
 
@@ -105,4 +106,5 @@ Send notice of any changes to:
   Philadelphia, PA 19101<br>
 </p>
 
-[Read our life insurance publications for more guidance](https://www.benefits.va.gov/INSURANCE/ins_publications.asp). 
+[Read our life insurance publications for more guidance](https://www.benefits.va.gov/INSURANCE/ins_publications.asp) <br>
+[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)
