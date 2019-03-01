@@ -8,7 +8,7 @@ order: 1
 aliases:
 spoke: More Resources
 relatedlinks:
-  - heading: Information to help you manage your disability compensation
+  - heading: Information to help you manage your benefits
     links:
     - url: /disability-benefits/apply/form-526-disability-claim/introduction/ 
       title: File for a VA disability increase
@@ -21,7 +21,7 @@ relatedlinks:
       description: Find out how to change your information online.
     - url: /va-payment-history/
       title: View your disability payments history
-      desccription: Check the status of your VA disability and pension payments. You can also see certain survivor benefits.      
+      description: Check the status of your VA disability and pension payments. You can also see certain survivor benefits.      
 ---
 <div class="va-introtext">
 
@@ -29,7 +29,7 @@ Find your current VA disability compensation rate, based on your disability rati
 
 </div>
 
-<h2> Veterans with a 10% to 20% disability rating</h2>
+<h2>Veterans with a 10% to 20% disability rating</h2>
 
 | Disability rating  | Monthly compensation rate | 
 | -- | -- | 
@@ -38,13 +38,15 @@ Find your current VA disability compensation rate, based on your disability rati
 
 **Note:** If you have a 10% to 20% disability rating, you won't receive added amounts for children or other dependents.
 
-<h2>Veterans with a 30% to 100% disability rating and a dependent spouse or parent, but no children</h2>
+<h2>Veterans with a 30% to 100% disability rating<h2>
+
+<h3>With a dependent spouse or parent, but no children</h3>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-no-children">30% to 60% disability rating </button>
 <div id="30-60-no-children" class="usa-accordion-content">
 
-<h5> Base rates </h5>
+<h5>Base rates</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -55,7 +57,7 @@ Find your current VA disability compensation rate, based on your disability rati
 | **Veteran with one parent (no spouse or children)** | $469.83 | $671.73 | $947.36 | $1,195.86 |
 | **Veteran with 2 parents (no spouse or children)** | $510.83 | $725.73 | $1,015.36 | $1,277.86 |
 
-<h5> Added amounts </h5>
+<h5>Added amounts</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -78,7 +80,7 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-100-no-children">70% to 100% disability rating</button>
 <div id="70-100-no-children" class="usa-accordion-content">
 
-<h5> Base rates </h5>
+<h5>Base rates</h5>
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -89,7 +91,7 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 | **Veteran with one parent (no spouse)** | $1,498.71 | $1,740.69 | $1,956.62 | $3,193.92 |
 | **Veteran with 2 parents (no spouse)** | $1,593.71 | $1,849.69 | $2,079.62 | $3,330.71 |
 
-<h5> Added amounts </h5>
+<h5>Added amounts</h5>
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -111,16 +113,15 @@ Your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
 
 </div>
 </li>
-</div>
 </ul>
 
-<h2>Veterans with a 30% to 100% disability rating and dependents, including children</h2>
+<h3>With dependents, including children</h3>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-yes-children">30% to 60% disability rating</button>
 <div id="30-60-yes-children" class="usa-accordion-content">
 
-<h5> Base rates </h5>
+<h5>Base rates</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -131,7 +132,7 @@ Your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
 | **Veteran with one child and one parent (no spouse)** | $503.83 | $716.73 | $1,003.36 | $1,263.86 |
 | **Veteran with one child and 2 parents (no spouse)** | $544.83 | $770.73 | $1,071.36 | $1,345.86 |
 
-<h5> Added amounts </h5>
+<h5>Added amounts</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
@@ -139,7 +140,7 @@ Your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
 | **Each additional child over age 18 in a qualifying school program** | $82.00 | $109.00 | $136.00 | $164.00 |
 | **Spouse receiving Aid and Attendance** | $47.00 | $62.00 | $78.00 | $94.00 |
 
-<h5> How to find your monthly compensation rate using these tables </h5>
+<h5>How to find your monthly compensation rate using these tables</h5>
 
 Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your disability rating in the top row. Where your dependent status and disability rating meet, you'll find your monthly compensation rate.
 
@@ -209,8 +210,7 @@ Your total monthly compensation rate would be $1,609.71 + ($59.00 x 2) + $109.00
 
 </div>
 </li>
-</div>
 </ul>
 
-**Note:** We’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the Social Security Administration’s (SSA) website.
+**Note:** We’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the Social Security Administration’s (SSA) website. <br>
 [Go to the SSA website](https://www.ssa.gov/cola/)
