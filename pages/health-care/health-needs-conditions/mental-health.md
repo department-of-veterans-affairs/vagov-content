@@ -61,8 +61,7 @@ If you need support for a specific mental health problem—or if you’re having
 <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest Vet Center</a>
 - **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
 
-You don’t need to be enrolled in VA health care to get care. <br>
-<a href="/health-care/health-needs-conditions/mental-health/">Learn more about accessing VA mental health services</a>
+You don’t need to be enrolled in VA health care to get care.
 
 **To connect with other resources for Veterans and transitioning service members:**
 - <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
