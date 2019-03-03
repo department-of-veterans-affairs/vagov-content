@@ -14,7 +14,7 @@ vagovprod: false
 ---
 
 <div class="va-introtext">
-Demo page for the decision support tool. 
+Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program.
 </div>
 <div id="loading" style="display:none">
 	Loading...
