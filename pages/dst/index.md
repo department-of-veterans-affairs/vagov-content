@@ -7,7 +7,7 @@ template: detail-page
 title: Decision Support Tool Demo
 
 # The <h1> visible on the page
-display_title: Decision Support Tool Demo
+display_title: Veterans Community Care Program Eligibility Tool
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: false
