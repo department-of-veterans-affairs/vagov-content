@@ -4,7 +4,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 
 # The title of the tab.
-title: Decision Support Tool Demo
+title: Veterans Community Care Program Eligibility Tool
 
 # The <h1> visible on the page
 display_title: Veterans Community Care Program Eligibility Tool
@@ -14,15 +14,15 @@ vagovprod: false
 ---
 
 <div class="va-introtext">
-Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program. Tell us where you live and the type of care you're seeking to help us determine your eligibility. Contact your primary care physician for any questions about your care.
+Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program by telling us where you live and the type of health care you're seeking. Contact your primary care physician for any questions about your care.
 </div>
 <div id="loading" style="display:none">
 	Loading...
 	<!-- put VA loading gif here -->
 </div>
 <form id="address_form" name="address_form">
-<label>Street Address:</label><input type="text" name="street" required autocomplete="address-line1" /><br />
-<label>City:</label><input type="text" name="city" required autocomplete="address-level2" /><br />
+<label>Street Address:</label><input type="text" name="street" required autocomplete="address-line1" />
+<label>City:</label><input type="text" name="city" required autocomplete="address-level2" />
 <label>State:</label><select name="state" required autocomplete="address-level1" >
 <option value="AL">
 AL
@@ -252,7 +252,7 @@ WV
 WY
 </option>
 </select>
-<label>Zip:</label><input type="text" name="postal" required autocomplete="postal-code" /><br />
+<label>Zip:</label><input type="text" name="postal" required autocomplete="postal-code" />
 <label>Care Type:</label><select name="care_type" required>
 <option value="primary">
 Primary Care
@@ -269,12 +269,11 @@ Non-Institutional Extended Care
 <option value="other">
 Other
 </option>
-</select><br />
+</select>
 <input type="submit" value="Submit" />
 </form>
 <script src="https://staging-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-//<![CDATA[
 $('#address_form').submit(function(e) {
 		e.preventDefault();
 		var data = {};
@@ -305,7 +304,6 @@ $('#address_form').submit(function(e) {
 			}
 		});
 	});
-//]]>
 </script>
 <script language="javascript" type="text/javascript">
 $(document).ready(function () {
