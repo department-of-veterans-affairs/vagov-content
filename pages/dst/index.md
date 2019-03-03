@@ -7,14 +7,14 @@ template: detail-page
 title: Decision Support Tool Demo
 
 # The <h1> visible on the page
-display_title: Decision Support Tool Demo
+display_title: Veterans Community Care Program Eligibility Tool
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: false
 ---
 
 <div class="va-introtext">
-Demo page for the decision support tool. 
+Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program. Tell us where you live and the type of care you're seeking to help us determine your eligibility. Contact your primary care physician for any questions about your care.
 </div>
 <div id="loading" style="display:none">
 	Loading...
@@ -270,7 +270,7 @@ Non-Institutional Extended Care
 Other
 </option>
 </select><br />
-<input type="submit" value="submit" />
+<input type="submit" value="Submit" />
 </form>
 <script src="https://staging-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -294,14 +294,14 @@ $('#address_form').submit(function(e) {
 			success: function(callback) {
 				console.log(callback);
 				if (callback.eligible) {
-					$(this).text('You are eligible for Community Care');
+					$(this).text('Based on the information you provided, you're eligible for the Veterans Community Care Program.');
 				}
 				else {
-					$(this).text('You may be eligible for Community Care, please check with your provider')
+					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
 				}
 			},
 			error: function() {
-				$(this).html("We were unable to determine your eligibility, please check with your provider");
+				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Contact your primary care physician for more information.");
 			}
 		});
 	});
