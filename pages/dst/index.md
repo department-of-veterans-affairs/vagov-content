@@ -270,7 +270,7 @@ Non-Institutional Extended Care
 Other
 </option>
 </select><br />
-<input type="submit" value="submit" />
+<input type="submit" value="Submit" />
 </form>
 <script src="https://staging-va-gov-assets.s3-us-gov-west-1.amazonaws.com/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 <script type="text/javascript">
