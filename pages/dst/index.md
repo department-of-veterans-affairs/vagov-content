@@ -14,7 +14,7 @@ vagovprod: false
 ---
 
 <div class="va-introtext">
-Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program.
+Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program. Tell us where you live and the type of care you're seeking to help us determine your eligibility. Contact your primary care physician for any questions about your care.
 </div>
 <div id="loading" style="display:none">
 	Loading...
