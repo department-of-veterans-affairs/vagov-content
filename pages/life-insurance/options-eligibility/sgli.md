@@ -158,10 +158,10 @@ You can also convert your SGLI policy into a civilian policy within 120 days fro
 [Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
 **View these diagrams showing when you can convert a SGLI policy** <br>
-[SGLI to VGLI conversion](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
-[SGLI to VGLI conversion if you're a Reservist and National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
-[SGLI to VGLI conversion if you're in the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
-[SGLI to VGLI conversion if you're on the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
+[Converting a SGLI policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
+[Converting a SGLI policy to VGLI if you're a Reservist or National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
+[Converting a SGLI policy to VGLI if you're in the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
+[Converting a SGLI policy to VGLI if you're on the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
 <br>
 
 <span id="extension"></span>
@@ -197,8 +197,8 @@ If you get approved, you’ll receive a notice 20 months after your separation d
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
-**View this diagram showing when you can convert a SGLI-DE policy**<br>
-[SGLI-DE to VGLI conversion](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
+**View our diagram showing when you can convert a SGLI-DE policy** <br>
+[Converting a SGLI-DE policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
 
 <br>
