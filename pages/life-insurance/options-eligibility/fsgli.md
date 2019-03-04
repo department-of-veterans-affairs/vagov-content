@@ -336,7 +336,7 @@ You can’t convert other types of policies—such as term, variable, or univers
   - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate) <br>
   
 **View this diagram showing when you can convert a spousal FSGLI policy** <br>
-[FSGLI to individual policy](https://benefits.va.gov/BENEFITS/infographics/familysgli.html)
+[Converting a spousal FSGLI policy to an individual policy](https://benefits.va.gov/BENEFITS/infographics/familysgli.html)
 
 <br>
 
