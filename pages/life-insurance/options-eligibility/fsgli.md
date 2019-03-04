@@ -342,7 +342,9 @@ You can’t convert other types of policies—such as term, variable, or univers
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp)
+[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
+[Read our FSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/ProceduralGuide.pdf) <br>
+
 
 ### Additional life insurance forms
 - Claim for Family Coverage Death Benefits (SGLV 8283A) <br>
