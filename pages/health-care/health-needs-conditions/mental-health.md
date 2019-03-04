@@ -57,7 +57,7 @@ If you need support for a specific mental health problem—or if you’re having
 **To access free VA mental health services right away:**
 - **Call or walk in to any VA medical center**—anytime, day or night. <br>
 <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest VA health facility</a>
-- **Call or walk in to any Vet Center** during clinical hours. <br>
+- **Call or walk in to any Vet Center** during clinic hours. <br>
 <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest Vet Center</a>
 - **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
 
