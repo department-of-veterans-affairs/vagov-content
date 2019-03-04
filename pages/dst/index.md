@@ -295,11 +295,11 @@ $('#address_form').submit(function(e) {
 					$(this).text('Based on the information you provided, you are eligible for the Veterans Community Care Program.');
 				}
 				else {
-					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
+					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.')
 				}
 			},
 			error: function() {
-				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Contact your primary care physician for more information.");
+				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.");
 			}
 		});
 	});
