@@ -293,7 +293,7 @@ $('#address_form').submit(function(e) {
 			success: function(callback) {
 				console.log(callback);
 				if (callback.eligible) {
-					$(this).text('Based on the information you provided, you're eligible for the Veterans Community Care Program.');
+					$(this).text('Based on the information you provided, you are eligible for the Veterans Community Care Program.');
 				}
 				else {
 					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
