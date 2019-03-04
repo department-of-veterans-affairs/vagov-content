@@ -304,6 +304,18 @@ $('#address_form').submit(function(e) {
 		});
 	});
 </script>
+<div class="usa-width-two-thirds medium-8 columns">
+	<div class="help-footer-box"><h2 class="help-heading">Need help?</h2>
+		<div><p class="help-talk">Enrollment or Eligibility questions:</p>
+		<p class="help-phone-number">
+		<a class="help-phone-number-link" href="tel:+1-877-222-8387">1-877-222-8387</a>
+		<br>TTY: <a class="help-phone-number-link" href="tel:+18008778339">1-800-877-8339</a>
+		<br>Monday – Friday, 8:00 a.m. – 8:00 p.m. (ET)</p><p class="help-talk">If this form isn't working right for you, please <span>call us at <a href="tel:18555747286">1-855-574-7286</a>.
+		<br>If you have hearing loss, call TTY: 711.</span></p>
+		</div><p class="help-talk">To report a problem with this form,<br>please <span>call us at <a href="tel:18555747286">1-855-574-7286</a>.
+		<br>If you have hearing loss, call TTY: 711.</span></p>
+	</div>
+</div>
 <script language="javascript" type="text/javascript">
 $(document).ready(function () {
     $(document).ajaxStart(function () {
