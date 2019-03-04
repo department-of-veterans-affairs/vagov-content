@@ -17,7 +17,9 @@ vagovprod: false
 Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program by telling us where you live and the type of health care you're seeking. Contact your primary care physician for any questions about your care.
 </div>
 <div id="loading" style="display:none">
-<img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/loading-state.svg" alt="Loading-Gif">
+	<div class="vads-u-display--flex vads-u-justify-content--center vads-u-padding-y--5">
+		<img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/loading-state.svg" alt="Loading-Gif">
+	</div>
 </div>
 <form id="address_form" name="address_form">
 <label>Street Address:</label><input type="text" name="street" required autocomplete="address-line1" />
