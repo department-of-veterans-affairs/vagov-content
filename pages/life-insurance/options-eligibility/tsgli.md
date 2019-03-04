@@ -107,7 +107,8 @@ If you have SGLI coverage, your SGLI premium (which is automatically deducted fr
 
 ### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp)<br>
+[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)<br>
+[Read our TSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/TSGLIProceduresGuide.pdf) <br>
 [View our diagram to learn more about TSGLI eligibility](https://benefits.va.gov/benefits/infographics/pdfs/TSGLI.pdf)
 
 
