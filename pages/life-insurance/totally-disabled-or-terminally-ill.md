@@ -84,7 +84,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 #### Where can I find more information?
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
 <hr>
 
@@ -107,8 +107,8 @@ You or your spouse may be able to get benefits early if you meet both of the req
 ##### Who’s covered?
 
 -	Veterans
--	Servicemembers
--	Covered spouses of Servicemembers
+-	Service members
+-	Covered spouses of service members
 
 </div>
 
