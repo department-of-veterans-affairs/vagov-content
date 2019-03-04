@@ -16,6 +16,9 @@ vagovprod: false
 <div class="va-introtext" id="introtext">
 Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program by telling us where you live and the type of health care you're seeking. Contact your primary care physician for any questions about your care.
 </div>
+<div class="feature">
+	<h3><div id="result"></div></h3>
+</div>
 <div id="loading" style="display:none">
 	<div class="vads-u-display--flex vads-u-justify-content--center vads-u-padding-y--5">
 		<img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/loading-state.svg" alt="Loading-Gif">
@@ -292,17 +295,20 @@ $('#address_form').submit(function(e) {
 			data: JSON.stringify(data),
 			context: Form,
 			success: function(callback) {
-				console.log(callback);
-				if (callback.eligible) {
-					$(this).text('Based on the information you provided, you are eligible for the Veterans Community Care Program.');
-				}
-				else {
-					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.')
-				}
-			},
-			error: function() {
-				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.");
+			console.log(callback);
+			if (callback.eligible) {
+				$(this).text('')
+				$("#result").append('Based on the information you provided, you are eligible for the Veterans Community Care Program.')
 			}
+			else {
+				$(this).text('')
+				$("#result").append('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
+			}
+		},
+		error: function() {
+			$(this).text('')
+			$("#result").append("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Contact your primary care physician for more information.");
+		}
 		});
 	});
 </script>
