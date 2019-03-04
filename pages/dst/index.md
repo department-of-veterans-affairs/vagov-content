@@ -17,7 +17,9 @@ vagovprod: false
 Determine whether you may qualify to receive care from a third-party provider through the Veterans Community Care Program by telling us where you live and the type of health care you're seeking. Contact your primary care physician for any questions about your care.
 </div>
 <div id="loading" style="display:none">
-<img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/loading-state.svg" alt="Loading-Gif">
+	<div class="vads-u-display--flex vads-u-justify-content--center vads-u-padding-y--5">
+		<img src="https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/loading-state.svg" alt="Loading-Gif">
+	</div>
 </div>
 <form id="address_form" name="address_form">
 <label>Street Address:</label><input type="text" name="street" required autocomplete="address-line1" />
@@ -295,15 +297,27 @@ $('#address_form').submit(function(e) {
 					$(this).text('Based on the information you provided, you are eligible for the Veterans Community Care Program.');
 				}
 				else {
-					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
+					$(this).text('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.')
 				}
 			},
 			error: function() {
-				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Contact your primary care physician for more information.");
+				$(this).html("Based on the information you provided, we were unable to determine your eligibility for the Veterans Community Care Program. Discuss your personal needs with your primary care physician.");
 			}
 		});
 	});
 </script>
+<div class="usa-width-two-thirds medium-8 columns">
+	<div class="help-footer-box"><h2 class="help-heading">Need help?</h2>
+		<div><p class="help-talk">Enrollment or Eligibility questions:</p>
+		<p class="help-phone-number">
+		<a class="help-phone-number-link" href="tel:+1-877-222-8387">1-877-222-8387</a>
+		<br>TTY: <a class="help-phone-number-link" href="tel:+18008778339">1-800-877-8339</a>
+		<br>Monday – Friday, 8:00 a.m. – 8:00 p.m. (ET)</p><p class="help-talk">If this form isn't working right for you, please <span>call us at <a href="tel:18555747286">1-855-574-7286</a>.
+		<br>If you have hearing loss, call TTY: 711.</span></p>
+		</div><p class="help-talk">To report a problem with this form,<br>please <span>call us at <a href="tel:18555747286">1-855-574-7286</a>.
+		<br>If you have hearing loss, call TTY: 711.</span></p>
+	</div>
+</div>
 <script language="javascript" type="text/javascript">
 $(document).ready(function () {
     $(document).ajaxStart(function () {
