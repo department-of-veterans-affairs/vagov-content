@@ -106,7 +106,7 @@ Send notice of any changes to:
   Philadelphia, PA 19101<br>
 </p>
 
-[Read our life insurance publications for more guidance](https://www.benefits.va.gov/INSURANCE/ins_publications.asp) <br>
+[Read our Veterans life insurance handbook more guidance](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 
 ### Where can I find more information?
 
