@@ -41,7 +41,7 @@ majorlinks:
       description: Funding for specific training programs (like HVAC repair, truck driving, or EMT training)
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/
       title: VET TEC Program 
-      description: Gain computer skills and experience to start or advance your career in the high-technology industry with our new VET TEC pilot program.
+      description: A program that connects you to a high-tech training provider so you can gain computer skills and experience to start or advance your high-tech career
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/flight-training/
       title: Flight Training
       description: Help paying for training to become a pilot
