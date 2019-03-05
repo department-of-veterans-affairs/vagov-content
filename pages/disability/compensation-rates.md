@@ -7,6 +7,7 @@ template: detail-page
 order: 1
 aliases:
 spoke: More Resources
+children: disabilityCompensationRates
 majorlinks:
   - heading: View current disability compensation rates
     links:
