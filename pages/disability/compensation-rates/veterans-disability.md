@@ -6,7 +6,6 @@ description:
 template: detail-page
 order: 1
 aliases:
-spoke: More Resources
 relatedlinks:
   - heading: Information to help you manage your benefits
     links:
