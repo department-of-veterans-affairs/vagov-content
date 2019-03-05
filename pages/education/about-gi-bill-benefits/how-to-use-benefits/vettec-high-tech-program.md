@@ -17,9 +17,7 @@ If you want to gain computer skills and experience to start or advance your care
 
 ## What's VET TEC?
 
-VET TEC is a new program that matches Veterans with leading training providers. You can gain the skills and expertise you need to start or advance your career in the high-tech industry in as little as 6 months.
-
-To use the VET TEC program, all you need is one day of unexpired GI Bill entitlement. Your VET TEC training won't count against your GI Bill benefits.
+VET TEC is a new program that will match you with a leading training provider who can help you develop high-tech skills. You can start or advance your career in the high-tech industry with a training program that'll take months—or just weeks in some cases—to complete.
 
 <div class="feature" markdown="1">
 
@@ -30,10 +28,12 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 **All of these must be true. You:**
 -	Aren't on active duty, **and**
 -	Qualify for VA education assistance under the GI Bill, **and**
-- Have at least one day of unexpired GI Bill benefits, **and**
+- Have at least one day of unexpired GI Bill entitlement, **and**
 - Are accepted into a program by a VA-approved training provider  
 
-**Note:** VET TEC is a 5-year pilot program. Veteran participation depends on the availability of funding. 
+**Note:** Your VET TEC training won't count against your GI Bill entitlement.
+
+VET TEC is a 5-year pilot program. Veteran participation depends on the availability of funding. 
 
 <br>
 </div>
@@ -45,7 +45,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 -	Computer programming 
 -	Data processing 
 -	Information science 
--	Media application
+-	Media applications
 
 ## What benefits can I get through this program? 
 
