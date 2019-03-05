@@ -47,14 +47,14 @@ With VET TEC, you can get training in one of these high-demand training areas:
 -	Information science 
 -	Media application
 
-## What benefits can I get under the VET TEC program? 
+## What benefits can I get through this program? 
 
 -	Tuition for a full-time high-tech training program
 -	Money for housing during your training
 
 ---------
 
-## How do I apply?
+## How do I get benefits through this program?
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
 
@@ -65,7 +65,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 [Apply for education benefits](/education/how-to-apply/)
 
-### Get more information
+## Get more information
 
 If you have questions about the program or how to apply:
 
