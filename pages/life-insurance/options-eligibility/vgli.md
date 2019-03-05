@@ -680,7 +680,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
   <li class="process-step list-one">
   
   Choose your new insurance company. <br>
-  [View our list of companies that take part in this program]( https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
+  [View our list of companies that take part in this program](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
   
   </li>
   
@@ -704,8 +704,9 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 ### What if I need help with my claim? 
 
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
-<a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company. <br>
+<a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
+<br>
 
 ### Where can I find more information?
 
