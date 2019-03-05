@@ -200,8 +200,13 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 **View our diagram showing when you can convert a SGLI-DE policy** <br>
 [Converting a SGLI-DE policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
-
 <br>
+
+### What if I need help with my claim? 
+
+You can call the Office of Servicemembers' Group Life Insurance (OSGLI) if you have questions about Servicemembers' or Veterans' Group Life Insurance at 1-800-419-1473, **or** <br>
+<a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company. <br>
+  
 
 ### Where can I find more information?
 
