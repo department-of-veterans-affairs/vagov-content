@@ -17,6 +17,10 @@ relatedlinks:
     - url: "/decision-reviews/fiduciary-claims/"
       title: Fiduciary Claims
       description: If you have a fiduciary claim, find out how to request a decision review.
+
+# Temporary, see https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17108
+aliases:
+  - /decision-review
 ---
 <br>
 <div itemprop="description" class="va-introtext">
