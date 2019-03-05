@@ -17,7 +17,9 @@ If you want to gain computer skills and experience to start or advance your care
 
 ## What's VET TEC?
 
-VET TEC is a new program that will match you with a leading training provider who can help you develop high-tech skills. You can start or advance your career in the high-tech industry with a training program that'll take months—or just weeks in some cases—to complete.
+VET TEC is a new program that matches you with a leading training provider who can help you develop high-tech skills. You can start or advance your career in the high-tech industry with a training program that'll take months—or just weeks—to complete.
+
+VET TEC is a five-year pilot program. You can participate as long as the funding is available. 
 
 <div class="feature" markdown="1">
 
@@ -32,8 +34,6 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 - Are accepted into a program by a VA-approved training provider  
 
 **Note:** Your VET TEC training won't count against your GI Bill entitlement.
-
-VET TEC is a 5-year pilot program. Veteran participation depends on the availability of funding. 
 
 <br>
 </div>
@@ -58,7 +58,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
 
-If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may assess your qualifications to help determine whether you'll likely to successfully complete their training program and find meaningful, relevant employment. <br>
+If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
 
 **Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
