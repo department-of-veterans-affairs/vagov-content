@@ -102,6 +102,7 @@ You or your spouse may be able to get benefits early if you meet both of the req
 -	You have SGLI, Family SGLI, or VGLI life insurance, **and**
 -	You or your covered spouse has a written statement from a doctor saying you have (or your spouse has) 9 months or less to live
 
+**Note:** Only the insured Servicemember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
 <br>
 
 ##### Who’s covered?
@@ -116,7 +117,7 @@ You or your spouse may be able to get benefits early if you meet both of the req
 
 ### What benefits can my spouse and I get?
  
-Up to 50% of the face value of your coverage in increments of $5,000—paid to you before death
+You'll get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death. 
 
 <br>
 
@@ -126,7 +127,7 @@ Only the insured Servicemember or Veteran may apply for accelerated benefits. No
 
 **Use the application form for the type of coverage you have:**
  
-**If you’re an SGLI or VGLI policyholder,** fill out a Claim for Accelerated Benefits. <br>
+**If you’re an SGLI or VGLI policyholder,** fill out a Claim for Accelerated Benefits (SGLV 8284). <br>
 [Download the Claim for Accelerated Benefits form](https://benefits.va.gov/INSURANCE/forms/8284.htm)
 
 - **If you’re still on active duty or you’re a Reservist,** turn in the form to your service branch. They will need to fill out part of the form. 
@@ -143,7 +144,7 @@ Or, fax the form to 1-877-832-4943.
 
 <br>
 
-**If you’re covered under Family SGLI,** fill out a Claim for Accelerated Benefits. <br>
+**If you’re covered under Family SGLI,** fill out a Claim for Accelerated Benefits (SGLV 8284A). <br>
 [Download the Claim for Accelerated Benefits form](https://benefits.va.gov/INSURANCE/forms/8284A.htm)
  
 You’ll need to fill out one part of the application, and your doctor will need to fill out another part of it.
