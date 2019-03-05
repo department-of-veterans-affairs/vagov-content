@@ -6,7 +6,7 @@ display_title: Military Sexual Trauma
 description: If you've experienced military sexual trauma (MST)—sexual assault or repeated harassment—find out how to access free VA services to help you recover. You can get care even if you're not enrolled in VA health care. You should know that MST can happen to both men and women Veterans.
 concurrence: complete
 lastupdate: 2017-06-28
-order: 4
+order: 3
 aliases:
   - /health-care/health-conditions/military-sexual-trauma/
 relatedlinks:

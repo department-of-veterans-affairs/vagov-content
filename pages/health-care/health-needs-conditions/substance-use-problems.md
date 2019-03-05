@@ -6,7 +6,7 @@ display_title: Substance Use Problems
 description: If you're a Veteran struggling with substance abuse or other substance use problems, find out how to get help. VA substance abuse programs offer drug and alcohol abuse treatment, residential (live-in) rehabilitation, peer support, and other programs at medical centers around the country.
 concurrence: complete
 lastupdate: 2017-06-28
-order: 5
+order: 4
 aliases:
   - /health-care/health-conditions/substance-use-problems
 relatedlinks:
