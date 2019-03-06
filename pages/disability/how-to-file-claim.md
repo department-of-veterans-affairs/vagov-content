@@ -16,8 +16,8 @@ majorlinks:
       title: Claim Types and When to File
       description: Learn about standard claims, supplemental claims, secondary claims, and more.
     - url: /disability/how-to-file-claim/evidence-needed/
-      title: How to Gather Evidence for Your Claim
-      description: Find out your options for gathering documents to support your disability claim.
+      title: Evidence Needed for Your Disability Claim
+      description: Find out what evidence we'll need to support your disability claim.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
       title: Disabilities That Appear within 1 Year after Discharge
       description: Find out if you can get disability benefits if you have signs of an illness within a year after being discharged from service.
@@ -62,7 +62,7 @@ Find out how to file a claim for disability compensation.
 - Supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence. <br>
-[Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/).
+[Find out what evidence we'll need for your claim](/disability/how-to-file-claim/evidence-needed/).
 
 We'll also review your discharge papers (DD214 or other separation documents) and service treatment records. 
 
