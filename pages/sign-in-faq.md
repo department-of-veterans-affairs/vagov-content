@@ -1,14 +1,14 @@
 ---
 layout: page.html
 permalink: /sign-in-faq.html
-title: Frequently Asked Questions about Signing In to VA.gov
-display_title: Frequently Asked Questions
+title: Frequently asked questions about signing in to VA.gov
+display_title: Frequently asked questions
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
   <div class="row">
     <article class="usa-content columns faq-page">
-      <h1>Frequently Asked Questions (FAQ) about Signing In to VA.gov</h1>
+      <h1>Frequently asked questions (FAQs) about signing in to VA.gov</h1>
       <div class="main home signup" role="main">
         <div class="section main-menu">
           <div class="row">
