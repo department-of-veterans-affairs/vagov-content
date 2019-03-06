@@ -54,7 +54,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 ---------
 
-## How do I get benefits through this program?
+## How do I apply?
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
 
