@@ -4,7 +4,7 @@ title: Birth defects compensation rates
 display_title: Birth defects compensation rates
 description:
 template: detail-page
-order: 1
+order: 4
 aliases:
 relatedlinks:
   - heading: Information to help you access and manage your benefits
