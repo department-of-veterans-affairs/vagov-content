@@ -25,23 +25,21 @@ relatedlinks:
 
 <div class="va-introtext">
 
-VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents who have specific situations or disabilities. Find the SMC rates that may apply to you based on the severity of your disability and whether you have dependents.
+VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents with certain needs or disabilities. Find the SMC rates that may apply to you.
 
 </div>
 
-<h2>Current SMC rates, effective December 1, 2018</h2>
+<h2>Current SMC rates</h2>
+<b>Effective December 1, 2018</b>
 
- We use a letter system to classify your SMC level.
-- **Levels L through O** cover specific disabilities that qualify you for SMC (like blindness or the loss of a limb). The levels represent the severity of the disability, from least severe (Level L) to most severe (Level O). Your SMC compensation rate increases the more severe your disability (and the higher your SMC letter). <br>
-[Read detailed eligibility information for Levels L through O](#classification-details)
-- **Level S** may apply if you can't leave the house because of your service-connected disabilities.
-- **Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, or bathing).
-- **Levels K and Q**  are special rates called SMC compensation rate payment variations.
+ Find your rate based on your SMC level and whether you have dependents.
 
 <h3>SMC compensation rate payment variations</h3>
 
+**Levels K and Q** are special rates called SMC compensation rate payment variations.
+
 <ul class="usa-accordion" aria-multiselectable="true">
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="smc-k-q">SMC-K and SMC-Q</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="smc-k-q">SMC-K and SMC-Q rates</button>
 <div id="smc-k-q" class="usa-accordion-content">
 
 | SMC letter classification  | Monthly compensation rate | How this payment variation works | 
@@ -53,10 +51,15 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 </li>
 </ul>
 
-<h3>Rates for Veterans without children</h3>
+<h3>SMC rates for Veterans without children</h3>
+
+**Levels L** through O cover specific disabilities and situations. <br>
+[Read more about SMC levels L through O](#l-o-details)
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities.
+**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
 
 <ul class="usa-accordion" aria-multiselectable="true">
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-l-n">SMC-L through SMC-N</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-l-n">SMC-L through SMC-N rates</button>
 <div id="no-smc-l-n" class="usa-accordion-content">
 
 <span id="smc-l-n-how">How to find your monthly compensation rate using these tables</span>
@@ -81,19 +84,21 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 <span id="smc-l-n-how"></span>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
-Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your SMC letter classification in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+Start with the "Basic SMC rates" table. Find the dependent status in the left column that best describes you. 
 
-<b>For example:</b> If you're a Veteran with a dependent spouse and no dependent parents or children and you have a SMC-M classification, your monthly compensation rate would be <b>$4,368.59</b>.
+Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+
+<b>For example:</b> If you were a Veteran with a dependent spouse and no dependent parents or children and you have an SMC-M designation, your monthly compensation rate would be <b>$4,368.59</b>.
 
 <b>If you have a spouse who's receiving Aid and Attendance</b>
 
-Look at the "Added amounts" table. Take the amount that matches your disability rating and add it to your base rate to get your total monthly compensation rate. 
+Look at the "Added amounts" table. Take the amount that matches your disability rating and add it to your basic SMC rate to get your total monthly compensation rate. 
 
-<b>For example:</b> If you're a Veteran with one spouse who's receiving Aid and Attendance and SMC-M classification, you would start with the rate of $4,368.59 for a Veteran with spouse (no parents or children). Then you would add the $156.32 rate for a spouse receiving Aid and Attendance. So your total monthly rate would be $4,368.59 + $156.32 = <b>$4,895.42</b>. <br>
+<b>For example:</b> If you were a Veteran with one spouse who was receiving Aid and Attendance, and you had an SMC-M designation, you would start with the rate of $4,368.59 for a Veteran with spouse (no parents or children). Then you would add the $156.32 rate for a spouse receiving Aid and Attendance. 
+
+So your total monthly rate would be $4,368.59 + $156.32 = <b>$4,895.42</b>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance and Housebound allowances</a>
-
-**If you qualify for SMC-K
 
 </div>
 </li>
@@ -102,7 +107,7 @@ Look at the "Added amounts" table. Take the amount that matches your disability 
 
 <span id="smc-n-s-how">How to find your monthly compensation rate using these tables</span>
 
-<h5>Base rates</h5>
+<h5>Basic SMC rates</h5>
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S | 
 | -- | -- |-- |-- | -- | -- | 
@@ -122,13 +127,17 @@ Look at the "Added amounts" table. Take the amount that matches your disability 
 <span id="smc-n-s-how"></span>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
-Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your SMC letter classification in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+Start with the "Basic SMC rates" table. Find the dependent status in the left column that best describes you. 
 
-<b>For example:</b> If you're a Veteran with a dependent spouse and no dependent parents or children and you have a SMC-N 1/2 classification, your monthly compensation rate would be <b>$5,227.05</b>.
+Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
 
-**If you have a spouse who's receiving Aid and Attendance,** you would then look at the "Added amounts" table. You would take the amount that matches your disability rating and add it to your base rate to get your total monthly compensation rate. 
+<b>For example:</b> If you were a Veteran with a dependent spouse and no dependent parents or children, and you had an SMC-N 1/2 classification, your monthly compensation rate would be <b>$5,227.05</b>.
 
-<b>For example:</b> If you're a Veteran with one spouse who's receiving Aid and Attendance and SMC-N 1/2 classification, you would start with the rate of $5,227.05 for a Veteran with spouse (no parents or children). Then you would add the $156.32 rate for a spouse receiving Aid and Attendance. So your total monthly rate would be $5,227.05 + $156.32 = <b>$5,383.37</b>. <br>
+**If you have a spouse who's receiving Aid and Attendance**
+
+Look at the "Added amounts" table. Take the amount that matches your disability rating and add it to your base rate to get your total monthly compensation rate. 
+
+<b>For example:</b> If you were a Veteran with one spouse who was receiving Aid and Attendance, and you had an SMC-N 1/2 designation, you would start with the rate of $5,227.05 for a Veteran with spouse (no parents or children). Then you would add the $156.32 rate for a spouse receiving Aid and Attendance. So your total monthly rate would be $5,227.05 + $156.32 = <b>$5,383.37</b>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance and Housebound allowances</a>
 
@@ -136,7 +145,12 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 </li>
 </ul>
 
-<h3>With dependents, including children</h3>
+<h3>SMC rates for Veterans with dependents, including children</h3>
+
+**Levels L** through O cover specific disabilities and situations. <br>
+[Read more about SMC levels L through O](#l-o-details)
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities.
+**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-l-n">SMC-L through SMC-N</button>
@@ -144,7 +158,7 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 
 <span id="smc-l-n-how-a">How to find your monthly compensation rate using these tables</span>
 
-<h5>Base rates</h5>
+<h5>Basic SMC rates</h5>
 
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
 | -- | -- |-- |-- | -- | -- | 
@@ -166,25 +180,27 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 <span id="smc-l-n-how-a"></span>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
-Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your SMC letter classification in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+Start with the "Basic SMC rates" table. Find the dependent status in the left column that best describes you.
 
-For example: If you're a Veteran with at least one child and a spouse, but no dependent parents and you have an SMC-L classification, your monthly compensation rate would be <b>$4,099.32</b>.
+Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+
+For example: If you were a Veteran with at least one child and a spouse, but no dependent parents and you had an SMC-L designation, your monthly compensation rate would be <b>$4,099.32</b>.
 
 <b>If you have more than one child</b>
 
-Please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find the base rate, then add the amount for each child, depending on their age and school status.
+Please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find your basic SMC rate. Then add the amount for each child, depending on their age and school status.
 
-<b>For example:</b> If you're a Veteran with an SMC-L classification, and you have a spouse, 3 children who are under 18, and one child who is over 18 and in a qualifying school program, you would start with your base rate of $4,099.32 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
+<b>For example:</b> If you were a Veteran with an SMC-L designation, and you had a spouse, 3 children who were under 18, and one child who was over 18 and in a qualifying school program, you would start with your basic SMC rate of $4,099.32 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
 
-Your total monthly compensation rate would be $4,099.32 + ($84.69 x 3) + $273.58 = <b>$4,626.97</b>.
+So your total monthly compensation rate would be $4,099.32 + ($84.69 x 3) + $273.58 = <b>$4,626.97</b>.
 
 <b>If you have a spouse who receives Aid and Attendance</b>
 
-You can find your total monthly compensation rate by adding the rate for spouse receiving Aid and Attendance to your base rate. If you also have more than one child, you'll add the amount for each additional child as well. 
+You can find your total monthly compensation rate by adding the rate for spouse receiving Aid and Attendance to your basic SMC rate. If you also have more than one child, you'll add the amount for each additional child as well. 
 
-<b>For example:</b> If you're a Veteran with an SMC-L classification and you have 2 children who are under age 18 as well as a spouse who's receiving Aid and Attendance, you would start with your base rate of $4,099.32 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 2) as well as the rate of $156.32 for a spouse receiving Aid and Attendance. 
+<b>For example:</b> If you were a Veteran with an SMC-L designationm and you had 2 children who were under age 18 as well as a spouse who was receiving Aid and Attendance, you would start with your basic SMC rate of $4,099.32 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 2) as well as the rate of $156.32 for a spouse receiving Aid and Attendance. 
 
-Your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32 = <b>$4,425.02</b>. <br>
+So your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32 = <b>$4,425.02</b>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance and Housebound allowances</a>
 
@@ -194,7 +210,8 @@ Your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32
 <div id="yes-smc-n-s" class="usa-accordion-content">
 
 <span id="smc-n-s-how-a">How to find your monthly compensation rate using these tables</span>
-<h5>Base rates</h5>
+
+<h5>Basic SMC rates</h5>
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S | 
 | -- | -- |-- |-- | -- | -- |
@@ -217,25 +234,25 @@ Your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32
 <span id="smc-n-s-how-a"></span>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
-Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your SMC letter classification in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
+Start with the "Basic SMC rates" table. Find the dependent status in the left column that best describes you. Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly compensation rate.
 
-For example: If you're a Veteran with at least one child and a spouse, but no dependent parents and you have an SMC-N 1/2 classification, your monthly compensation rate would be <b>$5,351.88</b>.
+<b>For example:</b> If you were a Veteran with at least one child and a spouse, but no dependent parents, and you had an SMC-N 1/2 designation, your monthly compensation rate would be <b>$5,351.88</b>.
 
 <b>If you have more than one child</b>
 
-Please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find the base rate, then add the amount for each child, depending on their age and school status.
+Please note that the rates are different for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly compensation rate, find your basic SMC rate. Then add the amount for each child, depending on their age and school status.
 
-<b>For example:</b> If you're a Veteran with an SMC-N 1/2 classification, and you have a spouse, 3 children who are under 18, and one child who is over 18 and in a qualifying school program, you would start with your base rate of $5,351.88 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
+<b>For example:</b> If you were a Veteran with an SMC-N 1/2 classification, and you had a spouse, 3 children who were under 18, and one child who was over 18 and in a qualifying school program, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
 
-Your total monthly compensation rate would be $5,351.88 + ($84.69 x 3) + $273.58 = <b>$5,879.53</b>.
+So your total monthly compensation rate would be $5,351.88 + ($84.69 x 3) + $273.58 = <b>$5,879.53</b>.
 
 <b>If you have a spouse who receives Aid and Attendance</b>
 
-You can find your total monthly compensation rate by adding the rate for spouse receiving Aid and Attendance to your base rate. If you also have more than one child, you'll add the amount for each additional child as well. 
+You can find your total monthly compensation rate by adding the rate for spouse receiving Aid and Attendance to your basic SMC rate. If you also have more than one child, you'll add the amount for each additional child as well. 
 
-<b>For example:</b> If you're a Veteran with an SMC-N 1/2 classification and you have 2 children who are under age 18 as well as a spouse who's receiving Aid and Attendance, you would start with your base rate of $5,351.88 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 2) as well as the rate of $156.32 for a spouse receiving Aid and Attendance. 
+<b>For example:</b> If you were a Veteran with an SMC-N 1/2 classification, and you had 2 children who were under age 18 as well as a spouse who was receiving Aid and Attendance, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 2) as well as the rate of $156.32 for a spouse receiving Aid and Attendance. 
 
-Your total monthly compensation rate would be $5,351.88 + ($84.69 x 2) + $156.32 = <b>$5,762.27</b>. <br>
+So your total monthly compensation rate would be $5,351.88 + ($84.69 x 2) + $156.32 = <b>$5,762.27</b>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance and Housebound allowances</a>
 
@@ -248,10 +265,10 @@ Your total monthly compensation rate would be $5,351.88 + ($84.69 x 2) + $156.32
 
 ------
 
-<span id="#classification-details"></span>
-<h2>Detailed eligibility information for SMC levels L through O</h2>
+<span id="#l-o-details"></span>
+<h2>Classification information for SMC levels L through O</h2>
 
-We classify SMC levels based on very specific situations and combinations of situations, including:
+</b>We classify SMC levels based on very specific situations and combinations of situations, including:</b>
 - The amputation of one or more limbs or extremities
 - The loss of use of one or more limbs or extremities
 - The physical loss of one or both eyes
