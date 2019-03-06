@@ -4,7 +4,7 @@ title: Special allowances compensation rates
 display_title: Special allowances compensation rates
 description:
 template: detail-page
-order: 1
+order: 3
 aliases:
 relatedlinks:
   - heading: Information to help you manage your benefits
