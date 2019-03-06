@@ -9,8 +9,8 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Managing Your Policy
-      description: Already have VA life insurance? Manage your policy online.
+      title: Access Your Policy Online
+      description: Already have VA life insurance? Access your policy online.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for Disabled and Terminally Ill Policyholders
       description: If you become totally disabled or terminally ill, find out if you can get certain benefits.

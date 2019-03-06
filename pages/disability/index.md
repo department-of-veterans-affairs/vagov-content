@@ -11,9 +11,9 @@ aliases:
   - /disability-benefits/
 promo:
   - image: /img/hub-illustrations/disability.png
-    heading: Decision Ready Claims (DRC) Program
-    url: "/disability/how-to-file-claim/evidence-needed/decision-ready-claims/"
-    description: Find out if you can use the DRC program to get a decision on your claim in 30 days or less.
+    heading: Fully Developed Claims Program
+    url: "/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
+    description: Use this program to get a faster decision by submitting evidence along with your claim.
 crosslinks:
   - heading: Other VA Benefits and Services
     links:

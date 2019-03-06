@@ -16,7 +16,7 @@ To receive some benefits, Veterans need a letter proving their status. You can a
 
 <section>
 
-<div class="cta-widget" data-app-id="letters"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="letters"></div>
 
 ### What types of VA letters can I download using this tool?
 

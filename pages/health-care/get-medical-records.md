@@ -22,7 +22,7 @@ Our online tools can help you view, organize, and share your VA medical records 
 
 ## VA Blue Button
 
-<div class="cta-widget" data-app-id="health-records"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="health-records"></div>
 
 ## The Veterans Health Information Exchange
 

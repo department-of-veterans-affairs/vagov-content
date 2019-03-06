@@ -6,7 +6,7 @@ display_title: Exposure to Hazardous Materials
 description: Learn about chemical hazards and hazardous materials you may have come in contact with during military service. Find out how to access VA health care services for conditions related to military exposures.
 concurrence: complete
 lastupdate: 2017-06-28
-order: 6
+order: 5
 aliases:
   - /health-care/health-conditions/exposure-to-hazardous-materials/
 relatedlinks:

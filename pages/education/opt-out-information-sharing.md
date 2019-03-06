@@ -48,7 +48,7 @@ No. Your education benefits will stay the same if you decide to opt out. You won
 
 You’ll need to fill out a short form to tell us you want to opt out of sharing this information. You can get started right now.
 
-<div id="react-applicationStatus" class="static-page-widget"></div>
+<div id="react-applicationStatus" data-widget-type="opt-out-app-status" class="static-page-widget"></div>
 
 <b>Note</b>: If you’re signed in to your account, we can prefill part of your application based on your account details.
 
