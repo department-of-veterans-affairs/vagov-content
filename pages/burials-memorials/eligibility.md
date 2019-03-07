@@ -53,7 +53,7 @@ The person died on active duty.
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
-Both of these must be true. The person:
+Both of these must be true. The person:<br>
 - Ended their last active service honorably by death or otherwise, **and**
 - Was a citizen of the United States at the time they entered their last active service and at the time of death
 </div>
@@ -77,8 +77,8 @@ The person died while hospitalized or getting treatment at the expense of the Un
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-officers-training-corp">Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force</button>
 <div id="reserve-officers-training-corp" class="usa-accordion-content">
 The person died under honorable conditions while: 
-- Attending an authorized training camp or on an authorized cruise, or
-- Performing authorized travel to or from a training camp or cruise, or 
+- Attending an authorized training camp or on an authorized cruise, **or**
+- Performing authorized travel to or from a training camp or cruise, **or**
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 </div>
 </li>
