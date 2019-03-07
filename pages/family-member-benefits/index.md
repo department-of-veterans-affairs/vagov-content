@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: family-member
 promo:
-  - image:  /img/hub-illustrations/family-member.png
+  - image: /img/hub-illustrations/family-caregiver.png
     heading: VA Caregiver Support Program
     url: https://www.caregiver.va.gov/
     description: Find out how to get the support you need to care for a Veteran.
