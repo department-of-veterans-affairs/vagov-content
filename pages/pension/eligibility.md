@@ -59,7 +59,7 @@ You may be able to get pension benefits if you meet the requirements listed belo
 <br>
 
 ### How do I know if I served under an eligible wartime period? 
-We recognize the following wartime periods to decide eligibility for pension benefits:
+Under current law, we recognize the following wartime periods to decide eligibility for pension benefits:
 
 - Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)
 - World War I (April 6, 1917, to November 11, 1918)
