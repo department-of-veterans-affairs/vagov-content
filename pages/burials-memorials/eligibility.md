@@ -23,21 +23,61 @@ Servicemembers, Veterans, and family members may qualify for burial in a VA nati
 
 ### Who can be buried in a VA national cemetery and receive other burial benefits?
 
-Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet one of the requirements listed below.
+Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet the requirements in one of the categories listed below.
 
-**One of these must be true. The person qualifying for burial benefits is:**
+**One of these must describe the person qualifying for burial benefits:**
 
-- A Veteran who didn't receive a dishonorable discharge, **or**
-- A Servicemember who died while on active duty, active duty for training, or inactive duty for training, **or**
-- The spouse or dependent child of a Veteran, even if the Veteran died first, **or**
-- In some cases, the adult dependent child of a Veteran (if they aren't married)
+**Veteran who didn’t receive a dishonorable discharge**
+With certain exceptions, the Veteran must have served for a minimum of 24 continuous months or the full period for which the person was called to active duty if they were an:
+- Enlisted person who served after September 7, 1980, **or**
+- Officer who served after October 16, 1981
+
+A VA regional office determines eligibility in cases where the Veteran had:
+Undesirable, bad conduct, and any other type of discharge other than honorable **or**
+Multiple discharges of varying character
+
+**Member of the Armed Forces of the United States who died on active duty**
+
+**U.S. citizen who served in the armed forces of any government allied with the United States during a war**
+Both of these must be true. The person:
+- Ended their last active service honorably by death or otherwise, **and**
+- Was a citizen of the United States at the time they entered their last active service and at the time of death
+
+**Reservist or National Guard member** 
+- At the time of death, the person was entitled to retirement pay under, or they would have been entitled if they had been over the age of 60.
+
+**Member of a reserve component, or member of the Army National Guard or the Air National Guard**
+- The person died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
+
+**Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force**
+The person died under honorable conditions while: 
+- Attending an authorized training camp or on an authorized cruise, or
+- Performing authorized travel to or from a training camp or cruise, or 
+- Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
+
+**Member of a reserve component** 
+During a period of:
+- Active duty for training, the person became disabled or died from a disease or injury incurred or aggravated in line of duty, **or** 
+- Inactive duty training, was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty.
+
+**Member of reserve and Guard components** 
+The person has met minimum active duty service requirements, as applicable by law, and was discharged under conditions other than dishonorable. They must have been called to active duty and served the full term of service.
+
+**Commissioned officer of the National Oceanic and Atmospheric Administration**
+
+
+**Public Health Service Officer**
+
+**World War II Merchant Mariner**
+
+**Philippine Armed Forces Veteran**
 
 **Note:** If you were naturalized under the Hmong Veterans' Naturalization Act of 2000, you may be eligible for burial in a VA national cemetery. <br>
-[Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits.pdf).
+[Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
 
-<br>
+</div>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -49,7 +89,6 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
 
 
-</div>
 
 ## What do burial benefits include?
 
