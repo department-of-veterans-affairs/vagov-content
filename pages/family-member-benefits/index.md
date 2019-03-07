@@ -88,16 +88,16 @@ hublinks:
         description: Learn how to apply for help with paying for school or training as the dependent or surviving spouse or child of a Veteran, and how your Veteran sponsor may transfer some of their Post-9/11 GI Bill benefits to you if they don't use them all.
       - url: /life-insurance/
         label: Life insurance
-        description: Learn how to get Family Servicemembers' Group Life Insurance (FSGLI) coverage for your family. And explore other options such as getting accelerated benefits in the case of terminal illness or mortgage protection insurance for a home that's been adapted to meet the needs of a Veteran with service-connected disabilities.
+        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage. And explore other options, like getting accelerated benefits in the case of terminal illness or mortgage protection insurance for a home that's been adapted to meet the needs of a Veteran with service-connected disabilities.
       - url: /burials-memorials/pre-need-eligibility/
         label: Burial in a VA national cemetery
-        description: Apply in advance for eligibility to be buried in a VA national cemetery to make the burial planning process easier for your family members in their time of need.
+        description: Apply in advance for eligibility to be buried in a VA national cemetery. This can make the burial planning process easier for your family members in their time of need.
   - id: "survivor"
     title: Benefits for survivors
     links: 
       - url: /burials-memorials/ 
         label: Burial benefits and memorial items
-        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for a burial allowance to help pay for funeral services, burial, and transportation costs as well as memorial items to honor a Veteran or Reservist, and see if you qualify for bereavement counseling and transition support.
+        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items to honor a Veteran or Reservist, or find out if you qualify for bereavement (grief) counseling and transition support.
       - url: https://benefits.va.gov/insurance/bfcs.asp?_ga=2.20372474.311206835.1546861480-1173244138.1525894550
         label: Life insurance beneficiary financial counseling
         description: If you're the beneficiary of a Veteran's or service member's life insurance policy, learn how to get free professional financial advice and will preparation services.
@@ -112,7 +112,7 @@ hublinks:
         description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits.
       - url: /health-care/family-caregiver-benefits/
         label: Health care for survivors
-        description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, see if you can get health insurance through our CHAMPVA program (Civilian Health and Medical Program of the Department of Veterans Affairs).
+        description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, learn how to apply for  CHAMPVA program (Civilian Health and Medical Program of the Department of Veterans Affairs).
       - url: /housing-assistance/home-loans/trouble-making-payments/
         label: Financial counseling to avoid foreclosure 
         description: If you're having trouble making mortgage payments on a VA-backed or VA direct loan, find out how we can help you avoid foreclosure and keep your house.
@@ -121,7 +121,7 @@ hublinks:
         description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home.
       - url: /education/survivor-dependent-benefits/
         label: Education benefits for surviving spouse and dependent children
-        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also known as Chapter 35). Or, if your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, find out how to apply for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). 
+        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also known as Chapter 35). If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, find out how to apply for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). 
   - id: "caregiver"
     title: Benefits and services for family members caring for a Veteran or service member
     links:
@@ -157,8 +157,8 @@ As the family member of a Veteran or service member, you may qualify for certain
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help for a Veteran who's in crisis?<br>
-      <a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
+    <h4 class="usa-alert-heading">How do I get help for a Veteran who's in crisis?</h4>
+      <a id="crisis-expander-link">Find out how to get support anytime, day or night</a>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
         <p>If you're concerned about a Veteran in crisis, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
