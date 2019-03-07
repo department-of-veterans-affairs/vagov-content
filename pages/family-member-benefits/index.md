@@ -59,7 +59,7 @@ social:
           label: VA Instagram
           icon: fa-instagram
 crosslinks:
-  - heading: Benefits for Veterans and service members
+  - heading: Helping a Veteran find benefits?
   - links:
     - url: "/health-care/"
       title: <b>VA health care for Veterans</b>
@@ -67,9 +67,6 @@ crosslinks:
     - url: "/disability/"
       title: <b>Disability compensation</b>
       description: Monthly payments, and online benefit management tools, for conditions related to military service.
-    - url: "/education/"
-      title: <b>Education and training</b>
-      description: Help with paying for college and training programs, plus online tools to track and manage benefits over time.
     - url: "/pension/how-to-apply/"
       title: <b>Veterans pension</b>
       description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
@@ -112,31 +109,25 @@ hublinks:
         description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. 
       - url: /pension/survivors-pension/
         label: Survivors pension
-        description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits. 
-      - url: https://www.tricare.mil/
-        label: TRICARE	
-        description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program.
-      - url: /health-care/family-caregiver-benefits/champva/
-        label: CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
-        description: If you don't qualify for TRICARE, see if you can get health insurance through our CHAMPVA program.
+        description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits.
+      - url: /health-care/family-caregiver-benefits/
+        label: Health care
+        description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, see if you can get health insurance through our CHAMPVA program (Civilian Health and Medical Program of the Department of Veterans Affairs).
       - url: /housing-assistance/home-loans/trouble-making-payments/
         label: Financial counseling to avoid foreclosure 
         description: If you're having trouble making mortgage payments on a VA-backed or VA direct loan, find out how we can help you avoid foreclosure and keep your house.
       - url: /housing-assistance/home-loans/spouses/
         label: Home loan programs for surviving spouses
         description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home.
-      - url: /education/survivor-dependent-benefits/fry-scholarship/
-        label: Fry Scholarship for education
-        description: If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, find out how to apply for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). 
-      - url: /education/survivor-dependent-benefits/dependents-education-assistance/
-        label: Survivors' and Dependents' Education Assistance Program
-        description: Find out if you're eligible and how to apply for help with paying for school or job training through this program (also known as Chapter 35).
+      - url: /education/survivor-dependent-benefits/
+        label: Education benefits for surviving spouse and dependent children
+        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also known as Chapter 35). Or, if your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, find out how to apply for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). 
   - id: "caregiver"
     title: Benefits and services for family members caring for a Veteran or service member
     links:
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
-        label: Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans
-        description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out if you're eligible and how to apply for health care benefits and other support.
+        label: Program of Comprehensive Assistance
+        description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out if you're eligible and how to apply for health care benefits and other support through the Program of Comprehensive Assistance to Family Caregivers of Post-911 Veterans.
       - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
         description: Learn how to access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
