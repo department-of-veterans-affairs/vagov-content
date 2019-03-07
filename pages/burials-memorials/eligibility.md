@@ -30,61 +30,103 @@ Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="Veteran-not-dishonorable-discharge">Veteran who didn’t receive a dishonorable discharge</button>
-<div id="Veteran-not-dishonorable-discharge" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="veteran-not-dishonorable-discharge">Veteran who didn’t receive a dishonorable discharge</button>
+<div id="veteran-not-dishonorable-discharge" class="usa-accordion-content">
 
 With certain exceptions, the Veteran must have served for a minimum of 24 continuous months or the full period for which the person was called to active duty if they were an:
 - Enlisted person who served after September 7, 1980, **or**
 - Officer who served after October 16, 1981
 
 A VA regional office determines eligibility in cases where the Veteran had:
-Undesirable, bad conduct, and any other type of discharge other than honorable **or**
-Multiple discharges of varying character
+- Undesirable, bad conduct, and any other type of discharge other than honorable **or**
+- Multiple discharges of varying character
 </div>
 </li>
 
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-us">Member of the Armed Forces of the United States</button>
 <div id="armed-forces-of-us" class="usa-accordion-content">
 The person died on active duty.
 </div>
 </li>
-</ul>
 
-**U.S. citizen who served in the armed forces of any government allied with the United States during a war**
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
+<div id="armed-forces-of-allied-government" class="usa-accordion-content">
 Both of these must be true. The person:
 - Ended their last active service honorably by death or otherwise, **and**
 - Was a citizen of the United States at the time they entered their last active service and at the time of death
+</div>
+</li>
 
-**Reservist or National Guard member** 
-- At the time of death, the person was entitled to retirement pay under, or they would have been entitled if they had been over the age of 60.
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Reservist or National Guard member</button>
+<div id="reservist-national-guard" class="usa-accordion-content">
+At the time of death, the person was entitled to retirement pay under, or they would have been entitled if they had been over the age of 60.
+</div>
+</li>
 
-**Member of a reserve component, or member of the Army National Guard or the Air National Guard**
-- The person died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component-army-air-national guard">Member of a reserve component, or member of the Army National Guard or the Air National Guard</button>
+<div id="reserve-component-army-air-national guard" class="usa-accordion-content">
+The person died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
+</div>
+</li>
 
-**Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force**
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-officers-training-corp">Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force</button>
+<div id="reserve-officers-training-corp" class="usa-accordion-content">
 The person died under honorable conditions while: 
 - Attending an authorized training camp or on an authorized cruise, or
 - Performing authorized travel to or from a training camp or cruise, or 
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
+</div>
+</li>
 
-**Member of a reserve component** 
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component">Member of a reserve component</button>
+<div id="reserve-component" class="usa-accordion-content">
 During a period of:
 - Active duty for training, the person became disabled or died from a disease or injury incurred or aggravated in line of duty, **or** 
 - Inactive duty training, was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty.
+</div>
+</li>
 
-**Member of reserve and Guard components** 
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-guard-component">Member of reserve and Guard components</button>
+<div id="reserve-guard-component" class="usa-accordion-content">
 The person has met minimum active duty service requirements, as applicable by law, and was discharged under conditions other than dishonorable. They must have been called to active duty and served the full term of service.
+</div>
+</li>
 
-**Commissioned officer of the National Oceanic and Atmospheric Administration**
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
+<div id="commissioned-officer-noaa" class="usa-accordion-content">
+TKTKTK
+</div>
+</li>
 
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-servie-officer">Public Health Service Officer</button>
+<div id="public-health-servie-officer" class="usa-accordion-content">
+TKTKTK
+</div>
+</li>
 
-**Public Health Service Officer**
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
+<div id="merchant-mariner" class="usa-accordion-content">
+TKTKTK
+</div>
+</li>
 
-**World War II Merchant Mariner**
-
-**Philippine Armed Forces Veteran**
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veteran</button>
+<div id="philippine-armed-forces" class="usa-accordion-content">
+TKTKTK
+</div>
+</li>
+</ul>
 
 **Note:** If you were naturalized under the Hmong Veterans' Naturalization Act of 2000, you may be eligible for burial in a VA national cemetery. <br>
 [Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
