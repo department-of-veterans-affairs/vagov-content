@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: family-member
 promo:
-  - image: 
+  - image:  /img/hub-illustrations/family-member.png
     heading: VA Caregiver Support Program
     url: https://www.caregiver.va.gov/
     description: Find out how to get the support you need to care for a Veteran.
@@ -151,7 +151,6 @@ hublinks:
         description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community.       
         
 ---
-<i class="icon-large-baseline icon-heading hub-icon-family-member hub-color-family-member"></i>
 
 <p class="va-introtext">
 As the family member of a Veteran or service member, you may qualify for certain benefits, like health care, life insurance, or money to help pay for school or training. If you're the survivor of a Veteran or service member, you may qualify for additional benefits, including help with burial costs and survivor compensation. If you’re caring for a Veteran with disabilities, you may also qualify for support to help you better care for the Veteran—and for yourself. Find out which benefits you may qualify for and how to access them.
