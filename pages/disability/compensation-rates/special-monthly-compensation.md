@@ -29,14 +29,10 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 </div>
 
-<h2>Current SMC rates</h2>
+<h2>SMC rate payment variations</h2>
 <b>Effective December 1, 2018</b>
 
- Find your rate based on your SMC level and whether you have dependents.
-
-<h3>SMC compensation rate payment variations</h3>
-
-**Levels K and Q** are special rates called SMC compensation rate payment variations.
+**Levels K and Q** are special rates called SMC compensation rate payment variations. Level K may be added to your basic rate.
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="smc-k-q">SMC-K and SMC-Q rates</button>
@@ -51,11 +47,12 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 </li>
 </ul>
 
-<h3>SMC rates for Veterans without children</h3>
+<h2>SMC rates for Veterans without children</h2>
+<b>Effective December 1, 2018</b>
 
-**Levels L** through O cover specific disabilities and situations. <br>
-[Read more about SMC levels L through O](#l-o-details)
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities.
+**Levels L through O** cover specific disabilities and situations. <br>
+[Read more about SMC levels L through O](#l-o-details)<br>
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 **Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
 
 <ul class="usa-accordion" aria-multiselectable="true">
@@ -145,11 +142,12 @@ Look at the "Added amounts" table. Take the amount that matches your disability 
 </li>
 </ul>
 
-<h3>SMC rates for Veterans with dependents, including children</h3>
+<h2>SMC rates for Veterans with dependents, including children</h2>
+<b>Effective December 1, 2018</b>
 
-**Levels L** through O cover specific disabilities and situations. <br>
-[Read more about SMC levels L through O](#l-o-details)
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities.
+**Levels L through O** cover specific disabilities and situations. <br>
+[Read more about SMC levels L through O](#l-o-details)<br>
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 **Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
 
 <ul class="usa-accordion" aria-multiselectable="true">
