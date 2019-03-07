@@ -111,7 +111,7 @@ hublinks:
         label: Survivors pension
         description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits.
       - url: /health-care/family-caregiver-benefits/
-        label: Health care
+        label: Health care for survivors
         description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, see if you can get health insurance through our CHAMPVA program (Civilian Health and Medical Program of the Department of Veterans Affairs).
       - url: /housing-assistance/home-loans/trouble-making-payments/
         label: Financial counseling to avoid foreclosure 
