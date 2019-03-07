@@ -24,10 +24,15 @@ Servicemembers, Veterans, and family members may qualify for burial in a VA nati
 ### Who can be buried in a VA national cemetery and receive other burial benefits?
 
 Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet the requirements in one of the categories listed below.
+</div>
 
 **One of these must describe the person qualifying for burial benefits:**
 
-**Veteran who didn’t receive a dishonorable discharge**
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Veteran-not-dishonorable-discharge">Veteran who didn’t receive a dishonorable discharge</button>
+<div id="Veteran-not-dishonorable-discharge" class="usa-accordion-content">
+
 With certain exceptions, the Veteran must have served for a minimum of 24 continuous months or the full period for which the person was called to active duty if they were an:
 - Enlisted person who served after September 7, 1980, **or**
 - Officer who served after October 16, 1981
@@ -35,8 +40,17 @@ With certain exceptions, the Veteran must have served for a minimum of 24 contin
 A VA regional office determines eligibility in cases where the Veteran had:
 Undesirable, bad conduct, and any other type of discharge other than honorable **or**
 Multiple discharges of varying character
+</div>
+</li>
 
-**Member of the Armed Forces of the United States who died on active duty**
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-us">Member of the Armed Forces of the United States</button>
+<div id="armed-forces-of-us" class="usa-accordion-content">
+The person died on active duty.
+</div>
+</li>
+</ul>
 
 **U.S. citizen who served in the armed forces of any government allied with the United States during a war**
 Both of these must be true. The person:
@@ -74,8 +88,6 @@ The person has met minimum active duty service requirements, as applicable by la
 
 **Note:** If you were naturalized under the Hmong Veterans' Naturalization Act of 2000, you may be eligible for burial in a VA national cemetery. <br>
 [Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
-
-</div>
 
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
