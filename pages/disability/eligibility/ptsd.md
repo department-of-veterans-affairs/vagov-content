@@ -83,7 +83,7 @@ Veterans
 You’ll need to file a claim for disability compensation. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
 
-When you file a disability claim, you'll also need to fill out these additional forms:
+When you file a disability claim, you'll also need to fill out one of these additional forms:
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781).<br>
 [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF), **or**
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a).<br>
