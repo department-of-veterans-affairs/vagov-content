@@ -50,9 +50,11 @@ Veterans
 You’ll need to file a claim for disability compensation.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-When you file a disability claim, you’ll also need to fill out: <br>
-- An Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
+When you file a disability claim, you’ll also need to fill this out: <br>
+Application for Annual Clothing Allowance (VA Form 10-8678)<br>
 [Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
+
+Bring it to the prosthetic representative at your local VA medical center. 
 
 To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
 
