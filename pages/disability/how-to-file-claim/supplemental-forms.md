@@ -14,6 +14,7 @@ relatedlinks:
       description:
 aliases:
   - /disability-benefits/apply/supplemental-forms/
+  - /disability/how-to-file-claim/additional-forms/
 ---
 
 <div class="va-introtext">
