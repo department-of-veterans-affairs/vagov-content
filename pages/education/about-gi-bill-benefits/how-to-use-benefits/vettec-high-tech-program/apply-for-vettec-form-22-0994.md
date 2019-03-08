@@ -3,7 +3,6 @@ title: Apply for education benefits
 entryname: 0994-edu-benefits
 layout: page-react.html
 description: Vet Tec.
-vagovprod: false
 ---
 <nav aria-label="Breadcrumb" aria-live="polite" class="va-nav-breadcrumbs"
 id="va-breadcrumbs">
