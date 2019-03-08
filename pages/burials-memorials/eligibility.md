@@ -55,14 +55,14 @@ The person died on active duty.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
   
-Both of these must be true. The person:<br>
+Both of these are true. The person:<br>
 - Ended their last active service honorably by death or otherwise, **and**
 - Was a citizen of the United States at the time they entered their last active service and at the time of death
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Reservist or National Guard member</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Member of the Reserves or National Guard</button>
 <div id="reservist-national-guard" class="usa-accordion-content">
   
 At the time of death, the person was entitled to retirement pay under, or they would have been entitled if they had been over the age of 60.
@@ -70,7 +70,7 @@ At the time of death, the person was entitled to retirement pay under, or they w
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component-army-air-national guard">Member of a reserve component, or member of the Army National Guard or the Air National Guard</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component-army-air-national guard">Member of a reserve component, the Army National Guard, or the Air National Guard</button>
 <div id="reserve-component-army-air-national guard" class="usa-accordion-content">
   
 The person died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
@@ -92,9 +92,9 @@ The person died under honorable conditions while:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component">Member of a reserve component</button>
 <div id="reserve-component" class="usa-accordion-content">
   
-During a period of:
-- Active duty for training, the person became disabled or died from a disease or injury incurred or aggravated in line of duty, **or** 
-- Inactive duty training, was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty.
+One of these is true:
+- During a period of active duty for training, the person became disabled or died from a disease or injury incurred or aggravated in line of duty, **or** 
+- During a period of inactive duty training, was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty.
 </div>
 </li>
 
