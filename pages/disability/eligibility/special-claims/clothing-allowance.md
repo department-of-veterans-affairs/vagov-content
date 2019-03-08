@@ -50,8 +50,9 @@ Veterans
 You’ll need to file a claim for disability compensation.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-When you file a disability claim, you’ll also need to fill this out: <br>
-Application for Annual Clothing Allowance (VA Form 10-8678)<br>
+When you file a disability claim, you’ll also need to fill out this additional form:
+
+An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
 [Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
 
 Bring it to the prosthetic representative at your local VA medical center. 
