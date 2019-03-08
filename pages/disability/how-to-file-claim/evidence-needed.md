@@ -19,6 +19,7 @@ majorlinks:
       
 aliases:
   - /disability-benefits/apply/evidence/
+  - /www.va.gov/disability-evidence/
 ---
 
 <div class="va-introtext">
