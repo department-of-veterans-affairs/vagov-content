@@ -30,7 +30,7 @@ Your VA pension = $6,837 for the year (or $569 paid each month)
 
 ## What's the net worth limit to qualify for a Survivors Pension?
 
-We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your and your beneficiary’s assets and annual income. You should report all of your net worth. The net worth limit to qualify for a Survivors Pension as of December 1, 2018, is $127,061. 
+We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. You should report all of your net worth. The net worth limit to qualify for a Survivors Pension as of December 1, 2018, is $127,061. 
 
 **Note:** In the future, the net worth limit will increase by the same percentage as Social Security cost-of-living increases. We'll update the limit here when there's an increase.
 
