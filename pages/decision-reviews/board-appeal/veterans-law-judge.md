@@ -1,9 +1,15 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a hearing with a Veterans Law Judge
-display_title: Request a hearing with a Veterans Law Judge
+title: A Hearing with a Veterans Law Judge at the Board of Veteran’s Appeals
+display_title: A Hearing with a Veterans Law Judge
 hidesidenav: true
+majorlinks:
+  - heading: Get more information about Board Appeals
+    links:
+    - url: /decision-reviews/board-appeal/
+      title: Request a Board Appeal
+      description: You can appeal to a Veterans Law Judge at the Board of Veterans' Appeals. You have the option to add new evidence that a judge will review. You also have the option to request a hearing with a judge.
 ---
 
 <br>
@@ -133,3 +139,4 @@ Washington, DC 20038<br>
 ### By fax
 
 Fax your request to 1-844-678-8979.
+
