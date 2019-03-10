@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: A Hearing with a Veterans Law Judge at the Board of Veteran’s Appeals
+title: A Hearing with a Veterans Law Judge at the Board of Veterans' Appeals
 display_title: A Hearing with a Veterans Law Judge
 hidesidenav: true
 majorlinks:
@@ -31,21 +31,23 @@ You aren't required to have a hearing. Board hearings are always optional.
 
 Learn more about Board hearings
 
-- [Request a Board hearing](#)
-- [Prepare for your Board hearing](#)
-- [Find out what to expect at your Board hearing](#)
-- [Reschedule or withdraw your Board hearing request](#)
+- [Request a Board hearing](#request-board-hearing)
+- [Prepare for your Board hearing](#prepare-for-board-hearing)
+- [Find out what to expect at your Board hearing](#what-to-expect-at-board-hearing)
+- [Reschedule or withdraw your Board hearing request](#reschedule-or-withdraw-request)
 
+<span id="request-board-hearing"></span>
 ## Request a Board hearing
 
 ### How do I request a Board hearing?
 
-You can choose to have a hearing when you request the Board Appeal decision review option. Just select block 11c, “Hearing with a Veterans Law Judge” on the form. <br>
+You can choose to have a hearing when you request the Board Appeal decision review option. Just select block 11c, “Hearing with a Veterans Law Judge,” on the form. <br>
 
 ### How will I know when my hearing is scheduled?
 
 You’ll receive a notice in the mail at least 30 days before your hearing is scheduled. It will let you know the date and time of the hearing and where it's located.
 
+<span id="prepare-for-board-hearing"></span>
 ## Prepare for your Board hearing
 
 ### Can I bring evidence to my hearing?
@@ -56,8 +58,9 @@ Yes, you can bring new evidence to your hearing to share with the judge. You als
 
 An accredited representative who’s trained in the appeals process can help you prepare for your hearing and for the conversation with the judge. Your representative must be a VA-accredited lawyer, claims agent, or someone from a Veterans Service Organization (VSO).<br>
 
-[Get help preparing for your hearing](#).
+[Get help preparing for your hearing](/decision-reviews/get-help-with-review-request/).
 
+<span id="what-to-expect-at-board-hearing"></span>
 ## Find out what to expect at your Board hearing
 
 ### What will happen at my hearing?
@@ -81,7 +84,9 @@ Your hearing will be transcribed and added to your appeal file. You’ll be aske
 
 When the 90-day time period for submitting new evidence closes, your case will be ready to go to a judge. If you don’t have new evidence to submit, you can waive the 90-day time period that’s automatically added to your appeal. Some Veterans Service Organizations will ask for time to make additional arguments in support of your case, so contact your representative first if you’re thinking of waiving this time period.
 
-## Reschedule or withdraw your Board hearing
+
+<span id="reschedule-or-withdraw-request"></span>
+## Reschedule or withdraw your Board hearing request
 
 ### What if I need to reschedule my hearing?
 
