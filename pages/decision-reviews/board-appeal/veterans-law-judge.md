@@ -29,7 +29,7 @@ You aren't required to have a hearing. Board hearings are always optional.
 
 </div>
 
-Learn more about Board hearings
+### Learn more about Board hearings
 
 - [Request a Board hearing](#request-board-hearing)
 - [Prepare for your Board hearing](#prepare-for-board-hearing)
