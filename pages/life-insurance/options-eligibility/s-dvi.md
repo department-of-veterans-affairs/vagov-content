@@ -136,6 +136,7 @@ If you have questions about Service-Disabled Veterans Insurance or a VA life ins
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 [View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
+[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?time_continue=106&v=XoS7jmr-Ets) <br>
 
 -------------
 
