@@ -40,33 +40,37 @@ social:
     admin: Veterans Health Administration
     url: https://www.va.gov/health/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
-        - url: https://public.govdelivery.com/accounts/USVHA/subscribers/qualify?category_id=USVHA_C4&email=dwdw%40gmail.com&commit.x=36&commit.y=11
+        - url: https://public.govdelivery.com/accounts/USVA/subscriber/new/
           label: Veterans Health Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
-        - url: "https://twitter.com/VeteransHealth"
-          label: Veterans Health Twitter
+        - url: "https://twitter.com/DeptVetAffairs/"
+          label: Veterans Affairs Twitter
           external: true
           icon: fa-twitter
-        - url: "https://www.facebook.com/VeteransHealth"
-          label: Veterans Health Facebook
+        - url: "https://www.facebook.com/VeteransAffairs"
+          label: Veterans Affairs Facebook
           external: true
           icon: fa-facebook
-        - url: "https://www.youtube.com/user/VeteransHealthAdmin"
-          label: Veterans Health YouTube
+        - url: "https://www.youtube.com/user/DeptVetAffairs"
+          label: Veterans Affairs YouTube
           external: true
           icon: fa-youtube
+        - url: "https://www.instagram.com/deptvetaffairs/"
+          label: Veterans Affairs Instagram
+          external: true
+          icon: fa-instagram
 hublinks:
   - id: "during-after"
     title: VA benefits you can use during and after service
     links:
       - url: "/education/eligibility/"
         label: GI Bill and other education benefits
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out if you qualify for VA education benefits to help pay for school or training.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out if you qualify for VA education benefits to help pay for school or training. And learn how to transfer Post-9/11 GI Bill benefits to your dependents.
       - url: "/housing-assistance/home-loans/eligibility/"
         label: Certificate of eligibility for a VA-backed home loans
         description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. 
@@ -78,13 +82,13 @@ hublinks:
     links:
       - url: "https://www.benefits.va.gov/tap/tap-index.asp"
         label: Transition Assistance Program (TAP)
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> As you separate from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing.
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
         label: Transitioning to VA health care after separation or retirement
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> Learn about transitioning from TRICARE to VA health care, and how to apply for health care benefits once you've received your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.
       - url: "/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
         label: Pre-discharge disability claim
-        description: <b>Active duty, National Guard and Reserve (active, traditional and technical with certain service-connected disabilities)</b> <br> If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. Find out how to file your claim, and what to do if you have less than 90 days left on active duty.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. Find out how to file your claim, and what to do if you have less than 90 days left on active duty.
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> Find out how to get free educational and career counseling. You'll need to apply no sooner than 6 months before discharge and no later than 1 year after discharge.
@@ -99,10 +103,10 @@ hublinks:
     links:
       - url: "/disability/"
         label: Disability compensation
-        description: <b>Active duty, National Guard and Reserve (active, traditional and technical with certain service-connected disabilities)</b> <br> File a claim for disability compensation for conditions related to your military service, and manage your benefits over time.        
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> File a claim for disability compensation for conditions related to your military service, and manage your benefits over time.        
       - url: "/careers-employment/veteran-owned-business-support/"
         label: Veteran-owned small business support
-        description: <b>Active duty, National Guard and Reserve (active, traditional and technical with service-connected disability)</b> <br> Register to do business with VA and get support for your Veteran-own small business.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Register to do business with VA and get support for your Veteran-own small business.
       - url: "/pension/eligibility/"
         label: Veterans pension
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> If you served on active duty during wartime, are over 65 or have a service-connected disability, and you have limited or no income, find out if you qualify for a Veterans Pension. 
@@ -111,13 +115,13 @@ hublinks:
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> If you need help with your daily activities, or you’re housebound, see if you qualify for monthly payments added to the amount of your monthly Veterans pension.
       - url: "/housing-assistance/disability-housing-grants/"
         label: Disability housing grants
-        description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home to help you live more independently.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home to help you live more independently.
       - url: "/life-insurance/"    
         label: More life insurance options
         description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Explore life insurance coverage options and services for you and your family, and manage your policy online.
       - url: "/burials-memorials/pre-need-eligibility/"
         label: Pre-need eligibility determination for burial in a VA national cemetery
-        description: <b>Active duty, National Guard and Reserve (active, traditional and technical with a service-connected disability)</b> <br>  Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and make the process easier for your family members in their time of need. 
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br>  Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and make the process easier for your family members in their time of need. 
 
 ---
 
