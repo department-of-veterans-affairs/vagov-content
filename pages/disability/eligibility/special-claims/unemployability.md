@@ -54,7 +54,8 @@ You’ll need to file a claim for disability compensation. When you file, you’
 
 When you file a disability claim, you'll also need to fill out these additional forms for Individual Unemployability benefits:
 - A Veteran’s Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-[Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/vba-21-8940-are.pdf), **and**
+[Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/vba-21-8940-are.pdf) <br>
+**and**<br>
 - A Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192)<br>
 [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).
 
