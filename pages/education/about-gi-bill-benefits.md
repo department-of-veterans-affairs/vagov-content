@@ -79,3 +79,4 @@ The GI Bill Comparison Tool and Veterans Service Organizations can help you expl
 <a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for Education Benefits</a><br>
 
 </div>
+

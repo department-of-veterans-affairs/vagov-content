@@ -2,9 +2,8 @@
 title: Connected Accounts
 layout: page-react.html
 entryname: connected-accounts
-preview: false
 vagovstaging: true
-vagovprod: false
+vagovprod: true
 ---
 <nav aria-label="Breadcrumb" aria-live="polite" class="va-nav-breadcrumbs" id="va-breadcrumbs">
   <ul class="row va-nav-breadcrumbs-list columns" id="va-breadcrumbs-list">

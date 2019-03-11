@@ -25,21 +25,14 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 **Both of these must be true. You:**
 -	Separated from active duty not more than 1 year ago and didn't receive a dishonorable discharge, **and**
--	Qualify as a Veteran for educational assistance under a VA educational program.
-
-**Note:** Dependents who qualify for educational assistance may get these services under the following programs:
-- [Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
-- [Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
-- [The Survivors’ and Dependents’ Educational Assistance Program (DEA)](/education/survivor-dependent-benefits/dependents-education-assistance/)
-
-### Who’s covered?
-
-- Veterans
-- Qualified dependents
+-	Qualify as a Veteran for educational assistance under a VA educational program
+ 
+**Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
+[Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/)
 
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 -	Counseling to help you decide which civilian or military jobs you want
 -	Educational and career counseling to help you find a training program or job
@@ -47,13 +40,37 @@ You can get these services if you’ll be discharged from active duty within 6 m
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
-You’ll need to apply:
+First, you’ll need to apply for Vocational Rehabilitation and Employment benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-1. Log in to [eBenefits](https://www.ebenefits.va.gov).
-2. Select “Apply.”
-3. Select “Vocational Rehabilitation and Employment Benefits.”
-4. Apply for “Educational and Career Counseling.”<br /><br />
+### Follow these steps to apply online now
 
-If you qualify, we’ll invite you to an orientation session at a VA regional office near you. You can also use CareerScope&reg; to find careers you might enjoy. [Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/).
+<ol class="process">
+  <li class="process-step list-one">Sign in to your eBenefits account.</li>
+  <li class="process-step list-two">Click <b>Additional Benefits</b> on your dashboard.</li>
+  <li class="process-step list-three">Choose <b>Vocational Rehabilitation and Employment Program</b>.</li>
+  <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
+  <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
+</ol>
+
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
+
+### You can also apply by mail
+
+Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
+[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
+
+Mail the completed form to your nearest VA regional benefit office.<br> 
+[Find your nearest VA regional benefit office](/find-locations/)
+
+If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
+
+### Get more information
+
+[Watch this video to learn more about VR&E Chapter 36 services](https://www.youtube.com/watch?v=gXtG-LkPqH4&feature=youtu.be) <br>
+
+Use CareerScope&reg; to find careers you might enjoy. <br>
+[Learn more about CareerScope](/careers-employment/careerscope-skills-assessment/) <br>
+
+
