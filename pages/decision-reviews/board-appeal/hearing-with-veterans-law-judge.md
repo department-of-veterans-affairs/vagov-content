@@ -43,7 +43,7 @@ When you fill out the Decision Review Request: Board Appeal (VA Form 10182), the
 
 When you fill out the Appeal to Board of Veterans' Appeals (VA Form 9), there's a place on the form where you can choose to have a hearing. Just select one of the options for a hearing in block 10.<br>
 [Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).<br>
-[Learn more about requesting a Board Appeal **for decisions received before February 19, 2019**]
+[Learn more about requesting a Board Appeal **for decisions received before February 19, 2019**](/disability/file-an-appeal/).
 
   **The form will ask you to choose 1 of these 4 options:**
 -	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
