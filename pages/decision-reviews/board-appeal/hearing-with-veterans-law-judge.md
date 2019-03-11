@@ -119,13 +119,16 @@ You won’t lose your place in line. The Board of Veterans’ Appeals schedules 
 
 If you change your mind about having a hearing, you can write to the Board to withdraw (cancel) your hearing request. You or your representative should send a written request at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason you’re withdrawing the appeal.
 
-**If you received your decision on or after February 19, 2019** <br>
-Canceling your hearing request won’t speed up your appeal unless you also switch to the Direct Review appeal option, which can only be done at certain times.
-
-If you switch to a different appeal option, you’ll keep the same docket date and your appeal will be decided at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.
-
-You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. Send your written request to the Board. <br>
+Send your written request to the Board. <br>
 [Use the address or fax number listed below](#board-address-and-fax).
+
+**If you received your decision on or after February 19, 2019** <br>
+
+- Canceling your hearing request won’t speed up your appeal unless you also switch to the Direct Review appeal option, which can only be done at certain times.
+
+- If you switch to a different appeal option, you’ll keep the same docket date and your appeal will be decided at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.
+
+- You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. 
 
 <span id="board-address-and-fax"></span>
 ### Where do I send the Board a written request or new evidence?
