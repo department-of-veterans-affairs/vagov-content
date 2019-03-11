@@ -92,10 +92,13 @@ Hearings usually last 30 minutes, but there's no time limit. Your hearing will l
 
 ### When will the judge make a decision on my appeal?
 
-Your hearing will be transcribed and added to your appeal file. You’ll be asked if you’d like a copy of the transcript for your personal records. The judge will review the hearing transcript and the other evidence in your appeal file before they make a decision.
+First, your hearing will be transcribed and added to your appeal file. You’ll be asked if you’d like a copy of the transcript for your personal records. Then the judge will review the hearing transcript and the other evidence in your appeal file before they make a decision.
 
+#### If you received your decision on or after February 19, 2019
 When the 90-day time period for submitting new evidence closes, your case will be ready to go to a judge. If you don’t have new evidence to submit, you can waive the 90-day time period that’s automatically added to your appeal. Some Veterans Service Organizations will ask for time to make additional arguments in support of your case, so contact your representative first if you’re thinking of waiving this time period.
 
+#### If you received your decision before February 19, 2019
+The Board reviews cases in the order they’re received. The judge will begin work on your appeal when it’s among the oldest appeals ready for their review.
 
 <span id="reschedule-or-withdraw-request"></span>
 ## Reschedule or withdraw your Board hearing request
@@ -114,16 +117,23 @@ You won’t lose your place in line. The Board of Veterans’ Appeals schedules 
 
 ### What if I need to withdraw my hearing?
 
-If you change your mind about having a hearing, you can write to the Board to withdraw (cancel) your hearing request. This won’t speed up your appeal unless you also switch to the Direct Review appeal option, which can only be done at certain times.
+If you change your mind about having a hearing, you can write to the Board to withdraw (cancel) your hearing request. You or your representative should send a written request at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason you’re withdrawing the appeal.
+
+**If you received your decision on or after February 19, 2019** <br>
+Canceling your hearing request won’t speed up your appeal unless you also switch to the Direct Review appeal option, which can only be done at certain times.
 
 If you switch to a different appeal option, you’ll keep the same docket date and your appeal will be decided at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.
 
-If you need to withdraw your hearing request, you or your representative should send a written request at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason you’re withdrawing the appeal. You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. Send your written request to the Board. [Use the address or fax number listed below](#board-address-and-fax).
+You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. Send your written request to the Board. <br>
+[Use the address or fax number listed below](#board-address-and-fax).
 
 <span id="board-address-and-fax"></span>
 ### Where do I send the Board a written request or new evidence?
 
-You can mail or fax a written request to reschedule or withdraw your Board hearing. You can also submit new evidence for the judge to review with 90 days from the day of your hearing.
+You can mail or fax a written request to reschedule or withdraw your Board hearing. 
+
+**If you received your decision on or after February 19, 2019** <br>
+You can also submit new evidence for the judge to review with 90 days from the day of your hearing.
 
 
 #### By mail
