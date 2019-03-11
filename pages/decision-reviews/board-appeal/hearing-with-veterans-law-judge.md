@@ -4,12 +4,6 @@ template: detail-page
 title: A Hearing with a Veterans Law Judge at the Board of Veterans' Appeals
 display_title: A Hearing with a Veterans Law Judge
 hidesidenav: true
-majorlinks:
-  - heading: Get more information about Board Appeals
-    links:
-    - url: /decision-reviews/board-appeal/
-      title: Request a Board Appeal
-      description: You can appeal to a Veterans Law Judge at the Board of Veterans' Appeals. You have the option to add new evidence that a judge will review. You also have the option to request a hearing with a judge.
 ---
 
 <br>
@@ -17,7 +11,6 @@ majorlinks:
   Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want to discuss your appeal with a Veterans Law Judge. 
 </div>
 
-<div class="feature" markdown="0">
 
 ### Why would I request a Board hearing?
 
@@ -27,7 +20,6 @@ You can request a video conference hearing if you think having a conversation wi
 
 You aren't required to have a hearing. Board hearings are always optional.
 
-</div>
 
 ### Learn more about Board hearings
 
@@ -41,7 +33,25 @@ You aren't required to have a hearing. Board hearings are always optional.
 
 ### How do I request a Board hearing?
 
-You can choose to have a hearing when you request the Board Appeal decision review option. Just select block 11c, “Hearing with a Veterans Law Judge,” on the form. <br>
+#### If you received your decision on or after February 19, 2019
+
+When you fill out the Decision Review Request: Board Appeal (VA Form 10182), there's a place on the form where you can choose to have a hearing. Just select block 11c, “Hearing with a Veterans Law Judge." <br>
+[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf).<br>
+[Learn more about requesting a Board Appeal **for decisions received on or after February 19, 2019**](/decision-reviews/board-appeal/)
+
+#### If you received your decision before February 19, 2019
+
+When you fill out the Appeal to Board of Veterans' Appeals (VA Form 9), there's a place on the form where you can choose to have a hearing. Just select one of the options for a hearing in block 10.<br>
+[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).<br>
+[Learn more about requesting a Board Appeal **for decisions received before February 19, 2019**]
+
+  **The form will ask you to choose 1 of these 4 options:**
+-	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
+-	**A videoconference hearing at your local VA office.** This takes place at your local VA office (or another facility close to you). VA can usually schedule video hearings sooner than in-person hearings.<br>
+[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf).
+-	**An in-person hearing at your local VA office.** This can sometimes delay your hearing, because judges have to be scheduled to travel to your local VA office.
+-	**An in-person hearing at the Board in Washington, DC.**
+
 
 ### How will I know when my hearing is scheduled?
 
@@ -90,7 +100,7 @@ When the 90-day time period for submitting new evidence closes, your case will b
 
 ### What if I need to reschedule my hearing?
 
-You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board using the address or fax number listed below.
+You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board. [Use the address or fax number listed below](#board-address-and-fax).
 
 If your hearing is less than 2 weeks away, you’ll need to file a motion explaining why you need to reschedule.
 
@@ -106,8 +116,9 @@ If you change your mind about having a hearing, you can write to the Board to wi
 
 If you switch to a different appeal option, you’ll keep the same docket date and your appeal will be decided at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.
 
-If you need to withdraw your hearing request, you or your representative should send a written request at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason you’re withdrawing the appeal. You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. Send your written request to the Board using the address or fax number listed below.
+If you need to withdraw your hearing request, you or your representative should send a written request at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason you’re withdrawing the appeal. You still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. Send your written request to the Board. [Use the address or fax number listed below](#board-address-and-fax).
 
+<span id="board-address-and-fax"></span>
 ### Where do I send the Board a written request or new evidence?
 
 You can mail or fax a written request to reschedule or withdraw your Board hearing. You can also submit new evidence for the judge to review with 90 days from the day of your hearing.
