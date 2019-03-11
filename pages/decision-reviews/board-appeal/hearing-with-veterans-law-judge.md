@@ -62,7 +62,9 @@ You’ll receive a notice in the mail at least 30 days before your hearing is sc
 
 ### Can I bring evidence to my hearing?
 
-Yes, you can bring new evidence to your hearing to share with the judge. You also have 90 days from the day of your hearing to submit new evidence for the judge’s review. Please don’t submit new evidence prior to your hearing.
+Yes, you can bring new evidence to your hearing to share with the judge. 
+
+**If you received your decision on or after February 19, 2019,** according to the new process, you also have 90 days from the day of your hearing to submit new evidence for the judge’s review. Please don’t submit new evidence prior to your hearing.
 
 ### Who can help me prepare for my hearing?
 
