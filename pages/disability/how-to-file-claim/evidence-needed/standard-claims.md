@@ -51,7 +51,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 </div>
 </div>
 
-### What evidence will VA take responsibility for gathering when I file a standard disability claim?
+## What evidence will VA gather when I file a standard disability claim?
 
 **With your permission, we’ll get related records from:**
 - Any federal agency (including the military)
@@ -62,12 +62,18 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 - Make every reasonable effort to request relevant records that you authorize us to get that aren’t at a federal facility (including records from non-VA doctors and hospitals), **and**
 - Provide a medical exam for you, or get a doctor’s opinion if we need it to make a decision on your claim
 
-**Example**<br>
-A Veteran filed a disability claim that included prior treatment from a private doctor and a prior Social Security disability award. In this case, we were responsible for getting the Social Security records. We also helped to get the private doctor’s records, but the Veteran was responsible for making sure we got those.
+**Example:** A Veteran filed a disability claim that included prior treatment from a private doctor and a prior Social Security disability award. In this case, we were responsible for getting the Social Security records. We also helped to get the private doctor’s records, but the Veteran was responsible for making sure we got those.
+
 
 <br>
 
-### When do I need to turn in my evidence to support my standard claim?
+## What should the evidence show to support my disability claim?
+This depends on the type of claim you’re filing.<br> 
+[See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/) <br>
+
+
+
+## When do I need to turn in my evidence to support my standard claim?
 
 You’ll need to turn in the information and evidence as soon as you can.
 
@@ -75,16 +81,19 @@ You have up to 1 year from the date we receive your claim to turn in any informa
 
 <br>
 
-### How do I get started filing my standard claim?
+## How do I get started filing my standard claim?
 
 You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 <br>
 
-### Does it take longer to get a decision from VA on a standard claim than a fully developed claim?
+## Does it take longer to get a decision from VA on a standard claim than a fully developed claim?
 
 Yes. The process is slower for getting a decision on a standard disability claim. This is because we need time to gather evidence for your claim. 
 
 If you'd like to get a decision on your claim faster, you can submit a fully developed claim. For this type of claim, you gather all of the evidence—or as much as you can get easily—and submit it at the same time as your claim. <br>
-[Learn more about submitting a fully developed disability claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
+[Learn more about submitting a fully developed disability claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)
+
+
+

@@ -91,6 +91,7 @@ Our National Center for PTSD is the world leader in PTSD research, education, an
 
 </div>
 
+<span id="access-services"></span>
 ### How do I access VA services for PTSD?
 
 The VA health care program covers PTSD health services. To access these services, first apply for VA health care. <br>
