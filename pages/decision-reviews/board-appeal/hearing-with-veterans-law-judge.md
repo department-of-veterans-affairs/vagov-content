@@ -33,27 +33,40 @@ No. Board hearings are always optional.
 
 ### How do I request a Board hearing?
 
-You can request a Board hearing by selecting the option for a hearing on your Board Appeal request form. 
+You can request a Board hearing by selecting the option for a hearing on your Board Appeal request form. The form will depend on when you received your decision.
 
-#### If you received your decision on or after February 19, 2019
+<div class="usa-accordion">
+<ul class="usa-unstyled-list">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="on-or-after">If you received your decision on or after February 19, 2019</button>
+<div id="on-or-after" class="usa-accordion-content">
 
 When you fill out the Decision Review Request: Board Appeal (VA Form 10182), select block 11c, “Hearing with a Veterans Law Judge." <br>
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf).<br>
-[Learn more about requesting a Board Appeal for decisions received on or after February 19, 2019](/decision-reviews/board-appeal/)
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.<br>
+<a href="/decision-reviews/board-appeal/">Learn more about requesting a Board Appeal for decisions received on or after February 19, 2019</a>.
 
-#### If you received your decision before February 19, 2019
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="before">If you received your decision before February 19, 2019</button>
+<div id="before" class="usa-accordion-content">
 
 When you fill out the Appeal to Board of Veterans' Appeals (VA Form 9), select one of the options for a hearing in block 10.<br>
 
-**The form will ask you to choose 1 of these 4 options:**
--	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
--	**A videoconference hearing at your local VA office.** This will take place at your local VA office (or another facility close to you). The Board can usually schedule video hearings sooner than in-person hearings.<br>
-[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf).
--	**An in-person hearing at your local VA office.** This can sometimes delay your hearing, because the Board has to schedule judges to travel to your local VA office.
--	**An in-person hearing at the Board in Washington, DC.**
+<b>The form will ask you to choose 1 of these 4 options:</b>
+<ul>
+  <li><b>No hearing.</b> If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.</li>
+  <li><b>A videoconference hearing at your local VA office.</b> This will take place at your local VA office (or another facility close to you). The Board can usually schedule video hearings sooner than in-person hearings.<br>
+<a href="https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf">Find out more about choosing a video hearing</a>.</li>
+  <li><b>An in-person hearing at your local VA office.</b> This can sometimes delay your hearing, because the Board has to schedule judges to travel to your local VA office.</li>
+  <li><b>An in-person hearing at the Board in Washington, DC.</b></li>
 
-[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).<br>
-[Learn more about requesting a Board Appeal for decisions received before February 19, 2019](/disability/file-an-appeal/).
+<a href="https://www.va.gov/vaforms/va/pdf/va9.pdf">Download VA Form 9</a>.<br>
+<a href= "/disability/file-an-appeal/">Learn more about requesting a Board Appeal for decisions received before February 19, 2019</a>.
+</div>
+</li>
+</ul>
 
 ### How will I know when my hearing is scheduled?
 
@@ -95,17 +108,30 @@ Hearings usually last 30 minutes, but there's no time limit. Your hearing will l
 
 ### What will happen after my hearing, and when will the judge make a decision on my appeal?
 
-First, we'll transcribe your hearing and add the written transcript to your appeal file. We'll also ask if you’d like a copy of the transcript for your personal records. 
+First, the Board will have your hearing transcribed and will add the written transcript to your appeal file. They'll also ask if you’d like a copy of the transcript for your personal records. 
 
 Then the judge will review the hearing transcript and the other evidence in your appeal file before making a decision.
 
-#### If you received your decision on or after February 19, 2019
+<div class="usa-accordion">
+<ul class="usa-unstyled-list">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="on-or-after-a">If you received your decision on or after February 19, 2019</button>
+<div id="on-or-after-a" class="usa-accordion-content">
+
 After your hearing, you'll have 90 days to submit any additional new evidence you may have to support your appeal. Once this period closes, we'll send your case to a judge for a decision.
 
 If you don’t have new evidence to submit, you can waive the 90-day time period that’s automatically added to your appeal. But if you're working with a Veterans Service Organization, be sure to contact your representative first. Some VSOs will ask for time to make additional arguments to help support your case.
 
-#### If you received your decision before February 19, 2019
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="before-a">If you received your decision before February 19, 2019</button>
+<div id="before-a" class="usa-accordion-content">
+
 The Board reviews cases in the order they’re received. The judge will begin work on your appeal when it’s risen to the front of the line.
+
+</div>
+</li>
+</ul>
 
 <span id="reschedule-or-withdraw-request"></span>
 ## Reschedule or withdraw your Board hearing request
@@ -132,13 +158,20 @@ If you change your mind about having a hearing, you can write to the Board to wi
 Send your written request to the Board. <br>
 [Use the address or fax number listed below](#board-address-and-fax).
 
-**If you received your decision on or after February 19, 2019** <br>
+<div class="usa-accordion">
+<ul class="usa-unstyled-list">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="on-or-after-b">If you received your decision on or after February 19, 2019</button>
+<div id="on-or-after-b" class="usa-accordion-content">
 
-- Canceling your hearing request won’t speed up your appeal unless you also switch to the Direct Review appeal option. You can only do this at certain times.
-
-- If you switch to a different appeal option, you’ll keep the same docket date and the Board will decide your appeal at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.
-
-- You'll still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request. 
+<ul>
+  <li>Canceling your hearing request won’t speed up your appeal unless you also switch to the Direct Review appeal option. You can only do this at certain times.</li>
+  <li>If you switch to a different appeal option, you’ll keep the same docket date and the Board will decide your appeal at the same time as other appeals with the same date. However, the time it takes to get a decision is different on each docket.</li>
+  <li>You'll still have the option to submit new evidence, as long as you send it to the Board within 90 days of withdrawing your hearing request.</li>
+  </ul>
+</div>
+</li>
+</ul>
 
 <span id="board-address-and-fax"></span>
 ### How do I send the Board a written request or new evidence?
