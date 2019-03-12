@@ -19,7 +19,7 @@ majorlinks:
 
 <div class="feature" markdown="0">
 
-### Why would I request a Board hearing?
+### Why should I consider requesting a Board hearing?
 
 You can request a video conference hearing if you think having a conversation with a judge would support your appeal.
 
@@ -41,7 +41,9 @@ You aren't required to have a hearing. Board hearings are always optional.
 
 ### How do I request a Board hearing?
 
-You can choose to have a hearing when you request the Board Appeal decision review option. Just select block 11c, “Hearing with a Veterans Law Judge,” on the form. <br>
+When you fill out the Decision Review Request: Board Appeal (VA Form 10182), select block 11c, “Hearing with a Veterans Law Judge." <br>
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.<br>
+<a href="/decision-reviews/board-appeal/">Learn more about requesting a Board Appeal</a>.
 
 ### How will I know when my hearing is scheduled?
 
@@ -90,7 +92,7 @@ When the 90-day time period for submitting new evidence closes, your case will b
 
 ### What if I need to reschedule my hearing?
 
-You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board using the address or fax number listed below.
+You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board. using the address or fax number listed below.
 
 If your hearing is less than 2 weeks away, you’ll need to file a motion explaining why you need to reschedule.
 
