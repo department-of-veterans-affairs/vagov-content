@@ -95,10 +95,11 @@ An accredited representative who’s trained in the appeals process can help you
 To start, the judge will ask you to take an oath that you’ll tell the truth during the hearing.
 
 Then you and the judge will have a conversation. The judge may ask you a few questions, but don't worry—it won’t be like a cross-examination. You'll:
-
-- Tell the judge why you think you qualify for the VA benefits in your appeal
-- Answer any questions the judge may have about your appeal
-- Share any new evidence with the judge
+<ul>
+  <li>Tell the judge why you think you qualify for the VA benefits in your appeal</li>
+  <li>Answer any questions the judge may have about your appeal</li>
+  <li>Share any new evidence with the judge</li>
+  </ul>
 
 The judge will let you know if there’s anything that might help you qualify for the VA benefits in your appeal. Your representative, if you have one, may help you at the hearing.
 
