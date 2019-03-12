@@ -13,6 +13,6 @@ id="va-breadcrumbs">
   <ul class="row va-nav-breadcrumbs-list columns" id="va-breadcrumbs-list">
     <li><a href="/">Home</a></li>
     <li><a href="/disability/">Disability Benefits</a></li>
-    <li><a aria-current="page" href="/disability/file-disability-claim-form-21-526ez/">Apply for Increase</a></li>
+    <li><a aria-current="page" href="/disability/file-disability-claim-form-21-526ez/">File for a disability increase</a></li>
   </ul>
 </nav>
