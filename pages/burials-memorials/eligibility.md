@@ -139,10 +139,16 @@ Was a person who served before July 1, 1946, in the organized military forces of
 Was a person who enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, pursuant to section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who died on or after December 16, 2003.
 </div>
 </li>
-</ul>
 
-**Note:** If you were naturalized under the Hmong Veterans' Naturalization Act of 2000, you may be eligible for burial in a VA national cemetery. <br>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
+<div id="hmong-veteran" class="usa-accordion-content">
+
+The Veteran must have been naturalized under the Hmong Veterans' Naturalization Act of 2000.<br>
 [Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
+</div>
+</li>
+</ul>
 
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
