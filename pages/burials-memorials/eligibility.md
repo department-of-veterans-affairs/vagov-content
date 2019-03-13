@@ -34,20 +34,20 @@ Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA
 <div id="veteran-not-dishonorable-discharge" class="usa-accordion-content">
 
 With certain exceptions, the Veteran must have served for a minimum of 24 continuous months or the full period for which the person was called to active duty if they were an:
-- Enlisted person who served after September 7, 1980, **or**
+- Enlisted person who served after September 7, 1980, <b>or</b>
 - Officer who served after October 16, 1981
 
 A VA regional office determines eligibility in cases where the Veteran had:
-- Undesirable, bad conduct, and any other type of discharge other than honorable **or**
+- Undesirable, bad conduct, and any other type of discharge other than honorable <b>or</b>
 - Multiple discharges of varying character
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-us">Member of the Armed Forces of the United States</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-us">Member of the United States Armed Forces</button>
 <div id="armed-forces-of-us" class="usa-accordion-content">
   
-The person died on active duty.
+The service member died on active duty.
 </div>
 </li>
 
@@ -56,53 +56,36 @@ The person died on active duty.
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
   
 Both of these are true. The person:<br>
-- Ended their last active service honorably by death or otherwise, **and**
+- Ended their last active service honorably by death or otherwise, <b>and</b>
 - Was a citizen of the United States at the time they entered their last active service and at the time of death
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Member of the Reserves or National Guard</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Reserve component of the United States Armed Forces</button>
 <div id="reservist-national-guard" class="usa-accordion-content">
   
-At the time of death, the person was entitled to retirement pay under, or they would have been entitled if they had been over the age of 60.
-</div>
-</li>
+You're eligible if you're a:
 
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component-army-air-national guard">Member of a reserve component, the Army National Guard, or the Air National Guard</button>
-<div id="reserve-component-army-air-national guard" class="usa-accordion-content">
-  
-The person died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
-</div>
-</li>
+<b>Member of the Reserves or National Guard</b> who, at the time of death, was entitled to retirement pay, or would have been entitled if they had been over the age of 60
 
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-officers-training-corp">Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force</button>
-<div id="reserve-officers-training-corp" class="usa-accordion-content">
-  
-The person died under honorable conditions while: 
-- Attending an authorized training camp or on an authorized cruise, **or**
-- Performing authorized travel to or from a training camp or cruise, **or**
+<b>Member of a reserve component, the Army National Guard, or the Air National Guard</b> who died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
+
+<b>Member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> who died under honorable conditions while:
+
+- Attending an authorized training camp or on an authorized cruise, <b>or</b>
+- Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
-</div>
-</li>
 
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-component">Member of a reserve component</button>
-<div id="reserve-component" class="usa-accordion-content">
-  
-One of these is true:
-- During a period of active duty for training, the person became disabled or died from a disease or injury incurred or aggravated in line of duty, **or** 
-- During a period of inactive duty training, was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty.
-</div>
-</li>
+<b>Member of a reserve component</b> who:
+- During a period of active duty for training became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
+- During a period of inactive duty training was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
 
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reserve-guard-component">Member of reserve and Guard components</button>
-<div id="reserve-guard-component" class="usa-accordion-content">
-  
-The person has met minimum active duty service requirements, as applicable by law, and was discharged under conditions other than dishonorable. They must have been called to active duty and served the full term of service.
+<b>Member of reserve and Guard components</b> who:
+
+- Has met minimum active duty service requirements, as required by law, <b>and</b> 
+- Was discharged under conditions other than dishonorable, <b>and</b> 
+- Was called to active duty and served the full term of service
 </div>
 </li>
 
