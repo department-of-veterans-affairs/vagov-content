@@ -69,7 +69,11 @@ The person was a member of:
 
 <b>The Reserves or National Guard</b> who, at the time of death, was entitled to retirement pay, or would have been entitled if they had been over the age of 60
 
+<b>or</b>
+
 <b>A reserve component, the Army National Guard, or the Air National Guard</b> who died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
+
+<b>or</b>
 
 <b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> who died under honorable conditions while:
 
@@ -77,9 +81,13 @@ The person was a member of:
 - Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
+<b>or</b>
+
 <b>A reserve component</b> who:
 - During a period of active duty for training became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
 - During a period of inactive duty training was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
+
+<b>or</b>
 
 <b>Reserve and Guard components</b> who:
 
@@ -93,7 +101,11 @@ The person was a member of:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
 <div id="commissioned-officer-noaa" class="usa-accordion-content">
   
-The person had full-time duty on or after July 29, 1945, or served before July 29, 1945, and
+<b>The person had full-time duty on or after July 29, 1945.</b>
+
+<b>or</b>
+
+<b>The person served before July 29, 1945, and
 - Was assigned to an area of immediate military hazard (as determined by the Secretary of Defense while in time of war or by a national emergency as declared by the president, <b>or</b>
 - Served in the Philippine Islands on December 7, 1941, and continued to serve there until their death.
 
