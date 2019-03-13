@@ -152,7 +152,7 @@ As the family member of a Veteran or service member, you may qualify for certain
 Benefits and services for:
 <ul>
   <li><a href="#spouse">Spouses and dependent children</a></li>
-  <li><a href="#survivor">Survivors</a></li>
+  <li><a href="#survivor">Surviving spouses and dependents</a></li>
   <li><a href="#caregiver">Family members caring for a Veteran or service member</a></li>
 </ul>
 
