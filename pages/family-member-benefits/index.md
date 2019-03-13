@@ -78,30 +78,30 @@ crosslinks:
       description: Life insurance options, and online policy management tools, for Veterans and their families.
 hublinks:
   - id: "spouse"
-    title: Benefits for spouses and dependent children
+    title: VA benefits for spouses and dependent children
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you qualify for health care through CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), the Department of Defense's TRICARE program, or a program related to a service-connected disability. If you already have health care through VA, find out how to manage your health and benefits.
+        description: Find out if you qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits.
       - url: /education/survivor-dependent-benefits/
         label: Education and training
-        description: Learn how to apply for help with paying for school or training as the dependent or surviving spouse or child of a Veteran, and how a Veteran may transfer some of their unused Post-9/11 GI Bill benefits.
+        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35).
       - url: /life-insurance/
         label: Life insurance
-        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage. And explore other options, like getting accelerated benefits in the case of terminal illness or mortgage protection insurance for a home that's been adapted to meet the needs of a Veteran with service-connected disabilities.
+        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage. Explore other options, like accelerated benefits or mortgage protection insurance, and manage an existing policy.
       - url: /burials-memorials/pre-need-eligibility/
         label: Burial in a VA national cemetery
         description: Apply in advance for eligibility to be buried in a VA national cemetery. This can make the burial planning process easier for your family members in their time of need.
   - id: "survivor"
-    title: Benefits and services for survivors
+    title: VA benefits for surviving spouses and dependents
     links: 
       - url: /burials-memorials/ 
         label: Burial benefits and memorial items
-        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items to honor a Veteran or Reservist, or find out if you qualify for bereavement (grief) counseling and transition support.
+        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support.
       - url: https://benefits.va.gov/insurance/bfcs.asp?_ga=2.20372474.311206835.1546861480-1173244138.1525894550
         label: Life insurance beneficiary financial counseling
         description: If you're the beneficiary of a Veteran's or service member's life insurance policy, learn how to get free professional financial advice and will preparation services.
-      - url: https://benefits.va.gov/INSURANCE/images/VMLI_Claim.pdf
+      - url: https://benefits.va.gov/INSURANCE/sglivgli.asp
         label: File a life insurance claim
         description: Find out how to file a claim for benefits for Servicemembers' Group Life Insurance (SGLI), Family Servicemembers' Group Life Insurance (FSGLI), Veterans' Group Life Insurance (VGLI), SGLI Traumatic Injury (TSGLI), or Veterans' Mortgage Life Insurance (VMLI). 
       - url: /burials-memorials/dependency-indemnity-compensation/
@@ -121,12 +121,12 @@ hublinks:
         description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home.
       - url: /education/survivor-dependent-benefits/
         label: Education benefits for surviving spouse and dependent children
-        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also known as Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). 
+        description: Find out how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. 
   - id: "caregiver"
     title: Benefits and services for family members caring for a Veteran or service member
     links:
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
-        label: Program of Comprehensive Assistance to Family Caregivers
+        label: Program of Comprehensive Assistance for Family Caregivers
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
@@ -138,8 +138,8 @@ hublinks:
         label: Fisher House Program
         description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
       - url: https://www.mirecc.va.gov/coaching/
-        label: Coaching Into Care 
-        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in adjusting to civilian life, dealing with mental health problems, and finding the right services through VA or in the community.       
+        label: Coaching into Care 
+        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in readjusting to civilian life, dealing with mental health problems, and finding services through VA or in the community.       
         
 ---
 
