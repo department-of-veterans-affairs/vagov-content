@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Transitioning to VA health care (including returning OEF/OIF/OND service members)
-display_title: Transitioning to VA health care
+title: Active duty service members and VA health care
+display_title: Active duty
 description: 
 collection: healthCare
 lastupdate: 
