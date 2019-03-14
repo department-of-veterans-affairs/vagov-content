@@ -53,9 +53,12 @@ node('vetsgov-general-purpose') {
       sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
       sh "git fetch --no-tags"
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
-      commentOnGitHub(changedFiles)
-    }
+      def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
+      if (homepageChanged) {
+        commentOnGitHub(changedFiles)
+      }
+    }
   }
 
   stage('Validate Links') {
