@@ -8,7 +8,21 @@ collection: healthCare
 lastupdate: 
 order: 2
 aliases:
-
+relatedlinks:
+  - heading: Other helpful information
+    links:
+    - url: /health-care/about-va-health-benefits/
+      title: About VA health benefits
+      description: Learn how VA health care works and which Veterans health care services we cover.
+    - url: /health-care/health-needs-conditions/mental-health/
+      title: VA mental health services
+      description: Learn how to get started with VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. 
+    - url: /health-care/health-needs-conditions/health-issues-related-to-service-era/
+      title: Health issues related to service history
+      description: Find out which health concerns you should be aware of depending on when and where you served.
+    - url: /disability/eligibility/
+      title: Eligibility for VA disability benefits
+      description: Find out if you may be eligible for disability compensation for a service-connected disability.
 ---
 
 <div class="va-introtext">
@@ -65,7 +79,7 @@ This depends on your situation. Learn more about whether you'll be eligible, and
 
 ### If you're returning from OEF/OIF/OND combat
 
-You can receive cost-free medical care for any condition related to your service in the Iraq/Afghanistan theater for 5 years after the date of your discharge or release.
+You can receive cost-free medical care for up to 5 years after discharge or release for any condition related to your service in Operating Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq.
 
 <b>When you apply for VA health care and if we determine you qualify for OEF/OIF/OND enhanced eligibility:</b>
 - We'll enroll you right away. We'll assign you to priority group 6, unless you qualify for a higher priority group based on your income or a service-connected disability. <br>
