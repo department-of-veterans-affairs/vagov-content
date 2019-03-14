@@ -61,8 +61,10 @@ node('vetsgov-general-purpose') {
       if (homepageChanged) {
         def message = "Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/ \n @nick"
 
-        slackSend message: message, color: 'danger', failOnError: true
-        commentOnGitHub(changedFiles)
+        slackSend message: message,
+          channel: 'oncall'
+          color: 'danger',
+          failOnError: true
       }
     }
   }
