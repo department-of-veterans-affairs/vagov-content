@@ -59,9 +59,11 @@ node('vetsgov-general-purpose') {
       def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
       if (homepageChanged) {
-        def message = "Potential change to the VA.gov homepage! @nick"
+        def message = "
+        Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/
+        @nick"
 
-        slackSend message: message, color: color, failOnError: failOnError
+        slackSend message: message, color: 'danger', failOnError: true
         commentOnGitHub(changedFiles)
       }
     }
