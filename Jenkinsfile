@@ -66,14 +66,13 @@ node('vetsgov-general-purpose') {
 
 //       def pr = getPullRequest()
 //       def prNumber = pr.getNumber()
-//       def message = """\
-// Pull request opened containing changes to the VA.gov homepage! \
-// These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
-// Please review, merge, and if necessary, deploy this change as soon as possible. \
-// https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}\
-// """
+      def message = """\
+Pull request opened containing changes to the VA.gov homepage! \
+These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
+Please review, merge, and if necessary, deploy this change as soon as possible. \
+"""
 
-      slackSend(message: 'testing this message', channel: 'enrique-test', color: '#FFFF00', failOnError: true)
+      slackSend(message: message, channel: 'enrique-test', color: '#FFFF00', failOnError: true)
     }
   }
 
