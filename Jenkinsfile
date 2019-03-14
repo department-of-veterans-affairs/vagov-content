@@ -75,7 +75,8 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}\
       slackSend(
         message: 'testing this message',
         channel: 'enrique-test',
-        color: '#FFFF00')
+        color: '#FFFF00',
+        failOnError: true)
 
     }
   }
