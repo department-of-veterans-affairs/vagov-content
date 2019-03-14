@@ -166,13 +166,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 - No matter your work status, you’ve had 1 of the following:
   - Total loss of hearing in both ears
   - Loss of speech that leaves you unable to talk—even in a whisper—without the help of an artificial device
-  - Permanent (long-lasting) loss of use of:
-    - Both hands, **or**
-    - Both feet, **or**
-    - Both eyes, **or**
-    - 1 hand and 1 foot, **or**
-    - 1 foot and 1 eye, **or**
-    - 1 hand and 1 eye
+  - Permanent (long-lasting) loss of use of both of your hands, feet, or eyes, or one hand and one foot, or one hand or foot and one eye
 
 <br>
 
