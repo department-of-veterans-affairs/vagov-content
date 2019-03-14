@@ -2,14 +2,8 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Hearings with a Veterans Law Judge in the Decision Review Process
-display_title: A Hearing with a Veterans Law Judge
+display_title: Hearings with a Veterans Law Judge
 hidesidenav: true
-majorlinks:
-  - heading: Get more information about Board Appeals
-    links:
-    - url: /decision-reviews/board-appeal/
-      title: Request a Board Appeal
-      description: You can appeal to a Veterans Law Judge at the Board of Veterans' Appeals. You have the option to add new evidence that a judge will review. You also have the option to request a hearing with a judge.
 ---
 
 <br>
