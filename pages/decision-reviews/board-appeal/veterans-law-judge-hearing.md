@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About Hearings with a Veterans Law Judge in the Decision Review Process
+title: Hearings with a Veterans Law Judge in the Decision Review Process
 display_title: A Hearing with a Veterans Law Judge
 hidesidenav: true
 majorlinks:
