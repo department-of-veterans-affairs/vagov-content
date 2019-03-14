@@ -73,7 +73,6 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}\
 """
         slackSend(
           message: message,
-          channel: 'enrique-test',
           color: '#FFFF00')
       }
     }
