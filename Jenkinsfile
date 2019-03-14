@@ -62,7 +62,7 @@ node('vetsgov-general-purpose') {
         def message = "Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/ \n @nick"
 
         slackSend message: message,
-          channel: 'oncall'
+          channel: 'oncall',
           color: 'danger',
           failOnError: true
       }
