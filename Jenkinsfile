@@ -18,10 +18,14 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-def commentOnGitHub(comment) {
+def getPullRequest() {
   def github = GitHub.connect()
   def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
-  def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+  return repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+}
+
+def commentOnGitHub(comment) {
+  def pr = getPullRequest()
   pr.comment(comment)
 }
 
@@ -59,16 +63,20 @@ node('vetsgov-general-purpose') {
       def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
       if (homepageChanged) {
+        def pr = getPullRequest()
         def message = """\
-@nick
-Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls/${env.CHANGE_ID}"
-These changes usually contain content that is high priority, and should be deployed ASAP. Please review, merge, and if necessary, deploy this change as soon as possible.
+Pull request opened containing changes to the VA.gov homepage!
+These changes usually contain content that is high priority, such as for a weather alert or government shutdown.
+Please review, merge, and if necessary, deploy this change as soon as possible.
+https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${pr.getNumber()}
 """
 
         // slackSend message: message,
         //   channel: 'oncall',
         //   color: 'danger',
         //   failOnError: true
+
+
 
         commentOnGitHub(message)
       }
