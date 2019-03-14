@@ -37,13 +37,11 @@ social:
         - url:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Connect with us
-    admin: Veterans Health Administration
-    url: https://www.va.gov/health/
     subsections:
       - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVA/subscriber/new/
-          label: Veterans Health Email Updates
+          label: Veterans Affairs email updates
           external: true
           icon: fa-envelope
       - subhead: Follow us
@@ -84,20 +82,20 @@ hublinks:
         label: Transition Assistance Program (TAP)
         description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing.
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
-        label: Transitioning to VA health care after separation or retirement
-        description: <b>Active duty, National Guard and Reserve (active only)</b> <br> Learn about transitioning from TRICARE to VA health care, and how to apply for health care benefits once you've received your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.
+        label: Active duty service members and VA health care
+        description: <b>Active duty, National Guard and Reserve (active only)</b> <br> Learn about your health care options after separation or retirements and how to apply for VA health care once you've received your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.
       - url: "/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
         label: Pre-discharge disability claim
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. Find out how to file your claim, and what to do if you have less than 90 days left on active duty.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file for disability benefits 180 to 90 days before you leave the military. This may help speed up your claim so you can get your benefits sooner. 
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> Find out how to get free educational and career counseling. You'll need to apply no sooner than 6 months before discharge and no later than 1 year after discharge.
       - url: "/careers-employment/vocational-rehabilitation/"
         label: Vocational rehabilitation and employment
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br>  If you have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You may be eligible if you're nearing your time of discharge and up to 12 years from the date you receive your notice of separation or first VA service-connected disability rating.
-      - url: "/life-insurance/options-eligibility/sgli/"
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br>  If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You may be eligible if you're nearing your time of discharge and up to 12 years from the date you receive your notice of separation or first VA service-connected disability rating.
+      - url: "/life-insurance/options-eligibility/sgli/#convert"
         label: Transitioning your life insurance after separation
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities. Keep in mind that you’ll need to get new coverage quickly. In some cases, you must act within 120 days of separation to ensure no lapse in coverage.
+        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities. In some cases, you must act within 120 days of separation to ensure no lapse in coverage.
   - id: "other-benefits"
     title: Other VA benefits to consider as a Veteran
     links:
@@ -109,7 +107,7 @@ hublinks:
         description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Register to do business with VA and get support for your Veteran-own small business.
       - url: "/pension/eligibility/"
         label: Veterans pension
-        description: <b>Active duty, National Guard and Reserve (active only)</b> <br> If you served on active duty during wartime, are over 65 or have a service-connected disability, and you have limited or no income, find out if you qualify for a Veterans Pension. 
+        description: <b>Active duty, National Guard and Reserve (active only)</b> <br> If you served on active duty during wartime, are over 65, or have a service-connected disability, and you have limited or no income, find out if you qualify for a Veterans Pension. 
       - url: "/pension/aid-attendance-housebound/"
         label: Aid and attendance or housebound allowances
         description: <b>Active duty, National Guard and Reserve (active only)</b> <br> If you need help with your daily activities, or you’re housebound, see if you qualify for monthly payments added to the amount of your monthly Veterans pension.
