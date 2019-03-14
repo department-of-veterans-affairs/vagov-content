@@ -50,10 +50,9 @@ node('vetsgov-general-purpose') {
   stage('Check for Urgent Changes') {
     dir(CONTENT_REPO) {
       checkout scm
-      def changedFiles = sh(returnStdout: true, script: 'git diff --name-only master')
+      def changedFiles = sh(returnStdout: true, script: 'git diff --name-only origin/master')
       commentOnGitHub(changedFiles)
     }
-
 
   }
 
