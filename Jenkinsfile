@@ -59,7 +59,12 @@ node('vetsgov-general-purpose') {
       def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
       if (homepageChanged) {
-        def message = "Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/ \n @nick"
+        def message = """\
+@nick
+Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/"
+These changes usually contain content that is high priority, and should be deployed ASAP. Please review, merge, and if necessary,
+deploy this change as soon as possible.
+"""
 
         slackSend message: message,
           channel: 'oncall',
