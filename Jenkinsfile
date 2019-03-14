@@ -69,7 +69,6 @@ node('vetsgov-general-purpose') {
 Pull request opened containing changes to the VA.gov homepage! \
 These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
 Please review, merge, and if necessary, deploy this change as soon as possible. \
-https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}\
 """
         slackSend(
           message: message,
