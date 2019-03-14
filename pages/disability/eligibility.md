@@ -60,7 +60,7 @@ You may be able to get disability compensation if you have a current illness or 
 If you have a disability that's been diagnosed by a doctor and that we consider to be related to your military service because of a specific aspect of that service, you may be able to get disability benefits based on this presumed disability. This usually applies to:
 - [A chronic (long-lasting) illness that appears within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
 - [An illness caused by contact with contaminants (toxic chemicals) or other hazardous materials](/disability/eligibility/hazardous-materials-exposure/), **or**
-- [An illness caused by your time spent as a prisoner of war (POW)](/disability/eligibility/former-pows/)
+- [An illness caused by your time spent as a Prisoner of War (POW)](/disability/eligibility/former-pows/)
 
 
 <h4>Who's covered?</h4>
@@ -120,11 +120,11 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 ### Get more information
 
-Watch our compensation 101 videos to learn more about how VA disability compensation works:
+Watch our Compensation 101 videos to learn more about how VA disability compensation works:
 
-[Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
+[Compensation 101: What is Disability Compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
 
-[Compensation 101: What is service connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
+[Compensation 101: What is Service Connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
 
 
 </div>
