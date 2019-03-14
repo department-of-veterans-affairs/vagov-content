@@ -50,12 +50,18 @@ node('vetsgov-general-purpose') {
   stage('Check for Urgent Changes') {
     dir(CONTENT_REPO) {
       checkout scm
+      if (IS_MASTER) return
+
       sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
       sh "git fetch --no-tags"
+
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
       def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
       if (homepageChanged) {
+        def message = "Potential change to the VA.gov homepage! @nick"
+
+        slackSend message: message, color: color, failOnError: failOnError
         commentOnGitHub(changedFiles)
       }
     }
