@@ -77,11 +77,11 @@ The person was in one of these military organizations:
 - Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
-<b>A reserve component</b> who:
+<b>A reserve component</b> and:
 - During a period of active duty for training became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
 - During a period of inactive duty training was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
 
-<b>Reserve and Guard components</b> who:
+<b>Reserve and Guard components</b> and:
 
 - Has met minimum active duty service requirements, as required by law, <b>and</b> 
 - Was discharged under conditions other than dishonorable, <b>and</b> 
