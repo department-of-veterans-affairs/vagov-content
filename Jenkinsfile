@@ -73,7 +73,7 @@ Please review, merge, and if necessary, deploy this change as soon as possible. 
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls
 """
 
-      slackSend(message: message, channel: 'enrique-test', color: '#FFFF00', failOnError: true)
+      slackSend(message: message, channel: 'enrique-test', color: '#FFFF00', failOnError: false)
     }
   }
 
