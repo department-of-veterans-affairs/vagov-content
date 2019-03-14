@@ -105,8 +105,8 @@ The person was in one of these military organizations:
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-servie-officer">Commissioned officer of the Public Health Service</button>
-<div id="public-health-servie-officer" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
+<div id="public-health-service-officer" class="usa-accordion-content">
   
 The officer must have served on full-time duty on or after July 29, 1945. If their service is considered active duty for training, he or she must have been disabled or died from a disease or injury caused or made worse by their service.
 
