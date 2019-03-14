@@ -51,7 +51,7 @@ node('vetsgov-general-purpose') {
     dir(CONTENT_REPO) {
       checkout scm
       sh 'git pull'
-      def changedFiles = sh(returnStdout: true, script: 'git diff --name-only origin/master')
+      def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
       commentOnGitHub(changedFiles)
     }
 
