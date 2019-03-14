@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: About Hearings with a Veterans Law Judge for Disability Compensation Appeals
+title: Hearings with a Veterans Law Judge for Disability Compensation Appeals
 display_title: Board of Veterans' Appeals Hearing
 description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your Board hearing, and learn what to expect at the hearing.
 concurrence: complete
