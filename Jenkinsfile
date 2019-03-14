@@ -18,16 +18,20 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-def commentBrokenLinks(buildOutput) {
-  def brokenLinksStart = buildOutput.indexOf('Error:')
-  def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE') - 1
-  def comment = ':warning: This content failed to build with the following output:'
-  comment += "\n```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}\n```\n"
-
+def commentOnGitHub(comment) {
   def github = GitHub.connect()
   def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
   def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
   pr.comment(comment)
+}
+
+def commentBrokenLinks(buildOutput) {
+  def brokenLinksStart = buildOutput.indexOf('Error:')
+  def brokenLinkEnd = buildOutput.indexOf('npm ERR! code ELIFECYCLE') - 1
+  def comment = ':warning: This content failed to build with the following output:'
+
+  comment += "\n```\n${buildOutput[brokenLinksStart..brokenLinkEnd]}\n```\n"
+  commentOnGitHub(comment);
 }
 
 node('vetsgov-general-purpose') {
@@ -43,11 +47,17 @@ node('vetsgov-general-purpose') {
     ]]
   ]);
 
-  stage('Validate Links') {
+  stage('Check for Urgent Changes') {
     dir(CONTENT_REPO) {
       checkout scm
     }
 
+    def changedFiles = sh(returnStdout: true, script: 'git diff --name-only master')
+
+    commentOnGitHub(changedFiles)
+  }
+
+  stage('Validate Links') {
     dir(APP_CODE_REPO) {
       checkoutAppCode()
       imageTag = java.net.URLDecoder.decode(env.BUILD_TAG).replaceAll("[^A-Za-z0-9\\-\\_]", "-")
