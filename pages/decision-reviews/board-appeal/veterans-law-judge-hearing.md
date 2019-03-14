@@ -9,12 +9,12 @@ majorlinks:
     links:
     - url: /decision-reviews/board-appeal/
       title: Request a Board Appeal
-      description: You can request a hearing with a Veterans Law Judge at the Board of Veterans' Appeals using VA Form 10182. 
+      description: You can appeal to a Veterans Law Judge at the Board of Veterans' Appeals. You have the option to add new evidence that a judge will review. You also have the option to request a hearing with a judge.
 ---
 
 <br>
 <div itemprop="description" class="va-introtext">
-  Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want to discuss your appeal with a Veterans Law Judge. 
+You can request a hearing with a Veterans Law Judge at the Board of Veterans' Appeals using the Decision Review Request: Board Appeal (VA Form 10182). 
 </div>
 
 <div class="feature" markdown="0">
