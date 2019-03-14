@@ -72,9 +72,10 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${pr.getNumber()}
 """
 
         slackSend message: message,
-          channel: 'oncall',
+          channel: 'devops-deploys',
           color: 'danger',
           failOnError: true
+
       }
     }
   }
