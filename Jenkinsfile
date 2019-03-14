@@ -71,14 +71,10 @@ Please review, merge, and if necessary, deploy this change as soon as possible.
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${pr.getNumber()}
 """
 
-        // slackSend message: message,
-        //   channel: 'oncall',
-        //   color: 'danger',
-        //   failOnError: true
-
-
-
-        commentOnGitHub(message)
+        slackSend message: message,
+          channel: 'oncall',
+          color: 'danger',
+          failOnError: true
       }
     }
   }
