@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA benefits for family members of Veterans and service members
+title: VA benefits for family members
 display_title: Family member benefits
 description: Learn about VA benefits for spouses, dependents, survivors, and family caregivers of Veterans and service members. 
 concurrence:
@@ -111,7 +111,7 @@ hublinks:
         label: Survivors pension
         description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits.
       - url: /health-care/family-caregiver-benefits/
-        label: Health care for survivors
+        label: Health care
         description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, learn how to apply for our CHAMPVA program.
       - url: /housing-assistance/home-loans/trouble-making-payments/
         label: Financial counseling to avoid foreclosure 
@@ -120,7 +120,7 @@ hublinks:
         label: Home loan programs for surviving spouses
         description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home.
       - url: /education/survivor-dependent-benefits/
-        label: Education benefits for surviving spouse and dependent children
+        label: Education benefits
         description: Find out how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. 
   - id: "caregiver"
     title: Benefits and services for family members caring for a Veteran or service member
@@ -144,7 +144,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-As the family member of a Veteran or service member, you may qualify for certain benefits, like health care, life insurance, or money to help pay for school or training. If you're the survivor of a Veteran or service member, you may qualify for added benefits, including help with burial costs and survivor compensation. If you’re caring for a Veteran with disabilities, you may also qualify for support to help you better care for the Veteran—and for yourself. Find out which benefits you may qualify for and how to access them.
+As the spouse or dependent child of a Veteran or service member, you may qualify for certain benefits, like health care, life insurance, or money to help pay for school or training. If you're the survivor of a Veteran or service member, you may qualify for added benefits, including help with burial costs and survivor compensation. If you’re caring for a Veteran with disabilities, you may also qualify for support to help you better care for the Veteran—and for yourself. Find out which benefits you may qualify for and how to access them.
 </p>
 
 <h3>On this page</h3>
