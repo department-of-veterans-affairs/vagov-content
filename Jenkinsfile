@@ -61,15 +61,16 @@ node('vetsgov-general-purpose') {
       if (homepageChanged) {
         def message = """\
 @nick
-Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/"
-These changes usually contain content that is high priority, and should be deployed ASAP. Please review, merge, and if necessary,
-deploy this change as soon as possible.
+Pull request opened containing changes to the VA.gov homepage - https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls/${env.CHANGE_ID}"
+These changes usually contain content that is high priority, and should be deployed ASAP. Please review, merge, and if necessary, deploy this change as soon as possible.
 """
 
-        slackSend message: message,
-          channel: 'oncall',
-          color: 'danger',
-          failOnError: true
+        // slackSend message: message,
+        //   channel: 'oncall',
+        //   color: 'danger',
+        //   failOnError: true
+
+        commentOnGitHub(message)
       }
     }
   }
