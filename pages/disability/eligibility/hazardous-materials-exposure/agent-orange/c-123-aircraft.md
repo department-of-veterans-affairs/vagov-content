@@ -37,7 +37,7 @@ Check our list of military units and Air Force specialty codes to see if your un
 
 <br>
 
-#### For reservists
+#### For Reservists
 
 You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange and you were assigned to flight, ground, or medical crew duties at one of the below locations.
 
@@ -159,5 +159,5 @@ You can get help from a trained professional trusted to help with VA-related cla
 
 ### Get more information
 Want to know more about C-123 aircraft Agent Orange claims? <br>
-[Download our C-123 aircraft Agent Orange exposure claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf).
+[Download our C-123 Aircraft Agent Orange Exposure claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf).
 
