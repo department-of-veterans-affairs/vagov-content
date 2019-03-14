@@ -50,7 +50,8 @@ node('vetsgov-general-purpose') {
   stage('Check for Urgent Changes') {
     dir(CONTENT_REPO) {
       checkout scm
-      sh 'git pull'
+      sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
+      sh "git fetch --no-tags"
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
       commentOnGitHub(changedFiles)
     }
