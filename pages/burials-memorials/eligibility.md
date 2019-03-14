@@ -62,32 +62,24 @@ Both of these are true. The person:<br>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Reserve component of the United States Armed Forces</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Member of a Reserve component of the United States Armed Forces</button>
 <div id="reservist-national-guard" class="usa-accordion-content">
   
-The person was a member of:
+The person was in one of these military organizations:
 
-<b>The Reserves or National Guard</b> who, at the time of death, was entitled to retirement pay, or would have been entitled if they had been over the age of 60
+<b>The Reserves or National Guard</b> and, at the time of death, was entitled to retirement pay, or would have been entitled if they had been over the age of 60.
 
-<b>or</b>
+<b>A reserve component, the Army National Guard, or the Air National Guard</b> and died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
 
-<b>A reserve component, the Army National Guard, or the Air National Guard</b> who died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
-
-<b>or</b>
-
-<b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> who died under honorable conditions while:
+<b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> and died under honorable conditions while:
 
 - Attending an authorized training camp or on an authorized cruise, <b>or</b>
 - Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
-<b>or</b>
-
 <b>A reserve component</b> who:
 - During a period of active duty for training became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
 - During a period of inactive duty training was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
-
-<b>or</b>
 
 <b>Reserve and Guard components</b> who:
 
@@ -113,7 +105,7 @@ The person was a member of:
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-servie-officer">A commissioned officer of the Public Health Service</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-servie-officer">Commissioned officer of the Public Health Service</button>
 <div id="public-health-servie-officer" class="usa-accordion-content">
   
 The officer must have served on full-time duty on or after July 29, 1945. If their service is considered active duty for training, he or she must have been disabled or died from a disease or injury caused or made worse by their service.
@@ -121,9 +113,7 @@ The officer must have served on full-time duty on or after July 29, 1945. If the
 The officer performed full-time duty prior to July 29, 1945:
 
 - In time of war, <b>or</b>
-
 - On detail for duty with the Army, Navy, Air Force, Marine Corps, or Coast Guard, <b>or</b>
-
 - While a part of the military forces of the United States by executive order of the president
 
 The officer must have served on inactive duty training, and their death must have resulted from an injury caused or made worse by their service.
