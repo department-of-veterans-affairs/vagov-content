@@ -20,9 +20,16 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a Servicemember who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
+If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
 
 </div>
+
+### On this page
+- [Accessing and managing SGLI while you're serving](#active)
+- [Converting SGLI when you separate or retire](#convert)
+
+<span id="active"></a>
+## Accessing and managing SGLI while you're serving
 
 <div class="feature">
 
@@ -51,12 +58,6 @@ You may be able to get full-time SGLI coverage if you meet both of the requireme
 - Drilling for points rather than pay
 
 **Note:** You must pay your premiums directly.
-
-<br>
-
-#### Who’s covered? 
-
-Servicemembers
 
 </div>
 
@@ -141,7 +142,9 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 | $100,000 | $7.00 | $1.00 | $8.00 |
 | $50,000 | $3.50 | $1.00 | $4.50 |
 
-<br>
+------
+<span id="convert"></a>
+## Converting SGLI when you separate or retire
 
 ### How do I convert my SGLI when I leave the military? 
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
