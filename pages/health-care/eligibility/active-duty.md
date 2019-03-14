@@ -69,25 +69,28 @@ You can receive cost-free medical care for any condition related to your service
 
 <b>When you apply for VA health care and if we determine you qualify for OEF/OIF/OND enhanced eligibility:</b>
 - We'll enroll you right away. We'll assign you to priority group 6, unless you qualify for a higher priority group based on your income or a service-connected disability. <br>
-[Learn more about priority groups]
+[Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
 - You'll receive free care and medications for any condition that may be related to your combat service. You may need to pay copays for care and medications that we determine are clearly not related to your military service, but you can submit your income as part of your application to apply for a copay exemption. <br>
-[Learn more about how we determine your health care costs] <br>
-[View current copay rates]
+[Learn more about how we determine your health care costs](https://www.va.gov/HEALTHBENEFITS/cost/index.asp) <br>
+[View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copays.asp)
 - You'll stay enrolled in VA health care even after your OEF/OIF/OND enhanced eligibility period ends. Then we’ll assign you to the highest priority group you qualify for at that time. <br>
-[Learn more about priority groups]
+[Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
+
+You may also be eligible for one-time dental care for any needed conditions. You'll need to apply within 180 days of discharge or separation. You may also qualify for VA dental care based on other factors. <br>
+[Find out if you may be eligible for VA dental care](/health-care/about-va-health-benefits/dental-care/)
 
 #### Important note: Don't wait to apply for VA health care
 
-If you wait to apply for VA health care after your OEF/OIF/OND enhanced eligibility period ends, we won't factor your OEF/OIF/OND Veteran status into our decision on your enrollment. Instead, we'll base your eligiblity on factors such as your income and VA disability rating.
+If you wait to apply for VA health care after your OEF/OIF/OND enhanced eligibility period ends, we won't factor your OEF/OIF/OND Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating.
 
 So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
+------
 <span id="separating"></span>
-
 ### If you're separating from active duty
 
-You may be eligible for VA health care for all or some of your health care needs. We'll determine your eligibility based on your service history, VA disability rating, income, and other factors. 
+You may be eligible for VA health care for all or some of your health care needs. We'll determine your eligibility based on your service history, VA disability rating, income, and other factors. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
@@ -96,11 +99,11 @@ You, and your family, may also qualify for temporary health coverage through the
 Learn more about how to enroll for temporary coverage after separation. <br>
 [Go to the TRICARE website page on separating](https://tricare.mil/LifeEvents/Separating)
 
+------
 <span id="retiring"></span>
-
 ### If you're retiring from active duty
 
-You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. for You'll need to enroll within 90 after your retirement date even if you're already enrolled in TRICARE on active duty.
+You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 after your retirement date even if you're already enrolled in TRICARE on active duty.
 
 Learn more about how to enroll in TRICARE as a military retiree. <br>
 [Go to the TRICARE website page on retiring](https://tricare.mil/LifeEvents/Retiring)
@@ -109,12 +112,16 @@ You may also be eligible for certain VA health care benefits. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
+------
 <span id="medically-retired"></span>
 ### If you're being medically retired from active duty
 
 You may be eligible to receive care for any service-connected disabilities through VA. You may also qualify to receive all other care through TRICARE. Your eligible family members may also qualify for care through TRICARE. 
 
-To learn more about your options, talk with a VA benefit counselor. Your counselor will help you determine what your military and VA medical board ratings mean and how they affect your options. Your counselor will also help you apply for benefits.
+To learn more about your options, talk with a VA benefits counselor. Your counselor will help you determine what your military and VA medical board ratings mean and how they affect your options. Your counselor will also help you apply for benefits.
+
+Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-877-8387</a>) to connect with a benefits counselor.  If you have hearing loss, call TTY: 1-800-877-8339. We're Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
+[Find a VA medical center near you](/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType)
 
 <script type="text/javascript">
   // Toggle the expandable crisis info
