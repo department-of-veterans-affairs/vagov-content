@@ -93,12 +93,12 @@ The person was in one of these military organizations:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
 <div id="commissioned-officer-noaa" class="usa-accordion-content">
   
-<b>The person had full-time duty on or after July 29, 1945.</b>
+The person had full-time duty on or after July 29, 1945.
 
 <b>or</b>
 
-<b>The person served before July 29, 1945, and
-- Was assigned to an area of immediate military hazard (as determined by the Secretary of Defense while in time of war or by a national emergency as declared by the president, <b>or</b>
+The person served before July 29, 1945, and
+- Was assigned to an area of immediate military hazard (as determined by the Secretary of Defense while in time of war or by a national emergency as declared by the president), <b>or</b>
 - Served in the Philippine Islands on December 7, 1941, and continued to serve there until their death.
 
 </div>
@@ -124,7 +124,7 @@ The officer must have served on inactive duty training, and their death must hav
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
 <div id="merchant-mariner" class="usa-accordion-content">
   
-United States Merchant Mariners with oceangoing service during the period of armed conflict, December 7, 1941, to December 31, 1946.  Prior to the enactment of Public Law 105-368, United States Merchant Mariners with oceangoing service during the period of armed conflict of December 7, 1941, to August 15, 1945, were eligible.  With enactment of Public Law 105-368, the service period is extended to December 31, 1946, for those dying on or after November 11, 1998.  A DD-214 documenting this service may be obtained by submitting an application to Commandant (G-MVP-6), United States Coast Guard, 2100 2nd Street, SW, Washington, DC  20593.  Notwithstanding, the Mariner’s death must have occurred on or after the enactment of Public Law 105-368.
+United States Merchant Mariners with oceangoing service during the period of armed conflict, December 7, 1941, to December 31, 1946. Prior to the enactment of Public Law 105-368, United States Merchant Mariners with oceangoing service during the period of armed conflict of December 7, 1941, to August 15, 1945, were eligible. With enactment of Public Law 105-368, the service period is extended to December 31, 1946, for those dying on or after November 11, 1998. A DD214 documenting this service may be obtained by submitting an application to Commandant (G-MVP-6), United States Coast Guard, 2100 2nd Street, SW, Washington, DC  20593. Notwithstanding, the Mariner’s death must have occurred on or after the enactment of Public Law 105-368.
 
 United States Merchant Mariners who served on blockships in support of Operation Mulberry during World War II.
 </div>
