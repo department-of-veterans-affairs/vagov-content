@@ -19,7 +19,7 @@ If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCA
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+## Can I get disability benefits from VA?
 
 You may be able to get disability benefits if you meet all of the requirements listed below.
 
@@ -38,7 +38,7 @@ You may be able to get disability benefits if you meet all of the requirements l
 - Non-Hodgkin’s lymphoma
 - Parkinson’s disease
 
-### Who’s covered?
+## Who’s covered?
 
 - Veterans
 - Reservists
@@ -46,12 +46,12 @@ You may be able to get disability benefits if you meet all of the requirements l
 
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Your military records showing you served at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 while on active duty, or in the National Guard or Reserves, **and**
@@ -62,7 +62,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
 
-### Are Veterans and their family members covered for health care?
+## Are Veterans and their family members covered for health care?
 
 Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumulative days from August 1953 through December 1987—and their family members—can get health care benefits. We may pay you back for your out-of-pocket health care costs that were related to any of these 15 conditions:
 
@@ -82,32 +82,33 @@ Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumul
 - Renal toxicity
 - Scleroderma
 
-### How do I get these benefits as a family member?
+## How do I get these benefits as a family member?
 
-You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below.
+
+**You must provide all of this evidence:**
 - A document proving your relationship to the Veteran who served on active duty for at least 30 days at Camp Lejeune (like a marriage license, birth certificate, or adoption papers), **and**
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
 
-And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods:
+And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below. 
+
+**You must provide evidence of payment during one of these time periods:**
 - Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**
 - Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014 and up to 2 years before the date you apply for benefits)
 
-**You may also want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b).** <br>
+**You may want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b)**<br>
 You'll need to ask your doctor to fill out and sign this form before submitting it to us. We don't require this form, but it can help give us important information to determine your eligibility for benefits.<br>
 [Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b).
 
 
-**File a claim:**
+### File a claim
 
 Fill out the Camp Lejeune Family Member Program Application (VA Form 10-10068).<br>
 [Download VA Form 10-10068](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
 
-<br>
-
-Fax it to 1-512-460-5536, **or**
-
-Mail it to:
+- Fax it to 1-512-460-5536, **or**
+- Mail it to:
 
 <p class="va-address-block">
 <b>Department of Veterans Affairs</b><br>
@@ -119,7 +120,7 @@ Austin, TX 78714-9200<br>
 If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">1-866-372-1144</a>. <br>
 <div class="feature" markdown="1">
 
-### What was in the drinking water?
+## What was in the drinking water?
 
 Two on-base water wells that were shut down in 1985 had these chemicals:
 
