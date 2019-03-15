@@ -70,7 +70,7 @@ Please review, merge, and if necessary, deploy this change as soon as possible. 
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls
 """
 
-        slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
+        slackSend(message: message, channel: 'enrique-test', color: '#DDDD00', failOnError: false)
       }
     }
   }
