@@ -100,11 +100,14 @@ You'll need to ask your doctor to fill out and sign this form before submitting 
 
 **File a claim:**
 
-[Download the Camp Lejeune family member application (VA Form 10-10068)](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
+Fill out the Camp Lejeune Family Member Program Application (VA Form 10-10068).<br>
+[Download VA Form 10-10068](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
 
 <br>
 
-Fax it to 1-512-460-5536, or mail it to:
+Fax it to 1-512-460-5536, **or**
+
+Mail it to:
 
 <p class="va-address-block">
 <b>Department of Veterans Affairs</b><br>
