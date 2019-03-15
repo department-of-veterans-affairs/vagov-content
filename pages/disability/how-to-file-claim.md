@@ -36,7 +36,7 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation.
+Find out how to file a claim for disability compensation or for increased compensation. 
 
 </div>
 
@@ -57,9 +57,9 @@ Find out how to file a claim for disability compensation.
  
 **You can help to support your claim by providing documents, such as:**
 
-- VA medical records and hospital records that relate to your claimed illnesses or injuries
-- Private medical records and hospital reports that relate to your claimed illnesses or injuries
-- Supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened
+- VA medical records and hospital records that relate to your claimed illnesses or injuries or that show your rated disability has gotten worse
+- Private medical records and hospital reports that relate to your claimed illnesses or injuries or that show your disability has gotten worse
+- Supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened or how it got worse
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence. <br>
 [Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/)
