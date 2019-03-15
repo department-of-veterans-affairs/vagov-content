@@ -68,13 +68,16 @@ hublinks:
     links:
       - url: "/education/eligibility/"
         label: GI Bill and other education benefits
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out if you qualify for VA education benefits to help pay for school or training. And learn how to transfer Post-9/11 GI Bill benefits to your dependents.
+        description: Find out if you qualify for VA education benefits to help pay for school or training. And learn how to transfer Post-9/11 GI Bill benefits to your dependents. <br>
+        <b>All service members can apply</b>
       - url: "/housing-assistance/home-loans/eligibility/"
         label: Certificate of eligibility for a VA-backed home loans
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. 
+        description: Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br>
+        <b>Only service members with active duty service should apply</b>
       - url: "/life-insurance/options-eligibility/sgli/"
         label: Life insurance for you and your family
-        description: <b>Active duty, National Guard and Reserve (active, traditional, technical)</b> <br> Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement.
+        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br>
+        <b>For active duty, National Guard and Reserve (active, traditional, technical)</b>
   - id: "separating-retiring"
     title: VA benefits to consider when separating or retiring
     links:
