@@ -62,16 +62,16 @@ node('vetsgov-general-purpose') {
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
       def homepageChanged = changedFiles.indexOf('fragments/home') > -1
 
-      if (!homepageChanged) return;
-
-      def message = """\
+      if (homepageChanged) {
+        def message = """\
 Pull request opened containing changes to the VA.gov homepage! \
 These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
 Please review, merge, and if necessary, deploy this change as soon as possible. \
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls
 """
 
-      slackSend(message: message, channel: 'oncall', color: '#FFFF00', failOnError: false)
+        slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
+      }
     }
   }
 
