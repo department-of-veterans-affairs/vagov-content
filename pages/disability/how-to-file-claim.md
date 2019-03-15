@@ -36,7 +36,7 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation or for increased compensation. 
+Find out how to file a claim for disability compensation or increased disability compensation. 
 
 </div>
 
