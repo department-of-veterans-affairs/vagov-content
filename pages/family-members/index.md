@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA benefits for family members
+title: VA benefits for spouses, dependents, survivors, and family caregivers
 display_title: Family member benefits
 description: Learn about VA benefits for spouses, dependents, survivors, and family caregivers of Veterans and service members. 
 concurrence:
@@ -77,53 +77,35 @@ crosslinks:
       title: <b>Life insurance</b>
       description: Life insurance options, and online policy management tools, for Veterans and their families.
 hublinks:
-  - id: "spouse"
-    title: VA benefits for spouses and dependent children
+  - id: "spouse-dependent"
+    title: Benefits for spouses, dependents, and survivors
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits.
+        description: Find out if you qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /education/survivor-dependent-benefits/
         label: Education and training
-        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35).
-      - url: /life-insurance/
-        label: Life insurance
-        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage. Explore other options, like accelerated benefits or mortgage protection insurance, and manage an existing policy.
-      - url: /burials-memorials/pre-need-eligibility/
-        label: Burial in a VA national cemetery
-        description: Apply in advance for eligibility to be buried in a VA national cemetery. This can make the burial planning process easier for your family members in their time of need.
-  - id: "survivor"
-    title: VA benefits for surviving spouses and dependents
-    links: 
-      - url: /burials-memorials/ 
-        label: Burial benefits and memorial items
-        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support.
-      - url: https://benefits.va.gov/insurance/bfcs.asp?_ga=2.20372474.311206835.1546861480-1173244138.1525894550
-        label: Life insurance beneficiary financial counseling
-        description: If you're the beneficiary of a Veteran's or service member's life insurance policy, learn how to get free professional financial advice and will preparation services.
-      - url: https://benefits.va.gov/INSURANCE/sglivgli.asp
-        label: File a life insurance claim
-        description: Find out how to file a claim for benefits for Servicemembers' Group Life Insurance (SGLI), Family Servicemembers' Group Life Insurance (FSGLI), Veterans' Group Life Insurance (VGLI), SGLI Traumatic Injury (TSGLI), or Veterans' Mortgage Life Insurance (VMLI). 
-      - url: /burials-memorials/dependency-indemnity-compensation/
-        label: Compensation for surviving spouse and dependents (DIC)
-        description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. 
+        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. Also find out how a Veteran family member may transfer some of their unused Post-9/11 GI Bill benefits to you. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /pension/survivors-pension/
         label: Survivors pension
-        description: If you're the surviving spouse or child of a deceased Veteran with wartime service, find out if you're eligible for monthly pension benefits.
-      - url: /health-care/family-caregiver-benefits/
-        label: Health care
-        description: Find out if you qualify for comprehensive health coverage through the Department of Defense's TRICARE program. If you don't qualify for TRICARE, learn how to apply for our CHAMPVA program.
-      - url: /housing-assistance/home-loans/trouble-making-payments/
-        label: Financial counseling to avoid foreclosure 
-        description: If you're having trouble making mortgage payments on a VA-backed or VA direct loan, find out how we can help you avoid foreclosure and keep your house.
+        description: If you're the surviving spouse or child of a Veteran with wartime service, find out if you're eligible for monthly pension benefits. <br> <b>For surviving spouse, surviving child</b>
       - url: /housing-assistance/home-loans/spouses/
-        label: Home loan programs for surviving spouses
-        description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home.
-      - url: /education/survivor-dependent-benefits/
-        label: Education benefits
-        description: Find out how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. 
+        label: Home loan programs or financial counseling
+        description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed or VA direct loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
+      - url: /life-insurance/
+        label: Life insurance options, claims, and beneficiary assistance
+        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, we can also help you with financial advice, will preparation services, and filing a claim in your time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+      - url: /burials-memorials/pre-need-eligibility/
+        label: Pre-need eligibility determination for burial in a VA national cemetery
+        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. And you can apply in advance for eligiblity to be buried in a VA national cemetery. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>	
+      - url: /burials-memorials/pre-need-eligibility/
+        label: Burial benefits and memorial items
+        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. <br> <b>For surviving spouse, surviving child, surviving parent</b>
+      - url: /burials-memorials/dependency-indemnity-compensation/
+        label: Compensation for surviving spouse and dependents (DIC)
+        description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. <br> <b>For surviving spouse, surviving child, surviving parent</b>     
   - id: "caregiver"
-    title: Benefits and services for family members caring for a Veteran or service member
+    title: More benefits and services for family members caring for a Veteran or service member
     links:
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
         label: Program of Comprehensive Assistance for Family Caregivers
@@ -151,8 +133,7 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
 
 Benefits and services for:
 <ul>
-  <li><a href="#spouse">Spouses and dependent children</a></li>
-  <li><a href="#survivor">Surviving spouses and dependents</a></li>
+  <li><a href="#spouse-dependent">Spouses, dependents, and survivors</a></li>  
   <li><a href="#caregiver">Family members caring for a Veteran or service member</a></li>
 </ul>
 
