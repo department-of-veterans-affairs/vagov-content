@@ -15,7 +15,7 @@ Follow these steps to edit a page (or multiple pages):
 2. [Enter your edits](#enter-your-edits)
 3. [Open a pull request to propose the edits](#open-a-pull-request-to-propose-the-edits)
 4. [Assign a reviewer to approve your changes](#assign-a-reviewer-to-approve-your-changes)
-5. [Request a merge to master](#request-a-merge-to-master)
+5. [Request a merge to master to publish your changes to the website](#request-a-merge-to-master-to-publish-your-changes-to-the-website)
 
 This can all be done on the homepage of the Interim CMS at GitHub.
 
@@ -115,7 +115,7 @@ The reviewer may comment on your pull request with some questions or changes the
 
 ---
 
-### Request a merge to master
+### Request a merge to master to publish your changes to the website
 Once you and the content team reviewer agree on all the edits, scroll to the bottom of the page where the "Leave a comment" box is. Put a note there requesting that they merge your edits into master. Your edits will become visible on our [Staging environment](https://staging.va.gov/) within 20 minutes.
 
 ---
