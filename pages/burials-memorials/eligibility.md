@@ -67,25 +67,30 @@ Both of these are true. The person:<br>
   
 The person was in one of these military organizations:
 
-<b>The Reserves or National Guard</b> and, at the time of death, was entitled to retirement pay, or would have been entitled if they had been over the age of 60.
+<b>The Reserves or National Guard</b> <br>
+At the time of death, they were entitled to retirement pay, or would have been entitled if they had been over the age of 60.
 
-<b>A reserve component, the Army National Guard, or the Air National Guard</b> and died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training
+<b>A reserve component, the Army National Guard, or the Air National Guard</b> <br>
+They died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
 
-<b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> and died under honorable conditions while:
+<b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> <br>
+They died under honorable conditions while:
 
 - Attending an authorized training camp or on an authorized cruise, <b>or</b>
 - Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
-<b>A reserve component</b> and:
-- During a period of active duty for training became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
-- During a period of inactive duty training was disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
+<b>A reserve component</b><br>
+One of these is true:
+- During a period of active duty for training they became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
+- During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
 
-<b>Reserve and Guard components</b> and:
+<b>Reserve and Guard components</b> <br>
 
-- Has met minimum active duty service requirements, as required by law, <b>and</b> 
-- Was discharged under conditions other than dishonorable, <b>and</b> 
-- Was called to active duty and served the full term of service
+All of these are true. They:
+- Have met minimum active duty service requirements, as required by law, <b>and</b> 
+- Were discharged under conditions other than dishonorable, <b>and</b> 
+- Were called to active duty and served the full term of service
 </div>
 </li>
 
@@ -93,7 +98,7 @@ The person was in one of these military organizations:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
 <div id="commissioned-officer-noaa" class="usa-accordion-content">
   
-The person had full-time duty on or after July 29, 1945.
+The person had full-time duty on or after July 29, 1945,
 
 <b>or</b>
 
@@ -108,7 +113,7 @@ The person served before July 29, 1945, and
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
 <div id="public-health-service-officer" class="usa-accordion-content">
   
-The officer must have served on full-time duty on or after July 29, 1945. If their service is considered active duty for training, he or she must have been disabled or died from a disease or injury caused or made worse by their service.
+The officer must have served on full-time duty on or after July 29, 1945. If their service is considered active duty for training, he or she must have become disabled or died from a disease or injury caused or made worse by their service.
 
 The officer performed full-time duty prior to July 29, 1945:
 
@@ -124,9 +129,23 @@ The officer must have served on inactive duty training, and their death must hav
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
 <div id="merchant-mariner" class="usa-accordion-content">
   
-United States Merchant Mariners with oceangoing service during the period of armed conflict, December 7, 1941, to December 31, 1946. Prior to the enactment of Public Law 105-368, United States Merchant Mariners with oceangoing service during the period of armed conflict of December 7, 1941, to August 15, 1945, were eligible. With enactment of Public Law 105-368, the service period is extended to December 31, 1946, for those dying on or after November 11, 1998. A DD214 documenting this service may be obtained by submitting an application to Commandant (G-MVP-6), United States Coast Guard, 2100 2nd Street, SW, Washington, DC  20593. Notwithstanding, the Mariner’s death must have occurred on or after the enactment of Public Law 105-368.
+The United States Merchant Mariner:
 
-United States Merchant Mariners who served on blockships in support of Operation Mulberry during World War II.
+- Died on or after November 11, 1998, <b>and</b>
+- Had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946
+
+<b>Note:</b> A DD214 documenting this service may be obtained by submitting an application to:
+
+<p class="va-address-block">
+<b>Commandant (G-MVP-6)</b><br>
+United States Coast Guard<br>
+2100 2nd Street, SW<br>
+Washington, DC 20593 <br>
+</p>
+
+<b>or</b>
+
+The United States Merchant Mariner served on blockships in support of Operation Mulberry during World War II.
 </div>
 </li>
 
@@ -134,9 +153,11 @@ United States Merchant Mariners who served on blockships in support of Operation
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veteran</button>
 <div id="philippine-armed-forces" class="usa-accordion-content">
   
-Any Philippine Veteran who was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States at the time of their death; and resided in the United States at the time of their death; and,
+The Philippine Veteran must have been:
+- A citizen of the United States or an alien lawfully admitted for permanent residence in the United States at the time of their death, <b>and</b>
+- Residing in the United States at the time of their death
 
-Was a person who served before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including organized guerilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who died on or after November 1, 2000; or,
+And was a person who served before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including organized guerilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who died on or after November 1, 2000; or,
 
 Was a person who enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, pursuant to section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who died on or after December 16, 2003.
 </div>
