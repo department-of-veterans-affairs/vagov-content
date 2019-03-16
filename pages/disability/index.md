@@ -127,12 +127,12 @@ hublinks:
         benefits.
       external: false
     - url: "/disability/upload-supporting-evidence/"
-      label: Upload Evidence to Support Your Claim
+      label: Upload Evidence to Support Your Disability Claim
       description: Send us evidence (like doctor's reports, medical test results, or
         service records) to help support your open disability claim.
       external: false
     - url: "/disability/how-to-file-claim/supplemental-forms/"
-      label: File Additional Forms for Your Disablity Claim
+      label: File Additional Forms for Your Disability Claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.
       external: false

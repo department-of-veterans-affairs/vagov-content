@@ -16,8 +16,8 @@ majorlinks:
       title: Claim Types and When to File
       description: Learn about standard claims, supplemental claims, secondary claims, and more.
     - url: /disability/how-to-file-claim/evidence-needed/
-      title: How to Gather Evidence for Your Claim
-      description: Find out your options for gathering documents to support your disability claim.
+      title: Evidence Needed for Your Disability Claim
+      description: Find out what evidence we'll need to support your disability claim.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
       title: Disabilities That Appear within 1 Year after Discharge
       description: Find out if you can get disability benefits if you have signs of an illness within a year after being discharged from service.
@@ -42,12 +42,11 @@ Find out how to file a claim for disability compensation or increased disability
 
 ### How do I prepare before starting my application?
 
-- [Find out if you're eligible for VA disability compensation](/disability/eligibility/)
+- [Find out if you're eligible for VA disability compensation](/disability/eligibility/). <br>
 - Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
-[Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)
-
-- [Find out if you’ll need to turn in any additional forms with your disability claim](/disability/how-to-file-claim/supplemental-forms/)
+- [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims). <br>
+- [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/supplemental-forms/). <br>
 
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
@@ -62,7 +61,8 @@ Find out how to file a claim for disability compensation or increased disability
 - Supporting statements you'd like to provide from family members, friends, clergy members, law enforcement personnel, or those you served with that can tell us more about your claimed condition and how and when it happened or how it got worse
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence. <br>
-[Find out how to gather evidence for your claim](/disability/how-to-file-claim/evidence-needed/)
+
+[Find out what evidence we'll need for your claim](/disability/how-to-file-claim/evidence-needed/).
 
 We'll also review your discharge papers (DD214 or other separation documents) and service treatment records. 
 

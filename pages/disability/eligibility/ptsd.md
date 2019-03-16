@@ -15,10 +15,11 @@ aliases:
   
 Posttraumatic stress can happen after someone goes through a traumatic event such as combat, an assault, or a disaster. Most people have some stress reactions following trauma. But if the reactions don’t go away over time or they disrupt your life, you may have PTSD. Find out if you can get disability compensation or benefits if you have symptoms of PTSD. <br>
 
-[Learn more about PTSD](https://www.ptsd.va.gov/).
+[Learn more about PTSD](https://www.ptsd.va.gov/)
 
 </div>
 
+<span id="get-help-now"></span>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
@@ -81,20 +82,27 @@ Veterans
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
+
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 When you file a disability claim, you'll also need to fill out one of these additional forms:
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781).<br>
-[Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF), **or**
+[Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF)<br>
+ **or**<br>
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a).<br>
-[Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF).
+[Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
 
+**Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for disability benefits. We won't offer you treatment during this process.
 
-Please note that the screening process for disability benefits is geared toward getting a full understanding of your PTSD, not treating it. To get help or treatment, contact your health care provider or any of the emergency contacts listed at the top of this page. 
+**If you’re looking for treatment options,** please talk with your health care provider or learn more about accessing VA services for PTSD. <br>
+[Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#access-services)
+
+**If you're in crisis and need to talk with someone right now,** you can connect with a Veterans Crisis Line responder any time, day or night. <br>
+[Find out how to get support now](#get-help-now)
 
 ### Get more information 
 We’ve made great progress in treating PTSD and have brought more mental health providers to VA medical centers to help give the best care to Veterans with PTSD. <br>
-[Learn about our PTSD programs](https://www.mentalhealth.va.gov/PTSD.asp).
+[Learn about our PTSD programs](https://www.mentalhealth.va.gov/PTSD.asp)
 
 <script type="text/javascript">
 

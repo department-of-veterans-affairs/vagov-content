@@ -102,7 +102,8 @@ You can search for DBQs to download by form name or by symptom. <br>
 
 ### Any Additional Forms Needed to Support Your Claim
 
-In some cases, you may need to turn in one or more additional forms to support your disability claim.<br>
+In some cases, you may need to turn in one or more additional forms to support your disability claim. <br>
+
 [See if you need to complete any additional forms](/disability/how-to-file-claim/supplemental-forms/).
 </div>
 </div>
