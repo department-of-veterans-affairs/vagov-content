@@ -80,22 +80,22 @@ hublinks:
     links:
       - url: "https://www.benefits.va.gov/tap/tap-index.asp"
         label: Transition Assistance Program (TAP)
-        description: As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing. <b>You can access TAP resources any time.</b> <br> <b>Open to active or inactive duty service members</b>
+        description: As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing. You can access TAP resources any time. <br> <b>Open to active or inactive duty service members</b>
       - url: "/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
         label: Pre-discharge disability claim
-        description: If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file for disability benefits before you leave the military. This may help speed up your claim so you can get your benefits sooner. <b>You can apply between 180 and 90 days before separation or retirement.</b> <br> <b>Open to active or inactive duty service members</b>
-      - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
-        label: Active duty service members and VA health care
-        description: Learn about your health care options after separation or retirements and how to apply for VA health care. <b>You can apply as soon as you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility.</b> <br> <b>Open to active duty service members only</b>
-      - url: "/careers-employment/education-and-career-counseling/"
-        label: Educational and career counseling
-        description: <br> Find out how to get free educational and career counseling. <b>You can apply between 6 months before and 1 year after separation or retirement.</b>  <br> <b>Open to active duty service members only</b>
-      - url: "/careers-employment/vocational-rehabilitation/"
-        label: Vocational rehabilitation and employment
-        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. <b>You can apply up to 12 years from the date you receive your notice of separation or first VA service-connected disability rating.</b>  <br> <b>Open to active or inactive duty service members</b>
+        description: If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file for disability benefits before you leave the military. This may help speed up your claim so you can get your benefits sooner. You'll want to apply <b>180 to 90 days</b> before separation or retirement. <br> <b>Open to active or inactive duty service members</b>
       - url: "/life-insurance/options-eligibility/sgli/#convert"
         label: Transitioning your life insurance after separation
-        description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities. <b>In some cases, you must act within 120 days of separation to ensure no lapse in coverage.</b> <br> <b>Open to active or inactive duty service members</b>
+        description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities. <b>In some cases, you must act within <b>120 days</b> of separation to ensure no lapse in coverage.</b> <br> <b>Open to active or inactive duty service members</b>
+      - url: "/careers-employment/education-and-career-counseling/"
+        label: Educational and career counseling
+        description: <br> Find out how to get free educational and career counseling. You can apply between <b>6 months before and 1 year after</b> separation or retirement.</b>  <br> <b>Open to active duty service members only</b>        
+      - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
+        label: Active duty service members and VA health care
+        description: Learn about your health care options after separation or retirements and how to apply for VA health care. <b>You can apply as soon as you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of <b>5 years</b> of enhanced eligibility. <br> <b>Open to active duty service members only</b>
+      - url: "/careers-employment/vocational-rehabilitation/"
+        label: Vocational rehabilitation and employment
+        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You can apply up to <b>12 years</b> from the date you receive your notice of separation or first VA service-connected disability rating.</b>  <br> <b>Open to active or inactive duty service members</b>
   - id: "other-benefits"
     title: Other VA benefits to consider as a Veteran
     links:
