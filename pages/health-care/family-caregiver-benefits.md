@@ -3,10 +3,10 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Family and Caregiver Benefits
 display_title:
-description: Learn about VA medical benefits for spouses, dependents, and family caregivers. Get more information on TRICARE, CHAMPVA, the Program of Comprehensive Assistance to Family Caregivers, the Camp Lejeune Family Member Program, and other health benefits for Veteran family members and caregivers.
+description: Learn about VA medical benefits for spouses, dependents, and family caregivers. Get more information on TRICARE, CHAMPVA, the Program of Comprehensive Assistance for Family Caregivers, the Camp Lejeune Family Member Program, and other health benefits for Veteran family members and caregivers.
 collection: healthCare
 children: healthCareCoverageFamily
-lastupdate: 2018-02-13
+lastupdate: 2019-03-17
 spoke: Get Benefits
 order: 6
 aliases:
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re the spouse, surviving spouse, dependent child, or family caregiver of a Servicemember or Veteran, you may qualify for health care benefits. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran’s service. Find out if you qualify and how to apply.
+If you’re the spouse, surviving spouse, dependent child, or family caregiver of a Veteran or service member, you may qualify for health care benefits. In certain cases, you may also qualify for health care benefits due to a disability related to your Veteran’s service. Find out if you qualify and how to apply.
 
 </div>
 
@@ -35,9 +35,9 @@ Are you the current or surviving spouse or child of a Veteran with disabilities 
 
 <br>
 
-### The Program of Comprehensive Assistance to Family Caregivers of Post-9/11 Veterans
+### The Program of Comprehensive Assistance for Family Caregivers
 
-If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, you may qualify for health care benefits and other caregiver support through the Program of Comprehensive Assistance to Family Caregivers. <br>
+If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, you may qualify for health care benefits and other caregiver support through the Program of Comprehensive Assistance for Family Caregivers. <br>
 [Find out if you qualify for this program and how to apply](/health-care/family-caregiver-benefits/comprehensive-assistance/).
 
 <br>
