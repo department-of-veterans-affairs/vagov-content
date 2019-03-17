@@ -68,43 +68,43 @@ hublinks:
     links:
       - url: "/education/eligibility/"
         label: GI Bill and other education benefits
-        description: Find out if you qualify for VA education benefits to help pay for school or training. And learn how to transfer Post-9/11 GI Bill benefits to your dependents. <br> <b>Open to active or inactive duty service members</b>
+        description: Find out if you qualify for VA education benefits to help pay for school or training. And learn how to transfer Post-9/11 GI Bill benefits to your dependents. <br> <b>Open to active and inactive duty service members</b>
       - url: "/housing-assistance/home-loans/eligibility/"
         label: Certificate of eligibility for a VA-backed home loans
-        description: Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br> <b>Open to active or inactive duty service members</b>
+        description: Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br> <b>Open to active and inactive duty service members</b>
       - url: "/life-insurance/options-eligibility/sgli/"
         label: Life insurance for you and your family
-        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to active or inactive duty service members</b>
+        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to active and inactive duty service members</b>
   - id: "separating-retiring"
     title: VA benefits to consider when separating or retiring
     links:
       - url: "https://www.benefits.va.gov/tap/tap-index.asp"
         label: Transition Assistance Program (TAP)
-        description: As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing. You can access TAP resources any time. <br> <b>Open to active or inactive duty service members</b>
+        description: As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a Transition Assistance Program (TAP) briefing. <br> <b>Open to active and inactive duty service members</b>
       - url: "/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
         label: Pre-discharge disability claim
-        description: If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file for disability benefits before you leave the military. This may help speed up your claim so you can get your benefits sooner. You'll want to apply <b>180 to 90 days</b> before separation or retirement. <br> <b>Open to active or inactive duty service members</b>
+        description: If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file for disability benefits before you leave the military through the Benefits Delivery at Discharge (BDD) program. This may help speed up your claim so you can get your benefits sooner. To use this program, you'll need to file your claim <b>180 to 90 days</b> before separation. <br> <b>Open to active and inactive duty service members</b>
       - url: "/life-insurance/options-eligibility/sgli/#convert"
         label: Transitioning your life insurance after separation
-        description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities. <b>In some cases, you must act within <b>120 days</b> of separation to ensure no lapse in coverage.</b> <br> <b>Open to active or inactive duty service members</b>
+        description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) policy or commercial policy, and learn about other options for coverage if you have service-connected disabilities or want continued coverage for your family. In some cases, you must act within <b>120 days</b> of separation to ensure no lapse in coverage. <br> <b>Open to active and inactive duty service members</b>
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
-        description: <br> Find out how to get free educational and career counseling. You can apply between <b>6 months before and 1 year after</b> separation or retirement.</b>  <br> <b>Open to active duty service members only</b>        
+        description: <br> Find out how to get free educational and career counseling. You can apply between <b>6 months</b> before and <b>1 year</b> after separation. <br> <b>Open to active duty service members only</b>        
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
         label: Active duty service members and VA health care
-        description: Learn about your health care options after separation or retirements and how to apply for VA health care. <b>You can apply as soon as you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of <b>5 years</b> of enhanced eligibility. <br> <b>Open to active duty service members only</b>
+        description: Learn about your health care options after separation or retirements and how to apply for VA health care. You can apply as soon as you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of <b>5 years</b> of enhanced eligibility. <br> <b>Open to active duty service members only</b>
       - url: "/careers-employment/vocational-rehabilitation/"
         label: Vocational rehabilitation and employment
-        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You can apply up to <b>12 years</b> from the date you receive your notice of separation or first VA service-connected disability rating.</b>  <br> <b>Open to active or inactive duty service members</b>
+        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You can apply up to <b>12 years</b> from the date you receive your notice of separation or first VA service-connected disability rating. <br> <b>Open to active and inactive duty service members</b>
   - id: "other-benefits"
     title: Other VA benefits to consider as a Veteran
     links:
       - url: "/disability/"
         label: Disability compensation
-        description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active or inactive duty service members only</b>        
+        description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active and inactive duty service members</b>        
       - url: "/careers-employment/veteran-owned-business-support/"
         label: Veteran-owned small business support
-        description: Register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability, you may be eligible for additional support as a service-disabled Veteran-owned small business. <br> <b>Open to active or inactive duty service members</b>
+        description: Register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability, you may be eligible for additional support as a service-disabled Veteran-owned small business. <br> <b>Open to active and inactive duty service members</b>
       - url: "/pension/eligibility/"
         label: Veterans pension
         description: If you served on active duty during wartime, are over 65, or have a service-connected disability, and you have limited or no income, find out if you qualify for a Veterans Pension. <br> <b>Open to active duty service members only</b>
@@ -113,18 +113,18 @@ hublinks:
         description: If you need help with your daily activities, or you’re housebound, see if you qualify for monthly payments added to the amount of your monthly Veterans pension. <br> <b>Open to active duty service members only</b>
       - url: "/housing-assistance/disability-housing-grants/"
         label: Disability housing grants
-        description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home to help you live more independently. <br> <b>Open to active or inactive duty service members</b>
+        description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home to help you live more independently. <br> <b>Open to active and inactive duty service members</b>
       - url: "/life-insurance/"    
         label: More life insurance options
-        description: Explore life insurance coverage options and services for you and your family, and manage your policy online. <br> <b>Open to active or inactive duty service members</b>
+        description: Explore life insurance coverage options and services for you and your family, and manage your policy online. <br> <b>Open to active and inactive duty service members</b>
       - url: "/burials-memorials/pre-need-eligibility/"
         label: Pre-need eligibility determination for burial in a VA national cemetery
-        description: Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and make the process easier for your family members in their time of need. <br> <b>Open to active or inactive duty service members</b>
+        description: Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and make the process easier for your family members in their time of need. <br> <b>Open to active and inactive duty service members</b>
 
 ---
 
 <p class="va-introtext">
-If you're serving on active duty in the U.S. Armed Forces, including active National Guard and Reserve with federal pay, you may be eligible for VA benefits both during service and after separation or retirement. If you're a traditional or technical member of the National Guard and Reserve, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply.
+If you're serving on active duty in the U.S. uniformed services, including active National Guard and Reserve with federal pay, you may be eligible for VA benefits both during service and after separation or retirement. If you're a traditional or technical member of the National Guard and Reserve, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply.
 </p>
 
 <h3>On this page</h3>
