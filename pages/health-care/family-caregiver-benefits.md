@@ -11,6 +11,27 @@ spoke: Get Benefits
 order: 6
 aliases:
   - /health-care/family-caregiver-health-benefits/
+related links:
+  - heading: Tools to help you manage your health if you're registered as a patient in a VA health facility
+    links:
+    - url: /health-care/refill-track-prescriptions/ 
+      title: Refill and track your VA prescriptions
+      description: Order a prescription refill and track your shipment online.
+    - url: /health-care/secure-messaging/
+      title: Use VA Secure Messaging
+      description: Communicate privately with your VA health care team through Secure Messaging.
+    - url: /health-care/schedule-view-va-appointments/
+      title: Schedule and view your VA appointments
+      description: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
+    - url: /health-care/view-test-and-lab-results/
+      title: View your VA lab and test results 
+      description: View, download, and print your lab and test results.
+    - url: /health-care/order-hearing-aid-batteries-prosthetic-socks/
+      title: Order hearing aid batteries and prosthetic socks
+      description: Order these items online for home delivery.
+    - url: /health-care/get-medical-records/
+      title: Get your VA medical records (also called "VA Blue Button")
+      description: Set up your personal health record and download reports to share with your VA and non-VA health care providers.
 ---
 
 <div class="va-introtext">
@@ -30,7 +51,7 @@ TRICARE provides comprehensive health coverage, including health plans, prescrip
 
 ### The Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)
 
-Are you the current or surviving spouse or child of a Veteran with disabilities or a Veteran who has died? If you don’t qualify for TRICARE, you may be able to get health insurance through CHAMPVA. Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing. <br>
+Are you the current or surviving spouse or child of a Veteran with disabilities or a service member who died in the line of duty? If you don’t qualify for TRICARE, you may be able to get health insurance through CHAMPVA. Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing. <br>
 [Find out if you qualify for CHAMPVA and how to apply](/health-care/family-caregiver-benefits/champva/).
 
 <br>
