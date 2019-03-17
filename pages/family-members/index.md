@@ -97,7 +97,7 @@ hublinks:
         description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, we can also help you with financial advice, will preparation services, and filing a claim in your time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /burials-memorials/pre-need-eligibility/
         label: Pre-need eligibility determination for burial in a VA national cemetery
-        description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. And you can apply in advance for eligiblity to be buried in a VA national cemetery. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>	
+        description: Apply in advance for eligiblity to be buried in a VA national cemetery. This can help you plan ahead to make the burial process easier for your family in their time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /burials-memorials/pre-need-eligibility/
         label: Burial benefits and memorial items
         description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. <br> <b>For surviving spouse, surviving child, surviving parent</b>
@@ -112,7 +112,7 @@ hublinks:
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
-        description: Learn how to access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
+        description: Access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
       - url: https://www.benefits.va.gov/fiduciary/index.asp
         label: VA Fiduciary Program
         description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
