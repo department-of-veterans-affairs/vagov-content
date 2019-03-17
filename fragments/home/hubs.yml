@@ -36,11 +36,3 @@
   url: /records/
   hub: records
   description: Apply for a printed Veteran ID card, get your VA benefit letters and medical records, and learn how to apply for a discharge upgrade.
-- heading: Service members
-  url: /service-members/
-  hub: service-members
-  description: Learn about using certain VA benefits during service. And find out how and when to apply for other important benefits when separating or retiring.
-- heading: Family members
-  url: /service-members/
-  hub: family-members
-  description: Explore VA benefits and services for spouses, dependents, and survivors as well as family members who are caring for a Veteran or service member. 
