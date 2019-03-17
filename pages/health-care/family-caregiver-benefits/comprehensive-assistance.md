@@ -1,24 +1,24 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: The Program of Comprehensive Assistance to Family Caregivers of Post-9/11 Veterans
-display_title: Comprehensive Assistance to Family Caregivers
+title: The Program of Comprehensive Assistance for Family Caregivers
+display_title: Comprehensive Assistance for Family Caregivers
 description: Our VA caregiver program offers a VA caregiver stipend and other support to family caregivers of post-9/11 Veterans with serious injuries. If you're caring for a Veteran, find out if you're eligible and how to apply for this VA caregiver pay and other benefits.
 concurrence: complete
-lastupdate: 2018-02-13
+lastupdate: 2019-03-17
 order: 2
 aliases:
   - /health-care/family-caregiver-health-benefits/comprehensive-assistance-family-caregivers/
 ---
 <div class="va-introtext">
 
-If you’re a family member caring for a Veteran with disabilities, we want to support you. We recognize that family caregivers enhance the health and well-being of Veterans they care for in their home. Find out if you qualify for the Program of Comprehensive Assistance to Family Caregivers and how to apply.
+If you’re a family member caring for a Veteran with disabilities, we want to support you. We recognize that family caregivers enhance the health and well-being of Veterans they care for in their home. Find out if you qualify for the Program of Comprehensive Assistance for Family Caregivers and how to apply.
 
 </div>
 
 <div class="feature" markdown=“1”>
 
-### Can I get benefits through the Program of Comprehensive Assistance to Family Caregivers?
+### Can I get benefits through the Program of Comprehensive Assistance for Family Caregivers?
 You’ll qualify for this program based on your Veteran’s qualifications. You may be eligible if the Veteran you're caring for meets both of the requirements listed below.
 
 **Both of these must be true. The Veteran you're caring for:**
@@ -34,7 +34,7 @@ Answer a few questions to find out if you meet the criteria for this program. <b
 
 ### What benefits can I get with this program? 
 
-Your Veteran can appoint 1 primary (main) caregiver and up to 2 secondary caregivers (people who serve as backup support to the primary caregiver when needed). Your benefits will depend on whether you’re the primary caregiver or a secondary caregiver.
+Your Veteran can appoint one primary (main) caregiver and up to 2 secondary caregivers (people who serve as backup support to the primary caregiver when needed). Your benefits will depend on whether you’re the primary caregiver or a secondary caregiver.
 
 **If you’re the primary caregiver, you may receive:**
 - Caregiver education and training
@@ -60,11 +60,11 @@ Health Eligibility Center<br>
 Atlanta, GA 30329-1647
 </p>
 
-Or apply in person by bringing the application to your local VA Medical Center Caregiver Support Coordinator.
+Or apply in person by bringing the application to your local VA medical center caregiver support coordinator.
 
 **To find the name of your local coordinator:**
 
 - Contact the Caregiver Support Line at <a href='tel:+1-855-260-3274'>1-855-260-3274</a>, **or** 
-- [Use our online Caregiver Support Coordinator search tool](https://www.caregiver.va.gov/help_landing.asp)
+- [Use our online caregiver support coordinator search tool](https://www.caregiver.va.gov/help_landing.asp)
 
 If you need help filling out the form, you can contact your local coordinator, or call our main VA information line at 1-877-222-VETS (<a href='tel:+1-877-222-8387'>1-877-222-8387</a>).
