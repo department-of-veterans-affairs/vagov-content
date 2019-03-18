@@ -101,8 +101,9 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="enhanced">Benefits of enhanced eligibility</button>
-<div id="enhanced" class="usa-accordion-content">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="benefits">Benefits of enhanced eligibility</button>
+<div id="benefits" class="usa-accordion-content">
 
 <b>If you qualify for enhanced eligibility as an OEF/OIF/OND combat Veteran:</b>
 - <b>We'll enroll you right away.</b> We'll assign you to priority group 6, unless you qualify for a higher priority group based on your income or a service-connected disability. <br>
@@ -115,7 +116,8 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental">Benefits of enhanced eligibility</button>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental">Eligibility for VA dental care</button>
 <div id="dental" class="usa-accordion-content">
 
 You may be eligible for one-time dental care for any needed conditions. You'll need to apply within 180 days of discharge or separation. You may also qualify for VA dental care based on other factors. <br>
