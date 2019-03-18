@@ -64,7 +64,7 @@ You don’t need to be enrolled in VA health care to get care.
 </div>
 
 <span id="eligibility"></span>
-## Eligibility for health care after separate or retirement
+<h2>Eligibility for health care after separate or retirement</h2>
 
 Your eligibility for VA health care and other health care coverage depends on your service history and other factors. Learn more about what health benefits you may qualify for and how to apply if you're:
 - [Returning from OEF/OIF/OND combat](#oef-oif-ond)
@@ -73,11 +73,11 @@ Your eligibility for VA health care and other health care coverage depends on yo
 - [Being medically retired from active duty](#medically-retired)
 
 <span id="oef-oif-ond"></span>
-### If you're returning from OEF/OIF/OND combat
+<h3>If you're returning from OEF/OIF/OND combat</h3>
 
 You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operating Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is your called an enhanced eligibility period.
 
-#### We encourage you to apply right away 
+<h4>We encourage you to apply right away</h4> 
 If you wait to apply for VA health care after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
@@ -124,9 +124,10 @@ You may be eligible for one-time dental care for any needed conditions. You'll n
 </div>
 </li>
 </ul>
+</div>
 
 <span id="separating"></span>
-### If you're separating from active duty (including active National Guard and Reserve)
+<h3>If you're separating from active duty (including active National Guard and Reserve)</h3>
 
 You may be eligible for VA health care for all or some of your health care needs. We'll determine your eligibility based on your service history, VA disability rating, income, and other factors. If you had active-duty status for training purposes only, you don’t qualify for VA health care.<br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
@@ -138,7 +139,7 @@ Learn more about how to enroll for temporary coverage after separation. <br>
 [Go to the TRICARE website page on separating](https://tricare.mil/LifeEvents/Separating)
 
 <span id="retiring"></span>
-### If you're retiring from active duty
+<h3>If you're retiring from active duty</h3>
 
 You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 after your retirement date even if you're already enrolled in TRICARE on active duty.
 
@@ -150,7 +151,7 @@ You may also be eligible for certain VA health care benefits. <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
 <span id="medically-retired"></span>
-### If you're being medically retired from active duty
+<h3>If you're being medically retired from active duty</h3>
 
 You may be eligible to receive care for any service-connected disabilities through VA. You may also qualify to receive all other care through TRICARE. Your eligible family members may also qualify for care through TRICARE. 
 
@@ -162,21 +163,23 @@ Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-87
 ------
 
 <span id="starting"></span>
-## Getting started with VA health care
+<h2>Getting started with VA health care</h2>
 
-### Can I apply for VA health care before I've ended my service?
+<h3>Can I apply for VA health care before I've ended my service?</h3>
 
 Yes. You can apply as soon as you’ve received your separation or retirement papers. If we determine you’re eligible, you’ll be enrolled once you’ve separated or retired.
 
-### Can I use VA health care while I'm still on active duty?
+<h3>Can I use VA health care while I'm still on active duty?</h3>
 
 <b>You may be able to use VA health care if:</b>
 
 - You need emergency or urgent care. We'll provide care first, and then get TRICARE authorization for care once we've stabilized your health. <br>
 - You need routine care and you have a valid TRICARE referral or authorization.
-- The VA health facility you're visiting has a VA/DOD sharing agreement that allows us to provide care without referrals. For more information about this, please contact your local military treating facility (MTF) or TRICARE office.
+- The VA health facility you're visiting has a VA/DOD sharing agreement that allows us to provide care without referrals. For more information about this, please contact your local military hospital or clinic (also called a military treatment facility) or TRICARE office. <br>
+[Find a military treatment facility](https://tricare.mil/)
+[Contact TRICARE](https://tricare.mil/ContactUs)
 
-### What if I've just separated and I don't know where to start?
+<h3>What if I've just separated and I don't know where to start?</h3>
 
 We can help you learn about and apply for VA health care benefits. A member of our Concierge for Care (C4C) team will call you soon after your separation from military service. We can answer any questions you may have, process your application over the phone, and help you schedule your first VA medical appointment.
 
