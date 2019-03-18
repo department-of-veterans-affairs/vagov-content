@@ -31,6 +31,10 @@ If you're serving on active duty, including as a returning OEF/OIF/OND service m
 
 </div>
 
+<h3>On this page</h3>
+- [Eligibility for health benefits after separation or retirement](#eligibility)
+- [Questions about getting started with VA health care](#starting)
+
 <div class="usa-alert usa-alert-info">
 <div class="usa-alert-body">
 <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
@@ -59,21 +63,30 @@ You don’t need to be enrolled in VA health care to get care.
 </div>
 </div>
 
-## What health benefits will I be eligible for after separation or retirement?
+<span id="eligibility"></span>
+## Eligibility for health care after separate or retirement
 
-This depends on your service history and other factors. Learn more about what health benefits you may qualify for and how to apply if you're:
+Your eligibility for VA health care and other health care coverage depends on your service history and other factors. Learn more about what health benefits you may qualify for and how to apply if you're:
 - [Returning from OEF/OIF/OND combat](#oef-oif-ond)
 - [Separating from active duty (including active National Guard and Reserve)](#separating)
 - [Retiring from active duty](#retiring)
 - [Being medically retired from active duty](#medically-retired)
 
 <span id="oef-oif-ond"></span>
-
 ### If you're returning from OEF/OIF/OND combat
 
-You can receive cost-free medical care for up to 5 years after discharge or release for any condition related to your service in Operating Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is your called an enhanced eligibility period.
+You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operating Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is your called an enhanced eligibility period.
 
-#### Eligibility requirements
+#### We encourage you to apply right away 
+If you wait to apply for VA health care after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
+[Find out how to apply for VA health care](/health-care/apply)
+
+<div class="usa-accordion">
+<ul class="usa-unstyled-list">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility">Eligibility requirements</button>
+<div id="eligibility" class="usa-accordion-content">
+
 You may qualify for enhanced eligibility if you meet all of the requirements listed below.
 
 <b>All of these must be true. You:</b>
@@ -86,7 +99,11 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 - Receipt of combat service medicals, <b>or</b>
 - Receipt of combat tax exemption, imminent danger, or hostile fire pay
 
-#### Benefits of enhanced eligibility
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="enhanced">Benefits of enhanced eligibility</button>
+<div id="enhanced" class="usa-accordion-content">
+
 <b>If you qualify for enhanced eligibility as an OEF/OIF/OND combat Veteran:</b>
 - <b>We'll enroll you right away.</b> We'll assign you to priority group 6, unless you qualify for a higher priority group based on your income or a service-connected disability. <br>
 [Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
@@ -96,15 +113,17 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 - <b>You'll stay enrolled in VA health care even after your OEF/OIF/OND enhanced eligibility period ends.</b> We’ll reassign you to the highest priority group you qualify for at that time. <br>
 [Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
 
-#### Importance of applying right away
-If you wait to apply for VA health care after your OEF/OIF/OND enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating.
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental">Benefits of enhanced eligibility</button>
+<div id="dental" class="usa-accordion-content">
 
-So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
-[Find out how to apply for VA health care](/health-care/apply)
-
-#### Eligibility for VA dental care
 You may be eligible for one-time dental care for any needed conditions. You'll need to apply within 180 days of discharge or separation. You may also qualify for VA dental care based on other factors. <br>
 [Find out if you may be eligible for VA dental care](/health-care/about-va-health-benefits/dental-care/)
+
+</div>
+</li>
+</ul>
 
 <span id="separating"></span>
 ### If you're separating from active duty (including active National Guard and Reserve)
@@ -142,7 +161,8 @@ Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-87
 
 ------
 
-## More questions you may have about getting started with VA health care
+<span id="starting"></span>
+## Getting started with VA health care
 
 ### Can I apply for VA health care before I've ended my service?
 
@@ -159,8 +179,6 @@ Yes. You can apply as soon as you’ve received your separation or retirement pa
 ### What if I've just separated and I don't know where to start?
 
 We can help you learn about and apply for VA health care benefits. A member of our Concierge for Care (C4C) team will call you soon after your separation from military service. We can answer any questions you may have, process your application over the phone, and help you schedule your first VA medical appointment.
-
-
 
 <script type="text/javascript">
   // Toggle the expandable crisis info
