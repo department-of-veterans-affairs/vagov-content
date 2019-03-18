@@ -9,23 +9,41 @@ template: detail-page
 order: 1
 aliases:
   - /disability-benefits/claims-appeal/hearings/
+
+banner:
+  title: Make sure you’re on the right page
+  content: >
+    <p>
+      You'll need to follow a different process depending on which form you’re filling out to request a hearing.
+      It's very important to follow the right process.
+    </p>
+    <p>
+      <strong>If you’re requesting a Board Appeal using VA Form 9,</strong> you’re on the right page.
+      Keep reading below to learn how to request and prepare for a hearing.
+    </p>
+    <p>
+      <strong>If you’re requesting a Board Appeal using VA Form 10182,</strong>
+      you’re following the decision review request process and you’ll need to go to a different page to get the right information.
+      <a href="/decision-reviews/board-appeal/veterans-law-judge-hearing/">Go to Hearings with a Veterans Law Judge in the Decision Review Process</a>
+    </p>
+
 ---
 
 <div class="va-introtext">
-  
+
 You can request a hearing with a Veterans Law Judge using the Appeal to Board of Veterans' Appeals (VA Form 9).
 
 </div>
 
 <div class="feature" markdown=“1”>
-  
+
 ### Why might I want a Board hearing?
 
 You might want a Board hearing if you think it’ll help support your appeal to discuss your case with a judge.
 
 ### Do I have to have a Board hearing?
 
-No. Board hearings are always optional. 
+No. Board hearings are always optional.
 
 </div>
 
@@ -103,9 +121,9 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   If you’ve already submitted evidence, the judge will be able to review it on their computer, and it’s not necessary to bring it to your hearing. But you should bring any new evidence with you. Once you’ve received your hearing schedule notice, it’s better to bring new evidence to your hearing rather than mailing it.
 
-  ### Can I get help preparing for my hearing? 
+  ### Can I get help preparing for my hearing?
 
-  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO). 
+  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO).
 
   [Get help from a representative](/disability/get-help-filing-claim/).
 </section>
