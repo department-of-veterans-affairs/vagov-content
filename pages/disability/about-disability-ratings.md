@@ -49,7 +49,6 @@ Yes. We may increase your monthly payments if one or more of these is true for y
 - Spouse, child, or dependent parent and your combined disability is 30% or greater, **or**
 - Spouse with a serious disability
 
-
 ### Is there anything else that might affect my compensation amount?
 
 Yes. Your compensation may end up being less than it otherwise would be if either of these is true. You:
