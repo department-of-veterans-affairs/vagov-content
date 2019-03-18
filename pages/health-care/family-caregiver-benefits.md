@@ -11,7 +11,7 @@ spoke: Get Benefits
 order: 6
 aliases:
   - /health-care/family-caregiver-health-benefits/
-related links:
+relatedlinks:
   - heading: Tools to help you manage your health if you're registered as a patient in a VA health facility
     links:
     - url: /health-care/refill-track-prescriptions/ 
