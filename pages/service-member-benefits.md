@@ -22,9 +22,9 @@ social:
           label: "Ask a question online"
       - subhead: Call us
         links:
-        - url: tel:1-877-222-VETS(8387)
-          number: 1-877-222-VETS(8387)
-          title: "Health Benefits Hotline:"
+        - url: tel:1-827-1000
+          number: 1-827-1000
+          title: "VA Benefits Hotline:"
         - url: tel:1-877-327-0022
           number: 1-877-327-0022
           title: "My HealtheVet Help Desk:"
@@ -70,7 +70,7 @@ hublinks:
         label: GI Bill and other education benefits
         description: Find out if you qualify for VA education benefits to help pay for school or training. If you qualify for the Post-9/11 GI Bill, learn how to transfer your unused benefits to your spouse or dependent children. <br> <b>Open to active and inactive duty service members</b>
       - url: "/housing-assistance/home-loans/eligibility/"
-        label: Certificate of eligibility for a VA-backed home loans
+        label: Certificate of eligibility for a VA-backed home loan
         description: Review requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br> <b>Open to active and inactive duty service members</b>
       - url: "/life-insurance/options-eligibility/sgli/"
         label: Life insurance for you and your family
@@ -83,19 +83,19 @@ hublinks:
         description: As you prepare to separate or retire from the military, explore your career options and learn how to access the VA benefits you've earned by attending a TAP briefing. <br> <b>Open to active and inactive duty service members</b>
       - url: "/disability/how-to-file-claim/when-to-file/pre-discharge-claim/"
         label: Pre-discharge disability claim
-        description: If you have an illness or injury that you believe was caused—or made worse—by your service, find out how to file a disability claim through the Benefits Delivery at Discharge program. This may help speed up your claim so you can get your benefits sooner. You'll need to file <b>180 to 90 days</b> before separation. <br> <b>Open to active and inactive duty service members</b>
+        description: If you have an illness or injury that you believe was caused—or made worse—by your service, learn how to file a disability claim through the Benefits Delivery at Discharge program. This may help speed up your claim so you can get your benefits sooner. You'll need to file <b>180 to 90 days</b> before separation. <br> <b>Open to active and inactive duty service members</b>
       - url: "/life-insurance/options-eligibility/sgli/#convert"
         label: Transitioning your life insurance after separation
         description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) or commercial policy, and learn about other options for coverage if you have service-connected disabilities or want coverage for your family. In some cases, you must act within <b>120 days</b> of separation to ensure no lapse in coverage. <br> <b>Open to active and inactive duty service members</b>
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
-        description: <br> Find out how to get free educational and career counseling (also called Chapter 36). You'll need to apply between <b>6 months</b> before and <b>1 year</b> after separation. <br> <b>Open to active duty service members only</b>        
+        description: Get support for transitioning to a civilian career with free educational and career counseling (also called Chapter 36). You'll need to apply between <b>6 months</b> before and <b>1 year</b> after separation. <br> <b>Open to active duty service members only</b>        
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
         label: Active duty service members and VA health care
-        description: Learn about your health care options after separation or retirement and how to apply for VA health care. You can apply as soon as you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of <b>5 years</b> of enhanced eligibility. <br> <b>Open to active duty service members only</b>
+        description: Learn about your health care options after separation or retirement and how to apply for VA health care once you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of <b>5 years</b> of enhanced eligibility. <br> <b>Open to active duty service members only</b>
       - url: "/careers-employment/vocational-rehabilitation/"
         label: Vocational rehabilitation and employment
-        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You can apply up to <b>12 years</b> from the date you receive your notice of separation or first VA service-connected disability rating. <br> <b>Open to active and inactive duty service members</b>
+        description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out how to apply for vocational rehab. You can apply up to <b>12 years</b> from when you receive your notice of separation or first VA disability rating. <br> <b>Open to active and inactive duty service members</b>
   - id: "other-benefits"
     title: Other VA benefits to consider as a Veteran
     links:
@@ -110,7 +110,7 @@ hublinks:
         description: If you served on active duty during wartime, are at least 65 years old or have a service-connected disability, and have limited or no income, find out if you qualify for a Veterans Pension. <br> <b>Open to active duty service members only</b>
       - url: "/pension/aid-attendance-housebound/"
         label: Aid and attendance or housebound allowances
-        description: If you need help with your daily activities, or you’re housebound, see if you qualify for monthly payments added to the amount of your monthly Veterans pension. <br> <b>Open to active duty service members only</b>
+        description: If you need help with your daily activities, or you’re housebound, check whether you're eligible to have increased aid added to your monthly Veterans pension. <br> <b>Open to active duty service members only</b>
       - url: "/housing-assistance/disability-housing-grants/"
         label: Disability housing grants
         description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home to help you live more independently. <br> <b>Open to active and inactive duty service members</b>
