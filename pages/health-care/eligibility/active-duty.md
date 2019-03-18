@@ -84,8 +84,8 @@ If you wait to apply for VA health care after your enhanced eligibility period e
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility">Eligibility requirements</button>
-<div id="eligibility" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="requirements">Eligibility requirements</button>
+<div id="requirements" class="usa-accordion-content">
 
 You may qualify for enhanced eligibility if you meet all of the requirements listed below.
 
@@ -178,7 +178,7 @@ Yes. You can apply as soon as you’ve received your separation or retirement pa
 - You need emergency or urgent care. We'll provide care first, and then get TRICARE authorization for care once we've stabilized your health. <br>
 - You need routine care and you have a valid TRICARE referral or authorization.
 - The VA health facility you're visiting has a VA/DOD sharing agreement that allows us to provide care without referrals. For more information about this, please contact your local military hospital or clinic (also called a military treatment facility) or TRICARE office. <br>
-[Find a military treatment facility](https://tricare.mil/)
+[Find a military treatment facility](https://tricare.mil/) <br>
 [Contact TRICARE](https://tricare.mil/ContactUs)
 
 <h3>What if I've just separated and I don't know where to start?</h3>
