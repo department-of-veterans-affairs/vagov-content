@@ -34,7 +34,7 @@ You can get these education benefits if you meet at least one of the requirement
 - Served at least 90 days on active duty (either all at once or with breaks in service) on or after September 11, 2001, **or**
 - Received a Purple Heart on or after September 11, 2001, and were honorably discharged after any amount of service, **or**
 - Served for at least 30 continuous days (all at once, without a break in service) on or after September 11, 2001, and were honorably discharged with a service-connected disability, **or**
-- Are a dependent child using benefits transferred by a qualifying Veteran or Servicemember
+- Are a dependent child using benefits transferred by a qualifying Veteran or service member
 
 **Note:** If you're a member of the Reserves who lost education benefits when the Reserve Educational Assistance Program (REAP) ended in November 2015, you may qualify to receive restored benefits under the Post-9/11 GI Bill.
 
@@ -138,9 +138,9 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 
 - If you need more money to cover higher private-school or out-of-state tuition, you can apply for the Yellow Ribbon Program. <br>
 [Learn about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
-- If you’re a qualified Servicemember, you can transfer all 36 months or a portion of your Post-9/11 GI Bill benefits to a spouse or child. The Department of Defense approves a transfer of benefits. <br>
+- If you’re a qualified service member, you can transfer all 36 months or a portion of your Post-9/11 GI Bill benefits to a spouse or child. The Department of Defense approves a transfer of benefits. <br>
 [Learn about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).
-- If you're the child or surviving spouse of a Servicemember who died in the line of duty after September 10, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). <br>
+- If you're the child or surviving spouse of a service member who died in the line of duty after September 10, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). <br>
 [Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
 
 </div>
