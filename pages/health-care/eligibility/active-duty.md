@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Active duty service members and VA health care
-display_title: Active duty service members
+title: Active-duty service members and VA health care
+display_title: Active-duty service members
 description: 
 collection: healthCare
 lastupdate: 
