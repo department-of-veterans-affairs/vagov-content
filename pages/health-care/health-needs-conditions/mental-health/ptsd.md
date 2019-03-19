@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Posttraumatic Stress Disorder (PTSD)
+title: Posttraumatic stress disorder (PTSD) treatment
 display_title: PTSD
 description: VA is the world leader in PTSD treatment, serving millions of Veterans. Find out how to get help to manage your posttraumatic stress disorder symptoms. Whether you just returned from a deployment or have been home for 40 years, it’s never too late.
 concurrence: complete
