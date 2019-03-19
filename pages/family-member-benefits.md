@@ -59,7 +59,7 @@ social:
           label: VA Instagram
           icon: fa-instagram
 crosslinks:
-  - heading: Helping a Veteran find benefits?
+  - heading: Help a Veteran find benefits
   - links:
     - url: "/health-care/"
       title: <b>VA health care for Veterans</b>
@@ -82,19 +82,19 @@ hublinks:
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Find out if you may qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /education/survivor-dependent-benefits/
         label: Education and training
-        description: Find out if you're eligible and how to apply for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. Also find out how a Veteran family member may transfer some of their unused Post-9/11 GI Bill benefits to you. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Find out if you may be eligible for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. And learn how a Veteran may transfer their unused Post-9/11 GI Bill benefits to you. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /pension/survivors-pension/
         label: Survivors pension
         description: If you're the surviving spouse or child of a Veteran with wartime service, find out if you're eligible for monthly pension benefits. <br> <b>For surviving spouse, surviving child</b>
       - url: /housing-assistance/home-loans/spouses/
         label: Home loan programs or financial counseling
-        description: Apply for a Certificate of Eligibility for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed or VA direct loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
+        description: Apply for a certificate of eligibility for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed or VA direct loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
       - url: /life-insurance/
         label: Life insurance options, claims, and beneficiary assistance
-        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, we can also help you with financial advice, will preparation services, and filing a claim in your time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services, or file a claim in your time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /burials-memorials/pre-need-eligibility/
         label: Pre-need eligibility determination for burial in a VA national cemetery
         description: Apply in advance for eligiblity to be buried in a VA national cemetery. This can help you plan ahead to make the burial process easier for your family in their time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
@@ -109,7 +109,7 @@ hublinks:
     links:
       - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
         label: Program of Comprehensive Assistance for Family Caregivers
-        description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, find out how to apply for health care benefits and other support.
+        description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, learn how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
         label: VA Caregiver Support Program
         description: Access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
@@ -118,7 +118,7 @@ hublinks:
         description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
       - url: https://www.socialwork.va.gov/fisher.asp
         label: Fisher House Program
-        description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active duty service member who's receiving treatment in a VA health facility far from home.
+        description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active-duty service member who's receiving treatment in a VA health facility far from home.
       - url: https://www.mirecc.va.gov/coaching/
         label: Coaching into Care 
         description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in readjusting to civilian life, dealing with mental health problems, and finding services through VA or in the community.       
@@ -131,10 +131,9 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
 
 <h3>On this page</h3>
 
-Benefits and services for:
 <ul>
-  <li><a href="#spouse-dependent">Spouses, dependents, and survivors</a></li>  
-  <li><a href="#caregiver">Family members caring for a Veteran or service member</a></li>
+  <li><a href="#spouse-dependent">Benefits for spouses, dependents, and survivors</a></li>  
+  <li><a href="#caregiver">More benefits and services for family members caring for a Veteran or service member</a></li>
 </ul>
 
 <div class="usa-alert usa-alert-warning">
