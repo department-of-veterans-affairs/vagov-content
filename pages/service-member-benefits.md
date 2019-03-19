@@ -72,9 +72,9 @@ hublinks:
       - url: "/housing-assistance/home-loans/eligibility/"
         label: Certificate of eligibility for a VA-backed home loan
         description: Review the requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br> <b>Open to active-duty and inactive-duty service members</b>
-      - url: "/life-insurance/options-eligibility/sgli/"
+      - url: "/life-insurance/options-eligibility/"
         label: Life insurance for you and your family
-        description: Find out if you qualify for and how to manage your SGLI coverage. <br> <b>Open to active-duty and inactive-duty service members</b>
+        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to active-duty and inactive-duty service members</b>
   - id: "separating-retiring"
     title: Time-sensitive VA benefits to consider when separating or retiring
     links:
