@@ -22,7 +22,6 @@ You can request a hearing with a Veterans Law Judge at the Board of Veterans' Ap
   </div>
 </div>
 
-<div class="feature" markdown="0">
 
 ### Why should I consider requesting a Board hearing?
 
@@ -41,6 +40,7 @@ You aren't required to have a hearing. Board hearings are always optional.
 - [Find out what to expect at your Board hearing](#what-to-expect-at-board-hearing)
 - [Reschedule or withdraw your Board hearing request](#reschedule-or-withdraw-request)
 
+---------
 <span id="request-board-hearing"></span>
 ## Request a Board hearing
 
