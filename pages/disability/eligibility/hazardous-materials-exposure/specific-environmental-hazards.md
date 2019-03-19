@@ -20,7 +20,7 @@ If you had contact with certain environmental hazards while serving in Iraq, Afg
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you have an illness or other condition believed to be caused by your contact with an environmental hazard while serving in the military. This may include contact with:
   - Particulate matter or large burn pits in Iraq, Afghanistan, and Djibouti in the Horn of Africa
