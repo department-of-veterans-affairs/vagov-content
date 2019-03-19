@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure from C-123 Aircraft
+title: C-123 Aircraft | Veterans Affairs
+heading: Agent Orange Exposure from C-123 Aircraft
 display_title: C-123 Aircraft
 description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 template: detail-page
@@ -10,13 +11,13 @@ aliases:
 ---
 <div class="va-introtext">
 
-If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the Vietnam War. C-123 aircraft sprayed Agent Orange during the war, and the planes still had traces of the chemical in them afterward while they were being used, up until 1986. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
+If you flew on—or worked with—C-123 aircrafts in Vietnam or other locations, you may have had contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War. Traces of Agent Orange were found on C-123 aircrafts until 1986. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 <br>
 
@@ -27,7 +28,7 @@ You may be able to get disability benefits if you have an illness believed to be
 **Both of these must be true:**
 
 - You served in a regular Air Force unit location where a C-123 aircraft with traces of Agent Orange was assigned, **and**
-- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
+- Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircrafts that had traces of Agent Orange
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
 [See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
@@ -39,7 +40,7 @@ Check our list of military units and Air Force Specialty codes to see if your un
 
 #### For Reservists
 
-You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange and you were assigned to flight, ground, or medical crew duties at one of the below locations.
+You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange C-123 aircraft exposure and you were assigned to flight, ground, or medical crew duties at one of the below locations.
 
 **You must have been assigned to one of these locations:**
 
