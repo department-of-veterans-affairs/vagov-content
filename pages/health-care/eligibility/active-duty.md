@@ -79,7 +79,7 @@ You can receive free VA health care for up to 5 years after discharge or release
 
 <h4>We encourage you to apply right away</h4> 
 If you wait to apply for VA health care until after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
-[Find out how to apply for VA health care](/health-care/apply)
+[Find out how to apply for VA health care](/health-care/how-to-apply/)
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
@@ -133,7 +133,7 @@ You may be eligible for one-time dental care for any needed conditions. Be sure 
 
 You may be eligible for VA health care for all or some of your health care needs. We'll determine your eligibility based on your service history, VA disability rating, income, and other factors. If you had active-duty status for training purposes only, you don’t qualify for VA health care.<br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
-[Find out how to apply for VA health care](/health-care/apply)
+[Find out how to apply for VA health care](/health-care/how-to-apply/)
 
 You and your family may also qualify for temporary health coverage through the Department of Defense's TRICARE program. If you're a member of the National Guard and Reserve, your coverage options will depend on your military status before you separate. You'll have 90 days from your separation date to change your health plan.
 
@@ -150,7 +150,7 @@ Learn more about how to enroll in TRICARE as a military retiree. <br>
 
 You may also be eligible for certain VA health care benefits. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
-[Find out how to apply for VA health care](/health-care/apply)
+[Find out how to apply for VA health care](/health-care/how-to-apply/)
 
 <span id="medically-retired"></span>
 <h3>If you're being medically retired from active duty</h3>
