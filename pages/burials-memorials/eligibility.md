@@ -82,8 +82,8 @@ They died under honorable conditions while:
 
 <b>A reserve component</b><br>
 One of these is true:
-- During a period of active duty for training they became disabled or died from a disease or injury gotten or made worse in line of duty, <b>or</b>
-- During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders gotten or made worse in line of duty
+- During a period of active duty for training they became disabled or died from a disease or injury caused—or made worse—by their active duty service, <b>or</b>
+- During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders caused—or made worse—by their active duty service
 
 <b>Reserve and Guard components</b> <br>
 
