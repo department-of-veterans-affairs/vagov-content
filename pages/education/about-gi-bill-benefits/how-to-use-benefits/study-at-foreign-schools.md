@@ -21,7 +21,7 @@ If you plan to study at a foreign school, find out how you can use VA benefits t
 You can get education benefits if you meet all of the requirements listed below.
 
 **All of these must be true:**
-  - You're eligible for—or already get—VA educational assistance as a Veteran, Servicemember, Reservist, or qualified dependent, **and**
+  - You're eligible for—or already get—VA educational assistance as a Veteran, service member, Reservist, or qualified dependent, **and**
   - We’ve approved your program, **and**
   - Your program is at an institution of higher learning where you’ll earn a standard associate's degree or higher, or a degree of equal value at that foreign school. 
 
@@ -34,7 +34,7 @@ You can get education benefits if you meet all of the requirements listed below.
 - Money for school
 - Money for your housing costs during enrollment
 
-### Can I attend any foreign school?
+## Can I attend any foreign school?
 
 - We’ll accept degrees from schools in foreign countries that are similar to degrees granted by accredited U.S. colleges and universities. "Accredited" means that a group of experts has confirmed the school meets certain recognized quality standards.
 - For private schools overseas, the degree must be of equal value to those granted by public colleges and universities in the same country, and the school must have the same entrance requirements.
@@ -106,21 +106,21 @@ If you don’t do this, it could affect when you get benefits.
 </li>
 </ol>
 
-### Where will you process my claim?
+## Where will you process my claim?
 
 **If you're training in the Republic of the Philippines, American Samoa, Guam, Midway, Puerto Rico, Wake Island, any of the islands in the Federated States of the Marshall Islands, the Republic of Micronesia, or the Republic of Palau,** our Muskogee Regional Processing Office will process your claim.
 
 **If you're training in the U.S. Virgin Islands or any other foreign country or area,** our Buffalo Regional Processing Office will process your claim.
 
-### What if I need more help?
+## What if I need more help?
 
 **To get more information or help with your application:**
 
 - [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550). 
-- **If you’re in the United States**, call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). Or go to a VA regional benefit office near you. <br>
+- **If you’re in the United States**, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. Or go to a VA regional benefit office near you. <br>
 [Find a VA regional benefit office](/find-locations/?facilityType=benefits).
 - **If you have hearing loss**, call TTY: 711.
-- **If you’re outside the United States**, call <a href="tel:+0019187815678">001-918-781-5678</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). This is not a toll-free number.
+- **If you’re outside the United States**, call <a href="tel:+0019187815678">+1-918-781-5678</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. This is not a toll-free number.
 
 **You can also:**
 - Get help from local representatives of Veterans organizations and the American Red Cross
