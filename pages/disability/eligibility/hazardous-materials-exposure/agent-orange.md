@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure
+title: Agent Orange Exposure | Veterans Affairs
+heading: Agent Orange Exposure
 display_title: Agent Orange
 description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
@@ -37,18 +38,18 @@ aliases:
 
 <div class="va-introtext">
 
-The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have had contact with this toxic chemical. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have had contact with this toxic chemical. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange exposure.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if both of the below descriptions are true for you.
 
 **Both of these must be true:**
-- You have an illness believed to be caused by Agent Orange, **and**
+- You have an illness believed to be caused by Agent Orange exposure, **and**
 - You came into contact with Agent Orange while serving in the military
 
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
@@ -70,7 +71,7 @@ You may be able to get disability benefits if both of the below descriptions are
 
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents). <br>
 
-**If you have an illness believed to be caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
+**If you have an illness believed to be caused by Agent Orange exposure,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
 <ul class="usa-accordion">
@@ -91,7 +92,7 @@ When you file your claim, you'll need to submit this evidence:
 
 <br>
 
-**If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange, you’ll need to show the problem started during—or got worse because of—your military service. <br>
+**If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange exposure, you’ll need to show the problem started during—or got worse because of—your military service. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
 <ul class="usa-accordion">
@@ -101,9 +102,9 @@ When you file your claim, you'll need to submit this evidence:
   
 When you file your claim, you'll need to submit this evidence:
 - A medical record showing your current disability, **and**
-- A medical record showing a connection between exposure to Agent Orange and the current disability, **and**
+- A medical record showing a connection between Agent Orange exposure and the current disability, **and**
 - Evidence that proves either:
-   - Contact with Agent Orange in a location other than Vietnam or the Korean demilitarized zone, **or**
+   - Agent Orange exposure in a location other than Vietnam or the Korean demilitarized zone, **or**
    - Service in Vietnam or at or near the Korean demilitarized zone during the dates listed below
   
 </div>
