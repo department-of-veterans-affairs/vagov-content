@@ -187,8 +187,8 @@ We can help you learn about and apply for VA health care benefits. A member of o
 
 <script type="text/javascript">
   // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
+  document.getElementById('mental-health-expander-link')
     .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
+      document.getElementById('mental-health-expander-content').classList.toggle('expander-content-closed');
     });
 </script>
