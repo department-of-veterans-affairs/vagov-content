@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-We believe that contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, likely causes several illnesses. Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have 1 or more of the Agent Orange diseases listed below.
+We believe that contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, likely causes several illnesses (called "Agent Orange presumptives"). Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have 1 or more of the Agent Orange diseases listed below.
 
 </div>
 
