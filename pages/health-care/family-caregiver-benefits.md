@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Family and Caregiver Benefits
-display_title:
+title: Health care for spouses, dependents, and family caregivers
+display_title: Family and Caregiver Health Benefits
 description: Learn about VA medical benefits for spouses, dependents, and family caregivers. Get more information on TRICARE, CHAMPVA, the Program of Comprehensive Assistance for Family Caregivers, the Camp Lejeune Family Member Program, and other health benefits for Veteran family members and caregivers.
 collection: healthCare
 children: healthCareCoverageFamily
