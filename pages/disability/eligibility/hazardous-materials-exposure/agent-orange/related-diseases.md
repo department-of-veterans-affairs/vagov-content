@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Diseases Related to Agent Orange
+title: Agent Orange-Related Illnesses | Veterans Affairs
+heading: Diseases Related to Agent Orange
 display_title: Related Diseases
 description: Learn about certain cancers and other diseases we believe are related to Agent Orange exposure (called "Agent Orange presumptives"). If you have an illness or other condition and were exposed to Agent Orange, find out if you're eligible for VA disability pay and health care benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
@@ -12,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-We believe that contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, likely causes several illnesses. Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have 1 or more of the illnesses listed below.
+We believe that contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, likely causes several illnesses. Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have 1 or more of the Agent Orange diseases listed below.
 
 </div>
 
@@ -39,6 +40,7 @@ We believe that contact with Agent Orange, a toxic chemical used to clear trees 
 - **[Porphyria Cutanea Tarda](https://www.publichealth.va.gov/exposures/agentorange/conditions/porphyria-cutanea-tarda.asp):** A rare illness that can make your liver stop working the way it should and can cause your skin to thin and blister when you’re out in the sun. Under VA’s rating regulations, it must be at least 10% disabling within 1 year of contact with herbicides.
 
 
-If you have an illness you think is caused by contact with Agent Orange—and you don’t see it listed here—you can still file a claim for disability compensation. You’ll need to show that you have a disability and include a doctor’s report or a hospital report stating that your illness is believed to be caused by contact with Agent Orange.
+If you have an illness you think is caused by contact with Agent Orange—and you don’t see it listed here—you can still file a claim for disability compensation. You’ll need to show that you have a disability and include a doctor’s report or a hospital report stating that your illness is believed to be an Agent Orange disease.
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
