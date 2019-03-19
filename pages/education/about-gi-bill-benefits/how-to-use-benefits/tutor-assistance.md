@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Tutorial Assistance
+title: Tutorial assistance
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 5
@@ -30,7 +30,7 @@ You can get this benefit if you’re using VA educational assistance and you mee
 Veterans
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 Money to pay for a tutor
 
@@ -39,7 +39,7 @@ We won’t pay more than $100 per month for tutoring, and we won’t pay more th
 
 -----
 
-### How do I get this benefit?
+## How do I get this benefit?
 
 - Your course instructor (or teacher) at your school must agree that you need a tutor and write a letter on your behalf. The instructor should send the letter to your school’s certifying official and add a copy to your VA student file.
 - If your school approves your need for a tutor, it will assign you a tutor and confirm the tutor’s hourly pay.
