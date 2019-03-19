@@ -7,20 +7,15 @@ hidesidenav: true
 banner:
   title: Make sure you’re on the right page
   content: >
-    <p>
-      You'll need to follow a different process depending on which form you’re filling out to request a hearing.
-      It's very important to follow the right process.
-    </p>
+   <p>
+      <strong>If you’re requesting a Board Appeal using VA Form 10182 and you want a hearing</strong>
+      Keep reading below to learn how to request and prepare for a hearing.
+   </p>
 
-    <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 10182,</strong> you’re following the decision
-      review request process and you’re on the right page here. Keep reading below to learn how to request and prepare for a hearing.
-    </p>
-
-    <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 9,</strong> you’ll need to go to a different page to get the right information.
-      <a href="/disability/file-an-appeal/">Go to Hearings with a Veterans Law Judge for Disability Compensation Appeals</a>
-    </p>
+   <p>
+      <strong>If you’re requesting a Board Appeal using VA Form 9 and you want a hearing</strong>
+      <a href="/disability/file-an-appeal/">Go to Board Hearings for Disability Compensation Appeals</a>
+   </p>
 
 ---
 
