@@ -7,25 +7,29 @@ description:
 concurrence:
 order: 4
 relatedlinks:
-  - heading: Loan options
+  - heading: Loan options and other helpful information
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
       title: Purchase loan
       description: Looking to buy a home? Find out if you can get a VA-backed purchase loan and get better terms than with a private lender loan.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
       title: Native American Direct Loan (NADL) Program
-      description: Are you a Native American Veteran or a Veteran married to a Native American? Find out if you can get a loan through our NADL program to buy, build, or improve a home on Federal Trust Land.
+      description: Are you or your Veteran spouse Native American? Find out if you can get a loan through our NADL program to buy, build, or improve a home on Federal Trust Land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest rate reduction refinance loan (IRRRL)
       description: Have an existing VA home loan? Find out if you can get a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-out refinance Loan
-      description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.
+      description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.  
+    - url: /housing-assistance/home-loans/trouble-making-payments/
+      title: Having trouble making payments on a VA-baced mortgage?
+      description: Find out how we can help you avoid foreclosure and keep your house. 
+      
 ---
 
 <div class="va-introtext">
 
-To get a VA direct or VA-backed home loan as the spouse of a Veteran, you’ll need a certificate of eligibility (COE) to show your lender that you qualify for this benefit based on your service history and duty status. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
+To get a VA direct or VA-backed home loan as the surviving spouse of a Veteran, you’ll need a certificate of eligibility (COE) to show your lender that you qualify for this benefit based on your service history and duty status. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 
 </div>
 
