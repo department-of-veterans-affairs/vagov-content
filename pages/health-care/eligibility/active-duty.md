@@ -16,7 +16,7 @@ relatedlinks:
       description: Learn how VA health care works and which Veterans health care services we cover.
     - url: /health-care/health-needs-conditions/mental-health/
       title: VA mental health services
-      description: Learn how to get started with VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. 
+      description: Learn how to get started with VA mental health services for posttraumatic stress disorder (PTSD), the psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs. 
     - url: /health-care/health-needs-conditions/health-issues-related-to-service-era/
       title: Health issues related to service history
       description: Find out which health concerns you should be aware of depending on when and where you served.
@@ -32,8 +32,8 @@ If you're serving on active duty, including as a returning OEF/OIF/OND service m
 </div>
 
 <h3>On this page</h3>
-- [Eligibility for health benefits after separation or retirement](#eligibility)
-- [Questions about getting started with VA health care](#starting)
+- [Eligibility for health care after separation or retirement](#eligibility)
+- [Getting started with VA health care](#starting)
 
 <div class="usa-alert usa-alert-info">
 <div class="usa-alert-body">
@@ -64,7 +64,7 @@ You don’t need to be enrolled in VA health care to get care.
 </div>
 
 <span id="eligibility"></span>
-<h2>Eligibility for health care after separate or retirement</h2>
+<h2>Eligibility for health care after separation or retirement</h2>
 
 Your eligibility for VA health care and other health care coverage depends on your service history and other factors. Learn more about what health benefits you may qualify for and how to apply if you're:
 - [Returning from OEF/OIF/OND combat](#oef-oif-ond)
@@ -75,10 +75,10 @@ Your eligibility for VA health care and other health care coverage depends on yo
 <span id="oef-oif-ond"></span>
 <h3>If you're returning from OEF/OIF/OND combat</h3>
 
-You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operating Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is your called an enhanced eligibility period.
+You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operation Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is called an enhanced eligibility period.
 
 <h4>We encourage you to apply right away</h4> 
-If you wait to apply for VA health care after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
+If you wait to apply for VA health care until after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
 [Find out how to apply for VA health care](/health-care/apply)
 
 <div class="usa-accordion">
@@ -96,7 +96,7 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 
 <b>We'll use the documents listed below to determine your service in a theater of combat operations:</b>
 - Military service documentation that reflects service in a combat theater, <b>or</b>
-- Receipt of combat service medicals, <b>or</b>
+- Receipt of combat service medals, <b>or</b>
 - Receipt of combat tax exemption, imminent danger, or hostile fire pay
 
 </div>
@@ -107,12 +107,12 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 
 <b>If you qualify for enhanced eligibility as an OEF/OIF/OND combat Veteran:</b>
 - <b>We'll enroll you right away.</b> We'll assign you to priority group 6, unless you qualify for a higher priority group based on your income or a service-connected disability. <br>
-[Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
+[Learn more about priority groups](/health-care/eligibility/#priority-groups)
 - <b>You'll receive free care and medications for any condition that may be related to your combat service.</b> You may need to pay copays for care and medications that we determine are clearly not related to your military service, but you can submit your income as part of your application to apply for a copay exemption. <br>
 [Learn more about how we determine your health care costs](https://www.va.gov/HEALTHBENEFITS/cost/index.asp) <br>
 [View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copays.asp)
 - <b>You'll stay enrolled in VA health care even after your OEF/OIF/OND enhanced eligibility period ends.</b> We’ll reassign you to the highest priority group you qualify for at that time. <br>
-[Learn more about priority groups](https://www.va.gov/health-care/eligibility/#priority-groups)
+[Learn more about priority groups](/health-care/eligibility/#priority-groups)
 
 </div>
 </li>
@@ -120,7 +120,7 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="dental">Eligibility for VA dental care</button>
 <div id="dental" class="usa-accordion-content">
 
-You may be eligible for one-time dental care for any needed conditions. You'll need to apply within 180 days of discharge or separation. You may also qualify for VA dental care based on other factors. <br>
+You may be eligible for one-time dental care for any needed conditions. Be sure to apply within 180 days of discharge or separation. You may also qualify for VA dental care based on other factors. <br>
 [Find out if you may be eligible for VA dental care](/health-care/about-va-health-benefits/dental-care/)
 
 </div>
@@ -138,15 +138,15 @@ You may be eligible for VA health care for all or some of your health care needs
 You and your family may also qualify for temporary health coverage through the Department of Defense's TRICARE program. If you're a member of the National Guard and Reserve, your coverage options will depend on your military status before you separate. You'll have 90 days from your separation date to change your health plan.
 
 Learn more about how to enroll for temporary coverage after separation. <br>
-[Go to the TRICARE website page on separating](https://tricare.mil/LifeEvents/Separating)
+[Go to the TRICARE website page about separating](https://tricare.mil/LifeEvents/Separating)
 
 <span id="retiring"></span>
 <h3>If you're retiring from active duty</h3>
 
-You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 after your retirement date even if you're already enrolled in TRICARE on active duty.
+You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 days after your retirement date even if you're already enrolled in TRICARE on active duty.
 
 Learn more about how to enroll in TRICARE as a military retiree. <br>
-[Go to the TRICARE website page on retiring](https://tricare.mil/LifeEvents/Retiring)
+[Go to the TRICARE website page about retiring](https://tricare.mil/LifeEvents/Retiring)
 
 You may also be eligible for certain VA health care benefits. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
@@ -155,11 +155,11 @@ You may also be eligible for certain VA health care benefits. <br>
 <span id="medically-retired"></span>
 <h3>If you're being medically retired from active duty</h3>
 
-You may be eligible to receive care for any service-connected disabilities through VA. You may also qualify to receive all other care through TRICARE. Your eligible family members may also qualify for care through TRICARE. 
+You may be eligible to receive care through VA for any service-connected disabilities. You may also qualify to receive all other care through TRICARE. Your eligible family members may also qualify for care through TRICARE. 
 
 To learn more about your options, talk with a VA benefits counselor. Your counselor will help you determine what your military and VA medical board ratings mean and how they affect your options. Your counselor will also help you apply for benefits.
 
-Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-877-8387</a>) to connect with a benefits counselor.  If you have hearing loss, call TTY: 1-800-877-8339. We're Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
+Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-877-8387</a>) to connect with a benefits counselor.  If you have hearing loss, call TTY: 1-800-877-8339. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
 [Find a VA medical center near you](/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType)
 
 ------
@@ -177,7 +177,7 @@ Yes. You can apply as soon as you’ve received your separation or retirement pa
 
 - You need emergency or urgent care. We'll provide care first, and then get TRICARE authorization for care once we've stabilized your health. <br>
 - You need routine care and you have a valid TRICARE referral or authorization.
-- The VA health facility you're visiting has a VA/DOD sharing agreement that allows us to provide care without referrals. For more information about this, please contact your local military hospital or clinic (also called a military treatment facility) or TRICARE office. <br>
+- The VA health facility you're visiting has a VA/DoD sharing agreement that allows us to provide care without referrals. For more information about this, please contact your local military hospital or clinic (also called a military treatment facility) or TRICARE office. <br>
 [Find a military treatment facility](https://tricare.mil/) <br>
 [Contact TRICARE](https://tricare.mil/ContactUs)
 
