@@ -109,7 +109,7 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 If you want a video conference hearing with a Veterans Law Judge at a nearby VA location, choose a Hearing Request. 
 
 At your hearing, you and a Veterans Law Judge will have a conversation, and they’ll ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file. <br>
-[Learn more about what happens at a hearing](/decision-reviews/board-appeal/veterans-law-judge-hearing/).
+[Learn more about hearings and how to request one](/decision-reviews/board-appeal/veterans-law-judge-hearing/).
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
