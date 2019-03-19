@@ -9,19 +9,6 @@ template: detail-page
 order: 1
 aliases:
   - /disability-benefits/claims-appeal/hearings/
-
-banner:
-  title: Make sure you’re on the right page
-  content: >
-      <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 9 and you want a hearing</strong>
-      Keep reading below to learn how to request and prepare for a hearing.
-    </p>
-    <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 10182 and you want a hearing</strong>
-      <a href="/decision-reviews/board-appeal/veterans-law-judge-hearing/">Go to Board Hearings in the Decision Review Process</a>
-    </p>
-
 ---
 
 <div class="va-introtext">
