@@ -32,7 +32,7 @@ crosslinks:
       title: <b>Jobs for Veterans</b>
       description: Get help from the U.S. Department of Labor to find a job, get training, or explore career options.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
       - subhead: Message us
         links:
@@ -61,7 +61,7 @@ social:
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits email updates
@@ -128,7 +128,7 @@ hublinks:
         for the Post-9/11 GI Bill, see if you're eligible for other VA education benefits.
       external: false
   - id: manage
-    title: Manage Your Veterans Education Benefits
+    title: Manage your Veterans education benefits
     links:
     - url: "/va-payment-history/"
       label: View your VA payment history
@@ -226,7 +226,7 @@ hublinks:
 VA education benefits help Veterans, service members, and their qualified family members with needs like paying college tuition, finding the right school or training program, and getting career counseling. Learn how to apply for and manage the education and training benefits you've earned.
 </p>
 
-<h2>On This Page</h2>
+<h2>On this page</h2>
 
 <ul>
   <li><a href="#get">Get GI Bill and other education benefits</a></li>
