@@ -72,7 +72,6 @@ This depends on the type of claim you’re filing.<br>
 [See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/) <br>
 
 
-
 ## When do I need to turn in my evidence to support my standard claim?
 
 You’ll need to turn in the information and evidence as soon as you can.
