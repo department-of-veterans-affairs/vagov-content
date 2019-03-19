@@ -84,7 +84,7 @@ Note that this will change August 1, 2020. In this example, 90 days of active se
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Do these benefits expire?</h3>
+<h2 itemprop="name">Do these benefits expire?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
