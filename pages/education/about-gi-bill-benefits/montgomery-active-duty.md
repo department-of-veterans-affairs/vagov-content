@@ -25,7 +25,7 @@ You can get education benefits through this program if you were honorably discha
 
 <div class="feature" markdown="1">
 
-#### CATEGORY I
+#### Category I
 
 **All of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
@@ -41,7 +41,7 @@ You can get education benefits through this program if you were honorably discha
 
 <div class="feature" markdown="1">
 
-#### CATEGORY II
+#### Category II
 
 **All of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
@@ -53,7 +53,7 @@ You can get education benefits through this program if you were honorably discha
 
 <div class="feature" markdown="1">
 
-#### CATEGORY III
+#### Category III
 
 **All of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
@@ -69,7 +69,7 @@ You can get education benefits through this program if you were honorably discha
 
 <div class="feature" markdown="1">
 
-#### CATEGORY IV
+#### Category IV
 
 **Both of these are true. You:**
 -	Have a high school diploma, GED, or 12 hours of college credit, **and**
