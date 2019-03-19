@@ -4,19 +4,6 @@ template: detail-page
 title: Board Hearings in the Decision Review Process
 display_title: Board Hearings in the Decision Review Process
 hidesidenav: true
-banner:
-  title: Make sure you’re on the right page
-  content: >
-   <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 10182 and you want a hearing</strong>
-      Keep reading below to learn how to request and prepare for a hearing.
-   </p>
-
-   <p>
-      <strong>If you’re requesting a Board Appeal using VA Form 9 and you want a hearing</strong>
-      <a href="/disability/file-an-appeal/">Go to Board Hearings for Disability Compensation Appeals</a>
-   </p>
-
 ---
 
 <br>
