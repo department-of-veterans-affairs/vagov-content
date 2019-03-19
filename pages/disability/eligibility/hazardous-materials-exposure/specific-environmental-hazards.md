@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Specific Environmental Hazards
+title: Exposure to Specific Environmental Hazards  | Veterans Affairs
+heading: Exposure to Specific Environmental Hazards
 display_title: Specific Environmental Hazards
 description: Learn about VA disability compensation for illnesses related to environmental hazards. Find out which hazards you may have come in contact with during military service, and how to file a claim for compensation.
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
