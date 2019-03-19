@@ -143,7 +143,7 @@ We can help you make this decision. Call us at 888-GI-BILL-1 (<a href="tel:+1888
 Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
 [Ask a question online](http://gibill.custhelp.com/). <br>
 
-Or call us at 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+Or call us at 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. If you have hearing loss, call TTY: 711.
 
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase.<br>
