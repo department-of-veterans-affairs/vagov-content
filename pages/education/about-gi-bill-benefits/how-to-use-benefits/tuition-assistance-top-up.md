@@ -29,13 +29,13 @@ You can get tuition assistance if you’re approved for federal TA and you meet 
 Veterans
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 You can get more tuition funding to cover the difference between the full cost of a college course and the amount covered under active-duty TA for up to 36 months.
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to apply. <br>
 [Apply for benefits](/education/how-to-apply/).
@@ -51,6 +51,6 @@ If you’re using the Montgomery GI Bill, you’ll get the difference between th
 
 **Exception:** In no case will the combined amount paid by DoD and VA be more than the total cost of the course.
 
-### Get more information
+## Get more information
 
 [Read the Top-Up fact sheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/topup.pdf).
