@@ -19,7 +19,7 @@
 #   '
 #
 
-visible: false
+visible: true
 type: warning
 title: Important Note for Veterans and VA Employees
 content: '
