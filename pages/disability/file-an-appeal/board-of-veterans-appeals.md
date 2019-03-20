@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Board Hearings for Disability Compensation Appeals
-display_title: Board Hearings for Disability Compensation Appeals
+display_title: Board Hearings for Compensation Appeals
 description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your Board hearing, and learn what to expect at the hearing.
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
@@ -23,7 +23,7 @@ You can request a hearing with a Veterans Law Judge using the Appeal to Board of
     <p><b>If you’re requesting a Board Appeal using VA Form 9</b><br>
      Keep reading below to learn how to request and prepare for a hearing.
 </p>
-    <p><b>If you’re requesting a Board Appeal using VA Form 10182 and you want a hearing</b><br>
+    <p><b>If you’re requesting a Board Appeal using VA Form 10182</b><br>
 <a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">Go to Board Hearings in the Decision Review Process</a></p>
   </div>
 </div>
