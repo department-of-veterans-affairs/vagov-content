@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Ionizing Radiation Exposure
+title: Radiation Exposure | Veterans Affairs
+heading: Ionizing Radiation Exposure
 display_title: Radiation Exposure
 description: Find out if you can get VA disability pay and health care for illnesses linked to ionizing radiation exposure during military service. Illnesses include some cancers. You may have had contact with ionizing radiation if you served in certain roles or locations or were part of nuclear weapons testing.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-environmental_hazards.asp,http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
@@ -13,24 +14,24 @@ order: 6
 
 <div class="va-introtext">
 
-Find out if you can get disability compensation or benefits for illnesses—including some cancers—believed to be caused by contact with radiation during military service. 
+Find out if you can get disability compensation or benefits for illnesses—including some cancers—believed to be caused by ionizing radiation exposure during military service.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you didn’t receive a dishonorable discharge and you meet the requirements listed below. 
 
 **Both of these must be true:**
-- You have an illness that's on our list of illnesses believed to be caused by radiation or that doctors say may be caused by radiation, **and**
+- You have an illness that's on our list of illnesses believed to be caused by radiation exposure or that doctors say may be caused by radiation, **and**
 - Your illness started within a certain period of time (as shown along with the list of illnesses)
 
 [See the list of radiation-related illnesses](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=38:1.0.1.1.4#se38.1.3_1309).
 
-**And you must have had contact with ionizing radiation in one of these ways while serving in the military. You:**
+**And you must have had ionizing radiation exposure in one of these ways while serving in the military. You:**
 
 - Were part of atmospheric nuclear weapons testing, **or**
 - Served in the postwar occupation of Hiroshima or Nagasaki, **or**
@@ -63,7 +64,7 @@ Veterans
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
-- Medical records showing that you've been diagnosed with one of the illnesses on our list of those believed to be caused by radiation—or that your doctor states may be caused by radiation exposure, **and**
+- Medical records showing that you've been diagnosed with one of the illnesses on our list of those believed to be caused by radiation exposure—or that your doctor states may be caused by radiation exposure, **and**
 - Service records showing that you were part of one of the radiation risk activities described above
 
 **Note:** When you file your claim, we’ll ask the military branch that you served with (or the Defense Threat Reduction Agency) to give us a range of how much radiation they think you may have come into contact with. We’ll use the highest level of the range they report to decide on your benefits.
