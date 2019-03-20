@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Automobile Allowance and Adaptive Equipment
+title: Automobile Allowance and Adaptive Equipment | Veterans Affairs
+heading: VA Automobile Allowance and Adaptive Equipment
 display_title: Auto Allowance and Adaptive Equipment
 description: Find out if you can get a VA automobile allowance if you're a Veteran living with a service-connected disability that prevents you from driving. Our automotive adaptive-equipment grants can help you buy or update a vehicle with special features that enable you to drive. Learn how to file a claim.
 concurrence: incomplete
@@ -13,14 +14,14 @@ aliases:
 
 <div class="va-introtext">
 
-Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get disability compensation or benefits. 
+Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get a VA automobile allowance or other disability compensation or benefits.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you have a disability that’s related to your service (called a service-connected disability) and that includes at least one of the below conditions.
 
@@ -40,7 +41,7 @@ You may be able to get disability benefits if you have a disability that’s rel
 
 ### What kind of disability benefits can I get?
 
-- A one-time payment of not more than $21,058.69 to help you buy a specially equipped vehicle
+- A VA automobile allowance may include a one-time payment of not more than $21,058.69 to help you buy a specially equipped vehicle
 - In some situations, one or more adaptive-equipment grants to change a vehicle so it has features like power steering, brakes, seats, windows, or lift equipment to help you get into and out of the vehicle
 <br>
 
@@ -60,7 +61,7 @@ When you file, you’ll need to show that your disability is service connected o
 [View the current payment rates](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2017.asp).
 
 #### For the one-time payment to help you buy a specially equipped vehicle 
-- You’ll need to fill out an Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502). <br>
+- You’ll need to fill out an Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502) in order to receive a VA automobile allowance. <br>
 [Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). 
 - We’ll pay the vehicle’s seller directly. 
 
