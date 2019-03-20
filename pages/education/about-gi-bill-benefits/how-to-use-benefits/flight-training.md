@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Flight Training
+title: Flight training
 order: 9
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -87,7 +87,7 @@ You can get qualifications, including:
 -----
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">How do I get these benefits?</h3>
+<h2 itemprop="name">How do I get these benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
