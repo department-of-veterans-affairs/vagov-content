@@ -48,7 +48,7 @@ Find out how to view your payment history for VA benefits.
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h2>When to Expect Payments</h2>
 
 <div aria-live="polite" role="alert" class="usa-alert usa-alert-info">
@@ -73,7 +73,7 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h2>How to Change Your Information</h2>
 
 <h3 itemprop="name">What should I do if I need to change my direct deposit or contact information?</h3>
@@ -100,7 +100,7 @@ Yes. It’s important to update your information with us if you change your mari
 <a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
 
 <b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
-<a href="/disability-benefits/apply/form-526-disability-claim/">File for a VA disability increase</a>.
+<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
 
 </div>
 </div>
