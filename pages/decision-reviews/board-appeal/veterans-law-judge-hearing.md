@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Board Hearings in the Decision Review Process
-display_title: Board Hearings in the Decision Review Process
+display_title: Board Hearings for Decision Reviews
 hidesidenav: true
 ---
 
@@ -17,7 +17,7 @@ You can request a hearing with a Veterans Law Judge at the Board of Veterans' Ap
     <p><b>If you’re requesting a Board Appeal using VA Form 10182</b><br>
      Keep reading below to learn how to request and prepare for a hearing in the decision review process.
 </p>
-    <p><b>If you’re requesting a Board Appeal using VA Form 9 and you want a hearing</b><br>
+    <p><b>If you’re requesting a Board Appeal using VA Form 9</b><br>
 <a href="/disability/file-an-appeal/board-of-veterans-appeals">Go to Board Hearings for Disability Compensation Appeals</a></p>
   </div>
 </div>
