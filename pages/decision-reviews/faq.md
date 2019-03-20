@@ -17,7 +17,7 @@ Learn more about the review options and how to request a review. If you need hel
 - [What should I expect if I request a call with a senior reviewer?](#higher-level-review)
 - [What should I expect if I request a hearing with a Veterans Law Judge?](#request-hearing)
 - [What if I want to change my review option after submitting a form?](#change-review)
-- [How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?](opt-in-to-modernized-system)
+- [How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?](#opt-in-to-modernized-system)
 
 
 <section class="usa-grid usa-grid-full">
