@@ -40,7 +40,7 @@ Check our list of military units and Air Force Specialty codes to see if your un
 
 #### For Reservists
 
-You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange C-123 aircraft exposure and you were assigned to flight, ground, or medical crew duties at one of the below locations.
+You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange exposure and you were assigned to flight, ground, or medical crew duties at one of the below locations.
 
 **You must have been assigned to one of these locations:**
 
