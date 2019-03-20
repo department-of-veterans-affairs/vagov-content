@@ -1,7 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure While Serving outside Vietnam or Korea
+title: Service Outside Vietnam or Korea | Veterans Affairs 
+heading: Agent Orange Exposure While Serving outside Vietnam or Korea
 display_title: Service outside Vietnam or Korea
+description: If you served in the military during the Vietnam Era or in certain related jobs, you may have had contact with Agent Orange even if you didn't serve in Vietnam or Korea. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -18,7 +20,7 @@ You may have had contact with Agent Orange even if you did not serve in Vietnam 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you have one or more illnesses believed to have been caused by Agent Orange and you meet any of the requirements listed below.
 
