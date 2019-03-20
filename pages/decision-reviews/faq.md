@@ -84,7 +84,7 @@ If you requested a Board Appeal and want to switch to a different appeal option,
   
 ## How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?
 
-If you disagree with a VA decision you received before February 19, 2019, you can opt in to the modernized review system after you've received a VA Statement of the Case (SOC) or Supplemental Statement of the Case (SSOC). To get either a SOC or an SSOC, you must file a Notice of Disagreement (VA Form 21-0958) within 1 year of the date on your decision. 
+If you disagree with a VA decision you received before February 19, 2019, you can opt in to the modernized review system after you've received a VA Statement of the Case (SOC) or Supplemental Statement of the Case (SSOC). To get either a SOC or an SSOC, you must file a Notice of Disagreement (VA Form 21-0958) within 1 year of the date on your decision. <br>
 [Find out how to file a Notice of Disagreement](/disability/file-an-appeal).
 
 After you receive either a SOC or an SSOC on the issue(s) in your Notice of Disagreement, you have 60 days or the remainder of the 1-year period following the decision you appealed, whichever is later, to opt in to the modernized system by submitting one of the following forms (and checking the SOC/SSOC opt-in box):
