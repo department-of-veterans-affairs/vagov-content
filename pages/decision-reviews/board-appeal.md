@@ -43,6 +43,7 @@ This option will take longer.
 ### Can I request a hearing?
 You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you.
 
+This option will take longer.
 
 <span id="what-happens-at-hearing"></span>
 ### What happens at a hearing?
@@ -51,9 +52,6 @@ You and the judge will have a conversation. The judge will listen to your testim
 <br>
 
 The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
-<br>
-
-This option will take longer.
 
 
 ### How do I request a Board Appeal?
