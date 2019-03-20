@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Disability Benefits for Former Prisoners of War (POWs)
+title: Benefits for Prisoners of War (POWs) | Veterans Affairs
+heading: Disability Benefits for Former Prisoners of War (POWs)
 display_title: Former POWs
 description: Learn about VA disability compensation and other benefits for former Prisoners of War (POWs). Learn which conditions these benefits cover and how to file your claim.
 concurrence: complete
@@ -21,7 +22,7 @@ Are you a former POW now living with a disability? Find out if you can get disab
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 You may be able to get disability benefits if you have a current illness or injury (known as a condition) that affects your body or mind and both of the assessments listed below are true for you.
 
 **Both of these must be true:**
