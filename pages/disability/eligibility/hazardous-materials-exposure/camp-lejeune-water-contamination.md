@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Health Issues Related to Camp Lejeune Water Contamination
+title: Contact with Camp Lejeune Drinking Water | Veterans Affairs
+heading: Health Issues Related to Camp Lejeune Water Contamination
 display_title: Camp Lejeune Water Contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
@@ -12,14 +13,14 @@ order: 5
 
 <div class="va-introtext">
 
-If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCAS) New River in North Carolina, you may have had contact with contaminants in the drinking water there. Scientific and medical evidence has shown an association between exposure to these contaminants during military service and development of certain diseases later on. If you have qualifying service at Camp Lejeune and a current diagnosis of one of the conditions listed below, you may be able to get disability benefits.
+If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCAS) New River in North Carolina, you may have had contact with contaminants in the drinking water there. Scientific and medical evidence has shown an association between exposure to Camp Lejeune water contaminants during military service and development of certain diseases later on. If you have qualifying service at Camp Lejeune and a current diagnosis of one of the conditions listed below, you may be able to get disability benefits.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you meet all of the requirements listed below.
 
