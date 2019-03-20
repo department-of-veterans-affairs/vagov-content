@@ -101,10 +101,10 @@ hublinks:
         description: Register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability, you may qualify for added benefits as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/pension/eligibility/"
         label: Veterans Pension program
-        description: If you served on active duty during wartime, are at least 65 years old or have a service-connected disability, and have limited or no income, find out if you qualify for a Veterans pension. <br> <b>Open to active-duty service members only</b>
+        description: If you served on active duty during wartime, are at least 65 years old or have a service-connected disability, and have limited or no income, find out if you qualify for Veterans pension benefits. <br> <b>Open to active-duty service members only</b>
       - url: "/pension/aid-attendance-housebound/"
         label: Aid and attendance or housebound allowance
-        description: If you need help with your daily activities or you’re housebound, check whether you're eligible to have increased aid added to your monthly Veterans pension. <br> <b>Open to active-duty service members only</b>
+        description: If you need help with your daily activities or you’re housebound, check whether you're eligible to have increased aid added to your monthly Veterans pension payments. <br> <b>Open to active-duty service members only</b>
       - url: "/housing-assistance/disability-housing-grants/"
         label: Disability housing grants
         description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home so you can live more independently. <br> <b>Open to active-duty, traditional, and technical service members</b>
