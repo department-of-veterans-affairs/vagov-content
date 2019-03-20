@@ -1,8 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illness Linked to Service in Southwest Asia
+title: Gulf War Illness | Veterans Affairs
+heading: Gulf War Illness Linked to Service in Southwest Asia
 display_title: Gulf War Illness SW Asia
-description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Southwest Asia (often called "Gulf War Syndrome"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
+description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Southwest Asia (often called "Gulf War Syndrome"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim. 
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-gulfwar.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -14,7 +15,7 @@ order: 8
 
 <div class="va-introtext">
 
-If you served in the Southwest Asia theater of military operations, you may suffer from illnesses or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
+If you served in the Southwest Asia theater of military operations, you may have Gulf War illness (also sometimes called Gulf War syndrome) or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
 
 [Learn about service in Afghanistan and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/).  
 
@@ -22,9 +23,9 @@ If you served in the Southwest Asia theater of military operations, you may suff
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you served in the Southwest Asia theater of military operations during the Gulf War period and you didn't receive a dishonorable discharge. Your illness or condition must also meet the requirements listed below, and you must have one of the diagnoses listed below.
+You may be able to get disability benefits if you served in the Southwest Asia theater of military operations during the Gulf War period, have Gulf War illness, and you didn't receive a dishonorable discharge. Your illness or condition must also meet the requirements listed below, and you must have one of the diagnoses listed below.
 
 **All of these must be true of your chronic illness or other condition. It:**
 -	Started while you were on active duty or before December 31, 2016, **and**
