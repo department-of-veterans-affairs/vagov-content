@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Work Study
+title: Work study
 concurrence: incomplete
 order: 11
 aliases:
