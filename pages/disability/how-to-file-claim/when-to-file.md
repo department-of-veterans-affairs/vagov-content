@@ -132,7 +132,7 @@ You can file a supplemental claim if you meet all of the requirements listed bel
 
 For example, you might file a supplemental claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Learn more about supplemental claims](/decision-reviews/supplemental-claim/).
 
 </div>
 </li>
