@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Disability Compensation for Posttraumatic Stress Disorder (PTSD)
+title: Posttraumatic Stress Disorder (PTSD) | Veterans Affairs 
+heading: VA Disability Compensation for Posttraumatic Stress Disorder (PTSD)
 display_title: PTSD
 description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PSTD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
 concurrence: complete
@@ -48,9 +49,9 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 
 <span id="ptsd-disability-eligibility"></span>
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you have symptoms related to a traumatic event (the “stressor”) or your experience with the stressor is related to the PTSD symptoms, and you meet all of the requirements listed below. 
+You may be able to get PTSD disability benefits if you have symptoms related to a traumatic event (the “stressor”) or your experience with the stressor is related to the PTSD symptoms, and you meet all of the requirements listed below. 
 
 **All of these must be true:**
 - The stressor happened during your service, **and**
