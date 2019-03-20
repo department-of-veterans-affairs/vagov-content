@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: On-the-Job Training and Apprenticeships
-display_title: On-the-Job Training
+title: On-the-job training and apprenticeships
+display_title: On-the-job training
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 13
@@ -41,7 +41,7 @@ You can get benefits if you qualify for the GI Bill and want to work in an indus
  - Children getting transferred benefits under the Post-9/11 GI Bill (also called chapter 33)
 
 **Exception:**
-You can’t get OJT if you’re an active-duty Servicemember or a spouse using a transferred benefit.
+You can’t get OJT if you’re an active-duty service member or a spouse using a transferred benefit.
 
 </div>
 </div>
@@ -49,7 +49,7 @@ You can’t get OJT if you’re an active-duty Servicemember or a spouse using a
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What benefits can I get?</h3>
+<h2 itemprop="name">What benefits can I get?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -62,7 +62,7 @@ You can’t get OJT if you’re an active-duty Servicemember or a spouse using a
 -----
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">How do I get these benefits?</h3>
+<h2 itemprop="name">How do I get these benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -76,7 +76,7 @@ If you’re a Veteran in an approved program, you can use your GI Bill benefit a
 Your payment depends on which GI Bill program you’re using. <br>
 [View the payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
 
-#### Post-9/11 GI Bill MHA Payment Rates
+### Post-9/11 GI Bill MHA Payment Rates
 You’ll get 100% of your applicable MHA during the first 6 months of training. Then you’ll get this percentage of your MHA until your benefits run out:
 
 - 80% of your applicable MHA during the second 6 months of training
@@ -86,7 +86,7 @@ You’ll get 100% of your applicable MHA during the first 6 months of training. 
 
 **Note:** If you completed at least 90 days, but less than 3 years, of active-duty service after September 10, 2001, your applicable MHA benefit will be lower than the full amount shown in the rate tables. Depending on how long you served, you’ll start with an amount that's between 40% to 90% of the full benefit.
 
-#### All other GI Bill Programs Payment Rates
+### All other GI Bill Programs Payment Rates
 You’ll get this percentage of your GI Bill rate until your benefits run out:
 
 - 75% of the full-time GI Bill rate for the first 6 months of training
