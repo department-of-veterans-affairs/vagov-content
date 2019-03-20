@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for the GI Bill and Other Education Benefits
-display_title: How to Apply
-description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, Servicemember, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
+title: How to apply for the GI Bill and other education benefits
+display_title: How to apply
+description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 collection: education
 spoke: Get Benefits
@@ -15,13 +15,13 @@ relatedlinks:
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
     - url: /careers-employment/education-and-career-counseling/
-      title: Educational and Career Counseling
+      title: Educational and career counseling
       description: If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
     - url: /careers-employment/veteran-owned-business-support/
-      title: Register Your Veteran-Owned Small Business
+      title: Register your Veteran-owned small business
       description: If you have—or want to start—your own business, we can help. Register to do business with VA and get support for your Veteran-owned small business.
     - url: /careers-employment/family-resources/
-      title: Explore Resources for Military and Veteran Family Members
+      title: Explore resources for military and Veteran family members
       description: Find out how the Veterans Employment Center can help spouses and other family members access valuable career resources.
 widgets:
   - root: react-applicationStatus
@@ -34,7 +34,7 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to apply for VA education benefits as a Veteran, Servicemember, or qualified family member.
+Find out how to apply for VA education benefits as a Veteran, service member, or qualified family member.
 
 </div>
 
@@ -42,7 +42,7 @@ Find out how to apply for VA education benefits as a Veteran, Servicemember, or 
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">We’ve started our busy spring enrollment season</h3>
     <div class="usa-alert-text">
-      We process more GI Bill payments during this busy time of year, and we expect to keep up with the increase. But if your monthly payment is delayed, and you’re having trouble paying your bills or meeting your basic needs, please call us at <a href="tel:+18884424551">1-888-442-4551</a>. We’re here Monday through Friday, 7:00 a.m. - 6:00 p.m. (CT).
+      We process more GI Bill payments during this busy time of year, and we expect to keep up with the increase. But if your monthly payment is delayed, and you’re having trouble paying your bills or meeting your basic needs, please call us at <a href="tel:+18884424551">888-442-4551</a>. We’re here Monday through Friday, 7:00 a.m. - 6:00 p.m. CT.
     </div>
   </div>
 </div>
@@ -107,7 +107,7 @@ You can work with a trained professional called an accredited representative to 
 
 [Find out what happens after you apply](/education/after-you-apply/).
 
-You can’t make changes to your application, but if you have questions about VA education benefits, please call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>).
+You can’t make changes to your application, but if you have questions about VA education benefits, please call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
 
 If we’ve asked you for documents, please upload them through the GI Bill website.
 <a class="usa-button-primary" href="https://gibill.custhelp.com/app/home">Go to the GI Bill Website</a>
@@ -117,7 +117,7 @@ If we’ve asked you for documents, please upload them through the GI Bill websi
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">How long does it take VA to make a decision?</h3>
+<h2 itemprop="name">How long does it take VA to make a decision?</h2>
 <div itemprop="itemListElement">
 
 <div class="card information" markdown="0">
