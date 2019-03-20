@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Accelerated Payments for High-Technology Programs
-display_title: High-Tech Programs
+title: Accelerated payments for high-technology programs
+display_title: High-tech programs
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
@@ -105,7 +105,7 @@ These programs are approved only for active-duty GI Bill recipients:
 01.1002 Food Technology and Processing <br>
 01.1099 Food Science and Technology <br>
 
-**01.11 Plant Sciences**
+**01.11 Plant Sciences** <br>
 01.1101 Plant Sciences General <br>
 01.1102 Agronomy and Crop Science <br>
 01.1103 Horticultural Science <br>
