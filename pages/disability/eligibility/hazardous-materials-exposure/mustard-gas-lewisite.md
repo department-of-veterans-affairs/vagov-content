@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Mustard Gas or Lewisite Exposure
+title: Contact with Mustard Gas or Lewisite | Veterans Affairs 
+heading: Mustard Gas or Lewisite Exposure
 display_title: Mustard Gas or Lewisite
 description: Find out if you can get VA disability pay and other benefits for illnesses related to mustard gas or lewisite exposure. You may have had contact with mustard gas or lewisite if you served in certain areas during WW2 or if you participated in biological and chemical testing.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-mustard.asp
@@ -20,9 +21,9 @@ If you had contact with mustard gas (also known as sulfur mustard, yperite, or n
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you have a disability believed to be caused by contact with mustard gas or lewisite and your military record shows you had contact with mustard gas or lewisite.
+You may be able to get disability benefits if you have a disability believed to be caused by mustard gas exposure or lewisite exposure and your military record shows you had contact with 1 of these chemicals.
 
 **If you were in the Army** and served in these places:
 - Bari, Italy
