@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Co-op Training
+title: Co-op training
 concurrence: complete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 12
@@ -33,14 +33,14 @@ Veterans
 </div>
 
 
-### What benefits can I get?
+## What benefits can I get?
 
 - Help paying for tuition
 - Money for books and housing 
 
 -----
 
-### How much will I get if I join a co-op training program?
+## How much will I get if I join a co-op training program?
 
 The amount we cover depends on the benefit you use. <br>
 [View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
