@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Disabilities That Appear within 1 Year after Discharge
+title: Disabilities Appearing 1 Year After Discharge | Veterans Affairs
+heading: Disabilities That Appear within 1 Year after Discharge
 display_title: Illnesses within 1 Year of Discharge
 description: Find out how to apply for VA disability compensation for a condition that started within one year after discharge from active military service. You may be able to get benefits for an illness like high blood pressure, arthritis, or diabetes if your symptoms appear within a year after discharge.
 concurrence: incomplete
@@ -31,16 +32,15 @@ aliases:
 
 <div class="va-introtext">
 
-You may be able to get disability benefits if you have signs of an illness like hypertension (high blood pressure), arthritis, diabetes, or peptic ulcers that started within a year after you were discharged from active military service.
+You may be able to get disability benefits if you have signs of an illness like hypertension (high blood pressure), arthritis, diabetes, or peptic ulcers that started within a year after you were discharged from active military service. Find out how to apply for VA disability compensation or benefits after discharge. 
 
-
-If your symptoms appear within 1 year after discharge—even if they weren’t there while you were serving—we’ll conclude that they’re related to your service. <br>
+If your symptoms appear within 1 year after discharge—even if they weren’t there while you were serving—we’ll conclude that they’re related to your service. 
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get benefits if you have an illness that’s at least 10% disabling that appears within 1 year after discharge and you meet both of the requirements listed below.
 
@@ -64,7 +64,7 @@ Veterans
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
+In order to apply for VA disability compensation or benefits after discharge, you’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
 
 **Your evidence will need to show that both of these are true of your illness:**
 - It's at least 10% disabling. (For example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure.) 
