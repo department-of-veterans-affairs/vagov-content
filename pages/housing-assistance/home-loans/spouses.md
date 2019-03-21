@@ -12,14 +12,11 @@ relatedlinks:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
       title: Purchase loan
       description: Looking to buy a home? Find out if you can get a VA-backed purchase loan and get better terms than with a private lender loan.
-    - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
-      title: Native American Direct Loan (NADL) Program
-      description: Are you or your Veteran spouse Native American? Find out if you can get a loan through our NADL program to buy, build, or improve a home on Federal Trust Land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest rate reduction refinance loan (IRRRL)
       description: Have an existing VA home loan? Find out if you can get a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
-      title: Cash-out refinance Loan
+      title: Cash-out refinance loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.  
     - url: /housing-assistance/home-loans/trouble-making-payments/
       title: Having trouble making payments on a VA-baced mortgage?
@@ -52,35 +49,39 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 </li>
 </ul>
 
-## What information will I need to apply for my COE?
+## How do I apply for a COE?
 
-You'll need the Veteran's discharge documents (DD214 or equivalent). <br>
+This depends on whether or not you're receiving Dependency & Indemnity Compensation (DIC).
 
-**If you’re receiving Dependency & Indemnity Compensation (DIC)**, you’ll also need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817).<br>
-  <a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a>. <br>
+### If you’re receiving DIC benefits
 
-**Or if you’re not receiving DIC benefits**, you’ll need to fill out and send these documents:<br>
-- An Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**<br>
+You’ll need to fill out a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a>. <br>
+
+You'll also need the Veteran's DD214 (or other separation papers) if available. <br>
+[Get military service records online](https://www.archives.gov/veterans/military-service-records)
+
+<b>Submit the form and discharge or separation papers to:</b>
+- Your lender for processing online through our Web LGY system, <b>or</b>
+- The VA regional loan center that serves your state <br>
+[Find a VA regional loan center](/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
+
+
+### If you’re not receiving DIC benefits
+
+You’ll first need to fill out an Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>.
+
+<b>You'll also need:</b>
+- The Veteran's DD214 (or other separation papers) if available, **and**
 - A copy of your marriage license, **and**
 - The Veteran’s death certificate
 
-## How do I apply for my COE?
+[Get military service records online](https://www.archives.gov/veterans/military-service-records)
 
-You can apply online right now.
-
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to Apply</a>
-
-### You can also apply:
-
-#### Through our Web LGY system
-In some cases, you can get your COE through your lender using our Web LGY system. Ask your lender about this option.
-
-#### By mail
-To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and mail it to the address listed on the form. Please keep in mind that this may take longer than applying online or through our Web LGY system. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf).
+Submit the form and documents to the VA pension management center that serves your state. <br>
+[Find a VA pension management center](/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550)
 
 ## Next steps for getting a VA direct or VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender. For most loans, a private bank or mortgage company will be your lender. For the Native American Direct Loan, we’ll be your lender.
-
+Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender. For most loans, a private bank or mortgage company will be your lender.
