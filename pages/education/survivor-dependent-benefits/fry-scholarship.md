@@ -11,7 +11,7 @@ aliases:
 
 <div class="va-introtext">
 
-If your parent or spouse was an active-duty Servicemember who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). Find out if you can get benefits through this scholarship.
+If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). Find out if you can get benefits through this scholarship.
 
 </div>
 
@@ -19,9 +19,9 @@ If your parent or spouse was an active-duty Servicemember who died in the line o
 
 ### Can I get Fry Scholarship benefits?
 
-You may be able to get benefits under the Fry Scholarship if you’re the child or surviving spouse of an active-duty Servicemember who died in the line of duty on or after September 11, 2001.
+You may be able to get benefits under the Fry Scholarship if you’re the child or surviving spouse of an active-duty service member who died in the line of duty on or after September 11, 2001.
 
-#### As the child of a Servicemember
+#### As the child of a service member
 
 - You can be married or unmarried.
 - **If you turned 18 or graduated from high school before January 1, 2013,** you can get a Fry Scholarship until you're 33 years old.
@@ -32,14 +32,14 @@ You may be able to get benefits under the Fry Scholarship if you’re the child 
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 
 
-#### As the spouse of a Servicemember
+#### As the spouse of a service member
 
 - **If you remarry,** you'll no longer be eligible for the Fry Scholarship.
 - You can still get Dependency and Indemnity Compensation (DIC) payments while using the Fry Scholarship.<br>
 [Read about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp).
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 You may be able to get up to 36 months of benefits, including:
 - Money for tuition (full in-state tuition costs at public schools and up to $22,805.34 per year for training at private or out-of-state schools)
 - Money for housing
@@ -49,7 +49,7 @@ You may be able to get up to 36 months of benefits, including:
 -----
 
 ## How do I get a Fry Scholarship?
-
+  
 <ol class="process">
 <li class="process-step list-one">
 
