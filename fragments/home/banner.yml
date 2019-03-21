@@ -5,7 +5,7 @@
 # type: One of the following - info, success, warning, error
 # title: The title of the banner that will be visible to the user
 # content: The actual content of the banner. Because of the format of .yml files, this should start and end with a single quote so that you can write on multiple lines.
-# 
+#
 # ---------------------
 # Example banner
 # ---------------------
@@ -19,9 +19,9 @@
 #   '
 #
 
-visible: false
+visible: true
 type: warning
 title: Important Note for Veterans and VA Employees
 content: '
-    The Department of Veterans Affairs is fully funded for fiscal year 2019 and remains fully operational during the partial government shutdown. 
+    The Department of Veterans Affairs is fully funded for fiscal year 2019 and remains fully operational during the partial government shutdown.
   '
