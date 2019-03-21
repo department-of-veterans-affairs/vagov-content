@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: What to Expect after You Get a Disability Rating
+title: What to Expect After You Get a Rating | Veterans Affairs
+heading: What to Expect after You Get a Disability Rating
 display_title: After You Get a Rating
 description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -13,7 +14,7 @@ order: 2
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-If you got a decision notice from us that confirms your disability rating (the rating that measures the severity of your disability), you may be able to get disability compensation or benefits. Find out what benefits you can get.
+If you received a decision notice from us that confirms your disability rating (the rating that measures the severity of your disability), you may be able to get disability compensation or benefits. Find out what benefits you can get and when you can start receiving them. 
 
 </div>
 
