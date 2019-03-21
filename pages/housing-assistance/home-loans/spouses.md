@@ -39,7 +39,7 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 **At least one of these must be true. The Veteran:**
 
 - Is missing in action, **or**
-- Is a prisoner of war (POW), **or**
+- Is a Prisoner of War (POW), **or**
 - Died while in service or from a service-connected disability and you didn’t remarry, **or**
 - Died while in service or from a service-connected disability and you didn’t remarry before you were 57 years old or before December 16, 2003, **or**
 - Had been totally disabled and then died, but whose disability may not have been the cause of death (in certain situations)
