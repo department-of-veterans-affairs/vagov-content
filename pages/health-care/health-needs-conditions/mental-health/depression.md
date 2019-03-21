@@ -35,7 +35,7 @@ Depression is a serious illness, but this common mental health problem is also h
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
+	<a id="crisis-expander-link" onClick="window.dataLayer.push({event: 'nav-crisis-get-support-247'});">Find out how to get support anytime day or night.</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
 	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
