@@ -63,38 +63,38 @@ crosslinks:
   - links:
     - url: "/health-care/"
       title: <b>VA health care for Veterans</b>
-      description: Health care benefits, and online health management tools, for Veterans with service-connected disabilities or who meet other eligibility requirements.
+      description: Health care benefits and online health management tools for Veterans with service-connected disabilities or who meet other eligibility requirements
     - url: "/disability/"
       title: <b>Disability compensation</b>
-      description: Monthly payments, and online benefit management tools, for conditions related to military service.
+      description: Monthly payments and online benefit management tools for conditions related to military service
     - url: "/pension/how-to-apply/"
-      title: <b>Veterans pension</b>
-      description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements.
+      title: <b>Veterans Pension</b>
+      description: Monthly payments for wartime Veterans with limited or no income who meet certain age and disability requirements
     - url: "/housing-assistance/"
       title: <b>Housing assistance for Veterans and service members</b>
-      description: Home loan programs for Veterans and service members as well as disability housing grants to help Veterans with service-connected disabilities who need to adapt their home to live as independently as possible.
+      description: Home loan programs for Veterans and service members, and disability housing grants to help Veterans with service-connected disabilities make changes to their home so they can live as independently as possible
     - url: "/life-insurance/"
       title: <b>Life insurance</b>
-      description: Life insurance options, and online policy management tools, for Veterans and their families.
+      description: Life insurance options and online policy management tools for Veterans and their families
 hublinks:
   - id: "spouse-dependent"
     title: Benefits for spouses, dependents, and survivors
     links:
       - url: /health-care/family-caregiver-benefits/
         label: Health care
-        description: Find out if you may qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or a program related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Find out if you may qualify for health care through our CHAMPVA program, the Department of Defense's TRICARE program, or one of our programs related to a Veteran's service-connected disability. If you already have health care through VA, learn how to manage your health and benefits. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /education/survivor-dependent-benefits/
         label: Education and training
-        description: Find out if you may be eligible for help with paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. And learn how a Veteran may transfer their unused Post-9/11 GI Bill benefits to you. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Find out if you may be eligible for help paying for school or job training through our Survivors' and Dependents' Education Assistance Program (also called Chapter 35) or the Marine Gunnery Sergeant John David Fry Scholarship. And learn about how a Veteran may transfer their unused Post-9/11 GI Bill benefits to you. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /pension/survivors-pension/
-        label: Survivors pension
+        label: Survivors Pension
         description: If you're the surviving spouse or child of a Veteran with wartime service, find out if you're eligible for monthly pension benefits. <br> <b>For surviving spouse, surviving child</b>
       - url: /housing-assistance/home-loans/spouses/
         label: Home loan programs or financial counseling
         description: Apply for a certificate of eligibility for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed or VA direct loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
       - url: /life-insurance/
         label: Life insurance options, claims, and beneficiary assistance
-        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services, or file a claim in your time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /burials-memorials/pre-need-eligibility/
         label: Pre-need eligibility determination for burial in a VA national cemetery
         description: Apply in advance for eligiblity to be buried in a VA national cemetery. This can help you plan ahead to make the burial process easier for your family in their time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
@@ -121,12 +121,12 @@ hublinks:
         description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active-duty service member who's receiving treatment in a VA health facility far from home.
       - url: https://www.mirecc.va.gov/coaching/
         label: Coaching into Care 
-        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran in readjusting to civilian life, dealing with mental health problems, and finding services through VA or in the community.       
+        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran who's readjusting to civilian life, dealing with mental health problems, or wanting to find services through VA or the community.       
         
 ---
 
 <p class="va-introtext">
-As the spouse or dependent child of a Veteran or service member, you may qualify for certain benefits, like health care, life insurance, or money to help pay for school or training. If you're the survivor of a Veteran or service member, you may qualify for added benefits, including help with burial costs and survivor compensation. If you’re caring for a Veteran with disabilities, you may also qualify for support to help you better care for the Veteran—and for yourself. Find out which benefits you may qualify for and how to access them.
+As the spouse or dependent child of a Veteran or service member, you may qualify for certain benefits, like health care, life insurance, or money to help pay for school or training. As the survivor of a Veteran or service member, you may qualify for added benefits, including help with burial costs and survivor compensation. If you’re caring for a Veteran with disabilities, you may also qualify for support to help you better care for the Veteran—and for yourself. Find out which benefits you may qualify for and how to access them.
 </p>
 
 <h3>On this page</h3>
