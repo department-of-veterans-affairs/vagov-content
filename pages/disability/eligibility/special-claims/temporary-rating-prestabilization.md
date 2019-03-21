@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Temporary Disability Benefits (Prestabilization Rating)
+title: Help for Temporary Disability Needs | Veterans Affairs
+heading: VA Temporary Disability Benefits (Prestabilization Rating)
 display_title: Prestabilization Ratings
 description: Find out if you can get VA temporary disability benefits if you recently ended your active military service and you have a service-connected disability. If you qualify, you'll get what's called a prestabilization rating. This rating will continue for one year after your discharge.
 concurrence: complete
@@ -16,16 +17,16 @@ aliases:
 
 If you recently ended your active military service and you have a disability related to your service (called a service-connected disability), you may be able to get temporary disability compensation or benefits right away.
 
-If you qualify for these benefits, you’ll get what’s called a prestabilization rating. This rating may be 50% or 100%, depending on the severity of your disability. Your prestabilization rating will continue for 1 year after your discharge from active service.
+If you qualify for temporary disability compensation, you’ll get what’s called a prestabilization rating. This rating may be 50% or 100%, depending on the severity of your disability. Your prestabilization rating will continue for 1 year after your discharge from active service. Find out if you can get this benefit.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you recently ended your active military service and you meet both of the requirements listed below. 
+You may be able to get temporary disability compensation if you recently ended your active military service and you meet both of the requirements listed below. 
 
 **Both of these must be true:**
 - You have a severe service-connected disability that is unstable (meaning an illness or injury that will change or hasn’t yet been fully treated), **and**
