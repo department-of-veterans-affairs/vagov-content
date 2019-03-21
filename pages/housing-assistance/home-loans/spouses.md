@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-To get a VA direct or VA-backed home loan as the surviving spouse of a Veteran, you’ll need a certificate of eligibility (COE) to show your lender that you qualify for this benefit based on your service history and duty status. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
+To get a VA direct or VA-backed home loan as the surviving spouse of a Veteran, you’ll need a certificate of eligibility (COE) to show your lender that you qualify for this benefit. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 
 </div>
 
@@ -56,13 +56,13 @@ This depends on whether or not you're receiving Dependency & Indemnity Compensat
 ### If you’re receiving DIC benefits
 
 You’ll need to fill out a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a>. <br>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a> <br>
 
 You'll also need the Veteran's DD214 (or other separation papers) if available. <br>
 [Get military service records online](https://www.archives.gov/veterans/military-service-records)
 
 <b>Submit the form and discharge or separation papers to:</b>
-- Your lender for processing online through our Web LGY system, <b>or</b>
+- Your lender for processing online, <b>or</b>
 - The VA regional loan center that serves your state <br>
 [Find a VA regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
 
@@ -70,7 +70,7 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 ### If you’re not receiving DIC benefits
 
 You’ll first need to fill out an Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>.
+<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>
 
 <b>You'll also need:</b>
 - The Veteran's DD214 (or other separation papers) if available, **and**
