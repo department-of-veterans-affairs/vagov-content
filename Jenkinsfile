@@ -63,12 +63,13 @@ node('vetsgov-general-purpose') {
       def homepageChanged = changedFiles.indexOf('fragments/home/banner.yml') > -1 || changedFiles.indexOf('fragments/home/news.yml') > -1
 
       if (homepageChanged) {
+        def pr = getPullRequest()
         def message = """\
 @channel \
 Pull request opened containing changes to the VA.gov homepage! \
 These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
 Please review, merge, and if necessary, deploy this change as soon as possible. \
-https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls
+https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${pr.getNumber()}
 """
 
         slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
