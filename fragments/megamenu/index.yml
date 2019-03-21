@@ -233,7 +233,7 @@
       fragments:
         columnThree: promotions/burials
       seeAllLink:
-        text: Burials and memorials
+        text: burials and memorials
         href: https://www.va.gov/burials-memorials/
   - title: Records
     links:
