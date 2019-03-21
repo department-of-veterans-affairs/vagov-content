@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: level2-index
 title: VA benefits for service members
-display_title: Benefits for service members
+display_title: Service member benefits
 description: 
 concurrence:
 lastupdate:
