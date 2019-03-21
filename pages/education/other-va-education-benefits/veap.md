@@ -44,7 +44,7 @@ Money for tuition
     <h3>Make sure we've approved your selected program</h3><br>
     If you have questions, we can help you and your school understand the requirements.
     <ul>
-      <li>Call our Education Call Center at <a href="tel:+18884424551">1-888-442-4551</a>. If you have hearing loss, call TTY: 711.</li>
+      <li>Call our Education Call Center at <a href="tel:+18884424551">888-442-4551</a>. If you have hearing loss, call TTY: 711.</li>
       <li>Or go to a VA regional benefit office near you. <br>
         <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a>.</li>
     </ul>
@@ -83,7 +83,7 @@ Money for tuition
 - [Non-college degree programs (technical or vocational courses)](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
 - [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
 - [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+- [Test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
 - [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
 - [Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
 
