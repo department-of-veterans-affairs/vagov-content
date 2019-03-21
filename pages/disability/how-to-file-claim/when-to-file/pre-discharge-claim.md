@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Pre-discharge Claim
+title: Pre-discharge Claim | Veterans Affairs 
+heading: Pre-discharge Claim
 description: If you're on active duty and believe you have a service-connected disability, find out how to file a pre-discharge claim for VA disability benefits. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
 source: http://www.benefits.va.gov/predischarge/index.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
@@ -25,7 +26,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, you can file a claim for disability benefits 180 to 90 days before you leave the military. This may help speed up the claim decision process so you can get your benefits sooner. Find out how to file a claim through the Benefits Delivery at Discharge (BDD) program—and what to do if you have less than 90 days left on active duty.
+If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, you can file a pre-discharge claim for disability benefits 180 to 90 days before you leave the military. This may help speed up the claim decision process so you can get your benefits sooner. Find out how to file a claim through the Benefits Delivery at Discharge (BDD) program—and what to do if you have less than 90 days left on active duty.
 
 </div>
 
@@ -45,7 +46,7 @@ You can use the BDD program if you meet all of the requirements listed below.
 
 ### What if I have less than 90 days left on active duty?
 
-You can't file a BDD claim or add more medical conditions to your initial claim. But you can still begin the process of filing your claim before discharge. <br>
+You can't file a BDD claim or add more medical conditions to your initial claim. But you can still begin the process of filing a pre-discharge claim. <br>
 [Learn how to file a claim less than 90 days before discharge](#ways-to-file).
 
 <br>
