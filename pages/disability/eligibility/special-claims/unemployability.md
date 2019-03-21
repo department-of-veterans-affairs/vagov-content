@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Being Unable to Work (Unemployability)
+title: Being Unable to Work (Unemployability) | Veterans Affairs
 heading: VA Individual Unemployability (Veterans Who Can't Work Due to a Disability)
 display_title: Unemployability
 description: Find out how to file for VA individual unemployability compensation if you're an unemployed Veteran who can't work due to a service-connected disability. With this benefit, you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating.
