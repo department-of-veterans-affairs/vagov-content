@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Claim Exam (C&P Exam)
+title: VA Claim Exam (C&P Exam) | Veterans Affairs
+heading: VA Claim Exam (C&P Exam)
 display_title: VA Claim Exam (C&P Exam)
 description: Get answers to commonly asked questions about the VA claim exam (also called a "VA C&P exam," which stands for "VA Compensation and Pension exam"). Find out how to schedule your exam, what to expect during your appointment, and how long it usually takes to get a decision after your exam.
 order: 3
