@@ -27,8 +27,8 @@ You’ll qualify for this program based on your Veteran’s qualifications. You 
 - Needs personal care services because they can’t perform one or more activities of daily living **and/or** needs supervision or protection based on symptoms of lasting neurological damage or injury
 
 Answer a few questions to find out if you meet the criteria for this program. <br>
-[Find out if you qualify and download an application](https://www.va.gov/healthbenefits/resources/Caregiver_Eligibility_Check.asp).<br>
-[Download our fact sheet for more eligibility information](https://www.caregiver.va.gov/pdfs/PCAFC%20Eligibility%20Fact%20Sheet%205.2016-%20508%20Compliant.pdf).
+[Find out if you qualify and download an application](https://www.va.gov/healthbenefits/resources/Caregiver_Eligibility_Check.asp)<br>
+[Download our fact sheet for more eligibility information](https://www.caregiver.va.gov/pdfs/PCAFC%20Eligibility%20Fact%20Sheet%205.2016-%20508%20Compliant.pdf)
 
 </div>
 
@@ -41,7 +41,7 @@ Your Veteran can appoint one primary (main) caregiver and up to 2 secondary care
 - A monthly stipend (payment)
 - Travel, lodging, and financial assistance when traveling with the Veteran to receive care
 - Access to health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)—if you don't already qualify for care or services under another health care plan.<br>
-[Learn more about CHAMPVA](/health-care/family-caregiver-benefits/champva/).
+[Learn more about CHAMPVA](/health-care/family-caregiver-benefits/champva/)
 - Mental health services and counseling
 - Up to 30 days per year of respite care
 
@@ -64,7 +64,7 @@ Or apply in person by bringing the application to your local VA medical center c
 
 **To find the name of your local coordinator:**
 
-- Contact the Caregiver Support Line at <a href='tel:+1-855-260-3274'>1-855-260-3274</a>, **or** 
+- Contact the Caregiver Support Line at <a href='tel:+1-855-260-3274'>1-855-260-3274</a>, **or**
 - [Use our online caregiver support coordinator search tool](https://www.caregiver.va.gov/help_landing.asp)
 
 If you need help filling out the form, you can contact your local coordinator, or call our main VA information line at 1-877-222-VETS (<a href='tel:+1-877-222-8387'>1-877-222-8387</a>).
