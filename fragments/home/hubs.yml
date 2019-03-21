@@ -1,10 +1,10 @@
 - heading: Service member benefits
   url: /burials-memorials/
   hub: service-member
-  description: If you're currently serving in the military, find out about benefits you may be eligible for now, and which time-sensitive benefits to consider when separating or retiring. 
+  description: If you're currently serving in the United States military, find out about benefits you may be eligible for now, and which time-sensitive benefits to consider when separating or retiring. 
 - heading: Family member benefits
   url: /burials-memorials/
-  hub: family-caregiver
+  hub: family-member
   description: Learn about the benefits you may qualify for as the spouse, dependent, or survivor of a Veteran or service member, or as a family member caring for a Veteran with disabilities.
 - heading: Burials and memorials
   url: /burials-memorials/
