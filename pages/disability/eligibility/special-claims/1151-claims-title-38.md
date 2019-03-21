@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Title 38 U.S.C. 1151 Claims
+title: Title 38 U.S.C. 1151 Claims | Veterans Affairs
+heading: VA Title 38 U.S.C. 1151 Claims
 display_title: Title 38 U.S.C. 1151 Claims
 description: Find out if you can get compensation from VA for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp
@@ -13,15 +14,15 @@ aliases:
 
 <div class="va-introtext">
 
-If you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job, you may be able to get compensation.
+If you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job, you may be able to get compensation by filing a Title 38 U.S.C. 1151 claim. Find out if you can get this benefit. 
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get compensation from VA?
+### Am I eligible for VA disability compensation?
 
-You may be able get compensation from VA if you suffered an added disability or your existing disability got worse as the direct result of any of the reasons listed below—and the added disability wasn’t a reasonably expected result or complication of treatment.
+You may be able get compensation from VA for a Title 38 U.S.C. 1151 claim if you suffered an added disability or your existing disability got worse as the direct result of any of the reasons listed below—and the added disability wasn’t a reasonably expected result or complication of treatment.
 
 **At least one of these must have led directly to an added disability or to your injury or disease getting worse:**
   - VA carelessness or negligence, **or**
