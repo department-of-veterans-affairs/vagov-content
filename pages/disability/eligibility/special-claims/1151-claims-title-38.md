@@ -29,7 +29,7 @@ You may be able get compensation from VA for a Title 38 U.S.C. 1151 claim if you
   - VA medical or surgical treatment, **or**
   - A VA health exam, **or**
   - A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
-  - VA compensated work therapy (CWT)(under 38 U.S.C. 1718)
+  - VA compensated work therapy (CWT) (under 38 U.S.C. 1718)
   
 ### Who’s covered?
 Veterans
