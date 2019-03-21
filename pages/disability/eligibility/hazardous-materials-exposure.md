@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Hazardous Chemicals and Materials
+title: Exposure to Hazardous Chemicals and Materials | Veterans Affairs
+heading: Exposure to Hazardous Chemicals and Materials
 display_title: Exposure to Hazardous Materials
 description: Learn about chemical hazards or other hazardous materials you may have come in contact with during military service. Find out if you can get VA disability compensation for illnesses related to exposure to hazardous chemicals or materials.
 plainlanguage: 10-24-16 certified in compliance with the Plain Writing Act
@@ -47,7 +48,8 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you can get disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by contact with harmful chemicals or other hazardous materials while serving in the military.
+Find out if you can get disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by exposure to hazardous materials or chemical hazards while serving in the military. 
+
 </div>
 
 <div class="feature" markdown="1">
