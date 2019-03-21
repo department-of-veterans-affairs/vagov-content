@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Get Help Filing Your Claim or Appeal
+title: Get Help Filing a Claim | Veterans Affairs
+heading: Get Help Filing Your Claim or Appeal
 display_title: Get Help Filing a Claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
 concurrence: incomplete
@@ -28,10 +29,11 @@ spoke: More Resources
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
-
-If you need help filing a claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
+  
+If you need help filing a VA disability claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
 
 VSOs work on behalf of Veterans and Servicemembers—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
+
 
 </div>
 
