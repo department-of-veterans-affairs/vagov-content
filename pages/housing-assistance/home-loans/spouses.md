@@ -19,7 +19,7 @@ relatedlinks:
       title: Cash-out refinance loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.  
     - url: /housing-assistance/home-loans/trouble-making-payments/
-      title: Having trouble making payments on a VA-baced mortgage?
+      title: Having trouble making payments on a VA-backed mortgage?
       description: Find out how we can help you avoid foreclosure and keep your house. 
       
 ---
