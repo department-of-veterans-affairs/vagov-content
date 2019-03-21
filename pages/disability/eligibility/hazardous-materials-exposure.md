@@ -48,7 +48,8 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you are eligible for disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by exposure to hazardous materials while serving in the military. 
+Find out if you are eligible for disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by exposure to hazardous materials or chemical hazards while serving in the military. 
+
 </div>
 
 <div class="feature" markdown="1">
