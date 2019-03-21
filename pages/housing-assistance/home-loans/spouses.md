@@ -64,7 +64,7 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 <b>Submit the form and discharge or separation papers to:</b>
 - Your lender for processing online through our Web LGY system, <b>or</b>
 - The VA regional loan center that serves your state <br>
-[Find a VA regional loan center](/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
+[Find a VA regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
 
 
 ### If you’re not receiving DIC benefits
@@ -80,7 +80,7 @@ You’ll first need to fill out an Application for DIC, Death Pension and/or Acc
 [Get military service records online](https://www.archives.gov/veterans/military-service-records)
 
 Submit the form and documents to the VA pension management center that serves your state. <br>
-[Find a VA pension management center](/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550)
+[Find a VA pension management center](/pension/pension-management-centers/)
 
 ## Next steps for getting a VA direct or VA-backed home loan
 
