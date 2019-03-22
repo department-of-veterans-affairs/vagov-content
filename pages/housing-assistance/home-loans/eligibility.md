@@ -111,7 +111,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 ### Can I get a COE as the spouse of a Veteran?
 
 You may be able to get a COE if you're the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War (POW). <br>
-[Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/spouses/)
+[Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/surviving-spouse/)
 
 <br>
 
