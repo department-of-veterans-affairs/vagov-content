@@ -67,8 +67,8 @@ hublinks:
         label: GI Bill and other education benefits
         description: Find out if you qualify for VA education benefits to help pay for school or training. If you qualify for the Post-9/11 GI Bill, learn how to transfer your unused benefits to your spouse or dependent children. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/housing-assistance/home-loans/eligibility/"
-        label: Certificate of eligibility for a VA-backed home loan
-        description: Review the requirements for getting a certificate of eligibility to buy, build, improve, or refinance a home. <br> <b>Open to active-duty, traditional, and technical service members</b>
+        label: Certificate of Eligibility for a VA-backed home loan
+        description: Review the requirements for getting a Certificate of Eligibility (COE) to buy, build, improve, or refinance a home. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/life-insurance/options-eligibility/"
         label: Life insurance for you and your family
         description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to active-duty, traditional, and technical service members</b>
@@ -99,7 +99,7 @@ hublinks:
         description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active-duty, traditional, and technical service members</b>        
       - url: "/careers-employment/veteran-owned-business-support/"
         label: Veteran-owned small business support
-        description: Register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability, you may qualify for added benefits as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
+        description: If you served on active duty, register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability related to active-duty service or training, you may qualify for added benefits as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/pension/eligibility/"
         label: Veterans Pension program
         description: If you served on active duty during wartime, are at least 65 years old or have a service-connected disability, and have limited or no income, find out if you qualify for Veterans pension benefits. <br> <b>Open to active-duty service members only</b>
