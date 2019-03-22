@@ -150,13 +150,7 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
           <li>Text <a href="sms:838255">838255</a>.</li>
           <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
         </ul>
-        <p>If you're concerned about a Veteran who's homeless or at risk of becoming homeless, we offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.</p>
-        <p><strong>Get the support you need:</strong></p>
-        <ul>
-          <li>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.</li>
-          <li>Or contact your nearest VA medical center and ask to talk with the VA social worker. <br>
-            <a href="/find-locations/">Find your nearest VA medical center</a>.</li>
-        </ul>             
+        <p>If you're concerned about a Veteran who's homeless or at risk of becoming homeless, we offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations. Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.</p>          
 	  </div>
   	</div>
   </div>
