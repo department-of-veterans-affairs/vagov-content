@@ -59,7 +59,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-l-n">SMC-L through SMC-N rates</button>
 <div id="no-smc-l-n" class="usa-accordion-content">
 
-<span id="smc-l-n-how">How to find your monthly compensation rate using these tables</span>
+<a href="#smc-l-n-how">Get instructions for using these tables</a>
 
 <h5>Basic SMC rates</h5>
 
@@ -99,10 +99,11 @@ So your total monthly rate would be $4,368.59 + $156.32 = <b>$4,895.42</b>. <br>
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-n-s">SMC-L through SMC-N</button>
 <div id="no-smc-n-s" class="usa-accordion-content">
 
-<span id="smc-n-s-how">How to find your monthly compensation rate using these tables</span>
+<a href="#smc-n-s-how">Get instructions for using these tables</a>
 
 <h5>Basic SMC rates</h5>
 
@@ -154,7 +155,7 @@ Look at the "Added amounts" table. Take the amount that matches your disability 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-l-n">SMC-L through SMC-N</button>
 <div id="yes-smc-l-n" class="usa-accordion-content">
 
-<span id="smc-l-n-how-a">How to find your monthly compensation rate using these tables</span>
+<a href="#smc-l-n-how-a">Get instructions for using these tables</a>
 
 <h5>Basic SMC rates</h5>
 
@@ -204,10 +205,11 @@ So your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-n-s">SMC-N 1/2 through SMC-S</button>
 <div id="yes-smc-n-s" class="usa-accordion-content">
 
-<span id="smc-n-s-how-a">How to find your monthly compensation rate using these tables</span>
+<span id="#smc-n-s-how-a">Get instructions for using these tables</a>
 
 <h5>Basic SMC rates</h5>
 
@@ -300,6 +302,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-l-half">SMC-L 1/2</button>
 <div id="details-l-half" class="usa-accordion-content">
 
@@ -326,6 +329,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-m">SMC-M</button>
 <div id="details-m" class="usa-accordion-content">
 
@@ -369,6 +373,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-m-half">SMC-M 1/2</button>
 <div id="details-m-half" class="usa-accordion-content">
 
@@ -408,6 +413,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-n">SMC-N</button>
 <div id="details-n" class="usa-accordion-content">
 
@@ -454,6 +460,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-n-half">SMC-N 1/2</button>
 <div id="details-n-half" class="usa-accordion-content">
 
@@ -481,6 +488,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-o">SMC-O</button>
 <div id="details-o" class="usa-accordion-content">
 
