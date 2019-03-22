@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-To get a VA direct or VA-backed home loan as the surviving spouse of a Veteran, you’ll need a Certificate of Eligibility (COE) to show your lender that you qualify for this benefit. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
+To get a VA-backed home loan as the surviving spouse of a Veteran, you’ll need a Certificate of Eligibility (COE) to show your lender  that you qualify for this benefit. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 
 </div>
 
@@ -82,6 +82,6 @@ You’ll first need to fill out an Application for DIC, Death Pension and/or Acc
 Submit the form and documents to the VA pension management center that serves your state. <br>
 [Find a VA pension management center](/pension/pension-management-centers/)
 
-## Next steps for getting a VA direct or VA-backed home loan
+## Next steps for getting a VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender. For most loans, a private bank or mortgage company will be your lender.
+Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender.
