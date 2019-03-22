@@ -106,7 +106,7 @@ hublinks:
       description: Get instructions for how to apply for your VA home loan Certificate
         of Eligibility (COE)—and what to do next depending on your loan type.
       external: false
-    - url: /housing-assistance/home-loans/spouses/
+    - url: /housing-assistance/home-loans/surviving-spouse/
       label: VA Home Loan Programs for Surviving Spouses
       description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
       external: false
