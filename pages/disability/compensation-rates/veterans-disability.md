@@ -79,6 +79,7 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-100-no-children">70% to 100% disability rating</button>
 <div id="70-100-no-children" class="usa-accordion-content">
 
@@ -174,6 +175,7 @@ Your total monthly compensation rate would be $516.83 + ($25.00 x 2) + $47.00 = 
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-100-yes-children">70% to 100% disability rating</button>
 <div id="70-100-yes-children" class="usa-accordion-content">
 
