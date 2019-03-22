@@ -45,6 +45,8 @@ Find your current VA disability compensation rate, based on your disability rati
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-no-children">30% to 60% disability rating </button>
 <div id="30-60-no-children" class="usa-accordion-content">
 
+<a href="#how-to-30">Get instructions for using these tables</a>
+
 <h5>Base rates</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
@@ -62,6 +64,7 @@ Find your current VA disability compensation rate, based on your disability rati
 | -- | -- |-- |-- |-- | 
 | **Spouse receiving Aid and Attendance** | $47.00 | $62.00 | $78.00 | $94.00 |
 
+<span id="how-to-30"></a>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
 Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your disability rating in the top row. Where your dependent status and disability rating meet, you'll find your monthly compensation rate.
@@ -78,6 +81,8 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 </li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="70-100-no-children">70% to 100% disability rating</button>
 <div id="70-100-no-children" class="usa-accordion-content">
+
+<a href="#how-to-70">Get instructions for using these tables</a>
 
 <h5>Base rates</h5>
 
@@ -96,6 +101,7 @@ Start with the "Base rates" table. Find the dependent status in the left column 
 | -- | -- |-- |-- |-- | 
 | **Spouse receiving Aid and Attendance** | $109.00 | $125.00 | $141.00 | $156.32 |
 
+<span id="how-to-70"></a>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
 Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your disability rating in the top row. Where your dependent status and disability rating meet, you'll find your monthly compensation rate.
@@ -120,6 +126,8 @@ Your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-yes-children">30% to 60% disability rating</button>
 <div id="30-60-yes-children" class="usa-accordion-content">
 
+<a href="#how-to-60">Get instructions for using these tables</a>
+
 <h5>Base rates</h5>
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
@@ -139,6 +147,7 @@ Your total monthly rate would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
 | **Each additional child over age 18 in a qualifying school program** | $82.00 | $109.00 | $136.00 | $164.00 |
 | **Spouse receiving Aid and Attendance** | $47.00 | $62.00 | $78.00 | $94.00 |
 
+<span id="how-to-60"></a>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
 Start with the "Base rates" table. Find the dependent status in the left column that best describes you. Then look for your disability rating in the top row. Where your dependent status and disability rating meet, you'll find your monthly compensation rate.
@@ -170,6 +179,8 @@ Your total monthly compensation rate would be $516.83 + ($25.00 x 2) + $47.00 = 
 
 <h5>Base rates</h5>
 
+<a href="#how-to-100">Get instructions for using these tables</a>
+
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
 | **Veteran with child only (no spouse or parents)** | $1,482.71 | $1,722.69 | $1,935.62 | $3,171.12 |
@@ -187,6 +198,7 @@ Your total monthly compensation rate would be $516.83 + ($25.00 x 2) + $47.00 = 
 | **Each additional child over age 18 in a qualifying school program** | $191.00 | $218.00 | $246.00 | $273.58 |
 | **Spouse receiving Aid and Attendance** | $109.00 | $125.00 | $141.00 | $156.32 |
 
+<span id="how-to-100"></a>
 <h5>How to find your monthly compensation rate using these tables</h5>
 
 <b>If you have more than one child</b>
