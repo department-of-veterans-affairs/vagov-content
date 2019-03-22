@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Plan a Burial for a Veteran, Spouse, or Dependent Family Member
+title: Plan a Veteran or Family Member Burial | Veterans Affairs
+heading: Plan a Burial for a Veteran, Spouse, or Dependent Family Member
 display_title: Plan a Burial
+description: Learn what steps to take when planning a burial for a Veteran, spouse, or dependent family member. Find out how to choose a funeral director, get information about Burial at Sea, and apply for financial support to help with burial costs. 
 collection: burials
 children: burialsPlanABurial
 spoke: Plan a Burial
@@ -24,7 +26,7 @@ aliases:
 ---
 
 <div class="va-introtext">
-Find out what steps to take to plan a burial for a Veteran, spouse, or dependent family member.
+Find out how to make burial plans for a Veteran, spouse, or dependent family member.
 </div>
 
 <br>
@@ -33,14 +35,14 @@ Find out what steps to take to plan a burial for a Veteran, spouse, or dependent
 
 ### If you have a pre-need decision letter confirming that the Veteran, spouse, or dependent family member can be buried in a VA national cemetery:
 
-To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800-535-1117</a> to request a burial.
+To start, you may want to choose a funeral director to help you make burial plans. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">1-800-535-1117</a> to request a burial.
 
 You don’t need to do anything else except prepare yourself and your family for the funeral. <br>
 [Find out what to expect at a military funeral or memorial service](/burials-memorials/what-to-expect-at-military-funeral/).
 
 ### If you don't have a pre-need decision letter:
 
-To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director will need to take these 3 steps to apply for a burial.
+To start, you may want to choose a funeral director to help you make burial plans. Then either you or the funeral director will need to take these 3 steps to apply for a burial.
 
 <ol class="process">
 <li class="process-step list-one">
@@ -49,30 +51,30 @@ To start, you may want to choose a funeral director to help you plan the burial.
 
 **You'll need:**
 
- - The DD214 or other discharge documents of the Veteran or Servicemember whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
+ - The DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
  [Find out which discharge documents we accept along with your application](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp).
 
-**You'll also need the information listed below about the Veteran, Servicemember, or dependent family member:**
+**You'll also need the information listed below about the Veteran, service member, or dependent family member:**
 
  - Name
  - Gender
  - Social Security number or Military Service number (Veteran ID)
  - Date of birth
- - Relationship to the Servicemember or Veteran whose military service will be used to decide eligibility
+ - Relationship to the service member or Veteran whose military service will be used to decide eligibility
  - Marital status
  - Date of death (and zip code and county at the time of death)
 
-**You'll need information about the next-of-kin (the closest living relative of the Veteran, Servicemember, or dependent family member), including the person's:**
+**You'll need information about the next-of-kin (the closest living relative of the Veteran, service member, or dependent family member), including the person's:**
 
    - Name
-   - Relationship to the Veteran, Servicemember, or dependent family member
+   - Relationship to the Veteran, service member, or dependent family member
    - Social Security number
    - Phone number
    - Address
 
 **You may also need more information in certain cases:**
 
-- **If the person was married**, you'll also need the surviving spouse’s status as Veteran, Servicemember, or family member.
+- **If the person was married**, you'll also need the surviving spouse’s status as Veteran, service member, or family member.
 - **If the person has any children with disabilities**, you'll need the status and detailed information for any disabled children who may be buried in the future in a national cemetery.
 - **If the person's spouse passed away previously and was buried in a VA national cemetery**, you'll need the full name of the spouse as well as the cemetery section and site number where they're buried.
 
