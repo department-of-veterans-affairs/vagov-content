@@ -143,14 +143,15 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
         <p>If you're concerned about a Veteran in crisis, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
-        <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
+        <p><strong>To connect with a Veterans Crisis Line responder anytime, day or night:</strong></p>
         <ul>
           <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
           <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
           <li>Text <a href="sms:838255">838255</a>.</li>
-          <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.</li>
+          <li>If you have hearing loss, call TTY: 1-800-799-4889.</li>
         </ul>
-        <p>If you're concerned about a Veteran who's homeless or at risk of becoming homeless, we offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations. Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.</p>          
+        <p><strong>If you're concerned about a Veteran who's homeless or at risk of becoming homeless</strong></p>
+	      <p>We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations. Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.</p>          
 	  </div>
   	</div>
   </div>
