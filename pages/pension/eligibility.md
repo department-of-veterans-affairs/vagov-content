@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Pension Eligibility
+title: Eligibililty | Veterans Affairs
+heading: Veterans Pension Eligibility
 display_title: Eligibility
 description: Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. Review VA non-service-connected pension eligibility requirements and learn more about how to apply.
 concurrence:
@@ -32,9 +33,9 @@ If you’re a wartime Veteran who meets certain age or disability requirements, 
 
 <div class="feature" markdown=“1”>
 
-### Can I get Veterans pension benefits from VA?
+### Am I eligible for Veterans pension benefits from VA? 
 
-You may be able to get pension benefits if you meet the requirements listed below.
+You may be able to get Veterans pension benefits if you meet the requirements listed below.
 
 **Both of these must be true:**
 
