@@ -280,10 +280,10 @@ You can also get support from resources offered by other government departments 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="resources-veterans">Mental Health Resources for Veterans, Servicemembers, and Families</button>
 <div id="resources-veterans" class="usa-accordion-content">
 
-<b>[Military OneSource](https://www.militaryonesource.mil/mental-health)</b><br>
+<strong>[Military OneSource](https://www.militaryonesource.mil/mental-health)</strong><br>
 This free service provides expert support to connect military personnel and their families with the best available resources to fit their needs. For support, visit the Military OneSource website or call <a href="tel:+1800-342-9647">1-800-342-9647</a> anytime, day or night.
 
-<b>[The Psychological Health Resource Center](http://pdhealth.mil/)</b><br>
+<strong>[The Psychological Health Resource Center](http://pdhealth.mil/)</strong><br>
 The center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention.
 
 </div>
@@ -292,20 +292,20 @@ The center works to improve the lives of Veterans, Servicemembers, and their fam
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="resources-suicide">National Suicide Prevention and Substance Use Resources</button>
 <div id="resources-suicide" class="usa-accordion-content">
 
-<b>[The National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)</b><br>
+<strong>[The National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/)</strong><br>
 This 24/7, 365-day-a-year emergency mental health hotline offers support for people experiencing a mental health crisis.<br>
 
-<b>To reach the hotline:</b>
+<strong>To reach the hotline:</strong>
 - [Start an online chat](https://suicidepreventionlifeline.org/chat/).
 - Or call 1-800-273-TALK (8255) (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 
-<b>[The American Foundation for Suicide Prevention](https://afsp.org/)</b><br>
+<strong>[The American Foundation for Suicide Prevention](https://afsp.org/)</strong><br>
 The foundation provides mental health resources for people struggling with thoughts of suicide. They also offer supportive educational tools for concerned family, friends and peers.
 
-<b>[The Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/)</b><br>
+<strong>[The Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/)</strong><br>
 SAMHSA offers free, confidential help with treatment referral and information services for individuals and families facing mental health and/or substance use disorders. Support is available 24/7, 365-days-a-year, in both English and Spanish.<br>
 
-<b>To reach SAMHSA's National Helpline:</b>
+<strong>To reach SAMHSA's National Helpline:</strong>
 - Call 1-800-662-HELP (<a href="tel:+1800-662-4357">1-800-662-4357</a>)
 - [Learn more about the helpline](https://www.samhsa.gov/find-help/national-helpline).
 
@@ -315,13 +315,13 @@ SAMHSA offers free, confidential help with treatment referral and information se
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="resources-community">Community Mental Health Resources</button>
 <div id="resources-community" class="usa-accordion-content">
 
-<b>[The National Alliance on Mental Illness (NAMI)](https://www.nami.org/local/)</b><br>
+<strong>[The National Alliance on Mental Illness (NAMI)](https://www.nami.org/local/)</strong><br>
 NAMI builds better lives for millions of Americans affected by mental illness by providing education programs for families and individuals living with mental health problems.
 
-<b>[The Jed Foundation](https://www.jedfoundation.org/)</b><br>
+<strong>[The Jed Foundation](https://www.jedfoundation.org/)</strong><br>
 The foundation works closely with teenagers and young adults who may be experiencing mental stress or may be at risk for suicide during times of change.
 
-<b>[Mental Health America](http://www.mentalhealthamerica.net/)</b><br>
+<strong>[Mental Health America](http://www.mentalhealthamerica.net/)</strong><br>
 This organization advocates for policies that promote mental health and the rights of people living with mental health problems. They also provide education and connections to mental health resources.
 
 </div>
