@@ -160,7 +160,7 @@ hublinks:
         label: The Veterans Choice Program
         description: If you're enrolled in VA health care, find out if you can receive care from a local community provider through the Veterans Choice Program.
       - url: /health-care/about-affordable-care-act/
-        label: The Affordable Care Act (ACA) and Your Health Coverage
+        label: The Affordable Care Act (ACA) and Your VA Health Care Coverage
         description: Find out what you need to know about the Affordable Care Act and what it means for Veterans.
       - url: https://www.research.va.gov/mvp/
         label: The Million Veteran Program
