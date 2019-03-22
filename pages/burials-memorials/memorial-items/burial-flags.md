@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Burial Flag to Honor a Veteran or Reservist
+title: Request a Burial Flag | Veterans Affairs
+heading: Request a Burial Flag to Honor a Veteran or Reservist
 display_title: Burial Flags
 description: Find out how to apply for a United States burial flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist in honor of their military service. And learn how to properly display and care for burial flags.
 order: 2
@@ -20,7 +21,7 @@ aliases:
 
 <div class="va-introtext">
 
-We provide a United States flag to drape on a casket (or coffin) or place with an urn in honor of the military service of a Veteran or Reservist. Find out how to apply for this burial honor.
+We provide a United States burial flag to drape on a casket (or coffin) or place with an urn in honor of the military service of a Veteran or Reservist. Find out how to apply for this burial honor.
 
 </div>
 
