@@ -24,10 +24,10 @@ social:
         links:
         - url: tel:1-800-827-1000
           number: 1-800-827-1000
-          title: "VA Benefits Hotline:"
+          title: "VA benefits hotline:"
         - url: tel:1-800-983-0937
           number: 1-800-983-0937
-          title: "eBenefits Technical Support:"
+          title: "eBenefits technical support:"
         - url: tel:1-844-698-2311
           number: 1-844-698-2311
           title: "Call MyVA311 for help:"
@@ -98,8 +98,8 @@ hublinks:
         label: Disability compensation
         description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/careers-employment/veteran-owned-business-support/"
-        label: Veteran-owned small business support
-        description: If you served on active duty, register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability related to active-duty service or training, you may qualify for added benefits as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
+        label: Support for Veteran-owned small businesses
+        description: If you served on active duty, register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability related to active-duty service or training, you may qualify to register as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/pension/eligibility/"
         label: Veterans Pension program
         description: If you served on active duty during wartime, are at least 65 years old or have a service-connected disability, and have limited or no income, find out if you qualify for Veterans pension benefits. <br> <b>Open to active-duty service members only</b>
@@ -114,7 +114,7 @@ hublinks:
         description: Explore life insurance coverage options and services for you and your family, and manage your policy online. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/burials-memorials/pre-need-eligibility/"
         label: Pre-need eligibility determination for burial in a VA national cemetery
-        description: Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and it can make the process easier for your family members in their time of need. <br> <b>Open to active-duty, traditional, and technical service members</b>
+        description: Apply for a pre-need eligibility decision letter to confirm that you qualify for burial in a VA national cemetery. This can help you pre-plan, and it can make the process easier for your family members in their time of need. <br> <b>Open to active-duty service members only</b>
 
 ---
 
