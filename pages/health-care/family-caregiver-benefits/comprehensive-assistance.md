@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: The Program of Comprehensive Assistance to Family Caregivers of Post-9/11 Veterans
-display_title: Comprehensive Assistance to Family Caregivers
+title: The Program of Comprehensive Assistance for Family Caregivers 
+display_title: Comprehensive Assistance for Family Caregivers
 description: Our VA caregiver program offers a VA caregiver stipend and other support to family caregivers of post-9/11 Veterans with serious injuries. If you're caring for a Veteran, find out if you're eligible and how to apply for this VA caregiver pay and other benefits.
 concurrence: complete
 lastupdate: 2018-02-13
