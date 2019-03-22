@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Veterans disability compensation rates
-display_title: Veterans Disability Compensation Rates
+display_title: Veterans disability compensation rates
 description:
 template: detail-page
 order: 1
