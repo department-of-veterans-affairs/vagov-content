@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA benefits for spouses, dependents, survivors, and family caregivers
 display_title: Family member benefits
-description: Learn about VA benefits for spouses, dependents, survivors, and family caregivers of Veterans and service members. 
+description: Learn about VA benefits for spouses, dependents, survivors, and family caregivers of Veterans and service members.
 concurrence:
 lastupdate:
 order: 1
@@ -33,16 +33,16 @@ social:
           title: "Call MyVA311 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with us 
+  - heading: Connect with us
     subsections:
       - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVA/subscriber/new/
           label: VA email updates
           external: true
-          icon: fa-envelope        
-      - subhead: Follow us
-        links:      
+          icon: fa-envelope
+      - subhead: Follow Us
+        links:
         - url: https://www.twitter.com/DeptVetAffairs/
           label: Veterans Affairs Twitter
           external: true
@@ -103,11 +103,11 @@ hublinks:
         description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. <br> <b>For surviving spouse, surviving child, surviving parent</b>
       - url: /burials-memorials/dependency-indemnity-compensation/
         label: Compensation for surviving spouse and dependents (DIC)
-        description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. <br> <b>For surviving spouse, surviving child, surviving parent</b>     
+        description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. <br> <b>For surviving spouse, surviving child, surviving parent</b>
   - id: "caregiver"
     title: More benefits and services for family members caring for a Veteran or service member
     links:
-      - url: /health-care/family-caregiver-benefits/comprehensive-assistance/        
+      - url: /health-care/family-caregiver-benefits/comprehensive-assistance/
         label: Program of Comprehensive Assistance for Family Caregivers
         description: If you’re a family member caring for a Veteran with disabilities who was injured in the line of duty on or after September 11, 2001, learn how to apply for health care benefits and other support.
       - url: https://www.caregiver.va.gov/
@@ -115,14 +115,14 @@ hublinks:
         description: Access training, educational resources, tools, and advice to help support you in caring for a Veteran family member.
       - url: https://www.benefits.va.gov/fiduciary/index.asp
         label: VA Fiduciary Program
-        description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.        
+        description: Find out how to apply to become a fiduciary who manages benefits for a Veteran who can't manage their financial affairs because of injury, health conditions, or age.
       - url: https://www.socialwork.va.gov/fisher.asp
         label: Fisher House Program
         description: Learn about free, temporary accommodations where you can stay to be near a Veteran or active-duty service member who's receiving treatment in a VA health facility far from home.
       - url: https://www.mirecc.va.gov/coaching/
-        label: Coaching into Care 
-        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran who's readjusting to civilian life, dealing with mental health problems, or wanting to find services through VA or the community.       
-        
+        label: Coaching into Care
+        description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran who's readjusting to civilian life, dealing with mental health problems, or wanting to find services through VA or the community.
+
 ---
 
 <p class="va-introtext">
@@ -132,7 +132,7 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
 <h3>On this page</h3>
 
 <ul>
-  <li><a href="#spouse-dependent">Benefits for spouses, dependents, and survivors</a></li>  
+  <li><a href="#spouse-dependent">Benefits for spouses, dependents, and survivors</a></li>
   <li><a href="#caregiver">More benefits and services for family members caring for a Veteran or service member</a></li>
 </ul>
 
@@ -151,7 +151,7 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
           <li>If you have hearing loss, call TTY: 1-800-799-4889.</li>
         </ul>
         <p><strong>If you're concerned about a Veteran who's homeless or at risk of becoming homeless</strong></p>
-	      <p>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You or the Veteran can talk privately with a trained VA counselor for free.</p>          
+	      <p>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You or the Veteran can talk privately with a trained VA counselor for free.</p>
 	  </div>
   	</div>
   </div>
