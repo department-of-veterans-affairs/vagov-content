@@ -56,7 +56,7 @@ social:
           external: true
           icon: fa-youtube
         - url: https://www.instagram.com/deptvetaffairs/
-          label: VA Instagram
+          label: Veterans Affairs Instagram
           icon: fa-instagram
 crosslinks:
   - heading: Help a Veteran find benefits
