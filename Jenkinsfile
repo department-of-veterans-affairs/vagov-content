@@ -60,7 +60,7 @@ node('vetsgov-general-purpose') {
       sh "git fetch --no-tags"
 
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
-      def homepageChanged = changedFiles.indexOf('fragments/home') > -1
+      def homepageChanged = changedFiles.indexOf('fragments/home/banner.yml') > -1 || changedFiles.indexOf('fragments/home/news.yml') > -1
 
       if (homepageChanged) {
         def message = """\
