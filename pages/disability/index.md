@@ -131,7 +131,7 @@ hublinks:
       description: Send us evidence (like doctor's reports, medical test results, or
         service records) to help support your open disability claim.
       external: false
-    - url: "/disability/how-to-file-claim/supplemental-forms/"
+    - url: "/disability/how-to-file-claim/additional-forms/"
       label: File Additional Forms for Your Disability Claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.

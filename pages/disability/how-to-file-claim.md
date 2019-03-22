@@ -36,7 +36,7 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation or increased disability compensation. 
+Find out how to file a claim for disability compensation or increased disability compensation.
 
 </div>
 
@@ -45,15 +45,17 @@ Find out how to file a claim for disability compensation or increased disability
 - [Find out if you're eligible for VA disability compensation](/disability/eligibility/). <br>
 - Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
+
 [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims). <br>
-- [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/supplemental-forms/). <br>
+
+- [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/additional-forms/). <br>
 
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
 <h4 itemprop="name">What evidence will I need to provide to support my claim?</h4>
 <div itemprop="itemListElement">
- 
+
 **You can help to support your claim by providing documents, such as:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries or that show your rated disability has gotten worse
@@ -64,11 +66,11 @@ Depending on the type of claim you file, you may gather supporting documents you
 
 [Find out what evidence we'll need for your claim](/disability/how-to-file-claim/evidence-needed/).
 
-We'll also review your discharge papers (DD214 or other separation documents) and service treatment records. 
+We'll also review your discharge papers (DD214 or other separation documents) and service treatment records.
 
-**Please note**: You don’t have to submit any evidence to support your claim, but we may need to schedule a claim exam so we can learn more about your condition. 
+**Please note**: You don’t have to submit any evidence to support your claim, but we may need to schedule a claim exam so we can learn more about your condition.
 
-You should also know that you have up to a year from the date we receive your claim to turn in any evidence. If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days. 
+You should also know that you have up to a year from the date we receive your claim to turn in any evidence. If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days.
 </div>
 </div>
 
