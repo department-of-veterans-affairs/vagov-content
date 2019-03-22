@@ -7,7 +7,7 @@ description:
 concurrence:
 order: 4
 relatedlinks:
-  - heading: Loan options and other helpful information
+  - heading: Loan options
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
       title: Purchase loan
@@ -18,9 +18,6 @@ relatedlinks:
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-out refinance loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.  
-    - url: /housing-assistance/home-loans/trouble-making-payments/
-      title: Having trouble making payments on a VA-backed mortgage?
-      description: Find out how we can help you avoid foreclosure and keep your house. 
       
 ---
 
@@ -29,6 +26,9 @@ relatedlinks:
 To get a VA-backed home loan as the surviving spouse of a Veteran, you’ll need a Certificate of Eligibility (COE) to show your lender  that you qualify for this benefit. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 
 </div>
+
+**Note:** If you have a VA-backed loan and you're having trouble making your mortgage payments, we can help you avoid foreclosure and keep your house. <br>
+[Learn about VA financial counseling](/housing-assistance/home-loans/trouble-making-payments/)
 
 <div class="feature" markdown="1">
 
