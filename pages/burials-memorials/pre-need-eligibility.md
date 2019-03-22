@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Pre-need Eligibility Determination for Burial in a VA National Cemetery
+title: Pre-Need Burial Eligibility Determination | Veterans Affairs
+heading: Pre-need Eligibility Determination for Burial in a VA National Cemetery
 display_title: Pre-need Burial Eligibility Determination
 collection: burials
 children: burialsPreNeed
@@ -18,7 +19,7 @@ relatedlinks:
     links:
     - url:
       title:
-      description:
+      description: Find out in advance if you're eligible to be buried in a VA national cemetery. Make the burial planning process easier for family by determining eligibility before hand.  
 aliases:
   - /burials-and-memorials/pre-need/
 ---
@@ -38,10 +39,10 @@ You can apply to find out in advance if you can be buried in a VA national cemet
 <li class="process-step list-one">
 
 #### Make sure one of these describes you:
-- A Servicemember on active duty, **or**
+- A service member on active duty, **or**
 - A Veteran who didn't receive a dishonorable discharge when you separated from the military, **or**
-- The spouse or dependent child of a Servicemember or Veteran, even if the Servicemember or Veteran has already passed away, **or**
-- In some cases, the adult dependent child of a Servicemember or Veteran (if you aren’t married)
+- The spouse or dependent child of a service member or Veteran, even if the service member or Veteran has already passed away, **or**
+- In some cases, the adult dependent child of a service member or Veteran (if you aren’t married)
 
 </li>
 
@@ -82,7 +83,7 @@ If both you and your spouse are applying, you’ll each need to fill out your ow
 
 ### What documents and information do I need to apply?
 
-We base our decision of whether or not you qualify for burial in a VA national cemetery on your service history—or the service history of the Veteran or Servicemember who's sponsoring your application for burial as a spouse, surviving spouse, or unmarried adult child.
+We base our decision of whether or not you qualify for burial in a VA national cemetery on your service history—or the service history of the Veteran or service member who's sponsoring your application for burial as a spouse, surviving spouse, or unmarried adult child.
 
 **To apply, you’ll need your (or your sponsor's):**
 
@@ -97,7 +98,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 
 - **If you’re applying as a spouse, surviving spouse, or unmarried adult child,** you’ll also need your personal information, including your Social Security number.
 - **If you're applying on behalf of someone else,** you'll also need supporting documents showing you have the authority to apply for that person.
-- **If you're applying for an unmarried adult child of a Veteran or Servicemember,** you'll also need to provide supporting documents with information about the child's disability.
+- **If you're applying for an unmarried adult child of a Veteran or service member,** you'll also need to provide supporting documents with information about the child's disability.
 
 </div>
 
