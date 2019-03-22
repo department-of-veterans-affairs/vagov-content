@@ -3,14 +3,14 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA benefits for service members
 display_title: Service member benefits
-description: 
+description:
 concurrence:
 lastupdate:
 order: 1
 hub: service-member
 promo:
   - image: /img/hub-illustrations/service-member.png
-    heading: VA Transition Assistance Program 
+    heading: VA Transition Assistance Program
     url: "https://www.benefits.va.gov/tap/tap-index.asp"
     description: Explore your career options and learn how to access the VA benefits you've earned.
 social:
@@ -32,7 +32,7 @@ social:
           number: 1-844-698-2311
           title: "Call MyVA311 for help:"
         - url:
-          title: "If you have hearing loss, call TTY: 711."            
+          title: "If you have hearing loss, call TTY: 711."
   - heading: Connect with us
     subsections:
       - subhead: Get updates
@@ -41,7 +41,7 @@ social:
           label: VA email updates
           external: true
           icon: fa-envelope
-      - subhead: Follow us
+      - subhead: Follow Us
         links:
         - url: "https://twitter.com/DeptVetAffairs/"
           label: Veterans Affairs Twitter
@@ -83,7 +83,7 @@ hublinks:
         description: Find out how to convert your SGLI coverage to a Veterans' Group Life Insurance (VGLI) or commercial policy. Learn about other options for coverage if you have service-connected disabilities. In some cases, you must act within 120 days of separation to ensure no lapse in coverage. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
-        description: Get support transitioning to a civilian career with free educational and career counseling (also called Chapter 36). You'll need to apply between 6 months before and 1 year after separation. <br> <b>Open to active-duty service members only</b>     
+        description: Get support transitioning to a civilian career with free educational and career counseling (also called Chapter 36). You'll need to apply between 6 months before and 1 year after separation. <br> <b>Open to active-duty service members only</b>
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
         external: true
         label: Active duty service members and VA health care
@@ -96,7 +96,7 @@ hublinks:
     links:
       - url: "/disability/"
         label: Disability compensation
-        description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active-duty, traditional, and technical service members</b>        
+        description: File a claim for disability compensation for conditions related to your military service, and manage your benefits over time. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/careers-employment/veteran-owned-business-support/"
         label: Veteran-owned small business support
         description: If you served on active duty, register to do business with VA and get support for your Veteran-owned small business. If you have a service-connected disability related to active-duty service or training, you may qualify for added benefits as a service-disabled Veteran-owned small business. <br> <b>Open to active-duty, traditional, and technical service members</b>
@@ -109,7 +109,7 @@ hublinks:
       - url: "/housing-assistance/disability-housing-grants/"
         label: Disability housing grants
         description: If you have a service-connected disability, find out how to apply for a housing grant to make changes to your home so you can live more independently. <br> <b>Open to active-duty, traditional, and technical service members</b>
-      - url: "/life-insurance/"    
+      - url: "/life-insurance/"
         label: More life insurance options
         description: Explore life insurance coverage options and services for you and your family, and manage your policy online. <br> <b>Open to active-duty, traditional, and technical service members</b>
       - url: "/burials-memorials/pre-need-eligibility/"
@@ -134,7 +134,7 @@ If you're serving on active duty in the United States uniformed services, includ
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
     <a id="crisis-expander-link">Get care now</a>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed">
+    <div id="crisis-expander-content" class="expander-content expander-content-closed" style="max-height: 40em;">
       <div class="expander-content-inner usa-alert-text">
 <br>
 If you need support for a specific mental health problem—or if you’re having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
