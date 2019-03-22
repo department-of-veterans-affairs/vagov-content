@@ -22,7 +22,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support anytime, day or night</a></h4>
+	<a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-get-support-247'});">Find out how to get support anytime, day or night</a></h4>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
 	    <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
@@ -48,7 +48,7 @@ Find out how to access VA mental health services for posttraumatic stress disord
 <div class="usa-alert usa-alert-info">
 <div class="usa-alert-body">
 <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
-<a id="mental-health-expander-link">Get care now</a>
+<a id="mental-health-expander-link" onClick="recordEvent({event: 'nav-crisis-get-care-now'});">Get care now</a>
 <div id="mental-health-expander-content" class="expander-content expander-content-closed">
 <div class="expander-content-inner usa-alert-text vads-u-margin-top--1p5">
 
