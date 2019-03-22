@@ -89,9 +89,9 @@ hublinks:
       - url: /pension/survivors-pension/
         label: Survivors Pension
         description: If you're the surviving spouse or child of a Veteran with wartime service, find out if you're eligible for monthly pension benefits. <br> <b>For surviving spouse, surviving child</b>
-      - url: /housing-assistance/home-loans/spouses/
+      - url: /housing-assistance/home-loans/surviving-spouse/
         label: Home loan programs or financial counseling
-        description: Apply for a certificate of eligibility for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed or VA direct loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
+        description: Apply for a Certificate of Eligibility (COE) for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
       - url: /life-insurance/
         label: Life insurance options, claims, and beneficiary assistance
         description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
