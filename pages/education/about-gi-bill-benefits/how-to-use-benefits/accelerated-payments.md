@@ -6,6 +6,7 @@ display_title: Accelerated Payments
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
+  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
 order: 4
 ---
 
