@@ -25,7 +25,7 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">As a surviving spouse</button>
 <div id="VA-burials-survivor-spouse" class="usa-accordion-content">
 
-You may be able to get compensation as a surviving spouse if you meet the requirements listed below. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or service member. Evidence may include documents like military service records, doctor's reports, and medical test results.
+You may be eligible for VA benefits for surviving spouses if you meet the requirements listed below. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or service member. Evidence may include documents like military service records, doctor's reports, and medical test results.
 
 **One of these must be true. You:**
 - Married the Veteran or service member before January 1, 1957, **or**
