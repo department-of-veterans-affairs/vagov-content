@@ -34,7 +34,7 @@ To get a VA-backed home loan as the surviving spouse of a Veteran, you’ll need
 
 ### Can I get a COE?
 
-You may be able to get a COE if you’re the spouse of a Veteran, and at least one of the descriptions below is true for that Veteran.
+You may be able to get a COE if you’re the spouse of a Veteran, and at least one of the descriptions below is true for them.
 
 **At least one of these must be true. The Veteran:**
 
@@ -42,9 +42,9 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 - Is a Prisoner of War (POW), **or**
 - Died while in service or from a service-connected disability and you didn’t remarry, **or**
 - Died while in service or from a service-connected disability and you didn’t remarry before you were 57 years old or before December 16, 2003, **or**
-- Had been totally disabled and then died, but whose disability may not have been the cause of death (in certain situations)
+- Had been totally disabled and then died, but their disability may not have been the cause of death (in certain situations)
 
-**Note:** A surviving spouse who remarried before December 16, 2003, and on or after their 57th birthday, must have applied no later than December 15, 2004, to establish home loan eligibility. We must deny applications we received after December 15, 2004, from surviving spouses who remarried before December 16, 2003.
+**Note:** A surviving spouse who remarried before December 16, 2003, and on or after their 57th birthday, must have applied no later than December 15, 2004, to establish home loan eligibility. We'll have to deny applications we received after December 15, 2004, from surviving spouses who remarried before December 16, 2003.
 </div>
 </li>
 </ul>
@@ -69,7 +69,7 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 
 ### If you’re not receiving DIC benefits
 
-You’ll first need to fill out an Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
+You’ll first need to fill out an Application for DIC, Survivors Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>
 
 <b>You'll also need:</b>
