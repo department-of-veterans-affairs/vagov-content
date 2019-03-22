@@ -160,9 +160,9 @@ hublinks:
       description: Learn how we assign disability ratings and effective dates, and what
         to do after you get your rating.
       external: false
-    - url: https://www.benefits.va.gov/compensation/rates-index.asp
+    - url: "/disability/compensation-rates/"
       label: View VA Disability Compensation Rates
-      description: See the Veterans compensation benefits rates tables to find your
+      description: Read the Veterans compensation benefits rates tables to find your
         rate based on your disability rating and dependents.
       external: false
     - url: "/disability/va-claim-exam/"
@@ -212,9 +212,9 @@ hublinks:
       description: Learn how we assign disability ratings and effective dates, and what
         to do after you get your rating.
       external: false
-    - url: https://www.benefits.va.gov/compensation/rates-index.asp
+    - url: "/disability/compensation-rates"
       label: View VA Disability Compensation Rates
-      description: See the Veterans compensation benefits rates tables to find your
+      description: Read the Veterans compensation benefits rates tables to find your
         rate based on your disability rating and dependents.
       external: false
     - url: "/disability/va-claim-exam/"
