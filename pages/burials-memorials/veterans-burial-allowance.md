@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veterans Burial Allowance
+title: Apply for a Veterans Burial Allowance | Veterans Affairs
+heading: How to Apply for a Veterans Burial Allowance
 display_title: Burial Allowance
 description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
 order: 3
@@ -27,7 +28,7 @@ Find out how to get Veterans burial allowances to help cover burial, funeral, an
 
 ### Can I get allowances to help pay for a Veteran's burial and funeral costs?
 
-You may be able to get burial allowances if you're paying for the burial and funeral costs, and if any of the below relationships or professional roles describes your connection to the Veteran.
+You may be able to get Veterans burial allowances if you're paying for the burial and funeral costs, and if any of the below relationships or professional roles describes your connection to the Veteran.
 
 **One of these must describe your relationship or role. You’re:**
 
