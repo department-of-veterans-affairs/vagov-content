@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request Veterans Headstones, Grave Markers, and Medallions
+title: Headstones, Grave Markers, Medallions | Veterans Affairs
+heading: Request Veterans Headstones, Grave Markers, and Medallions
 display_title: Headstones, Markers or Medallions
 description: Find out how to apply for Veterans grave markers, headstones, and medallions to honor the service of a Veteran or eligible family member. Learn who is eligible for these honors, who can apply for the items, and what information you'll need to put on a headstone or marker.
 order: 1
@@ -105,6 +106,6 @@ You can apply for one of these memorial items if you're representing the Veteran
 
 We provide memorial headstones and markers for qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
 
-For Veterans, dependents, and Servicemembers who qualify for a memorial headstone or marker, the words engraved on the memorial item must begin, “IN MEMORY OF,” and the headstone or marker must be placed in a national cemetery, state Veterans cemetery, or military base cemetery.
+For Veterans, dependents, and service members who qualify for a memorial headstone or marker, the words engraved on the memorial item must begin, “IN MEMORY OF,” and the headstone or marker must be placed in a national cemetery, state Veterans cemetery, or military base cemetery.
 
 Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
