@@ -134,7 +134,7 @@ If you're serving on active duty in the United States uniformed services, includ
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
     <a id="crisis-expander-link">Get care now</a>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed" style="max-height: 40em;">
+    <div id="crisis-expander-content" class="expander-content expander-content-closed" style="max-height: 100em;">
       <div class="expander-content-inner usa-alert-text">
 <br>
 If you need support for a specific mental health problem—or if you’re having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
