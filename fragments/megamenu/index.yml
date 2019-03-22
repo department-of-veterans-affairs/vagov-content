@@ -265,14 +265,14 @@
       seeAllLink:
         text: records
         href: https://www.va.gov/records/
-- title: Service member benefits
-  links:
-  - text: Service member benefits
-    href: /service-member-benefits/
-- title: Family member benefits
-  links:
-  - text: Family member benefits
-    href: /family-member-benefits/
+  - title: Service member benefits
+    links:
+    - text: Service member benefits
+      href: /service-member-benefits/
+  - title: Family member benefits
+    links:
+    - text: Family member benefits
+      href: /family-member-benefits/
 - title: About VA
   menuSections:
     mainColumn:
