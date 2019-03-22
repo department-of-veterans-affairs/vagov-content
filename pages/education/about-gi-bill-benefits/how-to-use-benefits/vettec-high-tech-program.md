@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veteran Employment through Technology Education Courses (VET TEC) program 
+title: Veteran Employment Through Technology Education Courses (VET TEC) program 
 display_title: VET TEC Program
 description: 
 concurrence: incomplete
@@ -56,7 +56,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 ## How do I apply?
 
-First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment through Technology Education Course (VA Form 22-0994). 
+First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994). 
 
 If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
