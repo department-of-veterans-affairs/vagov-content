@@ -11,11 +11,11 @@ For example, `pages/health-care/after-you-apply.md` is compiled into HTML and th
 ## How to edit content
 Follow these steps to edit a page (or multiple pages):
 
-1. [Create a "branch" to collect your edits](#create-a-branch-to-collect-your-edits)
+1. [Create a branch to collect your edits](#create-a-branch-to-collect-your-edits)
 2. [Enter your edits](#enter-your-edits)
-2. [Open a "pull request" to propose the edits](#open-a-pull-request)
-3. [Assign a reviewer to approve your changes](#assign-a-reviewer)
-4. ["Merge" your changes to publish them to the website](#merge-your-changes)
+3. [Open a pull request to propose the edits](#open-a-pull-request-to-propose-the-edits)
+4. [Assign a reviewer to approve your changes](#assign-a-reviewer-to-approve-your-changes)
+5. [Request a merge to master to publish your changes to the website](#request-a-merge-to-master-to-publish-your-changes-to-the-website)
 
 This can all be done on the homepage of the Interim CMS at GitHub.
 
@@ -67,7 +67,7 @@ If there are any related edits that need to be made on other pages, you can make
 
 ---
 
-### Open a pull request
+### Open a pull request to propose the edits
 A [pull request](https://help.github.com/articles/about-pull-requests/) is the term for when you propose that the edits from your branch become part of the master branch. You can think of the edits in your branch as a draft, and once they're moved into master via a pull request, those edits get published. To open a pull request, follow these steps:
 
 #### 1. Click the "Pull requests" tab toward the top of the page (the tab, not the link in the black stripe)
@@ -98,7 +98,7 @@ This button takes you to a version of the website generated from the code in you
 
 ---
 
-### Assign reviewer(s)
+### Assign a reviewer to approve your changes
 For a branch to be moved into master, your changes must be reviewed and approved by a member of the team with edit access. Content team members will be notified automatically, but if you would like to manually request a review by someone in addition to a content team member, just follow these steps.
 
 #### 1. Along the right side of the page, click the gear icon next to "Reviewers" to see the dropdown with names
@@ -113,7 +113,9 @@ When you select a name, that team member will be notified that you've requested 
 #### 3. Await feedback from the reviewer
 The reviewer may comment on your pull request with some questions or changes they'd like to suggest--or they can make additional edits to supplement yours. When they comment or make additional edits, you'll receive a notification via email or on GitHub with the details. A content team member and anyone else you've chosen as a reviewer may provide feedback to you in this way.
 
-### Request a merge to master once you've come to agreement on the edits with the content team member
+---
+
+### Request a merge to master to publish your changes to the website
 Once you and the content team reviewer agree on all the edits, scroll to the bottom of the page where the "Leave a comment" box is. Put a note there requesting that they merge your edits into master. Your edits will become visible on our [Staging environment](https://staging.va.gov/) within 20 minutes.
 
 ---

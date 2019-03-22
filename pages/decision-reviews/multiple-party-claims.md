@@ -26,7 +26,7 @@ If you’re one of multiple people claiming the right to the same benefit, you h
 
 You have the option to add new evidence for a judge to review. You'll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
 
-This option will take longer. Find a time estimate listed below. 
+This option will take longer.
 
 ### Can I request a hearing?
 
@@ -38,7 +38,7 @@ You and the judge will have a conversation. The judge will ask you questions, bu
 
 The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
 
-This option will take longer. Find a time estimate below.
+This option will take longer.
 
 ### How do I request a Board Appeal?
 
@@ -84,8 +84,8 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
-  <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you add new evidence, it’ll take longer than the Direct Review appeal option.
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>Longer</span></span>
+  <span class="description">If you add new evidence, it’ll take longer than the Direct Review appeal option.
 </span>
 </div>
 
@@ -106,8 +106,8 @@ At your hearing, you and a Veterans Law Judge will have a conversation, and they
 </div>  
 
 <div class="card information">
-  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>At least 2 years</span></span>
-  <span class="description">It’s too soon to estimate how long the Board will take to decide your appeal. If you request a hearing, it’ll take longer than the Direct Review appeal option.
+  <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>Longer</span></span>
+  <span class="description">If you request a hearing, it’ll take longer than the Direct Review appeal option.
 </span>
 </div>
 </li>
