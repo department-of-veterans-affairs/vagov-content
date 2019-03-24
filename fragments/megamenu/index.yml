@@ -150,7 +150,7 @@
       fragments:
         columnThree: promotions/pension
       seeAllLink:
-        text: Pension
+        text: pension
         href: https://www.va.gov/pension/
   - title: Housing assistance
     links:
