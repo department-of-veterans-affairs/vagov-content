@@ -16,7 +16,7 @@ We have 3 regional pension management centers. Look at the lists below to find t
 
 </div>
 
-### VA Philadelphia Pension Management Center
+## VA Philadelphia Pension Management Center
 
 This office serves:
 
@@ -69,7 +69,7 @@ Or, fax it to 1-844-655-1604.
 
 <br>
 
-### VA Milwaukee Pension Management Center
+## VA Milwaukee Pension Management Center
 
 This office serves:
 
@@ -114,7 +114,7 @@ Or, fax it to 1-844-655-1604.
 
 <br>
 
-### VA St. Paul Pension Management Center
+## VA St. Paul Pension Management Center
 
 This office serves:
 
@@ -163,7 +163,7 @@ To submit a pension application to this office, mail it to:
   Department of Veterans Affairs<br>
   Claims Intake Center<br>
   Attention:  St. Paul Pension Center<br>
-  PO BOX 5365<br>
+  PO Box 5365<br>
   Janesville, WI 53547-5365<br>
 </p>
 
