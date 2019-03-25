@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Having Trouble Making Mortgage Payments on a VA-Backed Loan?
+title: Trouble Making Mortgage Payments? | Veterans Affairs
+heading: Having Trouble Making Mortgage Payments on a VA-Backed Loan?
 display_title: Trouble Making Payments?
+description: If you're having trouble making payments on your VA-backed mortgage, find out how we can help you avoid foreclosure and keep your home. Contact a VA Loan Technician for financial advice.
 concurrence:
 order: 5
 ---
