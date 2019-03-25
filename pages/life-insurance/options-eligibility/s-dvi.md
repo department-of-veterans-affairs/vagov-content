@@ -128,11 +128,10 @@ You must pay your premiums for Supplemental S-DVI.
 
 ## What if I need help with my claim? 
 
-If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at 1-800-669-8477, from 8:30 a.m. to 6:00 p.m. ET. 
-
+If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET. 
 <br>
 
-### Where can I find more information?
+## How can I learn more about S-DVI?
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 [View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
@@ -148,8 +147,8 @@ To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Gran
 [Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
 [Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)<br>
 
-### Where can I find more information?
+### How can I learn more about VMLI?
 
 [Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf) <br>
-[View our diagram to learn more about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
+[View our diagram about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
 
