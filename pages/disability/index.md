@@ -11,9 +11,9 @@ aliases:
   - /disability-benefits/
 promo:
   - image: /img/hub-illustrations/disability.png
-    heading: Decision Ready Claims (DRC) Program
-    url: "/disability/how-to-file-claim/evidence-needed/decision-ready-claims/"
-    description: Find out if you can use the DRC program to get a decision on your claim in 30 days or less.
+    heading: Fully Developed Claims Program
+    url: "/disability/how-to-file-claim/evidence-needed/fully-developed-claims/"
+    description: Use this program to get a faster decision by submitting evidence along with your claim.
 crosslinks:
   - heading: Other VA Benefits and Services
     links:
@@ -110,7 +110,7 @@ hublinks:
       label: Check Your VA Claim or Appeal Status
       description: Track the status of your disability claim or appeal.
       external: false
-    - url: "/disability-benefits/apply/form-526-disability-claim"
+    - url: "/disability/how-to-file-claim"
       label: File for a VA Disability Increase
       description: If your service-connected disability has gotten worse, find out how
         to file a claim to increase your disability rating.
@@ -127,12 +127,12 @@ hublinks:
         benefits.
       external: false
     - url: "/disability/upload-supporting-evidence/"
-      label: Upload Evidence to Support Your Claim
+      label: Upload Evidence to Support Your Disability Claim
       description: Send us evidence (like doctor's reports, medical test results, or
         service records) to help support your open disability claim.
       external: false
-    - url: "/disability/how-to-file-claim/supplemental-forms/"
-      label: File Supplemental Forms for Special Claims
+    - url: "/disability/how-to-file-claim/additional-forms/"
+      label: File Additional Forms for Your Disability Claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.
       external: false

@@ -48,7 +48,7 @@ Find out how to view your payment history for VA benefits.
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h2>When to Expect Payments</h2>
 
 <div aria-live="polite" role="alert" class="usa-alert usa-alert-info">
@@ -73,7 +73,7 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h2>How to Change Your Information</h2>
 
 <h3 itemprop="name">What should I do if I need to change my direct deposit or contact information?</h3>
@@ -97,7 +97,7 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
 <b>If you have a disability rating of 30% or higher</b>, you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
-<a href="https://www.benefits.va.gov/compensation/add-dependents.asp">Find out how to add eligible dependents</a>.
+<a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
 
 <b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
 <a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.

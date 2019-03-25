@@ -5,7 +5,7 @@ title: Health Needs and Conditions
 display_title:
 description: Find out how to access VA health services for specific health needs and conditions. Learn about which Veterans health issues are covered and how to get help for your specific needs (like mental health problems, PTSD, or women's health needs).
 concurrence: complete
-lastupdate: 2018-10-17
+lastupdate: 2019-03-01
 collection: healthCare
 spoke: More Resources
 order: 18
@@ -41,7 +41,7 @@ At VA, we offer many services and programs for Veterans with specific needs—li
 
 Yes. Certain health concerns may be more likely to affect Veterans who served in a specific time and place. Find out which health concerns you should be aware of depending on when and where you served. <br>
 
-[Get health information by service dates and locations](/health-care/health-needs-conditions/health-issues-related-to-service-era/).
+[Get health information by service dates and locations](/health-care/health-needs-conditions/health-issues-related-to-service-era/)
 
 </div>
 
@@ -100,7 +100,9 @@ Yes. Certain health concerns may be more likely to affect Veterans who served in
 - [Women’s health care needs](/health-care/health-needs-conditions/womens-health-needs/)
 
 
-**[Get an overview of what’s covered by VA health care](/health-care/about-va-health-benefits/).**
+**[Get an overview of what’s covered by VA health care](/health-care/about-va-health-benefits/)**
+
+**[Use our health topics index to find more information](https://www.va.gov/health/topics/index.asp)**
 
 </div>
 </div>
@@ -123,9 +125,9 @@ For more information, you can download these fact sheets:
 - [Female Veterans: Lesbian and bisexual health care](https://www.patientcare.va.gov/LGBT/docs/va-pcs-lgbt-factsheet-lesbian-bisexual.pdf#)
 
 You can also find out more about LGBT programs at VA medical centers across the nation. <br>
-[View VA medical center LGBT program websites](https://www.patientcare.va.gov/LGBT/VAFacilities.asp).
+[View VA medical center LGBT program websites](https://www.patientcare.va.gov/LGBT/VAFacilities.asp)
 
-[Read about our approach to recognizing same-sex marriage](https://www.va.gov/opa/marriage/).
+[Read about our approach to recognizing same-sex marriage](https://www.va.gov/opa/marriage/)
 
 ------
 
@@ -135,7 +137,8 @@ You can also find out more about LGBT programs at VA medical centers across the 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help. [Learn more about your VA health care coverage](/health-care/about-va-health-benefits/).
+If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help.<br> 
+[Learn more about your VA health care coverage](/health-care/about-va-health-benefits/)
 
 If you need help accessing services, call our toll-free hotline at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. (<abbr title="eastern time">ET</abbr>).
 
@@ -151,9 +154,9 @@ If you need help accessing services, call our toll-free hotline at 1-877-222-VET
 <div itemprop="text">
 
 Yes. If you’re signed up for the VA health care program, you can manage your VA health and benefits online through VA.gov: <br>
-[Refill your prescriptions](/health-care/refill-track-prescriptions). <br>
-[Send a message to your VA health care provider](/health-care/secure-messaging). <br>
-[Check the status of a disability or pension claim](/track-claims/).
+[Refill your prescriptions](/health-care/refill-track-prescriptions) <br>
+[Send a message to your VA health care provider](/health-care/secure-messaging) <br>
+[Check the status of a disability or pension claim](/track-claims/)
 
 </div>
 </div>

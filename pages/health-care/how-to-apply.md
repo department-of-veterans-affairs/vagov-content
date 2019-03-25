@@ -51,11 +51,11 @@ Find out how to apply for VA health care benefits as a Veteran or service member
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-<div id="react-applicationStatus" class="static-page-widget">
+<div id="react-applicationStatus" data-widget-type="health-care-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/health-care/apply/application/">Apply for Health Care Benefits</a>
 </div>
 
-<div class="form-expanding-group additional-info-container">
+<div class="form-expanding-group additional-info-container" data-widget-type="additional-info">
   <span class="additional-info-title">Obtenga instrucciones para esta solicitud en Español.</span>
   <span id="spanishhelptext-1">
     <div class="additional-info-content">
@@ -63,15 +63,15 @@ Find out how to apply for VA health care benefits as a Veteran or service member
       <a href="https://www.va.gov/vaforms/medical/pdf/1010EZ-fillable.pdf">Obtenga la Forma VA 10-10EZ</a>.<br>
       Usted o alguien con poder legal para representarlo tiene que firmar la forma, e incluir la fecha en que fué firmada.<br>
       <ul>
-        <li><b>Si esta usando un poder legal</b>, tendra que incluir una copia de la forma con su solicitud.</li>
-        <li><b>Si firma con una X</b>, 2 personas que usted conoce tienen que tambien firmar acertando que lo vieron firmar la forma.</li>
+        <li><strong>Si esta usando un poder legal</strong>, tendra que incluir una copia de la forma con su solicitud.</li>
+        <li><strong>Si firma con una X</strong>, 2 personas que usted conoce tienen que tambien firmar acertando que lo vieron firmar la forma.</li>
       </ul>
-      <b>Puede mandar su solicitud por correo a esta dirección:</b><br>
+      <strong>Puede mandar su solicitud por correo a esta dirección:</strong><br>
       <p class="va-address-block">
         Health Eligibility Center<br>
         2957 Clairmont Rd., Suite 200<br>
         Atlanta, GA 30329</p>
-      <b>Para llenar su solicitude en persona</b>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:<br>
+      <strong>Para llenar su solicitude en persona</strong>, encuetre el Centro Médico de Veteranos mas cercano en esta liga:<br>
       <a href="/find-locations/?facilityType=health">Encuentre el Centro o Clínica de Veteranos mas cercano a usted</a>.<br>
       O reciba ayuda por medio del Departmaneto de Veteranos de su estado.<br>
       <a href="https://www.va.gov/statedva.htm">Encuentre el Departamento de Veteranos de su estado</a>.
