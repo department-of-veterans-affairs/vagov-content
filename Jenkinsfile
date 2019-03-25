@@ -68,7 +68,7 @@ node('vetsgov-general-purpose') {
 
       if (homepageChanged) {
         def numberOnly = true
-        def prNumber = getPullRequest(true)
+        def prNumber = getPullRequest(numberOnly)
         def message = """\
 @channel \
 Pull request opened containing changes to the VA.gov homepage! \
@@ -77,7 +77,7 @@ Please review, merge, and if necessary, deploy this change as soon as possible. 
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
 """
 
-        slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
+        // slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
       }
     }
   }
