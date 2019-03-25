@@ -145,7 +145,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 <br>
 
 ## How do I file a life insurance claim?
-You'll need to fill out a Claim for Death Benefits (SGLV 8283). 
+You'll need to fill out a Claim for Death Benefits (SGLV 8283). <br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf).
 
 Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI). <br>
