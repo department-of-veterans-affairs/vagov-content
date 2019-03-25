@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Pension Rates for Veterans
+title: Veterans Pension Rates | Veterans Affairs
+heading: VA Pension Rates for Veterans
 display_title: Veterans Pension Rates
 concurrence:
 spoke: More Resources
@@ -12,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+VA pension rates are based on the difference between countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR). Find out if you can get this benefit.  
 
 </div>
 
