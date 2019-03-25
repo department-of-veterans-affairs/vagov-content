@@ -156,18 +156,15 @@ Then, call your Branch of Service Casualty Assistance Office for help submitting
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
-You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
-[Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
-
-### How can I learn more about converting an SGLI policy to VGLI?
-
 View our diagrams to get more information if you're:
 
 - [On active duty](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
 - [A Reservist or National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
 - [In the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
 - [On the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
-<br>
+
+You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
+[Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
 <span id="extension"></span>
 
