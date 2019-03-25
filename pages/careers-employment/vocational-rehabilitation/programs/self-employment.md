@@ -48,7 +48,7 @@ You may be eligible for these benefits if you’re a Servicemember or Veteran wi
 
 </div>
 
-### What kind of benefits can I get through the VR&amp;E Self-Employment track?
+## What kind of benefits can I get through the VR&amp;E Self-Employment track?
 
 - Coordination services and help with developing a proposed business plan
 - Analysis of your business concept
@@ -59,17 +59,17 @@ After you develop your business plan, we’ll review it and evaluate whether sel
 
 <hr>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 First, you’ll need to apply for VR&E benefits. Then, you’ll work with your Vocational Rehabilitation Counselor (VRC).
 
-#### If you have your VA disability rating, follow these steps to apply:
+### If you have your VA disability rating, follow these steps to apply:
 
 <ol class="process">
 
 <li class="process-step list-one">
 
-Log in to your eBenefits account.
+Sign in to your eBenefits account.
 
 </li>
 
@@ -112,7 +112,8 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
 - **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
-  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).
+  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
+  [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
 
 **We also offer:**
 - VR&E employment coordinators—located at our VA regional offices and many of our out-based locations—who can help you access the employment services available to you.<br>
@@ -120,4 +121,6 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 - Counselors to help you transition from military to college life. <br>
 [Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
 - Links to more resources outside VA that can help you in your job search. <br>
-[See our list of external resources](/careers-employment/veteran-resources/).
+[See our list of external resources](/careers-employment/veteran-resources/).<br>
+- If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
+[Contact your VR&E counselor for more information](/facilities/).

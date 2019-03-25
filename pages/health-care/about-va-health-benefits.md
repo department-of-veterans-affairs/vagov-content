@@ -227,7 +227,7 @@ These services are **not** included in your VA medical benefits package:
 <div itemprop="text">
 We’ll fill prescriptions by a non-VA provider only if you meet all the requirements listed below.
 
-<b>All of these must be true</b>:
+<strong>All of these must be true</strong>:
 
 - You’re enrolled in VA health care
 - You have an assigned VA primary care provider

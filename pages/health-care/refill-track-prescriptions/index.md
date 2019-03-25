@@ -20,7 +20,7 @@ With our VA Prescription Refill and Tracking tool, you can refill your VA prescr
 
 </div>
 
-<div class="cta-widget" data-app-id="rx"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="rx"></div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -88,7 +88,7 @@ Click on the link you want, and you'll get instructions on the next page to get 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>You can refill and track most of your VA prescriptions, including:</b>
+<strong>You can refill and track most of your VA prescriptions, including:</strong>
 - VA medicines that were refilled or renewed
 - Wound care supplies
 - Diabetic supplies
