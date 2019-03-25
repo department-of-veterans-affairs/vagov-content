@@ -52,6 +52,7 @@ You may be able to get a COE if you didn't receive a dishonorable discharge and 
 | Between May 8, 1975, and September 7, 1980 (post-Vietnam War period), **or**<br>Between May 8, 1975, and October 16, 1981, if you served as an officer | 181 continuous days |
 | Between September 8, 1980, and August 1, 1990, **or**<br>Between October 17, 1981, and August 1, 1990, if you served as an officer | <ul><li>24 continuous months, **or**</li><li>The full period (at least 181 days) for which you were called to active duty</li></ul> |
 | Between August 2, 1990, and the present (Gulf War) | <ul><li>24 continuous months, **or**</li><li>The full period (at least 90 days) for which you were called or ordered to active duty, **or**</li><li>At least 90 days if you were discharged for a hardship or reduction in force, **or**</li><li>Less than 90 days if you were discharged for a service-connected disability</li></ul> | 
+| I’m separated from service | If you enlisted after  September 7, 1980 or if you're an officer, after October 16, 1981: <ul><li>24 continuous months, **or**</li><li>The full period (at least 181 days) for which you were called or ordered to active duty, **or**</li><li>At least 181 days if you were discharged for a hardship or reduction in force, **or**</li><li>Less than 181 days if you were discharged for a service-connected disability</li></ul>|
 | I’m on active duty now | 90 continuous days |
 
 
@@ -73,7 +74,7 @@ You may be able to get a COE if you didn't receive a dishonorable discharge and 
 
 <br>
 
-### How do I apply for my COE?
+## How do I apply for my COE?
 
 You can apply online right now.
 
@@ -83,7 +84,7 @@ You can apply online right now.
 
 <br>
 
-### What if I don’t meet the minimum service requirements?
+## What if I don’t meet the minimum service requirements?
 
 You may still be able to get a COE if you were discharged for one of the reasons listed below.
 
@@ -97,18 +98,18 @@ You may still be able to get a COE if you were discharged for one of the reasons
 
 <br>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
 <br>
 
-### Can I get a COE as the spouse of a Veteran?
+## Can I get a COE as the spouse of a Veteran?
 
 You may be able to get a COE if you’re the spouse of a Veteran, and at least one of the descriptions below is true for that Veteran.
 
@@ -124,7 +125,7 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 
 <br>
 
-### Can I get a COE in any other situations?
+## Can I get a COE in any other situations?
 
 You may be able to get a COE if you meet at least one of the requirements listed below.
 
@@ -141,7 +142,7 @@ You may be able to get a COE if you meet at least one of the requirements listed
 
 <br>
 
-### Can I use a COE I used before?
+## Can I use a COE I used before?
 
 You may be able to “restore” an entitlement you used in the past to buy another home with a VA direct or VA-backed loan if you meet at least one of the requirements listed below.
 
@@ -152,5 +153,5 @@ You may be able to “restore” an entitlement you used in the past to buy anot
 * You’ve repaid your prior loan in full, but haven’t sold the home you bought with that loan (you can only do this one time)
 
 To request an entitlement restoration, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and send it to the VA regional loan center for your state. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf). <br>
-[Find your state’s VA regional loan center](https://www.benefits.va.gov/homeloans/contact_rlc_info.asp).
+[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf) <br>
+[Find your state’s VA regional loan center](https://www.benefits.va.gov/homeloans/contact_rlc_info.asp)
