@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Purchase Loan
+title: Purchase Loan | Veterans Affairs
+heading: Purchase Loan
+display_title: Purchase Loan
+description: Find out if you meet the requirements to apply for a VA-backed purchase loan. These loans can help you buy, build, or modify a home by offering better terms and interest rates, reduce closing costs, and waive private mortgage insurance premiums. 
 concurrence: 
 order: 1
 aliases:
