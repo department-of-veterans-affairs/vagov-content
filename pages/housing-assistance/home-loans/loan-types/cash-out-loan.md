@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Cash-Out Refinance Loan
+title: Cash-Out Refinance Loan | Veterans Affairs
+heading: Cash-Out Refinance Loan
 display_title: Cash Out Refinance Loan
+description: Find out if you can apply for a VA-backed cash-out refinance loan that has new terms than your current loan. 
 concurrence:
 order: 2
 aliases:
