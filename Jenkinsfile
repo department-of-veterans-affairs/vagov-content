@@ -18,10 +18,14 @@ def checkoutAppCode = {
   checkout changelog: false, poll: false, scm: scmOptions
 }
 
-def getPullRequest() {
+def getPullRequest(numberOnly = false) {
   def github = GitHub.connect()
   def repo = github.getRepository("${GITHUB_ORG}/${CONTENT_REPO}")
-  return repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+  def pr = repo.queryPullRequests().head("${GITHUB_ORG}:${env.BRANCH_NAME}").list().asList().get(0)
+
+  if (numberOnly) return pr.getNumber()
+
+  return pr;
 }
 
 def commentOnGitHub(comment) {
@@ -60,15 +64,17 @@ node('vetsgov-general-purpose') {
       sh "git fetch --no-tags"
 
       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
-      def homepageChanged = changedFiles.indexOf('fragments/home') > -1
+      def homepageChanged = changedFiles.indexOf('fragments/home/banner.yml') > -1 || changedFiles.indexOf('fragments/home/news.yml') > -1
 
       if (homepageChanged) {
+        def numberOnly = true
+        def prNumber = getPullRequest(true)
         def message = """\
 @channel \
 Pull request opened containing changes to the VA.gov homepage! \
 These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
 Please review, merge, and if necessary, deploy this change as soon as possible. \
-https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pulls
+https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
 """
 
         slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
