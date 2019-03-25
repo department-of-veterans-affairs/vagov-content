@@ -64,7 +64,7 @@ node('vetsgov-general-purpose') {
       def commits = pr.listCommits();
 
       commits.each {
-        println("Commit author ${it.getCommit().getAuthor()}")
+        println("Commit author ${it.getCommit().getAuthor().getName()}")
       }
 
       // def author = pr.getUser();
