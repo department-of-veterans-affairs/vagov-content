@@ -61,9 +61,11 @@ node('vetsgov-general-purpose') {
       if (IS_MASTER) return
 
       def pr = getPullRequest()
-      def author = pr.user;
+      def author = pr.getUser();
       def prNumber = pr.getNumber();
       def link = "https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}";
+
+
       def message = "PR opened by GH user ${author}, ${link}";
 
 
