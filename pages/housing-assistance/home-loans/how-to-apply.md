@@ -166,5 +166,5 @@ The lender will appraise (assess the value) of the house. An appraisal estimates
 If they decide to grant the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house. 
 
 ## What if I have questions about the loan process?
-If you have any questions that your lender can't answer, please call your VA regional loan center at 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
+If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">1-877-827-3702</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
 [Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp) 
