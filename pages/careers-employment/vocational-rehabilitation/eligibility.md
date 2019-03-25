@@ -98,7 +98,14 @@ You can apply online right now.
 - Supportive rehabilitation services including case management, counseling, and medical referrals
 - Independent living services if you're unable to work due to the severity of your disabilities
 
-<br>
+### If I'm eligible for GI Bill benefits, can I get paid the Post-9/11 GI Bill subsistence rate for my VR&E program?
+If you're participating in a VR&E program and also qualify for Post-9/11 GI Bill benefits, you can choose to get paid the GI Bill subsistence rate instead of the Chapter 31 subsistence allowance rate. In most cases the GI Bill rate is higher.
+
+You'll need to officially choose the GI Bill subsistence rate. Your VRC can help you with this.<br> 
+[Contact your VRC for more information](/facilities/).<br>
+[View the current Chapter 31 subsistence allowance rates](https://benefits.va.gov/VOCREHAB/subsistence_allowance_rates.asp?_ga=2.203704281.836500684.1545080344-1582256389.1508352376).<br>
+[View the current Post-9/11 GI Bill benefit rates](/education/benefit-rates/).
+
 
 ### Get more information
 
@@ -106,7 +113,8 @@ You can apply online right now.
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
 - **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
-  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).
+  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
+  [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
 
 **We also offer:**
 - VR&E employment coordinators—located at our VA regional offices and many of our out-based locations—who can help you access the employment services available to you. <br>
@@ -115,3 +123,10 @@ You can apply online right now.
 [Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
 - Links to more resources outside VA that can help you in your job search. <br>
 [See our list of external resources](/careers-employment/veteran-resources/).
+- If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
+[Contact your VRC for more information](/facilities/).
+
+**Watch these videos to learn more about VR&E:**<br>
+[VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>
+[VR&E's 5 tracks to employment](https://www.youtube.com/watch?v=iWjc8aYPqqg&feature=youtu.be)
+<br>

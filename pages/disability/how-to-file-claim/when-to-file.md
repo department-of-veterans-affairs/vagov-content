@@ -72,7 +72,36 @@ You can file a claim for increased disability compensation if you have a rated s
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New Claim—File a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
+<div id="claim-more-benefits" class="usa-accordion-content">
 
+**You can file a new claim to request:**
+- More financial support
+- Special monthly payments
+- A shift to Individual Unemployability status (a status given to Veterans who are unable to work because of a disability)<br>
+[Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).
+
+Our decision on your new claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
+
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Service-Connected Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
+<div id="claim-secondary" class="usa-accordion-content">
+
+You can file a secondary claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
+
+**For example, you might file a secondary claim if you:**
+- Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
+- Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
+
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
+</div>
+</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
 <div id="claim-special" class="usa-accordion-content">
@@ -91,49 +120,19 @@ You can file a special claim to request compensation for special needs.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Reopened Claim—Provide new evidence to support a disability claim that was denied in the past.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—Provide new evidence to support a disability claim that was denied.</button>
 <div id="claim-new-evidence" class="usa-accordion-content">
 
-You can file a reopened claim if you meet all of the requirements listed below.
+You can file a supplemental claim if you meet all of the requirements listed below.
 
 **All of these must be true:**
-- We denied your claim at least 1 or more years ago, **and**
+- We denied your disability claim, **and**
 - You didn’t file an appeal at that time, **and**
 - You have new and material evidence (new supporting documents like a doctor’s report or medical test results) that we haven’t seen before and that's directly related to your claim
 
-For example, you might file a reopened claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
+For example, you might file a supplemental claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New Claim—File a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
-<div id="claim-more-benefits" class="usa-accordion-content">
-
-**You can file a new claim to request:**
-- More financial support
-- Special monthly payments
-- A shift to Individual Unemployability status (a status given to Veterans who are unable to work because of a disability)<br>
-[Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).
-
-Our decision on your new claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
-
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
-<div id="claim-secondary" class="usa-accordion-content">
-
-You can file a secondary claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
-
-**For example, you might file a secondary claim if you:**
-- Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
-- Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
-
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Learn more about supplemental claims](/decision-reviews/supplemental-claim/).
 
 </div>
 </li>

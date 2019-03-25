@@ -13,121 +13,140 @@ aliases:
 
 <div class="va-introtext">
 
-If you served at least 2 years on active duty, you may qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. Find out if you qualify.
+If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. 
 
 </div>
 
+## Can I get education benefits through the MGIB-AD program?
+
+You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of the categories below.
+
+### One of these categories must describe you
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits?
+#### CATEGORY I
 
-You can get education benefits if you were honorably discharged and you meet the requirements of one of categories below.
+**All of these are true. You:**
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Entered active duty for the first time after June 30, 1985, **and**
+- Had your military pay reduced by $100 a month for the first 12 months of service
 
-<br>
+**And at least one of these is true. You served continuously (without a break) for:**
+- 3 years, **or**
+- 2 years if that was your agreement when you enlisted, **or**
+- 4 years if you entered the Selected Reserve within a year of leaving active duty (called the 2 by 4 program)
 
-#### One of the below categories must describe you
-
-##### CATEGORY I
-
-**All of these are true:**
-
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You entered active duty for the first time after June 30, 1985, **and**
-- You had military pay reduced by $100 a month for the first 12 months of service, **and**
-- You served for 3 years continuously (no breaks in service), or for 2 years if that was your agreement when you enlisted. Or, if you entered the Selected Reserve within a year of leaving active duty, you served continuously for 4 years (the 2 by 4 program)
-
-##### CATEGORY II
-
-**All of these are true:**
-
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You entered active duty before January 1, 1977, or you entered active duty before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977, **and**
-- You served at least 1 day between October 19, 1984, and June 30, 1985, and you stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
-- You had at least 1 day remaining of chapter 34 entitlement as of December 31, 1989
-
-##### CATEGORY III
-
-**All of these are true:**
-
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You don’t qualify for MGIB under categories I or II, **and**
-- Before separation, you had military pay reduced by $1,200
-
-**And one of these is true:**
-
-- You were on active duty on September 30, 1990, and you separated involuntarily (not by your choice) after February 2, 1991, **or**
-- You involuntarily separated on or after November 30, 1993, **or**
-- You voluntarily separated under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
-
-##### CATEGORY IV
-
-**Both of these are true:**
-
--	You have a high school diploma, GED, or 12 hours of college credit, **and**
-- You had military pay reduced by $100 a month for 12 months or made a $1,200 lump-sum contribution (meaning you paid it all at once)
-
-**And one of these is true:**
-
-- You were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, **or**
-- You entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, and you chose MGIB between October 9, 1996, and July 9, 1997
-
-<br>
-
-### Who’s covered?
-
-Veterans
 </div>
 
-### What benefits can I get?
+<div class="feature" markdown="1">
 
-You may get up to 36 months of education benefits. We'll pay the benefits monthly and the amount depends on the following factors:
+#### CATEGORY II
 
-- Length of service
-- Type of educational or training program
-- Your category (as defined above)
-- Whether you qualify for a college fund or kicker
-- How much you have paid into the $600 Buy-Up program
+**All of these are true. You:**
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Entered active duty before January 1, 1977 (or before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977), **and**
+- Served at least 1 day between October 19, 1984, and June 30, 1985, and stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
+- Had at least 1 day of entitlement left under the Vietnam Era GI Bill (Chapter 34) as of December 31, 1989
 
-### How do I get these benefits?
+</div>
 
-[Apply online now](/education/apply-for-education-benefits/application/1990/).
+<div class="feature" markdown="1">
 
+#### CATEGORY III
 
-### How can I use my MGIB-AD education benefits?
+**All of these are true. You:**
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Don’t qualify for MGIB under categories I or II, **and**
+- Had your military pay reduced by $1,200 before separation
 
-You can use your GI Bill benefits in many ways to advance your education and training.
+**And one of these is true. You:**
+- Were on active duty on September 30, 1990, and involuntarily separated (not by your choice) after February 2, 1991, **or**
+- Involuntarily separated on or after November 30, 1993, **or**
+- Chose to voluntarily separate under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
 
-**Work toward a degree:**
+</div>
 
-- [Undergraduate and graduate degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)
-- [Tutorial Assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)
+<div class="feature" markdown="1">
 
-**Train for a specific career, trade, or industry:**
+#### CATEGORY IV
 
-- [Vocational/technical training and non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
-- [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
-- [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
-- [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+**Both of these are true. You:**
+-	Have a high school diploma, GED, or 12 hours of college credit, **and**
+- Had military pay reduced by $100 a month for 12 months or made a $1,200 lump-sum contribution (meaning you paid it all at once)
 
-**Work while you study:**
+**And one of these is true. You:**
+- Were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, **or**
+- Entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, and chose MGIB between October 9, 1996, and July 9, 1997
 
-- [Co-op training](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)
-- [Work Study](/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)
+</div>
 
-**Take classes from home:**
+## What benefits can I get?
 
-- [Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
-- [Independent and distance learning](/education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning/)
+You may get up to 36 months of education benefits. We'll pay the benefits monthly. The amount you'll receive depends on these factors:
 
-**Get increased or faster payments:**
+- Your length of service, **and**
+- The type of educational or training program you choose, **and**
+- Your category (as defined above), **and**
+- Whether you qualify for a college fund or kicker, **and**
+- How much you've paid into the $600 Buy-Up program <br>
+[Learn more about the $600 Buy-Up Program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/).
 
-- [Tuition Assistance Top-Up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
-- [Accelerated payments for high-tech programs](/education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/)
-- [$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/): While on active duty, you can pay into this program up to a maximum (the highest amount allowed) of $600 to get increased monthly benefits. If you pay the maximum amount, you can qualify for up to $5,400 in added GI Bill benefits.
+**Note:** You usually have 10 years to use your MGIB-AD benefits. This may change depending on your situation.
 
-[Use the GI Bill Comparison Tool to compare benefits at schools](/gi-bill-comparison-tool). <br>
-[Read the Montgomery GI Bill Active Duty pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf).
+------
 
-“GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase.” [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+## How do I get these benefits?
+
+Follow the steps below to apply for these benefits.
+
+<ol class="process">
+  <li class="process-step list-one">
+    <h3>Make sure we've approved your program</h3>
+    <p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
+    <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.<br>
+    <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a>.</p>
+  <p></p>
+    <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>
+  </li>
+  <li class="process-step list-two">
+    <h3>Apply for benefits</h3>
+    <p>You can submit your Application for VA Benefits (VA Form 22-1990) online. <br>
+      <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>.</p>
+  <p></p>
+    <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a>.</p>    
+  </li>
+  <li class="process-step list-three">
+    <h3>Ask your school or training program to certify your enrollment</h3><br>
+    <p>The certifying official may be someone in your school's financial aid, Veterans affairs, registrar, admissions, or counseling office. For on-the-job training or an apprenticeship, the official may be someone in your school's training, finance, or human resources office.<p>
+                                     <p></p>
+    <p><b>Note:</b> You'll then need to verify your enrollment at the end of each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">1-877-823-2378</a>. <br>
+    <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a>.</p>
+    </li>        
+</ol>
+
+## How can I use my MGIB-AD education benefits?
+
+You can use your GI Bill benefits in many ways to advance your education and training. <br>
+[Find out how to use your GI Bill benefits](/education/about-gi-bill-benefits/how-to-use-benefits/).
+
+**In some cases, we may help you pay for:**
+
+  - Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses)
+  - Deficiency courses (classes some student must take in order to be admitted to a certain college)
+  - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
+
+[See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch30).
+
+## Can I qualify for more than one VA education benefit?
+
+Yes. You may qualify for more than one education benefit. If you're eligible for more than one, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
+
+We can help you make this decision. Call us at 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>). If you have hearing loss, call TTY: 711.
+
+<br>
+
+GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+

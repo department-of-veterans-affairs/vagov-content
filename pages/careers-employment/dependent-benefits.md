@@ -44,7 +44,7 @@ You may be eligible for educational and vocational counseling if you meet both o
 
 </div>
 
-### What kind of VR&amp;E benefits can I get?
+## What kind of VR&amp;E benefits can I get?
 
 **You can get educational and vocational counseling, plus help with:**
 
@@ -61,7 +61,7 @@ You may be eligible for educational and vocational counseling if you meet both o
 <hr>
 
 
-### Follow these steps to apply for Chapter 36 services:
+## Follow these steps to apply for Chapter 36 services:
 
 <ol class="process">
 <li class="process-step list-one">
