@@ -61,15 +61,21 @@ node('vetsgov-general-purpose') {
       if (IS_MASTER) return
 
       def pr = getPullRequest()
-      def author = pr.getUser();
-      def prNumber = pr.getNumber();
-      def link = "https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}";
+      def commits = pr.listCommits();
+
+      commits.each {
+        println("Commit author ${it.getCommit().getAuthor()}")
+      }
+
+      // def author = pr.getUser();
+      // def prNumber = pr.getNumber();
+      // def link = "https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}";
 
 
-      def message = "PR opened by GH user ${author}, ${link}";
+      // def message = "PR opened by GH user ${author}, ${link}";
 
 
-      slackSend(message: message, channel: 'enrique-test', color: '#DDDD00', failOnError: false)
+      // slackSend(message: message, channel: 'enrique-test', color: '#DDDD00', failOnError: false)
 
 //       sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
 //       sh "git fetch --no-tags"
