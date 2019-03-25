@@ -66,7 +66,7 @@ node('vetsgov-general-purpose') {
       def isFirstCommit = commits.size() <= 10
 
       if (isFirstCommit) {
-        println(filesChanged)
+        println(pr.title)
       }
 
       // def author = pr.getUser();
