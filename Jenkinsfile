@@ -62,7 +62,9 @@ node('vetsgov-general-purpose') {
 
       def pr = getPullRequest()
       def author = pr.user;
-      def message = "PR opened by GH user ${author}";
+      def prNumber = pr.getNumber();
+      def link = "https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}";
+      def message = "PR opened by GH user ${author}, ${link}";
 
 
       slackSend(message: message, channel: 'enrique-test', color: '#DDDD00', failOnError: false)
@@ -85,7 +87,7 @@ node('vetsgov-general-purpose') {
 // """
 
         // slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
-      }
+      // }
     }
   }
 
