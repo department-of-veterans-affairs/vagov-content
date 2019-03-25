@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Pension Rates for Veterans
 display_title: Veterans Pension Rates
+description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 concurrence:
 spoke: More Resources
 order: 1
