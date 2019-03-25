@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-VA pension rates are based on the difference between countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR). Find out if you can get this benefit.  
+Your VA pension rate is based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR). Find out if you can get this benefit.  
 
 </div>
 
