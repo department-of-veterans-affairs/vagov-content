@@ -61,13 +61,17 @@ node('vetsgov-general-purpose') {
       if (IS_MASTER) return
 
       def pr = getPullRequest()
-      def commits = pr.listCommits();
-      // def filesChanged = pr.listFiles().join();
-      // def isFirstCommit = commits.size() <= 10
+      def commitList = pr.listCommits();
 
-      // if (isFirstCommit) {
-        println(pr.title)
-      // }
+      def oneCommit = false
+
+      commitList.each {
+        def commit = it.getCommit()
+        def message = commit.getMessage()
+
+        println(message)
+
+      }
 
       // def author = pr.getUser();
       // def prNumber = pr.getNumber();
