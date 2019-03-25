@@ -217,7 +217,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 
 
-### Additional life insurance forms
+## Additional life insurance forms
 - Servicemembers' Group Life Insurance Supplemental SGLI Beneficiary Form (SGLV 8286S) <br>
 [Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf) <br>
 - Claim for Death Benefits (SGLV 8283)<br>
@@ -228,7 +228,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 
 ------------
 
-### Veterans’ Mortgage Life Insurance (VMLI)
+## Veterans’ Mortgage Life Insurance (VMLI)
 
 If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
 
