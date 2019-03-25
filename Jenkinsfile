@@ -60,22 +60,29 @@ node('vetsgov-general-purpose') {
       checkout scm
       if (IS_MASTER) return
 
-      sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
-      sh "git fetch --no-tags"
+      def pr = getPullRequest()
+      def author = pr.user;
+      def message = "PR opened by GH user ${author}";
 
-      def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
-      def homepageChanged = changedFiles.indexOf('fragments/home/banner.yml') > -1 || changedFiles.indexOf('fragments/home/news.yml') > -1
 
-      if (homepageChanged) {
-        def numberOnly = true
-        def prNumber = getPullRequest(numberOnly)
-        def message = """\
-@channel \
-Pull request opened containing changes to the VA.gov homepage! \
-These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
-Please review, merge, and if necessary, deploy this change as soon as possible. \
-https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
-"""
+      slackSend(message: message, channel: 'enrique-test', color: '#DDDD00', failOnError: false)
+
+//       sh "git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master"
+//       sh "git fetch --no-tags"
+
+//       def changedFiles = sh(returnStdout: true, script: "git diff --name-only origin/master..origin/${env.BRANCH_NAME}")
+//       def homepageChanged = changedFiles.indexOf('fragments/home/banner.yml') > -1 || changedFiles.indexOf('fragments/home/news.yml') > -1
+
+//       if (homepageChanged) {
+//         def numberOnly = true
+//         def prNumber = getPullRequest(numberOnly)
+//         def message = """\
+// @channel \
+// Pull request opened containing changes to the VA.gov homepage! \
+// These changes usually contain content that is high priority, such as for a weather alert or government shutdown. \
+// Please review, merge, and if necessary, deploy this change as soon as possible. \
+// https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
+// """
 
         // slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
       }
