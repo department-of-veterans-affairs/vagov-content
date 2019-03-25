@@ -60,7 +60,7 @@ node('vetsgov-general-purpose') {
       checkout scm
       if (IS_MASTER) return
 
-      def pr = getPullRequest()
+      def pr = getPullRequest.getPullRequest()
       def commitList = pr.listCommits();
 
       def oneCommit = false
