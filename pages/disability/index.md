@@ -110,7 +110,7 @@ hublinks:
       label: Check Your VA Claim or Appeal Status
       description: Track the status of your disability claim or appeal.
       external: false
-    - url: "/disability-benefits/apply/form-526-disability-claim"
+    - url: "/disability/how-to-file-claim"
       label: File for a VA Disability Increase
       description: If your service-connected disability has gotten worse, find out how
         to file a claim to increase your disability rating.
@@ -131,7 +131,7 @@ hublinks:
       description: Send us evidence (like doctor's reports, medical test results, or
         service records) to help support your open disability claim.
       external: false
-    - url: "/disability/how-to-file-claim/supplemental-forms/"
+    - url: "/disability/how-to-file-claim/additional-forms/"
       label: File Additional Forms for Your Disability Claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.

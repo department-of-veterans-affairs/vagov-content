@@ -95,7 +95,7 @@ Once you start your fully developed claim, you'll have up to 1 year to complete 
 
 ## What should the evidence show to support my disability claim?
 
-This depends on the type of claim you’re filing.<br>
+This depends on the type of claim you’re filing. <br>
 
 [See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/)<br>
 
@@ -128,6 +128,7 @@ You'll need to upload all medical evidence or supporting documents at the end of
 
 You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
+
 
 
 <br>

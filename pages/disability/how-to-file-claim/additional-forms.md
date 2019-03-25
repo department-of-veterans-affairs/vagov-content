@@ -15,7 +15,7 @@ relatedlinks:
       description:
 aliases:
   - /disability-benefits/apply/supplemental-forms/
-  - /disability/how-to-file-claim/additional-forms/
+  - /disability/how-to-file-claim/supplemental-forms/
 ---
 
 <div class="va-introtext">
@@ -57,12 +57,18 @@ In some cases, you may need to turn in one or more additional forms to support y
     <td><strong>Claiming Posttraumatic Stress Disorder (PTSD)</strong></td>
     <td><p>A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF">Download VA Form 21-0781</a></p>
+        <p><strong>or</strong></p>
+        <p>You can fill out VA Form 21-0781 when you file a disability claim online.</p>
+        <p><a href="/disability/how-to-file-claim/">File a disability compensation claim</a></p>
     </td>
   </tr>
   <tr>
    <td><strong>Claiming PTSD based on a personal assault</strong></td>
     <td><p>A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf">Download VA Form 21-0781a</a></p>
+        <p><strong>or</strong></p>
+        <p>You can fill out VA Form 21-0781a when you file a disability claim online.</p>
+        <p><a href="/disability/how-to-file-claim/">File a disability compensation claim</a></p>
     </td>
   </tr>
   <tr>
@@ -109,7 +115,10 @@ In some cases, you may need to turn in one or more additional forms to support y
    <td><strong>Authorizing the release of your medical records to VA</strong></td>
     <td><p>Authorization to Disclose Information to VA (VA Form 21-4142)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf">Download VA Form 21-4142</a></p>
-     </td>
+        <p><strong>or</strong></p>
+        <p>You can fill out VA Form 21-4142 when you file a disability claim online.</p>
+        <p><a href="/disability/how-to-file-claim/">File a disability compensation claim</a></p> 
+    </td>
   </tr>
 </tbody>
 </table>
