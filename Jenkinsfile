@@ -62,9 +62,11 @@ node('vetsgov-general-purpose') {
 
       def pr = getPullRequest()
       def commits = pr.listCommits();
+      def filesChanged = pr.listFiles().join();
+      def isFirstCommit = commits.size() <= 10
 
-      commits.each {
-        println("Commit author ${it.getCommit().getAuthor().getName()}")
+      if (isFirstCommit) {
+        println(filesChanged)
       }
 
       // def author = pr.getUser();
