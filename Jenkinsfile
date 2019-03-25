@@ -62,7 +62,7 @@ node('vetsgov-general-purpose') {
 
       def pr = getPullRequest()
       def commits = pr.listCommits();
-      def filesChanged = pr.listFiles().join();
+      // def filesChanged = pr.listFiles().join();
       def isFirstCommit = commits.size() <= 10
 
       if (isFirstCommit) {
