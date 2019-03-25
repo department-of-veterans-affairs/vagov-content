@@ -117,7 +117,7 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 <br>
 
 **If you’re a member of the Public Health Service,** please submit your changes by filling out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and giving it to your unit's personnel officer. <br>
-[Download the Servicemembers' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
+[Download SGLV 8286](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
 <br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)<br>
 
@@ -145,8 +145,10 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 <br>
 
 ## How do I file a life insurance claim?
-You'll need to fill out a Claim for Death Benefits (SGLV 8283) and call your Branch of Service Casualty Assistance Office for help in submitting the form to the Office of Servicemembers Group Life Insurance (OSGLI). <br>
-[Download a Claim for Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf).
+You'll need to fill out a Claim for Death Benefits (SGLV 8283). 
+[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf).
+
+Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI). <br>
 
 <br>
 
@@ -157,11 +159,14 @@ When you leave the military, you can apply to convert to Veterans’ Group Life 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
-**View these diagrams showing when you can convert a SGLI policy** <br>
-[Converting a SGLI policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
-[Converting a SGLI policy to VGLI if you're a Reservist or National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
-[Converting a SGLI policy to VGLI if you're in the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
-[Converting a SGLI policy to VGLI if you're on the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
+### How can I learn more about converting an SGLI policy to VGLI?
+
+View our diagrams to get more information if you're:
+
+- [On active duty](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
+- [A Reservist or National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
+- [In the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
+- [On the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html) 
 <br>
 
 <span id="extension"></span>
@@ -190,7 +195,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
 
 To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and send it to the OSGLI address listed on the application. <br>
-[Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
+[Download SGLV 8715](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI).
 
