@@ -34,7 +34,7 @@ You may be able to get FSGLI if you’re the spouse or dependent child of a serv
 
 **One of these must be true. The service member is:**
 
-* An active-duty service member covered by full-time SGLI, **or**
+* On active duty and covered by full-time SGLI, **or**
 * A member of the National Guard or Ready Reserve covered by full-time SGLI
 
 You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matter if your own status is active duty, retired, or civilian.
@@ -66,7 +66,7 @@ We’ll automatically insure you under FSGLI. In this case, we’ll automaticall
 
 We won’t automatically cover you. You’ll need to sign up through your service member.
 
-**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have your service member sign you up online through the SGLI Online Enrollment System (SOES). 
+**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have them sign you up online through the SGLI Online Enrollment System (SOES). 
 
 To access SOES, have your service member:
 
@@ -92,7 +92,7 @@ To access SOES, have your service member:
 
 Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
-**If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have your service member turn it in to their unit's personnel officer. <br>
+**If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have them turn it in to their unit's personnel officer. <br>
 [Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 
 <br>
@@ -304,8 +304,11 @@ Yes, in some cases. Coverage lasts until the child is 18 years old. But, if the 
 <br>
 
 ## How do I file a life insurance claim? 
-You’ll need to fill out a Claim for Family Coverage Death Benefits (SGLV 8283A) and call your Branch of Service Casualty Assistance Office for help in submitting the form to the Office of Servicemembers Group Life Insurance (OSGLI). <br>
-[Download a Claim for Family Coverage Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf)
+
+You’ll need to fill out a Claim for Family Coverage Death Benefits (SGLV 8283A).<br>
+[Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf)
+
+Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI).
 
 <br>
 
@@ -319,7 +322,9 @@ You have the option to convert spousal FSGLI coverage to a permanent, individual
 * Written election to end their SGLI coverage
 * Death
 
-If any of the above events happen, you, as the service member’s spouse, become solely responsible for all aspects of the policy, including premium payments.
+[View our diagram about converting to an individual policy](https://benefits.va.gov/BENEFITS/infographics/familysgli.html)
+
+If any of the events listed above happen, you, as the service member’s spouse, become solely responsible for all aspects of the policy, including premium payments.
 
 You can’t convert other types of policies—such as term, variable, or universal life insurance. And, supplementary policy benefits—such as accidental death and dismemberment or a waiver of the premium for disability—aren’t considered part of the conversion policy.
 
@@ -334,9 +339,6 @@ You can’t convert other types of policies—such as term, variable, or univers
   - The service member’s FSGLI spousal declination
   - The service member’s SGLI declination
   - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate) <br>
-  
-**View this diagram showing when you can convert a spousal FSGLI policy** <br>
-[Converting a spousal FSGLI policy to an individual policy](https://benefits.va.gov/BENEFITS/infographics/familysgli.html)
 
 <br>
 
@@ -349,7 +351,7 @@ You can’t convert other types of policies—such as term, variable, or univers
 ### Additional life insurance forms
 - Claim for Family Coverage Death Benefits (SGLV 8283A) <br>
 [Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) 
-- Family Coverage Accelerated Benefits Option Form (SGLV 8284A) <br>
+- Claim for Accelerated Benefits (SGLV 8284A) <br>
 [Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
-- Report of a Death of a Family Member (SGLV 8700) <br>
+- Report of Death of Family Member (SGLV 8700) <br>
 [Download SGLV 8700](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
