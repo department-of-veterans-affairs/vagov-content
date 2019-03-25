@@ -77,7 +77,7 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 </div>
 
-<div id="react-applicationStatus" class="static-page-widget">
+<div id="react-applicationStatus" data-widget-type="burials-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
 </div>
 

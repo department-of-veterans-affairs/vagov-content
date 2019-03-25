@@ -56,28 +56,30 @@ Check our list of military units and Air Force specialty codes to see if your un
 
 </div>
 
-### How to file a claim online
+### What kind of disability benefits can I get?
 
-This is the fastest way to file a claim for disability compensation and get your decision:
+- Health care
+- Compensation (payments)
 
-<ol class="process" markdown="0">
-<li class="process-step list-one" markdown="1">
+----
 
-[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
+### How do I get these benefits?
 
-</li>
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure to Agent Orange while serving in the military.
 
-<li class="process-step list-two" markdown="1">
+You can upload supporting documents along with your online application, including:
 
-Select a disability benefit.
+  - Discharge or separation papers (DD214 or other separation documents)
+  - USAF Form 2096 (unit where you were assigned at the time of the training action)
+  - USAF Form 5 (aircraft flight duties)
+  - USAF Form 781 (aircraft maintenance duties)
+  - Dependency records (marriage certificate and children’s birth certificates)
+  - Medical evidence (like a doctor’s report or medical test results)
 
-</li>
 
-<li class="process-step list-three" markdown="1">
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
 
-Type C-123 next to the disability in the text box.
 
-</li>
 
 <li class="process-step list-four" markdown="0">
 

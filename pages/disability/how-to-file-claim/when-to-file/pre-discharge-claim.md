@@ -102,7 +102,7 @@ You can file a claim online, by mail, or in person. <br>
 
 ### If you're stationed overseas
 
-Depending on where you're stationed, you can start your claim at a BDD office or through the “Fly-in” claim process, which lets you apply by fax or email before your in-person appointment. <br>
+You can start your claim at a BDD office. <br>
 [Find out how to file a claim overseas](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/).
 
 #### Need help applying?
@@ -113,34 +113,10 @@ If you’re on a military base or other installation, contact your local Transit
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="drc-program">If you have less than 90 days left on active duty: <br>
-Apply through the Decision Ready Claim (DRC) program or file a fully developed or standard claim</button>
+File a fully developed or standard claim</button>
 <div id="drc-program" class="usa-accordion-content">
 
 If you have less than 90 days left on active duty, you have a few options for filing a disability claim:
-
-### Go through the Decision Ready Claim (DRC) program
-
-This is the fastest way to get your claim processed. You'll work with an accredited Veterans Service Organization (VSO) to file your claim. A VSO is a private nonprofit group that serves as an advocate for Veterans and Servicemembers as well as their dependents and survivors. With your VSO's help, you can get a decision within 30 days.
-
-**To file a claim through the DRC program, you'll need to:**
-
-* Appoint and work with an accredited VSO, **and**
-* Gather all relevant and required evidence (documents like doctor's reports and medical test results) to support your claim, **and**
-* Attend a VA claim exam, if needed, before filing your claim. Your VSO will schedule this exam for you.
-
-**Note:** You can't use the DRC program if you're enrolled in the Integrated Disability Evaluation System (IDES) or if you have more than 90 days left on active duty. There are also other factors that may exclude you from this program.<br>
-[Learn about the IDES program](/careers-employment/vocational-rehabilitation/ides/). <br>
-[See the full list of DRC program exclusions](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
-
-**For more information on the DRC program:**
-
-Call our toll-free hotline at <a href="tel:+18008271000">1-800-827-1000</a>. <br>
-
-[Get more DRC information](/disability/how-to-file-claim/evidence-needed/decision-ready-claims/).
-
-
-Or contact your local VSO.<br>
-[Find a VSO](https://www.ebenefits.va.gov/ebenefits/vso-search).<br>
 
 ### File a fully developed or standard claim
 

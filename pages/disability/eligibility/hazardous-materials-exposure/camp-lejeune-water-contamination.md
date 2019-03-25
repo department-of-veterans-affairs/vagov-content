@@ -58,11 +58,14 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
 
 **You can file a claim in any of these ways:**
-- [File a claim online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
+- [File a claim online on VA.gov](/disability/how-to-file-claim/), **or**
+- [File a claim online on eBenefits](http://www.ebenefits.va.gov), **or**
 - [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
 
-## Are Veterans and their family members covered for health care?
+**Note:** When you file, be sure to state that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results).
+
+### Are Veterans and their family members covered for health care?
 
 Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumulative days from August 1953 through December 1987—and their family members—can get health care benefits. We may pay you back for your out-of-pocket health care costs that were related to any of these 15 conditions:
 
@@ -91,7 +94,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
 
-And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below. 
+And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below.
 
 **You must provide evidence of payment during one of these time periods:**
 - Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**

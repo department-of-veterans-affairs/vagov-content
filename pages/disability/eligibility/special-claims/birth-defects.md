@@ -83,7 +83,8 @@ Your child may be able to get disability benefits if they have a covered birth d
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim).</br>
 [View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp).
 
-### Get more information
+### Get more information 
 
 Does your child have spina bifida? <br>
-[Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp).
+[Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp).<br>
+[Learn more about VR&E benefits for children with spina bifida and other birth defects](https://www.benefits.va.gov/VOCREHAB/Ben_for_Children_with_Disabilities_Chapter_18.asp).

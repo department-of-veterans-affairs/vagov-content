@@ -1,4 +1,4 @@
-- heading: Health Care
+- heading: Health care
   hub: health-care
   links:
     - url: /health-care/refill-track-prescriptions/
@@ -29,7 +29,7 @@
     - url: /disability/upload-supporting-evidence/
       title: Upload evidence to support your claim
       nav_path: Upload evidence to support your claim
-    - url: /disability-benefits/apply/form-526-disability-claim/introduction
+    - url: /disability/how-to-file-claim
       title: File for a VA disability increase
       nav_path: File for a VA disability increase
     - url: /disability/how-to-file-claim/

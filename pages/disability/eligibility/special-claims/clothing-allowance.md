@@ -41,13 +41,21 @@ Veterans
 - A one-time payment, **or**
 - A yearly payment <br>
 
-**Note:** The current clothing allowance rate is $795.21. <br>
+**Note:** The current clothing allowance rate is $817.48. <br>
 
 [View current rates for special allowances](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp).
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for disability compensation.
+You’ll need to file a claim for disability compensation.<br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+
+When you file a disability claim, you’ll also need to fill out this additional form:
+
+An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
+[Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
+
+Bring it to the prosthetic representative at your local VA medical center. 
 
 To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
 
@@ -61,8 +69,6 @@ To get your yearly payment, you’ll need to qualify by August 1 of that year. Y
 **Note**: If you qualify, you'll receive payments between September 1 and October 31.
 
 
-To file a claim, fill out an Application for Annual Clothing Allowance (VA Form 10-8678), and give it to the prosthetic representative at your local VA medical center. <br>
-[Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
 
 Use our facility locator to find your nearest VA medical center. <br>
 [Find a VA medical center near you](/find-locations/).
