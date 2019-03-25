@@ -109,27 +109,9 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 
 </div>
 </li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-survivor">Surviving spouse of a Veteran who died on active duty or who had a service-connected disability</button>
-<div id="apply-coe-survivor" class="usa-accordion-content">
-
-If you’re a **surviving spouse** who qualifies for home loan benefits, you’ll need the Veteran’s discharge documents (DD214)—if available—**and:**
-
-- **If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll also need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-[Download VA Form 26-1817](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf). **Or**,
-- **If you’re not receiving DIC benefits,** you’ll need to fill out and send an Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
-  - A copy of your marriage license, **and**
-  - The Veteran’s death certificate
-
-[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
-<br/>
-[Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/).
-<br/>
-[Get military service records online](https://www.archives.gov/veterans/military-service-records/).
-
-</div>
-</li>
 </ul>
+
+[Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/surviving-spouse/)
 
 <!-- </li>
 
@@ -159,7 +141,4 @@ To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 2
 
 ### Next steps for getting a VA direct or VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender (for most loans, the lender will be a private bank or mortgage company; for the Native American Direct Loan, we’ll be your lender).
-
-
-
+Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender. For most loans, the lender will be a private bank or mortgage company. For the Native American Direct Loan, we’ll be your lender.

@@ -34,7 +34,7 @@ With our VA Appointments tools, you can schedule some VA health care appointment
 
 </div>
 
-<p><b>Please note:</b> The fastest way to make all your VA appointments is usually to call the VA health facility where you want to receive care. If you can’t keep an existing appointment, please contact the facility as soon as possible to reschedule or cancel.<br>
+<p><strong>Please note:</strong> The fastest way to make all your VA appointments is usually to call the VA health facility where you want to receive care. If you can’t keep an existing appointment, please contact the facility as soon as possible to reschedule or cancel.<br>
 <a href="/find-locations/">Find your VA health facility’s phone number</a>.</p>
 
 <div class="usa-alert usa-alert-warning">
@@ -43,11 +43,11 @@ With our VA Appointments tools, you can schedule some VA health care appointment
     <a id="crisis-expander-link">Find out how to get support anytime day or night.</a></h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
-             <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>      
+             <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
         <p><strong>To connect with a Veterans Crisis Line responder anytime day or night:</strong></p>
         <ul>
-             <li>Call <a href="tel:+18002738255">1-800-273-8255</a>, then press 1.</li>
-          <li><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/">Start a confidential Veterans Chat</a>.</li>
+             <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
+          <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon">Start a confidential Veterans Chat</a>.</li>
            <li>Text <a href="sms:838255">838255</a>.</li>
            <li>If you have hearing loss, call TTY: <a href="tel:+18007994889">1-800-799-4889</a>.
            </ul>
@@ -80,7 +80,7 @@ With our VA Appointments tools, you can schedule some VA health care appointment
 
 VA Appointments tools offer a secure, web-based way to schedule, view, and organize your VA appointments online.
 
-<b>You can use these tools to:</b>
+<strong>You can use these tools to:</strong>
 
 <ul>
   <li>Schedule some of your VA medical appointments online</li>
@@ -105,19 +105,19 @@ VA Appointments tools offer a secure, web-based way to schedule, view, and organ
 
 You can use these tools if you meet all of the requirements listed below.
 
-<b>All of these must be true. You:</b>
+<strong>All of these must be true. You:</strong>
 <ul>
-  <li>Are enrolled in VA health care, <b>and</b></li>
-  <li>Are scheduling your appointment with a VA health facility that uses online scheduling, <b>and</b></li>
+  <li>Are enrolled in VA health care, <strong>and</strong></li>
+  <li>Are scheduling your appointment with a VA health facility that uses online scheduling, <strong>and</strong></li>
   <li>Have had an appointment at that VA health facility within the last 2 years</li>
 </ul>
 <a href="/health-care/how-to-apply/">Find out how to apply for VA health care</a>.
 
-<b>And, you must have one of these free accounts:</b>
+<strong>And, you must have one of these free accounts:</strong>
 <ul>
-  <li>A Premium <b>My HealtheVet</b> account, <b>or</b></li>
-  <li>A Premium <b>DS Logon</b> account (used for eBenefits and milConnect), <b>or</b></li>
-  <li>A verified <b>ID.me</b> account that you can create here on VA.gov</li>
+  <li>A Premium <strong>My HealtheVet</strong> account, <strong>or</strong></li>
+  <li>A Premium <strong>DS Logon</strong> account (used for eBenefits and milConnect), <strong>or</strong></li>
+  <li>A verified <strong>ID.me</strong> account that you can create here on VA.gov</li>
 </ul>
 
 <a href="https://www.myhealth.va.gov/mhv-portal-web/my-healthevet-offers-three-account-types">Learn about the 3 different My HealtheVet account types</a>.
@@ -148,7 +148,7 @@ You can check our list of VA facilities that are currently using the online sche
 
 This will depend on the VA health facility where you’re receiving care.
 
-<b>You may be able to schedule outpatient appointments for:</b>
+<strong>You may be able to schedule outpatient appointments for:</strong>
 <ul>
   <li>Primary care</li>
   <li>Mental health</li>
