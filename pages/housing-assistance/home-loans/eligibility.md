@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility Requirements for VA Home Loan Programs
+title: Eligibility requirements for VA home loan programs
 display_title: Eligibility
 description: Review eligibility requirements for VA home loan programs. Find out if you qualify for a Certificate of Eligibility (COE), which shows your lender that you qualify for a VA-backed home loan. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 concurrence:
@@ -39,7 +39,7 @@ You may be able to get a COE if you didn't receive a dishonorable discharge and 
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="va-loan-eligibility-vets">Service requirements for Veterans and Servicemembers on active duty</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="va-loan-eligibility-vets">Service requirements for Veterans and service members on active duty</button>
 <div id="va-loan-eligibility-vets" class="usa-accordion-content">
 
 | When did you serve? | You meet the minimum active-duty service requirement if you served for at least this amount of time: |
@@ -80,7 +80,7 @@ You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan">Go to eBenefits to Apply</a>
 
-[Learn more about how to apply for your COE](/housing-assistance/home-loans/how-to-apply/).
+[Learn more about how to apply for your COE](/housing-assistance/home-loans/how-to-apply/)
 
 <br>
 
@@ -111,17 +111,8 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 ## Can I get a COE as the spouse of a Veteran?
 
-You may be able to get a COE if you’re the spouse of a Veteran, and at least one of the descriptions below is true for that Veteran.
-
-**At least one of these must be true. The Veteran:**
-
-* Is missing in action, **or**
-* Is a prisoner of war (POW), **or**
-* Died while in service or from a service-connected disability and you didn’t remarry, **or**
-* Died while in service or from a service-connected disability and you didn’t remarry before you were 57 years old or before December 16, 2003, **or**
-* Had been totally disabled and then died, but whose disability may not have been the cause of death (in certain situations)
-
-**Note:** A surviving spouse who remarried before December 16, 2003, and on or after their 57th birthday, must have applied no later than December 15, 2004, to establish home loan eligibility. We must deny applications we received after December 15, 2004, from surviving spouses who remarried before December 16, 2003.
+You may be able to get a COE if you're the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War (POW). <br>
+[Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/surviving-spouse/)
 
 <br>
 
@@ -138,7 +129,6 @@ You may be able to get a COE if you meet at least one of the requirements listed
   - Midshipman at the United States Naval Academy
   - Officer of the National Oceanic & Atmospheric Administration
   - Merchant seaman during World War II
-
 
 <br>
 
