@@ -194,31 +194,28 @@ You’ll need to apply for the Servicemembers’ Group Life Insurance Disability
 To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and send it to the OSGLI address listed on the application. <br>
 [Download SGLV 8715](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
-If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI).
+If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI). <br>
+[View our diagram about converting an SGLI-DE policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
-**View our diagram showing when you can convert a SGLI-DE policy** <br>
-[Converting a SGLI-DE policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
-<br>
+## What if I need help with my claim? 
 
-### What if I need help with my claim? 
-
-If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
+If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at <a href="tel:+18004191473">800-419-1473</a>, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com">Email the Prudential Insurance Company</a> 
   
 <br>
   
-### Where can I find more information?
+## Where can I find more information?
 
-[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
+[See our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 [Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 
 
 ### Additional life insurance forms
-- Servicemembers' Group Life Insurance Supplemental Beneficiary Form (SGLV 8286S) <br>
+- Servicemembers' Group Life Insurance Supplemental SGLI Beneficiary Form (SGLV 8286S) <br>
 [Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf) <br>
 - Claim for Death Benefits (SGLV 8283)<br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
@@ -235,7 +232,4 @@ If you have a severe service-connected disability that we’ve concluded was cau
 To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
 [Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
 [Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)<br>
-
-### Where can I find more information?
-
 [Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)
