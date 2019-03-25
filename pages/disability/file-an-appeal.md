@@ -4,6 +4,7 @@ title: File a VA Disability Appeal
 display_title: File an Appeal
 description: Learn about the VA appeals process and how to file a notice of disagreement to start an appeal if you disagree with our decision on your claim. Get answers to questions about the steps in the VA appeals timeline and find out how long it usually takes us to make a decision on an appeal.
 order: 3
+appealsbanner: true
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -12,6 +13,7 @@ spoke: Manage Benefits
 aliases:
   - /disability-benefits/claims-appeal/
 ---
+<br>
 
 <div class="va-introtext">
 You have the right to appeal any benefits decision made by the Veterans Benefits Administration. The VA appeals process is set in law and is different from other judicial appeals processes. Find out how to file an appeal.
@@ -21,7 +23,7 @@ You have the right to appeal any benefits decision made by the Veterans Benefits
 
 ### Have you already filed an appeal?
 
-When the Veterans Benefits Administration Regional Office receives your Notice of Disagreement, you’ll be able to check the status of your appeal online.
+When the regional office for the Veterans Benefits Administration receives your Notice of Disagreement, you’ll be able to check the status of your appeal online.
 
 <a class="usa-button-primary" href="/track-claims">Track Your Appeal</a>
 

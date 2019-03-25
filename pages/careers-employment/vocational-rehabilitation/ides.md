@@ -36,7 +36,7 @@ Find out how to access VR&E services as soon as possible through IDES.
 
 <br>
 
-### What services can I get through VR&E?
+## What services can I get through VR&E?
 
 **Depending on your needs and goals, services may include:**
 -	A complete evaluation to determine your abilities, skills, and interests for employment
@@ -50,7 +50,7 @@ Find out how to access VR&E services as soon as possible through IDES.
 
 <hr>
 
-### How do I access these services?
+## How do I access these services?
 
 We have Vocational Rehabilitation Counselors (VRCs) assigned to military installations hosting an IDES site.  When you’re referred to the Physical Evaluation Board (PEB) at one of these sites, you’ll have a mandatory meeting with a VRC.
 

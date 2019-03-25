@@ -17,19 +17,19 @@ crosslinks:
   - heading: Other VA Benefits and Services
     links:
     - url: "/disability/"
-      title: <b>Disability Compensation (Pay)</b>
+      title: <strong>Disability Compensation (Pay)</strong>
       description: Learn how to file a claim for disability compensation and manage your disability benefits.
     - url: "/life-insurance/"
-      title: <b>Life Insurance</b>
+      title: <strong>Life Insurance</strong>
       description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
     - url: "/pension/aid-attendance-housebound/"
-      title: <b>Aid and Attendance Benefits and Housebound Allowance</b>
+      title: <strong>Aid and Attendance Benefits and Housebound Allowance</strong>
       description: Find out if you can get increased pension pay as a Veteran or surviving spouse who has disabilities.
     - url: "/burials-memorials/"
-      title: <b>Burial Benefits and Memorial Items</b>
+      title: <strong>Burial Benefits and Memorial Items</strong>
       description: Learn about Veterans burial benefits, how to plan a burial service, and how to get compensation as a survivor.
     - url: "/education/"
-      title: <b>Education and Training</b>
+      title: <strong>Education and Training</strong>
       description: Apply for and manage GI Bill and other education benefits to help pay for college and training programs.
 social:
   - heading: Ask Questions
@@ -157,7 +157,7 @@ hublinks:
         label: The Veterans Choice Program
         description: If you're enrolled in VA health care, find out if you can receive care from a local community provider through the Veterans Choice Program.
       - url: /health-care/about-affordable-care-act/
-        label: The Affordable Care Act (ACA) and Your Health Coverage
+        label: The Affordable Care Act (ACA) and Your VA Health Care Coverage
         description: Find out what you need to know about the Affordable Care Act and what it means for Veterans.
       - url: https://www.research.va.gov/mvp/
         label: The Million Veteran Program

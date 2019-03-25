@@ -23,13 +23,13 @@ Find out how to apply for Vocational Rehabilitation and Employment (VR&E).
 
 </div>
 
-### How to apply if you already have your VA disability rating
+## How do I apply if I already have a VA disability rating?
 
 <ol class="process">
 
 <li class="process-step list-one">
 
-Log in to your eBenefits account.
+Sign in to your eBenefits account.
 
 </li>
 
@@ -53,14 +53,10 @@ Apply for the Vocational Rehabilitation and Employment Program.
 
 <li class="process-step list-five">
 
-If you’re eligible, we’ll invite you to an orientation session at your nearest VA regional office.
+If you’re eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.
 
 </li>
 </ol>
-
-### How do I apply?
-
-You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
 
@@ -87,8 +83,7 @@ You may be eligible for VR&amp;E benefits and services if you’re in at least o
 
 </div>
 
-
-### What happens after I apply?
+## What happens after I apply?
 
 After you apply, we’ll schedule a meeting for you with a Vocational Rehabilitation Counselor (VRC) to find out if you have an employment handicap and if you’re eligible for VR&amp;E benefits and services. You have an employment handicap if your service-connected disability limits your ability to prepare for, obtain, and maintain suitable employment (a job that doesn’t make your disability worse, is stable, and matches your abilities, aptitudes, and interests).
 
@@ -96,5 +91,14 @@ After we make an entitlement decision, you and your counselor will work together
 
 You can also meet with VRCs called VetSuccess on Campus (VSOC) Counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
 [Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
+
+### What's included in a rehabilitation plan? 
+
+A rehabilitation plan is a written plan that outlines the resources we'll use to help you find employment. Depending on your situation, your VRC will work with you to choose one of the following support-and-services tracks to help you find and keep a job, and live as independently as possible: 
+- [Reemployment with a former employer](/careers-employment/vocational-rehabilitation/programs/reemployment/)
+- [Job placement and counseling services for new employment](/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment/)
+- [Help with starting your own business ](/careers-employment/vocational-rehabilitation/programs/self-employment/)
+- [Long-term training or services to help you find work in a different field that better suits your abilities and interests](/careers-employment/vocational-rehabilitation/programs/long-term-services/)
+- [Independent living services if you can’t return to work right away](/careers-employment/vocational-rehabilitation/programs/independent-living/)
 
 <div markdown="0"><br></div>
