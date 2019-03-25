@@ -31,7 +31,7 @@ The first step in getting a VA direct or VA-backed home loan is to apply for a C
 
 </div>
 
-### How do I prepare before starting my application?
+## How do I prepare before starting my application?
 
 Gather the information you'll need to apply for your COE. Click on the description below that matches you best to find out what you'll need:
 
@@ -116,16 +116,16 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 If you’re a **surviving spouse** who qualifies for home loan benefits, you’ll need the Veteran’s discharge documents (DD214)—if available—**and:**
 
 - **If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll also need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-[Download VA Form 26-1817](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf). **Or**,
+[Download VA Form 26-1817](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf) **Or**,
 - **If you’re not receiving DIC benefits,** you’ll need to fill out and send an Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
   - A copy of your marriage license, **and**
   - The Veteran’s death certificate
 
-[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
+[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
 <br/>
-[Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/).
+[Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/)
 <br/>
-[Get military service records online](https://www.archives.gov/veterans/military-service-records/).
+[Get military service records online](https://www.archives.gov/veterans/military-service-records/)
 
 </div>
 </li>
@@ -137,29 +137,34 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
 
 <br>
 
-### How do I apply for my COE?
+## How do I apply for my COE?
 
 You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to Apply</a>
 
-#### You can also apply:
+### You can also apply:
 
-##### Through our Web LGY system
+#### Through our Web LGY system
 In some cases, you can get your COE through your lender using our Web LGY system. Ask your lender about this option.
 
-##### By mail
+#### By mail
 To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and mail it to the address listed on the form. Please keep in mind that this may take longer than applying online or through our Web LGY system. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf).
+[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf)
 
 <!-- </li>
 </ol> -->
 
 <br>
 
-### Next steps for getting a VA direct or VA-backed home loan
+## Next steps for getting a VA direct or VA-backed home loan
 
 Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender (for most loans, the lender will be a private bank or mortgage company; for the Native American Direct Loan, we’ll be your lender).
 
+The lender will appraise (assess the value) of the house. An appraisal estimates the house's market value at the time of inspection. The lender reviews the appraisal and your credit and income information and decides if they should grant the loan.  
 
+If they decide to grant the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house. 
 
+## What if I have questions about the loan process?
+If you have any questions that your lender can't answer, please call your VA regional loan center at 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
+[Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp) 
