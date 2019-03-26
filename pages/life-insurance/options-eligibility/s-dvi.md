@@ -90,7 +90,6 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </p>
 
 If you want to apply for Supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for Supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
-
 [Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf)
 
 ## How much will I pay for these benefits?
