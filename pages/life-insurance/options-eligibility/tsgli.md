@@ -36,8 +36,6 @@ You may be able to get TSGLI if you were insured by SGLI when you experienced a 
 - Have survived for a period of not less than 7 full days from the date of the traumatic injury (the 7-day period begins on the date and time of the traumatic injury and ends 168 full hours later), **and**
 - Were an active-duty military member, a Reservist, a National Guard member, on funeral-honors duty, or on 1-day muster duty
 
-<br>
-
 #### Are any injuries excluded from TSGLI? 
 
 Yes. To qualify for TSGLI, none of the descriptions below can be true of your injury.
@@ -52,8 +50,6 @@ Yes. To qualify for TSGLI, none of the descriptions below can be true of your in
 
 [View TSGLI loss standards](https://www.benefits.va.gov/insurance/tsgli_schedule_Schedule.asp)
 
-<br>
-
 #### Can I get retroactive TSGLI for a past injury?
 
 You may be able to get retroactive TSGLI (meaning that it takes effect starting from a date in the past) if you were injured between October 7, 2001, and November 30, 2005, and you meet all of the TSGLI qualifications listed above.
@@ -63,7 +59,6 @@ You can use this benefit no matter where the injury happened—whether you were 
 **Note:** We’ve removed the previous requirement that you must have been injured during Operations Enduring or Iraqi Freedom (OEF or OIF). <br>
 [Find out if you qualify for retroactive benefits](https://www.benefits.va.gov/insurance/tsgli-claim-questionnaire.asp) 
 
-<br>
 
 #### Who’s covered?
 
@@ -71,23 +66,16 @@ Service members covered by SGLI
 
 </div>
 
-<br>
-
 ## What kind of life insurance benefits can I get through TSGLI?
 
 You may get $25,000 to $100,000 in short-term financial support to help in your recovery from a traumatic injury.
-
-<br>
 
 ## How do I get these benefits?
 
 You’re automatically covered through TSGLI if you’re signed up for full-time SGLI. This insurance covers you even if your injury happened while you were off duty.
 
 To get payments—including retroactive TSGLI payments—you’ll need to apply. To file a claim, fill out the Application for TSGLI Benefits (SGLV 8600), and fax, email, or mail it to us. Look for the address of your service branch on the front page of the form.<br>
-
-[Download the Application for TSGLI Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8600_ed2018-02.pdf)
-
-<br>
+[Download the Application for TSGLI Benefits](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
 
 ## How do I appeal a decision if I’m denied benefits?
 
@@ -97,15 +85,11 @@ If your letter says to complete this form, fill it out and submit it to your bra
 
 [Download the TSGLI Appeal Request Form](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf) 
 
-<br>
-
 ## How much will I pay for these benefits? 
 
 If you have SGLI coverage, your SGLI premium (which is automatically deducted from your base pay) includes a $1-per-month flat-rate premium for TSGLI. This is all you’ll pay for this benefit.
 
-<br>
-
-### Where can I find more information?
+## Where can I find more information?
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)<br>
 [Read our TSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/TSGLIProceduresGuide.pdf) <br>
