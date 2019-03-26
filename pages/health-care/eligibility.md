@@ -5,7 +5,7 @@ title: Eligibility for VA Health Care
 display_title: Eligibility
 description: Review VA health care eligibility criteria. Find out if you qualify for VA health care, how VA priority groups may affect you, and how to apply.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
-lastupdate: 2018-10-17
+lastupdate: 2019-03-26
 collection: healthCare
 children: healthEligibility
 spoke: Get Benefits
@@ -74,7 +74,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Receive financial compensation (payments) from VA for a service-connected disability
 - Were discharged for a disability resulting from something that happened to you in the line of duty
 - Were discharged for a disability that got worse in the line of duty
-- [Are a recently discharged combat Veteran](https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp)
+- [Are a recently discharged combat Veteran](/health-care/eligibility/active-duty/#oef-oif-ond)
 - Get a VA pension
 - Are a former Prisoner of War (POW)
 - Have received a Purple Heart
