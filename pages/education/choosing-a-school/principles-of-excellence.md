@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Principles of Excellence Program
+title: Principles of Excellence program
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 collection: educationChooseSchool
@@ -24,7 +24,7 @@ Schools that are a part of the program must:
   - Other information to help you compare aid packages offered by different schools.
 - Give you an educational plan with a timeline showing how and when you can fulfill everything required for you to graduate.
 - Assign you a point of contact who will give you ongoing academic and financial advice (including access to disability counseling).
-- Allow for you to be gone for both long and short periods of time due to service obligations (service you must fulfill) for active-duty Servicemembers and Reservists.
+- Allow for you to be gone for both long and short periods of time due to service obligations (service you must fulfill) for active-duty service members and Reservists.
 - Make sure all new programs are accredited (officially approved) before enrolling students.
 - Make sure their refund policies follow Title IV rules, which guide federal student financial aid programs.
 - End fraudulent (deceitful) and aggressive methods of recruiting.
