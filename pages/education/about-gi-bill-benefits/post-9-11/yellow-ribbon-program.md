@@ -1,7 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Yellow Ribbon Program
+title: Yellow Ribbon Program | Veterans Affairs
+heading: Yellow Ribbon Program
+display_title: Yellow Ribbon Program
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationYellowRibbonProgram
