@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Montgomery GI Bill Active Duty (MGIB-AD)
+title: Montgomery GI Bill Active Duty (MGIB-AD) | Veterans Affairs
+heading: Montgomery GI Bill Active Duty (MGIB-AD)
 display_title: Montgomery GI Bill Active Duty
+description: Learn about eligibility requirements and what kind of benefits are available through the Montgomery GI Bill Active Duty for education and training. 
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationMontgomeryActiveDuty
@@ -17,7 +19,7 @@ If you've served at least 2 years on active duty, find out if you qualify for th
 
 </div>
 
-## Can I get education benefits through the MGIB-AD program?
+## Am I eligible for education benefits through the MGIB-AD program?
 
 You can get education benefits through this program if you were honorably discharged and you meet the requirements of one of the categories below.
 
