@@ -60,7 +60,7 @@ Qualified dependents
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2> itemprop="name">What benefits can my qualified dependents get?</h2>
+<h2 itemprop="name">What benefits can my qualified dependents get?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
