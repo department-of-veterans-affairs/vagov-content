@@ -131,7 +131,7 @@ You must pay your premiums for Supplemental S-DVI.
 If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET. 
 <br>
 
-## How can I learn more about S-DVI?
+## Where can I find more information?
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 [View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
