@@ -1,31 +1,31 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Choosing GI Bill Approved Schools
-display_title: Choosing a School
+title: Choosing GI Bill approved schools
+display_title: Choosing a school
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool
 concurrence: incomplete
-spoke: More Resources
+spoke: More resources
 order: 3
 aliases:
   - /education/tools-programs/locate-a-school/
 relatedlinks:
   - url: /education/about-gi-bill-benefits/how-to-use-benefits/
-    title: How to Use Your GI Bill Benefits
+    title: How to use your GI Bill benefits
     description: Find out how to use your GI Bill benefits to earn a degree, train for a specific trade, or work toward other career goals.
   - url: /education/gi-bill/post-9-11/ch-33-benefit
-    title: Check Your Post-9/11 GI Bill Benefits Status
+    title: Check your Post-9/11 GI Bill benefits status
     description: Find out how much funding you have left for your education or training.
   - url: /education/change-gi-bill-benefits/
-    title: Change Your GI Bill School or Program
+    title: Change your GI Bill school or program
     description: Find out when and how to request a change to your GI Bill school, program, or other VA education benefits so you can keep getting funding to help pay for your education or training.
   - url: https://www.gibill.va.gov/wave/index.do?_ga=2.147130549.308050883.1542048286-1173244138.1525894550
-    title: Verify Your School Enrollment
+    title: Verify your school enrollment
     description: Use our online verification system (called "WAVE") to confirm you're enrolled in an approved school or training program so you keep receiving your education benefits.
   - url: https://www.benefits.va.gov/GIBILL/FGIB/Restoration.asp?_ga=2.76481687.308050883.1542048286-1173244138.1525894550
-    title: Apply to Restore Your GI Bill Benefits
-    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restore.   
+    title: Apply to restore your GI Bill benefits
+    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restored.   
  
 ---
 
