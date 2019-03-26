@@ -65,13 +65,13 @@ hublinks:
     links:
       - url: "/education/eligibility/"
         label: GI Bill and other education benefits
-        description: Find out if you qualify for VA education benefits to help pay for school or training. If you qualify for the Post-9/11 GI Bill, learn how to transfer your unused benefits to your spouse or dependent children. <br> <b>Open to active-duty service members, Guard members, and Reservists</b>
+        description: Find out if you qualify for VA education benefits to help pay for school or training. If you qualify for the Post-9/11 GI Bill, learn how to transfer your unused benefits to your spouse or dependent children. <br> <b>Open to service members and Veterans (active duty, Guard, and Reserve)</b>
       - url: "/housing-assistance/home-loans/eligibility/"
         label: Certificate of Eligibility for a VA-backed home loan
-        description: Review the requirements for getting a Certificate of Eligibility (COE) to buy, build, improve, or refinance a home. <br> <b>Open to active-duty service members, Guard members, and Reservists</b>
+        description: Review the requirements for getting a Certificate of Eligibility (COE) to buy, build, improve, or refinance a home. <br> <b>Open to service members and Veterans (active duty, Guard, and Reserve)</b>
       - url: "/life-insurance/options-eligibility/"
         label: Life insurance for you and your family
-        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to active-duty service members, Guard members, and Reservists</b>
+        description: Find out if you qualify for and how to manage your SGLI coverage, and learn about coverage options for you and your family after separation or retirement. <br> <b>Open to service members and Veterans (active duty, Guard, and Reserve)</b>
   - id: "separating-retiring"
     title: Time-sensitive VA benefits to consider when separating or retiring
     links:
