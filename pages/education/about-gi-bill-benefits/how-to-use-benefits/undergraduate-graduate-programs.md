@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Undergraduate and Graduate Degrees
+title: Undergraduate and Graduate Degrees | Veterans Affairs
+heading: Undergraduate and Graduate Degrees
+display_title: Undergraduate and Graduate Degrees
+description: Find out if you can use GI Bill benefits for college as a Veteran, service member, or qualified dependent. Learn about payment rates for undergraduate and graduate degree courses at institutions of higher learning.
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 1
@@ -11,7 +14,7 @@ aliases:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Want to earn an undergraduate or graduate degree? Find out if you can get VA education and training benefits to help pay for courses  at an institution of higher learning—like a 4-year university, community college, or graduate school.
+Find out if you can use GI Bill benefits for college as a Veteran, service member, or qualified dependent. Learn about payment rates for undergraduate and graduate degree courses at institutions of higher learning-- like a 4-year university, community college, or graduate school. 
 
 </div>
 
