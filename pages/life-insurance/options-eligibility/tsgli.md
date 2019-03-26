@@ -82,7 +82,6 @@ To get payments—including retroactive TSGLI payments—you’ll need to apply.
 First, look at the denial letter you received from your branch of service. Your letter will tell you if you should use the TSGLI Appeal Request Form (SGLV 8600A)—and how long you’ll have to submit your appeal.
 
 If your letter says to complete this form, fill it out and submit it to your branch of service.<br>
-
 [Download the TSGLI Appeal Request Form](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf) 
 
 ## How much will I pay for these benefits? 
