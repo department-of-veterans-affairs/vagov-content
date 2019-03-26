@@ -1,7 +1,7 @@
 ---
 layout: page-react-sidebar.html
-title: Check Your Post-9/11 GI Bill Benefits Status
-display_title: Check Post-9/11 GI Bill Benefits
+title: Check your Post-9/11 GI Bill benefits status
+display_title: Check Post-9/11 GI Bill benefits
 collection: education
 spoke: Manage Benefits
 order: 2
@@ -10,11 +10,11 @@ in_maintenance: false
 maintenance_line1: We’re sorry. Our system is temporarily down while we fix a few things. Please try again later.
 breadcrumbs_override:
   - path: education/
-    name: Education and Training
+    name: Education and training
   - path: education/about-gi-bill-benefits/
     name: GI Bill
   - path: education/about-gi-bill-benefits/post-9-11/
-    name: Post-9/11 GIBill
+    name: Post-9/11 GI Bill
   - path: education/gi-bill/post-9-11/ch-33-benefit/
-    name: Check Post-9/11 GI Bill Benefits
+    name: Check Post-9/11 GI Bill benefits
 ---
