@@ -4,6 +4,7 @@ template: detail-page
 title: Yellow Ribbon Program | Veterans Affairs
 heading: Yellow Ribbon Program
 display_title: Yellow Ribbon Program
+description: Learn how the Yellow Ribbon Program can help you pay for tuition not covered by the Post 9/11 GI Bill if you're a qualified Veteran or eligible dependent of a Veteran. Find out if your school participates in the program.  
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationYellowRibbonProgram
