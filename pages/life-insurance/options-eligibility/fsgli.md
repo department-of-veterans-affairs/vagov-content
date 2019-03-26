@@ -26,8 +26,6 @@ Are you the spouse or dependent child of a service member who’s covered under 
 
 <div class="feature">
 
-<br>
-
 ### Can I get FSGLI?
 
 You may be able to get FSGLI if you’re the spouse or dependent child of a service member who meets one of the requirements listed below.
@@ -39,8 +37,6 @@ You may be able to get FSGLI if you’re the spouse or dependent child of a serv
 
 You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matter if your own status is active duty, retired, or civilian.
 
-<br>
-
 #### Who’s covered?
 
 * Spouses of service members covered under SGLI
@@ -48,13 +44,9 @@ You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matt
 
 </div>
 
-<br>
-
 ## What kind of life insurance benefits can I get with FSGLI?
 
 Up to a maximum of $100,000 of coverage for you as a spouse, not to exceed your service member’s SGLI coverage, and $10,000 for each dependent child. Dependent children get free coverage.
-
-<br>
 
 ## How do I get these benefits?
 
@@ -94,8 +86,6 @@ Your service member can log in with their CAC or DS Logon using Internet Explore
 
 **If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have them turn it in to their unit's personnel officer. <br>
 [Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
-
-<br>
 
 ## How much will my service member pay for spousal coverage—and how do the premium payments work?
 
@@ -239,8 +229,6 @@ Your service member will pay a premium for your coverage, which will increase as
 
 If you’re signed up as a spouse in the Defense Enrollment Eligibility Reporting System (DEERS), we’ll automatically deduct the FSGLI premium from your service member’s pay. If you aren’t signed up in DEERS, your service member will still be responsible for premiums and back payments of unpaid premiums.
 
-<br>
-
 ## Can my service member make changes to my coverage?
 
 Yes. If you have spousal coverage and you want to reduce, turn down, or cancel it:
@@ -284,8 +272,6 @@ Your service member can log in with their CAC or DS Logon using Internet Explore
 
 **Note:** We automatically cover dependent children. This coverage can’t be turned down, reduced, or canceled.
 
-<br>
-
 ## How much will my service member pay for dependent coverage?
 
 Nothing. We provide dependent coverage at no cost until the child is 18 years old, or sometimes longer if the child meets one of the requirements listed below.
@@ -294,14 +280,9 @@ Nothing. We provide dependent coverage at no cost until the child is 18 years ol
 - Is a full-time student, **or**
 - Becomes permanently and totally disabled—before turning 18—and can’t support themselves 
 
-
-<br>
-
 ## Can my service member get extended coverage for our dependent child?
 
 Yes, in some cases. Coverage lasts until the child is 18 years old. But, if the child is a full-time student between 18 and 22 years old, we may extend the coverage. Or, if the child becomes permanently and totally disabled before turning 18 and is no longer able to support themselves, we may extend the coverage—in some cases indefinitely.
-
-<br>
 
 ## How do I file a life insurance claim? 
 
@@ -309,8 +290,6 @@ You’ll need to fill out a Claim for Family Coverage Death Benefits (SGLV 8283A
 [Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf)
 
 Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI).
-
-<br>
 
 ## How do I convert a spousal FSGLI policy to an individual insurance policy?
 
@@ -338,9 +317,7 @@ You can’t convert other types of policies—such as term, variable, or univers
   - The Certificate of Dissolution of Marriage between the spouse and the service member
   - The service member’s FSGLI spousal declination
   - The service member’s SGLI declination
-  - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate) <br>
-
-<br>
+  - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
 
 ## Where can I find more information?
 
