@@ -36,8 +36,6 @@ You can apply for S-DVI if you meet all of the requirements listed below.
 
 **Note:** An increase of a rating you had before—or a rating of Individual Unemployability, meaning you can’t work—doesn’t qualify you for S-DVI.
 
-<br>
-
 ### Can I get more life insurance coverage if I need it?
 
 If you carry the basic S-DVI coverage and become totally disabled and unable to work, you can apply to get up to $30,000 more in coverage. This is called Supplemental S-DVI coverage.
@@ -50,13 +48,11 @@ You may be able to get $30,000 of supplemental coverage if you qualify for a pre
 
 [Learn more about premium waivers](/life-insurance/totally-disabled-or-terminally-ill/#waiver)
 
-<br>
 
 #### Who’s covered?
 
 Veterans
 
-<br>
 
 ### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
@@ -70,14 +66,10 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 </div>
 
-<br>
-
 ## What kind of life insurance benefits can I get with S-DVI?
 
 - Up to $10,000 of coverage
 - Up to $30,000 of supplemental coverage
-
-<br>
 
 ## How do I get these benefits?
 
@@ -101,8 +93,6 @@ If you want to apply for Supplemental S-DVI, you must have already applied for a
 
 [Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf)
 
-<br>
-
 ## How much will I pay for these benefits?
 
 Your premium rate (the amount you’ll pay each month for your coverage) depends on all of the factors listed below.
@@ -115,8 +105,6 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 See the premium rates and a description of the plan options. <br>
 [Download Service-Disabled Veterans Insurance RH Information and Premium Rates (VA pamphlet 29-9)](https://benefits.va.gov/INSURANCE/forms/29-9.htm)
 
-<br>
-
 ## Can I get a waiver so I don’t have to pay the premiums?
 
 Yes, in some cases. Under certain conditions, the basic S-DVI policy provides for a waiver of premiums for Veterans who are totally disabled. <br>
@@ -124,12 +112,9 @@ Yes, in some cases. Under certain conditions, the basic S-DVI policy provides fo
 
 You must pay your premiums for Supplemental S-DVI.
 
-<br>
-
 ## What if I need help with my claim? 
 
-If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET. 
-<br>
+If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET.
 
 ## Where can I find more information?
 
