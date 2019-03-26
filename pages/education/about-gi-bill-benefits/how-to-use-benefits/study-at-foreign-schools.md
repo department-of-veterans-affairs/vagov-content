@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Foreign Programs
+title: Foreign Programs | Veterans Affairs 
+heading: Foreign Programs
+display_title: Foreign Programs
+description: VA education benefits can help Veterans and qualified dependents pay for tuition and housing fees while studying at a foreign school for a standard college degree or equivalent degree. See what schools are approved and how you can apply.  
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
