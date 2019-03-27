@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Post-9/11 GI Bill and Other VA Education Benefit Rates
+title: Rates | Veterans Affairs
+heading: Post-9/11 GI Bill and Other VA Education Benefit Rates
 display_title: Benefit Rates
+description: Check Post 9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amounts depending on what program you're eligible for. Find the most recent GI Bill BAH rates and compare benefits with the GI Bill comparison tool.
 concurrence: incomplete
 order: 2
 spoke: More Resources
@@ -10,7 +12,8 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-We provide education benefits to qualifying Veterans and their family members. The amount of money you’ll get for things like books, tuition, and housing depends on which program you choose.
+Check Post 9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amounts. We provide education benefits to qualifying Veterans and their family members. The amount of money you’ll get for things like books, tuition, and housing depends on which program you choose. Find the most recent GI Bill BAH rates and compare benefits with the GI Bill comparison tool.
+
 </div>
 
 Use our rate tables to see how much money you’ll get. [View the Rate Tables](http://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp#ch33).
