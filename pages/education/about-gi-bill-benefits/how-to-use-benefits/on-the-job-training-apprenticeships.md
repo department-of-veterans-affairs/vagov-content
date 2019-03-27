@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: On-the-Job Training and Apprenticeships
+title: On-the-Job Training and Apprenticeships | Veterans Affairs
+heading: On-the-Job Training and Apprenticeships
 display_title: On-the-Job Training
+description: Learn how GI Bill training programs can help you work in an industry like plumbing, firefighting, or hotel management that requires on-the-job training. If your program is approved by VA and you qualify for Post-9/11 GI Bill benefits, you could get money for books, supplies, and housing. 
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 13
@@ -13,13 +15,13 @@ aliases:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-You can get help paying for books, supplies, and housing while you’re learning a trade or skill through on-the-job training (OJT) or apprenticeships. Find out how to get education benefits.
+Learn how GI Bill training programs can help you pay for books, supplies, and housing while you’re learning a trade or skill through on-the-job training (OJT) or apprenticeships. Find out how to get these education benefits. 
 
 </div>
 
 <div class="feature" markdown="1">
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get education benefits?</h3>
+<h3 itemprop="name">Am I eligible for education benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
