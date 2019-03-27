@@ -284,13 +284,6 @@ Nothing. We provide dependent coverage at no cost until the child is 18 years ol
 
 Yes, in some cases. Coverage lasts until the child is 18 years old. But, if the child is a full-time student between 18 and 22 years old, we may extend the coverage. Or, if the child becomes permanently and totally disabled before turning 18 and is no longer able to support themselves, we may extend the coverage—in some cases indefinitely.
 
-## How do I file a life insurance claim? 
-
-You’ll need to fill out a Claim for Family Coverage Death Benefits (SGLV 8283A).<br>
-[Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf)
-
-Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI).
-
 ## How do I convert a spousal FSGLI policy to an individual insurance policy?
 
 You have the option to convert spousal FSGLI coverage to a permanent, individual insurance policy (such as whole life) within 120 days from the date of your service member’s:
@@ -325,7 +318,7 @@ You can’t convert other types of policies—such as term, variable, or univers
 [Read our FSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/ProceduralGuide.pdf) <br>
 
 
-## Additional life insurance forms
+## Which claim forms will my service member or other family member need to submit in their time of need?
 - Claim for Family Coverage Death Benefits (SGLV 8283A) <br>
 [Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) 
 - Claim for Accelerated Benefits (SGLV 8284A) <br>
