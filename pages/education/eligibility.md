@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility for the GI Bill and Other Education Benefits
+title: Eligibility | Veterans Affairs
+heading: Eligibility for the GI Bill and Other Education Benefits
 display_title: Eligibility
 description: Review GI Bill eligibility requirements to find out if you can get help paying for school or training. You can also find out if you qualify for other VA education benefits as a Veteran, Servicemember, Reservist, National Guard Soldier, or qualified survivor or dependent.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -18,16 +19,16 @@ gibsAlert: false
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext" itemprop="description" >
 
-If you’re an active-duty Servicemember or Veteran, a member of the National Guard or Reserves, or a qualified survivor or dependent, you may be able to get help from VA to pay your tuition, pick out a school, choose a career, and more. Find out if you qualify for VA education benefits through the GI Bill program and other educational assistance programs.
+If you’re an active-duty Servicemember or Veteran, a member of the National Guard or Reserves, or a qualified survivor or dependent, you may be eligible for VA education benefits through the GI Bill and other educational assistance programs. VA education benefits can help pay your tuition, pick out a school, choose a career, and more. Learn about GI Bill eligibility requirements to find out if you can get these benefits.
 
 </div>
 
 <div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get VA education benefits through the Post-9/11 GI Bill?</h3>
+<h3 itemprop="name">Am I eligible for VA education benefits through the Post-9/11 GI Bill?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may be able to get benefits through the Post-9/11 GI Bill if you've served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001. <br>
+You may be eligible for benefits through the Post-9/11 GI Bill if you've served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001. <br>
 [Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/).
 <br>
 
@@ -41,7 +42,7 @@ You may be able to get benefits through the Post-9/11 GI Bill if you've served o
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may be able to get benefits through 1 of our 2 Montgomery GI Bill programs: the Montgomery GI Bill Active Duty (MGIB-AD) or the Montgomery GI Bill Selected Reserve (MGIB-SR).
+You may be eligible for benefits through 1 of our 2 Montgomery GI Bill programs: the Montgomery GI Bill Active Duty (MGIB-AD) or the Montgomery GI Bill Selected Reserve (MGIB-SR).
 
 <br>
 
