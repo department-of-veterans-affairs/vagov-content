@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors’ and Dependents’ Educational Assistance Program
+title: Dependents Educational Assistance | Veterans Affairs
+heading: Survivors’ and Dependents’ Educational Assistance Program
 display_title: Dependents Education Assistance (DEA)
+description: Find out if you're eligible for the Survivors' and Dependents' Educational Assistance Program for children and spouses of Veterans who have died or been disabled. View current payment rates for college degree programs, career-training certificate course, apprenticeships, and on-the-job training. 
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
@@ -18,7 +20,7 @@ If you’re the child or spouse of a Veteran or Servicemember who has died, is c
 
 <div class="feature">
 
-### Can I get education benefits through the DEA program?
+### Am I eligible for education benefits through the DEA program?
 
 You may be able to get these benefits if both you and the Veteran or Servicemember meet certain eligibility requirements.
 
