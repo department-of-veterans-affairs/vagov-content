@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: National Call to Service Program
+title: National Call to Service Program | Veterans Affairs
+heading: National Call to Service Program
+display_title: National Call to Service Program
+description: If you performed a period of national service, learn more about educational benefit alternatives to the Montgomery GI Bill available through the National Call to Service program. Find out what alternatives are available, including cash bonuses and loan repayments. 
 concurrence: incomplete
 order: 3
 aliases:
@@ -18,7 +21,7 @@ If you performed a period of national service, you may qualify for the National 
 
 <div class="feature" markdown="1">
 
-### Can I get this benefit?
+### Am I eligible for this benefit?
 
 You qualify for the National Call to Service program if you meet the requirements listed below.
 
