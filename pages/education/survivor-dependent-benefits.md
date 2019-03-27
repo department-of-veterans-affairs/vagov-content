@@ -23,7 +23,7 @@ If you’re a dependent spouse or child—or the surviving spouse or child—of 
 
 <div class="feature" markdown="1">
 
-### Am I eligible for VA education benefits?
+### Am I eligible for education benefits?
 
 **You may qualify for VA education benefits if you’re the child or spouse of a Servicemember** and one of the below descriptions is true of the Servicemember.
 
