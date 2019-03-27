@@ -151,7 +151,7 @@ You don’t need to be enrolled in VA health care to get care. <br>
 
 **To connect with other resources for Veterans and transitioning service members:**
 - <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
-- <a href="https://www.mentalhealth.va.gov/transitioningservice/programs.asp">Visit our mental health site for transitioning service members</a>
+- <a href="https://www.mentalhealth.va.gov/transitioning-service/programs.asp">Visit our mental health site for transitioning service members</a>
 - <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veterans-transition-uniformed-service-civilian-life/">Read about our commitment to supporting transitioning Veterans</a>
 
    </div>
