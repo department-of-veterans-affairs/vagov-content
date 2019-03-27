@@ -147,12 +147,12 @@ If you need support for a specific mental health problem—or if you’re having
 - **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
 
 You don’t need to be enrolled in VA health care to get care. <br>
-<a href="https://www.va.gov/health-care/health-needsconditions/mental-health/">Learn more about accessing VA mental health services</a>
+<a href="https://www.va.gov/health-care/health-needs-conditions/mental-health/">Learn more about accessing VA mental health services</a>
 
 **To connect with other resources for Veterans and transitioning service members:**
 - <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
-- <a href="https://www.mentalhealth.va.gov/transitioningservice/programs.asp">Visit our mental health site for transitioning service members</a>
-- <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veteranstransition-uniformed-service-civilian-life/">Read about our commitment to supporting transitioning Veterans</a>
+- <a href="https://www.mentalhealth.va.gov/transitioning-service/programs.asp">Visit our mental health site for transitioning service members</a>
+- <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veterans-transition-uniformed-service-civilian-life/">Read about our commitment to supporting transitioning Veterans</a>
 
    </div>
   </div>
