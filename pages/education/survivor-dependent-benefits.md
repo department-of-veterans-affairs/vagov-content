@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Education Benefits for Survivors and Dependents
+title: Survivor and Dependent Benefits | Veterans Affairs
+heading: VA Education Benefits for Survivors and Dependents
 display_title: Survivor and Dependent Benefits
 description: Find out if you're eligible and how to apply for GI Bill and other VA education benefits for dependents and survivors. You can also compare the benefits offered through the Survivors' and Dependents' Educational Assistance (DEA) program and the Fry Scholarship.
 concurrence: incomplete
@@ -15,16 +16,16 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a dependent spouse or child—or the surviving spouse or child—of a Veteran, you may qualify for education benefits or job training through a GI Bill program. Find out if you qualify.
+If you’re a dependent spouse or child—or the surviving spouse or child—of a Veteran, you may qualify for VA education benefits or job training through a GI Bill program. Find out how to get VA education benefits for dependents.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits?
+### Am I eligible for VA education benefits?
 
-**You may qualify for education benefits if you’re the child or spouse of a Servicemember** and one of the below descriptions is true of the Servicemember.
+**You may qualify for VA education benefits if you’re the child or spouse of a Servicemember** and one of the below descriptions is true of the Servicemember.
 
 **One of these must be true. The Servicemember:**
 
@@ -33,13 +34,13 @@ If you’re a dependent spouse or child—or the surviving spouse or child—of 
 -	Was detained (held) by force while in the line of duty by a foreign government or power, **or**
 -	Is in the hospital or getting outpatient treatment for a service-connected permanent and total disability, and is likely to be discharged for that disability. A service-connected permanent and total disability is a disability resulting from your service that doesn’t go away.
 
-**You may qualify for education benefits if you’re the child or spouse of a Veteran** and one of the below descriptions is true of the Veteran.
+**You may qualify for VA education benefits if you’re the child or spouse of a Veteran** and one of the below descriptions is true of the Veteran.
 
 **One of these must be true. The Veteran:**
 - Is permanently and totally disabled due to a service-connected disability, **or**
 -	Died while on active duty or as a result of a service-connected disability
 
-If you’re a dependent who doesn’t meet the above criteria, you may still qualify for education benefits if the Veteran or Servicemember transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
+If you’re a dependent who doesn’t meet the above criteria, you may still qualify for VA education benefits if the Veteran or Servicemember transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
 [Learn about transferred benefits](/education/transfer-post-9-11-gi-bill-benefits/).
 
 </div>
@@ -56,7 +57,7 @@ If you’re a dependent who doesn’t meet the above criteria, you may still qua
 ### How do I get these benefits?
 
 You’ll need to apply. <br>
-[Apply for education benefits](/education/how-to-apply/).
+[Apply for VA education benefits](/education/how-to-apply/).
 
 There are 2 main GI Bill programs offering educational assistance to survivors and dependents of Veterans:
 
