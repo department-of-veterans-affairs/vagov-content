@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Family Servicemembers’ Group Life Insurance (FSGLI)
+title: Family Group Life Insurance (FSGLI) | Veterans Affairs
+heading: Family Servicemembers’ Group Life Insurance (FSGLI)
+description: Family SGLI, also known as Family Servicemembers' Group Life Insurance (FSGLI), may cover you if you're a spouse or dependent child of a Servicemember covered under SGLI. Find out how much coverage you may qualify for under FSGLI, and how to mange your coverage. 
 display_title: Family Servicemembers’ Group (FSGLI)
+keywords: family sgli, family servicemembers group life insurance
 concurrence: 
 order: 2
 relatedlinks:
@@ -20,7 +23,7 @@ aliases:
 
 <div class="va-introtext">
 
-Are you the spouse or dependent child of a Servicemember who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage.
+Family SGLI, also known as Family Servicemembers' Group Life Insurance (FSGLI), may cover you if you're a spouse or dependent child of a Servicemember covered under SGLI. Find out how much coverage you may qualify for under FSGLI, and how to mange your coverage. 
 
 </div>
 
@@ -28,7 +31,7 @@ Are you the spouse or dependent child of a Servicemember who’s covered under S
 
 <br>
 
-### Can I get FSGLI?
+### Am I eligible for FSGLI?
 
 You may be able to get FSGLI if you’re the spouse or dependent child of a Servicemember who meets one of the requirements listed below.
 
