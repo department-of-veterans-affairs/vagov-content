@@ -32,6 +32,6 @@ aliases:
 
 <div class="va-introtext">
 
-If you're a Veteran or Servicemember with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program--which is sometimes referred to as VA Voc Rehab or Chapter 31 benefits--may be able to help. We offer 5 support-and-services tracks to help you find and keep a job and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
+If you're a Veteran or Servicemember with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program--which is sometimes called VA Voc Rehab or Chapter 31 benefits--may be able to help. We offer 5 support-and-services tracks to help you find and keep a job and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
 
 </div>
