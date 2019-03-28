@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: About VA Insurance Options and Eligibility
+title: About VA Insurance Options and Eligibility | VA.gov
+heading: About VA Insurance Options and Eligibility
 display_title: Options and Eligibility
 description: If you're a Veteran, Servicemember, or the spouse or dependent child of a Servicemember, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
+keywords: va insurance
 concurrence:
 template: detail-page
 no_article_bottom_padding: true
@@ -45,7 +47,7 @@ aliases:
 
 <div class="va-introtext">
 
-Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemember? Find out which life insurance programs may be right for you.
+Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemember? Find out which VA life insurance programs may be right for you.
 
 </div>
 
