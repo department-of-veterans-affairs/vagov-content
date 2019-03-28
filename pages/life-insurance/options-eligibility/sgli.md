@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Servicemembers’ Group Life Insurance (SGLI)
+title: Servicemembers' Group Life Insurance (SGLI) | SGLI Form
+heading: Servicemembers’ Group Life Insurance (SGLI)
 display_title: Servicemembers’ Group (SGLI)
+description: Learn about low-cost coverage you may be able to get through Servicemembers' Group Life Insurance (SGLI). Eligible Servicemembers are automatically enrolled for the maximum coverage and don't need to apply. Learn how to make changes to your amount of coverage and designate beneficiaries.  
+keywords: sgli, servicemembers group life insurance, sgli
 concurrence: 
 order: 1
 relatedlinks:
@@ -33,7 +36,7 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 
 <div class="feature">
 
-### Can I get SGLI? 
+### Am I eligible for SGLI? 
 
 You may be able to get full-time SGLI coverage if any of the descriptions below are true for you.
 
