@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Educational and Career Counseling (Chapter 36)
+title: Education and Career Counseling | Veterans Affairs
+heading: Educational and Career Counseling (Chapter 36)
 display_title: Educational and Career Counseling
+description: Find free educational and vocational counseling, also called VA Chapter 36, if you're a Servicemember within 6 months of transitioning from the military or a Veteran discharged within the last year. Dependents who qualify for some education benefits may also be eligible. 
+keywords: va chapter 36, vocational counseling, veteran career counseling services, career counseling for veterans
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4
@@ -13,13 +16,13 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
+If you’re leaving active service soon, find out how to get free educational, vocational, or career counseling (also called Chapter 36).
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get educational and career counseling?
+### Am I eligible for educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
