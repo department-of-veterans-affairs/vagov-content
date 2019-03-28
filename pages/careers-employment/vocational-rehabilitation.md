@@ -1,7 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Vocational Rehabilitation and Employment (Chapter 31)
+title: Vocational Rehabilitation and Employment | Veterans Affairs
+heading: VA Vocational Rehabilitation and Employment (Chapter 31)
 display_title: Vocational Rehab and Employment
+description: Find out how the VA Vocational Rehabilitation and Employment program can help with training needs and new employment opportunities if you have a service-connected disability that limits your ability to work. Family members may also be eligible for these benefits. 
 permalink: /employment/vocational-rehab-and-employment/index.html
 source: http://www.benefits.va.gov/VRE/
 template: detail-page
@@ -43,6 +45,6 @@ aliases:
 
 <div class="va-introtext">
 
-If you have a service-connected disability that limits your ability to work or prevents you from working, the Vocational Rehabilitation and Employment (VR&amp;E) program—also referred to as Chapter 31—can help. Find out if you're eligible and how to apply for VR&E benefits and services, like help exploring employment options and any required training needs. In some cases, your family members may also be eligible for certain VR&E benefits.
+If you have a service-connected disability that limits your ability to work or prevents you from working, the VA Vocational Rehabilitation and Employment (VR&amp;E) program—also referred to as Chapter 31—can help. Find out if you're eligible and how to apply for VR&E benefits and services, like help exploring employment options and any required training needs. In some cases, your family members may also be eligible for certain VR&E benefits.
 
 </div>
