@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Types of Veteran ID Cards
+title: Types of Veterans ID Cards | Veterans Affairs
+heading: Types of Veteran ID Cards
 display_title: Types of Veteran ID Cards
-description: Learn about the different types of ID cards available to Veterans and how to apply for them.
+description: Find out how to get a Veterans ID Card (VIC) or add a veteran designation to your state-issued driver's license or state ID. Compare different types of VA ID cards and learn which ones you can use for health care, discounts at businesses and restaurants, or services at military installations. 
+keywords: veteran id, veterans id card 
 concurrence: Incomplete
 order: 3
 spoke: Get Records
@@ -21,7 +23,9 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of ID cards you can get.
+
+There are many types of identification cards you can use to show you’re a Veteran. Find out how to get a Veterans ID Card (VIC) or add a veteran designation to your state-issued driver's license or state ID. Compare different types of VA ID cards and learn which ones you can use for health care, discounts at businesses and restaurants, or services at military installations. You only need to have one form of Veterans ID to show that you’re a Veteran. 
+
 </div>
 
 <section>
