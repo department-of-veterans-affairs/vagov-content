@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Download VA Benefit Letters
+title: Download VA Benefit Letters | Veterans Affairs
+heading: Download VA Benefit Letters
 display_title: Download VA Benefit Letters
+description: Download many of your VA letters for benefits awards, eligibility, and service history after verifying your address. Learn how you can sign in to ebenefits to request a Certificate of Eligibility (COE) or your discharge papers (DD214). 
+keywords: va award letter, va eligibility letter
 template: detail-page
 order: 4
 spoke: Get Records
@@ -11,7 +14,9 @@ spoke: Get Records
 <div class="row" markdown="1">
 
 <div class='va-introtext'>
-To receive some benefits, Veterans need a letter proving their status. You can access and download some of these benefit letters and documents online.
+  
+Do you need a letter proving your status as a Veteran? Download many of your VA letters for benefits awards, eligibility, and service history after verifying your address. Learn how you can sign in to ebenefits to request a Certificate of Eligibility (COE) or your discharge papers (DD214).
+
 </div>
 
 <section>
