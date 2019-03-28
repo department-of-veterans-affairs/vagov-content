@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request Your Military Service Records (including DD214)
+title: Request Your Military Records | Veterans Affairs
+heading: Request Your Military Service Records (including DD214)
 display_title: Request Military Records
+description: Send a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
+keywords: military records, military records request, military service records
 concurrence:
 plainlanguage:
 collection: records
@@ -30,7 +33,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to request your military records, including your DD214, through the milConnect website.
+Find out how to submit a military records request, including your DD214, through the milConnect website.
 
 </div>
 
@@ -50,7 +53,7 @@ Find out how to request your military records, including your DD214, through the
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Follow the steps below to request your records.
+Follow the steps below to request your military records.
 
 <ol class="process">
   <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
