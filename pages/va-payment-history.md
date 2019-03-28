@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: View Your VA Payment History
+title: View Your VA Payment History | Veterans Affairs
+heading: View Your VA Payment History
 display_title: View VA Payment History
+description: Sign in or register for a Premium Account to view your VA benefit payment history on ebenefits. Surving spouses and parents can view other VA benefits like Chapter 35. 
+keywords: va payment
 collection: records
 order: 7
 spoke: Get Records
@@ -11,7 +14,8 @@ spoke: Get Records
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to view your payment history for VA benefits.
+Find out how to view your VA benefits payment history.
+
 </div>
 
 <div class="va-sign-in-alert usa-alert usa-alert-info">
@@ -30,14 +34,14 @@ Find out how to view your payment history for VA benefits.
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>If you're a Veteran, you'll see a history of your past payments for:</b>
+<b>If you're a Veteran, you'll see a history of your past VA payments for:</b>
 <ul>
 <li>Disability compensation</li>
 <li>Pension benefits</li>
 <li>Education benefits</li>
 </ul>
 
-<b>If you're the survivor of a Veteran or Servicemember, you'll see a history of your past payments for:</b>
+<b>If you're the survivor of a Veteran or Servicemember, you'll see a history of your past VA payments for:</b>
 <ul>
 <li>Survivors pension benefits</li>
 <li>Survivors' and Dependents' Educational Assistance (Chapter 35 benefits)</li>
@@ -49,7 +53,7 @@ Find out how to view your payment history for VA benefits.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2>When to Expect Payments</h2>
+<h2>When to Expect VA Payments</h2>
 
 <div aria-live="polite" role="alert" class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
