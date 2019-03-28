@@ -1,7 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Eligibility for Vocational Rehab and Employment
+title: VR&E Eligibility | Veterans Affairs
+heading: Eligibility for Vocational Rehab and Employment
 display_title: Eligibility
+description: Learn about eligibility requirements for Vocational Rehabilitation and Employment benefits if you're a Veteran or Servicemember with a service-connected disability that limits your ability to work. Find counselors who can help you transition from military life to school or a new career. 
 order: 2
 template: detail-page
 majorlinks:
@@ -28,7 +30,7 @@ If you have a disability that was caused—or made worse—by your active-duty s
 
 <div class="feature" markdown="1">
 
-### If I'm a Veteran, can I get VR&amp;E benefits and services?
+### If I'm a Veteran, am I eligible for VR&amp;E benefits and services?
 
 You may be eligible for VR&E benefits and services if you’re a Veteran, and you meet all of the requirements listed below.
 
@@ -50,7 +52,7 @@ You may be eligible for VR&E benefits and services if you’re a Veteran, and yo
 
 <br>
 
-### If I'm still on active duty, can I get VR&amp;E benefits and services?
+### If I'm still on active duty, am I eligible for VR&amp;E benefits and services?
 
 You may be eligible for VR&amp;E benefits and services if you're a Servicemember and you meet at least one of the requirements listed below.
 
