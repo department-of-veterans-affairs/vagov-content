@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for Policyholders Who Are Totally Disabled or Terminally Ill
+title: Benefits for the Totally Disabled or Terminally Ill | Veterans Affairs
+heading: Benefits for Policyholders Who Are Totally Disabled or Terminally Ill
 display_title: Totally Disabled or Terminally Ill
+description: You may be able to get benefits if you become terminally ill or totally disabled. Your spouse may also be able to get certain benefits if diganosed with a terminal illness. Find out what benefits you or your spouse may qualify for and how to apply for them.
+keywords: benefits for terminally ill
 concurrence: 
 order: 2
 spoke: Get Benefits
@@ -18,7 +21,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you become totally disabled or terminally ill, you may be able to get certain benefits. Your spouse may also be able to get certain benefits if diagnosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you qualify for—and how to get them.
+You may be able to get benefits if you become terminally ill or totally disabled. Your spouse may also be able to get certain benefits if diganosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you or your spouse may qualify for and how to apply for them.
 
 </div>
 
