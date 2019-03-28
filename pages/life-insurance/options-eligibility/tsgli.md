@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Traumatic Injury Protection (TSGLI)
+title: Traumatic Injury Protection (TSGLI) | Veterans Affairs
+heading: Traumatic Injury Protection (TSGLI)
 display_title: Traumatic Injury Protection (TSGLI)
+description: You may qualify for Traumatic Servicemembers' Group Life Insurance (TSGLI) Injury Protection if you're a servicemember covered by SGLI who experienced a traumatic injury while serving in the military. Find out how to apply for these payments or appeal a decision that's already been made.
+keywords: tsgli
 concurrence: 
 order: 3
 children: lifeInsuranceTSGLI
@@ -18,13 +21,13 @@ aliases:
 
 <div class="va-introtext">
 
-Did you suffer a traumatic injury while serving in the military? Our Servicemembers’ Group Life Insurance Traumatic Injury Protection (TSGLI) may help you with short-term financial support while you recover. Find out if you qualify—and how to manage your coverage.
+You may qualify for Traumatic Servicemembers' Group Life Insurance (TSGLI) Injury Protection if you're a servicemember covered by SGLI who experienced a traumatic injury while serving in the military. Find out how to apply for these payments or appeal a decision that's already been made.
 
 </div>
 
 <div class="feature">
 
-### Can I get TSGLI? 
+### Am I eligible for TSGLI? 
 
 You may be able to get TSGLI if you were insured by SGLI when you experienced a traumatic injury, and you meet all of the requirements listed below.
 
