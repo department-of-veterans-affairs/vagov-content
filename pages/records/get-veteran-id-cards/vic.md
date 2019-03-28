@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veteran ID Card
+title: How to Apply for a Veteran ID Card | Veterans Affairs
+heading: How to Apply for a Veteran ID Card
 display_title: Veteran ID Card
-description: Find out if you're eligible for a printed Veteran ID Card--and how to apply.
+description: Find out how to apply for a Veteran ID Card (VIC) as long as you received an honorable discharge after serving on active duty, in the Reserves, or the National Guard. View the requirements for photos and documentation you'll need and learn what to expect after you apply. 
 plainlanguage:
 collection: veteranIdCards
 hideFromSidebar: true
