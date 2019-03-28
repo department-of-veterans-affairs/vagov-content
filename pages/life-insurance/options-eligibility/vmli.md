@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans’ Mortgage Life Insurance (VMLI)
+title: Veterans' Mortgage Life Insurance (VMLI) | Veterans Affairs
+heading: Veterans’ Mortgage Life Insurance (VMLI)
 display_title: Veterans’ Mortgage (VMLI)
+description: You might be able to get Veterans Mortgage Life Insurance (VMLI) if you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service. Find out if you qualify and how to apply for this mortgage protection insurance. 
+keywords: mortgage life insurance, veterans mortgage, va loan mortgage insurance, va mortgage insurance, va home mortgage life insurance 
 concurrence:
 order: 6
 relatedlinks:
@@ -17,13 +20,13 @@ aliases:
 
 <div class="va-introtext">
 
-If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs. Find out if you qualify—and how to apply.
+You might be able to get Veterans Mortgage Life Insurance (VMLI) if you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service. In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs. Find out if you qualify—and how to apply.
 
 </div>
 
 <div class="feature">
 
-### Can I get VMLI? 
+### Am I eligible for VMLI? 
 
 You may be able to get VMLI if you have a severe disability, and you meet all of the requirements listed below.
 
