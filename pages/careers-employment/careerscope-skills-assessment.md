@@ -1,6 +1,9 @@
 ---
-title: CareerScope Assessment
+title: CareerScope and Transition Assistance | Veterans Affairs
+heading: CareerScope Assessment
 display_title: CareerScope
+description: Learn about resources like the Transition Assistance Program (TAP) and the CareerScope assessment that can support you wherever you're at in your transition from the military. Connect with benefits advisors around the world who can be your personal guide through your transition. 
+keywords: careerscope, careerscope assessment
 layout: page-breadcrumbs.html
 template: detail-page
 concurrence: incomplete
@@ -13,7 +16,7 @@ aliases:
 
 <div class="va-introtext">
 
-In addition to getting career counseling, you may be able to use CareerScope, a tool that measures your interests and skill levels and helps you figure out the best career path when you move into civilian life. It recommends careers you may enjoy and jobs in which you’re likely to do well. The tool also recommends courses or training programs that can help you go after those careers. Find out if you qualify to use CareerScope.
+In addition to getting career counseling, you may be able to use CareerScope, a tool that measures your interests and skill levels and helps you figure out the best career path when you move into civilian life. It recommends careers you may enjoy and jobs in which you’re likely to do well. The CareerScope assessment also recommends courses or training programs that can help you go after those careers. Find out if you qualify to use CareerScope.
 
 </div>
 
