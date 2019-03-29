@@ -137,13 +137,9 @@ Janesville, WI 53547-4444<br>
 You can also deliver the complete form in person to your VA regional office.
 
 </li>
-
-<li class=process-step list-five">
- 
-#####  5.	It typically takes an average of 125.7 days for us to complete disability-related claims. [Learn more about claims review](https://www.va.gov/disability/after-you-file-claim/).
-
-</li>
 </ol>
+
+It typically takes an average of 125.7 days for us to complete disability-related claims. [Learn more about claims review](https://www.va.gov/disability/after-you-file-claim/).
 
 ## What do I do if I still have questions?
 
