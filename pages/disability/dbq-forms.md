@@ -115,3 +115,37 @@ print it out to sign it. We can’t review any form without this information.
 <li class="process-step list-three">
   
 ##### Make a copy of the DBQ for your records.
+
+</li>
+
+<li class="process-step list-four">
+  
+##### Submit the completed DBQ.
+
+You or your health care provider can send the completed form to us. You or your provider can:
+
+- Fax the form to us. Find your regional office’s fax number.
+-	Mail the form to us. The address is:
+
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Claims Intake Center<br>
+P.O. Box 4444<br>
+Janesville, WI 53547-4444<br>
+</p>  
+  
+You can also deliver the complete form in person to your VA regional office.
+
+</li>
+
+<li class=process-step list-five">
+ 
+#####  5.	It typically takes an average of 125.7 days for us to complete disability-related claims. [Learn more about claims review](https://www.va.gov/disability/after-you-file-claim/).
+
+</li>
+</ol>
+
+## What do I do if I still have questions?
+
+If you have any questions about the DBQ program, please call 1-800-827-1000.
+  
