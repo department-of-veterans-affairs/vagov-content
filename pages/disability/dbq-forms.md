@@ -73,7 +73,7 @@ You or your provider can also deliver the complete form in person to your VA reg
 ## What if I don’t see a DBQ for the condition I’m claiming?
 
 With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. 
-If you can’t find a DBQ for your condition, please call 1-800-827-1000
+If you can’t find a DBQ for your condition, please call 800-827-1000
 
 ## How do DBQs help with VA's Fully Developed Claims (FDC) program?
 
@@ -142,5 +142,12 @@ It typically takes an average of 125.7 days for us to complete disability-relate
 
 ## What do I do if I still have questions?
 
-If you have any questions about the DBQ program, please call 1-800-827-1000.
+If you have any questions about the DBQ program, please call 800-827-1000.
   
+[How can I learn more about disability ratings[(https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
+
+[When do my disability ratings go into effect](https://www.va.gov/disability/about-disability-ratings/effective-date/)?
+
+Need help understanding your benefits or accessing services?
+
+Call our toll-free hotline at 877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
