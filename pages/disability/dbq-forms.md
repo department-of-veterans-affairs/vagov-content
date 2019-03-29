@@ -36,5 +36,28 @@ No. You’ll be responsible for paying for that private appointment.
 
 ## Which DBQ conditions need a VA provider review?
 
-Evaluations for some conditions require special training, equipment, or testing. A private health care provider 
-typically can’t handle these, so we require that a VA provider perform these medical examinations:
+**Evaluations for some conditions require special training, equipment, or testing. A private health care provider 
+typically can’t handle these, so we require that a VA provider perform these medical examinations:**
+
+-	Initial examination for posttraumatic stress disorder (PTSD)
+-	Hearing loss and tinnitus
+-	Residuals of traumatic brain injury
+-	Cold injury residuals
+-	Prisoner of War examination protocol
+-	Gulf War medical examination
+-	General medical examination for compensation purposes
+
+## Do I have to use DBQs to submit my claim?
+
+No. But DBQs give us all the information we need about disability conditions. If your health
+care provider completes a DBQ instead of writing a long summary, it can speed up the claim decision. 
+But using the DBQs is not mandatory.
+
+## How do I find and submit a DBQ form?
+
+We have DBQs that cover more than 70 conditions. When you find the DBQ that’s related to your condition, simply print it out and take it with you to your health care provider appointment. [Read the full list of DBQ forms](https://www.benefits.va.gov/COMPENSATION/dbq_listbysymptom.asp)
+
+**After completing the DBQ form, you or your provider can send the completed form to us. You or your provider can:**
+
+- Fax the form to us. Find your regional office’s fax number.
+-	Mail the form to us. The address is:
