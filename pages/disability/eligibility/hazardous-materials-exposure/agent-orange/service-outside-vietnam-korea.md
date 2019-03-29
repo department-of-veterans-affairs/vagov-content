@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 title: Service Outside Vietnam or Korea | Veterans Affairs 
-heading: Agent Orange Exposure While Serving outside Vietnam or Korea
+heading: Agent Orange Exposure While Serving Outside Vietnam or Korea
 display_title: Service outside Vietnam or Korea
 description: If you served in the military during the Vietnam Era or in certain related jobs, you may have had contact with Agent Orange even if you didn't serve in Vietnam or Korea. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
+keywords: n/a
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
