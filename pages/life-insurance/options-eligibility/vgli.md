@@ -39,8 +39,6 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 - Are within 1 year and 120 days of assignment to the Individual Ready Reserves (IRR) of a branch of service, or to the Inactive National Guard (ING). This includes members of the United States Public Health Service Inactive Reserve Corps (IRC), **or**
 - Are within 1 year and 120 days of being put on the Temporary Disability Retirement List (TDRL)
 
-<br>
-
 #### Who’s covered?
 
 * Veterans
@@ -48,15 +46,11 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 
 </div>
 
-<br>
-
 ## What life insurance benefits can I get with VGLI?
 
 $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI coverage you had when you left the military.
 
 **Note:** When you leave the military, you can sign up through VGLI for coverage up to the amount you had through SGLI. You can also increase your coverage by $25,000 every 5 years—up to $400,000—until you’re 60 years old.
-
-<br>
 
 ## How do I get these benefits?
 
@@ -80,8 +74,6 @@ Fax the form to 1-800-236-6142, or mail it to:
   PO Box 41618<br>
   Philadelphia, PA 19176-9913<br>
 </p>
-
-<br>
 
 ## How much will I pay for these benefits?
 
@@ -633,8 +625,6 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 [See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp)
 
-<br>
-
 ## Can I choose or update my beneficiaries?  
 Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
 
@@ -653,21 +643,6 @@ Fax the form to 1-800-236-6142, or mail it to:
   Philadelphia, PA 19176-9913<br>
 </p>
 
-<br>
-
-## How do I file a life insurance claim? 
-You’ll need to fill out a Claim for Death Benefits (SGLV 8283) and include a copy of the Veteran's death certificate. <br>
-[Download a Claim for Death Benefits](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf) <br>
-
-Fax the form to 1-877-832-4943, or mail it to: 
-
-<p class="va-address-block">
-  OSGLI<br>
-  PO Box 70173<br>
-  Philadelphia, PA 19176-9912<br>
-</p>
-
-<br>
 
 ## Can I convert my VGLI policy into a commercial policy?
 
@@ -714,7 +689,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Read our VGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 [Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1) <br>
 
-### Additional life insurance forms
+### Which claim forms will my service member or other family member need to submit in their time of need?
 - VGLI Beneficiary Designation (SGLV 8721) <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf) <br>
 - Application for Reinstatement of VGLI Coverage (SGLV 180) <br>
@@ -723,7 +698,6 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - Claim for Death Benefits (SGLV 8283) <br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf) <br>
-
 
 ---
 
