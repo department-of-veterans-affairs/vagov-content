@@ -23,7 +23,7 @@ to decide your disability compensation.
 If you are disabled as a result of your military service, you are entitled to disability compensation pay. 
 The first step in determining your monthly disability compensation is to have a health care provider fill out 
 one or more of our disability questionnaires. Then they or you submit the forms to us.  
-[See the full list of condition-related questionnaires](https://www.benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp)
+[See the full list of condition-related questionnaires](https://www.benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp).
 
 ## Do I need to go to a VA health care facility to fill out a DBQ?
 
@@ -62,11 +62,12 @@ We have DBQs that cover more than 70 conditions. When you find the DBQ that’s 
 - Fax the form to us. Find your regional office’s fax number.
 -	Mail the form to us. The address is:
 
-<dl class="va-address-block">
-  <dd>Department of Veterans Affairs</dd>
-  <dd>Claims Intake Center</dd>
-  <dd>P.O. Box 4444</dd>
-  <dd>Janesville, WI 53547-4444</dd>
+<p class="va-address-block">
+  Department of Veterans Affairs<br>
+  Claims Intake Center<br>
+  P.O. Box 4444<br>
+  Janesville, WI 53547-4444<br>
+  </p>
 
 You or your provider can also deliver the complete form in person to your VA regional office.
 
