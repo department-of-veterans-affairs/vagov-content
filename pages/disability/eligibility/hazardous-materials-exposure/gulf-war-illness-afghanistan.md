@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illnesses Linked to Service in Afghanistan
+title: Gulf War Illnesses (Afghanistan) | Veterans Affairs
+heading: Gulf War Illnesses Linked to Service in Afghanistan
 display_title: Gulf War Illness Afghanistan
 description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Afghanistan (often called "Gulf War Illness"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
+keywords: gulf war syndrome, gulf war illness, gulf war syndrome disability percentage, gulf war illness claims approved, gulf war syndrome compensation, desert storm syndrome, what is gulf war syndrome, gulf war syndrome va, gulf war presumptives, gulf war presumptive conditions, gulf war syndrome va disability rating
 concurrence: 
 source: 
 plainlanguage: 
@@ -14,7 +16,7 @@ order: 9
 
 <div class="va-introtext">
 
-If you served in Afghanistan, you may suffer from illnesses or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
+If you served in Afghanistan during the Gulf War, you may have Gulf War illness (also sometimes called Gulf War syndrome) or other conditions related to service in this region. Find out if you can get VA disability compensation or benefits.
 
 [Learn about service in the Southwest Asia theater of military operations and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/).
 
@@ -23,9 +25,9 @@ If you served in Afghanistan, you may suffer from illnesses or other conditions 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get benefits if you served in Afghanistan, you didn't receive a dishonorable discharge, and your chronic illness or other condition meets the requirements listed below.
+You may be able to get VA disability benefits if you served in Afghanistan, you didn't receive a dishonorable discharge, and your chronic illness or other condition meets the requirements listed below.
 
 **All of these must be true. Your chronic illness or other condition:**
 - Started while you were on active duty or after September 19, 2001, **and**
