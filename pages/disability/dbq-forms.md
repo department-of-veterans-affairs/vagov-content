@@ -22,7 +22,7 @@ to decide your disability compensation.
 
 If you are disabled as a result of your military service, you are entitled to disability compensation pay. 
 The first step in determining your monthly disability compensation is to have a health care provider fill out 
-one or more of our disability questionnaires. Then they or you submit the forms to us.  
+one or more of our disability questionnaires. Then they or you submit the forms to us. <br>
 [See the full list of condition-related questionnaires](https://www.benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp).
 
 ## Do I need to go to a VA health care facility to fill out a DBQ?
@@ -55,7 +55,8 @@ But using the DBQs is not mandatory.
 
 ## How do I find and submit a DBQ form?
 
-We have DBQs that cover more than 70 conditions. When you find the DBQ that’s related to your condition, simply print it out and take it with you to your health care provider appointment. [Read the full list of DBQ forms](https://www.benefits.va.gov/COMPENSATION/dbq_listbysymptom.asp)
+We have DBQs that cover more than 70 conditions. When you find the DBQ that’s related to your condition, simply print it out and take it with you to your health care provider appointment. <br>
+[Read the full list of DBQ forms](https://www.benefits.va.gov/COMPENSATION/dbq_listbysymptom.asp)
 
 **After completing the DBQ form, you or your provider can send the completed form to us. You or your provider can:**
 
@@ -80,7 +81,8 @@ If you can’t find a DBQ for your condition, please call 1-800-827-1000
 
 DBQs are valuable for FDC reviewing because they provide relevant medical information. We use this information 
 to determine your disability rating (a rating that measures how bad or sever a disability is). And once we 
-have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
+have your rating, we can begin reviewing your claim. <br>
+[Learn more about the Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)
 
 ## What are the steps to get and submit a DBQ?
 
@@ -91,7 +93,8 @@ Follow the steps below to apply for these benefits.
 
 ##### Find the right DBQ form or forms for your claimed disability.
 
--	Go to the full list of disabilities covered. [See the full list](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp).
+-	Go to the full list of disabilities covered.<br> 
+[See the full list](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp)
 -	Search by either the DBQ Form Name or List by Symptoms, and select the related DBQ.
 -	Download the DBQ form to email it to your provider’s office, or print it out and take it to
 your appointment so your provider can fill it out by hand.
@@ -139,7 +142,8 @@ You can also deliver the complete form in person to your VA regional office.
 </li>
 </ol>
 
-It typically takes an average of 125.7 days for us to complete disability-related claims. [Learn more about claims review](https://www.va.gov/disability/after-you-file-claim/).
+It typically takes an average of 125.7 days for us to complete disability-related claims.<br> 
+[Learn more about claims review](https://www.va.gov/disability/after-you-file-claim/)
 
 ## What do I do if I still have questions?
 
