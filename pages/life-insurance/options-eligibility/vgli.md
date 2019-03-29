@@ -676,20 +676,20 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 <br>
 
-### What if I need help with my claim? 
+## What if I need help with my claim? 
 
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
 <br>
 
-### Where can I find more information?
+## Where can I find more information?
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
 [Read our VGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 [Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1) <br>
 
-### Which claim forms will my service member or other family member need to submit in their time of need?
+## Which claim forms will my service member or other family member need to submit in their time of need?
 - VGLI Beneficiary Designation (SGLV 8721) <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf) <br>
 - Application for Reinstatement of VGLI Coverage (SGLV 180) <br>
@@ -701,7 +701,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 
 ---
 
-### Veterans’ Mortgage Life Insurance (VMLI)
+## Veterans’ Mortgage Life Insurance (VMLI)
 
 If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
 
