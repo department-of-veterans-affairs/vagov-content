@@ -66,7 +66,6 @@ If you sign up within 240 days of leaving the military, you won’t need to prov
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
 [Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
 
-
 Fax the form to 1-800-236-6142, or mail it to:
 
 <p class="va-address-block">
@@ -643,7 +642,6 @@ Fax the form to 1-800-236-6142, or mail it to:
   Philadelphia, PA 19176-9913<br>
 </p>
 
-
 ## Can I convert my VGLI policy into a commercial policy?
 
 Yes. You can convert your policy into a commercial (civilian) policy at any time. You’ll be able to convert at standard premium rates, without having to provide proof that you’re in good health.
@@ -674,15 +672,11 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 **Note:** The conversion policy must be a permanent policy, such as a whole life policy. You can’t convert to other types of policies, like term, variable life, or universal life insurance. And supplementary policy benefits, like Accidental Death and Dismemberment or Waiver of Premium for Disability, aren’t considered part of the conversion policy.
 
-<br>
-
 ## What if I need help with my claim? 
 
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
-<br>
-
 ## Where can I find more information?
 
 [Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
