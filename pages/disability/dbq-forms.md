@@ -67,3 +67,18 @@ We have DBQs that cover more than 70 conditions. When you find the DBQ that’s 
   <dd>Claims Intake Center</dd>
   <dd>P.O. Box 4444</dd>
   <dd>Janesville, WI 53547-4444</dd>
+
+You or your provider can also deliver the complete form in person to your VA regional office.
+
+## What if I don’t see a DBQ for the condition I’m claiming?
+
+With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. 
+If you can’t find a DBQ for your condition, please call 1-800-827-1000
+
+## How do DBQs help with VA's Fully Developed Claims (FDC) program?
+
+DBQs are valuable for FDC reviewing because they provide relevant medical information. We use this information 
+to determine your disability rating (a rating that measures how bad or sever a disability is). And once we 
+have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
+
+## What are the steps to get and submit a DBQ?
