@@ -144,7 +144,7 @@ It typically takes an average of 125.7 days for us to complete disability-relate
 
 If you have any questions about the DBQ program, please call 800-827-1000.
   
-[How can I learn more about disability ratings[(https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
+[How can I learn more about disability ratings](https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
 
 [When do my disability ratings go into effect](https://www.va.gov/disability/about-disability-ratings/effective-date/)?
 
