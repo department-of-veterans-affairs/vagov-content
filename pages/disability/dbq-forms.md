@@ -61,3 +61,9 @@ We have DBQs that cover more than 70 conditions. When you find the DBQ that’s 
 
 - Fax the form to us. Find your regional office’s fax number.
 -	Mail the form to us. The address is:
+
+<dl class="va-address-block">
+  <dd>Department of Veterans Affairs</dd>
+  <dd>Claims Intake Center</dd>
+  <dd>P.O. Box 4444</dd>
+  <dd>Janesville, WI 53547-4444</dd>
