@@ -197,7 +197,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 
 
-## What claim forms will my family members need to submit in their time of need?
+## What claim forms will my service member or other family member need to submit in their time of need?
 - They’ll file a Claim for Accelerated Benefits (SGLV 8284) to request an advance insurance payment for a service member who’s terminally ill.<br>
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - They'll file a Claim for Death Benefits (SGLV 8283) to collect an insurance payment for a deceased service member who has SGLI insurance.<br>
