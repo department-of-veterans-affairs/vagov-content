@@ -3,7 +3,8 @@ layout: page-breadcrumbs.html
 title: U.S. Navy and Coast Guard Ships in Vietnam | Veterans Affairs 
 heading: Agent Orange Exposure on U.S. Navy or Coast Guard Ships
 display_title: Navy or Coast Guard Ships in Vietnam
-description: If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
+description: If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange. Review a list of ships that had contact with Agent Orange, and find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+keywords: navy ships exposed to agent orange, agent orange ship list
 concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -14,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange, a toxic chemical used to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange, a toxic chemical used to clear trees and plants during the war. Review a list of ships that had contact with Agent Orange, and find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
