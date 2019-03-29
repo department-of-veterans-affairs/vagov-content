@@ -83,3 +83,35 @@ to determine your disability rating (a rating that measures how bad or sever a d
 have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
 
 ## What are the steps to get and submit a DBQ?
+
+Follow the steps below to apply for these benefits.
+
+<ol class="process">
+<li class="process-step list-one">
+
+##### Find the right DBQ form or forms for your claimed disability.
+
+-	Go to the full list of disabilities covered. [See the full list](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp).
+-	Search by either the DBQ Form Name or List by Symptoms, and select the related DBQ.
+-	Download the DBQ form to email it to your provider’s office, or print it out and take it to
+your appointment so your provider can fill it out by hand.
+
+</li>
+
+<li class="process-step list-two">
+  
+##### Send or take the DBQ to your health care provider to complete it.
+
+We prefer to have your provider fill out the form electronically because it makes it 
+easier for us to read the DBQ. If your provider fills it out by hand, please ask that they 
+make sure all information is readable.
+
+The provider must fill out the last section, which includes the provider’s name, signature, 
+and contact information. If your provider has filled out the form electronically, they must 
+print it out to sign it. We can’t review any form without this information.
+
+</li>
+
+<li class="process-step list-three">
+  
+##### Make a copy of the DBQ for your records.
