@@ -4,6 +4,7 @@ title: Project 112/SHAD | Veterans Affairs
 heading: Chemical and Biological Exposure Through Projects 112 or SHAD
 display_title: Project 112/SHAD
 description: If you were part of Project 112 or Project SHAD, you may be at risk for certain illnesses. Find out if you can get VA disability pay and other benefits. You can also learn more about certain test sites, ships, and units involved in this chemical and biological warfare testing from 1962 to 1974.
+keywords: project shad, project 112, project 112 shad, project 112 shad participants
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-project_112_shad.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -14,7 +15,7 @@ order: 7
 
 <div class="va-introtext">
 
-If you were a part of chemical and biological warfare testing through Project 112 or Project Shipboard Hazard and Defense (Project SHAD), you may be at risk for certain illnesses. The Department of Defense's Deseret Test Center in Fort Douglas, Utah, conducted this testing, which took place aboard ships and on land in various locations from 1962 to 1974. Find out if you can get disability compensation or benefits.
+If you were a part of chemical and biological warfare testing through Project Shipboard Hazard and Defense (Project SHAD) or Project 112, you may be at risk for certain illnesses. The Department of Defense's Deseret Test Center in Fort Douglas, Utah, conducted this testing, which took place aboard ships and on land in various locations from 1962 to 1974. Find out if you can get disability compensation or benefits.
 
 </div>
 
