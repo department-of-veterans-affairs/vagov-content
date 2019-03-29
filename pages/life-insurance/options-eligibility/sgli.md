@@ -78,11 +78,6 @@ Service members
 
 If you qualify for SGLI, we’ll automatically sign you up through your service branch. See your unit’s personnel office for more information.
 
-### How do I file a life insurance claim?
-You'll need to fill out a Claim for Death Benefits (SGLV 8283). <br>
-[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf).
-
-Then, call your Branch of Service Casualty Assistance Office for help submitting the form to the Office of Servicemembers' Group Life Insurance (OSGLI).
 
 ### Can I make changes to my benefits?
 
@@ -121,7 +116,9 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
 **If you’re a member of the Public Health Service,** please submit your changes by filling out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and giving it to your unit's personnel officer. <br>
-[Download SGLV 8286](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
+[Download SGLV 8286](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf) <br>
+To add more beneficiaries to your SGLI coverage, fill out a Servicemembers' Group Life Insurance Supplemental SGLI Beneficiary Form (SGLV 8286S).<br>
+[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf) <br>
 <br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)<br>
 
@@ -200,12 +197,10 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
 
 
-## Additional life insurance forms
-- Servicemembers' Group Life Insurance Supplemental SGLI Beneficiary Form (SGLV 8286S) <br>
-[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf) <br>
-- Claim for Death Benefits (SGLV 8283)<br>
+## What claim forms will my family members need to submit in their time of need?
+- They'll file a Claim for Death Benefits (SGLV 8283) to collect an insurance payment for a deceased service member who has SGLI insurance.<br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
-- Claim for Accelerated Benefits (SGLV 8284) <br>
+- They’ll file a Claim for Accelerated Benefits (SGLV 8284) to request an advance insurance payment for a service member who’s terminally ill.<br>
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 
 
