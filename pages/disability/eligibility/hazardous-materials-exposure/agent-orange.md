@@ -4,6 +4,7 @@ title: Agent Orange Exposure | Veterans Affairs
 heading: Agent Orange Exposure
 display_title: Agent Orange
 description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
+keywords: agent orange, agent orange exposure, agent orange vietnam, agent orange compensation, agent orange vietnam war, agent orange benefits, vietnam agent orange, agent orange va benefits, agent orange veterans, agent orange va
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityConditionsAgentOrange
@@ -38,7 +39,7 @@ aliases:
 
 <div class="va-introtext">
 
-The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have had contact with this toxic chemical. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange exposure.
+The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have been exposed to this toxic chemical. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange exposure.
 
 </div>
 
