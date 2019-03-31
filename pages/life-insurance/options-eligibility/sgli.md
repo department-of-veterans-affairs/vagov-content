@@ -195,7 +195,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 ## Where can I find more information?
 
 [See our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-[Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
+[Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_10.pdf) <br>
 
 
 ## Which claim forms will my family member need?
