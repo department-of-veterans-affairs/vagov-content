@@ -30,7 +30,7 @@ Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 **Online** 
 
-You can apply [online](www.va.gov/healthbenefits/enroll).
+You can apply [online](https://www.va.gov/health-care/how-to-apply/).
 
 **In person** 
 
