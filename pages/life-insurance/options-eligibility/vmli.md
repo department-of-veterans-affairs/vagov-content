@@ -99,8 +99,6 @@ Send notice of any changes to:
   Philadelphia, PA 19101<br>
 </p>
 
-[Read our Veterans life insurance handbook more guidance](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-
 ## Where can I find more information?
 
 [Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)<br>
