@@ -97,7 +97,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What conditions are covered by these benefits?</h3>
+<h2 itemprop="name">What conditions are covered by these benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -118,7 +118,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 [Get more information about conditions that may be covered](https://www.benefits.va.gov/compensation/dbq_ListBySymptom.asp).
 
-### Get more information
+## Get more information
 
 Watch our Compensation 101 videos to learn more about how VA disability compensation works:
 
