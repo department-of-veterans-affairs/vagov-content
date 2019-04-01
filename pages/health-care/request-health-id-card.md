@@ -23,12 +23,16 @@ and restaurants. If you have a VHIC, you don’t need another type of photo ID c
 
 Veterans must first be enrolled in the VA health care system to receive a VHIC. There are three ways to enroll:
 
--	**By phone 
-You can call our toll-free hotline at 877-222-VETS <a href="tel:+18772228387">877-222-8387</a>, Monday through 
+**By phone
+
+You can call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through 
 Friday, 8:00 a.m. to 8:00 p.m. ET. 
-- **Online 
+
+**Online 
+
 You can apply at www.va.gov/healthbenefits/enroll.
--	**In person 
+**In person 
+
 You can apply at your local VA medical center.
 
 After we verify your enrollment, we’ll take your picture at your local VA medical center. 
@@ -52,7 +56,7 @@ your voter registration card.
 ## What do I do if I haven’t received my VHIC yet?
 
 Once you have your picture taken, you should receive your VHIC card in 10 days. 
-If you haven’t received it, you can call your local VA medical facility, or call 877-222-VETS (8387).
+If you haven’t received it, you can call your local VA medical facility, or call 877-222-VETS (<a href=tel:+18772228387">877-222-8387</a>).
 
 ## What do I do with my old Veterans Identification Card (VIC)?
 
