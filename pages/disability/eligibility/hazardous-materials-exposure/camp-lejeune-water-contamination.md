@@ -19,7 +19,7 @@ If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCA
 
 <div class="feature" markdown="1">
 
-## Can I get disability benefits from VA?
+### Can I get disability benefits from VA?
 
 You may be able to get disability benefits if you meet all of the requirements listed below.
 
@@ -38,7 +38,7 @@ You may be able to get disability benefits if you meet all of the requirements l
 - Non-Hodgkin’s lymphoma
 - Parkinson’s disease
 
-## Who’s covered?
+### Who’s covered?
 
 - Veterans
 - Reservists
@@ -110,7 +110,7 @@ You'll need to ask your doctor to fill out and sign this form before submitting 
 Fill out the Camp Lejeune Family Member Program Application (VA Form 10-10068).<br>
 [Download VA Form 10-10068](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
 
-- Fax it to 1-512-460-5536, **or**
+- Fax it to 512-460-5536, **or**
 - Mail it to:
 
 <p class="va-address-block">
@@ -120,10 +120,10 @@ PO Box 149200<br>
 Austin, TX 78714-9200<br>
 </p>
 
-If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">1-866-372-1144</a>. <br>
+If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">866-372-1144</a>. <br>
 <div class="feature" markdown="1">
 
-## What was in the drinking water?
+### What was in the drinking water?
 
 Two on-base water wells that were shut down in 1985 had these chemicals:
 
