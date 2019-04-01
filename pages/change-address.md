@@ -41,18 +41,19 @@ Find out how to change your contact information--like your home address or phone
 <li>Pension benefits</li>
 <li>Claims and appeals</li>
   
+  If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
+  
 </ul>
-</div>
-</div>
-</div>
 
-If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
+</div>
+</div>
+</div>
   
 <h2 itemprop="name">How do I change my address and other contact information for other benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-Some of our departments keep your contact information updated in their own separate records. If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to update your information. 
+  Some of our departments keep your contact information updated in their own separate records. If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to update your information. 
 
 <h2>Contact these departments directly to update your information:</h2>
 
