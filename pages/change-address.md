@@ -40,12 +40,10 @@ Find out how to change your contact information--like your home address or phone
 <li>Disability compensation</li>
 <li>Pension benefits</li>
 <li>Claims and appeals</li>
-
-<div itemprop="text">
-  
-  If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
   
 </ul>
+
+  If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
 
 </div>
 </div>
