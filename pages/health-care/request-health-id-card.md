@@ -46,9 +46,9 @@ You’ll need to bring one of the following types of identification:
 
 - A current primary identification card
 - A state-issued driver’s license
-- A United States passport or passport card
+- A U.S. passport or passport card
 - Another government ID card. This ID can be issued by federal, state, or local government agencies, 
-as long as it contains your photograph, your date of birth, and your address. 
+as long as it contains your picture, your date of birth, and your address. 
 
 If this government ID card doesn't contain your address, you can provide another document 
 to prove your address. Acceptable documents include your electric bill, your cable bill, or 
@@ -62,7 +62,7 @@ If you haven’t received it, you can call your local VA medical facility, or ca
 ## What do I do with my old Veterans Identification Card (VIC)?
 
 We want all enrolled Veterans to have the VHIC, which is more secure and protects 
-your personal information. If you have the old VIC card, you should destroy it by cutting 
+your personal information. If you have the old VIC, you should destroy it by cutting 
 it up or shredding it.
 
 ## What are the advantages of using a VHIC?
