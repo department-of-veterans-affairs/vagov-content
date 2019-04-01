@@ -34,7 +34,7 @@ You may be able to get disability benefits if you didn’t receive a dishonorabl
 
 - Were part of atmospheric nuclear weapons testing, **or**
 - Served in the postwar occupation of Hiroshima or Nagasaki, **or**
-- Were a prisoner of war (POW) in Japan, **or**
+- Were a Prisoner of War (POW) in Japan, **or**
 - Worked as an x-ray technician, in a reactor plant, or in nuclear medicine or radiography (while on active duty or during active or inactive duty for training in the Reserves), **or**
 - Did tasks like those of a Department of Energy (DOE) employee that make them a member of the Special Exposure Cohort (See 42 U.S.C. 7384L(14))
 
@@ -53,14 +53,14 @@ Veterans
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 ------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Medical records showing that you've been diagnosed with one of the illnesses on our list of those believed to be caused by radiation—or that your doctor states may be caused by radiation exposure, **and**
