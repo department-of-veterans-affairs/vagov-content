@@ -16,7 +16,7 @@ We believe that contact with Agent Orange, a toxic chemical used to clear trees 
 
 </div>
 
-### Cancers believed to be caused by contact with Agent Orange
+## Cancers believed to be caused by contact with Agent Orange
 
 - **[Chronic B-cell leukemia](https://www.publichealth.va.gov/exposures/agentorange/conditions/bcell-leukemia.asp):**
   A type of cancer that affects your white blood cells (cells in your body’s immune system that help to fight off illnesses and infections)
@@ -28,8 +28,8 @@ We believe that contact with Agent Orange, a toxic chemical used to clear trees 
 - **[Respiratory cancers](https://www.publichealth.va.gov/exposures/agentorange/conditions/respiratory_cancers.asp) (including lung cancer):** Cancers of the organs involved in breathing (including the lungs, larynx, trachea, and bronchus)
 - **[Soft tissue sarcomas](https://www.publichealth.va.gov/exposures/agentorange/conditions/soft-tissue-sarcoma.asp) (other than osteosarcoma, chondrosarcoma, Kaposi’s sarcoma, or mesothelioma):** Different types of cancers in body tissues such as muscle, fat, blood and lymph vessels, and connective tissues
 
-### Other illnesses believed to be caused by contact with Agent Orange
-
+## Other illnesses believed to be caused by contact with Agent Orange
+  
 - **[AL amyloidosis](https://www.publichealth.va.gov/exposures/agentorange/conditions/al_amyloidosis.asp):** A rare illness that happens when an abnormal protein (called amyloid) builds up in your body’s tissues, nerves, or organs (like your heart, kidneys, or liver) and causes damage over time
 - **[Chloracne](https://www.publichealth.va.gov/exposures/agentorange/conditions/chloracne.asp) (or other types of acneform disease like it):** A skin condition that happens soon after contact with chemicals and looks like acne often seen in teenagers. Under our rating regulations, it must be at least 10% disabling within 1 year of contact with herbicides. 
 - **[Diabetes mellitus type 2](https://www.publichealth.va.gov/exposures/agentorange/conditions/diabetes.asp):** An illness that happens when your body is unable to properly use insulin (a hormone that turns blood glucose, or sugar, into energy), leading to high blood sugar levels
