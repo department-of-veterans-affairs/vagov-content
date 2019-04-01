@@ -23,5 +23,5 @@ and restaurants. If you have a VHIC, you don’t need another type of photo ID c
 Veterans must first be enrolled in the VA health care system to receive a VHIC. There are three ways to enroll:
 
 -	By telephone. You can call our toll-free hotline at 877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
-- Online. You can apply at (www.va.gov/healthbenefits/enroll).
+- Online. You can apply at www.va.gov/healthbenefits/enroll.
 -	In person. You can apply at your local VA medical center.
