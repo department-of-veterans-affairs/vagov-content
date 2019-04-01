@@ -4,7 +4,7 @@ title: Veterans disability compensation rates
 display_title: Veterans Disability Compensation Rates | Veterans Affairs
 heading: Veterans disability compensation rates
 description: View current Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
-keywords: 
+keywords: veterans disability rates, veterans compensation benefits rate tables
 template: detail-page
 order: 1
 aliases:
