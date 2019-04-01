@@ -76,10 +76,6 @@ You’ll need to apply for these benefits as soon as possible after becoming tot
 To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). Mail it to the address listed on the form. <br>
 [Download VA Form 29-357](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) 
 
-### Where can I find more information?
-
-[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
-
 <hr>
 
 ## Accelerated benefits for terminally ill policyholders
