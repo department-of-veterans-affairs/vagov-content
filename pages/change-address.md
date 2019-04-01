@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: Change Your Address | Veterans Affairs
 heading: Change Your Address
-description: Find out how to change your home address, phone number, and other contact information for your VA.gov benefits profile.
+description: Find out how to change your home address, phone number, and other contact information for your VA.gov profile.
 keywords: va change of address form, va address change, change of address va, va benefits change of address, va address change form, how do i change my address with the va, va benefits address change
 display_title: Change Your Address
 lastupdate:
@@ -12,7 +12,7 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your contact information (like your home address or phone number) in your VA.gov benefits profile. 
+Find out how to change your contact information (like your home address or phone number) in your VA.gov profile. 
 
 </div>
 
@@ -53,7 +53,7 @@ If you’re enrolled in the VA health care program, your prescriptions will be s
   
 Some of our departments keep your contact information updated in their own separate records. If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to update your information.
 
-<h3>Contact these departments directly to update your information:</h3>
+<h2>Contact these departments directly to update your information:</h2>
 
 <ul>
   <li><b>For education benefits:</b> Call 1-888-GIBILL-1 (1-888-442-4551), Monday through Friday, 7:00 a.m. to 6:00 p.m. CT</li>
