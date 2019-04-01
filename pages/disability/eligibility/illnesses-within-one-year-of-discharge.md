@@ -55,14 +55,14 @@ You may be able to get benefits if you have an illness that’s at least 10% dis
 Veterans
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 -	Health care
 - Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
 
