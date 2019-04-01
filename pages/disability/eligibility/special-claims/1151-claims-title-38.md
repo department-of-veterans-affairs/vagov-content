@@ -34,13 +34,13 @@ You may be able get compensation from VA if you suffered an added disability or 
 Veterans
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 Compensation 
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that the added disability happened because of VA medical care or a VA program designed to help you find, get, or keep a job. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
