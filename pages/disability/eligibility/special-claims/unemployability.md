@@ -4,6 +4,7 @@ title: Being Unable to Work (Unemployability) | Veterans Affairs
 heading: VA Individual Unemployability (Veterans Who Can't Work Due to a Disability)
 display_title: Unemployability
 description: Find out how to file for VA individual unemployability compensation if you're an unemployed Veteran who can't work due to a service-connected disability. With this benefit, you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating.
+keywords: va unemployability, individual unemployability, va individual unemployability, veteran unemployment, veterans unemployability, how to apply for va disability unemployability, veterans individual unemployability, veteran unemployment compensation
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-individual_unemployability.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
@@ -15,7 +16,7 @@ aliases:
 
 <div class="va-introtext">
 
-You may qualify for what’s called “individual unemployability" if you can’t work because of a disability related to your service in the military (a service-connected disability). This means you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating.
+You may qualify for what’s called “individual unemployability" if you can’t work because of a disability related to your service in the military (a service-connected disability). This means you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating. Find out how to file for VA individual unemployability.
  
 </div>
 
@@ -24,7 +25,7 @@ You may qualify for what’s called “individual unemployability" if you can’
 
 ### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits for individual unemployability if you meet both of the requirements listed below.
+You may be able to get VA disability benefits for individual unemployability if you meet both of the requirements listed below.
 
 **Both of these must be true:**
   - You have at least 1 service-connected disability rated at 60% or more disabling, or 2 or more service-connected disabilities—with at least 1 rated at 40% or more disabling and a combined rating of 70% or more—**and**
