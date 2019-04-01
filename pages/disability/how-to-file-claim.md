@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: How to File a VA Disability Claim
+title: How to File a VA Disability Claim | Veterans Affairs
+heading: How to File a VA Disability Claim
 display_title: How to File a Claim
 description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
+keywords: how to file a va disability claim, apply for disability, filing a va disability claim, file a va disability claim 
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -36,14 +38,14 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation or increased disability compensation.
+Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
 
 </div>
 
 ### How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA disability compensation](/disability/eligibility/). <br>
-- Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
+- Gather any evidence (supporting documents) you'll submit yourself when you file your VA disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 
 [Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims). <br>
@@ -56,7 +58,7 @@ Find out how to file a claim for disability compensation or increased disability
 <h4 itemprop="name">What evidence will I need to provide to support my claim?</h4>
 <div itemprop="itemListElement">
 
-**You can help to support your claim by providing documents, such as:**
+**You can help to support your VA disability claim by providing documents, such as:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries or that show your rated disability has gotten worse
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries or that show your disability has gotten worse
@@ -79,7 +81,7 @@ You should also know that you have up to a year from the date we receive your cl
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">You can also file your claim:</h4>
+<h4 itemprop="name">You can also file your VA disability claim claim:</h4>
 <div itemprop="itemListElement">
 
 ##### By mail
