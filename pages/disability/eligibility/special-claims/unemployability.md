@@ -37,14 +37,14 @@ You may be able to get disability benefits if you meet both of the requirements 
 Veterans
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to provide evidence (supporting documents like a doctor’s report or medical test results) showing that your disability prevents you from holding down a steady job. We’ll also review your work and education history. <br>
 <br>
