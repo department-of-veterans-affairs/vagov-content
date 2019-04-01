@@ -40,12 +40,12 @@ You can get an Agent Orange Registry health exam if you served in any of the way
 Veterans
 </div>
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 To schedule your exam, contact your local VA environmental health coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
 [Find a VA environmental health coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
-### What should I expect at the exam?
+## What should I expect at the exam?
 
 The exam will include:
 
@@ -56,7 +56,7 @@ The exam will include:
 
 A VA health care provider will go over your exam and test results with you. You’ll also get a letter with the details of your results.
 
-### What else should I know about the exam?
+## What else should I know about the exam?
 
 Please note that:
 
@@ -68,8 +68,8 @@ Please note that:
 - You can get another free registry exam if you have a new illness in the future.
 - Your family members can’t get an Agent Orange Registry health exam. The exam is only for qualified Veterans.
 
-### How do I make an appointment for an Agent Orange Registry health exam? <br>
+## How do I make an appointment for an Agent Orange Registry health exam? <br>
 [Contact your local VA environmental health coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
-### Get more information
+## Get more information
 [Learn more about the Agent Orange Registry health exam](https://www.publichealth.va.gov/exposures/agentorange/benefits/registry-exam.asp). 
