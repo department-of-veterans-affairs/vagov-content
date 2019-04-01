@@ -17,9 +17,9 @@ You can request a hearing with a Veterans Law Judge using the Appeal to Board of
 
 </div>
 
-<div class="usa-alert usa-alert-info">
+<div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">The process for hearings has changed</h3>
+    <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
     <p><b>If you’re requesting a Board Appeal using VA Form 9</b><br>
      Keep reading below to learn how to request and prepare for a hearing.
 </p>
