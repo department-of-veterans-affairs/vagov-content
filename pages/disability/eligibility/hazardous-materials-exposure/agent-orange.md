@@ -61,12 +61,12 @@ You may be able to get disability benefits if both of the below descriptions are
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents). <br>
 
@@ -113,12 +113,12 @@ When you file your claim, you'll need to submit this evidence:
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 
-### Get more information
+## Get more information
 
 [See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
 
 Contact us if you have questions:
-- Call the Agent Orange help line at <a href="tel:+18007498387">1-800-749-8387</a>, **or** 
+- Call the Agent Orange help line at <a href="tel:+18007498387">800-749-8387</a>, **or** 
 - Send an email to <a href="mailto:GW/AOHelpline@vba.va.gov">GW/AOHelpline@vba.va.gov</a>
 
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
