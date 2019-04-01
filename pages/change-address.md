@@ -12,7 +12,7 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your contact information (like your home address or phone number) in your VA.gov profile. 
+Find out how to change your contact information--like your home address or phone number--in your VA.gov profile. 
 
 </div>
 
