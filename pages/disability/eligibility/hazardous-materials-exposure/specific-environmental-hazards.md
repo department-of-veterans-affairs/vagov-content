@@ -34,13 +34,13 @@ You may be able to get disability benefits if you have an illness or other condi
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 -	Health care
 -	Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
