@@ -192,11 +192,6 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at <a href="tel:+18004191473">800-419-1473</a>, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com">Email the Prudential Insurance Company</a>
 
-## Where can I find more information?
-
-[See our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-[Read our SGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_10.pdf) <br>
-
 
 ## Which claim forms will my family member need?
 
