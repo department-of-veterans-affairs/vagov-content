@@ -63,21 +63,21 @@ Veterans
 </div>
 
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 [Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
 
-### What’s included in the Southwest Asia theater of military operations?
+## What’s included in the Southwest Asia theater of military operations?
 - Iraq, Kuwait, Saudi Arabia
 - The neutral zone between Iraq and Saudi Arabia
 - Bahrain, Qatar, and the United Arab Emirates (U.A.E.)
@@ -86,7 +86,7 @@ You’ll need to file a claim for disability compensation. <br>
 - The waters of the Persian Gulf, the Arabian Sea, and the Red Sea
 - The airspace above these locations
 
-### What if I need help filing my claim?
+## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
