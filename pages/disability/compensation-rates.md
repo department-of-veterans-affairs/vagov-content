@@ -9,7 +9,7 @@ aliases:
 spoke: More Resources
 children: disabilityCompensationRates
 majorlinks:
-  - heading: View current disability compensation rates
+  - heading: View current VA disability compensation rates
     links:
     - url: /disability/compensation-rates/veterans-disability/
       title: Veterans disability compensation rates
@@ -42,7 +42,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-Find your current VA disability compensation rate, based on your disability rating. And learn what other factors may affect your monthly payment amount.
+View current VA disability compensation rates, based on disability rating and dependent family members. And learn what other factors may affect your monthly compensation payments.
 
 </div>
 
@@ -53,7 +53,7 @@ Find your current VA disability compensation rate, based on your disability rati
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="increased">Can I get increased payments if I have a severe disability or dependents?</button>
 <div id="increased" class="usa-accordion-content">
 
-Yes. We may increase your monthly payments if one or more of the situations below  is true for you. You have a:
+Yes. We may increase your monthly payments if one or more of the situations below is true for you. You have a:
 <ul>
   <li>Very severe disability or loss of limb, <b>or</b></li>
   <li>Spouse, child, or dependent parent and your combined disability rating is 30% or greater, <b>or</b></li>
