@@ -4,6 +4,7 @@ title: Birth Defects (Spina Bifida) | Veterans Affairs
 heading: Birth Defects (Spina Bifida) Linked to Agent Orange
 display_title: Birth Defects
 description: Learn about VA disability compensation and other benefits for children of Veterans with birth defects related to Agent Orange exposure. If you served in South Vietnam or the Republic of Korea, and your child has spina bifida or certain other birth defects, find out if they qualify for benefits.
+keywords: agent orange birth defects, agent orange vietnam birth defects, vietnam war birth defects, spina bifida and agent orange, spina bifida agent orange, agent orange birth defects vietnam, agent orange spina bifida, vietnam birth defects
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-asbestos.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
