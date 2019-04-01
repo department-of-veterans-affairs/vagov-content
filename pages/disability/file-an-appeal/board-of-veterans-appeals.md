@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-You can request a hearing with a Veterans Law Judge using the Appeal to Board of Veterans' Appeals (VA Form 9).
+When you submit your form to the Board of Veterans' Appeals, you can request a hearing with a Veterans Law Judge.
 
 </div>
 
