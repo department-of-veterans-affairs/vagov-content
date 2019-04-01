@@ -44,7 +44,7 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 - Qualified survivors
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -52,13 +52,13 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. We consider non-Hodgkin’s lymphoma to be related to contact with Agent Orange. So, when you file a claim, you won’t have to show that your illness is related to Agent Orange or that it began during—or got worse because of—your military service.
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-### Get more information
+## Get more information
 
 Want to figure out where you may have come into contact with Agent Orange? <br>
 [See locations linked to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/).
