@@ -39,6 +39,8 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 - Are within 1 year and 120 days of assignment to the Individual Ready Reserves (IRR) of a branch of service, or to the Inactive National Guard (ING). This includes members of the United States Public Health Service Inactive Reserve Corps (IRC), **or**
 - Are within 1 year and 120 days of being put on the Temporary Disability Retirement List (TDRL)
 
+[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1) <br>
+
 #### Who’s covered?
 
 * Veterans
@@ -680,11 +682,6 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
-## Where can I find more information?
-
-[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-[Read our VGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/SGLI_VGLI_handbookv1_9.pdf) <br>
-[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1) <br>
 
 ## Which claim forms will my family member need?
 - **To request an advance insurance payment for a Veteran who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
