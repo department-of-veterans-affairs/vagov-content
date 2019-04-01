@@ -3,7 +3,8 @@ layout: page-breadcrumbs.html
 title: Title 38 U.S.C. 1151 Claims | Veterans Affairs
 heading: VA Title 38 U.S.C. 1151 Claims
 display_title: Title 38 U.S.C. 1151 Claims
-description: Find out if you can get compensation from VA for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.
+description: Find out if you can get compensation from VA for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.]
+keywords: va 1151 claim, title 38 usc 1151 claims, va 1151 claim form, va compensation for 1151 claim, 1151 claim
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -14,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you can get compensation from VA for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.
+Find out if you can get VA compensation for a Title 38 U.S.C. 1151 claim. You may have a claim if you suffered an added disability—or your existing injury or disease got worse—while you were getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job.
 
 </div>
 
