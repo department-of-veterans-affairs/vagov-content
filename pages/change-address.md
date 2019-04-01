@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: Change Your Address | Veterans Affairs
 heading: Change Your Address
-description: Find out how to change your home address, phone number, and other contact information for your VA.gov profile.
+description: Find out how to submit an address change or update other contact information in your VA.gov profile. 
 keywords: va change of address form, va address change, change of address va, va benefits change of address, va address change form, how do i change my address with the va, va benefits address change
 display_title: Change Your Address
 lastupdate:
@@ -35,7 +35,7 @@ Find out how to change your contact information--like your home address or phone
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-  <b>No</b>. We’ll use the address information in your profile to contact you about certain benefits and services, including:
+  <b>No</b>. We’ll use the address information from your profile to contact you about certain benefits and services, including:
 <ul>
 <li>Disability compensation</li>
 <li>Pension benefits</li>
