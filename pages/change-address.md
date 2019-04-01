@@ -1,17 +1,18 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Change my Address | Veterans Affairs
-heading: Change My Address
+title: Change Your Address | Veterans Affairs
+heading: Change Your Address
+description: Find out how to change your home address, phone number, and other contact information for your VA.gov benefits profile.
 keywords: va change of address form, va address change, change of address va, va benefits change of address, va address change form, how do i change my address with the va, va benefits address change
-display_title: Change my Address
+display_title: Change Your Address
 lastupdate:
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your contact information (like your home address or phone number) in your VA.gov profile. 
+Find out how to change your contact information (like your home address or phone number) in your VA.gov benefits profile. 
 
 </div>
 
@@ -22,7 +23,7 @@ Find out how to change your contact information (like your home address or phone
 <ol class="process">
   <li class="process-step list-one">Sign in to VA.gov using your Ebenefits, My HealtheVet, or ID.me account.</li>
   <li class="process-step list-two">Verify your identity if needed.<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf"> Find out how to verify your identity.</a></li>
-  <li class="process-step list-three">Go to https://www.va.gov/profile, where you can update your mailing and home address.</li>
+  <li class="process-step list-three">Go to https://www.va.gov/profile, where you can change your mailing and home address.</li>
 </ol>
 
 </ul>
@@ -59,6 +60,7 @@ Some of our departments keep your contact information updated in their own separ
   <li><b> For home loan benefits:</b> Call 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET to reach the nearest VA regional benefit office with loan guaranty staff Pension benefits</li>
   <li><b>For Veterans' Mortgage Life Insurance:</b> Call the VA Insurance Center (VAIC) at 1-800-669-8477, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET</li>
 </ul>
+
 </div>
 </div>
 </div>
