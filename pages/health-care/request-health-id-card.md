@@ -7,7 +7,7 @@ display_title: About VHICs
 description: 
 concurrence: 
 spoke: Get Benefits
-order:tk 
+order: 6
 ---
 
 <div class="va-introtext">
