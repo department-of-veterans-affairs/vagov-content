@@ -71,7 +71,7 @@ We consider any of these to be a traumatic event:
 Veterans
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -79,7 +79,7 @@ Veterans
 
 --------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
 
@@ -100,7 +100,7 @@ When you file a disability claim, you'll also need to fill out one of these addi
 **If you're in crisis and need to talk with someone right now,** you can connect with a Veterans Crisis Line responder any time, day or night. <br>
 [Find out how to get support now](#get-help-now)
 
-### Get more information 
+## Get more information 
 We’ve made great progress in treating PTSD and have brought more mental health providers to VA medical centers to help give the best care to Veterans with PTSD. <br>
 [Learn about our PTSD programs](https://www.mentalhealth.va.gov/PTSD.asp)
 
