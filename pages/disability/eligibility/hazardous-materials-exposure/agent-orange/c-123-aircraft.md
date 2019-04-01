@@ -56,14 +56,14 @@ Check our list of military units and Air Force specialty codes to see if your un
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 ----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure to Agent Orange while serving in the military.
 
@@ -101,7 +101,7 @@ You can upload supporting documents along with your online application, includin
 </li>
 </ol>
 
-### How to file a claim by mail or fax
+## How to file a claim by mail or fax
 
 <ol class="process" markdown="0">
 <li class="process-step list-one" markdown="1">
@@ -152,8 +152,8 @@ Janesville, WI<br />
 
 </ol>
 
-### What if I need help filing my claim?
-- Call the C-123 hotline at <a href="tel:+18007498387">1-800-749-8387</a>, **or**<br>
+## What if I need help filing my claim?
+- Call the C-123 hotline at <a href="tel:+18007498387">800-749-8387</a>, **or**<br>
 - <a href="mailto:VSCC123.VAVBASPL@va.gov">Email the St. Paul regional benefit office</a>
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
