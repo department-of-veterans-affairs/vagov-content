@@ -35,12 +35,12 @@ You may be able to get disability benefits if you recently ended your active mil
 Veterans
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you have a severe, service-connected disability that’s unstable and expected to continue for an unknown amount of time. This information will normally be part of your Service Treatment Record. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
