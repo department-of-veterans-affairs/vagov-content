@@ -48,7 +48,8 @@ Yes. To qualify for TSGLI, none of the descriptions below can be true of your in
 - Occur while you’re committing or trying to commit a felony, **or**
 - Be the result of a physical or mental illness or disease (not including illness or disease caused by a wound infection; a chemical, biological, or radiological weapon; or accidentally swallowing a contaminated substance)
 
-[View TSGLI loss standards](https://www.benefits.va.gov/insurance/tsgli_schedule_Schedule.asp)
+[View TSGLI loss standards](https://www.benefits.va.gov/insurance/tsgli_schedule_Schedule.asp) <br>
+[View our diagram to learn more about TSGLI eligibility](https://benefits.va.gov/benefits/infographics/pdfs/TSGLI.pdf) 
 
 #### Can I get retroactive TSGLI for a past injury?
 
@@ -88,10 +89,5 @@ If your letter says to complete this form, fill it out and submit it to your bra
 
 If you have SGLI coverage, your SGLI premium (which is automatically deducted from your base pay) includes a $1-per-month flat-rate premium for TSGLI. This is all you’ll pay for this benefit.
 
-## Where can I find more information?
-
-[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)<br>
-[Read our TSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/TSGLIProceduresGuide.pdf) <br>
-[View our diagram to learn more about TSGLI eligibility](https://benefits.va.gov/benefits/infographics/pdfs/TSGLI.pdf)
 
 
