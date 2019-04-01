@@ -31,7 +31,7 @@ Find out how to change your contact information--like your home address or phone
 </div>
 </div>
 
-<h2 itemprop="name">Will this update my address for all VA benefits?</h2>
+<h2 itemprop="name">Will this change my address for all VA benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
