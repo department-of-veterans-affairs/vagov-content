@@ -318,5 +318,5 @@ You can’t convert other types of policies—such as term, variable, or univers
 [Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
 - **To tell us about the death of a family member covered by the policy,** a service member would file a Report of Death of Family Member (SGLV 8700).<br>
 [Download SGLV 8700](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
-- **To collect an insurance payment for a deceased family member,** a service member would file a Claim for Family Coverage Death Benefits (SGLV 8283A). <br>
+- **To receive an insurance payment in their time of need,** a service member would file a Claim for Family Coverage Death Benefits (SGLV 8283A). <br>
 [Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) <br>
