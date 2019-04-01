@@ -312,11 +312,6 @@ You can’t convert other types of policies—such as term, variable, or univers
   - The service member’s SGLI declination
   - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
 
-## Where can I find more information?
-
-[See our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-[Read our FSGLI handbook](https://www.benefits.va.gov/INSURANCE/docs/ProceduralGuide.pdf) <br>
-
 
 ## Which claim forms will my service member need?
 - **To request an advance insurance payment for a spouse who's terminally ill,** a service member would file a Claim for Accelerated Benefits (SGLV 8284A).<br>
