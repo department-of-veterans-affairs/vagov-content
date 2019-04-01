@@ -32,14 +32,14 @@ You may be able to get disability benefits if one of the situations below descri
 Veterans
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Increased compensation (payments) for the time you spent in the hospital
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
