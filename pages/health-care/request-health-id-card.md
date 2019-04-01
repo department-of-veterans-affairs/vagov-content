@@ -30,7 +30,7 @@ Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 **Online** 
 
-You can apply [online] (www.va.gov/healthbenefits/enroll).
+You can apply [online](www.va.gov/healthbenefits/enroll).
 
 **In person** 
 
@@ -50,7 +50,7 @@ You’ll need to bring one of the following types of identification:
 - Another government ID card. This ID can be issued by federal, state, or local government agencies, 
 as long as it contains your photograph, your date of birth, and your address. 
 
-If this government ID card does not contain your address, you can provide another document 
+If this government ID card doesn't contain your address, you can provide another document 
 to prove your address. Acceptable documents include your electric bill, your cable bill, or 
 your voter registration card.
 
@@ -69,24 +69,24 @@ it up or shredding it.
 
 A VHIC is a more secure ID card. A VHIC gives you:
 
-- Increased security for your personal information. No personal information is on the magnetic strip or bar code.
-- Easy access to your unique member identifier. The Department of Defense assigns you a unique member identifier, 
+- **Increased security for your personal information.** No personal information is on the magnetic strip or bar code.
+- **Easy access to your unique member identifier.** The Department of Defense assigns you a unique member identifier, 
 also called an electronic data interchange personal identifier or EDIPI. This identifier allows us to easily 
 find your health record.
-- Accessibility features. The letters “VA” are inscribed in Braille to help visually impaired Veterans 
+- **Accessibility features.** The letters “VA” are inscribed in Braille to help visually impaired Veterans 
 recognize and use the card.
-- Protection against counterfeiting and identity theft. Microtext helps prevent reproductions.
-- A salute to your military service. The card shows the emblem of your latest branch of service, 
+- **Protection against counterfeiting and identity theft.** Microtext helps prevent reproductions.
+- **A salute to your military service.** The card shows the emblem of your latest branch of service, 
 as well as some special awards if they apply.
 
 ## What do I do if my VHIC is lost or stolen?
 If your VHIC is lost or stolen, contact the VA medical facility where your picture 
-was taken to ask for a new card. You may also call 877-222-VETS (8387). You’ll need to
+was taken to ask for a new card. You may also call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>). You’ll need to
 provide identification information again.
 
 ## What do I do if I still have questions?
 
-Call our toll-free hotline at 877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 
 ## Interested in another type of VA ID card?
 
@@ -100,4 +100,4 @@ Learn about [VA health benefits](https://www.va.gov/health-care/).
 
 ## Need help understanding your benefits or accessing services?
 
-Call our toll-free hotline at 877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
