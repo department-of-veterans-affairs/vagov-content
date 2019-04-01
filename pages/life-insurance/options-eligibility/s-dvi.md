@@ -36,6 +36,9 @@ You can apply for S-DVI if you meet all of the requirements listed below.
 
 **Note:** An increase of a rating you had before—or a rating of Individual Unemployability, meaning you can’t work—doesn’t qualify you for S-DVI.
 
+[View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
+[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets) <br>
+
 ### Can I get more life insurance coverage if I need it?
 
 If you carry the basic S-DVI coverage and become totally disabled and unable to work, you can apply to get up to $30,000 more in coverage. This is called Supplemental S-DVI coverage.
@@ -92,8 +95,6 @@ If you've received one of these discharge statuses, you may not be eligible for 
 If you want to apply for Supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for Supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
 [Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf) <br>
 
-[View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
-[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets) <br>
 
 ## How much will I pay for these benefits?
 
