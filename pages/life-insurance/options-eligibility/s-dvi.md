@@ -90,7 +90,10 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </p>
 
 If you want to apply for Supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for Supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
-[Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf)
+[Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf) <br>
+
+[View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
+[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets) <br>
 
 ## How much will I pay for these benefits?
 
@@ -115,11 +118,6 @@ You must pay your premiums for Supplemental S-DVI.
 
 If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET.
 
-## Where can I find more information?
-
-[Read our Veterans life insurance handbook](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf) <br>
-[View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
-[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets) <br>
 
 -------------
 
