@@ -16,7 +16,7 @@ aliases:
 
 <div class="va-introtext">
 
-Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be eligible for an annual VA clothing allowance. Find out if you qualify for this benefit. 
+Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be eligible for an annual VA clothing allowance. Find out if you are eligible for this benefit. 
 
 </div>
 
