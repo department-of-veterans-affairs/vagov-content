@@ -45,8 +45,6 @@ Find out how to change your contact information--like your home address or phone
 </div>
 </div>
 </div>
-
-<u>If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
   
 <h2 itemprop="name">How do I change my address and other contact information for other benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -62,7 +60,6 @@ Some of our departments keep your contact information updated in their own separ
 
 <b>For Veterans' Mortgage Life Insurance:</b> Call the VA Insurance Center (VAIC) at 1-800-669-8477, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
 
-</u>
 </div>
 </div>
 </div>
