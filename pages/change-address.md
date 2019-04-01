@@ -22,7 +22,7 @@ Find out how to change your contact information (like your home address or phone
 
 <ol class="process">
   <li class="process-step list-one">Sign in to VA.gov using your Ebenefits, My HealtheVet, or ID.me account.</li>
-  <li class="process-step list-two">Verify your identity if needed.<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf"> Find out how to verify your identity.</a></li>
+  <li class="process-step list-two">Verify your identity if needed. We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft.<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf"> Find out how to verify your identity.</a></li>
   <li class="process-step list-three">Go to https://www.va.gov/profile, where you can change your mailing and home address.</li>
 </ol>
 
@@ -57,7 +57,7 @@ Some of our departments keep your contact information updated in their own separ
 
 <ul>
   <li><b>For education benefits:</b> Call 1-888-GIBILL-1 (1-888-442-4551), Monday through Friday, 7:00 a.m. to 6:00 p.m. CT</li>
-  <li><b> For home loan benefits:</b> Call 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET to reach the nearest VA regional benefit office with loan guaranty staff Pension benefits</li>
+  <li><b>For home loan benefits:</b> Call 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET to reach the nearest VA regional benefit office with loan guaranty staff Pension benefits</li>
   <li><b>For Veterans' Mortgage Life Insurance:</b> Call the VA Insurance Center (VAIC) at 1-800-669-8477, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET</li>
 </ul>
 
