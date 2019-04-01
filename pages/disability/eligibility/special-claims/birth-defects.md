@@ -25,7 +25,7 @@ Spina bifida is a spinal cord birth defect. A baby develops spina bifida while s
 
 <br>
 
-#### For Spina Bifida
+#### For spina bifida
 
 Your child may be able to get disability benefits if they were diagnosed with a form of spina bifida other than spina bifida occulta and the below descriptions are true.
 
@@ -44,7 +44,7 @@ The child was conceived after the parent served in either South Vietnam or the R
  
 <br>
 
-#### For Other Birth Defects
+#### For other birth defects
 
 Your child may be able to get disability benefits if they have a covered birth defect that caused a permanent physical or mental disability (a disability that doesn’t go away) and both of the below descriptions are true.
 
@@ -63,7 +63,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 </div>
 
-### What kind of disability benefits can my child get?
+## What kind of disability benefits can my child get?
 
 -	Health care
 -	Compensation (payments)
@@ -71,7 +71,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 --------
 
-### How do I get these benefits for my child?
+## How do I get these benefits for my child?
 
 
 **You'll need to file a claim on behalf of your child and submit this evidence:**
@@ -83,7 +83,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim).</br>
 [View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp).
 
-### Get more information 
+## Get more information 
 
 Does your child have spina bifida? <br>
 [Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp).<br>
