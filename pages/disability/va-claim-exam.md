@@ -4,6 +4,7 @@ title: VA Claim Exam (C&P Exam) | Veterans Affairs
 heading: VA Claim Exam (C&P Exam)
 display_title: VA Claim Exam (C&P Exam)
 description: Get answers to commonly asked questions about the VA claim exam (also called a "VA C&P exam," which stands for "VA Compensation and Pension exam"). Find out how to schedule your exam, what to expect during your appointment, and how long it usually takes to get a decision after your exam.
+keywords: c&p exam, va c&p exam, va compensation and pension, va compensation and pension exam, how long after c&p exam will i get a decision
 order: 3
 plainlanguage: 02-09-18 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -26,7 +27,7 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-After you file your disability benefits claim, we may ask you to have a claim exam (also known as a compensation and pension, or C&P, exam). Get answers to commonly asked questions about the VA claim exam below.
+After you file your disability benefits claim, we may ask you to have a claim exam (also known as a compensation and pension, or C&P, exam). Get answers to commonly asked questions about the VA C&P exam below.
 
 </div>
 
@@ -44,11 +45,11 @@ If you miss your exam, we may not be able to reschedule you right away, and your
 </div>
 </div>
 
-### Why might I need a VA claim exam?
+### Why might I need a VA C&P claim exam?
 
 This exam will help us rate your disability. Your rating will be based on how severe your disability is—and will affect how much disability compensation you’ll receive. Compensation may include things like monthly payments and enrollment in the VA health care program.
 
-### Does everyone who files a claim need to have a VA claim exam?
+### Does everyone who files a claim need to have a VA C&P claim exam?
 
 No. We’ll ask you to have a claim exam only if we need more information to decide your claim.
 
@@ -56,7 +57,7 @@ If you have enough medical evidence in your file to support your claim, we won't
 
 <br>
 
-### How to schedule your VA claim exam
+### How to schedule your VA C&P claim exam
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
@@ -95,7 +96,7 @@ If you can’t make it to your appointment, let us know right away. You can most
 
 <br>
 
-### What to expect at your VA claim exam
+### What to expect at your VA C&P claim exam
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
@@ -184,7 +185,7 @@ If you have what we consider to be a good reason for missing your exam (called �
 
 <br>
 
-### After your VA claim exam
+### After your VA C&P claim exam
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
