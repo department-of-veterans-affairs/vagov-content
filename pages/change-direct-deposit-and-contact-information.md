@@ -46,10 +46,10 @@ Change your direct deposit and contact information for certain VA benefits onlin
 </div>
 </div>
 
+<div>
 <strong>If you need to change your address</strong> for disability compensation, pension, and certain other benefits, update your VA.gov profile.<br>
 <a href="/change-address/">Learn how to change your address with VA</a>.
-
-
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
