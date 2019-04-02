@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: How to File a VA Disability Claim
-display_title: How to File a Claim
+title: How to file a VA disability claim
+display_title: How to file a claim
 description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -13,16 +13,16 @@ majorlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/when-to-file/
-      title: Claim Types and When to File
+      title: Claim types and when to file
       description: Learn about standard claims, supplemental claims, secondary claims, and more.
     - url: /disability/how-to-file-claim/evidence-needed/
-      title: Evidence Needed for Your Disability Claim
+      title: Evidence needed for your disability claim
       description: Find out what evidence we'll need to support your disability claim.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear within 1 Year after Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: Find out if you can get disability benefits if you have signs of an illness within a year after being discharged from service.
     - url: /disability/get-help-filing-claim/
-      title: Get Help Filing a Claim
+      title: Get help filing a claim
       description: Find out how to work with a trained professional called an accredited representative to file your claim.
 relatedlinks:
   - heading: Other VA benefits you may want to explore
@@ -40,7 +40,7 @@ Find out how to file a claim for disability compensation or increased disability
 
 </div>
 
-### How do I prepare before starting my application?
+## How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA disability compensation](/disability/eligibility/). <br>
 - Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
@@ -53,7 +53,7 @@ Find out how to file a claim for disability compensation or increased disability
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">What evidence will I need to provide to support my claim?</h4>
+<h3 itemprop="name">What evidence will I need to provide to support my claim?</h3>
 <div itemprop="itemListElement">
 
 **You can help to support your claim by providing documents, such as:**
@@ -79,10 +79,10 @@ You should also know that you have up to a year from the date we receive your cl
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">You can also file your claim:</h4>
+<h3 itemprop="name">You can also file your claim:</h3>
 <div itemprop="itemListElement">
 
-##### By mail
+#### By mail
 
 File your claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 
