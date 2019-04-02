@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Evidence Needed for Your Disability Claim
-display_title: Evidence Needed
+title: Evidence needed for your disability claim
+display_title: Evidence needed
 description: Find out what evidence you'll need when you file a VA disability claim—and what your options are for gathering documents to support your claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 plainlanguage: 11-9-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -11,10 +11,10 @@ majorlinks:
   - heading: Explore your options for gathering evidence
     links:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-      title: Fully Developed Disability Claims
+      title: Fully developed disability claims
       description: With the Fully Developed Claims program, you send in all the evidence you have—or can easily get—when you file your claim. Find out how you can use this program to get a faster decision on your disability benefits claim.
     - url: /disability/how-to-file-claim/evidence-needed/standard-claims/
-      title: Standard Disability Claims
+      title: Standard disability claims
       description: With standard claims, we take more responsibility for gathering the evidence we need to make a decision on your claim. Find out how to file a standard disability claim.
       
 aliases:
@@ -60,11 +60,11 @@ This depends on the type of claim you’re filing. Find out what evidence you'll
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original Claim—the first claim you file for disability benefits</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original claim—the first claim you file for disability benefits</button>
 <div id="claim-original" class="usa-accordion-content">
 
 **You'll need to submit evidence of:**
-- A current physical or mental disability from a medical professional or layperson (someone who's not a trained professional) , **and**
+- A current physical or mental disability from a medical professional or layperson (someone who's not a trained professional), **and**
 - An event, injury, or disease that happened during your active-duty service, **and**
 - A link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
 
@@ -76,7 +76,7 @@ Under certain situations, we may conclude that there's a link between your milit
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
 <div id="claim-increased" class="usa-accordion-content">
 
 You'll need to submit current evidence from a medical professional or layperson (someone who's not a trained professional) that shows your disability has gotten worse. 
@@ -84,7 +84,7 @@ You'll need to submit current evidence from a medical professional or layperson 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New Claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new">New claim—a claim for added benefits or other benefit requests related to an existing service-connected disability</button>
 <div id="claim-new" class="usa-accordion-content">
 
 **You'll need to submit evidence of:**
@@ -94,7 +94,7 @@ You'll need to submit current evidence from a medical professional or layperson 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Service-Connected Claim—a claim for a new disability that’s linked to a service-connected disability you already have</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary service-connected claim—a claim for a new disability that’s linked to a service-connected disability you already have</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
 **You'll need to submit evidence of:**
@@ -103,7 +103,7 @@ You'll need to submit current evidence from a medical professional or layperson 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-supplemental">Supplemental Claim—a claim providing new evidence to support a disability claim that was denied</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-supplemental">Supplemental claim—a claim providing new evidence to support a disability claim that was denied</button>
 <div id="claim-supplemental" class="usa-accordion-content">
 
 You'll need to submit new evidence we've haven't reviewed before that's related to the issue you're claiming.<br>
@@ -146,7 +146,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
  </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary 100% Disability Rating</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-temporary">Temporary 100% disability rating</button>
 <div id="special-temporary" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows you experienced at least one of these situations at a hospital. You:**
@@ -163,7 +163,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-title">VA Title 38 U.S.C. 1151 Claims</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-title">VA Title 38 U.S.C. 1151 claims</button>
 <div id="special-title" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these led directly to an added disability or to your injury or disease getting worse:**
@@ -177,7 +177,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance Benefits and Housebound Allowance</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-aid">Aid and Attendance benefits and Housebound allowance</button>
 <div id="special-aid" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You:**
@@ -205,7 +205,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 <div id="special-home" class="usa-accordion-content">
 
 **You'll need to submit both of these:** 
-- Evidence that shows you're a Veteran or Servicemember with a qualifying permanent and totally disabling service-connected disability<br>
+- Evidence that shows you're a Veteran or service member with a qualifying permanent and totally disabling service-connected disability<br>
 [Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/). <br> 
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
@@ -215,7 +215,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Automobile Allowance and Adaptive Equipment</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-auto">Automobile allowance and adaptive equipment</button>
 <div id="special-auto" class="usa-accordion-content">
 
 **You'll need to submit evidence that shows at least one of these is true. You have:**
@@ -235,7 +235,7 @@ An Application for Automobile or Other Conveyance and Adaptive Equipment (VA For
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously Disabled Child</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously disabled child</button>
 <div id="special-disabled" class="usa-accordion-content">
 
 You'll need to submit medical evidence that shows the child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
