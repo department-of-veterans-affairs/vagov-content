@@ -4,6 +4,7 @@ title: Effective Date for Disability | Veterans Affairs
 heading: Disability Compensation Effective Date
 display_title: Effective Dates
 description: Learn about the VA disability compensation effective date, which is the date we receive your claim or the date you were first injured or first fell ill. Once we decide your claim, you may qualify to receive disability back pay to the compensation effective date.
+keywords: va disability back pay effective date, va disability compensation effective date, va disability effective date
 concurrence: complete
 order: 1
 plainlanguage: 11-9-16 certified in compliance with the Plain Writing Act
@@ -32,9 +33,9 @@ aliases:
 
 <div class="va-introtext">
 
-When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to that claim.
+When we decide we’ll pay a VA disability benefit based on a claim, we assign an effective date to that claim.
 
-The effective date is the day you can start getting your disability benefits. This varies with the type of benefit you’re applying for and the nature of your claim.
+The effective date is the day you can start getting your disability benefits. This varies with the type of benefit you’re applying for and the nature of your claim. Once we decide your claim, you may qualify to receive disability back pay to the compensation effective date.
 
 </div>
 
@@ -111,7 +112,7 @@ If we find a clear and unmistakable error in a prior decision, the effective dat
 
 A decision that’s based on a difference of opinion will have an effective date of the original decision, had it been favorable.
 
-#### Increases in the Disability
+#### Increases in the Disability 
 
 We date back increases in the disability rating to the earliest date when you can show there was an increase in disability. This is only if we get the new claim request within 1 year from that date. Otherwise, the effective date is the date we get the claim.
 
