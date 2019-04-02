@@ -3,7 +3,8 @@ layout: page-breadcrumbs.html
 title: Claim Types and When to File | Veterans Affairs 
 heading: Types of VA Disability Claims and When to File
 display_title: When to File
-description: Learn about the different types of VA claims for disability compensation. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
+description: Learn about the different types of VA claims for disability compensation. Find out when you can first file a VA disability claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
+keywords: types of va disability claims, types of disability claims
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityClaimTypes
@@ -23,7 +24,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about the different types of VA claims for disability compensation. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
+Learn about the different types of VA disability claims. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
 
 </div>
 
@@ -34,12 +35,12 @@ Learn about the different types of VA claims for disability compensation. Find o
 
 We refer to the first claim you file for a disability as your original claim.
 
-**You can file a claim up to 180 days before leaving the service:**
+**You can file a VA disability claim up to 180 days before leaving the service:**
 
-- **If you have 180-90 days left on active duty**, you may be able to file a pre-discharge claim through the Benefits Delivery at Discharge (BDD) program. This may help speed up the claim decision process so you can get your benefits sooner.<br>
+- **If you have 180-90 days left on active duty**, you may be able to file a pre-discharge disability claim through the Benefits Delivery at Discharge (BDD) program. This may help speed up the claim decision process so you can get your benefits sooner.<br>
 [Find out how to file a pre-discharge claim](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
 
-- **If you have less than 90 days left on active duty**, you can't file your claim through the BDD program. But you can still file before you're discharged, and your claim will be processed after separation as a fully developed or standard claim.<br>
+- **If you have less than 90 days left on active duty**, you can't file your disability claim through the BDD program. But you can still file before you're discharged, and your disability claim will be processed after separation as a fully developed or standard claim.<br>
 [Learn more about gathering evidence for standard and fully developed claims](/disability/how-to-file-claim/evidence-needed/).
 
 **You can also file a claim for a disability that appears after discharge:**
@@ -63,9 +64,9 @@ Learn more about disabilities that may be related to your active-duty service bu
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—File a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse.</button>
 <div id="claim-increased" class="usa-accordion-content">
 
-You can file a claim for increased disability compensation if you have a rated service-connected disability that’s gotten worse. You’ll need to submit up-to-date medical evidence that shows your disability has gotten worse. 
+You can file a disability claim for increased disability compensation if you have a rated service-connected disability that’s gotten worse. You’ll need to submit up-to-date medical evidence that shows your disability has gotten worse. 
 
-**You can file an increased claim to request:**
+**You can file an increased disability claim to request:**
 - An increase in your disability rating
 - More financial support
 
@@ -77,13 +78,13 @@ You can file a claim for increased disability compensation if you have a rated s
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-more-benefits">New Claim—File a claim for added benefits or other benefit requests related to an existing service-connected disability.</button>
 <div id="claim-more-benefits" class="usa-accordion-content">
 
-**You can file a new claim to request:**
+**You can file a new disability claim to request:**
 - More financial support
 - Special monthly payments
 - A shift to Individual Unemployability status (a status given to Veterans who are unable to work because of a disability)<br>
 [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).
 
-Our decision on your new claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
+Our decision on your new disability claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
@@ -93,9 +94,9 @@ Our decision on your new claim will be based only on new evidence (like a doctor
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-secondary">Secondary Service-Connected Claim—File a claim for a new disability that’s linked to a service-connected disability you already have.</button>
 <div id="claim-secondary" class="usa-accordion-content">
 
-You can file a secondary claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
+You can file a secondary disability claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
 
-**For example, you might file a secondary claim if you:**
+**For example, you might file a secondary disability claim if you:**
 - Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
 - Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
 
@@ -107,7 +108,7 @@ You can file a secondary claim to get more disability benefits for a new disabil
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
 <div id="claim-special" class="usa-accordion-content">
 
-You can file a special claim to request compensation for special needs. 
+You can file a special disability claim to request compensation for special needs. 
 
 **These may include needs like:**
 - A specially equipped vehicle if your service-connected disability prevents you from driving, **or**
@@ -121,7 +122,7 @@ You can file a special claim to request compensation for special needs.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—Provide new evidence to support a disability claim that was denied.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—Provide new evidence to support a VA disability claim that was denied.</button>
 <div id="claim-new-evidence" class="usa-accordion-content">
 
 You can file a supplemental claim if you meet all of the requirements listed below.
