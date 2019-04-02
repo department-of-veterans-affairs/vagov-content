@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 title: How to Gather Evidence for Your Claim | Veterans Affairs
-heading: Evidence Needed for Your Disability Claim
+heading: How to Gather Evidence for Your Claim
 display_title: Evidence Needed
 description: Find out what evidence you'll need when you file a VA disability claim—and what your options are for gathering documents to support your claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records. 
+keywords: n/a
 plainlanguage: 11-9-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityEvidence
