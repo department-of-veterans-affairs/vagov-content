@@ -21,7 +21,7 @@ Find out how to change your address with VA or update other contact information 
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Sign in to VA.gov.</strong> You can use your eBbenefits, My HealtheVet, or ID.me account.Or, if you don't have an account, you can create one now.</li>
+  <li class="process-step list-one"><strong>Sign in to VA.gov.</strong> You can use your eBbenefits, My HealtheVet, or ID.me account.Or if you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted.</strong> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong>Go to your <a href="/profile/">VA.gov account profile</a>.</strong> Here, you can change your mailing and home address.
   </li>
@@ -41,9 +41,10 @@ No. We’ll use the address information from your VA.gov profile to contact you 
   <li>Claims and appeals</li>  
 </ul>
 
-<strong>If you’re enrolled in the VA health care program</strong>
+<strong>If you’re enrolled in the VA health care program</strong> <br>
 We'll send your prescriptions to the mailing address listed in your VA.gov profile. Your health care team may also use your profile contact information to communicate with you.
 
+</div>
 </div>
 </div>
 
@@ -53,7 +54,7 @@ We'll send your prescriptions to the mailing address listed in your VA.gov profi
   
 Some of our departments keep your contact information updated in their own separate records. If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to update your information. 
 
-## Contact these departments directly to update your information
+<h3>Contact these departments directly to update your information</h3>
 
 <strong>For education benefits:</strong> Call 1-888-GIBILL-1 (1-888-442-4551), Monday through Friday, 7:00 a.m. to 6:00 p.m. CT.
 
@@ -64,7 +65,6 @@ Some of our departments keep your contact information updated in their own separ
 </div>
 </div>
 </div>
-
-  
+</div>
   
   
