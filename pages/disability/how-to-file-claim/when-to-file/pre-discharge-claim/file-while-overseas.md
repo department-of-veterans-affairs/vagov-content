@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 title: File a Claim While Overseas | Veterans Affairs 
-heading: File a Pre-discharge Claim While Overseas
+heading: File a Claim While Overseas
 display_title: File While Overseas
+description: If you're serving on active duty overseas and believe you have a service-connected disability, find out how to file a pre-discharge claim. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
+keywords: n/a
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp,http://www.benefits.va.gov/PREDISCHARGE/claims-pre-discharge-overseas-intake-sites.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
