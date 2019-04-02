@@ -4,6 +4,7 @@ title: What to Expect After You Get a Rating | Veterans Affairs
 heading: What to Expect after You Get a Disability Rating
 display_title: After You Get a Rating
 description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
+keywords: when will i receive my va disability check, va disability check schedule, va disability pay schedule, when does va disability pay start
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 aliases:
@@ -14,7 +15,7 @@ order: 2
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-If you received a decision notice from us that confirms your disability rating (the rating that measures the severity of your disability), you may be able to get disability compensation or benefits. Find out what benefits you can get and when you can start receiving them. 
+If you received a decision notice from us that confirms your disability rating (the rating that measures the severity of your disability), you may be able to get disability compensation or benefits. Find out when you'll receive your first VA disability payment and what to expect after you get a disability rating for a service-connected condition.
 
 </div>
 
@@ -32,11 +33,11 @@ If you haven’t gotten your decision notice:
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">When will I get my first payment?</h3>
+<h3 itemprop="name">When will I get my first VA disability payment?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If your decision notice shows at least a 10% disability rating, you’ll get your first payment within 15 days. We’ll pay you either by direct deposit or check. If you don’t get a payment after 15 days, please call the Veterans Help Line at <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>).
+If your decision notice shows at least a 10% disability rating, you’ll get your first VA disability payment within 15 days. We’ll pay you either by direct deposit or check. If you don’t get a payment after 15 days, please call the Veterans Help Line at <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>).
 
 </div>
 </div>
