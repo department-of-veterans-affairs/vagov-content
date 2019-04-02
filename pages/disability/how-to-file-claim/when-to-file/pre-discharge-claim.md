@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Pre-discharge Claim
+title: Pre-discharge claim
 description: If you're on active duty and believe you have a service-connected disability, find out how to file a pre-discharge claim for VA disability benefits. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
 source: http://www.benefits.va.gov/predischarge/index.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
@@ -11,10 +11,10 @@ relatedlinks:
   - heading: Other benefits you can apply for while in pre-discharge status
     links:
     - url: /education/
-      title: Education Benefits
+      title: Education benefits
       description: Apply for and manage education benefits (like Post-9/11 GI Bill benefits) that you can use to pay for college and training programs.
     - url: /housing-assistance/
-      title: Housing Assistance
+      title: Housing assistance
       description: Find out if you qualify for a VA home loan or a housing grant to help you live more independently with your service-connected disability.
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
@@ -37,7 +37,7 @@ You can use the BDD program if you meet all of the requirements listed below.
 
 **All of these must be true:**
 
-* You’re a Servicemember on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
+* You’re a service member on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
 * You have a known separation date, **and**
 * Your separation date is in the next 180 to 90 days
 
@@ -69,7 +69,7 @@ You can't use the BDD program if your claim requires special handling—even if 
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 Compensation (monthly payments)
 
@@ -77,7 +77,7 @@ Compensation (monthly payments)
 
 <span id="ways-to-file"></span>
 
-### How do I file a claim for disability compensation before I leave the service?
+## How do I file a claim for disability compensation before I leave the service?
 
 Choose the scenario below that matches your situation to find out how to file a claim for disability compensation before discharge.
 
@@ -107,7 +107,7 @@ You can start your claim at a BDD office. <br>
 
 #### Need help applying?
 
-If you’re on a military base or other installation, contact your local Transition Assistance Office or ACAP Center (Army only) to make an appointment to attend a VA benefits briefing. At this briefing, you’ll learn how to start your claim. You can also call us toll-free at <a href="tel:+18008271000">1-800-827-1000</a>.
+If you’re on a military base or other installation, contact your local Transition Assistance Office or ACAP Center (Army only) to make an appointment to attend a VA benefits briefing. At this briefing, you’ll learn how to start your claim. You can also call us toll-free at <a href="tel:+18008271000">800-827-1000</a>.
 
 </div>
 </li>
@@ -141,7 +141,7 @@ If you’re found to be medically unfit for duty, IDES will give you a proposed 
 </ul>
 
 
-### How can I get support for myself and my family as I transition to civilian life?
+## How can I get support for myself and my family as I transition to civilian life?
 
 Our Transition Assistance Program (TAP) can help both you and your family with this transition. We'll help you find out which VA benefits and services you're entitled to, like health care, career guidance, training, and counseling. <br>
 [Learn more about TAP](https://www.benefits.va.gov/TAP/index.asp).
