@@ -4,6 +4,13 @@ template: level2-index
 title: Change Your VA Direct Deposit and Contact Information
 display_title: Change Direct Deposit and Contact Info
 lastupdate:
+relatedlinks: 
+  - heading: How to change other information related to your VA benefits
+    links:
+    - url: "/change-address/"
+      title: Change your address with VA
+      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
+      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -38,6 +45,11 @@ Change your direct deposit and contact information for certain VA benefits onlin
 </div>
 </div>
 </div>
+
+<strong>If you need to change your address</strong> for disability compensation, pension, and certain other benefits, update your VA.gov profile.<br>
+<a href="/change-address/">Learn how to change your address with VA</a>.
+
+
 
 <div itemscope itemtype="http://schema.org/Question">
 
