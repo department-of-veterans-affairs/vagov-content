@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Fully Developed Claims Program
-display_title: Fully Developed Claims
+title: VA Fully Developed Claims program
+display_title: Fully developed claims
 description: Find out how to file a fully developed claim to get a faster decision on your VA disability compensation claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
 children: disabilityFullyDevelopedClaims
 plainlanguage: 
@@ -11,16 +11,16 @@ relatedlinks:
   - heading: More information about disability claims
     links:
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program.
     - url: /disability/eligibility/hazardous-materials-exposure/
-      title: Exposure to Hazardous Chemicals and Materials
+      title: Exposure to hazardous chemicals and materials
       description: Learn more about claims for conditions related to contact with hazardous materials.
     - url: /disability/eligibility/former-pows/
-      title: Disability Benefits for Former Prisoners of War (POWs)
+      title: Disability benefits for former Prisoners of War (POWs)
       description: Learn more about claims for former Prisoners of War (POWs).
     - url: /disability/eligibility/special-claims/
-      title: Special Claims
+      title: Special claims
       description: Learn more about other special claims.
 aliases:
   - /disability-benefits/apply/evidence/fully-developed-disability-claims/
@@ -62,7 +62,7 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 </div>
 </div>
 
-<h3 itemprop="name">What evidence will I need to submit along with my disability claim?</h3>
+<h2 itemprop="name">What evidence will I need to submit along with my disability claim?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -139,7 +139,7 @@ You don't have to, but we encourage you to work with an accredited VSO. These tr
 
 <br>
 
-### More helpful resources
+## More helpful resources
 
 [Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp) <br>
 [View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp) 
