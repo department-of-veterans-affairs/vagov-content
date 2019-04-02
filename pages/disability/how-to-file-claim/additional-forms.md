@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 title: File Supplemental Forms | Veterans Affairs
-heading: File Additional Forms for Your Disability Claim
-display_title: Additional Forms
+heading: File Supplemental Forms for Special Claims
+display_title: Supplemental Forms
 description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
+keywords: n/a
 plainlanguage: 
 template: detail-page
 order: 3
