@@ -55,7 +55,7 @@ View current VA disability compensation rates, and learn what factors may affect
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="increased">Can I get increased payments if I have a severe disability or dependents?</button>
 <div id="increased" class="usa-accordion-content">
 
-Yes. We may increase your monthly payments if one or more of the below situations is true. You have a:
+Yes. We may increase your monthly payments if one or more of the below situations is true. You have a: 
 <ul>
   <li>Very severe disability or loss of limb, <b>or</b></li>
   <li>Spouse, child, or dependent parent and your combined disability rating is 30% or greater, <b>or</b></li>
