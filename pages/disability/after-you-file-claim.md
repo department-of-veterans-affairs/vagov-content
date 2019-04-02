@@ -11,7 +11,7 @@ spoke: Get Benefits
 majorlinks:
   - heading: More information about disability ratings and payments
     links:
-    - url: /disability/about-disability-ratings/effective-date/
+    - url: /disability/effective-date/
       title: Effective Date of Disability
       description: "Find out when you’ll start getting your disability payments."
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
