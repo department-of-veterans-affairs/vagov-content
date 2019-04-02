@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Birth defects compensation rates
+title: VA Birth Defect Compensation Rates | Veterans Affairs
 display_title: Birth defects compensation rates
-description:
+heading: Birth defects compensation rates
+description: View current compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects.
+keywords: n/a
 template: detail-page
 order: 4
 aliases:
@@ -27,15 +29,16 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-View current compensation rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
-
+View current compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects. 
 </div>
 
 <h2>Current special allowances rates, effective December 1, 2018</h2>
 
+The tables below show monthly payment amounts based on the severity of the child's disability, ordered from least to most disabling.
+
 <h3>Vietnam and Korea Veterans’ children with spina bifida</h3>
 
-| Disability level  | Monthly compensation rate | 
+| Disability level  | Monthly payment | 
 | -- | -- | 
 | **Level I (least disabling)** | $330 | 
 | **Level II**  | $1,128 | 
@@ -43,7 +46,7 @@ View current compensation rates that may apply to you if you qualify for an auto
 
 <h3>Women Vietnam Veterans' children with certain other birth defects</h3>
 
-| Disability level  | Monthly compensation rate | 
+| Disability level  | Monthly payment | 
 | -- | -- | 
 | **Level I (least disabling)** | $153 | 
 | **Level II**  | $330 | 
@@ -55,3 +58,7 @@ View current compensation rates that may apply to you if you qualify for an auto
 
 - [Find out how to apply for compensation for your child](/disability/eligibility/special-claims/birth-defects/)
 - [Learn more about birth defects linked to service in Vietnam or Korea](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/index.asp)
+
+<h2>View historic rate tables for past years</h2>
+
+[2017](https://www.benefits.va.gov/COMPENSATION/sb2017.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/sb2016.asp) | [2014](https://www.benefits.va.gov/COMPENSATION/sb2014.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/sb2013.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/sb2012.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/sb2011.asp)| [2009](https://www.benefits.va.gov/COMPENSATION/sb2009.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/sb2008.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/sb2007.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/sb2006.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/sb2005.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/sb2004.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/sb2003.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/sb2002.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/sb2001.asp) | [2000)](https://www.benefits.va.gov/COMPENSATION/sb2000.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/sb1999.asp) | Before 1999 (excel)
