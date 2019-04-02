@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: File Additional Forms for Your Disability Claim
-display_title: Additional Forms
+title: File additional forms for your disability claim
+display_title: Additional forms
 description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
 plainlanguage: 
 template: detail-page
@@ -24,7 +24,7 @@ Find out if you’ll need to turn in any additional forms when you file your dis
 </div>
 
 
-### Do I need to turn in any additional forms?
+## Do I need to turn in any additional forms?
 
 In some cases, you may need to turn in one or more additional forms to support your disability claim. 
 
@@ -53,7 +53,7 @@ In some cases, you may need to turn in one or more additional forms to support y
     </td>
   </tr>
   <tr>
-    <td><strong>Claiming Posttraumatic Stress Disorder (PTSD)</strong></td>
+    <td><strong>Claiming posttraumatic stress disorder (PTSD)</strong></td>
     <td><p>A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF">Download VA Form 21-0781</a></p>
         <p><strong>or</strong></p>
@@ -77,19 +77,19 @@ In some cases, you may need to turn in one or more additional forms to support y
     </td>
   </tr>
   <tr>
-   <td><strong>Claiming an Auto Allowance</strong></td>
+   <td><strong>Claiming an auto allowance</strong></td>
     <td><p>An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf">Download VA Form 21-4502</a></p>
     </td>
   </tr>
   <tr>
-   <td><strong>Claiming an Auto Adaptive-Equipment Grant</strong></td>
+   <td><strong>Claiming an auto adaptive-equipment grant</strong></td>
     <td><p>An Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394)</p>
         <p><a href="https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf">Download VA Form 10-1394</a></p>
     </td>
   </tr>
   <tr>
-    <td><strong>Claiming additional benefits because you or your spouse need Aid and Attendance</strong></td>
+    <td><strong>Claiming additional benefits because you or your spouse needs Aid and Attendance</strong></td>
     <td><p>An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)</p>
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf">Download VA Form 21-2680</a></p>
     </td>
