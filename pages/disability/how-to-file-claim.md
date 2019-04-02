@@ -95,18 +95,18 @@ PO Box 4444<br>
 Janesville, WI 53547-4444<br>
 </p>
 
-##### In person
+#### In person
 
 Bring your application to a VA regional benefit office near you. <br>
 [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
 
-##### With the help of a trained professional
+#### With the help of a trained professional
 
 You can work with a trained professional called an accredited representative to get help filing a claim for disability compensation. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/)
 
 <br>
-If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at 1-800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 
 </div>
@@ -114,7 +114,7 @@ If you have a power of attorney and need to update their information, please cal
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I file my claim?</h3>
+<h2 itemprop="name">What happens after I file my claim?</h2>
 <div itemprop="itemListElement">
 
 [Find out what happens after you file](/disability/after-you-file-claim/)
@@ -124,7 +124,7 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 <a class="usa-button-primary" href="/track-claims">Track the Status of Your Claim</a>
 
 <span id="days-to-complete-claim"></span>
-#### How long does it take VA to make a decision?
+### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
 <span class="number">125.7 days</span>
