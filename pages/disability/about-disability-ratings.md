@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: About VA disability ratings
+title: About VA Disability Ratings | Veterans Affairs
 display_title: About Disability Ratings
-description: Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition.
+heading: About VA disability ratings
+description: Learn about VA disability ratings and how we assign your rating. And view the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition. 
+keywords: va disability ratings, va disability rating chart, va disability percentages for conditions, va disability rating
 template: detail-page
 order: 1
 aliases:
@@ -11,67 +13,116 @@ spoke: More Resources
 children: disabilityAboutRatings
 
 ---
+<div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-Find out how we determine your VA disability rating, and what happens if you have more than one disability.
+Learn about VA disability ratings and how we assign your rating. If you have more than one service-connected condition, use our VA disability rating chart (called the combined ratings table) to find out how we'll determine your combined disability rating.
 
 </div>
 
-### On this page
-- [How we assign disability ratings](#assign)
-- [How we determine combined disability ratings](#combined)
+<h3>On this page</h3>
+- [How we assign VA disability ratings](#assign)
+- [How we determine combined VA disability ratings](#combined)
 
 ------
 <span id="assign"></a>
-## How we assign disability ratings
+<h2>How we assign VA disability ratings</h2>
 
-### What is a VA disability rating?
+<div itemscope itemtype="http://schema.org/Question">
 
-We assign you a disability rating based on the severity of your disability. We express this rating as a percentage, representing the percentage of impairment from your overall health and ability to function.
+<h3 itemprop="name">What is a VA disability rating?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+We assign you a disability rating based on the severity of your disability. We express this rating as a percentage, representing how much your disability decreases your overall health and ability to function.
 
 We then use your disability rating to determine your disability compensation rate. Your compensation rate then determines how much money you’ll receive from us each month. We also use your disability rating to help determine your eligibility for other benefits, like VA health care.
 
-### What does VA use to decide my disability rating?
+</div>
+</div>
+</div>
 
-**We base your rating on:**
+<div itemscope itemtype="http://schema.org/Question">
 
-- The evidence you give us (like a doctor’s report or medical test results), **and**
-- The results of your VA claim exam (also called a compensation and pension, or C&P, exam), if we determine you need this exam, **and**
-- Other information we may get from other sources (like federal agencies)
+<h3 itemprop="name">What does VA use to determine my disability rating?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
-### What if I have more than one disability?
+<strong>We base your rating on:</strong>
+<ul>
+  <li>The evidence you give us (like a doctor’s report or medical test results), <strong>and</strong></li>
+  <li>The results of your VA claim exam (also called a compensation and pension, or C&P, exam), if we determine you need this exam, <strong>and</strong></li>
+  <li>Other information we may get from other sources (like federal agencies)</li>
 
-We’ll use a method called the “whole person theory” to determine what we call your combined disability rating. We do this to make sure that your total disability rating doesn’t add up to more than 100%. That’s because a person can’t be more than 100% able-bodied. 
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">What if I have more than one disability?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+We’ll use a method called the “whole person theory” to determine what we call your combined disability rating. We do this to make sure that your total VA disability rating doesn’t add up to more than 100%. That’s because a person can’t be more than 100% able-bodied. 
 
 Read below to find out more about how we’ll calculate your combined disability rating using our combined ratings table. <br>
-[Go to the combined ratings table](#combined)
+<a href="#combined">Go to the combined ratings table</a>
 
-### How do ratings work for a disability I had before entering the service that got worse because of my service?
+</div>
+</div>
+</div>
 
-If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation, or how much worse your service made your disability.
+<div itemscope itemtype="http://schema.org/Question">
 
-For example, if you had an illness or injury (also known as a condition) that was 10% disabling when you entered the military, and it became 20% disabling due to service, then the level of aggravation would be 10%.
+<h3 itemprop="name">How do ratings work for a disability I had before entering the service that got worse because of my service?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
-### Is there anything else, other than my disability rating, that may affect the amount of compensation I receive?
+If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation. This means how much worse your service made your disability.
+
+<strong>For example:</strong> If you had an illness or injury (also known as a condition) that was rated as 10% disabling when you entered the military, and it became 20% disabling due to the effects of your service, then the level of aggravation would be 10%.
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">Is there anything else, other than my disability rating, that may affect the amount of compensation I receive?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 Yes. We may increase or decrease your compensation amount in certain situations. <br>
-[Learn more about compensation rates](/disability/compensation-rates)
+<a href="/disability/compensation-rates">Learn more about compensation rates</a>
 
-### What happens after I get my disability rating?
+</div>
+</div>
+</div>
 
-[Find out what to expect after you get your rating](/disability/about-disability-ratings/after-you-get-a-rating/)
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">What happens after I get my disability rating?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+<a href="/disability/about-disability-ratings/after-you-get-a-rating/">Find out what to expect after you get your rating</a>
+
+</div>
+</div>
+</div>
 
 ------
 <span id="combined"></a>
-## How we determine combined disability ratings
+<h2>How we determine combined VA disability ratings</h2>
 
 If you have more than one disability, we’ll use the combined ratings table below to calculate your combined disability rating. 
 
 To make this table easier to use online, we’ve separated it into smaller tables, based on the percentage of the most severe, or highest rated, disability (as shown in left column of each table). 
 
-**Note:** If you have 2 disabilities, each rated at 10% disabling, your combined disability rating is 19%. 
+<strong>Note:</strong> If you have 2 disabilities, each rated at 10% disabling, your combined disability rating is 19%. 
 
-### Combined ratings table
+<h3>Combined ratings table</h3>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
@@ -92,7 +143,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **28** | 35 | 42 | 50 | 57 | 64 | 71 | 78 | 86 | 93 |
 | **29** | 36 | 43 | 50 | 57 | 65 | 72 | 79 | 86 | 93 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -112,7 +163,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **38** | 44 | 50 | 57 | 63 | 69 | 75 | 81 | 88 | 94 |
 | **39** | 45 | 51 | 57 | 63 | 70 | 76 | 82 | 88 | 94 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -132,7 +183,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **48** | 53 | 58 | 64 | 69 | 74 | 79 | 84 | 90 | 95 |
 | **49** | 54 | 59 | 64 | 69 | 75 | 80 | 85 | 90 | 95 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -152,7 +203,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **58** | 62 | 66 | 71 | 75 | 79 | 83 | 87 | 92 | 96 |
 | **59** | 63 | 67 | 71 | 75 | 80 | 84 | 88 | 92 | 96 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -172,7 +223,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **68** | 71 | 74 | 78 | 81 | 84 | 87 | 90 | 94 | 97 |
 | **69** | 72 | 75 | 78 | 81 | 85 | 88 | 91 | 94 | 97 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -192,7 +243,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **78** | 80 | 82 | 85 | 87 | 89 | 91 | 93 | 96 | 98 |
 | **79** | 81 | 83 | 85 | 87 | 90 | 92 | 94 | 96 | 98 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -212,7 +263,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **88** | 89 | 90 | 92 | 93 | 94 | 95 | 96 | 98 | 99 |
 | **89** | 90 | 91 | 92 | 93 | 95 | 96 | 97 | 98 | 99 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 <li>
@@ -227,16 +278,16 @@ To make this table easier to use online, we’ve separated it into smaller table
 | **93** | 94 | 94 | 95 | 96 | 97 | 97 | 98 | 99 | 99 |
 | **94** | 95 | 95 | 96 | 96 | 97 | 98 | 98 | 99 | 99 |
 
-<b>Tip:</b> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
+<strong>Tip:</strong> Look for your highest disability rating (or highest combined rating) in the left column, and your next lowest disability rating in the top column. Your combined rating is the number where the 2 intersect on the chart, rounded to the nearest 10%.
 </div>
 </li>
 </ul>
 
 [Download the full combined ratings table (pdf)](https://www.benefits.va.gov/compensation/rates-index.asp)
 
-### How we use the combined ratings table
+<h3>How we use the combined ratings table</h3>
 
-<b>We’ll follow these steps to use calculate your combined rating:</b>
+<strong>We’ll follow these steps to use calculate your combined rating:</strong>
 
 <ol class="process" markdown="1">
 
@@ -244,7 +295,7 @@ To make this table easier to use online, we’ve separated it into smaller table
   
   We’ll start by putting your disability ratings in order, from highest to lowest percentage. <br>
   <br>
-  For example, if you have 2 disabilities, rated as 50% disabling and 30% disabling, we’ll rank them in this order: 50%, then 30%.
+  <strong>For example:</strong> If you had 2 disabilities rated as 50% disabling and 30% disabling, we’d rank them in this order: 50%, then 30%.
 
   </li>
   
@@ -252,7 +303,7 @@ To make this table easier to use online, we’ve separated it into smaller table
   
   Next, we’ll look for your highest rating in the left column of the combined ratings table, and the next highest rating in the top row of the combined ratings table. <br>
   <br>
-  So in our example, we’ll look for 50 in the left column and 30 in the top row.
+  <strong>In our example:</strong> We’d look for 50 in the left column and 30 in the top row.
   
 |    | 10 | 20 | *30* | 40 | 50 | 60 | 70 | 80 | 90 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -263,7 +314,7 @@ To make this table easier to use online, we’ve separated it into smaller table
   
   Then, we’ll look across from the 50 in the left column and down from the 30 in the top row to find the number that appears where the left column and top row meet. This is the combined value of the 2 ratings. <br>
   <br>
-  In our example, this would be 65.
+  <strong>In our example:</strong> This would be 65.
   
 |    | 10 | 20 | *30* | 40 | 50 | 60 | 70 | 80 | 90 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -272,16 +323,18 @@ To make this table easier to use online, we’ve separated it into smaller table
   </li>
   <li class="process-step list-four">
   
-  <b>If you have 2 disabilities,</b> we’ll round that combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
+  <strong>If you have 2 disabilities</strong><br>
+  We’ll round that combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
   <br>
-  So in our example, your combined disability rating would be 70%.
+  <strong>In our example:</strong> Your combined disability rating would be 70%.
   
   </li>
   <li class="process-step list-four">
   
-  <b>If you have more than 2 disabilities,</b> we’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
+  <strong>If you have more than 2 disabilities</strong>
+  We’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
   <br>
-  For example, if we add a third disability, rated at 10% disabling, to our original example, we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row—and find the number where the left column and top row meet. In this example, that number would be 69. <br>
+  <strong>For example:</strong> If we added a third disability rated at 10% disabling to our original example, we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row—and find the number where the left column and top row meet. In this example, that number would be 69. <br>
 <br>  
 |    | *10* | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -297,7 +350,7 @@ We would then round this number up to 70%, and this would be your combined disab
   </li>
 </ol>
 
-## Get more information
+<h2>Get more information</h2>
 
 Watch our videos to learn more about how VA disability ratings and compensation work: <br>	
 [Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg) <br>
