@@ -6,6 +6,19 @@ display_title: Change your address
 heading: Change your address with VA
 description: Find out how to make a VA address change or update other contact information in your VA.gov profile. 
 keywords: va change of address form, va address change, change of address va, va benefits change of address, va address change form, how do i change my address with the va, va benefits address change
+relatedlinks: 
+  - heading: How to change other information related to your VA benefits
+    links:
+    - url: /health-care/update-health-information/
+      title: Update Your Health Benefits Information (VA Form 10-10EZR)
+      description: Use the Health Benefits Update Form (VA Form 10-10EZR) to update your personal, financial, and insurance information after you’re enrolled in VA health care.
+    - url: /change-direct-deposit-and-contact-information/
+      title: Change Your VA Direct Deposit and Contact Information
+      description: Change your direct deposit and contact information for certain VA benefits online.
+    - url: /life-insurance/manage-your-policy/
+      title: Access Your Policy Online
+      description: Manage your VA life insurance policy online.
+      
 lastupdate:
 ---
 
