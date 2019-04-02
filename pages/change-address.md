@@ -29,7 +29,6 @@ Find out how to make an address change or update other contact information in yo
 </ul>
 </div>
 </div>
-
 <h2 itemprop="name">Will this change my address for all VA benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -46,7 +45,6 @@ If you’re enrolled in the VA health care program, your prescriptions will be s
 
 </div>
 </div>
-
 
 <h2 itemprop="name">How do I change my address and other contact information for other benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -66,13 +64,6 @@ If you’re enrolled in the VA health care program, your prescriptions will be s
 </div>
 </div>
 
-  
-  
-  
-  
-  
-  
-  
   
   
   
