@@ -4,6 +4,7 @@ title: Add or Remove a Dependent | Veterans Affairs
 heading: Add Dependents to Your VA Disability Benefits
 display_title: Add or Remove a Dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
+keywords: adding dependents to va disability, va disability dependent eligibility, va disability back pay for dependents 
 concurrence: Incomplete
 plainlanguage: Certified plain language 4.20.18 
 template: detail-page
@@ -25,7 +26,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to add a dependent spouse, child, and/or parent to your VA disability benefits for additional compensation.
+Find out how to add a dependent spouse, child, and/or parent to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
 
 </div>
 
@@ -62,7 +63,7 @@ Adding a dependent may make you eligible to receive a higher compensation paymen
 
 This depends on where you are in the process of filing for disability compensation.
 
-### If you haven’t yet filed a claim for disability compensation
+### If you haven’t yet filed a claim for VA disability compensation
 
 You can file a claim for additional compensation for a dependent at the same time as you file your original claim for disability compensation.
 
@@ -70,11 +71,11 @@ If you receive a combined disability rating of at least 30%, we’ll automatical
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
 
-### If you have one or more dependents, but you didn’t claim them when you originally filed for disability compensation 
+### If you have one or more dependents, but you didn’t claim them when you originally filed for VA disability compensation 
 
 If you have a combined disability rating of at least 30%, you can file a claim for additional disability compensation now.
 
-### If something changes in your family status after you received a combined disability rating of at least 30%
+### If something changes in your family status after you received a combined VA disability rating of at least 30%
 
 You can file a claim for additional disability compensation whenever you add a dependent.
 
@@ -90,7 +91,7 @@ You can file a claim for additional disability compensation whenever you add a d
 
 ## How do I add a dependent to my benefits?
 
-### To file a claim for additional disability compensation for a child or spouse
+### To file a claim for additional VA disability compensation for a child or spouse
 
 You can file a claim for additional compensation for a child or spouse online right now through our eBenefits website. 
 
@@ -103,7 +104,7 @@ You can file a claim for additional compensation for a child or spouse online ri
 **If your dependent is a child who’s between 18 and 23 years old and attending school full time,** you’ll also need to submit a Request for Approval of School Attendance (VA Form 21-674) with your application. <br>
 [Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf). 
 
-### To file a claim for additional disability compensation for a dependent parent
+### To file a claim for additional VA disability compensation for a dependent parent
 
 You’ll need to fill out and submit a Statement of Dependency of Parent(s) (VA Form 21P-509) by mail or fax. <br>
 [Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf).
