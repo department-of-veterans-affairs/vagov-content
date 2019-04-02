@@ -122,6 +122,10 @@ hublinks:
       description: Find out how to change your VA disability direct deposit information
         online.
       external: false
+    - url: "/change-address/"
+      label: Change Your VA Direct Deposit and Contact Information
+      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
+      external: false
   - id: more
     title: More Information and Resources
     links:
