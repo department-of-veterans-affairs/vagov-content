@@ -4,6 +4,7 @@ title: Get Help Filing a Claim | Veterans Affairs
 heading: Get Help Filing Your Claim or Appeal
 display_title: Get Help Filing a Claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
+keywords: veteran service organizations, veterans service representative, veterans representative, help filing va disability claim, help filing my disability claim
 concurrence: incomplete
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
