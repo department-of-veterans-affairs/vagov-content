@@ -29,7 +29,6 @@ Find out how to change your contact information--like your home address or phone
 </ul>
 </div>
 </div>
-</div>
 
 <h2 itemprop="name">Will this change my address for all VA benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -43,7 +42,6 @@ Find out how to change your contact information--like your home address or phone
   
 </ul>
   If you’re enrolled in the VA health care program, your prescriptions will be sent to your mailing address on file, and your health care team may also use this information to communicate with you.
-</div>
 </div>
 </div>
 <h2 itemprop="name">How do I change my address and other contact information for other benefits?</h2>
