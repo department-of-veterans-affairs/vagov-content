@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: VA disability compensation for posttraumatic stress disorder (PTSD)
 display_title: PTSD
-description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PSTD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
+description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PTSD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
 concurrence: complete
 source: http://www.va.gov/opa/issues/ptsd.asp
 plainlanguage: 11-14-16 certified in compliance with the Plain Language Act
