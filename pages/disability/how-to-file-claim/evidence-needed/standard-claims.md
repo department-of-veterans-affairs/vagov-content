@@ -3,7 +3,8 @@ layout: page-breadcrumbs.html
 title: Standard Disability Claim Procedures | Veterans Affairs 
 heading: Standard Disability Claims
 display_title: Standard Claims
-description: Filing for VA disability compensation and don't have all your evidence (supporting documents)? Learn about the VA standard claim processing procedures. When you file a standard claim, we'll take more responsibility for gathering the evidence we need to make a decision on your claim.
+description: Filing for VA disability compensation and don't have all your evidence (supporting documents)? Learn about VA standard claim processing procedures. When you file a standard claim, we'll take more responsibility for gathering the evidence we need to make a decision on your claim.
+keywords: va standard claim processing procedures
 plainlanguage: 
 template: detail-page
 order: 3
@@ -18,7 +19,7 @@ aliases:
 ---
 <div itemprop="description" class="va-introtext">
   
-Find out how to submit a standard disability claim if you’d like us to take more responsibility for gathering the evidence (supporting documents) we need to make a decision on your claim. 
+Learn about VA standard claim processing procedures. Find out how to submit a standard disability claim if you’d like us to take more responsibility for gathering the evidence (supporting documents) we need to make a decision on your claim. 
 
 </div>
 
