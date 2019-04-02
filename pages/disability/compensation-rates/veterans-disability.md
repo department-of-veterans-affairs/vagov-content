@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Veterans disability compensation rates
-display_title: Veterans Disability Compensation Rates | Veterans Affairs
+title: Veterans Disability Compensation Rates | Veterans Affairs
+display_title: Veterans disability compensation rates
 heading: Veterans disability compensation rates
 description: View current Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
 keywords: veterans disability rates, veterans compensation benefits rate tables
@@ -231,8 +231,8 @@ Your total monthly compensation rate would be $1,609.71 + ($59.00 x 2) + $109.00
 
 **Note:** We’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the [Social Security Administration’s (SSA) website](https://www.ssa.gov/cola/). <br>
 
-<h2>Historic Veterans disability compensation rates</h2>
+<h2>Historic rates</h2>
 
-View rates for past years.
+View Veterans disability compensation rates for past years.
 
 [2017](https://www.benefits.va.gov/COMPENSATION/resources_comp0117.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/resources_comp0116.asp) | [2014-2015](https://www.benefits.va.gov/COMPENSATION/resources_comp0114.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/resources_comp0113.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/resources_comp0112.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/resources_comp0111.asp)| [2009-2010](https://www.benefits.va.gov/COMPENSATION/resources_comp0109.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/resources_comp0108.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/resources_comp0107.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/resources_comp0106.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/resources_comp0105.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/resources_comp0104.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/resources_comp0103.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/resources_comp0102.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/resources_comp0101.asp) | [2000)](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp)
