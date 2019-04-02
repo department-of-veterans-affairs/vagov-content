@@ -22,7 +22,7 @@ Find out how to make an address change or update other contact information in yo
 
 <ol class="process">
   <li class="process-step list-one">Sign in to VA.gov using your Ebenefits, My HealtheVet, or ID.me account.</li>
-  <li class="process-step list-two">Verify your identity if needed. We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft.<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf"> Find out how to verify your identity.</a></li>
+  <li class="process-step list-two">Verify your identity if needed. We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Find out how to verify your identity.</a></li>
   <li class="process-step list-three">Go to https://www.va.gov/profile, where you can change your mailing and home address.</li>
 </ol>
 
@@ -34,7 +34,7 @@ Find out how to make an address change or update other contact information in yo
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-  <b>No</b>. We’ll use the address information from your profile to contact you about certain benefits and services, including:
+  No. We’ll use the address information from your profile to contact you about certain benefits and services, including:
 <ul>
 <li>Disability compensation</li>
 <li>Pension benefits</li>
@@ -46,6 +46,7 @@ If you’re enrolled in the VA health care program, your prescriptions will be s
 
 </div>
 </div>
+
 
 <h2 itemprop="name">How do I change my address and other contact information for other benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
