@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Find Your VA Pension Management Center
+title: Pension Management Centers | Veterans Affairs
+heading: Find Your VA Pension Management Center
 display_title: Pension Management Centers
+description: Find the VA Pension Management Center that serves the state, territory, or foreign country you live in. You can mail pension applications to one of our 3 regional VA pension management centers in Philadelphia, Milwaukee, and St. Paul. 
+keywords: va pension management center
 concurrence: ""
 order: 5
 spoke: More Resources
@@ -12,11 +15,11 @@ aliases:
 
 <div class="va-introtext">
 
-We have 3 regional pension management centers. Look at the lists below to find the center that serves your state, territory, or foreign country. Then, mail or fax your pension application to the address for that center.
+We have 3 regional VA Pension Management Centers. Look at the lists below to find the center that serves your state, territory, or foreign country. Then, mail or fax your pension application to the address for that center.
 
 </div>
 
-## VA Philadelphia Pension Management Center
+## Philadelphia VA Pension Management Center
 
 This office serves:
 
@@ -69,7 +72,7 @@ Or, fax it to 1-844-655-1604.
 
 <br>
 
-## VA Milwaukee Pension Management Center
+## Milwaukee Pension VA Management Center
 
 This office serves:
 
@@ -114,7 +117,7 @@ Or, fax it to 1-844-655-1604.
 
 <br>
 
-## VA St. Paul Pension Management Center
+## St. Paul VA Pension Management Center
 
 This office serves:
 
