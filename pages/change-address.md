@@ -4,8 +4,8 @@ template: level2-index
 title: Change Your Address On File With VA | Veterans Affairs
 display_title: Change your address
 heading: Change your address on file with VA
-description: Find out how to make a VA address change for certain benefits or update other contact information in your VA.gov profile. 
-keywords: va change of address form, va address change, change of address va, va benefits change of address, va address change form, how do i change my address with the va, va benefits address change
+description: Find out how to change your address on file with VA, and how your VA.gov profile can help automatically change your address across several benefits and services. Also learn how to change your address for other VA benefits.
+keywords: va address change, change of address va, va benefits change of address, va change of address form, va address change form, how do i change my address with the va, va benefits address change
 relatedlinks: 
   - heading: How to change other information related to your VA benefits
     links:
@@ -28,61 +28,133 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your address on file with VA or update other contact information in your VA.gov profile.
+Find out how to change your address and other contact information on file with VA. 
 
 </div>
 
-<h2 itemprop="name">Why should I use my VA.gov profile to change my address on file with VA?</h2>
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What's the advantage of using my VA.gov profile to change my address?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-When you change your address in your VA.gov profile, you automatically update your address across these VA benefits and services:
+When you change your address in your VA.gov profile, it automatically updates across these VA benefits and services:
 
 <ul>
   <li>Disability compensation</li>
   <li>Pension benefits</li>
   <li>Claims and appeals</li>
-  <li>VA prescription refills</li>
+  <li>VA health care (including prescription refills)</li>
 </ul>
 
-Your health care team may also use your VA.gov profile contact information to communicate with you.
+<h3>If you're enrolled in VA health care</h3>
+We’ll send your prescriptions to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you.
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
 
 <h2 itemprop="name">How do I change my address in my VA.gov profile?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one"><strong><a href="/sign-in-faq/">Sign in to VA.gov</a>.</strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
-  <li class="process-step list-two"><strong>Verify your identity when prompted.</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
-  <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov account profile</a>.</strong> <br> You can also find your profile by clicking on the icon with your name at the top right of the homepage.</li>
-  <li class="process-step list-four"><strong>Edit your address.</strong> <br> Click "Edit" next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on "Please add your mailing address" or "Please add your home address." Then fill out the form and click "Update" to save your changes. You can also add or edit other contact, personal, and military service information.
+  <li class="process-step list-one"><strong><a href="/sign-in-faq/">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
+  <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
+  <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> You can also find your profile by clicking on the icon with your name at the top right of the homepage.</li>
+  <li class="process-step list-four"><strong>Edit your address</strong> <br> Click "Edit" next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click "Update" to save your changes. <br> You can also add or edit other contact, personal, and military service information.
 </ol>
 
 </ul>
 </div>
 </div>
+</div>
 
-<h2 itemprop="name">How do I change my address and other contact information for other benefits and services?</h2>
+<div itemscope itemtype="http://schema.org/Question">
+  
+<h2 itemprop="name">Will changing my address in my VA.gov profile update it across all VA benefits and services?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+No, not at this time. Some of our departments keep your contact information in their own separate records. 
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">How do I change my contact information for other benefits and services?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-Some of our departments update your contact information in their own separate records. If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. 
+If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. 
 
-<h3>Contact these departments directly to change your information</h3>
+<h3>Contact these VA departments directly to change your address and other contact information</h3>
 
-<strong>For education benefits:</strong> Call 1-888-GIBILL-1 (1-888-442-4551), Monday through Friday, 7:00 a.m. to 6:00 p.m. CT. <br>
-You can also change your education benefit direct deposit and contact information online. <br>
-<a href="/change-direct-deposit-and-contact-information/">Change your direct deposit and contact information online</a>
+<h4>For education benefits</h4>
 
-<strong>For home loan benefits:</strong> Call 1-877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET to reach the nearest VA regional benefit office with loan guaranty staff Pension benefits.
-
-<strong>For Veterans' Mortgage Life Insurance:</strong> Call the VA Insurance Center (VAIC) at 1-800-669-8477, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
-You can also update your contact information for a VA life insurance policy online. <br>
-<a href="/life-insurance/manage-your-policy/">Access your VA life insurance policy online</a>
-
-</div>
-</div>
-</div>
-</div>
+<ul>
+  <li>Call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 7:00 a.m. to 6:00 p.m. CT</li>
+  <li><a href="/change-direct-deposit-and-contact-information/">Or change your direct deposit and contact information online</a></li>
+  </ul>
   
-  
+<h4>For home loan benefits</h4>
+Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. We can connect you to the nearest VA regional office with loan guaranty staff to update your information.
+
+<h4>For Veterans' Mortgage Life Insurance (VMLI)</h4>
+<ul>
+  <li>Call our VA Insurance Center (VAIC) at <a href="tel:+18006698477">1-800-669-8477</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.</li>
+  <li>Or send a signed and dated address change request to us at: <br>
+    <p class="va-address-block">
+      Department of Veterans Affairs <br>
+      Regional Office and Insurance Center <br>
+      PO Box 7208 (VMLI) <br>
+      Philadelphia, PA 19101 <br>
+  </li>  
+</ul>
+
+<h4>For other VA life insurance programs</h4>
+
+<ul>
+  <li><a href="/life-insurance/manage-your-policy/">Access your policy online</a></li>
+  <li>Or call us. <strong>If you have Servicemembers' Group Life Insurance (SGLI) or Veterans' Group Life Insurance (VGLI),</strong> call 1-800-419-1473. <strong>For all other VA life insurance programs,</strong> our VA Insurance Center (VAIC) at <a href="tel:+18006698477">1-800-669-8477</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. 
+    
+
+
+<h4>For CHAMPVA</h4>
+
+<ul>
+  <li>Call our customer call center at <a href="tel:+18007338387">1-800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your past address information available. Our customer service representatives will need to verify this information before updating your file.</li>
+  <li>Email our customer call center through the secure Inquiry Routing & Information System (IRIS). <br>
+    <a href="https://iris.custhelp.va.gov/app/ask">Ask a question online through IRIS</a></li>
+  <li>Send a signed and dated address change request to us at:<br>
+    <p class="va-address-block">
+      CHAMPVA<br>
+      PO Box 469063<br>
+      Denver, CO 80246-9063<br>
+    </p>
+  </li>
+  </ul>    
+
+<h4>For the Foreign Medical Program</h4>
+
+<ul>
+  <li>Call our Foreign Medical Program office at <a href="tel:+18773458158">1-877-345-8158</a>.</li>
+  <li>Or send a signed and dated address change request to us at: <br>
+    <p class="va-address-block">
+      VHA Office of Community Care<br>
+      Foreign Medical Program (FMP)<br>
+      PO Box 469061<br>
+      Denver, CO 80246-9061<br>
+      USA<br>
+    </p>
+    </li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
