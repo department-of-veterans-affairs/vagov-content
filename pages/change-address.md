@@ -18,7 +18,10 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access Your Policy Online
       description: Manage your VA life insurance policy online.
-      
+    - url: /discharge-upgrade-instructions/
+      title: How to Apply for a Discharge Upgrade
+      description: Answer a series of questions to get customized step-by-step instructions on how to apply for a discharge upgrade or correction. 
+         
 lastupdate:
 ---
 
