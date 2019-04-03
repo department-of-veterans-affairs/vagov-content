@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Get Help Filing Your Claim or Appeal
-display_title: Get Help Filing a Claim
+title: Get help filing your claim or appeal
+display_title: Get help filing a claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
 concurrence: incomplete
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
@@ -11,16 +11,16 @@ relatedlinks:
   - heading: More information about filing disability claims
     links:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-      title: Fully Developed Disability Claims
+      title: Fully developed disability claims
       description: Find out how to use the Fully Developed Claims program to get a faster decision on your claim by sending in all the evidence you have—or can easily get—when you file your claim.
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: If you have 90 to 180 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
     - url: /disability/about-disability-ratings/
-      title: How VA Assigns Disability Ratings
+      title: How VA assigns disability ratings
       description: Find out how we assign ratings for service-connected disabilities.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities That Appear Within 1 Year After Discharge
+      title: Disabilities that appear within 1 year after discharge
       description: Find out if you're eligible for disability compensation for a disability that appeared within a year after you were discharged from service.
 aliases:
   - /disability-benefits/apply/help/
@@ -31,7 +31,7 @@ spoke: More Resources
 
 If you need help filing a claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
 
-VSOs work on behalf of Veterans and Servicemembers—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
+VSOs work on behalf of Veterans and service members—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
 
 </div>
 
@@ -46,7 +46,7 @@ VSOs work on behalf of Veterans and Servicemembers—as well as their dependents
   - Pass a background check
   - Take continuing-education courses to make sure they’re providing the most up-to-date information
 
-Recognized organizations and individuals can legally represent a Veteran, Servicemember, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
+Recognized organizations and individuals can legally represent a Veteran, service member, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Recognized organizations and individuals can legally represent a Veteran, Servic
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What does an accredited representative or a VSO do?</h3>
+<h2 itemprop="name">What does an accredited representative or a VSO do?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -83,7 +83,7 @@ Recognized organizations and individuals can legally represent a Veteran, Servic
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h4 itemprop="name">What does it cost to use an accredited representative or a VSO?</h4>
+<h3 itemprop="name">What does it cost to use an accredited representative or a VSO?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -98,7 +98,7 @@ In general, no individual or organization may charge you a fee to help you file 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How do I find an accredited representative or a VSO?</h3>
+<h2 itemprop="name">How do I find an accredited representative or a VSO?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -115,7 +115,7 @@ In general, no individual or organization may charge you a fee to help you file 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How do I set up an accredited representative or a VSO to work on my behalf?</h3>
+<h2 itemprop="name">How do I set up an accredited representative or a VSO to work on my behalf?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
