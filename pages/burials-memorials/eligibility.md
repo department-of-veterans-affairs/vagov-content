@@ -5,6 +5,7 @@ title: Eligibility | Veterans Affairs
 heading: Eligibility for Burial in a VA National Cemetery
 display_title: Eligibility
 description: Find out if you or a loved one qualify for burial in a VA national cemetery and for other burial honors. Review VA burial benefits eligibility requirements for Veterans, service members, spouses, and dependents.
+keywords: burial in national cemetery, who can be buried in a national cemetery, burial in national cemetery eligibility, va burial benefits eligibility, va burial eligibility
 collection: burials
 children: burialsEligibility
 spoke: Get Benefits
@@ -16,17 +17,17 @@ aliases:
 
 <div class="va-introtext">
 
-Service members, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you can get these benefits.
+Service members, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you are eligible for these VA burial benefits.
 
 </div>
 
 <div class="feature" markdown="0">
 
-### Who can be buried in a VA national cemetery and receive other burial benefits?
+### Who can be buried in a VA national cemetery and receive other VA burial benefits?
 
-Veterans, service members, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet one of the requirements listed below.
+Veterans, service members, spouses, and dependents may be eligible for burial in a VA national cemetery, as well as other benefits, if they meet one of the requirements listed below.
 
-**One of these must be true. The person qualifying for burial benefits is:**
+**One of these must be true. The person qualifying for VA burial benefits is:**
 
 - A Veteran who didn't receive a dishonorable discharge, **or**
 - A service member who died while on active duty, active duty for training, or inactive duty for training, **or**
@@ -37,7 +38,7 @@ Veterans, service members, spouses, and dependents may qualify for burial in a V
 
 ### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+If you've received one of these discharge statuses, you may not be eligible for VA burial benefits.
 
 <br>
 
@@ -49,11 +50,11 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 </div>
 
-## What do burial benefits include?
+## What do VA burial benefits include?
 
 If you qualify for burial in a VA national cemetery, you'll receive burial benefits at no cost to your family. 
 
-**Burial benefits include:**
+**VA Burial benefits include:**
 - Opening and closing of the grave
 - A burial liner provided by the government
 - A headstone or marker provided by the government
