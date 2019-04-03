@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Add Dependents to Your VA Disability Benefits
-display_title: Add or Remove a Dependent
+title: Add dependents to your VA disability benefits
+display_title: Add or remove a dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
 concurrence: Incomplete
 plainlanguage: Certified plain language 4.20.18 
@@ -12,13 +12,13 @@ relatedlinks:
   - heading: More VA benefits for you and your dependents
     links:
     - url: /pension/
-      title: Pension Benefits
+      title: Pension benefits
       description: Apply for monthly pension benefits for wartime Veterans and survivors.
     - url: /life-insurance/
-      title: Life Insurance
+      title: Life insurance
       description: Explore your VA life insurance options, manage your policy, and file claims.  
     - url: /education/survivor-dependent-benefits/
-      title: Transfer Your Post-9/11 GI Bill Benefits to Your Spouse and Dependents
+      title: Transfer your Post-9/11 GI Bill benefits to your spouse and dependents
       description: If you have unused Post-9/11 GI Bill benefits, find out if you can transfer your benefits to your spouse or dependent children.     
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -118,8 +118,8 @@ Janesville, WI 53547-4444 <br>
 
 **Or fax it to:** 
 
- <a href="tel:+1phonenumber">1-844-531-7817</a> if you live in the U.S., **or** <br>
- <a href="tel:+1phonenumber">1-248-524-4260</a> if you live outside of the U.S.
+ <a href="tel:+18445317817">844-531-7817</a> if you live in the U.S., **or** <br>
+ <a href="tel:+12485244260">+1-248-524-4260</a> if you live outside of the U.S.
  
 ## What if I need help with my claim?
  
@@ -162,8 +162,8 @@ Janesville, WI 53547-4444 <br>
 
 **Or fax them to:** 
 
-<a href="tel:+1phonenumber">1-844-531-7817</a> if you live in the U.S., **or** <br>
-<a href="tel:+1phonenumber">1-248-524-4260</a> if you live outside of the U.S.
+<a href="tel:+18445317817">844-531-7817</a> if you live in the U.S., **or** <br>
+<a href="tel:+12485244260">+1-248-524-4260</a> if you live outside of the U.S.
 
 </div>
 </li>
@@ -217,7 +217,7 @@ If you see your dependent(s) listed there, you should be eligible for additional
 </ul>
 <br>
 	
-### Questions about adding or removing certain kinds of dependents
+## Questions about adding or removing certain kinds of dependents
 
 <ul class="usa-accordion">
 <li>
