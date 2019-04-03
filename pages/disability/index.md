@@ -155,55 +155,6 @@ hublinks:
       description: Check the status of your VA disability and pension payments. You
         can also see certain survivor benefits.
       external: false
-    - url: "/disability/about-disability-ratings/"
-      label: About VA disability ratings
-      description: Learn how we assign disability ratings and effective dates, and what
-        to do after you get your rating.
-      external: false
-    - url: https://www.benefits.va.gov/compensation/rates-index.asp
-      label: View VA disability compensation rates
-      description: See the Veterans compensation benefits rates tables to find your
-        rate based on your disability rating and dependents.
-      external: false
-    - url: "/disability/va-claim-exam/"
-      label: VA claim exam (C&P exam)
-      description: Find out why you might need a claim exam, how to schedule and prepare
-        for your appointment, and what to expect during and after the exam.
-      external: false
-    - url: "/disability/get-help-filing-claim/"
-      label: Get help filing a claim
-      description: Connect with a Veterans Service Organization (VSO) or accredited
-        Veterans representative for help applying for benefits.
-      external: false
-    - url: https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp
-      label: Disability evaluation questionnaires (VA DBQ forms)
-      description: Find and download the right disability benefits questionnaire for
-        your health care provider to complete in support of your claim.
-      external: false
-    - url: "/housing-assistance/disability-housing-grants/"
-      label: Disability housing grants for Veterans
-      description: Find out how to apply for a housing grant as a Veteran or service member
-        with a service-connected disability.
-      external: false
-    - url: https://www.benefits.va.gov/fiduciary/index.asp
-      label: Fiduciary services
-      description: Learn how to become a VA fiduciary to handle the financial affairs
-        of a Veteran in need.
-      external: false
-    - url: "/health-care/about-va-health-benefits/long-term-care/"
-      label: VA nursing homes, assisted living, and home health care
-      description: Explore long-term care options for Veterans and their caregivers.
-      external: false
-    - url: "/careers-employment/vocational-rehabilitation/"
-      label: Vocational Rehabilitation and Employment
-      description: Find out if you qualify for help exploring employment options, any
-        training you may need, and other voc rehab services.
-      external: false
-    - url: "/pension/aid-attendance-housebound/"
-      label: Aid and Attendance benefits and Housebound allowance
-      description: See if you're eligible for extra monthly pension payments if you
-        need more aid than you're currently receiving.
-      external: false
   - id: more
     title: More information and resources
     links:

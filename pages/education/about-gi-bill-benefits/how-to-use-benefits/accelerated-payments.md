@@ -2,11 +2,12 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Accelerated Payments for High-Technology Programs
-display_title: High-Tech Programs
+display_title: Accelerated Payments
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
-order: 8
+  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
+order: 4
 ---
 
 <div class="va-introtext">
