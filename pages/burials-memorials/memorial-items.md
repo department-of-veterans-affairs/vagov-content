@@ -5,6 +5,7 @@ title: Apply for Memorial Items | Veterans Affairs
 heading: Honor a Veteran, Reservist, or Family Member with Memorial Items
 display_title: Memorial Items
 description: Find out how to apply for memorial items to honor a Veteran, Reservist, or family member. Eligible spouses and other family members eligible for burial in some cemeteries may also qualify for headstone markers, flags, niche covers, presidential certificates, and medallions. 
+keywords: n/a
 collection: burials
 children: burialsHonor
 spoke: Get Benefits
