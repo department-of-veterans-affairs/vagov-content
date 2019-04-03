@@ -5,6 +5,7 @@ title: VA Housing Assistance | Veterans Affairs
 heading: VA Housing Assistance
 display_title: Housing
 description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veterans housing assistance, including VA-backed home loans and grants for Veterans with service-connected disabilities. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.
+keywords: va housing, va housing assistance, veteran housing, veterans housing assistance
 concurrence: complete
 lastupdate:
 order: 1
