@@ -61,7 +61,7 @@ social:
           label: National Cemeteries Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VANatCemeteries
           label: National Cemeteries Twitter
