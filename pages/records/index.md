@@ -52,8 +52,8 @@ hublinks:
       description: Set up your personal health record and download medical records, reports, and images to share with your VA and non-VA doctors.
       external: false
     - url: "/change-address/"
-      label: Change Your Address with VA
-      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
+      label: Change Your Address on File With VA
+      description: Find out how to change your address in your VA.gov profile to automatically update this information across several VA benefits and services.
       external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters
