@@ -18,7 +18,7 @@ crosslinks:
   - heading: Other VA benefits and services
     links:
     - url: /housing-assistance/disability-housing-grants/
-      title: <b>Disability housing grants for veterans</b>
+      title: <b>Disability housing grants for Veterans</b>
       description: Find out how to apply for a housing grant as a Veteran or service member with a service-connected disability.
     - url: https://www.benefits.va.gov/fiduciary/index.asp
       title: <b>Fiduciary services</b>
@@ -43,13 +43,13 @@ social:
         links:
         - url: tel:1-800-827-1000
           number: 800-827-1000
-          title: "VA Benefits Hotline:"
+          title: "VA benefits hotline:"
         - url: tel:1-800-983-0937
           number: 800-983-0937
-          title: "eBenefits Technical Support:"
+          title: "eBenefits technical support:"
         - url: tel:1-844-698-2311
           number: 844-698-2311
-          title: "Call MyVA311 for Help:"
+          title: "Call MyVA311 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Connect with us
@@ -132,7 +132,7 @@ hublinks:
         service records) to help support your open disability claim.
       external: false
     - url: "/disability/how-to-file-claim/additional-forms/"
-      label: File Additional forms for your disability claim
+      label: File additional forms for your disability claim
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.
       external: false
@@ -180,7 +180,7 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp
       label: Disability evaluation questionnaires (VA DBQ forms)
-      description: Find and download the right disability benefits questionnaire for
+      description: Find and download the right Disability Benefits Questionnaire for
         your health care provider to complete in support of your claim.
       external: false
 ---
@@ -193,6 +193,6 @@ VA disability compensation (pay) offers a monthly tax-free payment to Veterans w
 
 <ul>
   <li><a href="#get">Get VA disability compensation (pay)</a></li>
-  <li><a href="#manage">Manage your veterans disability benefits</a></li>
+  <li><a href="#manage">Manage your Veterans disability benefits</a></li>
   <li><a href="#more">More information and resources</a></li>
 </ul>
