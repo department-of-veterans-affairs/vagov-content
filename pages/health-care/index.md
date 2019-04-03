@@ -64,7 +64,7 @@ social:
           label: Veterans Health Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: "https://twitter.com/VeteransHealth"
           label: Veterans Health Twitter
