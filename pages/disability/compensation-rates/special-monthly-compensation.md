@@ -46,7 +46,6 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 | **SMC-Q** | $67.00 | This is a protected rate that we haven't awarded since August 19, 1968. If we awarded you an MC-Q designation, we pay this rate in place of your basic disability compensation rate for any disability rating other than 0%.|
 
 </div>
-</li>
 </ul>
 
 <h2>VA special monthly compensation rates for Veterans without children</h2>
