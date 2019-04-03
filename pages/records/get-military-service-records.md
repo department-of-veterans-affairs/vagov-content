@@ -15,6 +15,9 @@ relatedlinks:
     - url: /health-care/get-medical-records/
       title: Get Your VA Medical Records Online
       description: Set up your personal health record, and download medical records, reports, and images to share with your VA and non-VA doctors.
+    - url: "/change-address/"
+      title: Change your address with VA
+      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
     - url: /records/get-veteran-id-cards/
       title: Get Veteran ID Cards
       description: Find out which Veteran ID cards you may need, and how to request them.
