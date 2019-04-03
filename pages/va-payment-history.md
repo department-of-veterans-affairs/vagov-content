@@ -6,6 +6,13 @@ display_title: View VA Payment History
 collection: records
 order: 7
 spoke: Get Records
+relatedlinks: 
+  - heading: How to change other information related to your VA benefits
+    links:
+    - url: "/change-address/"
+      title: Change your address with VA
+      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
+      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
