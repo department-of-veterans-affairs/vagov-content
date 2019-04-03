@@ -5,6 +5,7 @@ title: Eligibililty | Veterans Affairs
 heading: Veterans Pension Eligibility
 display_title: Eligibility
 description: Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. Review VA non-service-connected pension eligibility requirements and learn more about how to apply.
+keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility 
 concurrence:
 order: 1
 children: pensionEligibility
@@ -27,7 +28,7 @@ widgets:
 
 <div class="va-introtext">
 
-If you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits, you may qualify for monthly payments through our Veterans Pension program. Find out if you can get this benefit.
+If you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits, you may qualify for monthly payments through our Veterans Pension program. Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. 
 
 </div>
 
