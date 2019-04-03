@@ -5,6 +5,7 @@ title: Pre-Need Burial Eligibility Determination | Veterans Affairs
 heading: Pre-need Eligibility Determination for Burial in a VA National Cemetery
 display_title: Pre-need Burial Eligibility Determination
 description: Find out in advance if you're eligible to be buried in a VA national cemetery. Make the burial planning process easier for family by determining eligibility before hand.  
+keywords: n/a
 collection: burials
 children: burialsPreNeed
 spoke: Get Benefits
