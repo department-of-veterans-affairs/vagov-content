@@ -73,3 +73,17 @@ When you travel to a health care appointment, you’ll save and submit your expe
 
 -	Take it in person to your VA facility’s beneficiary travel office, **or**
 -	Mail or fax it to your VA facility’s beneficiary travel office
+If you have questions, you can call your VA facility’s beneficiary travel office. 
+You can also call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
+
+</li>
+
+<li class="process-step list-four">
+  
+Be sure to submit your form within 30 days of your health care appointment.  
+
+</li>
+
+<li class="process-step list-five">
+  
+We’ll review your form, and when we approve it, we’ll send you a reimbursement for your expenses.  
