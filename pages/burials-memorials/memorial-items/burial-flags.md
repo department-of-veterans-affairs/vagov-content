@@ -4,7 +4,8 @@ template: detail-page
 title: Request a Burial Flag | Veterans Affairs
 heading: Request a Burial Flag to Honor a Veteran or Reservist
 display_title: Burial Flags
-description: Find out how to apply for a United States burial flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist in honor of their military service. And learn how to properly display and care for burial flags.
+description: Find out how to apply for a United States burial flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist in honor of their military service. Learn how to properly display and care for burial flags.
+keywords: burial flag, burial flags for veterans
 order: 2
 concurrence: incomplete
 relatedlinks:
@@ -27,7 +28,7 @@ We provide a United States burial flag to drape on a casket (or coffin) or place
 
 <div class="feature">
   
-### Can I get a burial flag?
+### Am I eligible for a burial flag?
 
 You can get a burial flag if you’re the next of kin or a close friend of the Veteran or Reservist and any one of the descriptions below is true for that person.
 
