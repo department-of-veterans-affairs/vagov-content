@@ -5,6 +5,7 @@ title: How to Apply | Veterans Affairs
 heading: How to Apply for a VA Veterans Pension
 display_title: How to Apply
 description: Find out how to apply for a VA pension online, by mail, in person, or with the help of a trained professional. If you're not ready to apply now, learn how to submit an intent to file form (VA Form 21-0966) to set the effective date of your claim (the day you can start getting benefits).
+keywords: how to apply for va pension
 concurrence: ""
 order: 2
 spoke: Get Benefits
@@ -29,7 +30,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to apply for a tax-free VA Veterans pension.
+Find out how to apply for a tax-free VA pension.
 
 </div>
 
