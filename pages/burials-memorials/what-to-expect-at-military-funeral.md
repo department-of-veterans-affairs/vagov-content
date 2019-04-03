@@ -4,6 +4,7 @@ title: What to Expect at a Military Funeral | Veterans Affairs
 heading: What to Expect at a Military Funeral
 display_title: What to Expect at a Military Funeral
 description: Find out what to expect at a military funeral ceremony for a Veteran or service member. Learn about military funeral etiquette and how families can choose to have burial honors like the playing of "Taps", a rifle detail, a color guard, and uniformed service members to present the burial flag. 
+keywords: military funeral, military burial, veteran funeral, military funeral etiquette
 template: detail-page
 collection: burials
 order: 8
@@ -15,6 +16,7 @@ spoke: More Resources
 <div class="va-introtext">
 
 We carry out memorial services at national cemeteries with dignity and respect. Find out what happens at a military funeral for a Veteran or service member.
+
 </div>
 
 ## What happens during a military funeral for a Veteran or service member?
