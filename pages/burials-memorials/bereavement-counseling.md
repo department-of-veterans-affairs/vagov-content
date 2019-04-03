@@ -5,6 +5,7 @@ title: Bereavement Counseling | Veterans Affairs
 heading: Bereavement Counseling
 display_title: Bereavement
 description: Surviving spouses, children, and parents of service members who died while serving may qualify for bureavement counseling services, also known as grief counseling. Counseling provides emotional and psychological support after the death of a loved one. 
+keywords: bereavement counseling,	grief counseling
 order: 6
 spoke: Get Benefits
 collection: burials
