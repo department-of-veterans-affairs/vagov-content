@@ -5,6 +5,7 @@ title: Survivors Pension | Veterans Affairs
 heading: VA Survivors Pension
 display_title: Survivors Pension
 description: Find out if you're eligible and how to apply for a VA survivors pension (some people call this a "VA widows pension" or "VA death pension"). You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
+keywords: va survivors pension, widows pension, va widows pension
 concurrence: ""
 children: pensionSurvivors
 spoke: Get Benefits
@@ -19,13 +20,14 @@ order: 5
 
 <div class="va-introtext">
 
-Find out if you're eligible and how to apply for a survivors pension as a surviving spouse or child of a deceased Veteran with wartime service.
+Find out if you're eligible and how to apply for a VA survivors pension (sometimes called a "VA widows pension" or "VA death pension." You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
+
 
 </div>
 
 <div class="feature" markdown=“1”>
 
-### Am I eligible for a survivors pension as a surviving spouse?
+### Am I eligible for a VA survivors pension as a surviving spouse?
 
 You may be able to get this benefit if you haven’t remarried after the Veteran’s death, if the deceased Veteran didn't receive a dishonorable discharge, and if the Veteran’s service meets at least one of the requirements listed below.
 
@@ -55,7 +57,7 @@ Under current law, we recognize the following wartime periods to decide eligibil
 
 <br>
 
-### Am I eligible for a survivors pension as the child of a deceased wartime Veteran?
+### Am I eligible for a VA survivors pension as the child of a deceased wartime Veteran?
 
 You may be able to get this benefit if you’re unmarried and you meet at least one of the requirements listed below.
 
@@ -87,7 +89,7 @@ Bring your application to a VA regional benefit office near you. <br>
 
 ### With the help of a trained professional
 
-You can work with a trained professional called an accredited representative to get help applying for survivors pension benefits. <br>
+You can work with a trained professional called an accredited representative to get help applying for VA survivors pension benefits. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/).
 
 ## How long does it take VA to make a decision?
