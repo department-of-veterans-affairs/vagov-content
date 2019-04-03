@@ -17,7 +17,7 @@ aliases:
 
 <div class="va-introtext">
 
-Service members, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you are eligible for these VA burial benefits.
+Service members, Veterans, and family members may be eligible for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you are eligible for these VA burial benefits.
 
 </div>
 
