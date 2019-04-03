@@ -28,4 +28,48 @@ from health care appointments. If you qualify, we’ll reimburse you for payment
 
 ## How do I find out if I qualify for beneficiary travel reimbursement?
 
+There are two types of beneficiary travel reimbursement, and you may qualify for one or both. 
+**To qualify for general health care travel reimbursement, you need to meet at least one of the following criteria. You:**
 
+- Have a VA disability rating (a rating that measures how bad or severe a disability is) of 30% or more, **or**
+- Are traveling for treatment of a service-related condition, even if your VA disability rating is less than 30%, **or**
+- Receive a VA pension, or your income doesn’t exceed the maximum annual VA pension rate, **or**
+- Are traveling for a scheduled VA claim exam (also called a compensation and pension, or C&P, exam), **or** 
+- Can’t afford to pay for your travel, according to the BT guidelines
+
+Sometimes, other people can also get this benefit. To learn if you qualify, 
+you can call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
+
+## How do I qualify for “special mode” transportation?
+
+**First, you need to meet one of the conditions in the list above. Second, you must also:**
+
+-	Have a medical condition requiring an ambulance or a specially equipped van, which is determined by a VA health care provider, **and** 
+-	Have your travel preauthorized. We don’t require authorization for emergencies if a delay would be hazardous to life or health. 
+
+Learn how to get your travel preauthorized. 
+
+## How do I get these travel benefits?
+
+When you travel to a health care appointment, you’ll save and submit your expenses along with the reimbursement form. 
+## Here’s what you’ll do for each appointment:
+
+<ol class="process">
+<li class="process-step list-one">
+  
+##### After each medical appointment requiring travel, print and fill out the [VA Form 10-3542](https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf).  
+
+</li>
+
+<li class="process-step list-two">
+
+##### Pay your travel expenses, and note your mileage and keep any related receipts.
+
+</li>
+
+<li class="process-step list-three">
+
+##### Submit your completed form. You can:
+
+-	Take it in person to your VA facility’s beneficiary travel office, **or**
+-	Mail or fax it to your VA facility’s beneficiary travel office
