@@ -141,5 +141,5 @@ You don't have to, but we encourage you to work with an accredited VSO. These tr
 
 ## More helpful resources
 
-[Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp) <br>
-[View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp) 
+[Get a checklist for preparing your fully developed claim](https://www.benefits.va.gov/FDC/checklist.asp) <br>
+[View a step-by-step graphic of the fully developed claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp) 
