@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: The VA Claim Process after You File Your Claim
-display_title: After You File Your Claim
+title: The VA claim process after you file your claim
+display_title: After you file your claim
 description: Find out what happens in the VA claim process after you file your claim. Learn about the steps in the VA disability claim processing timeline and how long it takes, on average, to get your VA disability rating.
 order: 3
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -12,10 +12,10 @@ majorlinks:
   - heading: More information about disability ratings and payments
     links:
     - url: /disability/about-disability-ratings/effective-date/
-      title: Effective Date of Disability
+      title: Effective date of disability
       description: "Find out when you’ll start getting your disability payments."
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
-      title: What to Expect after You Get a Disability Rating
+      title: What to expect after you get a disability rating
       description: "Find out what happens after you get your decision notice with your rating."
 relatedlinks:
   - heading: Other VA benefits you may want to explore
@@ -59,7 +59,7 @@ You don’t need to do anything unless we send you a letter asking for more info
 <ol class="process">
 <li class="process-step list-one">
 
-### Claim Received
+### Claim received
 We’ll let you know when we receive your disability claim.
 - **If you file your disability claim online,** you’ll get an on-screen message from us after you submit the form. <br>
 - **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about 1 hour of applying.<br>
@@ -70,7 +70,7 @@ We’ll let you know when we receive your disability claim.
 
 <li class="process-step list-two">
 
-#### Initial Review
+### Initial review
 
 A Veterans Service Representative (VSR) will review your claim. It’ll move to step 3 if we don’t need any more evidence to support it.
 
@@ -78,7 +78,7 @@ A Veterans Service Representative (VSR) will review your claim. It’ll move to 
 
 <li class="process-step list-three">
 
-#### Evidence Gathering, Review, and Decision
+### Evidence gathering, review, and decision
 
 During this step, the VSR will do 3 things:
 
@@ -92,7 +92,7 @@ If we need more evidence during the review, your claim may return to this step m
 
 <li class="process-step list-four">
 
-#### Preparation for Notification
+### Preparation for notification
 
 We’ll get your entire claim decision packet ready to be mailed.
 
@@ -100,7 +100,7 @@ We’ll get your entire claim decision packet ready to be mailed.
 
 <li class="process-step list-five">
 
-#### Claim Complete
+### Claim complete
 
 We’ll send you a packet by U.S. mail that includes details of the decision on your claim. Please allow 7 to 10 business days for your packet to arrive before contacting a VA call center.
 
