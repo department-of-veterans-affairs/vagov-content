@@ -5,6 +5,7 @@ title: Headstones, Grave Markers, Medallions | Veterans Affairs
 heading: Request Veterans Headstones, Grave Markers, and Medallions
 display_title: Headstones, Markers or Medallions
 description: Find out how to apply for Veterans grave markers, headstones, and medallions to honor the service of a Veteran or eligible family member. Learn who is eligible for these honors, who can apply for the items, and what information you'll need to put on a headstone or marker.
+keywords: veterans grave markers, veterans headstones, va headstone, veterans medallion for headstones
 order: 1
 concurrence: incomplete
 children: burialsHeadstoneMarkersMedallions
@@ -14,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran or eligible family member.
+Find out how to apply for Veterans grave markers, headstones, and medallions to honor the service of a Veteran or eligible family member. 
 
 </div>
 
