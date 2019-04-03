@@ -32,3 +32,21 @@ the District of Columbia, Puerto Rico, Guam, the U.S. Virgin Islands, American S
 and the Commonwealth of the Northern Mariana Islands.
 
 Under some circumstances, you may be eligible for free dental care. [Learn more about free VA dental services](https://www.va.gov/DENTAL/index.asp).
+
+## What dental services does VADIP cover?
+
+**VADIP covers many common dental procedures. These include:**
+
+-	Diagnostic services
+-	Preventive dental care
+-	Endodontic (issues with the soft tissue inside the tooth) and other restorative services
+-	Dental surgery
+-	Emergency dental care
+
+## What do I pay for VA dental insurance?
+
+You pay the entire insurance premium, as well as any copays. For specific costs, 
+see the details of the two plans below. 
+
+Enrollment is voluntary. And if you already qualify for Veterans Health Administration (VHA) 
+outpatient dental services and treatment, enrolling in VA dental insurance won’t affect those services.
