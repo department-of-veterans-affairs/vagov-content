@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Burial Benefits and Memorial Items
+title: VA Burial Benefits and Memorial Items | Veterans Affairs
+heading: VA Burial Benefits and Memorial Items
 display_title: Burials and Memorials
 description: Find out if you're eligible and how to apply for VA burial benefits. Veterans burial benefits include burial in a VA national cemetery and memorial items. Survivors and dependents may also qualify for compensation and other benefits.
+keywords: va burial benefits,	veterans burial benefits
 lastupdate:
 order: 1
 hub: burials
@@ -177,8 +179,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-VA burial benefits can help Servicemembers, Veterans, and their family members plan and pay for a burial or memorial service in a VA national cemetery. Family members can also order memorial items to honor the service of a Veteran. Find out how to apply for the burial benefits you've earned, and how to plan for a burial in advance or at time of need.</p>
-
+VA burial benefits can help Servicemembers, Veterans, and their family members plan and pay for a burial or memorial service in a VA national cemetery. Family members can also order memorial items to honor the service of a Veteran. Find out how to apply for the VA burial benefits you've earned, and how to plan for a burial in advance or at time of need.
 <h3>On This Page</h3>
 
 <ul>
