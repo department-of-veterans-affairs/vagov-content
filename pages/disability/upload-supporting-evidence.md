@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Upload Evidence to Support Your Disability Claim
-display_title: Upload Evidence to Support Your Disability Claim
+title: Upload evidence to support your disability claim
+display_title: Upload evidence to support your disability claim
 description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
 collection:
@@ -63,7 +63,7 @@ If we decide your claim earlier than one year from the date we received the clai
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-### Federal and State Records
+### Federal and state records
 
 **These include copies of:**
 - Your military medical records
@@ -73,7 +73,7 @@ If we decide your claim earlier than one year from the date we received the clai
 
 If you don’t have copies of these records, you can ask us to request them for you as part of the claim process.
 
-### Private Medical Treatment Records
+### Private medical treatment records
 
 If you’ve seen a non-VA health care provider for diagnosis or treatment, you’ll need to upload copies of all medical records that can provide information about the disability you’re claiming.
 
@@ -82,12 +82,12 @@ If you’ve seen a non-VA health care provider for diagnosis or treatment, you�
 - X-rays
 - Medical lab or test results
 
-### Supporting Statements
+### Supporting statements
 
 If you’re claiming a disability for an injury or illness that you don’t think we have in your military records, you’ll also want to upload statements that support your claim. These statements should be from people who know about, or who you’ve talked to about, your claimed medical condition and how and when it occurred.
 
 **You can ask for supporting statements from people like:**
-- Servicemembers who served with you
+- Service members who served with you
 - Your family and friends
 - Clergy members
 - Law enforcement officers
@@ -100,7 +100,7 @@ You can search for DBQs to download by form name or by symptom. <br>
 <a href="https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp" target="_blank">Find VA DBQs to take to your health care provider</a>
 
 
-### Any Additional Forms Needed to Support Your Claim
+### Any additional forms needed to support your claim
 
 In some cases, you may need to turn in one or more additional forms to support your disability claim. <br>
 [See if you need to complete any additional forms](/disability/how-to-file-claim/additional-forms/).
