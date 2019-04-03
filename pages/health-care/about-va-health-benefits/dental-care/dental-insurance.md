@@ -50,3 +50,25 @@ see the details of the two plans below.
 
 Enrollment is voluntary. And if you already qualify for Veterans Health Administration (VHA) 
 outpatient dental services and treatment, enrolling in VA dental insurance won’t affect those services.
+
+## How do I enroll in VA dental insurance?
+
+You can read the details of the Delta Dental and MetLife VADIP plans below. 
+Then choose the plan that’s right for you. 
+
+View [the Delta Dental plan](https://feds.deltadentalins.com/vadip/).
+
+For questions, call <a href="tel:+18553703303">855-370-3303</a>.
+
+View [the MetLife plan](https://www.metlife.com/vadip/).
+
+For questions, call <a href="tel:+18883101681">888-310-1681</a>.
+
+## I enrolled in the VADIP pilot program. Do I need to enroll again?
+
+Yes. The VADIP VA dental insurance pilot program ran from 2013 to 2017. 
+If you were covered during that time, you’ll need to re-enroll to be covered by the new version 
+of the program. Some of the plan options and fees may have changed under the new plan.
+
+
+
