@@ -28,7 +28,7 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your address and other contact information in your VA.gov profile to automatically update this information across several VA benefits and services. 
+Find out how to change your address and other contact information in your VA.gov profile. This will automatically update your information across several VA benefits and services. 
 
 </div>
 
@@ -64,7 +64,7 @@ We’ll send your prescriptions and any letters from your VA medical center to t
   <li class="process-step list-one"><strong><a href="/sign-in-faq/">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> You can also find your profile by clicking on the icon with your name at the top right of the homepage.</li>
-  <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. <br> You can also add or edit other contact, personal, and military service information.
+  <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. You can also add or edit other contact, personal, and military service information.
 </ol>
 
 </ul>
@@ -74,37 +74,25 @@ We’ll send your prescriptions and any letters from your VA medical center to t
 
 <div itemscope itemtype="http://schema.org/Question">
   
-<h2 itemprop="name">Will changing my address in my VA.gov profile update it across all VA benefits and services?</h2>
+<h2 itemprop="name">Will this update my contact information across all VA benefits and services?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 No, not at this time. Some of our departments keep your contact information in their own separate records. 
 
-</div>
-</div>
-</div>
-
-<div itemscope itemtype="http://schema.org/Question">
-
-<h2 itemprop="name">How do I change my contact information for other benefits and services?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-  
 If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. 
 
-<h3>Contact these VA departments directly to change your address and other contact information</h3>
-
-<h4>For education benefits</h4>
+<h3>For education benefits</h3>
 
 <ul>
   <li>Call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 7:00 a.m. to 6:00 p.m. CT</li>
   <li><a href="/change-direct-deposit-and-contact-information/">Or change your direct deposit and contact information online</a></li>
   </ul>
   
-<h4>For home loan benefits</h4>
+<h3>For home loan benefits</h3>
 Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. We can connect you to the nearest VA regional office with loan guaranty staff to update your information.
 
-<h4>For Veterans' Mortgage Life Insurance (VMLI)</h4>
+<h3>For Veterans' Mortgage Life Insurance (VMLI)</h3>
 <ul>
   <li>Call our VA Insurance Center (VAIC) at <a href="tel:+18006698477">1-800-669-8477</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.</li>
   <li>Or send a signed and dated address change request to us at: <br>
@@ -116,7 +104,7 @@ Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday thro
   </li>  
 </ul>
 
-<h4>For CHAMPVA</h4>
+<h3>For CHAMPVA</h3>
 
 <ul>
   <li>Call our customer call center at <a href="tel:+18007338387">1-800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your past address information available. Our customer service representatives will need to verify this information before updating your file.</li>
@@ -131,7 +119,7 @@ Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday thro
   </li>
   </ul>    
 
-<h4>For the Foreign Medical Program</h4>
+<h3>For the Foreign Medical Program</h3>
 
 <ul>
   <li>Call our Foreign Medical Program office at <a href="tel:+18773458158">1-877-345-8158</a>.</li>
