@@ -4,6 +4,7 @@ template: level2-index
 title: Careers and Employment | Veterans Affairs
 heading: Careers and Employment
 display_title: Careers and Employment
+keywords: va careers
 description: Get help finding job training for a new career or starting or growing your own business. See how Department of Labor resources can help you with your resume, career advice, and access to companies who want to hire Veterans and military spouses. 
 concurrence: complete
 lastupdate:
