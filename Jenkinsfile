@@ -68,7 +68,7 @@ node('vetsgov-general-purpose') {
 
       if (homepageChanged) {
         def numberOnly = true
-        def prNumber = getPullRequest(true)
+        def prNumber = getPullRequest(numberOnly)
         def message = """\
 @channel \
 Pull request opened containing changes to the VA.gov homepage! \
@@ -77,7 +77,7 @@ Please review, merge, and if necessary, deploy this change as soon as possible. 
 https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
 """
 
-        slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
+        // slackSend(message: message, channel: 'oncall', color: '#DDDD00', failOnError: false)
       }
     }
   }
@@ -91,13 +91,16 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
 
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
+    def drupalAddress = "http://internal-prod-vagovcms-3000-1370756925.us-gov-west-1.elb.amazonaws.com"
 
-    dockerImage.inside(dockerArgs) {
-      def installDependencies = "cd /application && yarn install --production=false"
-      def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --entry static-pages 2>&1 | tee output.log"
+    withCredentials([usernamePassword(credentialsId:  "drupal-prod", usernameVariable: 'DRUPAL_USERNAME', passwordVariable: 'DRUPAL_PASSWORD')]) {
+      dockerImage.inside(dockerArgs) {
+        def installDependencies = "cd /application && yarn install --production=false"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --drupal-address=${drupalAddress} --entry static-pages 2>&1 | tee output.log"
 
-      sh installDependencies
-      sh build
+        sh installDependencies
+        sh build
+      }
     }
 
     def output = sh(returnStdout: true, script: "cat output.log").trim()
