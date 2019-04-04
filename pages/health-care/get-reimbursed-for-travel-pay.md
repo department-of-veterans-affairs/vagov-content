@@ -93,7 +93,7 @@ We’ll review your form, and when we approve it, we’ll send you a reimburseme
 We have a special system to handle your ambulance claims. It’s called the fee-based claims 
 system, or FBCS. This system will help us handle these claims more quickly and get you your reimbursement faster.
 
-For more information on this FBCS process, please email us: <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>].
+For more information on this FBCS process, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
 
 ## What’s the mileage reimbursement?
 
@@ -104,3 +104,25 @@ Each trip is measured door to door.
 Your scheduled appointments qualify for round-trip mileage. Unscheduled visits may be 
 limited to return mileage only. We’ll reimburse you for travel to the closest VA facility to you, 
 unless we decide a different location is better for your needs.
+
+## Is there a deductible for the beneficiary travel benefit?
+
+Yes. The deductible is $3 one-way or $6 round-trip for each appointment. 
+The most you’ll pay in deductibles each month is $18. After you pay $18 in a month, 
+we’ll cover the entire cost of your travel for the rest of that month.
+
+## Can VA waive this deductible?
+
+Yes. Some Veterans can have their monthly travel deductible expense waived. 
+**You don’t need to pay this fee if you’re eligible for travel and are covered by any of the following 
+conditions. You’re:**
+
+-	Receiving a VA pension, or
+-	Traveling for a scheduled compensation and pension exam, **or**
+-	A non-service connected Veteran and your income last year doesn’t exceed the applicable VA pension rate, **or**
+-	A non-service connected Veteran and what you expect to earn this year doesn’t exceed the applicable VA pension rate, **or**
+-	A service connected Veteran and your income last year doesn’t exceed the applicable national means test income limit, **or**
+-	A service connected Veteran and what you expect to earn this year doesn’t exceed the applicable national means test 
+income limit 
+
+Learn more about [annual income limits] and [pension rates](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp)
