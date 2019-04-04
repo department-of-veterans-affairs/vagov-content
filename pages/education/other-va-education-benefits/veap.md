@@ -5,6 +5,7 @@ title: VEAP | Veterans Affairs
 heading: Veterans’ Educational Assistance Program (VEAP)
 display_title: VEAP
 description: The Veterans' Educational Assistance Program (VEAP) is the government's $2-to-$1 educational matching program for Veterans who opened a VEAP account and contributed at least $25 before April 1, 1987. Learn about how you can get money for tuition, school fees, and other training programs. 
+keywords: n/a
 concurrence: complete
 plainlanguage: 12-12-16 certified in compliance with the Plain Writing Act
 order: 2
