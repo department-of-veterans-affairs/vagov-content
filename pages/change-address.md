@@ -41,14 +41,15 @@ Find out how to change your address and other contact information in your VA.gov
 When you change your address and other contact information in your VA.gov profile, it automatically updates across these VA benefits and services:
 
 <ul>
+  <li>VA health care</li>
   <li>Disability compensation</li>
   <li>Pension benefits</li>
   <li>Claims and appeals</li>
-  <li>VA health care</li>
+  <li>Vocational Rehabilitation and Employment (VR&E)</li>  
 </ul>
 
 <h3>If you're enrolled in VA health care</h3>
-We’ll send your prescriptions and any letters from your VA medical center to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you about appointments and lab and test results.
+We’ll send your prescriptions and any letters, lab and test results, and appointment reminders from your VA medical center to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you.
 
 </div>
 </div>
