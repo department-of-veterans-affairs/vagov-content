@@ -4,6 +4,7 @@ title: Entrepreneurship Training | Veterans Affairs
 heading: Entrepreneurship Training
 display_title: Entrepreneurship Training
 description: Veteran entrepreneurs can get training and coaching through the Small Business Administration. Contact your local VA Small Business Liason and find out if you qualify under a GI Bill program or other educational assistance program. 
+keywords: n/a
 order: 10
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 template: detail-page
