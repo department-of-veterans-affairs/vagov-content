@@ -4,12 +4,6 @@ template: level2-index
 title: Change Your VA Direct Deposit and Contact Information
 display_title: Change Direct Deposit and Contact Info
 lastupdate:
-relatedlinks: 
-  - heading: How to change other information related to your VA benefits
-    links:
-    - url: "/change-address/"
-      title: Change your address with VA
-      description: Find out how to change your address with VA or update other contact information in your VA.gov profile.
       
 ---
 
@@ -104,6 +98,10 @@ Muskogee OK 74401-7004<br>
 Call us at <a href="tel:+18008271000">1-800-827-1000</a> (TTY: <a href="tel:+18008294833">1-800-829-4833</a>).
 
 We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
+
+<h3>For disability compensation and pension benefits</h3> <br>
+You can also sign in to VA.gov and change your address or other contact information in your VA.gov profile. This will automatically update your information across disability compensation, pension benefits, claims and appeals, and VA health care. <br>
+[Find out how to change your address on file with VA](/change-address/)
 
 </div>
 </div>
