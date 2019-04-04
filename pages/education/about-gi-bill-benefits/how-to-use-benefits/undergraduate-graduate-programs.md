@@ -5,6 +5,7 @@ title: Undergraduate and Graduate Degrees | Veterans Affairs
 heading: Undergraduate and Graduate Degrees
 display_title: Undergraduate and Graduate Degrees
 description: Find out if you can use GI Bill benefits for college as a Veteran, service member, or qualified dependent. Learn about payment rates for undergraduate and graduate degree courses at institutions of higher learning.
+keywords: gi bill college, veteran college
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 1
