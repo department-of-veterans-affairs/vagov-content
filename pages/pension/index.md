@@ -119,7 +119,7 @@ hublinks:
       external: false
     - url: "/change-address/"
       label: Change Your Address on File With VA
-      description: Find out how to change your address and other contact information in your VA.gov profile. This will automatically update your information across several VA benefits and services.
+      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
       external: false
     - url: "/change-direct-deposit-and-contact-information/"
       label: Change Your VA Direct Deposit and Contact Information
