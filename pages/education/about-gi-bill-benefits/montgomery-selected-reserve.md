@@ -5,6 +5,7 @@ title: Montgomery GI Bill Selected Reserve | Veterans Affairs
 heading: Montgomery GI Bill Selected Reserve (MGIB-SR)
 display_title: Montgomery GI Bill Selected Reserve
 description: Learn about Montgomery GI Bill Selected Reserve benefits (MGIB-SR) available for education and training. Servicemembers may be able to get up to 36 months of benefits as part of the MGIB-SR program. 
+keywords: montgomery gi bill, montgomery gi bill reserve, selected reserve, mgib-sr, mgib sr
 concurrence: complete
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 order: 3
