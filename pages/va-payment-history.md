@@ -6,12 +6,6 @@ display_title: View VA Payment History
 collection: records
 order: 7
 spoke: Get Records
-relatedlinks: 
-  - heading: How to update information related to your VA benefits
-    links:
-    - url: "/change-address/"
-      title: Change your address online with VA
-      description: Find out how to change your address in your VA.gov profile to automatically update this information across several VA benefits and services.
       
 ---
 
@@ -87,11 +81,11 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>You can change your information in either of these ways:</b><br>
+<h4>You can change your information in either of these ways:</h4><br>
 <a href="/change-direct-deposit-and-contact-information/">Change your information online</a>, <b>or</b> <br>
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
 
-<strong>For disability compensation and pension benefits</strong>
+<h4>For disability compensation and pension benefits</h4> <br>
 You can also sign in to VA.gov and change your address in your VA.gov profile. This will automatically update your address across disability compensation, pension benefits, claims and appeals, and VA health care. <br>
 [Find out how to change your address on file with VA](/change-address/)
 
