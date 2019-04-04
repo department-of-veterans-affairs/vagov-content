@@ -74,25 +74,28 @@ We’ll send your prescriptions and any letters from your VA medical center to t
 
 <div itemscope itemtype="http://schema.org/Question">
   
-<h2 itemprop="name">Will this update my contact information across all VA benefits and services?</h2>
+<h2 itemprop="name">Will this update my address for all VA benefits and services?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 No, not at this time. Some of our departments keep your contact information in their own separate records. 
 
-If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. 
+If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information.
 
-<h3>For education benefits</h3>
+<h3>Contact these departments directly to update your information on file</h3>
+
+<h4>For education benefits</h4>
 
 <ul>
   <li>Call us at 1-888-GIBILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>). We're here Monday through Friday, 7:00 a.m. to 6:00 p.m. CT</li>
   <li><a href="/change-direct-deposit-and-contact-information/">Or change your direct deposit and contact information online</a></li>
   </ul>
   
-<h3>For home loan benefits</h3>
+<h4>For home loan benefits</h4>
 Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. We can connect you to the nearest VA regional office with loan guaranty staff to update your information.
 
-<h3>For Veterans' Mortgage Life Insurance (VMLI)</h3>
+<h4>For Veterans' Mortgage Life Insurance (VMLI)</h4>
+
 <ul>
   <li>Call our VA Insurance Center (VAIC) at <a href="tel:+18006698477">1-800-669-8477</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.</li>
   <li>Or send a signed and dated address change request to us at: <br>
@@ -104,7 +107,7 @@ Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday thro
   </li>  
 </ul>
 
-<h3>For CHAMPVA</h3>
+<h4>For CHAMPVA</h4>
 
 <ul>
   <li>Call our customer call center at <a href="tel:+18007338387">1-800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your past address information available. Our customer service representatives will need to verify this information before updating your file.</li>
