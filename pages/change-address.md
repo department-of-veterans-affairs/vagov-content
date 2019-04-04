@@ -1,11 +1,12 @@
 ---
 layout: page-breadcrumbs.html
-template: level2-index
+template: detail-page
 title: Change Your Address On File With VA | Veterans Affairs
 display_title: Change your address
 heading: Change your address on file with VA
 description: Find out how to change your address on file with VA, and update other contact information in your VA.gov profile. This will update your information across several VA benefits and services, including VA health care, disability compensation, and pension benefits.
 keywords: va address change, change of address va, va benefits change of address, va change of address form, va address change form, how do i change my address with the va, va benefits address change
+hidesidenav: true
 relatedlinks: 
   - heading: How to change other information related to your VA benefits
     links:
