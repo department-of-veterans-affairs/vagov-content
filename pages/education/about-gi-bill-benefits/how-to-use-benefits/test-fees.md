@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 title: National Testing Program | Veterans Affairs
 heading: National Testing Program
 description: Find out how you can get reimbursed for registration fees, admissions tests like the GRE, GMAT, or LSAT, and specialized tests if your job requires a license or certification. Learn what forms you'll need to submit when applying for this benefit. 
+keywords: n/a
 aliases:
  - /education/advanced-training-and-certifications/licensing-certification/
  - /education/advanced-training-and-certifications/national-testing-program/
