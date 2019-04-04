@@ -37,7 +37,7 @@ You may be able to get an SAH grant if you’re using the grant money to buy, bu
 **Please note:** We can only give this grant to 30 Veterans and Servicemembers each fiscal year (FY). We've already given out all of the available grants for FY 2019. If you qualify for but don't receive a grant in 2019 because the cap was reached, you may be able to use this benefit in FY 2020 or future years if the law continues to give us the authority to offer these grants and we don't go beyond the new FY cap.
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,645—through the SAH grant program.
-
+ 
 <br>
 
 ## Can I get a Special Housing Adaptation (SHA) grant—and how much funding does this grant offer?
@@ -55,7 +55,12 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 - Certain severe burns
 - Certain respiratory or breathing injuries
 
-For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program.
+For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program. <br>
+
+**Watch these videos to learn more about the SAH and SHA grant program** <br>
+[Specially adapted housing program for disabled Veterans](https://www.youtube.com/watch?v=gbJSFFS4z3o) <br>
+[VA's adaptive housing grants for disabled Veterans](https://www.youtube.com/watch?v=EN5QMihyuhY) <br>
+
 
 <div class="feature" markdown=“1”>
 
