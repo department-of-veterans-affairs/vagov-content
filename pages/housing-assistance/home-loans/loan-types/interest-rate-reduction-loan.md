@@ -57,7 +57,7 @@ You’ll want to keep closing costs in mind when refinancing a loan, as they can
 ### Find a lender.
 You’ll go through a private bank, mortgage company, or credit union—not directly through us—to get an IRRRL. Terms and fees may vary, so contact several lenders to check out your options.
 
-**Note:** Be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
+**Warning:** If you have a VA home loan be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
 [Learn more about the signs of misleading refinance offers](https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/)
 
 </li>
@@ -76,3 +76,18 @@ With an IRRRL, you can include these costs in the new loan so you don’t have t
 
 </li>
 </ol>
+
+## VA funding fee
+
+If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. The funding fee is a percentage of your loan amount. You can choose to finance the funding fee or pay it in cash when you pay your closing costs.  
+
+### Will I always have to pay a funding fee? 
+**You don’t have to pay a funding fee if one of these is true. You’re:**
+
+- Receiving VA compensation pay for a service-connected disability, **or**
+- Eligible to receive VA compensation pay for a service-connected disability, but you're receiving retirement or active-duty pay instead, **or**
+-	The surviving spouse of a Veteran who died while serving or from a service-connected disability
+
+**Note:** If you're a second-time VA home loan user and you don't make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher.
+
+[Learn more about loan fees](https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp?_ga=2.188374888.1397941549.1554128234-1582256389.1508352376)
