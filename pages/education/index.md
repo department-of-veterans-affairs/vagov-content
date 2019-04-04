@@ -34,11 +34,11 @@ crosslinks:
 social:
   - heading: Ask Questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://gibill.custhelp.va.gov/app/home
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-888-GIBILL-1 (888-442-4551)
           number: 1-888-GIBILL-1 (888-442-4551)
@@ -57,7 +57,7 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us
+  - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:

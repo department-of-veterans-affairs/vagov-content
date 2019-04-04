@@ -31,11 +31,11 @@ crosslinks:
 social:
   - heading: Ask Questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-800-827-1000
           number: 1-800-827-1000
@@ -60,7 +60,7 @@ social:
           label: "Real Estate Professionals"
         - url: https://www.benefits.va.gov/homeloans/servicers.asp
           label: "Servicers of VA Loans"
-  - heading: Connect with Us
+  - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
