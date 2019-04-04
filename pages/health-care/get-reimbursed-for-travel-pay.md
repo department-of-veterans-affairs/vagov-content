@@ -87,3 +87,20 @@ Be sure to submit your form within 30 days of your health care appointment.
 <li class="process-step list-five">
   
 We’ll review your form, and when we approve it, we’ll send you a reimbursement for your expenses.  
+
+## How do I file ambulance claims? 
+
+We have a special system to handle your ambulance claims. It’s called the fee-based claims 
+system, or FBCS. This system will help us handle these claims more quickly and get you your reimbursement faster.
+
+For more information on this FBCS process, please email us: [VHABeneficiaryTravelQuestions@va.gov](VHABeneficiaryTravelQuestions@va.gov).
+
+## What’s the mileage reimbursement?
+
+The current mileage reimbursement is 41.5 cents ($0.415) per mile. We calculate 
+your mileage using the fastest and shortest route according to [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD). 
+Each trip is measured door to door. 
+
+Your scheduled appointments qualify for round-trip mileage. Unscheduled visits may be 
+limited to return mileage only. We’ll reimburse you for travel to the closest VA facility to you, 
+unless we decide a different location is better for your needs.
