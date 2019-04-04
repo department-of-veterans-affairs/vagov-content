@@ -5,6 +5,7 @@ title: After You Apply | Veterans Affairs
 heading: After You Apply for Education Benefits
 display_title: After You Apply
 description: Learn what to expect after you apply for your Certificate of Eligibility for VA education benefits. Review career and education opportunities that can help you make the most of your transition from the military. 
+keywords: certificate of eligibility gi bill, va certificate of eligibility education
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
 spoke: Get Benefits
