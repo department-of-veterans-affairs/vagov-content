@@ -110,8 +110,7 @@ Call us at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday throug
 
 <ul>
   <li>Call our customer call center at <a href="tel:+18007338387">800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your last address available. Our customer service representatives will need to verify your this before updating your file.</li>
-  <li>Email our customer call center through the secure Inquiry Routing & Information System (IRIS). <br>
-    <a href="https://iris.custhelp.va.gov/app/ask">Ask a question online through IRIS</a></li>
+  <li>Email our customer call center through the secure <a href="https://iris.custhelp.va.gov/app/ask">Inquiry Routing & Information System (IRIS)</a>.</li>
   <li>Send a signed and dated address change request to us at:<br>
     <p class="va-address-block">
       CHAMPVA<br>
