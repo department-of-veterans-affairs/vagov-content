@@ -5,6 +5,7 @@ title: Interest Rate Reduction Refinance Loan | Veterans Affairs
 heading: Interest Rate Reduction Refinance Loan (IRRRL)
 display_title: Interest Rate Reduction Refinance Loan
 description: Find out how you can apply for an Interest Rate Reduction Refinance Loan to refinance an existing VA-backed loan and reduce monthly mortgage payments. 
+keywords: n/a
 concurrence:
 order: 4
 aliases:
