@@ -34,5 +34,6 @@ VA direct and VA-backed home loans help Veterans like you build, buy, improve, o
 
 </div>
 
-**Warning:** If you have a VA home loan, you may be contacted by a company offering to refinance your mortgage. These offers might sound official and too good to be true. Before responding, learn more about how to tell if a refinance offer is too good to be true. <br> 
-[Learn more information](https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/).
+**Warning:** If you have a VA home loan be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
+[Learn more about the signs of misleading refinance offers](https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/)
+
