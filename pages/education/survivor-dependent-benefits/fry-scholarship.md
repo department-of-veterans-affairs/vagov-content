@@ -5,6 +5,7 @@ title: Fry Scholarship | Veterans Affairs
 heading: Fry Scholarship
 display_title: Fry Scholarship
 description: Learn more about benefits available to spouses and children of active-duty Servicemembers who died in the line of duty on or after September 11th 2001. If you're a qualified dependent, The Marine Gunnery Sergeant John David Fry Scholarship may be able to help pay for tuition, books, and housing. 
+keywords: n/a
 concurrence: incomplete
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act
 order: 1
