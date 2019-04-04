@@ -4,6 +4,7 @@ title: How to Apply for VR&E | Veterans Affairs
 heading: How to Apply for VA Vocational Rehab and Employment
 display_title: How to Apply
 description: Find out how to apply for VA Vocational Rehabilitation and Employment benefits (sometimes called VA Voc Rehab or Chapter 31 benefits) whether you have a disability rating or not. See the step by step process and learn what to expect after you apply. 
+keywords: va voc rehab, voc rehab, chapter 31 benefits, how to apply for va vocational rehabilitation
 order: 3
 template: detail-page
 relatedlinks:
