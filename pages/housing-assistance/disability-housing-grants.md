@@ -58,6 +58,7 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program. <br>
 
 **Watch these videos to learn more about the SAH and SHA grant program** <br>
+[Eligibility requirements for VA's adaptive housing grant program](https://www.youtube.com/watch?v=AKZjGmvJJ6c) <br>
 [Specially adapted housing program for disabled Veterans](https://www.youtube.com/watch?v=gbJSFFS4z3o) <br>
 [VA's adaptive housing grants for disabled Veterans](https://www.youtube.com/watch?v=EN5QMihyuhY) <br>
 
