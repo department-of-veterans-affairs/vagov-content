@@ -5,6 +5,7 @@ title: $600 Buy-Up Program | Veterans Affairs
 heading: $600 Buy-Up Program
 display_title: $600 Buy-Up Program
 description: Find out how you can get more money for monthly GI Bill payments through the $600 Montgomery GI Bill Buy-Up Program. 
+keywords: gi bill buy up program, dd form 2366-1, dd form 2366, dd form 2366 1
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 11
