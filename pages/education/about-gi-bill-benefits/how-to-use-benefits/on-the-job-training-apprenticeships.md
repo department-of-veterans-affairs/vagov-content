@@ -5,6 +5,7 @@ title: On-the-Job Training and Apprenticeships | Veterans Affairs
 heading: On-the-Job Training and Apprenticeships
 display_title: On-the-Job Training
 description: Learn how GI Bill training programs can help you work in an industry like plumbing, firefighting, or hotel management that requires on-the-job training. If your program is approved by VA and you qualify for Post-9/11 GI Bill benefits, you could get money for books, supplies, and housing. 
+keywords: gi bill training programs
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 13
