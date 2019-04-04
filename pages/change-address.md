@@ -28,7 +28,7 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your address and other contact information on file with VA. 
+Find out how to change your address and other contact information in your VA.gov profile to automatically update this information across several VA benefits and services. 
 
 </div>
 
@@ -38,17 +38,17 @@ Find out how to change your address and other contact information on file with V
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-When you change your address in your VA.gov profile, it automatically updates across these VA benefits and services:
+When you change your address and other contact information in your VA.gov profile, it automatically updates across these VA benefits and services:
 
 <ul>
   <li>Disability compensation</li>
   <li>Pension benefits</li>
   <li>Claims and appeals</li>
-  <li>VA health care (including prescription refills)</li>
+  <li>VA health care</li>
 </ul>
 
 <h3>If you're enrolled in VA health care</h3>
-We’ll send your prescriptions to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you.
+We’ll send your prescriptions and any letters from your VA medical center to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you about appointments and lab and test results.
 
 </div>
 </div>
@@ -64,7 +64,7 @@ We’ll send your prescriptions to the mailing address listed in your VA.gov pro
   <li class="process-step list-one"><strong><a href="/sign-in-faq/">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> You can also find your profile by clicking on the icon with your name at the top right of the homepage.</li>
-  <li class="process-step list-four"><strong>Edit your address</strong> <br> Click "Edit" next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click "Update" to save your changes. <br> You can also add or edit other contact, personal, and military service information.
+  <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. <br> You can also add or edit other contact, personal, and military service information.
 </ol>
 
 </ul>
@@ -115,14 +115,6 @@ Call us at <a href="tel:+18778273702">1-877-827-3702</a>. We're here Monday thro
       Philadelphia, PA 19101 <br>
   </li>  
 </ul>
-
-<h4>For other VA life insurance programs</h4>
-
-<ul>
-  <li><a href="/life-insurance/manage-your-policy/">Access your policy online</a></li>
-  <li>Or call us. <strong>If you have Servicemembers' Group Life Insurance (SGLI) or Veterans' Group Life Insurance (VGLI),</strong> call 1-800-419-1473. <strong>For all other VA life insurance programs,</strong> our VA Insurance Center (VAIC) at <a href="tel:+18006698477">1-800-669-8477</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. 
-    
-
 
 <h4>For CHAMPVA</h4>
 
