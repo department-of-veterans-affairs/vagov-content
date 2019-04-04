@@ -27,12 +27,12 @@ You may be able to get a cash-out refinance loan if you meet all of the requirem
 -	Meet VA’s—and your lender’s—standards for credit, income, and any other requirements, **and**
 -	Will live in the home you’re refinancing with the loan
 
-[See if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/).
+[See if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/)
 </div>
 
 <br>
 
-### Why might I want to get a cash-out refinance loan?
+## Why might I want to get a cash-out refinance loan?
 
 **A cash-out refinance loan may help you to:**
 
@@ -40,21 +40,21 @@ You may be able to get a cash-out refinance loan if you meet all of the requirem
 -	Refinance a non-VA loan into a VA-backed loan
 
 On a no-down-payment loan, you can borrow up to the FannieMae/FreddieMac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[See current effective loan limits](https://www.benefits.va.gov/HOMELOANS/purchaseco_loan_limits.asp).
+[See current effective loan limits](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx)
 
 You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Make sure you understand how your new loan amount relates to the value of your home. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into.
 
 The Consumer Financial Protection Bureau’s home loan toolkit can help. <br>
-[Download the home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf).
+[Download the home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
 
 <br>
 
-### How can I get a cash-out refinance loan?
+## How can I get a cash-out refinance loan?
 
 <ol class="process">
 <li class="process-step list-one">
 
-#### Find a lender.
+### Find a lender.
 
 You’ll go through a private bank, mortgage company, or credit union—not directly through us—to get a cash-out refinance loan. Terms and fees may vary, so contact several lenders to check out your options.
 
@@ -65,17 +65,17 @@ You’ll go through a private bank, mortgage company, or credit union—not dire
 
 <li class="process-step list-two">
 
-#### Apply for your VA-backed home loan Certificate of Eligibility (COE).
+### Apply for your VA-backed home loan Certificate of Eligibility (COE).
 
 You’ll need to show your COE to your lender as proof that you qualify for the home loan benefit. <br />
-[Find out if you qualify for a COE](/housing-assistance/home-loans/eligibility/). <br />
-[Apply for your COE now](/housing-assistance/home-loans/how-to-apply/).
+[Find out if you qualify for a COE](/housing-assistance/home-loans/eligibility/) <br />
+[Apply for your COE now](/housing-assistance/home-loans/how-to-apply/)
 
 </li>
 
 <li class="process-step list-three">
 
-#### Give your lender any needed information.
+### Give your lender any needed information.
 
 **In addition to your COE, you’ll need to give your lender:**
 -	Copies of paycheck stubs for the most recent 30-day period
