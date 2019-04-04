@@ -86,7 +86,7 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
 
 <h4>For disability compensation and pension benefits</h4> <br>
-You can also sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will automatically update your information across disability compensation, pension benefits, claims and appeals, and VA health care. <br>
+You can also sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will automatically update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
 [Find out how to change your address on file with VA](/change-address/)
 
 </div>
