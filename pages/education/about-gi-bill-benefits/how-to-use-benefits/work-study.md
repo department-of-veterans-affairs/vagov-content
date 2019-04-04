@@ -14,14 +14,14 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how our VA work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program.
+Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I take part in the VA work-study program?
+### Can I take part in the Veterans work-study program?
 
 You can take part in our work-study program if you meet all of the requirements listed below.
 
