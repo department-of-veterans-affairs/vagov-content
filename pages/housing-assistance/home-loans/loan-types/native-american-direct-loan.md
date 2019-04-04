@@ -72,7 +72,9 @@ This certification confirms that you qualify for the VA home loan benefit. <br /
 
 ## Will I have to pay any loan fees? 
 
-Yes. If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. Native American Veterans will pay a funding fee of 1.25% of the loan amount for a VA home loan. To refinance an earlier VA home loan, you'll pay .50% of the loan amount. You can choose to finance the funding fee or pay it when you pay your closing costs.  
+Yes. If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. Native American Veterans will pay a funding fee of 1.25% of the loan amount for a VA home loan. To refinance an earlier VA home loan, Native American Veterans will pay .50% of the loan amount. 
+
+You can choose to finance the funding fee or pay it when you pay your closing costs.  
 
 ### Will I always have to pay a funding fee? 
 **You don’t have to pay a funding fee if one of these is true. You’re:**
