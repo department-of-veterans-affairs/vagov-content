@@ -5,6 +5,7 @@ title: Dependents Educational Assistance | Veterans Affairs
 heading: Survivors’ and Dependents’ Educational Assistance Program
 display_title: Dependents Education Assistance (DEA)
 description: Find out if you're eligible for the Survivors' and Dependents' Educational Assistance Program for children and spouses of Veterans who have died or been disabled. View current payment rates for college degree programs, career-training certificate course, apprenticeships, and on-the-job training. 
+keywords: dependents educational assistance, dependents educational assistance program
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
