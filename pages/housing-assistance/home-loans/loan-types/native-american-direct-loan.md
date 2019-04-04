@@ -5,6 +5,7 @@ title: Native American Direct Loan (NADL) | Veterans Affairs
 heading: Native American Direct Loan (NADL)
 display_title: Native American Direct Loan
 description: Learn if you're eligible for a Native American Direct Loan to help buy, build, or improve a home on Federal Trust Land. You may also be able to lower your interest rate and refinance a loan you already have. 
+keywords: n/a
 concurrence:
 children: housingNativeAmericanDLoan
 order: 3
