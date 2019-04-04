@@ -28,7 +28,7 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your address and other contact information in your VA.gov profile. This will automatically update your information across several VA benefits and services. 
+Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services. 
 
 </div>
 
@@ -38,7 +38,7 @@ Find out how to change your address and other contact information in your VA.gov
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
-When you change the address and other contact information in your VA.gov profile, it updates across these VA benefits and services:
+When you change the address and other contact information in your VA.gov profile, it updates across all of these VA benefits and services:
 
 <ul>
   <li>VA health care</li>
@@ -48,7 +48,7 @@ When you change the address and other contact information in your VA.gov profile
   <li>Vocational Rehabilitation and Employment (VR&E)</li>  
 </ul>
 
-<h3>Will VA use my updated information for health care services and communication?</h3>
+<h3>Will VA use my profile information to communicate with me about prescriptions, appointments, and other health care services?</h3>
 Yes. We’ll send your prescriptions and any letters, lab and test results, and appointment reminders from your VA medical center to the mailing address listed in your VA.gov profile. Your health care team may also use the contact information in your profile to communicate with you.
 
 </div>
@@ -62,7 +62,7 @@ Yes. We’ll send your prescriptions and any letters, lab and test results, and 
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one"><strong><a href="/sign-in-faq/">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
+  <li class="process-step list-one"><strong><a href="https://api.id.me/en/session/new">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> You can also find your profile by clicking on the icon with your name in the top right corner of the homepage.</li>
   <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. You can also add or edit other contact, personal, and military service information.
