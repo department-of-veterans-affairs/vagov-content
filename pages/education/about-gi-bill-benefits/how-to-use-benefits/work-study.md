@@ -5,6 +5,7 @@ title: Work Study | Veterans Affairs
 heading: Work Study
 display_title: Work Study
 description: Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program. You'll earn an hourly minimum wage for working at a nearby VA facility or in a VA-related role at your school. 
+keywords: veteran work study
 concurrence: incomplete
 order: 11
 aliases:
