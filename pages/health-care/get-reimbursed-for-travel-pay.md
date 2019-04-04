@@ -93,7 +93,7 @@ We’ll review your form, and when we approve it, we’ll send you a reimburseme
 We have a special system to handle your ambulance claims. It’s called the fee-based claims 
 system, or FBCS. This system will help us handle these claims more quickly and get you your reimbursement faster.
 
-For more information on this FBCS process, please email us: [VHABeneficiaryTravelQuestions@va.gov](VHABeneficiaryTravelQuestions@va.gov).
+For more information on this FBCS process, please email us: <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>].
 
 ## What’s the mileage reimbursement?
 
