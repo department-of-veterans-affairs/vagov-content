@@ -12,33 +12,32 @@ relatedlinks:
   - heading: More information about disability claims
     links:
     - url: /disability/how-to-file-claim/
-     title: How to apply for disability benefits
-     description: Apply online now, or find out how to file a claim in person, by mail, or with the help of a trained
-     professional.
+      title: How to apply for disability benefits
+      description: Apply online now, or find out how to file a claim in person, by mail, or with the help of a trained
+professional.
     - url: /disability/get-help-filing-claim/
-     title: Get help filing your claim
-     description: Learn how an accredited representative with a Veterans Service Organization can help 
-     you file a disability claim.
+      title: Get help filing your claim
+      description: Learn how an accredited representative with a Veterans Service Organization can help 
+you file a disability claim.
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
-     title: What to expect after you get a disability rating
-     description: If we’ve confirmed your disability rating, you may be able to get disability compensation 
-     or other benefits like training. Find out what benefits you can get.
+      title: What to expect after you get a disability rating
+      description: If we’ve confirmed your disability rating, you may be able to get disability compensation 
+or other benefits like training. Find out what benefits you can get.
     - url: /disability/about-disability-ratings/effective-date
-     title: Disability compensation effective dates
-     description: When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to 
-     that claim. The effective date is the day you can start getting your disability benefits. 
-     Learn more about when you can start getting benefits.
+      title: Disability compensation effective dates
+      description: When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to 
+that claim. The effective date is the day you can start getting your disability benefits. 
+Learn more about when you can start getting benefits.
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-     title: Fully developed claims
-     description: File a fully developed claim and get a faster decision on your disability benefits claim.
+      title: Fully developed claims
+      description: File a fully developed claim and get a faster decision on your disability benefits claim.
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-     title: Pre-discharge claim
-     description: If you have a disability and you’re in pre-discharge status right now, you can 
-     file a pre-discharge disability claim 180 to 90 days before you leave the military.
+      title: Pre-discharge claim
+      description: If you have a disability and you’re in pre-discharge status right now, you can 
+file a pre-discharge disability claim 180 to 90 days before you leave the military.
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-     title: Disabilities that appear within 1 year after discharge
-     description: You may be able to get disability benefits if you have an illness that started within a year 
-     after you were discharged from service. Learn how to apply.
+      title: Disabilities that appear within 1 year after discharge
+      description: You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service. Learn how to apply.
 ---
 
 <div class="va-introtext">
@@ -109,7 +108,7 @@ If you can’t find a DBQ for your condition, please call <a href="tel:+18008271
 ## How do DBQs help with VA's Fully Developed Claims (FDC) program?
 
 DBQs are valuable for FDC reviewing because they provide relevant medical information. We use this information 
-to determine your disability rating (a rating that measures how bad or sever a disability is). And once we 
+to determine your disability rating (a rating that measures how bad or severe a disability is). And once we 
 have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
 
 ## What are the steps to get and file a DBQ?
