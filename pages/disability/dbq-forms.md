@@ -46,13 +46,13 @@ typically can’t handle these, so we require that a VA provider perform these m
 -	Gulf War medical examination
 -	General medical examination for compensation purposes
 
-## Do I have to use DBQs to submit my claim?
+## Do I have to use DBQs to file my claim?
 
 No. But DBQs give us all the information we need about disability conditions. If your health
 care provider completes a DBQ instead of writing a long summary, it can speed up the claim decision. 
 But using the DBQs is not mandatory.
 
-## How do I find and submit a DBQ form?
+## How do I find and file a DBQ form?
 
 We have DBQs that cover more than 70 conditions. When you find the DBQ that’s related to your condition, simply print it out and take it with you to your health care provider appointment. Read the [full list of DBQ forms](https://www.benefits.va.gov/COMPENSATION/dbq_listbysymptom.asp).
 
@@ -72,7 +72,7 @@ You or your provider can also deliver the complete form in person to your VA reg
 
 ## What if I don’t see a DBQ for the condition I’m claiming?
 
-With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. 
+With few exceptions, the DBQs cover every condition for which a Veteran can get compensation. 
 If you can’t find a DBQ for your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
 
 ## How do DBQs help with VA's Fully Developed Claims (FDC) program?
@@ -81,7 +81,7 @@ DBQs are valuable for FDC reviewing because they provide relevant medical inform
 to determine your disability rating (a rating that measures how bad or sever a disability is). And once we 
 have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
 
-## What are the steps to get and submit a DBQ?
+## What are the steps to get and file a DBQ?
 
 Follow the steps below to apply for these benefits.
 
@@ -91,7 +91,7 @@ Follow the steps below to apply for these benefits.
 ##### Find the right DBQ form or forms for your claimed disability.
 
 -	Go to the [full list of disabilities covered](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp).
--	Search by either the DBQ Form Name or List by Symptoms, and select the related DBQ.
+-	Search by either the DBQ Form Name or List by Symptoms, and choose the related DBQ.
 -	Download the DBQ form to email it to your provider’s office, or print it out and take it to
 your appointment so your provider can fill it out by hand.
 
@@ -119,7 +119,7 @@ print it out to sign it. We can’t review any form without this information.
 
 <li class="process-step list-four">
   
-##### Submit the completed DBQ.
+##### File the completed DBQ.
 
 You or your health care provider can send the completed form to us. You or your provider can:
 
