@@ -136,7 +136,7 @@ hublinks:
         may have like disability compensation and pension.
       external: false
     - url: "/education/gi-bill/post-9-11/ch-33-benefit/"
-      label: Check your post-9/11 GI Bill benefits
+      label: Check your Post-9/11 GI Bill benefits
       description: See how much of your GI Bill benefits you have left to help pay for
         school or training.
       external: false
