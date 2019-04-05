@@ -12,7 +12,7 @@ order: 6
 
 <div class="va-introtext">
   
-If you’re enrolled in the VA health care system, you’ll get a Veteran Health Identification 
+If you’re signed up for the VA health care system, you’ll get a Veteran Health Identification 
 Card (VHIC). You’ll use it for identification and to check in for your health care appointments. 
 You may also use this card to get discounts offered to Veterans at many stores, businesses, 
 and restaurants. If you have a VHIC, you don’t need another type of photo ID card to prove you’re a Veteran.
@@ -21,7 +21,7 @@ and restaurants. If you have a VHIC, you don’t need another type of photo ID c
 
 ## How do I get this VA health ID card?
 
-Veterans must first be enrolled in the VA health care system to receive a VHIC. There are three ways to enroll:
+Veterans must first be signed up for the VA health care system to receive a VHIC. There are three ways to sign up:
 
 **By phone**
 
@@ -36,7 +36,7 @@ You can apply [online](https://www.va.gov/health-care/how-to-apply/).
 
 You can apply at your local VA medical center.
 
-After we verify your enrollment, we’ll take your picture at your local VA medical center. 
+After we verify that you are signed up, we’ll take your picture at your local VA medical center. 
 You’ll also need to provide one form of identification when you apply. After this step, 
 we’ll mail you your VHIC identification card.
 
@@ -57,13 +57,14 @@ your voter registration card.
 ## What do I do if I haven’t received my VHIC yet?
 
 Once you have your picture taken, you should receive your VHIC card in 10 days. 
-If you haven’t received it, you can call your local VA medical facility, or call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
+If you haven’t received it, you can call your local VA medical facility, or call 
+877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
 
 ## What do I do with my old Veterans Identification Card (VIC)?
 
-We want all enrolled Veterans to have the VHIC, which is more secure and protects 
-your personal information. If you have the old VIC, you should destroy it by cutting 
-it up or shredding it.
+We want all Veterans who are signed up for the VA health care system to have the VHIC, which 
+is more secure and protects your personal information. If you have the old VIC, 
+you should destroy it by cutting it up or shredding it.
 
 ## What are the advantages of using a VHIC?
 
