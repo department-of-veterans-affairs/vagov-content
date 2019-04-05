@@ -116,12 +116,12 @@ we’ll cover the entire cost of your travel for the rest of that month.
 Yes. Some Veterans can have their monthly travel deductible expense waived. 
 **You don’t need to pay this fee if you qualify for travel and are covered by any of these. You’re:**
 
--	Receiving a VA pension, or
+-	Getting a VA pension, or
 -	Traveling for a scheduled compensation and pension exam, **or**
--	A non-service connected Veteran and your income last year doesn’t exceed the applicable VA pension rate, **or**
--	A non-service connected Veteran and what you expect to earn this year doesn’t exceed the applicable VA pension rate, **or**
--	A service connected Veteran and your income last year doesn’t exceed the applicable national means test income limit, **or**
--	A service connected Veteran and what you expect to earn this year doesn’t exceed the applicable national means test 
+-	A non-service-connected Veteran and your income last year doesn’t exceed the applicable VA pension rate, **or**
+-	A non-service-connected Veteran and what you expect to earn this year doesn’t exceed the applicable VA pension rate, **or**
+-	A service-connected Veteran and your income last year doesn’t exceed the applicable national means test income limit, **or**
+-	A service-connected Veteran and what you expect to earn this year doesn’t exceed the applicable national means test 
 income limit 
 
 Learn more about [annual income limits](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=2684) and 
