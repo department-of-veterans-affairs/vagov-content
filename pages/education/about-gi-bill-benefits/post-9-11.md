@@ -65,7 +65,7 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 **You can receive up to 36 months of benefits, including:** 
   
 - **Tuition and fees.** If you qualify for the maximum benefit, we'll cover the full cost of public, in-state tuition and fees. We cap the rates for private and foreign schools, and update those rates each year.<br>
-[ View current rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp).
+[ View current rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
 - **Money for housing (if you're in school more than half time).** We'll base your monthly housing allowance on the cost of living where your school is located.
 - **Money for books and supplies.** You can receive up to $1,000 per school year.
 - **Money to help you move from a rural area to go to school.** You may qualify for this one-time payment of $500 if you live in a county with 6 or fewer people per square mile and you're either moving at least 500 miles to go to school or have no other option but to fly by plane to get to your school.
@@ -93,7 +93,7 @@ This depends on when you were discharged from active duty.
 **If your service ended before January 1, 2013,** your Post-9/11 GI Bill benefits will expire 15 years after your last separation date from active service. You must use all of your benefits by that time or you’ll lose whatever’s left.
 
 **If your service ended on or after January 1, 2013,** your benefits won't expire thanks to a new law called the Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act. Some letters you receive from us may not yet reflect this change. Thank you for your patience as we work to update our systems.<br>
-[Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).
+[Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp)
 
 </div>
 </div>
@@ -108,7 +108,7 @@ This depends on when you were discharged from active duty.
 <div itemprop="text">
 
 You’ll need to apply. <br>
-[Apply for education benefits](/education/how-to-apply/).
+[Apply for education benefits](/education/how-to-apply/)
 
 The benefit amount depends on which school you go to, how much active-duty service you’ve had since September 10, 2001, and how many credits or training hours you’re taking.
 
@@ -122,7 +122,7 @@ The benefit amount depends on which school you go to, how much active-duty servi
 <div itemprop="text">
   
 If you already applied for and were awarded Post-9/11 GI Bill education benefits, your GI Bill Statement of Benefits will show you how much of your benefits you’ve used and how much you have left to use. <br>
-[View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit). 
+[View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit) 
 
 </div>
 </div>
@@ -137,11 +137,11 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 **You may qualify for these additional benefits:**
 
 - If you need more money to cover higher private-school or out-of-state tuition, you can apply for the Yellow Ribbon Program. <br>
-[Learn about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
+[Learn about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - If you’re a qualified service member, you can transfer all 36 months or a portion of your Post-9/11 GI Bill benefits to a spouse or child. The Department of Defense approves a transfer of benefits. <br>
-[Learn about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).
+[Learn about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/)
 - If you're the child or surviving spouse of a service member who died in the line of duty after September 10, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). <br>
-[Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
+[Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 
 </div>
 </div>
@@ -191,10 +191,10 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 <div itemprop="text">
 
 - Compare benefits by school. <br>
-[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
-- [See the current payment rates for the Post-9/11 GI Bill](/education/benefit-rates/).
-- [Read the Post-9/11 GI Bill pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf).
-- [See Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/list).
+[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
+- [See the current payment rates for the Post-9/11 GI Bill](/education/benefit-rates/)
+- [Read the Post-9/11 GI Bill pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)
+- [See Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/list)
 
 </div>
 </div>
@@ -202,4 +202,4 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 </div>
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
-[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp).
+[Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp)
