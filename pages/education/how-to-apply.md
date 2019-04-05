@@ -52,14 +52,14 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 <h2 itemprop="name">How do I prepare before starting my application?</h2>
 <div itemprop="itemListElement">
 
-- [Find out if you're eligible for VA education benefits](/education/eligibility/).
+- [Find out if you're eligible for VA education benefits](/education/eligibility/)
 - Gather the documents and information listed below that you’ll need to apply for education benefits.
-- See what benefits you’ll get at the school you want to attend.<br/> [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
+- See what benefits you’ll get at the school you want to attend.<br/> [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
 
 **Note:** To apply for Vocational Rehabilitation and Employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to use a different application.
 
-[Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
-[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/).
+[Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
+[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/)
 
 <div markdown="0"><br></div>
 
@@ -84,18 +84,18 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 <div itemprop="itemListElement">
 
 #### By mail
-Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>), to request that we send the application to you. Fill it out and mail it to the VA regional claims processing office that’s in the same location as your school.<br/>
-[See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp).
+Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>, to request that we send the application to you. Fill it out and mail it to the VA regional claims processing office that’s in the same location as your school.<br/>
+[See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp)
 
 #### In person
 Go to a VA regional benefit office and have a VA employee help you.<br/>
-[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
 
 Work with your school’s certifying official. This person is usually in the Registrar or Financial Aid office at the school.
 
 #### With the help of a trained professional
 You can work with a trained professional called an accredited representative to get help applying for education benefits. <br/>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 </div>
 </div>
@@ -105,7 +105,7 @@ You can work with a trained professional called an accredited representative to 
 <h2 itemprop="name">What happens after I apply?</h2>
 <div itemprop="itemListElement">
 
-[Find out what happens after you apply](/education/after-you-apply/).
+[Find out what happens after you apply](/education/after-you-apply/)
 
 You can’t make changes to your application, but if you have questions about VA education benefits, please call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
 
