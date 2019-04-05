@@ -125,4 +125,5 @@ conditions. You’re:**
 -	A service connected Veteran and what you expect to earn this year doesn’t exceed the applicable national means test 
 income limit 
 
-Learn more about [annual income limits] and [pension rates](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp)
+Learn more about [annual income limits](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=2684) and 
+[pension rates](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
