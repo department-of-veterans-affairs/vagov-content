@@ -36,7 +36,7 @@ You can apply [online](https://www.va.gov/health-care/how-to-apply/).
 
 You can apply at your local VA medical center.
 
-After we verify that you are signed up, we’ll take your picture at your local VA medical center. 
+After we verify that you're signed up, we’ll take your picture at your local VA medical center. 
 You’ll also need to provide one form of identification when you apply. After this step, 
 we’ll mail you your VHIC identification card.
 
