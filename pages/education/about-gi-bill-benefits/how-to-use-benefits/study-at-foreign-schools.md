@@ -57,9 +57,9 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
 
 <ul>
   <li>Contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. <br>
-<a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a>.</li>
+<a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a></li>
   <li>If you still have questions about the school or program, you can submit a question to us using the GI Bill website. <br>
-    <a href="https://gibill.custhelp.com/app/utils/login_form/redirect/ask">Go to the GI Bill website</a>. <br>
+    <a href="https://gibill.custhelp.com/app/utils/login_form/redirect/ask">Go to the GI Bill website</a> <br>
     You can also send us a request for information about your program's approval status by mail. Send your request to:<br>
     <p class="va-address-block">
       Foreign School Approval Group (22-EDU)<br>
@@ -73,7 +73,7 @@ Use the GI Bill Comparison Tool to see what benefits you can get at the school y
 <li class="process-step list-two">
 
 ### Apply for benefits.<br>
-[Find out how to apply](/education/how-to-apply/).
+[Find out how to apply](/education/how-to-apply/)
 
 Turn in your application to us at least 90 days before you leave for your new school. We’ll decide what benefits you get based on your school’s location.<br>
 
@@ -116,9 +116,9 @@ If you don’t do this, it could affect when you get benefits.
 
 **To get more information or help with your application:**
 
-- [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550). 
+- [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550) 
 - **If you’re in the United States**, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. Or go to a VA regional benefit office near you. <br>
-[Find a VA regional benefit office](/find-locations/?facilityType=benefits).
+[Find a VA regional benefit office](/find-locations/?facilityType=benefits)
 - **If you have hearing loss**, call TTY: 711.
 - **If you’re outside the United States**, call <a href="tel:+0019187815678">+1-918-781-5678</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. This is not a toll-free number.
 
