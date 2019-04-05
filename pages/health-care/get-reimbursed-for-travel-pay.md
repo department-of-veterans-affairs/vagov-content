@@ -114,7 +114,7 @@ we’ll cover the entire cost of your travel for the rest of that month.
 ## Can VA waive this deductible?
 
 Yes. Some Veterans can have their monthly travel deductible expense waived. 
-**You don’t need to pay this fee if you qualify for travel and are covered by any of these. You’re:**
+**You don’t need to pay this fee if you're eligible for travel and are covered by any of these. You’re:**
 
 -	Getting a VA pension, or
 -	Traveling for a scheduled compensation and pension exam, **or**
