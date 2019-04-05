@@ -88,7 +88,7 @@ Then look for your SMC letter designation in the top row. Where your dependent s
 
 <strong>For example:</strong> If you were a Veteran with a dependent spouse and no dependent parents or children, and you had an SMC-M designation, you'd receive <strong>$4,368.59</strong> each month.
 
-<b>If you have a spouse who's receiving Aid and Attendance</b>
+<strong>If you have a spouse who receives Aid and Attendance</strong>
 
 First find your basic SMC rate. Then look at the "added amounts" table. Add the amount that matches your disability rating to your basic SMC rate to get your total monthly payment. 
 
@@ -361,7 +361,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 - Total blindness in the other eye with only the ability to perceive light, and have total deafness in one ear, <strong>or</strong>
 - Total blindness in the other eye with only the ability to perceive light, and have lost the use of one foot (rated as less than 50% disabling)
 
-<strong>Or you have blindness in both eyes:</b>
+<strong>Or you have blindness in both eyes:</strong>
 - That's considered total blindness, with only the ability to perceive light, <strong>or</strong> 
 - That requires you to have daily help with basic needs (like eating, dressing, and bathing)
 
@@ -454,7 +454,7 @@ Select an SMC letter designation below to learn more about the specific situatio
 
 <strong>Or you have blindness in both eyes that requires you to have daily help with basic needs (like dressing, eating, or bathing), and you have:</strong>
 - Deafness in both ears (rated as 30% or more disabling), <strong>or</strong>   
-- Had one hand amputated, <strong>or</b>  
+- Had one hand amputated, <strong>or</strong>  
 - Lost the use of one hand, <strong>or</strong>   
 - Had one foot amputated, <strong>or</strong>   
 - Lost the use of one foot (rated as 50% disabling) 
@@ -500,8 +500,8 @@ Select an SMC letter designation below to learn more about the specific situatio
 - Complete paralysis of both legs with the inability to control your bladder or bowels
 
 <strong>Or you have:</strong>
-- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 60% or more disabling, and have blindness in both eyes<strong>or 
-- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 40% or more disabling, and have blindness in both eyes with only the ability to perceive light, <strong>or 
+- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 60% or more disabling, and have blindness in both eyes<strong>or</strong> 
+- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 40% or more disabling, and have blindness in both eyes with only the ability to perceive light, <strong>or</strong> 
 - Total deafness in one ear as well as blindness in both eyes with only the ability to perceive light 
 
 <strong>Or you have total blindness without the ability to see light, and have:</strong>
@@ -521,4 +521,3 @@ Select an SMC letter designation below to learn more about the specific situatio
 </div>
 </li>
 </ul>
-
