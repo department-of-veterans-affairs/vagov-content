@@ -90,7 +90,7 @@ You may get up to 36 months of education benefits. We'll pay the benefits monthl
 - Your category (as defined above), **and**
 - Whether you qualify for a college fund or kicker, **and**
 - How much you've paid into the $600 Buy-Up program <br>
-[Learn more about the $600 Buy-Up Program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
+[Learn more about the $600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
 
 **Note:** You usually have 10 years to use your MGIB-AD benefits. This may change depending on your situation.
 
