@@ -31,7 +31,7 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech degree or non-degree program, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Find out if you're eligible for the MGIB-AD program](/education/about-gi-bill-benefits/montgomery-active-duty/).
+[Find out if you're eligible for the MGIB-AD program](/education/about-gi-bill-benefits/montgomery-active-duty/)
 
 ### If you're in the Reserves
 
@@ -43,7 +43,7 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech, non-degree program that lasts for 2 years or less, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
+[Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/)
 
 <br>
 
