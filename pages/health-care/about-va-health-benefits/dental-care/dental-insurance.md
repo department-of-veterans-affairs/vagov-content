@@ -23,8 +23,8 @@ or VADIP, provides dental insurance for qualified Veterans. [Read the VADIP fact
 
 ## Am I eligible for VADIP dental insurance for Veterans?
 
-If you’re enrolled in the VA health care system, you’re eligible. 
-If your beneficiaries and dependents are enrolled in the Civilian Health and Medical Program of the 
+If you’re signed up for the VA health care system, you’re eligible. 
+If your beneficiaries and dependents are signed up for the Civilian Health and Medical Program of the 
 VA (CHAMPVA), they’re also eligible.
 
 You and your dependents can use the program if you live in the United States, 
@@ -51,7 +51,7 @@ see the details of the two plans below.
 Enrollment is voluntary. And if you already qualify for Veterans Health Administration (VHA) 
 outpatient dental services and treatment, enrolling in VA dental insurance won’t affect those services.
 
-## How do I enroll in VA dental insurance?
+## How do I sign up for VA dental insurance?
 
 You can read the details of the Delta Dental and MetLife VADIP plans below. 
 Then choose the plan that’s right for you. 
@@ -64,10 +64,10 @@ View [the MetLife plan](https://www.metlife.com/vadip/).
 
 For questions, call <a href="tel:+18883101681">888-310-1681</a>.
 
-## I enrolled in the VADIP pilot program. Do I need to enroll again?
+## I signed up for the VADIP pilot program. Do I need to sign up again?
 
 Yes. The VADIP VA dental insurance pilot program ran from 2013 to 2017. 
-If you were covered during that time, you’ll need to re-enroll to be covered by the new version 
+If you were covered during that time, you’ll need to sign up again to be covered by the new version 
 of the program. Some of the plan options and fees may have changed under the new plan.
 
 
