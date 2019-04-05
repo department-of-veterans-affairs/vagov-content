@@ -20,7 +20,7 @@ relatedlinks:
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
       title: What to expect after you get a disability rating
       description: If we’ve confirmed your disability rating, you may be able to get disability compensation or other benefits like training. Find out what benefits you can get.
-    - url: /disability/about-disability-ratings/effective-date
+    - url: /disability/about-disability-ratings/effective-date/
       title: Disability compensation effective dates
       description: When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to that claim. The effective date is the day you can start getting your disability benefits. Learn more about when you can start getting benefits.
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
