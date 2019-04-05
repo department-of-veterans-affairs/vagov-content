@@ -42,7 +42,7 @@ we’ll mail you your VHIC identification card.
 
 ## What kind of ID do I need when I apply for a VHIC?
 
-You’ll need to bring one of the following types of identification:
+You’ll need to bring one of these types of identification:
 
 - A current primary identification card
 - A state-issued driver’s license
