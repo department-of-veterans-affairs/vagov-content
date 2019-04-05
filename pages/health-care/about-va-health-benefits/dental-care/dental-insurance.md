@@ -48,8 +48,8 @@ Under some circumstances, you may be eligible for free dental care. [Learn more 
 You pay the entire insurance premium, as well as any copays. For specific costs, 
 see the details of the two plans below. 
 
-Enrollment is voluntary. And if you already qualify for Veterans Health Administration (VHA) 
-outpatient dental services and treatment, enrolling in VA dental insurance won’t affect those services.
+Signing up is voluntary. And if you already qualify for Veterans Health Administration (VHA) 
+outpatient dental services and treatment, signing up for VA dental insurance won’t affect those services.
 
 ## How do I sign up for VA dental insurance?
 
