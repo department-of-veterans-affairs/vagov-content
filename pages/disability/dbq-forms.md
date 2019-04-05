@@ -20,7 +20,7 @@ to decide your disability compensation.
 
 ## What are Disability Benefits Questionnaires (DBQs) and why might I need them?
 
-If you are disabled as a result of your military service, you are entitled to disability compensation pay. 
+If you're disabled as a result of your military service, you're entitled to disability compensation pay. 
 The first step in determining your monthly disability compensation is to have a health care provider fill out 
 one or more of our disability questionnaires. Then they or you submit the forms to us. See the [full list of condition-related questionnaires](https://www.benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp).
 
@@ -39,7 +39,7 @@ No. You’ll be responsible for paying for that private appointment.
 typically can’t handle these, so we require that a VA provider perform these medical examinations:**
 
 -	Initial examination for posttraumatic stress disorder (PTSD)
--	Hearing loss and tinnitus
+-	Hearing loss and tinnitus (ringing in the ears)
 -	Residuals of traumatic brain injury
 -	Cold injury residuals
 -	Prisoner of War examination protocol
@@ -73,7 +73,7 @@ You or your provider can also deliver the complete form in person to your VA reg
 ## What if I don’t see a DBQ for the condition I’m claiming?
 
 With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. 
-If you can’t find a DBQ for your condition, please call 800-827-1000
+If you can’t find a DBQ for your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
 
 ## How do DBQs help with VA's Fully Developed Claims (FDC) program?
 
@@ -138,16 +138,19 @@ You can also deliver the complete form in person to your VA regional office.
 </li>
 </ol>
 
-It typically takes an average of 125.7 days for us to complete disability-related claims. Learn more about the [claims review process](https://www.va.gov/disability/after-you-file-claim/).
+It typically takes an average of 125.7 days for us to complete disability-related claims. 
+Learn more about the [claims review process](https://www.va.gov/disability/after-you-file-claim/).
 
 ## What do I do if I still have questions?
 
-If you have any questions about the DBQ program, please call 800-827-1000.
+If you have any questions about the DBQ program, please call <a href="tel:+18008271000">800-827-1000</a>.
   
-[How can I learn more about disability ratings](https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
+[How can I learn more about disability ratings]
+(https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
 
 [When do my disability ratings go into effect](https://www.va.gov/disability/about-disability-ratings/effective-date/)?
 
 Need help understanding your benefits or accessing services?
 
-Call our toll-free hotline at 877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 
+8:00 a.m. to 8:00 p.m. ET. 
