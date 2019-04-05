@@ -29,7 +29,7 @@ from health care appointments. If you qualify, we’ll reimburse you for payment
 ## How do I find out if I qualify for beneficiary travel reimbursement?
 
 There are two types of beneficiary travel reimbursement, and you may qualify for one or both. 
-**To qualify for general health care travel reimbursement, you need to meet at least one of the following criteria. You:**
+**To qualify for general health care travel reimbursement, you need to meet at least one of these criteria. You:**
 
 - Have a VA disability rating (a rating that measures how bad or severe a disability is) of 30% or more, **or**
 - Are traveling for treatment of a service-related condition, even if your VA disability rating is less than 30%, **or**
