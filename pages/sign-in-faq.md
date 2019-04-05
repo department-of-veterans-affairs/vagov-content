@@ -106,6 +106,7 @@ display_title: Frequently Asked Questions
                   </li>
           </ul>
                 <br/>
+        <span id="verify"></a>
                 <a name="verifying-your-identity"></a>
                 <h4>Verifying your identity on VA.gov</h4>
                 <ul class="usa-accordion">
