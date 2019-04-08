@@ -42,10 +42,10 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
   - WPB (Patrol Boat)
   - YFU (Harbor Utility Craft)
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 **Note:** Even if your ship or boat is not included in the Mobile Riverine Force, Inshore Fire Support Division 93, or the above designations, it may still appear in our alphabetized list of ships that had contact with Agent Orange.<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (pdf)</a>
 
 <br>
 
@@ -67,7 +67,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 ## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation.<br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 If you served on one of the ships or boats listed above—and you have one or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
 
@@ -81,4 +81,4 @@ You can get help from us in one of these ways:
 
 ## Get more information
 Want to find out if the ship you were on had contact with Agent Orange?<br>
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (pdf)</a>
