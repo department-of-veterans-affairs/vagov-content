@@ -60,7 +60,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 **You can file a claim in any of these ways:**
 - [File a claim online on VA.gov](/disability/how-to-file-claim/), **or**
 - [File a claim online on eBenefits](http://www.ebenefits.va.gov), **or**
-- [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
+- [Get help from an accredited representative, like a Veterans service officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
 
 **Note:** When you file, be sure to state that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results).
@@ -102,7 +102,7 @@ And you'll need to provide evidence that you paid health care expenses for your 
 
 **You may want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b)**<br>
 You'll need to ask your doctor to fill out and sign this form before submitting it to us. We don't require this form, but it can help give us important information to determine your eligibility for benefits.<br>
-[Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b).
+[Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b)
 
 
 ### File a claim
@@ -137,16 +137,16 @@ Two on-base water wells that were shut down in 1985 had these chemicals:
 
 ## Get more information
 
-[Download a fact sheet about Camp Lejeune-related benefits](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf).<br>
-[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/). <br>
-[Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/).
+[Download a fact sheet about Camp Lejeune-related benefits](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf)<br>
+[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/).<br>
+[Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/)
 
 Sign up to receive notifications from the Marine Corps with the latest updates on issues related to Camp Lejeune water contamination.<br>
-[Sign up for Marine Corps notifications](https://clnr.hqi.usmc.mil/clwater/index.html).
+[Sign up for Marine Corps notifications](https://clnr.hqi.usmc.mil/clwater/index.html)
 
 Read about the Agency for Toxic Substances and Disease Registry public health studies and other efforts to help Marines and their families affected by Camp Lejeune water contamination. <br>
-[Read more from the Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/sites/lejeune/).
+[Read more from the Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/sites/lejeune/)
 
 Read a report from the National Academies of Sciences, Engineering, and Medicine. This report offers a summary of research on the historical Camp Lejeune water contamination up to 2009. <br>
-[Read the National Academies Camp Lejeune report](http://dels.nas.edu/Report/Contaminated-Water-Supplies-Camp-Lejeune/12618).
+[Read the National Academies Camp Lejeune report](http://dels.nas.edu/Report/Contaminated-Water-Supplies-Camp-Lejeune/12618)
 
