@@ -102,7 +102,7 @@ If you can’t find a DBQ for your condition, please call <a href="tel:+18008271
 
 DBQs are valuable for FDC reviewing because they provide relevant medical information. We use this information 
 to determine your disability rating (a rating that measures how bad or severe a disability is). And once we 
-have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
+have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
 
 ## What are the steps to get and file a DBQ?
 
@@ -162,16 +162,16 @@ You can also deliver the complete form in person to your VA regional office.
 </ol>
 
 It typically takes an average of 125.7 days for us to complete disability-related claims. 
-Learn more about the [claims review process](https://www.va.gov/disability/after-you-file-claim/).
+Learn more about the [claims review process](/disability/after-you-file-claim/).
 
 ## What do I do if I still have questions?
 
 If you have any questions about the DBQ program, please call <a href="tel:+18008271000">800-827-1000</a>.
   
 [How can I learn more about disability ratings]
-(https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)?
+(/disability/about-disability-ratings/after-you-get-a-rating/)?
 
-[When do my disability ratings go into effect](https://www.va.gov/disability/about-disability-ratings/effective-date/)?
+[When do my disability ratings go into effect](/disability/about-disability-ratings/effective-date/)?
 
 Need help understanding your benefits or accessing services?
 
