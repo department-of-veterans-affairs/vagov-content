@@ -20,13 +20,13 @@ crosslinks:
       description: Find out how to apply for and manage your VA health care benefits.
     - url: /housing-assistance/disability-housing-grants/
       title: <b>Disability Housing Grants for Veterans</b>
-      description: Learn how to apply for a housing grant as a Veteran or Servicemember with a service-connected disability.
+      description: Learn how to apply for a housing grant as a Veteran or service member with a service-connected disability.
     - url:  /careers-employment/vocational-rehabilitation/
       title: <b>Vocational Rehabilitation and Employment</b>
       description: Find out if you qualify for help exploring employment options, any training you may need, and other voc rehab services.
     - url: /life-insurance/
       title: <b>Life Insurance</b>
-      description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
+      description: Explore your life insurance options and find out how to apply as a service member, Veteran, or family member.
 social:
   - heading: Ask Questions
     subsections:

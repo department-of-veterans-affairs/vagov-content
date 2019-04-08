@@ -47,10 +47,10 @@ If you’re a **Veteran**, you’ll need a copy of your discharge or separation 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Servicemember</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Service member</button>
 <div id="apply-coe-active-duty" class="usa-accordion-content">
 
-If you’re an **active-duty Servicemember**, you’ll need:
+If you’re an **active-duty service member**, you’ll need:
 
 * A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
   * Your full name

@@ -11,11 +11,11 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-We carry out memorial services at national cemeteries with dignity and respect. Find out what happens at a military funeral for a Veteran or Servicemember.
+We carry out memorial services at national cemeteries with dignity and respect. Find out what happens at a military funeral for a Veteran or service member.
 
 </div>
 
-## What happens during a military funeral for a Veteran or Servicemember?
+## What happens during a military funeral for a Veteran or service member?
 
 There may be a brief ceremony, including any readings or military honors, led by someone of the family's choice. This ceremony will take place at a special area called a committal shelter (not at the gravesite). A cemetery official will be there to help guide guests and family members.
 
@@ -25,7 +25,7 @@ The family may also choose to have military funeral honors performed during the 
 - The playing of “Taps”
 - A rifle detail
 - A color guard
-- Uniformed Servicemembers who present the burial flag
+- Uniformed service members who present the burial flag
 
 **Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
 [Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/).

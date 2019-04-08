@@ -137,7 +137,7 @@ Yes. The U.S. Small Business Administration (SBA) can provide you with resources
 [Learn about SBA’s Office of Veterans Business Development (OVBD)](https://www.sba.gov/business-guide/grow/veteran-owned-businesses-programs#section-header-0).<br>
 
 Find out about these training programs offered by the Institute for Veterans and Military Families at Syracuse University in partnership with SBA and other organizations:
-- [Boots to Business (for Servicemembers and their spouses)](https://ivmf.syracuse.edu/veteran-and-family-resources/starting-growing-a-business/boots-to-business/).
+- [Boots to Business (for service members and their spouses)](https://ivmf.syracuse.edu/veteran-and-family-resources/starting-growing-a-business/boots-to-business/).
 - [Entrepreneurship Bootcamp for Veterans with Disabilities (for post-9/11 Veterans with service-connected disabilities and their family caregivers)](http://ebv.vets.syr.edu/)
 - [Veteran Women Igniting the Spirit of Entrepreneurship (for women Veterans and female military spouses and partners)](https://ivmf.syracuse.edu/veteran-and-family-resources/starting-growing-a-business/v-wise/)<br>
 

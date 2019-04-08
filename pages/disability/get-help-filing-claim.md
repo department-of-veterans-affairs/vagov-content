@@ -31,7 +31,7 @@ spoke: More Resources
 
 If you need help filing a claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
 
-VSOs work on behalf of Veterans and Servicemembers—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
+VSOs work on behalf of Veterans and service members—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
 
 </div>
 
@@ -46,7 +46,7 @@ VSOs work on behalf of Veterans and Servicemembers—as well as their dependents
   - Pass a background check
   - Take continuing-education courses to make sure they’re providing the most up-to-date information
 
-Recognized organizations and individuals can legally represent a Veteran, Servicemember, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
+Recognized organizations and individuals can legally represent a Veteran, service member, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
 
 </div>
 </div>

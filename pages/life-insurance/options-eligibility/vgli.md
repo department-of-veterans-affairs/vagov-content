@@ -33,7 +33,7 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 
 **At least one of these must be true. You:**
 
-- Had part-time Servicemembers’ Group Life Insurance (SGLI) as a member of the National Guard or Reserves, and you suffered an    injury or disability (damage to your body or mind that makes it hard for you to do everyday tasks, including meaningful work) while on duty—including direct traveling to and from duty—that disqualified you for standard premium insurance rates, **or**
+- Had part-time service members’ Group Life Insurance (SGLI) as a member of the National Guard or Reserves, and you suffered an    injury or disability (damage to your body or mind that makes it hard for you to do everyday tasks, including meaningful work) while on duty—including direct traveling to and from duty—that disqualified you for standard premium insurance rates, **or**
 - Had SGLI while you were in the military and you’re within 1 year and 120 days of being released from an active-duty period of 31 or more days, **or**
 - Are within 1 year and 120 days of retiring or being released from the Ready Reserves or National Guard, **or**
 - Are within 1 year and 120 days of assignment to the Individual Ready Reserves (IRR) of a branch of service, or to the Inactive National Guard (ING). This includes members of the United States Public Health Service Inactive Reserve Corps (IRC), **or**
@@ -44,7 +44,7 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 #### Who’s covered?
 
 * Veterans
-* Former Servicemembers
+* Former service members
 
 </div>
 
@@ -64,7 +64,7 @@ You’ll need to apply for these benefits. When you apply, you won’t need to p
 
 **Apply in one of these ways:**
 
-- Apply through the Office of Servicemembers' Group Life Insurance (OSGLI), using the Prudential website. <br>
+- Apply through the Office of service members' Group Life Insurance (OSGLI), using the Prudential website. <br>
 [Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment).
 - [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management).
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance. <br>

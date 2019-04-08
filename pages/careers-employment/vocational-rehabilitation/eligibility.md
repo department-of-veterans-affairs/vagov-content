@@ -8,14 +8,14 @@ majorlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E Programs for Servicemembers and Veterans
+      title: VR&E Programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
       title: How to Apply for VR&E
-      description: Find out how to apply for VR&E benefits and services as a Servicemember or Veteran.
+      description: Find out how to apply for VR&E benefits and services as a service member or Veteran.
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
-      description: If you're the dependent family member of a Servicemember or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
+      description: If you're the dependent family member of a service member or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
 aliases:
   - /employment/vocational-rehab-and-employment/eligibility/
 ---
@@ -52,7 +52,7 @@ You may be eligible for VR&E benefits and services if you’re a Veteran, and yo
 
 ### If I'm still on active duty, can I get VR&amp;E benefits and services?
 
-You may be eligible for VR&amp;E benefits and services if you're a Servicemember and you meet at least one of the requirements listed below.
+You may be eligible for VR&amp;E benefits and services if you're a service member and you meet at least one of the requirements listed below.
 
 **At least one of these must be true. You:**
 
@@ -60,7 +60,7 @@ You may be eligible for VR&amp;E benefits and services if you're a Servicemember
 - Are participating in the Integrated Disability Evaluation System (IDES) process or awaiting discharge due to a medical condition resulting from a serious injury or illness that occurred in the line of duty. <br>
 [Learn more about accessing VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/).
 
-**Please note:** Severely injured active-duty Servicemembers can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
+**Please note:** Severely injured active-duty service members can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
 
 <br>
 
@@ -82,7 +82,7 @@ You can apply online right now.
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
 
 [Learn more about how to apply for VR&E](/careers-employment/vocational-rehabilitation/how-to-apply/). <br>
-**Note:** You can apply even if you're a Servicemember without a disability rating yet.
+**Note:** You can apply even if you're a service member without a disability rating yet.
 
 
 ### What kind of VR&E services can I get?
@@ -112,7 +112,7 @@ You'll need to officially choose the GI Bill subsistence rate. Your VRC can help
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
-- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
   [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
 

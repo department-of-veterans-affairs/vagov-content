@@ -41,7 +41,7 @@ You can get benefits if you qualify for the GI Bill and want to work in an indus
  - Children getting transferred benefits under the Post-9/11 GI Bill (also called chapter 33)
 
 **Exception:**
-You can’t get OJT if you’re an active-duty Servicemember or a spouse using a transferred benefit.
+You can’t get OJT if you’re an active-duty service member or a spouse using a transferred benefit.
 
 </div>
 </div>

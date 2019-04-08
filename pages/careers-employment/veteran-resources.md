@@ -10,11 +10,11 @@ relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E Programs for Servicemembers and Veterans
+      title: VR&E Programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
       title: How to Apply for VR&E
-      description: Find out how to apply for VR&amp;E benefits and services as a Servicemember or Veteran.
+      description: Find out how to apply for VR&amp;E benefits and services as a service member or Veteran.
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: Find out if you're eligible for certain counseling services, training, and education benefits.

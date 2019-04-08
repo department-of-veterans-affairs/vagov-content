@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Vocational Rehab Programs for Veterans and Servicemembers
+title: Vocational Rehab Programs for Veterans and service members
 display_title: Programs
 order: 1
 template: detail-page
@@ -17,7 +17,7 @@ majorlinks:
         description: If you want a job that matches your existing skills, find out if you can get employment counseling and job-search support.
       - url: /careers-employment/vocational-rehabilitation/programs/self-employment/
         title: Self-Employment Track
-        description: If you’re a Servicemember or Veteran with a service-connected disability, find out how we can help you start your own business.
+        description: If you’re a service member or Veteran with a service-connected disability, find out how we can help you start your own business.
       - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
         title: Employment through Long-Term Services Track
         description: Find out if you may be eligible for vocational training to help you develop new job skills.
@@ -30,6 +30,6 @@ aliases:
 
 <div class="va-introtext">
 
-If you're a Veteran or Servicemember with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
+If you're a Veteran or service member with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
 
 </div>

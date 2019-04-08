@@ -38,7 +38,7 @@ crosslinks:
       description: Apply for a Certificate of Eligibility for a VA direct or VA-backed home loan to build, buy, improve, or refinance a home.
     - url: /life-insurance/
       title: <b>Life Insurance</b>
-      description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
+      description: Explore your life insurance options and find out how to apply as a service member, Veteran, or family member.
 social:
   - heading: Ask Questions
     subsections:
@@ -97,7 +97,7 @@ hublinks:
     links:
     - url: "/careers-employment/vocational-rehabilitation/programs/"
       label: About Vocational Rehabilitation and Employment (Chapter 31) Programs
-      description: Explore support-and-services program tracks for Veterans and Servicemembers
+      description: Explore support-and-services program tracks for Veterans and service members
         with service-connected disabilities. Our programs can help you learn new skills,
         find a new job, start a new business, get educational counseling, or return
         to your former job.
@@ -125,7 +125,7 @@ hublinks:
     - url: "/careers-employment/dependent-benefits/"
       label: Support for Dependent Family Members
       description: See if you're eligible for educational and vocational counseling
-        as the dependent spouse or child of a Veteran or Servicemember.
+        as the dependent spouse or child of a Veteran or service member.
       external: false
   - id: manage
     title: Manage Your Career
@@ -192,7 +192,7 @@ hublinks:
     - url: "/careers-employment/family-resources/"
       label: Resources for Family Members
       description: Access valuable career resources for spouses and other family members
-        of Veterans and Servicemembers.
+        of Veterans and service members.
       external: false
 ---
 

@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Disability Housing Grants for Veterans
 display_title: Housing Grants
-description: Find out if you're eligible for disability housing grants for Veterans and Servicemembers with certain service-connected disabilities. We offer these grants to disabled Veterans and Servicemembers who want to buy or change a home (like adding a ramp) to meet their needs and live more independently. 
+description: Find out if you're eligible for disability housing grants for Veterans and service members with certain service-connected disabilities. We offer these grants to disabled Veterans and service members who want to buy or change a home (like adding a ramp) to meet their needs and live more independently. 
 children: housingAssistanceDisabilityHousingGrants
 lastupdate:
 order: 2
@@ -15,7 +15,7 @@ concurrence:
 
 <div class="va-introtext">
 
-We offer grants to Veterans and Servicemembers with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
+We offer grants to Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
 
 </div>
 
@@ -34,7 +34,7 @@ You may be able to get an SAH grant if you’re using the grant money to buy, bu
 - Certain severe burns
 - The loss or loss of use of one or both lower extremities (feet or legs) after September 11, 2001, that makes it so you can’t balance or walk without the help of braces, crutches, canes, or a wheelchair <br>
 
-**Please note:** We can only give this grant to 30 Veterans and Servicemembers each fiscal year (FY). We've already given out all of the available grants for FY 2019. If you qualify for but don't receive a grant in 2019 because the cap was reached, you may be able to use this benefit in FY 2020 or future years if the law continues to give us the authority to offer these grants and we don't go beyond the new FY cap.
+**Please note:** We can only give this grant to 30 Veterans and service members each fiscal year (FY). We've already given out all of the available grants for FY 2019. If you qualify for but don't receive a grant in 2019 because the cap was reached, you may be able to use this benefit in FY 2020 or future years if the law continues to give us the authority to offer these grants and we don't go beyond the new FY cap.
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,645—through the SAH grant program.
 

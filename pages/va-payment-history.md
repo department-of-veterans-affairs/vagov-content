@@ -38,7 +38,7 @@ Find out how to view your payment history for VA benefits.
 <li>Education benefits</li>
 </ul>
 
-<b>If you're the survivor of a Veteran or Servicemember, you'll see a history of your past payments for:</b>
+<b>If you're the survivor of a Veteran or service member, you'll see a history of your past payments for:</b>
 <ul>
 <li>Survivors pension benefits</li>
 <li>Survivors' and Dependents' Educational Assistance (Chapter 35 benefits)</li>

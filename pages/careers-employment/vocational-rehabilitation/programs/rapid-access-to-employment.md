@@ -12,7 +12,7 @@ relatedlinks:
       description: You may have the right to return to the civilian job you held before activating. Find out how we can help with this process.
     - url: /careers-employment/vocational-rehabilitation/programs/self-employment/
       title: Self-Employment Track
-      description: If you’re a Servicemember or Veteran with a service-connected disability, find out how we can help you start your own business.
+      description: If you’re a service member or Veteran with a service-connected disability, find out how we can help you start your own business.
     - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
       title: Employment through Long-Term Services Track
       description: Find out if you may be eligible for vocational training to help you develop new job skills.
@@ -35,7 +35,7 @@ Find out if you can get VR&amp;E benefits and services to help you use your exis
 
 ### Can I get employment counseling and job-search support through VR&amp;E?
 
-You may be eligible for these benefits if you’re a Servicemember or Veteran with a service-connected disability, and you meet all of the requirements listed below.
+You may be eligible for these benefits if you’re a service member or Veteran with a service-connected disability, and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 - Have an employment handicap or barrier, **and**
@@ -100,7 +100,7 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 
 [Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating).
 
-Some dependents of Servicemembers or Veterans with service-connected disabilities may also be eligible for education and career counseling. <br>
+Some dependents of service members or Veterans with service-connected disabilities may also be eligible for education and career counseling. <br>
 [Learn about services for family members](/careers-employment/dependent-benefits/).
 
 <br>
@@ -110,7 +110,7 @@ Some dependents of Servicemembers or Veterans with service-connected disabilitie
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
-- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
   [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
   

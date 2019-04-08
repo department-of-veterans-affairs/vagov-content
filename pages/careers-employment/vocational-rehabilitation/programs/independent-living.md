@@ -15,7 +15,7 @@ relatedlinks:
       description: If you want a job that matches your existing skills, find out if you can get employment counseling and job-search support.
     - url: /careers-employment/vocational-rehabilitation/programs/self-employment/
       title: Self-Employment Track
-      description: If you’re a Servicemember or Veteran with a service-connected disability, find out how we can help you start your own business.
+      description: If you’re a service member or Veteran with a service-connected disability, find out how we can help you start your own business.
     - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
       title: Employment through Long-Term Services Track
       description: Find out if you may be eligible for vocational training to help you develop new job skills.
@@ -35,7 +35,7 @@ Find out if you may be eligible for services to help you live as independently a
 
 ### Can I get independent living services through VR&amp;E?
 
-You may be eligible for independent living services if you’re a Servicemember or Veteran with a service-connected disability who is eligible for VR&E benefits, and you meet all of the requirements listed below.
+You may be eligible for independent living services if you’re a service member or Veteran with a service-connected disability who is eligible for VR&E benefits, and you meet all of the requirements listed below.
 
 **All of these must be true:**
 

@@ -12,7 +12,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re the child or spouse of a Veteran or Servicemember who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
+If you’re the child or spouse of a Veteran or service member who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
 
 </div>
 
@@ -20,9 +20,9 @@ If you’re the child or spouse of a Veteran or Servicemember who has died, is c
 
 ### Can I get education benefits through the DEA program?
 
-You may be able to get these benefits if both you and the Veteran or Servicemember meet certain eligibility requirements.
+You may be able to get these benefits if both you and the Veteran or service member meet certain eligibility requirements.
 
-**One of the descriptions below must be true. The Veteran or Servicemember:**
+**One of the descriptions below must be true. The Veteran or service member:**
 
 - Is permanently and totally disabled due to a service-connected disability, **or**
 - Died while on active duty or as a result of a service-connected disability, **or**
@@ -30,18 +30,18 @@ You may be able to get these benefits if both you and the Veteran or Servicememb
 - Was forcibly detained (held) or interned in the line of duty by a foreign entity, **or**
 - Is in the hospital or getting outpatient treatment for a service-connected permanent and total disability and is likely to be discharged for that disability (effective December 23, 2006)
 
-### If you're the child of a Veteran or Servicemember
+### If you're the child of a Veteran or service member
 
 - You can get benefits if you’re between the ages of 18 and 26, except in certain cases. You may be married or unmarried.
 - If you’re over 18 years old and using DEA, you can’t get Dependency and Indemnity Compensation (DIC) from us. <br>
 [Learn about DIC](https://www.benefits.va.gov/COMPENSATION/types-dependency_and_indemnity.asp)
 - If you join the military, you can’t use this benefit while on active duty. And if you want to use this benefit after you leave the service, you can't have a dishonorable discharge. Military service can extend your eligibility, but this increase doesn’t usually go past your 31st birthday.
 
-### If you're the spouse of a Veteran or Servicemember
+### If you're the spouse of a Veteran or service member
 
 - Your benefits start on the date we conclude that you qualify or on the date of the Veteran’s death, and last for 10 years.
 - If we rated the Veteran as permanently and totally disabled, with an effective date that’s 3 years after discharge, you’ll qualify for benefits for 20 years from that effective date. This new policy began on October 10, 2008. We won’t pay benefits for training you started before this date.
-- If the Servicemember died on active duty, your benefits end 20 years from the date of death.
+- If the service member died on active duty, your benefits end 20 years from the date of death.
 - You can get DIC payments from us and use DEA benefits.
 
 </div>
@@ -64,7 +64,7 @@ We’ll make a monthly payment to your school to help cover the cost of:
 You'll need to pick one or the other. Once you make this choice, you can’t switch to the other program. <br>
 [Learn about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 
-**Exception:** If you’re the child of a Servicemember who died in the line of duty before August 1, 2011, you can use both DEA and the Fry Scholarship and get up to 81 months of education and training. You'll need to use one program at a time.
+**Exception:** If you’re the child of a service member who died in the line of duty before August 1, 2011, you can use both DEA and the Fry Scholarship and get up to 81 months of education and training. You'll need to use one program at a time.
 
 ### Can I get more help if I have a disability that prevents me from working toward my goals?
 

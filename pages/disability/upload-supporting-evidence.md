@@ -87,7 +87,7 @@ If you’ve seen a non-VA health care provider for diagnosis or treatment, you�
 If you’re claiming a disability for an injury or illness that you don’t think we have in your military records, you’ll also want to upload statements that support your claim. These statements should be from people who know about, or who you’ve talked to about, your claimed medical condition and how and when it occurred.
 
 **You can ask for supporting statements from people like:**
-- Servicemembers who served with you
+- Service members who served with you
 - Your family and friends
 - Clergy members
 - Law enforcement officers

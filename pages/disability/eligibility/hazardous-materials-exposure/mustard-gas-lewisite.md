@@ -47,7 +47,7 @@ You may be able to get disability benefits if you have a disability believed to 
 - Naval Research Laboratory, Washington, DC
 - USS Eagle Boat 58
 
-**Some Servicemembers** who took part in testing in these places:
+**Some service members** who took part in testing in these places:
  - Finschhafen, New Guinea
  - Porton Down, England
  

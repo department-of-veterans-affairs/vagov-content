@@ -106,7 +106,7 @@ Yes. You may be able to use one or more of the care options listed below.
 
 ### Can I speak to a fellow Veteran who's been through this before?
 
-Yes. The **BeThere** peer assistance program, in partnership with Military OneSource, offers support to Servicemembers (including National Guard Soldiers and Reservists), their families, and transitioning Veterans up to 365 days after separation or retirement. Through this program, you can talk privately with peer coaches who are Veterans, Servicemembers, or military spouses.
+Yes. The **BeThere** peer assistance program, in partnership with Military OneSource, offers support to service members (including National Guard Soldiers and Reservists), their families, and transitioning Veterans up to 365 days after separation or retirement. Through this program, you can talk privately with peer coaches who are Veterans, service members, or military spouses.
 
 To talk with a peer coach, call Military OneSource's free, confidential peer support services at <a href="tel:+1800-342-9647">1-800-342-9647</a>. This service is available 24 hours a day, 365 days a year.
 
@@ -277,14 +277,14 @@ You can also get support from resources offered by other government departments 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="resources-veterans">Mental Health Resources for Veterans, Servicemembers, and Families</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="resources-veterans">Mental Health Resources for Veterans, service members, and Families</button>
 <div id="resources-veterans" class="usa-accordion-content">
 
 <strong>[Military OneSource](https://www.militaryonesource.mil/mental-health)</strong><br>
 This free service provides expert support to connect military personnel and their families with the best available resources to fit their needs. For support, visit the Military OneSource website or call <a href="tel:+1800-342-9647">1-800-342-9647</a> anytime, day or night.
 
 <strong>[The Psychological Health Resource Center](http://pdhealth.mil/)</strong><br>
-The center works to improve the lives of Veterans, Servicemembers, and their families by advancing excellence in psychological health care, readiness, and prevention.
+The center works to improve the lives of Veterans, service members, and their families by advancing excellence in psychological health care, readiness, and prevention.
 
 </div>
 </li>

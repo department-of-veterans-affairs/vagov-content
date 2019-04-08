@@ -21,7 +21,7 @@ If you plan to study at a foreign school, find out how you can use VA benefits t
 You can get education benefits if you meet all of the requirements listed below.
 
 **All of these must be true:**
-  - You're eligible for—or already get—VA educational assistance as a Veteran, Servicemember, Reservist, or qualified dependent, **and**
+  - You're eligible for—or already get—VA educational assistance as a Veteran, service member, Reservist, or qualified dependent, **and**
   - We’ve approved your program, **and**
   - Your program is at an institution of higher learning where you’ll earn a standard associate's degree or higher, or a degree of equal value at that foreign school. 
 

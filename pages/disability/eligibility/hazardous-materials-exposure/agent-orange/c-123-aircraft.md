@@ -20,7 +20,7 @@ If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, 
 
 <br>
 
-#### For Active-Duty Servicemembers
+#### For Active-Duty service members
 
 You may be able to get disability benefits if you have an illness believed to be caused by contact with Agent Orange and both of the below descriptions are true for you.
 

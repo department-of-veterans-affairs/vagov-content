@@ -205,7 +205,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 <div id="special-home" class="usa-accordion-content">
 
 **You'll need to submit both of these:** 
-- Evidence that shows you're a Veteran or Servicemember with a qualifying permanent and totally disabling service-connected disability<br>
+- Evidence that shows you're a Veteran or service member with a qualifying permanent and totally disabling service-connected disability<br>
 [Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/). <br> 
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>

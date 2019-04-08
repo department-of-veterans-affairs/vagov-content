@@ -106,7 +106,7 @@ hublinks:
     - url: "/burials-memorials/bereavement-counseling/"
       label: Bereavement Counseling
       description: See if you qualify for grief counseling and transition support after
-        the loss of an active-duty Servicemember, Reservist, or National Guard Soldier.
+        the loss of an active-duty service member, Reservist, or National Guard Soldier.
       external: false
   - id: manage
     title: Plan a Burial
@@ -177,7 +177,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-VA burial benefits can help Servicemembers, Veterans, and their family members plan and pay for a burial or memorial service in a VA national cemetery. Family members can also order memorial items to honor the service of a Veteran. Find out how to apply for the burial benefits you've earned, and how to plan for a burial in advance or at time of need.</p>
+VA burial benefits can help service members, Veterans, and their family members plan and pay for a burial or memorial service in a VA national cemetery. Family members can also order memorial items to honor the service of a Veteran. Find out how to apply for the burial benefits you've earned, and how to plan for a burial in advance or at time of need.</p>
 
 <h3>On This Page</h3>
 

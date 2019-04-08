@@ -27,12 +27,12 @@ You'll need to request changes to your benefits if any of the descriptions below
 
 <h2>How do I request changes to my benefits?</h2>
 
-<h3>If you're a Veteran or Servicemember</h3>
+<h3>If you're a Veteran or service member</h3>
 
 You'll need to submit a Request for Change of Program or Place of Training (VA Form 22-1995). You can complete this form online now.<br>
 [Complete VA Form 22-1995 online](/education/apply-for-education-benefits/application/1995/introduction).
 
-<h3>If you're the dependent of a Veteran or Servicemember</h3>
+<h3>If you're the dependent of a Veteran or service member</h3>
 
 You'll need to submit a Dependent's Request for Change of Program or Place of Training (VA Form 22-5495). You can complete this form online now.<br>
 [Complete VA Form 22-5495 online](/education/apply-for-education-benefits/application/5495/introduction).
@@ -50,7 +50,7 @@ You'll need to submit a Dependent's Request for Change of Program or Place of Tr
 - Education or training plans and goals
 - Current or former school or training program and the new school or training program you plan to attend
 
-<b>If you're the dependent of a Veteran or Servicemember, you'll also need that person's:</b>
+<b>If you're the dependent of a Veteran or service member, you'll also need that person's:</b>
 - Social Security number or VA file number
 - Basic service history information
 
@@ -63,7 +63,7 @@ Yes. Follow the steps below to submit your request by mail, in person, or with t
 <h3>By mail</h3>
 
 Download the form you'll need:<br>
-[Download VA Form 22-1995 for Veterans and Servicemembers](https://www.vba.va.gov/pubs/forms/vba-22-1995-are.pdf).<br>
+[Download VA Form 22-1995 for Veterans and service members](https://www.vba.va.gov/pubs/forms/vba-22-1995-are.pdf).<br>
 [Download VA Form 22-5495 for Dependents](https://www.vba.va.gov/pubs/forms/vba-22-5495-are.pdf).
 
 Fill out the form and mail it to the VA regional claims processing office that’s in the same region as your school.<br>

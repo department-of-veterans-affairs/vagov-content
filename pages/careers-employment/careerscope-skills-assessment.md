@@ -19,7 +19,7 @@ In addition to getting career counseling, you may be able to use CareerScope, a 
 
 ## Can I use CareerScope?
 
-You can use CareerScope if you're a Veteran, Servicemember, or dependent who qualifies for—or is already getting—VA education benefits. [Get started with CareerScope](https://va.careerscope.net/gibill).
+You can use CareerScope if you're a Veteran, service member, or dependent who qualifies for—or is already getting—VA education benefits. [Get started with CareerScope](https://va.careerscope.net/gibill).
 
 The Report Interpretation guide helps you understand your CareerScope results. [Use the guide](https://www.benefits.va.gov/gibill/docs/job_aids/CareerScope_Report_Interpretation.pdf).
 

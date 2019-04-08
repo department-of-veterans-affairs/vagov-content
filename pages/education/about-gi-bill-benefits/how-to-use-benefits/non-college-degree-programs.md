@@ -28,7 +28,7 @@ You can get education benefits through the GI Bill if you meet both of the requi
 
 ### Who’s covered?
 - Veterans
-- Servicemembers
+- Service members
 - Qualified dependents
 
 </div>
@@ -53,5 +53,3 @@ The amount you get depends on which GI Bill program you use and what school you 
 - **Post-9/11 GI Bill:** For training offered at non-degree schools, we pay the in-state tuition and fees up to the national maximum.
 
 - **Other GI Bill programs:** We pay a monthly rate that depends on your specific program and your length of active service.
-
-

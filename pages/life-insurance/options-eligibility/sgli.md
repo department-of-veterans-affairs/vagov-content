@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Servicemembers’ Group Life Insurance (SGLI)
-display_title: Servicemembers’ Group (SGLI)
+title: Service members’ Group Life Insurance (SGLI)
+display_title: Service members’ Group (SGLI)
 concurrence: 
 order: 1
 relatedlinks:
@@ -20,7 +20,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
+If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called service members’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
 
 </div>
 
@@ -117,8 +117,8 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 
 <br>
 
-**If you’re a member of the Public Health Service,** you'll need to fill out the Servicemembers' Group Life Insurance Election and Certificate and give it to your unit's personnel officer. <br>
-[Download the Servicemembers' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf).
+**If you’re a member of the Public Health Service,** you'll need to fill out the service members' Group Life Insurance Election and Certificate and give it to your unit's personnel officer. <br>
+[Download the service members' Group Life Insurance Election and Certificate](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf).
 <br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp).
 
@@ -172,7 +172,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 ### How do I apply for SGLI Disability Extension? 
 
-You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
+You’ll need to apply for the service members’ Group Life Insurance Disability Extension (SGLI-DE). 
 
 To apply, fill out the SGLI Disability Extension Application and send it to the OSGLI address listed on the application. <br>
 [Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf).

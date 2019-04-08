@@ -8,11 +8,11 @@ relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E Programs for Servicemembers and Veterans
+      title: VR&E Programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
-      description: If you're the dependent family member of a Servicemember or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
+      description: If you're the dependent family member of a service member or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
 aliases:
   - /employment/vocational-rehab-and-employment/apply-vre/
 ---
@@ -66,7 +66,7 @@ If you’re eligible, we’ll invite you to an orientation session at your neare
 
 <div class="feature" markdown=“1”>
 
-### What if I’m a Servicemember who hasn’t yet received a service-connected disability rating?
+### What if I’m a service member who hasn’t yet received a service-connected disability rating?
 
 You don’t need to wait for a rating. Instead, please fill out VA Vocational Rehabilitation - Getting Ahead After You Get Out (VA Form 28-0588). <br>
 [Download VA Form 28-0588](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf).
@@ -79,7 +79,7 @@ You may be eligible for VR&amp;E benefits and services if you’re in at least o
 - Entered in the Integrated Disability Evaluation System (IDES). <br>
 [Learn more about accessing VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/).
 
-**Please note:** Severely injured active-duty Servicemembers can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
+**Please note:** Severely injured active-duty service members can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
 
 </div>
 

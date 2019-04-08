@@ -98,7 +98,7 @@ These conditions apply to family members using transferred benefits:
 - Don’t have to use the benefit within 15 years after your separation from active duty, but can’t use the benefit after they’ve turned 26 years old.
 
 
-Your dependents may still qualify even if a child marries or you and your spouse divorce. However, Servicemembers and Veterans can revoke (cancel) or change a TOE at any time. If you want to totally revoke transferred benefits for a dependent and you’re still in the service, please turn in another transfer request for the dependent through milConnect. If a dependent’s transfer eligibility (ability to get a TOE) has been totally revoked, you can’t transfer benefits again to that dependent.
+Your dependents may still qualify even if a child marries or you and your spouse divorce. However, service members and Veterans can revoke (cancel) or change a TOE at any time. If you want to totally revoke transferred benefits for a dependent and you’re still in the service, please turn in another transfer request for the dependent through milConnect. If a dependent’s transfer eligibility (ability to get a TOE) has been totally revoked, you can’t transfer benefits again to that dependent.
 
 </div>
 </div>

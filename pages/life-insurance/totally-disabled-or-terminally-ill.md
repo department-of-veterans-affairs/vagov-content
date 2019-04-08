@@ -24,7 +24,7 @@ If you become totally disabled or terminally ill, you may be able to get certain
 
 <hr>
 
-### Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
+### Extension of service members' Group Life Insurance (SGLI) for policyholders who become disabled
 
 <br>
 
@@ -107,8 +107,8 @@ You or your spouse may be able to get benefits early if you meet both of the req
 ##### Who’s covered?
 
 -	Veterans
--	Servicemembers
--	Covered spouses of Servicemembers
+-	service members
+-	Covered spouses of service members
 
 </div>
 
@@ -122,7 +122,7 @@ Up to 50% of the face value of your coverage in increments of $5,000—paid to y
 
 #### How do we get these benefits?
  
-Only the insured Servicemember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply. 
+Only the insured service member or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply. 
 
 **Use the application form for the type of coverage you have:**
  
@@ -154,7 +154,7 @@ We pay the remaining amount of the face value of the insurance policy to your de
  
 #### Where can I find more information?
  	
-[Read chapter 5 of the Servicemembers’ and Veterans’ Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp).
+[Read chapter 5 of the service members’ and Veterans’ Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp).
 
-[Contact the Office of Servicemembers' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp).
+[Contact the Office of service members' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp).
 
