@@ -25,7 +25,7 @@ majorlinks:
         description: Apply for vocational rehabilitation services, get support for your Veteran-owned small business, and access other career resources.
       - url: /life-insurance/
         title: Life Insurance
-        description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your policy online, file claims for benefits, and access helpful resources.
+        description: Explore VA life insurance options for Veterans, service members, and families. Manage your policy online, file claims for benefits, and access helpful resources.
       - url: /pension/
         title: Pension
         description: Apply for monthly payments for wartime Veterans and survivors with limited or no income who meet certain age and disability requirements.
@@ -37,7 +37,7 @@ majorlinks:
         description: Apply for a printed Veteran ID card, get your VA benefit letters and medical records, and learn how to apply for a discharge upgrade.
       - url: #
         title: Family and Caregiver Benefits
-        description: Learn about benefits for spouses and dependents of a Veteran or Servicemember, including added support if you're caring for a Veteran with a service-connected disability.
+        description: Learn about benefits for spouses and dependents of a Veteran or service member, including added support if you're caring for a Veteran with a service-connected disability.
 ---
 
 <div itemscope itemtype ="http://schema.org/HowTo">

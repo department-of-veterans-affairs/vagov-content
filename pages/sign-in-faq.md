@@ -194,7 +194,7 @@ display_title: Frequently Asked Questions
                         <p>Follow these 2 steps to sign up for a Premium <strong>DS Logon</strong> account.</p>
                         <p><strong>1. First, make sure you’re enrolled in the Defense Enrollment Eligibility Reporting System (DEERS).</strong> This is the database that records all the people who are eligible for military benefits.</p>
                         <ul>
-                          <li><strong>If you’re a Veteran or Servicemember or qualified family caregiver, survivor, or dependent of a Veteran or Servicemember who served after 1982,</strong> you should already be enrolled in DEERS.</li>
+                          <li><strong>If you’re a Veteran or service member or qualified family caregiver, survivor, or dependent of a Veteran or service member who served after 1982,</strong> you should already be enrolled in DEERS.</li>
                           <li><strong>If you’re a Veteran or the qualified family caregiver, survivor, or dependent of a Veteran who served before 1982,</strong> you may not be enrolled. To enroll, call us at <a href="tel:+1phonenumber">1-800-827-1000</a> and choose “Option 7.” Tell the operator you want to enroll in DEERS, and ask them to send you an email confirming when enrollment is complete.</li>
                         </ul>
                         <p><strong>2. Then, register for your basic DS Logon account online.</strong></p>

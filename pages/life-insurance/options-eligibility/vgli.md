@@ -44,7 +44,7 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 #### Who’s covered?
 
 * Veterans
-* Former Servicemembers
+* Former service members
 
 </div>
 
@@ -64,7 +64,7 @@ You’ll need to apply for these benefits. When you apply, you won’t need to p
 
 **Apply in one of these ways:**
 
-- Apply through the Office of Servicemembers' Group Life Insurance (OSGLI), using the Prudential website. <br>
+- Apply through the Office of service members' Group Life Insurance (OSGLI), using the Prudential website. <br>
 [Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment).
 - [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management).
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance. <br>

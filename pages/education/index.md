@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Education and Training Benefits
 display_title: Education and Training
-description: Find out if you're eligible and how to apply for VA education benefits for Veterans, Servicemembers, and their qualified family members. VA education and training benefits can help you pay for college tuition, find the right school or training program, get career counseling, and more.
+description: Find out if you're eligible and how to apply for VA education benefits for Veterans, service members, and their qualified family members. VA education and training benefits can help you pay for college tuition, find the right school or training program, get career counseling, and more.
 concurrence: complete
 lastupdate:
 order: 1
@@ -211,8 +211,8 @@ hublinks:
       description: Download VA education benefits forms, fact sheets, and other resources.
       external: false
     - url: https://www.benefits.va.gov/gibill/my_story.asp
-      label: My Story—How Veterans and Servicemembers Use the GI Bill
-      description: Hear inspiring stories from Veterans and Servicemembers who’ve advanced
+      label: My Story—How Veterans and service members Use the GI Bill
+      description: Hear inspiring stories from Veterans and service members who’ve advanced
         their education and training with the Post-9/11 GI Bill.
       external: false
     - url: https://www.benefits.va.gov/gibill/non_va_resources.asp
@@ -223,7 +223,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-VA education benefits help Veterans, Servicemembers, and their qualified family members with needs like paying college tuition, finding the right school or training program, and getting career counseling. Learn how to apply for and manage the education and training benefits you've earned.
+VA education benefits help Veterans, service members, and their qualified family members with needs like paying college tuition, finding the right school or training program, and getting career counseling. Learn how to apply for and manage the education and training benefits you've earned.
 </p>
 
 <h3>On This Page</h3>

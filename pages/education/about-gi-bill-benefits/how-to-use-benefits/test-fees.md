@@ -49,7 +49,7 @@ If you’re a Veteran and you qualify for the GI Bill, you may be able to use pa
   
 <div id="national-testing-kinds-of-benefits" class="usa-accordion-content">
   
-### If you’re a Veteran or Servicemember and you qualify for the GI Bill, we may pay you back for testing fees
+### If you’re a Veteran or service member and you qualify for the GI Bill, we may pay you back for testing fees
 
 **These include:**
 

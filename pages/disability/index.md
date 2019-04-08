@@ -19,7 +19,7 @@ crosslinks:
     links:
     - url: /housing-assistance/disability-housing-grants/
       title: <b>Disability Housing Grants for Veterans</b>
-      description: Find out how to apply for a housing grant as a Veteran or Servicemember with a service-connected disability.
+      description: Find out how to apply for a housing grant as a Veteran or service member with a service-connected disability.
     - url: https://www.benefits.va.gov/fiduciary/index.asp
       title: <b>Fiduciary Services</b>
       description: Learn how to become a VA fiduciary to handle the financial affairs of a Veteran in need.

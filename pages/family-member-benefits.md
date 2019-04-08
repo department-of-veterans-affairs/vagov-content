@@ -94,7 +94,7 @@ hublinks:
         description: Apply for a Certificate of Eligibility (COE) for VA home loan programs to buy, build, repair, or refinance a home. Or, if you're having trouble making mortgage payments on a VA-backed loan, get help to avoid foreclosure and keep your house. <br> <b>For surviving spouse</b>
       - url: /life-insurance/
         label: Life insurance options, claims, and beneficiary assistance
-        description: Learn how to apply for Family Servicemembers' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
+        description: Learn how to apply for Family service members' Group Life Insurance (FSGLI) coverage, explore other coverage options, and manage an existing policy. If you're the beneficiary of a Veteran's or service member's policy, find out how to get free financial advice and will preparation services. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>
       - url: /burials-memorials/pre-need-eligibility/
         label: Pre-need eligibility determination for burial in a VA national cemetery
         description: Apply in advance for eligiblity to be buried in a VA national cemetery. This can help you plan ahead to make the burial process easier for your family in their time of need. <br> <b>For spouse, dependent child, surviving spouse, surviving child</b>

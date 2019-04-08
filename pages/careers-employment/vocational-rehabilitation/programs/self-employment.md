@@ -30,7 +30,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you're a Servicemember or Veteran with a service-connected disability and an employment barrier who has the strong desire, skills, and drive to run a successful business, you may be interested in the Vocational Rehabilitation and Employment (VR&amp;E) Self-Employment track. Find out if you can get help starting your own business.
+If you're a service member or Veteran with a service-connected disability and an employment barrier who has the strong desire, skills, and drive to run a successful business, you may be interested in the Vocational Rehabilitation and Employment (VR&amp;E) Self-Employment track. Find out if you can get help starting your own business.
 
 </div>
 
@@ -38,7 +38,7 @@ If you're a Servicemember or Veteran with a service-connected disability and an 
 
 ### Can I get help starting my own business through the VR&amp;E Self-Employment track?
 
-You may be eligible for these benefits if you’re a Servicemember or Veteran with a service-connected disability, and you meet all of the requirements listed below.
+You may be eligible for these benefits if you’re a service member or Veteran with a service-connected disability, and you meet all of the requirements listed below.
 
 **All of these must be true:**
 
@@ -111,7 +111,7 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
-- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
   [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
 

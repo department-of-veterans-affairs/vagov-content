@@ -26,5 +26,5 @@ If you have VA life insurance, the easiest way to manage your policy is online. 
 If you have a VA life insurance policy with a file number that starts with a V, RH, J, RS, K, or W—or if you’d like to apply for service-disabled life insurance (life insurance for Veterans who have become disabled as a result of serving in the military), access your policy online through VA. <br>
 [Find your policy through VA](https://insurance.va.gov/home/). 
 
-If you have a Veterans’ Group Life Insurance (VGLI) policy with a VGLI control number, access your policy online through the Office of Servicemembers’ Group Life Insurance at Prudential Insurance Company of America. Prudential works with us to provide SGLI and VGLI benefits to Servicemembers and Veterans. <br>
+If you have a Veterans’ Group Life Insurance (VGLI) policy with a VGLI control number, access your policy online through the Office of Servicemembers’ Group Life Insurance at Prudential Insurance Company of America. Prudential works with us to provide SGLI and VGLI benefits to service members and Veterans. <br>
 <a href="https://giosgli.prudential.com/osgli/web/OSGLIMenu.html" data-popup>Find your policy through Prudential Insurance Company of America</a>.

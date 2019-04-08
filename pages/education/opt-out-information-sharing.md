@@ -53,6 +53,6 @@ You’ll need to fill out a short form to tell us you want to opt out of sharing
 <b>Note</b>: If you’re signed in to your account, we can prefill part of your application based on your account details.
 
 ### What’s the Colmery Act?
-The Harry W. Colmery Veterans Educational Assistance Act, also called the “Forever GI Bill,” was signed into law August 2017 and expands education benefits for Veterans, Servicemembers, and their family members.
+The Harry W. Colmery Veterans Educational Assistance Act, also called the “Forever GI Bill,” was signed into law August 2017 and expands education benefits for Veterans, service members, and their family members.
 
 [Learn more about the Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).

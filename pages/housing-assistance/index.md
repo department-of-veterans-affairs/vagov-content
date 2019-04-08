@@ -27,7 +27,7 @@ crosslinks:
       description: If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
     - url: /life-insurance/
       title: <b>Life Insurance</b>
-      description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
+      description: Explore your life insurance options and find out how to apply as a service member, Veteran, or family member.
 social:
   - heading: Ask Questions
     subsections:
@@ -149,7 +149,7 @@ hublinks:
     links:
     - url: "/housing-assistance/disability-housing-grants/"
       label: About Disability Housing Grants for Veterans
-      description: Find out how to apply for a housing grant as a Veteran or Servicemember
+      description: Find out how to apply for a housing grant as a Veteran or service member
         with a service-connected disability.
       external: false
     - url: "/housing-assistance/disability-housing-grants/how-to-apply/"
@@ -164,7 +164,7 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA housing assistance can help Servicemembers, Veterans, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
+VA housing assistance can help service members, Veterans, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
 
 <h3>On This Page</h3>
 <ul>

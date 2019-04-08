@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: VA Life Insurance
 display_title: Life Insurance
-description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your Veterans life insurance policy online, file claims for benefits, and access helpful resources.
+description: Explore VA life insurance options for Veterans, service members, and families. Manage your Veterans life insurance policy online, file claims for benefits, and access helpful resources.
 concurrence: complete
 lastupdate:
 order: 1
@@ -13,7 +13,7 @@ promo:
     alt:
     heading: SGLI Online Enrollment System (SOES)
     url: "https://www.benefits.va.gov/INSURANCE/SOES.asp"
-    description: Learn about our new online enrollment system for Servicemembers' Group Life Insurance.
+    description: Learn about our new online enrollment system for service members' Group Life Insurance.
 
 crosslinks:
   - heading: Other VA Benefits and Services
@@ -139,7 +139,7 @@ hublinks:
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/SOES.asp
       label: About the SGLI Online Enrollment System (SOES)
-      description: Learn about our new online process for enrolling in Servicemembers' Group Life Insurance.
+      description: Learn about our new online process for enrolling in service members' Group Life Insurance.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
       label: Contact Us
@@ -167,7 +167,7 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA life insurance can offer financial security and support for Veterans, Servicemembers, their spouses and dependent children. Explore your options, manage your policy, and file claims to get the insurance benefits you've earned.</p>
+VA life insurance can offer financial security and support for Veterans, service members, their spouses and dependent children. Explore your options, manage your policy, and file claims to get the insurance benefits you've earned.</p>
 
 <h3>On This Page</h3>
 

@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-Are you the spouse or surviving spouse of—or a child of—a Veteran with disabilities or a Veteran who has died? If you don’t qualify for TRICARE (the Department of Defense’s health care program for active-duty and retired Servicemembers and their families), you may be able to get health insurance through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA).
+Are you the spouse or surviving spouse of—or a child of—a Veteran with disabilities or a Veteran who has died? If you don’t qualify for TRICARE (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health insurance through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA).
 
 Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing. Find out if you qualify for CHAMPVA and how to apply.
 
@@ -30,7 +30,7 @@ You can only get health care through CHAMPVA if you don’t qualify for TRICARE 
 * The spouse or child of a Veteran who’s been rated permanently and totally disabled for a service-connected disability by a VA regional benefit office, **or**
 * The surviving spouse or child of a Veteran who died from a VA-rated service-connected disability, **or**
 * The surviving spouse or child of a Veteran who was at the time of death rated permanently and totally disabled from a service-connected disability, **or**
-* The surviving spouse or child of a Servicemember who died in the line of duty, not due to misconduct (in most of these cases, family members qualify for TRICARE, not CHAMPVA).
+* The surviving spouse or child of a service member who died in the line of duty, not due to misconduct (in most of these cases, family members qualify for TRICARE, not CHAMPVA).
 
 A service-connected disability is a disability that we’ve concluded was caused—or made worse—by the Veteran’s active-duty service. A permanent disability is one that's not expected to improve.
 

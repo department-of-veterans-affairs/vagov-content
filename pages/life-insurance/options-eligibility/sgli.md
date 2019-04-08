@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Servicemembers’ Group Life Insurance (SGLI)
 display_title: Servicemembers’ Group (SGLI)
-concurrence: 
+concurrence:
 order: 1
 relatedlinks:
   - heading: More information about your benefits
@@ -33,7 +33,7 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 
 <div class="feature">
 
-### Can I get SGLI? 
+### Can I get SGLI?
 
 You may be able to get full-time SGLI coverage if any of the descriptions below are true for you.
 
@@ -79,7 +79,7 @@ If you qualify for SGLI, we’ll automatically sign you up through your service 
 
 <br>
 
-### Can I make changes to my benefits? 
+### Can I make changes to my benefits?
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
@@ -89,31 +89,31 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
 <ol class="process" markdown="1">
   <li class="process-step list-one">
-  
+
   [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
-  
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Sign in.
-  
+
   </li>
-  
+
   <li class="process-step list-three">
-  
+
   Go to Benefits, Life Insurance SOES-SGLI Online Enrollment System.
-  
+
   </li>
-  
+
   <li class="process-step list-four">
-  
+
   Check your coverage and beneficiary information and make any needed updates.
-  
+
  </li>
  </ol>
 
-You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES. 
+You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
 <br>
 
@@ -146,7 +146,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 <span id="convert"></a>
 ## Converting SGLI when you separate or retire
 
-### How do I convert my SGLI when I leave the military? 
+### How do I convert my SGLI when I leave the military?
 When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/).
 
@@ -157,7 +157,7 @@ You can also convert your SGLI policy into a civilian policy within 120 days fro
 
 <span id="extension"></span>
 
-### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military? 
+### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?
 You may be able to keep your coverage for up to 2 years after the date you left the military if you’re within 2 years of your separation date and you meet either of the requirements listed below.
 
 **At least one of these must be true:**
@@ -170,9 +170,9 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 <br>
 
-### How do I apply for SGLI Disability Extension? 
+### How do I apply for SGLI Disability Extension?
 
-You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE). 
+You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE).
 
 To apply, fill out the SGLI Disability Extension Application and send it to the OSGLI address listed on the application. <br>
 [Download the SGLI Disability Extension Application](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf).

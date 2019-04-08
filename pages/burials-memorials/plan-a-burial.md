@@ -49,30 +49,30 @@ To start, you may want to choose a funeral director to help you plan the burial.
 
 **You'll need:**
 
- - The DD214 or other discharge documents of the Veteran or Servicemember whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
+ - The DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
  [Find out which discharge documents we accept along with your application](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp).
 
-**You'll also need the information listed below about the Veteran, Servicemember, or dependent family member:**
+**You'll also need the information listed below about the Veteran, service member, or dependent family member:**
 
  - Name
  - Gender
  - Social Security number or Military Service number (Veteran ID)
  - Date of birth
- - Relationship to the Servicemember or Veteran whose military service will be used to decide eligibility
+ - Relationship to the service member or Veteran whose military service will be used to decide eligibility
  - Marital status
  - Date of death (and zip code and county at the time of death)
 
-**You'll need information about the next-of-kin (the closest living relative of the Veteran, Servicemember, or dependent family member), including the person's:**
+**You'll need information about the next-of-kin (the closest living relative of the Veteran, service member, or dependent family member), including the person's:**
 
    - Name
-   - Relationship to the Veteran, Servicemember, or dependent family member
+   - Relationship to the Veteran, service member, or dependent family member
    - Social Security number
    - Phone number
    - Address
 
 **You may also need more information in certain cases:**
 
-- **If the person was married**, you'll also need the surviving spouse’s status as Veteran, Servicemember, or family member.
+- **If the person was married**, you'll also need the surviving spouse’s status as Veteran, service member, or family member.
 - **If the person has any children with disabilities**, you'll need the status and detailed information for any disabled children who may be buried in the future in a national cemetery.
 - **If the person's spouse passed away previously and was buried in a VA national cemetery**, you'll need the full name of the spouse as well as the cemetery section and site number where they're buried.
 

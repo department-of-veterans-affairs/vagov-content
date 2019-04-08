@@ -23,7 +23,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you're eligible and how to apply to get career and educational counseling through VR&E as the dependent family member of a Servicemember or Veteran with a service-connected disability.
+Find out if you're eligible and how to apply to get career and educational counseling through VR&E as the dependent family member of a service member or Veteran with a service-connected disability.
 
 </div>
 
@@ -101,6 +101,6 @@ You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
 
-**Note:** If the Servicemember or Veteran in your family isn’t yet using VR&E benefits and services, they may also apply online through eBenefits.
+**Note:** If the service member or Veteran in your family isn’t yet using VR&E benefits and services, they may also apply online through eBenefits.
 
 <span id="dependents-services">

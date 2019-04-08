@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Traumatic Injury Protection (TSGLI)
 display_title: Traumatic Injury Protection (TSGLI)
-concurrence: 
+concurrence:
 order: 3
 children: lifeInsuranceTSGLI
 relatedlinks:
@@ -24,7 +24,7 @@ Did you suffer a traumatic injury while serving in the military? Our Servicememb
 
 <div class="feature">
 
-### Can I get TSGLI? 
+### Can I get TSGLI?
 
 You may be able to get TSGLI if you were insured by SGLI when you experienced a traumatic injury, and you meet all of the requirements listed below.
 
@@ -38,7 +38,7 @@ You may be able to get TSGLI if you were insured by SGLI when you experienced a 
 
 <br>
 
-#### Are any injuries excluded from TSGLI? 
+#### Are any injuries excluded from TSGLI?
 
 Yes. To qualify for TSGLI, none of the descriptions below can be true of your injury.
 
@@ -58,16 +58,16 @@ Yes. To qualify for TSGLI, none of the descriptions below can be true of your in
 
 You may be able to get retroactive TSGLI (meaning that it takes effect starting from a date in the past) if you were injured between October 7, 2001, and November 30, 2005, and you meet all of the TSGLI qualifications listed above.
 
-You can use this benefit no matter where the injury happened—whether you were on or off duty—and no matter if your SGLI coverage was in effect when you got injured. 
+You can use this benefit no matter where the injury happened—whether you were on or off duty—and no matter if your SGLI coverage was in effect when you got injured.
 
 **Note:** We’ve removed the previous requirement that you must have been injured during Operations Enduring or Iraqi Freedom (OEF or OIF). <br>
-[Find out if you qualify for retroactive benefits](https://www.benefits.va.gov/insurance/tsgli-claim-questionnaire.asp). 
+[Find out if you qualify for retroactive benefits](https://www.benefits.va.gov/insurance/tsgli-claim-questionnaire.asp).
 
 <br>
 
 #### Who’s covered?
 
-Servicemembers covered by SGLI
+Service members covered by SGLI
 
 </div>
 
@@ -95,11 +95,11 @@ First, look at the denial letter you received from your branch of service. Your 
 
 If your letter says to complete this form, fill it out and submit it to your branch of service.<br>
 
-[Download the TSGLI Appeal Request Form](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf). 
+[Download the TSGLI Appeal Request Form](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf).
 
 <br>
 
-### How much will I pay for these benefits? 
+### How much will I pay for these benefits?
 
 If you have SGLI coverage, your SGLI premium (which is automatically deducted from your base pay) includes a $1-per-month flat-rate premium for TSGLI. This is all you’ll pay for this benefit.
 
@@ -108,4 +108,3 @@ If you have SGLI coverage, your SGLI premium (which is automatically deducted fr
 ### Where can I find more information?
 
 [Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
-

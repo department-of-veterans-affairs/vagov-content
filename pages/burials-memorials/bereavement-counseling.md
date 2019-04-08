@@ -17,7 +17,7 @@ relatedlinks:
       description: Find out if you can get tax-free monetary benefits.
     - url: /burials-memorials/plan-a-burial/
       title: Burial Planning
-      description: Find out the steps you’ll need to take to arrange for a Servicemember, Veteran, or eligible family member’s burial.
+      description: Find out the steps you’ll need to take to arrange for a service member, Veteran, or eligible family member’s burial.
     - url: /burials-memorials/what-to-expect-at-military-funeral/
       title: What to Expect at a Memorial Service
       description: Find out what will happen to help you prepare for this day.
@@ -31,7 +31,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re the surviving spouse, child, or parent of a Servicemember who died while serving their country, you may qualify for bereavement counseling through VA. Bereavement counseling (also sometimes called "grief counseling") provides assistance and support for people going through emotional and psychological stress after the death of a loved one.
+If you’re the surviving spouse, child, or parent of a service member who died while serving their country, you may qualify for bereavement counseling through VA. Bereavement counseling (also sometimes called "grief counseling") provides assistance and support for people going through emotional and psychological stress after the death of a loved one.
 
 </div>
 
@@ -42,7 +42,7 @@ If you’re the surviving spouse, child, or parent of a Servicemember who died w
 ### Can I get bereavement (or grief) counseling?
 
 **You may qualify for bereavement counseling if you’re the surviving spouse, child, or parent of:**
-- A Servicemember who died while serving their country
+- A service member who died while serving their country
 - A Reservist who died while on active duty
 - A National Guard Soldier who died while on active duty
 

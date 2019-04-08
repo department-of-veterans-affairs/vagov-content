@@ -12,7 +12,7 @@ relatedlinks:
       description: If you want a job that matches your existing skills, find out if you can get employment counseling and job-search support.
     - url: /careers-employment/vocational-rehabilitation/programs/self-employment/
       title: Self-Employment Track
-      description: If you’re a Servicemember or Veteran with a service-connected disability, find out how we can help you start your own business.
+      description: If you’re a service member or Veteran with a service-connected disability, find out how we can help you start your own business.
     - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
       title: Employment through Long-Term Services Track
       description: Find out if you may be eligible for vocational training to help you develop new job skills.
@@ -105,7 +105,7 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
   [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
-- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
   [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
 

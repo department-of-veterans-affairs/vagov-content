@@ -21,7 +21,7 @@ crosslinks:
       description: Learn how to file a claim for disability compensation and manage your disability benefits.
     - url: "/life-insurance/"
       title: <strong>Life Insurance</strong>
-      description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
+      description: Explore your life insurance options and find out how to apply as a service member, Veteran, or family member.
     - url: "/pension/aid-attendance-housebound/"
       title: <strong>Aid and Attendance Benefits and Housebound Allowance</strong>
       description: Find out if you can get increased pension pay as a Veteran or surviving spouse who has disabilities.

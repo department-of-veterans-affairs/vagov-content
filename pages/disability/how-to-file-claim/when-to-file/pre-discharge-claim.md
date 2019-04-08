@@ -37,7 +37,7 @@ You can use the BDD program if you meet all of the requirements listed below.
 
 **All of these must be true:**
 
-* You’re a Servicemember on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
+* You’re a service member on full-time active duty (including a member of the National Guard, Reserves, or Coast Guard), **and**
 * You have a known separation date, **and**
 * Your separation date is in the next 180 to 90 days
 
