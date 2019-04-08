@@ -58,6 +58,21 @@ Learn about the different types of VA education benefits available to service me
 
 <h2>Compare Education Benefits</h2>
 
+|  | Post-9/11 GI Bill | MGIB-AD | MGIB-SR | VEAP | DEA |
+| --- | --- | --- | --- | --- | --- |
+| <strong>Minimum length of service</strong> | 90 days active aggregate service after 9/10/01 or 30 days continuous if discharged for disability | 2 yr. continuous enlistment (minimum duty varies by service date, branch, etc.) | 6 yr. commitment (after 6/30/85) | 181 continuous days active service between 12/31/76 and 7/1/85 (amount of time varies according to when the Veteran enlisted and entered active duty) | N/A |
+| <strong>Maximum # of months of benefits</strong> (You may receive a maximum of 48 months of benefits combined if you are eligible for more than one VA education program) | 36 | 36 | 36 | 36 | 45 |
+| <strong>How payments are made</strong> | <strong>Tuition:</strong> Paid to school; <strong>Housing stipend:</strong> Paid monthly to student; <strong>Books & supplies:</strong> Paid to student at the beginning of the term | Paid to student | Paid to student | Paid to student | Paid to student |
+| <strong>Duration of benefits</strong> | If your release from active duty was before January 1, 2013, there is a 15-year time limitation for use of benefits. For individuals whose last discharge date is on or after January 1, 2013, the time limitation has been removed. | Generally 10 years from last day of active duty | Ends the day you leave Selected Reserve | 10 yrs from last day of active duty | <strong>Spouse:</strong> 10 - 20 years; <strong>Child:</strong> Ages 18-26 (Spouses are generally eligible to receive benefits for 10 years. However, spouses of individuals rated total and permanent within 3 years of discharge and spouses of individuals who die on active duty are granted a 20 year eligibility period.) |
+| <strong>Degree training</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>Non-college degree draining</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>On-the-job & apprenticeship training</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>Flight training</strong> | Yes | Yes | Yes | Yes | No |
+| <strong>Correspondance courses</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>Tutorial assistance</strong> (VA can pay the difference between the total cost of tuition and fees and the amount of Tuition Assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
 
 
 
