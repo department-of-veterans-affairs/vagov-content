@@ -33,7 +33,6 @@ relatedlinks:
       title: Disabilities that appear within 1 year after discharge
       description: You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service. Learn how to apply.
 ---
-
 <div class="va-introtext">
 
 Disability Benefits Questionnaires (DBQs) are forms that help us give you the right disability compensation for your illness. 
