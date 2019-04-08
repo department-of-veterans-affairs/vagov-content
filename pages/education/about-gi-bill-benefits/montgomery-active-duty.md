@@ -134,7 +134,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 **In some cases, we may help you pay for:**
 
   - Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses)
-  - Deficiency courses (classes some student must take in order to be admitted to a certain college)
+  - Deficiency courses (classes some students must take in order to be admitted to a certain college)
   - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
 [See current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch30)
