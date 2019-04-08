@@ -89,7 +89,7 @@ Money for tuition
 
 **In some cases, we'll help you pay for these types of courses:**
 - Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses),
-- Deficiency courses (classes some student must take in order to be admitted to a certain college)
+- Deficiency courses (classes some students must take in order to be admitted to a certain college)
 - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
 ### How many months of benefits can I get, and how long do I have to use them?
