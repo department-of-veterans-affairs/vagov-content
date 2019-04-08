@@ -167,7 +167,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 - [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
 - [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
 - [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
-- [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+- [Test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
 
 **Work while you study:**
 
