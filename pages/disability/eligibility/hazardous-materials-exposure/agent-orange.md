@@ -51,7 +51,7 @@ You may be able to get disability benefits if both of the below descriptions are
 - You have an illness believed to be caused by Agent Orange, **and**
 - You came into contact with Agent Orange while serving in the military
 
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 
 #### Who’s covered?
@@ -71,7 +71,7 @@ You may be able to get disability benefits if both of the below descriptions are
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents). <br>
 
 **If you have an illness believed to be caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <ul class="usa-accordion">
 <li>
@@ -87,12 +87,12 @@ When you file your claim, you'll need to submit this evidence:
 </li>
 </ul>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 <br>
 
 **If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange, you’ll need to show the problem started during—or got worse because of—your military service. <br>
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <ul class="usa-accordion">
 <li>
@@ -110,12 +110,12 @@ When you file your claim, you'll need to submit this evidence:
 </li>
 </ul>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 
 ## Get more information
 
-[See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
+[See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp)
 
 Contact us if you have questions:
 - Call the Agent Orange help line at <a href="tel:+18007498387">800-749-8387</a>, **or** 
@@ -124,8 +124,8 @@ Contact us if you have questions:
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
 
 **If you think you may have had contact with Agent Orange** or other herbicides while serving in the military, you can request a health exam. <br>
-[Get an Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
+[Get an Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/)
 
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
-[Learn about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
