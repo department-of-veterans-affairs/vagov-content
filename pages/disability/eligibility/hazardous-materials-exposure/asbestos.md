@@ -52,7 +52,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - A doctor's statement that there's a connection between your contact with asbestos during military service and the illness or disability
 <br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ## How do I know if I have an illness caused by my contact with asbestos?
 If you worked in certain jobs or with certain products, talk to your doctor about getting tested for illnesses that affect your lungs.
@@ -77,4 +77,4 @@ Get tested if you’ve made or worked with products like:
 ## Get more information
 
 Do you think you may have had contact with asbestos? <br>
-[Learn about asbestos-related illnesses](https://www.publichealth.va.gov/exposures/asbestos/index.asp).
+[Learn about asbestos-related illnesses](https://www.publichealth.va.gov/exposures/asbestos/index.asp)
