@@ -27,7 +27,7 @@ You may be able to get disability benefits if you meet both of the requirements 
 - You have 1 or more illnesses believed to be caused by Agent Orange, **and**
 - You were part of testing or storing Agent Orange during your military service
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 ### Who’s covered?
 
@@ -47,7 +47,7 @@ You may be able to get disability benefits if you meet both of the requirements 
 ## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military and that you have an illness believed to be caused by Agent Orange. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ## What if I need help?
 
@@ -56,7 +56,7 @@ See these comprehensive lists for dates and locations of herbicide tests and sto
 [Outside the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/outside-vietnam.asp)
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 
 ## Get more information
