@@ -74,13 +74,13 @@ You’ll need to file a claim for disability compensation.
 
 You have to claim an actual disease or disability. It’s not enough to state that you were exposed to mustard gas or lewisite during service. You’ll need to apply based on the illnesses believed to be caused by your contact with 1 of these chemicals. When you send in your claim, be sure to share any military records that show you had contact with blistering agents.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ## What if I need help filing my disability claim?
 
 If you have questions about benefits related to mustard gas exposure, you can contact us via email. <a href="mailto:mustardgas@vba.va.gov">Email us at mustardgas@vba.va.gov</a>
 
-You can also get help from a trained professional trusted to help with VA-related claims. [Get help filing your claim](/disability/get-help-filing-claim/).
+You can also get help from a trained professional trusted to help with VA-related claims. [Get help filing your claim](/disability/get-help-filing-claim/)
 
 -----
 
