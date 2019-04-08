@@ -84,8 +84,8 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA character of discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA character of discharge review process](/discharge-upgrade-instructions/#other-options)
 
 </div>
 </div>
@@ -116,15 +116,15 @@ If you've received one of these discharge statuses, you may not be eligible for 
 - Depression
 - Anxiety
 
-[Get more information about conditions that may be covered](https://www.benefits.va.gov/compensation/dbq_ListBySymptom.asp).
+[Get more information about conditions that may be covered](https://www.benefits.va.gov/compensation/dbq_ListBySymptom.asp)
 
 ## Get more information
 
 Watch our Compensation 101 videos to learn more about how VA disability compensation works:
 
-[Compensation 101: What is Disability Compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
+[Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc)
 
-[Compensation 101: What is Service Connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
+[Compensation 101: What is service connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
 
 
 </div>
