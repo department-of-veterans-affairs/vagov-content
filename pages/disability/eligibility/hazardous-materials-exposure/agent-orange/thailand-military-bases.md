@@ -48,14 +48,14 @@ To prove that you had contact with Agent Orange during your Thailand service, yo
 - Performance evaluation reports, **or**
 - Job records (for example, records showing you worked as a dog handler or a member of a security squadron or military police unit)
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 ## Get more information
 Want to know more about benefits for Veterans with illnesses believed to be caused by contact with Agent Orange? <br>
-[Learn about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp).
+[Learn about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp)
 
