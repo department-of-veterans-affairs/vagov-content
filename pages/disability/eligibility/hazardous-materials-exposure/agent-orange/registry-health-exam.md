@@ -33,8 +33,8 @@ You can get an Agent Orange Registry health exam if you served in any of the way
   - In Thailand (U.S. Army Veterans) on some small Army installations in Thailand anytime between February 28, 1961, and May 7, 1975—if you were a member of a military police (MP) unit or assigned a job with duty placing you at or near the base perimeter, **or**
   - In other locations, but you had contact with herbicides during a military operation or while testing, transporting, or spraying herbicides for military purposes
  
- [See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/index.asp). <br>
- [Learn about herbicide tests and storage outside Vietnam](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/index.asp).
+ [See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/index.asp) <br>
+ [Learn about herbicide tests and storage outside Vietnam](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/index.asp)
 
 ### Who’s covered?
 Veterans
@@ -43,7 +43,7 @@ Veterans
 ## How do I get these benefits?
 
 To schedule your exam, contact your local VA environmental health coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
-[Find a VA environmental health coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp).
+[Find a VA environmental health coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp)
 
 ## What should I expect at the exam?
 
@@ -61,7 +61,7 @@ A VA health care provider will go over your exam and test results with you. You�
 Please note that:
 
 - This exam isn’t a VA claim exam (also known as a compensation and pension, or C&P, exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to file a claim. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 - You don’t need to sign up for the VA health care system to get a registry exam.
 - The exam is based on your memory of service, not on your military records.
 - The exam will not confirm if you had contact with Agent Orange.
@@ -69,7 +69,7 @@ Please note that:
 - Your family members can’t get an Agent Orange Registry health exam. The exam is only for qualified Veterans.
 
 ## How do I make an appointment for an Agent Orange Registry health exam? <br>
-[Contact your local VA environmental health coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp).
+[Contact your local VA environmental health coordinator](https://www.publichealth.va.gov/exposures/coordinators.asp)
 
 ## Get more information
-[Learn more about the Agent Orange Registry health exam](https://www.publichealth.va.gov/exposures/agentorange/benefits/registry-exam.asp). 
+[Learn more about the Agent Orange Registry health exam](https://www.publichealth.va.gov/exposures/agentorange/benefits/registry-exam.asp) 
