@@ -30,10 +30,10 @@ You may be able to get disability benefits if you have an illness believed to be
 - Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
-[View the list of codes](https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf).
+[View the list of codes](https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf)
 
 <br>
 
@@ -48,11 +48,11 @@ You may be able to get disability benefits if you have an illness believed to be
 - **Pittsburgh, Pennsylvania International Airport**, 1972-1982 (758th Airlift Squadron)
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange-related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
-[View the list of codes]( https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf).
+[View the list of codes]( https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf)
 
 </div>
 
@@ -77,7 +77,7 @@ You can upload supporting documents along with your online application, includin
   - Medical evidence (like a doctor’s report or medical test results)
 
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)<br>
 
 
 
@@ -107,7 +107,7 @@ You can upload supporting documents along with your online application, includin
 <li class="process-step list-one" markdown="1">
 
 Fill out the Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>
-[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf).
+[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 
 </li>
 
@@ -157,9 +157,9 @@ Janesville, WI<br />
 - <a href="mailto:VSCC123.VAVBASPL@va.gov">Email the St. Paul regional benefit office</a>
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 ### Get more information
 Want to know more about C-123 aircraft Agent Orange claims? <br>
-[Download our C-123 Aircraft Agent Orange Exposure claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf).
+[Download our C-123 Aircraft Agent Orange Exposure claims fact sheet](https://www.benefits.va.gov/benefits/factsheets/serviceconnected/AO_c123.pdf)
 
