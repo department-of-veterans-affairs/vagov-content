@@ -113,7 +113,7 @@ The person served before July 29, 1945, and
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
 <div id="public-health-service-officer" class="usa-accordion-content">
   
-One of these must be true true:
+One of these must be true. The officer:
 
 **The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, he or she must have become disabled or died from a disease or injury caused or made worse by their service.
 
@@ -137,10 +137,10 @@ One of these must be true:
 
 They had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946.
 
-<b>Note:</b> A DD214 documenting this service may be obtained by submitting an application to:
+A DD214 documenting this service may be obtained by submitting an application to:
 
 <p class="va-address-block">
-<b>Commandant (G-MVP-6)</b><br>
+Commandant (G-MVP-6)<br>
 United States Coast Guard<br>
 2100 2nd Street, SW<br>
 Washington, DC 20593 <br>
