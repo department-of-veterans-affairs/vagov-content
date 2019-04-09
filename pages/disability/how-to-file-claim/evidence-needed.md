@@ -50,7 +50,7 @@ We require certain documents to support all claims for disability benefits.
 <br>
 
 **Note:** In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Your records may have been destroyed in the fire if you were discharged from the Army between November 1, 1912 and January 1, 1960, or if you were discharged from the Air Force between September 25, 1947 and January 1, 1964. If you think your records may have been involved in this fire, you can learn more about the fire and how to get help filing a claim. <br>
-[Learn more about the fire at the NPRC](https://www.benefits.va.gov/COMPENSATION/NPRC1973Fire.asp).
+[Learn more about the fire at the NPRC](https://www.benefits.va.gov/COMPENSATION/NPRC1973Fire.asp)
 
 <span id="evidence-show"></span>
 ## What should the evidence show to support my disability claim?
@@ -107,7 +107,7 @@ You'll need to submit current evidence from a medical professional or layperson 
 <div id="claim-supplemental" class="usa-accordion-content">
 
 You'll need to submit new evidence we've haven't reviewed before that's related to the issue you're claiming.<br>
-[Learn more about supplemental claims](/decision-reviews/supplemental-claim/).<br>
+[Learn more about supplemental claims](/decision-reviews/supplemental-claim/)<br>
 
 </div>
 </li>
@@ -123,12 +123,12 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 **You'll also need to submit one of these forms:**
   - A completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781), <br>
-  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf).<br>
+  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
-  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf).<br>
+  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)<br>
   
-[Learn more about PTSD claims](/disability/eligibility/ptsd/).<br>
+[Learn more about PTSD claims](/disability/eligibility/ptsd/)<br>
 </div>
 </li>
 <li>
@@ -138,11 +138,11 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 **You'll need to submit everything listed here:**
 - Medical evidence that shows a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood). Odd jobs (marginal employment), don’t count.
 - A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-  [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf).
+  [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
-  [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf).<br>
+  [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)<br>
   
- [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).<br>
+ [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/)<br>
  </div>
 </li>
 <li>
@@ -159,7 +159,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.<br>
 
-[Learn more about temporary 100% disability benefits](/disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/).<br>
+[Learn more about temporary 100% disability benefits](/disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/)<br>
 </div>
 </li>
 <li>
@@ -173,7 +173,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
 - VA compensated work therapy (CWT)(under 38 U.S.C. 1718)<br>
 
-[Learn more about VA Title 38 U.S.C. 1151 claims](/disability/eligibility/special-claims/1151-claims-title-38/).<br>
+[Learn more about VA Title 38 U.S.C. 1151 claims](/disability/eligibility/special-claims/1151-claims-title-38/)<br>
 </div>
 </li>
 <li>
@@ -192,12 +192,12 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll also need to submit one of these forms:**
   - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)<br>
-[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf). <br>
+[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf) <br>
 **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
-[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf).<br> 
+[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
 
-[Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/).<br>
+[Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/)<br>
 </div>
 </li>
 <li>
@@ -206,12 +206,12 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll need to submit both of these:** 
 - Evidence that shows you're a Veteran or service member with a qualifying permanent and totally disabling service-connected disability<br>
-[Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/). <br> 
+[Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/) <br> 
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
-[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf).<br>
+[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf)<br>
 
-[Learn more about disability housing grants](/housing-assistance/disability-housing-grants/).<br>
+[Learn more about disability housing grants](/housing-assistance/disability-housing-grants/)<br>
 </div>
 </li>
 <li>
@@ -229,9 +229,9 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll also need to submit:**<br>
 An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
-[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). <br>
+[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) <br>
 
-[Learn more about automobile allowance and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/).<br>
+[Learn more about automobile allowance and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/)<br>
 </div>
 </li>
 <li>
@@ -246,5 +246,5 @@ You'll need to submit medical evidence that shows the child became permanently d
 
 <br>
 
-[View the evidence requirements listed on the 21-526EZ paper form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
+[View the evidence requirements listed on the 21-526EZ paper form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
 
