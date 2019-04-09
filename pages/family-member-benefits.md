@@ -139,7 +139,11 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">How do I get help for a Veteran who's in crisis?</h4>
-      <a id="crisis-expander-link">Find out how to get support anytime, day or night</a>
+    <button id="crisis-expander-link" class="additional-info-button va-button-link" aria-expanded="false">
+      <span class="additional-info-title">Find out how to get support anytime, day or night
+      <i class="fa fa-angle-down"></i>
+      </span>
+    </button>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
         <p>If you're concerned about a Veteran in crisis, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
@@ -156,11 +160,3 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
   	</div>
   </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>

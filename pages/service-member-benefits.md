@@ -133,7 +133,12 @@ If you're serving on active duty in the United States uniformed services, includ
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
-    <a id="crisis-expander-link">Get care now</a>
+    <button id="crisis-expander-link" class="additional-info-button va-button-link" aria-expanded="false">
+      <span class="additional-info-title">
+       Get care now
+       <i class="fa fa-angle-down"></i>
+      </span>
+    </button>
     <div id="crisis-expander-content" class="expander-content expander-content-closed" style="max-height: 100em;">
       <div class="expander-content-inner usa-alert-text">
 <br>
@@ -158,11 +163,3 @@ You don’t need to be enrolled in VA health care to get care. <br>
   </div>
  </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>

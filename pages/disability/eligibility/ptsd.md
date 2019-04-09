@@ -23,7 +23,11 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
+	<button id="crisis-expander-link" class="additional-info-button va-button-link" aria-expanded="false">
+		<span class="additional-info-title">Find out how to get support any time day or night.
+		<i class="fa fa-angle-down"></i>
+		</span>
+	</button>
 	<div id="crisis-expander-content" class="expander-content expander-content-closed">
 	  <div class="expander-content-inner usa-alert-text">
 	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
@@ -103,12 +107,3 @@ When you file a disability claim, you'll also need to fill out one of these addi
 ### Get more information 
 We’ve made great progress in treating PTSD and have brought more mental health providers to VA medical centers to help give the best care to Veterans with PTSD. <br>
 [Learn about our PTSD programs](https://www.mentalhealth.va.gov/PTSD.asp)
-
-<script type="text/javascript">
-
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>
