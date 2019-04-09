@@ -36,10 +36,10 @@ We refer to the first claim you file for a disability as your original claim.
 **You can file a claim up to 180 days before leaving the service:**
 
 - **If you have 180-90 days left on active duty**, you may be able to file a pre-discharge claim through the Benefits Delivery at Discharge (BDD) program. This may help speed up the claim decision process so you can get your benefits sooner.<br>
-[Find out how to file a pre-discharge claim](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/).
+[Find out how to file a pre-discharge claim](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/)
 
 - **If you have less than 90 days left on active duty**, you can't file your claim through the BDD program. But you can still file before you're discharged, and your claim will be processed after separation as a fully developed or standard claim.<br>
-[Learn more about gathering evidence for standard and fully developed claims](/disability/how-to-file-claim/evidence-needed/).
+[Learn more about gathering evidence for standard and fully developed claims](/disability/how-to-file-claim/evidence-needed/)
 
 **You can also file a claim for a disability that appears after discharge:**
 
@@ -53,7 +53,7 @@ Learn more about disabilities that may be related to your active-duty service bu
 
 <br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
 </li>
@@ -68,7 +68,7 @@ You can file a claim for increased disability compensation if you have a rated s
 - An increase in your disability rating
 - More financial support
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
 </li>
@@ -80,11 +80,11 @@ You can file a claim for increased disability compensation if you have a rated s
 - More financial support
 - Special monthly payments
 - A shift to Individual Unemployability status (a status given to Veterans who are unable to work because of a disability)<br>
-[Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/).
+[Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/)
 
 Our decision on your new claim will be based only on new evidence (like a doctor's report or medical test results) that you give us to support your claim. We won't consider any evidence you may have given us related to past claims.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
 </li>
@@ -98,7 +98,7 @@ You can file a secondary claim to get more disability benefits for a new disabil
 - Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
 - Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
 </li>
@@ -113,9 +113,9 @@ You can file a special claim to request compensation for special needs.
 - Temporary payments if you're recovering from surgery or other treatment and unable to move, **or**
 - Increased payments if you can't work because of your service-connected disability
 
-[Learn more about special claims](/disability/eligibility/special-claims/).<br>
+[Learn more about special claims](/disability/eligibility/special-claims/)<br>
 <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
 </li>
@@ -132,7 +132,7 @@ You can file a supplemental claim if you meet all of the requirements listed bel
 
 For example, you might file a supplemental claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
 
-[Learn more about supplemental claims](/decision-reviews/supplemental-claim/).
+[Learn more about supplemental claims](/decision-reviews/supplemental-claim/)
 
 </div>
 </li>
