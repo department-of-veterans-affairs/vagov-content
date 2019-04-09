@@ -6,6 +6,7 @@ display_title: View VA Payment History
 collection: records
 order: 7
 spoke: Get Records
+      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -80,9 +81,13 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>You can change your information in either of these ways:</b><br>
+<h4>Change your information in either of these ways</h4><br>
 <a href="/change-direct-deposit-and-contact-information/">Change your information online</a>, <b>or</b> <br>
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
+
+<h4>Change your address through your VA.gov profile</h4> <br>
+You can sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
+[Find out how to change your address on file with VA](/change-address/)
 
 </div>
 </div>
@@ -96,10 +101,10 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
-<b>If you have a disability rating of 30% or higher</b>, you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
+<b>If you have a disability rating of 30% or higher,</b> you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
 <a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
 
-<b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
+<b>If your disability gets worse,</b> you can file a claim for an increase in benefits. <br>
 <a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
 
 </div>
