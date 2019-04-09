@@ -46,7 +46,7 @@ You can use the BDD program if you meet all of the requirements listed below.
 ### What if I have less than 90 days left on active duty?
 
 You can't file a BDD claim or add more medical conditions to your initial claim. But you can still begin the process of filing your claim before discharge. <br>
-[Learn how to file a claim less than 90 days before discharge](#ways-to-file).
+[Learn how to file a claim less than 90 days before discharge](#ways-to-file)
 
 <br>
 
@@ -92,7 +92,7 @@ If you have 180 to 90 days left on active duty, you'll need to apply for benefit
 ### If you're stationed in the U.S.
 
 You can file a claim online, by mail, or in person. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).	
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)	
 
 **To complete the process, you'll need to:**
 
@@ -103,7 +103,7 @@ You can file a claim online, by mail, or in person. <br>
 ### If you're stationed overseas
 
 You can start your claim at a BDD office. <br>
-[Find out how to file a claim overseas](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/).
+[Find out how to file a claim overseas](/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/)
 
 #### Need help applying?
 
@@ -121,8 +121,8 @@ If you have less than 90 days left on active duty, you have a few options for fi
 ### File a fully developed or standard claim
 
 The difference in these claim types is based on how you gather evidence (supporting documents like a doctor's report and medical test results) to support your claim.<br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
-[Find out what evidence you need for fully developed and standard claims](/disability/how-to-file-claim/evidence-needed/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)<br>
+[Find out what evidence you need for fully developed and standard claims](/disability/how-to-file-claim/evidence-needed/)
 
 </div>
 </li>
@@ -134,7 +134,7 @@ You’ll be referred to the Integrated Disability Evaluation System (IDES)</butt
 If you’re wounded, injured, or fall ill while serving and can’t perform your duties, you’ll be referred to IDES. Through this system, we at VA work together with the Department of Defense (DoD) to make disability evaluation seamless, simple, fast, and fair.
 
 If you’re found to be medically unfit for duty, IDES will give you a proposed VA disability rating before you leave the service. You’ll also be entitled to Vocational Rehabilitation and Employment (VR&E) services. <br>
-[Find out how to access VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/).
+[Find out how to access VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/)
 
 </div>
 </li>
@@ -144,6 +144,6 @@ If you’re found to be medically unfit for duty, IDES will give you a proposed 
 ## How can I get support for myself and my family as I transition to civilian life?
 
 Our Transition Assistance Program (TAP) can help both you and your family with this transition. We'll help you find out which VA benefits and services you're entitled to, like health care, career guidance, training, and counseling. <br>
-[Learn more about TAP](https://www.benefits.va.gov/TAP/index.asp).
+[Learn more about TAP](https://www.benefits.va.gov/TAP/index.asp)
 <br>
 
