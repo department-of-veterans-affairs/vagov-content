@@ -17,7 +17,7 @@ relatedlinks:
     - url: /health-care/
       title: Get VA health care
       description: Learn how to apply for VA health care benefits, manage your appointments and benefits, and more.
-    - url: /healthbenefits/cost/index.asp
+    - url: https://www.va.gov/healthbenefits/cost/index.asp
       title: VA health care costs 
       description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
 ---
