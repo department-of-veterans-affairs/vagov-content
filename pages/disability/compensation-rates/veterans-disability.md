@@ -71,7 +71,7 @@ Start with the <strong>Basic rates</strong> table. Find the dependent status in 
 
 <strong>For example:</strong> If you were a Veteran with a dependent spouse but no dependent parents or children, and you had a 30% disability rating, you'd receive <strong>$479.83</strong> each month.
 
-<strong>If you have a spouse who receives Aid and Attendance<strong>
+<strong>If you have a spouse who receives Aid and Attendance</strong>
 
 First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount that matches your disability rating and add it to your basic rate to get your total monthly payment. 
 
@@ -111,15 +111,15 @@ Your total monthly payment would be $479.83 + $47.00 = <strong>$526.83</strong>.
 
 Start with the <strong>Basic rates</strong> table. Find the dependent status in the left column that best describes you. Then look for your disability rating in the top row. Where your dependent status and disability rating meet, you'll find your monthly payment.
 
-<b>For example:</b> If you were a Veteran with a dependent spouse but no dependent parents or children, and you had a 70% disability rating, you'd receive <strong>$1,522.71</strong> each month.
+<strong>For example:</strong> If you were a Veteran with a dependent spouse but no dependent parents or children, and you had a 70% disability rating, you'd receive <strong>$1,522.71</strong> each month.
 
 <strong>If you have a spouse who receives Aid and Attendance</strong>
 
 First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount that matches your disability rating and add it to your basic rate to get your total monthly payment. 
 
-<b>For example:</b> If you were a Veteran with a spouse who was receiving Aid and Attendance but no dependent parents or children, and you had a 70% disability rating, you would start with the basic rate of $1,522.71 for a Veteran with spouse (no parents or children). Then you would add the $109.00 rate for a spouse receiving Aid and Attendance. 
+<strong>For example:</strong> If you were a Veteran with a spouse who was receiving Aid and Attendance but no dependent parents or children, and you had a 70% disability rating, you would start with the basic rate of $1,522.71 for a Veteran with spouse (no parents or children). Then you would add the $109.00 rate for a spouse receiving Aid and Attendance. 
 
-Your total monthly payment would be $1,522.71 + $109.00 = <b>$1,631.71</b>. <br>
+Your total monthly payment would be $1,522.71 + $109.00 = <strong>$1,631.71</strong>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance benefits and Housebound allowances</a> 
 
