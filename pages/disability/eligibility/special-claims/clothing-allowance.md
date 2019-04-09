@@ -43,17 +43,17 @@ Veterans
 
 **Note:** The current clothing allowance rate is $817.48. <br>
 
-[View current rates for special allowances](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp).
+[View current rates for special allowances](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp)
 
 ## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation.<br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 When you file a disability claim, you’ll also need to fill out this additional form:
 
 An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
-[Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
+[Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf)
 
 Bring it to the prosthetic representative at your local VA medical center. 
 
@@ -64,13 +64,13 @@ To get your yearly payment, you’ll need to qualify by August 1 of that year. Y
 - You have more than one skin medicine, **and/or**
 - Your device or skin medicine affects more than one type of clothing.
 
-[View the current payment rates](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp).
+[View the current payment rates](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp)
 
 **Note**: If you qualify, you'll receive payments between September 1 and October 31.
 
 
 
 Use our facility locator to find your nearest VA medical center. <br>
-[Find a VA medical center near you](/find-locations/).
+[Find a VA medical center near you](/find-locations/)
 
 For more information, call us at <a href="tel:+1-800-827-1000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. <abbr title="eastern time">ET</abbr>. We collect applications throughout the year and hold them until the August 1 closing date.
