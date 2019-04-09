@@ -8,8 +8,8 @@ description: Learn about the different types of VA education benefits available 
 keywords: compare va education benefits, gi bill comparison
 concurrence: incomplete
 spoke: More Resources
-order: 3
-majorlinks:
+order: 10
+relatedlinks:
   - heading: Types of VA Education Benefits
     links:
     - url: /education/about-gi-bill-benefits/post-9-11
@@ -24,11 +24,8 @@ majorlinks:
     - url: /education/other-va-education-benefits/veap
       title: Veterans’ Educational Assistance Program (VEAP)
       description: You may be able to continue your education by using part of your military pay to help cover the cost of school. Find out if you can get benefits through the Veterans' Educational Assistance Program (VEAP)—a $2-to-$1 government-match program for educational assistance.
-    - url: /education/other-va-education-benefits/reap
-      title: Reserve Educational Assistance Program (REAP)
-      description: The Reserve Educational Assistance Program (REAP) ended on November 25, 2015, but under the National Defense Authorization Act of 2016, some REAP benefits will remain in place for 3 more years. Learn more about what this change means for you.
     - url: /education/survivor-dependent-benefits/dependents-education-assistance
-      title: Survivors’ and Dependents’ Educational Assistance Program
+      title: Survivors’ and Dependents’ Educational Assistance Program (DEA)
       description: If you’re the child or spouse of a Veteran or Servicemember who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
   - heading: Benefit Rates and Ways You Can Use Your Benefits
     links:
@@ -52,18 +49,18 @@ Learn about the different types of VA education benefits available to service me
 
 <h2>Eligibility and Rules</h2>
 
-- If you’re eligible for 2 or more education benefits, you can only choose one 
-- Once you choose an education benefit, your decision is <strong>final and cannot be changed</strong>
+- You can only choose one education benefit to use, even if you're eligible for 2 or more
+- Once you choose which benefit you’ll use, <strong>you can't change your mind</strong>
 - If you’re eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits--however, you may remain eligible for the benefit or benefits you did not give up
 
 <h2>Compare Education Benefits</h2>
 
-|  | Post-9/11 GI Bill | MGIB-AD | MGIB-SR | VEAP | DEA |
+|  | Post-9/11 GI Bill | Montgomery GI Bill Active Duty (MGIB-AD) | Montgomery GI Bill Selected Reserve (MGIB-SR) | Veterans' Educational Assistance Program (VEAP) | Survivors’ and Dependents’ Educational Assistance Program (DEA) |
 | --- | --- | --- | --- | --- | --- |
-| <strong>Minimum length of service</strong> | 90 days active aggregate service after 9/10/01 or 30 days continuous if discharged for disability | 2 yr. continuous enlistment (minimum duty varies by service date, branch, etc.) | 6 yr. commitment (after 6/30/85) | 181 continuous days active service between 12/31/76 and 7/1/85 (amount of time varies according to when the Veteran enlisted and entered active duty) | N/A |
-| <strong>Maximum # of months of benefits</strong> (you may receive a maximum of 48 months of benefits combined if you are eligible for more than one VA education program) | 36 | 36 | 36 | 36 | 45 |
-| <strong>How payments are made</strong> | <strong>Tuition:</strong> Paid to school; <strong>Housing stipend:</strong> Paid monthly to student; <strong>Books & supplies:</strong> Paid to student at the beginning of the term | Paid to student | Paid to student | Paid to student | Paid to student |
-| <strong>Duration of benefits</strong> | If your release from active duty was before January 1, 2013, there is a 15-year time limitation for use of benefits. For individuals whose last discharge date is on or after January 1, 2013, the time limitation has been removed. | Generally 10 years from last day of active duty | Ends the day you leave Selected Reserve | 10 yrs from last day of active duty | <strong>Spouse:</strong> 10 - 20 years; <strong>Child:</strong> Ages 18-26 (spouses are generally eligible to receive benefits for 10 years. However, spouses of individuals rated total and permanent within 3 years of discharge and spouses of individuals who die on active duty are granted a 20 year eligibility period) |
+| <strong>Minimum length of service</strong> | 90 days active aggregate service after 9/10/01 or 30 days continuous if discharged for disability | 2 years continuous enlistment (minimum duty varies) | 6 year commitment (after 6/30/85) | 181 continuous days active service between 12/31/76 and 7/1/85 (amount of time varies) | N/A |
+| <strong>Maximum # of months of benefits</strong> (maximum of 48 months if eligible for 2 or more programs) | 36 | 36 | 36 | 36 | 45 |
+| <strong>How payments are made</strong> | <strong>- Tuition:</strong> Paid to school<br> <strong>- Housing stipend:</strong> Paid monthly to student<br> <strong>- Books & supplies:</strong> Paid to student at the beginning of the term | Paid to student | Paid to student | Paid to student | Paid to student |
+| <strong>Duration of benefits</strong> | <strong>- 15 year-limitation</strong> if active duty release was before Jan. 1, 2013<br> <strong>- No time limitation</strong> if active duty release was on or after Jan. 1, 2013 | Usually 10 years from last day of active duty | Ends the day you leave Selected Reserve | 10 years from last day of active duty | <strong>Spouse:</strong> 10 - 20 years (varies); <strong>Child:</strong> Ages 18-26 |
 | <strong>Degree training</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Non-college degree draining</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>On-the-job & apprenticeship training</strong> | Yes | Yes | Yes | Yes | Yes |
@@ -72,7 +69,7 @@ Learn about the different types of VA education benefits available to service me
 | <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Tutorial assistance</strong> (VA can pay the difference between the total cost of tuition and fees and the amount of Tuition Assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
+| <strong>Tutorial assistance</strong> (VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
 
 
 
