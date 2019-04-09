@@ -34,7 +34,7 @@ Your child may be able to get disability benefits if they were diagnosed with a 
 The child’s biological mother or father served in:
 
 - South Vietnam (the Republic of Vietnam) any time from January 9, 1962, through May 7, 1975, **or**
-- Certain units in the Korean Demilitarized Zone (DMZ) any time from April 1, 1968, through August 31, 1971
+- Certain units in the Korean demilitarized zone (DMZ) any time from April 1, 1968, through August 31, 1971
 
 **And this must be true:**
 
@@ -52,7 +52,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 - The child’s biological mother served in South Vietnam any time from January 9, 1962, through May 7, 1975, **and**
 - The child was conceived after the mother served in South Vietnam  
 
-[See the list of covered birth defects](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/children-women-vietnam-vets.asp).
+[See the list of covered birth defects](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/children-women-vietnam-vets.asp)
 
 <br>
 
@@ -80,11 +80,11 @@ Your child may be able to get disability benefits if they have a covered birth d
 - The child's birth certificate, **and**
 - Medical records with the diagnosis of spina bifida or another covered birth defect
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim).</br>
-[View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim)</br>
+[View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp)
 
 ## Get more information 
 
 Does your child have spina bifida? <br>
-[Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp).<br>
-[Learn more about VR&E benefits for children with spina bifida and other birth defects](https://www.benefits.va.gov/VOCREHAB/Ben_for_Children_with_Disabilities_Chapter_18.asp).
+[Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp)<br>
+[Learn more about VR&E benefits for children with spina bifida and other birth defects](https://www.benefits.va.gov/VOCREHAB/Ben_for_Children_with_Disabilities_Chapter_18.asp)
