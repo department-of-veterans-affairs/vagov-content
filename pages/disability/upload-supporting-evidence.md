@@ -25,7 +25,7 @@ If you’ve filed a claim for disability compensation, you can continue uploadin
 
 You can upload evidence to support your disability claim through our claim tracking tool. This tool also helps you check the status of your claim. <br>
 
-[Find out how to sign in to use this tool](/claim-or-appeal-status).
+[Find out how to sign in to use this tool](/claim-or-appeal-status)
 
 </div>
 </div>
@@ -103,7 +103,7 @@ You can search for DBQs to download by form name or by symptom. <br>
 ### Any additional forms needed to support your claim
 
 In some cases, you may need to turn in one or more additional forms to support your disability claim. <br>
-[See if you need to complete any additional forms](/disability/how-to-file-claim/additional-forms/).
+[See if you need to complete any additional forms](/disability/how-to-file-claim/additional-forms/)
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ In some cases, you may need to turn in one or more additional forms to support y
 <div itemprop="text">
 
 No. You can only upload evidence to support your initial disability claim. <br>
-[Learn more about filing an appeal](/disability/file-an-appeal/).
+[Learn more about filing an appeal](/disability/file-an-appeal/)
 
 </div>
 </div>
