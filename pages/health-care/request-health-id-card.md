@@ -42,7 +42,7 @@ Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 **Online** 
 
-You can apply [online](https://www.va.gov/health-care/how-to-apply/).
+You can apply [online](/health-care/how-to-apply/).
 
 **In person** 
 
@@ -104,12 +104,12 @@ Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8
 ## Interested in another type of VA ID card?
 
 There are other types of identification cards you can get to show you’re a Veteran. 
-See the types of [Veteran ID cards](https://www.va.gov/records/get-veteran-id-cards/).
+See the types of [Veteran ID cards](/records/get-veteran-id-cards/).
 
 ## Learn how to get VA health care
 
 Apply for VA health care benefits, manage your appointments and benefits, and more. 
-Learn about [VA health benefits](https://www.va.gov/health-care/).
+Learn about [VA health benefits](/health-care/).
 
 ## Need help understanding your benefits or accessing services?
 
