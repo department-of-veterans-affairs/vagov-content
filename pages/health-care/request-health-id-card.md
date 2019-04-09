@@ -8,6 +8,18 @@ description:
 concurrence: 
 spoke: Get Benefits
 order: 6 
+relatedlinks:
+  - heading: More information and resources
+    links:
+    - url: /records/get-veteran-id-cards/
+      title: Other Veteran ID cards
+      description: Learn about the other types of identification cards you can get to show you’re a Veteran.
+    - url: /health-care/
+      title: Get VA health care
+      description: Learn how to apply for VA health care benefits, manage your appointments and benefits, and more.
+    - url: /healthbenefits/cost/index.asp
+      title: VA health care costs 
+      description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
 ---
 
 <div class="va-introtext">
