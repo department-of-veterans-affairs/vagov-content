@@ -38,23 +38,23 @@ You can use your GI Bill benefits at some—but not all—schools. Use the resou
 ## Learn about GI Bill benefits at different schools
 
 - Find out which schools we’ve approved.<br>
-[Use our school search tool]( https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do;jsessionid=qtMbSxQFpzyL7GpnQrtnNGv6G9CGQQvb2YqM9Cvw3vB2pv2lXhfJ!-1531379871).
+[Use our school search tool]( https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do;jsessionid=qtMbSxQFpzyL7GpnQrtnNGv6G9CGQQvb2YqM9Cvw3vB2pv2lXhfJ!-1531379871)
 - Learn about the Principles of Excellence program, which requires schools that get federal funding through programs such as the GI Bill to follow certain guidelines.<br>
-[Learn about the Principles of Excellence program guidelines](/education/choosing-a-school/principles-of-excellence/).
+[Learn about the Principles of Excellence program guidelines](/education/choosing-a-school/principles-of-excellence/)
 - Find schools that take part in the Yellow Ribbon Program, which can help you pay for school costs not covered by the Post-9/11 GI Bill.<br>
-[Learn more about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
+[Learn more about the Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - Check what benefits you’ll get at different schools.<br>
-[Use our GI Bill Comparison Tool](/gi-bill-comparison-tool).
+[Use our GI Bill Comparison Tool](/gi-bill-comparison-tool)
 
 ## Get guidance on choosing and paying for a school
 
 - Watch our "Know Before You Go" video to get advice from other Veterans based on their experiences using the GI Bill.<br>
-[Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4).
+[Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4)
 - Read our "Factors to Consider When Choosing a School" guide to using the GI Bill.<br>
-[Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf).
+[Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf)
 - Visit the Consumer Financial Protection Bureau's Paying for College website for tools and resources to help you make smart decisions about paying for your college education.<br>
-[Visit the Paying for College website](https://www.consumerfinance.gov/paying-for-college/).
+[Visit the Paying for College website](https://www.consumerfinance.gov/paying-for-college/)
 - Go to the U.S. Department of Education's  College Scorecard website to compare schools by programs, degrees, location, and size. And get more information about the schools you're considering, like the average annual cost, graduation rate, and average salaries of school alumni.<br>
-[Visit the College Scorecard website](https://collegescorecard.ed.gov/).
+[Visit the College Scorecard website](https://collegescorecard.ed.gov/)
 - Visit the Federal Trade Commission's consumer website for helpful tips and information on managing money, credit, and debt.<br>
-[Visit the Federal Trade Commission's website](https://www.consumer.ftc.gov).
+[Visit the Federal Trade Commission's website](https://www.consumer.ftc.gov)
