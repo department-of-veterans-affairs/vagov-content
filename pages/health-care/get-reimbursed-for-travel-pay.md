@@ -8,6 +8,21 @@ description:
 concurrence: 
 spoke: 
 order: 6
+relatedlinks:
+  - heading: More information on VA health benefits
+    links:
+    - url: /health-care/schedule-view-va-appointments/
+      title: Schedule and view VA appointments online
+      description: Want to schedule some VA health care appointments online? You can do that, view your appointments, and more.
+    - url: /health-care/refill-track-prescriptions/
+      title: Refill and track your VA prescriptions
+      description: You can order a prescription refill and track your shipment online.
+    - url: /health-care/health-needs-conditions/  
+      title: Health needs and conditions
+      description: Learn how to get VA services for mental health, women’s health, and other specific needs.
+    - url: /disability/eligibility/  
+      title: Disability benefits
+      description: Do you have an illness or injury that was caused—or made worse—by your active-duty service? Find out if you can get disability compensation (monthly payments) from VA.
 ---
 
 <div class="va-introtext">
@@ -126,3 +141,10 @@ income limit
 
 Learn more about [annual income limits](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=2684) and 
 [pension rates](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
+
+## Get more information
+
+### [Get a copy of the VA travel form](http://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf)
+
+You’ll need to fill out and submit this form to be reimbursed for every health care appointment requiring travel.
+
