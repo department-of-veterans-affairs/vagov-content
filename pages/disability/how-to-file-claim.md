@@ -46,9 +46,9 @@ Find out how to file a claim for disability compensation or increased disability
 - Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 
-[Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims). <br>
+[Learn more about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims) <br>
 
-- [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/additional-forms/). <br>
+- [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/additional-forms/) <br>
 
 
 <div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
@@ -64,7 +64,7 @@ Find out how to file a claim for disability compensation or increased disability
 
 Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence. <br>
 
-[Find out what evidence we'll need for your claim](/disability/how-to-file-claim/evidence-needed/).
+[Find out what evidence we'll need for your claim](/disability/how-to-file-claim/evidence-needed/)
 
 We'll also review your discharge papers (DD214 or other separation documents) and service treatment records.
 
