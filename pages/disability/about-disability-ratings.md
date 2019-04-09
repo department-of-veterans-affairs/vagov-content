@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: How VA Assigns Disability Ratings
+title: About VA Disability Ratings | Veterans Affairs
+heading: About VA Disability Ratings
 display_title: About Disability Ratings
-description: Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition.
+description: Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition. 
+keywords: va disability ratings, va disability rating chart, va disability percentages for conditions, va disability rating
 template: detail-page
 order: 1
 aliases:
@@ -12,16 +14,16 @@ children: disabilityAboutRatings
 ---
 <div class="va-introtext">
 
-Find out how we determine your disability rating.
+Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition.
 
 </div>
 
-### What is a disability rating?
+### What is a VA disability rating?
 
 We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate.
 
 
-### What does VA use to decide my disability rating?
+### What does VA use to decide my VA disability rating?
 
 We base your rating on:
 
@@ -32,7 +34,7 @@ We base your rating on:
 If you have more than one disability, we use a Combined Ratings table to calculate your disability percentage. <br>
 [View the Combined Ratings table](https://www.benefits.va.gov/COMPENSATION/rates-index.asp#combinedRatingsTable1).
 
-To learn more about how disability ratings work, you can watch our video about how we decide your rating: <br>
+To learn more about how VA disability ratings work, you can watch our video about how we decide your rating: <br>
 [Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg)
 
 ### How do ratings work for a disability I had before entering the service that got worse because of my service?
@@ -48,7 +50,6 @@ Yes. We may increase your monthly payments if one or more of these is true for y
 - Very severe disability or loss of limb, **or**
 - Spouse, child, or dependent parent and your combined disability is 30% or greater, **or**
 - Spouse with a serious disability
-
 
 ### Is there anything else that might affect my compensation amount?
 

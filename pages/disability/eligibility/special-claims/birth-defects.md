@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Birth Defects (Spina Bifida) Linked to Agent Orange
+title: Birth Defects (Spina Bifida) | Veterans Affairs 
+heading: Birth Defects (Spina Bifida) Linked to Agent Orange
 display_title: Birth Defects
 description: Learn about VA disability compensation and other benefits for children of Veterans with birth defects related to Agent Orange exposure. If you served in South Vietnam or the Republic of Korea, and your child has spina bifida or certain other birth defects, find out if they qualify for benefits.
+keywords: agent orange birth defects, agent orange vietnam birth defects, vietnam war birth defects, spina bifida and agent orange, spina bifida agent orange, agent orange birth defects vietnam, agent orange spina bifida, vietnam birth defects
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-asbestos.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
@@ -14,14 +16,14 @@ aliases:
 
 <div class="va-introtext">
 
-Spina bifida is a spinal cord birth defect. A baby develops spina bifida while still in the womb. In some cases, a parent’s past contact with specific chemicals causes this birth defect. If you served in South Vietnam or the Republic of Korea—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits. Find out if your child qualifies for benefits.
+Agent Orange, a toxic chemical used to clear trees and plants during the war, has been linked to some birth defects, including spina bifida. Spina bifida is a spinal cord birth defect. A baby develops spina bifida while still in the womb. In some cases, a parent’s past contact with specific chemicals causes this birth defect. If you served in South Vietnam or the Republic of Korea—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits. Find out if your child qualifies for benefits.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can my child get disability benefits from VA?
+### Is my child eligible for VA disability benefits?
 
 <br>
 

@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Clothing Allowance for Veterans with Certain Disabilities
+title: Replacing Damaged Clothing | Veterans Affairs
+heading: VA Clothing Allowance for Veterans with Certain Disabilities
 display_title: Clothing Allowance
 description: Find out if you can get a VA clothing allowance to replace clothing damaged by your prosthetic or orthopedic device or by certain medicines. To get a yearly payment, you'll need to qualify by August 1 of each year. Learn more about rates and how to file a claim.
+keywords: va clothing allowance, va clothing allowance form, how much is va clothing allowance, va disability clothing allowance, clothing allowance for disabled veterans
 concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -14,13 +16,13 @@ aliases:
 
 <div class="va-introtext">
 
-Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be able to get money each year to help you buy new clothes. This is a disability compensation benefit known as an annual clothing allowance. Find out if you can get this benefit.
+Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be eligible for an annual VA clothing allowance. Find out if you are eligible for this benefit. 
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
 You may be able to get disability benefits if you meet both of the requirements listed below.
 
@@ -41,7 +43,7 @@ Veterans
 - A one-time payment, **or**
 - A yearly payment <br>
 
-**Note:** The current clothing allowance rate is $817.48. <br>
+**Note:** The current VA clothing allowance rate is $817.48. <br>
 
 [View current rates for special allowances](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2018.asp).
 
@@ -57,7 +59,7 @@ An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
 
 Bring it to the prosthetic representative at your local VA medical center. 
 
-To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
+To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one VA clothing allowance payment if you meet at least one of the requirements listed below.
 
 **At least one of these must be true:**
 - You have more than one prosthetic or orthopedic device, **or**

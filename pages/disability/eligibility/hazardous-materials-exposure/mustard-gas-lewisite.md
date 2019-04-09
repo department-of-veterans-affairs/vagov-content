@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Mustard Gas or Lewisite Exposure
+title: Contact with Mustard Gas or Lewisite | Veterans Affairs 
+heading: Mustard Gas or Lewisite Exposure
 display_title: Mustard Gas or Lewisite
 description: Find out if you can get VA disability pay and other benefits for illnesses related to mustard gas or lewisite exposure. You may have had contact with mustard gas or lewisite if you served in certain areas during WW2 or if you participated in biological and chemical testing.
+keywords: mustard gas, mustard gas exposure, lewisite, lewisite exposure
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-mustard.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -13,16 +15,16 @@ order: 4
 
 <div class="va-introtext">
 
-If you had contact with mustard gas (also known as sulfur mustard, yperite, or nitrogen mustard) or lewisite, a natural compound that contains the poison arsenic, you may have certain related long-term illnesses. Find out if you can get disability compensation or benefits.
+If you were exposed to mustard gas (also known as sulfur mustard, yperite, or nitrogen mustard) or lewisite, a natural compound that contains the poison arsenic, you may have certain related long-term illnesses. Find out if you can get disability compensation or benefits for exposure to mustard gas or lewisite. 
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you have a disability believed to be caused by contact with mustard gas or lewisite and your military record shows you had contact with mustard gas or lewisite.
+You may be able to get disability benefits if you have a disability believed to be caused by mustard gas exposure or lewisite exposure and your military record shows you had contact with 1 of these chemicals.
 
 **If you were in the Army** and served in these places:
 - Bari, Italy
@@ -78,7 +80,7 @@ You have to claim an actual disease or disability. It’s not enough to state th
 
 ### What if I need help filing my disability claim?
 
-If you have questions about benefits related to mustard gas exposure, you can contact us via email. <a href="mailto:mustardgas@vba.va.gov">Email us at mustardgas@vba.va.gov</a>
+If you have questions about benefits related to mustard gas exposure or lewisite exposure, you can contact us via email. <a href="mailto:mustardgas@vba.va.gov">Email us at mustardgas@vba.va.gov</a>
 
 You can also get help from a trained professional trusted to help with VA-related claims. [Get help filing your claim](/disability/get-help-filing-claim/).
 

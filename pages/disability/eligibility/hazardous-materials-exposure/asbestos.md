@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Veterans Asbestos Exposure
+title: Asbestos | Veterans Affairs 
+heading: Veterans Asbestos Exposure
 display_title: Asbestos
 description: Find out if you can get VA disability pay for illnesses related to asbestos exposure. You may have had contact with asbestos if you served in Iraq or other countries in the Middle East and Southeast Asia, or if you worked in certain jobs or settings, like shipyards, construction, or vehicle repair.
+keywords: asbestos exposure, veterans asbestos exposure, va disability rating for asbestos exposure
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-asbestos.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
@@ -14,16 +16,17 @@ order: 3
 
 <div class="va-introtext">
 
-Asbestos is a material that was once used in many buildings and products. If you served in Iraq or other countries in the Middle East and Southeast Asia, you may have had contact with asbestos when old buildings got damaged, releasing toxic chemicals into the air. Or, you may have had contact with asbestos if you worked in certain jobs or settings, like shipyards, construction, or vehicle repair. Find out if you can get disability compensation or benefits for illnesses believed to be caused by asbestos.
+Find out if you can get VA disability benefits for illnesses related to asbestos exposure. You may have been exposed to asbestos if you served in Iraq or other countries in the Middle East and Southeast Asia, when old buildings got damaged, releasing toxic chemicals into the air.
+Or, you may have been exposed to asbestos if you worked in certain jobs or settings, like shipyards, construction, or vehicle repair.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I get disability benefits from VA?
+### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you have an illness believed to be caused by contact with asbestos and you meet both of the requirements listed below. 
+You may be able to get disability benefits if you have an illness believed to be caused by asbestos exposure and you meet both of the requirements listed below. 
 
 **Both of these must be true:**
 
@@ -54,7 +57,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-### How do I know if I have an illness caused by my contact with asbestos?
+### How do I know if I have an illness caused by asbestos exposure?
 If you worked in certain jobs or with certain products, talk to your doctor about getting tested for illnesses that affect your lungs.
 
 

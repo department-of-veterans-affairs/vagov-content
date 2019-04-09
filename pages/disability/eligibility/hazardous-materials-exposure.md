@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Hazardous Chemicals and Materials
+title: Exposure to Hazardous Chemicals and Materials | Veterans Affairs
+heading: Exposure to Hazardous Chemicals and Materials
 display_title: Exposure to Hazardous Materials
 description: Learn about chemical hazards or other hazardous materials you may have come in contact with during military service. Find out if you can get VA disability compensation for illnesses related to exposure to hazardous chemicals or materials.
+keywords: hazardous materials, chemical hazard
 plainlanguage: 10-24-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 1
@@ -47,14 +49,15 @@ aliases:
 
 <div class="va-introtext">
 
-Find out if you can get disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by contact with harmful chemicals or other hazardous materials while serving in the military.
+Learn about chemical hazards or other hazardous materials you may have come in contact with during military service. Find out if you can get VA disability compensation for illnesses or other conditions, like the ones listed below, believed to be caused by exposure to hazardous materials or chemical hazards.
+
 </div>
 
 <div class="feature" markdown="1">
 
 ### Medical Care for Volunteers Involved in Chemical and Biological Testing
 
-As many as 60,000 Veterans volunteered for medical research for the U.S. Biological and Chemical Programs between 1942 and 1975. You can get medical care through the U.S. Army if you volunteered for this research and have an injury or illness directly caused by your participation.
+As many as 60,000 Veterans volunteered for medical research for the U.S. Biological and Chemical Programs between 1942 and 1975. If you volunteered for this research, you may have been exposed to hazardous materials or chemical hazards. You can get medical care through the U.S. Army if you volunteered for this research and have an injury or illness directly caused by your participation.
 
 If you have questions or need help getting medical care: 
 - [Visit the U.S. Army web page](https://armymedicine.health.mil/CBTP), **or** 
