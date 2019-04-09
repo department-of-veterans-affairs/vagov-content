@@ -40,7 +40,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="smc-k-q">SMC-K and SMC-Q rates</button>
 <div id="smc-k-q" class="usa-accordion-content">
 
-| SMC letter classification  | Monthly payment | How this payment variation works | 
+| SMC letter designation  | Monthly payment | How this payment variation works | 
 | -- | -- |-- |
 | **SMC-K** | $108.57 | If you qualify for SMC-K, we add this rate to your basic disability compensation rate for any disability rating from 0% to 100% . We also add this rate to all SMC basic rates except SMC-O, SMC-Q, and SMC-R. You may receive one to 3 SMC-K awards in addition to basic and SMC rates. |
 | **SMC-Q** | $67.00 | This is a protected rate that we haven't awarded since August 19, 1968. If we awarded you an MC-Q designation, we pay this rate in place of your basic disability compensation rate.|
@@ -52,7 +52,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 <strong>Effective December 1, 2018</strong>
 
 **Levels L through O** cover specific disabilities and situations. <br>
-[Read more about SMC levels L through O](#l-o-details)<br>
+[Learn how we assign SMC levels L through O](#l-o-details)<br>
 **Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 **Level R** may apply if you need daily help from another person for basic daily needs (like dressing, eating, and bathing).
 
@@ -186,13 +186,13 @@ Start with the <strong>Basic special monthly compensation rates</strong> table. 
 
 We provide different rates for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly payment, find your basic SMC rate. Then look at the <strong>Added amounts</strong> table. Add the amount for each child, depending on their age and school status and your SMC designation.
 
-<strong>For example:</strong> If you were a Veteran with an SMC-L designation, and you had 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, you would start with your basic SMC rate of $4,099.32 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) and the rate of $273.58 for each additional child over 18 in a qualifying school program. 
+<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, and you had an SMC-L designation, you would start with your basic SMC rate of $4,099.32 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under age 18 (so $84.69 x 3) and the rate of $273.58 for each additional child over 18 in a qualifying school program. 
 
 Your total monthly payment would be $4,099.32 + ($84.69 x 3) + $273.58 = <strong>$4,626.97</strong>.
 
 <strong>If you have a spouse who receives Aid and Attendance</strong>
 
-To find your total monthly payment, first find your basic SMC rate. Then look at the <strong>Added amounts</strong>. Find the rate for a spouse receiving Aid and Attendance for your SMC designation and add it to your basic SMC rate. If you have more than one child, add the amount for each additional child as well. 
+First find your basic SMC rate. Then look at the <strong>Added amounts</strong>. Find the rate for a spouse receiving Aid and Attendance based on your SMC designation, and add it to your basic SMC rate. If you have more than one child, add the amount for each additional child as well. 
 
 <strong>For example:</strong> If you were a Veteran with 2 dependent children under 18 and a dependent spouse receiving Aid and Attendance, and you had an SMC-L designation, you would start with your basic SMC rate of $4,099.32 for a Veteran with one child and spouse (no parents). You would then add the rate of $84.69 for each additional child under age 18 (so $84.69 x 2) as well as the rate of $156.32 for a spouse receiving Aid and Attendance. 
 
@@ -230,23 +230,23 @@ Your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32
 <span id="smc-n-s-how-a"></span>
 <h5>How to use these tables to find your monthly payment</h5>
 
-Start with the <strong>Basic SMC rates</strong> table. Find the dependent status in the left column that best describes you. Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly payment.
+Start with the <strong>Basic special monthly compensation rates</strong> table. Find the dependent status in the left column that best describes you. Then look for your SMC letter designation in the top row. Where your dependent status and SMC letter meet, you'll find your monthly payment.
 
 <strong>For example:</strong> If you were a Veteran with one dependent child and a dependent spouse but no dependent parents, and you had an SMC-N 1/2 designation, you'd receive <strong>$5,351.88</strong> each month.
 
 <strong>If you have more than one child</strong>
 
-We provide different rates for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly payment, find your basic SMC rate. Then look at the <strong>Added amounts</strong> table. Aadd the amount for each child, depending on their age and school status and your SMC designation.
+We provide different rates for children who are under the age of 18 and those who are over 18 and in a qualifying school program. To find your total monthly payment, find your basic SMC rate. Then look at the <strong>Added amounts</strong> table. Add the amount for each child, depending on their age and school status and your SMC designation.
 
-<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, and you had an SMC-N 1/2 classification, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
+<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, and you had an SMC-N 1/2 designation, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under 18 (so $84.69 x 3) as well as the rate of $273.58 for each additional child over 18 in a qualifying school program. 
 
 Your total monthly payment would be $5,351.88 + ($84.69 x 3) + $273.58 = <strong>$5,879.53</strong>.
 
 <strong>If you have a spouse who receives Aid and Attendance</strong>
 
-To find your total monthly payment, first find you basic SMC rate. Then look at the <strong>Added amounts</strong> table. Find the rate for a spouse receiving Aid and Attendance for your SMC designation and add it to your basic SMC rate. If you have more than one child, add the amount for each additional child as well. 
+First find your basic SMC rate. Then look at the <strong>Added amounts</strong> table. Find the rate for a spouse receiving Aid and Attendance based on your SMC designation, and add it to your basic SMC rate. If you have more than one child, add the amount for each additional child as well. 
 
-<strong>For example:</strong> If you were a Veteran with 2 dependent children under 18 and a dependent spouse receiving Aid and Attendance, and you had an SMC-N 1/2 classification, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under 18 (so $84.69 x 2) and the rate of $156.32 for a spouse receiving Aid and Attendance. 
+<strong>For example:</strong> If you were a Veteran with 2 dependent children under 18 and a dependent spouse receiving Aid and Attendance, and you had an SMC-N 1/2 designation, you would start with your basic SMC rate of $5,351.88 for a Veteran with one child and spouse (no parents). Then you would add the rate of $84.69 for each additional child under 18 (so $84.69 x 2) and the rate of $156.32 for a spouse receiving Aid and Attendance. 
 
 Your total monthly payment would be $5,351.88 + ($84.69 x 2) + $156.32 = <strong>$5,762.27</strong>. <br>
 <br>
@@ -261,9 +261,9 @@ Your total monthly payment would be $5,351.88 + ($84.69 x 2) + $156.32 = <strong
 ------
 
 <span id="#l-o-details"></span>
-<h2>Classification information for SMC levels L through O</h2>
+<h2>How we assign SMC levels L through O</h2>
 
-<strong>We classify SMC levels based on very specific situations and combinations of situations, including:</strong>
+<strong>We assign SMC levels based on very specific situations and combinations of situations, including:</strong>
 - The amputation of one or more limbs or extremities
 - The loss of use of one or more limbs or extremities (meaning you have no effective function remaining)
 - The physical loss of one or both eyes
@@ -379,7 +379,7 @@ Select an SMC letter below to learn more about the specific situations and combi
 - Had one knee amputated, and have had one arm amputated so close to the shoulder that you can't wear a prosthesis, <strong>or</strong>
 - Had one elbow amputated, and have had one leg amputated so close to the hip that you can't wear a prosthesis, <strong>or</strong>
 - Had one hand and one elbow amputated, <strong>or</strong>
-- Had one hand amputated, and have lost the use of use of one elbow 
+- Had one hand amputated, and have lost the use of one elbow 
 
 <strong>Or you have:</strong>
 - Lost the use of one knee, and have had one leg amputated so close to the hip that you can't wear a prosthesis, <strong>or</strong>
@@ -491,14 +491,14 @@ Select an SMC letter below to learn more about the specific situations and combi
 
 <strong>You have:</strong>
 - Had both arms amputated so close to the shoulder that you can't wear a prosthesis, <strong>or</strong> 
-- Complete paralysis of both legs with the inability to control your bladder or bowels
+- Complete paralysis of both legs that's resulted in being unable to control your bladder or bowels
 
 <strong>Or you have:</strong>
-- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 60% or more disabling, and have blindness in both eyes<strong>or</strong> 
-- Hearing loss in both ears (only one ear’s deafness has to be caused by military service) that's rated as 40% or more disabling, and have blindness in both eyes with only the ability to perceive light, <strong>or</strong> 
+- Hearing loss in both ears (with at least one ear’s deafness caused by military service) that's rated as 60% or more disabling, and you have blindness in both eyes<strong>or</strong> 
+- Hearing loss in both ears (with at least one ear’s deafness caused by military service) that's rated as 40% or more disabling, and you have blindness in both eyes with only the ability to perceive light, <strong>or</strong> 
 - Total deafness in one ear as well as blindness in both eyes with only the ability to perceive light 
 
-<strong>Or you have total blindness without the ability to see light, and have:</strong>
+<strong>Or you have total blindness without the ability to see light, and you have:</strong>
 - Deafness in both ears (rated as 30% or more disabling), <strong>or</strong>
 - Had one foot amputated, <strong>or</strong>
 - Lost the use of one foot (rated as 50% or more disabling), <strong>or</strong> 
