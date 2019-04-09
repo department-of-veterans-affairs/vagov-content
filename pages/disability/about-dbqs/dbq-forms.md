@@ -38,4 +38,4 @@ box and click “Enter.” You can also search by the form number.
 | --- | --- | --- |
 | ALS or Lou Gehrig’s Disease, including progressive muscle weakness and wasting, speech, swallowing and breathing problems. | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
 | Diabetic nerve damage, including weakness, numbness, tingling of legs and arms related to diabetes. | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
-| Issues concerning specific nerves in the brain, including: - V (trigeminal) -	VII (facial) - IX (glossopharyngeal) - X (vagus) - XI (spinal accessory) - XII (hypoglossal) | 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
+| Issues concerning specific nerves in the brain, including: <ul><li>V (trigeminal)</li><li>VII (facial)</li><li>IX (glossopharyngeal)</li><li>X (vagus)</li><li>XI (spinal accessory)</li><li>XII (hypoglossal)</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
