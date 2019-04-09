@@ -134,7 +134,6 @@ One of these must be true:
 One of these must be true:
 
 **The United States Merchant Mariner died on or after November 11, 1998.**
-
 They had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946.
 
 A DD214 documenting this service may be obtained by submitting an application to:
