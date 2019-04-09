@@ -11,10 +11,10 @@ order:
 relatedlinks:
   - heading: More information and resources
     links:
-  - url: /dental/
+    - url: /dental/
     title: VA dental care link
     description: We offer comprehensive dental care benefits to qualifying Veterans. Learn more about the dental care that may be available to you.
-  - url: /DENTAL/Dental-Clinic-Locations-Finder.asp
+    - url: /DENTAL/Dental-Clinic-Locations-Finder.asp
     title: VA dental clinic locations link
     description: We offer more than 200 locations where you can get dental care. Find the closest dental clinic to you.
 ---
