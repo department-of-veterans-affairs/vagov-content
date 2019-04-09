@@ -18,7 +18,6 @@ relatedlinks:
     title: VA dental clinic locations link
     description: We offer more than 200 locations where you can get dental care. Find the closest dental clinic to you.
 ---
-
 <div class="va-introtext">
   
 If you need private dental insurance, the VA Dental Insurance Program (VADIP) 
