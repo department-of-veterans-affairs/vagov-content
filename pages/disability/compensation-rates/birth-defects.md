@@ -32,7 +32,7 @@ relatedlinks:
 View current compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects. 
 </div>
 
-<h2>Current special allowances rates, effective December 1, 2018</h2>
+<h2>Rates effective December 1, 2018</h2>
 
 The tables below show monthly payment amounts based on the severity of the child's disability, ordered from least to most disabling.
 
@@ -59,6 +59,8 @@ The tables below show monthly payment amounts based on the severity of the child
 - [Find out how to apply for compensation for your child](/disability/eligibility/special-claims/birth-defects/)
 - [Learn more about birth defects linked to service in Vietnam or Korea](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/index.asp)
 
-<h2>View historic rate tables for past years</h2>
+<h2>Historic rates</h2>
+
+View birth defect compensation rates for past years.
 
 [2017](https://www.benefits.va.gov/COMPENSATION/sb2017.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/sb2016.asp) | [2014](https://www.benefits.va.gov/COMPENSATION/sb2014.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/sb2013.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/sb2012.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/sb2011.asp)| [2009](https://www.benefits.va.gov/COMPENSATION/sb2009.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/sb2008.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/sb2007.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/sb2006.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/sb2005.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/sb2004.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/sb2003.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/sb2002.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/sb2001.asp) | [2000)](https://www.benefits.va.gov/COMPENSATION/sb2000.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/sb1999.asp) | Before 1999 (excel)
