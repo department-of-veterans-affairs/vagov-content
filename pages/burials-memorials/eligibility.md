@@ -153,19 +153,36 @@ Washington, DC 20593 <br>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veteran</button>
 <div id="philippine-armed-forces" class="usa-accordion-content">
   
-The Philippine Veteran must have been:
+Both of these must be true. The Philippine Veteran was:
 - A citizen of the United States or an alien lawfully admitted for permanent residence in the United States at the time of their death, <b>and</b>
 - Residing in the United States at the time of their death
 
-And was a person who served before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including organized guerilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who died on or after November 1, 2000; or,
-
-Was a person who enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, pursuant to section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who died on or after December 16, 2003.
+And one of these must be true. The Philippine Veteran:
+- Served before July 1, 1946, in the Philippine military (including recognized guerilla forces), while these forces were in the service of the Armed Forces of the United States, and died on or after November 1, 2000, **or**
+- Enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, and died on or after December 16, 2003
 </div>
 </li>
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
 <div id="hmong-veteran" class="usa-accordion-content">
+
+All of these must be true. You:
+- Died on or after March 23, 2018, **and**
+• resided in the U.S. at the time of death, and
+• were naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
+
+The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements for you if you're in one of these categories. You: 
+- Served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and** 
+- Are the spouse of special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and**
+- Are married to an individual who served in special guerilla units or irregular forces who died in Laos, Thailand, or
+Vietnam anytime from February 28, 1961, to September 18, 1978
+
+Naturalization under the 2000 Act was also available for spouses of
+those who served in SGU/irregular forces and surviving spouses of those who were killed or died in
+action while serving in SGU/irregular forces. However, section 251 of Public Law 115-141 only
+amended VA’s burial eligibility statute to inter eligible Hmong fighters, not their spouses or surviving
+spouses. 
 
 The Veteran must have been naturalized under the Hmong Veterans' Naturalization Act of 2000.<br>
 [Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
