@@ -18,7 +18,7 @@ relatedlinks:
       description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/get-help-filing-claim/
       title: Get help filing your claim
-      description: "Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim."
+      description: "Learn how an accredited representative with a Veterans service organization can help you file a disability claim."
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
@@ -48,7 +48,7 @@ You may be able to get benefits if you have an illness that’s at least 10% dis
   -	The illness is listed in Title 38, Code of Federal Regulation, 3.09(a), **and**
   -	You didn't receive a dishonorable discharge <br>
 
-[See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc). <br>
+[See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc) <br>
 
 
 ### Who’s covered?
@@ -71,8 +71,8 @@ You’ll need to file a claim for disability compensation and submit your eviden
 - It appeared within 1 year after being discharged from active service (for example, you may submit a medical report that shows the date of your diagnosis)
 
 If you have an illness listed in Title 38, Code of Federal Regulation, 3.09(a), you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases that appear within 1 year of your discharge are related to your service. We refer to these as “presumptive diseases.” <br>
-[See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc). <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc) <br>
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 **Exceptions**<br>
 The following diseases are covered, even if they appear more than 1 year after you separated from service:
@@ -81,4 +81,4 @@ The following diseases are covered, even if they appear more than 1 year after y
 -	Hansen&#8217;s disease (a long-lasting infection that affects your skin, nerves, and mucous membranes) can appear within 3 years after discharge.
 -	Tuberculosis (an infection that attacks your lungs and sometimes other areas of your body) can appear within 3 years after discharge.
 -	Multiple sclerosis (a long-lasting illness that can cause numbness, weakness, and many other symptoms) can appear within 7 years after discharge.
--	Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig’s Disease (a long-lasting illness that affects muscle control), can appear any time after discharge.
+-	Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig’s disease (a long-lasting illness that affects muscle control), can appear any time after discharge.
