@@ -124,11 +124,9 @@ hublinks:
       - url: /health-care/update-health-information/
         label: Update Your Health Benefits Information (VA Form 10-10EZR)
         description: Update your personal, financial, or insurance information after you’re enrolled in the VA health care program.
-      - url: https://www.pay.gov/public/form/start/25987221
-        external: true
-        target: _blank
-        label: Make a VA Health Care Payment Online
-        description: Pay your VA copay securely online through Pay.gov.
+      - url: /health-care/pay-copay-bill/
+        label: Pay Your Copay Bill 
+        description: Pay your VA copay securely online, by phone or mail, or in person—and find out what to do if you're struggling to make payments.
       - url: /claim-or-appeal-status/
         label: Check Your Appeal Status
         description: Track the status of an open VA health care appeal.
@@ -139,10 +137,9 @@ hublinks:
   - id: "more"
     title: More Information and Resources
     links:
-      - url: https://www.va.gov/healthbenefits/cost/index.asp
-        external: true
-        label: VA Health Care Costs
-        description: Learn about your copay, financial assessment, and how VA health care works with private health insurance.
+      - url: /health-care/copay-rates/
+        label: Copay Rates
+        description: View our current copay rates for different types of care, tests, and medications.
       - url: /health-care/health-needs-conditions/mental-health/
         label: Mental Health Services
         description: Find out how to access VA mental health services for posttraumatic stress disorder (PTSD), psychological effects of military sexual trauma (MST), depression, grief, anxiety, and other needs.
@@ -171,7 +168,7 @@ hublinks:
         description: Get information about your VA facility, like how quickly you can be seen and what other Veterans say about their experiences.
       - url: https://www.va.gov/health/rights/patientrights.asp
         external: true
-        label:  Patient Rights and Responsibilities
+        label: Patient Rights and Responsibilities
         description: Read about your basic rights and responsibilities when you receive care at a VA health facility or live in a VA community living center.
 
 ---

@@ -10,6 +10,18 @@ collection: healthCare
 children: healthEligibility
 spoke: Get Benefits
 order: 2
+relatedlinks:
+  - heading: Other information you may need
+    links:
+    - url: /health-care/about-va-health-benefits/health-care-costs/
+      title: Your health care costs
+      description: Find out more about how we assess and verify your income to help determine your eligibility and whether you'll pay copays for certain types of care, tests, and medications.
+    - url: /health-care/copay-rates/
+      title: Copay rates
+      description: View current copay rates for different types of care, tests, and medications.
+    - url: /health-care/about-va-health-benefits/va-health-care-and-other-insurance/
+      title: VA health care and other insurance
+      description: Learn how VA works with other insurance (like a private insurance plan, Medicare, Medicaid, or TRICARE).
 widgets:
   - root: react-applicationStatus
     timeout: 20
@@ -62,6 +74,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </div>
 </div>
 
+<span id="enhanced"></span>
 <div itemscope itemtype="http://schema.org/Question">
 <h3 itemprop="name">Is there anything that will make me more likely to get these benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -84,8 +97,9 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
 - Served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
 
-**If none of the above apply to you**, you may still qualify for care based on your income. Learn more about how the amount of money your family makes can affect whether you qualify for VA benefits. <br>
-[Learn more about income limits](http://nationalincomelimits.vaftl.us/).
+**If none of the above apply to you**, you may still qualify for care based on your income. <br>
+[Learn how we assess and verify your income](/health-care/about-va-health-benefits/health-care-costs/).
+[View our current income limits](http://nationalincomelimits.vaftl.us/).
 
 </div>
 </div>
@@ -166,7 +180,8 @@ You can get help in any of these ways:
 When you apply for VA health care, you’ll be assigned 1 of 8 priority groups. This system helps to make sure that Veterans who need immediate care can get signed up quickly.
 
 Your priority group may affect how soon we sign you up for health care benefits. It may also affect how much (if anything) you’ll have to pay toward the cost of your care.<br/>
-[Learn more about health benefit copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copay_rates.asp).
+[Learn more about health care costs](/health-care/about-va-health-benefits/health-care-costs/).
+[View current copay rates](/health-care/copay-rates/).
 
 **Your priority group will be based on:**
 
@@ -182,7 +197,6 @@ We assign Veterans with service-connected disabilities the highest priority. We 
 </div>
 </div>
 <br>
-
 <span id="other-health-insurance"></span>
 
 <div itemscope itemtype="http://schema.org/Question">
