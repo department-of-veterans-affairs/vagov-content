@@ -72,7 +72,7 @@ We’ll let you know when we receive your disability claim.
 
 ### Initial review
 
-A Veterans Service Representative (VSR) will review your claim. It’ll move to step 3 if we don’t need any more evidence to support it.
+A Veterans service representative (VSR) will review your claim. It’ll move to step 3 if we don’t need any more evidence to support it.
 
 </li>
 
@@ -112,9 +112,9 @@ We’ll send you a packet by U.S. mail that includes details of the decision on 
 If you disagree with our decision, you can appeal it.
 
 **If you received your decision before February 19, 2019,** you can start the appeals process by filing a Notice of Disagreement. <br>
-[Learn how to appeal your decision](/disability/file-an-appeal/).
+[Learn how to appeal your decision](/disability/file-an-appeal/)
 
 **If you received your decision on or after February 19, 2019,** you'll need to follow our new process for getting your decision reviewed. <br>
-[Learn how to get your decision reviewed](/decision-reviews/).
+[Learn how to get your decision reviewed](/decision-reviews/)
 
 <div markdown="0"><br></div>
