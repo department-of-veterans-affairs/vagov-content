@@ -16,7 +16,7 @@ order: 8
 
 If you served in the Southwest Asia theater of military operations, you may suffer from illnesses or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
 
-[Learn about service in Afghanistan and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/).  
+[Learn about service in Afghanistan and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/)
 
 </div>
 
@@ -53,8 +53,8 @@ We consider these illnesses to be presumed disabilities:
 - Shigella
 - West Nile Virus
 
-[Learn more about disabilities that appear within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/). <br>
-[Learn more about presumed disabilities](/disability/eligibility/).
+[Learn more about disabilities that appear within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/) <br>
+[Learn more about presumed disabilities](/disability/eligibility/)
 <br>
 
 ### Who’s covered?
@@ -73,9 +73,9 @@ Veterans
 ## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-[Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
+[Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp)
 
 ## What’s included in the Southwest Asia theater of military operations?
 - Iraq, Kuwait, Saudi Arabia
@@ -89,4 +89,4 @@ You’ll need to file a claim for disability compensation. <br>
 ## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
