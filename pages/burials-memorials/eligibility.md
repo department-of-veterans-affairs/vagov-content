@@ -113,15 +113,17 @@ The person served before July 29, 1945, and
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
 <div id="public-health-service-officer" class="usa-accordion-content">
   
-The officer must have served on full-time duty on or after July 29, 1945. If their service is considered active duty for training, he or she must have become disabled or died from a disease or injury caused or made worse by their service.
+One of these must be true true:
 
-The officer performed full-time duty prior to July 29, 1945:
+**The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, he or she must have become disabled or died from a disease or injury caused or made worse by their service.
+
+**The officer performed full-time duty prior to July 29, 1945:**
 
 - In time of war, <b>or</b>
 - On detail for duty with the Army, Navy, Air Force, Marine Corps, or Coast Guard, <b>or</b>
 - While a part of the military forces of the United States by executive order of the president
 
-The officer must have served on inactive duty training, and their death must have resulted from an injury caused or made worse by their service.
+**The officer served on inactive duty training,** and their death must have resulted from an injury caused or made worse by their service.
 </div>
 </li>
 
@@ -129,10 +131,11 @@ The officer must have served on inactive duty training, and their death must hav
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
 <div id="merchant-mariner" class="usa-accordion-content">
   
-The United States Merchant Mariner:
+One of these must be true:
 
-- Died on or after November 11, 1998, <b>and</b>
-- Had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946
+**The United States Merchant Mariner died on or after November 11, 1998.**
+
+They had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946.
 
 <b>Note:</b> A DD214 documenting this service may be obtained by submitting an application to:
 
@@ -143,9 +146,7 @@ United States Coast Guard<br>
 Washington, DC 20593 <br>
 </p>
 
-<b>or</b>
-
-The United States Merchant Mariner served on blockships in support of Operation Mulberry during World War II.
+**The United States Merchant Mariner served on blockships in support of Operation Mulberry during World War II.**
 </div>
 </li>
 
