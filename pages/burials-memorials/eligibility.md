@@ -167,12 +167,14 @@ And one of these must be true. The Philippine Veteran:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
 <div id="hmong-veteran" class="usa-accordion-content">
 
-All of these must be true. You:
-- Died on or after March 23, 2018, **and**
-• resided in the U.S. at the time of death, and
-• were naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
+The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements so that Hmong Veterans and their spouses are eligibile for burial in a national cemetery. 
 
-The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements for you if you're in one of these categories. You: 
+All of these must be true. The Hmong Veteran:
+- Died on or after March 23, 2018, **and**
+- Resided in the U.S. at the time of death, **and**
+- Was naturalized under the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
+
+And you must fit into one of these categories. You: 
 - Served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and** 
 - Are the spouse of special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and**
 - Are married to an individual who served in special guerilla units or irregular forces who died in Laos, Thailand, or
@@ -184,8 +186,6 @@ action while serving in SGU/irregular forces. However, section 251 of Public Law
 amended VA’s burial eligibility statute to inter eligible Hmong fighters, not their spouses or surviving
 spouses. 
 
-The Veteran must have been naturalized under the Hmong Veterans' Naturalization Act of 2000.<br>
-[Learn about Hmong Veterans' eligibility for burial and memorial benefits](https://www.cem.va.gov/cem/docs/factsheets/Hmong_Burial_Memorial_Benefits_Factsheet.pdf).
 </div>
 </li>
 </ul>
