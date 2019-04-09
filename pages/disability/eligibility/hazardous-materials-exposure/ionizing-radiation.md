@@ -28,7 +28,7 @@ You may be able to get disability benefits if you didn’t receive a dishonorabl
 - You have an illness that's on our list of illnesses believed to be caused by radiation or that doctors say may be caused by radiation, **and**
 - Your illness started within a certain period of time (as shown along with the list of illnesses)
 
-[See the list of radiation-related illnesses](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=38:1.0.1.1.4#se38.1.3_1309).
+[See the list of radiation-related illnesses](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=38:1.0.1.1.4#se38.1.3_1309)
 
 **And you must have had contact with ionizing radiation in one of these ways while serving in the military. You:**
 
@@ -68,7 +68,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 
 **Note:** When you file your claim, we’ll ask the military branch that you served with (or the Defense Threat Reduction Agency) to give us a range of how much radiation they think you may have come into contact with. We’ll use the highest level of the range they report to decide on your benefits.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 
 
