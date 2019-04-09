@@ -195,7 +195,7 @@ If you don’t have a Premium DS Logon account, find out how to create or upgrad
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one">Log in to eBenefits with your premium account.</li>
+  <li class="process-step list-one">Sign in to eBenefits with your premium account.</li>
   <li class="process-step list-two">Go to “Manage Health.”</li>
   <li class="process-step list-three">Select “Share your VA Medical Records.”</li>
   <li class="process-step list-four">Select “Login to Manage My Consent (Authorizations) and Preferences.” Then select “Start Consent (Authorization).”</li>

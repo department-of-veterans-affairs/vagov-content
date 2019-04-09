@@ -90,7 +90,7 @@ To access SOES, have your Servicemember:
   </li>
 </ol>
 
-Your Servicemember can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
+Your Servicemember can sign in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your Servicemember’s branch of service hasn’t yet started using SOES,** fill out the Spouse Coverage Election and Certificate and have your Servicemember turn it in to the personnel office for their unit. <br>
 [Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).
@@ -275,7 +275,7 @@ To access SOES, have your Servicemember:
   </li>
  </ol>
 
-Your Servicemember can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
+Your Servicemember can sign in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your Servicemember’s branch of service hasn’t yet started using SOES,** fill out the Spouse Coverage Election and Certificate and have your Servicemember turn it in to the personnel office for their unit. <br>
 [Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).

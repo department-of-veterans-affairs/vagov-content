@@ -66,7 +66,7 @@ You may be eligible for educational and vocational counseling if you meet both o
 <ol class="process">
 <li class="process-step list-one">
 
-Log in to your eBenefits account.
+Sign in to your eBenefits account.
 
 </li>
 

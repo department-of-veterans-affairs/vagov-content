@@ -71,7 +71,7 @@ There are two kinds of cookies.
 -	A Persistent Cookie is a line of text that is saved to a file on your hard drive and is called up the next time you visit that Web site. This lets the Web site remember information about your previous visits and use of the Web site. Persistent Cookies are generally not used by VA or other federal government Web sites, unless there is a compelling and authorized reason for their use. If any VA Web page uses a Persistent Cookie, then the Limited Privacy Policy for that Web page will clearly state the purpose and legal authority for such use. VA.gov does not use Persistent Cookies to retain information.
 
 We use Session Cookies in the following manner:
--	Log-in and log-off process: You do not have to log in and register to browse our site. However, if you decide to register with VA.gov, Session Cookies help with the log-in and log-off process. The cookies enable us to recognize your log-in ID when you log in so that we do not create a duplicate log-in or registration record for you.
+-	Sign-in and sign-out process: You do not have to sign in and register to browse our site. However, if you decide to register with VA.gov, Session Cookies help with the sign-in and sign-out process. The cookies enable us to recognize your sign-in ID when you sign in so that we do not create a duplicate sign-in or registration record for you.
 -	Transactions and site usability: We use Session Cookies to improve how you navigate through our Web site and conduct transactions. Session Cookies are used to maintain your online session as you browse over several pages, or to store and enter information on a Web page so that you do not have to reenter the same information, repetitively. Session Cookies may also be used to collect referral statistics when you click on a link to or from a VA.gov Web page.
 
 <h3>Registration and Log In</h3>
@@ -88,7 +88,7 @@ Many Internet browsers allow users to save user information, including passwords
 
 <h3>Logging Out</h3>
 
-Please remember to log out when you are finished using personalized VA.gov services. Logging out prevents someone else from accessing your personal information if you leave, share, or use a public computer (located, for example, in a library or an Internet cafe) and your session hasn’t automatically “timed out” or shut down. You should remember to log out. If you forget to log out or 30 minutes of non-activity pass, the session will time out.
+Please remember to sign out when you are finished using personalized VA.gov services. Logging out prevents someone else from accessing your personal information if you leave, share, or use a public computer (located, for example, in a library or an Internet cafe) and your session hasn’t automatically “timed out” or shut down. You should remember to sign out. If you forget to sign out or 30 minutes of non-activity pass, the session will time out.
 
 <h3>Information Sharing</h3>
 

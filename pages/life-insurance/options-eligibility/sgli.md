@@ -113,7 +113,7 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
  </li>
  </ol>
 
-You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES. 
+You can sign in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES. 
 
 <br>
 
