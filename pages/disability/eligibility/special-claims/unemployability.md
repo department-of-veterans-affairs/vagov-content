@@ -27,7 +27,7 @@ You may be able to get disability benefits if you meet both of the requirements 
 
 **Both of these must be true:**
   - You have at least 1 service-connected disability rated at 60% or more disabling, or 2 or more service-connected disabilities—with at least 1 rated at 40% or more disabling and a combined rating of 70% or more—**and**
-  - You can’t hold down a steady job that supports you financially (known as substantially gainful employment) because of your service-connected disability. Odd jobs (marginal employment), don’t count.
+  - You can’t hold down a steady job that supports you financially (known as substantially gainful employment) because of your service-connected disability. Odd jobs (marginal employment) don’t count.
 
 **Note:** In certain cases—for example, if you need to be in the hospital often—you may qualify at a lower disability rating.
 
@@ -50,7 +50,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 <br>
 **Example:** A Veteran has a service-connected heart condition and a 60% disability rating. She was still able to work until last year when she began to get chest pain when doing anything physical, like walking or lifting boxes. Her doctor told her to retire as soon as possible. She filed a claim for more disability compensation. We reviewed her work and education history and agreed that she was individually unemployable because of her service-connected disability. So we increased her disability compensation to the same rate as a 100% disabled Veteran. <br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 When you file a disability claim, you'll also need to fill out these additional forms for Individual Unemployability benefits:
 
