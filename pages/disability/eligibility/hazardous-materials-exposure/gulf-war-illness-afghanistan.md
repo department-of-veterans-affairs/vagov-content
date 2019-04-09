@@ -16,7 +16,7 @@ order: 9
 
 If you served in Afghanistan, you may suffer from illnesses or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
 
-[Learn about service in the Southwest Asia theater of military operations and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/).
+[Learn about service in the Southwest Asia theater of military operations and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/)
 
 </div>
 
@@ -47,7 +47,7 @@ You may be able to get benefits if you served in Afghanistan, you didn't receive
 
 *Indicates that there are exceptions to how we decide if these illnesses qualify you for benefits and these conditions may be covered even after a year has passed.
 
-[Find out what other health risks may be connected to your service in Afghanistan](/health-care/health-needs-conditions/health-issues-related-to-service-era/operation-enduring-freedom/).
+[Find out what other health risks may be connected to your service in Afghanistan](/health-care/health-needs-conditions/health-issues-related-to-service-era/operation-enduring-freedom/)
 
 <br>
 
@@ -67,9 +67,9 @@ Veterans
 ## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
