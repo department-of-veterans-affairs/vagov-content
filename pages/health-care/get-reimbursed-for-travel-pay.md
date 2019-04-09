@@ -131,7 +131,7 @@ we’ll cover the entire cost of your travel for the rest of that month.
 Yes. Some Veterans can have their monthly travel deductible expense waived. 
 **You don’t need to pay this fee if you're eligible for travel and are covered by any of these. You’re:**
 
--	Getting a VA pension, or
+-	Getting a VA pension, **or**
 -	Traveling for a scheduled compensation and pension exam, **or**
 -	A non-service-connected Veteran and your income last year doesn’t exceed the applicable VA pension rate, **or**
 -	A non-service-connected Veteran and what you expect to earn this year doesn’t exceed the applicable VA pension rate, **or**
@@ -148,3 +148,30 @@ Learn more about [annual income limits](https://www.va.gov/opa/pressrel/pressrel
 
 You’ll need to fill out and submit this form to be reimbursed for every health care appointment requiring travel.
 
+### Other Veterans transportation options
+
+You may quality for travel help from one or more of these other programs. If you’re interested in any of them, contact your 
+local VA medical center for information.
+
+- Veterans Transportation Program. If you need help getting to and from a health care appointment, you may be able to get
+assistance from the Veterans Transportation Program.
+
+- Veterans Transportation Service. This service provides specially equipped vans and other options to help with transportation
+needs.
+
+- Highly Rural Transportation Grants. Some third-party groups give these grants to help with travel expenses to Veterans in
+sparsely populated areas.
+
+### Other groups offering travel help
+
+There are many organizations outside VA that offer health care travel help for those who qualify. These include:
+
+- [American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx) This list
+includes links to thousands of local, regional, and national transit agencies.
+- [The National Center on Senior Transportation](http://www.seniortransportation.net) This organization offers transportation 
+resources and options for seniors who qualify.
+- [United Way](http://www.unitedway.org/) The United Way offers many services to those in need, including transportation
+services. You can find what’s available near you by entering your zip code.
+
+Your local VA medical center may also be able to refer you to other groups and resources to help with your transportation
+needs.
