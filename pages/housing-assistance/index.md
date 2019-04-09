@@ -70,7 +70,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -99,13 +99,16 @@ hublinks:
     - url: "/housing-assistance/home-loans/eligibility/"
       label: Eligibility
       description: Find out if you're eligible for a VA direct or VA-backed home loan,
-        based on your service history and duty status. You can also see if you're eligible
-        as a surviving spouse.
+        based on your service history and duty status. 
       external: false
     - url: "/housing-assistance/home-loans/how-to-apply/"
       label: How to Apply for Your Certificate of Eligibility
       description: Get instructions for how to apply for your VA home loan Certificate
         of Eligibility (COE)—and what to do next depending on your loan type.
+      external: false
+    - url: /housing-assistance/home-loans/surviving-spouse/
+      label: VA Home Loan Programs for Surviving Spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
       external: false
     - url: "/claim-or-appeal-status/"
       label: Check Your Appeal Status
@@ -170,7 +173,7 @@ VA housing assistance can help Servicemembers, Veterans, and their surviving spo
 </ul>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
 

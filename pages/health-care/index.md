@@ -17,19 +17,19 @@ crosslinks:
   - heading: Other VA Benefits and Services
     links:
     - url: "/disability/"
-      title: <b>Disability Compensation (Pay)</b>
+      title: <strong>Disability Compensation (Pay)</strong>
       description: Learn how to file a claim for disability compensation and manage your disability benefits.
     - url: "/life-insurance/"
-      title: <b>Life Insurance</b>
+      title: <strong>Life Insurance</strong>
       description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
     - url: "/pension/aid-attendance-housebound/"
-      title: <b>Aid and Attendance Benefits and Housebound Allowance</b>
+      title: <strong>Aid and Attendance Benefits and Housebound Allowance</strong>
       description: Find out if you can get increased pension pay as a Veteran or surviving spouse who has disabilities.
     - url: "/burials-memorials/"
-      title: <b>Burial Benefits and Memorial Items</b>
+      title: <strong>Burial Benefits and Memorial Items</strong>
       description: Learn about Veterans burial benefits, how to plan a burial service, and how to get compensation as a survivor.
     - url: "/education/"
-      title: <b>Education and Training</b>
+      title: <strong>Education and Training</strong>
       description: Apply for and manage GI Bill and other education benefits to help pay for college and training programs.
 social:
   - heading: Ask Questions
@@ -64,7 +64,7 @@ social:
           label: Veterans Health Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: "https://twitter.com/VeteransHealth"
           label: Veterans Health Twitter
@@ -190,7 +190,7 @@ With VA health care, you’re covered for regular checkups with your primary car
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
 
