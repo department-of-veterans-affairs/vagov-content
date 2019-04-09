@@ -132,7 +132,7 @@ You can start your online application right now, or find out how to file a claim
 
 <br>
 
-## Should I work with a Veterans Service Officer (VSO) to file my claim?
+## Should I work with a Veterans service officer (VSO) to file my claim?
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/)
