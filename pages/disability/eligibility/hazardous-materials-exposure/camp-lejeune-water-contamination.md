@@ -138,7 +138,7 @@ Two on-base water wells that were shut down in 1985 had these chemicals:
 ## Get more information
 
 [Download a fact sheet about Camp Lejeune-related benefits](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf)<br>
-[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/).<br>
+[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/)<br>
 [Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/)
 
 Sign up to receive notifications from the Marine Corps with the latest updates on issues related to Camp Lejeune water contamination.<br>
