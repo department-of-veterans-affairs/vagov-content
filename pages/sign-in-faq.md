@@ -106,6 +106,7 @@ display_title: Frequently Asked Questions
                   </li>
           </ul>
                 <br/>
+        <span id="verify"></a>
                 <a name="verifying-your-identity"></a>
                 <h4>Verifying your identity on VA.gov</h4>
                 <ul class="usa-accordion">
@@ -391,6 +392,9 @@ display_title: Frequently Asked Questions
       break;
     case '#what-is-idme':
       openAccordion('faq-security-2');
+      break;
+    case '#sign-in-issue':
+      openAccordion('faq-signinissue-0');
       break;
   }
 })();

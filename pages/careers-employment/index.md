@@ -69,7 +69,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope-o
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -130,8 +130,8 @@ hublinks:
   - id: manage
     title: Manage Your Career
     links:
-    - url: https://www.benefits.va.gov/vocrehab/transitioning_from_service.asp
-      label: Transitioning to Civilian Employment
+    - url: https://www.benefits.va.gov/tap/tap-index.asp
+      label: VA Transition Assistance
       description: As you separate from the military, explore your career options by
         attending a Transition Assistance Program (TAP) briefing.
       external: false
@@ -210,7 +210,7 @@ We can support you in all stages of your job search—from returning to work wit
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
         <p>We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.</p>

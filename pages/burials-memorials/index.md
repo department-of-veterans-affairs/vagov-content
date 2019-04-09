@@ -59,13 +59,13 @@ social:
           label: National Cemeteries Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VANatCemeteries
           label: National Cemeteries Twitter
           external: true
           icon: fa-twitter
-        - url: "https://www.facebook.com/VeteransBenefits"
+        - url: "https://www.facebook.com/NationalCemeteries/"
           label: National Cemeteries Facebook
           external: true
           icon: fa-facebook

@@ -57,7 +57,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -91,7 +91,7 @@ hublinks:
       description: If you're enrolled in a VA life insurance plan, find out if you can get free financial planning and online will preparation services.
       external: false
   - id: manage
-    title: Access Your Policy and Benefits
+    title: Manage Your Policy and Benefits
     links:
     - url: "/life-insurance/manage-your-policy/"
       label: Access Your Policy Online

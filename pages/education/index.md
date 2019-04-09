@@ -67,7 +67,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -202,7 +202,7 @@ hublinks:
       description: Contact us to ask questions and get help with your benefits online
         or by phone.
       external: false
-    - url: https://www.benefits.va.gov/GIBILL/Feedback.asp
+    - url: /education/submit-school-feedback/
       label: GI Bill School Feedback Tool
       description: Find out how to give us feedback about your GI Bill school.
       external: false
