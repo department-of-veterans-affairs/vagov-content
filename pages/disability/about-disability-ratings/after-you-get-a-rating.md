@@ -48,7 +48,7 @@ If your decision notice shows at least a 10% disability rating, you’ll get you
 <div itemprop="text">
 
 If you disagree with your disability rating, you can file an appeal. You’ll need to do this within 1 year of getting your decision notice. <br>
-[Learn about how to file an appeal](/disability/file-an-appeal/).
+[Learn about how to file an appeal](/disability/file-an-appeal/)
 
 </div>
 </div>
@@ -61,15 +61,15 @@ If you disagree with your disability rating, you can file an appeal. You’ll ne
 <div itemprop="text">
 
 - **For health care:** If you served on active duty and didn't receive a dishonorable discharge, you may be able to get VA health care. This includes access to VA doctors and care, plus medical equipment, prosthetics, and prescriptions. <br>
-[Apply for VA health care](/health-care/how-to-apply/).
+[Apply for VA health care](/health-care/how-to-apply/)
 - **For life insurance:** If you’re in good health other than your disability caused by service in the military, you can buy Service-Disabled Veterans’ Insurance (S-DVI)—a government life insurance policy.<br>
 [Apply for S-DVI online](https://www.benefits.va.gov/insurance/s-dvi.asp). Or, call <a href="tel:+18006698477">800-669-8477</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. <abbr title="eastern time">ET</abbr>.
 - **For education benefits:** You can get VA support for college or job training under special programs. Or, talk with a VA education counselor to find out what benefits you may be able to get. <br>
-[Learn about education benefits](/education/).
+[Learn about education benefits](/education/)
 - **For dependent benefits:** If you’re 30% or more disabled due to a disability caused by service in the military, you can get financial support and benefits for your qualified dependents.<br>
-[Learn more about adding dependents to your disability benefits](/disability/add-remove-dependent/).
+[Learn more about adding dependents to your disability benefits](/disability/add-remove-dependent/)
 - **For other benefits:** Check with your local or state VA offices for other benefits you may be able to get—like help with buying a home or making changes to your home to make it more accessible, or help with getting a job. <br>
-[Find your state's Veterans Affairs website](https://www.va.gov/statedva.htm).
+[Find your state's Veterans Affairs website](https://www.va.gov/statedva.htm)
 
 </div>
 </div>
@@ -84,10 +84,10 @@ If you disagree with your disability rating, you can file an appeal. You’ll ne
 - **If you have a 100% disability rating**, you may be able to get:
   - [Dental care](/disability/eligibility/special-claims/dental-care/), **and**
   - [Access to commissaries and exchanges](http://www.militaryonesource.mil/on-and-off-base-living/commissaries-exchanges)
-- **If you can’t work due to your disability caused by service in the military**—even without a 100% rating—you can apply for individual unemployability. <br>
-[Learn about individual unemployability](/disability/eligibility/special-claims/unemployability/).
+- **If you can’t work due to your disability caused by service in the military**—even without a 100% rating—you can apply for Individual Unemployability. <br>
+[Learn about Individual Unemployability](/disability/eligibility/special-claims/unemployability/)
 - **If you need special clothing because of your injuries**, you may be able to get money to buy new clothes. <br>
-[Learn about the annual clothing allowance benefit](/disability/eligibility/special-claims/clothing-allowance/).
+[Learn about the annual clothing allowance benefit](/disability/eligibility/special-claims/clothing-allowance/)
 
 </div>
 </div>
