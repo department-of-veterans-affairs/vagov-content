@@ -67,7 +67,7 @@ You can file a claim for additional compensation for a dependent at the same tim
 
 If you receive a combined disability rating of at least 30%, we’ll automatically consider your eligibility for additional compensation for your dependent. <br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/). 
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 ### If you have one or more dependents, but you didn’t claim them when you originally filed for disability compensation 
 
@@ -100,12 +100,12 @@ You can file a claim for additional compensation for a child or spouse online ri
 **If you’re claiming your child who became permanently disabled before they turned 18,** you’ll need to turn in all private medical records relating to the child’s disabilities with your application. 
 
 **If your dependent is a child who’s between 18 and 23 years old and attending school full time,** you’ll also need to submit a Request for Approval of School Attendance (VA Form 21-674) with your application. <br>
-[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf). 
+[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) 
 
 ### To file a claim for additional disability compensation for a dependent parent
 
 You’ll need to fill out and submit a Statement of Dependency of Parent(s) (VA Form 21P-509) by mail or fax. <br>
-[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf).
+[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
 
 **Please send all correspondence related to compensation claims to this address:**
 
@@ -123,8 +123,8 @@ Janesville, WI 53547-4444 <br>
  
 ## What if I need help with my claim?
  
-You can work with an accredited Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals process. A VSO can answer your questions or even file your claim for you.<br>
-[Get help filing your claim](/disability/get-help-filing-claim/). 
+You can work with an accredited Veterans service officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals process. A VSO can answer your questions or even file your claim for you.<br>
+[Get help filing your claim](/disability/get-help-filing-claim/) 
 
  <br>
 
@@ -142,14 +142,14 @@ When you file your claim online, we recognize the day you start the online claim
 **If you can’t, or don’t want to file online,** you can file a claim for additional disability compensation by mail or fax using the forms below:
 
 - **For a spouse or a child under 18 years of age**, you'll need to fill out a Declaration of Status of Dependents (VA Form 21-686c). <br>
-[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf).
+[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
 
 - **For a child who’s between 18 and 23 years old and attending school full time**, you’ll need to fill out both VA Form 21-686c and a Request for Approval of School Attendance (VA Form 21-674). <br>
-[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf). <br>
-[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf).
+[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf) <br>
+[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 - **For a dependent parent**, you’ll need to fill out a Statement of Dependency of Parent(s) (VA Form 21P-509). <br>
-[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf).
+[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
 
 **Mail your completed form(s) to:**
 
@@ -210,7 +210,7 @@ Sign in to your account.
 Then click the “Dependents” link under the “My Profile” section. 
 
 If you see your dependent(s) listed there, you should be eligible for additional compensation for them. If they’re not listed, you should file a claim for the additional benefit. <br>
-[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
+[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage)
 
 </div>
 </li>
@@ -239,7 +239,7 @@ You can submit a request through eBenefits asking us to stop paying additional d
 **If you get divorced**, you’ll want to notify us right away. You don't need to send or upload supporting documents to eBenefits in this case. 
 
 This will help to make sure we don’t continue paying you additional disability compensation for your former spouse and, if applicable, stepchildren after the divorce. If we continue paying you benefits that you’re not eligible for, we may withhold money from future payments until you’ve paid us back. <br>
-[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
+[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage)
 
 </div>
 </li>
@@ -255,7 +255,7 @@ Click “Add or Remove Dependents” (you'll find it under the “Apply” secti
 
 Then select “Update Dependents.” <br>
 <br>
-[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
+[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage)
 
 </div>
 </li>
