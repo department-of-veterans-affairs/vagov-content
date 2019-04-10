@@ -170,3 +170,6 @@ If they decide to grant the loan, the lender then chooses a title company, an at
 ## What if I have questions about the loan process?
 If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">1-877-827-3702</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
 [Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp)
+
+**More information about home ownership and the VA home loan program** <br>
+[Watch a video about VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A) <br>
