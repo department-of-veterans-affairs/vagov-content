@@ -9,7 +9,7 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
 aliases:
   - /life-insurance/options-and-eligibility/vmli/
@@ -34,7 +34,7 @@ You may be able to get VMLI if you have a severe disability, and you meet all of
 - Have a mortgage on the home, **and**
 - Are under 70 years old
 
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp).
+[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp)
 
 <br>
 
@@ -59,7 +59,7 @@ Up to $200,000 in mortgage life insurance—paid directly to the bank or other l
 
 ## How do I get these benefits?
 
-First, you’ll need to apply for an SAH grant. If you get the SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI. If you already have an SAH grant, ask your agent about VMLI.
+First, you’ll need to apply for an SAH grant. If you get the SAH grant, your loan guaranty agent will tell you if you qualify for VMLI. If you already have an SAH grant, ask your agent about VMLI.
 
 Your agent will help you fill out a Veterans’ Mortgage Life Insurance Statement (VA Form 29-8636).<br>
 [Download VA Form 29-8636](https://www.benefits.va.gov/INSURANCE/forms/29-8636_08-2011.pdf) 
