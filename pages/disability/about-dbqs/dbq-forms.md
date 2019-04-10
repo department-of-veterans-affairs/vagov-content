@@ -110,7 +110,7 @@ box and click “Enter.” You can also search by the form number.
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Human immunodeficiency virus (HIV) and related conditions | 21-0960I-2 | [HIV-Related Illnesses](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-2-ARE.pdf) |
-| Infectious diseases **not** specifically associated with either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [nfectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
+| Infectious diseases **not** specifically associated with either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
 | Infectious diseases associated with military service in tropical areas, including the Person Gulf and Afghanistan. These can include exposure to salmonella, shigella, and other bacteria that cause symptoms like chronic diarrhea | 21-0960I-1 | [Persian Gulf and Afghanistan Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-1-ARE.pdf) |
 | Autoimmune issues, including conditions like lupus, Goodpasture syndrome, and Guillain-Barre syndrome | 21-0960I-4 | [Systemic Lupus Erthematosus (SLE) and Other Autoimmune Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-4-ARE.pdf) |
 | Tuberculosis symptoms | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
@@ -140,7 +140,7 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Anorexia, bulimia, and other eating disorders | 21-0960P-1 | [Eating Disorders]https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
+| Anorexia, bulimia, and other eating disorders | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
 | General mental disorders, including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
 | PTSD-related issues, including evaluating beginning and extent of symptoms. Types include: <ul><li><b>Acute</b>, meaning the symptoms have been happening for less than 3 months</li><li><b>Chronic</b>, meaning the symptoms usually last 3 months or more</li><li><b>Delayed onset</b>, meaning the symptoms began at least 6 months after the traumatic experience </li></ul> Symptoms may include reliving the experience of a traumatic event, avoiding situations or people associated with the trauma, deadening of general responsiveness, insomnia, recurrent nightmares, extreme caution, an intensified fright response, and a change in levels of hostility. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
 
@@ -184,7 +184,7 @@ your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
 
 [How can I learn more about disability ratings?](https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)
 
-[When do my disability ratings go into effect?](https://www.va.gov/disability/about-disability-ratings/effective-date/)
+[When do my disability ratings go into effect?](/disability/effective-date/)
 
 **Need help understanding your benefits or accessing services?**
 Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387)</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. 
