@@ -169,12 +169,14 @@ After closing, you’re ready to move into your new home. Congratulations!
 
 #### If you need more help:
 
-[Look for workshops from Department of Housing and Urban Development–approved housing counseling agencies](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary)
+[Look for workshops from Department of Housing and Urban Development–approved housing counseling agencies](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) <br>
 
-[Check out the Consumer Financial Protection Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+[Check out the Consumer Financial Protection Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf) <br>
 
-[Learn more about VA-backed home loans](https://www.benefits.va.gov/homeloans/)
+[Learn more about VA-backed home loans](https://www.benefits.va.gov/homeloans/) <br>
 
-[Watch a video about VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A).
+[Watch a video about VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A) <br>
 
-[Watch a video about the cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow). 
+[Watch a video about the cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow) <br>
+
+[VA guidance if your home is affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
