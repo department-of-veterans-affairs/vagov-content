@@ -68,7 +68,7 @@ Please send this in with your form. Evidence may include documents like a doctor
 
 
 <h3>If you’re filing an appeal as a guardian, power of attorney, or military trustee</h3>
-You’ll need to include copies of the letters confirming your status, such as a guardianship, conservatorship, or Power of Attorney document. If you don't provide these documents, it'll slow the process for your appeal.
+You’ll need to include copies of the letters confirming your status, such as a guardianship, conservatorship, or power of attorney document. If you don't provide these documents, it'll slow the process for your appeal.
 
 </div>
 </div>
@@ -81,7 +81,7 @@ You’ll need to include copies of the letters confirming your status, such as a
 
 Your denial letter will tell you low long you have to file your appeal.
 
-In general, you’ll need to submit your appeal request form to your branch’s TSGLI or Appeal office within 1 year of the date your claim was denied.
+In general, you’ll need to submit your appeal request form to your branch’s TSGLI or appeal office within 1 year of the date your claim was denied.
 </div>
 </div>
 </div>
