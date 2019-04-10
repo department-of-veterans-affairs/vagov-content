@@ -1,6 +1,6 @@
 ---
 title: Compare education benefits
-href: https://www.benefits.va.gov/gibill/comparison_tool.asp
+href: https://www.benefits.va.gov/GIBILL/comparison_chart.asp
 order: 12
 spoke: More Resources
 private: true

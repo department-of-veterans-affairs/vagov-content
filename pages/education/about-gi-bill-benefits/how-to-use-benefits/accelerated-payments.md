@@ -2,11 +2,12 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Accelerated payments for high-technology programs
-display_title: High-tech programs
+display_title: Accelerated Payments
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
-order: 8
+  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
+order: 4
 ---
 
 <div class="va-introtext">
@@ -47,20 +48,20 @@ You can get this benefit if you meet all of the requirements listed below.
 
 <br>
 
-**Note:** 
+**Note:**
 You can’t get this benefit under the Post-9/11 GI Bill, Dependents’ Educational Assistance (DEA) program, or the Veterans' Educational Assistance Program (VEAP).
 
 </div>
 
 ## What does this benefit include?
 
-Accelerated payments of 60% of tuition and fees for high-cost high-tech programs. These single, lump-sum payments replace the monthly benefits you would otherwise get through the GI Bill. 
+Accelerated payments of 60% of tuition and fees for high-cost high-tech programs. These single, lump-sum payments replace the monthly benefits you would otherwise get through the GI Bill.
 
 -----
 
 ## How do I get this benefit?
 
-Ask your school to include your request for accelerated payment when they send your enrollment information to us. 
+Ask your school to include your request for accelerated payment when they send your enrollment information to us.
 
 **You must be enrolled in one of these categories:**
 
