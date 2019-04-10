@@ -9,7 +9,7 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
 aliases:
   - /life-insurance/options-and-eligibility/s-dvi/
@@ -83,7 +83,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
  - Fill out an Application for Service-Disabled Veterans Life Insurance (VA Form 29-4364). <br>
  [Download VA Form 29-4364](https://benefits.va.gov/INSURANCE/forms/29-4364.pdf)
 
- Fax it to 1-888-748-5822, or mail it to:
+ Fax it to 888-748-5822, or mail it to:
 
 <p class="va-address-block">
   Department of Veterans Affairs<br>
