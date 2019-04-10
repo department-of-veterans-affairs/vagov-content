@@ -51,10 +51,6 @@ hublinks:
       label: Get Your VA Medical Records (called VA Blue Button)
       description: Set up your personal health record and download medical records, reports, and images to share with your VA and non-VA doctors.
       external: false
-    - url: "/change-address/"
-      label: Change Your Address on File with VA
-      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
-      external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters
       description: Download letters like your eligibility or award letter for certain benefits.

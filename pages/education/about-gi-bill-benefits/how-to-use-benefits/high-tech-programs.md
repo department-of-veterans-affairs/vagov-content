@@ -6,8 +6,7 @@ display_title: High-tech programs
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
-  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
-order: 4
+order: 8
 ---
 
 <div class="va-introtext">

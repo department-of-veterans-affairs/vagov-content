@@ -70,7 +70,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow us
+      - subhead: Follow Us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -173,7 +173,7 @@ VA housing assistance can help Servicemembers, Veterans, and their surviving spo
 </ul>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">We may be able to help</a>.</h4>
     <div id="crisis-expander-content" class="expander-content expander-content-closed">
       <div class="expander-content-inner usa-alert-text">
 

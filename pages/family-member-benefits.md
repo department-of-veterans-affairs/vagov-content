@@ -41,7 +41,7 @@ social:
           label: VA email updates
           external: true
           icon: fa-envelope
-      - subhead: Follow us
+      - subhead: Follow Us
         links:
         - url: https://www.twitter.com/DeptVetAffairs/
           label: Veterans Affairs Twitter

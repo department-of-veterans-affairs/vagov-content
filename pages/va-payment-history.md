@@ -6,7 +6,6 @@ display_title: View VA payment history
 collection: records
 order: 7
 spoke: Get Records
-      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -81,13 +80,9 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<h4>Change your information in either of these ways</h4><br>
+<b>You can change your information in either of these ways:</b><br>
 <a href="/change-direct-deposit-and-contact-information/">Change your information online</a>, <b>or</b> <br>
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
-
-<h4>Change your address through your VA.gov profile</h4> <br>
-You can sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
-[Find out how to change your address on file with VA](/change-address/)
 
 </div>
 </div>

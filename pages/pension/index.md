@@ -60,7 +60,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow us
+      - subhead: Follow Us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
@@ -117,13 +117,10 @@ hublinks:
       description: Check the status of your VA disability, pension, and education payments.
         You can also see certain survivor benefits.
       external: false
-    - url: "/change-address/"
-      label: Change Your Address on File with VA
-      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
-      external: false
     - url: "/change-direct-deposit-and-contact-information/"
       label: Change Your VA Direct Deposit and Contact Information
-      description: Learn how to change your VA pension benefits direct deposit information online.
+      description: Find out how to change your VA disability direct deposit information
+        online.
       external: false
   - id: more
     title: More Information and Resources

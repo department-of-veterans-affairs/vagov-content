@@ -57,7 +57,7 @@ social:
           label: Veterans Benefits Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow us
+      - subhead: Follow Us
         links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
