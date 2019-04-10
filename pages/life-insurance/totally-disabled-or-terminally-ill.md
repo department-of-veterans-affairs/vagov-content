@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for Policyholders Who Are Totally Disabled or Terminally Ill
-display_title: Totally Disabled or Terminally Ill
+title: Benefits for policyholders who are totally disabled or terminally ill
+display_title: Totally disabled or terminally ill
 concurrence: 
 order: 2
 spoke: Get Benefits
@@ -10,7 +10,7 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Need to file a benefits claim after your family member has died? Access your policy online.
 aliases:
   - /life-insurance/disabled-and-terminally-ill/
@@ -84,7 +84,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 <div class="feature">
 
-#### Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?
+### Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?
  
 You or your spouse may be able to get benefits early if you meet both of the requirements listed below.
 
@@ -92,9 +92,9 @@ You or your spouse may be able to get benefits early if you meet both of the req
 -	You have SGLI, Family SGLI, or VGLI life insurance, **and**
 -	You or your covered spouse has a written statement from a doctor saying you have (or your spouse has) 9 months or less to live
 
-**Note:** Only the insured Servicemember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
+**Note:** Only the insured servicevmember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
 
-##### Who’s covered?
+### Who’s covered?
 
 -	Veterans
 -	Service members
@@ -125,7 +125,7 @@ Only the insured Servicemember or Veteran may apply for accelerated benefits. No
   Philadelphia, PA 19176-0173<br>
 </p>
 
-Or, fax the form to 1-877-832-4943.
+Or, fax the form to 877-832-4943.
 
 **If you’re covered under Family SGLI,** fill out a Claim for Accelerated Benefits (SGLV 8284A). <br>
 [Download the Claim for Accelerated Benefits form](https://benefits.va.gov/INSURANCE/forms/8284A.htm)
