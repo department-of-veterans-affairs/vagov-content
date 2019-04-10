@@ -10,7 +10,7 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
 aliases:
   - /life-insurance/options-and-eligibility/tsgli/
