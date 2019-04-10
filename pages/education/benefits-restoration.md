@@ -8,6 +8,22 @@ description:
 concurrence: 
 spoke: Manage Benefits
 order: 8
+relatedlinks:
+  - heading: Other helpful education resources
+    links:
+    - url: https://www.benefits.va.gov/GIBILL/comparison_chart.asp
+      title: Find the right GI Bill benefit program
+      description: There are several GI Bill options, and we can help you compare them to find the best one for you.
+    - url: /education/how-to-apply/
+      title: Apply for the GI Bill or other benefits
+      description: Learn how to apply for VA education benefits as a Veteran, service member, or qualified family member.
+    - url: https://www.benefits.va.gov/gibill/school_decision.asp
+      title: Choose a school
+      description: Find the right school for your needs, and learn what your GI Bill benefits will be while attending it.
+    - url: /education/other-va-education-benefits/
+      title: Other VA education benefits
+      description: If you don’t qualify for the Post-9/11 GI Bill, you may still be able to get training through our other
+      programs.  
 ---
 
 <div class="va-introtext">
