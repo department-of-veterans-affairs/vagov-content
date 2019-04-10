@@ -5,7 +5,7 @@ title: After you apply for education benefits
 display_title: After you apply
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
-spoke: Get benefits
+spoke: Get Benefits
 order: 5
 relatedlinks:
   - heading: Other VA benefits you may want to explore
