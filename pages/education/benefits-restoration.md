@@ -7,7 +7,7 @@ display_title: Apply to Restore GI Bill Benefits
 description: 
 concurrence: 
 spoke: Manage Benefits
-order: 
+order: 8
 ---
 
 <div class="va-introtext">
