@@ -29,7 +29,7 @@ You may be eligible for this program if you and your school meet the requirement
 
 - Served at least 36 months on active duty (either all at once or with breaks in service), **or**
 - Received a Purple Heart on or after September 11, 2001, and were honorably discharged after any amount of service, **or**
-- Received a Fry scholarship on or after August 1, 2018, **or**
+- Received a Fry Scholarship on or after August 1, 2018, **or**
 - Served for at least 30 continuous days (all at once, without a break) on or after September 11, 2001, and were discharged after 60 days with a service-connected disability, **or**
 - Are a dependent child using benefits transferred by a Veteran or a service member who has served for at least 36 months on active duty and qualifies at the 100% level, **or** </br>
 [Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/)
