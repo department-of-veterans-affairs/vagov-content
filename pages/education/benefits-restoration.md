@@ -123,4 +123,22 @@ Muskogee Regional Processing Office<br>
 P.O. Box 8888<br>
 Muskogee, OK 74402-8888<br>
 </p>
+
 -	Take it in person to your [regional processing office](https://www.benefits.va.gov/gibill/regional_processing.asp).
+
+### What if I still have questions? 
+
+You can:
+- [Read our frequently asked questions](https://gibill.custhelp.va.gov/).
+
+### Other resources
+
+[Learn about VA transition help](https://www.benefits.va.gov/tap/?_ga=2.8954557.926455032.1554386313-175658214.1545415984).
+We’re here to help you succeed after your military service. Learn what programs are available to you and your family.
+
+[Need help finding a job or planning a career?](/careers-employment/).
+We want to give you the help and support you need to find the right career path for you. 
+
+[Get education help for your dependents](https://www.benefits.va.gov/gibill/survivor_dependent_assistance.asp).
+
+
