@@ -7,7 +7,7 @@ concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 collection: education
 children: educationOtherPrograms
-spoke: Get benefits
+spoke: Get Benefits
 order: 9
 majorlinks:
 aliases:
