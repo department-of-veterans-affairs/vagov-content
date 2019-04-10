@@ -308,7 +308,7 @@ display_title: Frequently Asked Questions
                         <p>It depends on how you sign in to VA.gov.</p>
                         <ul>
                           <li><strong>If you set up a verified VA.gov account through ID.me,</strong> you need to set up 2-factor authentication. Authentication gives you an extra layer of security by letting you into your account only after you’ve signed in with a password and a 6-digit code sent directly to your mobile or home phone. This helps to make sure that no one but you can access your account—even if they get your password.</li>
-                          <li><strong>If you sign in to VA.gov using your existing Premium My HealtheVet or Premium DS Logon account,</strong> setting up 2-factor authentication is optional. You can set it up during the sign-in process or any time from your VA.gov profile page.</li>
+                          <li><strong>If you sign in to VA.gov using your existing Premium My HealtheVet or Premium DS Logon account,</strong> setting up 2-factor authentication is optional. You can set it up during the sign in process or any time from your VA.gov profile page.</li>
                           <li><strong>If you sign in to VA.gov using your existing basic or Advanced My HealtheVet or basic DS Logon account and don’t want to verify your identity,</strong> you don’t need to add 2-factor authentication. But you won’t be able to use the site’s tools that require you to verify your identity and do common tasks, like checking your claims status or sending a secure message to your health care team.</li>
                       </div>
                     </div>
@@ -366,7 +366,7 @@ display_title: Frequently Asked Questions
                       <div itemprop="text">
                         <p>This code is part of the 2-factor authentication process.</p>
                         <p>When you set up a verified VA.gov account through ID.me, you need to set up 2-factor authentication. Authentication gives you an extra layer of security by letting you into your account only after you’ve signed in with a password and a 6-digit code sent directly to your mobile or home phone. This helps to make sure that no one but you can access your account—even if they get your password.<p>
-                        <p>If you sign in to VA.gov using your existing basic or Advanced <strong>My HealtheVet</strong> or basic <strong>DS Logon</strong> account and don’t want to verify your identity, or if you sign in using your existing Premium <strong>My Health <em>e</em>Vet</strong> or Premium <strong>DS Logon</strong> account, setting up 2-factor authentication is optional. You can set it up during the sign-in process or any time from your VA.gov profile page.<p>
+                        <p>If you sign in to VA.gov using your existing basic or Advanced <strong>My HealtheVet</strong> or basic <strong>DS Logon</strong> account and don’t want to verify your identity, or if you sign in using your existing Premium <strong>My Health <em>e</em>Vet</strong> or Premium <strong>DS Logon</strong> account, setting up 2-factor authentication is optional. You can set it up during the sign in process or any time from your VA.gov profile page.<p>
                       </div>
                     </div>
                   </li>
