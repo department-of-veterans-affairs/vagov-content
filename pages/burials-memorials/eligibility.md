@@ -164,25 +164,27 @@ And one of these must be true. The Philippine Veteran:
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran or spouse</button>
 <div id="hmong-veteran" class="usa-accordion-content">
 
-The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements so that Hmong Veterans and their spouses are eligibile for burial in a national cemetery. 
+The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements so that Hmong Veterans and their spouses may be eligibile for burial in a national cemetery. 
 
 All of these must be true. The Hmong Veteran:
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
 - Was naturalized under the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
 
-And you must fit into one of these categories. You: 
+And the deceased must fit into one of these categories. The deceased: 
 - Served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and** 
-- Are the spouse of special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and**
-- Are married to an individual who served in special guerilla units or irregular forces who died in Laos, Thailand, or
+- Was the spouse of a Veteran who served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime from February 28, 1961, to September 18, 1978, **and**
+- Was married to a Veteran who served in special guerilla units or irregular forces who died in Laos, Thailand, or
 Vietnam anytime from February 28, 1961, to September 18, 1978
 
 Naturalization under the 2000 Act was also available for spouses of
 those who served in SGU/irregular forces and surviving spouses of those who were killed or died in
-action while serving in SGU/irregular forces. However, section 251 of Public Law 115-141 only
+action while serving in SGU/irregular forces. 
+
+However, section 251 of Public Law 115-141 only
 amended VA’s burial eligibility statute to inter eligible Hmong fighters, not their spouses or surviving
 spouses. 
 
