@@ -162,3 +162,30 @@ box and click “Enter.” You can also search by the form number.
 | Neck issues, including arthritis and deformities | 21-0960M-13 | [Neck (Cervical Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-13-ARE.pdf) |
 | Specific wrist issues, including limited or lost wrist motion, injuries to the wrist, painful wrist movements, and joint replacement | 21-0960M-16 | [Wrist Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-16-ARE.pdf) |
 | Back and lower pain issues, including arthritis, back injuries, spinal conditions, sciatica, or disc disease | 21-0960M-14 | [Back (Thoracolumbar Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-14-ARE.pdf) |
+
+### Skin conditions (dermatological)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Infectious and non-infectious diseases of the skin, including evaluating rashes, spots, athlete's foot, sweating, and acne | 21-0960F-1 | [Skin Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-2-ARE.pdf) |
+| Scarring of the skin | 21-0960F-2 | [Scars and Disfigurement](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-1-ARE.pdf) |
+
+### Women’s reproductive issues (gynecological)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Issues with breast mass or lumps | 21-0960K-1 | [Breast Conditions and Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-1-ARE.pdf) |
+| Issues with women’s reproductive system, including uterus, vagina, cervix, ovaries, endometriosis, complications of pregnancy, and other conditions | 21-0960K-2 | [Gynecological Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-2-ARE.pdf) |
+
+## What if I don’t see a DBQ for the condition I’m claiming?
+
+With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. If you can’t find a DBQ for
+your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
+
+[How can I learn more about disability ratings?](https://www.va.gov/disability/about-disability-ratings/after-you-get-a-rating/)
+
+[When do my disability ratings go into effect?](https://www.va.gov/disability/about-disability-ratings/effective-date/)
+
+**Need help understanding your benefits or accessing services?**
+Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. 
+ET.
