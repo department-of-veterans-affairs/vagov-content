@@ -51,7 +51,7 @@ Learn about the different types of VA education benefits available to service me
 
 - You can only choose one education benefit to use, even if you're eligible for 2 or more
 - Once you choose which benefit you’ll use, <strong>you can't change your mind</strong>
-- If you’re eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits--however, you may remain eligible for the benefit or benefits you did not give up
+- If you’re eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits--however, you may remain eligible for the benefit or benefits you didn't give up
 
 <h2>Compare Education Benefits</h2>
 
