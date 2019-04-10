@@ -22,8 +22,7 @@ relatedlinks:
       description: Find the right school for your needs, and learn what your GI Bill benefits will be while attending it.
     - url: /education/other-va-education-benefits/
       title: Other VA education benefits
-      description: If you don’t qualify for the Post-9/11 GI Bill, you may still be able to get training through our other
-      programs.  
+      description: If you don’t qualify for the Post-9/11 GI Bill, you may still be able to get training through our other programs.  
 ---
 
 <div class="va-introtext">
