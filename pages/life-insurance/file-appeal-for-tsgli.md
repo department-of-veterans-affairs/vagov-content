@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: File a TSGLI Appeal (VA Form SGLV 8600A)
-display_title: File a TSGLI Appeal
+title: File a TSGLI appeal (VA Form SGLV 8600A)
+display_title: File a TSGLI appeal
 collection: lifeInsurance
 lastupdate:
 order: 6
@@ -32,15 +32,15 @@ The denial letter you received from your branch of service tells you how to file
 <div itemprop="text">
 
 You can download the form now.<br>
-<a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf">Download Form SGLV 8600A</a>.
+<a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf">Download Form SGLV 8600A</a>
 
 Or you can request a paper form in either of these ways. Contact:
 
 <ul>
   <li>Your service department <br>
-  <a href="https://www.benefits.va.gov/INSURANCE/popups/TSGLIPOC.htm">Find your department's point of contact</a>.</li>
+  <a href="https://www.benefits.va.gov/INSURANCE/popups/TSGLIPOC.htm">Find your department's point of contact</a></li>
 <li>The Office of Servicemembers’ Group Life Insurance <br>
-  Call <a href="tel:+18004191473">1-800-419-1473</a>, <b>or</b> <br>
+  Call <a href="tel:+18004191473">800-419-1473</a>, <b>or</b> <br>
   Email <a href="mailto:osgli.claims@prudential.com">osgli.claims@prudential.com</a></li>
 </ul>
 
@@ -103,7 +103,7 @@ Send your appeal to your branch of service by mail, fax, or email. You’ll find
 <div itemprop="text">
 
 You’ll need to complete an Application for TSGLI Benefits (SGLV-8600).<br>
-<a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download Form SGLV-8600</a>.
+<a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download Form SGLV-8600</a>
 
 </div>
 </div>
