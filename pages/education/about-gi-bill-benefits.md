@@ -8,7 +8,7 @@ concurrence: incomplete
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act.
 collection: education
 children: educationGIBill
-spoke: Get benefits
+spoke: Get Benefits
 order: 1
 gibsAlert: false
 majorlinks:
