@@ -92,7 +92,7 @@ You or your spouse may be able to get benefits early if you meet both of the req
 -	You have SGLI, Family SGLI, or VGLI life insurance, **and**
 -	You or your covered spouse has a written statement from a doctor saying you have (or your spouse has) 9 months or less to live
 
-**Note:** Only the insured servicevmember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
+**Note:** Only the insured service member or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
 
 ### Whoâ€™s covered?
 
@@ -108,7 +108,7 @@ You'll get up to 50% of the face value of your coverage in increments of $5,000â
 
 ### How do we get these benefits?
  
-Only the insured Servicemember or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply. 
+Only the insured service member or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply. 
 
 **Use the application form for the type of coverage you have:**
  
