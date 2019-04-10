@@ -187,5 +187,5 @@ your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
 [When do my disability ratings go into effect?](https://www.va.gov/disability/about-disability-ratings/effective-date/)
 
 **Need help understanding your benefits or accessing services?**
-Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387), Monday through Friday, 8:00 a.m. to 8:00 p.m. 
+Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387)</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. 
 ET.
