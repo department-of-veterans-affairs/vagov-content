@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: About VA Insurance Options and Eligibility
-display_title: Options and Eligibility
-description: If you're a Veteran, service member, or the spouse or dependent child of a service member, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
+title: About VA insurance options and eligibility
+display_title: Options and eligibility
+description: If you're a Veteran, a service member, or the spouse or dependent child of a service member, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
 concurrence:
 template: detail-page
 no_article_bottom_padding: true
@@ -10,7 +10,7 @@ children: lifeInsuranceOptions
 order: 1
 spoke: Get Benefits
 majorlinks:
-  - heading: VA Life Insurance Options
+  - heading: VA life insurance options
     links:
       - url: /life-insurance/options-eligibility/sgli/
         title: Servicemembers’ Group Life Insurance (SGLI)
@@ -34,10 +34,10 @@ relatedlinks:
   - heading: More information about your benefits
     links:
       - url: /life-insurance/manage-your-policy/
-        title: Access Your Policy Online
+        title: Access your policy online
         description: Already have VA life insurance? Access your policy online.
       - url: /life-insurance/totally-disabled-or-terminally-ill/
-        title: Claims for Disabled and Terminally Ill Policyholders
+        title: Claims for disabled and terminally ill policyholders
         description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
 aliases:
   - /life-insurance/options-and-eligibility/
