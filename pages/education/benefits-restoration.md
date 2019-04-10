@@ -24,7 +24,6 @@ relatedlinks:
       title: Other VA education benefits
       description: If you don’t qualify for the Post-9/11 GI Bill, you may still be able to get training through our other
       programs.  
-      
 ---
 
 <div class="va-introtext">
