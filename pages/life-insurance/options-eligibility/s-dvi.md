@@ -41,7 +41,7 @@ You can apply for S-DVI if you meet all of the requirements listed below.
 
 ### Can I get more life insurance coverage if I need it?
 
-If you carry the basic S-DVI coverage and become totally disabled and unable to work, you can apply to get up to $30,000 more in coverage. This is called Supplemental S-DVI coverage.
+If you carry the basic S-DVI coverage and become totally disabled and unable to work, you can apply to get up to $30,000 more in coverage. This is called supplemental S-DVI coverage.
 
 You may be able to get $30,000 of supplemental coverage if you qualify for a premiums waiver, and you meet both of the requirements listed below.
 
@@ -92,7 +92,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
   Philadelphia, PA 19101<br>
 </p>
 
-If you want to apply for Supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for Supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
+If you want to apply for supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
 [Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf) <br>
 
 
@@ -113,7 +113,7 @@ See the premium rates and a description of the plan options. <br>
 Yes, in some cases. Under certain conditions, the basic S-DVI policy provides for a waiver of premiums for Veterans who are totally disabled. <br>
 [Learn more about premium waivers](/life-insurance/totally-disabled-or-terminally-ill/#waiver)
 
-You must pay your premiums for Supplemental S-DVI.
+You must pay your premiums for supplemental S-DVI.
 
 ## What if I need help with my claim? 
 
