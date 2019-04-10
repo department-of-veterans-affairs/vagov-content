@@ -117,5 +117,29 @@ box and click “Enter.” You can also search by the form number.
 | Vitamin deficiencies, including beriberi, pellagra, some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorption of nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
 
 ### Internal and surgical
+
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
+| Hernias that result in organs bulging through the muscle, except hiatal hernia | 21-0960H-1 | [Hernias (including Abdominal, Inguinal, and Femoral Hernias)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-1-ARE.pdf) |
+| Rectum and anus issues, including changes in sphincter control, stricture of prolapse, fistula, and other symptoms. Also includes bowel incontinence, severe constipation blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
+ 
+### Lungs and breathing (respiratory)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Breathing conditions other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (other than TB and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
+| Sleep apnea, including stopping breathing during sleep, as well as impaired functionality during the day as a result of poor sleep | 21-0960L-2 | [Sleep Apnea](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-2-ARE.pdf) |
+
+### Lymph system (rheumatological)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Chronic fatigue syndrome, including tiredness, loss of memory or concentration, and enlarged lymph nodes | 21-0960Q-1 | [Chronic Fatigue Syndrome](https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf) |
+
+### Mental and psychological 
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Anorexia, bulimia, and other eating disorders | 21-0960P-1 | [Eating Disorders]https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
+| General mental disorders, including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
+| PTSD-related issues, including evaluating beginning and extent of symptoms. Types include: <ul><li><b>Acute</b>, meaning the symptoms have been happening for less than 3 months</li><li><b>Chronic</b>, meaning the symptoms usually last 3 months or more</li><li><b>Delayed onset</b>, meaning the symptoms began at least 6 months after the traumatic experience </li></ul> Symptoms may include reliving the experience of a traumatic event, avoiding situations or people associated with the trauma, deadening of general responsiveness, insomnia, recurrent nightmares, extreme caution, an intensified fright response, and a change in levels of hostility. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
