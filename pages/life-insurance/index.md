@@ -119,7 +119,7 @@ hublinks:
       description: If you've received a denial letter for Traumatic Injury Protection Life Insurance benefits that instructs you to use this form, file your appeal by the date provided in your letter.
       external: false
     - url: https://www.benefits.va.gov/INSURANCE/vgli_auto_pay.asp
-      label: Enroll in VGLI auto pay
+      label: Enroll in VGLI Auto Pay
       description: Sign up to pay your Veterans' Group Life Insurance premium automatically from your bank account.
       external: false
     - url: https://www.insurance.va.gov/UnclaimedFunds/
