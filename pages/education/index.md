@@ -26,7 +26,7 @@ crosslinks:
       title: <b>Home loan benefits</b>
       description: Explore options for Veterans home loans, apply for your Certificate of Eligibility (COE), and get help if you're having trouble making your mortgage payments.
     - url: "/careers-employment/veteran-owned-business-support/"
-      title: <b>Veteran-Owned Small Business support</b>
+      title: <b>Veteran-owned small business support</b>
       description: Register to do business with VA and get support for your Veteran-owned small business.
     - url: https://www.dol.gov/veterans/findajob/
       title: <b>Jobs for Veterans</b>
@@ -211,7 +211,7 @@ hublinks:
       description: Download VA education benefits forms, fact sheets, and other resources.
       external: false
     - url: https://www.benefits.va.gov/gibill/my_story.asp
-      label: My Story—how Veterans and service members use the GI bill
+      label: My Story—how Veterans and service members use the GI Bill
       description: Hear inspiring stories from Veterans and service members who’ve advanced
         their education and training with the Post-9/11 GI Bill.
       external: false
