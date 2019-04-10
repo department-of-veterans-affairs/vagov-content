@@ -89,3 +89,33 @@ box and click “Enter.” You can also search by the form number.
 | Prostate issues, including cancer of the prostate gland, and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
 | Issues involving the bladder and urethra, including issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
 
+### Heart conditions (cardiovascular)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Conditions affecting your veins or arteries, including varicose veins and related conditions that may cause swelling of legs or other areas, pain when walking, or skin or nail changes | 21-0960A-2 | [Artery and Vein Conditions (Vascular Diseases including varicose veins)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-2-ARE.pdf) |
+| High blood pressure or hypertension | 21-0960A-3 | [Hypertension](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-3-ARE.pdf) |
+| Heart conditions, including heart attack, irregular heartbeat, and heart surgery | 21-0960A-4 | [Heart Conditions (Including IHD, Non-IHD, Arrhythmias Valvular Disease and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
+
+### Hormonal conditions and diabetes (endocrinological)
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Diabetes Type 1 or 2, conditions related to blood sugar levels, and abnormal glucose tolerance test (GTT) | 21-0960E-1 | [Diabetes Mellitus (DM)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-1-ARE.pdf) |
+| Conditions affecting the hormone glands, including Cushing's syndrome, acromegaly, Addison's disease, and others | 21-0960E-2 | [Endocrine Diseases (other than Thyroid and Parathyroid, or Diabetes Mellitus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-2-ARE.pdf) |
+| Thyroid and parathyroid conditions, including growth, metabolism, and other issues | 21-0960E-3 | [Thyroid and Parathyroid Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-3-ARE.pdf) |
+
+### Infectious diseases
+
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
+| Human immunodeficiency virus (HIV) and related conditions | 21-0960I-2 | [HIV-Related Illnesses](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-2-ARE.pdf) |
+| Infectious diseases **not** specifically associated with either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [nfectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
+| Infectious diseases associated with military service in tropical areas, including the Person Gulf and Afghanistan. These can include exposure to salmonella, shigella, and other bacteria that cause symptoms like chronic diarrhea | 21-0960I-1 | [Persian Gulf and Afghanistan Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-1-ARE.pdf) |
+| Autoimmune issues, including conditions like lupus, Goodpasture syndrome, and Guillain-Barre syndrome | 21-0960I-4 | [Systemic Lupus Erthematosus (SLE) and Other Autoimmune Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-4-ARE.pdf) |
+| Tuberculosis symptoms | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
+| Vitamin deficiencies, including beriberi, pellagra, some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorption of nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
+
+### Internal and surgical
+| Conditions and symptoms | Form number | Form name |
+| --- | --- | --- |
