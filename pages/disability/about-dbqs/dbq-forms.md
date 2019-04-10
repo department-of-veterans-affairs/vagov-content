@@ -27,8 +27,8 @@ box and click “Enter.” You can also search by the form number.
 
 ### Blood conditions (hematologic and lymphatic)
 
-| Conditions and symptoms | Form number | Form name |
-| ---------- | ---------- | ---------- |
+| Conditions and symptoms | Form number                | Form name |
+| --- | --- | ---|
 | Anemia, some types of leukemia, lymphoma, and other conditions involving the white and red blood cells | 21-0960B-2 | [Hematologic and Lymphatic Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
 | Hairy cell and other B-cell leukemias | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
 
