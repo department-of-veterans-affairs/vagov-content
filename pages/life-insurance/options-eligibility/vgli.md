@@ -10,10 +10,10 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
-      title: Claims for Disabled and Terminally Ill Policyholders
+      title: Claims for disabled and terminally ill policyholders
       description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
 aliases:
   - /life-insurance/options-and-eligibility/vgli/
@@ -68,7 +68,7 @@ If you sign up within 240 days of leaving the military, you won’t need to prov
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
 [Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
 
-Fax the form to 1-800-236-6142, or mail it to:
+Fax the form to 800-236-6142, or mail it to:
 
 <p class="va-address-block">
   OSGLI<br>
@@ -639,7 +639,7 @@ Yes. You can choose your beneficiaries (the people you pick to get the money fro
 - Fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
 
-Fax the form to 1-800-236-6142, or mail it to:
+Fax the form to 800-236-6142, or mail it to:
 
 <p class="va-address-block">
   OSGLI<br>
@@ -679,7 +679,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 ## What if I need help with my claim? 
 
-If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 1-800-419-1473, **or** <br>
+If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 800-419-1473, **or** <br>
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
 
