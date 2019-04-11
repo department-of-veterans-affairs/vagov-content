@@ -166,7 +166,6 @@ After closing, you’re ready to move into your new home. Congratulations!
 
 </li>
 </ol>
-<br>
 
 ## Will I have to pay any loan fees?
 If you’re using a VA home loan to purchase a home or refinance a mortgage, you’ll need to pay a funding fee. The funding fee is a percentage of your loan amount. You can choose to finance the funding fee or pay it when you pay your closing costs.
