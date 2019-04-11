@@ -34,7 +34,7 @@ You may be able to get disability benefits if you didn’t receive a dishonorabl
 
 - Were part of atmospheric nuclear weapons testing, **or**
 - Served in the postwar occupation of Hiroshima or Nagasaki, **or**
-- Were a Prisoner of War (POW) in Japan, **or**
+- Were a prisoner of war (POW) in Japan, **or**
 - Worked as an x-ray technician, in a reactor plant, or in nuclear medicine or radiography (while on active duty or during active or inactive duty for training in the Reserves), **or**
 - Did tasks like those of a Department of Energy (DOE) employee that make them a member of the Special Exposure Cohort (See 42 U.S.C. 7384L(14))
 
