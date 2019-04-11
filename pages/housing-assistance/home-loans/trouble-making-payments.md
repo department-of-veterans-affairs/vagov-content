@@ -56,8 +56,9 @@ Our VA Loan Technicians can help you figure out which option is best for you. Co
 **If your loan closed before January 1, 1990,** and VA has to pay the servicer because you foreclosed on your loan, you'll need pay this amount back.  <br>
 **If your loan closed on or after January 1, 1990,** you'll have to pay back the amount of your loan if we find evidence of fraud, misrepresentation, or bad faith on your part. <br>
 
-**More information if you're having trouble making your mortgage payment** <br>
+**Resources if you're having trouble making your mortgage payment** <br>
 [Homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf) <br>
-[Consumer Financial Protection Bureau's advisory on how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/)
+[Consumer Financial Protection Bureau's advisory on how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/) <br>
+[Talk to a housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 
 
