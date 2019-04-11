@@ -20,7 +20,7 @@ aliases:
 
 <div class="va-introtext">
 
-Are you the spouse or dependent child of a Servicemember who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage.
+Are you the spouse or dependent child of a Servicemember who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage. 
 
 </div>
 
