@@ -118,7 +118,7 @@ Yes. We may increase or decrease your compensation amount in certain situations.
 
 If you have more than one disability, we’ll use the combined ratings table below to calculate your combined disability rating. 
 
-To make this table easier to use online, we’ve separated it into smaller tables, based on the percentage of the most severe, or highest rated, disability (as shown in left column of each table). 
+To make this table easier to use online, we’ve separated it into smaller tables, based on the percentage of the most severe, or highest rated, disability (as shown in the left column of each table). 
 
 <strong>Note:</strong> If you have 2 disabilities, each rated at 10% disabling, your combined disability rating is 19%. 
 
@@ -287,7 +287,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 
 <h3>How we use the combined ratings table</h3>
 
-<strong>We’ll follow these steps to use calculate your combined rating:</strong>
+<strong>We’ll follow these steps to calculate your combined rating:</strong>
 
 <ol class="process" markdown="1">
 
@@ -357,4 +357,4 @@ Watch our videos to learn more about how VA disability ratings and compensation 
 [Compensation 101: What is disability compensation?](https://www.youtube.com/watch?v=T3RodE0nGFc) <br>
 [Compensation 101: What is service connection?](https://www.youtube.com/watch?v=h4vKqUlrdys)
 
-If you need help understanding your benefits or accessing services, please call us at <a href="tel:+18778271000">1-877-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. 
+If you need help understanding your benefits or accessing services, please call us at <a href="tel:+18778271000">877-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. 
