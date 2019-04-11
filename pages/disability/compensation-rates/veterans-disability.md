@@ -53,9 +53,9 @@ View current Veterans disability compensation rates. Use our compensation benefi
 | -- | -- |-- |-- |-- | 
 | **Veteran alone (no dependents)** | $428.83 | $617.73 | $879.36 | $1,113.86 |
 | **Veteran with spouse (no parents or children)** | $479.83 | $685.73 | $964.36 | $1,215.86 |
-| **Veteran with spouse and one parent (no children)** | $520.83 | $739.73 | $1,032.36 | $1,297.86 |
+| **Veteran with spouse and 1 parent (no children)** | $520.83 | $739.73 | $1,032.36 | $1,297.86 |
 | **Veteran with spouse and 2 parents (no children)** | $561.83 | $793.73 | $1,100.36 | $1,379.86 |
-| **Veteran with one parent (no spouse or children)** | $469.83 | $671.73 | $947.36 | $1,195.86 |
+| **Veteran with 1 parent (no spouse or children)** | $469.83 | $671.73 | $947.36 | $1,195.86 |
 | **Veteran with 2 parents (no spouse or children)** | $510.83 | $725.73 | $1,015.36 | $1,277.86 |
 
 <h5>Added amounts</h5>
@@ -95,9 +95,9 @@ Your total monthly payment would be $479.83 + $47.00 = <strong>$526.83</strong>.
 | -- | -- |-- |-- |-- | 
 | **Veteran alone (no dependents)** | $1,403.71 | $1,631.69 | $1,833.62 | $3,057.13 |
 | **Veteran with spouse (no parents or children)** | $1,522.71 | $1,767.69 | $1,986.62 | $3,227.58 |
-| **Veteran with spouse and one parent (no children)** | $1,617.71 | $1,876.69 | $2,109.62 | $3,364.37 |
+| **Veteran with spouse and 1 parent (no children)** | $1,617.71 | $1,876.69 | $2,109.62 | $3,364.37 |
 | **Veteran with spouse and 2 parents (no children)** | $1,712.71 | $1,985.69 | $2,232.62 | $3,501.16 |
-| **Veteran with one parent (no spouse or children)** | $1,498.71 | $1,740.69 | $1,956.62 | $3,193.92 |
+| **Veteran with 1 parent (no spouse or children)** | $1,498.71 | $1,740.69 | $1,956.62 | $3,193.92 |
 | **Veteran with 2 parents (no spouse or children)** | $1,593.71 | $1,849.69 | $2,079.62 | $3,330.71 |
 
 <h5>Added amounts</h5>
@@ -139,12 +139,12 @@ Your total monthly payment would be $1,522.71 + $109.00 = <strong>$1,631.71</str
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran with one child only (no spouse or parents)** | $462.83 | $662.73 | $935.36 | $1,181.86 |
-| **Veteran with one child and spouse (no parents)** | $516.83 | $735.73 | $1,026.36 | $1,290.86 |
-| **Veteran with one child, spouse, and one parent** | $557.83 | $789.73 | $1,094.36 | $1,372.86 |
-| **Veteran with one child, spouse, and 2 parents** | $598.83 | $843.73 | $1,162.36 | $1,454.86 |
-| **Veteran with one child and one parent (no spouse)** | $503.83 | $716.73 | $1,003.36 | $1,263.86 |
-| **Veteran with one child and 2 parents (no spouse)** | $544.83 | $770.73 | $1,071.36 | $1,345.86 |
+| **Veteran with 1 child only (no spouse or parents)** | $462.83 | $662.73 | $935.36 | $1,181.86 |
+| **Veteran with 1 child and spouse (no parents)** | $516.83 | $735.73 | $1,026.36 | $1,290.86 |
+| **Veteran with 1 child, spouse, and 1 parent** | $557.83 | $789.73 | $1,094.36 | $1,372.86 |
+| **Veteran with 1 child, spouse, and 2 parents** | $598.83 | $843.73 | $1,162.36 | $1,454.86 |
+| **Veteran with 1 child and 1 parent (no spouse)** | $503.83 | $716.73 | $1,003.36 | $1,263.86 |
+| **Veteran with 1 child and 2 parents (no spouse)** | $544.83 | $770.73 | $1,071.36 | $1,345.86 |
 
 <h5>Added amounts</h5>
 
@@ -161,21 +161,21 @@ Start with the <strong>Basic rates</strong> table. Find the dependent status in 
 
 <strong>For example:</strong> If you were a Veteran with a dependent child and spouse but no dependent parents, and you had a 30% disability rating, you'd receive <strong>$1,522.71</strong> each month.
 
-<strong>If you have more than one child</strong>
+<strong>If you have more than 1 child</strong>
 
 We provide different rates for children who are under the age of 18 and those who are over 18 and in a qualifying school program. 
 
 To find your total monthly payment, first find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the added amount for each child, depending on their age and school status and your disability rating.
 
-<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, and you had a disability rating of 30%, you would start with your basic rate of $516.83 for a Veteran with one child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 3) and the rate of $191.00 for each additional child over 18 in a qualifying school program. 
+<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, 1 dependent child over 18 in a qualifying school program, and a dependent spouse, and you had a disability rating of 30%, you would start with your basic rate of $516.83 for a Veteran with 1 child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 3) and the rate of $191.00 for each additional child over 18 in a qualifying school program. 
 
 Your total monthly payment would be $516.83 + ($25.00 x 3) + $82.00 = <strong>$623.83</strong>.
 
 <strong>If you have a spouse who receives Aid and Attendance</strong>
 
-First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount for a spouse receiving Aid and Attendance that matches your disability rating and add it to your basic rate to get your total monthly payment. If you also have more than one child, you'll add the amount for each additional child as well. 
+First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount for a spouse receiving Aid and Attendance that matches your disability rating and add it to your basic rate to get your total monthly payment. If you also have more than 1 child, you'll add the amount for each additional child as well. 
 
-<strong>For example:</strong> If you were a Veteran with 2 dependent children under age 18 and a dependent spouse receiving Aid and Attendance, and you had a 30% disability rating, you would start with your basic rate of $516.83 for a Veteran with one child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 2) and the rate of $47.00 for a spouse receiving Aid and Attendance. 
+<strong>For example:</strong> If you were a Veteran with 2 dependent children under age 18 and a dependent spouse receiving Aid and Attendance, and you had a 30% disability rating, you would start with your basic rate of $516.83 for a Veteran with 1 child and spouse (no parents). You would then add the rate of $25.00 for each additional child under age 18 (so $25.00 x 2) and the rate of $47.00 for a spouse receiving Aid and Attendance. 
 
 Your total monthly payment would be $516.83 + ($25.00 x 2) + $47.00 = <strong>$613.83</strong>. <br>
 <br>
@@ -194,11 +194,11 @@ Your total monthly payment would be $516.83 + ($25.00 x 2) + $47.00 = <strong>$6
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
 | **Veteran with child only (no spouse or parents)** | $1,482.71 | $1,722.69 | $1,935.62 | $3,171.12 |
-| **Veteran with one child and spouse (no parents)** | $1,609.71 | $1,867.69 | $2,098.62 | $3,352.41 |
-| **Veteran with one child, spouse, and one parent** | $1,704.71 | $1,976.69 | $2,221.62 | $3,489.20 |
-| **Veteran with one child, spouse, and 2 parents** | $1,799.71 | $2,085.69 | $2,344.62 | $3,625.99 |
-| **Veteran with one child and one parent (no spouse)** | $1,577.71 | $1,940.69 | $2,181.62 | $3,444.70 |
-| **Veteran with one child and 2 parents (no spouse)** | $1,672.71 | $1,849.69 | $2,079.62 | $3,330.71 |
+| **Veteran with 1 child and spouse (no parents)** | $1,609.71 | $1,867.69 | $2,098.62 | $3,352.41 |
+| **Veteran with 1 child, spouse, and 1 parent** | $1,704.71 | $1,976.69 | $2,221.62 | $3,489.20 |
+| **Veteran with 1 child, spouse, and 2 parents** | $1,799.71 | $2,085.69 | $2,344.62 | $3,625.99 |
+| **Veteran with 1 child and 1 parent (no spouse)** | $1,577.71 | $1,940.69 | $2,181.62 | $3,444.70 |
+| **Veteran with 1 child and 2 parents (no spouse)** | $1,672.71 | $1,849.69 | $2,079.62 | $3,330.71 |
 
 <h5>Added amounts</h5>
 
@@ -217,15 +217,15 @@ We provide different rates for dependent children who are under the age of 18 an
 
 Then look at the <strong>Added amounts</strong> table. Find the added amount for each dependent child, depending on their age and school status and your disability rating.
 
-<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, one dependent child over 18 in a qualifying school program, and a dependent spouse, and you had a 70% disability rating, you would start with your basic rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 3) and the rate of $191.00 for each additional child over 18 in a qualifying school program. 
+<strong>For example:</strong> If you were a Veteran with 3 dependent children under 18, 1 dependent child over 18 in a qualifying school program, and a dependent spouse, and you had a 70% disability rating, you would start with your basic rate of $1,609.71 for a Veteran with 1 child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 3) and the rate of $191.00 for each additional child over 18 in a qualifying school program. 
 
 Your total monthly payment would be $1,609.71 + ($59.00 x 3) + $191.00 = <strong>$1,997.71</strong>.
 
 <strong>If you have a spouse who receives Aid and Attendance</strong>
 
-First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount for a spouse receiving Aid and Attendance that matches your disability rating and add it to your basic rate to get your total monthly payment. If you also have more than one child, you'll add the amount for each additional child as well. 
+First find your basic rate. Then look at the <strong>Added amounts</strong> table. Find the amount for a spouse receiving Aid and Attendance that matches your disability rating and add it to your basic rate to get your total monthly payment. If you also have more than 1 child, you'll add the amount for each additional child as well. 
 
-<strong>For example:</strong> If you were a Veteran with 2 dependent children under 18 and a dependent spouse receiving Aid and Attendance, and you had a 70% disability rating, you would start with your basic rate of $1,609.71 for a Veteran with one child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 2) as well as the rate of $109 for a spouse receiving Aid and Attendance.
+<strong>For example:</strong> If you were a Veteran with 2 dependent children under 18 and a dependent spouse receiving Aid and Attendance, and you had a 70% disability rating, you would start with your basic rate of $1,609.71 for a Veteran with 1 child and spouse (no parents). You would then add the rate of $59.00 for each additional child under age 18 (so $59 x 2) as well as the rate of $109 for a spouse receiving Aid and Attendance.
 
 Your total monthly payment would be $1,609.71 + ($59.00 x 2) + $109.00 = <strong>$1,836.71</strong>.<br>
 <br>
@@ -241,4 +241,4 @@ Your total monthly payment would be $1,609.71 + ($59.00 x 2) + $109.00 = <strong
 
 View Veterans disability compensation rates for past years.
 
-[2017](https://www.benefits.va.gov/COMPENSATION/resources_comp0117.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/resources_comp0116.asp) | [2014-2015](https://www.benefits.va.gov/COMPENSATION/resources_comp0114.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/resources_comp0113.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/resources_comp0112.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/resources_comp0111.asp)| [2009-2010](https://www.benefits.va.gov/COMPENSATION/resources_comp0109.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/resources_comp0108.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/resources_comp0107.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/resources_comp0106.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/resources_comp0105.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/resources_comp0104.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/resources_comp0103.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/resources_comp0102.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/resources_comp0101.asp) | [2000)](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp)
+[2017](https://www.benefits.va.gov/COMPENSATION/resources_comp0117.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/resources_comp0116.asp) | [2014-2015](https://www.benefits.va.gov/COMPENSATION/resources_comp0114.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/resources_comp0113.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/resources_comp0112.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/resources_comp0111.asp)| [2009-2010](https://www.benefits.va.gov/COMPENSATION/resources_comp0109.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/resources_comp0108.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/resources_comp0107.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/resources_comp0106.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/resources_comp0105.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/resources_comp0104.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/resources_comp0103.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/resources_comp0102.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/resources_comp0101.asp) | [2000](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/resources_comp0100.asp)
