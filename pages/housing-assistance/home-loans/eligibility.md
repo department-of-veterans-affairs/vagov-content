@@ -146,9 +146,12 @@ To request an entitlement restoration, fill out a Request for a Certificate of E
 [Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf) <br>
 [Find your state’s VA regional loan center](https://www.benefits.va.gov/homeloans/contact_rlc_info.asp) <br>
 
+## What if I have questions about my eligibility?
+If you have any questions about your eligibility for a VA home loan, please call your VA regional loan center at 877-827-3702, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
+
 
 **More information about home ownership and the VA home loan program** <br>
 [Summary of VA home loan guaranty benefits](https://www.benefits.va.gov/BENEFITS/benefits-summary/SummaryofVAHomeLoanGuarantyBenefits.pdf) <br>
-[Look for workshops from Department of Housing and Urban Development–approved housing counseling agencies](https://apps.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary)<br>
-[Home ownership costs](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7) <br>
+[Costs of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7) <br>
 [Consumer Financial Protection Bureau's home loan toolkit](https://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf) <br>
+
