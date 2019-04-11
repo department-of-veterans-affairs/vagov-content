@@ -20,10 +20,10 @@ majorlinks:
       title: Special monthly compensation (SMC) rates
       description: View current compensation rates that may apply to you if you qualify for special monthly compensation based on the severity of your disability.
     - url: /disability/compensation-rates/special-allowances/
-      title: Special allowances compensation rates
+      title: Special benefit allowances rates
       description: View current compensation rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
     - url: /disability/compensation-rates/birth-defects/
-      title: Birth defect compensation rates
+      title: Birth defects compensation rates
       description: View current compensation rates that may apply to your family if your child has spina bifida or certain other birth defects linked to your or another parent’s service in South Vietnam or the Republic of Korea.
 relatedlinks:
   - heading: View other VA compensation rates
