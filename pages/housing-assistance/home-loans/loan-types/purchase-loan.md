@@ -179,4 +179,4 @@ After closing, you’re ready to move into your new home. Congratulations!
 
 [Watch a video about the cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow) <br>
 
-[VA guidance if your home is affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
+[Get guidance from VA if your home is affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
