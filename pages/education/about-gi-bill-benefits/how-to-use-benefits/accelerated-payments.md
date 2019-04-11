@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Accelerated payments for high-technology programs
-display_title: Accelerated Payments
+display_title: Accelerated payments
 concurrence: incomplete
 aliases:
   - /education/work-learn/non-traditional/accelerated-payments/
