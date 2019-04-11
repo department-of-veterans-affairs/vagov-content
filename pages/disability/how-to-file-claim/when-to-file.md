@@ -49,7 +49,7 @@ Learn more about disabilities that may be related to your active-duty service bu
   - [Disabilities that appear within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/)</br>
   - [Disabilities believed to be caused by contact with hazardous materials](/disability/eligibility/hazardous-materials-exposure/)</br>
   - [Disabilities related to service in Southwest Asia (Gulf War service)](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/)</br>
-  - [Disabilities related to time spent as a Prisoner of War (POW)](/disability/eligibility/former-pows/)
+  - [Disabilities related to time spent as a prisoner of war (POW)](/disability/eligibility/former-pows/)
 
 <br>
 
