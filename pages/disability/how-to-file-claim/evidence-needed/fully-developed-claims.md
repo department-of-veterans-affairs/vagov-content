@@ -17,8 +17,8 @@ relatedlinks:
       title: Exposure to hazardous chemicals and materials
       description: Learn more about claims for conditions related to contact with hazardous materials.
     - url: /disability/eligibility/former-pows/
-      title: Disability benefits for former Prisoners of War (POWs)
-      description: Learn more about claims for former Prisoners of War (POWs).
+      title: Disability benefits for former prisoners of war (POWs)
+      description: Learn more about claims for former prisoners of war (POWs).
     - url: /disability/eligibility/special-claims/
       title: Special claims
       description: Learn more about other special claims.
