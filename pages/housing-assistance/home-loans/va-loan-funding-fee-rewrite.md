@@ -97,7 +97,7 @@ Review the VA funding fee tables below to determine the amount you’ll have to 
 
 <br> 
 
-*If you used a VA-backed or VA direct home loan to purchase a manufactured home, you only need to pay the first-time use funding fee 
+\*If you used a VA-backed or VA direct home loan to purchase a manufactured home, you only need to pay the first-time use funding fee 
 
 <br>
 
