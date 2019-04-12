@@ -4,7 +4,7 @@ template: detail-page
 title: VA Funding Fees and Loan Closing Costs | Veterans Affairs
 heading: VA Funding Fees and Loan Closing Costs
 display_title: VA Funding Fee
-description: If you get a VA-backed or VA direct home loan, you may have to make a one-time payment --called a VA funding fee--in order to get your loan money. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
+description: If you get a VA-backed or VA direct home loan, you may have to make a one-time payment, called a VA funding fee. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
 keywords: va funding fee, va funding fee chart, va loan closing costs, va loan fees
 concurrence:
 order: 2
@@ -12,7 +12,7 @@ order: 2
 
 <div class="va-introtext">
 
-If you get a VA-backed or VA direct home loan, you may have to make a one-time payment --called a VA funding fee--in order to get your loan money. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
+If you get a VA-backed or VA direct home loan, you may have to make a one-time payment, called a VA funding fee. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
 
 </div>
 
