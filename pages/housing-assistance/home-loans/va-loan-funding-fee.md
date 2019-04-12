@@ -120,7 +120,7 @@ You (the purchaser), the seller, or both parties <strong>can pay</strong> these 
 
 <br>
 
-Sellers must pay some closing closing costs (sometimes called “seller’s concessions”). You (the purchaser) <strong>can’t pay</strong> these closing costs:
+Sellers must pay some closing closing costs (sometimes called “seller’s concessions”). Sellers <strong>should pay</strong> these closing costs:
 
 - Commission
 - Brokerage fee
