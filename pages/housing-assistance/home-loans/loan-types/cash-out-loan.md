@@ -108,4 +108,4 @@ Your lender will also charge interest on the loan in addition to closing fees. P
 
 **Note:** If you’re a second-time VA home loan user and you don’t make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher.<br>
 
-[Learn more about VA funding fees and loan costs](housing-assistance/home-loans/va-loan-funding-fee/)
+[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
