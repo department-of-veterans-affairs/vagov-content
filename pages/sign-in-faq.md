@@ -26,7 +26,7 @@ display_title: Frequently asked questions
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-0" itemprop="name">How do I sign in to VA.gov? </button>
                     <div id="faq-signin-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
-                        <p><strong>You can sign in to VA.gov in 1 of 3 ways:</strong></p>
+                        <p><strong>You can sign in to VA.gov in any of these ways:</strong></p>
                         <ul>
                           <li>With your existing <strong>My HealtheVet</strong> account, <strong>or</strong></li>
                           <li>With your existing <strong>DS Logon</strong> account, <strong>or</strong></li>
@@ -43,7 +43,7 @@ display_title: Frequently asked questions
                       <div itemprop="text">
                         <p>We need to confirm your email address before we can give you access to your VA.gov account. We partner with ID.me to provide this service securely.</p>
                         <p>ID.me is a digital identity platform that helps people like you easily prove your identity so you can access advanced online services—while keeping your personal information safe.</p>
-                        <p>ID.me is a trusted VA partner and 1 of only 4 Single Sign-On providers that meet the U.S. government’s most rigorous requirements for online identity proofing and authentication. ID.me provides the strongest identity verification system available to prevent fraud and identity theft. This service uses bank-grade encryption to keep your personal information safe. And they give you control over which services and businesses can share your information.</p>
+                        <p>ID.me is a trusted VA partner and one of only 4 Single Sign-On providers that meet the U.S. government’s most rigorous requirements for online identity proofing and authentication. ID.me provides the strongest identity verification system available to prevent fraud and identity theft. This service uses bank-grade encryption to keep your personal information safe. And they give you control over which services and businesses can share your information.</p>
                       </div>
                     </div>
                   </li>
