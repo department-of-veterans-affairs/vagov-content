@@ -164,26 +164,37 @@ And one of these must be true. The Philippine Veteran:
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran or spouse</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
 <div id="hmong-veteran" class="usa-accordion-content">
 
-The Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”) eased certain naturalization requirements so that Hmong Veterans and their spouses may be eligibile for burial in a national cemetery. 
-
-All of these must be true. The Hmong Veteran:
+To be eligible for burial in a national cemetery, including a headstone or marker, all of these must be true. The Hmong Veteran:
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
-- Was naturalized under the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
+- Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
 
-And the deceased must fit into one of these categories. The deceased: 
-- Served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime between February 28, 1961, and September 18, 1978, **or** 
-- Was the spouse of a Veteran who served with special guerrilla units or irregular forces, operating from a base in Laos, in support of the U.S. military, anytime between February 28, 1961, and September 18, 1978, **or**
-- Was married to a Veteran who served in special guerilla units or irregular forces who died in Laos, Thailand, or
-Vietnam anytime between February 28, 1961, and September 18, 1978
+Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
 
-**Note:** Naturalization under the 2000 Act was also available for spouses of
-those who served in SGU/irregular forces and surviving spouses of those who were killed or died in
-action while serving in SGU/irregular forces. However, only eligible Hmong fighters, not their spouses or surviving
-spouses, are eligible for interrment. 
+Hmong Veterans aren't eligible for these benefits:
+- Medallion
+- Memorial Headstone
+- Burial Flag
+- Presidential Memorial Certificate
+- Military Funeral Honors provided by the Department of Defense
+
+**Note:** Spouses and surviving spouses of Hmong Veterans aren't eligible for interment, even if they were naturalized under the 2000 Act. 
+
+Time of Need (means time of death):  When making the call, the next
+of kin or funeral home director should advise the scheduler that interment is requested under PL 115-141.
+
+Pre-Need (means before death): When completing the form, write “PL115-141” in Block 5, write the Certification of
+Naturalization Registration “A” number in Block 6, and select ‘Other’ in Block 13. 
+
+To request a headstone or marker for burial in a private cemetery, the next of kin or authorized
+applicant must complete the VA Form 40-1330, Claim for Government Headstone or Marker. The VA
+Form 40-1330 must be faxed to VA at 1-800-455-7143 or mailed to the Department of Veterans Affairs,
+Memorial Products Service (41B), 5109 Russell Road, Quantico, VA 22134-3903. The form is available
+at https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf. Write “PL115-141” and the Certification of
+Naturalization Registration “A” number in Block 33.
 
 </div>
 </li>
