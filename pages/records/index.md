@@ -8,7 +8,7 @@ lastupdate:
 order: 1
 hub: records
 promo:
-  - image: /img/megamenu/records-illustration.png
+  - image: /img/hub-illustrations/records.png
     heading: Confirm Your VA Benefit Status
     url: "/records/download-va-letters/"
     description: Download letters like your eligibility or award letter for certain benefits.
@@ -34,7 +34,7 @@ social:
           number: 1-844-698-2311
           title: "Call MyVA311 for Help:"
         - url:
-          title: "If you have hearing loss, call TTY: 711."       
+          title: "If you have hearing loss, call TTY: 711."
 hublinks:
   - id: get
     title: Get Your Records and Documents
@@ -50,6 +50,10 @@ hublinks:
     - url: "/health-care/get-medical-records/"
       label: Get Your VA Medical Records (called VA Blue Button)
       description: Set up your personal health record and download medical records, reports, and images to share with your VA and non-VA doctors.
+      external: false
+    - url: "/change-address/"
+      label: Change Your Address on File with VA
+      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
       external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters

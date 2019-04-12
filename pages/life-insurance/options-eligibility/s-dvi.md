@@ -9,8 +9,8 @@ relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Managing Your Policy
-      description: Already have VA life insurance? Manage your policy online.
+      title: Access Your Policy Online
+      description: Already have VA life insurance? Access your policy online.
 aliases:
   - /life-insurance/options-and-eligibility/s-dvi/
 ---

@@ -10,7 +10,7 @@ hub: burials
 aliases:
   - /burials-and-memorials/
 promo:
-  - image: /img/megamenu/burials-memorials-illustration.png
+  - image: /img/hub-illustrations/burials.png
     heading: Find National Cemetery Administration Information
     url: "https://m.va.gov/"
     description: Locate a grave, search for cemeteries, and find benefits information and resources.
@@ -34,7 +34,7 @@ social:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
       - subhead: Call Us
-        links:      
+        links:
         - url: tel:1-800-535-1117
           number: 1-800-535-1117
           title: "National Cemetery Scheduling Office:"
@@ -59,13 +59,13 @@ social:
           label: National Cemeteries Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VANatCemeteries
           label: National Cemeteries Twitter
           external: true
           icon: fa-twitter
-        - url: "https://www.facebook.com/VeteransBenefits"
+        - url: "https://www.facebook.com/NationalCemeteries/"
           label: National Cemeteries Facebook
           external: true
           icon: fa-facebook

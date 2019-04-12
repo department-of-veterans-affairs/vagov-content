@@ -9,7 +9,7 @@ lastupdate:
 order: 1
 hub: education
 promo:
-  - image: /img/megamenu/education-training-illustration.png
+  - image: /img/hub-illustrations/education.png
     heading: GI Bill® Comparison Tool
     url: "/gi-bill-comparison-tool"
     description: Learn about education programs and compare benefits by school.
@@ -32,7 +32,7 @@ crosslinks:
       title: <b>Jobs for Veterans</b>
       description: Get help from the U.S. Department of Labor to find a job, get training, or explore career options.
 social:
-  - heading: Ask Questions   
+  - heading: Ask Questions
     subsections:
       - subhead: Message Us
         links:
@@ -51,7 +51,7 @@ social:
           title: "VA Benefits Hotline:"
         - url: tel:1-800-983-0937
           number: 1-800-983-0937
-          title: "eBenefits Technical Support:"  
+          title: "eBenefits Technical Support:"
         - url: tel:1-844-698-2311
           number: 1-844-698-2311
           title: "Call MyVA311 for Help:"
@@ -66,9 +66,9 @@ social:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
           external: true
-          icon: fa-envelope        
-      - subhead: Follow Us
-        links:      
+          icon: fa-envelope
+      - subhead: Follow us
+        links:
         - url: https://twitter.com/VAVetBenefits
           label: Veterans Benefits Twitter
           external: true
@@ -202,7 +202,7 @@ hublinks:
       description: Contact us to ask questions and get help with your benefits online
         or by phone.
       external: false
-    - url: https://www.benefits.va.gov/GIBILL/Feedback.asp
+    - url: /education/submit-school-feedback/
       label: GI Bill School Feedback Tool
       description: Find out how to give us feedback about your GI Bill school.
       external: false

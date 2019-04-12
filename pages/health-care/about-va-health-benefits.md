@@ -102,7 +102,7 @@ You should also know that being signed up for VA health care meets your Affordab
   - Specialized care (including organ transplants, intensive care for mental and physical conditions, and care for traumatic injuries). <br>
   [See more VA medical and surgical specialty care services](https://www.va.gov/healthbenefits/access/specialty_care_services.asp).
 - Emergency care in a VA hospital, outpatient clinic, or Vet Center. <br>
-  [Find a VA health facility near you](https://www.vets.gov/find-locations/).
+  [Find a VA health facility near you](/find-locations/).
 - Emergency care in a non-VA hospital, clinic, or other medical setting—only under certain conditions. For us to consider covering non-VA emergency care for a non-service-connected condition, you’ll need to meet several requirements. <br>
 [Learn more about non-VA emergency medical care](https://www.va.gov/HEALTHBENEFITS/access/emergency_care.asp).
 - Mental health services to treat certain issues like posttraumatic stress disorder (PTSD), military sexual trauma (MST), depression, and substance use problems. <br>
@@ -227,7 +227,7 @@ These services are **not** included in your VA medical benefits package:
 <div itemprop="text">
 We’ll fill prescriptions by a non-VA provider only if you meet all the requirements listed below.
 
-<b>All of these must be true</b>:
+<strong>All of these must be true</strong>:
 
 - You’re enrolled in VA health care
 - You have an assigned VA primary care provider

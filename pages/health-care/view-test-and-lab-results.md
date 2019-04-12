@@ -18,7 +18,7 @@ With our Labs + Tests tool, you can view your VA lab and test results online thr
 
 </div>
 
-<div class="cta-widget" data-app-id="lab-and-test-results"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="lab-and-test-results"></div>
 
 <div itemscope itemtype="http://schema.org/Question">
 

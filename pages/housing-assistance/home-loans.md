@@ -20,6 +20,9 @@ majorlinks:
     - url: /housing-assistance/home-loans/how-to-apply/
       title: How to Apply for Your COE
       description: Find out how to apply for a COE—and what to do next to get a VA direct or VA-backed home loan.
+    - url: /housing-assistance/home-loans/surviving-spouse/
+      title: VA Home Loan Programs for Surviving Spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
     - url: /housing-assistance/home-loans/trouble-making-payments/
       title: Trouble Making Payments?
       description: Get help to avoid foreclosure if you’re struggling to make your monthly mortgage payments.

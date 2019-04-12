@@ -151,7 +151,7 @@ If you have a service-connected disability that limits your ability to work or p
 
 </div><div markdown="0"><br></div>
 
-<div id="react-applicationStatus" class="static-page-widget"></div>
+<div id="react-applicationStatus" data-widget-type="education-app-status" class="static-page-widget"></div>
 
 [Learn more about how to apply for education benefits](/education/how-to-apply/).
 
