@@ -105,7 +105,7 @@ Review the VA funding fee tables below to determine the amount you’ll have to 
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Who determines the details of my loan?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Who determines my loan details?</button>
 <div id="apply-coe-veteran" class="usa-accordion-content">
 
 Your home loan lender--not VA--determines these details of your loan:
@@ -120,7 +120,7 @@ Your home loan lender--not VA--determines these details of your loan:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Buyer closing costs</button>
 <div id="apply-coe-active-duty" class="usa-accordion-content">
 
-You (the buyer) usually pays for these closing costs:
+You (the buyer) usually pay for these closing costs:
 
 - VA funding fee
 - Loan origination fee
