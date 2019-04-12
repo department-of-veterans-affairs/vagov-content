@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: level2-index
+template: detail-page
 title: Privacy, Policies, and Legal Information
 ---
 
