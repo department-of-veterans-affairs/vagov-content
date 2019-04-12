@@ -35,6 +35,8 @@ social:
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
+        - url: https://www.hud.gov/i_want_to/talk_to_a_housing_counselor 
+          label: "Talk to a housing counselor"
       - subhead: Call Us
         links:
         - url: tel:1-800-827-1000
@@ -181,13 +183,13 @@ We offer many programs and services that may help—including free health care a
 
 **Find the support you need:**
 
-- **Call the National Call Center for Homeless Veterans** at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+- **Call the National Call Center for Homeless Veterans** at 877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 - **Contact your nearest VA medical center** and ask to talk with the VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
-[Find the nearest VA medical center](/find-locations/?facilityType=health).
+[Find the nearest VA medical center](/find-locations/?facilityType=health)
 
 **Talk with someone right now:**
       <p>If you're a Veteran in crisis or concerned about one, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
-      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
+      <p><a class="no-external-icon" href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a></p>
    </div>
   </div>
  </div>
