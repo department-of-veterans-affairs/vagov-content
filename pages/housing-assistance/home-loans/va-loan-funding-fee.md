@@ -134,8 +134,8 @@ You (the buyer) usually pay for these closing costs:
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Seller closing costs</button>
-<div id="apply-coe-active-duty" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-discharged-reserves">Seller closing costs</button>
+<div id="apply-coe-discharged-reserves" class="usa-accordion-content">
 
 The seller usually pays for these closing costs (sometimes called "seller's concessions"): 
 
@@ -149,8 +149,8 @@ In most cases, sellers shouldn’t pay more than 4% of the total home loan in cl
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Buyer and seller closing costs</button>
-<div id="apply-coe-active-duty" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-discharged-reserves">Buyer and seller closing costs</button>
+<div id="apply-coe-discharged-reserves" class="usa-accordion-content">
 
 Both the buyer (you) and the seller can pay these closing costs: 
 
@@ -161,6 +161,7 @@ Both the buyer (you) and the seller can pay these closing costs:
 
 </div>
 </li>
+</ul>
 <br>
 
 [Find out more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf).
