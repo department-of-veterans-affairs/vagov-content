@@ -103,24 +103,41 @@ Review the VA funding fee tables below to determine the amount you’ll have to 
 
 <h2>Loan closing costs</h2>
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Who determines the details of my loan?</button>
+<div id="apply-coe-veteran" class="usa-accordion-content">
+
 Your home loan lender--not VA--determines these details of your loan:
 
 - Interest rate
 - Discount points
 - Closing costs
 
-<br>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Buyer closing costs</button>
+<div id="apply-coe-active-duty" class="usa-accordion-content">
 
-You (the purchaser), the seller, or both parties <strong>can pay</strong> these closing costs: 
+You (the buyer) usually pays for these closing costs:
 
-- VA appraisal
+- VA funding fee
+- Loan origination fee
+- Loan discount points
 - Credit report
-- State and local taxes
-- Recording fees
+- Appraisal fee
+- Hazard insurance and real estate taxes
+- Title insurance
+- Recording fee
 
-<br>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Seller closing costs</button>
+<div id="apply-coe-active-duty" class="usa-accordion-content">
 
-Sellers must pay some closing closing costs (sometimes called “seller’s concessions”). Sellers <strong>should pay</strong> these closing costs:
+The seller usually pays for these closing costs (sometimes called "seller's concessions"): 
 
 - Commission
 - Brokerage fee
@@ -129,7 +146,24 @@ Sellers must pay some closing closing costs (sometimes called “seller’s conc
 
 In most cases, sellers shouldn’t pay more than 4% of the total home loan in closing costs. 
 
-[Find out more about which closing costs buyers and sellers can pay](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf).
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Buyer and seller closing costs</button>
+<div id="apply-coe-active-duty" class="usa-accordion-content">
+
+Both the buyer (you) and the seller can pay these closing costs: 
+
+- VA appraisal
+- Credit report
+- State and local taxes
+- Recording fees
+
+</div>
+</li>
+<br>
+
+[Find out more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf).
 
 
 
