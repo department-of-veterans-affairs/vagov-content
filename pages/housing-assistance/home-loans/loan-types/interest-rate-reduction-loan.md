@@ -90,6 +90,8 @@ Your lender will also charge interest on the loan in addition to closing fees. P
 - Eligible to receive VA compensation pay for a service-connected disability, but you're receiving retirement or active-duty pay instead, **or**
 -	The surviving spouse of a Veteran who died while serving or from a service-connected disability
 
-**Note:** If you're a second-time VA home loan user and you don't make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher.
+**Note:** If you're a second-time VA home loan user and you don't make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher. <br>
+
+[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
 
 
