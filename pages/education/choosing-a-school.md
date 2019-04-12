@@ -6,7 +6,7 @@ display_title: Choosing a school
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool
 concurrence: incomplete
-spoke: More resources
+spoke: More Resources
 order: 3
 aliases:
   - /education/tools-programs/locate-a-school/
