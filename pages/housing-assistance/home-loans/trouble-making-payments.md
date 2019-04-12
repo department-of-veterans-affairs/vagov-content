@@ -53,12 +53,13 @@ If you’re nervous about contacting your servicer, or if you’d like our help 
 
 Our VA Loan Technicians can help you figure out which option is best for you. Contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
 
-**If your loan closed before January 1, 1990,** and VA has to pay the servicer because you foreclosed on your loan, you'll need pay this amount back.  <br>
+Another reason you should do everything to avoid a foreclosure: <br>
+**If your loan closed before January 1, 1990,** and we have to pay back the amount of your loan to the servicer, you'll need pay this amount back to the government.  <br>
 **If your loan closed on or after January 1, 1990,** you'll have to pay back the amount of your loan if we find evidence of fraud, misrepresentation, or bad faith on your part. <br>
 
-**Resources if you're having trouble making your mortgage payment** <br>
-[Homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf) <br>
-[Consumer Financial Protection Bureau's advisory on how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/) <br>
+**If you need more help**:<br>
+[Read HUD's homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf) <br>
+[Read the Consumer Financial Protection Bureau's advisory on how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/) <br>
 [Talk to a housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
 
 
