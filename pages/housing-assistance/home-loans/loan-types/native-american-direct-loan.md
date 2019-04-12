@@ -81,4 +81,7 @@ Your lender will also charge interest on the loan in addition to closing fees. P
 
 - Receiving VA compensation pay for a service-connected disability, **or**
 - Eligible to receive VA compensation pay for a service-connected disability, but you're receiving retirement or active-duty pay instead, **or**
--	The surviving spouse of a Veteran who died while serving or from a service-connected disability
+-	The surviving spouse of a Veteran who died while serving or from a service-connected disability <br>
+
+[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
+
