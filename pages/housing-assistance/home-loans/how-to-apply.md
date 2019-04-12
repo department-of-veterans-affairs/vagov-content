@@ -163,9 +163,9 @@ To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 2
 
 Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender (for most loans, the lender will be a private bank or mortgage company; for the Native American Direct Loan, we’ll be your lender).
 
-The lender will appraise (assess the value) of the house. An appraisal estimates the house's market value at the time of inspection. The lender reviews the appraisal and your credit and income information and decides if they should grant the loan.
+The lender will appraise (assess the value) of the house. An appraisal estimates the house's market value at the time of inspection. The lender reviews the appraisal and your credit and income information and decides if they should grant you the loan.
 
-If they decide to grant the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house.
+If they decide to grant you the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house.
 
 ## What if I have questions about the loan process?
 If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">877-827-3702</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
