@@ -109,6 +109,7 @@ Your home loan lender--not VA--determines these details of your loan:
 - Discount points
 - Closing costs
 
+<br>
 
 You (the purchaser), the seller, or both parties <strong>can pay</strong> these closing costs: 
 
@@ -116,6 +117,8 @@ You (the purchaser), the seller, or both parties <strong>can pay</strong> these 
 - Credit report
 - State and local taxes
 - Recording fees
+
+<br>
 
 Sellers must pay some closing closing costs (sometimes called “seller’s concessions”). You (the purchaser) <strong>can’t pay</strong> these closing costs:
 
