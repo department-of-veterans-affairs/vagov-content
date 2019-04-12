@@ -7,7 +7,22 @@ display_title: VA Funding Fee
 description: If you get a VA-backed or VA direct home loan, you may have to make a one-time payment, called a VA funding fee. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
 keywords: va funding fee, va funding fee chart, va loan closing costs, va loan fees
 concurrence:
-order: 2
+order: 9
+relatedlinks:
+  - heading: More VA home loan resources
+    links:
+    - url: /housing-assistance/home-loans/loan-types/
+      title: VA home loan types
+      description: Learn how VA-backed and VA direct home loans work--and find out which loan program might be right for you
+    - url: /housing-assistance/home-loans/eligibility/
+      title: Eligibility
+      description: Find out if you can get a Certificate of Eligibility (COE) for a VA-backed or VA direct home loan based on your service history and duty status
+    - url: /housing-assistance/home-loans/how-to-apply/
+      title: How to apply
+      description: Find out how to apply for a COE.
+    - url: /housing-assistance/home-loans/surviving-spouse/
+      title: VA Home Loan Programs for Surviving Spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
 ---
 
 <div class="va-introtext">
