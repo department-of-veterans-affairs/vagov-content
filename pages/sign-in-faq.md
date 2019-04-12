@@ -214,7 +214,7 @@ display_title: Frequently asked questions
                         <p><a href="https://www.myhealth.va.gov/mhv-portal-web/user-registration/">Sign up for a My HealtheVet account</a></p>
                         <p><strong>Note:</strong> If you have a Premium <strong>DS Logon</strong> or ID.me account, you can skip step 1 above, and go right to step 2 to sign in to <strong>My HealtheVet</strong> with either of these accounts.
                         <p><strong>2. Then, upgrade to a Premium account.</strong></p>
-                        <p>You can do this in 1 of 2 ways.</p>
+                        <p>You can do this in one of these ways.</p>
                         <h4>Upgrade your account using your Premium <strong>DS Logon</strong> or ID.me user ID and password</h4>
                         <p>To do this, sign in to <strong>My HealtheVet</strong> using your Premium <strong>DS Logon</strong> or ID.me user ID and password.</p>
                         <p>Once signed in, select the <strong>Upgrade Now</strong> button at the top left side of the screen. Then, on the account upgrade page, check the box certifying that you’re the owner of the account and approve the request, and click <strong>Continue</strong>.</p>
