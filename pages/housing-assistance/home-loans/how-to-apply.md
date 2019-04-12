@@ -47,10 +47,10 @@ If you’re a **Veteran**, you’ll need a copy of your discharge or separation 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Servicemember</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Service member</button>
 <div id="apply-coe-active-duty" class="usa-accordion-content">
 
-If you’re an **active-duty Servicemember**, you’ll need:
+If you’re an **active-duty service member**, you’ll need:
 
 * A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
   * Your full name
@@ -168,7 +168,7 @@ The lender will appraise (assess the value) of the house. An appraisal estimates
 If they decide to grant the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house.
 
 ## What if I have questions about the loan process?
-If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">1-877-827-3702</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
+If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">877-827-3702</a>, Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
 [Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp)
 
 **More information about home ownership and the VA home loan program** <br>
