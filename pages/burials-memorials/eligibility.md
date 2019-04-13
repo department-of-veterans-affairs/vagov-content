@@ -167,19 +167,21 @@ And one of these must be true. The Philippine Veteran:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
 <div id="hmong-veteran" class="usa-accordion-content">
 
-To be eligible for burial in a national cemetery, including a headstone or marker, all of these must be true. The Hmong Veteran:
+All of these must be true. The Hmong Veteran:
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
 - Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
 
-Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
+Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. 
 
-Hmong Veterans aren't eligible for these benefits:
+They aren't eligible for these benefits:
 - Medallion
 - Memorial Headstone
 - Burial Flag
 - Presidential Memorial Certificate
 - Military Funeral Honors provided by the Department of Defense
+
+Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
 
 **Note:** Spouses and surviving spouses of Hmong Veterans aren't eligible for interment, even if they were naturalized under the 2000 Act. 
 
