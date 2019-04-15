@@ -229,7 +229,7 @@ At the time of need, the person planning the burial can also request other honor
 
 **Honors and memorial items may include a:**
 - [Burial flag to drape over the casket (or coffin) or place with the urn](/burials-memorials/memorial-items/burial-flags/)
-- [Presidential Memorial Certificate signed by the current President of the United States](/burials-memorials/memorial-items/presidential-memorial-certificates/)
+- [Presidential Memorial Certificate signed by the current president of the United States](/burials-memorials/memorial-items/presidential-memorial-certificates/)
 - [Headstone, marker, niche cover, or medallion to identify a gravesite located outside a VA national cemetery](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 
