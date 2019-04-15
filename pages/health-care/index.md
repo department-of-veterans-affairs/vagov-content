@@ -32,7 +32,7 @@ crosslinks:
       title: <strong>Education and Training</strong>
       description: Apply for and manage GI Bill and other education benefits to help pay for college and training programs.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
       - subhead: Message us
         links:
@@ -58,7 +58,7 @@ social:
     admin: Veterans Health Administration
     url: https://www.va.gov/health/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVHA/subscribers/qualify?category_id=USVHA_C4&email=dwdw%40gmail.com&commit.x=36&commit.y=11
           label: Veterans Health Email Updates
