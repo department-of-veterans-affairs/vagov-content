@@ -28,7 +28,7 @@ crosslinks:
       title: <b>VA Health Care</b>
       description: Find out how to apply for and manage your VA health care benefits.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
       - subhead: Message us
         links:
@@ -51,7 +51,7 @@ social:
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
