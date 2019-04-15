@@ -120,8 +120,8 @@ Review the VA funding fee tables below to determine the amount you’ll have to 
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Who determines my loan details?</button>
-<div id="apply-coe-veteran" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="loan-details">Who determines my loan details?</button>
+<div id="loan-details" class="usa-accordion-content">
 
 Your home loan lender--not VA--determines these details of your loan:
 
@@ -132,8 +132,8 @@ Your home loan lender--not VA--determines these details of your loan:
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Buyer closing costs</button>
-<div id="apply-coe-active-duty" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="buyer-closing-costs">Buyer closing costs</button>
+<div id="buyer-closing-costs" class="usa-accordion-content">
 
 You (the buyer) usually pay for these closing costs:
 
@@ -149,8 +149,8 @@ You (the buyer) usually pay for these closing costs:
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-discharged-reserves">Seller closing costs</button>
-<div id="apply-coe-discharged-reserves" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="seller-closing-costs">Seller closing costs</button>
+<div id="seller-closing-costs" class="usa-accordion-content">
 
 The seller usually pays for these closing costs (sometimes called "seller's concessions"): 
 
@@ -164,8 +164,8 @@ In most cases, sellers shouldn’t pay more than 4% of the total home loan in cl
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-discharged-reserves">Buyer and seller closing costs</button>
-<div id="apply-coe-discharged-reserves" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="buyer-and-seller-closing">Buyer and seller closing costs</button>
+<div id="buyer-and-seller-closing" class="usa-accordion-content">
 
 Both the buyer (you) and the seller can pay these closing costs: 
 
