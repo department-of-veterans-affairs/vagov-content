@@ -27,12 +27,12 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)</li>
 </ol>
 
-<h4>Branch of Service Casualty Assistance Office Contact Information</h4>
-
+<strong>Branch of Service Casualty Assistance Office contact information:</strong>
+<br>
+<br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
   <strong>Email:</strong> oca@state.gov
-</li>
   
 
 <br>
