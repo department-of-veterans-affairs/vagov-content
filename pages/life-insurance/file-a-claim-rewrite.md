@@ -89,5 +89,22 @@ Philadelphia, PA 19176<br>
   </li>
 </div>
 </li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-tsgli-claim">SGLI Traumatic Injury (TSGLI) Claims</button>
+<div id="file-tsgli-claim" class="usa-accordion-content">
+  
+  <ol class="process">
+  <li class="process-step list-one">Complete form SGLV 8600, Application for TSGLI Benefits, <strong>or</strong></li>
+  <li class="process-step list-two">Request the form from your service department point of contact</li>
+  <li class="process-step list-three">File the completed claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
+  
+  </div>
+</li>
+  
+  
+  
+
   
 
