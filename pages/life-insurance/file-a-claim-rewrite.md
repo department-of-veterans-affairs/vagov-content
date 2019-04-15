@@ -43,6 +43,26 @@ To file a claim for a Reservist or National Guard member or a service member who
 - NGB-22, Report of Separation and Military Service, <strong>or</strong>
 - Other separation documents
 
+</div>
+</li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-fsgli-claim">Family Servicemembers’ Group Life Insurance (FSGLI) Claims</button>
+<div id="file-fsgli-claim" class="usa-accordion-content">
+
+<ol class="process">
+  <li class="process-step list-one">Complete form SGLV 8283A, Claim for Family Coverage Death Benefits</li>
+  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <br> 
+  <br>
+    <strong>Branch of Service Casualty Assistance Office contact information:</strong>
+<br>
+  <strong>Phone:</strong> +1 (202) 736-4302 
+<br>
+  <strong>Email:</strong> oca@state.gov
+  </li>
+</ol>
 
 </div>
 </li>
