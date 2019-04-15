@@ -27,20 +27,19 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)</li>
 </ol>
 
-<strong>Branch of Service Casualty Assistance Office Contact Information</strong>
-<br>
-<strong>Phone:</strong> +1 (202) 736-4302 
-<br>
-<strong>Email:</strong> oca@state.gov
+<h4>Branch of Service Casualty Assistance Office Contact Information</h4>
 
+  <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
-
-If you’re filing a claim for a <strong>Reservist or National Guard member or a service member who was released from active duty before their death, you must include the following documentation with your claim</strong>:  
-
-- Copy of the death certificate (or a photocopy), and
+  <strong>Email:</strong> oca@state.gov
+</li>
+  
 
 <br>
 
+If you’re filing a claim for a <strong>Reservist or National Guard member or a service member who was released from active duty before their death</strong>, you must include the following documentation with your claim:  
+
+- Copy of the death certificate (or a photocopy), <strong>and</strong>
 - DD Form 214, Certificate of Release or Discharge from Active Duty, <strong>or</strong>
 - NGB-22, Report of Separation and Military Service, <strong>or</strong>
 - Other separation documents
