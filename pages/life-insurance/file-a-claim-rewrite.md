@@ -67,3 +67,21 @@ To file a claim for a Reservist or National Guard member or a service member who
 </div>
 </li>
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-vgli-claim">Veterans’ Group Life Insurance (VGLI) Claims</button>
+<div id="file-vgli-claim" class="usa-accordion-content">
+  
+  <ol class="process">
+  <li class="process-step list-one">Complete form SGLV 8283, Claim for Death Benefits</li>
+  <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
+  <p class="va-address-block">
+Office of Servicemembers' Group Life Insurance (OSGLI)<br>
+P.O. Box 70173<br>
+Philadelphia, PA 19176<br>
+</p>
+  </li>
+</div>
+</li>
+  
+
