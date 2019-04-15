@@ -111,8 +111,8 @@ Philadelphia, PA 19176<br>
 <div id="not-sgli-or-vgli" class="usa-accordion-content">
   
   <ol class="process">
-  <li class="process-step list-one">Complete the form below that applies to you</li>
-  <li class="process-step list-two">Request the form from your service department point of contact</li>
+  <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
+  <li class="process-step list-two">Include specific documents and follow other special instructions related to the type of claim</li>
   <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
      <br> 
   <br>
@@ -133,30 +133,23 @@ Philadelphia, PA 19101
   </li>
   
  <h3>Principal beneficiary or contingent beneficiary</h3>
- <ol class="process">
-  <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
-  <li class="process-step list-two">Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required</li>
-  <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center</li>
+ - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.</li>
+ - Send the form by fax or mail to VA Regional Office and Insurance Center
   
-  <h3>Representative of the estate</h3>
- <ol class="process">
-  <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
-  <li class="process-step list-two">Have the executor or administrator of the estate sign the claim form</li>
-  <li class="process-step list-three">Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required</li>
-  <li class="process-step list-one">Include copies of letters testamentary, letters of administration, or a court order of distribution
+ <h3>Representative of the estate</h3>
+ - Have the executor or administrator of the estate sign the claim form</li>
+ - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
+ - Include copies of letters testamentary, letters of administration, or a court order of distribution
   <br>
-  <br>
-    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, complete VA Form 29-541, Certificate Showing Residence and Heirs of Deceased Veteran. Include a written statement in your claim that there will be no administration of the estate.</li>
-  
-  <h3>Minor or incompetent beneficiary </h3>
- <ol class="process">
-  <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
-  <li class="process-step list-two">Include letters of guardianship or conservatorship (if applicable)</li>
-  <li class="process-step list-three">Include the mailing address of the minor or incompetent beneficary</li>
-  <li class="process-step list-four">Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.</li>
-  
+    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, complete VA Form 29-541, Certificate Showing Residence and Heirs of Deceased Veteran. Include a written statement in your claim that there will be no administration of the estate.
+    
+  <h3>Minor or incompetent beneficiary</h3>
+  - Include letters of guardianship or conservatorship (if applicable)
+  - Include the mailing address of the minor or incompetent beneficary
+  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
+<br>
+<br>
 If the life insurance beneficiary wants monthly payments instead of one lump sum, we’ll need more information. Call VA toll-free at 1-800-669-8477.
-  
 
 </div>
 </li>
