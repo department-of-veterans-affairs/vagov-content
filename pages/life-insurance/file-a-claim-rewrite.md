@@ -78,6 +78,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br> 
   <br>
     <strong>Contact OSGLI:</strong>
+    <br>
     <strong>Fax:</strong> +1 (877) 832-4943
 <br>
     <strong>Mailing address:</strong>
@@ -98,12 +99,44 @@ Philadelphia, PA 19176<br>
 <div id="file-tsgli-claim" class="usa-accordion-content">
   
   <ol class="process">
-  <li class="process-step list-one">Complete form SGLV 8600, Application for TSGLI Benefits, <strong>or</strong></li>
-  <li class="process-step list-two">Request the form from your service department point of contact</li>
-  <li class="process-step list-three">File the completed claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
+  <li class="process-step list-one">Complete form SGLV 8600, Application for TSGLI Benefits, <strong>or</strong> request the form from your service department point of contact</li>
+  <li class="process-step list-two">File the completed claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
   
   </div>
 </li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="not-sgli-or-vgli">VA Life Insurance Claims (not SGLI or VGLI)</button>
+<div id="not-sgli-or-vgli" class="usa-accordion-content">
+  
+  <ol class="process">
+  <li class="process-step list-one">Complete the form below that applies to you</li>
+  <li class="process-step list-two">Request the form from your service department point of contact</li>
+  <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
+     <br> 
+  <br>
+    <strong>Contact VA Regional Office and Insurance Center:</strong>
+    <br>
+    <strong>Fax:</strong> +1 (888) 748-5822
+<br>
+    <strong>Mailing address:</strong>
+    <br>
+    <br>
+  <p class="va-address-block">
+Department of Veterans Affairs<br>
+Regional Office and Insurance Center<br>
+P.O. Box 72086<br>
+Philadelphia, PA 19101
+    
+</p>
+  </li>
+</div>
+</li>
+
+  
+  
+
   
   
   
