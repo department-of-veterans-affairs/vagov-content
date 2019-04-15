@@ -37,7 +37,7 @@ Learn how to file a VA life insurance claim.
 
 <br>
 
-If you’re filing a claim for a <strong>Reservist or National Guard member or a service member who was released from active duty before their death</strong>, you must include the following documentation with your claim:  
+To file a claim for a Reservist or National Guard member or a service member who was not on active duty when they died, <strong>you must include the following documentation with your claim:</strong>  
 
 - Copy of the death certificate (or a photocopy), <strong>and</strong>
 - DD Form 214, Certificate of Release or Discharge from Active Duty, <strong>or</strong>
