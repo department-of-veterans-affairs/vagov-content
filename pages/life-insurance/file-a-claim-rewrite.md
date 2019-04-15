@@ -19,7 +19,7 @@ Learn how to file a VA life insurance claim.
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-sgli-claim">Service member’s Group Life Insurance Claims</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-sgli-claim">Servicemembers' Group Life Insurance (SGLI) Claims</button>
 <div id="file-sgli-claim" class="usa-accordion-content">
 
 <ol class="process">
