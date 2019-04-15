@@ -80,6 +80,7 @@ To file a claim for a Reservist or National Guard member or a service member who
     <strong>Fax:</strong> +1 (877) 832-4943
 <br>
     <strong>Mailing address:</strong>
+    <br>
   <p class="va-address-block">
 Office of Servicemembers' Group Life Insurance (OSGLI)<br>
 P.O. Box 70173<br>
