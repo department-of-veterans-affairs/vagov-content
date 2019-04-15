@@ -27,7 +27,7 @@ crosslinks:
       title: <b>Fiduciary Services</b>
       description: Learn how to become a VA fiduciary to handle the financial affairs of a Veteran in need.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
       - subhead: Message us
         links:
@@ -53,7 +53,7 @@ social:
     admin: National Cemetery Administration
     url: https://www.cem.va.gov/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVANCA/subscribers/qualify
           label: National Cemeteries Email Updates
