@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility for Burial in a VA National Cemetery
+title: Eligibility for burial in a VA national cemetery
 display_title: Eligibility
-description: Find out if you or a loved one qualify for burial in a VA national cemetery and for other burial honors. Review VA burial benefits eligibility requirements for Veterans, Servicemembers, spouses, and dependents.
+description: Find out if you or a loved one qualify for burial in a VA national cemetery and for other burial honors. Review VA burial benefits eligibility requirements for Veterans, service members, spouses, and dependents.
 collection: burials
 children: burialsEligibility
 spoke: Get Benefits
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Servicemembers, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you can get these benefits.
+Service members, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you can get these benefits.
 
 </div>
 
@@ -23,7 +23,7 @@ Servicemembers, Veterans, and family members may qualify for burial in a VA nati
 
 ### Who can be buried in a VA national cemetery and receive other burial benefits?
 
-Veterans, Servicemembers, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet the requirements in one of the categories listed below.
+Veterans, service members, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet the requirements in one of the categories listed below.
 </div>
 
 **One of these must describe the person qualifying for burial benefits:**
@@ -70,7 +70,7 @@ The person was in one of these military organizations:
 <b>The Reserves or National Guard</b> <br>
 At the time of death, they were entitled to retirement pay, or would have been entitled if they had been over the age of 60.
 
-<b>A reserve component, the Army National Guard, or the Air National Guard</b> <br>
+<b>A Reserve component, the Army National Guard, or the Air National Guard</b> <br>
 They died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
 
 <b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> <br>
@@ -80,7 +80,7 @@ They died under honorable conditions while:
 - Performing authorized travel to or from a training camp or cruise, <b>or</b>
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
-<b>A reserve component</b><br>
+<b>A Reserve component</b><br>
 One of these is true:
 - During a period of active duty for training they became disabled or died from a disease or injury caused—or made worse—by their active duty service, <b>or</b>
 - During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders caused—or made worse—by their active duty service
@@ -103,7 +103,7 @@ The person had full-time duty on or after July 29, 1945,
 <b>or</b>
 
 The person served before July 29, 1945, and
-- Was assigned to an area of immediate military hazard (as determined by the Secretary of Defense while in time of war or by a national emergency as declared by the president), <b>or</b>
+- Was assigned to an area of immediate military hazard (as determined by the secretary of defense while in time of war or by a national emergency as declared by the president), <b>or</b>
 - Served in the Philippine Islands on December 7, 1941, and continued to serve there until their death.
 
 </div>
@@ -115,7 +115,7 @@ The person served before July 29, 1945, and
   
 One of these must be true:
 
-**The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, he or she must have become disabled or died from a disease or injury caused or made worse by their service.
+**The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, they must have become disabled or died from a disease or injury caused or made worse by their service.
 
 **The officer performed full-time duty prior to July 29, 1945:**
 
@@ -176,10 +176,10 @@ Hmong Veterans are eligible for burial in a national cemetery and a headstone or
 
 They aren't eligible for these benefits:
 - Medallion
-- Memorial Headstone
-- Burial Flag
+- Memorial headstone
+- Burial flag
 - Presidential Memorial Certificate
-- Military Funeral Honors provided by the Department of Defense
+- Military funeral honors provided by the Department of Defense
 
 Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
 
@@ -210,8 +210,8 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
 
 
@@ -233,16 +233,16 @@ At the time of need, the person planning the burial can also request other honor
 - [Headstone, marker, niche cover, or medallion to identify a gravesite located outside a VA national cemetery](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 
-[Learn about the burial planning process](/burials-memorials/plan-a-burial/). <br>
-[Learn about memorial items](/burials-memorials/memorial-items/). <br>
-[See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf).
+[Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
+[Learn about memorial items](/burials-memorials/memorial-items/) <br>
+[See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
 
-## If I'm the survivor of a Veteran or Servicemember, what other benefits can I get?
+## If I'm the survivor of a Veteran or service member, what other benefits can I get?
 
-We give the surviving spouse, children, and parents of Veterans and Servicemembers a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
-[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/). <br>
-[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/).
+We give the surviving spouse, children, and parents of Veterans and service members a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
+[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
+[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
 
 -------
 
@@ -250,10 +250,10 @@ We give the surviving spouse, children, and parents of Veterans and Servicemembe
 
 Yes. You can plan ahead to make the process of applying for a burial in a VA national cemetery easier for your family members in the event of your death. To do this, you’ll need to apply for a pre-need eligibility determination. <br>
 
-[Find out how to apply](/burials-memorials/pre-need-eligibility/).
+[Find out how to apply](/burials-memorials/pre-need-eligibility/)
 
  **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
- [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp).
+ [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
  
 ## How can I make sure my family members have all the information and documents they need to plan for the future?
 Our Survivors and Burial Benefits Kit can guide you and your family members through the planning process so they have what they need to prepare for the future and get the benefits they're entitled to. This kit, called "Planning Your Legacy," includes:
@@ -261,4 +261,4 @@ Our Survivors and Burial Benefits Kit can guide you and your family members thro
 - Sample forms you and your family members may need to fill out
 - A section where you can record the personal information your family members will need and the location of important documents, like your birth certificate or will
 
- [Plan ahead using the VA Survivors and Burial Benefits Kit](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf).
+ [Plan ahead using the VA Survivors and Burial Benefits Kit](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf)
