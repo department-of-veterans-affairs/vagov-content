@@ -5,7 +5,7 @@ title: VA Aid and Attendance Benefits and Housebound Allowance
 display_title: Aid and Attendance Benefits and Housebound Allowance
 description: Find out if you're eligible and how to apply for VA Aid and Attendance or Housebound benefits for Veterans and surviving spouses. You may qualify if you receive a VA pension and need help with daily activities or if you spend most of your time in your home because of a permanent disability.
 concurrence: ""
-spoke: Get Benefits
+spoke: Get benefits
 order: 4
 ---
 

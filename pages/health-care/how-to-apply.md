@@ -7,7 +7,7 @@ description: Find out what documents you'll need to apply for VA health care ben
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 lastupdate: 2018-10-17
 collection: healthCare
-spoke: Get Benefits
+spoke: Get benefits
 order: 3
 aliases:
   - /health-care/apply
@@ -168,7 +168,7 @@ If you’ve also applied for a VA pension or disability benefits, you can check 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-update-my-information">How do I update my information if I’m already signed up?</button>
 <div id="questions-update-my-information" class="usa-accordion-content">
 
-To update your personal, insurance, or financial information from an earlier application, fill out a Health Benefits Update Form (VA Form 10-10EZR). 
+To update your personal, insurance, or financial information from an earlier application, fill out a Health Benefits Update Form (VA Form 10-10EZR).
 
 <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-10ezr-fill.pdf">Download Form 10-10EZR (pdf)</a>.
 

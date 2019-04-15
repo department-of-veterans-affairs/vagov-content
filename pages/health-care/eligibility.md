@@ -8,7 +8,7 @@ plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 lastupdate: 2018-10-17
 collection: healthCare
 children: healthEligibility
-spoke: Get Benefits
+spoke: Get benefits
 order: 2
 widgets:
   - root: react-applicationStatus

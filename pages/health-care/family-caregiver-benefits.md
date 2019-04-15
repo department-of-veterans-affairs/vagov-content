@@ -7,14 +7,14 @@ description: Learn about VA medical benefits for spouses, dependents, and family
 collection: healthCare
 children: healthCareCoverageFamily
 lastupdate: 2019-03-17
-spoke: Get Benefits
+spoke: Get benefits
 order: 6
 aliases:
   - /health-care/family-caregiver-health-benefits/
 relatedlinks:
   - heading: Tools to help you manage your health if you're registered as a patient in a VA health facility
     links:
-    - url: /health-care/refill-track-prescriptions/ 
+    - url: /health-care/refill-track-prescriptions/
       title: Refill and track your VA prescriptions
       description: Order a prescription refill and track your shipment online.
     - url: /health-care/secure-messaging/
@@ -24,7 +24,7 @@ relatedlinks:
       title: Schedule and view your VA appointments
       description: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
     - url: /health-care/view-test-and-lab-results/
-      title: View your VA lab and test results 
+      title: View your VA lab and test results
       description: View, download, and print your lab and test results.
     - url: /health-care/order-hearing-aid-batteries-prosthetic-socks/
       title: Order hearing aid batteries and prosthetic socks

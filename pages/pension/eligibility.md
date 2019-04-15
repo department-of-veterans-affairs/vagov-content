@@ -7,7 +7,7 @@ description: Find out if you're eligible for a Veterans pension based on income 
 concurrence:
 order: 1
 children: pensionEligibility
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: Other pension benefits
     links:
@@ -58,7 +58,7 @@ You may be able to get pension benefits if you meet the requirements listed belo
 
 <br>
 
-### How do I know if I served under an eligible wartime period? 
+### How do I know if I served under an eligible wartime period?
 Under current law, we recognize the following wartime periods to decide eligibility for pension benefits:
 
 - Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)

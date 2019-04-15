@@ -7,7 +7,7 @@ concurrence: complete
 lastupdate: 2018-10-17
 collection: healthCare
 children: healthCareCoverage
-spoke: Get Benefits
+spoke: Get benefits
 order: 1
 aliases:
   - /health-care/about-va-health-care/

@@ -6,7 +6,7 @@ permalink: /employment/vocational-rehab-and-employment/index.html
 source: http://www.benefits.va.gov/VRE/
 template: detail-page
 no_article_bottom_padding: true
-spoke: Get Benefits
+spoke: Get benefits
 children: vre
 order: 1
 majorlinks:

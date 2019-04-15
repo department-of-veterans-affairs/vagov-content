@@ -6,7 +6,7 @@ display_title: After You Apply
 description: Find out when to expect a decision on your VA health care application. Learn how to get your Veterans Health Identification Card (VHIC), schedule your first VA doctor's appointment, and file an appeal if we don't approve your application and you disagree with our decision.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: healthCare
-spoke: Get Benefits
+spoke: Get benefits
 order: 5
 lastupdate: 2018-10-17
 ---
