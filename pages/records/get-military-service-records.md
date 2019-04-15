@@ -8,7 +8,7 @@ plainlanguage:
 collection: records
 children:
 order: 1
-spoke: Get Records
+spoke: Get records
 relatedlinks:
   - heading: Other Records Information
     links:
@@ -40,7 +40,7 @@ Find out how to request your military records, including your DD214, through the
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
-    
+
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the milConnect website. Go to milConnect to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
       <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>
     </p>
@@ -101,7 +101,7 @@ You can request documents from your Official Military Personnel File to view and
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You'll receive an email letting you know your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
+You'll receive an email letting you know your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download.
 
 You can also check the status of your request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
@@ -115,7 +115,7 @@ You can also check the status of your request by signing in to milConnect and go
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Yes. 
+Yes.
 
 **You can request your military records in any of these ways:**
 
