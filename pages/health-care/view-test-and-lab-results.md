@@ -7,7 +7,7 @@ description: View your VA test and lab results online with our My HealtheVet VA 
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 11
 children:
 ---

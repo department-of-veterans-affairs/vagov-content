@@ -7,7 +7,7 @@ description: Use VA Secure Messaging to communicate online with your VA health c
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 8
 aliases:
   - /health-care/messaging

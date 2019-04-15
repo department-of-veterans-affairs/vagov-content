@@ -6,7 +6,7 @@ display_title: Schedule and View Appointments
 description: Find out how to schedule and cancel VA appointments by phone or online. When you schedule your appointments online, you can also view each VA medical appointment on a calendar, find the VA facility you'll be going to, add non-VA appointments, and set up email reminders for upcoming VA appointments.
 collection: healthCare
 lastupdate: 2018-10-6
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 9
 aliases:
   - /health-care/schedule-an-appointment/

@@ -7,7 +7,7 @@ description: Get, organize, and share your VA medical records online through our
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 aliases:
   - /health-records/
 order: 13

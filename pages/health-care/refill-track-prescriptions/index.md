@@ -7,7 +7,7 @@ description: Use our VA prescription refill tool to refill and track your VA pre
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 7
 aliases:
   - /health-care/prescriptions

@@ -7,7 +7,7 @@ description: Update your VA health benefits information with VA Form 10-10 EZR. 
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 14
 children:
 ---

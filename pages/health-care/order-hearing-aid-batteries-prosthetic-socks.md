@@ -7,7 +7,7 @@ description: Order VA hearing aids, hearing aid batteries, and prosthetic socks 
 concurrence:
 lastupdate: 2018-08-22
 collection: healthCare
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 12
 children:
 ---
