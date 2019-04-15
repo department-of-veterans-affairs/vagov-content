@@ -131,6 +131,14 @@ Philadelphia, PA 19101
     
 </p>
   </li>
+  
+ <h4>Principal beneficiary or contingent beneficiary</h4>
+ <ol class="process">
+  <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
+  <li class="process-step list-two">Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required</li>
+  <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center</li>
+ 
+ 
 </div>
 </li>
 
