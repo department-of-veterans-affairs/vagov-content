@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veterans Burial Allowance
-display_title: Burial Allowance
+title: How to apply for a Veterans burial allowance
+display_title: Burial allowance
 description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
 order: 3
 spoke: Get Benefits
@@ -32,7 +32,7 @@ You may be able to get burial allowances if you're paying for the burial and fun
 **One of these must describe your relationship or role. You’re:**
 
 - The Veteran’s surviving spouse (**Note:** we recognize same-sex marriages), **or**
-- The surviving partner from a legal union (a relationship made formal in a document issued by the State recognizing the union), **or**
+- The surviving partner from a legal union (a relationship made formal in a document issued by the state recognizing the union), **or**
 - A surviving child of the Veteran, **or**
 - A parent of the Veteran, **or**
 - The executor or administrator of the Veteran’s estate (someone who officially represents the Veteran)
@@ -89,19 +89,19 @@ No. When we receive notice of the Veteran’s passing, we automatically pay a se
 
 **By mail**<br>
 Apply by mail using an Application for Burial Benefits (VA Form 21P-530). <br>
-[Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
+[Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf)
 
 Mail the application and other paperwork to your nearest VA regional benefit office. <br>
-[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
-If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (<abbr title="eastern time">ET</abbr>). Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
+If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. <abbr title="eastern time">ET</abbr>. Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
 
 ------
-## Burial Allowance Amounts
+## Burial allowance amounts
 
 ### What are the burial allowance amounts for a service-connected death?
 
-| Status                   | Maximum Burial Allowance |
+| Status                   | Maximum burial allowance |
 | ------------------------ | ------------------------ |
 | If the Veteran died on or after September 11, 2001 | $2,000 |
 | If the Veteran died before September 11, 2001 | $1,500 |
@@ -109,7 +109,7 @@ If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Mo
 
 ### What are the burial allowance amounts for a non-service-connected death?
 
-| Status                   | Maximum Burial Allowance |
+| Status                   | Maximum burial allowance |
 | ------------------------ | ------------------------ |
 | If the Veteran died on or after October 1, 2017 | We’ll pay a $300 burial allowance and $762 for a plot |
 | If the Veteran died on or after October 1, 2016 | We’ll pay a $300 burial allowance and $749 for a plot |
@@ -119,7 +119,7 @@ If you have questions, call <a href="tel:+1-800-827-1000">1-800-827-1000</a>, Mo
 
 ### What are the burial allowance amounts if the Veteran was hospitalized by VA at the time of their death?
 
-| Status                   | Maximum Burial Allowance |
+| Status                   | Maximum burial allowance |
 | ------------------------ | ------------------------ |
 | If the Veteran died on or after October 1, 2017 | We’ll pay a $762 burial allowance and $762 for a plot |
 | If the Veteran died on or after October 1, 2016 | We’ll pay a $749 burial allowance and $749 for a plot |
