@@ -24,18 +24,16 @@ Learn how to file a VA life insurance claim.
 
 <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8283, Claim for Death Benefits</li>
-  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)</li>
-</ol>
-
-<strong>Branch of Service Casualty Assistance Office contact information:</strong>
-<br>
+  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <br> 
+    <strong>Branch of Service Casualty Assistance Office contact information:</strong>
 <br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
   <strong>Email:</strong> oca@state.gov
+  </li>
+</ol>
   
-
-<br>
 
 To file a claim for a Reservist or National Guard member or a service member who was not on active duty when they died, <strong>you must include the following documentation with your claim:</strong>  
 
