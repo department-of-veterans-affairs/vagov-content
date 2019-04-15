@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Survivors Pension Rates
 display_title: Survivors Pension Rates
-concurrence:  
-spoke: More Resources
+concurrence:
+spoke: More resources
 order: 2
 aliases:
   - /pension/survivors-pension/rates/
@@ -30,21 +30,21 @@ Your VA pension = $6,837 for the year (or $569 paid each month)
 
 ## What's the net worth limit to qualify for a Survivors Pension?
 
-We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. You should report all of your net worth. The net worth limit to qualify for a Survivors Pension as of December 1, 2018, is $127,061. 
+We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. You should report all of your net worth. The net worth limit to qualify for a Survivors Pension as of December 1, 2018, is $127,061.
 
 **Note:** In the future, the net worth limit will increase by the same percentage as Social Security cost-of-living increases. We'll update the limit here when there's an increase.
 
 ## What’s the 3-year look-back period for asset transfers?
 
-When we receive a pension claim, we review the terms and conditions of any assets the survivor may have transferred in the 3 years before filing the claim. 
+When we receive a pension claim, we review the terms and conditions of any assets the survivor may have transferred in the 3 years before filing the claim.
 
 If you transfer assets for less than fair market value during the look-back period, and those assets would have pushed your net worth above the limit for a VA Survivors Pension, you may be subject to a penalty period of up to 5 years. You won't be eligible for pension benefits during this time.
 
 **Note:** This new policy took effect on October 18, 2018. If you filed your claim before this date, the look-back period doesn't apply. (A look-back period never includes a date before October 18, 2018.)
 
-## What’s a penalty period? 
+## What’s a penalty period?
 
-A penalty period is a length of time when a survivor isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period. 
+A penalty period is a length of time when a survivor isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period.
 
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount

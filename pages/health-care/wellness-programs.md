@@ -6,7 +6,7 @@ description: Learn about Veterans programs for health and wellness. Get help thr
 lastupdate: 2018-08-22
 template: detail-page
 collection: healthCare
-spoke: More Resources
+spoke: More resources
 order: 20
 majorlinks:
   - heading: VA Health and Wellness Programs to Help You Care for Your Body and Mind

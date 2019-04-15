@@ -6,7 +6,7 @@ display_title: Affordable Care Act
 description: Learn about the Affordable Care Act (ACA) and VA health care. Find out how the ACA may affect health care for Veterans and their families.
 collection: healthCare
 lastupdate: 2018-12-20
-spoke: More Resources
+spoke: More resources
 order: 23
 aliases:
   - /health-care/affordable-care-act/

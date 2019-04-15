@@ -3,7 +3,7 @@ title: Chemical or Hazardous Material Exposures
 href: /health-care/health-needs-conditions/chemical-hazardous-materials-exposure/
 display_title:
 collection: healthCare
-spoke: More Resources
+spoke: More resources
 order: 21
 private: true
 ---

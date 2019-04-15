@@ -7,7 +7,7 @@ description: Find out how to access VA health services for specific health needs
 concurrence: complete
 lastupdate: 2019-03-01
 collection: healthCare
-spoke: More Resources
+spoke: More resources
 order: 18
 children: healthCareConditions
 aliases:
@@ -87,7 +87,7 @@ Yes. Certain health concerns may be more likely to affect Veterans who served in
 
 - [Spinal cord injuries and disorders](https://www.sci.va.gov/)
 
-- [Traumatic brain injury (TBI), polytrauma, and amputation](https://www.polytrauma.va.gov) 
+- [Traumatic brain injury (TBI), polytrauma, and amputation](https://www.polytrauma.va.gov)
 
 - [Viral hepatitis](https://www.hepatitis.va.gov/patient/index.asp)
 
@@ -137,7 +137,7 @@ You can also find out more about LGBT programs at VA medical centers across the 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help.<br> 
+If you want to know more about your VA health care benefits, your health care team, and where you’ll go for care, we can help.<br>
 [Learn more about your VA health care coverage](/health-care/about-va-health-benefits/)
 
 If you need help accessing services, call our toll-free hotline at 1-877-222-VETS (<a href="tel:+1-877-222-8387">1-877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. (<abbr title="eastern time">ET</abbr>).

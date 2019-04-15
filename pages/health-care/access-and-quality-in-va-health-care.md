@@ -4,7 +4,7 @@ href: https://www.accesstocare.va.gov/
 target: _blank
 display_title:
 collection: healthCare
-spoke: More Resources
+spoke: More resources
 order: 25
 private: true
 ---
