@@ -27,7 +27,7 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
-    <strong>Branch of Service Casualty Assistance Office contact information:</strong>
+    <strong>Contact Branch of Service Casualty Assistance Office:</strong>
 <br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
@@ -56,7 +56,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
-    <strong>Branch of Service Casualty Assistance Office contact information:</strong>
+    <strong>Contact Branch of Service Casualty Assistance Office:</strong>
 <br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
@@ -77,6 +77,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
   <br> 
   <br>
+    <strong>Contact OSGLI:</strong>
     <strong>Fax:</strong> +1 (877) 832-4943
 <br>
     <strong>Mailing address:</strong>
