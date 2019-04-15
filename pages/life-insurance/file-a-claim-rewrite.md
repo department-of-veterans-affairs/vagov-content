@@ -75,6 +75,11 @@ To file a claim for a Reservist or National Guard member or a service member who
   <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8283, Claim for Death Benefits</li>
   <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
+  <br> 
+  <br>
+    <strong>Fax:</strong> +1 (877) 832-4943
+<br>
+    <strong>Mailing address:</strong>
   <p class="va-address-block">
 Office of Servicemembers' Group Life Insurance (OSGLI)<br>
 P.O. Box 70173<br>
