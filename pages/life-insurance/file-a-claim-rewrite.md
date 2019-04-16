@@ -96,6 +96,7 @@ Philadelphia, PA 19176<br>
   <li class="process-step list-one">Complete form SGLV 8600, Application for TSGLI Benefits, <strong>or</strong> request the form from your service department point of contact</li>
   <li class="process-step list-two">File the completed claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
   
+</ol>
 
 <h2>VA Life Insurance Claims (not SGLI or VGLI)</h2>
   
@@ -120,7 +121,7 @@ Philadelphia, PA 19101
     
 </p>
   </li>
-  </ol>
+ </ol>
   
  <h3>Principal beneficiary or contingent beneficiary</h3>
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.</li>
