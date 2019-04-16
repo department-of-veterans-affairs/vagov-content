@@ -141,6 +141,41 @@ Philadelphia, PA 19101
 <br>
 If the life insurance beneficiary wants monthly payments instead of one lump sum, we’ll need more information. Call VA toll-free at 1-800-669-8477.
 
+<h2>Veterans Mortgage Life Insurance (VMLI) Claims</h2>
+
+<ol class="process">
+  <li class="process-step list-one">Call the VA Insurance Center (VAIC) at +1 (800) 669-8477 to report the passing of a Veteran</li>
+  <li class="process-step list-two">Be ready to give the Veteran’s Claim Number to VAIC. Find out more about Veteran’s Claim Numbers.</li>
+  <li class="process-step list-three">Gather these documents: 
+  <br>
+  <br>
+    - A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required. 
+    - Mortgage payoff or account statement, which should include:
+    <br>
+    <br>
+      - Balance of mortgage after last payment made before Veteran’s death. Note: You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
+      - Address of mortgage company where VMLI payment should be sent. Note: This should be different than the address to which your monthly payments are sent.
+      - The prorated amount of interest due for the rest of the month of the Veteran’s death (sometimes called a “per diem” or “per day” rate)
+ </li>
+   <li class="process-step list-four">Send your documents to VA Claims by fax or by mail:
+  <br> 
+  <br>
+    <strong>VA Claims:</strong>
+<br>
+  <strong>Fax:</strong> +1 (888) 748-5822
+<br>
+    <strong>Mailing address:</strong>
+    <br>
+    <br>
+  <p class="va-address-block">
+VA Claims<br>
+P.O. Box 7208<br>
+Philadelphia, PA 19101<br>
+    
+</p>
+  </li>
+  </ol>
+
 
 
 
