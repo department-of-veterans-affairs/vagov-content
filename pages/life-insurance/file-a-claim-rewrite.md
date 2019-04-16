@@ -174,7 +174,7 @@ To file a claim for a Reservist or National Guard member or a service member who
                   separation documents)
                 </li>
                 <li>
-                  <strong>Mortgage payoff or account statement,*</strong> which should include which should include the balance of mortgage after last payment made before Veteran’s death, <strong>the address** of the mortgage company</strong> where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+                  <strong>Mortgage payoff or account statement,\*/</strong> which should include which should include the balance of mortgage after last payment made before Veteran’s death, <strong>the address\**/ of the mortgage company</strong> where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
                 </li>
               </ul>
               <div>
