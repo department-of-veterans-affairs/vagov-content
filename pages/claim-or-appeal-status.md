@@ -125,7 +125,7 @@ If you print or download anything from the website, you’ll need to take respon
 
 <div itemscope itemtype="http://schema.org/Question">
   
-  <h2 itemprop="name">What if I have more questions or need help with this tool?</h2>
+  <h2 itemprop="name">What if I have more questions?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
   
