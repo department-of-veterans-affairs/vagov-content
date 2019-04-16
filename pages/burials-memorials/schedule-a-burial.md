@@ -1,5 +1,5 @@
 ---
-title: Schedule a Burial
+title: Schedule a burial
 href: https://www.cem.va.gov/cem/burial_benefits/need.asp
 order: 8
 collection: burials
