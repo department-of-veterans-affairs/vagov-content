@@ -29,7 +29,7 @@ crosslinks:
 social:
   - heading: Ask questions
     subsections:
-      - subhead: Message us
+      - subhead: Message us 
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
