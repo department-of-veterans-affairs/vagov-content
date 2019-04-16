@@ -17,6 +17,18 @@ Learn how to file a VA life insurance claim.
 
 </div>
 
+
+<h3>On this page</h3>
+- [Servicemembers' Group Life Insurance (SGLI) Claims](#assign)
+- [Family Servicemembers’ Group Life Insurance (FSGLI) Claims](#combined)
+- [Veterans’ Group Life Insurance (VGLI) Claims](#assign)
+- [SGLI Traumatic Injury (TSGLI) Claims](#assign)
+- [VA Life Insurance Claims (not SGLI or VGLI)]
+
+------
+
+
+
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="file-sgli-claim">Servicemembers' Group Life Insurance (SGLI) Claims</button>
