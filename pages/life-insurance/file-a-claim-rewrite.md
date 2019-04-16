@@ -36,7 +36,7 @@ Learn how to file a VA life insurance claim.
 <h2>Servicemembers' Group Life Insurance (SGLI) Claims</h2>
 
 <ol class="process">
-  <li class="process-step list-one">[Fill out Claim for Death Benefits (VA Form SGLV 8283)] (https://www.benefits.va.gov/INSURANCE/forms/8283.htm)</li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
@@ -60,7 +60,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <h2>Family Servicemembers’ Group Life Insurance (FSGLI) Claims</h2>
 
 <ol class="process">
-  <li class="process-step list-one">[Fill out Claim for Family Coverage Death Benefits (VA Form SGLV 8283A)](https://www.benefits.va.gov/INSURANCE/forms/8283A.htm)</li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Fill out a Claim for Family Coverage Death Benefits (VA Form SGLV 8283A</a></li>
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
@@ -75,7 +75,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <h2>Veterans’ Group Life Insurance (VGLI) Claims</h2>
   
   <ol class="process">
-  <li class="process-step list-one">[Fill out Claim for Death Benefits (VA Form SGLV 8283)](https://www.benefits.va.gov/INSURANCE/forms/8283.htm)</li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
   <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
   <br> 
   <br>
@@ -97,7 +97,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <h2>SGLI Traumatic Injury (TSGLI) Claims</h2>
   
   <ol class="process">
-  <li class="process-step list-one">[Fill out Application for TSGLI Benefits (VA Form SGLV 8600) (Application for TSGLI Benefits)](https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm), <strong>or request the form from your service department point of contact</strong></li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Fill out Application for TSGLI Benefits (VA Form SGLV 8600), </a><strong>or request the form from your service department point of contact</strong></li>
   <li class="process-step list-two">File the claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
   
 </ol>
@@ -105,7 +105,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <h2>VA Life Insurance Claims (not SGLI or VGLI)</h2>
   
   <ol class="process">
-  <li class="process-step list-one">[Fill out Claim for One Sum Payment (VA Form 29-4125)](https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm)</li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Fill out Claim for One Sum Payment (VA Form 29-4125)</a></li>
   <li class="process-step list-two">Include specific documents and follow other special instructions related to the type of claim</li>
   <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
      <br> 
@@ -138,7 +138,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br>
   <br>
   <div>
-    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, fill out [Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)](https://www.benefits.va.gov/INSURANCE/forms/29-541.htm). Include a written statement in your claim that there will be no administration of the estate.
+    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, fill out <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement in your claim that there will be no administration of the estate.
   </div>
     
   <h3>Minor or incompetent beneficiary</h3>
