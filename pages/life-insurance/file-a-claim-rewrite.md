@@ -49,9 +49,9 @@ Learn how to file a VA life insurance claim.
 </ol>
   
 
-<strong>If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died:</strong> 
+<strong>If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died</strong> 
 <br>
-You need to include these documents with your SGLI claim:</strong>  
+--you need to include these documents with your SGLI claim: 
 
 - A copy (or photocopy) of the death certificate, <strong>and</strong>
 - Certificate of Release or Discharge from Active Duty (DD Form 214), <strong>or</strong>
@@ -108,7 +108,7 @@ You need to include these documents with your SGLI claim:</strong>
   
   <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Fill out a Claim for One Sum Payment (VA Form 29-4125)</a></li>
-  <li class="process-step list-two">Follow the specific instructions related to the type of VA life insurance claim you're filing</li>
+  <li class="process-step list-two">Follow the specific instructions related to the claim you're filing</li>
   <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
      <br> 
   <br>
@@ -140,7 +140,7 @@ You need to include these documents with your SGLI claim:</strong>
   <br>
   <br>
   <div>
-    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
+    <strong>Note:</strong> If you can't provide letters testamentary, letters of administration, or a court order of distribution, you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
   </div>
     
   <h3>Minor or incompetent beneficiary</h3>
