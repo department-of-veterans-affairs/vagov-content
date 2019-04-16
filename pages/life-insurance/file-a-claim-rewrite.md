@@ -174,14 +174,14 @@ To file a claim for a Reservist or National Guard member or a service member who
                   separation documents)
                 </li>
                 <li>
-                  Mortgage payoff or account statement,* which should include which should include the balance of mortgage after last payment made before Veteran’s death, the address** of the mortgage company where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+                  <strong>Mortgage payoff or account statement,*</strong> which should include which should include the balance of mortgage after last payment made before Veteran’s death, <strong>the address** of the mortgage company</strong> where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
                 </li>
               </ul>
               <div>
-                <strong>\*You must get your mortgage payoff or account statement on your own.</strong>VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
+                <strong>\*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
                 <br>
                 <br>
-                <strong>\>**This should be different than the address to which your monthly payments are sent</strong>.
+                <strong>\**This should be different than the address to which your monthly payments are sent</strong>.
                   </div>
          <li className="process-step list-four">
              Send your documents to VA Claims by fax or by mail:
