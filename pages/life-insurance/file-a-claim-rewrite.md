@@ -38,7 +38,6 @@ Learn how to file a VA life insurance claim.
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
 <br>
-<br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
   <strong>Email:</strong> oca@state.gov
@@ -63,7 +62,6 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
 <br>
-<br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
   <strong>Email:</strong> oca@state.gov
@@ -78,7 +76,6 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br> 
   <br>
     <strong>OSGLI</strong>
-    <br>
     <br>
     <strong>Fax:</strong> +1 (877) 832-4943
 <br>
@@ -110,10 +107,10 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br>
     <strong>VA Regional Office and Insurance Center</strong>
     <br>
-    <br>
     <strong>Fax:</strong> +1 (888) 748-5822
     <br>
     <strong>Mailing address:</strong>
+    <br>
     <br>
     <p class="va-address-block">
     Department of Veterans Affairs<br>
@@ -135,7 +132,9 @@ To file a claim for a Reservist or National Guard member or a service member who
  - Include copies of letters testamentary, letters of administration, or a court order of distribution
   <br>
   <br>
+  <div>
     <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, complete VA Form 29-541, Certificate Showing Residence and Heirs of Deceased Veteran. Include a written statement in your claim that there will be no administration of the estate.
+  </div>
     
   <h3>Minor or incompetent beneficiary</h3>
   - Include letters of guardianship or conservatorship (if applicable)
@@ -165,7 +164,6 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br> 
   <br>
     <strong>VA Claims</strong>
-<br>
 <br>
   <strong>Fax:</strong> +1 (888) 748-5822
 <br>
