@@ -29,10 +29,7 @@ Learn how to file a VA life insurance claim.
 
 
 
-<ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-sgli-claim">Servicemembers' Group Life Insurance (SGLI) Claims</button>
-<div id="file-sgli-claim" class="usa-accordion-content">
+<h2>Servicemembers' Group Life Insurance (SGLI) Claims</h2>
 
 <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8283, Claim for Death Benefits</li>
