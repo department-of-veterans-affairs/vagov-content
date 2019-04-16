@@ -171,6 +171,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <br>
   <b>Mailing address:</b>
   <br>
+  <br>
   <p class="va-address-block">
   VA Claims<br>
   P.O. Box 7208<br>
