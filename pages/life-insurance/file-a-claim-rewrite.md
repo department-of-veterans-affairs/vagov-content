@@ -49,9 +49,7 @@ Learn how to file a VA life insurance claim.
 </ol>
   
 
-<strong>If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died</strong> 
-<br>
---you need to include these documents with your SGLI claim: 
+<strong>If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died</strong>, you need to include these documents with your SGLI claim: 
 
 - A copy (or photocopy) of the death certificate, <strong>and</strong>
 - Certificate of Release or Discharge from Active Duty (DD Form 214), <strong>or</strong>
