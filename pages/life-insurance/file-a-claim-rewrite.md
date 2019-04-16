@@ -60,7 +60,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <h2>Family Servicemembers’ Group Life Insurance (FSGLI) Claims</h2>
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Fill out a Claim for Family Coverage Death Benefits (VA Form SGLV 8283A</a></li>
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Fill out a Claim for Family Coverage Death Benefits (VA Form SGLV 8283A)</a></li>
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
