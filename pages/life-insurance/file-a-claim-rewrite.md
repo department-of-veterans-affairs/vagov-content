@@ -174,10 +174,10 @@ Learn how to file a VA life insurance claim.
          </li>
        </ul>
        <div>
-         <strong>You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information on your behbecause of privacy laws. 
+         <strong>\*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information on your behbecause of privacy laws. 
          <br>
          <br>
-         <strong>This should be different than the address to which your monthly payments are sent</strong>.
+         <strong>\**This should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
        Send your documents to VA Claims by fax or by mail:
