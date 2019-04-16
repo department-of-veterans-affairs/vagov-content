@@ -88,7 +88,7 @@ P.O. Box 70173<br>
 Philadelphia, PA 19176<br>
 </p>
   </li>
-
+</ol>
 
 <h2>SGLI Traumatic Injury (TSGLI) Claims</h2>
   
@@ -120,6 +120,7 @@ Philadelphia, PA 19101
     
 </p>
   </li>
+  </ol>
   
  <h3>Principal beneficiary or contingent beneficiary</h3>
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.</li>
@@ -139,6 +140,8 @@ Philadelphia, PA 19101
 <br>
 <br>
 If the life insurance beneficiary wants monthly payments instead of one lump sum, we’ll need more information. Call VA toll-free at 1-800-669-8477.
+
+
 
 
 
