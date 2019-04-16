@@ -148,7 +148,7 @@ Learn how to file a VA life insurance claim.
 <br>
 <br>
 <div>
-<strong>Note:</strong> If the life insurance beneficiary wants monthly payments instead of one lump sum, we’ll need more information. Call VA toll-free at 1-800-669-8477.
+  <strong> If the life insurance beneficiary wants monthly payments instead of one lump sum,</strong> we’ll need more information. Call VA toll-free at <strong>1-800-669-8477</strong>.
 </div>
 
  </ol>
