@@ -138,7 +138,7 @@ Learn how to file a VA life insurance claim.
   <br>
   <br>
   <div>
-    <strong>Note:</strong> If you can't provide letters testamentary, letters of administration, or a court order of distribution, you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
+    <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
   </div>
     
   <h3>Minor or incompetent beneficiary</h3>
