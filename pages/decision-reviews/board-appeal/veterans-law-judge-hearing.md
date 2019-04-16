@@ -14,7 +14,7 @@ You can request a hearing with a Veterans Law Judge when you submit your Decisio
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
-    <p><b>If your appeal will follow the new decision review process</b> <br>
+    <p><b>If you're appealing a VA decision under the new decision review process</b> <br>
       
 Keep reading below to learn how to request and prepare for a hearing. Your appeal and hearing are part of the new process if you're:
 - Appealing a VA decision you received on or after February 19, 2019
