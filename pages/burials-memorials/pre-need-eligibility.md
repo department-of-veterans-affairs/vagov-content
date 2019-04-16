@@ -40,8 +40,8 @@ You can apply to find out in advance if you can be buried in a VA national cemet
 ### Make sure one of these describes you:
 - A service member on active duty, **or**
 - A Veteran who didn't receive a dishonorable discharge when you separated from the military, **or**
-- The spouse or dependent child of a servicevmember or Veteran, even if the service member or Veteran has already passed away, **or**
-- In some cases, the adult dependent child of a servicevmember or Veteran (if you aren’t married)
+- The spouse or dependent child of a service member or Veteran, even if the service member or Veteran has already passed away, **or**
+- In some cases, the adult dependent child of a service member or Veteran (if you aren’t married)
 
 </li>
 
@@ -111,10 +111,10 @@ You can apply online right now.
 <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for Pre-need Eligibility</a>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-<h4 itemprop="name">You can also apply:</h4>
+<h3 itemprop="name">You can also apply:</h3>
 <div itemprop="itemListElement">
 
-### By mail
+#### By mail
 
 Apply by mail using an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007). <br> [Download VA Form 40-10007](https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf)
 
@@ -128,11 +128,11 @@ Apply by mail using an Application for Pre-need Determination of Eligibility for
 
 Please don't send us the originals of your DD214 and other supporting documents since we can't return them. Send copies only.
 
-### By fax
+#### By fax
 
 You can fax your application to us at 855-840-8299.
 
-### By email
+#### By email
 You can email your application to us at <a href="mailto:eligibility.preneed@va.gov">eligibility.preneed@va.gov</a>.
 
 ## What if I need help filling out my application?
