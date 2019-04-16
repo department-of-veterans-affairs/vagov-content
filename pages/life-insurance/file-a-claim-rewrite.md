@@ -195,9 +195,10 @@ To file a claim for a Reservist or National Guard member or a service member who
   P.O. Box 7208<br>
   Philadelphia, PA 19101<br>
        
-</p>
+    </p>
   </li>
-  </ol>
+ </ol>
+</div>
             
             
 
