@@ -159,24 +159,17 @@ If the life insurance beneficiary wants monthly payments instead of one lump sum
    <li class="process-step list-four">Send your documents to VA Claims by fax or by mail:
   <br> 
   <br>
-    <strong>VA Claims:</strong>
+    <strong>VA Claims</strong>
 <br>
   <strong>Fax:</strong> +1 (888) 748-5822
 <br>
-    <strong>Mailing address:</strong>
-    <br>
-    <br>
+<br>
+  <b>Mailing address:</b>
   <p class="va-address-block">
-VA Claims<br>
-P.O. Box 7208<br>
-Philadelphia, PA 19101<br>
-
- <br>
- <br>
-         \ *You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement.
-         <br>
-        \ **This should be different than the address to which your monthly payments are sent.
-         
+  VA Claims<br>
+  P.O. Box 7208<br>
+  Philadelphia, PA 19101<br>
+       
 </p>
   </li>
   </ol>
