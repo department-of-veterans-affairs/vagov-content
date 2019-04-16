@@ -1,5 +1,5 @@
 ---
-title: Replace Medals, Awards, and Decorations
+title: Replace medals, awards, and decorations
 href: https://www.archives.gov/veterans/replace-medals
 target: _blank
 order: 4
