@@ -174,10 +174,10 @@ To file a claim for a Reservist or National Guard member or a service member who
                 </li>
               </ul>
               <div>
-                \*You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
+                \<strong>*You must get your mortgage payoff or account statement on your own.</strong>VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
                 <br>
                 <br>
-                \**This should be different than the address to which your monthly payments are sent.
+                \<strong>**This should be different than the address to which your monthly payments are sent</strong>.
                   </div>
          <li className="process-step list-four">
              Send your documents to VA Claims by fax or by mail:
