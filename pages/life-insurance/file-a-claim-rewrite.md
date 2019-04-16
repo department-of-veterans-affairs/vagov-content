@@ -149,18 +149,36 @@ To file a claim for a Reservist or National Guard member or a service member who
  </ol>
  
 <h2>Veterans Mortgage Life Insurance (VMLI) Claims</h2>
-
-<ol class="process">
-  <li class="process-step list-one">Call the VA Insurance Center (VAIC) at +1 (800) 669-8477 to report the passing of a Veteran</li>
-  <li class="process-step list-two">Be ready to give the Veteran’s Claim Number to VAIC. Find out more about Veteran’s Claim Numbers.</li>
-  <li class="process-step list-three">Gather these documents: 
-  <br>
-  <br>
-    * A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
-    <br>
-    * Mortgage payoff or account statement*, which should include the balance of mortgage after last payment made before Veteran’s death, the address** of the mortgage company where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
-  </li>
-   <li class="process-step list-four">Send your documents to VA Claims by fax or by mail:
+        <div className="process schemaform-process">
+          <ol>
+            <li className="process-step list-one">
+             Call the VA Insurance Center (VAIC) at +1 (800) 669-8477 to report the death of a Veteran.
+            </li>
+              <li className="process-step list-two">
+             Be ready to give the Veteran’s Claim Number to VAIC. Find out more about Veteran’s Claim Numbers.
+            </li>
+            <li className="process-step list-three">
+              <div>
+                <h5>Gather these documents:</h5>
+              </div>
+                <div>
+              <ul>
+                <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required. </li>
+                <li>
+                  Copy of your military discharge papers (DD214 or other
+                  separation documents)
+                </li>
+                <li>
+                  Mortgage payoff or account statement,* which should include which should include the balance of mortgage after last payment made before Veteran’s death, the address** of the mortgage company where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+                </li>
+              </ul>
+              <p>
+                \*You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
+                <br>
+                \**This should be different than the address to which your monthly payments are sent.
+              </p>
+         <li className="process-step list-four">
+             Send your documents to VA Claims by fax or by mail:
   <br> 
   <br>
     <strong>VA Claims</strong>
@@ -180,7 +198,8 @@ To file a claim for a Reservist or National Guard member or a service member who
 
   </li>
   </ol>
-
+            
+            
 
   
   
