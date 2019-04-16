@@ -37,7 +37,7 @@ Learn how to file a VA life insurance claim.
 
 <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office to file your Claim for Death Benefits form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
@@ -49,11 +49,13 @@ Learn how to file a VA life insurance claim.
 </ol>
   
 
-To file a claim for a Reservist or National Guard member or a service member who was not on active duty when they died, <strong>you must include the following documentation with your claim:</strong>  
+<strong>If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died:</strong> 
+<br>
+You need to include these documents with your SGLI claim:</strong>  
 
-- Copy of the death certificate (or a photocopy), <strong>and</strong>
-- DD Form 214, Certificate of Release or Discharge from Active Duty, <strong>or</strong>
-- NGB-22, Report of Separation and Military Service, <strong>or</strong>
+- A copy (or photocopy) of the death certificate, <strong>and</strong>
+- Certificate of Release or Discharge from Active Duty (DD Form 214), <strong>or</strong>
+- Report of Separation and Military Service (NGB-22), <strong>or</strong>
 - Other separation documents
 
 
@@ -61,7 +63,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 
 <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Fill out a Claim for Family Coverage Death Benefits (VA Form SGLV 8283A)</a></li>
-  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office to file your Claim for Family Coverage Death Benefits form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
@@ -76,7 +78,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   
   <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
+  <li class="process-step list-two">Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
   <br> 
   <br>
     <strong>OSGLI</strong>
@@ -98,7 +100,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   
   <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Fill out an Application for TSGLI Benefits (VA Form SGLV 8600), </a><strong>or request the form from your service department point of contact</strong></li>
-  <li class="process-step list-two">File the claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
+  <li class="process-step list-two">File your claim to the branch of service listed on the form, including photocopies of evidence needed for your claim</li>
   
 </ol>
 
@@ -106,7 +108,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   
   <ol class="process">
   <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Fill out a Claim for One Sum Payment (VA Form 29-4125)</a></li>
-  <li class="process-step list-two">Include specific documents and follow other special instructions related to the type of claim</li>
+  <li class="process-step list-two">Follow the specific instructions related to the type of VA life insurance claim you're filing</li>
   <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
      <br> 
   <br>
@@ -138,7 +140,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   <br>
   <br>
   <div>
-    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement in your claim that there will be no administration of the estate.
+    <strong>Note:</strong> If letters testamentary, letters of administration, or a court order of distribution aren’t available, fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
   </div>
     
   <h3>Minor or incompetent beneficiary</h3>
@@ -170,15 +172,15 @@ To file a claim for a Reservist or National Guard member or a service member who
               <ul>
                 <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required. </li>
                 <li>
-                  Copy of your military discharge papers (DD214 or other
+                  A copy of your military discharge papers (DD214 or other
                   separation documents)
                 </li>
                 <li>
-                  <strong>Mortgage payoff or account statement,\*</strong> which should include which should include the balance of mortgage after last payment made before Veteran’s death, <strong>the address of the mortgage company\**</strong> where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+                  <strong>A mortgage payoff or account statement\*</strong>, which should include the balance of mortgage after last payment made before Veteran’s death, <strong>the address of the mortgage company\**</strong> where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
                 </li>
               </ul>
               <div>
-                <strong>\*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
+                <strong>\*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information on your behalf because of privacy laws. 
                 <br>
                 <br>
                 <strong>\**This should be different than the address to which your monthly payments are sent</strong>.
