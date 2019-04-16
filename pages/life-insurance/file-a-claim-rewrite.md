@@ -52,13 +52,8 @@ To file a claim for a Reservist or National Guard member or a service member who
 - NGB-22, Report of Separation and Military Service, <strong>or</strong>
 - Other separation documents
 
-</div>
-</li>
 
-<ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-fsgli-claim">Family Servicemembers’ Group Life Insurance (FSGLI) Claims</button>
-<div id="file-fsgli-claim" class="usa-accordion-content">
+<h2>Family Servicemembers’ Group Life Insurance (FSGLI) Claims</h2>
 
 <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8283A, Claim for Family Coverage Death Benefits</li>
@@ -73,13 +68,7 @@ To file a claim for a Reservist or National Guard member or a service member who
   </li>
 </ol>
 
-</div>
-</li>
-
-<ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-vgli-claim">Veterans’ Group Life Insurance (VGLI) Claims</button>
-<div id="file-vgli-claim" class="usa-accordion-content">
+<h2>Veterans’ Group Life Insurance (VGLI) Claims</h2>
   
   <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8283, Claim for Death Benefits</li>
@@ -99,25 +88,16 @@ P.O. Box 70173<br>
 Philadelphia, PA 19176<br>
 </p>
   </li>
-</div>
-</li>
 
-<ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="file-tsgli-claim">SGLI Traumatic Injury (TSGLI) Claims</button>
-<div id="file-tsgli-claim" class="usa-accordion-content">
+
+<h2>SGLI Traumatic Injury (TSGLI) Claims</h2>
   
   <ol class="process">
   <li class="process-step list-one">Complete form SGLV 8600, Application for TSGLI Benefits, <strong>or</strong> request the form from your service department point of contact</li>
   <li class="process-step list-two">File the completed claim to the branch of service listed on the form, including photocopies of evidence needed to support your claim</li>
   
-  </div>
-</li>
 
-<ul class="usa-accordion" aria-multiselectable="true">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="not-sgli-or-vgli">VA Life Insurance Claims (not SGLI or VGLI)</button>
-<div id="not-sgli-or-vgli" class="usa-accordion-content">
+<h2>VA Life Insurance Claims (not SGLI or VGLI)</h2>
   
   <ol class="process">
   <li class="process-step list-one">Complete VA Form 29-4125, Claim for One Sum Payment</li>
@@ -160,8 +140,7 @@ Philadelphia, PA 19101
 <br>
 If the life insurance beneficiary wants monthly payments instead of one lump sum, we’ll need more information. Call VA toll-free at 1-800-669-8477.
 
-</div>
-</li>
+
 
   
   
