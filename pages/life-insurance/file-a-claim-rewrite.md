@@ -81,6 +81,7 @@ To file a claim for a Reservist or National Guard member or a service member who
 <br>
     <strong>Mailing address:</strong>
     <br>
+    <br>
     <p class="va-address-block">
     Office of Servicemembers' Group Life Insurance (OSGLI)<br>
     P.O. Box 70173<br>
