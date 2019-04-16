@@ -170,7 +170,7 @@ Learn how to file a VA life insurance claim.
            separation documents)
          </li>
          <li>
-           <strong>A mortgage payoff or account statement*</strong>, which should include the balance of mortgage after last payment mbefore Veteran’s death, <strong>the address of the mortgage company</strong> where the VMLI payment should be sent, and prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+           <strong>A mortgage payoff or account statement\*</strong>, which should include the balance of mortgage after last payment mbefore Veteran’s death, <strong>the address of the mortgage company\**</strong> where the VMLI payment should be sent, and prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
          </li>
        </ul>
        <div>
