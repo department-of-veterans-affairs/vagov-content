@@ -160,7 +160,7 @@ To file a claim for a Reservist or National Guard member or a service member who
             </li>
             <li className="process-step list-three">
               <div>
-                <h5>Gather these documents:</h5>
+                Gather these documents:
               </div>
                 <div>
               <ul>
@@ -195,8 +195,6 @@ To file a claim for a Reservist or National Guard member or a service member who
   Philadelphia, PA 19101<br>
        
 </p>
-
-
   </li>
   </ol>
             
