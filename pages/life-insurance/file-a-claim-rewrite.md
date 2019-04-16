@@ -154,13 +154,7 @@ If the life insurance beneficiary wants monthly payments instead of one lump sum
   <br>
        <ul>
   <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.</li>
-  <li>Mortgage payoff or account statement*, which should include the balance of mortgage after last payment made before Veteran’s death, the address of the mortgage company where the VMLI payment should be sent**, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate). </li>
-  <br>
-         <br>
-         \* You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement. 
-         <br>
-         \** This should be different than the address to which your monthly payments are sent.
-
+  <li>Mortgage payoff or account statement*, which should include the balance of mortgage after last payment made before Veteran’s death, the address** of the mortgage company where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate). </li>
  </li>
    <li class="process-step list-four">Send your documents to VA Claims by fax or by mail:
   <br> 
@@ -176,7 +170,13 @@ If the life insurance beneficiary wants monthly payments instead of one lump sum
 VA Claims<br>
 P.O. Box 7208<br>
 Philadelphia, PA 19101<br>
-    
+
+ <br>
+ <br>
+         \ *You must get your mortgage payoff or account statement on your own. VA can’t get this information on your behalf because of privacy laws. Find out more about how to get your mortgage payoff or account statement.
+         <br>
+        \ **This should be different than the address to which your monthly payments are sent.
+         
 </p>
   </li>
   </ol>
