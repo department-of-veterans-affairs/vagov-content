@@ -14,11 +14,12 @@ You can request a hearing with a Veterans Law Judge when you submit your Decisio
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
-    <p><b>If your appeal will follow the new decision review process</b> 
-      Keep reading below to learn how to request and prepare for a hearing. Your appeal and hearing are part of the new process if you're:
-      - Appealing a VA decision you received on or after February 19, 2019
-      - Participating in the Rapid Appeals Modernization Program
-      - Opting into the new process using VA Form 10182<br>
+    <p><b>If your appeal will follow the new decision review process</b> <br>
+      
+Keep reading below to learn how to request and prepare for a hearing. Your appeal and hearing are part of the new process if you're:
+- Appealing a VA decision you received on or after February 19, 2019
+- Participating in the Rapid Appeals Modernization Program
+- Opting into the new process using VA Form 10182<br>
 </p>
     <p><b>If you’re appealing a VA decision you received before February 19, 2019</b><br>
 <a href="/disability/file-an-appeal/board-of-veterans-appeals">Go to Board Hearings for Disability Compensation Appeals</a></p>
