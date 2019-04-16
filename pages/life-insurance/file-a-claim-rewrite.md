@@ -36,7 +36,7 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
-    <strong>Contact Branch of Service Casualty Assistance Office:</strong>
+    <strong>Branch of Service Casualty Assistance Office:</strong>
 <br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
@@ -60,7 +60,8 @@ To file a claim for a Reservist or National Guard member or a service member who
   <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office for to file the SGLV 8283 form with the Office of Servicemembers Group Life Insurance (OSGLI)
   <br> 
   <br>
-    <strong>Contact Branch of Service Casualty Assistance Office:</strong>
+    <strong>Branch of Service Casualty Assistance Office</strong>
+<br>
 <br>
   <strong>Phone:</strong> +1 (202) 736-4302 
 <br>
@@ -75,17 +76,15 @@ To file a claim for a Reservist or National Guard member or a service member who
   <li class="process-step list-two">Send form SGLV 8283 to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
   <br> 
   <br>
-    <strong>Contact OSGLI:</strong>
+    <strong>OSGLI:</strong>
     <br>
     <strong>Fax:</strong> +1 (877) 832-4943
 <br>
-    <strong>Mailing address:</strong>
-    <br>
-    <br>
-  <p class="va-address-block">
-Office of Servicemembers' Group Life Insurance (OSGLI)<br>
-P.O. Box 70173<br>
-Philadelphia, PA 19176<br>
+    <strong>Mailing address</strong>
+    <p class="va-address-block">
+    Office of Servicemembers' Group Life Insurance (OSGLI)<br>
+    P.O. Box 70173<br>
+    Philadelphia, PA 19176<br>
 </p>
   </li>
 </ol>
@@ -106,18 +105,18 @@ Philadelphia, PA 19176<br>
   <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
      <br> 
   <br>
-    <strong>Contact VA Regional Office and Insurance Center:</strong>
+    <strong>VA Regional Office and Insurance Center</strong>
+    <br>
     <br>
     <strong>Fax:</strong> +1 (888) 748-5822
 <br>
+   <br>
     <strong>Mailing address:</strong>
-    <br>
-    <br>
-  <p class="va-address-block">
-Department of Veterans Affairs<br>
-Regional Office and Insurance Center<br>
-P.O. Box 72086<br>
-Philadelphia, PA 19101
+    <p class="va-address-block">
+    Department of Veterans Affairs<br>
+    Regional Office and Insurance Center<br>
+    P.O. Box 72086<br>
+    Philadelphia, PA 19101
     
 </p>
   </li>
