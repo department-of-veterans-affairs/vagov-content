@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibililty | Veterans Affairs
+title: Veterans Pension Eligibililty | Veterans Affairs
 heading: Veterans Pension Eligibility
 display_title: Eligibility
-description: Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. Review VA non-service-connected pension eligibility requirements and learn more about how to apply.
+description: Find out if you're eligible for a Veterans Pension. This VA pension program offers monthly payments to wartime Veterans, who are age 65 or older or have a permanent and total non-service connected disability, and who have limited income and net worth. 
 keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility 
 concurrence:
 order: 1
@@ -28,8 +28,7 @@ widgets:
 
 <div class="va-introtext">
 
-If you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits, you may qualify for monthly payments through our Veterans Pension program. Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. 
-
+Find out if you're eligible for a Veterans Pension. You may qualify for monthly payments through this VA program if you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits. 
 </div>
 
 <div class="feature" markdown=“1”>
@@ -61,7 +60,7 @@ You may be able to get Veterans pension benefits if you meet the requirements li
 <br>
 
 ### How do I know if I served under an eligible wartime period? 
-Under current law, we recognize the following wartime periods to decide eligibility for pension benefits:
+Under current law, we recognize the following wartime periods to decide eligibility for VA pension benefits:
 
 - Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)
 - World War I (April 6, 1917, to November 11, 1918)
@@ -74,7 +73,7 @@ Under current law, we recognize the following wartime periods to decide eligibil
 
 ### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+If you've received one of these discharge statuses, you may not be eligible for VA pension benefits.
 
 <br>
 
