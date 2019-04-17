@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Board Hearings for Disability Compensation Appeals
-display_title: Board Hearings for Compensation Appeals
+title: Board of Veterans' Appeals (BVA) Hearing
+display_title: Board of Veterans' Appeals Hearing
 description: Find out what happens at a Board of Veterans’ Appeals (BVA) hearing—and how to request one if you want a Veterans Law Judge to discuss your VA appeal. Get answers to questions about scheduling and preparing for your Board hearing, and learn what to expect at the hearing.
 concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
@@ -13,18 +13,23 @@ aliases:
 
 <div class="va-introtext">
 
-When you submit your form to the Board of Veterans' Appeals, you can request a hearing with a Veterans Law Judge.
+Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans Law Judge to discuss your appeal.
 
 </div>
 
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
-    <p><b>If you’re requesting a Board Appeal and hearing using VA Form 9</b><br>
+    <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019:</b><br>
      Keep reading below to learn how to request and prepare for a hearing.
 </p>
-    <p><b>If you’re requesting a Board Appeal and hearing using VA Form 10182</b><br>
-<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">Go to Board Hearings in the Decision Review Process</a></p>
+    <p><b>If you're appealing a VA decision under the new process:</b><br>
+<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">Go to Board Hearings with a Veterans Law Judge</a>
+      
+You’ll follow the new process if you’re:
+      - Appealing a VA decision you received on or after February 19, 2019
+      - Participating in the Rapid Appeals Modernization Program
+      - Opting into the new process using VA Form 10182</p>
   </div>
 </div>
 
