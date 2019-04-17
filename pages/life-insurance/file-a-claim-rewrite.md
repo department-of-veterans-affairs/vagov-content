@@ -19,20 +19,15 @@ Learn how to file a VA life insurance claim.
 
 
 ### On this page
-/ - [Servicemembers' Group Life Insurance (SGLI) Claims](#assign)
-<br>
-/ - [Family Servicemembers’ Group Life Insurance (FSGLI) Claims](#combined)
-<br>
-/ - [Veterans’ Group Life Insurance (VGLI) Claims](#assign)
-<br>
-/ - [SGLI Traumatic Injury (TSGLI) Claims](#assign)
-<br>
-/ - [VA Life Insurance Claims (not SGLI or VGLI)]
+- [Servicemembers' Group Life Insurance (SGLI) Claims](#sgli)
+- [Family Servicemembers’ Group Life Insurance (FSGLI) Claims](#fsgli)
+- [Veterans’ Group Life Insurance (VGLI) Claims](#vgli)
+- [SGLI Traumatic Injury (TSGLI) Claims](#tsgli)
+- [VA Life Insurance Claims (not SGLI or VGLI)](#other)
 
 ------
 
-
-
+<span id="sgli"></span>
 ## Servicemembers' Group Life Insurance (SGLI) Claims
 
 <ol class="process">
@@ -56,7 +51,7 @@ Learn how to file a VA life insurance claim.
 - Report of Separation and Military Service (NGB-22), <strong>or</strong>
 - Other separation documents
 
-
+<span id="fsgli"></span>
 ## Family Servicemembers’ Group Life Insurance (FSGLI) Claims
 
 <ol class="process">
@@ -72,6 +67,7 @@ Learn how to file a VA life insurance claim.
   </li>
 </ol>
 
+<span id="vgli"></span>
 ## Veterans’ Group Life Insurance (VGLI) Claims
   
   <ol class="process">
@@ -94,6 +90,7 @@ Learn how to file a VA life insurance claim.
   </li>
 </ol>
 
+<span id="tsgli"></span>
 <h2>SGLI Traumatic Injury (TSGLI) Claims</h2>
   
   <ol class="process">
@@ -102,6 +99,7 @@ Learn how to file a VA life insurance claim.
   
 </ol>
 
+<span id="other"></span>
 <h2>VA Life Insurance Claims (not SGLI or VGLI)</h2>
   
   <ol class="process">
