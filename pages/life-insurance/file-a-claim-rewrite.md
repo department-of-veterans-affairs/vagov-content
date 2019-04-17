@@ -128,12 +128,12 @@ Learn how to file a VA life insurance claim.
  </ol>
   
  ### Principal beneficiary or contingent beneficiary
- - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
+ - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Send the form by fax or mail to VA Regional Office and Insurance Center
   
  ### Representative of the estate
  - Have the executor or administrator of the estate sign the claim form</li>
- - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
+ - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Include copies of letters testamentary, letters of administration, or a court order of distribution
   <br>
   <br>
@@ -144,7 +144,7 @@ Learn how to file a VA life insurance claim.
   <h3>Minor or incompetent beneficiary</h3>
   - Include letters of guardianship or conservatorship (if applicable)
   - Include the mailing address of the minor or incompetent beneficary
-  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the death certificate isn’t required.
+  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
 <br>
 <br>
 <div>
@@ -164,7 +164,7 @@ Learn how to file a VA life insurance claim.
      <li class="process-step list-three">
          Gather these documents:
        <ul>
-         <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. An original copy of the decertificate isn’t required. </li>
+         <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate. </li>
          <li>
            A copy of your military discharge papers (DD214 or other
            separation documents)
