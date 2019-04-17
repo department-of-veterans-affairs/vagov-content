@@ -33,7 +33,6 @@ You’ll follow the new process if you’re:
   </div>
 </div>
 
-<div class="feature" markdown=“1”>
 
 ### Why might I want a Board hearing?
 
@@ -43,7 +42,7 @@ You might want a Board hearing if you think it’ll help support your appeal to 
 
 No. Board hearings are always optional.
 
-</div>
+
 
 **Learn more about Board hearings:**
 
