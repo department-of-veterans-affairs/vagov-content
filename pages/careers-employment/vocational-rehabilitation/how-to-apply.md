@@ -102,7 +102,8 @@ A rehabilitation plan is a written plan that outlines the resources we'll use to
 - [Independent living services if you can’t return to work right away](/careers-employment/vocational-rehabilitation/programs/independent-living/)
 
 
-### What happens after a rehabilitation plan is created? 
-Your VRC will work with you to implement your plan and to help you find a suitable job or independent living situation. Your VRC will also provide you with ongoing counseling and case management assistance, including tutorial assistance, job training, work-readiness support, and medical referrals. 
+### What happens after my VRC creates my rehabilitation plan? 
+
+Your VRC will help you put your plan into action. They'll also provide ongoing counseling and help you get tutorial assistance, job training, work-readiness support, and medical referrals.
 
 <div markdown="0"><br></div>
