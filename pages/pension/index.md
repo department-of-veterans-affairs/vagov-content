@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Pension | Veterans Affairs
+title: VA Pension Benefits | Veterans Affairs
 heading: VA Pension Benefits
 display_title: Pension
-description: Apply for VA pension benefits for wartime Veterans and survivors with limited or no income who meet certain age and disability requirements. Find out if you're eligible for monthly payments, view pension rates for Veterans and survivors, and apply now.
+description: Apply for VA pension benefits for wartime Veterans and survivors with limited or no income who meet certain age and disability requirements. Find out if you're eligible for monthly payments, view VA pension rates for Veterans and survivors, and apply now.
 keywords: va pension, va pension benefits
 lastupdate:
 order: 1
@@ -81,7 +81,7 @@ social:
           icon: fa-instagram
 hublinks:
   - id: get
-    title: Get Pension Benefits
+    title: Get VA Pension Benefits
     links:
     - url: "/pension/eligibility/"
       label: Veterans Pension Eligibility
@@ -163,7 +163,7 @@ VA pension benefits provide tax-free monthly payments to wartime Veterans with l
 <h3>On This Page</h3>
 
 <ul>
-  <li><a href="#get">Get Pension Benefits</a></li>
+  <li><a href="#get">Get VA Pension Benefits</a></li>
   <li><a href="#manage">Manage Your Pension Benefits</a></li>
   <li><a href="#more">More Information and Resources</a></li>
 </ul>
