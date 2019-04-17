@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: File an Insurance Claim | Veterans Affairs
-heading: File an Insurance Claim
-display_title: File an Insurance Claim
+title: File an Life Insurance Claim | Veterans Affairs
+heading: File an Life Insurance Claim
+display_title: File an Life Insurance Claim
 description: Learn how to file a VA life insurance claim. Find the claim type that applies to you, and review instructions for how to file. 
 keywords: n/a
 concurrence: 
