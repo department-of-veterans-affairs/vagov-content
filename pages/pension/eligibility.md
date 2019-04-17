@@ -4,7 +4,7 @@ template: detail-page
 title: Veterans Pension Eligibililty | Veterans Affairs
 heading: Veterans Pension Eligibility
 display_title: Eligibility
-description: Find out if you're eligible for a Veterans Pension. This VA pension program offers monthly payments to wartime Veterans, who are age 65 or older or have a permanent and total non-service connected disability, and who have limited income and net worth. 
+description: The Veterans Pension program provides monthly payments to wartime Veterans based on need. Review VA pension eligibility requirements to find out if you qualify based on your age or a permanent and total non-service-connected disability as well as your income and net worth. 
 keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility 
 concurrence:
 order: 1
