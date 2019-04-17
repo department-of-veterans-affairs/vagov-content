@@ -22,7 +22,7 @@ Keep reading below to learn how to request and prepare for a hearing. You'll fol
   - Opting into the new process using VA Form 10182<br>
 </p>
     <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019:</b><br>
-<a href="/disability/file-an-appeal/board-of-veterans-appeals">Go to Board Hearings for Disability Compensation Appeals</a></p>
+<a href="/disability/file-an-appeal/board-of-veterans-appeals">Go to Board of Veterans' Appeals (BVA) Hearing</a></p>
   </div>
 </div>
 
