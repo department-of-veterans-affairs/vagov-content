@@ -23,7 +23,7 @@ Find out what happens at a Board of Veterans’ Appeals hearing—and how to req
     <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019,</b> keep reading below to learn how to request and prepare for a hearing.
 </p>
     <p><b>If you're appealing a VA decision under the new process,</b> 
-<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">go to Board Hearings with a Veterans Law Judge</a>.
+<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">go to the Board Hearings with a Veterans Law Judge page</a>.
       
 You’ll follow the new process if you’re:
 - Appealing a VA decision you received on or after February 19, 2019
