@@ -32,4 +32,32 @@ It's important to make sure your life insurance beneficiary information is up to
 
 ## Review and make changes to your VA life insurance beneficiary information
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="update-sgli">Servicemembers’ Group Life Insurance (SGLI)</button>
+<div id="update-sgli" class="usa-accordion-content">
+  
+  #### If you’re in any uniformed service (except for Public Health Service) and have full-time SGLI coverage:
+  
+Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). 
+<br>
+Follow these steps to review or make changes to your VA life insurance beneficiary:
+
+<ol class="process">
+  <li class="process-step list-one"><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES</a></li>
+  <li class="process-step list-two">Select "Benefits"</li>
+  <li class="process-step list-three">Select “Life Insurance SOES--SGLI Online Enrollment System”</li>
+</ol>
+
+#### If you hvae part-time SGLI coverage or you're in the Public Health Service:
+
+<ol class="process">
+  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8286.htmServicemembers’ Group Life Insurance Election and Certificate">Fill out an SGLI Election and Certificate Form (VA Form SGLV 8286)</a></li>
+  <li class="process-step list-two">Submit your completed form to your branch of service personnel office</li>
+  <li class="process-step list-three">Select “Life Insurance SOES--SGLI Online Enrollment System”</li>
+</ol>
+
+**Note:** You can name anyone as your SGLI beneficiary without their permission, but your spouse will be notified by VA if you name a beneficiary that isn’t them.
+
+
 
