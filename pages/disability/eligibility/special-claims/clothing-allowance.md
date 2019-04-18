@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Replacing Damaged Clothing | Veterans Affairs
+title: VA Clothing Allowance for Veterans | Veterans Affairs
 heading: VA Clothing Allowance for Veterans with Certain Disabilities
 display_title: Clothing Allowance
 description: Find out if you can get a VA clothing allowance to replace clothing damaged by your prosthetic or orthopedic device or by certain medicines. To get a yearly payment, you'll need to qualify by August 1 of each year. Learn more about rates and how to file a claim.
@@ -16,7 +16,7 @@ aliases:
 
 <div class="va-introtext">
 
-Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be eligible for an annual VA clothing allowance. Find out if you are eligible for this benefit. 
+Has your clothing been damaged by your prosthetic or orthopedic device (such as a wheelchair) or by the medicine you’re taking for a skin condition? If it has, you may be eligible for an annual VA clothing allowance. Find out if you can get this benefit. 
 
 </div>
 
