@@ -683,9 +683,4 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
 
-## Which forms would my family member need?
-- **To request an advance insurance payment for a Veteran who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
-[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br> 
-- **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283). <br>
-[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf)
 
