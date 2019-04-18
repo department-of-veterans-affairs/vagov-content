@@ -159,7 +159,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
    <ol class="process">
      <li class="process-step list-one">
        <h4>Report the death of a Veteran</h4><br>
-       Call the VA Insurance Center (VAIC) at 1-800-669-8477(<a href="tel:+18006698477">1-800-669-8477</a>).
+       Call the VA Insurance Center (VAIC) at 1-800-669-8477 (<a href="tel:+18006698477">1-800-669-8477</a>).
        <li class="process-step list-two">
          <h4>Give the Veteran’s claim number to VAIC</h4><br>
          Be ready to provide the Veteran's claim number to VAIC over the phone.
