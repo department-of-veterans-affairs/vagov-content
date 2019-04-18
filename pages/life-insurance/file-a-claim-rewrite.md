@@ -34,11 +34,9 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
+    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-    <strong>Branch of Service Casualty Assistance Office</strong>
-<br>
   <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
@@ -61,11 +59,9 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-one"><h4>Fill out a Claim for Family Coverage Death Benefits</h4><br>
      <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits form (VA Form SGLV 8283A).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
+    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-    <strong>Branch of Service Casualty Assistance Office</strong>
-<br>
   <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
@@ -78,14 +74,7 @@ Learn how to file a VA life insurance claim.
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download out a Claim for Death Benefits form (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail</h4>
-  <br> 
-  <br>
-    <strong>OSGLI</strong>
-    <br>
-    <strong>Fax:</strong> 1-877-832-4943(<a href="tel:+18778324943">1-877-832-4943</a>)
-<br>
-    <strong>Mailing address:</strong>
+  <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by mail or by fax</h4>
     <br>
     <br>
     <p class="va-address-block">
@@ -93,6 +82,8 @@ Learn how to file a VA life insurance claim.
     P.O. Box 70173<br>
     Philadelphia, PA 19176<br>
 </p>
+    <br>
+    <strong>Fax:</strong> 1-877-832-4943(<a href="tel:+18778324943">1-877-832-4943</a>)
   </li>
 </ol>
 
@@ -115,14 +106,7 @@ Learn how to file a VA life insurance claim.
     <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download out a Claim for One Sum Payment form (VA Form 29-4125).</a></li>
   <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
   Review the instructions for the type of claim you're filing and include any special required documents.</li>
-  <li class="process-step list-three"><h4>Send the form by fax or mail to VA Regional Office and Insurance Center</h4>
-     <br> 
-  <br>
-    <strong>VA Regional Office and Insurance Center</strong>
-    <br>
-    <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
-    <br>
-    <strong>Mailing address:</strong>
+  <li class="process-step list-three"><h4>Send the form by mail or by fax to VA Regional Office and Insurance Center</h4>
     <br>
     <br>
     <p class="va-address-block">
@@ -132,6 +116,7 @@ Learn how to file a VA life insurance claim.
     Philadelphia, PA 19101
     
 </p>
+<br> <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
   </li>
  </ol>
   
@@ -189,21 +174,16 @@ Learn how to file a VA life insurance claim.
          <strong>**This should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
-       <h4>Send your documents to VA Claims by fax or by mail:</h4>
+       <h4>Send your documents to VA Claims by mail or by fax:</h4>
        <br> 
-       <br>
-       <strong>VA Claims</strong>
-       <br>
-       <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
-       <br>
-       <b>Mailing address:</b>
-       <br>
        <br>
        <p class="va-address-block">
        VA Claims<br>
        P.O. Box 7208<br>
        Philadelphia, PA 19101<br>
        </p>
+        <br>
+       <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
      </li>
    </ol>
             
