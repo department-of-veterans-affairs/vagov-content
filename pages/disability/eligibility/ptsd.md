@@ -94,7 +94,7 @@ When you file a disability claim, you'll also need to fill out one of these addi
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a).<br>
 [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
 
-**Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for disability benefits. We won't offer you treatment during this process.
+**Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for VA disability benefits. We won't offer you treatment during this process.
 
 **If you’re looking for treatment options,** please talk with your health care provider or learn more about accessing VA services for PTSD. <br>
 [Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#access-services)
