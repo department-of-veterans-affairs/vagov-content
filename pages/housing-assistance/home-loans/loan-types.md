@@ -30,7 +30,7 @@ aliases:
 
 <div class="va-introtext">
 
-We offer several VA home loan programs to help you buy, build, or improve a home or refinance your current home loan—including a VA direct loan and 3 VA-backed loans. Learn how these different VA home loans work, and find out if you can get a Certificate of Eligibility for a loan that meets your needs.
+We offer several VA home loan programs to help you buy, build, or improve a home or refinance your current home loan—including a VA direct loan and 3 VA-backed loans. Learn how these different VA home loans work, and find out if you can get a Certificate of Eligibility for a VA home loan that meets your needs.
 
 </div>
 
