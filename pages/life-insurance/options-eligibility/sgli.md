@@ -26,7 +26,7 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 
 ### On this page
 - [Accessing and managing SGLI while you're serving](#active)
-- [Converting SGLI when you separate or retire](#convert)
+- [Applying for VGLI when you separate or retire](#convert)
 
 <span id="active"></a>
 ## Accessing and managing SGLI while you're serving
@@ -118,9 +118,6 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 **If you’re a member of the Public Health Service,** please submit your changes by filling out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and giving it to your unit's personnel officer. <br>
 [Download SGLV 8286](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)
 
-To add more beneficiaries to your SGLI coverage, fill out a Servicemembers' Group Life Insurance Supplemental SGLI Beneficiary Form (SGLV 8286S).<br>
-[Download SGLV 8286S](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286S_ed2014-06.pdf)
-
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 
@@ -144,10 +141,10 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 ------
 <span id="convert"></a>
-## Converting SGLI when you separate or retire
+## Applying for VGLI when you separate or retire
 
-### How do I convert my SGLI when I leave the military?
-When you leave the military, you can apply to convert to Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
+### How do I apply for VGLI when I leave the military?
+When you leave the military, you can apply for Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
 View our diagrams to get more information if you're:
@@ -181,7 +178,7 @@ To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and sen
 [Download SGLV 8715](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI). <br>
-[View our diagram about converting an SGLI-DE policy to VGLI](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
+[View our diagram about converting to VGLI when SGLI-DE ends](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
@@ -193,22 +190,13 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 <a href="mailto:osgli.osgli@prudential.com">Email the Prudential Insurance Company</a>
 
 
-## Which forms would my family member need to file a claim?
+## Which forms would my family member need?
 
 - **To request an advance insurance payment for a service member who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283).<br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
-
-
-------------
-
-## Veterans’ Mortgage Life Insurance (VMLI)
-
-If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
-
-To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
-[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)<br>
-[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)<br>
-[View our diagram about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
+- **To help a service member get short-term financial support while recovering from a traumatic injury,** a family member would work with the service member to file an Application for TSGLI Benefits (SGLV 8600).<br>
+[Download SGLV 8600](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
+ If the member is incompetent, payment will be made under the appropriate letters of guardianship/
+conservatorship or a power of attorney to the guardian, power of attorney or military trustee on the member’s behalf. 
