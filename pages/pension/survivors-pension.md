@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors Pension | Veterans Affairs
+title: VA Survivors Pension | Veterans Affairs
 heading: VA Survivors Pension
 display_title: Survivors Pension
-description: Find out if you're eligible and how to apply for a VA survivors pension (some people call this a "VA widows pension" or "VA death pension"). You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
-keywords: va survivors pension, widows pension, va widows pension
+description: A VA Survivors Pension (formerly called a "VA death pension" and sometimes called a "VA widows pension") offers monthly payments to qualified survivors of wartime Veterans. Find out if you're eligible and how to apply.
+keywords: va survivors pension, widows pension, va widows pension, va death pension
 concurrence: ""
 children: pensionSurvivors
 spoke: Get Benefits
@@ -20,16 +20,16 @@ order: 5
 
 <div class="va-introtext">
 
-Find out if you're eligible and how to apply for a VA survivors pension (sometimes called a "VA widows pension" or "VA death pension." You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
+A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress. Find out if you qualify and how to apply. 
 
 
 </div>
 
 <div class="feature" markdown=“1”>
 
-### Am I eligible for a VA survivors pension as a surviving spouse?
+### Am I eligible for a VA Survivors Pension as a surviving spouse?
 
-You may be able to get this benefit if you haven’t remarried after the Veteran’s death, if the deceased Veteran didn't receive a dishonorable discharge, and if the Veteran’s service meets at least one of the requirements listed below.
+You may qualify for a VA Survivors Pension if you haven’t remarried after the Veteran’s death, if the deceased Veteran didn't receive a dishonorable discharge, and if the Veteran’s service meets at least one of the requirements listed below.
 
 **At least one of these must be true. The Veteran:**
 
@@ -57,7 +57,7 @@ Under current law, we recognize the following wartime periods to decide eligibil
 
 <br>
 
-### Am I eligible for a VA survivors pension as the child of a deceased wartime Veteran?
+### Am I eligible for a VA Survivors Pension as the child of a deceased wartime Veteran?
 
 You may be able to get this benefit if you’re unmarried and you meet at least one of the requirements listed below.
 
@@ -69,7 +69,7 @@ You may be able to get this benefit if you’re unmarried and you meet at least 
 
 </div>
 
-## How do I apply?
+## How do I apply for a VA Survivors Pension?
 
 You can apply in any of these ways:
 
