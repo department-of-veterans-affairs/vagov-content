@@ -80,6 +80,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     <br>
     <strong>Mailing address:</strong>
     <br>
+    <br>
     <p class="va-address-block">
     Office of Servicemembers' Group Life Insurance (OSGLI)<br>
     P.O. Box 70173<br>
@@ -114,6 +115,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     <br>
     <br>
     <strong>Mailing address:</strong>
+    <br>
     <br>
     <p class="va-address-block">
     Department of Veterans Affairs<br>
@@ -187,6 +189,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
        <br> 
        <br>
        <strong>Mailing address:</strong>
+       <br>
        <br>
        <p class="va-address-block">
        VA Claims<br>
