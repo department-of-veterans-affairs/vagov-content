@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Pension Rates | Veterans Affairs
+title: VA Pension Rates for Veterans | Veterans Affairs
 heading: VA Pension Rates for Veterans
 display_title: Veterans Pension Rates
 description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you qualify for VA pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+View current VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for these benefits, the amount you receive will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 
 </div>
 
@@ -94,7 +94,9 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 - **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
-**Get historic rate charts from past years**
+## Historic VA pension rate charts
+
+Get historic VA pension rate charts from past years: <br>
 [2017](https://www.benefits.va.gov/PENSION/rates_veteran_pen17.asp) |
 [2016](https://www.benefits.va.gov/PENSION/rates_veteran_pen16.asp) |
 [2014](https://www.benefits.va.gov/PENSION/rates_veteran_pen14.asp) |
@@ -114,14 +116,16 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 [1999 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen99.asp)<br>
 
 
-### Read full regulations from Title 38 Code of Federal Regulations
+## Full Title 38 regulations
 
-[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+Read full regulations from Title 38 Code of Federal Regulations: <br>
 
-[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124)
+[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123) <br>
 
-[3.271 Computation of Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271)
+[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124) <br>
 
-[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272)
+[3.271 Computation of Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271) <br>
+
+[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272) <br>
 
 [3.273 Rate Computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)
