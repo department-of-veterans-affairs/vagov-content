@@ -22,7 +22,7 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 <div id="get-help-now" class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 		<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-		<div id="crisis-line-details" class="form-expanding-group borderless-alert additional-info-container">
+		<div id="nav-crisis-get-support-247" class="form-expanding-group borderless-alert additional-info-container">
 			<span class="additional-info-title">Find out how to get support any time day or night.</span>
 			<div class="additional-info-content usa-alert-text">
 				<p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
