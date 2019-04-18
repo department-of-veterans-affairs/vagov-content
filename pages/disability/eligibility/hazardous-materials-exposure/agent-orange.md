@@ -39,7 +39,7 @@ aliases:
 
 <div class="va-introtext">
 
-The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have been exposed to this toxic chemical. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange exposure.
+Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure. The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have been exposed to this toxic chemical. Find out if you can get VA disability benefits for illnesses believed to be caused by Agent Orange exposure.
 
 </div>
 
