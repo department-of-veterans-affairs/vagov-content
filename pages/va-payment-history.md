@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: level2-index
 title: View Your VA Payment History | Veterans Affairs
-heading: View Your VA Payment History
+heading: View your VA payment history
 display_title: View VA Payment History
 description: Sign in or register for a Premium Account to view your VA benefit payment history on ebenefits. Surving spouses and parents can view other VA benefits like Chapter 35. 
 keywords: va payment
@@ -14,7 +14,7 @@ spoke: Get Records
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to view your VA benefits payment history.
+Find out how to view your VA payment history.
 
 </div>
 
