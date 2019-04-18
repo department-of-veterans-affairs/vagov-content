@@ -117,7 +117,7 @@ You must pay your premiums for supplemental S-DVI.
 
 ## What if I need help with my claim? 
 
-If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>, from 8:30 a.m. to 6:00 p.m. ET.
+If you have questions about Service-Disabled Veterans Insurance or a VA life insurance policy that starts with a V, RH, J, RS, K, or W, you can call the VA Life Insurance Center at <a href="tel:+18006698477">800-669-8477</a>. We're here from 8:30 a.m. to 6:00 p.m. ET.
 
 
 -------------
