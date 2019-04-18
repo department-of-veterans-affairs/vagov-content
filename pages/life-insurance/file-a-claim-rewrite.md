@@ -31,8 +31,10 @@ Learn how to file a VA life insurance claim.
 ## Servicemembers' Group Life Insurance (SGLI) Claims
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office to file your Claim for Death Benefits form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form(VA Form SGLV 8283).</a></li>
+  <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
+    Once you contact your Branch of Service Casualty Assistance, you can file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
@@ -55,8 +57,10 @@ Learn how to file a VA life insurance claim.
 ## Family Servicemembers’ Group Life Insurance (FSGLI) Claims
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Fill out a Claim for Family Coverage Death Benefits (VA Form SGLV 8283A)</a></li>
-  <li class="process-step list-two">Contact your Branch of Service Casualty Assistance Office to file your Claim for Family Coverage Death Benefits form with the Office of Servicemembers Group Life Insurance (OSGLI)
+  <li class="process-step list-one"><h4>Fill out a Claim for Family Coverage Death Benefits</h4><br>
+     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits Form (VA Form SGLV 8283A).</a></li>
+  <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
+    Once you contact your Branch of Service Casualty Assistance, you can file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
