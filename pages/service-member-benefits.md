@@ -133,7 +133,7 @@ hublinks:
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
-    <div class="form-expanding-group borderless-alert additional-info-container">
+    <div id="crisis-line-details" class="form-expanding-group borderless-alert additional-info-container">
       <span class="additional-info-title">Get care now</span>
         <div class="additional-info-content usa-alert-text">
 <br>
