@@ -34,7 +34,7 @@ Learn how to file a VA life insurance claim.
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
+    Your Branch of Service Casualty Assistance will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
     <h5>By phone</h5>
@@ -62,7 +62,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <li class="process-step list-one"><h4>Fill out a Claim for Family Coverage Death Benefits</h4><br>
      <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits form (VA Form SGLV 8283A).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
+    Your Branch of Service Casualty Assistance will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
     <h5>By phone</h5> 
