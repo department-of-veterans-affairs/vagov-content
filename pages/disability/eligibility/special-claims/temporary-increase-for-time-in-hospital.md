@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Time Spent in a Hospital | Veterans Affairs 
+title: Time Spent in a Hospital | Veterans Affairs
 heading: Increased Disability Rating for Time Spent in a Hospital
 display_title: Increase for Time in Hospital
 description: If you spent time in a VA or VA-approved hospital for a disability related to your military service, find out if you can get added disability pay. You may be able to get a temporary 100% disability rating for the time you sent in the hospital.  
