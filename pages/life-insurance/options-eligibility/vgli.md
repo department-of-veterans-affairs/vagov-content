@@ -683,20 +683,9 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 <a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
   
 
-## Which forms would my family member need to file a claim?
+## Which forms would my family member need?
 - **To request an advance insurance payment for a Veteran who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
 [Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br> 
 - **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283). <br>
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_Bene_ed2015-10.pdf)
 
----
-
-## Veterans’ Mortgage Life Insurance (VMLI)
-
-If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
-
-To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp)<br>
-[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)<br>
-[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)<br>
-[View our diagram about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
