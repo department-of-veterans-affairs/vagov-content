@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Specific Environmental Hazards | Veterans Affairs
+title: Exposure to Environmental Hazards | Veterans Affairs
 heading: Exposure to Specific Environmental Hazards
 display_title: Specific Environmental Hazards
 description: Learn about VA disability compensation for illnesses related to environmental hazards. Find out which hazards you may have come in contact with during military service, and how to file a claim for compensation.
@@ -14,7 +14,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you had contact with specific environmental hazards while serving in Iraq, Afghanistan, and other areas, you may have illnesses or other conditions believed to be caused by these toxic chemicals in the air, water, or soil. Find out if you can get VA disability compensation or benefits.
+If you had contact with specific environmental hazards while serving in Iraq, Afghanistan, and other areas, you may have illnesses or other conditions believed to be caused by these toxic chemicals in the air, water, or soil. Find out if you can get VA compensation or benefits for exposure to environmental hazards.
 
 </div>
 
@@ -23,7 +23,7 @@ If you had contact with specific environmental hazards while serving in Iraq, Af
 
 ### Am I eligible for VA disability benefits?
 
-You may be able to get disability benefits if you have an illness or other condition believed to be caused by your contact with an environmental hazard while serving in the military. This may include contact with:
+You may be able to get VA disability benefits if you have an illness or other condition believed to be caused by your contact with an environmental hazard while serving in the military. This may include contact with:
   - Particulate matter or large burn pits in Iraq, Afghanistan, and Djibouti in the Horn of Africa
   - A large sulfur fire at Mishraq State Sulfur Mine near Mosul, Iraq
   - Hexavalent chromium at the Qarmat Ali Water Treatment Plant in Basra, Iraq
