@@ -180,7 +180,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
          <strong>*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information for you because of privacy laws. 
          <br>
          <br>
-         <strong>**This should be different than the address to which your monthly payments are sent</strong>.
+         <strong>**The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
        <h4>Send your documents to VA Claims by mail or by fax:</h4>
