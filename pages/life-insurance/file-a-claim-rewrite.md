@@ -158,7 +158,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
 </div>
 
  
-#### Veterans Mortgage Life Insurance (VMLI) Claims
+## Veterans Mortgage Life Insurance (VMLI) Claims
 
    <ol class="process">
      <li class="process-step list-one">
