@@ -75,10 +75,11 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download out a Claim for Death Benefits form (VA Form SGLV 8283)</a></li>
   <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI)</h4><br>
-    Send your claim by mail or by fax.
+    Send your claim to OSGLI by mail or by fax.
     <br>
     <br>
     <strong>Mailing address:</strong>
+    <br>
     <p class="va-address-block">
     Office of Servicemembers' Group Life Insurance (OSGLI)<br>
     P.O. Box 70173<br>
@@ -109,10 +110,11 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
   Review the instructions for the type of claim you're filing and include any special required documents.</li>
   <li class="process-step list-three"><h4>Send the claim by mail or by fax to VA Regional Office and Insurance Center</h4><br>
-    Send your claim by mail or by fax.
+    Send your claim to VA Regional Office and Insurance Center by mail or by fax.
     <br>
     <br>
     <strong>Mailing address:</strong>
+    <br>
     <p class="va-address-block">
     Department of Veterans Affairs<br>
     Regional Office and Insurance Center<br>
@@ -185,6 +187,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
        <br> 
        <br>
        <strong>Mailing address:</strong>
+       <br>
        <p class="va-address-block">
        VA Claims<br>
        P.O. Box 7208<br>
