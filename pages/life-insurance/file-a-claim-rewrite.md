@@ -39,7 +39,7 @@ Learn how to file a VA life insurance claim.
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
 <br>
-  <strong>Phone:</strong> +1 (202) 736-4302 
+  <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
   </li>
@@ -66,7 +66,7 @@ Learn how to file a VA life insurance claim.
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
 <br>
-  <strong>Phone:</strong> +1 (202) 736-4302 
+  <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
   </li>
@@ -83,7 +83,7 @@ Learn how to file a VA life insurance claim.
   <br>
     <strong>OSGLI</strong>
     <br>
-    <strong>Fax:</strong> +1 (877) 832-4943
+    <strong>Fax:</strong> 1-877-832-4943(<a href="tel:+18778324943">1-877-832-4943</a>)
 <br>
     <strong>Mailing address:</strong>
     <br>
@@ -120,7 +120,7 @@ Learn how to file a VA life insurance claim.
   <br>
     <strong>VA Regional Office and Insurance Center</strong>
     <br>
-    <strong>Fax:</strong> +1 (888) 748-5822
+    <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
     <br>
     <strong>Mailing address:</strong>
     <br>
@@ -135,11 +135,11 @@ Learn how to file a VA life insurance claim.
   </li>
  </ol>
   
- ### Principal beneficiary or contingent beneficiary
+ #### Principal beneficiary or contingent beneficiary
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Send the form by fax or mail to VA Regional Office and Insurance Center
   
- ### Representative of the estate
+ #### Representative of the estate
  - Have the executor or administrator of the estate sign the claim form</li>
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Include copies of letters testamentary, letters of administration, or a court order of distribution
@@ -149,7 +149,7 @@ Learn how to file a VA life insurance claim.
     <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541)</a>. Include a written statement that there will be no administration of the estate.
   </div>
     
-  <h3>Minor or incompetent beneficiary</h3>
+  <h4>Minor or incompetent beneficiary</h4>
   - Include letters of guardianship or conservatorship (if applicable)
   - Include the mailing address of the minor or incompetent beneficary
   - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
@@ -160,12 +160,12 @@ Learn how to file a VA life insurance claim.
 </div>
 
  
-### Veterans Mortgage Life Insurance (VMLI) Claims
+#### Veterans Mortgage Life Insurance (VMLI) Claims
 
    <ol class="process">
      <li class="process-step list-one">
        <h4>Report the death of a Veteran</h4><br>
-       Call the VA Insurance Center (VAIC) at +1 (800) 669-8477.
+       Call the VA Insurance Center (VAIC) at 1-800-669-8477(<a href="tel:+18006698477">1-800-669-8477</a>).
        <li class="process-step list-two">
          <h4>Give the Veteran’s claim number to VAIC</h4><br>
          Be ready to provide the Veteran's claim number to VAIC over the phone.
@@ -194,7 +194,7 @@ Learn how to file a VA life insurance claim.
        <br>
        <strong>VA Claims</strong>
        <br>
-       <strong>Fax:</strong> +1 (888) 748-5822
+       <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
        <br>
        <b>Mailing address:</b>
        <br>
