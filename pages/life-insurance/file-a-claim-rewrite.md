@@ -137,10 +137,10 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <br>
   <br>
   <div>
-    <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran</a>. Include a written statement that there will be no administration of the estate.
+    <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceased Veteran</a>. Include a written statement that there will be no administration of the estate.
   <br>
   <br>
-  <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541).</a>
+  <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceased Veteran (VA Form 29-541).</a>
   </div>
     
   <h4>Minor or incompetent beneficiary</h4>
