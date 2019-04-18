@@ -173,7 +173,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
          Be ready to provide the Veteran's claim number to VAIC over the phone.
      </li>
      <li class="process-step list-three">
-       <h4>Gather these documents:</h4>
+       <h4>Gather these documents</h4>
        <ul>
          <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate. </li>
          <li>
@@ -191,7 +191,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
          <strong>**The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
-       <h4>Send your documents to VA Claims by mail or by fax.</h4>
+       <h4>Send your documents to VA Claims by mail or by fax</h4>
        <h5>By mail</h5>
        <br>
        <p class="va-address-block">
