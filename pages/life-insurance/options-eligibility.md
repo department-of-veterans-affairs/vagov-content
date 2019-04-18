@@ -51,7 +51,7 @@ Are you a service member, Veteran, or spouse or dependent child of a service mem
 
 ## How do I know which life insurance program I'm eligible for?
 
-Different programs cover Veterans, service members, and family members. You may also be able to get short-term financial coverage to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to continue your life insurance beyond 2 years after you leave the military. <br>
+Different programs cover Veterans (VGLI), service members (SGLI), and family members (FSGLI). You may also be able to get short-term financial coverage through TSGLI to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to get coverage through S-DVI to continue your life insurance beyond 2 years after you leave the military. <br>
 [See our overview of VA life insurance programs](https://www.benefits.va.gov/insurance/overviewInsurance.html)<br>
 
 **Note:** If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to be sure there's no break in your coverage.
