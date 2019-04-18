@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Testing and Storage Areas Outside of Vietnam | Veterans Affairs
+title: Testing & Storage Areas Outside Vietnam | Veterans Affairs
 heading: Agent Orange Exposure from Testing and Storage Areas outside Vietnam
 display_title: Testing and Storage
 description: If you were part of testing or storing Agent Orange on military bases in the U.S. or elsewhere, you may have been exposed to this toxic chemical. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with Agent Orange.
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Were you part of Agent Orange testing or storing on bases in the United States or elsewhere? Agent Orange is a toxic chemical the U.S. military used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+Were you part of Agent Orange testing or did you serve on a military base that stored Agent Orange in the United states or elsewhere? Agent Orange is a toxic chemical the U.S. military used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
