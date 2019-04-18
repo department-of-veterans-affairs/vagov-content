@@ -173,9 +173,10 @@ VA housing assistance can help Servicemembers, Veterans, and their surviving spo
 </ul>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed">
-      <div class="expander-content-inner usa-alert-text">
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?</h4>
+		<div class="form-expanding-group borderless-alert additional-info-container" data-event="nav-crisis-homelessness-expander">
+			<span class="additional-info-title">We may be able to help.</span>
+			<div class="additional-info-content usa-alert-text">
 
 We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
 
@@ -192,11 +193,3 @@ We offer many programs and services that may help—including free health care a
   </div>
  </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>
