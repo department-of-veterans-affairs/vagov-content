@@ -4,7 +4,7 @@ template: detail-page
 title: Cash-Out Refinance Loan | Veterans Affairs
 heading: Cash-Out Refinance Loan
 display_title: Cash Out Refinance Loan
-description: Find out if you can apply for a VA-backed cash-out refinance loan that has new terms than your current loan. 
+description: Find out if you can apply for a VA-backed cash-out refinance loan that has newer terms than your current loan. 
 keywords: va cash out refinance loan 
 concurrence:
 order: 2
@@ -14,7 +14,7 @@ aliases:
 
 <div class="va-introtext">
 
-Refinancing lets you replace your current loan with a new one under different terms. If you want to take cash out of your home equity or refinance a non-VA loan into a VA-backed loan, a VA-backed cash-out refinance loan may be right for you. Find out if you can get this type of loan—and how to apply.
+A VA-backed cash-out refinance loan lets you replace your current loan with a new one under different terms. If you want to take cash out of your home equity or refinance a non-VA loan into a VA-backed loan, a VA-backed cash-out refinance loan may be right for you. Find out if you can get a VA-backed cash-out refinance loan--and how to apply.
 
 </div>
 
@@ -22,7 +22,7 @@ Refinancing lets you replace your current loan with a new one under different te
 
 ### Am I eligible for a VA-backed cash-out refinance loan?
 
-You may be able to get a cash-out refinance loan if you meet all of the requirements listed below.
+You may be able to get a VA-backed cash-out refinance loan if you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 
