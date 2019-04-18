@@ -37,9 +37,11 @@ Learn how to file a VA life insurance claim.
     Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-  <strong>Phone:</strong> 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>)
+   ##### By phone: 
+    Call 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>).
 <br>
-  <strong>Email:</strong> oca@state.gov
+  ##### By email:
+    Send an email to oca@state.gov.
   </li>
 </ol>
   
@@ -62,9 +64,11 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-  <strong>Phone:</strong> 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>)
+  ##### By phone: 
+    Call 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>).
 <br>
-  <strong>Email:</strong> oca@state.gov
+  ##### By email:
+    Send an email to oca@state.gov.
   </li>
 </ol>
 
@@ -78,16 +82,15 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Send your claim to OSGLI by mail or by fax.
     <br>
     <br>
-    <strong>Mailing address:</strong>
-    <br>
-    <br>
+   ##### By mail:
     <p class="va-address-block">
     Office of Servicemembers' Group Life Insurance (OSGLI)<br>
     P.O. Box 70173<br>
     Philadelphia, PA 19176<br>
 </p>
     <br>
-    <strong>Fax:</strong> 877-832-4943 (<a href="tel:+18778324943">877-832-4943</a>)
+    ##### By fax:
+    Fax your claim to 877-832-4943 (<a href="tel:+18778324943">877-832-4943</a>).
   </li>
 </ol>
 
@@ -114,9 +117,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Send your claim to VA Regional Office and Insurance Center by mail or by fax.
     <br>
     <br>
-    <strong>Mailing address:</strong>
-    <br>
-    <br>
+    ##### By mail:
     <p class="va-address-block">
     Department of Veterans Affairs<br>
     Regional Office and Insurance Center<br>
@@ -124,7 +125,8 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Philadelphia, PA 19101
     
 </p>
-<br> <strong>Fax:</strong> 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>)
+<br> ##### By fax:
+Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
   </li>
  </ol>
   
@@ -186,9 +188,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
        </div>
      <li class="process-step list-four">
        <h4>Send your documents to VA Claims by mail or by fax:</h4>
-       <br> 
-       <br>
-       <strong>Mailing address:</strong>
+       ##### By mail:
        <br>
        <br>
        <p class="va-address-block">
@@ -197,7 +197,8 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
        Philadelphia, PA 19101<br>
        </p>
         <br>
-       <strong>Fax:</strong> 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>)
+       ##### By fax:
+  Fax your documents to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
      </li>
    </ol>
             
