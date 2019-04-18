@@ -37,7 +37,7 @@ Learn how to file a VA life insurance claim.
     Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-  <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
+  <strong>Phone:</strong> 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
   </li>
@@ -62,7 +62,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
   <br>
-  <strong>Phone:</strong> 1-202-736-4302(<a href="tel:+12027364302">1-202-736-4302</a>)
+  <strong>Phone:</strong> 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>)
 <br>
   <strong>Email:</strong> oca@state.gov
   </li>
@@ -74,16 +74,18 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download out a Claim for Death Benefits form (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by mail or by fax</h4>
+  <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI)</h4><br>
+    Send your claim by mail or by fax.
     <br>
     <br>
+    <strong>Mailing address:</strong>
     <p class="va-address-block">
     Office of Servicemembers' Group Life Insurance (OSGLI)<br>
     P.O. Box 70173<br>
     Philadelphia, PA 19176<br>
 </p>
     <br>
-    <strong>Fax:</strong> 1-877-832-4943(<a href="tel:+18778324943">1-877-832-4943</a>)
+    <strong>Fax:</strong> 877-832-4943 (<a href="tel:+18778324943">877-832-4943</a>)
   </li>
 </ol>
 
@@ -106,9 +108,11 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download out a Claim for One Sum Payment form (VA Form 29-4125).</a></li>
   <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
   Review the instructions for the type of claim you're filing and include any special required documents.</li>
-  <li class="process-step list-three"><h4>Send the form by mail or by fax to VA Regional Office and Insurance Center</h4>
+  <li class="process-step list-three"><h4>Send the claim by mail or by fax to VA Regional Office and Insurance Center</h4><br>
+    Send your claim by mail or by fax.
     <br>
     <br>
+    <strong>Mailing address:</strong>
     <p class="va-address-block">
     Department of Veterans Affairs<br>
     Regional Office and Insurance Center<br>
@@ -116,7 +120,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Philadelphia, PA 19101
     
 </p>
-<br> <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
+<br> <strong>Fax:</strong> 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>)
   </li>
  </ol>
   
@@ -132,6 +136,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <br>
   <div>
     <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceeased Veteran</a>. Include a written statement that there will be no administration of the estate.
+  <br>
   <br>
   <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceeased Veteran (VA Form 29-541).</a>
   </div>
@@ -179,13 +184,14 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
        <h4>Send your documents to VA Claims by mail or by fax:</h4>
        <br> 
        <br>
+       <strong>Mailing address:</strong>
        <p class="va-address-block">
        VA Claims<br>
        P.O. Box 7208<br>
        Philadelphia, PA 19101<br>
        </p>
         <br>
-       <strong>Fax:</strong> 1-888-748-5822(<a href="tel:+18887485822">1-888-748-5822</a>)
+       <strong>Fax:</strong> 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>)
      </li>
    </ol>
             
