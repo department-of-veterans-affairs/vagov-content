@@ -99,7 +99,7 @@ hublinks:
     - url: "/housing-assistance/home-loans/eligibility/"
       label: Eligibility
       description: Find out if you're eligible for a VA direct or VA-backed home loan,
-        based on your service history and duty status. 
+        based on your service history and duty status.
       external: false
     - url: "/housing-assistance/home-loans/how-to-apply/"
       label: How to Apply for Your Certificate of Eligibility
@@ -174,7 +174,7 @@ VA housing assistance can help Servicemembers, Veterans, and their surviving spo
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?</h4>
-		<div class="form-expanding-group borderless-alert additional-info-container" data-event="nav-crisis-homelessness-expander">
+		<div id="crisis-line-details" class="form-expanding-group borderless-alert additional-info-container" data-event="nav-crisis-homelessness-expander">
 			<span class="additional-info-title">We may be able to help.</span>
 			<div class="additional-info-content usa-alert-text">
 
