@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 title: Agent Orange Registry Exam | Veterans Affairs
-heading: VA Agent Orange Registry Exam
+heading: Agent Orange Registry Exam
 display_title: Registry Health Exam
-description: Find out how to request an Agent Orange Registry health exam if you think you had contact with this toxic herbicide during military service. The exam can help alert you to illnesses that may be related to contact with herbicides and help us learn more to better serve Veterans with these illnesses.
+description: Find out how to request a VA Agent Orange Registry health exam if you think you had contact with this toxic herbicide during military service. The exam can help alert you to illnesses that may be related to contact with herbicides and help us learn more to better serve Veterans with these illnesses.
 keywords: agent orange registry, va agent orange registry
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you think you had contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, or other herbicides while serving in the military, you can request a VA Agent Orange Registry health exam. Even if you don’t have a known illness, the exam could alert you to illnesses that may be related to contact with herbicides. By being part of this registry, you’re also helping your fellow Veterans by giving us information so we can better understand and serve those affected by Agent Orange–related illnesses.
+Find out how to request an Agent Orange Registry health exam. If you think you had contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, or other herbicides while serving in the military, you can request a VA Agent Orange Registry health exam. Even if you don’t have a known illness, the exam could alert you to illnesses that may be related to contact with herbicides. By being part of this registry, you’re also helping your fellow Veterans by giving us information so we can better understand and serve those affected by Agent Orange–related illnesses.
 
 </div>
 
@@ -44,10 +44,10 @@ Veterans
 
 ### How do I get these benefits?
 
-To schedule your exam, contact your local VA Environmental Health Coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
+To schedule your Agent Orange Registry health exam, contact your local VA Environmental Health Coordinator. If you qualify, you won’t have to pay anything for this exam. It’s free for qualified Veterans. <br>
 [Find a VA Environmental Health Coordinator near you](https://www.publichealth.va.gov/exposures/coordinators.asp).
 
-### What should I expect at the exam?
+### What should I expect at the Agent Orange Registry health exam?
 
 The exam will include:
 
@@ -58,7 +58,7 @@ The exam will include:
 
 A VA health care provider will go over your exam and test results with you. You’ll also get a letter with the details of your results.
 
-### What else should I know about the exam?
+### What else should I know about the Agent Orange Registry health exam?
 
 Please note that:
 
