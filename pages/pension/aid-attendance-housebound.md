@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Aid and Attendance or Household Allowance | Veterans Affairs
-heading: VA Aid and Attendance Benefits and Housebound Allowance
-display_title: Aid and Attendance Benefits and Housebound Allowance
+title: VA Aid And Attendance Benefits | Veterans Affairs
+heading: VA Aid and Attendance benefits and Housebound allowance
+display_title: Aid and Attendance benefits and Housebound allowance
 description: Find out if you're eligible and how to apply for VA Aid and Attendance or Housebound benefits for Veterans and surviving spouses. You may qualify if you receive a VA pension and need help with daily activities or if you spend most of your time in your home because of a permanent disability.
 keywords: aid and attendance, va aid and attendance, veterans aid and attendance
 concurrence: ""
@@ -13,7 +13,7 @@ order: 4
 
 <div class="va-introtext">
 
-If you need help with your daily activities, or you’re housebound, you may qualify for VA Aid and Attendance or Housebound allowances in addition to your pension benefits. Find out if you can get these monthly payments added to the amount of your monthly pension.
+VA Aid and Attendance benefits or Housebound allowances provide monthly payments added to the amount of your monthly VA pension. If you need help with daily activities, or you’re housebound, find out if you qualify.
 
 </div>
 
@@ -34,15 +34,11 @@ If you need help with your daily activities, or you’re housebound, you may qua
 
 **Note:** You can’t get Aid and Attendance benefits and Housebound benefits at the same time.
 
-#### Who’s covered:
-- Qualified Veterans
-- Qualified surviving spouses
-
 </div>
 
 ## How do I get this benefit?
 
-There are 2 ways you can get this benefit:
+**You can apply for VA Aid and Attendance or Housebound benefits in one of these ways:**
 
 ### Write to your Pension Management Center (PMC)
 
@@ -60,8 +56,8 @@ If you're in a nursing home, you'll also need to fill out a Request for Nursing 
 
 ### Apply in person
 
-You can bring your information to a VA regional benefit office near you. <br>
-[Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+You can bring your information to a VA regional office near you. <br>
+[Find your nearest VA regional office](/find-locations/?facilityType=benefits).
 
 ## How long does it take VA to make a decision?
 
