@@ -16,7 +16,7 @@ order: 9
 
 <div class="va-introtext">
 
-If you served in Afghanistan during the Gulf War, you may have Gulf War illness (also sometimes called Gulf War syndrome) or other conditions related to service in this region. Find out if you can get VA disability compensation or benefits.
+If you served in Afghanistan during the Gulf War, you may have Gulf War illness (also sometimes called Gulf War syndrome) or other conditions related to service in this region. Find out if you can get VA disability compensation or benefits for Gulf War illness.
 
 [Learn about service in the Southwest Asia theater of military operations and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/).
 
