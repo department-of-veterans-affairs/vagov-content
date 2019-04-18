@@ -32,9 +32,9 @@ Learn how to file a VA life insurance claim.
 
 <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form(VA Form SGLV 8283).</a></li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, you can file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
+    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
@@ -45,6 +45,7 @@ Learn how to file a VA life insurance claim.
   </li>
 </ol>
   
+#### Filing a claim for a service member, Reservist, or National Guard member who was not on active duty when they died
 
 **If you want to file an SGLI claim for a Reservist or National Guard member or a service member who was not on active duty when they died**, you need to include these documents with your SGLI claim: 
 
@@ -58,9 +59,9 @@ Learn how to file a VA life insurance claim.
 
 <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Family Coverage Death Benefits</h4><br>
-     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits Form (VA Form SGLV 8283A).</a></li>
+     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits form (VA Form SGLV 8283A).</a></li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
-    Once you contact your Branch of Service Casualty Assistance, you can file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
+    Once you contact your Branch of Service Casualty Assistance, they will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI).
   <br> 
   <br>
     <strong>Branch of Service Casualty Assistance Office</strong>
@@ -75,8 +76,9 @@ Learn how to file a VA life insurance claim.
 ## Veterans’ Group Life Insurance (VGLI) Claims
   
   <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Fill out a Claim for Death Benefits (VA Form SGLV 8283)</a></li>
-  <li class="process-step list-two">Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail
+  <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download out a Claim for Death Benefits form (VA Form SGLV 8283)</a></li>
+  <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI) by fax or by mail</h4>
   <br> 
   <br>
     <strong>OSGLI</strong>
@@ -98,8 +100,10 @@ Learn how to file a VA life insurance claim.
 <h2>SGLI Traumatic Injury (TSGLI) Claims</h2>
   
   <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Fill out an Application for TSGLI Benefits (VA Form SGLV 8600), </a><strong>or request the form from your service department point of contact</strong></li>
-  <li class="process-step list-two">File your claim to the branch of service listed on the form, including photocopies of evidence needed for your claim</li>
+  <li class="process-step list-one"><h4>Fill out an application for TSGLI benefits</h4><br>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download an application for TSGLI Benefits (VA Form SGLV 8600), </a><strong>or request the application from your service department point of contact</strong></li>
+  <li class="process-step list-two"><h4>File your claim to the branch of service listed on the application</h4><br>
+    Include photocopies of the evidence needed for your claim.</li>
   
 </ol>
 
@@ -107,9 +111,11 @@ Learn how to file a VA life insurance claim.
 <h2>VA Life Insurance Claims (not SGLI or VGLI)</h2>
   
   <ol class="process">
-  <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Fill out a Claim for One Sum Payment (VA Form 29-4125)</a></li>
-  <li class="process-step list-two">Follow the specific instructions related to the claim you're filing</li>
-  <li class="process-step list-three">Send the form by fax or mail to VA Regional Office and Insurance Center
+  <li class="process-step list-one"><h4>Fill out a Claim for One Sum Payment</h4><br>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download out a Claim for One Sum Payment form (VA Form 29-4125).</a></li>
+  <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
+  Review the instructions for the type of claim you're filing and include any special required documents.</li>
+  <li class="process-step list-three"><h4>Send the form by fax or mail to VA Regional Office and Insurance Center</h4>
      <br> 
   <br>
     <strong>VA Regional Office and Insurance Center</strong>
@@ -158,13 +164,14 @@ Learn how to file a VA life insurance claim.
 
    <ol class="process">
      <li class="process-step list-one">
-      Call the VA Insurance Center (VAIC) at +1 (800) 669-8477 to report the death of a Veteran.
-     </li>
+       <h4>Report the death of a Veteran</h4><br>
+       Call the VA Insurance Center (VAIC) at +1 (800) 669-8477.
        <li class="process-step list-two">
-      Be ready to give the Veteran’s Claim Number to VAIC.
+         <h4>Give the Veteran’s claim number to VAIC</h4><br>
+         Be ready to provide the Veteran's claim number to VAIC over the phone.
      </li>
      <li class="process-step list-three">
-         Gather these documents:
+       <h4>Gather these documents:</h4>
        <ul>
          <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate. </li>
          <li>
@@ -182,7 +189,7 @@ Learn how to file a VA life insurance claim.
          <strong>**This should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
-       Send your documents to VA Claims by fax or by mail:
+       <h4>Send your documents to VA Claims by fax or by mail:</h4>
        <br> 
        <br>
        <strong>VA Claims</strong>
