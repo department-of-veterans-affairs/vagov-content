@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Home Loans | Veterans Affairs
-heading: Home Loans for Veterans, service members, and Survivors
+heading: Home Loans for Veterans, service members, and survivors
 display_title: VA-Backed Home Loans
 description: Find out if you're eligible and how to apply for VA direct and VA-backed home loans for Veterans, service members, and survivors. You may be eligible for Veterans home loan programs to help you buy, build, repair, or refinance a home.
 keywords: veterans home loans
@@ -32,6 +32,6 @@ majorlinks:
 
 <div class="va-introtext">
 
-VA direct and VA-backed home loans help Veterans like you build, buy, improve, or refinance a home. You’ll still need to have the required credit and income for the loan amount you want to borrow. But a VA loan may offer better terms than with a traditional loan from a private bank, mortgage company, or credit union. For example, nearly 90% of VA-backed loans are made with no down payment. Find out about our different loan programs—and how to apply.
+Veterans home loan programs, which include VA direct and VA-backed loans, help Veterans like you build, buy, improve, or refinance a home. You’ll still need to have the required credit and income for the loan amount you want to borrow. But a Veterans home loan may offer better terms than with a traditional loan from a private bank, mortgage company, or credit union. For example, nearly 90% of VA-backed loans are made with no down payment. Learn about different Veterans home loan programs and how to apply. 
 
 </div>
