@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Change Direct Deposit and Contact Info | Veterans Affairs
+title: Change Direct Deposit And Contact Info | Veterans Affairs
 heading: Change your VA direct deposit and contact information
 display_title: Change direct deposit and contact info
 description: You can change VA direct deposit contact and payment information for any pension, education, and compensation benefits you're receiving. Sign in or register for a Premium Account to update your direct deposit payment information. 
