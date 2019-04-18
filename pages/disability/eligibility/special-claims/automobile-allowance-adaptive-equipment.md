@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get a VA automobile allowance or other disability compensation or benefits.
+Find out if you can get a VA automobile allowance if you're a Veteran living with a service-connected disability that prevents you from driving. Our automotive adaptive-equipment grants can help you buy or update a vehicle with special features that enable you to drive. Learn how to file a claim.
 
 </div>
 
