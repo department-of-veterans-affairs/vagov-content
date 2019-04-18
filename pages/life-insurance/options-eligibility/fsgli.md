@@ -313,7 +313,7 @@ You can’t convert other types of policies—such as term, variable, or univers
   - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
 
 
-## Which forms would my service member need to file a claim?
+## Which forms would my service member need?
 - **To request an advance insurance payment for a spouse who's terminally ill,** a service member would file a Claim for Accelerated Benefits (SGLV 8284A).<br>
 [Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
 - **To tell us about the death of a family member covered by the policy,** a service member would file a Report of Death of Family Member (SGLV 8700).<br>
