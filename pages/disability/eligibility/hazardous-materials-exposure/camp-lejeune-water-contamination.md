@@ -14,7 +14,7 @@ order: 5
 
 <div class="va-introtext">
 
-If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCAS) New River in North Carolina, you may have had contact with contaminants in the drinking water there. Scientific and medical evidence has shown an association between exposure to Camp Lejeune water contaminants during military service and development of certain diseases later on. Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination.
+Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. If you served at Marine Corps Base Camp Lejeune or Marine Corps Air Station (MCAS) New River in North Carolina, you may have had contact with contaminants in the drinking water there. Scientific and medical evidence has shown an association between exposure to Camp Lejeune water contaminants during military service and development of certain diseases later on. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 
 </div>
 
