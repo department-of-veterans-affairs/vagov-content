@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Request Your Military Records | Veterans Affairs
-heading: Request Your Military Service Records (including DD214)
+heading: Request your military service records (including DD214)
 display_title: Request Military Records
 description: Send a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
 keywords: military records, military records request, military service records
@@ -101,7 +101,7 @@ You can request documents from your Official Military Personnel File to view and
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You'll receive an email letting you know your request is being processed. You'll receive a second email when your request is complete and your files are ready for you to view and download. 
+You'll receive an email letting you know your military records request is being processed. You'll receive a second email when your military recrods request is complete and your files are ready for you to view and download. 
 
 You can also check the status of your request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
