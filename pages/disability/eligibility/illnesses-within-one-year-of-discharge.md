@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Disabilities Appearing 1 Year After Discharge | Veterans Affairs
-heading: Disabilities That Appear within 1 Year after Discharge
+heading: Benefits for Disabilities That Appear within 1 Year after Discharge
 display_title: Illnesses within 1 Year of Discharge
 description: Find out how to apply for VA disability compensation for a condition that started within one year after discharge from active military service. You may be able to get benefits for an illness like high blood pressure, arthritis, or diabetes if your symptoms appear within a year after discharge.
 keywords: how to apply for va disability after discharge 
@@ -33,7 +33,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to apply for VA disability compensation or benefits after discharge. You may be able to get disability benefits if you have signs of an illness like hypertension (high blood pressure), arthritis, diabetes, or peptic ulcers that started within a year after you were discharged from active military service. 
+Find out how to apply for VA disability compensation for a condition that started within one year after discharge from active military service. You may be able to get disability benefits if you have signs of an illness like hypertension (high blood pressure), arthritis, diabetes, or peptic ulcers that started within a year after you were discharged from active military service. 
 
 If your symptoms appear within 1 year after discharge—even if they weren’t there while you were serving—we’ll conclude that they’re related to your service. 
 
