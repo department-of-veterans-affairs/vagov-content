@@ -66,8 +66,8 @@ When you change the address and other contact information in your VA.gov profile
   <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. You can also add or edit other contact, personal, and military service information.
 </ol>
 
-<a href="/profile/">Go to your VA.gov profile</a> <br>
-If you're not signed in yet, we'll prompt you to sign in before taking you to your profile.
+<strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br>
+If you're not yet signed in, we'll prompt you to sign in before taking you to your profile.
 
 If you have questions about verifying your identity on VA.gov, <a href="/sign-in-faq/#verify">read our identity verification FAQs</a>.
 </div>
