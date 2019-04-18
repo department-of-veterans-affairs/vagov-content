@@ -15,7 +15,7 @@ order: 4
 
 <div class="va-introtext">
 
-If you were exposed to mustard gas (also known as sulfur mustard, yperite, or nitrogen mustard) or lewisite, a natural compound that contains the poison arsenic, you may have certain related long-term illnesses. Find out if you can get disability compensation or benefits for exposure to mustard gas or lewisite. 
+If you were exposed to mustard gas (also known as sulfur mustard, yperite, or nitrogen mustard) or lewisite, a natural compound that contains the poison arsenic, you may have certain related long-term illnesses. Find out if you can get disability compensation or benefits for mustard gas exposure or lewisite exposure. 
 
 </div>
 
