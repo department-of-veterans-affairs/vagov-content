@@ -150,7 +150,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
 <br>
 <br>
 <div>
-  <strong> If the life insurance beneficiary wants monthly payments instead of one lump sum,</strong> we’ll need more information. Call VA toll-free at <strong>1-800-669-8477</strong>.
+  <strong> If the life insurance beneficiary wants monthly payments instead of one lump sum,</strong> we’ll need more information. Call VA toll-free at 1-800-669-8477 (<a href="tel:+18006698477">1-800-669-8477</a>).
 </div>
 
  
