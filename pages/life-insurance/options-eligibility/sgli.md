@@ -186,8 +186,7 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 
 ## What if I need help with my claim?
 
-If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at <a href="tel:+18004191473">800-419-1473</a>, **or** <br>
-<a href="mailto:osgli.osgli@prudential.com">Email the Prudential Insurance Company</a>
+If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at <a href="tel:+18004191473">800-419-1473</a>, or <a href="mailto:osgli.osgli@prudential.com">email the Prudential Insurance Company</a>.
 
 
 ## Which forms would my family member need?
@@ -198,5 +197,3 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 [Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
 - **To help a service member get short-term financial support while recovering from a traumatic injury,** a family member would work with the service member to file an Application for TSGLI Benefits (SGLV 8600).<br>
 [Download SGLV 8600](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
- If the member is incompetent, payment will be made under the appropriate letters of guardianship/
-conservatorship or a power of attorney to the guardian, power of attorney or military trustee on the member’s behalf. 
