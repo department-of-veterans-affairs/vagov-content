@@ -94,7 +94,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out an application for TSGLI benefits</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download an application for TSGLI Benefits (VA Form SGLV 8600), </a><strong>or request the application from your service department point of contact</strong></li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download an application for TSGLI Benefits (VA Form SGLV 8600), </a>or request the application from your service department point of contact</li>
   <li class="process-step list-two"><h4>File your claim to the branch of service listed on the application</h4><br>
     Include photocopies of the evidence needed for your claim.</li>
   
