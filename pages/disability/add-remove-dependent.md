@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Add or Remove a Dependent | Veterans Affairs
+title: Add Or Remove A Dependent | Veterans Affairs
 heading: Add Dependents to Your VA Disability Benefits
 display_title: Add or Remove a Dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
@@ -26,7 +26,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to add a dependent spouse, child, and/or parent to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
+Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
 
 </div>
 
@@ -41,7 +41,7 @@ You may be eligible for additional disability compensation for a spouse, child, 
 - Are eligible for VA disability compensation, **and**
 - Have a combined disability rating of at least 30% 
 
-Adding a dependent may make you eligible to receive a higher compensation payment (also called a benefit rate).
+Adding a dependent to your VA disability benefits may make you eligible to receive a higher compensation payment (also called a benefit rate).
 <br>
 
 ### Who does VA consider a dependent?
@@ -59,7 +59,7 @@ Adding a dependent may make you eligible to receive a higher compensation paymen
 
 </div>
 
-## When should I add a dependent to my benefits?
+## When should I add a dependent to my VA disability benefits?
 
 This depends on where you are in the process of filing for disability compensation.
 
@@ -173,7 +173,7 @@ Janesville, WI 53547-4444 <br>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-apply-paper">What should I do if I already submitted a paper form for additional disability compensation for a child or spouse, and I’m still waiting for a decision?</button>
 <div id="questions-apply-paper" class="usa-accordion-content">
 
-You can file your claim again online for a faster decision. If we award you additional disability compensation, we’ll give you back pay from the original date we received your paper form.
+You can file your claim again online for a faster decision. If we award you additional disability compensation, we’ll give you VA disability back pay from the original date we received your paper form.
 
 </div>
 </li>
