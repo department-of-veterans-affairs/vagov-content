@@ -92,7 +92,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     Philadelphia, PA 19176<br>
 </p>
     <br>
-    <h5>By fax:</h5>
+    <h5>By fax</h5>
     Fax your claim to 877-832-4943 (<a href="tel:+18778324943">877-832-4943</a>).
   </li>
 </ol>
@@ -191,8 +191,8 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
          <strong>**The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
-       <h4>Send your documents to VA Claims by mail or by fax:</h4>
-       <h5>By mail:</h5>
+       <h4>Send your documents to VA Claims by mail or by fax.</h4>
+       <h5>By mail</h5>
        <br>
        <p class="va-address-block">
        VA Claims<br>
@@ -200,7 +200,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
        Philadelphia, PA 19101<br>
        </p>
         <br>
-       <h5>By fax:</h5>
+       <h5>By fax</h5>
   Fax your documents to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
      </li>
    </ol>
