@@ -21,7 +21,7 @@ aliases:
 
 <div class="va-introtext">
 
-You may qualify for Traumatic Servicemembers' Group Life Insurance (TSGLI) Injury Protection if you're a servicemember covered by SGLI who experienced a traumatic injury while serving in the military. Find out how to apply for these payments or appeal a decision that's already been made.
+You may qualify for Traumatic Servicemembers' Group Life Insurance (TSGLI) Injury Protection if you're a service member covered by SGLI who experienced a traumatic injury while serving in the military. Find out how to apply for TSGLI or appeal a decision that's already been made.
 
 </div>
 
