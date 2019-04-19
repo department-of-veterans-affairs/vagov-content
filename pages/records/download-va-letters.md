@@ -4,7 +4,7 @@ title: Download VA Benefit Letters
 display_title: Download VA Benefit Letters
 template: detail-page
 order: 5
-spoke: Get Records
+spoke: Get records
 ---
 
 <div id='main'>

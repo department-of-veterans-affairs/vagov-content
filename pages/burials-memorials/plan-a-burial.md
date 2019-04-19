@@ -5,7 +5,7 @@ title: Plan a Burial for a Veteran, Spouse, or Dependent Family Member
 display_title: Plan a Burial
 collection: burials
 children: burialsPlanABurial
-spoke: Plan a Burial
+spoke: Plan a burial
 order: 7
 relatedlinks:
   - heading: Other helpful information
