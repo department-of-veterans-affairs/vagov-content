@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Get Help Filing a Claim | Veterans Affairs
-heading: Get Help Filing Your Claim or Appeal
+heading: Get Help Filing a Claim
 display_title: Get Help Filing a Claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
 keywords: veteran service organizations, veterans service representative, veterans representative, help filing va disability claim, help filing my disability claim
@@ -31,9 +31,7 @@ spoke: More Resources
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
   
-If you need help filing a VA disability claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
-
-VSOs work on behalf of Veterans and Servicemembers—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
+If you need help filing a VA disability claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Organization (VSO). VSOs work on behalf of Veterans and Servicemembers—as well as their dependents and survivors. We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs. Find VSOs or accredited individuals near you and learn how they can help you. 
 
 
 </div>
@@ -49,7 +47,7 @@ VSOs work on behalf of Veterans and Servicemembers—as well as their dependents
   - Pass a background check
   - Take continuing-education courses to make sure they’re providing the most up-to-date information
 
-Recognized organizations and individuals can legally represent a Veteran, Servicemember, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
+Recognized VSOs and individuals can legally represent a Veteran, Servicemember, dependent, or survivor before VA. Non-recognized organizations and individuals can provide information, but can’t be representatives.
 
 </div>
 </div>
