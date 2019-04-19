@@ -13,13 +13,13 @@ promo:
     url: "/records/download-va-letters/"
     description: Download letters like your eligibility or award letter for certain benefits.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-800-827-1000
           number: 1-800-827-1000
