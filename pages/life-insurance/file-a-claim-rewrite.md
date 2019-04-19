@@ -114,7 +114,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for One Sum Payment</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download a Claim for One Sum Payment form (VA Form 29-4125)</a>.</li>
-  <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
+  <li class="process-step list-two"><h4>Follow the instructions specific to the claim you're filing</h4><br>
   Review the instructions for the type of claim you're filing and include any special required documents.</li>
   <li class="process-step list-three"><h4>Send the claim by mail or by fax to VA Regional Office and Insurance Center</h4><br>
     Send your claim to VA Regional Office and Insurance Center by mail or by fax.
@@ -192,6 +192,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
        </div>
      <li class="process-step list-four">
        <h4>Send your documents to VA Claims by mail or by fax</h4>
+       Send your documents to VA Claims.
        <h5>By mail</h5>
        <br>
        <p class="va-address-block">
