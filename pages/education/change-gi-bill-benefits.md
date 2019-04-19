@@ -6,7 +6,7 @@ display title: Change GI Bill school or program
 children: educationChangeGIBillBenefits
 collection: education
 order: 4
-spoke: Manage Benefits
+spoke: Manage benefits
 ---
 
 <div class="va-introtext">

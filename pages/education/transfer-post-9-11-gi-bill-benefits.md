@@ -9,7 +9,7 @@ concurrence: complete
 order: 3
 aliases:
   - /education/gi-bill/transfer/
-spoke: Manage Benefits
+spoke: Manage benefits
 ---
 
 

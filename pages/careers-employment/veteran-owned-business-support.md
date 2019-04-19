@@ -5,7 +5,7 @@ title: Register to Do Business with VA and Get Support for Your Veteran-Owned Sm
 display_title: Veteran-Owned Business Support
 concurrence: complete
 order: 5
-spoke: Get Benefits
+spoke: Get benefits
 aliases:
   - /employment/job-seekers/register-your-business/
   - /employment/job-seekers/service-disabled/
