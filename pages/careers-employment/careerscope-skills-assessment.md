@@ -2,7 +2,7 @@
 title: CareerScope and Transition Assistance | Veterans Affairs
 heading: CareerScope Assessment
 display_title: CareerScope
-description: Learn about resources like the Transition Assistance Program (TAP) and the careerscope assessment that can support you wherever you're at in your transition from the military. Connect with benefits advisors around the world who can be your personal guide through your transition. 
+description: Learn about resources like the Transition Assistance Program (TAP) and the CareerScope assessment that can support you wherever you're at in your transition from the military. Connect with benefits advisors around the world who can be your personal guide through your transition. 
 keywords: careerscope, careerscope assessment
 layout: page-breadcrumbs.html
 template: detail-page
