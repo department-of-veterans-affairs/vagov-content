@@ -59,7 +59,7 @@ Learn about the different types of VA education benefits available to Veterans, 
 |  | Post-9/11 GI Bill | Montgomery GI Bill Active Duty (MGIB-AD) | Montgomery GI Bill Selected Reserve (MGIB-SR) | Veterans' Educational Assistance Program (VEAP) | Survivors’ and Dependents’ Educational Assistance Program (DEA) |
 | --- | --- | --- | --- | --- | --- |
 | <strong>Minimum length of service you need to get this benefit</strong> | <ul><li>90 days active duty (either all at once or with breaks in service) on or after September 11, 2001 <br><br><strong>or</strong></ul></li> <br> <ul><li>30 days continuous (without a break) service if honorably discharged with service-connected disability on or after September 11, 2001</ul></li> | 2-4 years (minimum duty may vary) | 6-year service obligation (you agreed to serve 6 years) after June 30, 1985 | 181 continuous (without a break) days active service between December 31, 1976 and July 1, 1985 (minimum duty may vary) | N/A |
-| <strong>How long you can get this benefit</strong> <br><br><strong>Note:</strong>If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
+| <strong>How long you can get this benefit</strong> <br><br><strong>Note:</strong> If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
 | <strong>How we pay these benefits</strong> | <ul><li><strong>Tuition:</strong> Paid to school directly</ul></li> <br> <ul><li><strong>Housing stipend:</strong> Paid to student monthly</ul></li><br><ul><li><strong>Books & supplies:</strong> Paid to student at the beginning of school term | Paid to student monthly | Paid to student monthly | Paid to student | Paid to student monthly |
 | <strong>How much time you have to claim this benefit</strong> | <ul><li>15 years from last day of active duty if last day was before January 1, 2013</ul></li> <br><strong>or</strong><br><br> <ul><li> No time limit if last day of active duty was on or after January 1, 2013</ul></li> | 10 years from last day of active duty (may vary) | Eligibility ends the day you leave Selected Reserve (with some exceptions) | 10 years from last day of active duty | <ul><li><strong>Spouses:</strong> 10-20 years (may vary)</ul></li><br> <ul><li> <strong>Children:</strong> Qualify on their 18th birthday, and can use this benefit until their 26th birthday (may vary). |
 | <strong>Degree training</strong> | Yes | Yes | Yes | Yes | Yes |
@@ -70,7 +70,7 @@ Learn about the different types of VA education benefits available to Veterans, 
 | <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Tutorial assistance</strong> (VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
+  | <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
 
 
 
