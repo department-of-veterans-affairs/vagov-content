@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Claim Types and When to File | Veterans Affairs 
+title: Claim Types and When to File | Veterans Affairs
 heading: Types of VA Disability Claims and When to File
 display_title: When to File
 description: Learn about the different types of VA claims for disability compensation. Find out when you can first file a VA disability claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
@@ -24,7 +24,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about the different types of VA disability claims. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
+Learn about the different types of VA disability claims. Find out when you can first file a VA disability claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
 
 </div>
 
@@ -96,7 +96,7 @@ Our decision on your new disability claim will be based only on new evidence (li
 
 You can file a secondary disability claim to get more disability benefits for a new disability that's linked to a service-connected disability you already have.
 
-**For example, you might file a secondary disability claim if you:**
+**For example, you might file a secondary VA disability claim if you:**
 - Develop arthritis that's caused by a service-connected knee injury you got while on active duty, **or**
 - Develop heart disease that's caused by the high blood pressure you were diagnosed with while on active duty and that we'd previously concluded was connected to your service
 
@@ -108,7 +108,7 @@ You can file a secondary disability claim to get more disability benefits for a 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
 <div id="claim-special" class="usa-accordion-content">
 
-You can file a special disability claim to request compensation for special needs. 
+You can file a special VA disability claim to request compensation for special needs. 
 
 **These may include needs like:**
 - A specially equipped vehicle if your service-connected disability prevents you from driving, **or**
@@ -125,7 +125,7 @@ You can file a special disability claim to request compensation for special need
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—Provide new evidence to support a VA disability claim that was denied.</button>
 <div id="claim-new-evidence" class="usa-accordion-content">
 
-You can file a supplemental claim if you meet all of the requirements listed below.
+You can file a supplemental VA disability claim if you meet all of the requirements listed below.
 
 **All of these must be true:**
 - We denied your disability claim, **and**
