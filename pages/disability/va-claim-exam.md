@@ -27,7 +27,7 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-After you file your disability benefits claim, we may ask you to have a claim exam (also known as a compensation and pension, or C&P, exam). Get answers to commonly asked questions about the VA C&P exam below.
+Get answers to commonly asked questions about the VA claim exam (also called a "VA C&P exam," which stands for "VA Compensation and Pension exam"). Find out how to schedule your exam, what to expect during your appointment, and how long it usually takes to get a decision after your exam.
 
 </div>
 
