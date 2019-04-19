@@ -32,7 +32,7 @@ Learn how to file a VA life insurance claim.
 
 <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283).</a></li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283)</a>.</li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
     Your Branch of Service Casualty Assistance will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
@@ -60,7 +60,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
 
 <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Family Coverage Death Benefits</h4><br>
-     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits form (VA Form SGLV 8283A).</a></li>
+     <a href="https://www.benefits.va.gov/INSURANCE/forms/8283A.htm">Download a Claim for Family Coverage Death Benefits form (VA Form SGLV 8283A)</a>.</li>
   <li class="process-step list-two"><h4>Contact your Branch of Service Casualty Assistance Office</h4><br> 
     Your Branch of Service Casualty Assistance will help you file your Claim for Death Benefits with the Office of Servicemembers Group Life Insurance (OSGLI). Call or email your Branch of Service Casualty Assistance.
   <br> 
@@ -79,7 +79,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for Death Benefits</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download out a Claim for Death Benefits form (VA Form SGLV 8283)</a></li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/8283.htm">Download a Claim for Death Benefits form (VA Form SGLV 8283)</a>.</li>
   <li class="process-step list-two"><h4>Send your Claim for Death Benefits form to the Office of Servicemembers’ Group Life Insurance (OSGLI)</h4><br>
     Send your claim to OSGLI by mail or by fax.
     <br>
@@ -102,7 +102,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out an application for TSGLI benefits</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download an application for TSGLI Benefits (VA Form SGLV 8600), </a>or request the application from your service department point of contact.</li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/TSGLIForm.htm">Download an application for TSGLI Benefits (VA Form SGLV 8600)</a>, or request the application from your service department point of contact.</li>
   <li class="process-step list-two"><h4>File your claim to the branch of service listed on the application</h4><br>
     Include photocopies of the evidence needed for your claim.</li>
   
@@ -113,7 +113,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Claim for One Sum Payment</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download out a Claim for One Sum Payment form (VA Form 29-4125).</a></li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-4125.htm">Download a Claim for One Sum Payment form (VA Form 29-4125)</a>.</li>
   <li class="process-step list-two"><h4>Follow the specific instructions for the claim you're filing</h4><br>
   Review the instructions for the type of claim you're filing and include any special required documents.</li>
   <li class="process-step list-three"><h4>Send the claim by mail or by fax to VA Regional Office and Insurance Center</h4><br>
@@ -148,7 +148,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
     <strong>If you can't provide letters testamentary, letters of administration, or a court order of distribution,</strong> you can fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Certificate Showing Residence and Heirs of Deceased Veteran</a>. Include a written statement that there will be no administration of the estate.
   <br>
   <br>
-  <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceased Veteran (VA Form 29-541).</a>
+  <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceased Veteran (VA Form 29-541)</a>.
   </div>
     
   <h4>Minor or incompetent beneficiary</h4>
@@ -181,7 +181,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
            separation documents)
          </li>
          <li>
-           <strong>A mortgage payoff or account statement*</strong>, which should include the balance of mortgage after last payment mbefore Veteran’s death, <strong>the address of the mortgage company**</strong> where the VMLI payment should be sent, and prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
+           <strong>A mortgage payoff or account statement*</strong>, which should include the balance of mortgage after last payment before Veteran’s death, <strong>the address of the mortgage company**</strong> where the VMLI payment should be sent, and prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate)
          </li>
        </ul>
        <div>
