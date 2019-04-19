@@ -70,8 +70,8 @@ Use the tool below to compare VA education benefits available to Veterans, servi
 | <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-  | <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
-  | <strong>Learn more</strong> | [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) | [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/) | [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) | [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/) | [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/)
+| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
+| <strong>Learn more</strong> | [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) | [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/) | [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) | [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/) | [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) |
 
 
 
