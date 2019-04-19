@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: topic-landing
-title: Resources for Military and Veteran Family Members
+title: Resources for Family Members | Veterans Affairs
+heading: Resources for Military and Veteran Family Members
 display_title: Family Resources
+description: Learn about programs like Spouse Education Career Opportunities (SECO) that can help military spouses find education and career training as well as connect with employers committed to hiring military spouses. Compare small business resources tailored toward military family members and spouses.
+keywords: n/a
 concurrence: complete
 order: 6
 spoke: More Resources
@@ -12,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-The Veterans Employment Center can help spouses and other family members access valuable career resources.
+We help spouses and other family members access valuable career resources through VA programs like Spouse Education Career Opportunities (SECO)
 
 </div>
 
