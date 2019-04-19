@@ -2,9 +2,9 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Disabled Veterans Life Insurance (S-DVI) | Veterans Affairs
-heading: Service-Disabled Veterans Life Insurance (S-DVI)
+heading: Service-Disabled Veterans' Life Insurance (S-DVI)
 display_title: Service-Disabled Veterans (S-DVI)
-description: You may be able to get disabled veterans coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for these benefits online or by mail. 
+description: You may be able to get disabled Veterans insurance coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for these benefits online or by mail. 
 keywords: service disabled veterans life insurance, disabled veterans life insurance. disabled veterans
 concurrence:
 order: 5
@@ -20,7 +20,7 @@ aliases:
 
 <div class="va-introtext">
 
-You may be able to get disabled veterans coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for these benefits online or by mail. 
+You may be able to get disabled Veterans insurance coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for S-DVI online or by mail. 
 
 </div>
 
