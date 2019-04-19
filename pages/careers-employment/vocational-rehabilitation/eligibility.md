@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: VR&E Eligibility | Veterans Affairs
-heading: Eligibility for Vocational Rehab and Employment
+heading: Eligibility for Vocational Rehab and Employment  
 display_title: Eligibility
 description: Learn about eligibility requirements for Vocational Rehabilitation and Employment benefits if you're a Veteran or Servicemember with a service-connected disability that limits your ability to work. Find counselors who can help you transition from military life to school or a new career. 
 keywords: vocational rehab, veterans vocational rehabilitation, vocational rehab services
