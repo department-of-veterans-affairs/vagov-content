@@ -7,7 +7,7 @@
     "yarn": "1.12.3"
   },
   "scripts": {
-    "vagov-apps:clone": "git clone --depth=1 https://github.com/department-of-veterans-affairs/vets-website --branch spokes-17846 ../vagov-apps",
+    "vagov-apps:clone": "git clone --depth=1 https://github.com/department-of-veterans-affairs/vets-website ../vagov-apps",
     "vagov-apps:install": "cd ../vagov-apps && yarn install --production=false",
     "vagov-apps:build": "INSTALL_HOOKS=no npm --prefix ../vagov-apps run build -- --content-directory=${PWD}/pages --entry static-pages",
     "move-output": "mv ../vagov-apps/build build",
