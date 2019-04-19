@@ -94,6 +94,79 @@ Follow these steps to review or make changes to your VA life insurance beneficia
     Fax your claim to 800-236-6142 (<a href="tel:+18002366142">800-236-6142</a>).
   </li>
 </ol>
+</div>
+</li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="update-other">Other VA life insurance policies</button>
+<div id="update-other" class="usa-accordion-content">
+  
+  If you have VA life insurance coverage with a policy number that starts with V, RH, J, RS, K, or W, follow these steps to review or make changes to your plan:
+  
+  <ol class="process">
+  <li class="process-step list-one"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Designation of Beneficiary and Optional Settlement form (VA Form 29-336)
+</a>.</li>
+  <li class="process-step list-two"><h4>Send your completed form to us</h4><br>
+    Send your completed form to VARO&IC by mail.
+    <br>
+    <br>
+    <h5>By mail</h5>
+    <br>
+    <p class="va-address-block">
+    VARO&IC (B&O)<br>
+    P.O. BOX 8638<br>
+    Philadelphia, PA 19101<br>
+</p>
+ 
+  </li>
+</ol>
+
+<h4>Changing life insurance information for (on behalf of) a Veteran</h4>
+
+<strong>If you’re changing information for (on behalf of) a competent Veteran,</strong> review the following options and decide which one applies to you: <br>
+
+- <strong>If the Veteran can sign their name,</strong> have them fill out  a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)<br>
+- <strong>If the Veteran can’t sign their name,</strong> fill out a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are not beneficiaries, must witness the mark and sign the form.<br>
+- <strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
+ 
+<h4>Changing life insurance beneficiary information for (on behalf of) a Veteran</h4>
+
+Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them: 
+
+<ol class="process">
+  <li class="process-step list-one"><h4>Get a court order</h4><br>
+   The court-appointed guardian must get a special court order that allows them to do this. Contact your state court system to learn more about getting special court orders for incompetent Veterans.</li>
+  <li class="process-step list-two"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
+    Download a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336).
+ <li class="process-step list-three"><h4>Include all the documents needed</h4><br>
+   Include a copy of the guardianship documents and the court order.</li>
+   <li class="process-step list-four"><h4>Send your completed form to us</h4><br>
+    Send your completed form to VARO&IC by mail.
+    <br>
+    <br>
+    <h5>By mail</h5>
+    <br>
+    <p class="va-address-block">
+    VARO&IC (B&O)<br>
+    P.O. BOX 8638<br>
+    Philadelphia, PA 19101<br>
+</p>
+ 
+  </li>
+</ol>
+ 
+
+
+
+ 
+
+
+</li>
+</div>
+  
+  
 
 
 
