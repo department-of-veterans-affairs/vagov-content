@@ -21,7 +21,7 @@ aliases:
 
 <div class="va-introtext">
 
-Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Learn about what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
+Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Learn about what costs VA pays for, and review current Veterans burial allowance amounts, depending on the Veteran's service and medical history.
 
 </div>
 
@@ -58,7 +58,7 @@ To get this benefit, the Veteran must not have received a dishonorable discharge
 
 ## When do I need to file a claim?
 
-You must file a claim for a non-service-connected burial allowance within 2 years after the Veteran’s burial or cremation. If a Veteran’s discharge was changed after death from dishonorable to another status, you must file for an allowance claim within 2 years after the discharge update.
+You must file a claim for a non-service-connected VA burial allowance within 2 years after the Veteran’s burial or cremation. If a Veteran’s discharge was changed after death from dishonorable to another status, you must file for an allowance claim within 2 years after the discharge update.
 
 There's no time limit to file for a service-connected burial, plot, or interment allowance.
 
