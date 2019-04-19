@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Vocational Rehab Programs | Veterans Affairs
-heading: Vocational Rehab Programs for Veterans and Servicemembers 
+heading: Vocational Rehab Programs for Veterans and Servicemembers  
 display_title: Programs
 description: Get help finding and keeping a job with VA support-and-service tracks for Veterans and Servicemembers with service-connected disabilities that limit your ability to work. Find out how to apply for Vocational Rehabilitation and Employment benefits and services (sometimes called VA Voc Rehab or Chapter 31 benefits).
 keywords: voc rehab chapter 31, chapter 31 va, chapter 31 
