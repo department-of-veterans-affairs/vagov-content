@@ -138,7 +138,7 @@ Only a guardian appointed by a court of law (court-appointed guardian) can chang
   <li class="process-step list-one"><h4>Get a court order</h4><br>
    The court-appointed guardian must get a special court order that allows them to do this. Contact your state court system to learn more about getting special court orders for incompetent Veterans.</li>
   <li class="process-step list-two"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
-     <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</li>.
+  Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</li>.
  <li class="process-step list-three"><h4>Include all the documents needed</h4><br>
    Include a copy of the guardianship documents and the court order.</li>
    <li class="process-step list-four"><h4>Send your completed form to us</h4><br>
