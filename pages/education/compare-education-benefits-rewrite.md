@@ -43,7 +43,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Use the tool below to compare VA education benefits available to Veterans, service members, Guard and Reserve members, and qualified survivors or dependents. Learn about the different types of VA education benefits, find out which ones you may be eligible for, and decide which one is right for you. 
+Compare VA education benefits available to Veterans, service members, Guard and Reserve members, and qualified survivors or dependents using the table below. Learn about the different types of VA education benefits, find out which ones you may be eligible for, and decide which one is right for you. 
 
 </div>
 
