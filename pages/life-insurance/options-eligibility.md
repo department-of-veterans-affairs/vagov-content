@@ -51,4 +51,4 @@ Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemembe
 
 </div>
 
-**Are you ending your military tour of duty soon?** You’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage.
+**Are you ending your military tour of duty soon?** You’ll need to get new VA life insurance coverage quickly. In some cases, you must act within 120 days of leaving the military to ensure no lapse in coverage.
