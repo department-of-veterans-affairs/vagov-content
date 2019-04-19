@@ -50,7 +50,7 @@ Click **Vocational Rehabilitation and Employment Program**.
 
 <li class="process-step list-four">
 
-Apply for the Vocational Rehabilitation and Employment Program.
+Apply for the VA Vocational Rehabilitation and Employment Program.
 
 </li>
 
