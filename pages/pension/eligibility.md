@@ -28,14 +28,15 @@ widgets:
 
 <div class="va-introtext">
 
-Find out if you're eligible for the Veterans Pension program. You may qualify for monthly payments through this VA program if you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits. 
+The Veterans Pension program provides monthly payments to wartime Veterans who meet certain age or disability requirements, and who have income and net worth within certain limits. Find out if you're eligible for this benefit.
+
 </div>
 
 <div class="feature" markdown=“1”>
 
 ### Am I eligible for Veterans pension benefits from VA? 
 
-You may qualify for the Veterans Pension program if you meet the VA pension eligibility requirements listed below.
+If you meet the VA pension eligibility requirements listed below, you may be eligible for the Veterans Pension program. 
 
 **Both of these must be true:**
 
