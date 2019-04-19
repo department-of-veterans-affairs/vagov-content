@@ -16,13 +16,13 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re leaving active service soon, find out how to get free educational, vocational, or career counseling (also called Chapter 36).
+If you’re leaving active service soon, find out how to get free Veteran career, educational, or vocational counseling services (also called Chapter 36).
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Am I eligible for educational and career counseling?
+### Am I eligible for Veteran educational and career counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
