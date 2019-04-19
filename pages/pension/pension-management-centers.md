@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Pension Management Centers | Veterans Affairs
+title: Find Your VA Pension Management Center | Veterans Affairs
 heading: Find Your VA Pension Management Center
 display_title: Pension Management Centers
-description: Find the VA Pension Management Center that serves the state, territory, or foreign country you live in. You can mail pension applications to one of our 3 regional VA pension management centers in Philadelphia, Milwaukee, and St. Paul. 
+description: Find the VA pension management center that serves the state, territory, or foreign country you live in. You can mail pension applications to one of our 3 regional VA pension management centers in Philadelphia, Milwaukee, and St. Paul. 
 keywords: va pension management center
 concurrence: ""
 order: 5
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-We have 3 regional VA Pension Management Centers. Look at the lists below to find the center that serves your state, territory, or foreign country. Then, mail or fax your pension application to the address for that center.
+Find the VA pension management center that serves the state, territory, or foreign country you live in. Then, mail or fax your pension application to the address for that center.
 
 </div>
 
@@ -68,7 +68,7 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 1-844-655-1604.
 
-[Get more information about the VA Philadelphia Regional Benefit Office](https://www.benefits.va.gov/philadelphia/).
+[Get more information about the VA Philadelphia Regional Office](https://www.benefits.va.gov/philadelphia/).
 
 <br>
 
@@ -113,7 +113,7 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 1-844-655-1604.
 
-[Get more information about the VA Milwaukee Regional Benefit Office](https://www.benefits.va.gov/milwaukee/).
+[Get more information about the VA Milwaukee Regional Office](https://www.benefits.va.gov/milwaukee/).
 
 <br>
 
@@ -172,4 +172,4 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 1-844-655-1604.
 
-[Get more information about the VA St. Paul Regional Benefit Office](https://www.benefits.va.gov/stpaul/).
+[Get more information about the VA St. Paul Regional Office](https://www.benefits.va.gov/stpaul/).
