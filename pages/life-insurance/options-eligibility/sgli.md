@@ -23,7 +23,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify—and how to manage your coverage.
+If you’re a service member who meets certain criteria, we’ll automatically sign you up for low-cost term life insurance coverage called Servicemembers’ Group Life Insurance (SGLI). Find out if you qualify for SGLI and learn how to manage your coverage.
 
 </div>
 
