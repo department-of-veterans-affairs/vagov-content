@@ -122,7 +122,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
   </li>
 </ol>
 
-<h4>Changing life insurance information for (on behalf of) a Veteran</h4>
+<h3>Changing life insurance information for (on behalf of) a Veteran</h3>
 
 <strong>If you’re changing information for (on behalf of) a competent Veteran,</strong> review the following options and decide which one applies to you: <br>
 
@@ -130,7 +130,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
 - <strong>If the Veteran can’t sign their name,</strong> fill out a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are not beneficiaries, must witness the mark and sign the form.<br>
 - <strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
  
-<h4>Changing life insurance beneficiary information for (on behalf of) a Veteran</h4>
+<h3>Changing life insurance beneficiary information for (on behalf of) a Veteran</h3>
 
 Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. <br><strong>If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them:</strong> 
 
