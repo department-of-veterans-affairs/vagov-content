@@ -14,16 +14,16 @@ relatedlinks:
     links:
     - url: /education/about-gi-bill-benefits/post-9-11
       title: Post-9/11 GI Bill (Chapter 33)
-      description: If you need help paying for school or job training and you’ve served on active duty after September 10, 2001, you may qualify for the Post-9/11 GI Bill. Find out if you can get education benefits through the Post-9/11 GI Bill.
+      description: If you need help paying for school or job training and you’ve served on active duty after September 10, 2001, you may qualify for the Post-9/11 GI Bill. 
     - url: /education/about-gi-bill-benefits/montgomery-active-duty
       title: Montgomery GI Bill Active Duty (MGIB-AD)
       description: If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program.
     - url: /education/about-gi-bill-benefits/montgomery-selected-reserve
       title: Montgomery GI Bill Selected Reserve (MGIB-SR)
-      description: If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. Find out if you qualify.
+      description: If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. 
     - url: /education/other-va-education-benefits/veap
       title: Veterans’ Educational Assistance Program (VEAP)
-      description: You may be able to continue your education by using part of your military pay to help cover the cost of school. Find out if you can get benefits through the Veterans' Educational Assistance Program (VEAP)—a $2-to-$1 government-match program for educational assistance.
+      description: You may be able to continue your education by using part of your military pay to help cover the cost of school. 
     - url: /education/survivor-dependent-benefits/dependents-education-assistance
       title: Survivors’ and Dependents’ Educational Assistance Program (DEA)
       description: If you’re the child or spouse of a Veteran or Servicemember who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
