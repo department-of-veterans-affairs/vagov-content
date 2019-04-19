@@ -15,7 +15,7 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-We carry out memorial services at national cemeteries with dignity and respect. Find out what happens at a military funeral for a Veteran or service member.
+Find out what happens at a military funeral for a Veteran or service member and learn about military funeral etiquette. We carry out memorial services at national cemeteries with dignity and respect.
 
 </div>
 
