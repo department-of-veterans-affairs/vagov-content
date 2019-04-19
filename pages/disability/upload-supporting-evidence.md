@@ -8,7 +8,7 @@ concurrence:
 collection:
 order: 5
 children:
-spoke: Manage Benefits
+spoke: Manage benefits
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
