@@ -4,7 +4,7 @@ template: detail-page
 title: Plan a Veteran or Family Member Burial | Veterans Affairs
 heading: Plan a Burial for a Veteran, Spouse, or Dependent Family Member
 display_title: Plan a Burial
-description: Learn what steps to take when planning a burial for a Veteran, spouse, or dependent family member. Find out how to choose a funeral director, get information about Burial at Sea, and apply for financial support to help with burial costs.
+description: Find out how to make burial plans for a Veteran, spouse, or dependent family member. Find out how to choose a funeral director, get information about Burial at Sea, and apply for financial support to help with burial costs. Learn what to do when a Veteran dies.
 keywords: veterans burial, burial plans, what to do when a veteran dies
 collection: burials
 children: burialsPlanABurial
