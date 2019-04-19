@@ -124,7 +124,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
 
 <h3>Changing life insurance information for (on behalf of) a Veteran</h3>
 
-<strong>If you’re changing information for (on behalf of) a competent Veteran,</strong> review the following options and decide which one applies to you: <br>
+If you’re changing information for (on behalf of) a competent Veteran, review the following options and decide which one applies to you: <br>
 
 - <strong>If the Veteran can sign their name,</strong> have them fill out  a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)<br>
 - <strong>If the Veteran can’t sign their name,</strong> fill out a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are not beneficiaries, must witness the mark and sign the form.<br>
