@@ -43,23 +43,24 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, or qualified survivors or dependents. Find out which programs you’re eligible for and decide which one is best for you. Use the tools below to compare VA education benefits. 
+Learn about the different types of VA education benefits available to Veterans, service members, Guard and Reserve members, and qualified survivors or dependents. Find out which programs you may be eligible for, and decide which one is best for you. Use the tools below to compare VA education benefits.
 
 </div>
 
 <h2>Eligibility and Rules</h2>
 
-- You can only choose one education benefit to use, even if you're eligible for 2 or more
+- You can only choose one education benefit to use, even if you're eligible for 2
 - Once you choose which benefit you’ll use, <strong>you can't change your mind</strong>
-- If you’re eligible for the Post-9/11 GI Bill and two or more additional education benefits, you must give up one of the additional education benefits--however, you may remain eligible for the benefit or benefits you didn't give up
+- If you’re eligible for the Post-9/11 GI Bill and 2 or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you didn't give up.
+
 
 <h2>Compare Education Benefits</h2>
 
 |  | Post-9/11 GI Bill | Montgomery GI Bill Active Duty (MGIB-AD) | Montgomery GI Bill Selected Reserve (MGIB-SR) | Veterans' Educational Assistance Program (VEAP) | Survivors’ and Dependents’ Educational Assistance Program (DEA) |
 | --- | --- | --- | --- | --- | --- |
-| <strong>Minimum length of service</strong> | 90 days active aggregate service after 9/10/01 or 30 days continuous if discharged for disability | 2 years continuous enlistment (minimum duty varies) | 6 year commitment (after 6/30/85) | 181 continuous days active service between 12/31/76 and 7/1/85 (amount of time varies) | N/A |
-| <strong>Maximum # of months of benefits</strong> (maximum of 48 months if eligible for 2 or more programs) | 36 | 36 | 36 | 36 | 45 |
-| <strong>How payments are made</strong> | <strong>- Tuition:</strong> Paid to school<br> <strong>- Housing stipend:</strong> Paid monthly to student<br> <strong>- Books & supplies:</strong> Paid to student at the beginning of the term | Paid to student | Paid to student | Paid to student | Paid to student |
+| <strong>Minimum length of service you need to get this benefit</strong> | <ul><li>90 days active duty (either all at once or with breaks in service) on or after September 11, 2001, <strong>or</strong></ul></li> <br> <ul><li>30 days continuous (without a break) service if honorably discharged with service-connected disability on or after September 11, 2001</ul></li><br><br> [Learn more about the Post 9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). | 2-4 years (minimum duty may vary) <br><br>[Learn more about MGIB-AD length of service requirements](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/). | 6-year service obligation (you agreed to serve 6 years) after June 30, 1985 <br><br> [Learn more about MGIB-SR length of service requirements](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve) | 181 continuous (without a break) days active service between December 31, 1976 and July 1, 1985 (minimum duty may vary) <br><br> [Learn more about VEAP length of service requirements](https://www.va.gov/education/other-va-education-benefits/veap/) | N/A |
+| <strong>How long you can get this benefit</strong> <br><br><strong>Note:</strong>If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
+| <strong>How we pay these benefits</strong> | <ul><li><strong>Tuition:</strong> Paid to school directly</ul></li> <br> <ul><li><strong>Housing stipend:</strong> Paid to student monthly</ul></li><br><ul><li><strong>Books & supplies:</strong> Paid to student at the beginning of school term | Paid to student monthly | Paid to student monthly | Paid to student | Paid to student monthly |
 | <strong>Duration of benefits</strong> | <strong>- 15 year-limitation</strong> if active duty release was before Jan. 1, 2013<br> <strong>- No time limitation</strong> if active duty release was on or after Jan. 1, 2013 | Usually 10 years from last day of active duty | Ends the day you leave Selected Reserve | 10 years from last day of active duty | <strong>Spouse:</strong> 10 - 20 years (varies); <strong>Child:</strong> Ages 18-26 |
 | <strong>Degree training</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Non-college degree draining</strong> | Yes | Yes | Yes | Yes | Yes |
