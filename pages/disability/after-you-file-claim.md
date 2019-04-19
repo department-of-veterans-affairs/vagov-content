@@ -31,7 +31,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about the VA claim process and find out what happens to your claim after you file for disability compensation. 
+Learn about the VA claim process and what happens after you file your claim. Find out how long it takes, on average, to process a VA disability claim. 
 
 </div>
 
