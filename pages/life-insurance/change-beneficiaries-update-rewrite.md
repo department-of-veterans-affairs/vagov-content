@@ -106,8 +106,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
   
   <ol class="process">
   <li class="process-step list-one"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
-    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Designation of Beneficiary and Optional Settlement form (VA Form 29-336)
-</a>.</li>
+    <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</a>.</li>
   <li class="process-step list-two"><h4>Send your completed form to us</h4><br>
     Send your completed form to VARO&IC by mail.
     <br>
@@ -133,13 +132,13 @@ Follow these steps to review or make changes to your VA life insurance beneficia
  
 <h4>Changing life insurance beneficiary information for (on behalf of) a Veteran</h4>
 
-Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them: 
+Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. <br><strong>If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them:</strong> 
 
 <ol class="process">
   <li class="process-step list-one"><h4>Get a court order</h4><br>
    The court-appointed guardian must get a special court order that allows them to do this. Contact your state court system to learn more about getting special court orders for incompetent Veterans.</li>
   <li class="process-step list-two"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
-    Download a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336).
+     <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</li>.
  <li class="process-step list-three"><h4>Include all the documents needed</h4><br>
    Include a copy of the guardianship documents and the court order.</li>
    <li class="process-step list-four"><h4>Send your completed form to us</h4><br>
@@ -157,12 +156,6 @@ Only a guardian appointed by a court of law (court-appointed guardian) can chang
   </li>
 </ol>
  
-
-
-
- 
-
-
 </li>
 </div>
   
