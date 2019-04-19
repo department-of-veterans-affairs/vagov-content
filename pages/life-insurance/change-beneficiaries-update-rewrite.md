@@ -142,7 +142,7 @@ Only a guardian appointed by a court of law (court-appointed guardian) can chang
  <li class="process-step list-three"><h4>Include all the documents needed</h4><br>
    Include a copy of the guardianship documents and the court order.</li>
    <li class="process-step list-four"><h4>Send your completed form to us</h4><br>
-    Send your completed form to VARO&IC by mail.
+    Send your completed form to us by mail.
     <br>
     <br>
     <h5>By mail</h5>
