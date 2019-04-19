@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors Pension Rates | Veterans Affairs
-heading: VA Survivors Pension Rates
+title: VA Survivors Pension Benefit Rates | Veterans Affairs
+heading: VA Survivors Pension benefit rates
 display_title: Survivors Pension Rates
-description: Learn about VA pension rates for surviving spouses and dependents. If you qualify for survivors pension benefits, the amount you get will be based on the difference between your countable income and the Maximum Annual Pension rate (MAPR) set by Congress. 
+description: Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 keywords: va survivor benefit rates, va survivors pension rate table, va widows pension rates
 concurrence:  
 spoke: More Resources
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about VA pension rates for surviving spouses and dependents. If you qualify for survivors pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 
 </div>
 
@@ -48,7 +48,6 @@ If you transfer assets for less than fair market value during the look-back peri
 ## What’s a penalty period? 
 
 A penalty period is a length of time when a survivor isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period. 
-
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
@@ -90,7 +89,9 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 | --- | --- |
 | A qualified surviving child  | $2,313 |
 
-**Get historic rate charts from past years**
+## Historic VA Survivors Pension rate tables
+
+View VA Survivors Pension rate tables from past years:
 [2017](https://www.benefits.va.gov/PENSION/rates_survivor_pen17.asp) |
 [2016](https://www.benefits.va.gov/PENSION/rates_survivor_pen16.asp) |
 [2014](https://www.benefits.va.gov/PENSION/rates_survivor_pen14.asp) |
@@ -111,7 +112,9 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 
 <br>
 
-### Read the full regulations from Title 38 Code of Federal Regulations
+## Full Title 38 regulations
+
+Read the full regulations from Title 38 Code of Federal Regulations:
 
 [3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
