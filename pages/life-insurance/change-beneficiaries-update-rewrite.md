@@ -62,8 +62,8 @@ Follow these steps to review or make changes to your VA life insurance beneficia
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="update-sgli">Veterans' Group Life Insurance (VGLI)</button>
-<div id="update-sgli" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="update-vgli">Veterans' Group Life Insurance (VGLI)</button>
+<div id="update-vgli" class="usa-accordion-content">
   
   Review and make changes to your VGLI coverage online or by mail. 
   
