@@ -5,7 +5,7 @@ title: View your VA payment history
 display_title: View VA payment history
 collection: records
 order: 7
-spoke: Get Records
+spoke: Get records
 
 ---
 
