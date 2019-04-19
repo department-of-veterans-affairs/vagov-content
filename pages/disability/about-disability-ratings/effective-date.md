@@ -33,9 +33,9 @@ aliases:
 
 <div class="va-introtext">
 
-When we decide we’ll pay a VA disability benefit based on a claim, we assign an effective date to that claim.
+Learn about we determine your VA disability compensation effective date. When we decide we’ll pay a VA disability benefit based on a claim, we assign an effective date to that claim.
 
-The effective date is the day you can start getting your disability benefits. This varies with the type of benefit you’re applying for and the nature of your claim. Once we decide your claim, you may qualify to receive disability back pay to the compensation effective date.
+The effective date is the day you can start getting your VA disability benefits. This varies with the type of benefit you’re applying for and the nature of your claim. Once we decide your claim, you may qualify to receive disability back pay to the compensation effective date.
 
 </div>
 
