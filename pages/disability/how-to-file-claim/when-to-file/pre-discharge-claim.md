@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Pre-discharge Claim | Veterans Affairs 
+title: Pre-discharge Claim | Veterans Affairs
 heading: Pre-discharge Claim
 description: If you're on active duty and believe you have a service-connected disability, find out how to file a pre-discharge claim for VA disability benefits. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
 keywords: pre discharge va claim, va disability while on active duty, benefits delivery at discarge
@@ -27,7 +27,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, you can file a pre-discharge claim for VA disability benefits 180 to 90 days before you leave the military. This may help speed up the claim decision process so you can get your benefits sooner. Find out how to file a claim through the Benefits Delivery at Discharge (BDD) program—and what to do if you have less than 90 days left on active duty.
+If you have an illness or injury that you believe was caused—or made worse—by your active-duty service, you can file a pre-discharge claim for VA disability benefits 180 to 90 days before you leave the military. This may help speed up the claim decision process so you can get your benefits sooner. Find out how to file a pre-discharge claim through the Benefits Delivery at Discharge (BDD) program—and what to do if you have less than 90 days left on active duty.
 
 </div>
 
@@ -54,7 +54,7 @@ You can't file a BDD claim or add more medical conditions to your initial claim.
 
 ### Are there any other reasons I can't use the BDD program?
 
-You can't use the BDD program if your claim requires special handling—even if you're on full-time active duty, with more than 90 days left of service.
+You can't use the BDD program if your pre-discharge claim requires special handling—even if you're on full-time active duty, with more than 90 days left of service.
 
 **You can't use the BDD program if any of these are true. You:**
 
@@ -120,7 +120,7 @@ File a fully developed or standard claim</button>
 
 If you have less than 90 days left on active duty, you have a few options for filing a disability claim:
 
-### File a fully developed or standard claim
+### File a fully developed or standard disability claim
 
 The difference in these claim types is based on how you gather evidence (supporting documents like a doctor's report and medical test results) to support your claim.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
