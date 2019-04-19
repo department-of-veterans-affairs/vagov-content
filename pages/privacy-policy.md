@@ -2,14 +2,16 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Privacy, Policies, and Legal Information
+aliases:
+  - /privacy/
 ---
 
 <p class="va-introtext">
 At VA, we take your privacy seriously. That's why we collect only the personal information that you provide to us, and ask you to provide only the information we need to complete your requests. This page explains our website privacy policy, including how we collect, store, use, and disclose your information. You’ll also find other information to help you understand your rights and how we’re complying with federal regulations and user agreements.
-
 </p>
 
-<h3>On This Page</h3>
+
+<h3>On this page</h3>
 
 <ul>
   <li><a href="#privacy">VA.gov Privacy Policy</a></li>
