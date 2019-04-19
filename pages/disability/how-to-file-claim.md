@@ -81,12 +81,12 @@ You should also know that you have up to a year from the date we receive your cl
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h4 itemprop="name">You can also file your VA disability claim claim:</h4>
+<h4 itemprop="name">You can also file your VA disability claim:</h4>
 <div itemprop="itemListElement">
 
 ##### By mail
 
-File your claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+File your VA disability claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 
 Print the form, fill it out, and send it to this address:
 
@@ -116,7 +116,7 @@ If you have a power of attorney and need to update their information, please cal
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What happens after I file my claim?</h3>
+<h3 itemprop="name">What happens after I file my VA disabilityclaim?</h3>
 <div itemprop="itemListElement">
 
 [Find out what happens after you file](/disability/after-you-file-claim/)
