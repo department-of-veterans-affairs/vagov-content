@@ -1,7 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Fully Developed Claim Program
+title: Fully Developed Claim for VA Pension | Veterans Affairs
+heading: Fully Developed Claim for VA Pension
+display_title: Fully Developed Claims Program
+description: Find out how to file a fully developed claim to get a faster decision on your VA pension claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
 concurrence:
 order: 1
 aliases:
@@ -10,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-The Fully Developed Claim (FDC) program is the fastest way to get your claim processed, and there’s no risk to your taking part in it. Just send in all your evidence, or supporting documents, when you file your claim. Participation in the FDC program is optional and won’t affect your benefits.
+The Fully Developed Claims (FDC) program is the fastest way to get your VA pension claim processed, and there’s no risk to your taking part in it. Just send in all your evidence, or supporting documents, when you file your claim. Participation in the FDC program is optional and won’t affect your benefits.
 
 If you file a claim in the FDC program and we decide that additional documents exist that we need to decide your claim, we’ll remove your claim from the FDC program and process it as a standard claim.
 
