@@ -35,100 +35,76 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-Disability Benefits Questionnaires (DBQs) are forms that help us give you the right disability compensation for your illness. 
-After your health care provider fills out the form related to your condition, they submit it to us. Then we begin the review 
-to decide your disability compensation. 
+Find out how Disability Benefits Questionnaires (DBQs) can help us determine your VA disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
 
 </div>
 
-## What are Disability Benefits Questionnaires (DBQs) and why might I need them?
+## What are Disability Benefits Questionnaires (DBQs), and why might I want to use them?
 
-If you're disabled as a result of your military service, you're entitled to disability compensation pay. 
-The first step in determining your monthly disability compensation is to have a health care provider fill out 
-one or more of our disability questionnaires. Then they or you submit the forms to us. See the [full list of condition-related questionnaires](https://www.benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp).
+DBQs are downloadable forms that we use to gather information from health care providers about service-connected illnesses and injuries, and how they affect your ability to function. This information helps us to determine your [VA disability rating](/disability/about-disability-ratings/) (a rating that measures how severe your disability is). 
 
-## Do I need to go to a VA health care facility to fill out a DBQ?
+DBQs can speed up the process for deciding your disability compensation claim or pension benefits application. This is because the standardized forms make it easier for your health care provider to submit clear, accurate information. When you submit a DBQ as part of a [fully developed claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/), we get exactly what we need to make a decision. 
 
-No, with a few exceptions (see below). You can visit a VA health care facility or any private health care provider 
+DBQs also give you more control over the claims process because you can take DBQs to any health care provider you'd like, at your expense, for most conditions.
+
+### Do I have to use DBQs to file my claim?
+
+No. DBQs can help speed up the claim process, but they're not mandatory.
+
+### Do I need to go to a VA health care facility to fill out a DBQ?
+
+This depends on the illness or injury you're claiming. 
+
+For most conditions, you can visit a VA health care facility or any private health care provider 
 you choose. Either provider can fill out the questionnaire and submit it to us. 
 
-## Will VA pay for my private provider appointment for a DBQ exam?
+But some conditions require special training, equipment, or testing. A private health care provider 
+typically can’t handle these, so we require that a VA provider perform these medical examinations.
 
-No. You’ll be responsible for paying for that private appointment.
+#### A VA health care provider must fill out the DBQ for the below conditions and exams
 
-## Which DBQ conditions need a VA provider review?
-
-**Evaluations for some conditions require special training, equipment, or testing. A private health care provider 
-typically can’t handle these, so we require that a VA provider perform these medical examinations:**
-
--	Initial examination for posttraumatic stress disorder (PTSD)
+-	First exam for posttraumatic stress disorder (PTSD)
 -	Hearing loss and tinnitus (ringing in the ears)
 -	Residuals of traumatic brain injury
 -	Cold injury residuals
 -	Prisoner of War examination protocol
--	Gulf War medical examination
--	General medical examination for compensation purposes
+-	Gulf War medical exam
+-	General medical exam to help determine VA disability compensation or pension benefits
 
-## Do I have to use DBQs to file my claim?
+### If I do go to a private provide for a DBQ exam, will VA pay for the appointment?
 
-No. But DBQs give us all the information we need about disability conditions. If your health
-care provider completes a DBQ instead of writing a long summary, it can speed up the claim decision. 
-But using the DBQs is not mandatory.
+No. You’ll be responsible for paying for that private appointment.
 
-## How do I find and file a DBQ form?
+### How long will it take my provider to fill out a DBQ for me?
 
-We have DBQs that cover more than 70 conditions. When you find the DBQ that’s related to your condition, simply print it out and take it with you to your health care provider appointment. Read the [full list of DBQ forms](https://www.benefits.va.gov/COMPENSATION/dbq_listbysymptom.asp).
+This depends on the illness or injury you're claiming as a disability. It can take between 15 minutes and 1 hour to fill out a DBQ. You'll find the estimate of how long it should take to fill out at the bottom of each form (listed as "respondent burden"). 
 
-**After completing the DBQ form, you or your provider can send the completed form to us. You or your provider can:**
+------
 
-- Fax the form to us. Find your regional office’s fax number.
--	Mail the form to us. The address is:
+## How do I find and subnmit a DBQ form?
 
-<p class="va-address-block">
-  Department of Veterans Affairs<br>
-  Claims Intake Center<br>
-  P.O. Box 4444<br>
-  Janesville, WI 53547-4444<br>
-  </p>
-
-You or your provider can also deliver the complete form in person to your VA regional office.
-
-## What if I don’t see a DBQ for the condition I’m claiming?
-
-With few exceptions, the DBQs cover every condition for which a Veteran can get compensation. 
-If you can’t find a DBQ for your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
-
-## How do DBQs help with VA's Fully Developed Claims (FDC) program?
-
-DBQs are valuable for FDC reviewing because they provide relevant medical information. We use this information 
-to determine your disability rating (a rating that measures how bad or severe a disability is). And once we 
-have your rating, we can begin reviewing your claim. Learn more about the [Fully Developed Claims (FDC) program](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/).
-
-## What are the steps to get and file a DBQ?
-
-Follow the steps below to apply for these benefits.
+Follow the steps below to find and submit your DBQ form.
 
 <ol class="process">
 <li class="process-step list-one">
 
-##### Find the right DBQ form or forms for your claimed disability.
+### Find and download the right DBQ form or forms for your claimed disability
 
--	Go to the [full list of disabilities covered](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp).
--	Search by either the DBQ Form Name or List by Symptoms, and choose the related DBQ.
--	Download the DBQ form to email it to your provider’s office, or print it out and take it to
-your appointment so your provider can fill it out by hand.
+-	[Go to the full list of covered disabilities](https://www.benefits.va.gov/COMPENSATION/dbq_disabilityexams.asp).
+-	Find the DBQ form you need. Forms are listed by name and the symptoms they cover.
+-	Download the DBQ form.
 
 </li>
 
 <li class="process-step list-two">
   
-##### Send or take the DBQ to your health care provider to complete it.
+### Give the DBQ to your health care provider
 
-We prefer to have your provider fill out the form electronically because it makes it 
-easier for us to read the DBQ. If your provider fills it out by hand, please ask that they 
-make sure all information is readable.
+**We suggest emailing the form to your provider's office.** When your provider fills out the form electronically, we can read the information more easily. 
 
-The provider must fill out the last section, which includes the provider’s name, signature, 
+If you can't send the form by email, you can also print it out and take it to your appointment so your provider can fill it out by hand. Please ask your provider to make sure all information is readable.
+
+**Note:** Your provider must fill out the last section, which includes their name, signature, 
 and contact information. If your provider has filled out the form electronically, they must 
 print it out to sign it. We can’t review any form without this information.
 
@@ -136,19 +112,22 @@ print it out to sign it. We can’t review any form without this information.
 
 <li class="process-step list-three">
   
-##### Make a copy of the DBQ for your records.
+### Make a copy of the DBQ for your records
+
+You'll want to always keep copies of all doctor's reports, test results, and any other evidence you submit to support your claim.
 
 </li>
 
 <li class="process-step list-four">
   
-##### File the completed DBQ.
+### File the completed DBQ
 
-You or your health care provider can send the completed form to us. You or your provider can:
+You or your health care provider can send the completed form to us in one of these ways:
 
-- Fax the form to us. Find your regional office’s fax number.
--	Mail the form to us. The address is:
-
+- Fax the form to your nearest VA regional office. <br>
+[Find your regional office’s fax number](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
+- Bring the form in person to your nearest VA regional office.
+-	Or mail the form to us at:
 <p class="va-address-block">
 Department of Veterans Affairs<br>
 Claims Intake Center<br>
@@ -156,24 +135,17 @@ P.O. Box 4444<br>
 Janesville, WI 53547-4444<br>
 </p>  
   
-You can also deliver the complete form in person to your VA regional office.
-
 </li>
 </ol>
 
-It typically takes an average of 125.7 days for us to complete disability-related claims. 
-Learn more about the [claims review process](/disability/after-you-file-claim/).
+[Learn more about the claim process](/disability/after-you-file-claim/).
 
-## What do I do if I still have questions?
 
-If you have any questions about the DBQ program, please call <a href="tel:+18008271000">800-827-1000</a>.
-  
-[How can I learn more about disability ratings]
-(/disability/about-disability-ratings/after-you-get-a-rating/)?
+### What if I don’t see a DBQ for the condition I’m claiming, or have other questions?
 
-[When do my disability ratings go into effect](/disability/about-disability-ratings/effective-date/)?
+With few exceptions, the DBQs cover every condition for which a Veteran can get compensation. 
 
-Need help understanding your benefits or accessing services?
+If you can’t find a DBQ for your condition, or if you have any other questions, please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 
-8:00 a.m. to 8:00 p.m. ET. 
+Or ask us a question online through our [Inquiry Routing and Information System (IRIS)](https://iris.custhelp.va.gov/app/ask/).
+
