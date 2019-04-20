@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request Your Military Records | Veterans Affairs
+title: Request Your Military Records (DD214) | Veterans Affairs
 heading: Request your military service records (including DD214)
 display_title: Request Military Records
-description: Send a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
-keywords: military records, military records request, military service records
+description: Submit a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
+keywords: military records, military records request, dd214, military service records
 concurrence:
 plainlanguage:
 collection: records
@@ -33,13 +33,13 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to submit a military records request, including your DD214, through the milConnect website.
+Submit a military records request to get your DD214 or other military service records through the milConnect website.
 
 </div>
 
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your service records</h4>
+    <h4 class="usa-alert-heading">You’ll need to sign in to milConnect to get your military service records</h4>
     
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the milConnect website. Go to milConnect to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
       <a class="usa-button-primary" href="https://milconnect.dmdc.osd.mil">Go to milConnect</a>
@@ -53,7 +53,7 @@ Find out how to submit a military records request, including your DD214, through
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Follow the steps below to request your military records.
+Follow the steps below to submit a military records request.
 
 <ol class="process">
   <li class="process-step list-one">From your signed-in homepage, click or tap on <b>Correspondence/ Documentation</b>. Then select <b>Defense Personnel Records Information (DPRIS)</b> from the drop-down menu.</li>
@@ -97,13 +97,13 @@ You can request documents from your Official Military Personnel File to view and
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What happens after I request my records?</h2>
+<h2 itemprop="name">What happens after I request my military records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You'll receive an email letting you know your military records request is being processed. You'll receive a second email when your military recrods request is complete and your files are ready for you to view and download. 
+You'll receive an email letting you know your request is being processed. You'll receive a second email when your  request is complete and your files are ready for you to view and download. 
 
-You can also check the status of your request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
+You can also check the status of your military records request by signing in to milConnect and going to the <b>Personnel File</b> tab within the Defense Personnel Records Information (DPRIS) section. This is also where you'll view and download your files once they're ready.
 
 </div>
 </div>
