@@ -44,7 +44,7 @@ On a no-down-payment loan, you can borrow up to the FannieMae/FreddieMac conform
 [See current effective loan limits](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx)
 
 You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Before you decide to refinance, divide your closing costs by how much you expect to save every month by refinancing to see if it’s worth it. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into. <br>
-[Visit the Consumer Financial Protection Bureau for more information](https://www.consumerfinance.gov/owning-a-home/) <br />
+[Visit the Consumer Financial Protection Bureau for more information](https://www.consumerfinance.gov/owning-a-home/) <br>
 [Download the Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
 
 <br>
@@ -57,7 +57,7 @@ You’ll want to keep closing costs in mind when refinancing a loan, as they can
 ### Find a lender.
 You’ll go through a private bank, mortgage company, or credit union—not directly through us—to get an IRRRL. Terms and fees may vary, so contact several lenders to check out your options.
 
-**Warning:** If you have a VA home loan be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
+**Note:** If you have a VA home loan be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
 [Learn more about the signs of misleading refinance offers](https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/)
 
 </li>
