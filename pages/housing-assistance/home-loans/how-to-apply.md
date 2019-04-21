@@ -50,15 +50,13 @@ If you’re a **Veteran**, you’ll need a copy of your discharge or separation 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Service member</button>
 <div id="apply-coe-active-duty" class="usa-accordion-content">
 
-If you’re an **active-duty service member**, you’ll need:
-
-* A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
-  * Your full name
-  * Your Social Security number
-  * Your date of birth
-  * The date you entered duty
-  * The duration of any lost time
-  * The name of the command providing the information
+If you’re an **active-duty service member**, you’ll need a statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
+* Your full name
+* Your Social Security number
+* Your date of birth
+* The date you entered duty
+* The duration of any lost time
+* The name of the command providing the information
 
 </div>
 </li>
@@ -74,16 +72,14 @@ If you’re a **current or former activated National Guard or Reserve member**, 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-not-activated">Current member of the National Guard or Reserves who has never been activated</button>
 <div id="apply-coe-not-activated" class="usa-accordion-content">
 
-If you’re a **current member of the National Guard or Reserves**, and have **never been activated**, you’ll need:
-
-* A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
-  * Your full name
-  * Your Social Security number
-  * Your date of birth
-  * The date you entered duty
-  * Your total number of creditable years of service
-  * The duration of any lost time
-  * The name of the command providing the information
+If you’re a **current member of the National Guard or Reserves**, and have **never been activated**, you’ll need a statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
+* Your full name
+* Your Social Security number
+* Your date of birth
+* The date you entered duty
+* Your total number of creditable years of service
+* The duration of any lost time
+* The name of the command providing the information
 
 </div>
 </li>
@@ -115,12 +111,12 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 
 If you’re a **surviving spouse** who qualifies for home loan benefits, you’ll need the Veteran’s discharge documents (DD214)—if available—and:
 
-**If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll need to fill out and send a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
+**If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll need to fill out and send us a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
 [Download VA Form 26-1817](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf) 
 
 **Or**
 
-**If you’re not receiving DIC benefits,** you’ll need to send all of these:
+**If you’re not receiving DIC benefits,** you’ll need to send us all of these:
 - A completed Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
 - A copy of your marriage license, **and**
 - The Veteran’s death certificate
