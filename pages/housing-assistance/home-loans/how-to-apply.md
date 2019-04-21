@@ -121,7 +121,7 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
 **Or**
 
 **If you’re not receiving DIC benefits,** you’ll need to send all of these:
-- An Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
+- A completed Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
 - A copy of your marriage license, **and**
 - The Veteran’s death certificate
 
