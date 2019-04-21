@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Get A Copy Of Your VA Benefits Award  | Veterans Affairs
+title: Download VA Benefit Letters | Veterans Affairs
 heading: Download VA benefit letters
 display_title: Download VA Benefit Letters
 description: Download many of your VA award letters for benefits, eligibility, and service history after verifying your address. Learn how you can sign in to ebenefits to request a Certificate of Eligibility (COE) or your discharge papers (DD214). 
