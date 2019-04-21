@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Cash-Out Refinance Loan
-display_title: Cash Out Refinance Loan
+display_title: Cash-Out Refinance Loan
 concurrence:
 order: 2
 aliases:
@@ -58,7 +58,7 @@ The Consumer Financial Protection Bureau’s home loan toolkit can help. <br>
 
 You’ll go through a private bank, mortgage company, or credit union—not directly through us—to get a cash-out refinance loan. Terms and fees may vary, so contact several lenders to check out your options.
 
-**Warning:** Be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
+**Note:** Be careful when considering home loan refinance offers. Claims that you can skip payments or get very low interest rates or other terms that sound too good to be true may be signs of a misleading offer. <br>
 [Learn more about the signs of misleading refinance offers](https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/)
 
 </li>
@@ -97,15 +97,17 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 ## Will I have to pay any loan fees?
 If you’re using a VA home loan to purchase a home or refinance a mortgage, you’ll need to pay a funding fee. The funding fee is a percentage of your loan amount. You can choose to finance the funding fee or pay it when you pay your closing costs.
 
-Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount.
-
-**Will I always have to pay a funding fee?**
 **You don’t have to pay a funding fee if one of these is true. You’re:**
 
 - Receiving VA compensation pay for a service-connected disability, **or**
 - Eligible to receive VA compensation pay for a service-connected disability, but you’re receiving retirement or active-duty pay instead, **or**
 - The surviving spouse of a Veteran who died while serving or from a service-connected disability 
 
-**Note:** If you’re a second-time VA home loan user and you don’t make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher.<br>
+**Your funding fee will be slightly higher if you're a:**
+
+- Second-time VA home loan user and you don’t make a down payment, **or** 
+- National Guard or Reserve Veteran
+
+**Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount.
 
 [Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
