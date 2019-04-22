@@ -29,14 +29,14 @@ You may be eligible for this program if you and your school meet the requirement
 
 - Served at least 36 months on active duty (either all at once or with breaks in service), **or**
 - Received a Purple Heart on or after September 11, 2001, and were honorably discharged after any amount of service, **or**
-- Received a Fry scholarship on or after August 1, 2018, **or**
+- Received a Fry Scholarship on or after August 1, 2018, **or**
 - Served for at least 30 continuous days (all at once, without a break) on or after September 11, 2001, and were discharged after 60 days with a service-connected disability, **or**
-- Are a dependent child using benefits transferred by a Veteran or a Servicemember who has served for at least 36 months on active duty and qualifies at the 100% level, **or** </br>
-[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/).
+- Are a dependent child using benefits transferred by a Veteran or a service member who has served for at least 36 months on active duty and qualifies at the 100% level, **or** </br>
+[Find out about transferring Post-9/11 GI Bill benefits](/education/transfer-post-9-11-gi-bill-benefits/)
 - Are receiving the Fry Scholarship (beginning August 1, 2018) <br>
-[Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
+[Learn more about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 
-**Note:** At this time, you're not eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty Servicemember or the spouse of an active-duty Servicemember. But, as of August 1, 2022, you may become eligible if you're an active-duty Servicemember who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty Servicemember who qualifies at the 100% level.
+**Note:** At this time, you're not eligible for the maximum benefit rate under the Post-9/11 GI Bill if you're an active-duty service member or the spouse of an active-duty service member. But, as of August 1, 2022, you may become eligible if you're an active-duty service member who qualifies at the 100% level, or the spouse using the transferred benefits of an active-duty service member who qualifies at the 100% level.
 
 #### And your school must meet certain requirements.
 
@@ -45,7 +45,7 @@ You may be eligible for this program if you and your school meet the requirement
 - Hasn't offered the Yellow Ribbon benefit to more than the maximum number of students in their agreement with us, **and**
 - Has certified your enrollment with us and provided Yellow Ribbon Program information
 
-[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp). <br>
+[See the list of schools that offer the Yellow Ribbon Program this year](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp) <br>
 
 </div>
 </div>
@@ -72,7 +72,7 @@ If you qualify, your school will contribute a certain amount toward your extra t
 
 ### Apply for Post-9/11 GI Bill benefits
 
-[Apply for Post-9/11 GI Bill benefits](/education/how-to-apply/). <br>
+[Apply for Post-9/11 GI Bill benefits](/education/how-to-apply/) <br>
 If you qualify for benefits, you’ll get a Certificate of Eligibility (COE).
 
 </li>
@@ -151,7 +151,7 @@ school, and you'll need to pay the remaining $2,000.
 
 **Note:** Your school's agreement may also state that they'll contribute only toward degrees at certain colleges or professional schools, or only for certain degree levels (like undergraduate, graduate, or doctoral degrees). <br>
 
-[Learn more about each school's agreement](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp).
+[Learn more about each school's agreement](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2018.asp)
 
 </div>
 </li>
@@ -213,7 +213,7 @@ If your school has an approved agreement with us and continues to participate in
 - Stay enrolled in the school without a break (following the school's policy), **and**
 - Have money left in your Post-9/11 GI Bill benefits
 
-[Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/).
+[Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/)
 
 **If you transfer to a different school,** your new school needs to offer Yellow Ribbon benefits and accept your application for you to continue in the program. Your first school's decision doesn't affect your new school's decision.
 
@@ -256,7 +256,7 @@ If the school still offers the program, they must continue to give you funding a
 - Stay enrolled in the school without a break (following the school's policy), **and**
 - Have money left in your Post-9/11 GI Bill benefits
 
-[Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/).
+[Check the status of your Post-9/11 GI Bill benefits](/education/gi-bill/post-9-11/ch-33-benefit/)
 
 </div>
 </li>

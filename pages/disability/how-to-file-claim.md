@@ -8,7 +8,7 @@ plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 collection: disability
 children: disabilityApply
-spoke: Get Benefits
+spoke: Get benefits
 majorlinks:
   - heading: More information about filing disability claims
     links:
@@ -127,8 +127,8 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 #### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">125.7 days</span>
-<span class="description">Average number of days to complete disability-related claims in February 2019</span>
+<span class="number">123.4 days</span>
+<span class="description">Average number of days to complete disability-related claims in March 2019</span>
 </div>
 </div>
 </div>
