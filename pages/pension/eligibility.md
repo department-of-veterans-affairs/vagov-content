@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Pension Eligibililty | Veterans Affairs
+title: Veterans Pension Eligibililty
 heading: Veterans Pension Eligibility
 display_title: Eligibility
 description: The Veterans Pension program provides monthly payments to wartime Veterans based on need. Review VA pension eligibility requirements to find out if you qualify based on your age or a permanent and total non-service-connected disability as well as your income and net worth. 
