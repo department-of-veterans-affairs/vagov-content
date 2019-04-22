@@ -29,7 +29,7 @@ A VA Survivors Pension offers monthly payments to qualified surviving spouses an
 
 ### Am I eligible for a VA Survivors Pension as a surviving spouse?
 
-You may qualify for a VA Survivors Pension if you haven’t remarried after the Veteran’s death, if the deceased Veteran didn't receive a dishonorable discharge, and if the Veteran’s service meets at least one of the requirements listed below.
+If you haven’t remarried after the Veteran’s death and if the deceased Veteran didn't receive a dishonorable discharge and their service meets at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true. The Veteran:**
 
@@ -59,7 +59,7 @@ Under current law, we recognize the following wartime periods to decide eligibil
 
 ### Am I eligible for a VA Survivors Pension as the child of a deceased wartime Veteran?
 
-You may be able to get this benefit if you’re unmarried and you meet at least one of the requirements listed below.
+If you’re unmarried and you meet at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true:**
 
@@ -86,7 +86,6 @@ Mail it to the Pension Management Center (PMC) for your state. <br>
 Bring your application to a VA regional benefit office near you. <br>
 [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
 
-
 ### With the help of a trained professional
 
 You can work with a trained professional called an accredited representative to get help applying for VA survivors pension benefits. <br>
@@ -94,4 +93,4 @@ You can work with a trained professional called an accredited representative to 
 
 ## How long does it take VA to make a decision?
 
-It depends. We process claims in the order we received them, unless a claim requires priority processing.
+It depends. We process VA Survivors Pension claims in the order we receive them, unless a claim requires priority processing.
