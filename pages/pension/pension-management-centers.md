@@ -8,7 +8,7 @@ description: Find the VA pension management center that serves the state, territ
 keywords: va pension management center
 concurrence: ""
 order: 5
-spoke: More Resources
+spoke: More resources
 aliases:
   - /pension/pension-management-center/
 ---

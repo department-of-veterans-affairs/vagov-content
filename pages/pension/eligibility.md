@@ -9,7 +9,7 @@ keywords: veterans pension, non service connected pension, non service connected
 concurrence:
 order: 1
 children: pensionEligibility
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: Other VA pension benefits
     links:
@@ -62,6 +62,7 @@ If you meet the VA pension eligibility requirements listed below, you may be eli
 
 ### How do I know if I served under an eligible wartime period? 
 Under current law, we recognize the following wartime periods to decide eligibility for VA pension benefits:
+
 
 - Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)
 - World War I (April 6, 1917, to November 11, 1918)

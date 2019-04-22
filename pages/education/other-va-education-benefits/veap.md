@@ -44,9 +44,9 @@ Money for tuition
     <h3>Make sure we've approved your selected program</h3><br>
     If you have questions, we can help you and your school understand the requirements.
     <ul>
-      <li>Call our Education Call Center at <a href="tel:+18884424551">1-888-442-4551</a>. If you have hearing loss, call TTY: 711.</li>
+      <li>Call our Education Call Center at <a href="tel:+18884424551">888-442-4551</a>. If you have hearing loss, call TTY: 711.</li>
       <li>Or go to a VA regional benefit office near you. <br>
-        <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a>.</li>
+        <a href="/find-locations/?facilityType=benefits">Find your nearest VA regional benefit office</a></li>
     </ul>
   </li>
   <li class="process-step list-two">
@@ -54,9 +54,9 @@ Money for tuition
     <br>
     <h4>If you haven't started training yet</h4><br>
     Submit an Application for VA Education Benefits (VA Form 22-1990) online. <br>
-    <a href="/education/apply-for-education-benefits/application/1990/introduction/">Apply for education benefits online now</a>. <br>
+    <a href="/education/apply-for-education-benefits/application/1990/introduction/">Apply for education benefits online now</a> <br>
     You can also apply by mail, in person, or with the help of a trained professional. <br>
-    <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a>.<br>
+    <a href="/education/how-to-apply/">Learn more about how to apply for education benefits</a><br>
     <br>
     <b>Note:</b><br>
     <b>If you're on active duty right now,</b> you'll need to have your Education Services Officer approve your enrollment and your Commanding Officer verify your service. <br>
@@ -64,7 +64,7 @@ Money for tuition
     <br>
     <h4>If you've already started training</h4><br>
     Take your VA Form 22-1990 application and the member copy of your DD214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
-    <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>.
+    <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>
   </li>
   <li class="process-step list-three">
   <h3>Verify your enrollment</h3><br>
@@ -83,13 +83,13 @@ Money for tuition
 - [Non-college degree programs (technical or vocational courses)](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)
 - [Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)
 - [On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)
-- [Test Fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+- [Test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
 - [Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)
 - [Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)
 
 **In some cases, we'll help you pay for these types of courses:**
 - Remedial courses (classes some students must take to build up their basic skills in math, reading, or English before they can take regular college courses),
-- Deficiency courses (classes some student must take in order to be admitted to a certain college)
+- Deficiency courses (classes some students must take in order to be admitted to a certain college)
 - Refresher courses (brief courses that help people review and improve their knowledge in a certain subject area)
 
 ### How many months of benefits can I get, and how long do I have to use them?
@@ -105,8 +105,8 @@ You have 10 years from your release from active duty to use your VEAP benefits. 
 Yes. You can withdraw the money in your VEAP account if you don’t meet basic qualifying requirements or if you formally ask for a refund.
 
 To ask for a refund, complete an Application for Refund of Educational Contributions (VA Form 22-5281).<br>
-[Download VA Form 22-5281](https://www.vba.va.gov/pubs/forms/VBA-22-5281-ARE.pdf).
+[Download VA Form 22-5281](https://www.vba.va.gov/pubs/forms/VBA-22-5281-ARE.pdf)
 
 Send the form to your nearest VA regional benefit office. <br>
-[Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+[Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 

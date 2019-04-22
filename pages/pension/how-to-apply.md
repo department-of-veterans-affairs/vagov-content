@@ -8,7 +8,7 @@ description: Find out how to apply for a VA Pension online, by mail, in person, 
 keywords: how to apply for va pension
 concurrence: ""
 order: 2
-spoke: Get Benefits
+spoke: Get benefits
 children: pensionApplication
 relatedlinks:
   - heading: Other pension benefits

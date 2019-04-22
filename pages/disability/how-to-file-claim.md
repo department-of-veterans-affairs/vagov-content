@@ -8,7 +8,7 @@ plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 collection: disability
 children: disabilityApply
-spoke: Get Benefits
+spoke: Get benefits
 majorlinks:
   - heading: More information about filing disability claims
     links:

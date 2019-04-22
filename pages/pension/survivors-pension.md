@@ -8,7 +8,7 @@ description: A VA Survivors Pension (formerly called a "VA death pension" and so
 keywords: va survivors pension, widows pension, va widows pension, va death pension
 concurrence: ""
 children: pensionSurvivors
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: More information for survivors
     links:
