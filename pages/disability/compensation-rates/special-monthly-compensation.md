@@ -53,8 +53,8 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 **Levels L through O** cover specific disabilities and situations. <br>
 [Learn how we assign SMC levels L through O](#l-o-details)<br>
-**Level R** may apply if you need daily help from another person for basic daily needs (like dressing, eating, and bathing).
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
+**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing) <br>
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. 
 
 
 <ul class="usa-accordion" aria-multiselectable="true">
@@ -148,8 +148,8 @@ Your total monthly payment would be $5,227.05 + $156.32 = <strong>$5,383.37</str
 
 **Levels L through O** cover specific disabilities and situations. <br>
 [Read more about SMC levels L through O](#l-o-details)<br>
-**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
+**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing). <br>
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. 
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-l-n">SMC-L through SMC-N</button>
