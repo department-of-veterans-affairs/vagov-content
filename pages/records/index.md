@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Records | Veterans Affairs
+title: VA Records
 heading: VA records
 display_title: Records
-description: Manage your health care and benefits by accessing your VA records and documents online. Download your VA letters, Get Veteran ID Cards, get your VA medical records, request your DD214, view your payment history, and learn how to apply for a certificate of eligibility. 
+description: Access your VA records and documents online to manage your health and benefits. Download your VA letters, Get Veteran ID Cards, get your VA medical records, request your DD214, view your payment history, and learn how to apply for a certificate of eligibility. 
 keywords: va records
 concurrence: complete
 lastupdate:
