@@ -41,7 +41,7 @@ View current benefit rates that may apply to you if you qualify for an automobil
 
 **Notes:**
 
-- Rate changes are payable the August after they take effect. So the new clothing allowance rate is payable as of August, 2019.
+- Rate changes are payable the August after they take effect. So the new clothing allowance rate is payable as of August 2019.
 
 - For the Medal of Honor pension, we’re required by law to match the percentage of cost-of-living adjustments made to Social Security benefits. These adjustments help to make sure that the purchasing power of your benefits keeps up with inflation. You can get the latest cost-of-living adjustment (COLA) information on the [Social Security Administration’s (SSA) website](http://www.socialsecurity.gov/cola/).
 
