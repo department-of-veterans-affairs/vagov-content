@@ -13,7 +13,7 @@ order: 4
 
 <div class="va-introtext">
 
-VA Aid and Attendance benefits or Housebound allowances for qualified Veterans and survivors provide monthly payments added to the amount of your monthly VA pension. If you need help with daily activities, or you’re housebound, find out if you qualify.
+VA Aid and Attendance benefits and Housebound benefits provide monthly payments added to the amount of a monthly VA pension for qualified Veterans and survivors. If you need help with daily activities, or you’re housebound, find out if you qualify.
 
 </div>
 
@@ -21,7 +21,9 @@ VA Aid and Attendance benefits or Housebound allowances for qualified Veterans a
 
 ### Am I eligible for VA Aid and Attendance or Housebound benefits as a Veteran or survivor?
 
-**You may be eligible for VA Aid and Attendance** if you get a VA pension and you meet at least one of the requirements listed below.
+#### VA Aid and Attendance eligibility
+
+If you get a VA pension and you meet at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true:**
 
@@ -30,7 +32,9 @@ VA Aid and Attendance benefits or Housebound allowances for qualified Veterans a
 - You are a patient in a nursing home due to the loss of mental or physical abilities related to a disability, **or**
 - Your eyesight is limited (even with glasses or contact lenses you have only 5/200 or less in both eyes; or concentric contraction of the visual field to 5 degrees or less)
 
-**You may qualify for Housebound benefits** if you get a VA pension and you spend most of your time in your home because of a permanent disability (a disability that doesn’t go away).
+#### Housebound benefits eligibility
+
+If you get a VA pension and you spend most of your time in your home because of a permanent disability (a disability that doesn’t go away), you may be eligible for this benefit.
 
 **Note:** You can’t get Aid and Attendance benefits and Housebound benefits at the same time.
 
