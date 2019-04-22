@@ -18,7 +18,9 @@ Find out how to choose your VA life insurance beneficiary. Your VA Life Insuranc
 
 ## When should I review my life insurance beneficiary information? 
 
-You should review your VA life insurance beneficiary <strong>at least once a year</strong>, or when one of these life events occurs:
+You should review your VA life insurance beneficiary <strong>at least once a year</strong>. <br><br>
+
+You should also review your life insurance beneficiary when one of these life events occurs:
 
 - Marriage
 - Divorce
@@ -41,9 +43,9 @@ Review and make changes to your SGLI coverage online using the SGLI Online Enrol
 Follow these steps to review or make changes to your VA life insurance beneficiary:
 
 <ol class="process">
-  <li class="process-step list-one"><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES</a></li>
-  <li class="process-step list-two">Select "Benefits"</li>
-  <li class="process-step list-three">Select “Life Insurance SOES--SGLI Online Enrollment System”</li>
+  <li class="process-step list-one"><h4>Sign in to SOES</h4><br><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES</a></li>
+  <li class="process-step list-two"><h4>Select "Benefits"</h4><br> Click on the Benefits tab.</li>
+  <li class="process-step list-three"><h4>Enter SGLI online enrollment</h4><br> Select “Life Insurance SOES--SGLI Online Enrollment System.”</li>
 </ol>
 
 #### If you have part-time SGLI coverage or you're in the Public Health Service:
@@ -79,7 +81,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
   <li class="process-step list-one"><h4>Fill out a VGLI Beneficiary Designation/Change Form</h4><br>
     <a href="https://www.benefits.va.gov/INSURANCE/forms/8721.htm">Download a VGLI Beneficiary Designation/Change Form (VA Form SGLV-8721)</a>.</li>
   <li class="process-step list-two"><h4>Send your completed form to Office of Servicemembers' Group Life Insurance (OSGLI)</h4><br>
-    Send your claim to OSGLI by mail or by fax.
+    Send your form to OSGLI by mail or by fax.
     <br>
     <br>
     <h5>By mail</h5>
@@ -91,7 +93,7 @@ Follow these steps to review or make changes to your VA life insurance beneficia
 </p>
     <br>
     <h5>By fax</h5>
-    Fax your claim to 800-236-6142 (<a href="tel:+18002366142">800-236-6142</a>).
+    Fax your form to 800-236-6142 (<a href="tel:+18002366142">800-236-6142</a>).
   </li>
 </ol>
 </div>
