@@ -6,7 +6,7 @@ display_title: File a TSGLI appeal
 collection: lifeInsurance
 lastupdate:
 order: 6
-spoke: Manage Benefits
+spoke: Manage benefits
 aliases:
 
 ---

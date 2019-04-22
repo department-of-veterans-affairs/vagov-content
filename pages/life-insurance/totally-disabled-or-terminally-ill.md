@@ -5,7 +5,7 @@ title: Benefits for policyholders who are totally disabled or terminally ill
 display_title: Totally disabled or terminally ill
 concurrence: 
 order: 2
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: More information about your benefits
     links:
@@ -74,7 +74,10 @@ A waiver of premiums. This means you won’t have to pay your life insurance pre
 You’ll need to apply for these benefits as soon as possible after becoming totally disabled. We’ll decide if you qualify, and we’ll notify you of the decision.
 
 To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). Mail it to the address listed on the form. <br>
-[Download VA Form 29-357](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) 
+
+[Download VA Form 29-357](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) <br>
+
+
 
 <hr>
 
@@ -84,8 +87,8 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 <div class="feature">
 
+
 ### Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?
- 
 You or your spouse may be able to get benefits early if you meet both of the requirements listed below.
 
 **Both of these must be true:**
@@ -115,7 +118,7 @@ Only the insured service member or Veteran may apply for accelerated benefits. N
 **If you’re an SGLI or VGLI policyholder,** fill out a Claim for Accelerated Benefits (SGLV 8284). <br>
 [Download the Claim for Accelerated Benefits form](https://benefits.va.gov/INSURANCE/forms/8284.htm)
 
-- **If you’re still on active duty or you’re a Reservist,** turn in the form to your service branch. They will need to fill out part of the form. 
+- **If you’re still on active duty or you’re a Reservist,** turn in the form to your service branch. They will need to fill out part of the form.
 
 - **If you’re a Veteran,** have your doctor fill out their part of the form, then send the completed form to:
 
@@ -129,14 +132,16 @@ Or, fax the form to 877-832-4943.
 
 **If you’re covered under Family SGLI,** fill out a Claim for Accelerated Benefits (SGLV 8284A). <br>
 [Download the Claim for Accelerated Benefits form](https://benefits.va.gov/INSURANCE/forms/8284A.htm)
- 
+<br>
+
 You’ll need to fill out one part of the application, and your doctor will need to fill out another part of it.
- 
+
 We pay the remaining amount of the face value of the insurance policy to your designated beneficiary or beneficiaries (the people you’ve picked to get the money from your policy) upon your death. In the case of a terminally ill spouse, we pay the rest of the insurance policy to you upon your spouse’s death.
+
  
 ### Where can I find more information?
  	
 [Read chapter 5 of the Servicemembers’ and Veterans’ Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp)
-
+<br>
 [Contact the Office of Servicemembers' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp)
 

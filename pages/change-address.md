@@ -7,7 +7,7 @@ heading: Change your address on file with VA
 description: Find out how to change your address on file with VA, and update other contact information in your VA.gov profile. This will update your information across several VA benefits and services, including VA health care, disability compensation, and pension benefits.
 keywords: va address change, change of address va, va benefits change of address, va change of address form, va address change form, how do i change my address with the va, va benefits address change
 hidesidenav: true
-relatedlinks: 
+relatedlinks:
   - heading: How to change other information related to your VA benefits
     links:
     - url: /health-care/update-health-information/
@@ -21,15 +21,15 @@ relatedlinks:
       description: Manage your VA life insurance policy online.
     - url: /discharge-upgrade-instructions/
       title: How to apply for a discharge upgrade
-      description: Answer a series of questions to get customized step-by-step instructions on how to apply for a discharge upgrade or correction. 
-         
+      description: Answer a series of questions to get customized step-by-step instructions on how to apply for a discharge upgrade or correction.
+
 lastupdate:
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services. 
+Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
 
 </div>
 
@@ -38,7 +38,7 @@ Find out how to change your address and other contact information in your VA.gov
 <h2 itemprop="name">What's the advantage of using my VA.gov profile to change my address?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-  
+
 When you change the address and other contact information in your VA.gov profile, it updates across these VA benefits and services:
 
 <ul>
@@ -46,7 +46,7 @@ When you change the address and other contact information in your VA.gov profile
   <li>Disability compensation</li>
   <li>Pension benefits</li>
   <li>Claims and appeals</li>
-  <li>Vocational Rehabilitation and Employment (VR&E)</li>  
+  <li>Vocational Rehabilitation and Employment (VR&E)</li>
 </ul>
 
 </div>
@@ -60,7 +60,7 @@ When you change the address and other contact information in your VA.gov profile
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one"><strong><a href="https://api.id.me/en/session/new">Sign in to VA.gov</a></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
+  <li class="process-step list-one"><strong><button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq/#verify">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> Once you're signed in, you can find your profile by clicking on the icon with your name in the top right corner of any VA.gov page.</li>
   <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. You can also add or edit other contact, personal, and military service information.
@@ -72,12 +72,12 @@ When you change the address and other contact information in your VA.gov profile
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h2 itemprop="name">Will this update my address for all VA benefits and services?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-No, not at this time. Some of our departments keep your contact information in their own separate records. 
+No, not at this time. Some of our departments keep your contact information in their own separate records.
 
 If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information.
 
@@ -89,7 +89,7 @@ If you use any of the VA benefits or services listed below, you’ll need to con
   <li>Call us at 888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.</li>
   <li>Or sign in to our <a href="https://www.gibill.va.gov/wave/index.do">online verification system (called "WAVE")</a>. Once you're signed in, click on the <strong>Change address</strong> link.</li>
   </ul>
-  
+
 <h4>For home loan benefits</h4>
 Call us at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. We can connect you to the nearest VA regional office with loan guaranty staff to update your information.
 
@@ -103,7 +103,7 @@ Call us at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday throug
       Regional Office and Insurance Center <br>
       PO Box 7208 (VMLI) <br>
       Philadelphia, PA 19101 <br>
-  </li>  
+  </li>
 </ul>
 
 <h4>For CHAMPVA</h4>
@@ -118,7 +118,7 @@ Call us at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday throug
       Denver, CO 80246-9063<br>
     </p>
   </li>
-  </ul>    
+  </ul>
 
 <h4>For the Foreign Medical Program</h4>
 

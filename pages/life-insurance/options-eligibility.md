@@ -8,7 +8,7 @@ template: detail-page
 no_article_bottom_padding: true
 children: lifeInsuranceOptions
 order: 1
-spoke: Get Benefits
+spoke: Get benefits
 majorlinks:
   - heading: VA life insurance options
     links:
