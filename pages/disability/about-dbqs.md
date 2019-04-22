@@ -1,10 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 
-heading: About Disability Benefits Questionnaires (DBQs) 
+title: About VA DBQ Forms For Disability Claims 
+heading: About VA DBQ forms (disability benefits questionnaires) 
 display_title: About DBQs
-description: 
+description: Find out how VA DBQ forms (VA disability benefits questionnaires) can help us determine your VA disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
+keywords: dbq, va dbq, va dbq forms
 concurrence: 
 spoke: More Resources
 order: 6
@@ -26,28 +27,22 @@ relatedlinks:
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
       title: Fully developed claims
       description: File a fully developed claim and get a faster decision on your disability benefits claim.
-    - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge claim
-      description: If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military.
-    - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
-      title: Disabilities that appear within 1 year after discharge
-      description: You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service. Learn how to apply.
 ---
 <div class="va-introtext">
 
-Find out how Disability Benefits Questionnaires (DBQs) can help us determine your VA disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
+Find out how VA DBQ forms (disability benefits questionnaires) can help us determine your VA disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
 
 </div>
 
-## What are Disability Benefits Questionnaires (DBQs), and why might I want to use them?
+## What are VA DBQ forms, and why might I want to use them?
 
-DBQs are downloadable forms that we use to gather information from health care providers about service-connected illnesses and injuries, and how they affect your ability to function. This information helps us to determine your [VA disability rating](/disability/about-disability-ratings/) (a rating that measures how severe your disability is). 
+VA DBQ forms are downloadable forms that we use to gather information from health care providers about service-connected illnesses and injuries, and how they affect your ability to function. This information helps us to determine your [VA disability rating](/disability/about-disability-ratings/) (a rating that measures how severe your disability is). 
 
-DBQs can speed up the process for deciding your disability compensation claim or pension benefits application. This is because the standardized forms make it easier for your health care provider to submit clear, accurate information. When you submit a DBQ as part of a [fully developed claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/), we get exactly what we need to make a decision. 
+Using a VA DBQ can speed up the process for deciding your disability compensation claim or pension benefits application. This is because the standardized forms make it easier for your health care provider to submit clear, accurate information. When you submit a DBQ as part of a [fully developed claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/), we get exactly what we need to make a decision. 
 
-DBQs also give you more control over the claims process because you can take DBQs to any health care provider you'd like, at your expense, for most conditions.
+VA DBQ forms also give you more control over the claims process because you can take your DBQ to any health care provider you'd like, at your expense, for most conditions.
 
-### Do I have to use DBQs to file my claim?
+### Do I have to use a DBQ to file my claim?
 
 No. DBQs can help speed up the claim process, but they're not mandatory.
 
@@ -81,9 +76,9 @@ This depends on the illness or injury you're claiming as a disability. It can ta
 
 ------
 
-## How do I find and subnmit a DBQ form?
+## How do I find and submit a VA DBQ?
 
-Follow the steps below to find and submit your DBQ form.
+Follow the steps below to find and submit your DBQ.
 
 <ol class="process">
 <li class="process-step list-one">
@@ -100,7 +95,7 @@ Follow the steps below to find and submit your DBQ form.
   
 ### Give the DBQ to your health care provider
 
-**We suggest emailing the form to your provider's office.** When your provider fills out the form electronically, we can read the information more easily. 
+**We suggest emailing the DBQ PDF to your provider's office.** When your provider fills out the form electronically, we can read the information more easily. 
 
 If you can't send the form by email, you can also print it out and take it to your appointment so your provider can fill it out by hand. Please ask your provider to make sure all information is readable.
 
@@ -120,25 +115,34 @@ You'll want to always keep copies of all doctor's reports, test results, and any
 
 <li class="process-step list-four">
   
-### File the completed DBQ
+### Submit your completed DBQ
 
 You or your health care provider can send the completed form to us in one of these ways:
 
-- Fax the form to your nearest VA regional office. <br>
-[Find your regional office’s fax number](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
-- Bring the form in person to your nearest VA regional office.
--	Or mail the form to us at:
+#### By mail
+
+Mail the form to us at:
 <p class="va-address-block">
 Department of Veterans Affairs<br>
 Claims Intake Center<br>
 P.O. Box 4444<br>
 Janesville, WI 53547-4444<br>
-</p>  
-  
+</p> 
+
+#### By fax
+
+Fax the form to your nearest VA regional office. <br>
+[Find your regional office’s fax number](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
+
+#### In person 
+
+Bring the form in person to your nearest VA regional office. <br>
+[Find your regional office’s address](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
+ 
 </li>
 </ol>
 
-[Learn more about the claim process](/disability/after-you-file-claim/).
+[Learn more about the claim process](/disability/after-you-file-claim/)
 
 
 ### What if I don’t see a DBQ for the condition I’m claiming, or have other questions?
