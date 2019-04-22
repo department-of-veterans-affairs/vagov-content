@@ -91,7 +91,7 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 
 ## Historic VA Survivors Pension rate tables
 
-View VA Survivors Pension rate tables from past years:
+View VA Survivors Pension rate tables from past years: <br>
 [2017](https://www.benefits.va.gov/PENSION/rates_survivor_pen17.asp) |
 [2016](https://www.benefits.va.gov/PENSION/rates_survivor_pen16.asp) |
 [2014](https://www.benefits.va.gov/PENSION/rates_survivor_pen14.asp) |
