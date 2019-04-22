@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Fully Developed Claim for VA Pension | Veterans Affairs
+title: Fully Developed Claim for VA Pension
 heading: Fully Developed Claim for VA Pension
 display_title: Fully Developed Claims Program
 description: Find out how to file a fully developed claim to get a faster decision on your VA pension claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
