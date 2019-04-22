@@ -495,7 +495,7 @@ Select an SMC letter below to learn more about the specific situations and combi
 - Complete paralysis of both legs that's resulted in being unable to control your bladder or bowels
 
 <strong>Or you have:</strong>
-- Hearing loss in both ears (with at least one ear’s deafness caused by military service) that's rated as 60% or more disabling, and you have blindness in both eyes<strong>or</strong> 
+- Hearing loss in both ears (with at least one ear’s deafness caused by military service) that's rated as 60% or more disabling, and you have blindness in both eyes, <strong>or</strong> 
 - Hearing loss in both ears (with at least one ear’s deafness caused by military service) that's rated as 40% or more disabling, and you have blindness in both eyes with only the ability to perceive light, <strong>or</strong> 
 - Total deafness in one ear as well as blindness in both eyes with only the ability to perceive light 
 
