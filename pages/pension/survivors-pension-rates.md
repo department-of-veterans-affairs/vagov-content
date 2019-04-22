@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Survivors Pension Benefit Rates | Veterans Affairs
+title: VA Survivors Pension Benefit Rates
 heading: VA Survivors Pension benefit rates
 display_title: Survivors Pension Rates
 description: Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
