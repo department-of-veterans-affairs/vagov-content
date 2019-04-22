@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Survivors Pension | Veterans Affairs
+title: VA Survivors Pension
 heading: VA Survivors Pension
 display_title: Survivors Pension
 description: A VA Survivors Pension (formerly called a "VA death pension" and sometimes called a "VA widows pension") offers monthly payments to qualified survivors of wartime Veterans. Find out if you're eligible and how to apply.
