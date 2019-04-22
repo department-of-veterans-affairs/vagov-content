@@ -14,10 +14,10 @@ At VA, we take your privacy seriously. That's why we collect only the personal i
 
 <ul>
   <li><a href="#privacy">VA.gov Privacy Policy</a></li>
-  <li><a href="#privacy-services">VA Privacy Services</a></li>
-  <li><a href="#account">Account Policies</a></li>
-  <li><a href="#other">Other VA Policies</a></li>
-  <li><a href="#links">Federally Required Links</a></li>
+  <li><a href="#privacy-services">VA privacy services</a></li>
+  <li><a href="#account">Account policies</a></li>
+  <li><a href="#other">Other VA policies</a></li>
+  <li><a href="#links">Federally required links</a></li>
 </ul>
 
 <span id="privacy"></span>
@@ -128,7 +128,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 
 <span id="privacy-services"></span>
 
-<h3>VA Privacy Services</h3>
+<h3>VA privacy services</h3>
 
 ------
 
