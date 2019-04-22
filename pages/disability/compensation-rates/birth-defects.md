@@ -13,7 +13,7 @@ relatedlinks:
     links:
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/
       title: Agent Orange exposure
-      description: Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+      description: Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange, a toxic chemical used to clear trees and plants during the war.
     - url: /disability-benefits/apply/form-526-disability-claim/introduction/ 
       title: File for a VA disability increase
       description: If your service-connected disability has gotten worse, find out how to file a claim to increase your disability rating.
