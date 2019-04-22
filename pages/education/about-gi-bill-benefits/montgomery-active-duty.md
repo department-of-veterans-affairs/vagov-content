@@ -16,7 +16,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. 
+The Montgomery GI Bill Active Duty (MGIB-AD) can help you pay for education and training programs. If you've served at least 2 years on active duty, find out if you qualify for the MGIB-AD program. 
 
 </div>
 
