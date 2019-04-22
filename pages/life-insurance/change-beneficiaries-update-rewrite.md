@@ -41,8 +41,8 @@ It's important to make sure your life insurance beneficiary information is up to
 Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). Follow these steps to review or make changes to your VA life insurance beneficiary:
 
 <ol class="process">
-  <li class="process-step list-one"><h4>Sign in to SOES</h4><br><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES</a></li>
-  <li class="process-step list-two"><h4>Select "Benefits"</h4><br> Click on the Benefits tab.</li>
+  <li class="process-step list-one"><h4>Sign in to SOES</h4><br><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES.</a></li>
+  <li class="process-step list-two"><h4>Choose "Benefits"</h4><br> Select the Benefits tab.</li>
   <li class="process-step list-three"><h4>Enter SGLI online enrollment</h4><br> Select “Life Insurance SOES--SGLI Online Enrollment System.”</li>
 </ol>
 
@@ -54,7 +54,7 @@ Review and make changes to your SGLI coverage online using the SGLI Online Enrol
   <li class="process-step list-three">Select “Life Insurance SOES--SGLI Online Enrollment System”</li>
 </ol>
 
-**Note:** You can name anyone as your SGLI beneficiary without their permission, but your spouse will be notified by VA if you name a beneficiary that isn’t them.
+**Note:** You can name someone as your SGLI beneficiary without their permission, but your spouse will be notified by VA if you name a beneficiary that isn’t them.
 
 
 </div>
@@ -122,23 +122,23 @@ Review and make changes to your SGLI coverage online using the SGLI Online Enrol
   </li>
 </ol>
 
-<h3>Changing life insurance information for (on behalf of) a Veteran</h3>
+<h3>Changing life insurance information for a Veteran</h3>
 
 If you’re changing information for (on behalf of) a competent Veteran, review the following options and decide which one applies to you: <br>
 
-- <strong>If the Veteran can sign their name,</strong> have them fill out  a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)<br>
+- <strong>If the Veteran can sign their name,</strong> have them fill out a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) and sign their name<br>
 - <strong>If the Veteran can’t sign their name,</strong> fill out a Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are not beneficiaries, must witness the mark and sign the form.<br>
 - <strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
  
 <h3>Changing life insurance beneficiary information for (on behalf of) a Veteran</h3>
 
-Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. <br><strong>If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them:</strong> 
+Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran. <br><br><strong>If you're a court-appointed guardian, follow the steps below to change your Veteran's life insurance beneficiary information for them:</strong> 
 
 <ol class="process">
   <li class="process-step list-one"><h4>Get a court order</h4><br>
    The court-appointed guardian must get a special court order that allows them to do this. Contact your state court system to learn more about getting special court orders for incompetent Veterans.</li>
   <li class="process-step list-two"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
-  Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</li>.
+  <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Download a Designation of Beneficiary and Optional Settlement form (VA Form 29-336)</a>.</li>
  <li class="process-step list-three"><h4>Include all the documents needed</h4><br>
    Include a copy of the guardianship documents and the court order.</li>
    <li class="process-step list-four"><h4>Send your completed form to us</h4><br>
