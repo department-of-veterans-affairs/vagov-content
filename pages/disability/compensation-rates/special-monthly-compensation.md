@@ -42,8 +42,8 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 | SMC letter designation  | Monthly payment | How this payment variation works | 
 | -- | -- |-- |
-| **SMC-K** | $108.57 | If you qualify for SMC-K, we add this rate to your basic disability compensation rate for any disability rating from 0% to 100% . We also add this rate to all SMC basic rates except SMC-O, SMC-Q, and SMC-R. You may receive one to 3 SMC-K awards in addition to basic and SMC rates. |
-| **SMC-Q** | $67.00 | This is a protected rate that we haven't awarded since August 19, 1968. If we awarded you an MC-Q designation, we pay this rate in place of your basic disability compensation rate.|
+| **SMC-K** | $108.57 | If you qualify for SMC-K, we add this rate to your basic disability compensation rate for any disability rating from 0% to 100%. We also add this rate to all SMC basic rates except SMC-O, SMC-Q, and SMC-R. You may receive 1 to 3 SMC-K awards in addition to basic and SMC rates. |
+| **SMC-Q** | $67.00 | This is a protected rate that we haven't awarded since August 19, 1968. If we awarded you an SMC-Q designation, we pay this rate in place of your basic disability compensation rate.|
 
 </div>
 </ul>
@@ -53,8 +53,9 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 **Levels L through O** cover specific disabilities and situations. <br>
 [Learn how we assign SMC levels L through O](#l-o-details)<br>
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 **Level R** may apply if you need daily help from another person for basic daily needs (like dressing, eating, and bathing).
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
+
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-l-n">SMC-L through SMC-N rates</button>
@@ -68,9 +69,9 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 | -- | -- |-- |-- | -- | -- | 
 | **Veteran alone (no dependents)** | $3,804.04 | $4,000.69 | $4,198.14 | $4,486.58 | $4,775.68 |
 | **Veteran with spouse (no parents or children)** | $3,974.49 | $4,171.14 | $4,368.59 | $4,657.03 | $4,946.13 |
-| **Veteran with spouse and one parent (no children)** | $4,111.28 | $4,307.93 | $4,505.38 | $4,793.82 | $5,082.92 |
+| **Veteran with spouse and 1 parent (no children)** | $4,111.28 | $4,307.93 | $4,505.38 | $4,793.82 | $5,082.92 |
 | **Veteran with spouse and 2 parents (no children)** | $4,248.07 | $4,444.72 | $4,642.17 | $4,930.61 | $5,219.71 |
-| **Veteran with one parent (no spouse or children)** | $3,940.83 | $4,137.48 | $4,334.93 | $4,623.37 | $4,912.47 |
+| **Veteran with 1 parent (no spouse or children)** | $3,940.83 | $4,137.48 | $4,334.93 | $4,623.37 | $4,912.47 |
 | **Veteran with 2 parents (no spouse or children)** | $4,077.62 | $4,274.27 | $4,471.72 | $4,760.16 | $5,049.26 |
 
 <h5>Added amounts</h5>
@@ -92,7 +93,7 @@ First find your basic SMC rate. Then look at the <strong>Added amounts</strong> 
 
 <strong>For example:</strong> If you were a Veteran with a spouse who was receiving Aid and Attendance, and you had an SMC-M designation, you would start with the basic rate of $4,368.59 for a Veteran with spouse (no parents or children). Then you would add the $156.32 rate for a spouse receiving Aid and Attendance. 
 
-Your total monthly payment would be $4,368.59 + $156.32 = <strong>$4,895.42</strong>. <br>
+Your total monthly payment would be $4,368.59 + $156.32 = <strong>$4,524.91</strong>. <br>
 <br>
 <a href="/pension/aid-attendance-housebound/">Learn more about Aid and Attendance benefits and Housebound allowances</a>
 
@@ -110,9 +111,9 @@ Your total monthly payment would be $4,368.59 + $156.32 = <strong>$4,895.42</str
 | -- | -- |-- |-- | -- | -- | 
 | **Veteran alone (no dependents)** | $5,055.60 | $5,338.04 | $7,627.64 | $8,749.09 | $3,421.90 |
 | **Veteran with spouse (no parents or children)** | $5,227.05 | $5,508.49 | $7,798.09 | $8,919.54 | $3,592.35 |
-| **Veteran with spouse and one parent (no children)** | $5,363.84 | $5,645.28 | $7,934.48 | $9,056.33 | $3,729.14 |
+| **Veteran with spouse and 1 parent (no children)** | $5,363.84 | $5,645.28 | $7,934.48 | $9,056.33 | $3,729.14 |
 | **Veteran with spouse and 2 parents (no children)** | $5,500.63 | $5,782.07 | $8,071.67 | $9,193.12 | $3,865.93 |
-| **Veteran with one parent (no spouse or children)** | $5,193.39 | $5,474.83 | $7,764.43 | $8,885.88 | $3,558.69 |
+| **Veteran with 1 parent (no spouse or children)** | $5,193.39 | $5,474.83 | $7,764.43 | $8,885.88 | $3,558.69 |
 | **Veteran with 2 parents (no spouse or children)** | $5,330.18 | $5,611.62 | $7,901.22 | $9,022.67 | $3,695.48 |
 
 <h5>Added amounts</h5>
@@ -147,8 +148,8 @@ Your total monthly payment would be $5,227.05 + $156.32 = <strong>$5,383.37</str
 
 **Levels L through O** cover specific disabilities and situations. <br>
 [Read more about SMC levels L through O](#l-o-details)<br>
-**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 **Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing).
+**Level S** may apply if you can’t leave the house because of your service-connected disabilities. <br>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-l-n">SMC-L through SMC-N</button>
