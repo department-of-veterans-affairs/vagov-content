@@ -13,7 +13,7 @@ order: 4
 
 <div class="va-introtext">
 
-VA Aid and Attendance benefits and Housebound benefits provide monthly payments added to the amount of a monthly VA pension for qualified Veterans and survivors. If you need help with daily activities, or you’re housebound, find out if you qualify.
+VA Aid and Attendance or Housebound benefits provide monthly payments added to the amount of a monthly VA pension for qualified Veterans and survivors. If you need help with daily activities, or you’re housebound, find out if you qualify.
 
 </div>
 
