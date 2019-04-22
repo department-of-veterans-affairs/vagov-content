@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Find Your VA Pension Management Center
-heading: Find Your VA Pension Management Center
+heading: Find your VA Pension Management Center
 display_title: Pension Management Centers
 description: Find the VA pension management center that serves the state, territory, or foreign country you live in. You can mail pension applications to one of our 3 regional VA pension management centers in Philadelphia, Milwaukee, and St. Paul. 
 keywords: va pension management center
