@@ -19,7 +19,7 @@ majorlinks:
         title: Family Servicemembers’ Group Life Insurance (FSGLI)
         description: Add coverage for your spouse and dependent children (children who rely on you for financial support).
       - url: /life-insurance/options-eligibility/tsgli/
-        title: Traumatic Injury Protection Program (TSGLI)
+        title: Traumatic Injury Protection (TSGLI)
         description: Get short-term financial support to help you recover from a severe injury.
       - url: /life-insurance/options-eligibility/vgli/
         title: Veterans’ Group Life Insurance (VGLI)
