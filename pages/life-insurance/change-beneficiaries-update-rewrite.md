@@ -38,9 +38,7 @@ It's important to make sure your life insurance beneficiary information is up to
 <div id="update-sgli" class="usa-accordion-content">
   
 
-Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). 
-<br>
-Follow these steps to review or make changes to your VA life insurance beneficiary:
+Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). Follow these steps to review or make changes to your VA life insurance beneficiary:
 
 <ol class="process">
   <li class="process-step list-one"><h4>Sign in to SOES</h4><br><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES</a></li>
