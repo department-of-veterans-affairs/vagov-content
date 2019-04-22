@@ -8,8 +8,6 @@ title: Privacy, Policies, and Legal Information
 At VA, we take your privacy seriously. That's why we collect only the personal information that you provide to us, and ask you to provide only the information we need to complete your requests. This page explains our website privacy policy, including how we collect, store, use, and disclose your information. You’ll also find other information to help you understand your rights and how we’re complying with federal regulations and user agreements.
 </p>
 
-[Get information about the VA Privacy Service office](https://www.oprm.va.gov/privacy/)
-
 <h3>On this page</h3>
 
 <ul>
@@ -141,7 +139,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://www.va.gov/webpolicylinks.asp"><b>Web Policies</b></a>
+  <a href="https://www.va.gov/webpolicylinks.asp"><b>Web policies</b></a>
  </div> <br>
 
  <div class="link">
@@ -149,11 +147,11 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
  </div> <br>
 
  <div class="link">
-  <a href="https://www.oprm.va.gov/privacy/pia.aspx"><b>Privacy Impact Assessments</b></a>
+  <a href="https://www.oprm.va.gov/privacy/pia.aspx"><b>Privacy impact assessments</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.oprm.va.gov/privacy/systems_of_records.aspx"><b>System of Records Notices</b></a>
+  <a href="https://www.oprm.va.gov/privacy/systems_of_records.aspx"><b>System of records notices</b></a>
  </div> <br>
 
 <span id="account"></span>
@@ -181,15 +179,15 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 ------
 
  <div class="link">
-    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies" target="_blank"><b>eBenefits Policies</b></a>
+    <a href="https://www.ebenefits.va.gov/ebenefits/about/policies" target="_blank"><b>eBenefits policies</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.veteranscrisisline.net/about/privacy-and-security" target="_blank"><b>Veterans Crisis Line Privacy and Security</b></a>
+  <a href="https://www.veteranscrisisline.net/about/privacy-and-security" target="_blank"><b>Veterans Crisis Line privacy and security</b></a>
  </div> <br>
 
  <div class="link">
-  <a href="https://www.veteranscrisisline.net/get-help/text" target="_blank"><b>Veterans Crisis Line Text Terms of Service</b></a>
+  <a href="https://www.veteranscrisisline.net/get-help/text" target="_blank"><b>Veterans Crisis Line text terms of service</b></a>
  </div> <br>
 
   <span id="links"></span>
