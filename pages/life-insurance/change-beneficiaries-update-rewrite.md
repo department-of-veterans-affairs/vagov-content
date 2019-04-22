@@ -126,7 +126,7 @@ Review and make changes to your SGLI coverage online using the SGLI Online Enrol
 
 If you’re changing information for (on behalf of) a competent Veteran, review the following options and decide which one applies to you: <br>
 
-- <strong>If the Veteran can sign their name</strong>, have them fill out a [Designation of Beneficiary and Optional Settlement Form (VA Form 29-336) and sign their name](https://www.benefits.va.gov/INSURANCE/forms/29-336.htm)<br>
+- <strong>If the Veteran can sign their name</strong>, have them fill out a [Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)](https://www.benefits.va.gov/INSURANCE/forms/29-336.htm) and sign their name<br>
 - <strong>If the Veteran can’t sign their name,</strong> fill out a [Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)](https://www.benefits.va.gov/INSURANCE/forms/29-336.htm) for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are not beneficiaries, must witness the mark and sign the form.<br>
 - <strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
  
