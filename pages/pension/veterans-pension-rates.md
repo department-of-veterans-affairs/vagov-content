@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-View current VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for these benefits, the amount you receive will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+View current VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for these benefits, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 
 </div>
 
