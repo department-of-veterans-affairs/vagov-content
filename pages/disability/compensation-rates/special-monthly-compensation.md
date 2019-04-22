@@ -53,7 +53,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 **Levels L through O** cover specific disabilities and situations. <br>
 [Learn how we assign SMC levels L through O](#l-o-details)<br>
-**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing) <br>
+**Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing). <br>
 **Level S** may apply if you can’t leave the house because of your service-connected disabilities. 
 
 
@@ -431,7 +431,7 @@ Select an SMC letter below to learn more about the specific situations and combi
 
 <strong>Or you have total blindness with only the ability to perceive light in one eye, and you have:</strong>
 - Physically lost the other eye, and have deafness in both ears (rated as 10% or 20% disabling), <strong>or</strong>   
-- Total blindness without the ability to perceive light in the other eye, and have deafness in both ears (rated as 10% or 20% disablibg), <strong>or</strong>  
+- Total blindness without the ability to perceive light in the other eye, and have deafness in both ears (rated as 10% or 20% disabling), <strong>or</strong>  
 - Physically lost the other eye, and have lost the use of one foot (rated as less than 50% disabling), <strong>or</strong>   
 - Total blindness without the ability to perceive light in the other eye, and have lost the use of one foot (rated as less than 50% disabling)
 
