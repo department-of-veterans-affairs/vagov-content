@@ -81,17 +81,16 @@ With an IRRRL, you can include these costs in the new loan so you don’t have t
 
 If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. The funding fee is a percentage of your loan amount. You can choose to finance the funding fee or pay it when you pay your closing costs.  
 
-Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount.
-
-### Will I always have to pay a funding fee? 
 **You don’t have to pay a funding fee if one of these is true. You’re:**
 
 - Receiving VA compensation pay for a service-connected disability, **or**
 - Eligible to receive VA compensation pay for a service-connected disability, but you're receiving retirement or active-duty pay instead, **or**
 -	The surviving spouse of a Veteran who died while serving or from a service-connected disability
 
-**Note:** If you're a second-time VA home loan user and you don't make a down payment, or if you’re a National Guard or Reserve Veteran, your funding fee will be slightly higher. <br>
+**Your funding fee will be slightly higher if you’re a:**
 
+- Second-time VA home loan user and you don’t make a down payment, **or**
+- National Guard or Reserve Veteran
+
+**Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount.
 [Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
-
-
