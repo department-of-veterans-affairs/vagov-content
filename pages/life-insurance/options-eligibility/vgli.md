@@ -679,8 +679,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 
 ## What if I need help with my claim? 
 
-If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 800-419-1473, **or** <br>
-<a href="mailto:osgli.osgli@prudential.com"> Email the Prudential Insurance Company</a> 
+If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 800-419-1473 **or** <a href="mailto:osgli.osgli@prudential.com">email the Prudential Insurance Company</a> 
 
 ## Which forms would my family member need?
   - **To request an advance insurance payment for a service member who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
