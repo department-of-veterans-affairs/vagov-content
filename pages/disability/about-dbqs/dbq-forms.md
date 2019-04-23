@@ -27,7 +27,7 @@ box and click “Enter.” You can also search by the form number.
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="blood-conditions">### Blood conditions (hematologic and lymphatic)</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="blood-conditions"><b>Blood conditions (hematologic and lymphatic)</b></button>
 <div id="blood-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -38,7 +38,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="brain-nervous-system">### Brain and nervous system (neurological)</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="brain-nervous-system"><b>Brain and nervous system (neurological)</b></button>
 <div id="brain-nervous-system" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -57,7 +57,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions">### Dental, gum, and oral conditions</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions"><b>Dental, gum, and oral conditions</b></button>
 <div id="dental-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
