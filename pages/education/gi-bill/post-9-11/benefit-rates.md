@@ -3,9 +3,9 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Post-9/11 GI Bill and Other VA Education Benefit Rates
 heading: H1
-display_title: Shows up in the left nav and breadcrumbs
-description: This is the meta description
-concurrence: Date this page gets approved by stakeholders
+display_title:
+description: 
+concurrence: 
 spoke: More information and resources
 order:  
 ---
