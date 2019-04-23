@@ -13,7 +13,8 @@ majorlinks:
     links: 
     - url: https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080119.asp
       title: Post-9/11 GI Bill and Fry Scholarship rates
-      description: The Post-9/11 GI Bill covers many types of education, including undergraduate and graduate degrees, vocational and technical training, and much more. The benefit levels range from 40% to 100%, and benefits are payable for 15 years after your release from active duty. In addition, some dependents of service members may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship), a separate benefit. The rates for the Fry Scholarship are the same as the rates for Post-9/11 GI Bill benefits.
+      description: The Post-9/11 GI Bill covers many types of education, including undergraduate and graduate degrees, vocational and technical training, and much more. The benefit levels range from 40% to 100%, and benefits are payable for 15 years after your release from active duty. 
+In addition, some dependents of service members may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship), a separate benefit. The rates for the Fry Scholarship are the same as the rates for Post-9/11 GI Bill benefits.
     - url: https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100118.asp
       title: Montgomery GI Bill Active Duty (MGIB-AD) rates
       description: If you’ve served at least 2 years on active duty, and meet certain other requirements, you may qualify for benefits through the Montgomery GI Bill Active Duty program, also called MGIB-AD (Chapter 30). You may get up to 36 months of education benefits.
