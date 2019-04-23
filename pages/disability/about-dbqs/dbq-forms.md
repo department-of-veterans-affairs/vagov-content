@@ -257,6 +257,6 @@ your condition, please call <a href="tel:+18008271000">800-827-1000</a>.
 
 [When do my disability ratings go into effect?](/disability/effective-date/)
 
-**Need help understanding your benefits or accessing services?**
-Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387)</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. 
-ET.
+**What if I need help understanding my benefits or accessing services?**
+Call our toll-free hotline at <a href="tel:+18772228387">877-222-VETS (8387)</a>. We're here Monday through Friday, 8:00 a.m.
+to 8:00 p.m. ET.
