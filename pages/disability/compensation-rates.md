@@ -8,7 +8,7 @@ keywords: va disability rates, va compensation rates, va disability compensation
 template: detail-page
 order: 1
 aliases:
-spoke: More Resources
+spoke: More resources
 children: disabilityCompensationRates
 majorlinks:
   - heading: View current VA disability compensation rates
