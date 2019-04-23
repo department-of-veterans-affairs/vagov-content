@@ -24,23 +24,20 @@ relatedlinks:
     - url: /disability/effective-date/
       title: Disability compensation effective dates
       description: When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to that claim. The effective date is the day you can start getting your disability benefits. Learn more about when you can start getting benefits.
-    - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-      title: Fully developed claims
-      description: File a fully developed claim and get a faster decision on your disability benefits claim.
 ---
 <div class="va-introtext">
 
-Find out how VA disability benefits questionnaires (VA DBQs) can help us determine your disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
+Find out how a VA DBQ (disability benefits questionnaire) can help us determine your disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
 
 </div>
 
-## What are VA DBQ forms, and why might I want to use them?
+## What is a VA DBQ, and why might I want to use one?
 
-VA DBQ forms are downloadable forms that we use to gather information from health care providers about service-connected illnesses and injuries, and how they affect your ability to function. This information helps us to determine your [VA disability rating](/disability/about-disability-ratings/) (a rating that measures how severe your disability is). 
+A VA DBQ is a downloadable form that we use to gather information from your health care provider about a specific service-connected illness or injury, and how it affects your ability to function. This information helps us to determine your [VA disability rating](/disability/about-disability-ratings/) (a rating that measures how severe your disability is). 
 
-Using a VA DBQ can speed up the process for deciding your disability compensation claim or pension benefits application. This is because the standardized forms make it easier for your health care provider to submit clear, accurate information. When you submit a DBQ as part of a [fully developed claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/), we get exactly what we need to make a decision. 
+Using a VA DBQ can speed up the process for deciding your disability compensation claim or pension benefits application. This is because the standardized form makes it easier for your health care provider to submit clear, accurate information. When you submit a DBQ as part of a [fully developed claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/), we get exactly what we need to make a decision. 
 
-VA DBQ forms also give you more control over the claims process because, for most conditions, you can take your DBQ to any health care provider you choose.
+VA DBQs also give you more control over the claims process because, for most conditions, you can take your DBQ to any health care provider you choose.
 
 ### Do I have to use a DBQ to file my claim?
 
@@ -48,13 +45,13 @@ No. DBQs can help speed up the claim process, but they're not mandatory.
 
 ### Do I need to go to a VA health care facility to fill out a DBQ?
 
-This depends on the illness or injury you're claiming. For most conditions, you can visit a VA health care facility or any private health care provider you choose. But some conditions require special training, equipment, or testing that most private health care providers don't have. For these conditions, we require that a VA provider fill out the DBQ.
+This depends on the illness or injury you're claiming. For most conditions, you can visit a VA health care facility or any private health care provider you choose. But some conditions require special training, equipment, or testing that most private health care providers don't have. For these conditions, you'll need to have a VA provider fill out the DBQ.
 
 #### A VA health care provider must fill out the DBQ for the below conditions and exams
 
 -	First exam for posttraumatic stress disorder (PTSD)
 -	Hearing loss and tinnitus (ringing in the ears)
--	Residuals of traumatic brain injury (lasting effects on your functioning resulting from TBI)
+-	Residuals of traumatic brain injury (lasting effects on your ability to function as a result of a TBI)
 -	Cold injury residuals (lasting effects on your body from cold injuries)
 -	Prisoner of War examination protocol
 -	Gulf War medical exam
@@ -70,7 +67,7 @@ This depends on the illness or injury you're claiming as a disability. It can ta
 
 ------
 
-## How do I find and submit a VA DBQ form?
+## How do I find and submit a VA DBQ?
 
 Follow the steps below to find and submit your DBQ.
 
@@ -105,7 +102,7 @@ You'll want to always keep copies of all doctor's reports, test results, and any
 
 <li class="process-step list-four">
   
-### Submit your completed DBQ
+### Submit your completed VA DBQ
 
 You or your health care provider can send the completed form to us in one of these ways:
 
