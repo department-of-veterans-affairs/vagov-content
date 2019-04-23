@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 title: Download VA Benefit Letters
 display_title: Download VA Benefit Letters
 template: detail-page
-order: 4
-spoke: Get Records
+order: 5
+spoke: Get records
 ---
 
 <div id='main'>

@@ -28,13 +28,13 @@ crosslinks:
       title: <b>Life Insurance</b>
       description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-877-294-6380
           number: 1-877-294-6380
@@ -50,11 +50,11 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us
+  - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
@@ -117,10 +117,13 @@ hublinks:
       description: Check the status of your VA disability, pension, and education payments.
         You can also see certain survivor benefits.
       external: false
+    - url: "/change-address/"
+      label: Change Your Address on File with VA
+      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
+      external: false
     - url: "/change-direct-deposit-and-contact-information/"
       label: Change Your VA Direct Deposit and Contact Information
-      description: Find out how to change your VA disability direct deposit information
-        online.
+      description: Learn how to change your VA pension benefits direct deposit information online.
       external: false
   - id: more
     title: More Information and Resources

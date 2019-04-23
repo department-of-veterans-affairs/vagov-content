@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Change Your VA Direct Deposit and Contact Information
-display_title: Change Direct Deposit and Contact Info
+title: Change your VA direct deposit and contact information
+display_title: Change direct deposit and contact info
 lastupdate:
+      
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -77,7 +78,7 @@ Yes. You can change your information by mail or phone.
 <h3>By mail</h3>
 
 Fill out a Direct Deposit Enrollment (VA Form 24-0296). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>.
+<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>
 
 **Mail the completed form to:**
 
@@ -89,9 +90,13 @@ Muskogee OK 74401-7004<br>
 
 <h3>By phone</h3>
 
-Call us at <a href="tel:+18008271000">1-800-827-1000</a> (TTY: <a href="tel:+18008294833">1-800-829-4833</a>).
+Call us at <a href="tel:+18008271000">800-827-1000</a> (TTY: <a href="tel:+18008294833">800-829-4833</a>).
 
-We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
+We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+<h3>Change your address through your VA.gov profile</h3> <br>
+You can sign in to VA.gov and change your address or other contact information in your VA.gov profile. This will update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
+[Find out how to change your address on file with VA](/change-address/)
 
 </div>
 </div>
@@ -106,10 +111,10 @@ We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
 <b>If you have a disability rating of 30% or higher</b>, you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
-<a href="https://www.benefits.va.gov/compensation/add-dependents.asp">Find out how to add eligible dependents</a>.
+<a href="https://www.benefits.va.gov/compensation/add-dependents.asp">Find out how to add eligible dependents</a>
 
 <b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
-<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
+<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>
 
 </div>
 </div>

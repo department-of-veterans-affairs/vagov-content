@@ -13,13 +13,13 @@ promo:
     url: "/records/download-va-letters/"
     description: Download letters like your eligibility or award letter for certain benefits.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-800-827-1000
           number: 1-800-827-1000
@@ -50,6 +50,10 @@ hublinks:
     - url: "/health-care/get-medical-records/"
       label: Get Your VA Medical Records (called VA Blue Button)
       description: Set up your personal health record and download medical records, reports, and images to share with your VA and non-VA doctors.
+      external: false
+    - url: "/change-address/"
+      label: Change Your Address on File with VA
+      description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
       external: false
     - url: "/records/download-va-letters/"
       label: Download Your VA Benefit Letters
