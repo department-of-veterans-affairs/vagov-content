@@ -63,7 +63,7 @@ VA home loan limits change each year and are based on the property's county loca
   <li class="process-step list-three"><h4>Find the year with the limits you want to see</h4><br> 
     Find the year in the “Description” column on the left-hand side of the table.</li>
   <li class="process-step list-four"><h4>Download the loan limit table</h4><br> 
-    Find the link to download the loan limit table to the right of the “Description” column. The file will be in .xls or .pdf format.</li>
+    Download the loan limit table by selecting the link to the right of the “Description” column. The file will be in .xls or .pdf format.</li>
   <li class="process-step list-five"><h4>Refer only to the "One-Unit Limit" column</h4><br> 
     The "One-Unit Limit" column is the only column that refers to VA home loan limits.</li>
 </ol>
