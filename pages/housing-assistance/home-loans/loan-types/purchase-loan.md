@@ -174,7 +174,7 @@ If you’re using a VA home loan to purchase a home or refinance a mortgage, you
 [Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
 
 
-## What if I need more help?
+## What if I need help or more information?
 
 - Look for [housing counseling agency workshops](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) approved by the Department of Housing and Urban Development
 - See the Consumer Financial Protection Bureau’s [home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
