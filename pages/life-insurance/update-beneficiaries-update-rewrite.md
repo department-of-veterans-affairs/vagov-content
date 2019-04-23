@@ -9,6 +9,20 @@ keywords: n/a
 concurrence: 
 order: 2
 spoke: Manage Benefits
+relatedlinks:
+  - url: /life-insurance/manage-your-policy/
+    title: Access your policy online
+    description: View and manage the details of your VA life insurance policy online. 
+  - url: https://benefits.va.gov/INSURANCE/sglivgli.asp?_ga=2.178295469.801410513.1555939590-1758989635.1554476670
+    title: File a claim for insurance benefits
+    description: Learn how to file a life insurance claim for benefits.
+  - url: /claim-or-appeal-status/
+    title: Check your VA claim or appeal status
+    description: Find out how to check the status of a VA claim or appeal online
+  - url: /change-address/
+    title: Change address on file with VA
+    description: Find out how to change your address and other contact information in your VA.gov profile. 
+ 
 ---
 <div class="va-introtext">
 
