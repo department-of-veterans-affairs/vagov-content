@@ -59,6 +59,8 @@ You must pay a VA funding fee when you close your VA-backed or VA direct home lo
 - Your military category
 - Whether it’s your first time getting a VA-backed or VA direct home loan
 
+<strong>Note:</strong> Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. 
+
 <h2>VA funding fee table</h2>
 
 Review the VA funding fee tables below to determine the amount you’ll have to pay. 
