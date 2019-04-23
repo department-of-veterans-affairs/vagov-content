@@ -86,6 +86,6 @@ Submit the form and documents to the VA pension management center that serves yo
 
 Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender.
 
-The lender will appraise (assess the value) of the house. An appraisal estimates the house’s market value at the time of inspection. The lender reviews the appraisal and your credit and income information and decides if they should grant you the loan.
+The lender will appraise (assess the value) of the house. An appraisal is an estimate of the house’s market value at the time of inspection. The lender reviews the appraisal, your credit information, and your income, then decides if they should grant you the loan.
 
-If they decide to grant you the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house.
+If they decide to grant you the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close on the house (transfer ownership).
