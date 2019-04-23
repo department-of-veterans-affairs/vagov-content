@@ -79,7 +79,7 @@ Follow the steps below to find and submit your DBQ.
 
 ### Find and download the right DBQ form or forms for your claimed disability
 
-[Go to our VA DBQ forms page](/about-dbqs/dbq-forms/). Search for the form that matches your condition or symptoms, or search by the form name or number if you have that information.
+[Go to our VA DBQ forms page](/disability/about-dbqs/dbq-forms/). Search for the form that matches your condition or symptoms, or search by the form name or number if you have that information.
 
 </li>
 
