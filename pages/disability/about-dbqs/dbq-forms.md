@@ -67,9 +67,9 @@ box and click “Enter.” You can also search by the form number.
 
 </div>
 </li>
-</ul>
-
-### Digestion (gastrointestinal)
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="digestion"><b>Digestion (gastrointestinal)</b></button>
+<div id="digestion" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -82,20 +82,33 @@ box and click “Enter.” You can also search by the form number.
 | Infectious intestinal conditions, including dysentery and intestinal bacteria and parasites, with recurring diarrhea, changes in stool consistency, or foul smell | 21-0960G-8 | [Infectious Intestinal Disorders, including Bacterial and Parasitic Infections](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-8-ARE.pdf) |
 | Intestinal surgery, including removing portions of the intestine and reconstruction and diversion of the intestinal tract. Also includes bowel diversion that requires use of external bags to collect stool | 21-0960G-4 | [ntestinal Surgery (Bowel Resection, Colostomy, and Ileostomy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-4-ARE.pdf) |
 
-### Ear, nose, and throat
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="ear-nose-and-throat"><b>Ear, nose, and throat</b></button>
+<div id="ear-nose-and-throat" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Ear conditions, including infections, dizziness, vertigo, tumors in the ear, and ringing in the ears (tinnitus) | 21-0960N-1 | [Ear Condition (including: Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
 | Issues with sinuses, nose, throat, larynx, and pharynx. These can include deviated nasal septum, organic aphonia, vocal cord issues, and other conditions. | 21-0960N-4 | [Sinusitis, Rhinitis, and other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
 
-### Eyes (ophthalmological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eyes"><b>Eyes (ophthalmological)</b></button>
+<div id="eyes" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Issues involving diseases of the eye, including inflammation, infection, glaucoma, deformities, tear duct issues, cataracts, retina disease, and other conditions | 21-0960N-2 | [Eye Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-2-ARE.pdf) |
 
-### Genitals and urinary tract (genitourinary)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="genitals-and-urinary-tract"><b>Genitals and urinary tract (genitourinary)</b></button>
+<div id="genitals-and-urinary-tract" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -103,6 +116,11 @@ box and click “Enter.” You can also search by the form number.
 | Issues with male sex organs, including the urethra, penis, testes, and scrotum. Conditions can include painful urination, swelling, blood in the urine, or incontinence. | 21-0960J-2 | [Male Reproductive Organ Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-2-ARE.pdf) |
 | Prostate issues, including cancer of the prostate gland, and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
 | Issues involving the bladder and urethra, including issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
+
+
+</div>
+</li>
+</ul>
 
 ### Heart conditions (cardiovascular)
 
