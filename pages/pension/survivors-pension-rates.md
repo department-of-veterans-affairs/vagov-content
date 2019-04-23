@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Survivors Pension Benefit Rates
 heading: VA Survivors Pension benefit rates
-display_title: Survivors Pension Rates
+display_title: Survivors Pension rates
 description: Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 keywords: va survivor benefit rates, va survivors pension rate table, va widows pension rates
 concurrence:
@@ -116,12 +116,12 @@ View VA Survivors Pension rate tables from past years: <br>
 
 Read the full regulations from Title 38 Code of Federal Regulations:
 
-[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.23 Improved pension rates—Veterans and surviving spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.24 Improved pension rates—Surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.271 “Income” for VA Purposes (IVAP)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.271 “Income” for VA purposes (IVAP)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.272 Exclusions from income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.272 Rate Computations](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.273 Rate computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
