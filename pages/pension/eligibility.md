@@ -42,7 +42,7 @@ If you meet the VA pension eligibility requirements listed below, you may be eli
 
 - You didn't receive a dishonorable discharge, **and**
 - Your yearly family income and net worth meet certain limits set by Congress. Your net worth includes all personal property you own (except your house, your car, and most home furnishings), minus any debt you owe. Your net worth includes the net worth of your spouse. <br>
-[Find out about Veterans pension rates](/pension/veterans-pension-rates/).
+[Find out about Veterans pension rates](/pension/veterans-pension-rates/)
 
 
 **And at least one of these must be true about your service. You:**
@@ -60,7 +60,7 @@ If you meet the VA pension eligibility requirements listed below, you may be eli
 
 </div>
 
-### How do I know if I served under an eligible wartime period? 
+## How do I know if I served under an eligible wartime period? 
 Under current law, we recognize the following wartime periods to decide eligibility for VA pension benefits:
 
 
@@ -71,14 +71,14 @@ Under current law, we recognize the following wartime periods to decide eligibil
 - Vietnam War era (February 28, 1961, to May 7, 1975, for Veterans who served in the Republic of Vietnam during that period. August 5, 1964, to May 7, 1975, for Veterans who served outside the Republic of Vietnam.)
 - Gulf War (August 2, 1990, through a future date to be set by law or presidential proclamation)
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA pension benefits.
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
 
 <div id="react-applicationStatus" data-widget-type="pension-app-status" class="static-page-widget">
