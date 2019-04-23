@@ -37,9 +37,10 @@ A VA home loan limit is the maximum amount of money you can borrow without makin
 
 ## How is my VA home loan limit determined? 
 
+VA home loan limits depend on your military service and the county the home is in. Loan limits vary by county because a property's location affects its value. 
+
 If you’re eligible for this benefit, you’re entitled to borrow at least $36,000.00 (sometimes called a “maximum entitlement”). In most cases, lenders will loan up to 4x your entitlement amount without a down payment, as long as you're income and credit qualified and the property’s value matches its asking price. <br>
 
-VA home loan limits depend on your military service and the county the home is in. Loan limits vary by county because a property's location affects its value. 
 
 ## VA home loan limits by year and county
 
