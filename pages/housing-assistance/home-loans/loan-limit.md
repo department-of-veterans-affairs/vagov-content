@@ -49,7 +49,7 @@ VA home loan limits change each year and are based on the property's county loca
 
 ### 2019
 
-[View 2019 VA home loan limits.](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) Refer only to the "One-Unit Limit" column.
+[View loan limits.](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <strong>Refer only to the "One-Unit Limit" column.</strong>
 
 <strong>Note:</strong> 2019 VA Home Loan limits are the same as the Federal Housing Finance Agency's (FHFA) limits. 
 
