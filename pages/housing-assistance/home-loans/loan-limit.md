@@ -52,7 +52,7 @@ VA home loan limits change each year and are based on the property's county loca
 
 <strong>Note:</strong> 2019 VA Home Loan limits are the same as the Federal Housing Finance Agency's (FHFA) limits. 
 
-### 2016 - 2018
+### 2018 - 2016
 
 <ol class="process">
   <li class="process-step list-one"><h4>Go to FHFA’s Conforming Loan Limits Page
@@ -99,7 +99,7 @@ VA home loan limits change each year and are based on the property's county loca
 #### Between January 1, 2011 and September 30, 2011
 [View VA home loan limits between January 1, 2011 and September 30, 2011.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
 
-### 2008 - 2010
+### 2010 - 2008
 
 [View 2010 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2010_county_loan_limits.pdf)<br>
 [View 2009 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2009_county_loan_limits.pdf)<br>
