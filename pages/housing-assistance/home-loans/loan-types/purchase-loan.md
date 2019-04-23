@@ -109,7 +109,7 @@ Look at houses in your price range until you find one that works for you.
 </li>
 </ol>
 
-#### Steps to buying your home
+### Steps to buying your home
 
 **Once you’ve found the house you want to buy:**
 
