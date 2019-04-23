@@ -25,14 +25,21 @@ Search the list of health conditions to find the right disability benefits quest
 To do a quick search, hold down the “Ctrl” key and click on the “F” key. Enter your search word in the text 
 box and click “Enter.” You can also search by the form number.
 
-### Blood conditions (hematologic and lymphatic)
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="blood-conditions">### Blood conditions (hematologic and lymphatic)</button>
+<div id="blood-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | ---|
 | Anemia, some types of leukemia, lymphoma, and other conditions involving the white and red blood cells | 21-0960B-2 | [Hematologic and Lymphatic Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
 | Hairy cell and other B-cell leukemias | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
 
-### Brain and nervous system (neurological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="brain-nervous-system">### Brain and nervous system (neurological)</button>
+<div id="brain-nervous-system" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -47,12 +54,20 @@ box and click “Enter.” You can also search by the form number.
 | Specific kinds of nerve damage, including metabolic disorders, exposure to toxins, infections, immunological disorders, or inflammation and other conditions | 21-0960C-10 | [Peripheral Nerve Conditions (not including Diabetes Sensory-Motor Peripheral Neuropathy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-10-ARE.pdf) | 
 | Seizures from epilepsy or other conditions | 21-0960C-11 | [Seizure Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-11-ARE.pdf) |
 
-### Dental, gum, and oral conditions
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions">### Dental, gum, and oral conditions</button>
+<div id="dental-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | All dental, gum, and mouth conditions except TMJ conditions | 21-0960D-1 | [Dental and Oral Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960D-1-ARE.pdf) |
 | TMJ joint conditions, including pain in the jaw when biting, and sounds in the jaw | 21-0960M-15 | [Temporomandibular Joint (TMJ) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960m-15-ARE.pdf) |
+
+</div>
+</li>
+</ul>
 
 ### Digestion (gastrointestinal)
 
