@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Pension Rates For Veterans
 heading: VA pension rates for Veterans
-display_title: Veterans Pension Rates
+display_title: Veterans pension rates
 description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 keywords: va pension rates, va aid and attendance rates
 concurrence:
@@ -30,7 +30,7 @@ Your MAPR amount = $26,036 <br>
 Your yearly income = $10,000 <br>
 Your VA pension = $16,036 for the year (or $1,336 paid each month)
 
-## What's the net worth limit to qualify for a Veterans Pension?
+## What's the net worth limit to qualify for a Veterans pension?
 
 We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. Your net worth also includes the net worth of your spouse. You should report all of your net worth. The net worth limit to qualify for a Veterans Pension as of December 1, 2018, is $127,061.
 
@@ -66,7 +66,7 @@ A penalty period is a length of time when a Veteran isn’t eligible for pension
 If you have medical expenses, you may deduct only the amount that’s above 5% of your MAPR amount ($676 for a Veteran with no spouse or child).
 
 ### For Veterans with at least 1 dependent spouse or child:
-
+  
 | **If you have 1 dependent and…** | **Your MAPR amount is:** |
 | --- | --- |
 | You don’t qualify for Housebound or Aid and Attendance benefits | $17,724 |
@@ -120,12 +120,12 @@ Read VA pension rate tables from past years: <br>
 
 Read full regulations from Title 38 Code of Federal Regulations: <br>
 
-[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123) <br>
+[3.23 Improved pension rates—Veterans and surviving spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123) <br>
 
-[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124) <br>
+[3.24 Improved pension rates—Surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124) <br>
 
-[3.271 Computation of Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271) <br>
+[3.271 Computation of income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271) <br>
 
-[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272) <br>
+[3.272 Exclusions from income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272) <br>
 
-[3.273 Rate Computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)
+[3.273 Rate computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)
