@@ -31,14 +31,14 @@ If you get a VA-backed or VA direct home loan, you may have to make a one-time p
 
 </div>
 
-<h2>Do I have to pay a VA funding fee?</h2>
+<h2>Will I have to pay a VA funding fee?</h2>
 
-Most Veterans have to pay a VA funding fee when getting a VA-backed or VA direct home loan. 
+If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. A VA funding fee is a percentage of your total loan amount. 
 
-<strong>You don’t have to pay a VA funding fee if you</strong>: 
-- Have a service-connected disability and receive VA disability compensation 
-- Have a service-connected disability and are eligible for VA disability compensation, and have not received retirement or active duty pay
-- Are a surviving spouse of a Veteran who died in service or from a service-connected disability
+<strong>You don’t have to pay a VA funding fee if one of these is true. You're:</strong>
+- Receiving VA compensation for a service-connected disability, <strong>or</strong>
+- Eligible to receive VA compensation for a service-connected disability, but you're receiving retirement or active-duty pay instead, <strong>or</strong>
+- The surviving spouse of a Veteran who died in service or from a service-connected disability
 
 <h2>How does a VA funding fee work?</h2>
 
@@ -51,8 +51,6 @@ You must pay a VA funding fee when you close your VA-backed or VA direct home lo
 
 
 <h2>How is my VA funding fee determined?</h2>
-
-A VA funding fee is a percentage of your total loan amount. 
 
 **Your funding fee is based on:** 
 
