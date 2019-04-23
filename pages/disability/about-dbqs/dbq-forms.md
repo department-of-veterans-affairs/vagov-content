@@ -82,7 +82,6 @@ box and click “Enter.” You can also search by the form number.
 | Infectious intestinal conditions, including dysentery and intestinal bacteria and parasites, with recurring diarrhea, changes in stool consistency, or foul smell | 21-0960G-8 | [Infectious Intestinal Disorders, including Bacterial and Parasitic Infections](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-8-ARE.pdf) |
 | Intestinal surgery, including removing portions of the intestine and reconstruction and diversion of the intestinal tract. Also includes bowel diversion that requires use of external bags to collect stool | 21-0960G-4 | [ntestinal Surgery (Bowel Resection, Colostomy, and Ileostomy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-4-ARE.pdf) |
 
-
 </div>
 </li>
 <li>
@@ -117,12 +116,11 @@ box and click “Enter.” You can also search by the form number.
 | Prostate issues, including cancer of the prostate gland, and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
 | Issues involving the bladder and urethra, including issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
 
-
 </div>
 </li>
-</ul>
-
-### Heart conditions (cardiovascular)
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="heart-conditions"><b>Heart conditions (cardiovascular)</b></button>
+<div id="heart-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -130,7 +128,11 @@ box and click “Enter.” You can also search by the form number.
 | High blood pressure or hypertension | 21-0960A-3 | [Hypertension](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-3-ARE.pdf) |
 | Heart conditions, including heart attack, irregular heartbeat, and heart surgery | 21-0960A-4 | [Heart Conditions (Including IHD, Non-IHD, Arrhythmias Valvular Disease and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
 
-### Hormonal conditions and diabetes (endocrinological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hormonal-and-diabetes"><b>Hormonal conditions and diabetes (endocrinological)</b></button>
+<div id="hormonal-and-diabetes" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -138,7 +140,11 @@ box and click “Enter.” You can also search by the form number.
 | Conditions affecting the hormone glands, including Cushing's syndrome, acromegaly, Addison's disease, and others | 21-0960E-2 | [Endocrine Diseases (other than Thyroid and Parathyroid, or Diabetes Mellitus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-2-ARE.pdf) |
 | Thyroid and parathyroid conditions, including growth, metabolism, and other issues | 21-0960E-3 | [Thyroid and Parathyroid Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-3-ARE.pdf) |
 
-### Infectious diseases
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="infectious-diseases"><b>Infectious diseases</b></button>
+<div id="infectious-diseases" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -149,27 +155,43 @@ box and click “Enter.” You can also search by the form number.
 | Tuberculosis symptoms | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
 | Vitamin deficiencies, including beriberi, pellagra, some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorption of nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
 
-### Internal and surgical
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="internal-and-surgical"><b>Internal and surgical</b></button>
+<div id="internal-and-surgical" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Hernias that result in organs bulging through the muscle, except hiatal hernia | 21-0960H-1 | [Hernias (including Abdominal, Inguinal, and Femoral Hernias)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-1-ARE.pdf) |
 | Rectum and anus issues, including changes in sphincter control, stricture of prolapse, fistula, and other symptoms. Also includes bowel incontinence, severe constipation blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
- 
-### Lungs and breathing (respiratory)
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="lungs-and-breathing"><b>Lungs and breathing (respiratory)</b></button>
+<div id="lungs-and-breathing" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Breathing conditions other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (other than TB and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
 | Sleep apnea, including stopping breathing during sleep, as well as impaired functionality during the day as a result of poor sleep | 21-0960L-2 | [Sleep Apnea](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-2-ARE.pdf) |
 
-### Lymph system (rheumatological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="lymph-system"><b>Lymph system (rheumatological)</b></button>
+<div id="lymph-system" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Chronic fatigue syndrome, including tiredness, loss of memory or concentration, and enlarged lymph nodes | 21-0960Q-1 | [Chronic Fatigue Syndrome](https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf) |
 
-### Mental and psychological 
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mental-and-psychological"><b>Mental and psychological</b></button>
+<div id="mental-and-psychological" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -177,7 +199,11 @@ box and click “Enter.” You can also search by the form number.
 | General mental disorders, including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
 | PTSD-related issues, including evaluating beginning and extent of symptoms. Types include: <ul><li><b>Acute</b>, meaning the symptoms have been happening for less than 3 months</li><li><b>Chronic</b>, meaning the symptoms usually last 3 months or more</li><li><b>Delayed onset</b>, meaning the symptoms began at least 6 months after the traumatic experience </li></ul> Symptoms may include reliving the experience of a traumatic event, avoiding situations or people associated with the trauma, deadening of general responsiveness, insomnia, recurrent nightmares, extreme caution, an intensified fright response, and a change in levels of hostility. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
 
-### Muscles and bones (musculoskeletal)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="muscles-and-bones"><b>Muscles and bones (musculoskeletal)</b></button>
+<div id="muscles-and-bones" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
@@ -196,19 +222,31 @@ box and click “Enter.” You can also search by the form number.
 | Specific wrist issues, including limited or lost wrist motion, injuries to the wrist, painful wrist movements, and joint replacement | 21-0960M-16 | [Wrist Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-16-ARE.pdf) |
 | Back and lower pain issues, including arthritis, back injuries, spinal conditions, sciatica, or disc disease | 21-0960M-14 | [Back (Thoracolumbar Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-14-ARE.pdf) |
 
-### Skin conditions (dermatological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="skin-conditions"><b>Skin conditions (dermatological)</b></button>
+<div id="skin-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Infectious and non-infectious diseases of the skin, including evaluating rashes, spots, athlete's foot, sweating, and acne | 21-0960F-1 | [Skin Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-2-ARE.pdf) |
 | Scarring of the skin | 21-0960F-2 | [Scars and Disfigurement](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-1-ARE.pdf) |
 
-### Women’s reproductive issues (gynecological)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="womens-reproductive-issues"><b>Women’s reproductive issues (gynecological)</b></button>
+<div id="womens-reproductive-issues" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Issues with breast mass or lumps | 21-0960K-1 | [Breast Conditions and Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-1-ARE.pdf) |
 | Issues with women’s reproductive system, including uterus, vagina, cervix, ovaries, endometriosis, complications of pregnancy, and other conditions | 21-0960K-2 | [Gynecological Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-2-ARE.pdf) |
+
+</div>
+</li>
+</ul>
 
 ## What if I don’t see a DBQ for the condition I’m claiming?
 
