@@ -28,11 +28,7 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 [See if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/)
 </div>
 
-<br>
-
 ## Why might I want a VA-backed purchase loan?
-
-<br>
 
 ### A VA-backed purchase loan often offers:
 
@@ -46,8 +42,6 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 - **Fewer closing costs**, which may be paid by the seller
 - **No penalty fee** if you pay the loan off early
 
-<br>
-
 ### If you qualify for a VA-backed purchase loan, you can use the loan to:
 
 -	Buy a single-family home, up to 4 units
@@ -57,21 +51,15 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 -	Build a new home
 -	Make changes or add new features (like solar power) to make your home more energy efficient
 
-<br>
-
 ### You can also:
 
 - Get a VA-backed home loan to buy your first home
 - Use your VA loan benefit again if you sell or refinance a home you bought with a VA-backed home loan
 - Assume a VA-backed home loan (which means that instead of opening a new mortgage loan, the buyer takes over the seller’s loan)
 
-<br>
-
 ## How can I buy a home with a VA-backed purchase loan?
 
 Buying a home is a complex process, and getting a VA-backed home loan is only one piece of the puzzle. Stay on track by following the steps below.
-
-<br>
 
 ### Steps to finding a home
 
@@ -160,7 +148,7 @@ Your closing may be held at a title company, escrow office, or attorney’s offi
 
 <li class="process-step list-five">
 
-##### Move in.
+#### Move in.
 
 After closing, you’re ready to move into your new home. Congratulations!  
 
@@ -186,17 +174,11 @@ If you’re using a VA home loan to purchase a home or refinance a mortgage, you
 [Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
 
 
+## What if I need more help?
 
-#### If you need more help:
-
-[Look for workshops from Department of Housing and Urban Development–approved housing counseling agencies](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) <br>
-
-[Check out the Consumer Financial Protection Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf) <br>
-
-[Learn more about VA-backed home loans](https://www.benefits.va.gov/homeloans/) <br>
-
-[Watch a video about VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A) <br>
-
-[Watch a video about the cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow) <br>
-
-[Get guidance from VA if your home is affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
+- Look for [housing counseling agency workshops](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) approved by the Department of Housing and Urban Development
+- See the Consumer Financial Protection Bureau’s [home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+- Learn more about [VA-backed home loans](https://www.benefits.va.gov/homeloans/)
+- Watch a video about [VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A)
+- Watch a video about the [cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow)
+- Find out how to get help [if your home was affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
