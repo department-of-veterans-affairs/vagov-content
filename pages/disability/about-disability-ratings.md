@@ -329,7 +329,7 @@ To make this table easier to use online, we’ve separated it into smaller table
   <strong>In our example:</strong> Your combined disability rating would be 70%.
   
   </li>
-  <li class="process-step list-four">
+  <li class="process-step list-five">
   
   <strong>If you have more than 2 disabilities</strong>
   We’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
