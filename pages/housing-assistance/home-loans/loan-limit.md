@@ -82,5 +82,26 @@ VA home loan limits change each year and are based on the property's county loca
 [View 2013 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2013_county_loan_limits.pdf)
 
 
+### 2012
 
+#### Between August 6, 2012 and December 31, 2012
+[View VA home loan limits between August 6, 2012 to December 31, 2012.](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf)
+
+#### Between January 1, 2012 and August 5, 2012
+[View VA home loan limits between January 1, 2012 to August 5, 2012.](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_jan_aug_2012.pdf)
+
+### 2011
+
+#### Between October 1, 2011 and December 31, 2011
+[View VA home loan limits between October 1, 2011 and December 31, 2011.]
+(https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf)
+
+#### Between January 1, 2011 and September 30, 2011
+[View VA home loan limits between January 1, 2011 and September 30, 2011.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
+
+### 2008 - 2010
+
+[View 2010 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2010_county_loan_limits.pdf)<br>
+[View 2009 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2009_county_loan_limits.pdf)<br>
+[View 2008 VA home loan limits.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2008_loan_limits_for_high_cost_counties.pdf)
 
