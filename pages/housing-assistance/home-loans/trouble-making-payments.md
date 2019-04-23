@@ -15,7 +15,7 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 <div class="feature" markdown=“1”>
 
-### Can I get VA financial counseling to help avoid foreclosure?
+## Can I get VA financial counseling to help avoid foreclosure?
 
 - **If you’re a Veteran or the surviving spouse of a Veteran**, we’ll provide financial counseling—even if your loan isn’t a VA direct or VA-backed loan.
 
@@ -25,17 +25,13 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 </div>
 
-<br>
-
-### What should I do if I’m having trouble paying my mortgage?
+## What should I do if I’m having trouble paying my mortgage?
 
 If you’re late with a mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
 
 If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
 
-<br>
-
-### How can I avoid foreclosure?
+## How can I avoid foreclosure?
 
 **There are 6 general ways you can try to avoid a foreclosure:**
 
@@ -53,14 +49,14 @@ If you’re nervous about contacting your servicer, or if you’d like our help 
 
 Our VA Loan Technicians can help you figure out which option is best for you. Contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
 
-Another reason you should do everything to avoid a foreclosure: <br>
-**If your loan closed before January 1, 1990,** and we have to pay back the amount of your loan to the servicer, you'll need pay this amount back to the government.  <br>
-**If your loan closed on or after January 1, 1990,** you'll have to pay back the amount of your loan if we find evidence of fraud, misrepresentation, or bad faith on your part. <br>
+## If I can't avoid foreclosure, will I have to pay back my loan?
 
-**If you need more help**:<br>
-[Talk to a housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor) <br>
-[Read HUD's homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf) <br>
-[Read the Consumer Financial Protection Bureau's advisory on how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/)
+**If your loan closed before January 1, 1990,** and we have to pay back the amount of your loan to the servicer, you'll need to pay this amount back to the government.
 
+**If your loan closed on or after January 1, 1990,** you'll have to pay back the amount of your loan if we find evidence of fraud, misrepresentation, or bad faith on your part.
 
+## What if I need help or more information?
 
+- Talk to a [housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- Read HUD's [homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf)
+- Read the Consumer Financial Protection Bureau's advisory on [how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/)
