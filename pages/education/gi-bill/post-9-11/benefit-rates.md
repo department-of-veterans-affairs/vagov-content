@@ -48,8 +48,8 @@ relatedlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/
       title: Tutoring assistance
       description: If you’re using VA educational benefits and you’re struggling with the coursework, find out if you can get help paying for a tutor.
-
 ---
+
 <div class="va-introtext">
   
 We provide education benefits to qualifying Veterans and their family members. The amount of money you’ll get for 
