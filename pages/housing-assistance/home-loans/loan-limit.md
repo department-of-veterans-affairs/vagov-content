@@ -72,10 +72,10 @@ VA home loan limits change each year and are based on the property's county loca
 
 #### Between February 28, 2014 and December 31, 2014
 
-[View 2014 VA home loan limits between February 28, 2014 to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf)
+[View 2014 VA home loan limits between February 28, 2014 to December 31, 2014.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf)
 
 #### Between January 1, 2014 and February 27, 2014
-[View 2014 VA home loan limits between January 1, 2014 and February 27, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
+[View 2014 VA home loan limits between January 1, 2014 and February 27, 2014.](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
 
 ### 2013
 
