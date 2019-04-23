@@ -17,7 +17,7 @@ relatedlinks:
       title: VA Survivors Pension
       description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
     - url: /pension/aid-attendance-housebound/
-      title: Aid and Attendance Benefits and Housebound Allowance
+      title: Aid and Attendance benefits and Housebound allowance
       description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
 widgets:
   - root: react-applicationStatus
@@ -36,12 +36,12 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 
 ## How do I prepare before starting my application?
 
-- [Find out if you're eligible for VA pension benefits](/pension/eligibility/).
+- [Find out if you're eligible for VA pension benefits](/pension/eligibility/)
 - Gather the information listed below that you’ll need to fill out your pension application.
 
 <div class="feature">
 
-#### What information do I need to apply?
+### What information do I need to apply?
 
 - Social Security number or VA file number (required)
 - Military history (required)
@@ -57,29 +57,29 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-<h4 itemprop="name">You can also apply:</h4>
+<h3 itemprop="name">You can also apply:</h3>
 <div itemprop="itemListElement">
 
 
   **By mail** <br>
 Fill out an Application for Pension (VA Form 21P-527EZ). <br>
-[Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf).
+[Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf)
 
 Mail the completed form to the Pension Management Center (PMC) for your state.<br>
-[Find your PMC](/pension/pension-management-centers/).
+[Find your PMC](/pension/pension-management-centers/)
 
 **In person** <br>
 Bring your application to a VA regional office near you. <br>
-[Find your nearest VA regional office](/find-locations/?facilityType=benefits).
+[Find your nearest VA regional office](/find-locations/?facilityType=benefits)
 
 
 **With the help of a trained professional** <br>
 You can work with a trained professional called an accredited representative to get help applying for VA pension benefits. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 
 
-[Find out how to apply for a Survivors Pension](/pension/survivors-pension/).
+[Find out how to apply for a Survivors Pension](/pension/survivors-pension/)
 
 ## How long does it take VA to make a decision?
 
@@ -95,17 +95,17 @@ No. Simply starting your VA pension application doesn’t show your intent to fi
 ## How do I submit an intent to file form?
 
 Download, fill out, and submit an Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC (VA Form 21-0966). <br>
-[Download VA Form 21-0966](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf).
+[Download VA Form 21-0966](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf)
 
 Turn in your form in any of these ways:
 
 - Mail it to the Pension Management Center (PMC) for your state. <br>
-[Find your PMC](/pension/pension-management-centers/).
+[Find your PMC](/pension/pension-management-centers/)
 
 - Turn it in at a VA regional office near you. <br>
-[Find a VA regional office near you](/find-locations/?facilityType=benefits).
+[Find a VA regional office near you](/find-locations/?facilityType=benefits)
 
 - Work with a trained professional called an accredited representative to get help applying for VA pension benefits. <br>
-[Get help filing a claim](/disability/get-help-filing-claim/).
+[Get help filing a claim](/disability/get-help-filing-claim/)
 
 </br>
