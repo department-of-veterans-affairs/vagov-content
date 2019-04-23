@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Veterans Disability Compensation Rates | Veterans Affairs
-display_title: Veterans disability compensation rates
+title: 2019 Veterans Disability Compensation Rates | Veterans Affairs
+display_title: Veterans disability compensation rates for 2019
 heading: Veterans disability compensation rates
 description: View current Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
 keywords: veterans disability rates, veterans compensation benefits rate tables
@@ -25,10 +25,11 @@ relatedlinks:
       description: Check the status of your VA disability and pension payments. You can also see certain survivor benefits.      
 ---
 <div class="va-introtext">
-View current Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
+View current 2019 Veterans disability compensation rates, effective December 1, 2018. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
 </div>
 
 <h2>Compensation rates for Veterans with a 10% to 20% disability rating</h2>
+<strong>Effective December 1, 2018</strong>
 
 | Disability rating  | Monthly payment | 
 | -- | -- | 
@@ -38,6 +39,7 @@ View current Veterans disability compensation rates. Use our compensation benefi
 **Note:** If you have a 10% to 20% disability rating, you won't receive a higher rate even if you have a dependent spouse, child, or parent.
 
 <h2>Compensation rates for Veterans with a 30% to 100% disability rating<h2>
+<strong>Effective December 1, 2018</strong>
 
 <h3>With a dependent spouse or parent, but no children</h3>
 
