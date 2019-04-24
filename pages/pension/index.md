@@ -150,8 +150,8 @@ hublinks:
         and after the appointment.
       external: false
     - url: "/pension/pension-management-centers/"
-      label: Find your VA Pension Management Center
-      description: Find your regional Pension Management Center to mail or fax your
+      label: Find your VA pension management center
+      description: Find your regional pension management center to mail or fax your
         VA pension application.
       external: false
 ---
