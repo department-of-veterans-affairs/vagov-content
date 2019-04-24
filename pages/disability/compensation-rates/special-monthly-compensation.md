@@ -32,7 +32,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 </div>
 
 <h2>Special monthly compensation rate payment variations</h2>
-<strong>Effective December 1, 2018</strong>
+<strong>Effective December 1, 2018</strong><br/>
 All rates in $ US dollars
 
 **Levels K and Q** are special rates called SMC compensation rate payment variations. We may add Level K to your basic SMC rate.
@@ -170,11 +170,11 @@ All rates in $ US dollars
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
 | -- | -- |-- |-- | -- | -- | 
 | **Veteran with one child**<br/> (no spouse or parents) | 3,918.03 | 4,114.68 | 4,312.13 | 4,600.57 | 4,889.67 |
-| **With one child and spouse**<br/> (no parents) | 4,099.32 | 4,295.97 | 4,493.42 | 4,781.86 | 5,070.96 | 
-| **With one child, spouse, and one parent** | 4,236.11 | 4,432.76 | 4,630.21 | 4,918.65 | 5,207.75 |
-| **With one child, spouse, and 2 parents** | 4,372.90 | 4,569.55 | 4,767.00 | 5,055.44 | 5,344.54 |
-| **With one child and one parent**<br/> (no spouse) | 4,054.82 | 4,251.47 | 4,448.92 | 4,737.36 | 5,026.46 |
-| **With one child and 2 parents**<br/> (no spouse) | 4,191.61 | 4,388.26 | 4,585.71 | 4,874.15 | 5,163.25 |
+| **With 1 child and spouse**<br/> (no parents) | 4,099.32 | 4,295.97 | 4,493.42 | 4,781.86 | 5,070.96 | 
+| **With 1 child, spouse, and 1 parent** | 4,236.11 | 4,432.76 | 4,630.21 | 4,918.65 | 5,207.75 |
+| **With 1 child, spouse, and 2 parents** | 4,372.90 | 4,569.55 | 4,767.00 | 5,055.44 | 5,344.54 |
+| **With 1 child and 1 parent**<br/> (no spouse) | 4,054.82 | 4,251.47 | 4,448.92 | 4,737.36 | 5,026.46 |
+| **With 1 child and 2 parents**<br/> (no spouse) | 4,191.61 | 4,388.26 | 4,585.71 | 4,874.15 | 5,163.25 |
 
 <h5>Added amounts</h5>
 All rates in $ US dollars
@@ -223,12 +223,12 @@ All rates in $ US dollars
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S | 
 | -- | -- |-- |-- | -- | -- |
-| **Veteran with one child**<br/> (no spouse or parents) | 5,170.59 | 5,452.03 | 7,741.63 | 8,863.08 | 3,535.89 |
-| **With one child and spouse**<br/> (no parents) | 5,351.88 | 5,633.32 | 7,922.92 | 9,044.37 | 3,717.18 | 
-| **With one child, spouse, and one parent** | 5,488.67 | 5,770.11 | 8,059.71 | 9,181.16 | 3,853.97 |
-| **With one child, spouse, and 2 parents** | 5,625.46 | 5,906.90 | 8,196.50 | 9,181.16 | 3,853.97 |
-| **With one child and one parent**<br/> (no spouse) | 5,488.67 | 5,770.11 | 8,059.71 | 4,737.36 | 5,026.46 |
-| **With one child and 2 parents**<br/> (no spouse) | 5,444.17 | 5,725.61 | 8,015.21 | 9,136.66 | 3,809.47 |
+| **Veteran with 1 child**<br/> (no spouse or parents) | 5,170.59 | 5,452.03 | 7,741.63 | 8,863.08 | 3,535.89 |
+| **With 1 child and spouse**<br/> (no parents) | 5,351.88 | 5,633.32 | 7,922.92 | 9,044.37 | 3,717.18 | 
+| **With 1 child, spouse, and 1 parent** | 5,488.67 | 5,770.11 | 8,059.71 | 9,181.16 | 3,853.97 |
+| **With 1 child, spouse, and 2 parents** | 5,625.46 | 5,906.90 | 8,196.50 | 9,181.16 | 3,853.97 |
+| **With 1 child and 1 parent**<br/> (no spouse) | 5,488.67 | 5,770.11 | 8,059.71 | 4,737.36 | 5,026.46 |
+| **With 1 child and 2 parents**<br/> (no spouse) | 5,444.17 | 5,725.61 | 8,015.21 | 9,136.66 | 3,809.47 |
 
 <h5>Added amounts</h5>
 All rates in $ US dollars
