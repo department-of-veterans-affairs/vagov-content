@@ -35,37 +35,37 @@ If you get a VA-backed or VA direct home loan, you may have to make a one-time p
 
 If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. A VA funding fee is a percentage of your total loan amount. 
 
-<strong>You don’t have to pay a VA funding fee if one of these is true. You're:</strong>
+<strong>You won’t have to pay a VA funding fee if any of the below descriptions is true for you. You're:</strong>
 - Receiving VA compensation for a service-connected disability, <strong>or</strong>
 - Eligible to receive VA compensation for a service-connected disability, but you're receiving retirement or active-duty pay instead, <strong>or</strong>
 - The surviving spouse of a Veteran who died in service or from a service-connected disability
 
-<h2>How does a VA funding fee work?</h2>
+<h2>How will I pay the VA funding fee for my loan?</h2>
 
-You must pay a VA funding fee when you close your VA-backed or VA direct home loan. 
+You'll pay this fee when you close your VA-backed or VA direct home loan. 
 
-<strong>You can pay the VA funding fee in 2 ways</strong>: 
+<strong>You can pay the VA funding fee in either of these ways</strong>: 
 
-- Include the funding fee in your loan and pay it off over time 
+- Include the funding fee in your loan and pay it off over time, <strong>or</strong 
 - Pay the fee upfront 
 
 
-<h2>How is my VA funding fee determined?</h2>
+<h2>How will VA determine my funding fee?</h2>
 
-**Your funding fee is based on:** 
+**We'll base your fee on:** 
 
-- The type of loan you get
-- Your down payment amount
-- Your military category
+- The type of loan you get, <strong>and</strong>
+- Your down payment amount, <strong>and</strong>
+- Your military category, <strong>and</strong>
 - Whether it’s your first time getting a VA-backed or VA direct home loan
 
 <strong>Note:</strong> Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. 
 
-<h2>VA funding fee table</h2>
+<h2>VA funding fee charts</h2>
 
-Review the VA funding fee tables below to determine the amount you’ll have to pay. 
+Review the VA funding fee charts below to determine the amount you’ll have to pay. 
 
-<h3>Purchase and Construction Loans</h3>
+<h3>Purchase and construction loans</h3>
 
 <br> 
 
@@ -123,7 +123,9 @@ Review the VA funding fee tables below to determine the amount you’ll have to 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="loan-details">Who determines my loan details?</button>
 <div id="loan-details" class="usa-accordion-content">
 
-Your home loan lender--not VA--determines these details of your loan:
+We don't determine most details of your home loan. 
+
+Your home loan lender will these details of your loan:
 
 - Interest rate
 - Discount points
@@ -179,7 +181,7 @@ Both the buyer (you) and the seller can pay these closing costs:
 </ul>
 <br>
 
-[Find out more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf).
+[Learn more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
 
 
 
