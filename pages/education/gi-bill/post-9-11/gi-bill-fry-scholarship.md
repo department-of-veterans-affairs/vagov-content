@@ -43,7 +43,7 @@ If you served less than 36 months, you can find the percentage of the benefit yo
 based on the time you served. 
 
 | If you served | You’ll get this much of the full benefit | 
-| --- | --- | --- |
+| --- | --- |
 | At least 30 months, but less than 36 months | 90% | 
 | At least 24 months, but less than 30 months | 80% | 
 | At least 18 months, but less than 24 months | 70% | 
