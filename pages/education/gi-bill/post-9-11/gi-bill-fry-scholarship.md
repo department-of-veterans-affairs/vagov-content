@@ -41,3 +41,17 @@ How much you get depends on how long you served on active duty after September 1
 
 If you served less than 36 months, you can find the percentage of the benefit you can receive in the chart below, 
 based on the time you served. 
+
+| If you served | You’ll get this much of the full benefit | 
+| --- | --- | --- |
+| At least 30 months, but less than 36 months | 90% | 
+| At least 24 months, but less than 30 months | 80% | 
+| At least 18 months, but less than 24 months | 70% | 
+| At least 12 months, but less than 18 months | 60% |
+| At least 6 months, but less than 12 months | 50% |
+| At least 90 days, but less than 6 months | 40% |
+
+## What’s this year’s Post-9/11 GI Bill pay rate for colleges and universities?
+
+If you’re attending a college or university that grants degrees (also known as an institution of 
+higher learning), we’ll pay depending on the type of school you attend. The chart below shows this year’s pay benefit.
