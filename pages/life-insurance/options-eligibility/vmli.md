@@ -34,8 +34,8 @@ You may be able to get VMLI if you have a severe disability, and you meet all of
 - Have a mortgage on the home, **and**
 - Are under 70 years old
 
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp)
-
+[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp)<br>
+[View our diagram to learn more about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
 <br>
 
 #### Who’s covered?
@@ -98,9 +98,3 @@ Send notice of any changes to:
   PO Box 7208 (VMLI)<br>
   Philadelphia, PA 19101<br>
 </p>
-
-## Where can I find more information?
-
-[Read our brochure to learn more about VMLI](https://www.benefits.va.gov/INSURANCE/forms/VMLI-brochure-03-2012.pdf)<br>
-[See our overview of how to file a claim for VMLI](https://www.benefits.va.gov/INSURANCE/images/VMLI_Claim.pdf) <br>
-[View our diagram to learn more about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
