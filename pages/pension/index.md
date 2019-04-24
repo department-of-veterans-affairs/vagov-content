@@ -49,7 +49,7 @@ social:
           title: "eBenefits technical support:"
         - url: tel:1-844-698-2311
           number: 844-698-2311
-          title: "Call MyVA311 for Help:"
+          title: "Call MyVA311 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Connect with us
@@ -151,7 +151,7 @@ hublinks:
       external: false
     - url: "/pension/pension-management-centers/"
       label: Find your VA Pension Management Center
-      description: Find your regional pension management center to mail or fax your
+      description: Find your regional Pension Management Center to mail or fax your
         VA pension application.
       external: false
 ---
