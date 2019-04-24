@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Pension Rates For Veterans
 heading: VA pension rates for Veterans
-display_title: Veterans pension rates
-description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+display_title: Veterans Pension rates
+description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans Pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 keywords: va pension rates, va aid and attendance rates
 concurrence:
 spoke: More resources
@@ -30,9 +30,9 @@ Your MAPR amount = $26,036 <br>
 Your yearly income = $10,000 <br>
 Your VA pension = $16,036 for the year (or $1,336 paid each month)
 
-## What's the net worth limit to qualify for a Veterans pension?
+## What's the net worth limit to qualify for a Veterans Pension?
 
-We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. Your net worth also includes the net worth of your spouse. You should report all of your net worth. The net worth limit to qualify for a Veterans pension as of December 1, 2018, is $127,061.
+We've recently changed the way we assess net worth to make the pension entitlement rules more clear. Net worth is the total of your or your beneficiary’s assets and annual income. Your net worth also includes the net worth of your spouse. You should report all of your net worth. The net worth limit to qualify for a Veterans Pension as of December 1, 2018, is $127,061.
 
 **Note:** In the future, the net worth limit will increase by the same percentage as Social Security cost-of-living increases. We'll update the limit here when there's an increase.
 
