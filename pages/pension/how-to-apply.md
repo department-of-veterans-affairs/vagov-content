@@ -65,7 +65,7 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 Fill out an Application for Pension (VA Form 21P-527EZ). <br>
 [Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf)
 
-Mail the completed form to the Pension Management Center (PMC) for your state.<br>
+Mail the completed form to the pension management center (PMC) for your state.<br>
 [Find your PMC](/pension/pension-management-centers/)
 
 **In person** <br>
@@ -99,7 +99,7 @@ Download, fill out, and submit an Intent to File a Claim for Compensation and/or
 
 Turn in your form in any of these ways:
 
-- Mail it to the Pension Management Center (PMC) for your state. <br>
+- Mail it to the pension management center (PMC) for your state. <br>
 [Find your PMC](/pension/pension-management-centers/)
 
 - Turn it in at a VA regional office near you. <br>
