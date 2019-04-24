@@ -54,12 +54,12 @@ All rates in $ US dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran alone**  (no dependents) | 428.83 | 617.73 | 879.36 | 1,113.86 |
-| **With spouse**  (no parents or children) | 479.83 | 685.73 | 964.36 | 1,215.86 |
-| **With spouse**  and 1 parent (no children) | 520.83 | 739.73 | 1,032.36 | 1,297.86 |
-| **With spouse**  and 2 parents (no children) | 561.83 | 793.73 | 1,100.36 | 1,379.86 |
-| **With 1 parent**  (no spouse or children) | 469.83 | 671.73 | 947.36 | 1,195.86 |
-| **With 2 parents**  (no spouse or children) | 510.83 | 725.73 | 1,015.36 | 1,277.86 |
+| **Veteran alone**<br/> (no dependents) | 428.83 | 617.73 | 879.36 | 1,113.86 |
+| **With spouse**<br/> (no parents or children) | 479.83 | 685.73 | 964.36 | 1,215.86 |
+| **With spouse**<br/> and 1 parent (no children) | 520.83 | 739.73 | 1,032.36 | 1,297.86 |
+| **With spouse**<br/> and 2 parents (no children) | 561.83 | 793.73 | 1,100.36 | 1,379.86 |
+| **With 1 parent**<br/> (no spouse or children) | 469.83 | 671.73 | 947.36 | 1,195.86 |
+| **With 2 parents**<br/> (no spouse or children) | 510.83 | 725.73 | 1,015.36 | 1,277.86 |
 
 <h5>Added amounts</h5>
 
