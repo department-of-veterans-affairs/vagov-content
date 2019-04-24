@@ -56,16 +56,17 @@ All rates in $ US dollars
 | -- | -- |-- |-- |-- | 
 | **Veteran alone**<br/> (no dependents) | 428.83 | 617.73 | 879.36 | 1,113.86 |
 | **With spouse**<br/> (no parents or children) | 479.83 | 685.73 | 964.36 | 1,215.86 |
-| **With spouse**<br/> and 1 parent (no children) | 520.83 | 739.73 | 1,032.36 | 1,297.86 |
-| **With spouse**<br/> and 2 parents (no children) | 561.83 | 793.73 | 1,100.36 | 1,379.86 |
+| **With spouse and 1 parent**<br/> (no children) | 520.83 | 739.73 | 1,032.36 | 1,297.86 |
+| **With spouse and 2 parents**<br/> (no children) | 561.83 | 793.73 | 1,100.36 | 1,379.86 |
 | **With 1 parent**<br/> (no spouse or children) | 469.83 | 671.73 | 947.36 | 1,195.86 |
 | **With 2 parents**<br/> (no spouse or children) | 510.83 | 725.73 | 1,015.36 | 1,277.86 |
 
 <h5>Added amounts</h5>
+All rates in $ US dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Spouse receiving Aid and Attendance** | $47.00 | $62.00 | $78.00 | $94.00 |
+| **Spouse receiving Aid and Attendance** | 47.00 | 62.00 | 78.00 | 94.00 |
 
 <span id="how-to-30"></a>
 <h5>How to use these tables to find your monthly payment</h5>
@@ -93,21 +94,23 @@ Your total monthly payment would be $479.83 + $47.00 = <strong>$526.83</strong>.
 <a href="#how-to-70">Read instructions for how to use these tables</a>
 
 <h5>Basic rates for monthly payments</h5>
+All rates in $ US dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran alone (no dependents)** | $1,403.71 | $1,631.69 | $1,833.62 | $3,057.13 |
-| **Veteran with spouse (no parents or children)** | $1,522.71 | $1,767.69 | $1,986.62 | $3,227.58 |
-| **Veteran with spouse and 1 parent (no children)** | $1,617.71 | $1,876.69 | $2,109.62 | $3,364.37 |
-| **Veteran with spouse and 2 parents (no children)** | $1,712.71 | $1,985.69 | $2,232.62 | $3,501.16 |
-| **Veteran with 1 parent (no spouse or children)** | $1,498.71 | $1,740.69 | $1,956.62 | $3,193.92 |
-| **Veteran with 2 parents (no spouse or children)** | $1,593.71 | $1,849.69 | $2,079.62 | $3,330.71 |
+| **Veteran alone**<b/> (no dependents) | 1,403.71 | 1,631.69 | 1,833.62 | 3,057.13 |
+| **With spouse**<b/> (no parents or children) | 1,522.71 | 1,767.69 | 1,986.62 | 3,227.58 |
+| **With spouse and 1 parent**<b/> (no children) | 1,617.71 | 1,876.69 | 2,109.62 | 3,364.37 |
+| **With spouse and 2 parents**<b/> (no children) | 1,712.71 | 1,985.69 | 2,232.62 | 3,501.16 |
+| **With 1 parent**<b/> (no spouse or children) | 1,498.71 | 1,740.69 | 1,956.62 | 3,193.92 |
+| **With 2 parents**<b/> (no spouse or children) | 1,593.71 | 1,849.69 | 2,079.62 | 3,330.71 |
 
 <h5>Added amounts</h5>
+All rates in $ US dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Spouse receiving Aid and Attendance** | $109.00 | $125.00 | $141.00 | $156.32 |
+| **Spouse receiving Aid and Attendance** | 109.00 | 125.00 | 141.00 | 156.32 |
 
 <span id="how-to-70"></a>
 <h5>How to use these tables to find your monthly payment</h5>
