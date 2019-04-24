@@ -60,3 +60,16 @@ higher learning), we’ll pay depending on the type of school you attend. The ch
 | --- | --- |
 |Public school | All tuition and fee payments at the in-state student rate, up to the national maximum of **$24,476.79** |
 | Private or foreign school | Up to the national maximum of **$24,476.79** |
+
+If you’re attending a public college or university as a non-resident, or if you’re attending a private school 
+that’s more expensive than the national maximum, you may be able to get extra financial help. You can:
+
+- Check to see if you’re eligible for extra payment under the Yellow Ribbon program.
+[Learn about the Yellow Ribbon program](https://www.benefits.va.gov/gibill/yellow_ribbon.asp)
+
+- Check with your school to see if you qualify for in-state tuition rates if you live in the state where the 
+school is—even if your formal state of residence is elsewhere. 
+[Find your school in our interactive map](https://inquiry.vba.va.gov/weamspub/searchInst.do)
+If you disagree with what your school tells you, you can file a complaint with us to see if we can help change 
+the school’s decision. 
+[File a complaint](https://www.benefits.va.gov/GIBILL/Feedback.asp)
