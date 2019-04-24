@@ -49,7 +49,7 @@ Submit a military records request to get your DD214 or other military service re
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my military service records?</h2>
+<h2 itemprop="name">Once I've signed in to MilConnect, how do I request my DD214 or other military records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -111,7 +111,7 @@ You can also check the status of your military records request by signing in to 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Are there other ways to get my military service records?</h2>
+<h2 itemprop="name">Are there other ways to get my military records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
