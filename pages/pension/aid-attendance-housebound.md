@@ -44,7 +44,7 @@ If you get a VA pension and you spend most of your time in your home because of 
 
 **You can apply for VA Aid and Attendance or Housebound benefits in one of these ways:**
 
-### Write to your Pension Management Center (PMC)
+### Write to your pension management center (PMC)
 
 You can write to the PMC for your state. <br>
 [Find your PMC](/pension/pension-management-centers/)
