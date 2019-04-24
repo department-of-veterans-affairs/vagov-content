@@ -98,12 +98,12 @@ All rates in $ US dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran alone**<b/> (no dependents) | 1,403.71 | 1,631.69 | 1,833.62 | 3,057.13 |
-| **With spouse**<b/> (no parents or children) | 1,522.71 | 1,767.69 | 1,986.62 | 3,227.58 |
-| **With spouse and 1 parent**<b/> (no children) | 1,617.71 | 1,876.69 | 2,109.62 | 3,364.37 |
-| **With spouse and 2 parents**<b/> (no children) | 1,712.71 | 1,985.69 | 2,232.62 | 3,501.16 |
-| **With 1 parent**<b/> (no spouse or children) | 1,498.71 | 1,740.69 | 1,956.62 | 3,193.92 |
-| **With 2 parents**<b/> (no spouse or children) | 1,593.71 | 1,849.69 | 2,079.62 | 3,330.71 |
+| **Veteran alone**<br/> (no dependents) | 1,403.71 | 1,631.69 | 1,833.62 | 3,057.13 |
+| **With spouse**<br/> (no parents or children) | 1,522.71 | 1,767.69 | 1,986.62 | 3,227.58 |
+| **With spouse and 1 parent**<br/> (no children) | 1,617.71 | 1,876.69 | 2,109.62 | 3,364.37 |
+| **With spouse and 2 parents**<br/> (no children) | 1,712.71 | 1,985.69 | 2,232.62 | 3,501.16 |
+| **With 1 parent**<br/> (no spouse or children) | 1,498.71 | 1,740.69 | 1,956.62 | 3,193.92 |
+| **With 2 parents**<br/> (no spouse or children) | 1,593.71 | 1,849.69 | 2,079.62 | 3,330.71 |
 
 <h5>Added amounts</h5>
 All rates in $ US dollars
@@ -142,23 +142,25 @@ Your total monthly payment would be $1,522.71 + $109.00 = <strong>$1,631.71</str
 <a href="#how-to-60">Read instructions for how to use these tables</a>
 
 <h5>Basic rates for monthly payments</h5>
+All rates in $ US dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran with 1 child only (no spouse or parents)** | $462.83 | $662.73 | $935.36 | $1,181.86 |
-| **Veteran with 1 child and spouse (no parents)** | $516.83 | $735.73 | $1,026.36 | $1,290.86 |
-| **Veteran with 1 child, spouse, and 1 parent** | $557.83 | $789.73 | $1,094.36 | $1,372.86 |
-| **Veteran with 1 child, spouse, and 2 parents** | $598.83 | $843.73 | $1,162.36 | $1,454.86 |
-| **Veteran with 1 child and 1 parent (no spouse)** | $503.83 | $716.73 | $1,003.36 | $1,263.86 |
-| **Veteran with 1 child and 2 parents (no spouse)** | $544.83 | $770.73 | $1,071.36 | $1,345.86 |
+| **Veteran with 1 child only**<br/> (no spouse or parents) | 462.83 | 662.73 | 935.36 | 1,181.86 |
+| **With 1 child and spouse**<br/> (no parents) | 516.83 | 735.73 | 1,026.36 | 1,290.86 |
+| **With 1 child, spouse, and 1 parent** | 557.83 | 789.73 | 1,094.36 | 1,372.86 |
+| **With 1 child, spouse, and 2 parents** | 598.83 | 843.73 | 1,162.36 | 1,454.86 |
+| **With 1 child and 1 parent**<br/> (no spouse) | 503.83 | 716.73 | 1,003.36 | 1,263.86 |
+| **With 1 child and 2 parents**<br/> (no spouse) | 544.83 | 770.73 | 1,071.36 | 1,345.86 |
 
 <h5>Added amounts</h5>
+All rates in $ US dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Each additional child under age 18** | $25.00 | $33.00 | $42.00 | $50.00 |
-| **Each additional child over age 18 in a qualifying school program** | $82.00 | $109.00 | $136.00 | $164.00 |
-| **Spouse receiving Aid and Attendance** | $47.00 | $62.00 | $78.00 | $94.00 |
+| **Each additional child under age 18** | 25.00 | 33.00 | 42.00 | 50.00 |
+| **Each additional child over age 18 in a qualifying school program** | 82.00 | 109.00 | 136.00 | 164.00 |
+| **Spouse receiving Aid and Attendance** | 47.00 | 62.00 | 78.00 | 94.00 |
 
 <span id="how-to-60"></a>
 <h5>How to use these tables to find your monthly payment</h5>
@@ -194,25 +196,27 @@ Your total monthly payment would be $516.83 + ($25.00 x 2) + $47.00 = <strong>$6
 <div id="70-100-yes-children" class="usa-accordion-content">
 
 <h5>Basic rates for monthly payments</h5>
+All rates in $ US dollars
 
 <a href="#how-to-100">Get instructions for how to use these tables</a>
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran with child only (no spouse or parents)** | $1,482.71 | $1,722.69 | $1,935.62 | $3,171.12 |
-| **Veteran with 1 child and spouse (no parents)** | $1,609.71 | $1,867.69 | $2,098.62 | $3,352.41 |
-| **Veteran with 1 child, spouse, and 1 parent** | $1,704.71 | $1,976.69 | $2,221.62 | $3,489.20 |
-| **Veteran with 1 child, spouse, and 2 parents** | $1,799.71 | $2,085.69 | $2,344.62 | $3,625.99 |
-| **Veteran with 1 child and 1 parent (no spouse)** | $1,577.71 | $1,940.69 | $2,181.62 | $3,444.70 |
-| **Veteran with 1 child and 2 parents (no spouse)** | $1,672.71 | $1,849.69 | $2,079.62 | $3,330.71 |
+| **Veteran with child only (no spouse or parents)** | 1,482.71 | 1,722.69 | 1,935.62 | 3,171.12 |
+| **With 1 child and spouse**<br/> (no parents) | 1,609.71 | 1,867.69 | 2,098.62 | 3,352.41 |
+| **With 1 child, spouse, and 1 parent** | 1,704.71 | 1,976.69 | 2,221.62 | 3,489.20 |
+| **With 1 child, spouse, and 2 parents** | 1,799.71 | 2,085.69 | 2,344.62 | 3,625.99 |
+| **With 1 child and 1 parent**<br/> (no spouse) | 1,577.71 | 1,940.69 | 2,181.62 | 3,444.70 |
+| **With 1 child and 2 parents**<br/> (no spouse) | 1,672.71 | 1,849.69 | 2,079.62 | 3,330.71 |
 
 <h5>Added amounts</h5>
+All rates in $ US dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Each additional child under age 18** | $59.00 | $67.00 | $76.00 | $84.69 |
-| **Each additional child over age 18 in a qualifying school program** | $191.00 | $218.00 | $246.00 | $273.58 |
-| **Spouse receiving Aid and Attendance** | $109.00 | $125.00 | $141.00 | $156.32 |
+| **Each additional child under age 18** | 59.00 | 67.00 | 76.00 | 84.69 |
+| **Each additional child over age 18 in a qualifying school program** | 191.00 | 218.00 | 246.00 | 273.58 |
+| **Spouse receiving Aid and Attendance** | 109.00 | 125.00 | 141.00 | 156.32 |
 
 <span id="how-to-100"></a>
 <h5>How to use these tables to find your monthly payment</h5>
