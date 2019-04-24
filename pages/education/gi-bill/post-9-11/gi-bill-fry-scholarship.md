@@ -55,3 +55,8 @@ based on the time you served.
 
 If you’re attending a college or university that grants degrees (also known as an institution of 
 higher learning), we’ll pay depending on the type of school you attend. The chart below shows this year’s pay benefit.
+
+| Type of school | Maximum tuition & fee payment for 2019 academic year |
+| --- | --- |
+|Public school | All tuition and fee payments at the in-state student rate, up to the national maximum of **$24,476.79** |
+| Private or foreign school | Up to the national maximum of **$24,476.79** |
