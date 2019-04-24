@@ -84,15 +84,15 @@ hublinks:
     title: Get VA pension benefits 
     links:
     - url: "/pension/eligibility/"
-      label: Veterans pension eligibility
+      label: Veterans Pension eligibility
       description: See if you qualify for VA pension benefits as a Veteran.
       external: false
     - url: "/pension/how-to-apply/"
       label: How to apply for a VA pension as a Veteran
-      description: Find out how to prepare and apply for a VA Veterans pension.
+      description: Find out how to prepare and apply for a VA Veterans Pension.
       external: false
     - url: "/pension/application/527EZ/introduction"
-      label: Apply for a Veterans pension online (VA Form 21P-527EZ)
+      label: Apply for a Veterans Pension online (VA Form 21P-527EZ)
       description: Complete your application online now.
       external: false
     - url: "/pension/aid-attendance-housebound/"
