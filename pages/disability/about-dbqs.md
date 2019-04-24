@@ -47,17 +47,17 @@ No. DBQs can help speed up the claim process, but they're not mandatory.
 
 This depends on the illness or injury you're claiming. For most conditions, you can visit a VA health care facility or any private health care provider you choose. But some conditions require special training, equipment, or testing that most private health care providers don't have. For these conditions, you'll need to have a VA provider fill out the DBQ.
 
-#### A VA health care provider must fill out the DBQ for the below conditions and exams
+#### A VA health care provider must fill out the DBQ for the below conditions and exams:
 
 -	First exam for posttraumatic stress disorder (PTSD)
 -	Hearing loss and tinnitus (ringing in the ears)
 -	Residuals of traumatic brain injury (lasting effects on your ability to function as a result of a TBI)
 -	Cold injury residuals (lasting effects on your body from cold injuries)
--	Prisoner of War examination protocol
+-	Prisoner of war examination protocol
 -	Gulf War medical exam
 -	General medical exam to help determine VA disability compensation or pension benefits
 
-### If I do go to a private provide for a DBQ exam, will VA pay for the appointment?
+### If I do go to a private provider for a DBQ exam, will VA pay for the appointment?
 
 No. You’ll be responsible for paying for that private appointment.
 
