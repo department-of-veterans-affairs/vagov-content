@@ -202,7 +202,7 @@ All rates in $ US dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
 | -- | -- |-- |-- |-- | 
-| **Veteran with child only (no spouse or parents)** | 1,482.71 | 1,722.69 | 1,935.62 | 3,171.12 |
+| **Veteran with child only**<br/> (no spouse or parents) | 1,482.71 | 1,722.69 | 1,935.62 | 3,171.12 |
 | **With 1 child and spouse**<br/> (no parents) | 1,609.71 | 1,867.69 | 2,098.62 | 3,352.41 |
 | **With 1 child, spouse, and 1 parent** | 1,704.71 | 1,976.69 | 2,221.62 | 3,489.20 |
 | **With 1 child, spouse, and 2 parents** | 1,799.71 | 2,085.69 | 2,344.62 | 3,625.99 |
