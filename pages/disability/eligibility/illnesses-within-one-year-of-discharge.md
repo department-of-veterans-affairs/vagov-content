@@ -22,7 +22,7 @@ relatedlinks:
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge Claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
-    - url: /disability/about-disability-ratings/effective-date/
+    - url: /disability/effective-date/
       title: Effective Date of Disability
       description: "Learn how VA decides the date you can start getting your disability benefits."
 aliases:
