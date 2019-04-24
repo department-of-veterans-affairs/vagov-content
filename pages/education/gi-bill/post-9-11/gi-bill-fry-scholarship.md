@@ -9,7 +9,8 @@ concurrence:
 spoke: More information and resources
 order: 1
 relatedlinks:
-  - heading: GI Bill Comparison Tool
+  - heading: Learn more about education benefits
+And yes I was thinking they'd go at the bottom of the page - but you may feel like it's way too much once you see it in layout?
     links:
     - url: /gi-bill-comparison-tool/
       title: GI Bill Comparison Tool
@@ -80,14 +81,17 @@ If you’re attending a public college or university as a non-resident, or if yo
 that’s more expensive than the national maximum, you may be able to get extra financial help. You can:
 
 - Check to see if you’re eligible for extra payment under the Yellow Ribbon program.
+
 [Learn about the Yellow Ribbon program](https://www.benefits.va.gov/gibill/yellow_ribbon.asp)
 
 - Check with your school to see if you qualify for in-state tuition rates if you live in the state where the 
 school is—even if your formal state of residence is elsewhere. 
+
 [Find your school in our interactive map](https://inquiry.vba.va.gov/weamspub/searchInst.do)
 
 If you disagree with what your school tells you, you can file a complaint with us to see if we can help change 
 the school’s decision. 
+
 [File a complaint](https://www.benefits.va.gov/GIBILL/Feedback.asp)
 
 ## What’s the pay rate for non-college degree-granting schools?
@@ -156,4 +160,31 @@ fewer per square mile, as determined by the most recent census. And one of the f
 - Need to physically relocate at least 500 miles to attend an educational institution, **or**
 - Need to travel by air to physically attend an educational institution if no other land-based transportation exists
 
+### Can I change my education benefits?
+In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET).
+
+### [Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+Find out if your school participates in the Yellow Ribbon program, which can help pay tuition costs that the 
+Post-9/11 GI Bill doesn’t cover.
+
+### [Tuition assistance top-up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
+If your college tuition costs more than what’s covered by your education benefits program, find out if you can get more 
+money to cover tuition costs.
+
+### [Tutoring assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)
+If you’re using VA educational benefits and you’re struggling with the coursework, find out if you can get help paying 
+for a tutor.
+
+### Historic Post-9/11 GI Bill rates
+- [Rates effective August 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
+- [Rates effective August 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080117.asp)
+- [Rates effective August 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080116.asp)
+- [Rates effective August 1, 2015](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080115.asp)
+- [Rates effective August 1, 2014](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080114.asp)
+- [Rates effective August 1, 2013](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080113.asp)
+- [Rates effective August 1, 2012](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080112.asp)
+- [For the 2011 - 2012 academic year the Post-9/11 GI Bill pays the full tuition and fees for all public school in-state students. Learn more](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080111.asp)
+- [2010-2011 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2010.asp)
+- [2009-2010 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2009.asp)
+- [2008-2009 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2008.asp)
 
