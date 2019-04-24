@@ -10,7 +10,6 @@ spoke: More information and resources
 order: 1
 relatedlinks:
   - heading: Learn more about education benefits
-And yes I was thinking they'd go at the bottom of the page - but you may feel like it's way too much once you see it in layout?
     links:
     - url: /gi-bill-comparison-tool/
       title: GI Bill Comparison Tool
