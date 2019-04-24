@@ -9,6 +9,16 @@ keywords: n/a
 concurrence: 
 order: 3
 spoke: Manage Benefits
+relatedlinks:
+  - url: /life-insurance/manage-your-policy/
+    title: Access your policy online
+    description: View and manage the details of your VA life insurance policy online. 
+  - url: /claim-or-appeal-status/
+    title: Check your VA claim or appeal status
+    description: Find out how to check the status of a VA claim or appeal online
+  - url: https://benefits.va.gov/INSURANCE/updatebene.asp
+    title: Change your VA life insurance beneficiary
+    description: View and make changes to your VA life insurance beneficiary.
 ---
 
 <div class="va-introtext">
