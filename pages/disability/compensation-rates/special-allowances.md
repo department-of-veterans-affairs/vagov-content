@@ -32,12 +32,13 @@ View current benefit rates that may apply to you if you qualify for an automobil
 
 
 <h2>Current special benefit allowances rates</h2>
+All rates in $ US dollars
 
 | Benefit  | Monthly payment | Effective date | 
 | -- | -- | -- | 
-| **Automobile allowance** <br> Money to help you buy a specially equipped vehicle if you have a service-connected disability that prevents you from driving | $21,058.69 (paid once) | October 10, 2018 | 
-| **Clothing allowance** <br> Money to help you buy new clothes to replace clothes damaged by a prosthetic or orthopedic device or medicine taken for a skin condition, related to your service-connected disability  | $817.48 (paid either one time total **or** once each year) | December 12, 2018 | 
-| **Medal of Honor pension** <br> Added compensation if you've received the Medal of Honor | $1,366.81 (paid once each month) | December 12, 2018 | 
+| **Automobile allowance** <br> Money to help you buy a specially equipped vehicle if you have a service-connected disability that prevents you from driving | 21,058.69 (paid once) | October 10, 2018 | 
+| **Clothing allowance** <br> Money to help you buy new clothes to replace clothes damaged by a prosthetic or orthopedic device or medicine taken for a skin condition, related to your service-connected disability  | 817.48 (paid either one time total **or** once each year) | December 12, 2018 | 
+| **Medal of Honor pension** <br> Added compensation if you've received the Medal of Honor | 1,366.81 (paid once each month) | December 12, 2018 | 
 
 **Notes:**
 
