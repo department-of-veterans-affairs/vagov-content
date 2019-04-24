@@ -70,6 +70,75 @@ that’s more expensive than the national maximum, you may be able to get extra 
 - Check with your school to see if you qualify for in-state tuition rates if you live in the state where the 
 school is—even if your formal state of residence is elsewhere. 
 [Find your school in our interactive map](https://inquiry.vba.va.gov/weamspub/searchInst.do)
+
 If you disagree with what your school tells you, you can file a complaint with us to see if we can help change 
 the school’s decision. 
 [File a complaint](https://www.benefits.va.gov/GIBILL/Feedback.asp)
+
+## What’s the pay rate for non-college degree-granting schools?
+
+If you attend a non-college degree school, you may be eligible for Post-9/11 GI Bill benefits. These schools can 
+include vocational and technical training like mechanic and repair programs, emergency medical technician (EMT) 
+training, barber and beautician school, and more. 
+
+This year’s benefit for in-state tuition and fees pays up to **$24,476.79** for the academic year. 
+
+In addition, you may be eligible for other benefits. You may be able to get:
+- A monthly housing allowance, which is similar to the basic allowance for housing (BAH)
+- Payment for books and supplies
+- A one-time rural benefit for certain veterans
+See the information below for more details on these programs.
+
+## What’s the pay rate for apprenticeship or on-the-job training programs?
+
+Because you’ll be earning a salary during your apprenticeship or on-the-job training, we won’t pay for tuition or fees. 
+We’ll pay for your monthly housing allowance (MHA) based on where you are in your training program. The chart below shows 
+the percentage of your MHA you’ll receive.
+
+| Training period | Monthly rate |
+| --- | --- |
+| First 6 months of training | 100% of your applicable MHA |
+| Second 6 months of training | 80% of your applicable MHA |
+| Third 6 months of training | 60% of your applicable MHA |
+| Fourth 6 months of training | 40% of your applicable MHA |
+| Remaining pursuit of training | 20% of your applicable MHA |
+
+[Learn more about the monthly housing allowance]
+We’ll also pay you up to $1,000 each academic year for books and supplies. 
+
+### Other types of training covered by the Post-9/11 GI Bill
+
+We’ll also cover payment for other kinds of training programs. We cover:
+- **Vocational flight schools**. We’ll pay up to **$13,986.72** for the academic year. 
+- **Correspondence schools**. We’ll pay up to **$11,888.70** for the academic year.
+- **National testing programs and licensing and certification tests**. You can use part of your GI Bill payment to cover 
+the cost of certain tests you need to take to become a licensed or certified professional—or to apply for college or 
+a training course.
+
+We’ll pay up to **$2,000** for qualifying tests and certifications. We cover only tests approved for the GI Bill, so 
+find out what’s approved before you take any tests.
+
+[Learn more about test and license fee benefits](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)
+
+### Post 9/11 GI Bill and other housing allowances
+
+In addition to the payments for tuition and fees at your school, we offer housing benefits payable while you’re 
+studying. We offer a **monthly housing allowance**, also known as MHA. This benefit is similar to the basic allowance 
+for housing (BAH).
+[Learn more about the VA education housing allowance rates]
+
+### Education books and supplies allowance
+
+We’ll pay up to **$1,000** for each academic year for books and supplies. This fee is paid proportionately, 
+based on your enrollment.
+
+### Post-9/11 GI Bill rural grant
+
+If you need to relocate from a highly rural area so you can attend school, you may qualify 
+for a one-time payment of **$500** to help with your expenses. You must be living in a county with 6 people or 
+fewer per square mile, as determined by the most recent census. And one of the following must also be true. You:
+
+- Need to physically relocate at least 500 miles to attend an educational institution, **or**
+- Need to travel by air to physically attend an educational institution if no other land-based transportation exists
+
+
