@@ -24,7 +24,38 @@ any of these GI Bill educational programs:
 
 ## What’s my monthly housing allowance (MHA)?
 
-If you’re using the Post-9/11 GI Bill, your monthly housing allowance (MHA) is based on the military Basic Allowance for Housing (BAH) for an E-5 with dependents. To qualify, you need to be enrolled at more than half-time at your school.<br/>
-We calculate your MHA based on the zip code of the campus where you physically attend most of your classes, not that of the main college or university you’re enrolled in.<br/>
+If you’re using the Post-9/11 GI Bill, your monthly housing allowance (MHA) is based on the military Basic Allowance for Housing (BAH) for an E-5 with dependents. To qualify, you need to be enrolled at more than half-time at your school.
+
+We calculate your MHA based on the zip code of the campus where you physically attend most of your classes, not that of the main college or university you’re enrolled in.
+
 The rates on the rest of this page apply if you’re using the Post-9/11 GI Bill. If you’re enrolled in another GI Bill education benefits program, you may still be eligible for an MHA. Use the GI Bill Comparison Tool to enter your school to see what your benefits will be.
 
+[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool/)
+
+### How we decide your monthly housing allowance
+
+If you’re attending school at less than full-time (but still more than half-time to qualify), 
+we use a formula to prorate your housing allowance. 
+
+#### Undergraduate programs
+
+Most undergraduate programs require 12 semester or quarter hours for full-time training. Your school will submit your term 
+dates and credit hours to us, and we’ll calculate your training time, or “rate of pursuit,” which is the basis for deciding 
+your housing allowance.<br/>
+
+For example, if 12 credits is considered full-time, a course load of 7 credits yields a rate of pursuit of 58% 
+(7 ÷ 12 = .58). A Veteran would need 7 credits—for example, two 3-credit classes plus a 1-credit lab—to receive this 
+designation.<br/>
+
+Some schools offer classes in terms that are shorter than a semester or quarter. This is especially true for online classes
+and summer enrollments. Other schools offer accelerated terms at brick-and-mortar campuses year-round. In these cases, we
+calculate weighted "equivalent credit hours" so that fewer credits are required for full-time (and more than half-time)
+training.
+
+#### Graduate programs
+
+Because graduate-level programs vary in the amount of credits needed for full-time training, the school provides the
+training time information to us. They also tell us your term dates and credit hours.
+
+#### MHA payments
+Once your training time is determined, we’ll pay you the MHA at the nearest 10% level. If your training time is determined to be 58%, as calculated above, you’ll be paid **60% of the applicable housing allowance**. If your training time is calculated to be 84%, you’ll be paid **80% of the applicable housing allowance**.
