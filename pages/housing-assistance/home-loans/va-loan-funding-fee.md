@@ -27,37 +27,43 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you get a VA-backed or VA direct home loan, you may have to make a one-time payment, called a VA funding fee. VA funding fees help lower the cost of the loan for taxpayers. Find out more about how we determine funding fees and learn about other VA loan closing costs.
+Learn about the VA funding fee and other closing costs you may need to pay on your VA-backed or VA direct home loan.
 
 </div>
 
-<h2>Will I have to pay a VA funding fee?</h2>
+<h2>What is the VA funding fee?</h2>
 
-If you're using a VA home loan to purchase a home or refinance a mortgage, you'll need to pay a funding fee. A VA funding fee is a percentage of your total loan amount. 
+The VA funding fee is a one-time payment that the buyer pays on a VA-backed or VA direct home loan. This fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn't require down payments or monthly mortgage insurance.
+
+<h2>Will I have to pay the VA funding fee?</h2>
+
+If you're using a VA home loan to buy, build, improve, or repair a home or to refinance a mortgage, you'll need to pay the VA funding fee unless you meet certain requirements.
 
 <strong>You won’t have to pay a VA funding fee if any of the below descriptions is true for you. You're:</strong>
 - Receiving VA compensation for a service-connected disability, <strong>or</strong>
 - Eligible to receive VA compensation for a service-connected disability, but you're receiving retirement or active-duty pay instead, <strong>or</strong>
 - The surviving spouse of a Veteran who died in service or from a service-connected disability
 
-<h2>How will I pay the VA funding fee for my loan?</h2>
+<h2>How will I pay this fee?</h2>
 
 You'll pay this fee when you close your VA-backed or VA direct home loan. 
 
 <strong>You can pay the VA funding fee in either of these ways</strong>: 
 
-- Include the funding fee in your loan and pay it off over time, <strong>or</strong 
-- Pay the fee upfront 
-
+- Include the funding fee in your loan and pay it off over time (called financing), <strong>or</strong> 
+- Pay the full fee all at once at closing
 
 <h2>How will VA determine my funding fee?</h2>
 
-**We'll base your fee on:** 
+**For all loans, we'll base your fee on:** 
 
 - The type of loan you get, **and**
-- Your down payment amount, **and**
+- The total amount of your loan. We calculate your funding fee as a percentage of your total loan amount.
+
+**Depending on your loan type, we may also base your fee on:**
 - Your military category, **and**
-- Whether it’s your first time getting a VA-backed or VA direct home loan
+- Whether it’s your first time getting a VA-backed or VA direct home loan, **and**
+- Your down payment amount
 
 **Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. 
 
@@ -65,52 +71,51 @@ You'll pay this fee when you close your VA-backed or VA direct home loan.
 
 Review the VA funding fee charts below to determine the amount you’ll have to pay. 
 
-<h3>Purchase and construction loans</h3>
+<h3>Purchase and construction loans to buy, build, improve, or repair a home</h3>
 
-<br> 
+<h4>Regular military rates for Veterans with active-duty service</h4>
 
-<strong>Regular military rates:</strong>
+<h5>If this is your first VA-backed or VA direct home loan</h5>
 
-
-| Down payment | Percentage for first-time use | Percentage for subsequent (after first-time) use |
-| --- | --- | --- | 
-| None  | 2.15%  | 3.3%* |
-| 5% or more  | 1.5%  | 1.5%  |
-| 10% or more  | 1.25% | 1.25% |
-
-Down payment and VA funding fee amounts expressed as a percentage of total loan amount
-
-| Down payment | VA funding fee |
-| --- | --- | --- | 
-| None  | 2.15%  | 
-| 5% or more  | 1.5%  | 
-| 10% or more  | 1.25% | 
-
-Down payment and VA funding fee amounts expressed as a percentage of total loan amount
+Down payment and VA funding fee amounts expressed as a percentage of total loan amount.
 
 | If your down payment is... | Your VA funding fee will be... |
-| --- | --- | --- | 
-| None  | 2.15%  | 
+| --- | --- | 
+| Less than 5%  | 2.15%  | 
 | 5% or more  | 1.5%  | 
 | 10% or more  | 1.25% | 
 
-| If you pay this percentage of your total loan amount as a down payment... | You'll pay this percentage of your total loan amount for your VA funding fee... |
-| --- | --- | --- | 
-| None  | 2.15%  | 
-| 5% or more  | 1.5%  | 
-| 10% or more  | 1.25% | 
+<h5>If you've already used a VA-backed or VA direct home loan in the past</h5>
 
+Down payment and VA funding fee amounts expressed as a percentage of total loan amount.
 
+| If your down payment is... | Your VA funding fee will be... |
+| --- | --- | 
+| Less than 5%  | 3.3% |
+| 5% or more  | 1.5%  |
+| 10% or more  | 1.25% |
+
+**Note:** If you used a VA-backed or VA direct home loan to purchase a manufactured home, you only need to pay the first-time use funding fee.
 
 <br> 
 
-<strong>Reserves and National Guard rates:</strong>
+<h4>National Guard and Reserve rates</h4>
 
-| Down payment | Percentage for first-time use | Percentage for subsequent (after first-time) use |
-| --- | --- | --- | 
-| None  | 2.4%  | 3.3%* |
-| 5% or more  | 1.75%  | 1.75%  |
-| 10% or more  | 1.5% | 1.5% |
+<h5>If this is your first VA-backed or VA direct home loan</h5>
+
+| If your down payment is... | Your VA funding fee will be... |
+| --- | --- | 
+| Less than 5%  | 2.4%  | 
+| 5% or more  | 1.75%  | 
+| 10% or more  | 1.5% | 
+
+<h5>If you've already used a VA-backed or VA direct home loan in the past</h5>
+
+| If your down payment is... | Your VA funding fee will be... |
+| --- | --- | 
+| Less than 5% | 3.3%* |
+| 5% or more | 1.75%  |
+| 10% or more | 1.5% |
 
 <br>
 
@@ -137,7 +142,7 @@ Down payment and VA funding fee amounts expressed as a percentage of total loan 
 
 <br> 
 
-\*If you used a VA-backed or VA direct home loan to purchase a manufactured home, you only need to pay the first-time use funding fee 
+\*
 
 <br>
 
