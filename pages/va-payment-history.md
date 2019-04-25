@@ -14,7 +14,7 @@ spoke: Get Records
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out how to view your VA payment history.
+Find out how to view your VA payment history online.
 
 </div>
 
