@@ -21,11 +21,11 @@ If you served on a Navy or Coast Guard ship in or around Vietnam during the Viet
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have 1 or more illnesses believed to be caused by Agent Orange and you meet the requirements listed below.
+You may be able to get disability benefits if you have one or more illnesses believed to be caused by Agent Orange and you meet the requirements listed below.
 
 **One of these must be true:**
 - You served on ships or boats that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
-- You had 1 of the following designations:
+- You had one of the following designations:
 
   - AGP (Assault Group Patrol/Patrol Craft Tender)
   - LCM (Landing Craft, Mechanized)
@@ -45,7 +45,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
 **Note:** Even if your ship or boat is not included in the Mobile Riverine Force, Inshore Fire Support Division 93, or the above designations, it may still appear in our alphabetized list of ships that had contact with Agent Orange.<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>.
 
 <br>
 
@@ -69,7 +69,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 You’ll need to file a claim for disability compensation.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-If you served on 1 of the ships or boats listed above—and you have 1 or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
+If you served on one of the ships or boats listed above—and you have one or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
 
 If you don’t have an Agent Orange–related disability at this time, you and your family can still be part of the Agent Orange Health Registry.
 
