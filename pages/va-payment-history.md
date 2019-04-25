@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: View Your VA Payment History | Veterans Affairs
+title: View Your VA Payment History
 heading: View your VA payment history
 display_title: View VA Payment History
-description: Sign in or register for a Premium Account to view your VA benefit payment history on ebenefits. Surving spouses and parents can view other VA benefits like Chapter 35. 
-keywords: va payment
+description: View your VA payment history online for disability compensation, pension, and education benefits. Survivors can view past VA payments for certain benefits, including Chapter 35, Survivors pension, and Dependence and Indemnity Compensation.
+keywords: va payment, va payment history, va payments
 collection: records
 order: 7
 spoke: Get Records
@@ -30,7 +30,7 @@ Find out how to view your VA payment history online.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What payment information can I view when I sign in?</h2>
+<h2 itemprop="name">What VA payment information can I view when I sign in?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
