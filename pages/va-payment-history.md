@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: View Your VA Payment History
 heading: View your VA payment history
-display_title: View VA Payment History
-description: View your VA payment history online for disability compensation, pension, and education benefits. Survivors can view past VA payments for certain benefits, including Chapter 35, Survivors pension, and Dependence and Indemnity Compensation.
+display_title: View VA payment history
+description: View your VA payment history online for disability compensation, pension, and education benefits. Survivors can view past VA payments for certain benefits, including Chapter 35, Survivors Pension, and Dependence and Indemnity Compensation.
 keywords: va payment, va payment history, va payments
 collection: records
 order: 7
