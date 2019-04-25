@@ -41,11 +41,11 @@ we use a formula to prorate your housing allowance.
 
 Most undergraduate programs require 12 semester or quarter hours for full-time training. Your school will submit your term 
 dates and credit hours to us, and we’ll calculate your training time, or “rate of pursuit,” which is the basis for deciding 
-your housing allowance.<br/>
+your housing allowance.
 
 For example, if 12 credits is considered full-time, a course load of 7 credits yields a rate of pursuit of 58% 
 (7 ÷ 12 = .58). A Veteran would need 7 credits—for example, two 3-credit classes plus a 1-credit lab—to receive this 
-designation.<br/>
+designation.
 
 Some schools offer classes in terms that are shorter than a semester or quarter. This is especially true for online classes
 and summer enrollments. Other schools offer accelerated terms at brick-and-mortar campuses year-round. In these cases, we
@@ -58,4 +58,33 @@ Because graduate-level programs vary in the amount of credits needed for full-ti
 training time information to us. They also tell us your term dates and credit hours.
 
 #### MHA payments
-Once your training time is determined, we’ll pay you the MHA at the nearest 10% level. If your training time is determined to be 58%, as calculated above, you’ll be paid **60% of the applicable housing allowance**. If your training time is calculated to be 84%, you’ll be paid **80% of the applicable housing allowance**.
+Once your training time is determined, we’ll pay you the MHA at the nearest 10% level. If your training time is determined to 
+be 58%, as calculated above, you’ll be paid **60% of the applicable housing allowance**. If your training time is calculated 
+to be 84%, you’ll be paid **80% of the applicable housing allowance**.
+
+### What’s the 2019 MHA?
+
+We base your MHA payments on the military's basic allowance for housing (BAH) rates for an E-5 with dependents. You can use a
+BAH calculator to see what this year’s housing allowance is. Enter these pieces of information:
+
+-	The zip code where you’ll be attending school, **and**
+-	The pay grade (in this case, E-5), **and**
+-	The year you’re receiving the benefits (in this case, 2019 BAH rates)
+
+You’ll see two results, one for “with dependents,” and one for “without dependents.” The Post-9/11 GI Bill MHA is equal to 
+the total “with dependents.”
+
+[Use the BAH calculator](https://militarybenefits.info/2019-bah-basic-allowance-for-housing-rates/)
+
+## Do you ever change the MHA?
+
+We base your MHA payments on the military's basic allowance for housing (BAH) rates for an E-5 with dependents. The 
+Department of Defense adjusts the military BAH rate every year on January 1, based on changes to housing costs across 
+the country. The rates will then be effective starting the following August for the academic year. Rates can either go up 
+or down.
+
+If the BAH rates **increased** for your area, you’ll see an increase in your September payment for training you received in
+August. If the BAH **decreases** for your area, your MHA amount will not decrease unless you change schools or have more 
+than a 6-month break in training.
+
+### Are there any variations on the MHA?
