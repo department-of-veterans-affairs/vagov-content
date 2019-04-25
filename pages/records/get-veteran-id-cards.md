@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Types of Veteran ID Cards
+title: Types Of Veteran ID Cards
 heading: Types of Veteran ID cards 
 display_title: Types of Veteran ID cards
 description: There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of VA ID cards and other Veteran ID options. 
