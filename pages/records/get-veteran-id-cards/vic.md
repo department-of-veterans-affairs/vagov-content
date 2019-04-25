@@ -107,7 +107,7 @@ If you receive an email from us asking for additional information or evidence to
 <div itemprop="text">
 
 You can sign in to your AccessVA account to check the status of your VIC application.<br>
-[Sign in to your AccessVA account](https://access.va.gov/accessva/?cspSelectFor=vic).
+[Sign in to your AccessVA account](https://access.va.gov/accessva/?cspSelectFor=vic)
 
 </div>
 </div>
@@ -120,7 +120,7 @@ You can sign in to your AccessVA account to check the status of your VIC applica
 <div itemprop="text">
 
 To request a new card, please send us an email. <br>
-<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>.
+<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>
 
 </div>
 </div>
@@ -133,7 +133,7 @@ To request a new card, please send us an email. <br>
 <div itemprop="text">
 
 If you have any questions or need help, please send us an email. <br>
-<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>.
+<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>
 
 </div>
 </div>
