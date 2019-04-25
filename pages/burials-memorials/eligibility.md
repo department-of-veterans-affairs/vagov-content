@@ -167,36 +167,37 @@ And one of these must be true. The Philippine Veteran:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
 <div id="hmong-veteran" class="usa-accordion-content">
 
-All of these must be true. The Hmong Veteran:
+**All of these must be true. The Hmong Veteran:**
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
 - Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
 
-Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. 
+### Burial benefits covered
 
-They aren't eligible for these benefits:
+Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. But they aren't eligible for these other burial benefits:
 - Medallion
 - Memorial headstone
 - Burial flag
 - Presidential Memorial Certificate
 - Military funeral honors provided by the Department of Defense
 
+**Note:** Spouses and surviving spouses of Hmong Veterans aren't eligible for interment or any other burial benefits, even if they were naturalized under the 2000 Act. 
+
 Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
 
-**Note:** Spouses and surviving spouses of Hmong Veterans aren't eligible for interment, even if they were naturalized under the 2000 Act. 
+### Be sure to refer to Public Law 115-141 when requesting burial benefits
 
-Time of Need (means time of death):  When making the call, the next
-of kin or funeral home director should advise the scheduler that interment is requested under PL 115-141.
+Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cemetery. You'll need to refer to it in each of these situations:
 
-Pre-Need (means before death): When completing the form, write “PL115-141” in Block 5, write the Certification of
-Naturalization Registration “A” number in Block 6, and select ‘Other’ in Block 13. 
+**When you call the National Cemetery Scheduling Office in your time of need,** tell the scheduler that interment is requested under PL115-141.
 
-To request a headstone or marker for burial in a private cemetery, the next of kin or authorized
-applicant must complete the VA Form 40-1330, Claim for Government Headstone or Marker. The VA
-Form 40-1330 must be faxed to VA at 1-800-455-7143 or mailed to the Department of Veterans Affairs,
-Memorial Products Service (41B), 5109 Russell Road, Quantico, VA 22134-3903. The form is available
-at https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf. Write “PL115-141” and the Certification of
-Naturalization Registration “A” number in Block 33.
+**When you're filling out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007):**
+- Write “PL115-141” in Block 5. 
+- Write the Certification of Naturalization Registration “A” number in Block 6, and 
+- Select ‘Other’ in Block 13.
+
+**When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
+write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
 
 </div>
 </li>
