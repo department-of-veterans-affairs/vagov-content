@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
-title: Veterans ID Cards (VIC) | Veterans Affairs
-heading: Veterans ID cards (VIC)
-display_title: Types of Veteran ID Cards
-description: Find out how to get a Veterans ID Card (VIC) or add a veteran designation to your state-issued driver's license or state ID. Compare different types of VA ID cards and learn which ones you can use for health care, discounts at businesses and restaurants, or services at military installations. 
-keywords: veteran id, veterans id card 
-concurrence: Incomplete
+title: Types of Veteran ID Cards | Veterans Affairs
+heading: Types of Veteran ID cards 
+display_title: Types of Veteran ID cards
+description: There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of VA ID cards and other Veteran ID options. 
+keywords: veteran id, va id card, veterans identification card  
+concurrence: 
 order: 3
 spoke: Get Records
 plainlanguage:
@@ -24,7 +24,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to get a Veterans ID Card (VIC) or add a veteran designation to your state-issued driver's license or state ID. There are many types of identification cards you can use to show you’re a Veteran. Compare different types of VA ID cards and learn which ones you can use for health care, discounts at businesses and restaurants, or services at military installations. You only need to have one form of Veterans ID to show that you’re a Veteran. 
+There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of VA ID cards and other Veteran ID options.
 
 </div>
 
@@ -74,7 +74,6 @@ When you’re enrolled in VA health care, you get a Veteran Health Identificatio
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="get-Veteran-Health-card">How do I get a Veteran Health Identification Card?</button>
 <div id="get-Veteran-Health-card" class="usa-accordion-content">
 
-
 You need to be enrolled in VA health care to receive a Veteran Health Identification Card. If you aren't signed up for VA health care, you can apply online now. <br>
 - [Find out how to apply for VA health care](/health-care/how-to-apply/). </br>
 - [Learn more about the VHIC](https://www.va.gov/healthbenefits/vhic/index.asp).
@@ -102,7 +101,6 @@ You can get a Veteran Choice Card if you receive care through the VA Choice prog
 </ul>
 </section>
 <section>
-
 
 ### Veteran ID Card
 A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many stores, businesses, and restaurants. When you have this card, you won’t need to carry around your military discharge papers or share sensitive personal information to receive discounts. If you have a VIC, you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.
