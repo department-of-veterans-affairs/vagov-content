@@ -24,7 +24,7 @@ Were you part of testing or storing Agent Orange on bases in the United States o
 You may be able to get disability benefits if you meet both of the requirements listed below. 
 
 **Both of these must be true:**
-- You have 1 or more illnesses believed to be caused by Agent Orange, **and**
+- You have one or more illnesses believed to be caused by Agent Orange, **and**
 - You were part of testing or storing Agent Orange during your military service
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
