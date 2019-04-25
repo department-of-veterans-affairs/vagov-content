@@ -13,25 +13,25 @@ entryname: beta-enrollment
 <div class="row">
 <div class="columns usa-width-two-thirds medium-8">
 
-# Try Our Updated Health Care Application
+# Try out the new updates to our VA health care application
 
 <div itemprop="description"  class="va-introtext">
 
-We invite you to use our new beta tool—an online application for increased disability compensation.
+We invite you to help us test the beta version of our newly updated online VA health care application.
 
 </div>
 
-### What’s a beta tool?
+### What’s a beta version?
 
-A beta tool is a new tool we’re testing to make sure it works the way it should before we give all VA.gov users access to it. Your feedback will help us make the tool better for all Veterans.
+A beta version is a newly updated version of a tool that we’re testing to make sure it works the way it should before we give all VA.gov users access to it. Your feedback will help us make the tool better for all Veterans.
 
-### What will happen when I try the new tool?
+### What will happen when I try the new version of the tool?
 
-When you agree to test out the new tool, you’ll use our online application to file a claim for increased disability compensation. You’ll have the same access to all the other VA.gov tools and information as you have right now.
+We'll first ask you to sign in to VA.gov. You can sign in with your DS Logon, My HealtheVet, or ID.me username and password. If you don't have any of these accounts, you can create an ID.me account at any time.
 
-You’ll need to be signed in to your verified DS Logon or My HealtheVet account. If you don’t have one of these accounts, you can create an ID.me account to complete the verification process.
+Once you're signed in, we'll ask you to review some of the new application updates to make sure they're working with your account. This won't change or affect your current VA health care enrollment status in any way. And you won't need to submit an application as part of this testing.
 
-Use the beta tool to file a claim for increased disability compensation.
+To get started, click on the blue button below.
 <br>
 
 <div id="react-root"></div>
