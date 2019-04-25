@@ -45,19 +45,20 @@ The U.S. military used Agent Orange to clear plants and trees during the Vietnam
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if both of the below descriptions are true for you.
+You may be able to get disability benefits if one of the below descriptions is true for you.
 
-**Both of these must be true:**
-- You have an illness believed to be caused by Agent Orange, **and**
-- You came into contact with Agent Orange while serving in the military
+**At least one of these must be true:**
 
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+- You served in or near the Republic of Vietnam between January 9, 1962, and May 7, 1975, **or**
+- You have an illness believed to be caused by Agent Orange, and you came into contact with Agent Orange while serving in the military
 
+[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Check the list of ships that had contact with Agent Orange (PDF)](#)
 
 #### Who’s covered?
 
 - Veterans
-- Qualified dependents
+- [Qualified dependents](/disability/eligibility/special-claims/birth-defects/)
 
 </div>
 
