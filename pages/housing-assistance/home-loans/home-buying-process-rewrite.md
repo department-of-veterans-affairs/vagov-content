@@ -114,9 +114,10 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 
 #### Look at your current finances.
 
-Go over your credit profile, income, expenses, and monthly budget to make sure you’re ready to buy a home. Decide how much you want to spend on a mortgage—and be sure to include closing costs in the overall price. <br>
-[Get more advice from the Consumer Financial Protection Bureau (CFPB).](http://www.consumerfinance.gov/owning-a-home/process/prepare/)
+Go over your credit profile, income, expenses, and monthly budget to make sure you’re ready to buy a home. Decide how much you want to spend on a mortgage—and be sure to include closing costs in the overall price. 
 <br>
+<br>
+[Get more advice from the Consumer Financial Protection Bureau (CFPB).](http://www.consumerfinance.gov/owning-a-home/process/prepare/)
 <br>
 [Use CFPB's mortgage calculator.](https://www.consumerfinance.gov/owning-a-home/loan-options/#loan-term-calculator)
 </li>
@@ -129,7 +130,7 @@ You’ll go through a private bank, mortgage company, or credit union—not thro
 
 <br>
 
-Be prepared to pay lender fees. Many lenders charge people using VA-backed home loans a 1% flat fee (sometimes called a "loan origination fee"). They may also charge you additional fees, depending on the home you want to buy and your finances. If you don't know what a fee is for, ask the lender. In some cases, lender fees are negotiable. 
+Be prepared to pay lender fees. Many lenders charge Veterans using VA-backed home loans a 1% flat fee (sometimes called a "loan origination fee"). Lenders may also charge you additional fees. If you don't know what a fee is for, ask the lender. In some cases, lender fees are negotiable. 
 
 </li>
 
@@ -176,7 +177,7 @@ We strongly recommend that you get an inspection to check for any major defects 
 <br>
 
 [Watch a video about minimum property requirements.](https://www.youtube.com/watch?v=6AD1BrMf3lk)<br>
-[Learn about the difference between an inspection and an appraisal](https://www.youtube.com/watch?v=coggXnbc0j0&index=123&list=PLA93A5833057D78B7)
+[Learn about the difference between an inspection and an appraisal.](https://www.youtube.com/watch?v=coggXnbc0j0&index=123&list=PLA93A5833057D78B7)
 
 </li>
 
@@ -210,12 +211,12 @@ After closing, you’re ready to move into your new home. Congratulations!
 
 ## What if I need help or more information?
 
-- Look for [housing counseling agency workshops.](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) approved by the Department of Housing and Urban Development
-- See the Consumer Financial Protection Bureau’s [home loan toolkit.](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
-- Watch a video about [home ownership costs.](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7)
-- Watch a video about [VA home loans and how to apply.](https://www.youtube.com/watch?v=h3gR_BmMP7A)
-- Watch a video about [how we can help you buy a home.](https://www.youtube.com/watch?v=HbXNBF7qQS0&feature=youtu.be)
-- Watch a video about the [cost of home ownership.](https://www.youtube.com/watch?v=vYr5QVwL1Ow)
+- Look for [housing counseling agency workshops](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) approved by the Department of Housing and Urban Development
+- See the Consumer Financial Protection Bureau’s [home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+- Watch a video about [home ownership costs](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7)
+- Watch a video about [VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A)
+- Watch a video about [how we can help you buy a home](https://www.youtube.com/watch?v=HbXNBF7qQS0&feature=youtu.be)
+- Watch a video about the [cost of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow)
 - Find out how to get help [if your home was affected by a natural disaster](https://www.benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf)
 - Hear from Veterans about the [top 5 reasons for choosing a VA-backed home loan](https://www.youtube.com/watch?v=xbjYFpyMxu0&feature=youtu.be)
 
