@@ -5,7 +5,7 @@ title: Honor a Veteran, Reservist, or Family Member with Memorial Items
 display_title: Memorial Items
 collection: burials
 children: burialsHonor
-spoke: Get Benefits
+spoke: Get benefits
 order: 4
 majorlinks:
   - heading:

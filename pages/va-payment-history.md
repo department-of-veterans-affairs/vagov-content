@@ -8,7 +8,8 @@ description: View your VA payment history online for disability compensation, pe
 keywords: va payment, va payment history, va payments
 collection: records
 order: 7
-spoke: Get Records
+spoke: Get records
+
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -41,7 +42,7 @@ Find out how to view your VA payment history online.
 <li>Education benefits</li>
 </ul>
 
-<b>If you're the survivor of a Veteran or Servicemember, you'll see a history of your past VA payments for:</b>
+<b>If you're the survivor of a Veteran or service member, you'll see a history of your past VA payments for:</b>
 <ul>
 <li>Survivors pension benefits</li>
 <li>Survivors' and Dependents' Educational Assistance (Chapter 35 benefits)</li>
@@ -53,13 +54,13 @@ Find out how to view your VA payment history online.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2>When to Expect VA Payments</h2>
+<h2>When to expect VA payments</h2>
 
 <div aria-live="polite" role="alert" class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">We've started our busy spring enrollment season</h3>
     <div class="usa-alert-text">
-      We process more GI Bill payments during this busy time of year, and we expect to keep up with the increase. But if your monthly payment is delayed, and you’re having trouble paying your bills or meeting your basic needs, please call us at <a href="tel:+18884424551">1-888-442-4551</a>. We're here Monday through Friday, 7:00 a.m. - 6:00 p.m. (CT).
+      We process more GI Bill payments during this busy time of year, and we expect to keep up with the increase. But if your monthly payment is delayed, and you’re having trouble paying your bills or meeting your basic needs, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 7:00 a.m. - 6:00 p.m. CT.
     </div>
   </div>
 </div>
@@ -70,7 +71,7 @@ Find out how to view your VA payment history online.
 
 If your decision notice shows at least a 10% disability rating, you’ll get your first payment within 15 days.
 
-If you don’t get a payment within 15 days, please call the Veterans Help Line at <a href="tel:+18008271000">1-800-827-1000</a> (TTY: <a href="tel:+18008294833">1-800-829-4833</a>). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET).
+If you don’t get a payment within 15 days, please call the Veterans Help Line at <a href="tel:+18008271000">800-827-1000</a> (TTY: <a href="tel:+18008294833">800-829-4833</a>). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 </div>
 </div>
@@ -78,15 +79,19 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2>How to Change Your Information</h2>
+<h2>How to change your information</h2>
 
 <h3 itemprop="name">What should I do if I need to change my direct deposit or contact information?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<b>You can change your information in either of these ways:</b><br>
+<h4>Change your information in either of these ways</h4><br>
 <a href="/change-direct-deposit-and-contact-information/">Change your information online</a>, <b>or</b> <br>
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
+
+<h4>Change your address through your VA.gov profile</h4> <br>
+You can sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
+[Find out how to change your address on file with VA](/change-address/)
 
 </div>
 </div>
@@ -100,10 +105,10 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
-<b>If you have a disability rating of 30% or higher</b>, you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
+<b>If you have a disability rating of 30% or higher,</b> you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
 <a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
 
-<b>If your disability gets worse</b>, you can file a claim for an increase in benefits. <br>
+<b>If your disability gets worse,</b> you can file a claim for an increase in benefits. <br>
 <a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
 
 </div>

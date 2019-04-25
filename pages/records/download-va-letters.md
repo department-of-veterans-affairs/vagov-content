@@ -6,8 +6,8 @@ display_title: Download VA Benefit Letters
 description: Download your VA Benefit Summary Letter (sometimes called a VA award letter) and other benefit letters and documents online.  
 keywords: va award letter
 template: detail-page
-order: 4
-spoke: Get Records
+order: 5
+spoke: Get records
 ---
 
 <div id='main'>

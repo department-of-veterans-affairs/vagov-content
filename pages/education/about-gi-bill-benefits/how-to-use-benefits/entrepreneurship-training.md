@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Entrepreneurship Training
+title: Entrepreneurship training
 order: 10
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -29,9 +29,9 @@ You can get this training if you qualify for any of these programs:
 
 </div>
 
-### How do I get this training? 
+## How do I get this training? 
 
-[Contact your local VA Small Business Liaison](https://www.va.gov/osdbu/about/contacts.asp).
+[Contact your local VA Small Business Liaison](https://www.va.gov/osdbu/about/contacts.asp)
 
 Go to a conference or event to talk directly to VA Small Business Liaisons and entrepreneurs. <br>
-[Find a conference or event](https://www.va.gov/osdbu/calendar.asp).
+[Find a conference or event](https://www.va.gov/osdbu/calendar.asp)

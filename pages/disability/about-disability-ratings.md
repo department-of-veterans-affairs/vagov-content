@@ -7,7 +7,7 @@ template: detail-page
 order: 1
 aliases:
   - /disability-benefits/eligibility/ratings/
-spoke: More Resources
+spoke: More resources
 children: disabilityAboutRatings
 ---
 <div class="va-introtext">

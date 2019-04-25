@@ -7,6 +7,6 @@ display_title: Discharge upgrade
 description: Want to apply for a military discharge upgrade or correction? Get step-by-step instructions depending on your specific situation. If your discharge is upgraded, you'll be eligible for VA benefits you earned while serving.
 keywords: upgrade discharge, military discharge upgrade, discharge upgrade
 order: 6
-spoke: Get Records
+spoke: Get records
 collection: records
 ---
