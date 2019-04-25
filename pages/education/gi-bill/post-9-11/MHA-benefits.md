@@ -88,3 +88,16 @@ August. If the BAH **decreases** for your area, your MHA amount will not decreas
 than a 6-month break in training.
 
 ### Are there any variations on the MHA?
+
+Yes. The chart below shows the MHA rate for different types of schools or circumstances. There are also circumstances 
+in which you’re not eligible for a housing allowance.
+
+## MHA rate exceptions**
+
+| **Type of school** | **MHA rate** |
+| -- | -- |
+| Foreign school | $1,789.00 |
+| Schools in U.S. territories | E-5 with dependents overseas housing allowance (OHA) for school location |
+| Online training with no classroom instruction | $894.50 |
+| Attending classes at ½ time or less | Not available |
+| Active-duty trainee, or transferee spouse of service member | Not available |
