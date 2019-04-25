@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-Did you serve in Vietnam (including aboard a ship on the inland waterways) or in the Korean Demilitarized Zone during the Vietnam Era? If you did, you likely had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+Did you serve in Vietnam, including aboard a ship on the inland waterways or on a ship within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone during the Vietnam Era? If you did, you may have had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -21,11 +21,16 @@ Did you serve in Vietnam (including aboard a ship on the inland waterways) or in
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have 1 or more illnesses believed to be caused by Agent Orange and you served in one or both of the places listed below.
+You may be able to get disability benefits if you have one or more illnesses believed to be caused by Agent Orange and one of the situations listed below describes your service. 
 
-**You must have served in one or both of these places:**
-- Vietnam (including aboard a ship on the inland waterways) for any length of time between January 9, 1962, and May 7, 1975, **or**
-- The Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
+**One of these must be true:**
+
+- You came into contact with Agent Orange while serving in the military, **or**
+
+- You served in at least one of these places during the time periods listed:
+  - In or near the Republic of Vietnam between January 9, 1962, and May 7, 1975
+  - Vietnam (including aboard a ship on the inland waterways or within the 12-mile territorial seas) for any length of time between January 9, 1962, and May 7, 1975
+  - The Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
@@ -34,7 +39,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 ### Who’s covered?
 
 - Veterans
-- Qualified survivors
+- [Qualified dependents](/disability/eligibility/special-claims/birth-defects/)
 
 </div>
 
@@ -48,7 +53,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you served in Vietnam (including aboard a ship on the inland waterways) or in the Korean Demilitarized Zone during the time periods listed above. <br>
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you served in Vietnam (including aboard a ship on the inland waterways or on a ship within the 12-mile territorial seas) or in the Korean Demilitarized Zone during the time periods listed above. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship allows us to conclude that you had contact with Agent Orange. <br>
