@@ -80,7 +80,7 @@ It's important to make sure your life insurance beneficiary information is up to
   <div id="update-vgli" class="usa-accordion-content">
     Review and make changes to your VGLI coverage online or by mail. 
     <h5>Online</h5>
-    [Manage your VGLI coverage online.](https://ssologin.prudential.com/app/giosgli/Login.fcc?TYPE=33554433&REALMOID=06-000eb2bc-e833-1efc-9d9b-348e307ff004&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=giosgli&TARGET=-SM-HTTPS%3a%2f%2fgiosgli%2eprudential%2ecom%2fosgli%2fController%2flogin%3faction%3dreturn)
+    <a href="https://ssologin.prudential.com/app/giosgli/Login.fcc?TYPE=33554433&REALMOID=06-000eb2bc-e833-1efc-9d9b-348e307ff004&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=giosgli&TARGET=-SM-HTTPS%3a%2f%2fgiosgli%2eprudential%2ecom%2fosgli%2fController%2flogin%3faction%3dreturn">Manage your VGLI coverage online</a>.
     <h5>By mail</h5>
     Manage your VGLI coverage by mail. 
     
