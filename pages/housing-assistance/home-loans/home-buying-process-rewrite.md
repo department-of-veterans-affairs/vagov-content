@@ -11,21 +11,21 @@ order: 10
 relatedlinks:
   - heading: More resources on VA home loan programs
     links:
+    - url: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
+      title: VA home loan program for surviving spouses
+      description: Find out if you're eligible for a VA home loan if you're a suriviving spouse.
+    - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_limits.asp
+      title: VA home loan limits
+      description: Learn about VA home loan limits and find out what your limit is. 
     - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp?_ga=2.215503518.801410513.1555939590-1758989635.1554476670
       title: VA funding fee
       description: Learn about VA funding fees and find out if you have to pay one in order to get from your lender.
     - url: https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/
-      title: Trouble Making Payments?
+      title: Trouble making payments?
       description: If you're having trouble making payments on your mortgage, a VA loan technician might be able to help.
     - url: https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.215503518.801410513.1555939590-1758989635.1554476670
       title: Find a regional loan center
-      description: Contact a regional loan center if you have questions about a VA home loan program or your VA-backed home loan. 
-    - url: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
-      title: VA home loan program for surviving spouses
-      description: Find out if you qualify for the VA home loan program for suriviving spouses.
-    - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_limits.asp
-      title: VA home loan limits
-      description: Learn about VA home loan limits and find out what your limit is. 
+      description: Contact a regional loan center if you have questions about your VA-backed home loan. 
 ---
 <div class="va-introtext">
 
@@ -101,6 +101,7 @@ Buying a home is a complex process, and getting a VA-backed home loan is only on
 
 You’ll need to show your COE to your lender as proof that you qualify for the home loan benefit. 
 <br>
+<br>
 [Find out if you qualify for a COE.](/housing-assistance/home-loans/eligibility/) <br>
 [Apply for your COE now.](/housing-assistance/home-loans/how-to-apply/)
 
@@ -112,6 +113,7 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 
 Go over your credit profile, income, expenses, and monthly budget to make sure you’re ready to buy a home. Decide how much you want to spend on a mortgage—and be sure to include closing costs in the overall price. <br>
 [Get more advice from the Consumer Financial Protection Bureau (CFPB).](http://www.consumerfinance.gov/owning-a-home/process/prepare/)
+<br>
 <br>
 [Use CFPB's mortgage calculator.](https://www.consumerfinance.gov/owning-a-home/loan-options/#loan-term-calculator)
 </li>
@@ -154,7 +156,9 @@ Look at houses in your price range until you find one that works for you.
 
 #### Work with your agent to put together and sign a purchase agreement.
 
-Be sure the sales contract includes the “VA Escape Clause.” This provides an option to void the contract if the property doesn’t appraise for the contract price. <br>
+Be sure the sales contract includes the “VA Escape Clause.” This provides an option to void the contract if the property doesn’t appraise for the contract price. 
+<br>
+<br>
 
 [Watch a video about working with your realtor and lender.](https://www.youtube.com/watch?v=80fG2XN47YI)
 
@@ -164,7 +168,9 @@ Be sure the sales contract includes the “VA Escape Clause.” This provides an
 
 #### Have the house inspected and appraised.
 
-We strongly recommend that you get an inspection to check for any major defects before you purchase your home. A VA-approved appraiser will also appraise the house to make sure it meets basic property condition requirements, and will provide an opinion of value on the house. Please be aware that an appraisal isn’t the same as an inspection. <br>
+We strongly recommend that you get an inspection to check for any major defects before you purchase your home. A VA-approved appraiser will also appraise the house to make sure it meets basic property condition requirements, and will provide an opinion of value on the house. Please be aware that an appraisal isn’t the same as an inspection. 
+<br>
+<br>
 
 [Watch a video about minimum property requirements.](https://www.youtube.com/watch?v=6AD1BrMf3lk)<br>
 [Learn about the difference between an inspection and an appraisal](https://www.youtube.com/watch?v=coggXnbc0j0&index=123&list=PLA93A5833057D78B7)
