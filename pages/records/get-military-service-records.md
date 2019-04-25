@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Request Your Military Records (DD214)
-heading: Request your military service records (including DD214)
+heading: Request your military service records (Including DD214)
 display_title: Request Military Records
 description: Submit a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
 keywords: military records, military records request, dd214, military service records
