@@ -106,10 +106,10 @@ You can sign in to VA.gov and change your address and other contact information 
 Yes. It’s important to update your information with us if you change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
 <b>If you have a disability rating of 30% or higher,</b> you may be able to add eligible dependents to your VA disability compensation to get a higher payment (also called a "benefit rate"). <br>
-<a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>.
+<a href="/disability/add-remove-dependent/">Find out how to add eligible dependents</a>
 
 <b>If your disability gets worse,</b> you can file a claim for an increase in benefits. <br>
-<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>.
+<a href="/disability/how-to-file-claim/">File for a VA disability increase</a>
 
 </div>
 </div>
