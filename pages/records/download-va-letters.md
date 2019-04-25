@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Download VA Benefit Letters | Veterans Affairs
+title: Download VA Benefit Letters
 heading: Download VA benefit letters
 display_title: Download VA Benefit Letters
-description: Download many of your VA award letters for benefits, eligibility, and service history after verifying your address. Learn how you can sign in to ebenefits to request a Certificate of Eligibility (COE) or your discharge papers (DD214). 
-keywords: va award letter, va eligibility letter
+description: Download your VA Benefit Summary Letter (sometimes called a VA award letter) and other benefit letters and documents online.  
+keywords: va award letter
 template: detail-page
 order: 4
 spoke: Get Records
@@ -15,7 +15,7 @@ spoke: Get Records
 
 <div class='va-introtext'>
   
-Do you need a VA award letter proving your status as a Veteran? Download many of your VA award letters for benefits, eligibility, and service history after verifying your address. Learn how you can sign in to ebenefits to request a Certificate of Eligibility (COE) or your discharge papers (DD214).
+To receive some benefits, Veterans need a letter proving their status. Access and download your VA Benefit Summary Letter (sometimes called a VA award letter) and other benefit letters and documents online.
 
 </div>
 
@@ -25,13 +25,13 @@ Do you need a VA award letter proving your status as a Veteran? Download many of
 
 ### What types of VA letters can I download using this tool?
 
-You can download a variety of VA award letters that include information about your benefits and service history.
+You can download a variety of VA letters that include information about your benefits and service history.
 
 </section>
 
-### How do I download a VA award letter?
+### How do I download a VA letter?
 
-Before you download your VA award letter, we’ll ask you to review the address we have on file for you.
+Before you download your VA letter, we’ll ask you to review the address we have on file for you.
 
 This address will be listed on your letter. If this address isn’t correct, you can update it. But your letter will still be valid even with the incorrect address.
 
@@ -42,11 +42,11 @@ This address will be listed on your letter. If this address isn’t correct, you
 </section>
 <section>
 
-### What if I want to download a VA award letter or document that isn’t available from this tool?
+### What if I want to download a letter or document that isn’t available from this tool?
 
-Right now, you can only download the VA award letters you see listed when you sign in above.
+Right now, you can only download the VA letters you see listed when you sign in above.
 
-Use these links to get access to other common VA award letters and documents you may be eligible for:
+Use these links to get access to other common VA letters and documents you may be eligible for:
 
 [View and print your Post-9/11 GI Bill statement of benefits.](/education/gi-bill/post-9-11/ch-33-benefit/)
 
@@ -64,7 +64,7 @@ Yes. If you're totally and permanently disabled because of your service-connecte
 
 <section>
 
-### What if I have trouble downloading a VA award letter?
+### What if I have trouble downloading a VA letter?
 
 Call MyVA311 for help: <a href="tel:+18446982311">1-844-698-2311</a>. If you have hearing loss, call TTY: 711.
 
