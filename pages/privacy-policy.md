@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Privacy, Policies, and Legal Information
+title: Privacy, policies, and legal information
 ---
 
 <p class="va-introtext">
