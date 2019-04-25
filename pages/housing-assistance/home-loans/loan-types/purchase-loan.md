@@ -16,7 +16,7 @@ Lenders offer competitive interest rates on VA-backed purchase loans. This can h
 
 <div class="feature">
 
-### Can I get a VA-backed purchase loan?
+### Am I eligible for a VA-backed purchase loan?
 
 You may be able to get a VA-backed purchase loan if you meet all of the requirements listed below.
 
