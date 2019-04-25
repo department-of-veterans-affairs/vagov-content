@@ -1,5 +1,5 @@
 ---
-title: Verify My Health
+title: My Health Account Validation
 layout: page-react.html
 entryname: my-health-account-validation
 ---
