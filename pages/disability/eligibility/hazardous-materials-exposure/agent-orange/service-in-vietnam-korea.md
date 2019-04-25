@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-Did you serve in Vietnam, including aboard a ship on the inland waterways or on a ship within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone during the Vietnam Era? If you did, you may have had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+Did you serve in Vietnam, including aboard a ship on the inland waterways or on a ship within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone during the Vietnam Era? If you served in either of these locations, you may have had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -27,7 +27,7 @@ You may be able to get disability benefits if you have one or more illnesses bel
 
 - You came into contact with Agent Orange while serving in the military, **or**
 
-- You served in at least one of these places during the time periods listed:
+- You served in at least one of these locations during the time periods listed:
   - In or near the Republic of Vietnam between January 9, 1962, and May 7, 1975
   - Vietnam (including aboard a ship on the inland waterways or within the 12-mile territorial seas) for any length of time between January 9, 1962, and May 7, 1975
   - The Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
