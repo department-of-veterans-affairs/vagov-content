@@ -71,11 +71,36 @@ Review the VA funding fee charts below to determine the amount you’ll have to 
 
 <strong>Regular military rates:</strong>
 
+
 | Down payment | Percentage for first-time use | Percentage for subsequent (after first-time) use |
 | --- | --- | --- | 
 | None  | 2.15%  | 3.3%* |
 | 5% or more  | 1.5%  | 1.5%  |
 | 10% or more  | 1.25% | 1.25% |
+
+Down payment and VA funding fee amounts expressed as a percentage of total loan amount
+
+| Down payment | VA funding fee |
+| --- | --- | --- | 
+| None  | 2.15%  | 
+| 5% or more  | 1.5%  | 
+| 10% or more  | 1.25% | 
+
+Down payment and VA funding fee amounts expressed as a percentage of total loan amount
+
+| If your down payment is... | Your VA funding fee will be... |
+| --- | --- | --- | 
+| None  | 2.15%  | 
+| 5% or more  | 1.5%  | 
+| 10% or more  | 1.25% | 
+
+| If you pay this percentage of your total loan amount as a down payment... | You'll pay this percentage of your total loan amount for your VA funding fee... |
+| --- | --- | --- | 
+| None  | 2.15%  | 
+| 5% or more  | 1.5%  | 
+| 10% or more  | 1.25% | 
+
+
 
 <br> 
 
