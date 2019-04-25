@@ -11,6 +11,9 @@ order: 10
 relatedlinks:
   - heading: More resources on VA home loan programs
     links:
+    - url: https://www.va.gov/housing-assistance/home-loans/how-to-apply/
+      title: Apply for a COE
+      description: Learn how to apply for a COE. 
     - url: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
       title: VA home loan program for surviving spouses
       description: Find out if you're eligible for a VA home loan if you're a suriviving spouse.
@@ -39,7 +42,7 @@ Learn about buying a home with a VA-backed home loan. VA-backed home loans are p
 
 You can get a VA-backed home loan if you qualify for a VA-backed home loan Certificate of Eligibility (COE).<br>
 
-[See if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/)
+[See if you can get a (COE).](/housing-assistance/home-loans/eligibility/)
 </div>
 
 ## Why might I want a VA-backed home loan?
