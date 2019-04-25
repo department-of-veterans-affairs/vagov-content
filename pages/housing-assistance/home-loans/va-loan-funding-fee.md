@@ -54,12 +54,12 @@ You'll pay this fee when you close your VA-backed or VA direct home loan.
 
 **We'll base your fee on:** 
 
-- The type of loan you get, <strong>and</strong>
-- Your down payment amount, <strong>and</strong>
-- Your military category, <strong>and</strong>
+- The type of loan you get, **and**
+- Your down payment amount, **and**
+- Your military category, **and**
 - Whether it’s your first time getting a VA-backed or VA direct home loan
 
-<strong>Note:</strong> Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. 
+**Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. 
 
 <h2>VA funding fee charts</h2>
 
@@ -181,7 +181,7 @@ Both the buyer (you) and the seller can pay these closing costs:
 </ul>
 <br>
 
-[Learn more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
+[Learn more about closing costs for buyers and sellers.](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
 
 
 
