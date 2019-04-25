@@ -94,7 +94,7 @@ When you receive care from a community provider through the VA Choice program, y
 
 You can get a Veteran Choice Card if you receive care through the VA Choice program. <br>
 - [Learn more about the Veteran Choice program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp)</br>
-- Contact the Choice Program call center at <a href="tel:+18666068198">866-606-8198</a>.
+- Contact the Choice Program call center at <a href="tel:+18666068198">866-606-8198</a>
 
 </div>
 </li>
