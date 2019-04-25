@@ -53,7 +53,7 @@ You may be able to get disability benefits if one of the below descriptions is t
 - You have an illness believed to be caused by Agent Orange, and you came into contact with Agent Orange while serving in the military
 
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>
+[See what kinds of service may have put you in contact with Agent Orange](#kinds-of-service)
 
 #### Who’s covered?
 
@@ -130,3 +130,4 @@ Contact us if you have questions:
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
 [Learn about Non-Hodgkin’s Lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
 
+<span id="kinds-of-service"></span>
