@@ -14,6 +14,9 @@ relatedlinks:
     - url: https://www.va.gov/housing-assistance/home-loans/how-to-apply/
       title: Apply for a COE
       description: Learn how to apply for a COE. 
+    - url: https://www.va.gov/housing-assistance/home-loans/loan-types/
+      title: VA home loan types
+      description: Learn more about each type of VA-backed home loan.
     - url: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
       title: VA home loan program for surviving spouses
       description: Find out if you're eligible for a VA home loan if you're a suriviving spouse.
