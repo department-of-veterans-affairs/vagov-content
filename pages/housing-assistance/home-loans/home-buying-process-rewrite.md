@@ -85,7 +85,7 @@ There are 4 types of VA-backed home loans. [Learn more about each VA-backed home
 #### [Purchase Loan](/housing-assistance/home-loans/loan-types/purchase-loan/)
 Looking to buy a home? Find out if you're eligible for a VA-backed purchase loan to get better terms than with a private-lender loan.
 
-#### [Native American Direct Loan (NADL)](/housing-assistance/home-loans/loan-types/native-american-direct-loan/) Program
+#### [Native American Direct Loan (NADL) Program](/housing-assistance/home-loans/loan-types/native-american-direct-loan/)
 Are you a Native American Veteran or a Veteran married to a Native American? Find out if you're eligible for a NADL to buy, build, or improve a home on Federal Trust Land.
 
 #### [Interest Rate Reduction Refinance Loan (IRRRL)](/housing-assistance/home-loans/loan-types/cash-out-loan/)
