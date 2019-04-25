@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How To Apply For A Veteran ID Card | Veterans Affairs
+title: How To Apply For A Veteran ID Card
 heading: How to apply for a Veteran ID card
 display_title: Veteran ID Card
-description: Find out how to apply for a Veteran ID Card (VIC). You can get a VIC if you received an honorable discharge after serving on active duty, in the Reserves, or the National Guard. View the requirements for photos and documentation you'll need and learn what to expect after you apply. 
-keywords: n/a
+description: A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses. Find out if you’re eligible for a Veteran ID Card, and how to apply.
+keywords: veterans id card, vic card
 plainlanguage:
 collection: veteranIdCards
 hideFromSidebar: true
@@ -21,9 +21,7 @@ A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offer
 
 **Please note:** Retail vendors volunteer to take part in this discount program. If a business decides to provide discounts to Veterans, it doesn’t mean that we’re recommending or favoring that business.
 
-
-
-### Am I eligible for a Veteran ID Card?
+## Am I eligible for a Veteran ID Card?
 
 You may be eligible if you meet both of the requirements listed below.
 
@@ -35,8 +33,7 @@ If you received an other than honorable, bad conduct, or dishonorable character 
 
 You’ll need to provide a copy of your discharge papers when you apply for a VIC to prove your character of discharge.
 
-
-### How do I apply for a Veteran ID Card?
+## How do I apply for a Veteran ID Card?
 
 You can apply online now.
 
@@ -58,7 +55,7 @@ You'll also need a digital color photo of yourself from the shoulders up. The ph
 * Show what you look like now (a photo taken sometime in the last 10 years), **and**
 * Be uploaded as a .jpeg, .png, .bmp, or .tiff file
 
-### What happens after I apply for a Veteran ID Card?
+## What happens after I apply for a Veteran ID Card?
 Once you’ve submitted your VIC application, we’ll check your eligibility and verify that:
 - Your character of discharge meets eligibility requirements, **and**
 - The ID you submitted (driver’s license or passport) is valid, **and**
