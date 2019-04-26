@@ -126,6 +126,6 @@ The rates are effective **October 1, 2017**.
 
 ### Schools and other institutional training
 | **Training period** | **Monthly rate** |
-|--|--|--|--|--|
+|--|--|
 | | **No dependents** | **1 dependent** | **2 dependents** | **Each additional dependent** |
 | Full-time | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
