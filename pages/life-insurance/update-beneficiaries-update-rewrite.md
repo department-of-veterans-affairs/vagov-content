@@ -135,9 +135,14 @@ It's important to make sure your life insurance beneficiary information is up to
     If you’re changing information for a competent Veteran, review the following options and decide which one applies to you: 
       <br>
       <br>
-        - <strong>If the Veteran can sign their name,</strong> have them fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)</a> and sign their name<br>
-        - <strong>If the Veteran can’t sign their name,</strong> fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)</a> for them, and have them make a mark on the signature line. 2 separate (disinterested) parties, who are   not   beneficiaries, must witness the mark and sign the form.<br>
-        - <strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
+        <ul>
+          <li><strong>If the Veteran can sign their name,</strong> have them fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/  29-336.htm">Designation of Beneficiary and Optional Settlement Form (VA Form 29-336)</a> and sign their name<br>
+          </li>
+          <li><strong>If the Veteran can’t sign their name,</strong> fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Designation   of Beneficiary and Optional Settlement Form (VA Form 29-336)</a> for them, and have them make a mark on the signature line. 2 separate   (disinterested) parties, who are   not   beneficiaries, must witness the mark and sign the form.<br>
+          </li>
+          <li><strong>If the Veteran isn’t able to sign or make a mark for any reason,</strong> write us a letter explaining their condition
+          </li>
+        </ul>
     <h3>Changing life insurance beneficiary information for an incompetent Veteran:</h3><br>
     Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran.     
     <br>
