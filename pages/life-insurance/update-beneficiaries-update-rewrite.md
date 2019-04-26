@@ -33,7 +33,7 @@ Find out how to choose your VA life insurance beneficiary. Your VA Life Insuranc
 
 You should review your VA life insurance beneficiary <strong>at least once a year</strong>. <br><br>
 
-You should also review your life insurance beneficiary when one of these life events happens:
+You should also review your life insurance beneficiary when <strong>one of these life events happens:</strong>
 
 - Marriage
 - Divorce
@@ -51,7 +51,7 @@ It's important to make sure your life insurance beneficiary information is up to
   <div id="update-sgli" class="usa-accordion-content">
     
   
-  Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). Follow these steps to review or make changes to  your   VA life insurance beneficiary:
+  Review and make changes to your SGLI coverage online using the SGLI Online Enrollment System (SOES). Follow these steps to review or make changes to your VA life insurance beneficiary:
   
   <ol class="process">
     <li class="process-step list-one"><h4>Sign in to SOES</h4><br><a href="https://milconnect.dmdc.osd.mil/milconnect/">Sign in to SOES.</a></li>
