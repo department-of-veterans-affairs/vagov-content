@@ -122,3 +122,6 @@ For example, if you’re attending school ¾ time and have 3 dependents, you’d
 $1,687.00, and add $12.00 for your third dependent, for a total monthly payment of $1,699.00.
 
 The rates are effective **October 1, 2017**. 
+[Learn more about remaining entitlement programs](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf)
+
+### Schools and other institutional training
