@@ -10,7 +10,7 @@ concurrence:
 order: 3
 spoke: Manage Benefits
 relatedlinks:
-  - heading: 
+  - heading: More VA life insurance resources
     links: 
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
