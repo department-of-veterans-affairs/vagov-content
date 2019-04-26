@@ -187,20 +187,17 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
      <li class="process-step list-three">
        <h4>Gather these documents</h4>
        <ul>
-         <li>A photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate. </li>
+         <li><strong>A photocopy of the insured person’s death certificate</strong>, showing the date and cause of death. You don't need to provide an original copy of the death certificate. </li>
          <li>
-           A copy of your military discharge papers (DD214 or other
+           <strong>A copy of your military discharge papers</strong> (DD214 or other
            separation documents)
          </li>
          <li>
-           <strong>A mortgage payoff or account statement*</strong>, which should include the balance of mortgage after last payment before Veteran’s death, <strong>the address of the mortgage company**</strong> where the VMLI payment should be sent, and prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate)
+           <strong>A mortgage payoff or account statement</strong>. You must get this document on your own--VA can't get this information for you because of privacy laws. The payoff or account statement should include the most up to date balance of the mortgage, the address of the mortgage company where the VMLI payment should be sent, and the prorated amount of interest due for the rest of the month of the Veteran's death (sometimes called a "per diem" or "per day" rate).
          </li>
        </ul>
        <div>
-         <strong>*You must get your mortgage payoff or account statement on your own.</strong> VA can’t get this information for you because of privacy laws. 
-         <br>
-         <br>
-         <strong>**The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
+         <strong>Note:</strong> The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sentThe address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
        </div>
      <li class="process-step list-four">
        <h4>Send your documents to VA Claims by mail or by fax</h4>
