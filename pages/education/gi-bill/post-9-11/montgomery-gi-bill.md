@@ -79,3 +79,46 @@ These charts show the pay rates if you’ve served more than 2 years but less th
 first chart shows payments covering training you receive in institutions like colleges, universities, and trade schools. 
 The second chart shows payments covering apprenticeships and on-the-job training. The amounts show what you’ll get based 
 on the time you’re attending school or training.
+
+### Schools and other institutional training
+| **Training time** | **Monthly rate** |
+|--|--|
+| Full-time | $1,619.00 |
+| ¾ time | $1,214.25 |
+| ½ time | $809.50 |
+| Less than ½ time more than ¼ time | $809.50 * |
+| ¼ time or less | $404.75 * |
+
+\*Payment for tuition and fees only. Payment cannot exceed the listed amount.
+
+### H3: Apprenticeships and on-the-job training
+| **Training period** | **Monthly rate** |
+|--|--|
+| First 6 months of training | $1,214.25 |
+| Second 6 months of training | $890.45 |
+| Remainder of training | $566.65 |
+
+### Other education benefit rates
+
+The MGIB-AD pays for other education and training programs for those who’ve had at least 2 years but
+less than 3 years of active duty. They include:
+
+**Correspondence and flight schools.** Entitlement charged at the rate of 1 month for each $1,619.00 paid.
+
+**Cooperative training.** The cooperative training program lets you go to school full-time for a period, and then 
+work full-time for a period. If you’re participating in this program, your benefit rate is **$1,619.00**.
+
+## Pay rates for remaining entitlement for certain Vietnam Era Veterans 
+
+If you’re a Vietnam War era Veteran, you may be entitled to additional benefits. You’ll qualify for this “remaining 
+entitlement” under the Vietnam Era GI Bill (Chapter 34, Title 38) if **one** of the following is true for you. You:
+
+-	Have remaining entitlement under Vietnam Era GI Bill, **or**
+-	Had remaining Vietnam Era GI Bill entitlement on December 31, 1989, **or**
+-	Served certain dates on active duty 
+
+The rates in the charts below show your pay by your school course load and number of dependents. 
+For example, if you’re attending school ¾ time and have 3 dependents, you’d start with the rate for 2 dependents, 
+$1,687.00, and add $12.00 for your third dependent, for a total monthly payment of $1,699.00.
+
+The rates are effective **October 1, 2017**. 
