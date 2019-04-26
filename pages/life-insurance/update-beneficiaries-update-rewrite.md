@@ -8,7 +8,7 @@ concurrence:
 order: 2
 spoke: Manage Benefits
 relatedlinks:
-  - heading: This is the heading
+  - heading: More VA life insurance resources
     links: 
       - url: /life-insurance/manage-your-policy/
         title: Access your policy online
@@ -79,6 +79,7 @@ It's important to make sure your life insurance beneficiary information is up to
   <button class="usa-button-unstyled usa-accordion-button" aria-controls="update-vgli">Veterans' Group Life Insurance (VGLI)</button>
   <div id="update-vgli" class="usa-accordion-content">
     Review and make changes to your VGLI coverage online or by mail. 
+    <br>
     <h5>Online</h5>
     <a href="https://ssologin.prudential.com/app/giosgli/Login.fcc?TYPE=33554433&REALMOID=06-000eb2bc-e833-1efc-9d9b-348e307ff004&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=giosgli&TARGET=-SM-HTTPS%3a%2f%2fgiosgli%2eprudential%2ecom%2fosgli%2fController%2flogin%3faction%3dreturn">Manage your VGLI coverage online</a>.
     <h5>By mail</h5>
@@ -109,7 +110,8 @@ It's important to make sure your life insurance beneficiary information is up to
 
 <ul class="usa-accordion" aria-multiselectable="true">
   <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="update-other">Other VA life insurance policies</button>
+    <button class="usa-button-unstyled usa-accordion-button" aria-controls="update-other">Other VA life insurance policies</button> 
+    <br>
     <div id="update-other" class="usa-accordion-content">
       If you have VA life insurance coverage with a policy number that starts with V, RH, J, RS, K, or W, follow these steps to review or make changes to   your   plan:
       <ol class="process">
