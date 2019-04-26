@@ -172,9 +172,11 @@ And one of these must be true. The Philippine Veteran:
 - Resided in the U.S. at the time of death, **and**
 - Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
 
-### Burial benefits covered
+### Eligibility for certain burial benefits
 
-Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. But they aren't eligible for these other burial benefits:
+Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. 
+
+But these other burial benefits aren't included:
 - Medallion
 - Memorial headstone
 - Burial flag
@@ -194,7 +196,7 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 **When you're filling out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007):**
 - Write “PL115-141” in Block 5. 
 - Write the Certification of Naturalization Registration “A” number in Block 6, and 
-- Select ‘Other’ in Block 13.
+- Select **Other** in Block 13.
 
 **When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
 write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
