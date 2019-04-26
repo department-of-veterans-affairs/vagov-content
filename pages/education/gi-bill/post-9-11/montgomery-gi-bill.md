@@ -35,3 +35,23 @@ How much you get depends on several factors. These include:
 -	How much of a course load you’re taking, up to full-time, **and**
 -	Whether you have dependents, and how many
 -	Whether you participated in the $600 Buy-Up program (see below)
+
+[Learn more about how to qualify for the Montgomery GI Bill Active Duty program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
+
+## Pay rates for 3 years of service or more
+
+These charts show the pay rates if you’ve served at least 3 years in active duty. The first chart shows 
+payments covering training you receive in institutions like colleges, universities, and trade schools. 
+The second chart shows payments covering apprenticeships and on-the-job training. The amounts show what 
+you’ll get based on the time you’re attending school or training.
+
+### Schools and other institutional training
+| **Training time** | **Monthly rate** |
+|--|--|
+| Full-time | $1,994.00 |
+| ¾ time | $1,495.50 |
+| ½ time | $997.00 |
+| less than ½ time more than ¼ time | $997.00* |
+| ¼ time or less | $498.50* |
+
+* Payment for tuition and fees only. Payment cannot exceed the listed amount.
