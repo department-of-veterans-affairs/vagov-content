@@ -8,8 +8,23 @@ description:
 concurrence: 
 spoke: More information and resources
 order: 7
+relatedlinks:
+  - heading: More information on your education benefits
+    links:
+    - url: /gi-bill-comparison-tool/ 
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: https://www.benefits.va.gov/gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person. 
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits 
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: /education/other-va-education-benefits/veap/
+      title: Veterans’ Educational Assistance Program (VEAP)
+      description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
+      
 ---
-
 <div class="va-introtext">
   
 In addition to the payments for benefits and fees at your institution of higher learning or other schools, 
@@ -92,7 +107,7 @@ than a 6-month break in training.
 Yes. The chart below shows the MHA rate for different types of schools or circumstances. There are also circumstances 
 in which you’re not eligible for a housing allowance.
 
-## MHA rate exceptions**
+## MHA rate exceptions
 
 | **Type of school** | **MHA rate** |
 | -- | -- |
@@ -101,3 +116,7 @@ in which you’re not eligible for a housing allowance.
 | Online training with no classroom instruction | $894.50 |
 | Attending classes at ½ time or less | Not available |
 | Active-duty trainee, or transferee spouse of service member | Not available |
+
+### Can I change my education benefits?
+
+In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
