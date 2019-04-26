@@ -113,7 +113,8 @@ It's important to make sure your life insurance beneficiary information is up to
     <button class="usa-button-unstyled usa-accordion-button" aria-controls="update-other">Other VA life insurance policies</button> 
     <br>
     <div id="update-other" class="usa-accordion-content">
-      If you have VA life insurance coverage with a policy number that starts with V, RH, J, RS, K, or W, follow these steps to review or make changes to   your   plan:
+      If you have VA life insurance coverage with a policy number that starts with V, RH, J, RS, K, or W, follow these steps to review or make changes to your plan:
+      <br>
       <ol class="process">
         <li class="process-step list-one"><h4>Fill out a Designation of Beneficiary and Optional Settlement Form</h4><br>
           <a href="https://www.benefits.va.gov/INSURANCE/forms/29-336.htm">Download a Designation of Beneficiary and Optional Settlement form (VA Form   29-336)  </a>.</li>
