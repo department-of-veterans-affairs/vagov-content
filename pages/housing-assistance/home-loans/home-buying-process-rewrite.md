@@ -24,7 +24,7 @@ relatedlinks:
       title: VA home loan limits
       description: Learn about VA home loan limits and find out what your limit is. 
     - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp?_ga=2.215503518.801410513.1555939590-1758989635.1554476670
-      title: VA funding fee
+      title: VA funding fee and other closing costs
       description: Learn about VA funding fees and find out if you have to pay one in order to get from your lender.
     - url: https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/
       title: Trouble making payments?
@@ -134,6 +134,10 @@ You’ll go through a private bank, mortgage company, or credit union—not thro
 <br>
 
 Be prepared to pay lender fees. Many lenders charge Veterans using VA-backed home loans a 1% flat fee (sometimes called a "loan origination fee"). Lenders may also charge you additional fees. If you don't know what a fee is for, ask the lender. In some cases, lender fees are negotiable. 
+<br> 
+<br>
+
+[Learn more about additional fees and closing costs.](https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp)
 
 </li>
 
@@ -215,7 +219,8 @@ After closing, you’re ready to move into your new home. Congratulations!
 ## What if I need help or more information?
 
 - Look for [housing counseling agency workshops](http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?weblistaction=summary) approved by the Department of Housing and Urban Development
-- See the Consumer Financial Protection Bureau’s [home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+- See the Consumer Financial Protection Bureau’s (CFPB) [home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+- See CFPB's ["Tools for Homebuyers"](https://www.consumerfinance.gov/owning-a-home/)
 - Watch a video about [home ownership costs](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7)
 - Watch a video about [VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A)
 - Watch a video about [how we can help you buy a home](https://www.youtube.com/watch?v=HbXNBF7qQS0&feature=youtu.be)
