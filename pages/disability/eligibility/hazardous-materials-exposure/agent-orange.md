@@ -119,7 +119,7 @@ When you file your claim, you'll need to submit this evidence:
 [See the Veterans Compensation Benefits Rate Tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
 
 Contact us if you have questions:
-- Call the Agent Orange Help Line at 1-800-749-8387 **or** 
+- Call the Agent Orange Help Line at <a href="tel:+180074983872">800-749-8387</a> **or** 
 - Send an email to GW/AOHelpline@vba.va.gov
 
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
