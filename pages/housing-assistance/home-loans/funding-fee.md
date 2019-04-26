@@ -65,9 +65,11 @@ You'll pay this fee when you close your VA-backed or VA direct home loan.
 - Include the funding fee in your loan and pay it off over time (called financing), <strong>or</strong> 
 - Pay the full fee all at once at closing
 
-<h3>How will VA determine my funding fee?</h3>
+<h3>How much will I pay?</h3>
 
-**For all loans, we'll base your fee on:** 
+This depends on the amount of your loan and other factors.
+
+**For all loans, we'll base your VA funding fee on:** 
 
 - The type of loan you get, **and**
 - The total amount of your loan. We'll calculate your funding fee as a percentage of your total loan amount.
