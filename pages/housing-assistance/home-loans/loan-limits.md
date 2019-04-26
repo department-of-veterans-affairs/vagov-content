@@ -27,7 +27,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-VA home loan limits (or maximums) vary. There’s no limit on the amount of money you’re allowed to borrow to finance your home. But there is a maximum amount of money you’re entitled (or guaranteed) to borrow without making a down payment, which might affect how much money your lender will give you. Learn about VA home loan limits and find out how much money you’re entitled to borrow. 
+Learn about VA home loan limits (also called VA home loan maximums) and find out how current rates and how they may affect the amount of money you can borrow.
 
 </div>
 
@@ -35,15 +35,18 @@ VA home loan limits (or maximums) vary. There’s no limit on the amount of mone
 
 ### What’s a VA home loan limit? 
 
-A VA home loan limit is the maximum amount of money you can borrow with a VA-backed or VA direct home loan, without making a down payment.
+A VA home loan limit is the maximum amount of money that we will cover you can borrow with a VA-backed or VA direct home loan, without making a down payment.
 
-This doesn't mean you can't borrow more than the limit. But it may affect the 
+This doesn't mean you can't borrow more than the limit. We don't put a limit on how much money you can borrow to finance your home. But your lender may use the loan limit to help determine how much they're willing to let you borrow.
 
 ### What will my limit be? 
 
-VA home loan limits depend on your military service and the county the home is in. Loan limits vary by county because a property's location affects its value. 
+Your VA home loan limit will depend on your military service history and the location of the home you're buying or refinancing. Loan limits vary by county because a property's location affects its value. For example, the same home in or near a major city will likely cost much more than it would in a more rural location.
 
-If you’re eligible for this benefit, you’re entitled to borrow at least $36,000.00. This is called your  In most cases, lenders will loan up to 4x your entitlement amount without a down payment, as long as you're income and credit qualified and the property’s value matches its asking price. <br>
+If you’re eligible for the VA home loan program, we'll guarantee to your lender that we'll pay up to $36,000 or 25% of your loan amount, whichever is less, if you default on your loan. We refer to this amount as your basic entitlement. In most cases, lenders will loan up to 4 times the amount of your entitlement without a down payment (so in this case, $144,000), as long as you're income and credit qualified and the property’s value matches its asking price. 
+
+In many cases, you may want to buy a home that costs more than $144,000. To help you do this, we offer what's called bonus entitlement. To determine your bonus entitlement, we'll look at the Federal Housing Finance Agency's (FHFA's) current national conventional financing confirming limit and your state's county loan limits. We'll guarantee 25% of your loan amount, based on these loan limits. 
+
 
 ------
 
@@ -55,7 +58,7 @@ VA home loan limits change each year and are based on the property's county loca
 
 [View loan limits](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <strong>Refer only to the "One-Unit Limit" column.</strong>
 
-<strong>Note:</strong> 2019 VA Home Loan limits are the same as the Federal Housing Finance Agency's (FHFA) limits. 
+<strong>Note:</strong> 2019 VA Home Loan limits are the same as the FHFA limits. 
 
 ### 2018 - 2016
 
@@ -77,24 +80,24 @@ VA home loan limits change each year and are based on the property's county loca
 
 ### 2014
 
-View loan limits for:
-[February 28, 2014 to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf)
+View loan limits for: <br>
+[February 28, 2014 to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf) <br>
 [January 1, 2014 to February 27, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
 
 ### 2013
 
-[View 2013 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2013_county_loan_limits.pdf)
+[View 2013 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2013_county_loan_limits.pdf) <br>
 
 ### 2012
 
 View loan limits for:
-[August 6, 2012 to December 31, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf)
+[August 6, 2012 to December 31, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf) <br>
 [January 1, 2012 to August 5, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_jan_aug_2012.pdf)
 
 ### 2011
 
 View loan limits for:
-[October 1, 2011 to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf)
+[October 1, 2011 to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf) <br>
 [January 1, 2011 to September 30, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
 
 ### 2010 and earlier
@@ -102,4 +105,3 @@ View loan limits for:
 [View 2010 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2010_county_loan_limits.pdf)<br>
 [View 2009 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2009_county_loan_limits.pdf)<br>
 [View 2008 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2008_loan_limits_for_high_cost_counties.pdf)
-
