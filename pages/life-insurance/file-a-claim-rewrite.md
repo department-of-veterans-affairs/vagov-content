@@ -197,7 +197,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
          </li>
        </ul>
        <div>
-         <strong>Note:</strong> The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sentThe address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent</strong>.
+         <strong>Note:</strong> The address of the mortgage company where VMLI payments should be sent should be different than the address to which your monthly payments are sent.
        </div>
      <li class="process-step list-four">
        <h4>Send your documents to VA Claims by mail or by fax</h4>
