@@ -51,7 +51,31 @@ you’ll get based on the time you’re attending school or training.
 | Full-time | $1,994.00 |
 | ¾ time | $1,495.50 |
 | ½ time | $997.00 |
-| less than ½ time more than ¼ time | $997.00* |
+| Less than ½ time more than ¼ time | $997.00* |
 | ¼ time or less | $498.50* |
 
-* Payment for tuition and fees only. Payment cannot exceed the listed amount.
+\* Payment for tuition and fees only. Payment cannot exceed the listed amount.
+
+### Apprenticeships and on-the-job training
+| **Training period** | **Monthly rate** |
+|--|--|
+| First 6 months of training | $1,495.50 |
+| Second 6 months of training | $1,096.70 |
+| Remainder of training | $697.90 |
+
+### Other education benefit rates
+
+The Montgomery GI Bill Active Duty pays for other education and training programs for those who’ve had at 
+least 3 years of active duty. They include:
+
+**Correspondence and flight schools.** Entitlement charged at the rate of 1 month for each $1,994.00 paid.
+
+**Cooperative training.** The cooperative training program lets you go to school full-time for a period, and then work 
+full-time for a period. If you’re participating in this program, your benefit rate is **$1,994.00**.
+
+## Pay rates for less than 3 years of service 
+
+These charts show the pay rates if you’ve served more than 2 years but less than 3 years in active duty. The 
+first chart shows payments covering training you receive in institutions like colleges, universities, and trade schools. 
+The second chart shows payments covering apprenticeships and on-the-job training. The amounts show what you’ll get based 
+on the time you’re attending school or training.
