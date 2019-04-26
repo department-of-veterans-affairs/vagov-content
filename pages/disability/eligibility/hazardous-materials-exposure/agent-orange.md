@@ -128,6 +128,6 @@ Contact us if you have questions:
 [Get an Agent Orange Registry Health Exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
 
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
-[Learn about Non-Hodgkin’s Lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn about non-Hodgkin’s Lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
 
 <span id="kinds-of-service"></span>
