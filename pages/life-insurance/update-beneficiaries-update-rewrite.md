@@ -33,7 +33,7 @@ Find out how to choose your VA life insurance beneficiary. Your VA Life Insuranc
 
 You should review your VA life insurance beneficiary <strong>at least once a year</strong>. <br><br>
 
-You should also review your life insurance beneficiary when one of these life events occurs:
+You should also review your life insurance beneficiary when one of these life events happens:
 
 - Marriage
 - Divorce
