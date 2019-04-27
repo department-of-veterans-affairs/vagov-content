@@ -17,11 +17,10 @@ The Fully Developed Claims (FDC) program is the fastest way to get your VA pensi
 
 If you file a claim in the FDC program and we decide that additional documents exist that we need to decide your claim, we’ll remove your claim from the FDC program and process it as a standard claim.
 
-Find out how you can participate in the FDC program.
-
-<br>
-
 </div>
+
+
+## Find out how to participate in the FDC program
 
 <ul class="usa-accordion" aria-multiselectable="true" >
 <li>
@@ -181,9 +180,6 @@ When you file your claim, you'll be able to upload all supporting documents and 
 </div>
 </li>
 </ul>
-
-
-<div class="feature" markdown=“1”>
 
 ### Special situations
 
