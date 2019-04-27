@@ -118,7 +118,7 @@ Read the full regulations from Title 38 Code of Federal Regulations:
 
 [3.23 Improved pension rates—Veterans and surviving spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.24 Improved pension rates—Surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124)
+[3.24 Improved pension rates—surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124)
 
 [3.271 “Income” for VA purposes (IVAP)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271)
 
