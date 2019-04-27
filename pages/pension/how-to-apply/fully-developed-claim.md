@@ -20,7 +20,7 @@ If you file a claim in the FDC program and we decide that additional documents e
 </div>
 
 
-## Find out how to participate in the FDC program
+## Learn more about the FDC program
 
 <ul class="usa-accordion" aria-multiselectable="true" >
 <li>
