@@ -41,7 +41,7 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 
 <div class="feature">
 
-### What information do I need to apply?
+### You'll need this information
 
 - Social Security number or VA file number (required)
 - Military history (required)
