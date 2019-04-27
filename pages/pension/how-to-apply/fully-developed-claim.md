@@ -181,7 +181,7 @@ When you file your claim, you'll be able to upload all supporting documents and 
 </li>
 </ul>
 
-### Special situations
+## Special situations
 
 If any of the below situations apply to you, you’ll need to turn in the additional forms at the same time as you file your pension claim.
 If you’re:
