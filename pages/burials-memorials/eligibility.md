@@ -212,13 +212,12 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 
 - The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
 - The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
-- The minor child of an eligible Veteran. To be considered a minor, the child must be:
-  - Unmarried
-  - Under 21 years
+- The minor child of an eligible Veteran. To be considered a minor, the child must be unmarried and:
+  - Under 21 years, **or**
   - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution
 - The unmarried adult child of an eligible Veteran. The child may be any age, but they must have became permanently disabled (either physically or mentally) and not able to support themselves either:
-  - Before turning 21 years old, or 
-  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution. <br>
+  - Before turning 21 years old, **or**
+  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution <br>
   **Note:** Proper supporting documentation must be provided.
 
 </div>
