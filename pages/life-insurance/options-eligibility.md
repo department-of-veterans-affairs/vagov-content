@@ -39,8 +39,6 @@ relatedlinks:
       - url: /life-insurance/totally-disabled-or-terminally-ill/
         title: Claims for Disabled and Terminally Ill Policyholders
         description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/
 ---
 
 <div class="va-introtext">

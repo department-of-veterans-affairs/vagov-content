@@ -19,8 +19,6 @@ majorlinks:
     - url: /burials-memorials/memorial-items/presidential-memorial-certificates/
       title: Presidential Memorial Certificates
       description: Apply for an engraved certificate signed by the current president.
-aliases:
-  - /burials-and-memorials/honor/
 ---
 <div class="va-introtext">
 While planning a burial for a Veteran or Reservist, you can apply for certain memorial items to honor their military service. An eligible spouse or other family member buried in a national cemetery, or certain other Veterans or military cemeteries, may also qualify for a headstone, marker, or niche cover to identify the place of burial.

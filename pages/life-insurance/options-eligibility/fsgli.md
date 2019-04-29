@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Family Servicemembers’ Group Life Insurance (FSGLI)
 display_title: Family Servicemembers’ Group (FSGLI)
-concurrence: 
+concurrence:
 order: 2
 relatedlinks:
   - heading: More information about your benefits
@@ -14,8 +14,6 @@ relatedlinks:
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for Disabled and Terminally Ill Policyholders
       description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/fsgli/
 ---
 
 <div class="va-introtext">
@@ -66,27 +64,27 @@ We’ll automatically insure you under FSGLI. In this case, we’ll automaticall
 
 We won’t automatically cover you. You’ll need to sign up through your Servicemember.
 
-**If your Servicemember’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your Servicemember sign you up online. 
+**If your Servicemember’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your Servicemember sign you up online.
 
 To access SOES, have your Servicemember:
 
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
+
   [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
-  
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Sign in.
-  
+
   </li>
   <li class="process-step list-three">
-  
+
   Go to Benefits, Life Insurance SOES- SGLI Online Enrollment System to sign up.
-  
+
   </li>
 </ol>
 
@@ -252,26 +250,26 @@ To access SOES, have your Servicemember:
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
+
   [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
-  
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Sign in.
-  
+
   </li>
   <li class="process-step list-three">
-  
+
   Go to Benefits, Life Insurance SOES- SGLI Online Enrollment System to update.
-  
+
   </li>
-  
+
   <li class="process-step list-four">
-  
+
   Check their coverage and beneficiary info and make any needed updates.
-  
+
   </li>
  </ol>
 
@@ -292,7 +290,7 @@ Nothing. We provide dependent coverage at no cost until the child is 18 years ol
 
 **To continue receiving dependent coverage after age 18, one of these must be true. The child**:
 - Is a full-time student, **or**
-- Becomes permanently and totally disabled—before turning 18—and can’t support themselves 
+- Becomes permanently and totally disabled—before turning 18—and can’t support themselves
 
 
 <br>

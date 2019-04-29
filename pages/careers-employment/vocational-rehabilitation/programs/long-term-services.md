@@ -19,8 +19,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/programs/independent-living/
       title: Independent Living Track
       description: Learn about services that can help you live as independently as possible if you can't return to work right away.
-aliases:
-  - /employment/vocational-rehab-and-employment/service-disabled/new-skills/
 ---
 
 <div class="va-introtext">

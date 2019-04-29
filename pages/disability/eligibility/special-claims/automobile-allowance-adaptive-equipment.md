@@ -7,13 +7,11 @@ concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/conditions/special-claims/automobile/
 ---
 
 <div class="va-introtext">
 
-Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get disability compensation or benefits. 
+Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get disability compensation or benefits.
 
 </div>
 
@@ -59,12 +57,12 @@ When you file, you’ll need to show that your disability is service connected o
 
 [View the current payment rates](https://www.benefits.va.gov/COMPENSATION/special_Benefit_Allowances_2017.asp).
 
-#### For the one-time payment to help you buy a specially equipped vehicle 
+#### For the one-time payment to help you buy a specially equipped vehicle
 - You’ll need to fill out an Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502). <br>
-[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf). 
-- We’ll pay the vehicle’s seller directly. 
+[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf).
+- We’ll pay the vehicle’s seller directly.
 
 #### For the adaptive-equipment grant
 - If you qualify for adaptive equipment only, you’ll need to fill out an Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394). <br>
 [Download VA Form 10-1394](https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf).
-- We may pay you, or we may pay the equipment seller directly.  
+- We may pay you, or we may pay the equipment seller directly.

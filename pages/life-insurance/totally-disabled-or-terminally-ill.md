@@ -12,8 +12,6 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access Your Policy Online
       description: Need to file a benefits claim after your family member has died? Access your policy online.
-aliases:
-  - /life-insurance/disabled-and-terminally-ill/
 ---
 
 <div class="va-introtext">

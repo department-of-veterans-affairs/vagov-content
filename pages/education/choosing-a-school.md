@@ -8,8 +8,6 @@ children: educationChooseSchool
 concurrence: incomplete
 spoke: More resources
 order: 3
-aliases:
-  - /education/tools-programs/locate-a-school/
 relatedlinks:
   - url: /education/about-gi-bill-benefits/how-to-use-benefits/
     title: How to use your GI Bill benefits

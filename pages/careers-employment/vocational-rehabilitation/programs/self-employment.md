@@ -24,8 +24,6 @@ relatedlinks:
     - url: /careers-employment/veteran-owned-business-support/
       title: Register Your Veteran-Owned Small Business
       description: Register to do business with VA and get support for your Veteran-owned small business.
-aliases:
-  - /employment/vocational-rehab-and-employment/service-disabled/small-business-training/
 ---
 
 <div class="va-introtext">

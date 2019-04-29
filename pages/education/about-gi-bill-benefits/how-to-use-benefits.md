@@ -8,11 +8,6 @@ children: educationHowToUseBenefits
 order: 4
 plainlanguage:
 concurrence:
-aliases:
-  - /education/work-learn/
-  - /education/work-learn/non-traditional/
-  - /education/tools-programs/
-  - /education/advanced-training-and-certifications/
 majorlinks:
   - heading: Work toward a degree
     links:
@@ -40,7 +35,7 @@ majorlinks:
       title: Non-college degree programs
       description: Funding for specific training programs (like HVAC repair, truck driving, or EMT training)
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/
-      title: VET TEC program 
+      title: VET TEC program
       description: A program that connects you to a high-tech training provider so you can gain computer skills and experience to start or advance your high-tech career
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/flight-training/
       title: Flight training

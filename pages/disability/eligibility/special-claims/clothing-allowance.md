@@ -7,8 +7,6 @@ concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/conditions/special-claims/clothing/
 ---
 
 
@@ -55,7 +53,7 @@ When you file a disability claim, you’ll also need to fill out this additional
 An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
 [Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf).
 
-Bring it to the prosthetic representative at your local VA medical center. 
+Bring it to the prosthetic representative at your local VA medical center.
 
 To get your yearly payment, you’ll need to qualify by August 1 of that year. You may be able to get more than one payment if you meet at least one of the requirements listed below.
 

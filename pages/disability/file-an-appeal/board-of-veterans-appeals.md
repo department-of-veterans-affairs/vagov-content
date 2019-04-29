@@ -7,25 +7,23 @@ concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/claims-appeal/hearings/
 ---
 
 <div class="va-introtext">
-  
+
 Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans Law Judge to discuss your appeal.
 
 </div>
 
 <div class="feature" markdown=“1”>
-  
+
 ### Why might I want a Board hearing?
 
 You might want a Board hearing if you think it’ll help support your appeal to discuss your case with a judge.
 
 ### Do I have to have a Board hearing?
 
-No. Board hearings are always optional. 
+No. Board hearings are always optional.
 
 </div>
 
@@ -103,9 +101,9 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   If you’ve already submitted evidence, the judge will be able to review it on their computer, and it’s not necessary to bring it to your hearing. But you should bring any new evidence with you. Once you’ve received your hearing schedule notice, it’s better to bring new evidence to your hearing rather than mailing it.
 
-  ### Can I get help preparing for my hearing? 
+  ### Can I get help preparing for my hearing?
 
-  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO). 
+  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO).
 
   [Get help from a representative](/disability/get-help-filing-claim/).
 </section>

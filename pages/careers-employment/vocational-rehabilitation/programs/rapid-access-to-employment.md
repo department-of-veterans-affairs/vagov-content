@@ -19,8 +19,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/programs/independent-living/
       title: Independent Living Track
       description: Learn about services that can help you live as independently as possible if you can't return to work right away.
-aliases:
-  - /employment/vocational-rehab-and-employment/service-disabled/job-search-and-counseling/
 ---
 
 <div class="va-introtext">
@@ -113,7 +111,7 @@ Some dependents of Servicemembers or Veterans with service-connected disabilitie
 - **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
   [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
-  
+
 
 **We also offer:**
 - VR&E employment coordinators—located at our VA regional offices and many of our out-based locations—who can help you access the employment services available to you.<br>

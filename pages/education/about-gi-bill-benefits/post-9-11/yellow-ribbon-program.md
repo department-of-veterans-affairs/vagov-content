@@ -6,8 +6,6 @@ plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationYellowRibbonProgram
 order: 1
-aliases:
-  - /education/gi-bill/yellow-ribbon/
 ---
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
@@ -66,7 +64,7 @@ If you qualify, your school will contribute a certain amount toward your extra t
 
 <h2 itemprop="name">How do I get this benefit?</h2>
 <div itemprop="itemListElement">
-  
+
 <ol class="process">
 <li class="process-step list-one">
 
@@ -133,13 +131,13 @@ school also could provide $1,800 for students in the school of engineering and $
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-2">Will all of my tuition and fees be paid for if my school participates in the Yellow Ribbon Program?</button>
 <div id="questions-2" class="usa-accordion-content">
 
-This depends on the agreement we have with your school. 
+This depends on the agreement we have with your school.
 
-Your school’s agreement with us states how much it will contribute and how much we'll match. This amount makes up all or part of the difference between what the Post-9/11 GI Bill will pay and the unmet tuition and fees. 
+Your school’s agreement with us states how much it will contribute and how much we'll match. This amount makes up all or part of the difference between what the Post-9/11 GI Bill will pay and the unmet tuition and fees.
 
 **Here's how it works:**
 
-Let's say you're attending a public school as an out-of-state student. 
+Let's say you're attending a public school as an out-of-state student.
 
 The school charges $10,000 per year for in-state tuition and fees, but $16,000 per year for out-of-state tuition and fees.
 
@@ -167,7 +165,7 @@ No. You don't have to attend full-time to be in the program.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-5">What happens if state or institutional waivers already cover part of my tuition and fees?</button>
 <div id="questions-5" class="usa-accordion-content">
 
-First, we'll determine how much the Post-9/11 GI Bill will pay. We'll do this by subtracting any financial aid you have that's designated solely for paying tuition and fees from the total amount your school charges. 
+First, we'll determine how much the Post-9/11 GI Bill will pay. We'll do this by subtracting any financial aid you have that's designated solely for paying tuition and fees from the total amount your school charges.
 
 Then, your school's funding through the Yellow Ribbon Program and our matching contributions can cover part or all of the remaining unmet charges.
 
@@ -223,7 +221,7 @@ If your school has an approved agreement with us and continues to participate in
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-9">If I participate in the Yellow Ribbon Program this year, will I automatically receive the same amount of funding next year?</button>
 <div id="questions-9" class="usa-accordion-content">
 
-No. Even if you stay enrolled, keep progressing in your program, and have money left in your Post-9/11 GI Bill benefits, your school can choose to offer a different amount each year. 
+No. Even if you stay enrolled, keep progressing in your program, and have money left in your Post-9/11 GI Bill benefits, your school can choose to offer a different amount each year.
 
 </div>
 </li>
@@ -238,8 +236,8 @@ Your school must notify you if they plan to stop offering the program.
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-11">If I take fewer courses, how will my payments change?</button>
 <div id="questions-11" class="usa-accordion-content">
-  
-If you take fewer courses, we'll pay less toward your tuition and fees. Your school will also reduce the amount they pay. 
+
+If you take fewer courses, we'll pay less toward your tuition and fees. Your school will also reduce the amount they pay.
 
 We base refunds on each school's refund policy. You'll need to pay us back for any overpayments we may have made to the school that they don't refund.
 
@@ -248,7 +246,7 @@ We base refunds on each school's refund policy. You'll need to pay us back for a
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-12">If I leave my school but return after a semester, am I still approved for the Yellow Ribbon Program?</button>
 <div id="questions-12" class="usa-accordion-content">
-  
+
 If the school still offers the program, they must continue to give you funding as long as you meet all of the requirements listed below.
 
 **All of these must be true. You:**

@@ -5,8 +5,6 @@ title: Foreign programs
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
-aliases:
-  - /education/gi-bill/foreign-programs/
 ---
 
 <div class="va-introtext">
@@ -23,7 +21,7 @@ You can get education benefits if you meet all of the requirements listed below.
 **All of these must be true:**
   - You're eligible for—or already get—VA educational assistance as a Veteran, service member, Reservist, or qualified dependent, **and**
   - We’ve approved your program, **and**
-  - Your program is at an institution of higher learning where you’ll earn a standard associate's degree or higher, or a degree of equal value at that foreign school. 
+  - Your program is at an institution of higher learning where you’ll earn a standard associate's degree or higher, or a degree of equal value at that foreign school.
 
 **Exception:** Family members who qualify for Survivors’ and Dependents’ Educational Assistance can get VA benefits while in approved postsecondary (after high school) non-college degree programs at training locations in the Philippines.
 
@@ -116,7 +114,7 @@ If you don’t do this, it could affect when you get benefits.
 
 **To get more information or help with your application:**
 
-- [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550) 
+- [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550)
 - **If you’re in the United States**, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. Or go to a VA regional benefit office near you. <br>
 [Find a VA regional benefit office](/find-locations/?facilityType=benefits)
 - **If you have hearing loss**, call TTY: 711.

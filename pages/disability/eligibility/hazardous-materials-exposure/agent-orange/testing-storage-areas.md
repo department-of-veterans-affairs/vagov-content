@@ -7,8 +7,6 @@ plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
 order: 10
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/test-storage/
 ---
 
 <div class="va-introtext">
@@ -21,7 +19,7 @@ Were you part of testing or storing Agent Orange on bases in the United States o
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you meet both of the requirements listed below. 
+You may be able to get disability benefits if you meet both of the requirements listed below.
 
 **Both of these must be true:**
 - You have 1 or more illnesses believed to be caused by Agent Orange, **and**
@@ -63,4 +61,4 @@ You can get help from a trained professional trusted to help with VA-related cla
 
 Want to figure out where you may have come into contact with Agent Orange? See all the dates and locations of herbicide tests and storage:
 - [In the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/usa.asp)
-- [Outside the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/outside-vietnam.asp) 
+- [Outside the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/outside-vietnam.asp)

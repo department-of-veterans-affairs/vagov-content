@@ -6,8 +6,6 @@ display_title: Family Resources
 concurrence: complete
 order: 6
 spoke: More resources
-aliases:
-  - /employment/job-seekers/family-members/
 ---
 
 <div class="va-introtext">
