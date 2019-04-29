@@ -148,8 +148,8 @@ The rates are effective **October 1, 2017**.
 | ½ time | $1,091.00 | $1,109.00 | $1,124.50 | $8.50 
 | Less than ½ time more than ¼ time | $1,091.00* | | | | 
 | ¼ time or less | $545.50* | | | | 
-\*Payment for tuition and fees only. Payment cannot exceed the listed amount.
 
+\*Payment for tuition and fees only. Payment cannot exceed the listed amount.
 
 ### Apprenticeships and on-the-job training
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 3 Dependents** | **Monthly rate, each additional dependent** |
