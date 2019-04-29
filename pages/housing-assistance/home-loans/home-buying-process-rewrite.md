@@ -11,27 +11,15 @@ order: 10
 relatedlinks:
   - heading: More resources on VA home loan programs
     links:
-    - url: https://www.va.gov/housing-assistance/home-loans/how-to-apply/
+    - url: /housing-assistance/home-loans/how-to-apply/
       title: Apply for a COE
       description: Learn how to apply for a COE. 
-    - url: https://www.va.gov/housing-assistance/home-loans/loan-types/
+    - url: /housing-assistance/home-loans/loan-types/
       title: VA home loan types
       description: Learn more about each type of VA-backed home loan.
-    - url: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
+    - url: /housing-assistance/home-loans/surviving-spouse/
       title: VA home loan program for surviving spouses
       description: Find out if you're eligible for a VA home loan if you're a suriviving spouse.
-    - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_limits.asp
-      title: VA home loan limits
-      description: Learn about VA home loan limits and find out what your limit is. 
-    - url: https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp?_ga=2.215503518.801410513.1555939590-1758989635.1554476670
-      title: VA funding fee and other closing costs
-      description: Learn about VA funding fees and find out if you have to pay one in order to get from your lender.
-    - url: https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/
-      title: Trouble making payments?
-      description: If you're having trouble making payments on your mortgage, a VA loan technician might be able to help.
-    - url: https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.215503518.801410513.1555939590-1758989635.1554476670
-      title: Find a regional loan center
-      description: Contact a regional loan center if you have questions about your VA-backed home loan. 
 ---
 <div class="va-introtext">
 
@@ -45,7 +33,7 @@ Learn about buying a home with a VA-backed home loan. VA-backed home loans are p
 
 You can get a VA-backed home loan if you qualify for a VA-backed home loan Certificate of Eligibility (COE).<br>
 
-[See if you can get a (COE).](/housing-assistance/home-loans/eligibility/)
+[See if you can get a (COE)](/housing-assistance/home-loans/eligibility/)
 </div>
 
 ## Why might I want a VA-backed home loan?
@@ -77,22 +65,6 @@ You can get a VA-backed home loan if you qualify for a VA-backed home loan Certi
 -	Make changes or add new features (like solar power) to make your home more energy efficient
 - Refinance an existing non-VA loan
 - Reinance an existing VA loan to lower the interest rate
-
-## VA-backed home loan types
-
-There are 4 types of VA-backed home loans. [Learn more about each VA-backed home loan type.](https://www.va.gov/housing-assistance/home-loans/loan-types/)
-
-#### [Purchase Loan](/housing-assistance/home-loans/loan-types/purchase-loan/)
-Looking to buy a home? Find out if you're eligible for a VA-backed purchase loan to get better terms than with a private-lender loan.
-
-#### [Native American Direct Loan (NADL) Program](/housing-assistance/home-loans/loan-types/native-american-direct-loan/)
-Are you a Native American Veteran or a Veteran married to a Native American? Find out if you're eligible for a NADL to buy, build, or improve a home on Federal Trust Land.
-
-#### [Interest Rate Reduction Refinance Loan (IRRRL)](/housing-assistance/home-loans/loan-types/cash-out-loan/)
-Have an existing VA-backed home loan? Find out if you're eligible for a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
-
-#### [Cash-Out Refinance Loan](/housing-assistance/home-loans/loan-types/cash-out-loan/)
-Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you're eligible for a VA-backed cash-out refinance loan.
 
 ## How can I buy a home with a VA-backed purchase loan?
 
