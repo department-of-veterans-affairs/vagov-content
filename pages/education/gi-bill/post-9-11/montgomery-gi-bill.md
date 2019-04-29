@@ -146,8 +146,23 @@ The rates are effective **October 1, 2017**.
 | Full-time | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
 | ¾ time | $1,637.00 | $1,663.50 | $1,687.00 | $12.00 |
 | ½ time | $1,091.00 | $1,109.00 | $1,124.50 | $8.50 
-| less than ½ time more than ¼ time | $1,091.00* | | | | 
+| Less than ½ time more than ¼ time | $1,091.00* | | | | 
 | ¼ time or less | $545.50* | | | | 
+
+### Apprenticeships and on-the-job training
+| **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent ** | **Monthly rate, 3 Dependents** | **Monthly rate, each additional dependent** |
+|---|---|---|---|---|
+| First 6 months of training | $1,598.25 | $1,610.63 | $1,621.50 | $5.25 |
+| Second 6 months of training | $1,153.08 | $1,162.43 | $1,170.13 | $3.85 |
+| Third 6 months of training | $721.70 | $727.83 | $732.55 | $2.45 |
+| Remainder of program | $709.80 | $715.58 | $720.83 | $2.45 |
+
+### Cooperative training
+The cooperative training program lets you go to school full-time for a period, and then work full-time for a period. 
+This chart shows you what you’ll receive under this program according to how many dependents you have.
+| **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
+|---|---|---|---|---|
+| Oct. 1, 2018 - Sept. 30, 2019 | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
 
 **Correspondence schools.** You’ll get 55% of the benefit listed above. For example, if you have **2 dependents**, you’ll 
 get **55% of $2,249.00**, or **$1,236.95**. 
