@@ -129,7 +129,7 @@ hublinks:
       description: Watch a video and get more information about using your VA home loan
         benefit to buy a home.
       external: false
-    - url: /housing-assistance/home-loans/funding-fee/
+    - url: /housing-assistance/home-loans/funding-fee-and-closing-costs/
       label: VA Loan Funding Fee
       description: Find out if you'll need to pay this fee when using your home loan
         benefits.
