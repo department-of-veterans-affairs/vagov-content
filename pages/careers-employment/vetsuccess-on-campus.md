@@ -23,7 +23,7 @@ aliases:
 
 <div class="va-introtext">
 
-VetSuccess on Campus (VSOC) supports Veterans, Servicemembers, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC Counselors) at 104 college campuses across the country.
+VetSuccess on Campus (VSOC) supports Veterans, service members, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC Counselors) at 104 college campuses across the country.
 
 </div>
 
