@@ -4,7 +4,7 @@ template: detail-page
 title: Bereavement Counseling
 display_title:
 order: 6
-spoke: Get Benefits
+spoke: Get benefits
 collection: burials
 relatedlinks:
   - heading: Other helpful information

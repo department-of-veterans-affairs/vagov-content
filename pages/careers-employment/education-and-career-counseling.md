@@ -6,7 +6,7 @@ display_title: Educational and Career Counseling
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4
-spoke: Get Benefits
+spoke: Get benefits
 aliases:
   - /education/tools-programs/education-career-counseling/
 ---
@@ -26,7 +26,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 **Both of these must be true. You:**
 -	Separated from active duty not more than 1 year ago and didn't receive a dishonorable discharge, **and**
 -	Qualify as a Veteran for educational assistance under a VA educational program
- 
+
 **Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
 [Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/)
 
@@ -61,7 +61,7 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
 [Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
 
-Mail the completed form to your nearest VA regional benefit office.<br> 
+Mail the completed form to your nearest VA regional benefit office.<br>
 [Find your nearest VA regional benefit office](/find-locations/)
 
 If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.
