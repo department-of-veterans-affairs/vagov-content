@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Funding Fee And Loan Closing Costs
 heading: VA funding fee and loan closing costs
-display_title: VA funding fee
+display_title: Funding fee and closing costs
 description: The VA funding fee is a one-time payment that the Veteran, service member, or survivor pays on a VA-backed or VA direct home loan. Learn about the VA funding fee and other closing costs you may need to pay on your loan.  
 keywords: va funding fee, va funding fee chart, va loan closing costs, va loan fees
 concurrence:
