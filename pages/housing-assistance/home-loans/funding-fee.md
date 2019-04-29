@@ -13,7 +13,7 @@ relatedlinks:
     links:
     - url: /housing-assistance/home-loans/loan-types/
       title: VA home loan types
-      description: Learn how VA-backed and VA direct home loans work--and find out which loan program might be right for you.
+      description: Learn how VA-backed and VA direct home loans work—and find out which loan program might be right for you.
     - url: /housing-assistance/home-loans/eligibility/
       title: Eligibility
       description: Find out if you can get a Certificate of Eligibility (COE) for a VA-backed or VA direct home loan based on your service history and duty status.
@@ -21,8 +21,8 @@ relatedlinks:
       title: How to apply
       description: Find out how to apply for a COE.
     - url: /housing-assistance/home-loans/surviving-spouse/
-      title: VA Home Loan Programs for Surviving Spouses
-      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
+      title: VA home loan programs for surviving spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a prisoner of war.
 ---
 
 <div class="va-introtext">
@@ -83,7 +83,7 @@ This depends on the amount of your loan and other factors.
 
 <span id=rates></span>
 <h2>VA funding fee rate charts</h2>
-<strong>Effective through September 30, 2028 based on Public Laws 112-56 and 115-182</strong>
+<strong>Effective through September 30, 2028, based on Public Laws 112-56 and 115-182</strong>
 
 Review the VA funding fee rate charts below to determine the amount you’ll have to pay. Down payment and VA funding fee amounts are expressed as a percentage of total loan amount.
 
@@ -170,7 +170,7 @@ We don't determine most details of your home loan.
 - Discount points (fees you may pay to your lender at closing to get a lower interest rate on your loan)
 - Other closing costs
 
-These rates may vary from lender to lender. You should know that adding the VA funding fee and other loan costs to your loan could lead to you owing more money than the fair market value of the home. This could reduce the benefit of refinancing since your payment wouldn't be as low as you may want it to be. It could also make it harder for you get enough money out of the future sale of the home to pay of your loan balance.
+These rates may vary from lender to lender. You should know that adding the VA funding fee and other loan costs to your loan could lead to you owing more money than the fair market value of the home. This could reduce the benefit of refinancing since your payment wouldn't be as low as you may want it to be. It could also make it harder for you get enough money out of the future sale of the home to pay off your loan balance.
 
 <h3>Who pays for which closing costs?</h3>
 
@@ -184,13 +184,13 @@ These rates may vary from lender to lender. You should know that adding the VA f
 - VA funding fee
 - Loan origination fee
 - Loan discount points or funds for temporary "buydowns"
-- Credit report and payment of any credit balances or judgements
+- Credit report and payment of any credit balances or judgments
 - VA appraisal fee
 - Hazard insurance and real estate taxes
 - State and local taxes
 - Title insurance
 - Recording fee
 
-**Note:** We require that a seller can't pay more than 4% of the total home loan in sellers concessions. But this rule only covers some closing costs, including the VA funding fee. The rule doesn't cover loan discount points.
+**Note:** We require that a seller can't pay more than 4% of the total home loan in seller's concessions. But this rule only covers some closing costs, including the VA funding fee. The rule doesn't cover loan discount points.
 
 [Learn more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
