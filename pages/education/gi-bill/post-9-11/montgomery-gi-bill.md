@@ -8,6 +8,22 @@ description:
 concurrence: 
 spoke: More information and resources
 order: 1
+relatedlinks:
+  - heading: Other helpful education benefit resources
+    links:
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: /education/other-va-education-benefits/veap/
+      title: Veterans’ Educational Assistance Program (VEAP)
+      description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
+    - url: https://www.benefits.va.gov/gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person. 
+      
 ---
 <div class="va-introtext">
   
@@ -130,3 +146,42 @@ The rates are effective **October 1, 2017**.
 | | **No dependents** | **1 dependent** | **2 dependents** | **Each additional dependent** |
 |-----|-----|-----|-----|-----|
 | Full-time | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
+
+**Correspondence schools.** You’ll get 55% of the benefit listed above. For example, if you have **2 dependents**, you’ll 
+get **55% of $2,249.00**, or **$1,236.95**. 
+
+**Flight schools.** You’ll get 60% of the benefit listed above. For example, if you have **2 dependents**, you’ll get **60% 
+of $2,249.00**, or **$1,349.40**.
+
+### [Can I use the $600 Buy-Up program?](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
+
+If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your 
+GI Bill monthly payments. Learn how it works, and what the current rates are.
+
+### [How to Use Your Benefits](/education/about-gi-bill-benefits/how-to-use-benefits/)
+
+### Can I change my education benefits?
+
+In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
+
+### Historic Montgomery GI Bill Active Duty rates
+- [Rates effective October 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100118.asp)
+- [Rates effective October 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100117.asp)
+- [Rates effective October 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100116.asp)
+- [Rates effective October 1, 2015](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100115.asp)
+- [Rates effective October 1, 2014](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100114.asp)
+- [Rates effective October 1, 2013](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100113.asp)
+- [Rates effective October 1, 2012](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100112.asp)
+- [Rates effective October 1, 2011](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100111.asp)
+- [Rates effective October 1, 2010](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100110.asp)
+- [Rates effective October 1, 2009](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100109.asp)
+- [Rates effective August 1, 2008](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates080108.asp)
+- [Rates effective October 1, 2007](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100107.asp)
+- [Rates effective October 1, 2006](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100106.asp)
+- [Rates effective October 1, 2005](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100105.asp)
+- [Rates effective October 1, 2004](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100104.asp)
+- [Rates effective October 1, 2003](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100103.asp)
+- [Rates effective October 1, 2002](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100102.asp)
+- [Rates effective January 1, 2002](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates010102.asp)
+- [Rates effective October 1, 2001](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100101.asp)
+- [Rates effective November 1, 2000](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates110100.asp)
