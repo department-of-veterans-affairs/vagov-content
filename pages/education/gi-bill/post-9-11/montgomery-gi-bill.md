@@ -160,9 +160,10 @@ The rates are effective **October 1, 2017**.
 ### Cooperative training
 The cooperative training program lets you go to school full-time for a period, and then work full-time for a period. 
 This chart shows you what you’ll receive under this program according to how many dependents you have.
+
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
 |---|---|---|---|---|
-| Oct. 1, 2018-Sept. 30, 2019 | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
+| Oct. 1, 2018 - Sept. 30, 2019 | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
 
 **Correspondence schools.** You’ll get 55% of the benefit listed above. For example, if you have **2 dependents**, you’ll 
 get **55% of $2,249.00**, or **$1,236.95**. 
