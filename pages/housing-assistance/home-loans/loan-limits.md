@@ -41,29 +41,25 @@ Learn about VA home loan limits (also called VA home loan maximums). Find out th
 
 ### What’s a VA home loan limit? 
 
-A VA home loan limit is the maximum amount of money that you may be able to borrow using a VA-backed home loan, without paying a portion of the home's total sale price up front (called a down payment). 
-
-This doesn't mean you can't borrow more than the limit. We don't put a limit on how much money you can borrow to finance your home. But we do limit the amount that we'll guarantee your lender we'll cover if you default on your loan. And your lender may use this information to help determine how much they're willing to let you borrow. 
+A VA home loan limit is the maximum amount of money you can borrow using a VA-backed home loan, without paying a portion of the home's total sale price up front (called a down payment). It's not a cap on the maximum amount you can borrow. 
 
 ### What will my loan limit be? 
 
-Your limit will depend on your [VA home loan program eligibility](/housing-assistance/home-loans/eligibility/) and the location of the home you're buying or refinancing. Loan limits vary by county because a property's location affects its value. For example, the same home in or near a major city will likely cost much more than it would in a more rural location.
+If you qualify for a VA-backed home loan, you'll receive a home loan entitlement. This is the maximum amount we'll guarantee the lender that we'll pay if you default on your loan. 
 
-#### Here's how it works
-
-If you’re eligible for the VA home loan program, you'll get what we call an entitlement. This is the maximum amount of money we'll guarantee to your lender that we'll pay if you default on your loan. As long as you qualify for the loan based on your income and credit history, and the property’s value matches its asking price, your lender will likely agree to loan you up to 4 times the amount of your entitlement without a down payment.
+As long as you qualify for a loan based on your income and credit history, and the property’s value matches its asking price, your lender will likely agree to loan you up to 4 times the amount of your entitlement without a down payment. You may still be able to borrow more than this amount if you're able and willing to pay a down payment. Most lenders require that your entitlement, down payment, or a combination of both cover at least 25% of your total loan amount.
 
 **You may qualify for 2 types of entitlement:**
 
-- **Basic entitlement:** As your basic entitlement, we'll guarantee to your lender that we'll pay up to at least $36,000 or 25% of your loan amount, whichever is less, if you default on your loan. So your loan limit would be $36,000 X 4 = **$144,000**.
+- **Basic entitlement:** As your basic entitlement, we'll guarantee to your lender that we'll pay up to at least $36,000 or 25% of your loan amount, whichever is less, if you default on your loan. So your loan limit would be $36,000 X 4 = **$144,000**. 
 
-- **Bonus (or Tier-2) entitlement:** In many cases, you may want to buy a home that costs more than $144,000. To help you do this, we offer what's called bonus entitlement. To determine your bonus entitlement, we'll look at the Federal Housing Finance Agency's (FHFA's) current national conventional financing confirming limit and your state's county loan limits. We'll guarantee 25% of your loan amount, based on these loan limits. 
+- **Bonus entitlement:** You may want to buy a home that costs more than $144,000. To help you do this, we offer what's called bonus (or Tier 2) entitlement. <br> To determine your bonus entitlement, we'll look at the Federal Housing Finance Agency's (FHFA's) current national conventional financing confirming limit and your state's county loan limits. Loan limits vary by county because a property's location affects its value. For example, the same home in or near a major city will likely cost much more than it would in a more rural location. We'll guarantee 25% of your loan amount, based on these loan limits. 
 
 If you have questions about your entitlement, talk to your lender or call us at 877-827-3702 to find the nearest VA regional office with loan guaranty staff. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
 
 ### What if I don't use all of my entitlement on my first home loan?
 
-If you don't use all of your entitlement on your first home loan, you'll have what's called “remaining entitlement.” You can use this remaining amount, either on its own or in combination with a down payment, to take out another home loan in the future.  
+You'll have what's called “remaining entitlement.” You can use this remaining amount, either on its own or in combination with a down payment, to take out another home loan in the future.  
 
 ------
 
@@ -74,24 +70,24 @@ VA home loan limits change each year and are based on the property's county loca
 
 ### 2019
 
+2019 VA Home Loan limits are the same as the FHFA limits. <br>
 [View loan limits](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <br>
+<br>
 <strong>Note:</strong> Please refer only to the “One-Unit Limit” column.
 
-<strong>Note:</strong> 2019 VA Home Loan limits are the same as the FHFA limits. 
-
-### 2018 - 2016
+### 2016 to 2018
 
 <ol class="process">
   <li class="process-step list-one"><h4>Go to FHFA’s Conforming Loan Limits Page</h4><br>
-    Look below for the link to the page.    
+    You'll find the link to this page below.    
   <li class="process-step list-two"><h4>Scroll to the “Previously Announced Loan Limits” section</h4><br> 
     Review the table with past loan limit information.</li>
   <li class="process-step list-three"><h4>Find the year with the limits you need</h4><br> 
-    Years are located in the first column, labeled “Description”.</li>
+    Years are located in the first column, labeled “Description.”</li>
   <li class="process-step list-four"><h4>Download the loan limit table</h4><br> 
-    Download the loan limit table by selecting the link to the right of the “Description” column. The file will be in .xls or .pdf format.</li>
+    Download the loan limit table by selecting the link to the right of the “Description” column. The file will be in excel document or pdf format.</li>
   <li class="process-step list-five"><h4>Refer only to the "One-Unit Limit" column in the table</h4><br> 
-    The "One-Unit Limit" column is the only column that refers to VA home loan limits.</li>
+    This is the only column that applies to VA home loan limits.</li>
 </ol>
 
 <br>
@@ -119,7 +115,7 @@ View loan limits for: <br>
 [October 1, 2011 to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf) <br>
 [January 1, 2011 to September 30, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
 
-### 2010 and earlier
+### 2008 to 2010
 
 [View 2010 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2010_county_loan_limits.pdf)<br>
 [View 2009 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2009_county_loan_limits.pdf)<br>
