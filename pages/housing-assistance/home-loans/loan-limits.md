@@ -51,7 +51,7 @@ Your limit will depend on your [VA home loan program eligibility](/housing-assis
 
 #### Here's how it works
 
-If you’re eligible for the VA home loan program, you'll get what we call an entitlement. This is the maximum amount of money we'll guarantee to your lender that we'll pay if you default on your loan. In most cases, as long as you qualify for the loan based on your income and credit history, and the property’s value matches its asking price, lenders will loan up to 4 times the amount of your entitlement without a down payment.
+If you’re eligible for the VA home loan program, you'll get what we call an entitlement. This is the maximum amount of money we'll guarantee to your lender that we'll pay if you default on your loan. As long as you qualify for the loan based on your income and credit history, and the property’s value matches its asking price, your lender will likely agree to loan you up to 4 times the amount of your entitlement without a down payment.
 
 **You may qualify for 2 types of entitlement:**
 
@@ -74,7 +74,8 @@ VA home loan limits change each year and are based on the property's county loca
 
 ### 2019
 
-[View loan limits](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <strong>Refer only to the "One-Unit Limit" column.</strong>
+[View loan limits](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <br>
+<strong>Note:</strong> Please refer only to the “One-Unit Limit” column.
 
 <strong>Note:</strong> 2019 VA Home Loan limits are the same as the FHFA limits. 
 
@@ -94,7 +95,7 @@ VA home loan limits change each year and are based on the property's county loca
 </ol>
 
 <br>
-    <a href="https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx">Visit FHFA's Conforming Loan Limits page</a>.</li>
+    <a href="https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx">Visit FHFA's Conforming Loan Limits page</a></li>
 
 ### 2014
 
