@@ -29,10 +29,10 @@ relatedlinks:
   
 The Montgomery GI Bill for Active Duty military members (MGIB-AD/Chapter 30) is probably the most common GI Bill plan. 
 This is the GI Bill plan you can buy into for $1,200 during basic training. You typically have 10 years to use your 
-MGIB benefits after you separate from military service.
+MGIB-AD benefits after you separate from military service.
 
 You can use your MGIB-AD benefits while you’re on active duty or after you separate. Unlike the Post-9/11 GI Bill, 
-which pays the school or institution, the MGIB pays you directly. Also unlike the Post-9/11 GI Bill, the MGIB-AD 
+which pays the school or institution, the MGIB-AD pays you directly. Also unlike the Post-9/11 GI Bill, the MGIB-AD 
 program does not give you a housing allowance. 
 
 If you’re a trainee on active duty, you’ll be paid back for your tuition and fees. If you’re a trainee using military tuition 
@@ -41,7 +41,7 @@ assistance (TA), your payments will make up the difference between the tuition a
 [Learn more about the military tuition assistance (TA) program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
 
 [Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
-On this page, you’ll learn the monthly payment rates for the Montgomery GI Bill Active Duty (Chapter 30), **effective August 
+On this page, you’ll learn the monthly payment rates for the MGIB-AD, **effective August 
 2018**.
 
 ## Will I get the full benefit amount?
@@ -148,9 +148,11 @@ The rates are effective **October 1, 2017**.
 | ½ time | $1,091.00 | $1,109.00 | $1,124.50 | $8.50 
 | Less than ½ time more than ¼ time | $1,091.00* | | | | 
 | ¼ time or less | $545.50* | | | | 
+\*Payment for tuition and fees only. Payment cannot exceed the listed amount.
+
 
 ### Apprenticeships and on-the-job training
-| **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent ** | **Monthly rate, 3 Dependents** | **Monthly rate, each additional dependent** |
+| **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 3 Dependents** | **Monthly rate, each additional dependent** |
 |---|---|---|---|---|
 | First 6 months of training | $1,598.25 | $1,610.63 | $1,621.50 | $5.25 |
 | Second 6 months of training | $1,153.08 | $1,162.43 | $1,170.13 | $3.85 |
