@@ -121,4 +121,4 @@ Some dependents of Servicemembers or Veterans with service-connected disabilitie
 - Links to more resources outside VA that can help you in your job search. <br>
 [See our list of external resources](/careers-employment/veteran-resources/).<br>
 - If you’re participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
-[Contact your VR&E counselor for more information](/facilities/).
+[Contact your VR&E counselor for more information](/find-locations/).
