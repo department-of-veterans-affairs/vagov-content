@@ -8,7 +8,21 @@ description:
 concurrence: 
 spoke: Benefit rates
 order: 3
-
+relatedlinks:
+  - heading: Other helpful education benefit resources
+    links:
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/
+      title: How to use your benefits
+      description: Learn all the types of educational benefits you can use with your GI Bill coverage. 
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits 
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: https://www.benefits.va.gov/gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person. 
 ---
 
 <div class="va-introtext">
@@ -51,3 +65,5 @@ full-time for a period. If you’re participating in this program, your monthly 
 ### [Can I use the $600 Buy-Up program?](education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
 If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly payments. Learn how it works, and what the current rates are.
 
+### I still have questions about my benefits.
+You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
