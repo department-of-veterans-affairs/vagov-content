@@ -9,7 +9,7 @@ order: 5
 majorlinks:
   - heading:
     links:
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/accelerated-programs/
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/
       title: Accelerated Payments for High-Technology Programs
       description: "If you’re enrolled in a high-tech program, you may be able to get a lump-sum payment to cover the cost for these courses."
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/
