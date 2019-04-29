@@ -9,7 +9,7 @@ order: 5
 majorlinks:
   - heading:
     links:
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/accelerated-programs/
       title: Accelerated Payments for High-Technology Programs
       description: "If you’re enrolled in a high-tech program, you may be able to get a lump-sum payment to cover the cost for these courses."
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/
@@ -18,11 +18,11 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning/
       title: Independent and Distance Learning
       description: "You can use the GI Bill for independent and distance learning online."
-   
+
 ---
 
 <div class="va-introtext">
 
-If college programs aren’t for you, you may be able to use your GI Bill benefit to help pay for other types of education. Get more information about non-traditional educational options below. 
+If college programs aren’t for you, you may be able to use your GI Bill benefit to help pay for other types of education. Get more information about non-traditional educational options below.
 
 </div>
