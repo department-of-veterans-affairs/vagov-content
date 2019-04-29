@@ -102,8 +102,8 @@ on the time you’re attending school or training.
 | Full-time | $1,619.00 |
 | ¾ time | $1,214.25 |
 | ½ time | $809.50 |
-| Less than ½ time more than ¼ time | $809.50 * |
-| ¼ time or less | $404.75 * |
+| Less than ½ time more than ¼ time | $809.50* |
+| ¼ time or less | $404.75* |
 
 \*Payment for tuition and fees only. Payment cannot exceed the listed amount.
 
@@ -141,11 +141,13 @@ The rates are effective **October 1, 2017**.
 [Learn more about remaining entitlement programs](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf)
 
 ### Schools and other institutional training
-| **Training period** | **Monthly rate** |
-|--|--|
-| | **No dependents** | **1 dependent** | **2 dependents** | **Each additional dependent** |
-|-----|-----|-----|-----|-----|
+| **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
+|---|---|---|---|---|
 | Full-time | $2,182.00 | $2,218.00 | $2,249.00 | $16.00 |
+| ¾ time | $1,637.00 | $1,663.50 | $1,687.00 | $12.00 |
+| ½ time | $1,091.00 | $1,109.00 | $1,124.50 | $8.50 
+| less than ½ time more than ¼ time | $1,091.00* | | | | 
+| ¼ time or less | $545.50* | | | | 
 
 **Correspondence schools.** You’ll get 55% of the benefit listed above. For example, if you have **2 dependents**, you’ll 
 get **55% of $2,249.00**, or **$1,236.95**. 
