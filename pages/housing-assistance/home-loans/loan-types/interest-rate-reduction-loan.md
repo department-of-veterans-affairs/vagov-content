@@ -93,4 +93,4 @@ If you're using a VA home loan to purchase a home or refinance a mortgage, you'l
 - National Guard or Reserve Veteran
 
 **Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount. <br>
-[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/va-loan-funding-fee/)
+[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
