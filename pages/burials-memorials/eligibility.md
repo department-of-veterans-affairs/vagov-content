@@ -55,7 +55,7 @@ The service member died on active duty.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
   
-Both of these are true. The person:<br>
+**Both of these are true. The person:**
 - Ended their last active service honorably by death or otherwise, <b>and</b>
 - Was a citizen of the United States at the time they entered their last active service and at the time of death
 </div>
@@ -81,13 +81,13 @@ They died under honorable conditions while:
 - Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
 
 <b>A Reserve component</b><br>
-One of these is true:
+**One of these is true:**
 - During a period of active duty for training they became disabled or died from a disease or injury caused—or made worse—by their active duty service, <b>or</b>
 - During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders caused—or made worse—by their active duty service
 
 <b>Reserve and Guard components</b> <br>
 
-All of these are true. They:
+**All of these are true. They:**
 - Have met minimum active duty service requirements, as required by law, <b>and</b> 
 - Were discharged under conditions other than dishonorable, <b>and</b> 
 - Were called to active duty and served the full term of service
@@ -113,7 +113,7 @@ The person served before July 29, 1945, and
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
 <div id="public-health-service-officer" class="usa-accordion-content">
   
-One of these must be true:
+**One of these must be true:**
 
 **The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, they must have become disabled or died from a disease or injury caused or made worse by their service.
 
@@ -131,7 +131,7 @@ One of these must be true:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
 <div id="merchant-mariner" class="usa-accordion-content">
   
-One of these must be true:
+**One of these must be true:**
 
 **The United States Merchant Mariner died on or after November 11, 1998.**
 They had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946.
@@ -153,11 +153,11 @@ Washington, DC 20593 <br>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veteran</button>
 <div id="philippine-armed-forces" class="usa-accordion-content">
   
-Both of these must be true. The Philippine Veteran was:
+**Both of these must be true. The Philippine Veteran was:**
 - A citizen of the United States or an alien lawfully admitted for permanent residence in the United States at the time of their death, <b>and</b>
 - Residing in the United States at the time of their death
 
-And one of these must be true. The Philippine Veteran:
+**And one of these must be true. The Philippine Veteran:**
 - Served before July 1, 1946, in the Philippine military (including recognized guerilla forces), while these forces were in the service of the Armed Forces of the United States, and died on or after November 1, 2000, **or**
 - Enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, and died on or after December 16, 2003
 </div>
@@ -200,6 +200,34 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 
 **When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
 write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
+
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="spouses-dependents">Spouses and dependents</button>
+<div id="spouses-dependents" class="usa-accordion-content">
+
+**These family members may be eligible for burial in a national cemetery:**
+
+- The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
+- The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
+- The minor child of an eligible Veteran. To be considered a minor, the child must be:
+  - Unmarried
+  - Under 21 years
+  - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution
+- The unmarried adult child of an eligible Veteran. The child may be any age, but they must have became permanently disabled (either physically or mentally) and not able to support themselves either:
+  - Before turning 21 years old, or 
+  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution. <br>
+  **Note:** Proper supporting documentation must be provided.
+
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="parents">Parents</button>
+<div id="parents" class="usa-accordion-content">
+
 
 </div>
 </li>
