@@ -49,7 +49,6 @@ Yes. To qualify for TSGLI, none of the descriptions below can be true of your in
 - Be the result of a physical or mental illness or disease (not including illness or disease caused by a wound infection; a chemical, biological, or radiological weapon; or accidentally swallowing a contaminated substance)
 
 [View TSGLI loss standards](https://www.benefits.va.gov/insurance/tsgli_schedule_Schedule.asp) <br>
-[View our diagram to learn more about TSGLI eligibility](https://benefits.va.gov/benefits/infographics/pdfs/TSGLI.pdf) 
 
 #### Can I get retroactive TSGLI for a past injury?
 
