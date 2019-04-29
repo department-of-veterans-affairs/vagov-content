@@ -28,7 +28,7 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
       title: Get paid back for test fees
       description: Reimbursement for the cost of tests to become a licensed or certified professional, or to apply for college or a training course
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/accelerated-programs/
       title: Accelerated payments for high-technology programs
       description: A lump-sum payment to help cover the cost of courses in high-tech degree or non-degree programs
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/
