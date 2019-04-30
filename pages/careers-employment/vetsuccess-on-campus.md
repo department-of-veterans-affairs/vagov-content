@@ -139,7 +139,28 @@ This program is also available to dependents of Veterans who meet at least one o
 | Florida International University | Marquay Smith <a href="mailto:Marquay.Smith@va.gov">Marquay.Smith@va.gov</a> | St. Petersburg (317) |
 | University of Florida | Charlotte Kemper <a href="mailto:Charlotte.Kemper@va.gov">Charlotte.Kemper@va.gov</a> | St. Petersburg (317) |
 | Santa Fe College | Charlotte Kemper <a href="mailto:Charlotte.Kemper@va.gov">Charlotte.Kemper@va.gov</a> | St. Petersburg (317) |
-| Florida State College at Jacksonville | Brittany Beimourtrusting <a href="mailto:Brittany.Beimourtrusting@va.gov">Brittany.Beimourtrusting@va.gov</a> Carl Schorr v<a href="mailto:Carl.Schorr@va.go">Carl.Schorr@va.go</a> | St. Petersburg (317) |
+| Florida State College at Jacksonville | Brittany Beimourtrusting <a href="mailto:Brittany.Beimourtrusting@va.gov">Brittany.Beimourtrusting@va.gov</a> <br/> Carl Schorr <a href="mailto:Carl.Schorr@va.gov">Carl.Schorr@va.gov</a> | St. Petersburg (317) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Georgia">Georgia</button>
+<div id="Georgia" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Kennesaw State University | Margo Thompson <a href="mailto:Margo.Thompson@va.gov">Margo.Thompson@va.gov</a> | Atlanta (316) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Hawaii">Hawaii</button>
+<div id="Hawaii" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Hawaii Pacific University | Gwen Dang <a href="mailto:Gwen.Dang@va.gov">Gwen.Dang@va.gov</a> | Honolulu (459) |
+| Leeward Community College | Claire Kusakabe <a href="mailto:Claire.Kusakabe@va.gov">Claire.Kusakabe@va.gov</a> | Honolulu (459) |
+| University of Hawaii - Manoa | Claire Kusakabe <a href="mailto:Claire.Kusakabe@va.gov">Claire.Kusakabe@va.gov</a> | Honolulu (459) |
+</div>
 </li>
 </ul>
 
