@@ -122,8 +122,24 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---| 
-| George Washington University | Laura Ferraro <a href="mailto:laura.ferraro@va.gov">laura.ferraro@va.gov</a | National Capital Region Benefits Office (372) |
+| George Washington University | Laura Ferraro <a href="mailto:laura.ferraro@va.gov">laura.ferraro@va.gov</a> | National Capital Region Benefits Office (372) |
 </div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Florida">Florida</button>
+<div id="Florida" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Northwest Florida State College | Maronda Clark <a href="mailto:Maronda.Clark@va.gov">Maronda.Clark@va.gov</a> | Montgomery (322) |
+| University of West Florida | Becky Baisden <a href="mailto:Rebecca.Baisden@va.gov">Rebecca.Baisden@va.gov</a> | Montgomery (322) |
+| University of South Florida | Jeanine Frederick <a href="mailto:Jeanine.Frederick@va.gov">Jeanine.Frederick@va.gov</a> | St. Petersburg (317) |
+| Florida State University | Jenn Stovall <a href="mailto:Jennifer.Stovall@va.gov">Jennifer.Stovall@va.gov</a> | St. Petersburg (317) |
+| Tallahassee Community College | Jenn Stovall <a href="mailto:Jennifer.Stovall@va.gov">Jennifer.Stovall@va.gov</a> | St. Petersburg (317) |
+| Florida International University | Marquay Smith <a href="mailto:Marquay.Smith@va.gov">Marquay.Smith@va.gov</a> | St. Petersburg (317) |
+| University of Florida | Charlotte Kemper <a href="mailto:Charlotte.Kemper@va.gov">Charlotte.Kemper@va.gov</a> | St. Petersburg (317) |
+| Santa Fe College | Charlotte Kemper <a href="mailto:Charlotte.Kemper@va.gov">Charlotte.Kemper@va.gov</a> | St. Petersburg (317) |
+| Florida State College at Jacksonville | Brittany Beimourtrusting <a href="mailto:Brittany.Beimourtrusting@va.gov">Brittany.Beimourtrusting@va.gov</a> Carl Schorr v<a href="mailto:Carl.Schorr@va.go">Carl.Schorr@va.go</a> | St. Petersburg (317) |
 </li>
 </ul>
 
