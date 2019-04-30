@@ -19,3 +19,10 @@ those covered by the Montgomery GI Bill or REAP.
 [Learn more about the $600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
 
 ### Current $600 Buy-Up program rates
+
+| **If you paid this much every month** | **You’ll add this amount to full-time payment** | **You’ll add this amount to ¾-time payment** | **You’ll add this amount to ½-time payment** | **You’ll add this amount to less than ½-time but more than ¼-time payment** | **You’ll add this amount to ¼-time payment** |
+|------|------|------|------|------|------|
+| **$20** |	$5.00 |	$3.75	| $2.50 |	$2.50 |	$1.25 |
+| **$40** |	$10.00 |$7.50	| $5.00	| $5.00	| $2.50 |
+| **$60**	| $15.00 | $11.25	| $7.50	| $7.50	| $3.75 |
+| $80	| $20.00	| $15.00	| $10.00	| $10.00	| $5.00 |
