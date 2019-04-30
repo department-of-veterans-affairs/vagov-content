@@ -8,6 +8,21 @@ description:
 concurrence: 
 spoke: Benefit rates
 order: 4
+relatedlinks:
+  - heading: Other helpful education benefit resources
+    links:
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/
+      title: How to use your benefits
+      description: Learn all the types of educational benefits you can use with your GI Bill coverage. 
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits 
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: https://www.benefits.va.gov/gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person
 ---
 
 <div class="va-introtext">
@@ -53,3 +68,6 @@ All rates in $ U.S. dollars
 | **560**	| 140.00 | 105.00	| 70.00	| 70.00	| 35.00 |
 | **580**	| 145.00 | 108.75	| 72.50	| 72.50	| 36.25 |
 | **600**	| 150.00 | 112.50	| 75.00	| 75.00	| 37.50 |
+
+###I still have questions about my benefits.
+You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
