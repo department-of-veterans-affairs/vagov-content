@@ -50,8 +50,8 @@ This program is also available to dependents of Veterans who meet at least one o
 
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---|
-| Troy University | Rickey Jones [Rickey.Jones@va.gov](Rickey.Jones@va.gov) | Montgomery (322) |
-| University of Alabama | Lisa Fells [Lisa.Fells@va.gov](Lisa.Fells@va.gov) | Montgomery (322) |
+| Troy University | Rickey Jones <a href="mailto:Rickey.Jones@va.gov">Rickey.Jones@va.gov</a> | Montgomery (322) |
+| University of Alabama | Lisa Fells <a href="mailto:Lisa.Fells@va.gov">Lisa.Fells@va.gov</a> | Montgomery (322) |
 
 </div>
 </li>
@@ -60,7 +60,7 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---|
-| University of Alaska - Anchorage | Terry Jackson [Terry.Jackson@va.gov](Terry.Jackson@va.gov) | Anchorage (463) |
+| University of Alaska - Anchorage | Terry Jackson <a href="mailto:Terry.Jackson@va.gov">Terry.Jackson@va.gov</a> | Anchorage (463) |
 
 </div>
 </li>
@@ -69,7 +69,7 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---| 
-| Arizona State University | Troy Rundle [Troy.Rundle@va.gov](Troy.Rundle@va.gov) | Phoenix (345) |
+| Arizona State University | Troy Rundle <a href="mailto:Troy.Rundle@va.gov">Troy.Rundle@va.gov</a> | Phoenix (345) |
 
 </div>
 </li>
