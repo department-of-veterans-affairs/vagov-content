@@ -20,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Getting a degree, certificate, or other professional license can help you make a successful transition from military to civilian life. Find out what happens after you apply for your Certificate of Eligibility for VA education benefits.
+Find out if you can get a Certificate of Eligibility (COE) for VA education benefits. Getting a degree, certificate, or other professional license can help you make a successful transition from military to civilian life. Learn about types of VA education benefits, including the GI Bill, and review what happens after you apply for a COE. 
 
 </div>
 
