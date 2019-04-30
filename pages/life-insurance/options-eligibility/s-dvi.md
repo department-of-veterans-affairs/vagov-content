@@ -34,10 +34,7 @@ You can apply for S-DVI if you meet all of the requirements listed below.
 - Are in good health except for any service-connected conditions, **and**
 - Apply within 2 years from the date we grant your new service-connected disability
 
-**Note:** An increase of a rating you had before—or a rating of Individual Unemployability, meaning you can’t work—doesn’t qualify you for S-DVI.
-
-[View our diagram to learn more about S-DVI eligibility](https://benefits.va.gov/BENEFITS/infographics/sdvi.html) <br>
-[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets) <br>
+**Note:** An increase of a rating you had before—or a rating of Individual Unemployability, meaning you can’t work—doesn’t qualify you for S-DVI. <br>
 
 ### Can I get more life insurance coverage if I need it?
 
@@ -129,5 +126,4 @@ If you have a severe service-connected disability that we’ve concluded was cau
 To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
 [Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp) <br>
 [Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/)<br>
-[View our diagram about VMLI eligibility](https://benefits.va.gov/BENEFITS/infographics/vmli.html)
 
