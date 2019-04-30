@@ -39,8 +39,6 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 - Are within 1 year and 120 days of assignment to the Individual Ready Reserves (IRR) of a branch of service, or to the Inactive National Guard (ING). This includes members of the United States Public Health Service Inactive Reserve Corps (IRC), **or**
 - Are within 1 year and 120 days of being put on the Temporary Disability Retirement List (TDRL)
 
-[Watch this video to learn more about VGLI](http://www.brainshark.com/prultc/vu?pi=zH8zIv4VuzEQLQz0&nodesktopflash=1) <br>
-
 #### Who’s covered?
 
 * Veterans
