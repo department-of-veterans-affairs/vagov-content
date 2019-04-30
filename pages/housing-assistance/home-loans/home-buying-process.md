@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: The process of buying a home with a VA-backed loan
-heading: The process of buying a home with a VA-backed loan
+title: Buying A Home With A VA-backed Loan
+heading: Buying a home with a VA-backed loan
 display_title: Home-buying process
-description: Learn about the process of buying a home with a VA-backed loan. You'll get your loan through a private lender, like a bank or mortgage company. We'll guarantee part of the loan against loss, which will allow your lender to give you better loan terms.
+description: Get step-by-step instructions for buying a home with a VA-backed loan. You'll get your loan through a private lender, like a bank or mortgage company. We'll guarantee part of the loan against loss, which will allow your lender to give you better loan terms.
 keywords: buying a home with a va loan
 concurrence: 
 order: 10
@@ -23,18 +23,18 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-Learn about the process of buying a home with a VA-backed loan. You'll get your loan through a private lender, like a bank or mortgage company. We'll guarantee part of the loan against loss, which will allow your lender to give you better loan terms.
+Get step-by-step instructions for buying a home with a VA-backed loan.
 
 </div>
 
 ## What kind of VA-backed loan will I need to buy a home?
 
-You'll need a VA-backed purchase loan. This loan offers many benefits, including the option to buy your home without needing a down payment. <br>
+You'll need a VA-backed purchase loan. You'll go through a private lender, like a bank or mortgage company, to get this loan. We'll guarantee part of the loan against loss, which will allow your lender to give you better loan terms, like the option to pay no down payment. <br>
 [Learn more about the VA-backed purchase loan](/housing-assistance/home-loans/loan-types/purchase-loan/)
 
 ## How can I buy a home with a VA-backed purchase loan?
 
-Buying a home is a complex process, and getting a VA-backed purchase loan is only one piece of the puzzle. Stay on track by following the steps below.
+Buying a home is a complex process, and getting a VA-backed purchase loan is only one piece of the puzzle. Remember Stay on track by following the steps below.
 
 ### Steps to starting the process and finding a home
 
@@ -44,7 +44,6 @@ Buying a home is a complex process, and getting a VA-backed purchase loan is onl
 ##### Apply for your VA-backed home loan Certificate of Eligibility (COE)
 
 You’ll need to show your COE to your lender as proof that you qualify for the home loan benefit. 
-<br>
 <br>
 [Find out if you qualify for a COE](/housing-assistance/home-loans/eligibility/) <br>
 [Apply for your COE now](/housing-assistance/home-loans/how-to-apply/)
@@ -57,8 +56,7 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 
 Go over your credit profile, income, expenses, and monthly budget to make sure you’re ready to buy a home. Decide how much you want to spend on a mortgage—and be sure to include closing costs in the overall price. 
 <br>
-**To learn more:**
-<br>
+**To learn more:** <br>
 [Find out current VA home loan limits](/housing-assistance/home-loans/loan-limits/)<br>
 [Read about the VA funding fee and other loan closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)<br>
 [Get more advice from the Consumer Financial Protection Bureau (CFPB)](http://www.consumerfinance.gov/owning-a-home/process/prepare/)<br>
@@ -69,15 +67,12 @@ Go over your credit profile, income, expenses, and monthly budget to make sure y
 
 #### Choose a lender
 
-You’ll go through a private bank, mortgage company, or credit union—not through us—to get your loan. Lenders offer different loan interest rates and fees, so shop around for the loan that best meets your needs. 
-
+Remember, you’ll go through a private bank, mortgage company, or credit union—not through us—to get your loan. Lenders offer different loan interest rates and fees, so shop around for the loan that best meets your needs. 
 <br>
-
 Be prepared to pay lender fees. Many lenders charge Veterans using VA-backed home loans a 1% flat fee (sometimes called a “loan origination fee”). Lenders may also charge you additional fees. If you don't know what a fee is for, ask the lender. In some cases, lender fees are negotiable. 
 <br>
-<br> 
-
-[Learn more about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
+**To learn more:** <br>
+[Read about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
 
 </li>
 
@@ -109,8 +104,7 @@ Look at houses in your price range until you find one that works for you. When c
 
 Be sure the sales contract includes the “VA escape clause” or “VA option clause.” This provides an option to void the contract if the property doesn’t appraise for the contract price. Ask your real estate agent for advice on other options for voiding the contract you may want to include, such as if the property fails a home inspection. These options are called contingencies.
 <br>
-<br>
-**Watch this helpful video:**
+**To learn more, watch this helpful video:** <br>
 [Using your VA home loan benefit: Working with a realtor and lender](https://www.youtube.com/watch?v=80fG2XN47YI)
 
 </li>
@@ -126,9 +120,7 @@ If the property doesn't appraise at a value that's high enough to get the loan, 
 - Renegotiate the sales price. Ask the seller to lower the price to match the appraised value.
 - Pay the difference between the appraised price and the sales price. To do this, you'll need to pay this cost at closing.
 <br>
-<br>
-
-**Watch these helpful videos:**
+**To learn more, watch these helpful videos:** <br>
 [VA home loans: What are MPRs?](https://www.youtube.com/watch?v=6AD1BrMf3lk)<br>
 [What's the difference between VA's appraisal process and a home inspection?](https://www.youtube.com/watch?v=coggXnbc0j0&index=123&list=PLA93A5833057D78B7)
 
@@ -147,8 +139,9 @@ Your lender must give you a Closing Disclosure at least 3 business days before c
 #### Close on your new home
 
 Your closing may be held at a title company, escrow office, or attorney’s office. Be prepared to sign a lot of documents—and be sure to take the time to read everything before you sign.
-
-[Go to Fannie Mae's website to learn more about closing on your home](https://knowyouroptions.com/buy-overview/buying-process/close-on-your-home)
+<br>
+**To learn more:** <br>
+[Go to Fannie Mae's website](https://knowyouroptions.com/buy-overview/buying-process/close-on-your-home)
 
 </li>
 
@@ -182,6 +175,6 @@ You can also use the resources below to learn more about the VA home loan progra
 
 ### Watch these Veteran stories of using the VA home loan program
 
-- [VA home loan program story: Nicole, Army Veteran](https://www.youtube.com/watch?v=WbsuZrEmkbk)
-- [VA home loan program story: Harold, Marine Corps Veteran](https://www.youtube.com/watch?v=-oePe-5RQqI)
-- [VA home loan program story: Sim, Air Force Veteran](https://www.youtube.com/watch?v=HbXNBF7qQS0&feature=youtu.be)
+- [Nicole (Army Veteran)](https://www.youtube.com/watch?v=WbsuZrEmkbk)
+- [Harold (Marine Corps Veteran)](https://www.youtube.com/watch?v=-oePe-5RQqI)
+- [Sim (Air Force Veteran)](https://www.youtube.com/watch?v=HbXNBF7qQS0&feature=youtu.be)
