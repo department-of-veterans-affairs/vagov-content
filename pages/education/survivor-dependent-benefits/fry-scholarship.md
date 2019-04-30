@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Fry Scholarship | Veterans Affairs
-heading: Fry Scholarship
+title: Fry Scholarships | Veterans Affairs
+heading: Fry Scholarships
 display_title: Fry Scholarship
-description: Learn more about benefits available to spouses and children of active-duty Servicemembers who died in the line of duty on or after September 11th 2001. If you're a qualified dependent, The Marine Gunnery Sergeant John David Fry Scholarship may be able to help pay for tuition, books, and housing. 
-keywords: n/a
+description: Learn about scholarships for children and dependents of Veterans. If your parent or spouse was an active-duty Servicemember who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship).
+keywords: scholarships for children of veterans, military dependent scholarships
 concurrence: incomplete
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act
 order: 1
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If your parent or spouse was an active-duty Servicemember who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship). Find out if you can get benefits through this scholarship.
+Learn about the the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship), a scholarship for children and dependents of Veterans. If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, you may qualify for this benefit. Find out if you're eligible for education benefits through this scholarship.
 
 </div>
 
