@@ -69,5 +69,5 @@ All rates in $ U.S. dollars
 | **580**	| 145.00 | 108.75	| 72.50	| 72.50	| 36.25 |
 | **600**	| 150.00 | 112.50	| 75.00	| 75.00	| 37.50 |
 
-###I still have questions about my benefits.
+### I still have questions about my benefits.
 You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
