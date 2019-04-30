@@ -81,8 +81,8 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---| 
-| University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock 350) |
-| Northwest Arkansas Community College |
+| University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> <br/> | Little Rock 350) <br/> |
+| Northwest Arkansas Community College | 
 </div>
 </li>
 </ul>
