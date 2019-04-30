@@ -2,6 +2,6 @@
 title: Change Your Address
 href: /change-address/
 order: 3
-spoke: Manage Benefits
+spoke: Manage benefits
 private: true
 ---

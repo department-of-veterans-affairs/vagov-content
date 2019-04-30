@@ -35,19 +35,19 @@ Sign in to your eBenefits account.
 
 <li class="process-step list-two">
 
-Click **Additional Benefits** on your dashboard.
+Select **Apply**.
 
 </li>
 
 <li class="process-step list-three">
 
-Click **Vocational Rehabilitation and Employment Program**.
+Click **Vocational Rehabilitation and Employment Benefits**.
 
 </li>
 
 <li class="process-step list-four">
 
-Apply for the Vocational Rehabilitation and Employment Program.
+Select the Vocational Rehabilitation and Employment benefit you're applying for.
 
 </li>
 
@@ -100,5 +100,10 @@ A rehabilitation plan is a written plan that outlines the resources we'll use to
 - [Help with starting your own business ](/careers-employment/vocational-rehabilitation/programs/self-employment/)
 - [Long-term training or services to help you find work in a different field that better suits your abilities and interests](/careers-employment/vocational-rehabilitation/programs/long-term-services/)
 - [Independent living services if you can’t return to work right away](/careers-employment/vocational-rehabilitation/programs/independent-living/)
+
+
+### What happens after my VRC creates my rehabilitation plan? 
+
+Your VRC will help you put your plan into action. They'll also provide ongoing counseling and help you get tutorial assistance, job training, work-readiness support, and medical referrals.
 
 <div markdown="0"><br></div>
