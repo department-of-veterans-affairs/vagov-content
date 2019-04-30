@@ -146,8 +146,6 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 When you leave the military, you can apply for Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
-View our diagram about [when to apply for VGLI after you leave active duty](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
-
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
