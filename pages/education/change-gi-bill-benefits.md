@@ -28,7 +28,7 @@ You'll need to request changes to your benefits if any of the descriptions below
 - Left your school or training program due to poor attendance, progress, or conduct, and you're now reentering the same program, **or**
 - Were receiving VA education benefits as a Veteran, and now you want to receive benefits while on active duty
 
-<h2>How do I request changes to my benefits?</h2>
+<h2>How do I request changes to my GI Bill or other VA education benefits?</h2>
 
 <h3>If you're a Veteran or Servicemember</h3>
 
