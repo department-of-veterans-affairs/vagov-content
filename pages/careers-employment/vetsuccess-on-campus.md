@@ -81,8 +81,30 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---| 
-| University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> <br/> | Little Rock 350) <br/> |
-| Northwest Arkansas Community College | 
+| University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock (350) |
+| Northwest Arkansas Community College | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock 350) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="California">California</button>
+<div id="California" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| California State University - Long Beach | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
+| Long Beach City College | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
+| Mt. San Antonio College | Mark Smith <a href="mailto:Mark.Smith18dc1@va.gov">Mark.Smith18dc1@va.gov</a> | Los Angeles (344) | 
+| Citrus College | Mark Smith <a href="mailto:Mark.Smith18dc1@va.gov">Mark.Smith18dc1@va.gov</a> | Los Angeles (344) | 
+| Saddleback College | Kelandra Anthony <a href="mailto:Anthony Kelandra.Anthony@va.gov">Kelandra.Anthony@va.gov</a> | Los Angeles (344) |
+| Irvine Valley College | Kelandra Anthony <a href="mailto:Anthony Kelandra.Anthony@va.gov">Kelandra.Anthony@va.gov</a> | Los Angeles (344) |
+| Pasadena City College | David Fierro <a href="mailto:David.Fierro@va.gov">David.Fierro@va.gov</a> | Los Angeles (344) |
+| California State University - Los Angeles | David Fierro <a href="mailto:David.Fierro@va.gov">David.Fierro@va.gov</a> | Los Angeles (344) |
+| Los Angeles City College | David Fierro <a href="mailto:David.Fierro@va.gov">David.Fierro@va.gov</a> | Los Angeles (344) |
+| University of California - Los Angeles | Julie Johns <a href="mailto:Julie.Johns2@va.gov">Julie.Johns2@va.gov</a> | Los Angeles (344) |
+| Santa Monica Community College | Julie Johns <a href="mailto:Julie.Johns2@va.gov">Julie.Johns2@va.gov</a> | Los Angeles (344) |
+| American River College | Jan Rollings-Rapoza <a href="mailto:Jan.Rollings-Rapoza@va.gov">Jan.Rollings-Rapoza@va.gov</a> | Oakland (343) |
+| San Diego State University | Ryan Morris <a href="mailto:Ryan.Morris377@va.gov">Ryan.Morris377@va.gov</a> | San Diego (377) |
+| Mira Costa College | Jamie Bacon <a href="mailto:Jamie.Bacon@va.gov">Jamie.Bacon@va.gov</a> | San Diego (377) |
 </div>
 </li>
 </ul>
