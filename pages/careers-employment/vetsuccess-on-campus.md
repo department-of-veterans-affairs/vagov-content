@@ -41,6 +41,22 @@ Our counselors can help you with your Veterans’ benefits, which may include VA
 
 This program is also available to dependents of Veterans who meet at least one of the requirements listed below.
 
+### VSOC Locations and VSOC Counselor Contact Information
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Alabama">Alabama</button>
+<div id="Alabama" class="usa-accordion-content">
+
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Troy University | Rickey Jones [Rickey.Jones@va.gov](Rickey.Jones@va.gov) | Montgomery (322) |
+| University of Alabama | Lisa Fells [Lisa.Fells@va.gov](Lisa.Fells@va.gov) | Montgomery (322) |
+
+</div>
+</li>
+</ul>
+
 **To qualify as a dependent, at least one of these must be true. You:**
 
 - [Are eligible for the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/), **or**
