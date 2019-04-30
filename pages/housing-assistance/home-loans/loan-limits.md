@@ -22,7 +22,7 @@ relatedlinks:
       description: Find out how to apply for a COE.
     - url: /housing-assistance/home-loans/surviving-spouse/
       title: VA home loan programs for surviving spouses
-      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a prisoner of war.
 ---
 
 <div class="va-introtext">
@@ -76,7 +76,7 @@ VA home loan limits change each year and are based on the property's county loca
 
 ### 2019
 
-2019 VA Home Loan limits are the same as the FHFA limits. <br>
+2019 VA home loan limits are the same as the FHFA limits. <br>
 [View loan limits](https://www.fhfa.gov/DataTools/Downloads/Documents/Conforming-Loan-Limits/FullCountyLoanLimitList2019_HERA-BASED_FINAL_FLAT.pdf) <br>
 <br>
 <strong>Note:</strong> Please refer only to the “One-Unit Limit” column.
@@ -91,7 +91,7 @@ VA home loan limits change each year and are based on the property's county loca
   <li class="process-step list-three"><h4>Find the year with the limits you need</h4><br> 
     Years are located in the first column, labeled “Description.”</li>
   <li class="process-step list-four"><h4>Download the loan limit table</h4><br> 
-    Download the loan limit table by selecting the link to the right of the “Description” column. The file will be in excel (xls) or pdf format.</li>
+    Download the loan limit table by selecting the link to the right of the “Description” column. The file will be in Excel (xls) or PDF format.</li>
   <li class="process-step list-five"><h4>Refer only to the “One-Unit Limit” column in the table</h4><br> 
     This is the only column that applies to VA home loan limits.</li>
 </ol>
@@ -102,8 +102,8 @@ VA home loan limits change each year and are based on the property's county loca
 ### 2014
 
 View loan limits for: <br>
-[February 28, 2014 to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf) <br>
-[January 1, 2014 to February 27, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
+[February 28, 2014, to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf) <br>
+[January 1, 2014, to February 27, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
 
 ### 2013
 
@@ -112,14 +112,14 @@ View loan limits for: <br>
 ### 2012
 
 View loan limits for: <br>
-[August 6, 2012 to December 31, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf) <br>
-[January 1, 2012 to August 5, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_jan_aug_2012.pdf)
+[August 6, 2012, to December 31, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf) <br>
+[January 1, 2012, to August 5, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_jan_aug_2012.pdf)
 
 ### 2011
 
 View loan limits for: <br>
-[October 1, 2011 to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf) <br>
-[January 1, 2011 to September 30, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
+[October 1, 2011, to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf) <br>
+[January 1, 2011, to September 30, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
 
 ### 2008 to 2010
 
