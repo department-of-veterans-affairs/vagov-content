@@ -96,7 +96,7 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
     withCredentials([usernamePassword(credentialsId:  "drupal-prod", usernameVariable: 'DRUPAL_USERNAME', passwordVariable: 'DRUPAL_PASSWORD')]) {
       dockerImage.inside(dockerArgs) {
         def installDependencies = "cd /application && yarn install --production=false"
-        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --drupal-address=${drupalAddress} --entry static-pages 2>&1 | tee output.log"
+        def build = "npm --prefix /application --no-color run build -- --buildtype=vagovprod --drupal-address=${drupalAddress} --entry static-pages --pull-drupal 2>&1 | tee output.log"
 
         sh installDependencies
         sh build
