@@ -107,6 +107,24 @@ This program is also available to dependents of Veterans who meet at least one o
 | Mira Costa College | Jamie Bacon <a href="mailto:Jamie.Bacon@va.gov">Jamie.Bacon@va.gov</a> | San Diego (377) |
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Colorado">Colorado</button>
+<div id="Colorado" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| University of Colorado - Colorado Springs | Julie Zook <a href="mailto:Julie.Zook@va.gov">Julie.Zook@va.gov</a> | Denver (339) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="District of Columbia">District of Columbia</button>
+<div id="District of Columbia" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| George Washington University | Laura Ferraro <a href="mailto:laura.ferraro@va.gov">laura.ferraro@va.gov</a | National Capital Region Benefits Office (372) |
+</div>
+</li>
 </ul>
 
 **To qualify as a dependent, at least one of these must be true. You:**
