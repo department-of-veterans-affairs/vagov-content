@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: REAP | Veterans Affairs
-heading: Reserve Educational Assistance Program (REAP)
+heading: REAP
 display_title: REAP
 description: If you're currently using REAP benefits, find out if you can switch to Post 9/11 GI Bill benefits. You may qualify for Post 9/11 GI Bill education benefits if you're a National Guard or Reserve member called to active duty on or after September 11, 2001.  
 keywords: n/a
