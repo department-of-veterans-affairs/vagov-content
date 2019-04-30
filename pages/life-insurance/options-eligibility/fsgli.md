@@ -294,8 +294,6 @@ You have the option to convert spousal FSGLI coverage to a permanent, individual
 * Written election to end their SGLI coverage
 * Death
 
-[View our diagram about converting to an individual policy](https://benefits.va.gov/BENEFITS/infographics/familysgli.html)
-
 If any of the events listed above happen, you, as the service member’s spouse, become solely responsible for all aspects of the policy, including premium payments.
 
 You can’t convert other types of policies—such as term, variable, or universal life insurance. And, supplementary policy benefits—such as accidental death and dismemberment or a waiver of the premium for disability—aren’t considered part of the conversion policy.
