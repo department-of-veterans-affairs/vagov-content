@@ -55,6 +55,7 @@ This program is also available to dependents of Veterans who meet at least one o
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alaska">Alaska</button>
 <div id="Alaska" class="usa-accordion-content">
   
@@ -64,6 +65,7 @@ This program is also available to dependents of Veterans who meet at least one o
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Arizona">Arizona</button>
 <div id="Arizona" class="usa-accordion-content">
   
@@ -71,6 +73,16 @@ This program is also available to dependents of Veterans who meet at least one o
 |---|---|---| 
 | Arizona State University | Troy Rundle <a href="mailto:Troy.Rundle@va.gov">Troy.Rundle@va.gov</a> | Phoenix (345) |
 
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Arkansas">Arkansas</button>
+<div id="Arkansas" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock 350) |
+| Northwest Arkansas Community College |
 </div>
 </li>
 </ul>
