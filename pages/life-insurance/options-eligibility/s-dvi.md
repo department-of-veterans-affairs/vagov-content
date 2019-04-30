@@ -35,6 +35,7 @@ You can apply for S-DVI if you meet all of the requirements listed below.
 - Apply within 2 years from the date we grant your new service-connected disability
 
 **Note:** An increase of a rating you had before—or a rating of Individual Unemployability, meaning you can’t work—doesn’t qualify you for S-DVI. <br>
+[Watch our video about the benefits of S-DVI](https://www.youtube.com/watch?v=XoS7jmr-Ets)<br>
 
 ### Can I get more life insurance coverage if I need it?
 
