@@ -162,7 +162,49 @@ This program is also available to dependents of Veterans who meet at least one o
 | University of Hawaii - Manoa | Claire Kusakabe <a href="mailto:Claire.Kusakabe@va.gov">Claire.Kusakabe@va.gov</a> | Honolulu (459) |
 </div>
 </li>
-</ul>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Idaho">Idaho</button>
+<div id="Idaho" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Boise State University | Sean Burlile <a href="mailto:Sean.Burlile@va.gov">Sean.Burlile@va.gov</a> | Boise (347) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Illinois">Illinois</button>
+<div id="Illinois" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Southwestern Illinois College | Armando De La Garza <a href="mailto:Armando.DeLaGarza@va.gov">Armando.DeLaGarza@va.gov</a> | Chicago (328) |
+| University of Illinois - Urbana Champaign | Vacant | Chicago (328) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Kansas">Kansas</button>
+<div id="Kansas" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Johnson County Community College | Vacant | Wichita (452) |
+| University of Kansas | Sally MacNeill <a href="mailto:Sally.MacNeill@va.gov">Sally.MacNeill@va.gov</a> |
+Wichita (452) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Kentucky">Kentucky</button>
+<div id="Kentucky" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Eastern Kentucky University | Steven Johnson <a href="mailto:Steven.C.Johnson@va.gov">Steven.C.Johnson@va.gov</a> | Louisville (327) | 
+| Elizabethtown Community & Technical College | Shannon Francis <a href="mailto:Shannon.Francis@va.gov">Shannon.Francis@va.gov</a> | Louisville (327) |
+| University of Kentucky | Joel Andrade <a href="mailto:Joel.Andrade@va.gov">Joel.Andrade@va.gov</a> | Louisville (327) |
+| Bluegrass Community & Technical College | Joel Andrade <a href="mailto:Joel.Andrade@va.gov">Joel.Andrade@va.gov</a> | Louisville (327) |
+</div>
+</li>
+</ul> 
 
 **To qualify as a dependent, at least one of these must be true. You:**
 
