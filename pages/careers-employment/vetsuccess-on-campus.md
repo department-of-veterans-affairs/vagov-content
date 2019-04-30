@@ -55,6 +55,24 @@ This program is also available to dependents of Veterans who meet at least one o
 
 </div>
 </li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Alaska">Alaska</button>
+<div id="Alaska" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of Alaska - Anchorage | Terry Jackson [Terry.Jackson@va.gov](Terry.Jackson@va.gov) | Anchorage (463) |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Arizona">Arizona</button>
+<div id="Arizona" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| Arizona State University | Troy Rundle [Troy.Rundle@va.gov](Troy.Rundle@va.gov) | Phoenix (345) |
+
+</div>
+</li>
 </ul>
 
 **To qualify as a dependent, at least one of these must be true. You:**
