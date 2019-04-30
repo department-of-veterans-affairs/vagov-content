@@ -60,4 +60,4 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 ## How can I buy a home with a VA-backed purchase loan?
 
 Buying a home is a complex process, and getting a VA-backed purchase loan is only one piece of the puzzle. <br>
-[Get instructions for buying a home with a VA-backed loan](/housing-assistance/home-loans/home-buying-process/]
+[Get instructions for buying a home with a VA-backed loan](/housing-assistance/home-loans/home-buying-process/)
