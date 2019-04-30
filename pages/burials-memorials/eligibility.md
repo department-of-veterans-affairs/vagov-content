@@ -231,17 +231,15 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 
 Biological or adoptive parents who passed away after October 13, 2010, and whose biological or adoptive child was a service member may be eligible for burial in a national cemetery. For the parents to be eligible, everything listed below must be true. The service member:
 
-Passed away on or after October 7, 2001, **and**
-Died because of a hostile casualty or a training-related injury, **and**
-Is interred in a national cemetery, in a gravesite with available space for interment of other family members in the future, **and**
-At the time of the parent’s death, had no spouse, surviving spouse, or child who is buried, or who, upon death, may be eligible for burial in a national cemetery.
-
-### Terms defined
+- Passed away on or after October 7, 2001, **and**
+- Died because of a hostile casualty or a training-related injury, **and**
+- Is interred in a national cemetery, in a gravesite with available space for interment of other family members in the future, **and**
+- At the time of the parent’s death, had no spouse, surviving spouse, or child who is buried, or who, upon death, may be eligible for burial in a national cemetery.
 
 **"Hostile casualty"** means a person who, as a member of the Armed Forces, dies:
-- As the direct result of hostile action with the enemy, 
-- While in combat, 
-- While going to or returning from a combat mission if the cause of death was directly related to hostile action, or 
+- As the direct result of hostile action with the enemy, **or**
+- While in combat, **or**
+- While going to or returning from a combat mission if the cause of death was directly related to hostile action, **or**
 - While hospitalized or undergoing treatment at the expense of the United States for injury that service member got during combat (this includes a person killed by accident by friendly fire directed at a hostile force or what is thought to be a hostile force)
 
 **Note:** “Hostile casualty” doesn't include a person who dies due to the elements, a self-inflicted wound, combat fatigue, or a friendly force while the person was absent-without-leave, a deserter, or in dropped-from-rolls status or was voluntarily absent from a place of duty.
