@@ -146,12 +146,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 When you leave the military, you can apply for Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
-View our diagrams to get more information if you're:
-
-- [On active duty](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
-- [A Reservist or National Guard member](https://benefits.va.gov/BENEFITS/infographics/reserve_100.html) <br>
-- [In the Individual Ready Reserve](https://benefits.va.gov/BENEFITS/infographics/SGLI_VGLI_100.html) <br>
-- [On the Temporary Disability Retired List](https://benefits.va.gov/BENEFITS/infographics/tdrl_100.html)
+View our diagram about [when to apply for VGLI after you leave active duty](https://benefits.va.gov/BENEFITS/infographics/ACTIVE_DUTY_100.html) <br>
 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
@@ -177,7 +172,6 @@ To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and sen
 [Download SGLV 8715](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI). <br>
-[View our diagram about converting to VGLI when SGLI-DE ends](https://benefits.va.gov/BENEFITS/infographics/sgli_de_100.html)
 
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
