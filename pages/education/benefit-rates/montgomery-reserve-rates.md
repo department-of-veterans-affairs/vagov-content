@@ -36,19 +36,21 @@ The second chart shows payments covering apprenticeships and on-the-job training
 attending school or training.
 
 ### Schools and other institutional training
+All rates in $ U.S. dollars
 | **Training time** | **Monthly rate** |
 |--|--|
 | Full-time | Full-time	$384.00 |
-| 3/4 time | $287.00 |
-| 1/2 time | $191.00 |
-| Less than 1/2 time | $96.00 |
+| 3/4 time | 287.00 |
+| 1/2 time | 191.00 |
+| Less than 1/2 time | 96.00 |
 
-### Apprenticeships and on-the-job training  
+### Apprenticeships and on-the-job training
+All rates in $ U.S. dollars
 | **Training period** | **Monthly rate** |
 |--|--|
-| First 6 months of training | $288.00 |
-| Second 6 months of training | $211.20 |
-| Remaining training | $134.40 |
+| First 6 months of training | 288.00 |
+| Second 6 months of training | 211.20 |
+| Remaining training | 134.40 |
 
 ### Other education benefit rates
 The MGIB-SR pays for other education and training programs. The rates for these benefits are:
