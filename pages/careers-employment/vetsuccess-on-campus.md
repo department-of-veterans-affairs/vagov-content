@@ -381,14 +381,14 @@ This program is also available to dependents of Veterans who meet at least one o
 | San Antonio College | Sylvia Rodriguez <a href="mailto:Sylvia.Rodriguez1@va.gov">Sylvia.Rodriguez1@va.gov</a> | Houston (362) |
 | Lone Star College System - University Park | Ann Waywell <a href="mailto:Virginia.Waywell@va.gov">Virginia.Waywell@va.gov</a> | Houston (362) | 
 | Houston Community College | Evette Ned <a href="mailto:Evette.Ned@va.gov">Evette.Ned@va.gov</a> | Houston (362) |
-| University of Houston | Ralph Harrison <a href="Ralph.Harrison@va.gov">Ralph.Harrison@va.gov</a> | Houston (362) |
-| Texas A&M University - Central Texas | Greg Primas <a href="Gregory.Primas@va.gov">Gregory.Primas@va.gov</a> | Waco (349) |
-| Tarrant County College - South | Douglas Smith <a href="Douglas.Smith1@va.gov">Douglas.Smith1@va.gov</a> | Waco (349) |
-| Tarrant County College - Northeast | Denise Edwards <a href="Denise.Edwards@va.gov">Denise.Edwards@va.gov</a> | Waco (349) |
-| Central Texas College | James Morgan <a href="James.Morgan3@va.gov">James.Morgan3@va.gov</a> <br/> Cynthia Oswald <a href="Cynthia.Oswald@va.gov">Cynthia.Oswald@va.gov</a> | Waco (349) |
-| Texas A&M University - College Station | Jimmy Rogers <a href="Jim.Rogers2@va.gov">Jim.Rogers2@va.gov</a> | Waco (349) |
-| Austin Community College | Brad Robichaux <a href="Brad.Robichaux@va.gov">Brad.Robichaux@va.gov</a> | Waco (349) |
-| University of Texas - Arlington | Tyrrell Biggers <a href="Tyrrell.Biggers@va.gov">Tyrrell.Biggers@va.gov</a> | Waco (349) |
+| University of Houston | Ralph Harrison <a href="mailto:Ralph.Harrison@va.gov">Ralph.Harrison@va.gov</a> | Houston (362) |
+| Texas A&M University - Central Texas | Greg Primas <a href="mailto:Gregory.Primas@va.gov">Gregory.Primas@va.gov</a> | Waco (349) |
+| Tarrant County College - South | Douglas Smith <a href="mailto:Douglas.Smith1@va.gov">Douglas.Smith1@va.gov</a> | Waco (349) |
+| Tarrant County College - Northeast | Denise Edwards <a href="mailto:Denise.Edwards@va.gov">Denise.Edwards@va.gov</a> | Waco (349) |
+| Central Texas College | James Morgan <a href="mailto:James.Morgan3@va.gov">James.Morgan3@va.gov</a> <br/> Cynthia Oswald <a href="Cynthia.Oswald@va.gov">Cynthia.Oswald@va.gov</a> | Waco (349) |
+| Texas A&M University - College Station | Jimmy Rogers <a href="mailto:Jim.Rogers2@va.gov">Jim.Rogers2@va.gov</a> | Waco (349) |
+| Austin Community College | Brad Robichaux <a href="mailto:Brad.Robichaux@va.gov">Brad.Robichaux@va.gov</a> | Waco (349) |
+| University of Texas - Arlington | Tyrrell Biggers <a href="mailto:Tyrrell.Biggers@va.gov">Tyrrell.Biggers@va.gov</a> | Waco (349) |
 </div>
 </li>
 <li>
@@ -397,9 +397,9 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---|
-| Salt Lake Community College | Mike Foster <a href="Michael.Foster@va.gov">Michael.Foster@va.gov</a> | Salt Lake City (341) |
-| University of Utah | Alan Heal <a href="Alan.Heal@va.gov">Alan.Heal@va.gov</a> | Salt Lake City (341) |
-| Weber State University | Seth Lund <a href="Seth.Lund@va.gov">Seth.Lund@va.gov</a> | Salt Lake City (341) |
+| Salt Lake Community College | Mike Foster <a href="mailto:Michael.Foster@va.gov">Michael.Foster@va.gov</a> | Salt Lake City (341) |
+| University of Utah | Alan Heal <a href="mailto:Alan.Heal@va.gov">Alan.Heal@va.gov</a> | Salt Lake City (341) |
+| Weber State University | Seth Lund <a href="mailto:Seth.Lund@va.gov">Seth.Lund@va.gov</a> | Salt Lake City (341) |
 </div>
 </li>
 <li>
@@ -408,18 +408,18 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---|
-| George Mason University | Valerie Smith <a href="Valerie.Smith11@va.gov">Valerie.Smith11@va.gov</a> | National Capital Region Benefits Office (372) |
-| Northern Virginia Community College - Alexandria | Michelle Pohmer <a href="Michelle.Pohmer@va.gov">Michelle.Pohmer@va.gov</a> | National Capital Region Benefits Office (372) |
-| Northern Virginia Community College - Annandale | Michelle Pohmer <a href="Michelle.Pohmer@va.gov">Michelle.Pohmer@va.gov</a> | National Capital Region Benefits Office (372) |
-| Norfolk State University | Donecia Lawson <a href="Donecia.Lawson@va.gov">Donecia.Lawson@va.gov</a> | Roanoke (314) |
-| Tidewater Community College - Norfolk | Donecia Lawson <a href="Donecia.Lawson@va.gov">Donecia.Lawson@va.gov</a> | Roanoke (314) |
-| Tidewater Community College - Chesapeake | Teri Nguyen <a href="Teri.Nguyen1@va.gov">Teri.Nguyen1@va.gov</a> | Roanoke (314) |
-| Tidewater Community College - Portsmouth | Teri Nguyen <a href="Teri.Nguyen1@va.gov">Teri.Nguyen1@va.gov</a> | Roanoke (314) |
-| Tidewater Community College - Virginia Beach | Carla Riggins <a href="Carla.Riggins@va.gov">Carla.Riggins@va.gov</a> | Roanoke (314) |
+| George Mason University | Valerie Smith <a href="mailto:Valerie.Smith11@va.gov">Valerie.Smith11@va.gov</a> | National Capital Region Benefits Office (372) |
+| Northern Virginia Community College - Alexandria | Michelle Pohmer <a href="mailto:Michelle.Pohmer@va.gov">Michelle.Pohmer@va.gov</a> | National Capital Region Benefits Office (372) |
+| Northern Virginia Community College - Annandale | Michelle Pohmer <a href="mailto:Michelle.Pohmer@va.gov">Michelle.Pohmer@va.gov</a> | National Capital Region Benefits Office (372) |
+| Norfolk State University | Donecia Lawson <a href="mailto:Donecia.Lawson@va.gov">Donecia.Lawson@va.gov</a> | Roanoke (314) |
+| Tidewater Community College - Norfolk | Donecia Lawson <a href="mailto:Donecia.Lawson@va.gov">Donecia.Lawson@va.gov</a> | Roanoke (314) |
+| Tidewater Community College - Chesapeake | Teri Nguyen <a href="mailto:Teri.Nguyen1@va.gov">Teri.Nguyen1@va.gov</a> | Roanoke (314) |
+| Tidewater Community College - Portsmouth | Teri Nguyen <a href="mailto:Teri.Nguyen1@va.gov">Teri.Nguyen1@va.gov</a> | Roanoke (314) |
+| Tidewater Community College - Virginia Beach | Carla Riggins <a href="mailto:Carla.Riggins@va.gov">Carla.Riggins@va.gov</a> | Roanoke (314) |
 | Old Dominion University | Vacant | Roanoke (314) |
-| ECPI University | Maureen Gibson <a href="Maureen.Gibson@va.gov">Maureen.Gibson@va.gov</a> | Roanoke (314) |
+| ECPI University | Maureen Gibson <a href="mailto:Maureen.Gibson@va.gov">Maureen.Gibson@va.gov</a> | Roanoke (314) |
 | Liberty University | Vacant | Roanoke (314) |
-| St. Leo University - South Hampton | Saundra Oliver <a href="Saundra.Oliver@va.gov">Saundra.Oliver@va.gov</a> | Roanoke (314) |
+| St. Leo University - South Hampton | Saundra Oliver <a href="mailto:Saundra.Oliver@va.gov">Saundra.Oliver@va.gov</a> | Roanoke (314) |
 </div>
 </li>
 <li>
@@ -428,7 +428,7 @@ This program is also available to dependents of Veterans who meet at least one o
   
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---| 
-| University of Wisconsin - Milwaukee | Callie Overturf <a href="Callie.Overturf@va.gov">Callie.Overturf@va.gov</a> | Milwaukee (330) |
+| University of Wisconsin - Milwaukee | Callie Overturf <a href="mailto:Callie.Overturf@va.gov">Callie.Overturf@va.gov</a> | Milwaukee (330) |
 </div>
 </li>
 </ul> 
