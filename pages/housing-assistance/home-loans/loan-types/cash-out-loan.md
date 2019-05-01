@@ -40,12 +40,12 @@ You may be able to get a cash-out refinance loan if you meet all of the requirem
 -	Refinance a non-VA loan into a VA-backed loan
 
 On a no-down-payment loan, you can borrow up to the Fannie Mae/Freddie Mac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[Learn more about VA loan limits](/housing-assistance/home-loans/loan-limits/)
+[Learn more about VA home loan limits](/housing-assistance/home-loans/loan-limits/)
 
-You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Make sure you understand how your new loan amount relates to the value of your home. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into.
-
-The Consumer Financial Protection Bureau’s home loan toolkit can help. <br>
-[Download the home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Make sure you understand how your new loan amount relates to the value of your home. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/) <br>
+[Visit the Consumer Financial Protection Bureau for more information](https://www.consumerfinance.gov/owning-a-home/) <br>
+[Download the Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
 
 <br>
 
