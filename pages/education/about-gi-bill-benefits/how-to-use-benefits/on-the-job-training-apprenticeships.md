@@ -6,8 +6,6 @@ display_title: On-the-job training
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 13
-aliases:
-  - /education/work-learn/job-and-apprenticeship/
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -67,7 +65,7 @@ You can’t get OJT if you’re an active-duty service member or a spouse using 
 <div itemprop="text">
 
 You’ll need to make sure the program is approved for VA education benefits. <br>
-[Check with your nearest VA regional benefit office](/find-locations/?facilityType=benefits) 
+[Check with your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
 You’ll most likely need to enter into a training contract for a set amount of time with an employer or union. During training, you’ll probably get a salary from the employer or union, which can go up as you gain more skills. When you finish your training, you’ll get a job certification or journeyman status.
 

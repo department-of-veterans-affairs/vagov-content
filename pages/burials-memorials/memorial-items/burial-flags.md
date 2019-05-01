@@ -14,8 +14,6 @@ relatedlinks:
   - url: /burials-memorials/memorial-items/headstones-markers-medallions/
     title: Headstones, Markers, Niche Covers, and Medallions
     description: Apply for one of these memorial items to identify the burial place of a Veteran or eligible family member.
-aliases:
-  - /burials-and-memorials/honor/flags-and-memorial-certificates/
 ---
 
 <div class="va-introtext">
@@ -25,7 +23,7 @@ We provide a United States flag to drape on a casket (or coffin) or place with a
 </div>
 
 <div class="feature">
-  
+
 ### Can I get a burial flag?
 
 You can get a burial flag if you’re the next of kin or a close friend of the Veteran or Reservist and any one of the descriptions below is true for that person.

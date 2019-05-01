@@ -6,8 +6,6 @@ description: Find out if you can get VA disability pay and other benefits for il
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-mustard.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/mustard-gas/
 order: 4
 ---
 
@@ -50,7 +48,7 @@ You may be able to get disability benefits if you have a disability believed to 
 **Some Servicemembers** who took part in testing in these places:
  - Finschhafen, New Guinea
  - Porton Down, England
- 
+
 **Select merchant seaman** were also exposed at Bari, Italy.
 
 <br>
@@ -91,8 +89,8 @@ As many as 60,000 Veterans volunteered for medical research for the U.S. Biologi
 **Both of these must be true. You:**
 
 - Volunteered for research involving chemical and biological testing between 1942 and 1975, **and**
-- Have an injury or disease directly caused by your participation in this testing 
+- Have an injury or disease directly caused by your participation in this testing
 
-If you have questions or need help getting medical care: 
-- [Visit the U.S. Army web page](https://armymedicine.health.mil/CBTP), **or** 
+If you have questions or need help getting medical care:
+- [Visit the U.S. Army web page](https://armymedicine.health.mil/CBTP), **or**
 - Call <a href="tel:+18009848523">1-800-984-8523</a>

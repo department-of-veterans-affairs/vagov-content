@@ -5,8 +5,6 @@ title: Non-college degree programs
 concurrence: incomplete
 plainlanguage: 11-22-16 certified in compliance with the Plain Writing Act
 order: 7
-aliases:
-  - /education/work-learn/non-college-degree-program/
 ---
 
 <div class="va-introtext">

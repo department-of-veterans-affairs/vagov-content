@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans’ Group Life Insurance (VGLI)
 display_title: Veterans’ Group (VGLI)
-concurrence: 
+concurrence:
 order: 4
 children: lifeInsuranceVGLI
 relatedlinks:
@@ -15,8 +15,6 @@ relatedlinks:
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for disabled and terminally ill policyholders
       description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/vgli/
 ---
 
 <div class="va-introtext">
@@ -54,9 +52,9 @@ $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI cove
 
 ## How do I get these benefits?
 
-You’ll need to apply for VGLI within one year and 120 days of leaving the military. 
+You’ll need to apply for VGLI within one year and 120 days of leaving the military.
 
-If you sign up within 240 days of leaving the military, you won’t need to prove you’re in good health. If you sign up after the 240-day period, you'll need to submit evidence that you're in good health. 
+If you sign up within 240 days of leaving the military, you won’t need to prove you’re in good health. If you sign up after the 240-day period, you'll need to submit evidence that you're in good health.
 
 **Apply in one of these ways:**
 
@@ -79,7 +77,7 @@ To reinstate a VGLI policy that has expired, you'll need to fill out an Applicat
 
 ## How much will I pay for these benefits?
 
-VGLI premium rates are based on your age and the amount of insurance coverage you want. 
+VGLI premium rates are based on your age and the amount of insurance coverage you want.
 
 **Choose your age to find monthly premium rates as of July 1, 2014.**
 
@@ -627,12 +625,12 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 [See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp)
 
-## Can I choose or update my beneficiaries?  
+## Can I choose or update my beneficiaries?
 Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
 
-**Update your beneficiary information in one of these ways:** 
+**Update your beneficiary information in one of these ways:**
 
-- Access your policy online. <br> 
+- Access your policy online. <br>
 [Find your policy through Prudential Life Insurance Company of America](https://giosgli.prudential.com/osgli/web/OSGLIMenu.html), **or** <br>
 - Fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
 [Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
@@ -654,28 +652,28 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
+
   Choose your new insurance company. <br>
   [View our list of companies that take part in this program](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
-  
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Apply at the local sales office of your chosen company.
-  
+
   </li>
-  
+
   <li class="process-step list-three">
-  
+
   Get a letter from OSGLI confirming that you have VGLI coverage (called a VGLI Conversion Notice) and give the letter to the agent who takes your application.
-  
+
   </li>
 </ol>
 
 **Note:** The conversion policy must be a permanent policy, such as a whole life policy. You can’t convert to other types of policies, like term, variable life, or universal life insurance. And supplementary policy benefits, like Accidental Death and Dismemberment or Waiver of Premium for Disability, aren’t considered part of the conversion policy.
 
-## What if I need help with my claim? 
+## What if I need help with my claim?
 
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 800-419-1473 or <a href="mailto:osgli.osgli@prudential.com">email the Prudential Insurance Company</a>.
 

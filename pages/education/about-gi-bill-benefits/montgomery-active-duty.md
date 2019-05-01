@@ -7,13 +7,11 @@ plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationMontgomeryActiveDuty
 order: 2
-aliases:
-  - /education/gi-bill/montgomery-active-duty/
 ---
 
 <div class="va-introtext">
 
-If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program. 
+If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program.
 
 </div>
 
@@ -115,7 +113,7 @@ Follow the steps below to apply for these benefits.
       <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a></p>
   <p></p>
     <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
-      <a href="/education/how-to-apply/">Learn more about other ways to apply</a></p>    
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a></p>
   </li>
   <li class="process-step list-three">
     <h3>Ask your school or training program to certify your enrollment</h3><br>
@@ -123,7 +121,7 @@ Follow the steps below to apply for these benefits.
                                      <p></p>
     <p><b>Note:</b> You'll then need to verify your enrollment at the end of each month to keep receiving payments. You can verify your enrollment online through our Web Automated Verification system (called "WAVE") or by phone by calling <a href="tel:+18778232378">877-823-2378</a>. <br>
     <a href="https://www.gibill.va.gov/wave/index.do">Verify your enrollment online</a></p>
-    </li>        
+    </li>
 </ol>
 
 ## How can I use my MGIB-AD education benefits?

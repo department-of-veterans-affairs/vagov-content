@@ -11,8 +11,6 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
-aliases:
-  - /life-insurance/options-and-eligibility/s-dvi/
 ---
 
 <div class="va-introtext">

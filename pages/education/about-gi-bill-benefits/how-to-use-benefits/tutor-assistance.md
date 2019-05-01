@@ -5,8 +5,6 @@ title: Tutorial assistance
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 5
-aliases:
-  - /education/gi-bill/tutorial-assistance/
 ---
 
 <div class="va-introtext">
@@ -34,7 +32,7 @@ Veterans
 
 Money to pay for a tutor
 
-**Note:** 
+**Note:**
 We won’t pay more than $100 per month for tutoring, and we won’t pay more than $1,200 total.
 
 -----
@@ -47,7 +45,7 @@ We won’t pay more than $100 per month for tutoring, and we won’t pay more th
 [Download VA Form 22-1990t](https://www.vba.va.gov/pubs/forms/vba-22-1990t-are.pdf)
 - The form must be signed and dated on or after the date of the last certified tutoring session (item 12b on the form).
 
-If you’re using the Montgomery GI Bill (MGIB), you can get up to $600 before we charge your benefits. 
+If you’re using the Montgomery GI Bill (MGIB), you can get up to $600 before we charge your benefits.
 If you’re using the Post-9/11 GI Bill or Dependents’ Educational Assistance (DEA), we won’t charge your GI Bill benefits.
 
 **Note:** Reservists using the Reserve Educational Assistance Program (REAP) benefit can’t also get tutorial assistance.
