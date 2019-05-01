@@ -23,15 +23,13 @@ Service members, Veterans, and family members may qualify for burial in a VA nat
 
 ### Who can be buried in a VA national cemetery and receive other burial benefits?
 
-Veterans, service members, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits. 
-
 #### Service members
 
-Members of the United States Armed Forces who died on active duty may be eligible for burial in a national cemetery.
+Members of the United States Armed Forces who died on active duty may be eligible for burial benefits.
 
 #### Veterans who didn’t receive a dishonorable discharge
 
-With certain exceptions, the Veteran must have served at least 24 months in a row or the full period for which they were called to active duty if they were an:
+With certain exceptions, a Veteran who served at least 24 months in a row or the full period for which they were called to active duty may be eligible for burial benefits if they were an:
 - Enlisted person who served after September 7, 1980, <b>or</b>
 - Officer who served after October 16, 1981
 
@@ -41,7 +39,7 @@ A VA regional office determines eligibility in cases where the Veteran had:
 
 #### Spouses and dependents
 
-These family members may be eligible for burial in a national cemetery:
+These family members may be eligible for burial in a VA national cemetery:
 
 - The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
 - The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
