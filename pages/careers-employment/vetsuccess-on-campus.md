@@ -188,8 +188,7 @@ This program is also available to dependents of Veterans who meet at least one o
 | **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
 |---|---|---|
 | Johnson County Community College | Vacant | Wichita (452) |
-| University of Kansas | Sally MacNeill <a href="mailto:Sally.MacNeill@va.gov">Sally.MacNeill@va.gov</a> |
-Wichita (452) |
+| University of Kansas | Sally MacNeill <a href="mailto:Sally.MacNeill@va.gov">Sally.MacNeill@va.gov</a> | Wichita (452) |
 </div>
 </li>
 <li>
@@ -202,6 +201,29 @@ Wichita (452) |
 | Elizabethtown Community & Technical College | Shannon Francis <a href="mailto:Shannon.Francis@va.gov">Shannon.Francis@va.gov</a> | Louisville (327) |
 | University of Kentucky | Joel Andrade <a href="mailto:Joel.Andrade@va.gov">Joel.Andrade@va.gov</a> | Louisville (327) |
 | Bluegrass Community & Technical College | Joel Andrade <a href="mailto:Joel.Andrade@va.gov">Joel.Andrade@va.gov</a> | Louisville (327) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Maryland">Maryland</button>
+<div id="Maryland" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of Maryland - University College | Diane Wilson <a href="mailto:Diane.Wilson2@va.gov">Diane.Wilson2@va.gov</a> <br/> Barbara Brown <a href="mailto:Barbara.Brown3@va.gov">Barbara.Brown3@va.gov</a> | National Capital Region Benefits Office (372) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Michigan">Michigan</button>
+<div id="Michigan" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Kalamazoo Valley Community College | Brent Haddow <a href="mailto:Brent.Haddow@va.gov">Brent.Haddow@va.gov</a> | Detroit (329) |
+| Kellogg Community College | Brent Haddow <a href="mailto:Brent.Haddow@va.gov">Brent.Haddow@va.gov</a> | Detroit (329) |
+| Western Michigan University | Brent Haddow <a href="mailto:Brent.Haddow@va.gov">Brent.Haddow@va.gov</a> | Detroit (329) |
+| Eastern Michigan University | Melissa Spaulding <a href="mailto:Melissa.Spaulding329@va.gov">Melissa.Spaulding329@va.gov</a> | Detroit (329) |
+| University of Michigan - Ann Arbor | Melissa Spaulding <a href="mailto:Melissa.Spaulding329@va.gov">Melissa.Spaulding329@va.gov</a> | Detroit (329) |
+| Washtenaw Community College | Melissa Spaulding <a href="mailto:Melissa.Spaulding329@va.gov">Melissa.Spaulding329@va.gov</a> | Detroit (329) |
 </div>
 </li>
 </ul> 
