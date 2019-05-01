@@ -25,8 +25,6 @@ relatedlinks:
     - url: /disability/about-disability-ratings/effective-date/
       title: Effective Date of Disability
       description: "Learn how VA decides the date you can start getting your disability benefits."
-aliases:
-  - /disability-benefits/eligibility/one-year/
 ---
 
 <div class="va-introtext">
@@ -67,7 +65,7 @@ Veterans
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
 
 **Your evidence will need to show that both of these are true of your illness:**
-- It's at least 10% disabling. (For example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure.) 
+- It's at least 10% disabling. (For example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure.)
 - It appeared within 1 year after being discharged from active service. (For example, you may submit a medical report that shows the date of your diagnosis.)
 
 If you have an illness listed in Title 38, Code of Federal Regulation, 3.09(a), you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases that appear within 1 year of your discharge are related to your service. We refer to these as “presumptive diseases.” <br>

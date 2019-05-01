@@ -5,8 +5,6 @@ title: Correspondence training
 order: 4
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
-aliases:
-  - /education/work-learn/non-traditional/correspondence-training/
 ---
 
 <div class="va-introtext">

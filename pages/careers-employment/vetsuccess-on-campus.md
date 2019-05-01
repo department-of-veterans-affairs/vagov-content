@@ -17,8 +17,6 @@ relatedlinks:
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: Find out if you're eligible for certain counseling services, training, and education benefits.
-aliases:
-  - /employment/vocational-rehab-and-employment/vetsuccess/
 ---
 
 <div class="va-introtext">

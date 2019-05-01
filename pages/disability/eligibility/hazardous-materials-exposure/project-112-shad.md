@@ -6,8 +6,6 @@ description: If you were part of Project 112 or Project SHAD, you may be at risk
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-project_112_shad.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/project112-SHAD/
 order: 7
 ---
 
@@ -22,7 +20,7 @@ If you were a part of chemical and biological warfare testing through Projects 1
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you meet both of the requirements listed below. 
+You may be able to get disability benefits if you meet both of the requirements listed below.
 
 **Both of these must be true:**
 

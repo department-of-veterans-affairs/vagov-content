@@ -8,8 +8,6 @@ source: http://www.va.gov/opa/issues/ptsd.asp
 plainlanguage: 11-14-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/conditions/ptsd/
 ---
 <div class="va-introtext">
 

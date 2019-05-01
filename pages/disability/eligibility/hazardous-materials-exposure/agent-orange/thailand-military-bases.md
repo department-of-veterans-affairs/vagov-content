@@ -7,8 +7,6 @@ concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 5
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/thailand-military-bases/
 ---
 
 <div class="va-introtext">
@@ -41,7 +39,7 @@ You may be able to get disability benefits if you have an illness believed to be
 -----
 
 ### How do I get these benefits?
-You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. 
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military.
 
 To prove that you had contact with Agent Orange during your Thailand service, you’ll need to send us supporting documents that show you had regular perimeter security duty, such as:
 - Daily work duty logs, **or**

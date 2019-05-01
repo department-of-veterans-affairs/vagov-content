@@ -7,8 +7,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp,http://w
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/apply/claim-types/predischarge-claim/overseas/
 ---
 
 <div class="va-introtext">

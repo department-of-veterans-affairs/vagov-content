@@ -30,8 +30,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
-aliases:
-  - /disability-benefits/apply/
 ---
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
@@ -127,8 +125,8 @@ You don’t need to do anything while you’re waiting unless we send you a lett
 #### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">123.4 days</span>
-<span class="description">Average number of days to complete disability-related claims in March 2019</span>
+<span class="number">111.5 days</span>
+<span class="description">Average number of days to complete disability-related claims in April 2019</span>
 </div>
 </div>
 </div>

@@ -5,8 +5,6 @@ title: Fry Scholarship
 concurrence: incomplete
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act
 order: 1
-aliases:
-  - /education/gi-bill/survivors-dependent-assistance/fry-scholarship/
 ---
 
 <div class="va-introtext">
@@ -49,7 +47,7 @@ You may be able to get up to 36 months of benefits, including:
 -----
 
 ## How do I get a Fry Scholarship?
-  
+
 <ol class="process">
 <li class="process-step list-one">
 
