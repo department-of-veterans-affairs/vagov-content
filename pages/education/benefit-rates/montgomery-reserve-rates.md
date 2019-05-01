@@ -39,7 +39,7 @@ attending school or training.
 All rates in $ U.S. dollars
 | **Training time** | **Monthly rate** |
 |--|--|
-| Full-time | Full-time	$384.00 |
+| Full-time | 384.00 |
 | 3/4 time | 287.00 |
 | 1/2 time | 191.00 |
 | Less than 1/2 time | 96.00 |
