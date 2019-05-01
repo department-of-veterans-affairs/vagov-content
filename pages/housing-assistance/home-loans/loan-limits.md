@@ -99,30 +99,3 @@ VA home loan limits change each year and are based on the property's county loca
 <br>
     <a href="https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx">Visit FHFA's Conforming Loan Limits page</a></li>
 
-### 2014
-
-View loan limits for: <br>
-[February 28, 2014, to December 31, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_county_loan_limits.pdf) <br>
-[January 1, 2014, to February 27, 2014](https://www.benefits.va.gov/HOMELOANS/documents/docs/2014_initial_county_loan_limits.pdf)
-
-### 2013
-
-[View 2013 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2013_county_loan_limits.pdf) <br>
-
-### 2012
-
-View loan limits for: <br>
-[August 6, 2012, to December 31, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_august2012.pdf) <br>
-[January 1, 2012, to August 5, 2012](https://www.benefits.va.gov/HOMELOANS/documents/docs/loan_limits_jan_aug_2012.pdf)
-
-### 2011
-
-View loan limits for: <br>
-[October 1, 2011, to December 31, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_Oct_thru_Dec_Max_Guaranty.pdf) <br>
-[January 1, 2011, to September 30, 2011](https://www.benefits.va.gov/HOMELOANS/documents/docs/2011_county_loan_limits.pdf)
-
-### 2008 to 2010
-
-[View 2010 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2010_county_loan_limits.pdf)<br>
-[View 2009 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2009_county_loan_limits.pdf)<br>
-[View 2008 loan limits](https://www.benefits.va.gov/HOMELOANS/documents/docs/2008_loan_limits_for_high_cost_counties.pdf)
