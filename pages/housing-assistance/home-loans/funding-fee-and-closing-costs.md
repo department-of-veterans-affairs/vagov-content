@@ -131,7 +131,7 @@ Review the VA funding fee rate charts below to determine the amount you’ll hav
 
 <strong>Note:</strong> The VA funding fee rates for refinancing loans don't change based on your down payment amount. If you used a VA-backed or VA direct home loan to purchase a manufactured home, you only need to pay the first-time use funding fee.
 
-<h3>VA direct Native American Direct Loan (NADL)</h3>
+<h3>Native American Direct Loan (NADL)</h3>
 
 | Type of use | VA funding fee | 
 | --- | --- | 
