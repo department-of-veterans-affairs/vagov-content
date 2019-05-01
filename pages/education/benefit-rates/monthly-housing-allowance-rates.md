@@ -108,12 +108,12 @@ Yes. The chart below shows the MHA rate for different types of schools or circum
 in which you’re not eligible for a housing allowance.
 
 ## MHA rate exceptions
-
+All rates in $ U.S. dollars
 | **Type of school** | **MHA rate** |
 | -- | -- |
-| Foreign school | $1,789.00 |
+| Foreign school | 1,789.00 |
 | Schools in U.S. territories | E-5 with dependents overseas housing allowance (OHA) for school location |
-| Online training with no classroom instruction | $894.50 |
+| Online training with no classroom instruction | 894.50 |
 | Attending classes at ½ time or less | Not available |
 | Active-duty trainee, or transferee spouse of service member | Not available |
 
