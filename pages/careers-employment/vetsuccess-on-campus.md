@@ -303,6 +303,80 @@ This program is also available to dependents of Veterans who meet at least one o
 | Fayetteville Technical Community College | Roderick Rogers <a href="mailto:Roderick.Rogers2@va.gov">Roderick.Rogers2@va.gov</a> | Winston-Salem (318) |
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Ohio">Ohio</button>
+<div id="Ohio" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Cleveland State University | George Ackerman <a href="mailto:George.Ackerman@va.gov">George.Ackerman@va.gov</a> | Cleveland (325) |
+| The Ohio State University | Angela Abel <a href="mailto:Angela.Abel@va.gov">Angela.Abel@va.gov</a> | Cleveland (325) |
+| University of Cincinnati | Jill Cochran <a href="mailto:Jill.Cochran@va.gov">Jill.Cochran@va.gov</a> | Cleveland (325) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Oklahoma">Oklahoma</button>
+<div id="Oklahoma" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Cameron University | Alfred Finch <a href="mailto:Alfred.Finch@va.gov">Alfred.Finch@va.gov</a> | Muskogee (351) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Oregon">Oregon</button>
+<div id="Oregon" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Portland State University | Alexandra Birmingham <a href="mailto:Alexandra.Birmingham@va.gov">Alexandra.Birmingham@va.gov</a> | Portland (348) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Pennsylvania">Pennsylvania</button>
+<div id="Pennsylvania" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Harrisburg Area Community College | Gail Hrobuchak <a href="mailto:Gail.Hrobuchak@va.gov">Gail.Hrobuchak@va.gov</a> | Philadelphia (310) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Rhode Island">Rhode Island</button>
+<div id="Rhode Island" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Community College of Rhode Island | Micaela Black-Estrella <a href="mailto:Micaela.Black@va.gov">Micaela.Black@va.gov</a> | Providence (304) |
+| Rhode Island College | Micaela Black-Estrella <a href="mailto:Micaela.Black@va.gov">Micaela.Black@va.gov</a> | Providence (304) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="South Carolina">South Carolina</button>
+<div id="South Carolina" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Midlands Technical College | Andria Jeffries <a href="mailto:Andria.Jeffries@va.gov">Andria.Jeffries@va.gov</a> | Columbia (319) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Tennessee">Tennessee</button>
+<div id="Tennessee" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Middle Tennessee State University | Heather Conrad <a href="mailto:Heather.Conrad@va.gov">Heather.Conrad@va.gov</a> | Nashville (320) |
+| Austin Peay State University - Clarksville | Christina Hicks <a href="mailto:Christina.Hicks2@va.gov">Christina.Hicks2@va.gov</a> | Nashville (320) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Texas">Texas</button>
+<div id="Texas" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of Texas - San Antonio | Wendy Foster <a href="mailto:Wendy.Foster@va.gov">Wendy.Foster@va.gov</a> <br/> Kareem Vaughn <a href="mailto:Kareem.Vaughn@va.gov">Kareem.Vaughn@va.gov</a> | Houston (362) |
 </ul> 
 
 **To qualify as a dependent, at least one of these must be true. You:**
