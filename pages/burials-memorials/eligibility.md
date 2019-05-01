@@ -209,10 +209,7 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 
 **When you call the National Cemetery Scheduling Office in your time of need,** tell the scheduler that interment is requested under PL115-141.
 
-**When you're filling out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007):**
-- Write “PL115-141” in Block 5. 
-- Write the Certification of Naturalization Registration “A” number in Block 6, and 
-- Select **Other** in Block 13.
+**When you're filling out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007),** write “PL115-141” in Block 5, write the Certification of Naturalization Registration “A” number in Block 6, and select **Other** in Block 13.
 
 **When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
 write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
