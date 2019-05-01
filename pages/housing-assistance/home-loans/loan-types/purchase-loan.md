@@ -34,8 +34,8 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 
 - **No down payment** as long as the sales price isn’t higher than the home’s appraised value (the value set for the home after an expert reviews the property)
 - **Better terms and interest rates** than other loans from private banks, mortgage companies, or credit unions (also called lenders)
-- **The ability to borrow up to the FannieMae/FreddieMac conforming loan limit** on a no-down-payment loan in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[Learn about VA loan limits](/housing-assistance/home-loans/loan-limits/)
+- **The ability to borrow up to the Fannie Mae/Freddie Mac conforming loan limit** on a no-down-payment loan in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
+[Learn about VA home loan limits](/housing-assistance/home-loans/loan-limits/)
 - **No need for private mortgage insurance (PMI) or mortgage insurance premiums (MIP)**
   - PMI is a type of insurance that protects the lender if you end up not being able to pay your mortgage. It’s usually required on conventional loans if you make a down payment of less than 20% of the total mortgage amount.
   - MIP is what the Federal Housing Administration (FHA) requires you to pay to self-insure an FHA loan against future loss.
