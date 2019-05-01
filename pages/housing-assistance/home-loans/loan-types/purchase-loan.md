@@ -35,7 +35,7 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 - **No down payment** as long as the sales price isn’t higher than the home’s appraised value (the value set for the home after an expert reviews the property)
 - **Better terms and interest rates** than other loans from private banks, mortgage companies, or credit unions (also called lenders)
 - **The ability to borrow up to the FannieMae/FreddieMac conforming loan limit** on a no-down-payment loan in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[Learn about current VA loan limits](/housing-assistance/home-loans/loan-limits/)
+[Learn about VA loan limits](/housing-assistance/home-loans/loan-limits/)
 - **No need for private mortgage insurance (PMI) or mortgage insurance premiums (MIP)**
   - PMI is a type of insurance that protects the lender if you end up not being able to pay your mortgage. It’s usually required on conventional loans if you make a down payment of less than 20% of the total mortgage amount.
   - MIP is what the Federal Housing Administration (FHA) requires you to pay to self-insure an FHA loan against future loss.
@@ -61,3 +61,8 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 
 Buying a home is a complex process, and getting a VA-backed purchase loan is only one piece of the puzzle. <br>
 [Get instructions for buying a home with a VA-backed loan](/housing-assistance/home-loans/home-buying-process/)
+
+## Will I have to pay any fees with my loan?
+
+You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
