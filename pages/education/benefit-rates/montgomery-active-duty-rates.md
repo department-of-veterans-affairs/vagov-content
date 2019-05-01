@@ -168,6 +168,7 @@ All rates in $ U.S. dollars
 ### Cooperative training
 The cooperative training program lets you go to school full-time for a period, and then work full-time for a period. 
 This chart shows you what you’ll receive under this program according to how many dependents you have.
+
 All rates in $ U.S. dollars
 
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
