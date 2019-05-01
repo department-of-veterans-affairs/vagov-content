@@ -385,7 +385,7 @@ This program is also available to dependents of Veterans who meet at least one o
 | Texas A&M University - Central Texas | Greg Primas <a href="mailto:Gregory.Primas@va.gov">Gregory.Primas@va.gov</a> | Waco (349) |
 | Tarrant County College - South | Douglas Smith <a href="mailto:Douglas.Smith1@va.gov">Douglas.Smith1@va.gov</a> | Waco (349) |
 | Tarrant County College - Northeast | Denise Edwards <a href="mailto:Denise.Edwards@va.gov">Denise.Edwards@va.gov</a> | Waco (349) |
-| Central Texas College | James Morgan <a href="mailto:James.Morgan3@va.gov">James.Morgan3@va.gov</a> <br/> Cynthia Oswald <a href="Cynthia.Oswald@va.gov">Cynthia.Oswald@va.gov</a> | Waco (349) |
+| Central Texas College | James Morgan <a href="mailto:James.Morgan3@va.gov">James.Morgan3@va.gov</a> <br/> Cynthia Oswald <a href="mailto:Cynthia.Oswald@va.gov">Cynthia.Oswald@va.gov</a> | Waco (349) |
 | Texas A&M University - College Station | Jimmy Rogers <a href="mailto:Jim.Rogers2@va.gov">Jim.Rogers2@va.gov</a> | Waco (349) |
 | Austin Community College | Brad Robichaux <a href="mailto:Brad.Robichaux@va.gov">Brad.Robichaux@va.gov</a> | Waco (349) |
 | University of Texas - Arlington | Tyrrell Biggers <a href="mailto:Tyrrell.Biggers@va.gov">Tyrrell.Biggers@va.gov</a> | Waco (349) |
