@@ -124,15 +124,13 @@ hublinks:
       label: A Warning about Home Loan Refinancing Offers
       description: Learn about the signs of misleading offers to refinance your VA-backed  home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.
       external: false
-    - url: https://www.benefits.va.gov/homeloans/resources_veteran.asp
-      label: Home Buying Process for Veterans
-      description: Watch a video and get more information about using your VA home loan
-        benefit to buy a home.
+    - url: /housing-assistance/home-loans/home-buying-process/
+      label: Buying a Home with a VA-backed Loan
+      description: Get step-by-step instructions for buying a home through the VA home loan program.
       external: false
     - url: "/housing-assistance/home-loans/funding-fee-and-closing-costs/"
-      label: VA Loan Funding Fee
-      description: Find out if you'll need to pay this fee when using your home loan
-        benefits.
+      label: VA Loan Funding Fee and Loan Closing Costs
+      description: Learn about the VA funding fee and other closing costs you may need to pay when using your home loan benefits.
       external: false
     - url: https://benefits.va.gov/HOMELOANS/contact_rlc_info.asp
       label: Find a VA Regional Loan Center
