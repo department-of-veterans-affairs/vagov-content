@@ -15,7 +15,7 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 <div class="feature" markdown=“1”>
 
-## Can I get VA financial counseling to help avoid foreclosure?
+### Can I get VA financial counseling to help avoid foreclosure?
 
 - **If you’re a Veteran or the surviving spouse of a Veteran,** we’ll provide financial counseling—even if your loan isn’t a VA direct or VA-backed loan.
 
