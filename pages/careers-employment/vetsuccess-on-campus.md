@@ -41,6 +41,14 @@ Our counselors can help you with your Veterans’ benefits, which may include VA
 
 This program is also available to dependents of Veterans who meet at least one of the requirements listed below.
 
+**To qualify as a dependent, at least one of these must be true. You:**
+
+- [Are eligible for the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/), **or**
+- [Are eligible for the Survivors’ and Dependents’ Educational Assistance Program](/education/survivor-dependent-benefits/dependents-education-assistance/), **or**
+- Have had GI Bill benefits transferred from a spouse or parent, **or**
+- [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
+<br>
+
 ### VSOC Locations and VSOC Counselor Contact Information
 
 <ul class="usa-accordion" aria-multiselectable="true">
@@ -433,12 +441,6 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul> 
 
-**To qualify as a dependent, at least one of these must be true. You:**
 
-- [Are eligible for the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/), **or**
-- [Are eligible for the Survivors’ and Dependents’ Educational Assistance Program](/education/survivor-dependent-benefits/dependents-education-assistance/), **or**
-- Have had GI Bill benefits transferred from a spouse or parent, **or**
-- [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
-<br>
 
 
