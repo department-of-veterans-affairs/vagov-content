@@ -40,10 +40,11 @@ You may be able to get an IRRRL if you meet all of the requirements listed below
 -	Lower your monthly mortgage payment by getting you a lower interest rate, **or**
 -	Make your monthly payments more stable by moving from a loan with an adjustable or variable interest rate (an interest rate that changes over time) to one that’s fixed (the same interest rate over the life of the loan)
 
-On a no-down-payment loan, you can borrow up to the FannieMae/FreddieMac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[See current effective loan limits](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx)
+On a no-down-payment loan, you can borrow up to the Fannie Mae/Freddie Mac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
+[Learn about VA home loan limits](/housing-assistance/home-loans/loan-limits/)
 
 You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Before you decide to refinance, divide your closing costs by how much you expect to save every month by refinancing to see if it’s worth it. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
 [Visit the Consumer Financial Protection Bureau for more information](https://www.consumerfinance.gov/owning-a-home/) <br>
 [Download the Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
 
@@ -72,12 +73,11 @@ If you have the Certificate of Eligibility (COE) you used to get your original V
 <li class="process-step list-three">
 
 ### Follow your lender’s process for closing on the IRRRL loan, and pay your closing costs.
-With an IRRRL, you can include these costs in the new loan so you don’t have to pay up front. Or, you may be able to make the new loan at an interest rate high enough so your lender can pay the costs.
+You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
+
+With an IRRRL, you can include these costs in the new loan so you don’t have to pay up front. Or, you may be able to make the new loan at an interest rate high enough so your lender can pay the costs. 
 
 </li>
 </ol>
 
-## Will I have to pay any fees with my loan?
-
-You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
-[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
