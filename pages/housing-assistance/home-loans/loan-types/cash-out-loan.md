@@ -27,7 +27,7 @@ You may be able to get a cash-out refinance loan if you meet all of the requirem
 -	Meet VA’s—and your lender’s—standards for credit, income, and any other requirements, **and**
 -	Will live in the home you’re refinancing with the loan
 
-[See if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/)
+[Find out if you qualify for a VA-backed home loan Certificate of Eligibility (COE)](/housing-assistance/home-loans/eligibility/)
 </div>
 
 <br>
@@ -39,8 +39,8 @@ You may be able to get a cash-out refinance loan if you meet all of the requirem
 -	Take cash out of your home equity to pay off debt, pay for school, make home improvements, or take care of other needs, **or**
 -	Refinance a non-VA loan into a VA-backed loan
 
-On a no-down-payment loan, you can borrow up to the FannieMae/FreddieMac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[See current effective loan limits](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx)
+On a no-down-payment loan, you can borrow up to the Fannie Mae/Freddie Mac conforming loan limit in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
+[Learn more about VA loan limits](/housing-assistance/home-loans/loan-limits/)
 
 You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Make sure you understand how your new loan amount relates to the value of your home. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into.
 
@@ -91,10 +91,8 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 
 #### Follow your lender’s process for closing on the loan, and pay your closing costs.
 
+You may need to pay a VA funding fee at closing. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
+
 </li>
 </ol>
-
-## Will I need to pay any fees with my loan?
-
-You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
-[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
