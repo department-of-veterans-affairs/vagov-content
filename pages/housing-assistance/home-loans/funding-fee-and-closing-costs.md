@@ -89,45 +89,41 @@ Review the VA funding fee rate charts below to determine the amount you’ll hav
 
 <strong>For example:</strong> If you're using a VA-backed loan for the first time and you're taking out a loan of $200,000 and paying a down payment of $10,000 (5% of the $200,000 loan), you'll pay a VA funding fee of $3,000 (1.5% of the $200,000 loan).
 
-<h3>Rates for VA-backed purchase and construction loans</h3>
+<h3>VA-backed purchase and construction loans</h3>
 
-<h4>For Veterans and service members with active-duty service</h4>
+<h4>Rates for Veterans and service members with active-duty service</h4>
 
 | | If your down payment is... | Your VA funding fee will be... |
 | --- | --- | --- | 
-| **First use** | | | 
-| | Less than 5%  | 2.15%  | 
+| **First use** | Less than 5%  | 2.15%  | 
 | | 5% or more  | 1.5%  | 
 | | 10% or more  | 1.25% | 
-| **After first use** | | |
-| | Less than 5%  | 3.3% |
+| **After first use** | Less than 5%  | 3.3% |
 | | 5% or more  | 1.5%  |
 | | 10% or more  | 1.25% |
 
-<h4>For National Guard and Reserve members</h4>
+<h4>Rates for National Guard and Reserve members</h4>
 
 | | If your down payment is... | Your VA funding fee will be... |
 | --- | --- | --- | 
-| **First use** | | | 
-| | Less than 5%  | 2.4%  | 
+| **First use** | Less than 5%  | 2.4%  | 
 | | 5% or more  | 1.75%  | 
 | | 10% or more  | 1.5% | 
-| **After first use** | | |
-| | Less than 5% | 3.3% |
+| **After first use** | Less than 5% | 3.3% |
 | | 5% or more | 1.75%  |
 | | 10% or more | 1.5% |
 
 <strong>Note:</strong> If you only used a VA-backed or VA direct home loan to purchase a manufactured home in the past, you'll still pay the first-time funding fee.
 
-<h3>Rates for VA-backed cash-out refinancing loans</h3>
+<h3>VA-backed cash-out refinancing loans</h3>
 
-<h4>For Veterans and service members with active-duty service</h4>
+<h4>Rates for Veterans and service members with active-duty service</h4>
 
 | First use | After first use |
 | --- | --- | 
 | 2.15% | 3.3% |
 
-<h4>For National Guard and Reserve Veterans and members</h4>
+<h4>Rates for National Guard and Reserve Veterans and members</h4>
 
 | First use  | After first use |
 | --- | --- | 
@@ -141,6 +137,8 @@ Review the VA funding fee rate charts below to determine the amount you’ll hav
 | --- | --- | 
 | Purchase  | 1.25%  | 
 | Refinance  | 0.5% |
+
+**Note:** The VA funding fee rates for this loan doesn't change based on your military category, your down payment amount, or whether you've used the VA home loan program in the past.
 
 <h3>Other VA home loan types</h3>
 
