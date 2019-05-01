@@ -64,7 +64,7 @@ Biological or adoptive parents who passed away after October 13, 2010, and whose
 
 </div>
 
-### Find eligibility information for these categories
+### Find eligibility information for these groups of people
 
 <ul class="usa-accordion">
 <li>
