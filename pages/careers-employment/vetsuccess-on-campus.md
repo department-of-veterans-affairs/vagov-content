@@ -226,6 +226,83 @@ This program is also available to dependents of Veterans who meet at least one o
 | Washtenaw Community College | Melissa Spaulding <a href="mailto:Melissa.Spaulding329@va.gov">Melissa.Spaulding329@va.gov</a> | Detroit (329) |
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Mississippi">Mississippi</button>
+<div id="Mississippi" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of Southern Mississippi | Steven Welch <a href="mailto:Steven.Welch@va.gov">Steven.Welch@va.gov</a> | Jackson (323) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Missouri">Missouri</button>
+<div id="Missouri" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---| 
+| Webster University - St. Louis | Jason Blakemore <a href="mailto:Jason.Blakemore@va.gov">Jason.Blakemore@va.gov</a> | St. Louis (331)|
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Nebraska">Nebraska</button>
+<div id="Nebraska" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Bellevue University | Vacant | Lincoln (334) |
+| University of Nebraska - Omaha | Vacant | Lincoln (334) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="Nevada">Nevada</button>
+<div id="Nevada" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of Nevada - Las Vegas | Allan Shockley <a href="mailto:Dana.Shockley2@va.gov">Dana.Shockley2@va.gov</a> | Reno (354) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="New Jersey">New Jersey</button>
+<div id="New Jersey" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Rutgers University | Valerie Williams <a href="mailto:Valerie.Williams1@va.gov">Valerie.Williams1@va.gov</a> | Newark (309) |
+| Middlesex County College | Valerie Williams <a href="mailto:Valerie.Williams1@va.gov">Valerie.Williams1@va.gov</a> | Newark (309) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="New Mexico">New Mexico</button>
+<div id="New Mexico" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| University of New Mexico | Christopher Mulvihill <a href="mailto:Christopher.Mulvihill@va.gov">Christopher.Mulvihill@va.gov</a> | Albuquerque (340) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="New York">New York</button>
+<div id="New York" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| Syracuse University | Kate Untiedt <a href="mailto:Katherine.Untiedt@va.gov">Katherine.Untiedt@va.gov</a> | Buffalo (307) |
+| Nassau Community College | Christopher Holder <a href="mailto:Christopher.Holder@va.gov">Christopher.Holder@va.gov</a> | New York (306) |
+| Suffolk County Community College | Christopher Holder <a href="mailto:Christopher.Holder@va.gov">Christopher.Holder@va.gov</a> | New York (306) |
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="North Carolina">North Carolina</button>
+<div id="North Carolina" class="usa-accordion-content">
+  
+| **School Name** | **VSOC Counselor Email Address** | **Regional Office** |
+|---|---|---|
+| East Carolina University | Kim Treece <a href="mailto:Kimberly.Treece@va.gov">Kimberly.Treece@va.gov</a> | Winston-Salem (318) |
+| Fayetteville Technical Community College | Roderick Rogers <a href="mailto:Roderick.Rogers2@va.gov">Roderick.Rogers2@va.gov</a> | Winston-Salem (318) |
+</div>
+</li>
 </ul> 
 
 **To qualify as a dependent, at least one of these must be true. You:**
