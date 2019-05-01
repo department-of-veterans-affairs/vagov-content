@@ -44,8 +44,8 @@ You may be able to get a NADL if you’re a Native American Veteran or a non–N
 - **Limited closing costs** (fees you pay for services and other costs related to getting a loan and buying a home)
 - **A low-interest, 30-year fixed mortgage** (a fixed mortgage means your interest rate will stay the same over the full life of the loan)
 - **A reusable benefit**, which means you can get more than one NADL to buy, build, or improve another residence in the future
-- **The ability to borrow up to the FannieMae/FreddieMac conforming loan limit** on a no-down-payment loan in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
-[See current effective loan limits](https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limits.aspx)
+- **The ability to borrow up to the Fannie Mae/Freddie Mac conforming loan limit** on a no-down-payment loan in most areas—and more in some high-cost counties. You can borrow more than this amount if you want to make a down payment. <br>
+[Learn about VA home loan limits](/housing-assistance/home-loans/loan-limits/)
 
 <br>
 
