@@ -23,34 +23,49 @@ Service members, Veterans, and family members may qualify for burial in a VA nat
 
 ### Who can be buried in a VA national cemetery and receive other burial benefits?
 
-Veterans, service members, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits, if they meet the requirements in one of the categories listed below.
-</div>
+Veterans, service members, spouses, and dependents may qualify for burial in a VA national cemetery, as well as other benefits.
 
-**One of these must describe the person qualifying for burial benefits:**
+#### Veterans who didn’t receive a dishonorable discharge
 
-<ul class="usa-accordion">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="veteran-not-dishonorable-discharge">Veteran who didn’t receive a dishonorable discharge</button>
-<div id="veteran-not-dishonorable-discharge" class="usa-accordion-content">
-
-With certain exceptions, the Veteran must have served for a minimum of 24 continuous months or the full period for which the person was called to active duty if they were an:
+With certain exceptions, the Veteran must have served at least 24 months in a row or the full period for which they were called to active duty if they were an:
 - Enlisted person who served after September 7, 1980, <b>or</b>
 - Officer who served after October 16, 1981
 
 A VA regional office determines eligibility in cases where the Veteran had:
 - Undesirable, bad conduct, and any other type of discharge other than honorable <b>or</b>
 - Multiple discharges of varying character
-</div>
-</li>
 
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-us">Member of the United States Armed Forces</button>
-<div id="armed-forces-of-us" class="usa-accordion-content">
+#### Members of the United States Armed Forces who died on active duty
+
+#### Spouses and dependents
+
+These family members may be eligible for burial in a national cemetery:
+
+- The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
+- The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
+- The minor child of an eligible Veteran. To be considered a minor, the child must be unmarried and:
+  - Under 21 years, **or**
+  - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution
+- The unmarried adult child of an eligible Veteran. The child may be any age, but they must have became permanently disabled (either physically or mentally) and not able to support themselves either:
+  - Before turning 21 years old, **or**
+  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution <br>
+  **Note:** Proper supporting documentation must be provided.
   
-The service member died on active duty.
-</div>
-</li>
+#### Parents
 
+Biological or adoptive parents who passed away after October 13, 2010, and whose biological or adoptive child was a service member may be eligible for burial in a national cemetery. For the parents to be eligible, everything listed below must be true. The service member:
+
+- Passed away on or after October 7, 2001, **and**
+- Was a hostile casualty or died because of a training-related injury, **and**
+- Is buried in a national cemetery, in a gravesite with available space for burial of other family members in the future, **and**
+- At the time of the parent’s death, had no spouse, surviving spouse, or child who is buried in a national cemetery or may be eligible for burial when they pass away
+
+**Note:** If one of the specific categories listed below describes the deceased, read about their eligibility requirements for burial benefits.
+</div>
+
+### Find specific eligibility information for these groups of people
+
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
@@ -202,53 +217,6 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 
 **When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
 write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="spouses-dependents">Spouses and dependents</button>
-<div id="spouses-dependents" class="usa-accordion-content">
-
-**These family members may be eligible for burial in a national cemetery:**
-
-- The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
-- The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
-- The minor child of an eligible Veteran. To be considered a minor, the child must be unmarried and:
-  - Under 21 years, **or**
-  - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution
-- The unmarried adult child of an eligible Veteran. The child may be any age, but they must have became permanently disabled (either physically or mentally) and not able to support themselves either:
-  - Before turning 21 years old, **or**
-  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution <br>
-  **Note:** Proper supporting documentation must be provided.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="parents">Parents</button>
-<div id="parents" class="usa-accordion-content">
-
-Biological or adoptive parents who passed away after October 13, 2010, and whose biological or adoptive child was a service member may be eligible for burial in a national cemetery. For the parents to be eligible, everything listed below must be true. The service member:
-
-- Passed away on or after October 7, 2001, **and**
-- Was a hostile casualty or died because of a training-related injury, **and**
-- Is buried in a national cemetery, in a gravesite with available space for burial of other family members in the future, **and**
-- At the time of the parent’s death, had no spouse, surviving spouse, or child who is buried in a national cemetery or may be eligible for burial when they pass away
-
-**"Hostile casualty" means** a person who, as a member of the Armed Forces, dies:
-- As the direct result of hostile action with the enemy, **or**
-- While in combat, **or**
-- While going to or returning from a combat mission if the cause of death was directly related to hostile action, **or**
-- While hospitalized or undergoing treatment at the expense of the United States for injury that service member got during combat (this includes a person killed by accident by friendly fire directed at a hostile force or what is thought to be a hostile force)
-
-**“Hostile casualty” doesn't include** a person who dies due to 
-- The elements
-- A self-inflicted wound
-- Combat fatigue
-- A friendly force while the person was absent without leave, a deserter, or in dropped-from-rolls status or was voluntarily absent from a place of duty
-
-**“Training-related injury” means** that a member of the Armed Forces got injured while in authorized training to prepare for a combat mission.   
 
 </div>
 </li>
