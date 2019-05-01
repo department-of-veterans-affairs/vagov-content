@@ -116,7 +116,7 @@ Ask your real estate agent for advice on other options for voiding the contract 
 <br>
 <br>
 **To learn more, watch this helpful video:** <br>
-[Using your VA home loan benefit: Working with a realtor and lender](https://www.youtube.com/watch?v=80fG2XN47YI)
+[Using your VA home loan benefit: working with a Realtor and lender](https://www.youtube.com/watch?v=80fG2XN47YI)
 
 </li>
 
@@ -182,9 +182,9 @@ You can also use the resources below to learn more about the VA home loan progra
 ### Watch these helpful videos
 
 - [Overview of home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A)
-- [Top 5 benefits of the VA Home Loan Program](https://www.youtube.com/watch?v=xbjYFpyMxu0&feature=youtu.be)
+- [Top 5 benefits of the VA home loan program](https://www.youtube.com/watch?v=xbjYFpyMxu0&feature=youtu.be)
 - [True costs of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7)
-- [Using your VA home loan benefit: Where to start](https://www.youtube.com/watch?v=5PJ7I_4hHMQ&pbjreload=10)
+- [Using your VA home loan benefit: where to start](https://www.youtube.com/watch?v=5PJ7I_4hHMQ&pbjreload=10)
 
 ### Watch these Veteran stories of using the VA home loan program
 
