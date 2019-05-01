@@ -66,7 +66,6 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 - The VA regional loan center that serves your state <br>
 [Find a VA regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
 
-
 ### If you’re not receiving DIC benefits
 
 You’ll first need to fill out an Application for DIC, Survivors Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
