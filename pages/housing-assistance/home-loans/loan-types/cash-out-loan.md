@@ -6,7 +6,7 @@ display_title: Cash-Out Refinance Loan
 concurrence:
 order: 2
 aliases:
-  - /housing-assistance/home-loans/loan-options/cash-out-refinance/
+  - /housing-assistance/home-loans/loan-options/cash-out-refinance/    
 ---
 
 <div class="va-introtext">
@@ -94,20 +94,7 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 </li>
 </ol>
 
-## Will I have to pay any loan fees?
-If you’re using a VA home loan to purchase a home or refinance a mortgage, you’ll need to pay a funding fee. The funding fee is a percentage of your loan amount. You can choose to finance the funding fee or pay it when you pay your closing costs.
+## Will I need to pay any fees with my loan?
 
-**You don’t have to pay a funding fee if one of these is true. You’re:**
-
-- Receiving VA compensation pay for a service-connected disability, **or**
-- Eligible to receive VA compensation pay for a service-connected disability, but you’re receiving retirement or active-duty pay instead, **or**
-- The surviving spouse of a Veteran who died while serving or from a service-connected disability 
-
-**Your funding fee will be slightly higher if you're a:**
-
-- Second-time VA home loan user and you don’t make a down payment, **or** 
-- National Guard or Reserve Veteran
-
-**Note:** Your lender will also charge interest on the loan in addition to closing fees. Please be sure to talk to your lender about any loan costs that may be added to your loan amount.
-
-[Learn more about VA funding fees and loan costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
+You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
+[Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
