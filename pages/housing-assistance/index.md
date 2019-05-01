@@ -116,33 +116,36 @@ hublinks:
       label: Check Your Appeal Status
       description: Track the status of an open home loan COE appeal.
       external: false
-    - url: "/housing-assistance/home-loans/trouble-making-payments/"
-      label: Having Trouble Making Payments on a VA-Backed Mortgage?
-      description: Get help to avoid foreclosure if you're struggling to make your monthly mortgage payments.
-      external: false
-    - url: https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/
-      label: A Warning about Home Loan Refinancing Offers
-      description: Learn about the signs of misleading offers to refinance your VA-backed  home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.
-      external: false
-    - url: /housing-assistance/home-loans/home-buying-process/
-      label: Buying a Home with a VA-backed Loan
-      description: Get step-by-step instructions for buying a home through the VA home loan program.
-      external: false
     - url: "/housing-assistance/home-loans/funding-fee-and-closing-costs/"
       label: VA Loan Funding Fee and Loan Closing Costs
       description: Learn about the VA funding fee and other closing costs you may need to pay when using your home loan benefits.
       external: false
-    - url: https://benefits.va.gov/HOMELOANS/contact_rlc_info.asp
-      label: Find a VA Regional Loan Center
-      description: Look up contact information for your nearest regional loan center.
+    - url: "/housing-assistance/home-loans/loan-limits/"
+      label: VA Home Loan Limits
+      description: Learn about VA home loan limits. Find out the current loan limits and how they may affect the amount of money you can borrow using a VA-backed home loan.
+    - url: "/housing-assistance/home-loans/home-buying-process/"
+      label: Buying a Home with a VA-backed Loan
+      description: Get step-by-step instructions for buying a home through the VA home loan program.
+      external: false
+    - url: "/housing-assistance/home-loans/trouble-making-payments/"
+      label: Having Trouble Making Payments on a VA-Backed Mortgage?
+      description: Get help to avoid foreclosure if you're struggling to make your monthly mortgage payments.
+      external: false
+    - url: https://benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf
+      label: Guidance on Natural Disasters
+      description: Find out how to get help if you have a VA direct or VA-backed home loan or Specially Adapted Housing grant and your home was damaged by a natural disaster.
       external: false
     - url: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
       label: Find VA-Acquired Properties
       description: Learn more about buying a home we've acquired because its VA-direct or VA-backed home loan was terminated.
       external: false
-    - url: https://benefits.va.gov/homeloans/documents/docs/va_policy_regarding_natural_disasters.pdf
-      label: Guidance on Natural Disasters
-      description: Find out how to get help if you have a VA direct or VA-backed home loan or Specially Adapted Housing grant and your home was damaged by a natural disaster.
+    - url: https://www.blogs.va.gov/VAntage/43234/va-and-the-consumer-financial-protection-bureau-warn-against-home-loan-refinancing-offers-that-sound-too-good-to-be-true/
+      label: A Warning about Home Loan Refinancing Offers
+      description: Learn about the signs of misleading offers to refinance your VA-backed  home loan, like claims that you can skip payments or get very low interest rates or other terms that sound too good to be true.
+      external: false  
+    - url: https://benefits.va.gov/HOMELOANS/contact_rlc_info.asp
+      label: Find a VA Regional Loan Center
+      description: Look up contact information for your nearest regional loan center.
       external: false
   - id: manage
     title: Get Veterans Housing Assistance Grants
