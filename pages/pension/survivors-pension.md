@@ -29,7 +29,7 @@ A VA Survivors Pension offers monthly payments to qualified surviving spouses an
 
 ### Am I eligible for a VA Survivors Pension as a surviving spouse?
 
-If you haven’t remarried after the Veteran’s death and if the deceased Veteran didn't receive a dishonorable discharge and their service meets at least one of the requirements listed below, you may be eligible for this benefit.
+If you haven’t remarried after the Veteran’s death, and if the deceased Veteran didn't receive a dishonorable discharge and their service meets at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true. The Veteran:**
 
@@ -83,7 +83,7 @@ Mail it to the pension management center (PMC) for your state. <br>
 
 ### In person
 
-Bring your application to a VA regional benefit office near you. <br>
+Bring your application to a VA regional office near you. <br>
 [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
 
 ### With the help of a trained professional
