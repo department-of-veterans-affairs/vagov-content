@@ -32,7 +32,7 @@ View current 2019 Veterans disability compensation rates. Use our compensation b
 <strong>Effective December 1, 2018</strong>
 
 | Disability rating  | Monthly payment | 
-| -- | -- | 
+| -- | --: | 
 | **10%** | $140.05 | 
 | **20%** | $276.84 | 
 
@@ -50,10 +50,10 @@ View current 2019 Veterans disability compensation rates. Use our compensation b
 <a href="#how-to-30">Read instructions for how to use these tables</a>
 
 <h5>Basic rates for monthly payments</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Veteran alone**<br/> (no dependents) | 428.83 | 617.73 | 879.36 | 1,113.86 |
 | **With spouse**<br/> (no parents or children) | 479.83 | 685.73 | 964.36 | 1,215.86 |
 | **With spouse and 1 parent**<br/> (no children) | 520.83 | 739.73 | 1,032.36 | 1,297.86 |
@@ -62,10 +62,10 @@ All rates in $ US dollars
 | **With 2 parents**<br/> (no spouse or children) | 510.83 | 725.73 | 1,015.36 | 1,277.86 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: |--: |--: |--: | 
 | **Spouse receiving Aid and Attendance** | 47.00 | 62.00 | 78.00 | 94.00 |
 
 <span id="how-to-30"></a>
@@ -94,10 +94,10 @@ Your total monthly payment would be $479.83 + $47.00 = <strong>$526.83</strong>.
 <a href="#how-to-70">Read instructions for how to use these tables</a>
 
 <h5>Basic rates for monthly payments</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Veteran alone**<br/> (no dependents) | 1,403.71 | 1,631.69 | 1,833.62 | 3,057.13 |
 | **With spouse**<br/> (no parents or children) | 1,522.71 | 1,767.69 | 1,986.62 | 3,227.58 |
 | **With spouse and 1 parent**<br/> (no children) | 1,617.71 | 1,876.69 | 2,109.62 | 3,364.37 |
@@ -106,10 +106,10 @@ All rates in $ US dollars
 | **With 2 parents**<br/> (no spouse or children) | 1,593.71 | 1,849.69 | 2,079.62 | 3,330.71 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Spouse receiving Aid and Attendance** | 109.00 | 125.00 | 141.00 | 156.32 |
 
 <span id="how-to-70"></a>
@@ -142,10 +142,10 @@ Your total monthly payment would be $1,522.71 + $109.00 = <strong>$1,631.71</str
 <a href="#how-to-60">Read instructions for how to use these tables</a>
 
 <h5>Basic rates for monthly payments</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Veteran with 1 child only**<br/> (no spouse or parents) | 462.83 | 662.73 | 935.36 | 1,181.86 |
 | **With 1 child and spouse**<br/> (no parents) | 516.83 | 735.73 | 1,026.36 | 1,290.86 |
 | **With 1 child, spouse, and 1 parent** | 557.83 | 789.73 | 1,094.36 | 1,372.86 |
@@ -154,10 +154,10 @@ All rates in $ US dollars
 | **With 1 child and 2 parents**<br/> (no spouse) | 544.83 | 770.73 | 1,071.36 | 1,345.86 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 30% disability rating | 40% disability rating | 50% disability rating | 60% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | -- | --: | --: | --: | 
 | **Each additional child under age 18** | 25.00 | 33.00 | 42.00 | 50.00 |
 | **Each additional child over age 18 in a qualifying school program** | 82.00 | 109.00 | 136.00 | 164.00 |
 | **Spouse receiving Aid and Attendance** | 47.00 | 62.00 | 78.00 | 94.00 |
@@ -196,12 +196,12 @@ Your total monthly payment would be $516.83 + ($25.00 x 2) + $47.00 = <strong>$6
 <div id="70-100-yes-children" class="usa-accordion-content">
 
 <h5>Basic rates for monthly payments</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 <a href="#how-to-100">Get instructions for how to use these tables</a>
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Veteran with child only**<br/> (no spouse or parents) | 1,482.71 | 1,722.69 | 1,935.62 | 3,171.12 |
 | **With 1 child and spouse**<br/> (no parents) | 1,609.71 | 1,867.69 | 2,098.62 | 3,352.41 |
 | **With 1 child, spouse, and 1 parent** | 1,704.71 | 1,976.69 | 2,221.62 | 3,489.20 |
@@ -210,10 +210,10 @@ All rates in $ US dollars
 | **With 1 child and 2 parents**<br/> (no spouse) | 1,672.71 | 1,849.69 | 2,079.62 | 3,330.71 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | 70% disability rating | 80% disability rating | 90% disability rating | 100% disability rating | 
-| -- | -- |-- |-- |-- | 
+| -- | --: | --: | --: | --: | 
 | **Each additional child under age 18** | 59.00 | 67.00 | 76.00 | 84.69 |
 | **Each additional child over age 18 in a qualifying school program** | 191.00 | 218.00 | 246.00 | 273.58 |
 | **Spouse receiving Aid and Attendance** | 109.00 | 125.00 | 141.00 | 156.32 |
