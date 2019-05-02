@@ -186,7 +186,7 @@ Washington, DC 20593 <br>
 **All of these must be true. The Hmong Veteran:**
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
-- Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (“2000 Act”).
+- Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (the 2000 Act).
 
 ### Eligibility for certain burial benefits
 
