@@ -43,7 +43,7 @@ View current 2019 Veterans disability compensation rates. Use our compensation b
 
 <h3>With a dependent spouse or parent, but no children</h3>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-no-children">30% to 60% disability rating </button>
 <div id="30-60-no-children" class="usa-accordion-content">
 
@@ -135,7 +135,7 @@ Your total monthly payment would be $1,522.71 + $109.00 = <strong>$1,631.71</str
 
 <h3>With dependents, including children</h3>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-60-yes-children">30% to 60% disability rating</button>
 <div id="30-60-yes-children" class="usa-accordion-content">
 
