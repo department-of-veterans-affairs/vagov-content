@@ -84,7 +84,7 @@ hublinks:
     title: Get VA pension benefits 
     links:
     - url: "/pension/eligibility/"
-      label: Veterans Pension eligibility
+      label: Eligibility for Veterans Pension
       description: See if you qualify for VA pension benefits as a Veteran.
       external: false
     - url: "/pension/how-to-apply/"
