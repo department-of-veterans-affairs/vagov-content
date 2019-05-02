@@ -21,7 +21,7 @@ display_title: Frequently asked questions
           <div class="row">
             <div class="small-12 columns">
               <h2>Signing in to VA.gov</h2>
-              <ul class="usa-accordion" aria-multiselectable="true">
+              <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-0" itemprop="name">How do I sign in to VA.gov? </button>
                     <div id="faq-signin-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -59,7 +59,7 @@ display_title: Frequently asked questions
               </ul>
               <br>
              <h2>Common issues with signing in to VA.gov</h2>
-              <ul class="usa-accordion" aria-multiselectable="true">
+              <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
                     <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
