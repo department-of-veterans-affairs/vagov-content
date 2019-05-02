@@ -21,8 +21,6 @@ relatedlinks:
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-Out Refinance Loan
       description: Learn how to get cash from your home equity to pay off debts, pay for school, or take care of other needs.
-aliases:
-  - /housing-assistance/home-loans/apply-for-certificate-of-eligibility/
 ---
 
 <div class="va-introtext">

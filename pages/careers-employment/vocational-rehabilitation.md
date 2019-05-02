@@ -37,8 +37,6 @@ majorlinks:
       - url: /careers-employment/veteran-resources/
         title: External Resources
         description: Get links to more resources outside VA that can help you in your job search.
-aliases:
-  - /employment/vocational-rehab-and-employment/
 ---
 
 <div class="va-introtext">

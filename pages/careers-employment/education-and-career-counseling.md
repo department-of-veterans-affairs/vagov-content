@@ -7,8 +7,6 @@ plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4
 spoke: Get benefits
-aliases:
-  - /education/tools-programs/education-career-counseling/
 ---
 
 <div class="va-introtext">

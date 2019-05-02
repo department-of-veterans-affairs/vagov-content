@@ -6,8 +6,6 @@ display_title: Dependents Education Assistance (DEA)
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
-aliases:
-  - /education/gi-bill/survivors-dependent-assistance/dependents-education/
 ---
 
 <div class="va-introtext">

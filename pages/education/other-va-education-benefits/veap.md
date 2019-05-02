@@ -6,8 +6,6 @@ display_title: VEAP
 concurrence: complete
 plainlanguage: 12-12-16 certified in compliance with the Plain Writing Act
 order: 2
-aliases:
-  - /education/other-educational-assistance-programs/veap/
 ---
 
 <div class="va-introtext">
@@ -29,7 +27,7 @@ You can get these benefits if you meet all of the requirements listed below.
   - Finished your first period of service and didn't receive a dishonorable discharge
 
 **Note:** If you're currently on active duty, you must have at least 3 months of contributions available to use your VEAP benefits.
-  
+
 </div>
 
 ## What benefits can I get?

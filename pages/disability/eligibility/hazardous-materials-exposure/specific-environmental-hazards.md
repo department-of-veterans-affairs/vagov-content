@@ -6,8 +6,6 @@ description: Learn about VA disability compensation for illnesses related to env
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/specific-environmental-hazards/
 ---
 
 <div class="va-introtext">

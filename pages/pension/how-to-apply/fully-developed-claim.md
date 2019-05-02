@@ -4,8 +4,6 @@ template: detail-page
 title: Fully Developed Claim Program
 concurrence:
 order: 1
-aliases:
-  - /pension/apply/fully-developed-claim/
 ---
 
 <div class="va-introtext">

@@ -10,8 +10,6 @@ plainlanguage:
 template: detail-page
 collection: records
 children: veteranIdCards
-aliases:
-  - /id-card-beta/
 relatedlinks:
  - heading:
    links:

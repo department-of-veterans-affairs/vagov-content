@@ -10,8 +10,6 @@ plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityClaimsAppeal
 spoke: Manage benefits
-aliases:
-  - /disability-benefits/claims-appeal/
 ---
 <br>
 

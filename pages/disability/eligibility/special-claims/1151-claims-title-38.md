@@ -7,8 +7,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 8
-aliases:
-  - /disability-benefits/conditions/special-claims/title-38-USC-1151/
 ---
 
 <div class="va-introtext">
@@ -29,14 +27,14 @@ You may be able get compensation from VA if you suffered an added disability or 
   - A VA health exam, **or**
   - A VA vocational rehabilitation course (under 38 U.S.C. Chapter 31), **or**
   - VA compensated work therapy (CWT)(under 38 U.S.C. 1718)
-  
+
 ### Who’s covered?
 Veterans
 </div>
 
 ### What kind of benefits can I get?
 
-Compensation 
+Compensation
 
 -----
 

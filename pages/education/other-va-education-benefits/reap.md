@@ -5,8 +5,6 @@ title: Reserve Educational Assistance Program (REAP)
 display_title: REAP
 concurrence: incomplete
 order: 1
-aliases:
-  - /education/other-educational-assistance-programs/reap/
 ---
 
 <div class="va-introtext">
