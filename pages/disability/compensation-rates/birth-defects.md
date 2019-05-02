@@ -37,7 +37,7 @@ View current compensation rates for Vietnam and Korea Veterans' children who hav
 The tables below show monthly payment amounts based on the severity of the child's disability, ordered from least to most disabling.
 
 <h3>Vietnam and Korea Veterans’ children with spina bifida</h3>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Disability level  | Monthly payment | 
 | -- | --: | 
@@ -46,7 +46,7 @@ All rates in $ US dollars
 | **Level III (most disabling)** | 1,922 | 
 
 <h3>Women Vietnam Veterans' children with certain other birth defects</h3>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Disability level  | Monthly payment | 
 | -- | --: | 
