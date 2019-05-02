@@ -72,7 +72,7 @@ Or, fax it to 844-655-1604.
 
 <br>
 
-## Milwaukee Pension VA Management Center
+## Milwaukee VA Pension Management Center
 
 This office serves:
 
