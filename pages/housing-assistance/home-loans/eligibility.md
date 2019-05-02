@@ -7,19 +7,19 @@ description: Review eligibility requirements for VA home loan programs. Find out
 concurrence:
 order: 2
 relatedlinks:
-  - heading: Loan Options
+  - heading: Loan options
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
-      title: Purchase Loan
+      title: Purchase loan
       description: Looking to buy a home? Find out if you can get a VA-backed purchase loan and get better terms than with a private lender loan.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
-      title: Native American Direct Loan (NADL) Program
-      description: Are you a Native American Veteran or a Veteran married to a Native American? Find out if you can get a loan through our NADL program to buy, build, or improve a home on Federal Trust Land.
+      title: Native American Direct Loan (NADL) program
+      description: Are you a Native American Veteran or a Veteran married to a Native American? Find out if you can get a loan through our NADL program to buy, build, or improve a home on federal trust land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Have an existing VA home loan? Find out if you can get a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
-      title: Cash-Out Refinance Loan
+      title: Cash-out refinance loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you can get a VA-backed cash-out refinance loan.
 ---
 
@@ -97,7 +97,7 @@ You may still be able to get a COE if you were discharged for one of the reasons
 * A service-connected disability (a disability related to your military service)
 
 <br>
-
+  
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
@@ -111,7 +111,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 ## Can I get a COE as the spouse of a Veteran?
 
-You may be able to get a COE if you're the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War (POW). <br>
+You may be able to get a COE if you're the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a prisoner of war (POW). <br>
 [Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/surviving-spouse/)
 
 <br>
