@@ -107,7 +107,7 @@ After the Veterans Benefits Administration makes a decision on your claim, you c
       </ul>
       <p><strong>Note:</strong> About 60% of all decisions have at least 1 issue remanded.</p>
     </li>
-  </ul>
+  </ol>
 </section>
 
 ### What if I disagree with the Board’s decision?
