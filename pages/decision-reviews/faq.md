@@ -19,10 +19,6 @@ Learn more about the review options and how to request a review. If you need hel
 - [What if I want to change my review option after submitting a form?](#change-review)
 
 
-<section class="usa-grid usa-grid-full">
-  <div class="va-h-ruled--stars"></div>
-</section>
-
 <div id="relevant-evidence">
 
 ## What’s new and relevant evidence?
