@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Home Loans for Veterans, Servicemembers, and Survivors
-display_title: VA-Backed Home Loans
-description: Find out if you're eligible and how to apply for VA direct and VA-backed home loans for Veterans, Servicemembers, and survivors. You may be eligible for loan programs to help you buy, build, repair, or refinance a home.
+title: Home loans for Veterans, service members, and survivors
+display_title: VA-backed home loans
+description: Find out if you're eligible and how to apply for VA direct and VA-backed home loans for Veterans, service members, and survivors. You may be eligible for loan programs to help you buy, build, repair, or refinance a home.
 concurrence:
 children: housingHomeLoans
 spoke: VA home loans
@@ -12,19 +12,19 @@ majorlinks:
   - heading:
     links:
     - url: /housing-assistance/home-loans/loan-types/
-      title: Loan Types
+      title: Loan types
       description: Learn how VA direct and VA-backed home loans work—and find out which loan program may be right for you.
     - url: /housing-assistance/home-loans/eligibility/
       title: Eligibility
       description: Find out if you can get a Certificate of Eligibility (COE) for a VA direct or VA-backed home loan based on your service history and duty status.
     - url: /housing-assistance/home-loans/how-to-apply/
-      title: How to Apply for Your COE
+      title: How to apply for your COE
       description: Find out how to apply for a COE—and what to do next to get a VA direct or VA-backed home loan.
     - url: /housing-assistance/home-loans/surviving-spouse/
-      title: VA Home Loan Programs for Surviving Spouses
-      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
+      title: VA home loan programs for surviving spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a prisoner of war.
     - url: /housing-assistance/home-loans/trouble-making-payments/
-      title: Trouble Making Payments?
+      title: Trouble making payments?
       description: Get help to avoid foreclosure if you’re struggling to make your monthly mortgage payments.
 ---
 
