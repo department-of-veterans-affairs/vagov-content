@@ -1,26 +1,26 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Home Loan Types 
+title: VA home loan types 
 display_title: Loan Types
 description: Learn about the different VA home loan types, including VA direct and VA-backed home loans to help you buy, build, repair, or refinance a home. 
 concurrence:
 children: housingVALoans
 order: 1
 majorlinks:
-  - heading: Explore Different Loan Types 
+  - heading: Explore different loan types 
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
-      title: Purchase Loan
+      title: Purchase loan
       description: Looking to buy a home? Find out if you're eligible for a VA-backed purchase loan to get better terms than with a private-lender loan.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
-      title: Native American Direct Loan (NADL) Program
-      description: Are you a Native American Veteran or a Veteran married to a Native American? Find out if you're eligible for a NADL to buy, build, or improve a home on Federal Trust Land.
+      title: Native American Direct Loan (NADL) program
+      description: Are you a Native American Veteran or a Veteran married to a Native American? Find out if you're eligible for a NADL to buy, build, or improve a home on federal trust land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Have an existing VA-backed home loan? Find out if you're eligible for a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
-      title: Cash-Out Refinance Loan
+      title: Cash-out refinance loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you're eligible for a VA-backed cash-out refinance loan.
 aliases:
   - /housing-assistance/home-loans/loan-options/
@@ -34,14 +34,14 @@ We offer several home loan programs to help you buy, build, or improve a home or
 
 <br>
 
-### How does a VA direct home loan work?
+## How does a VA direct home loan work?
 
 With a VA direct home loan, we serve as your mortgage lender. This means you’ll work directly with us to apply for and manage your loan. The Native American Direct Loan (NADL) program often has better terms than a home loan from a private lender (a private bank, mortgage company, or credit union). <br>
-[Find out if you qualify for a NADL](/housing-assistance/home-loans/loan-types/native-american-direct-loan/).
+[Find out if you qualify for a NADL](/housing-assistance/home-loans/loan-types/native-american-direct-loan/)
 
 <br>
 
-### How does a VA-backed home loan work?
+## How does a VA-backed home loan work?
 
 With a VA-backed home loan, we guarantee (or stand behind) a portion of the loan you get from a private lender. If your VA-backed home loan goes into foreclosure, the guaranty allows the lender to recover some or all of their losses. Since there’s less risk for the lender, they’re more likely to give you the loan under better terms. In fact, nearly 90% of all VA-backed home loans are made without a down payment.
 
