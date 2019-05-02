@@ -19,8 +19,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
       title: Employment through Long-Term Services Track
       description: Find out if you may be eligible for vocational training to help you develop new job skills.
-aliases:
-  - /employment/vocational-rehab-and-employment/service-disabled/independent-living/
 ---
 
 <div class="va-introtext">

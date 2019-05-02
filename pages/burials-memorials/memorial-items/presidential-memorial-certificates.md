@@ -6,8 +6,6 @@ display_title: Presidential Memorial Certificates
 description: Find out how to apply for a Presidential Memorial Certificate (PMC) to honor the military service of a Veteran or Reservist. A PMC is an engraved paper certificate signed by the current president of the United States.
 order: 3
 concurrence: incomplete
-aliases:
-  - /burials-and-memorials/honor/flags-and-memorial-certificates/
 relatedlinks:
   - header: Other memorial items
   - url: /burials-memorials/memorial-items/burial-flags/

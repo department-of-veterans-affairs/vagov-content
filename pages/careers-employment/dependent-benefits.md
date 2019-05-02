@@ -4,21 +4,19 @@ title: Employment Benefits for Dependent Family Members
 display_title: Dependent Benefits
 template: detail-page
 order: 6
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: More information about VA education and employment benefits and services for dependents
     links:
     - url: /education/survivor-dependent-benefits/dependents-education-assistance/
       title: Chapter 35—Survivors' and Dependents' Educational Assistance (DEA)
-      description: If you're the child or spouse of a Veteran who has died, is permanently and totally disabled, or is missing in action or was captured or interned in the line of duty, find out if you're eligible for DEA (also called Chapter 35) services.  
+      description: If you're the child or spouse of a Veteran who has died, is permanently and totally disabled, or is missing in action or was captured or interned in the line of duty, find out if you're eligible for DEA (also called Chapter 35) services.
     - url: /disability/eligibility/special-claims/birth-defects/
       title: Chapter 18—Birth Defects (Spina Bifida)
       description: If you're the child of a Vietnam or Korean War Veteran and you have spina bifida or certain other birth defects, find out if you're eligible for benefits like disability compensation (payments), health care, and job training (also called Chapter 18).
     - url: /careers-employment/vetsuccess-on-campus/
       title: VetSuccess on Campus
-      description: Find out if our counselors can help you transition from military to college life.       
-aliases:
-  - /employment/vocational-rehab-and-employment/family-members/
+      description: Find out if our counselors can help you transition from military to college life.
 ---
 
 <div class="va-introtext">

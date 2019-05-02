@@ -1,7 +1,7 @@
 ---
-title: Convert to Commercial Policy
+title: Convert to commercial policy
 order: 5
 href: https://www.benefits.va.gov/INSURANCE/converting.asp
-spoke: Manage Benefits
+spoke: Manage benefits
 private: true
 ---

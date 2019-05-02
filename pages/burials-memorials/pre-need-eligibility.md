@@ -5,7 +5,7 @@ title: Pre-need eligibility determination for burial in a VA national cemetery
 display_title: Pre-need burial eligibility determination
 collection: burials
 children: burialsPreNeed
-spoke: Get Benefits
+spoke: Get benefits
 order: 2
 majorlinks:
   - heading:
@@ -19,8 +19,6 @@ relatedlinks:
     - url:
       title:
       description:
-aliases:
-  - /burials-and-memorials/pre-need/
 ---
 
 <div class="va-introtext">

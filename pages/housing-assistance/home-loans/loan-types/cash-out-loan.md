@@ -5,8 +5,6 @@ title: Cash-Out Refinance Loan
 display_title: Cash Out Refinance Loan
 concurrence:
 order: 2
-aliases:
-  - /housing-assistance/home-loans/loan-options/cash-out-refinance/
 ---
 
 <div class="va-introtext">

@@ -5,13 +5,11 @@ display_title: Types of Veteran ID Cards
 description: Learn about the different types of ID cards available to Veterans and how to apply for them.
 concurrence: Incomplete
 order: 3
-spoke: Get Records
+spoke: Get records
 plainlanguage:
 template: detail-page
 collection: records
 children: veteranIdCards
-aliases:
-  - /id-card-beta/
 relatedlinks:
  - heading:
    links:
@@ -25,7 +23,7 @@ There are many types of identification cards you can use to show you’re a Vete
 </div>
 
 <section>
-	
+
 ### Department of Defense Identification Card
 A Department of Defense (DoD) Identification Card is used to show your military status and to get access to services at military bases. You may also use this card to get discounts offered to Veterans at many stores, businesses, and restaurants. If you have a DoD Identification Card, you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.
 

@@ -4,7 +4,7 @@ layout: page-breadcrumbs.html
 title: VetSuccess on Campus
 source: http://www.benefits.va.gov/vocrehab/vsoc.asp
 order: 2
-spoke: More Resources
+spoke: More resources
 relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
@@ -17,8 +17,6 @@ relatedlinks:
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: Find out if you're eligible for certain counseling services, training, and education benefits.
-aliases:
-  - /employment/vocational-rehab-and-employment/vetsuccess/
 ---
 
 <div class="va-introtext">

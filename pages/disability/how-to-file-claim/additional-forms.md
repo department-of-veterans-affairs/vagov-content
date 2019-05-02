@@ -3,30 +3,27 @@ layout: page-breadcrumbs.html
 title: File Additional Forms for Your Disability Claim
 display_title: Additional Forms
 description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
-plainlanguage: 
+plainlanguage:
 template: detail-page
 order: 3
 relatedlinks:
- - heading: 
-   links: 
-    - url: 
-      title: 
+ - heading:
+   links:
+    - url:
+      title:
       description:
-aliases:
-  - /disability-benefits/apply/supplemental-forms/
-  - /disability/how-to-file-claim/supplemental-forms/
 ---
 
 <div class="va-introtext">
 
-Find out if you’ll need to turn in any additional forms when you file your disability claim. 
+Find out if you’ll need to turn in any additional forms when you file your disability claim.
 
 </div>
 
 
 ### Do I need to turn in any additional forms?
 
-In some cases, you may need to turn in one or more additional forms to support your disability claim. 
+In some cases, you may need to turn in one or more additional forms to support your disability claim.
 
 <div class="va-table-overflow">
 <table class="va-table-explanatory">
@@ -106,7 +103,7 @@ In some cases, you may need to turn in one or more additional forms to support y
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf">Download VA Form 21-686c</a></p>
         <p><strong>And:</strong></p>
         <p><strong>If your dependent is a child in school between the ages of 18 and 23</strong>, you’ll also need to turn in a Request for Approval of School Attendance (VA Form 21-674).</p>
-        <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf">Download VA Form 21-674</a></p> 
+        <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf">Download VA Form 21-674</a></p>
         <p><strong>If your dependent is a seriously disabled child</strong>, you’ll also need to turn in all private medical records for the child’s disabilities.</p>
     </td>
   </tr>
@@ -116,7 +113,7 @@ In some cases, you may need to turn in one or more additional forms to support y
         <p><a href="https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf">Download VA Form 21-4142</a></p>
         <p><strong>or</strong></p>
         <p>You can fill out VA Form 21-4142 when you file a disability claim online.</p>
-        <p><a href="/disability/how-to-file-claim/">File a disability compensation claim</a></p> 
+        <p><a href="/disability/how-to-file-claim/">File a disability compensation claim</a></p>
     </td>
   </tr>
 </tbody>

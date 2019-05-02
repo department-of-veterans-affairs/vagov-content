@@ -3,21 +3,19 @@ layout: page-breadcrumbs.html
 title: Standard Disability Claims
 display_title: Standard Claims
 description: Filing for VA disability compensation and don't have all your evidence (supporting documents)? Learn about the VA standard claim processing procedures. When you file a standard claim, we'll take more responsibility for gathering the evidence we need to make a decision on your claim.
-plainlanguage: 
+plainlanguage:
 template: detail-page
 order: 3
 relatedlinks:
-  - heading: 
+  - heading:
     links:
-    - url: 
-      title: 
-      description: 
-aliases:
-  - /disability-benefits/apply/evidence/standard-disability-claims/
+    - url:
+      title:
+      description:
 ---
 <div itemprop="description" class="va-introtext">
-  
-Find out how to submit a standard disability claim if you’d like us to take more responsibility for gathering the evidence (supporting documents) we need to make a decision on your claim. 
+
+Find out how to submit a standard disability claim if you’d like us to take more responsibility for gathering the evidence (supporting documents) we need to make a decision on your claim.
 
 </div>
 
@@ -46,7 +44,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
   - Any private (non-VA) doctors who’ve treated you
   - Any private (non-VA) hospitals or other health facilities where you've been treated
   - Your current or former employers
-  
+
 </div>
 </div>
 </div>
@@ -68,7 +66,7 @@ Find out how to submit a standard disability claim if you’d like us to take mo
 <br>
 
 ## What should the evidence show to support my disability claim?
-This depends on the type of claim you’re filing.<br> 
+This depends on the type of claim you’re filing.<br>
 [See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/) <br>
 
 
@@ -89,7 +87,7 @@ You can start your online application right now, or find out how to file a claim
 
 ## Does it take longer to get a decision from VA on a standard claim than a fully developed claim?
 
-Yes. The process is slower for getting a decision on a standard disability claim. This is because we need time to gather evidence for your claim. 
+Yes. The process is slower for getting a decision on a standard disability claim. This is because we need time to gather evidence for your claim.
 
 If you'd like to get a decision on your claim faster, you can submit a fully developed claim. For this type of claim, you gather all of the evidence—or as much as you can get easily—and submit it at the same time as your claim. <br>
 [Learn more about submitting a fully developed disability claim](/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)

@@ -18,9 +18,7 @@ majorlinks:
     - url: /disability/file-an-appeal/
       title: Appeals Process
       description: "Find out what to do if you disagree with your disability rating decision."
-aliases:
-  - /disability-benefits/after-you-apply/VA-claim-exam/
-spoke: More Resources
+spoke: More resources
 ---
 
 <div class="va-introtext">

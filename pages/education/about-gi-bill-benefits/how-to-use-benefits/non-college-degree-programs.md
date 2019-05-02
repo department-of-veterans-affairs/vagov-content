@@ -1,12 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Non-College Degree Programs
+title: Non-college degree programs
 concurrence: incomplete
 plainlanguage: 11-22-16 certified in compliance with the Plain Writing Act
 order: 7
-aliases:
-  - /education/work-learn/non-college-degree-program/
 ---
 
 <div class="va-introtext">
@@ -28,27 +26,27 @@ You can get education benefits through the GI Bill if you meet both of the requi
 
 ### Who’s covered?
 - Veterans
-- Servicemembers
+- Service members
 - Qualified dependents
 
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 - Help paying for tuition
 - Money for books and supplies, up to $83 a month
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to apply for benefits. <br>
-[Apply for education benefits](/education/how-to-apply/).
+[Apply for education benefits](/education/how-to-apply/)
 
-### How much money will I get?
+## How much money will I get?
 
 The amount you get depends on which GI Bill program you use and what school you go to. We pay you at the end of each month for the hours you’ve spent training, and we give you a monthly housing allowance based on the location of the school. <br>
-[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
+[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)
 
 - **Post-9/11 GI Bill:** For training offered at non-degree schools, we pay the in-state tuition and fees up to the national maximum.
 

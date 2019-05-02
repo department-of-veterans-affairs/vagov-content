@@ -5,7 +5,7 @@ title: Plan a burial for a Veteran, spouse, or dependent family member
 display_title: Plan a burial
 collection: burials
 children: burialsPlanABurial
-spoke: Plan a Burial
+spoke: Plan a burial
 order: 7
 relatedlinks:
   - heading: Other helpful information
@@ -19,8 +19,6 @@ relatedlinks:
     - url: /burials-memorials/dependency-indemnity-compensation/
       title: Compensation for surviving spouses and dependents
       description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
-aliases:
-  - /burials-and-memorials/burial-planning/
 ---
 
 <div class="va-introtext">
