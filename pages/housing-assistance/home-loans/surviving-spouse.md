@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: VA home loan programs for surviving spouses
-display_title: Surviving Spouse Programs
+display_title: Surviving spouse programs
 description: 
 concurrence:
 order: 4
@@ -13,7 +13,7 @@ relatedlinks:
       title: Purchase loan
       description: Looking to buy a home? Find out if you can get a VA-backed purchase loan and get better terms than with a private lender loan.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
-      title: Interest rate reduction refinance loan (IRRRL)
+      title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Have an existing VA home loan? Find out if you can get a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-out refinance loan
@@ -39,7 +39,7 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 **At least one of these must be true. The Veteran:**
 
 - Is missing in action, **or**
-- Is a Prisoner of War (POW), **or**
+- Is a prisoner of war (POW), **or**
 - Died while in service or from a service-connected disability and you didn’t remarry, **or**
 - Died while in service or from a service-connected disability and you didn’t remarry before you were 57 years old or before December 16, 2003, **or**
 - Had been totally disabled and then died, but their disability may not have been the cause of death (in certain situations)
