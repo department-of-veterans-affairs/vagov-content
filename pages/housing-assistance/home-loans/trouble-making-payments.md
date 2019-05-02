@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Having Trouble Making Mortgage Payments on a VA-Backed Loan?
-display_title: Trouble Making Payments?
+title: Having trouble making mortgage payments on a VA-backed loan?
+display_title: Trouble making payments?
 concurrence:
 order: 5
 ---
