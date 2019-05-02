@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Cash-Out Refinance Loan
-display_title: Cash-Out Refinance Loan
+title: Cash-out refinance loan
+display_title: Cash-out refinance loan
 concurrence:
 order: 2
 aliases:
@@ -89,7 +89,7 @@ You’ll need to show your COE to your lender as proof that you qualify for the 
 
 <li class="process-step list-four">
 
-#### Follow your lender’s process for closing on the loan, and pay your closing costs.
+### Follow your lender’s process for closing on the loan, and pay your closing costs.
 
 You may need to pay a VA funding fee at closing. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
 [Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
