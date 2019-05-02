@@ -5,7 +5,7 @@ description: Use our GI Bill Comparison Tool to help you decide which education 
 layout: page-react.html
 entryname: gi
 collection: education
-spoke: More Resources
+spoke: More resources
 order: 1
 ---
 

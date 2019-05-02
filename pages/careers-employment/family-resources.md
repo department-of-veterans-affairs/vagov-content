@@ -5,9 +5,7 @@ title: Resources for Military and Veteran Family Members
 display_title: Family Resources
 concurrence: complete
 order: 6
-spoke: More Resources
-aliases:
-  - /employment/job-seekers/family-members/
+spoke: More resources
 ---
 
 <div class="va-introtext">

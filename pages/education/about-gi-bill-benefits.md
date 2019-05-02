@@ -8,7 +8,7 @@ concurrence: incomplete
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act.
 collection: education
 children: educationGIBill
-spoke: Get Benefits
+spoke: Get benefits
 order: 1
 gibsAlert: false
 majorlinks:
@@ -58,16 +58,13 @@ majorlinks:
       description: If you’re using VA educational benefits and you're struggling with the coursework, find out if you can get help paying for a tutor.
     - url: /education/submit-school-feedback/
       title: GI Bill&reg; School Feedback Tool
-      description: If you have any concerns about your GI Bill school, you can submit them to us through our GI Bill&reg; School Feedback Tool. Find out how to submit feedback about your school. 
+      description: If you have any concerns about your GI Bill school, you can submit them to us through our GI Bill&reg; School Feedback Tool. Find out how to submit feedback about your school.
     - url: /education/opt-out-information-sharing/
       title: Opt out of sharing VA education benefits information
       description: The Harry W. Colmery Veterans Educational Assistance Act (also called the “Forever GI Bill”) requires us to share certain information about your eligibility and benefits with schools, unless you ask us not to. Find out how to opt out of information sharing.
-
-aliases:
-  - /education/gi-bill/
 ---
 
-<div class="va-introtext"> 
+<div class="va-introtext">
 
 Since 1944, the GI Bill has helped millions of Veterans pay for college, graduate school, and training programs. Under this bill, qualifying Veterans and their family members can get money to cover all or some of the costs for school or training. Learn more about these benefits below—and how to apply for them.
 

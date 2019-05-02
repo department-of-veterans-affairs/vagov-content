@@ -5,9 +5,7 @@ title: Find Your VA Pension Management Center
 display_title: Pension Management Centers
 concurrence: ""
 order: 5
-spoke: More Resources
-aliases:
-  - /pension/pension-management-center/
+spoke: More resources
 ---
 
 <div class="va-introtext">

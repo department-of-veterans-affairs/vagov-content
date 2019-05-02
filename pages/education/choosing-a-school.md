@@ -6,10 +6,8 @@ display_title: Choosing a school
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool
 concurrence: incomplete
-spoke: More Resources
+spoke: More resources
 order: 3
-aliases:
-  - /education/tools-programs/locate-a-school/
 relatedlinks:
   - url: /education/about-gi-bill-benefits/how-to-use-benefits/
     title: How to use your GI Bill benefits
@@ -25,8 +23,8 @@ relatedlinks:
     description: Use our online verification system (called "WAVE") to confirm you're enrolled in an approved school or training program so you keep receiving your education benefits.
   - url: https://www.benefits.va.gov/GIBILL/FGIB/Restoration.asp?_ga=2.76481687.308050883.1542048286-1173244138.1525894550
     title: Apply to restore your GI Bill benefits
-    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restored.   
- 
+    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restored.
+
 ---
 
 <div class="va-introtext">

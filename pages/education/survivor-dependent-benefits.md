@@ -8,9 +8,7 @@ concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 children: educationGIBillSurvivors
 order: 8
-spoke: Get Benefits
-aliases:
-  - /education/gi-bill/survivors-dependent-assistance/
+spoke: Get benefits
 ---
 
 <div class="va-introtext">

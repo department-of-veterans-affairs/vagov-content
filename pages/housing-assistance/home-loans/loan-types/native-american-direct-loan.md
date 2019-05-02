@@ -6,8 +6,6 @@ display_title: Native American Direct Loan
 concurrence:
 children: housingNativeAmericanDLoan
 order: 3
-aliases:
-  - /housing-assistance/home-loans/loan-options/nadl/
 ---
 
 <div class="va-introtext">

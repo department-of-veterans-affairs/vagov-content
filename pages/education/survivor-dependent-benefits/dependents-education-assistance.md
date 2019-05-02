@@ -6,8 +6,6 @@ display_title: Dependents Education Assistance (DEA)
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
-aliases:
-  - /education/gi-bill/survivors-dependent-assistance/dependents-education/
 ---
 
 <div class="va-introtext">
@@ -48,7 +46,8 @@ You may be able to get these benefits if both you and the Veteran or service mem
 
 ## What benefits can I get?
 
-We’ll make a monthly payment to your school to help cover the cost of:
+We’ll send you a monthly payment to help you cover the cost of:
+
 - College or graduate degree programs
 - Career-training certificate courses
 - Educational and career counseling

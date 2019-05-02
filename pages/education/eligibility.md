@@ -6,7 +6,7 @@ display_title: Eligibility
 description: Review GI Bill eligibility requirements to find out if you can get help paying for school or training. You can also find out if you qualify for other VA education benefits as a Veteran, service member, Reservist, National Guard Soldier, or qualified survivor or dependent.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
-spoke: Get Benefits
+spoke: Get benefits
 order: 2
 widgets:
   - root: react-applicationStatus
@@ -78,7 +78,7 @@ You may be able to get benefits through one of our 2 Montgomery GI Bill programs
 
 You may be able to get help paying for school tuition, testing fees, and advanced licensing and certifications through other VA educational assistance programs. You may also be able to get entrepreneurship training to help start or improve a small business.
 
-[Learn more about advanced training and certifications](/education/advanced-training-and-certifications/)
+[Learn more about advanced training and certifications](/education/about-gi-bill-benefits/how-to-use-benefits/)
 
 [Learn about other educational assistance programs](/education/other-va-education-benefits/)
 
