@@ -49,9 +49,9 @@ This program is also available to dependents of Veterans who meet at least one o
 - [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
 <br>
 
-### VSOC Locations and VSOC Counselor Contact Information
+### VSOC locations and counselor contact information
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alabama">Alabama</button>
 <div id="Alabama" class="usa-accordion-content">
