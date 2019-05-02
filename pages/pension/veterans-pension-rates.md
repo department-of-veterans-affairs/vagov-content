@@ -6,8 +6,6 @@ display_title: Veterans Pension Rates
 concurrence:
 spoke: More resources
 order: 1
-aliases:
-  - /pension/rates/
 ---
 
 <div class="va-introtext">

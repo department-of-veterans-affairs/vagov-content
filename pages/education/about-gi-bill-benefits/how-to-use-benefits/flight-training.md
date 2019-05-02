@@ -5,8 +5,6 @@ order: 9
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
-aliases:
-  - /education/advanced-training-and-certifications/flight-training/
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">

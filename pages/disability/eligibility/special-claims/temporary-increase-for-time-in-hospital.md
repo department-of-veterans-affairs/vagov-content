@@ -7,8 +7,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-hospital_treatmen
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 6
-aliases:
-  - /disability-benefits/conditions/special-claims/hospitalization/
 ---
 
 <div class="va-introtext">
@@ -44,6 +42,6 @@ Veterans
 You’ll need to file a claim for disability compensation. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
-**Note:** If you weren’t in a VA hospital, when filing your claim you’ll need to give us your hospital discharge summary showing the length and cause of your hospital stay. 
+**Note:** If you weren’t in a VA hospital, when filing your claim you’ll need to give us your hospital discharge summary showing the length and cause of your hospital stay.
 
 **Example:** A Veteran with a 40% service-connected disability rating for diabetes had to stay in a VA hospital after going into a diabetic coma. He needed to stay in the hospital for 25 days because of the coma and related infections. We raised his rating to 100% during his hospital stay. After he got out of the hospital, his disability rating went back to 40%.

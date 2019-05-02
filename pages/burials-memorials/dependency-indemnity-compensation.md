@@ -7,8 +7,6 @@ description: Find out how to apply for VA Dependent and Indemnity Compensation (
 order: 5
 collection: burials
 spoke: Get benefits
-aliases:
-  - /burials-and-memorials/survivor-and-dependent-benefits/compensation/
 ---
 
 <div class="va-introtext">

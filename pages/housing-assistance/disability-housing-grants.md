@@ -8,8 +8,6 @@ children: housingAssistanceDisabilityHousingGrants
 lastupdate:
 order: 2
 spoke: Disability housing grants
-aliases:
-  - /housing-assistance/adaptive-housing-grants/
 concurrence:
 ---
 

@@ -17,10 +17,6 @@ relatedlinks:
     - url: "/decision-reviews/fiduciary-claims/"
       title: Fiduciary Claims
       description: If you have a fiduciary claim, find out how to request a decision review.
-
-# Temporary, see https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17108
-aliases:
-  - /decision-review
 ---
 <br>
 <div itemprop="description" class="va-introtext">
@@ -32,7 +28,7 @@ aliases:
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar 
+      Mark your calendar
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review,
@@ -56,7 +52,7 @@ aliases:
 
 
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
-your case or identifying evidence for review. A reviewer will look at all the evidence and 
+your case or identifying evidence for review. A reviewer will look at all the evidence and
 determine whether it changes the decision. <br>
 [Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/).
 
@@ -64,9 +60,9 @@ determine whether it changes the decision. <br>
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
      You must submit evidence that VA didn't have before that supports your case.
-  </div>   
+  </div>
 </div>
 
 <!-- Todo: Implement updated number component -->
@@ -77,7 +73,7 @@ determine whether it changes the decision. <br>
 
 #### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence. 
+You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
 
 But you can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
 <a href="#rare-situations">See if one of these rare situations applies to you</a>.
@@ -100,10 +96,10 @@ whether the decision can be changed based on a difference of opinion or an error
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
       You can’t submit any evidence.
   </div>
-</div>      
+</div>
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -112,7 +108,7 @@ whether the decision can be changed based on a difference of opinion or an error
   <div class="vads-u-flex--1">
   You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
   </div>
-</div>   
+</div>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -150,19 +146,19 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
       You have the option to add new evidence that a judge will review.
   </div>
-</div>  
-<div class ="vads-u-display--flex vads-u-margin-y--1">    
+</div>
+<div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-user"></i></span>
   </div>
-  <div class="vads-u-flex--1"> 
+  <div class="vads-u-flex--1">
       You also have the option to request a hearing with a judge. A video conference
 hearing will take place at a VA location near you.
   </div>
-</div>  
+</div>
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -196,7 +192,7 @@ more information. If VA schedules exams for you, be sure not to miss them.
 
 A Veterans Service Organization or VA-accredited attorney or agent can
 help you request a decision review. <br>
-[Get help requesting a decision review](/decision-reviews/get-help-with-review-request). 
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request).
 
 ## What if I have more questions?
 

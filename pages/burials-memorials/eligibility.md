@@ -8,9 +8,6 @@ collection: burials
 children: burialsEligibility
 spoke: Get benefits
 order: 1
-
-aliases:
-  - /burials-and-memorials/eligibility/
 ---
 
 <div class="va-introtext">
