@@ -138,13 +138,13 @@ Review the VA funding fee rate charts below to determine the amount you’ll hav
 | Purchase  | 1.25%  | 
 | Refinance  | 0.5% |
 
-**Note:** The VA funding fee rates for this loan doesn't change based on your military category, your down payment amount, or whether you've used the VA home loan program in the past.
+**Note:** The VA funding fee rate for this loan doesn't change based on your military category, your down payment amount, or whether you've used the VA home loan program in the past.
 
 <h3>Other VA home loan types</h3>
 
 | Loan type | VA funding fee | 
 | --- | --- | 
-| Interest rate reduction refinancing loans (IRRRLs)  | 0.5%  | 
+| Interest Rate Reduction Refinancing Loans (IRRRLs)  | 0.5%  | 
 | Manufactured home loans (not permanently affixed)  | 1% |
 | Loan assumptions | 0.5% |
 
