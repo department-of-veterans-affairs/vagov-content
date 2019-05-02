@@ -37,7 +37,7 @@ All rates in $ U.S. dollars
 
 **Levels K and Q** are special rates called SMC compensation rate payment variations. We may add Level K to your basic SMC rate.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="smc-k-q">SMC-K and SMC-Q rates</button>
 <div id="smc-k-q" class="usa-accordion-content">
 
@@ -58,7 +58,7 @@ All rates in $ U.S. dollars
 **Level S** may apply if you can’t leave the house because of your service-connected disabilities. 
 
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-smc-l-n">SMC-L through SMC-N rates</button>
 <div id="no-smc-l-n" class="usa-accordion-content">
 
@@ -158,7 +158,7 @@ Your total monthly payment would be $5,227.05 + $156.32 = <strong>$5,383.37</str
 **Level R** may apply if you need daily help from another person for basic needs (like dressing, eating, and bathing). <br>
 **Level S** may apply if you can’t leave the house because of your service-connected disabilities. 
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="yes-smc-l-n">SMC-L through SMC-N</button>
 <div id="yes-smc-l-n" class="usa-accordion-content">
 
@@ -285,7 +285,7 @@ Your total monthly payment would be $5,351.88 + ($84.69 x 2) + $156.32 = <strong
 
 Select an SMC letter below to learn more about the specific situations and combinations of situations that fall within that designation.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="details-l">SMC-L</button>
 <div id="details-l" class="usa-accordion-content">
 
