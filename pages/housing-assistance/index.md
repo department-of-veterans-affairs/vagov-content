@@ -35,8 +35,6 @@ social:
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-        - url: https://www.hud.gov/i_want_to/talk_to_a_housing_counselor 
-          label: "Talk to a housing counselor"
       - subhead: Call us
         links:
         - url: tel:1-800-827-1000
