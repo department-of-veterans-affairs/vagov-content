@@ -40,7 +40,7 @@ The tables below show monthly payment amounts based on the severity of the child
 All rates in $ US dollars
 
 | Disability level  | Monthly payment | 
-| -- | -- | 
+| -- | --: | 
 | **Level I (least disabling)** | 330 | 
 | **Level II**  | 1,128 | 
 | **Level III (most disabling)** | 1,922 | 
@@ -49,7 +49,7 @@ All rates in $ US dollars
 All rates in $ US dollars
 
 | Disability level  | Monthly payment | 
-| -- | -- | 
+| -- | --: | 
 | **Level I (least disabling)** | 153 | 
 | **Level II**  | 330 | 
 | **Level III** | 1,128 | 
