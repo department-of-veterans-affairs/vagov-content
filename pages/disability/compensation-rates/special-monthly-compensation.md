@@ -33,7 +33,7 @@ VA special monthly compensation (SMC) is a higher rate of compensation that we p
 
 <h2>Special monthly compensation rate payment variations</h2>
 <strong>Effective December 1, 2018</strong><br/>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 **Levels K and Q** are special rates called SMC compensation rate payment variations. We may add Level K to your basic SMC rate.
 
@@ -42,7 +42,7 @@ All rates in $ US dollars
 <div id="smc-k-q" class="usa-accordion-content">
 
 | SMC letter designation  | Monthly payment | How this payment variation works | 
-| -- | -- |-- |
+| -- | --: | -- |
 | **SMC-K** | 108.57 | If you qualify for SMC-K, we add this rate to your basic disability compensation rate for any disability rating from 0% to 100%. We also add this rate to all SMC basic rates except SMC-O, SMC-Q, and SMC-R. You may receive 1 to 3 SMC-K awards in addition to basic and SMC rates. |
 | **SMC-Q** | 67.00 | This is a protected rate that we haven't awarded since August 19, 1968. If we awarded you an SMC-Q designation, we pay this rate in place of your basic disability compensation rate.|
 
@@ -65,10 +65,10 @@ All rates in $ US dollars
 <a href="#smc-l-n-how">Read instructions for how to use these tables</a>
 
 <h5>Basic special monthly compensation rates</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Veteran alone**<br/> (no dependents) | 3,804.04 | 4,000.69 | 4,198.14 | 4,486.58 | 4,775.68 |
 | **With spouse**<br/> (no parents or children) | 3,974.49 | 4,171.14 | 4,368.59 | 4,657.03 | 4,946.13 |
 | **With spouse and 1 parent**<br/> (no children) | 4,111.28 | 4,307.93 | 4,505.38 | 4,793.82 | 5,082.92 |
@@ -77,11 +77,11 @@ All rates in $ US dollars
 | **With 2 parents**<br/> (no spouse or children) | 4,077.62 | 4,274.27 | 4,471.72 | 4,760.16 | 5,049.26 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Spouse receiving Aid and Attendance** | 156.32 | 156.32 | 156.32 | 156.32 | 156.32 |
 
 <span id="smc-l-n-how"></span>
@@ -110,11 +110,11 @@ Your total monthly payment would be $4,368.59 + $156.32 = <strong>$4,524.91</str
 <a href="#smc-n-s-how">Read instructions for how to use these tables</a>
 
 <h5>Basic special monthly compensation rates</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S | 
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Veteran alone**<br/> (no dependents) | 5,055.60 | 5,338.04 | 7,627.64 | 8,749.09 | 3,421.90 |
 | **With spouse**<br/> (no parents or children) | 5,227.05 | 5,508.49 | 7,798.09 | 8,919.54 | 3,592.35 |
 | **With spouse and 1 parent**<br/> (no children) | 5,363.84 | 5,645.28 | 7,934.48 | 9,056.33 | 3,729.14 |
@@ -123,10 +123,10 @@ All rates in $ US dollars
 | **With 2 parents**<br/> (no spouse or children) | 5,330.18 | 5,611.62 | 7,901.22 | 9,022.67 | 3,695.48 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S |  
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Spouse receiving Aid and Attendance** | 156.32 | 156.32 | 156.32 | 156.32 | 156.32 |
 
 <span id="smc-n-s-how"></span>
@@ -165,10 +165,10 @@ Your total monthly payment would be $5,227.05 + $156.32 = <strong>$5,383.37</str
 <a href="#smc-l-n-how-a">Read instructions for how to use these tables</a>
 
 <h5>Basic special monthly compensation rates</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Veteran with one child**<br/> (no spouse or parents) | 3,918.03 | 4,114.68 | 4,312.13 | 4,600.57 | 4,889.67 |
 | **With 1 child and spouse**<br/> (no parents) | 4,099.32 | 4,295.97 | 4,493.42 | 4,781.86 | 5,070.96 | 
 | **With 1 child, spouse, and 1 parent** | 4,236.11 | 4,432.76 | 4,630.21 | 4,918.65 | 5,207.75 |
@@ -177,10 +177,10 @@ All rates in $ US dollars
 | **With 1 child and 2 parents**<br/> (no spouse) | 4,191.61 | 4,388.26 | 4,585.71 | 4,874.15 | 5,163.25 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-L | SMC-L 1/2 | SMC-M | SMC-M 1/2 | SMC-N | 
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Each additional child under age 18** | 84.69 | 84.69 | 84.69 | 84.69 | 84.69 | 
 | **Each additional child over age 18 in a qualifying school program** | 273.58 | 273.58 | 273.58 | 273.58 | 273.58 |
 | **Spouse receiving Aid and Attendance** | 156.32 | 156.32 | 156.32 | 156.32 | 156.32 |
@@ -219,10 +219,10 @@ Your total monthly compensation rate would be $4,099.32 + ($84.69 x 2) + $156.32
 <a href="#smc-n-s-how-a">Read instructions for how to use these tables</a>
 
 <h5>Basic special monthly compensation rates</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S | 
-| -- | -- |-- |-- | -- | -- |
+| -- | --: | --: | --: | --: | --: |
 | **Veteran with 1 child**<br/> (no spouse or parents) | 5,170.59 | 5,452.03 | 7,741.63 | 8,863.08 | 3,535.89 |
 | **With 1 child and spouse**<br/> (no parents) | 5,351.88 | 5,633.32 | 7,922.92 | 9,044.37 | 3,717.18 | 
 | **With 1 child, spouse, and 1 parent** | 5,488.67 | 5,770.11 | 8,059.71 | 9,181.16 | 3,853.97 |
@@ -231,10 +231,10 @@ All rates in $ US dollars
 | **With 1 child and 2 parents**<br/> (no spouse) | 5,444.17 | 5,725.61 | 8,015.21 | 9,136.66 | 3,809.47 |
 
 <h5>Added amounts</h5>
-All rates in $ US dollars
+All rates in $ U.S. dollars
 
 | Dependent status  | SMC-N 1/2 | SMC-O/P | SMC-R.1 | SMC-R.2/T | SMC-S |  
-| -- | -- |-- |-- | -- | -- | 
+| -- | --: | --: | --: | --: | --: | 
 | **Each additional child under age 18** | 84.69 | 84.69 | 84.69 | 84.69 | 84.69 | 
 | **Each additional child over age 18 in a qualifying school program** | 273.58 | 273.58 | 273.58 | 273.58 | 273.58 |
 | **Spouse receiving Aid and Attendance** | 156.32 | 156.32 | 156.32 | 156.32 | 156.32 |
