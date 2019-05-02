@@ -54,7 +54,7 @@ This depends on the type of claim you’re filing. Find out what evidence you'll
 
 **Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information below serves as this notification (called “section 5103 notice”).<br>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original Claim—the first claim you file for disability benefits</button>
 <div id="claim-original" class="usa-accordion-content">
@@ -112,7 +112,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 **Find out what additional evidence or forms you'll need if you're filing a claim for any of these issues:**
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="special-ptsd">PTSD (posttraumatic stress disorder)</button>
 <div id="special-ptsd" class="usa-accordion-content">
