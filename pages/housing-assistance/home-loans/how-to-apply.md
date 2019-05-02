@@ -7,10 +7,10 @@ description: Find out how to apply for a VA home loan Certificate of Eligibility
 concurrence:
 order: 3
 relatedlinks:
-  - heading: Loan Options
+  - heading: Loan options
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
-      title: Purchase Loan
+      title: Purchase loan
       description: Find out how to get a VA-backed purchase loan to buy a home.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
       title: Native American Direct Loan (NADL)
@@ -19,7 +19,7 @@ relatedlinks:
       title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Find out how to get an IRRRL loan to refinance an existing loan.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
-      title: Cash-Out Refinance Loan
+      title: Cash-out refinance loan
       description: Learn how to get cash from your home equity to pay off debts, pay for school, or take care of other needs.
 aliases:
   - /housing-assistance/home-loans/apply-for-certificate-of-eligibility/
