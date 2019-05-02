@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Purchase Loan
+title: Purchase loan
 concurrence: 
 order: 1
 aliases:
