@@ -17,7 +17,7 @@ layout: page.html
         </div>
         <h3>What you can do:</h3>
         <p>Please sign in again.</p>
-        <button class="signin-signup-modal-trigger">Sign in</button>
+        <button class="signin-signup-modal-trigger" onClick="recordEvent({ event: 'login-cta-sign-in-again' });">Sign in</button>
       </div>
     </div>
   </div>
