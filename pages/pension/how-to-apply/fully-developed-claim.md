@@ -13,7 +13,7 @@ aliases:
 
 <div class="va-introtext">
 
-The Fully Developed Claims (FDC) program is the fastest way to get your VA pension claim processed, and there’s no risk to your taking part in it. Just send in all your evidence, or supporting documents, when you file your claim. Participation in the FDC program is optional and won’t affect your benefits.
+The Fully Developed Claim (FDC) program is the fastest way to get your VA pension claim processed, and there’s no risk to your taking part in it. Just send in all your evidence, or supporting documents, when you file your claim. Participation in the FDC program is optional and won’t affect your benefits.
 
 If you file a claim in the FDC program and we decide that additional documents exist that we need to decide your claim, we’ll remove your claim from the FDC program and process it as a standard claim.
 
