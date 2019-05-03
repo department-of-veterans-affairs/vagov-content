@@ -226,7 +226,7 @@ hublinks:
 VA education benefits help Veterans, service members, and their qualified family members with needs like paying college tuition, finding the right school or training program, and getting career counseling. Learn how to apply for and manage the education and training benefits you've earned.
 </p>
 
-<h2>On this page</h2>
+<h3>On this page</h3>
 
 <ul>
   <li><a href="#get">Get GI Bill and other education benefits</a></li>
