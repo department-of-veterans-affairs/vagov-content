@@ -58,7 +58,7 @@ Include this information:
 If you're in a nursing home, you'll also need to fill out a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779). <br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br>
 
-### Or apply in person
+### Apply in person
 
 You can bring your information to a VA regional office near you. <br>
 [Find your nearest VA regional office](/find-locations/?facilityType=benefits)
