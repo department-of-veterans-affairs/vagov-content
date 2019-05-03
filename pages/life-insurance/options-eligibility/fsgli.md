@@ -89,7 +89,7 @@ Your service member can log in with their CAC or DS Logon using Internet Explore
 
 Your service member will pay a premium for your coverage, which will increase as you age. Choose your age below to view current spousal coverage monthly premium rates based on the amount of insurance coverage you want.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="age-under-35">Under 35 years</button>
 <div id="age-under-35" class="usa-accordion-content">
