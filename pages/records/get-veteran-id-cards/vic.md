@@ -5,6 +5,7 @@ title: How to Apply for a Veteran ID Card
 display_title: Veteran ID Card
 description: Find out if you're eligible for a printed Veteran ID Card--and how to apply.
 plainlanguage:
+lastupdate: 2019-04-19
 collection: veteranIdCards
 hideFromSidebar: true
 order: 1

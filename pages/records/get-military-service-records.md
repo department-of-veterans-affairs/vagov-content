@@ -4,6 +4,7 @@ template: detail-page
 title: Request Your Military Service Records (including DD214)
 display_title: Request Military Records
 concurrence:
+lastupdate: 2019-04-19
 plainlanguage:
 collection: records
 children:

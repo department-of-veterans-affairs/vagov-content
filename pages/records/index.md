@@ -4,7 +4,7 @@ template: level2-index
 title: VA Records
 display_title: Records
 concurrence: complete
-lastupdate:
+lastupdate: 2019-04-19
 order: 1
 hub: records
 promo:
