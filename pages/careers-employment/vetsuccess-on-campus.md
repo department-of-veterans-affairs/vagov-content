@@ -126,10 +126,8 @@ This program is also available to dependents of Veterans who meet at least one o
 | University of Colorado - Colorado Springs | Julie Zook <a href="mailto:Julie.Zook@va.gov">Julie.Zook@va.gov</a> | Denver (339) |
 </div>
 </li>
-</ul>
 
 #### D to I
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="District of Columbia">District of Columbia</button>
 <div id="District of Columbia" class="usa-accordion-content">
@@ -195,10 +193,9 @@ This program is also available to dependents of Veterans who meet at least one o
 | University of Illinois - Urbana Champaign | Vacant | Chicago (328) |
 </div>
 </li>
-</ul>
+
 
 #### K to M
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Kansas">Kansas</button>
 <div id="Kansas" class="usa-accordion-content">
@@ -262,10 +259,8 @@ This program is also available to dependents of Veterans who meet at least one o
 | Webster University - St. Louis | Jason Blakemore <a href="mailto:Jason.Blakemore@va.gov">Jason.Blakemore@va.gov</a> | St. Louis (331)|
 </div>
 </li>
-</ul>
 
 #### N
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Nebraska">Nebraska</button>
 <div id="Nebraska" class="usa-accordion-content">
@@ -325,10 +320,8 @@ This program is also available to dependents of Veterans who meet at least one o
 | Fayetteville Technical Community College | Roderick Rogers <a href="mailto:Roderick.Rogers2@va.gov">Roderick.Rogers2@va.gov</a> | Winston-Salem (318) |
 </div>
 </li>
-</ul>
 
 #### O to S
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Ohio">Ohio</button>
 <div id="Ohio" class="usa-accordion-content">
@@ -386,10 +379,8 @@ This program is also available to dependents of Veterans who meet at least one o
 | Midlands Technical College | Andria Jeffries <a href="mailto:Andria.Jeffries@va.gov">Andria.Jeffries@va.gov</a> | Columbia (319) |
 </div>
 </li>
-</ul>
 
 #### T to W
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Tennessee">Tennessee</button>
 <div id="Tennessee" class="usa-accordion-content">
