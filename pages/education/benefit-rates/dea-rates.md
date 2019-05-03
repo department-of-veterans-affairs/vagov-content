@@ -15,7 +15,7 @@ relatedlinks:
       title: Learn about the Fry Scholarship benefit 
       description: If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship.
     - url: https://vagov-content-pr-375.herokuapp.com/education/benefit-rates/post-9-11-rates/
-      title: Learn more about the Fry Scholarship
+      title: Learn about Fry Scholarship rates
       description: See the current benefit rates for Post-9/11 GI Bill and for the Fry Scholarship
     - url: /education/transfer-post-9-11-gi-bill-benefits/
       title: Transfer your Post-9/11 GI Bill benefits to your dependents
