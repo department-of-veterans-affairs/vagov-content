@@ -49,8 +49,10 @@ This program is also available to dependents of Veterans who meet at least one o
 - [Are eligible for educational assistance under any GI Bill program](/education/about-gi-bill-benefits/)
 <br>
 
-### VSOC locations and counselor contact information
-##### States beginning with the letters A-C
+## VSOC locations and counselor contact information
+### States listed alphabetically
+
+#### A to C
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alabama">Alabama</button>
@@ -126,7 +128,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-##### States beginning with the letters D-I
+#### D to I
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="District of Columbia">District of Columbia</button>
@@ -195,7 +197,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-##### States beginning with the letters K-M
+#### K to M
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Kansas">Kansas</button>
@@ -262,7 +264,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-##### States beginning with the letter N
+#### N
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Nebraska">Nebraska</button>
@@ -325,7 +327,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-##### States beginning with the letters O-S
+#### O-S
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Ohio">Ohio</button>
@@ -386,7 +388,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-##### States beginning with the letters T-W
+#### T-W
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Tennessee">Tennessee</button>
