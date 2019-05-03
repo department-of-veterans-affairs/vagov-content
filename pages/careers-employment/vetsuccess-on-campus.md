@@ -327,7 +327,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-#### O-S
+#### O to S
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Ohio">Ohio</button>
@@ -388,7 +388,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </li>
 </ul>
 
-#### T-W
+#### T to W
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Tennessee">Tennessee</button>
