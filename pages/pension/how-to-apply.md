@@ -41,6 +41,7 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 - [Find out if you're eligible for VA pension benefits](/pension/eligibility/)
 - Gather the information listed below that you’ll need to fill out your pension application.
 
+<br>
 
 #### You'll need this information
 
