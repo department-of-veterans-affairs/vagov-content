@@ -21,9 +21,9 @@ The rates on this page are effective **October 1, 2018**.
 [Learn more about qualifying for this benefit](https://www.benefits.va.gov/VOCREHAB/Dep_Edu_Assist_Chapter_35.asp)
 
 Note: On **August 1, 2018**, we’ll announce rates for three new educational programs. These include:
-•	Apprenticeships
-•	On-the-job training
-•	Farm cooperative training
+- Apprenticeships
+-	On-the-job training
+-	Farm cooperative training
 
 Please check back then to learn what these new benefits will be.
 
