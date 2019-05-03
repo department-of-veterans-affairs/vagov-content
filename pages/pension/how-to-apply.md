@@ -35,14 +35,14 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 </div>
 
 <div class="feature">
-  
-## How do I prepare before starting my application?
+
+### How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA pension benefits](/pension/eligibility/)
 - Gather the information listed below that you’ll need to fill out your pension application.
 
 
-### You'll need this information
+#### You'll need this information
 
 - Social Security number or VA file number (required)
 - Military history (required)
