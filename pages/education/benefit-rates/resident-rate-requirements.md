@@ -76,3 +76,13 @@ Maybe. Some schools grant the resident rates to students with military connectio
 the Armed Forces, or dependents of current or former members of the Armed Forces. In these cases, you can get this in-state
 tuition benefit whether or not you’re a covered individual.
 
+[How to use your benefits](/education/about-gi-bill-benefits/how-to-use-benefits/)
+
+### Can I change my education benefits?
+
+In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET).
+
+### [Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+
+Find out if your school participates in the Yellow Ribbon program, which can help pay tuition costs that the Post-9/11 GI Bill
+doesn’t cover.
