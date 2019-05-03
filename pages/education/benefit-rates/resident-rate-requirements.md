@@ -3,11 +3,27 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Post-9/11 GI Bill Resident Rate Requirements
 heading: Post-9/11 GI Bill resident rate requirements
-display_title: Benefit rates
+display_title:
 description: 
 concurrence: 
 spoke: More information and resources
-order: 8 
+order: 8
+relatedlinks:
+  -heading:
+   links:
+   - url: /gi-bill-comparison-tool/
+     title: GI Bill Comparison Tool
+     description: Learn about education programs and compare benefits by school.
+   - url: https://vagov-content-pr-375.herokuapp.com/education/types-of-education-benefits/
+     title: Compare all Veterans education benefits 
+     description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+   - url: https://vagov-content-pr-375.herokuapp.com/education/other-va-education-benefits/veap/
+     title: Veterans’ Educational Assistance Program (VEAP)
+     description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
+   - url: https://www.benefits.va.gov/gibill/apply.asp
+     title: Apply for VA education benefits
+     description: You can easily apply for VA education benefits online, by mail, or in person. 
+
 ---
 
 <div class="va-introtext">
@@ -30,5 +46,33 @@ Post-9/11 GI Bill or the Montgomery GI Bill-Active Duty program chapter 30 or ch
 **or**
 -	Are using transferred Post-9/11 GI Bill benefits and live in the state where the school is located and you’re  a member of
 the uniformed service who’s serving on active duty.
+-	Are using benefits under the Marine Gunnery Sergeant John David Fry Scholarship and live in the state where the school is 
+located (regardless of your formal state of residence)
 
+## I’m on active duty. Does the in-state rate apply to me?
+
+No, the in-state provisions don’t apply if you’re still on active duty.
+
+## I’m a covered individual, but my school isn’t offering me in-state tuition and fees. What will happen?
+
+If a school isn’t offering in-state tuition and fees to you, and your term started after July 1, 2017, we won’t issue 
+payments to the school until it becomes fully compliant and offers you the correct rate. We require this so that you or 
+your family members won’t have to pay the higher out-of-state tuition rates.
+
+## What else can affect whether I get the resident rate for tuition and fees?
+
+Schools can legally have more requirements for you to meet to get the in-state tuition rate. You should contact your school 
+to learn more about their rules and requirements. Your school will review your situation and decide if you’ll be charged the
+resident rate. To learn more, find the [contact information for your school](https://inquiry.vba.va.gov/weamspub/searchInst.do) and search by state or territory.
+
+After your school has made a decision, and you believe that it incorrectly intends to charge or has charged you more than 
+the resident rate, you should [submit a complaint into the GI Bill Feedback System](https://www.benefits.va.gov/GIBILL/Feedback.asp). Please include details as to why you believe either you or your 
+beneficiary has been incorrectly charged out-of-state tuition. Our complaint team will review the case and take appropriate
+action. If you’ve overpaid, we’ll make sure the school refunds you the overpayment.
+
+## I’m not sure I’m really a covered individual. Could I still qualify?
+
+Maybe. Some schools grant the resident rates to students with military connections, including current or former members of 
+the Armed Forces, or dependents of current or former members of the Armed Forces. In these cases, you can get this in-state
+tuition benefit whether or not you’re a covered individual.
 
