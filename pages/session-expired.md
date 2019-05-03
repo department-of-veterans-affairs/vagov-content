@@ -11,13 +11,13 @@ layout: page.html
         <div class="usa-alert usa-alert-error">
           <div class="usa-alert-body">
             <div class="usa-alert-text">
-              <p>We’re sorry. We signed you out of VA.gov because your session expired. We take your privacy very seriously. To protect your personal information, we sign you out if you don’t take any action on the site for 30 minutes.</p>
+              <p>We take your privacy very seriously. You didn’t take any action on VA.gov for 30 minutes, so we signed you out of the site to protect your personal information.</p>
             </div>
           </div>
         </div>
         <h3>What you can do:</h3>
-        <p>Please try signing in again.</p>
-        <button class="signin-signup-modal-trigger">Try signing in again</button>
+        <p>Please sign in again.</p>
+        <button class="signin-signup-modal-trigger" onClick="recordEvent({ event: 'login-cta-sign-in-again' });">Sign in</button>
       </div>
     </div>
   </div>
