@@ -30,7 +30,7 @@ relatedlinks:
   
 When you use your Post-9/11 GI Bill or Montgomery GI Bill-Active Duty benefits for school, your school must charge you only
 in-state tuition and fee rates. This law applies to all institutions of higher learning (IHL), like colleges and universities,
-for terms that began after July 1, 2017. Your IHL, must do this for all “covered individuals.”
+for terms that began after July 1, 2017. Your IHL must do this for all “covered individuals.”
 
 ## How do I know whether I’m a covered individual?
 
@@ -66,7 +66,7 @@ to learn more about their rules and requirements. Your school will review your s
 resident rate. To learn more, find the [contact information for your school](https://inquiry.vba.va.gov/weamspub/searchInst.do) and search by state or territory.
 
 After your school has made a decision, and you believe that it incorrectly intends to charge or has charged you more than 
-the resident rate, you should [submit a complaint into the GI Bill Feedback System](https://www.benefits.va.gov/GIBILL/Feedback.asp). Please include details as to why you believe either you or your 
+the resident rate, you should [submit a complaint to the GI Bill Feedback System](https://www.benefits.va.gov/GIBILL/Feedback.asp). Please include details as to why you believe either you or your 
 beneficiary has been incorrectly charged out-of-state tuition. Our complaint team will review the case and take appropriate
 action. If you’ve overpaid, we’ll make sure the school refunds you the overpayment.
 
