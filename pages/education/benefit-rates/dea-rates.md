@@ -42,7 +42,7 @@ Note: On **August 1, 2018**, we’ll announce rates for three new educational pr
 
 Please check back then to learn what these new benefits will be.
 
-### Schools and other institutional training
+## Schools and other institutional training
 
 We base these benefits on the amount of time you’re attending school.
 
