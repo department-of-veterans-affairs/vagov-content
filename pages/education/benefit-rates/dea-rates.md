@@ -31,7 +31,7 @@ We base these benefits on the amount of time you’re attending school.
 
 All rates in $ U.S. dollars.
 | Training time | Monthly rate |
-| -- | --: |
+| --- | ---: |
 | Full-time | 1,224.00 |
 | ¾ time | 967.00 |
 | ½ time | 710.00 |
