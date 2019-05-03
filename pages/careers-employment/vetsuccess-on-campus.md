@@ -50,7 +50,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <br>
 
 ### VSOC locations and counselor contact information
-
+## States beginning with the letter A-C
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alabama">Alabama</button>
@@ -63,6 +63,10 @@ This program is also available to dependents of Veterans who meet at least one o
 
 </div>
 </li>
+</ul>
+
+## States beginning with the letter D-I
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alaska">Alaska</button>
 <div id="Alaska" class="usa-accordion-content">
