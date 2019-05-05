@@ -4,7 +4,7 @@ template: detail-page
 title: How To Apply For A Veteran ID Card
 heading: How to apply for a Veteran ID card
 display_title: Veteran ID Card
-description: A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses. Find out if you’re eligible for a Veteran ID Card, and how to apply.
+description: A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses. Find out if you’re eligible for a Veteran ID Card and how to apply.
 keywords: veterans id card, vic card
 plainlanguage:
 collection: veteranIdCards
@@ -59,7 +59,7 @@ You can apply online now.
 
 <div itemscope itemtype="http://schema.org/Question">
   
-<h3 itemprop="name">What do I need to apply for a Veteran ID Card?</h3>
+<h3 itemprop="name">You'll need this information</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
