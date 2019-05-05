@@ -5,8 +5,6 @@ title: Tuition Assistance Top-Up
 concurrence: incomplete
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 order: 14
-aliases:
-  - /education/gi-bill/tuition-assistance/
 ---
 
 <div class="va-introtext">

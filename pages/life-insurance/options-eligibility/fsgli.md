@@ -3,105 +3,93 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Family Servicemembers’ Group Life Insurance (FSGLI)
 display_title: Family Servicemembers’ Group (FSGLI)
-concurrence: 
+concurrence:
 order: 2
 relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
-      title: Claims for Disabled and Terminally Ill Policyholders
+      title: Claims for disabled and terminally ill policyholders
       description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/fsgli/
 ---
 
 <div class="va-introtext">
 
-Are you the spouse or dependent child of a Servicemember who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage.
+Are you the spouse or dependent child of a service member who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage.
 
 </div>
 
 <div class="feature">
 
-<br>
-
 ### Can I get FSGLI?
 
-You may be able to get FSGLI if you’re the spouse or dependent child of a Servicemember who meets one of the requirements listed below.
+You may be able to get FSGLI if you’re the spouse or dependent child of a service member who meets one of the requirements listed below.
 
-**One of these must be true. The Servicemember is:**
+**One of these must be true. The service member is:**
 
-* An active-duty Servicemember covered by full-time SGLI, **or**
+* On active duty and covered by full-time SGLI, **or**
 * A member of the National Guard or Ready Reserve covered by full-time SGLI
 
 You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matter if your own status is active duty, retired, or civilian.
 
-<br>
-
 #### Who’s covered?
 
-* Spouses of Servicemembers covered under SGLI
-* Dependent children of Servicemembers covered under SGLI
+* Spouses of service members covered under SGLI
+* Dependent children of service members covered under SGLI
 
 </div>
 
-<br>
+## What kind of life insurance benefits can I get with FSGLI?
 
-### What kind of life insurance benefits can I get with FSGLI?
+Up to a maximum of $100,000 of coverage for you as a spouse, not to exceed your service member’s SGLI coverage, and $10,000 for each dependent child. Dependent children get free coverage.
 
-Up to a maximum of $100,000 of coverage for you as a spouse, not to exceed your Servicemember’s SGLI coverage, and $10,000 for each dependent child. Dependent children get free coverage.
+## How do I get these benefits?
 
-<br>
+### If you’re the civilian spouse of a service member signed up for full-time SGLI
 
-### How do I get these benefits?
+We’ll automatically insure you under FSGLI. In this case, we’ll automatically take your premium out of your service member’s pay.
 
-#### If you’re the civilian spouse of a Servicemember signed up for full-time SGLI
+### If you’re a military spouse and you were married on or after January 2, 2013
 
-We’ll automatically insure you under FSGLI. In this case, we’ll automatically take your premium out of your Servicemember’s pay.
+We won’t automatically cover you. You’ll need to sign up through your service member.
 
-#### If you’re a military spouse and you were married on or after January 2, 2013
+**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have them sign you up online through the SGLI Online Enrollment System (SOES).
 
-We won’t automatically cover you. You’ll need to sign up through your Servicemember.
-
-**If your Servicemember’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your Servicemember sign you up online. 
-
-To access SOES, have your Servicemember:
+To access SOES, have your service member:
 
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
-  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
-  
+
+  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/)
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Sign in.
-  
+
   </li>
   <li class="process-step list-three">
-  
+
   Go to Benefits, Life Insurance SOES- SGLI Online Enrollment System to sign up.
-  
+
   </li>
 </ol>
 
-Your Servicemember can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
+Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
-**If your Servicemember’s branch of service hasn’t yet started using SOES,** fill out the Spouse Coverage Election and Certificate and have your Servicemember turn it in to the personnel office for their unit. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).
+**If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have them turn it in to their unit's personnel officer. <br>
+[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 
-<br>
+## How much will my service member pay for spousal coverage—and how do the premium payments work?
 
-### How much will my Servicemember pay for spousal coverage—and how do the premium payments work?
+Your service member will pay a premium for your coverage, which will increase as you age. Choose your age below to view current spousal coverage monthly premium rates based on the amount of insurance coverage you want.
 
-Your Servicemember will pay a premium for your coverage, which will increase as you age. Choose your age below to view current spousal coverage monthly premium rates based on the amount of insurance coverage you want.
-
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="age-under-35">Under 35 years</button>
 <div id="age-under-35" class="usa-accordion-content">
@@ -237,75 +225,66 @@ Your Servicemember will pay a premium for your coverage, which will increase as 
 </li>
 </ul>
 
-If you’re signed up as a spouse in the Defense Enrollment Eligibility Reporting System (DEERS), we’ll automatically deduct the FSGLI premium from your Servicemember’s pay. If you aren’t signed up in DEERS, your Servicemember will still be responsible for premiums and back payments of unpaid premiums.
+If you’re signed up as a spouse in the Defense Enrollment Eligibility Reporting System (DEERS), we’ll automatically deduct the FSGLI premium from your service member’s pay. If you aren’t signed up in DEERS, your service member will still be responsible for premiums and back payments of unpaid premiums.
 
-<br>
-
-### Can my Servicemember make changes to my coverage?
+## Can my service member make changes to my coverage?
 
 Yes. If you have spousal coverage and you want to reduce, turn down, or cancel it:
 
-**If your Servicemember’s branch of service has started using the new SGLI Online Enrollment System (SOES),** have your Servicemember submit your changes online.
+**If your service member is a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** have your service member submit your changes online through the SGLI Online Enrollment System (SOES).
 
-To access SOES, have your Servicemember:
+To access SOES, have your service member:
 
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
-  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/).
-  
+
+  [Go to milConnect](https://www.dmdc.osd.mil/milconnect/)
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Sign in.
-  
+
   </li>
   <li class="process-step list-three">
-  
+
   Go to Benefits, Life Insurance SOES- SGLI Online Enrollment System to update.
-  
+
   </li>
-  
+
   <li class="process-step list-four">
-  
+
   Check their coverage and beneficiary info and make any needed updates.
-  
+
   </li>
  </ol>
 
-Your Servicemember can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
+Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
-**If your Servicemember’s branch of service hasn’t yet started using SOES,** fill out the Spouse Coverage Election and Certificate and have your Servicemember turn it in to the personnel office for their unit. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF).
+**If your service member is part of the Public Health Service,** you'll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have your service member turn it in to their unit's personnel officer. <br>
+[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 <br>
-[Learn more about SOES and find out if your branch is using this new system](https://www.benefits.va.gov/INSURANCE/SOES.asp).
+[Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 **Note:** We automatically cover dependent children. This coverage can’t be turned down, reduced, or canceled.
 
-<br>
-
-### How much will my Servicemember pay for dependent coverage?
+## How much will my service member pay for dependent coverage?
 
 Nothing. We provide dependent coverage at no cost until the child is 18 years old, or sometimes longer if the child meets one of the requirements listed below.
 
 **To continue receiving dependent coverage after age 18, one of these must be true. The child**:
 - Is a full-time student, **or**
-- Becomes permanently and totally disabled—before turning 18—and can’t support themselves 
+- Becomes permanently and totally disabled—before turning 18—and can’t support themselves
 
-
-<br>
-
-### Can my Servicemember get extended coverage for our dependent child?
+## Can my service member get extended coverage for our dependent child?
 
 Yes, in some cases. Coverage lasts until the child is 18 years old. But, if the child is a full-time student between 18 and 22 years old, we may extend the coverage. Or, if the child becomes permanently and totally disabled before turning 18 and is no longer able to support themselves, we may extend the coverage—in some cases indefinitely.
 
-<br>
+## How do I convert a spousal FSGLI policy to an individual insurance policy?
 
-### How do I convert a spousal FSGLI policy to an individual insurance policy?
-
-You have the option to convert spousal FSGLI coverage to a permanent, individual insurance policy (such as whole life) within 120 days from the date of your Servicemember’s:
+You have the option to convert spousal FSGLI coverage to a permanent, individual insurance policy (such as whole life) within 120 days from the date of your service member’s:
 
 * Separation from the military
 * Divorce from you
@@ -313,25 +292,27 @@ You have the option to convert spousal FSGLI coverage to a permanent, individual
 * Written election to end their SGLI coverage
 * Death
 
-If any of the above events happen, you, as the Servicemember’s spouse, become solely responsible for all aspects of the policy, including premium payments.
+If any of the events listed above happen, you, as the service member’s spouse, become solely responsible for all aspects of the policy, including premium payments.
 
 You can’t convert other types of policies—such as term, variable, or universal life insurance. And, supplementary policy benefits—such as accidental death and dismemberment or a waiver of the premium for disability—aren’t considered part of the conversion policy.
 
 **If you’d like to convert FSGLI coverage, you must also:**
 
 - Choose a company from the list of companies that take part in this program. <br>
-[View the companies you can choose from](https://www.benefits.va.gov/INSURANCE/forms/ParticList.htm).
+[View the companies you can choose from](https://www.benefits.va.gov/INSURANCE/forms/ParticList.htm)
 - Apply at the local sales office of the company you chose.
 - Give a copy of the most recent Leave and Earnings Statement (LES) to the agent, showing the deduction for spousal SGLI. You’ll also have to provide proof of coverage with one of these documents:
-  - The Servicemember’s separation document (Form DD214 or NGB-22, or written orders)
-  - The Certificate of Dissolution of Marriage between the spouse and the Servicemember
-  - The Servicemember’s FSGLI spousal declination
-  - The Servicemember’s SGLI declination
-  - The Servicemember’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
+  - The service member’s separation document (Form DD214 or NGB-22, or written orders)
+  - The Certificate of Dissolution of Marriage between the spouse and the service member
+  - The service member’s FSGLI spousal declination
+  - The service member’s SGLI declination
+  - The service member’s proof of death (DD1300: Report of Casualty, or a civilian death certificate)
 
 
-<br>
-
-### Where can I find more information?
-
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+## Which forms would my service member need?
+- **To request an advance insurance payment for a spouse who's terminally ill,** a service member would file a Claim for Accelerated Benefits (SGLV 8284A).<br>
+[Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
+- **To tell us about the death of a family member covered by the policy,** a service member would file a Report of Death of Family Member (SGLV 8700).<br>
+[Download SGLV 8700](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
+- **To receive an insurance payment in their time of need,** a service member would file a Claim for Family Coverage Death Benefits (SGLV 8283A). <br>
+[Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) <br>

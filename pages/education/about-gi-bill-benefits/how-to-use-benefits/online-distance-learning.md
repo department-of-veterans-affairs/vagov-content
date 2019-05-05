@@ -5,8 +5,6 @@ title: Independent and distance learning
 order: 3
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
-aliases:
-  - /education/work-learn/non-traditional/independent-distance-learning/
 ---
 
 <div class="va-introtext">

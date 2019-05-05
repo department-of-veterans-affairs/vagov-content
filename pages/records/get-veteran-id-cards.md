@@ -7,13 +7,12 @@ description: There are many types of identification cards you can use to show yo
 keywords: veteran id, va id card, veterans identification card  
 concurrence: 
 order: 3
+lastupdate: 2019-04-19
 spoke: Get records
 plainlanguage:
 template: detail-page
 collection: records
 children: veteranIdCards
-aliases:
-  - /id-card-beta/
 relatedlinks:
  - heading:
    links:

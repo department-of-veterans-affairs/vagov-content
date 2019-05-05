@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 title: Download VA Benefit Letters
 heading: Download VA benefit letters
 display_title: Download VA benefit letters
+lastupdate: 2019-04-19
 description: Download your VA Benefit Summary Letter (sometimes called a VA award letter) and other benefit letters and documents online.  
 keywords: va award letter
 template: detail-page
@@ -19,15 +20,11 @@ To receive some benefits, Veterans need a letter proving their status. Access an
 
 </div>
 
-<section>
-
 <div class="cta-widget" data-widget-type="cta" data-app-id="letters"></div>
 
 ## What types of VA letters can I download using this tool?
 
 You can download a variety of VA letters that include information about your benefits and service history.
-
-</section>
 
 ## How do I download a VA letter?
 
@@ -39,8 +36,6 @@ This address will be listed on your letter. If this address isn’t correct, you
 
 [Get Adobe Reader](https://get.adobe.com/reader/)
 
-</section>
-<section>
 
 ## What if I want to download a letter or document that isn’t available from this tool?
 
@@ -54,23 +49,11 @@ Use these links to get access to other common VA letters and documents you may b
 
 [Sign in to eBenefits to request a copy of your discharge or separation papers (DD214)](https://eauth.va.gov/ebenefits/DPRIS)
 
-</section>
-<section>
 
 ## Can VA add an effective date to my Benefit Summary Letter?
 
 Yes. If you're totally and permanently disabled because of your service-connected disabilities and need us to add the effective date of this decision to your Benefit Summary Letter, please call us at <a href="tel:+18008271000">800-827-1000</a>. We can email or fax you a copy of your letter with the effective date added to it.
-</section>
-
-<section>
 
 ## What if I have trouble downloading a VA letter?
 
 Call MyVA311 for help: <a href="tel:+18446982311">844-698-2311</a>. If you have hearing loss, call TTY: 711.
-
-</section>
-</div>
-</div>
-<br>
-<br>
-<br>

@@ -7,6 +7,7 @@ display_title: Request military records
 description: Submit a military records request for documents like your DD214, awards, decorations, performance reports, orders, qualifications, and security clearance. Learn about the ways to get your own military service records or request someone else's. 
 keywords: military records, military records request, dd214, military service records
 concurrence:
+lastupdate: 2019-04-19
 plainlanguage:
 collection: records
 children:

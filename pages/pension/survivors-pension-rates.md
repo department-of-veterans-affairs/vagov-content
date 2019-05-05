@@ -6,8 +6,6 @@ display_title: Survivors Pension Rates
 concurrence:
 spoke: More resources
 order: 2
-aliases:
-  - /pension/survivors-pension/rates/
 ---
 
 <div class="va-introtext">

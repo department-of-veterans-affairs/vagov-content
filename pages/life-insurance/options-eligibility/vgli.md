@@ -3,20 +3,18 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans’ Group Life Insurance (VGLI)
 display_title: Veterans’ Group (VGLI)
-concurrence: 
+concurrence:
 order: 4
 children: lifeInsuranceVGLI
 relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
+      title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
-      title: Claims for Disabled and Terminally Ill Policyholders
+      title: Claims for disabled and terminally ill policyholders
       description: If you become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/vgli/
 ---
 
 <div class="va-introtext">
@@ -39,39 +37,34 @@ You may be able to get VGLI if you meet at least one of the requirements listed 
 - Are within 1 year and 120 days of assignment to the Individual Ready Reserves (IRR) of a branch of service, or to the Inactive National Guard (ING). This includes members of the United States Public Health Service Inactive Reserve Corps (IRC), **or**
 - Are within 1 year and 120 days of being put on the Temporary Disability Retirement List (TDRL)
 
-<br>
-
 #### Who’s covered?
 
 * Veterans
-* Former Servicemembers
+* Former service members
 
 </div>
 
-<br>
-
-### What life insurance benefits can I get with VGLI?
+## What life insurance benefits can I get with VGLI?
 
 $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI coverage you had when you left the military.
 
 **Note:** When you leave the military, you can sign up through VGLI for coverage up to the amount you had through SGLI. You can also increase your coverage by $25,000 every 5 years—up to $400,000—until you’re 60 years old.
 
-<br>
+## How do I get these benefits?
 
-### How do I get these benefits?
+You’ll need to apply for VGLI within one year and 120 days of leaving the military.
 
-You’ll need to apply for these benefits. When you apply, you won’t need to prove you’re in good health as long as you sign up within 240 days of leaving the military.
+If you sign up within 240 days of leaving the military, you won’t need to prove you’re in good health. If you sign up after the 240-day period, you'll need to submit evidence that you're in good health.
 
 **Apply in one of these ways:**
 
 - Apply through the Office of Servicemembers' Group Life Insurance (OSGLI), using the Prudential website. <br>
-[Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment).
-- [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management).
-- Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance. <br>
-[Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf).
+[Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment)
+- [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management)
+- Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
+[Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
 
-
-Fax the form to 1-800-236-6142, or mail it to:
+Fax the form to 800-236-6142, or mail it to:
 
 <p class="va-address-block">
   OSGLI<br>
@@ -79,15 +72,16 @@ Fax the form to 1-800-236-6142, or mail it to:
   Philadelphia, PA 19176-9913<br>
 </p>
 
-<br>
+To reinstate a VGLI policy that has expired, you'll need to fill out an Application for Reinstatement of VGLI Coverage (SGLV 180). <br>
+[Download SGLV 180](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf) <br>
 
-### How much will I pay for these benefits?
+## How much will I pay for these benefits?
 
-VGLI premium rates are based on your age and the amount of insurance coverage you want. 
+VGLI premium rates are based on your age and the amount of insurance coverage you want.
 
 **Choose your age to find monthly premium rates as of July 1, 2014.**
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="age-29-below">Age 29 and below</button>
 <div id="age-29-below" class="usa-accordion-content">
@@ -629,13 +623,27 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 </li>
 </ul>
 
-[See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp).
+[See the VGLI premium rates before July 1, 2014](https://www.benefits.va.gov/INSURANCE/vgli_rates_old.asp)
 
-<br>
+## Can I choose or update my beneficiaries?
+Yes. You can choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed. <br>
 
-<br>
+**Update your beneficiary information in one of these ways:**
 
-### Can I convert my VGLI policy into a commercial policy?
+- Access your policy online. <br>
+[Find your policy through Prudential Life Insurance Company of America](https://giosgli.prudential.com/osgli/web/OSGLIMenu.html), **or** <br>
+- Fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
+[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
+
+Fax the form to 800-236-6142, or mail it to:
+
+<p class="va-address-block">
+  OSGLI<br>
+  PO Box 41618<br>
+  Philadelphia, PA 19176-9913<br>
+</p>
+
+## Can I convert my VGLI policy into a commercial policy?
 
 Yes. You can convert your policy into a commercial (civilian) policy at any time. You’ll be able to convert at standard premium rates, without having to provide proof that you’re in good health.
 
@@ -644,40 +652,34 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
 <ol class="process" markdown="1">
 
   <li class="process-step list-one">
-  
+
   Choose your new insurance company. <br>
-  [View our list of companies that take part in this program]( https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf).
-  
+  [View our list of companies that take part in this program](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
+
   </li>
-  
+
   <li class="process-step list-two">
-  
+
   Apply at the local sales office of your chosen company.
-  
+
   </li>
-  
+
   <li class="process-step list-three">
-  
+
   Get a letter from OSGLI confirming that you have VGLI coverage (called a VGLI Conversion Notice) and give the letter to the agent who takes your application.
-  
+
   </li>
 </ol>
 
 **Note:** The conversion policy must be a permanent policy, such as a whole life policy. You can’t convert to other types of policies, like term, variable life, or universal life insurance. And supplementary policy benefits, like Accidental Death and Dismemberment or Waiver of Premium for Disability, aren’t considered part of the conversion policy.
 
-<br>
+## What if I need help with my claim?
 
-### Where can I find more information?
+If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at 800-419-1473 or <a href="mailto:osgli.osgli@prudential.com">email the Prudential Insurance Company</a>.
 
-[Read our insurance publications](https://www.benefits.va.gov/INSURANCE/ins_publications.asp).
+## Which forms would my family member need?
+  - **To request an advance insurance payment for a service member who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
+[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
+- **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283).<br>
+[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
 
----
-
-### Veterans’ Mortgage Life Insurance (VMLI)
-
-If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
-
-To get VMLI, you’ll need to apply for our Specially Adapted Housing (SAH) Grant. The SAH grant can help you buy, build, or make changes (like installing ramps or widening doorways) to a home so you can live more independently. When you receive an SAH grant, your Loan Guaranty agent will tell you if you qualify for VMLI and will help you apply. <br>
-[Find out if you qualify for an SAH grant—and how to apply](https://www.benefits.va.gov/homeloans/adaptedhousing.asp). <br>
-
-[Find out if you qualify for VMLI—and how to apply](/life-insurance/options-eligibility/vmli/).

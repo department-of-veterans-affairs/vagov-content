@@ -4,8 +4,6 @@ template: detail-page
 title: National Call to Service program
 concurrence: incomplete
 order: 3
-aliases:
-  - /education/other-educational-assistance-programs/call-to-service/
 children: educationNationalCallToServiceProgram
 ---
 

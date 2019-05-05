@@ -5,8 +5,6 @@ title: Undergraduate and graduate degrees
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 1
-aliases:
-  - /education/gi-bill/higher-learning/
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">

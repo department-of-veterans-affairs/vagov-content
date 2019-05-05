@@ -6,8 +6,6 @@ description: Find out how to request a priority review to have your VA appeal mo
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
-aliases:
-  - /disability-benefits/claims-appeal/request-a-priority-review/
 ---
 <div itemscope itemtype="http://schema.org/HowTo">
 

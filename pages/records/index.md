@@ -7,7 +7,7 @@ display_title: Records
 description: Access your VA records and documents online to manage your health and benefits. Download your VA letters, get Veteran ID Cards, get your VA medical records, request your DD214, view your payment history, and learn how to apply for a certificate of eligibility. 
 keywords: va records
 concurrence: complete
-lastupdate:
+lastupdate: 2019-04-19
 order: 1
 hub: records
 promo:

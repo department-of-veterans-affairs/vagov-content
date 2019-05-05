@@ -10,8 +10,6 @@ children: educationOtherPrograms
 spoke: Get benefits
 order: 9
 majorlinks:
-aliases:
-  - /education/other-educational-assistance-programs/
 ---
 
 <div class="va-introtext">

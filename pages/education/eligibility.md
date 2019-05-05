@@ -78,7 +78,7 @@ You may be able to get benefits through one of our 2 Montgomery GI Bill programs
 
 You may be able to get help paying for school tuition, testing fees, and advanced licensing and certifications through other VA educational assistance programs. You may also be able to get entrepreneurship training to help start or improve a small business.
 
-[Learn more about advanced training and certifications](/education/advanced-training-and-certifications/)
+[Learn more about advanced training and certifications](/education/about-gi-bill-benefits/how-to-use-benefits/)
 
 [Learn about other educational assistance programs](/education/other-va-education-benefits/)
 

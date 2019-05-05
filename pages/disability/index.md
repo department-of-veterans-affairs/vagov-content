@@ -7,8 +7,6 @@ description: Learn about VA disability pay (compensation) for Veterans, includin
 concurrence: complete
 lastupdate:
 hub: disability
-aliases:
-  - /disability-benefits/
 promo:
   - image: /img/hub-illustrations/disability.png
     heading: Fully Developed Claims Program
