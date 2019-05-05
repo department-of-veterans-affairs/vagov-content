@@ -4,7 +4,7 @@ template: level2-index
 title: Check Your VA Claim Or Appeal Status
 heading: Check your VA claim or appeal status
 display_title: Check claim or appeal status
-description: Check your VA claim status or VA appeal status online to find out where your claim or appeal is in our review process. Learn when we think we'll complete our review, and view evidence you've filed online and any additional evidence we've requested from you.
+description: Check your VA claim status or VA appeal status online to find out where your claim or appeal is in our review process. You'll see the date we think we'll complete our review, and view evidence you've filed online and any additional evidence we've requested from you.
 keywords: va claim status, va appeal status, check va claim status, va appeal status check  
 concurrence:
 lastupdate: 2019-04-24
