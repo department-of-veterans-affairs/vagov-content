@@ -91,7 +91,7 @@ proportionally.
 ### Cooperative training 
 
 | <i></i> | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
-|---|---|---|
+|---|---|---|---|
 | Monthly benefit | $797.60	| $1,196.40 | $1,595.20 |
 
 ### [Can I use the $600 Buy-Up program?](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
