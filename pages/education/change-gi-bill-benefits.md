@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Change Your GI Bill School or Program | Veterans Affairs
-heading: Change Your GI Bill School or Program
-display title: Change GI Bill School or Program
+title: Change Your GI Bill School Or Program
+heading: Change your GI Bill school or program
+display title: Change GI Bill school or program
 description: Learn about ways you can make GI Bill changes. Find out when and how you can update your school, program, or other VA education benefits like when you're transferring schools or changing your education or training goals. 
 keywords: gi bill changes, gi bill change of program, gi bill change of school
 children: educationChangeGIBillBenefits
