@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Tutorial Assistance | Veterans Affairs
-heading: Tutorial Assistance
-display_title: Tutorial Assistance
+title: Tutorial Assistance
+heading: Tutorial assistance
+display_title: Tutorial assistance
 description: Learn how you may be able to get money to help pay a tutor if you're a Veteran enrolled at least half-time in an educational program and having trouble with a difficult class required for your degree. 
 keywords: n/a
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
