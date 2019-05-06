@@ -4,7 +4,7 @@ template: detail-page
 title: Eligibility | Veterans Affairs
 heading: Eligibility for the GI Bill and Other Education Benefits
 display_title: Eligibility
-description: Review GI Bill eligibility requirements to find out if you can get help paying for school or training. You can also find out if you qualify for other VA education benefits as a Veteran, Servicemember, Reservist, National Guard Soldier, or qualified survivor or dependent.
+description: Review GI Bill eligibility requirements to find out if you can get help paying for school or training. You can also find out if you qualify for other VA education benefits as a Veteran, service member, Reservist, National Guard Soldier, or qualified survivor or dependent.
 keywords: gi bill eligibility
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
