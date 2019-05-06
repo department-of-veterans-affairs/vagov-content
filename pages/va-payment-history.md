@@ -54,9 +54,7 @@ Find out how to view your VA payment history online.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2>When to expect VA payments</h2>
-
-<h3 itemprop="name">When will I get my first disability compensation payment?</h3>
+<h2 itemprop="name">When can I expect my first disability compensation payment?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -70,19 +68,17 @@ If you don’t get a payment within 15 days, please call the Veterans Help Line 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2>How to change your information</h2>
-
-<h3 itemprop="name">What should I do if I need to change my direct deposit or contact information?</h3>
+<h2 itemprop="name">What should I do if I need to change my direct deposit or contact information?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-<h4>Change your information in either of these ways</h4><br>
+<h3>Change your information in either of these ways</h3><br>
 <a href="/change-direct-deposit-and-contact-information/">Change your information online</a>, <b>or</b> <br>
 <a href="/find-locations/?facilityType=benefits">Contact your nearest VA regional benefit office or eligibility office</a>
 
-<h4>Change your address through your VA.gov profile</h4> <br>
+<h3>Change your address through your VA.gov profile</h3> <br>
 You can sign in to VA.gov and change your address and other contact information in your VA.gov profile. This will update your information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation & Employment (VR&E), and VA health care. <br>
-[Find out how to change your address on file with VA](/change-address/)
+<a href="/change-address/">Find out how to change your address on file with VA</a>
 
 </div>
 </div>
@@ -90,7 +86,7 @@ You can sign in to VA.gov and change your address and other contact information 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Should I contact VA if I have other changes to my information?</h3>
+<h2 itemprop="name">Should I contact VA if I have other changes to my information?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
