@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about the Survivors' and Dependents' Educational Assistance (DEA) program. If you’re the child or spouse of a Veteran or Servicemember who has died, is captured or missing, or has disabilities, you may be able to get help paying for school or job training through the DEA program—also called Chapter 35. Find out if you're eligible for this benefit.
+Learn about the Survivors' and Dependents' Educational Assistance (DEA) program. If you’re the child or spouse of a Veteran or service member who has died, is captured or missing, or has disabilities, you may be able to get help paying for school or job training through the DEA program—also called Chapter 35. Find out if you're eligible for this benefit.
 
 </div>
 
