@@ -79,7 +79,7 @@ Compensation (monthly payments)
 
 Choose the scenario below that matches your situation to find out how to file a claim for disability compensation before discharge.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bdd-program">If you have 180 to 90 days left on active duty: <br>
 Apply through the BDD program</button>

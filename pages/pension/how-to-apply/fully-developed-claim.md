@@ -18,7 +18,7 @@ Find out how you can participate in the FDC program.
 
 </div>
 
-<ul class="usa-accordion" aria-multiselectable="true" >
+<ul class="usa-accordion" >
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="need-to-do">What do I need to do?</button>
 <div id="need-to-do" class="usa-accordion-content">
