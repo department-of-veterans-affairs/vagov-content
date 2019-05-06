@@ -45,8 +45,8 @@ To get this benefit, the Veteran must not have received a dishonorable discharge
 - Had been getting a VA pension or compensation when they died, **or**
 - Had chosen to get military retired pay instead of compensation, **or**
 - Died while getting VA care, either at a VA facility or at a facility contracted by VA, **or**
-- Died while traveling to approved VA care, **or**
-- Died with a reopened claim for VA compensation or a pension that would have qualified them to get benefits, **or**
+- Died while traveling at VA's expense to approved VA care, **or**
+- Died with an original or reopened claim pending for VA compensation or a pension that would have qualified them to get benefits, **or**
 - Died on or after October 9, 1996, while a patient at a VA-approved state nursing home
 
 **Note:** We'll also provide an allowance for the cost of transporting a Veteran’s remains for burial in a national cemetery.
@@ -61,18 +61,20 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 ## What kind of benefits can I get?
 
+For burial in a national cemetery, you'll receive:
+
 - An allowance for burial and funeral costs
-- An allowance for the plot or interment
-- An allowance for transporting the Veteran’s remains for burial in a national cemetery
+- An allowance for the plot (gravesite) or interment
+- An allowance for transporting the Veteran’s remains for burial
 
-**Note**: The Veteran's family will need to cover the cost of funeral director services.
+**Note**: The Veteran's family will need to cover the cost of funeral director services, like cremation.
 
-## What documents and information do I need to apply?
+## What documents do I need to send with my application?
 
-**You may need a copy of:**
+**You'll need to send copies of these documents:**
 - The Veteran’s military discharge papers (DD214 or other separation documents)
 - The Veteran’s death certificate
-- Any documents you have for the cost of transporting the Veteran’s remains
+- Any documents or receipts you have for the cost of transporting the Veteran’s remains
 
 ## As a surviving spouse, do I need to file a claim for burial costs?
 No. When we receive notice of the Veteran’s passing, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
@@ -89,10 +91,10 @@ No. When we receive notice of the Veteran’s passing, we automatically pay a se
 Apply by mail using an Application for Burial Benefits (VA Form 21P-530). <br>
 [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf)
 
-Mail the application and other paperwork to your nearest VA regional benefit office. <br>
+Mail the application and other documents listed above to your nearest VA regional benefit office. <br>
 [Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
-If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. <abbr title="eastern time">ET</abbr>. Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
+If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. <abbr title="eastern time">ET</abbr>. Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
 
 ------
 ## Burial allowance amounts
