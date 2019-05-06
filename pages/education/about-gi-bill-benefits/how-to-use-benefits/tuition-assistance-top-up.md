@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Tuition Assistance Top-Up | Veterans Affairs
+title: Tuition Assistance Top-Up
 heading: Tuition Assistance Top-Up
 display_title: Tuition Assistance Top-Up
 description: Find out if the Tuition Assistance Top-Up program can help you pay for tuition that's more than what's covered by Tuition Assistance (TA). Check current rates and apply if you're a Veteran covered by the Montgomery GI Bill Active Duty or Post-9/11 GI Bill. 
