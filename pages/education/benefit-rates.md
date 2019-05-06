@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Rates | Veterans Affairs
-heading: Post-9/11 GI Bill and Other VA Education Benefit Rates
-display_title: Benefit Rates
+title: Rates
+heading: Post-9/11 GI Bill and other VA education benefit rates
+display_title: Benefit rates
 description: Check Post-9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amounts depending on what program you're eligible for. Find the most recent GI Bill BAH rates and compare benefits with the GI Bill comparison tool.
 keywords: post 911 gi bill rates, gi bill bah rates
 concurrence: incomplete
