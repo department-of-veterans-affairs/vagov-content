@@ -19,7 +19,7 @@ aliases:
 
 <div class="va-introtext">
 
-Learn about other VA education benefits if you don't qualify for the Post 9/11 GI Bill. If you’re a Guardsman, Reservist, or Veteran and you're not eligible for the Post 9/11 GI Bill, you may be able to get other VA education benefits through these programs:
+Learn about other VA education benefits if you don't qualify for the Post-9/11 GI Bill. If you’re a Guardsman, Reservist, or Veteran and you're not eligible for the Post-9/11 GI Bill, you may be able to get other VA education benefits through these programs:
 
 </div>
 
