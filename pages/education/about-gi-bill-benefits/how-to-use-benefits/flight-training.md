@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 title: Flight Training | Veterans Affairs
 heading: Flight Training
 display_title: Flight Training
-description: Learn how VA education benefits might be able to help you pay for flight training to become a pilot. The amount you get depends on which GI Bill version you use. Anyone who qualifies for any of the GI Bill program can apply unless you're using Survivors' and Dependents' Educational Assistance. 
+description: Learn how VA education benefits might be able to help you pay for flight training to become a pilot. The amount you get depends on which GI Bill version you use. Anyone who qualifies for any of the GI Bill programs can apply unless you're using Survivors' and Dependents' Educational Assistance. 
 keywords: n/a
 order: 9
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
