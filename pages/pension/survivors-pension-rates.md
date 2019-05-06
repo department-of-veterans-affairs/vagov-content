@@ -26,9 +26,9 @@ Learn about VA Survivors Pension benefit rates. If you qualify for this benefit 
 **Example:**
 You’re a qualified surviving spouse with 1 dependent child. You also qualify for Aid and Attendance benefits. Your yearly income is $10,000.
 
-Your MAPR amount = $16,837 <br>
+Your MAPR amount = $17,309 <br>
 Your yearly income = $10,000 <br>
-Your VA pension = $6,837 for the year (or $569 paid each month)
+Your VA pension = $7,309 for the year (or $609 paid each month)
 
 
 ## What's the net worth limit to qualify for a Survivors Pension?
