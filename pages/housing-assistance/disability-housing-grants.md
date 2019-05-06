@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disability Housing Grants for Veterans
-display_title: Housing Grants
-description: Find out if you're eligible for disability housing grants for Veterans and Servicemembers with certain service-connected disabilities. We offer these grants to disabled Veterans and Servicemembers who want to buy or change a home (like adding a ramp) to meet their needs and live more independently.
+title: Disability housing grants for Veterans
+display_title: Housing grants
+description: Find out if you're eligible for disability housing grants for Veterans and service members with certain service-connected disabilities. We offer these grants to disabled Veterans and service members who want to buy or change a home (like adding a ramp) to meet their needs and live more independently.
 children: housingAssistanceDisabilityHousingGrants
 lastupdate:
 order: 2
@@ -15,7 +15,7 @@ concurrence:
 
 <div class="va-introtext">
 
-We offer grants to Veterans and Servicemembers with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
+We offer grants to Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
 
 </div>
 
@@ -79,7 +79,7 @@ You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to Apply</a>
 
 <br>
-<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>.
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
 ## Get more information
 
