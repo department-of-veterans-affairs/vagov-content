@@ -41,7 +41,7 @@ Find out if you're eligible for VA education benefits for dependents and survivo
 - Is permanently and totally disabled due to a service-connected disability, **or**
 -	Died while on active duty or as a result of a service-connected disability
 
-If you’re a dependent who doesn’t meet the above criteria, you may still qualify for VA education benefits if the Veteran or Servicemember transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
+If you’re a dependent who doesn’t meet the above criteria, you may still qualify for VA education benefits if the Veteran or service member transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
 [Learn about transferred benefits](/education/transfer-post-9-11-gi-bill-benefits/).
 
 </div>
