@@ -8,8 +8,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-individual_unempl
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 9
-aliases:
-  - /disability-benefits/conditions/special-claims/individual-unemployability/
 ---
 
 <div class="va-introtext">

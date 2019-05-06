@@ -24,9 +24,6 @@ relatedlinks:
     - url: /pension/survivors-pension/
       title: How to Apply for a Survivors Pension
       description: If you’re an unmarried surviving spouse or an unmarried child of a deceased Veteran with wartime service, find out if you can get monthly payments.
-
-aliases:
-  - /burials-and-memorials/bereavement-counseling/
 ---
 
 <div class="va-introtext">

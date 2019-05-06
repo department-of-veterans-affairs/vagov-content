@@ -6,8 +6,6 @@ display_title: Pension Management Centers
 concurrence: ""
 order: 5
 spoke: More resources
-aliases:
-  - /pension/pension-management-center/
 ---
 
 <div class="va-introtext">

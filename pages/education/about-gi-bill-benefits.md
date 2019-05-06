@@ -62,9 +62,6 @@ majorlinks:
     - url: /education/opt-out-information-sharing/
       title: Opt out of sharing VA education benefits information
       description: The Harry W. Colmery Veterans Educational Assistance Act (also called the “Forever GI Bill”) requires us to share certain information about your eligibility and benefits with schools, unless you ask us not to. Find out how to opt out of information sharing.
-
-aliases:
-  - /education/gi-bill/
 ---
 
 <div class="va-introtext">

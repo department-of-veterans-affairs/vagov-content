@@ -31,8 +31,6 @@ majorlinks:
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/vietnam-waters/
       title: In Waters in or near Vietnam
       description: Between January 9, 1962, and May 7, 1975
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/
 ---
 
 <div class="va-introtext">
@@ -79,7 +77,7 @@ You’ll need to file a claim for disability compensation and submit your eviden
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="evidence-agent-orange">View the evidence requirements</button>
 <div id="evidence-agent-orange" class="usa-accordion-content">
 When you file your claim, you'll need to submit this evidence:
-  
+
 - A medical record that shows you have an Agent Orange‒related illness, **and**
 - A military record that shows your service dates in Vietnam or in or near the Korean demilitarized zone, **and**
 - Evidence that proves exposure to herbicides in a location other than Vietnam or the Korean demilitarized zone
@@ -99,14 +97,14 @@ When you file your claim, you'll need to submit this evidence:
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="illness-not-on-list">View the evidence requirements</button>
 <div id="illness-not-on-list" class="usa-accordion-content">
-  
+
 When you file your claim, you'll need to submit this evidence:
 - A medical record showing your current disability, **and**
 - A medical record showing a connection between exposure to Agent Orange and the current disability, **and**
 - Evidence that proves either:
    - Contact with Agent Orange in a location other than Vietnam or the Korean demilitarized zone, **or**
    - Service in Vietnam or at or near the Korean demilitarized zone during the dates listed below
-  
+
 </div>
 </li>
 </ul>
@@ -119,6 +117,7 @@ When you file your claim, you'll need to submit this evidence:
 [See the Veterans Compensation Benefits Rate Tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
 
 Contact us if you have questions:
+
 - Call the Agent Orange Help Line at <a href="tel:+180074983872">800-749-8387</a> **or** 
 - Send an email to GW/AOHelpline@vba.va.gov
 

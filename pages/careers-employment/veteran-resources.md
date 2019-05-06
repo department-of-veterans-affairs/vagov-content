@@ -18,8 +18,6 @@ relatedlinks:
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: Find out if you're eligible for certain counseling services, training, and education benefits.
-aliases:
-  - /employment/vocational-rehab-and-employment/external-resources/
 ---
 
 **[Veterans ReEmployment](http://www.careeronestop.org/ReEmployment/veterans/default.aspx)** connects you with employment services and jobs that use the skills you learned in the military. It also helps with job-search strategies, getting copies of military records, and choosing the right schools or training programs.

@@ -21,7 +21,7 @@ display_title: Frequently asked questions
           <div class="row">
             <div class="small-12 columns">
               <h2>Signing in to VA.gov</h2>
-              <ul class="usa-accordion" aria-multiselectable="true">
+              <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signin-0" itemprop="name">How do I sign in to VA.gov? </button>
                     <div id="faq-signin-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -59,7 +59,7 @@ display_title: Frequently asked questions
               </ul>
               <br>
              <h2>Common issues with signing in to VA.gov</h2>
-              <ul class="usa-accordion" aria-multiselectable="true">
+              <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
                     <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
@@ -355,7 +355,7 @@ display_title: Frequently asked questions
                         <p>When you create an account, ID.me will ask you to provide personal information, like your name, date of birth, address, or other details. ID.me will also ask you to either upload a picture of your driver’s license or passport or answer questions based on your public and private data (like your credit report) that only you’d know how to answer. This is to help make sure you're you—and not someone pretending to be you.</p>
                         <p>With your permission, ID.me will share this information with the Department of Veterans Affairs so we can give you access to your VA health records and benefit information. ID.me will never share your information with anyone else without asking for your permission.</p>
                         <p>ID.me protects all sensitive data with AES 256-bit encryption at rest and RSA 2048-bit encryption in transit. Their information security protections are stronger than many financial institutions. To learn more about how your personal information will be kept safe, read our privacy policy and ID.me’s privacy policy.</p>
-                        <p><a href="/privacy/">View the VA.gov privacy policy</a></p>
+                        <p><a href="/privacy-policy/">View the VA.gov privacy policy</a></p>
                         <p><a href="https://wallet.id.me/privacy">View the ID.me privacy policy</a></p>
                       </div>
                     </div>
