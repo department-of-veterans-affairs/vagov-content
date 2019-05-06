@@ -103,7 +103,7 @@ If you receive an email from us asking for additional information or evidence to
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How do I check the status of my application after I've applied?</h3>
+<h3 itemprop="name">Check the status of your application after you apply</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -116,7 +116,7 @@ You can sign in to your AccessVA account to check the status of your VIC applica
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How do I replace my Veteran ID Card if it’s lost or stolen?</h3>
+<h3 itemprop="name">Replace your Veteran ID Card if it gets lost or stolen</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -129,7 +129,7 @@ To request a new card, please send us an email. <br>
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What if I have questions or need help with my application?</h3>
+<h3 itemprop="name">Get help with your application</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
