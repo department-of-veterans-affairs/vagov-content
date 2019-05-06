@@ -16,7 +16,7 @@ The Reserve Educational Assistance Program (REAP, Chapter 1607) provides educati
 to active duty. The National Defense Authorization Act of 2016 ended this program on November 25, 2015. But some reservists
 can continue to get REAP benefits until **November 25, 2019**, while others are no longer eligible. In most cases, the 
 Post-9/11 GI Bill has replaced the REAP program. 
-<br> 
+</br> 
 The benefit rates are based on how much time you’ve served, as well as how much time you’re studying or training. If you’re a
 trainee on active duty, we’ll pay only for your tuition and fees.  The rates in these charts are effective **October 1, 
 2018**. We’ll stop paying these benefits on **November 25, 2019**. 
