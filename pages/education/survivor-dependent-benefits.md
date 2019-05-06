@@ -26,7 +26,7 @@ Find out if you're eligible for VA education benefits for dependents and survivo
 
 ### Am I eligible for education benefits?
 
-**You may qualify for VA education benefits (Chapter 35 benefits) if you’re the child or spouse of a Servicemember** and one of the below descriptions is true of the Servicemember.
+**You may qualify for VA education benefits (Chapter 35 benefits) if you’re the child or spouse of a service member** and one of the below descriptions is true of the service member.
 
 **One of these must be true. The Servicemember:**
 
