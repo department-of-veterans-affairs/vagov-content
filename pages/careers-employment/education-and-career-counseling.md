@@ -7,8 +7,6 @@ plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4
 spoke: Get benefits
-aliases:
-  - /education/tools-programs/education-career-counseling/
 ---
 
 <div class="va-introtext">
@@ -48,8 +46,8 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 
 <ol class="process">
   <li class="process-step list-one">Sign in to your eBenefits account.</li>
-  <li class="process-step list-two">Click <b>Additional Benefits</b> on your dashboard.</li>
-  <li class="process-step list-three">Choose <b>Vocational Rehabilitation and Employment Program</b>.</li>
+  <li class="process-step list-two">Select <b>Apply</b>.</li>
+  <li class="process-step list-three">Click <b>Vocational Rehabilitation and Employment Benefits</b>.</li>
   <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
   <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
 </ol>

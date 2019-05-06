@@ -7,8 +7,6 @@ description: Find out if you can transfer any of your unused Post-9/11 GI Bill b
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: complete
 order: 3
-aliases:
-  - /education/gi-bill/transfer/
 spoke: Manage benefits
 ---
 

@@ -9,8 +9,6 @@ keywords: va pension rates, va aid and attendance rates
 concurrence:
 spoke: More resources
 order: 1
-aliases:
-  - /pension/rates/
 ---
 
 <div class="va-introtext">

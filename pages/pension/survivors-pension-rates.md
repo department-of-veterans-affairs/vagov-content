@@ -9,8 +9,6 @@ keywords: va survivor benefit rates, va survivors pension rate table, va widows 
 concurrence:
 spoke: More resources
 order: 2
-aliases:
-  - /pension/survivors-pension/rates/
 ---
 
 <div class="va-introtext">

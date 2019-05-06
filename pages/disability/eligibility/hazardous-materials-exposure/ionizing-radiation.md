@@ -6,14 +6,12 @@ description: Find out if you can get VA disability pay and health care for illne
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-environmental_hazards.asp,http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/radiation-exposure/
 order: 6
 ---
 
 <div class="va-introtext">
 
-Find out if you can get disability compensation or benefits for illnesses—including some cancers—believed to be caused by contact with radiation during military service. 
+Find out if you can get disability compensation or benefits for illnesses—including some cancers—believed to be caused by contact with radiation during military service.
 
 </div>
 
@@ -22,7 +20,7 @@ Find out if you can get disability compensation or benefits for illnesses—incl
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you didn’t receive a dishonorable discharge and you meet the requirements listed below. 
+You may be able to get disability benefits if you didn’t receive a dishonorable discharge and you meet the requirements listed below.
 
 **Both of these must be true:**
 - You have an illness that's on our list of illnesses believed to be caused by radiation or that doctors say may be caused by radiation, **and**

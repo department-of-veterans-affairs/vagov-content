@@ -24,8 +24,6 @@ relatedlinks:
     - url: /careers-employment/veteran-owned-business-support/
       title: Register Your Veteran-Owned Small Business
       description: Register to do business with VA and get support for your Veteran-owned small business.
-aliases:
-  - /employment/vocational-rehab-and-employment/service-disabled/small-business-training/
 ---
 
 <div class="va-introtext">
@@ -123,4 +121,4 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 - Links to more resources outside VA that can help you in your job search. <br>
 [See our list of external resources](/careers-employment/veteran-resources/).<br>
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
-[Contact your VR&E counselor for more information](/facilities/).
+[Contact your VR&E counselor for more information](/find-locations/).

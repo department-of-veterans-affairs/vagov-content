@@ -7,8 +7,6 @@ display_title: Fully developed claim
 description: Find out how to file a fully developed claim to get a faster decision on your VA pension claim. When you file your claim, you'll submit all the evidence (supporting documents) you have—or can easily get. You'll also need to go to any required medical exams.
 concurrence:
 order: 1
-aliases:
-  - /pension/apply/fully-developed-claim/
 ---
 
 <div class="va-introtext">
@@ -22,7 +20,7 @@ If you file a claim in the FDC program and we decide that additional documents e
 
 ## Learn more about the FDC program
 
-<ul class="usa-accordion" aria-multiselectable="true" >
+<ul class="usa-accordion" >
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="need-to-do">What do I need to do?</button>
 <div id="need-to-do" class="usa-accordion-content">

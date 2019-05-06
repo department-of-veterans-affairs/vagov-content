@@ -6,11 +6,6 @@ display_title: Veteran-Owned Business Support
 concurrence: complete
 order: 5
 spoke: Get benefits
-aliases:
-  - /employment/job-seekers/register-your-business/
-  - /employment/job-seekers/service-disabled/
-  - /employment/job-seekers/skills-translator/
-  - /employment/job-seekers/unemployment-support/
 ---
 
 <div class="va-introtext">

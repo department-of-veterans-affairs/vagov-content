@@ -4,9 +4,6 @@ template: detail-page
 title: Accelerated payments for high-technology programs
 display_title: Accelerated payments
 concurrence: incomplete
-aliases:
-  - /education/work-learn/non-traditional/accelerated-payments/
-  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
 order: 4
 ---
 

@@ -19,8 +19,6 @@ relatedlinks:
     - url:
       title:
       description:
-aliases:
-  - /burials-and-memorials/pre-need/
 ---
 
 <div class="va-introtext">

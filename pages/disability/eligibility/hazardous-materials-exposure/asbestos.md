@@ -7,8 +7,6 @@ concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-asbestos.asp
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/asbestos/
 order: 3
 ---
 
@@ -23,7 +21,7 @@ Asbestos is a material that was once used in many buildings and products. If you
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have an illness believed to be caused by contact with asbestos and you meet both of the requirements listed below. 
+You may be able to get disability benefits if you have an illness believed to be caused by contact with asbestos and you meet both of the requirements listed below.
 
 **Both of these must be true:**
 
@@ -64,7 +62,7 @@ Get tested if you’ve worked in:
 - Shipyards
 - Construction
 - Carpentry
-- Demolition (knocking down old buildings) 
+- Demolition (knocking down old buildings)
 
 Get tested if you’ve made or worked with products like:
 - Flooring

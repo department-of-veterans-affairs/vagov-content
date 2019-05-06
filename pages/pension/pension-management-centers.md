@@ -9,8 +9,6 @@ keywords: va pension management center
 concurrence: ""
 order: 5
 spoke: More resources
-aliases:
-  - /pension/pension-management-center/
 ---
 
 <div class="va-introtext">
