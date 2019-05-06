@@ -21,9 +21,7 @@ Find the VA pension management center that serves the state, territory, or forei
 
 This office serves:
 
-<div class="usa-grid-full">
 
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Connecticut</li>
 <li>Delaware</li>
@@ -35,11 +33,6 @@ This office serves:
 <li>New Hampshire</li>
 <li>New Jersey</li>
 <li>New York</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>North Carolina</li>
 <li>Pennsylvania</li>
 <li>Puerto Rico</li>
@@ -50,9 +43,6 @@ This office serves:
 <li>West Virginia</li>
 <li>All other foreign countries not included under the St. Paul VA Pension Management Center below
 </ul>
-</div>
-
-</div>
 
 To submit a pension application to this office, mail it to:
 
@@ -74,8 +64,6 @@ Or, fax it to 844-655-1604.
 
 This office serves:
 
-<div class="usa-grid-full">
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Alabama</li>
 <li>Arkansas</li>
@@ -83,11 +71,6 @@ This office serves:
 <li>Illinois</li>
 <li>Kentucky</li>
 <li>Louisiana</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>Michigan</li>
 <li>Mississippi</li>
 <li>Missouri</li>
@@ -95,9 +78,7 @@ This office serves:
 <li>Tennessee</li>
 <li>Wisconsin</li>
 </ul>
-</div>
 
-</div>
 
 To submit a pension application to this office, mail it to:
 
@@ -119,9 +100,6 @@ Or, fax it to 844-655-1604.
 
 This office serves:
 
-<div class="usa-grid-full">
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Alaska</li>
 <li>Arizona</li>
@@ -136,11 +114,6 @@ This office serves:
 <li>Nebraska</li>
 <li>Nevada</li>
 <li>New Mexico</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>North Dakota</li>
 <li>Oklahoma</li>
 <li>Oregon</li>
@@ -154,9 +127,6 @@ This office serves:
 <li>South America</li>
 <li>The Caribbean</li>
 </ul>
-</div>
-
-</div>
 
 To submit a pension application to this office, mail it to:
 
