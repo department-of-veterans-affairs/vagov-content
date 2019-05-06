@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Veteran ID Card
+title: How To Apply For A Veteran ID Card
+heading: How to apply for a Veteran ID card
 display_title: Veteran ID Card
-description: Find out if you're eligible for a printed Veteran ID Card--and how to apply.
+description: A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses. Find out if you’re eligible for a Veteran ID Card and how to apply.
+keywords: veterans id card, vic card
 plainlanguage:
 lastupdate: 2019-04-19
 collection: veteranIdCards
@@ -11,7 +13,7 @@ hideFromSidebar: true
 order: 1
 production: false
 ---
-
+<div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
 A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses. Find out if you’re eligible for a Veteran ID Card—and how to apply.
@@ -20,9 +22,12 @@ A Veteran ID Card (VIC) is a form of photo ID you can use to get discounts offer
 
 **Please note:** Retail vendors volunteer to take part in this discount program. If a business decides to provide discounts to Veterans, it doesn’t mean that we’re recommending or favoring that business.
 
+<div class="feature" markdown="1">
 
-
-### Am I eligible for a Veteran ID Card?
+<div itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name">Am I eligible for a Veteran ID Card?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 You may be eligible if you meet both of the requirements listed below.
 
@@ -34,30 +39,55 @@ If you received an other than honorable, bad conduct, or dishonorable character 
 
 You’ll need to provide a copy of your discharge papers when you apply for a VIC to prove your character of discharge.
 
+</div>
+</div>
+</div>
+</div>
 
-### How do I apply for a Veteran ID Card?
+<div itemscope itemtype="http://schema.org/Question">
+  
+<h2 itemprop="name">How do I apply for a Veteran ID Card?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 You can apply online now.
 
 <div class="cta-widget" data-widget-type="cta" data-app-id="vic"></div>
 
-### What do I need to apply for a Veteran ID Card?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+  
+<h3 itemprop="name">You'll need this information</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
 
 When you apply, be sure to have these on hand:
-* Your Social Security number
-* A digital copy of your DD214, DD256, DD257, or NGB22 that you can upload. This could be in a .pdf, .jpeg, or .png file format.
-* A copy of a current and valid government-issued ID, such as a driver’s license, passport, or state-issued identification card.
+- Your Social Security number
+- A digital copy of your DD214, DD256, DD257, or NGB22 that you can upload. This could be in a .pdf, .jpeg, or .png file format.
+- A copy of a current and valid government-issued ID, such as a driver’s license, passport, or state-issued identification card.
 
 You'll also need a digital color photo of yourself from the shoulders up. The photo should follow all these standards:
-* Show a full front view of your face and neck (with no hat, head covering, or headphones covering or casting shadows on your hairline or face), **and**
-* Be cropped from your shoulders up (much like a passport photo), **and**
-* Show you with your eyes open and a neutral expression, **and**
-* Be taken in clothing you’d wear for a driver’s license photo, **and**
-* Be a square size and have a white or plain-color background (with no scenery or other people in the photo), **and**
-* Show what you look like now (a photo taken sometime in the last 10 years), **and**
-* Be uploaded as a .jpeg, .png, .bmp, or .tiff file
+- Show a full front view of your face and neck (with no hat, head covering, or headphones covering or casting shadows on your hairline or face), **and**
+- Be cropped from your shoulders up (much like a passport photo), **and**
+- Show you with your eyes open and a neutral expression, **and**
+- Be taken in clothing you’d wear for a driver’s license photo, **and**
+- Be a square size and have a white or plain-color background (with no scenery or other people in the photo), **and**
+- Show what you look like now (a photo taken sometime in the last 10 years), **and**
+- Be uploaded as a .jpeg, .png, .bmp, or .tiff file
 
-### What happens after I apply for a Veteran ID Card?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h2 itemprop="name">What happens after I apply for a Veteran ID Card?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
 Once you’ve submitted your VIC application, we’ll check your eligibility and verify that:
 - Your character of discharge meets eligibility requirements, **and**
 - The ID you submitted (driver’s license or passport) is valid, **and**
@@ -66,20 +96,51 @@ Once you’ve submitted your VIC application, we’ll check your eligibility and
 After we’ve verified your eligibility, we’ll send you an email letting you know the status of your application. If you have an unknown or uncharacterized discharge status, your application will take more time to process while we verify your eligibility. (We may need to request your records from the National Personnel Records Center.)
 
 If you receive an email from us asking for additional information or evidence to process your application, you’ll need to sign in to AccessVA and update your application with the information we ask for.
-<br>
-### How do I check the status of my application after I've applied?
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">Check the status of your application after you apply</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
 You can sign in to your AccessVA account to check the status of your VIC application.<br>
-[Sign in to your AccessVA account](https://access.va.gov/accessva/?cspSelectFor=vic).
+[Sign in to your AccessVA account](https://access.va.gov/accessva/?cspSelectFor=vic)
 
-### How do I replace my Veteran ID Card if it’s lost or stolen?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">Replace your Veteran ID Card if it gets lost or stolen</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
 To request a new card, please send us an email. <br>
-<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>.
+<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>
 
-### What if I have questions or need help with my application?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+
+<h3 itemprop="name">Get help with your application</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
 If you have any questions or need help, please send us an email. <br>
-<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>.
+<a href="mailto:vic@va.gov">Email us at vic@va.gov</a>
 
-### Learn more about how the Veteran ID Card works
+</div>
+</div>
+</div>
+
+<h2>Learn more about how the Veteran ID Card works</h2>
 
 <ul class="usa-accordion">
 <li>
@@ -123,3 +184,4 @@ You can’t use your Veteran ID Card to:
 </li>
 </ul>
 
+</div>
