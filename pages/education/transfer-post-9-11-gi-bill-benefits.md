@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Transfer Your Post-9/11 GI Bill Benefits | Veterans Affairs
-heading: Transfer Your Post-9/11 GI Bill Benefits
-display_title: Transfer Post-9/11 GI Bill Benefits
+title: Transfer Your Post-9/11 GI Bill Benefits
+heading: Transfer your Post-9/11 GI Bill benefits
+display_title: Transfer Post-9/11 GI Bill benefits
 description: Find out if you can transfer any of your unused Post-9/11 GI Bill benefits (sometimes called a "Post 9/11 GI Bill transfer") to your spouse or dependent children. Learn how to apply for a transfer online or by mail.
 keywords: gi bill transfer, post 911 gi bill transfer, transfer of education benefits, transfer post 911 gi bill, transfer post 911 gi bill
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
