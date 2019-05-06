@@ -20,7 +20,7 @@ gibsAlert: false
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext" itemprop="description" >
 
-Learn about GI Bill eligibility requirements and find out if you can get these benefits. VA education benefits can help pay your tuition, pick out a school, choose a career, and more. If you’re an active-duty Servicemember or Veteran, a member of the National Guard or Reserves, or a qualified survivor or dependent, find out if you can get VA education benefits through the GI Bill and other educational assistance programs. 
+Learn about GI Bill eligibility requirements and find out if you can get these benefits. VA education benefits can help you pay your tuition, pick out a school, choose a career, and more. If you’re an active-duty service member or Veteran, a member of the National Guard or Reserves, or a qualified survivor or dependent, find out if you can get VA education benefits through the GI Bill and other educational assistance programs. 
 
 </div>
 
