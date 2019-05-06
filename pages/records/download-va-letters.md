@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Download VA Benefit Letters
 display_title: Download VA Benefit Letters
+lastupdate: 2019-04-19
 template: detail-page
 order: 5
 spoke: Get records
