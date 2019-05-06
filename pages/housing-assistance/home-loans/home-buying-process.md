@@ -29,7 +29,7 @@ Get step-by-step instructions for buying a home through the VA home loan program
 
 ## What kind of VA-backed loan will I need to buy a home?
 
-You'll need a [VA-backed purchase loan](/housing-assistance/home-loans/loan-types/purchase-loan/).
+You'll need a [VA-backed purchase loan](/housing-assistance/home-loans/loan-types/purchase-loan/)
 
 You'll go through a private lender, like a bank or mortgage company, to get this loan. We'll guarantee part of the loan against loss, which will allow your lender to give you better loan terms, like the option to pay no down payment. <br>
 
@@ -42,7 +42,7 @@ Buying a home is a complex process, and getting a VA-backed loan is only one pie
 <ol class="process">
 <li class="process-step list-one">
 
-##### Apply for your VA-backed home loan Certificate of Eligibility (COE)
+#### Apply for your VA-backed home loan Certificate of Eligibility (COE)
 
 You’ll need to show your COE to your lender as proof that you qualify for the home loan benefit. 
 <br>
