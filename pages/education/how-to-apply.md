@@ -4,7 +4,7 @@ template: detail-page
 title: How to Apply | Veterans Affairs
 heading: How to Apply for the GI Bill and Other Education Benefits
 display_title: How to Apply
-description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, Servicemember, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
+description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
 keywords: apply for gi bill, how to apply for gi bill
 collection: education
