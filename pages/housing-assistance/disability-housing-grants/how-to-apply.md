@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Specially Adapted Housing (SAH) Grant
-display_title: How to Apply
+title: How to apply for a Specially Adapted Housing (SAH) grant
+display_title: How to apply
 description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
 concurrence:
 order: 1
@@ -21,8 +21,8 @@ Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adap
 <div itemprop="text">
 <ul>
 
-<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a>.</li>
-
+<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a></li>
+ 
 <li>Make sure you have the information listed below that you’ll need to fill out an  Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555).</li>
 </div>
 </div>
@@ -60,21 +60,21 @@ You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium
 
 <h4>By mail</h4>
 Fill out an Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555). <br>
-[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf). <br>
+[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf) <br>
 
 Mail the completed application to your nearest regional loan center. <br>
-[Find a regional loan center near you](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp). <br>
+[Find a regional loan center near you](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp) <br>
 
-If you have trouble accessing the form, call us toll-free at <a href="tel:+18008271000">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET). Ask to have a claim form mailed to you.
+If you have trouble accessing the form, call us toll-free at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. Ask to have a claim form mailed to you.
 
 <h4>In person</h4>
 Fill out an Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555). <br>
-[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf). <br>
+[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf) <br>
 
 Bring the completed application to your nearest VA regional benefit office. <br>
-<a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>.
+<a href="/find-locations/?facilityType=benefits">Find a VA regional benefit office near you</a>
 
-Or call us at <a href="tel:+18008271000">1-800-827-1000</a>.
+Or call us at <a href="tel:+18008271000">800-827-1000</a>.
 
 </div>
 </div>
@@ -82,8 +82,8 @@ Or call us at <a href="tel:+18008271000">1-800-827-1000</a>.
 <h2 itemprop="name">What if I need help with my application?</h2>
 <div itemprop="itemListElement">
 
-<a href="mailto:sahinfo.vbaco@va.gov">Email a Specially Adapted Housing (SAH) staff member</a>. <br>
-Or call an SAH staff member at <a href="tel:+18778273702">1-877-827-3702</a>.
+<a href="mailto:sahinfo.vbaco@va.gov">Email a Specially Adapted Housing (SAH) staff member</a> <br>
+Or call an SAH staff member at <a href="tel:+18778273702">877-827-3702</a>.
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Or call an SAH staff member at <a href="tel:+18778273702">1-877-827-3702</a>.
 We’ll process your claim and send you a letter with our decision.
 
 You can check the status of your claim by signing in to VA.gov. <br>
-<a href="/track-claims">Find out how to check your claim status</a>.
+<a href="/track-claims">Find out how to check your claim status</a>
 
 </div>
 </div>
