@@ -35,7 +35,7 @@ trainee on active duty, we’ll pay only for your tuition and fees.  The rates i
 | Full-time |	$797.60	| $1,196.40	| $1,595.20 |
 | ¾-time | $598.20 | $897.30 | $1,196.40 |
 | ½-time | $398.80 | $598.20 | $797.60 |
-| Less than | ½-time and more than ¼-time | $398.80\* | $598.20\*	| $797.60\* |
+| Less than ½-time and more than ¼-time | $398.80\* | $598.20\*	| $797.60\* |
 | ¼-time or less | $199.40\* | $199.40\* | $398.80\* |
 * Note: If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees,
 not for anything else like housing, supplies, etc. Payment can’t exceed the listed amount.
