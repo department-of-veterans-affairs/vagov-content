@@ -4,7 +4,7 @@ template: detail-page
 title: Non-College Degree Programs | Veterans Affairs 
 heading: Non-College Degree Programs
 display_title: Non-College Degree Programs
-description: Learn about ways to use the GI Bill to pay for professional training and trade skills like HVAC repair, truck driving, or Emergency Medical Technician (EMT). Qualified Veterans, Servicembers, and Dependents may be able to get money for tuition, books, and supplies. 
+description: Learn about ways to use the GI Bill to pay for professional training and trade skills like HVAC repair, truck driving, or Emergency Medical Technician (EMT). Qualified Veterans, service members, and dependents may be able to get money for tuition, books, and supplies. 
 keywords: n/a
 concurrence: incomplete
 plainlanguage: 11-22-16 certified in compliance with the Plain Writing Act
