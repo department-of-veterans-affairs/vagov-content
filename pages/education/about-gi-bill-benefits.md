@@ -71,7 +71,7 @@ aliases:
 
 <div class="va-introtext"> 
 
-GI Bill benefits help you pay for college, graduate school, and training prgrams. Since 1944, the GI Bill has helped qualifying Veterans and their family members get money to cover all or some of the costs for school or training. Learn more about GI Bill benefits below—and how to apply for them.
+GI Bill benefits help you pay for college, graduate school, and training programs. Since 1944, the GI Bill has helped qualifying Veterans and their family members get money to cover all or some of the costs for school or training. Learn more about GI Bill benefits below—and how to apply for them.
 
 If you applied for and were awarded Post-9/11 GI Bill education benefits, your GI Bill Statement of Benefits will show you how much of your benefits you’ve used and how much you have left to use. [View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit).
 
