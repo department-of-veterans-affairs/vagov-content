@@ -4,7 +4,7 @@ template: detail-page
 title: Choosing GI Bill Approved Schools | Veterans Affairs
 heading: Choosing GI Bill Approved Schools
 display_title: Choosing a School
-description: Find out which GI Bill schools are approved and compare benefits with the GI Bill Comparison Tool. See which education programs and trade schools covered by the GI Bill participate in the Yellow Ribbon program, which may help pay for school costs that aren't covered by the Post 9/11 GI Bill. 
+description: Find out which GI Bill schools are approved and compare benefits with the GI Bill Comparison Tool. See which education programs and trade schools covered by the GI Bill participate in the Yellow Ribbon Program, which may help pay for school costs that aren't covered by the Post 9/11 GI Bill. 
 keywords: gi bill schools, gi bill approved schools, trade schools covered by gi bill, schools that accept gi bill
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool
