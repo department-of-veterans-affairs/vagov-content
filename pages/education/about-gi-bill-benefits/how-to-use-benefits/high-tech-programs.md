@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Accelerated Payments for High-Tech | Veterans Affairs
-heading: Accelerated Payments for High-Technology Programs
-display_title: High-Tech Programs
+title: Accelerated Payments For High-Tech
+heading: Accelerated payments for high-technology programs
+display_title: High-tech programs
 description: Learn about accelerated payments for technology industry training like coding bootcamps. Active-duty Post-9/11 GI Bill Veterans may qualify for accelerated payments of up to 60% for high-cost program tuition and fees.
 keywords: n/a
 concurrence: incomplete
