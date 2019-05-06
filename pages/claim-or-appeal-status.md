@@ -22,7 +22,7 @@ Find out how to check the status of a VA claim or appeal online.
 
 <b>You can use this tool to check the status of a VA claim or appeal for compensation. Track your:</b>
 - Disability compensation (including claims based on special needs like an automobile or clothing allowance)
-- Veteran or survivor pension benefits
+- Veterans or Survivors Pension benefits
 - Special monthly compensation (such as Aid and Attendance)
 - Dependency and Indemnity Compensation (DIC)
 - Burial allowance to help pay for a Veteran's burial and funeral expenses
