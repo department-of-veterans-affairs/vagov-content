@@ -50,7 +50,7 @@ This office serves:
 <li>Vermont</li>
 <li>Virginia</li>
 <li>West Virginia</li>
-<li>All other foreign countries not included under the VA St. Paul Pension Management Center below
+<li>All other foreign countries not included under the St. Paul VA Pension Management Center below
 </ul>
 </div>
 
@@ -68,7 +68,7 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 844-655-1604.
 
-[Get more information about the VA Philadelphia Regional Office](https://www.benefits.va.gov/philadelphia/)
+[Get more information about the Philadelphia VA Regional Office](https://www.benefits.va.gov/philadelphia/)
 
 <br>
 
@@ -113,7 +113,7 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 844-655-1604.
 
-[Get more information about the VA Milwaukee Regional Office](https://www.benefits.va.gov/milwaukee/)
+[Get more information about the Milwaukee VA Regional Office](https://www.benefits.va.gov/milwaukee/)
 
 <br>
 
@@ -172,4 +172,4 @@ To submit a pension application to this office, mail it to:
 
 Or, fax it to 844-655-1604.
 
-[Get more information about the VA St. Paul Regional Office](https://www.benefits.va.gov/stpaul/)
+[Get more information about the St. Paul VA Regional Office](https://www.benefits.va.gov/stpaul/)
