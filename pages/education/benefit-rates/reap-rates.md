@@ -37,7 +37,7 @@ trainee on active duty, we’ll pay only for your tuition and fees.  The rates i
 | ½-time | $398.80 | $598.20 | $797.60 |
 | Less than ½-time and more than ¼-time | $398.80\* | $598.20\*	| $797.60\* |
 | ¼-time or less | $199.40\* | $199.40\* | $398.80\* |
-* Note: If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees,
+\* Note: If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees,
 not for anything else like housing, supplies, etc. Payment can’t exceed the listed amount.
 
 ### Correspondence training 
@@ -72,3 +72,13 @@ proportionally.
 | First 6 months of training | $598.20 | $897.30 | $1,196.40 |
 | Second 6 months of training |	$438.68 |	$658.02 |	$877.36 |
 | Remaining pursuit of training |	$279.16 |	$418.74 |	$558.32 |
+
+### Cooperative training 
+
+| | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
+|---|---|---|
+| Monthly benefit | $797.60	| $1,196.40 | $1,595.20 |
+
+### [Can I use the $600 Buy-Up program?](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
+
+
