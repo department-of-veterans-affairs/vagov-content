@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Montgomery GI Bill Active Duty (MGIB-AD) | Veterans Affairs
+title: Montgomery GI Bill Active Duty (MGIB-AD)
 heading: Montgomery GI Bill Active Duty (MGIB-AD)
 display_title: Montgomery GI Bill Active Duty
 description: Learn about eligibility requirements and what kind of benefits are available through the Montgomery GI Bill Active Duty for education and training. 
