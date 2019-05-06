@@ -8,6 +8,21 @@ description:
 concurrence: 
 spoke: More information and resources
 order: 6 
+relatedlinks:
+  - heading: Other helpful education benefit resources
+    links:
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/ 
+      title: How to use your benefits
+      description: Learn all the types of educational benefits you can use with your GI Bill coverage.
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: https://www.benefits.va.gov/gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person.
 ---
 
 <div class="va-introtext">
@@ -75,10 +90,12 @@ proportionally.
 
 ### Cooperative training 
 
-| | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
+| <i></i> | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
 |---|---|---|
 | Monthly benefit | $797.60	| $1,196.40 | $1,595.20 |
 
 ### [Can I use the $600 Buy-Up program?](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
 
+### I still have questions about my benefits.
 
+You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
