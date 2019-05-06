@@ -36,7 +36,7 @@ aliases:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to apply for the GI Bill and other VA education benefits as a Veteran, Servicemember, or qualified family member. 
+Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member. 
 
 </div>
 
