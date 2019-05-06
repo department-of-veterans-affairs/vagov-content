@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: National Call to Service Program | Veterans Affairs
+title: National Call To Service Program
 heading: National Call to Service 
-display_title: National Call to Service Program
+display_title: National Call to Service program
 description: If you performed a period of national service, learn more about educational benefit alternatives to the Montgomery GI Bill available through the National Call to Service program. Find out what alternatives are available, including cash bonuses and loan repayments. 
 keywords: n/a
 concurrence: incomplete
