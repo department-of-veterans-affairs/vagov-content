@@ -26,9 +26,9 @@ View current VA pension rates for Veterans, including VA Aid and Attendance rate
 **Example:**
 You’re a qualified Veteran with a dependent, non-Veteran spouse and no children. You also qualify for Aid and Attendance benefits based on your disabilities. You and your spouse have a combined yearly income of $10,000.
 <br>
-Your MAPR amount = $26,036 <br>
+Your MAPR amount = $26,766 <br>
 Your yearly income = $10,000 <br>
-Your VA pension = $16,036 for the year (or $1,336 paid each month)
+Your VA pension = $16,766 for the year (or $1,397 paid each month)
 
 ## What's the net worth limit to qualify for a Veterans Pension?
 
