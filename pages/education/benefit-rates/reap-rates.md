@@ -40,7 +40,7 @@ trainee on active duty, we’ll pay only for your tuition and fees.  The rates i
 
 [Learn more about REAP (Chapter 1607)](https://www.benefits.va.gov/gibill/reap.asp)
 
-[https://www.va.gov/education/other-va-education-benefits/reap/](/education/other-va-education-benefits/reap/)
+[Learn more about other options that may be available to you](/education/other-va-education-benefits/reap/)
 
 ### Schools and other institutional training
 | **Training time** | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
