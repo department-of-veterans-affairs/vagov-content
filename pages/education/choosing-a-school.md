@@ -34,7 +34,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find GI Bil approved schools and compare benefits with the GI Bill Comparison Tool. You can use your GI Bill benefits at some—but not all—schools. Use the resources listed below to search for GI Bill approved schools, compare the benefits you'll receive at different schools, and get more advice to help you choose a school.
+Find GI Bill approved schools and compare benefits with the GI Bill Comparison Tool. You can use your GI Bill benefits at some—but not all—schools. Use the resources listed below to search for GI Bill approved schools, compare the benefits you'll receive at different schools, and get more advice to help you choose a school.
 
 </div>
 
