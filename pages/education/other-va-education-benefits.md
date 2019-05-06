@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Other VA Education Benefits | Veterans Affairs
-heading: Other VA Education Benefits
-display_title: Other VA Education Benefits
+title: Other VA Education Benefits
+heading: Other VA education benefits
+display_title: Other VA education benefits
 description: Learn about other VA education benefits programs if you don't qualify for the Post-9/11 GI Bill. You may still be eligible for education assistance programs like the Montgomery GI Bill and the post-Vietnam era Veterans' Educational Assistance Program. 
 keywords: va education benefits, va education, dependents educational assistance program, education assistance program, veterans educational assistance program, veterans education assistance program, department of veterans affairs education programs, veterans education programs
 concurrence: incomplete
