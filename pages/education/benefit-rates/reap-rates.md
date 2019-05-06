@@ -39,3 +39,36 @@ trainee on active duty, we’ll pay only for your tuition and fees.  The rates i
 | ¼-time or less | $199.40\* | $199.40\* | $398.80\* |
 * Note: If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees,
 not for anything else like housing, supplies, etc. Payment can’t exceed the listed amount.
+
+### Correspondence training 
+
+This chart shows the level of payment you’ll get based on the percentage level of WHAT. Note that we charge entitlement based
+on the rate of one month for a benefit amount equal to the full-time institutional rate.
+
+| **Level of WHAT** | **How much we’ll pay you** |
+|--|--|
+| 40% level | 22% of the approved cost of course |
+| 60% level | 33% of the approved cost of course |
+| 80% level | 44% of the approved cost of course |
+
+### Flight school training 
+
+This chart shows the level of payment you’ll get based on the percentage level of WHAT. Note that we charge entitlement 
+based on the rate of one month for a benefit amount equal to the full-time institutional rate.
+
+| **Level of WHAT** | **How much we’ll pay you** |
+|--|--|
+| 40% level | 24% of the approved cost of course |
+| 60% level | 36% of the approved cost of course |
+| 80% level | 48% of the approved cost of course |
+
+### Apprenticeships and on-the-job training
+
+We base these rates on your working 120 hours in a month. If you work less than 120 hours, we’ll reduce your benefit 
+proportionally.
+
+| **Training period** | **If you’ve served 90 days but less than 1 year** | **If you’ve served 1 year but less than 2 years** | **If you’ve served 2 years or more** |
+|---|---:|---:|---:|
+| First 6 months of training | $598.20 | $897.30 | $1,196.40 |
+| Second 6 months of training |	$438.68 |	$658.02 |	$877.36 |
+| Remaining pursuit of training |	$279.16 |	$418.74 |	$558.32 |
