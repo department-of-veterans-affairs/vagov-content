@@ -13,7 +13,7 @@ spoke: More Resources
 
 <div class="va-introtext">
 
-Check Post 9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amounts. We provide education benefits to qualifying Veterans and their family members. The amount of money you’ll get for things like books, tuition, and housing depends on which program you choose. Find the most recent GI Bill BAH rates and compare benefits with the GI Bill comparison tool.
+Check Post-9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amounts. We provide education benefits to qualifying Veterans and their family members. The amount of money you’ll get for things like books, tuition, and housing depends on which program you choose. Find the most recent GI Bill BAH rates and compare benefits with the GI Bill comparison tool.
 
 </div>
 
