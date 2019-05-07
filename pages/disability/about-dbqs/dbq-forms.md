@@ -32,7 +32,7 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | VA form number | Form name |
 | --- | --- | ---|
-| **White and red blood cell conditions** <br> Includes anemia and some types of leukemia and lymphoma | 21-0960B-2 | [Hematologic and Lymphatic Conditions, including Leukemia](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
+| **White and red blood cells conditions** <br> Includes anemia and some types of leukemia and lymphoma | 21-0960B-2 | [Hematologic and Lymphatic Conditions, including Leukemia](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
 | **Hairy cell and other B-cell leukemias** | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
 
 </div>
@@ -47,7 +47,7 @@ box and click “Enter.” You can also search by the form number.
 | **Diabetic nerve damage** <br> Includes weakness, numbness, and tingling of legs and arms related to diabetes | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
 | **Issues concerning specific nerves in the brain** <br> Includes: <ul><li>V (trigeminal)</li><li>VII (facial)</li><li>IX (glossopharyngeal)</li><li>X (vagus)</li><li>XI (spinal accessory)</li><li>XII (hypoglossal)</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
 | **Headaches and related issues** <br> Includes migraines and headaches that cause nausea or vomiting or make it difficult to work | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
-| **Fibromyalgia issues** <br> Includes sleep problems, muscle and joint pain, and altered affect | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
+| **Fibromyalgia and related issues** <br> Includes sleep problems, muscle and joint pain, and altered affect | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
 | **Multiple sclerosis symptoms** <br> Includes symptoms like weakness, numbness, urine incontinence, eyesight problems, and balance issues | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
 | **Parkinson’s disease symptoms** <br> Includes tremors or trembling in hands, arms, legs, jaw, and face; rigidity or stiffness of the limbs and trunk; slow movements; and impaired balance and coordination. Other symptoms may include depression and other emotional changes; difficulty in swallowing, chewing, and speaking; urinary problems or constipation; skin problems; and sleep disruptions. | 21-0960C-1 | [Parkinson's Disease](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-1-ARE.pdf) |
 | **Narcolepsy symptoms** <br> Includes sleep attacks, sleepiness, paralysis, and cataplexy | 21-0960C-6 | [Narcolepsy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-6-ARE.pdf) |
@@ -57,26 +57,15 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions"><b>Teeth, mouth, gum, and jaw (dental)</b></button>
-<div id="dental-conditions" class="usa-accordion-content">
-
-| Conditions and symptoms | VA form number | Form name |
-| --- | --- | --- |
-| **All dental, gum, and mouth conditions except TMJ conditions** | 21-0960D-1 | [Dental and Oral Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960D-1-ARE.pdf) |
-| **TMJ joint conditions** <br> Includes pain in the jaw when biting, and sounds in the jaw | 21-0960M-15 | [Temporomandibular Joint (TMJ) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960m-15-ARE.pdf) |
-
-</div>
-</li>
-<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="digestion"><b>Digestive system (gastrointestinal)</b></button>
 <div id="digestion" class="usa-accordion-content">
 
 | Conditions and symptoms | VA form number | Form name |
 | --- | --- | --- |
-| **Problems affecting your esophagus** <br> Includes spasms, lump in throat or chest, heartburn, pain with swallowing, or vomiting | 21-0960G-1 | [Esophageal Conditions (including GERD, Hiatal Hernia, and Other Esophageal Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-1-ARE.pdf) |
-| **Problems affecting your gallbladder or pancreas** <br> Gallbladder issues include inflammation, gallstones, or pain after eating fatty food <br> Pancreas: Includes pancreatitis that causes severe recurring abdominal pain | 21-0960G-2 | [Gallbladder and Pancreas Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-2-ARE.pdf) |
-| **Problems affecting your intestines or colon** <br> For intestines: Includes irritable bowel syndrome (IBS), chronic recurrent diarrhea (diarrhea that lasts a long time or keeps coming back), or constipation <br> For colon: Includes colon issues like ulcerative colitis, bloody stools, fistulas, or abscesses | 21-0960G-3 | [Intestinal Conditions (other than surgical or infectious) including Irritable Bowel Syndrome, Crohn's Disease, Ulcerative Colitis, and Diverticulitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-3-ARE.pdf) |
-| **Problems affecting your liver** <br> Includes all types of hepatitis, cirrhosis, and other chronic liver damage and disease as well as jaundice, ascites, and fluid retention | 21-0960G-5 | [Hepatitis, Cirrhosis and Other Liver Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-5-ARE.pdf) |
+| **Esophageal issues** <br> Includes spasms, lump in throat or chest, heartburn, pain with swallowing, or vomiting | 21-0960G-1 | [Esophageal Conditions (including GERD, Hiatal Hernia, and Other Esophageal Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-1-ARE.pdf) |
+| **Gallbladder or pancreas related issues** <br> Gallbladder issues include inflammation, gallstones, or pain after eating fatty food <br> Pancreas: Includes pancreatitis that causes severe recurring abdominal pain | 21-0960G-2 | [Gallbladder and Pancreas Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-2-ARE.pdf) |
+| **Intestinal or colon issues** <br> For intestines: Includes irritable bowel syndrome (IBS), chronic recurrent diarrhea (diarrhea that lasts a long time or keeps coming back), or constipation <br> For colon: Includes colon issues like ulcerative colitis, bloody stools, fistulas, or abscesses | 21-0960G-3 | [Intestinal Conditions (other than surgical or infectious) including Irritable Bowel Syndrome, Crohn's Disease, Ulcerative Colitis, and Diverticulitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-3-ARE.pdf) |
+| **Liver conditions** <br> Includes all types of hepatitis, cirrhosis, and other chronic liver damage and disease as well as jaundice, ascites, and fluid retention | 21-0960G-5 | [Hepatitis, Cirrhosis and Other Liver Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-5-ARE.pdf) |
 | **Scars inside the abdomen** <br> Includes peritoneal adhesions, which can cause partial or complete bowel obstruction | 21-0960G-6 | [Peritoneal Adhesions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-6-ARE.pdf) |
 | **Stomach issues** <br> Includes peptic ulcer disease, recurring pain relieved by antacids, bloody stools, nausea or vomiting, and indigestion | 21-0960G-7 | [Stomach and Duodenum Conditions (not including GERD or Esophageal Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-7-ARE.pdf) |
 | **Infectious intestinal conditions** <br> Includes dysentery and intestinal bacteria and parasites, with recurring diarrhea, changes in stool consistency, or foul smell | 21-0960G-8 | [Infectious Intestinal Disorders, including Bacterial and Parasitic Infections](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-8-ARE.pdf) |
@@ -90,7 +79,7 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | VA form number | Form name |
 | --- | --- | --- |
-| **Ear conditions** <br> Includes infections, dizziness, vertigo, tumors in the ear, and ringing in the ears (tinnitus) | 21-0960N-1 | [Ear Condition (including: Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
+| **Issues affecting your ears** <br> Includes infections, dizziness, vertigo, tumors in the ear, and ringing in the ears (tinnitus) | 21-0960N-1 | [Ear Condition (including: Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
 | **Issues with your sinuses, nose, throat, larynx, and pharynx** <br> Includes deviated nasal septum, organic aphonia, vocal cord issues, and other conditions | 21-0960N-4 | [Sinusitis, Rhinitis, and other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
 
 </div>
@@ -101,7 +90,7 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | VA form number | Form name |
 | --- | --- | --- |
-| Issues involving diseases of the eye, including inflammation, infection, glaucoma, deformities, tear duct issues, cataracts, retina disease, and other conditions | 21-0960N-2 | [Eye Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-2-ARE.pdf) |
+| **Issues affecting your eyes** <br> Includes inflammation, infection, glaucoma, deformities, tear duct issues, cataracts, retina disease, and other conditions | 21-0960N-2 | [Eye Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-2-ARE.pdf) |
 
 </div>
 </li>
@@ -111,10 +100,10 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | VA form number | Form name |
 | --- | --- | --- |
-| Issues with the kidney, including nephritis, renal insufficiency, kidney failure, abnormal kidney function tests, protein in the urine, edema, and kidney stones | 21-0960J-1 | [Kidney Conditions (Nephrology)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-1-ARE.pdf) |
-| Issues with male sex organs, including the urethra, penis, testes, and scrotum. Conditions can include painful urination, swelling, blood in the urine, or incontinence. | 21-0960J-2 | [Male Reproductive Organ Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-2-ARE.pdf) |
-| Prostate issues, including cancer of the prostate gland, and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
-| Issues involving the bladder and urethra, including issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
+| **Kidneys** <br> Includes nephritis, renal insufficiency, kidney failure, abnormal kidney function tests, protein in the urine, edema, and kidney stones | 21-0960J-1 | [Kidney Conditions (Nephrology)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-1-ARE.pdf) |
+| **Male sex organs** <br> Includes issues affecting the urethra, penis, testes, and scrotum such as painful urination, swelling, blood in the urine, or incontinence | 21-0960J-2 | [Male Reproductive Organ Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-2-ARE.pdf) |
+| **Prostate** <br> Includes prostate cancer and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
+| **Bladder and urethra** <br> Includes issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
 
 </div>
 </li>
@@ -124,9 +113,9 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Conditions affecting your veins or arteries, including varicose veins and related conditions that may cause swelling of legs or other areas, pain when walking, or skin or nail changes | 21-0960A-2 | [Artery and Vein Conditions (Vascular Diseases including varicose veins)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-2-ARE.pdf) |
-| High blood pressure or hypertension | 21-0960A-3 | [Hypertension](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-3-ARE.pdf) |
-| Heart conditions, including heart attack, irregular heartbeat, and heart surgery | 21-0960A-4 | [Heart Conditions (Including IHD, Non-IHD, Arrhythmias Valvular Disease and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
+| **Veins or arteries** <br> Includes varicose veins and related conditions that may cause swelling of legs or other areas, pain when walking, or skin or nail changes | 21-0960A-2 | [Artery and Vein Conditions (Vascular Diseases including varicose veins)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-2-ARE.pdf) |
+| **Blood vessels** <br> High blood pressure or hypertension | 21-0960A-3 | [Hypertension](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-3-ARE.pdf) |
+| **Heart** <br> Includes heart attack, irregular heartbeat, and heart surgery | 21-0960A-4 | [Heart Conditions (Including IHD, Non-IHD, Arrhythmias Valvular Disease and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
 
 </div>
 </li>
@@ -136,9 +125,9 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Diabetes Type 1 or 2, conditions related to blood sugar levels, and abnormal glucose tolerance test (GTT) | 21-0960E-1 | [Diabetes Mellitus (DM)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-1-ARE.pdf) |
-| Conditions affecting the hormone glands, including Cushing's syndrome, acromegaly, Addison's disease, and others | 21-0960E-2 | [Endocrine Diseases (other than Thyroid and Parathyroid, or Diabetes Mellitus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-2-ARE.pdf) |
-| Thyroid and parathyroid conditions, including growth, metabolism, and other issues | 21-0960E-3 | [Thyroid and Parathyroid Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-3-ARE.pdf) |
+| **Diabetes Type 1 or 2 and related conditions** <br> Includes conditions related to blood sugar levels and abnormal glucose tolerance test (GTT) | 21-0960E-1 | [Diabetes Mellitus (DM)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-1-ARE.pdf) |
+| **Conditions affecting the hormone glands** <br> Includes conditions such as Cushing's syndrome, acromegaly, and Addison's disease | 21-0960E-2 | [Endocrine Diseases (other than Thyroid and Parathyroid, or Diabetes Mellitus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-2-ARE.pdf) |
+| **Thyroid and parathyroid conditions** <br> Includes issues affecting growth and metabolism | 21-0960E-3 | [Thyroid and Parathyroid Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960E-3-ARE.pdf) |
 
 </div>
 </li>
@@ -148,12 +137,12 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Human immunodeficiency virus (HIV) and related conditions | 21-0960I-2 | [HIV-Related Illnesses](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-2-ARE.pdf) |
-| Infectious diseases **not** specifically associated with either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
-| Infectious diseases associated with military service in tropical areas, including the Person Gulf and Afghanistan. These can include exposure to salmonella, shigella, and other bacteria that cause symptoms like chronic diarrhea | 21-0960I-1 | [Persian Gulf and Afghanistan Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-1-ARE.pdf) |
-| Autoimmune issues, including conditions like lupus, Goodpasture syndrome, and Guillain-Barre syndrome | 21-0960I-4 | [Systemic Lupus Erthematosus (SLE) and Other Autoimmune Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-4-ARE.pdf) |
-| Tuberculosis symptoms | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
-| Vitamin deficiencies, including beriberi, pellagra, some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorption of nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
+| **Human immunodeficiency virus (HIV)** <br> Includes illnesses related to HIV | 21-0960I-2 | [HIV-Related Illnesses](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-2-ARE.pdf) |
+| **Infectious diseases associated with military service in tropical areas, including the Person Gulf and Afghanistan** <br>Includes exposure to salmonella, shigella, and other bacteria that cause symptoms like chronic diarrhea | 21-0960I-1 | [Persian Gulf and Afghanistan Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-1-ARE.pdf) |
+| **Other infectious diseases** <br> Includes infectious diseases **not** specifically linked to either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
+| **Autoimmune issues** <br> Includes conditions like lupus, Goodpasture syndrome, and Guillain-Barre syndrome | 21-0960I-4 | [Systemic Lupus Erthematosus (SLE) and Other Autoimmune Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-4-ARE.pdf) |
+| **Tuberculosis symptoms** | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
+| **Vitamin deficiencies** <br> Includes beriberi, pellagra, some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorption of nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
 
 </div>
 </li>
@@ -163,8 +152,8 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Hernias that result in organs bulging through the muscle, except hiatal hernia | 21-0960H-1 | [Hernias (including Abdominal, Inguinal, and Femoral Hernias)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-1-ARE.pdf) |
-| Rectum and anus issues, including changes in sphincter control, stricture of prolapse, fistula, and other symptoms. Also includes bowel incontinence, severe constipation blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
+| **Hernias**  <br> Except hiatal hernia | 21-0960H-1 | [Hernias (including Abdominal, Inguinal, and Femoral Hernias)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-1-ARE.pdf) |
+| **Rectal and anal issues** <br> Includes symptoms such as changes in sphincter control, stricture of prolapse, fistula as well as bowel incontinence, severe constipation blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
 
 </div>
 </li>
@@ -174,8 +163,8 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Breathing conditions other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (other than TB and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
-| Sleep apnea, including stopping breathing during sleep, as well as impaired functionality during the day as a result of poor sleep | 21-0960L-2 | [Sleep Apnea](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-2-ARE.pdf) |
+| **Breathing conditions** <br> Other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (other than TB and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
+| **Sleep apnea** <br> Includes stopping breathing during sleep, as well as impaired functionality during the day as a result of poor sleep | 21-0960L-2 | [Sleep Apnea](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-2-ARE.pdf) |
 
 </div>
 </li>
@@ -185,7 +174,7 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Chronic fatigue syndrome, including tiredness, loss of memory or concentration, and enlarged lymph nodes | 21-0960Q-1 | [Chronic Fatigue Syndrome](https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf) |
+| **Chronic fatigue syndrome** <br> Includes tiredness, loss of memory or concentration, and enlarged lymph nodes | 21-0960Q-1 | [Chronic Fatigue Syndrome](https://www.vba.va.gov/pubs/forms/VBA-21-0960Q-1-ARE.pdf) |
 
 </div>
 </li>
@@ -195,10 +184,20 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| Anorexia, bulimia, and other eating disorders | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
-| <b>General mental disorders<b><br>
-  Including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
-| PTSD-related issues, including evaluating beginning and extent of symptoms. Types include: <ul><li><b>Acute</b>, meaning the symptoms have been happening for less than 3 months</li><li><b>Chronic</b>, meaning the symptoms usually last 3 months or more</li><li><b>Delayed onset</b>, meaning the symptoms began at least 6 months after the traumatic experience </li></ul> Symptoms may include reliving the experience of a traumatic event, avoiding situations or people associated with the trauma, deadening of general responsiveness, insomnia, recurrent nightmares, extreme caution, an intensified fright response, and a change in levels of hostility. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
+| **Anorexia, bulimia, and other eating disorders** | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
+| **Mental health problems** <br> Includes conditions such as depression, mood and affective disorders, and psychosis | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
+| **Posttraumatic Stress Disorder (PTSD)** <br> Includes determining how and when symptoms began and how severe they are. PTSD may include symptoms like upsetting memories, feeling on edge, having trouble sleeping, reliving the experience of a traumatic event, anger, or the desire to avoid thoughts and feelings about the event. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions"><b>Mouth, teeth, gums, and jaw (dental)</b></button>
+<div id="dental-conditions" class="usa-accordion-content">
+
+| Conditions and symptoms | VA form number | Form name |
+| --- | --- | --- |
+| **All conditions affecting your mouth, teeth, gums, or jaw, except TMJ** | 21-0960D-1 | [Dental and Oral Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960D-1-ARE.pdf) |
+| **TMJ joint conditions** <br> Includes pain in the jaw when biting, and sounds in the jaw | 21-0960M-15 | [Temporomandibular Joint (TMJ) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960m-15-ARE.pdf) |
 
 </div>
 </li>
