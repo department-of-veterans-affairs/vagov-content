@@ -190,7 +190,7 @@ more information. If VA schedules exams for you, be sure not to miss them.
 
 ## What if I need help?
 
-A Veterans Service Organization or VA-accredited attorney or agent can
+A Veterans service organization or VA-accredited attorney or agent can
 help you request a decision review. <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request)
 
