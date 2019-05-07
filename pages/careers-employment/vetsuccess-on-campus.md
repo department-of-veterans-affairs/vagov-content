@@ -103,8 +103,8 @@ This program is also available to dependents of Veterans who meet at least one o
 |---|---|---| 
 | California State University - Long Beach | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
 | Long Beach City College | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
-| Mt. San Antonio College | Mark Smith <a href="mailto:Mark.Smith18dc1@va.gov">Mark.Smith18dc1@va.gov</a> | Los Angeles (344) | 
-| Citrus College | Mark Smith <a href="mailto:Mark.Smith18dc1@va.gov">Mark.Smith18dc1@va.gov</a> | Los Angeles (344) | 
+| Mt. San Antonio College | Vacant | Los Angeles (344) | 
+| Citrus College | Vacant | Los Angeles (344) | 
 | Saddleback College | Kelandra Anthony <a href="mailto:Anthony Kelandra.Anthony@va.gov">Kelandra.Anthony@va.gov</a> | Los Angeles (344) |
 | Irvine Valley College | Kelandra Anthony <a href="mailto:Anthony Kelandra.Anthony@va.gov">Kelandra.Anthony@va.gov</a> | Los Angeles (344) |
 | Pasadena City College | David Fierro <a href="mailto:David.Fierro@va.gov">David.Fierro@va.gov</a> | Los Angeles (344) |
@@ -306,8 +306,8 @@ This program is also available to dependents of Veterans who meet at least one o
 | **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Syracuse University | Kate Untiedt <a href="mailto:Katherine.Untiedt@va.gov">Katherine.Untiedt@va.gov</a> | Buffalo (307) |
-| Nassau Community College | Christopher Holder <a href="mailto:Christopher.Holder@va.gov">Christopher.Holder@va.gov</a> | New York (306) |
-| Suffolk County Community College | Christopher Holder <a href="mailto:Christopher.Holder@va.gov">Christopher.Holder@va.gov</a> | New York (306) |
+| Nassau Community College | Vacant | New York (306) |
+| Suffolk County Community College | Vacant | New York (306) |
 </div>
 </li>
 <li>
@@ -317,7 +317,7 @@ This program is also available to dependents of Veterans who meet at least one o
 | **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | East Carolina University | Kim Treece <a href="mailto:Kimberly.Treece@va.gov">Kimberly.Treece@va.gov</a> | Winston-Salem (318) |
-| Fayetteville Technical Community College | Roderick Rogers <a href="mailto:Roderick.Rogers2@va.gov">Roderick.Rogers2@va.gov</a> | Winston-Salem (318) |
+| Fayetteville Technical Community College | April C. Riley <a href="mailto:April.Riley@va.gov">April.Riley@va.gov</a> | Winston-Salem (318) |
 </div>
 </li>
 
