@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Board Hearings with a Veterans Law Judge
-display_title: Board Hearings for Decision Reviews
+title: Board hearings with a Veterans Law Judge
+display_title: Board hearings for decision reviews
 hidesidenav: true
 ---
 
@@ -50,8 +50,8 @@ You aren't required to have a hearing. A Board hearing is always optional.
 ### How do I request a Board hearing?
 
 When you fill out the Decision Review Request: Board Appeal (VA Form 10182), select block 11c, “Hearing with a Veterans Law Judge." <br>
-<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a>.<br>
-<a href="/decision-reviews/board-appeal/">Learn more about requesting a Board Appeal</a>.
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a><br>
+<a href="/decision-reviews/board-appeal/">Learn more about requesting a Board Appeal</a>
 
 ### How will I know when my hearing is scheduled?
 
@@ -68,7 +68,7 @@ Yes, you can bring new and relevant evidence to your hearing to share with the j
 
 A representative who’s trained in the appeals process can help you prepare for your hearing and for the conversation with the judge. Your representative must be a VA-accredited lawyer, claims agent, or someone from a Veterans Service Organization (VSO).<br>
 
-[Get help preparing for your hearing](/decision-reviews/get-help-with-review-request/).
+[Get help preparing for your hearing](/decision-reviews/get-help-with-review-request/)
 
 <span id="what-to-expect-at-board-hearing"></span>
 ## Find out what to expect at your Board hearing
@@ -100,7 +100,7 @@ When the 90-day time period for submitting new evidence closes, your case will b
 
 ### What if I need to reschedule my hearing?
 
-You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board. [Use the address or fax number listed below](#send-request-to-board).
+You'll need to send a written request to the Board of Veterans’ Appeals providing good cause to reschedule your hearing at least 2 weeks before your hearing. Include your name, the VA file number for your appeal, and the reason why you need a new hearing date. Send your written request to the Board. [Use the address or fax number listed below](#send-request-to-board)
 
 If your hearing is less than 2 weeks away, you’ll need to file a motion explaining why you need to reschedule.
 
@@ -121,7 +121,7 @@ If you need to withdraw your hearing request, you or your representative should 
 <span id="send-request-to-board"></span>
 ### Where do I send the Board a written request or new evidence?
 
-You can mail or fax a written request to reschedule or withdraw your Board hearing. You can also submit new evidence for the judge to review with 90 days from the day of your hearing.
+You can mail or fax a written request to reschedule or withdraw your Board hearing. You can also submit new evidence for the judge to review within 90 days of the day of your hearing.
 
 
 #### By mail
@@ -134,5 +134,5 @@ Washington, D.C. 20038<br>
 
 #### By fax
 
-Fax your request to 1-844-678-8979.
+Fax your request to 844-678-8979.
 
