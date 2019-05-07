@@ -7,8 +7,6 @@ concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 9
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/navy-coast-guard/
 ---
 
 <div class="va-introtext">
@@ -67,7 +65,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation.<br>
-[Find out how to file a claim](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 If you served on 1 of the ships or boats listed above—and you have 1 or more illnesses believed to be caused by Agent Orange—we’ll conclude that your illness is likely caused by contact with Agent Orange.
 

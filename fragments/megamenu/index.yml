@@ -1,274 +1,284 @@
 - title: VA Benefits and Health Care
   menuSections:
-  - title: Health Care
+  - title: Health care
     links:
       columnOne:
-        title: Get Health Care Benefits
+        title: Get health care benefits
         links:
-        - text: About VA Health Benefits
+        - text: About VA health benefits
           href: https://www.va.gov/health-care/about-va-health-benefits/
-        - text: How to Apply
+        - text: How to apply
           href: https://www.va.gov/health-care/how-to-apply/
-        - text: Family and Caregiver Health Benefits
+        - text: Family and caregiver health benefits
           href: https://www.va.gov/health-care/family-caregiver-benefits/
-        - text: Apply Now for Health Care
+        - text: Apply now for health care
           href: https://www.va.gov/health-care/apply/application
       columnTwo:
-        title: Manage Your Health
+        title: Manage your health
         links:
-        - text: Refill and Track Your Prescriptions
+        - text: Refill and track your prescriptions
           href: https://www.va.gov/health-care/refill-track-prescriptions
-        - text: Send a Secure Message to Your Health Care Team
+        - text: Send a secure message to your health care team
           href: https://www.va.gov/health-care/secure-messaging
-        - text: Schedule and View VA Appointments
+        - text: Schedule and view VA appointments
           href: https://www.va.gov/health-care/schedule-view-va-appointments/
-        - text: View Your Lab and Test Results
+        - text: View your lab and test results
           href: https://www.va.gov/health-care/view-test-and-lab-results/
-        - text: Order Hearing Aid Batteries and Prosthetic Socks
+        - text: Order hearing aid batteries and prosthetic socks
           href: https://www.va.gov/health-care/order-hearing-aid-batteries-prosthetic-socks/
       fragments:
         columnThree: promotions/health-care
       seeAllLink:
-        text: Health Care
+        text: health care
         href: https://www.va.gov/health-care/
   - title: Disability
     links:
       columnOne:
-        title: Get Disability Benefits
+        title: Get disability benefits
         links:
         - text: Eligibility
           href: https://www.va.gov/disability/eligibility/
-        - text: How to File a Claim
+        - text: How to file a claim
           href: https://www.va.gov/disability/how-to-file-claim/
-        - text: Survivor and Dependent Compensation (DIC)
+        - text: Survivor and dependent compensation (DIC)
           href: https://www.va.gov/burials-memorials/dependency-indemnity-compensation/
       columnTwo:
-        title: Manage Your Benefits
+        title: Manage your benefits
         links:
-        - text: Check Your Claim or Appeal Status
+        - text: Check your claim or appeal status
           href: https://www.va.gov/claim-or-appeal-status/
-        - text: View Your VA Payment History
+        - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
-        - text: Upload Evidence to Support Your Claim
+        - text: Upload evidence to support your claim
           href: https://www.va.gov/disability/upload-supporting-evidence/
-        - text: File for a VA Disability Increase
-          href: https://www.va.gov/disability-benefits/apply/form-526-disability-claim/
-        - text: File an Appeal
+        - text: File for a VA disability increase
+          href: https://www.va.gov/disability/how-to-file-claim/
+        - text: File an appeal
           href: https://www.va.gov/disability/file-an-appeal/
       fragments:
         columnThree: promotions/disability
       seeAllLink:
-        text: Disability
+        text: disability
         href: https://www.va.gov/disability/
-  - title: Education and Training
+  - title: Education and training
     links:
       columnOne:
-        title: Get Education Benefits
+        title: Get education benefits
         links:
-        - text: About GI Bill Benefits
+        - text: About GI Bill benefits
           href: https://www.va.gov/education/about-gi-bill-benefits/
         - text: Eligibility
           href: https://www.va.gov/education/eligibility/
-        - text: How to Apply
+        - text: How to apply
           href: https://www.va.gov/education/how-to-apply/
         - text: Vocational Rehabilitation and Employment
           href: https://www.va.gov/careers-employment/vocational-rehabilitation/
-        - text: Survivor and Dependent Education Benefits
+        - text: Survivor and dependent education benefits
           href: https://www.va.gov/education/survivor-dependent-benefits/
       columnTwo:
-        title: Manage Your Benefits
+        title: Manage your benefits
         links:
-        - text: View Your VA Payment History
+        - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
-        - text: Check Your Post-9/11 GI Bill Benefits
+        - text: Check your Post-9/11 GI Bill benefits
           href: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
-        - text: Transfer Your Post-9/11 GI Bill Benefits
+        - text: Transfer your Post-9/11 GI Bill benefits
           href: https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/
-        - text: Change Your GI Bill School or Program
+        - text: Change your GI Bill school or program
           href: https://www.va.gov/education/change-gi-bill-benefits/
-        - text: Change Your Direct Deposit Information
+        - text: Change your direct deposit information
           href: https://www.va.gov/change-direct-deposit-and-contact-information/
       fragments:
         columnThree: promotions/education
       seeAllLink:
-        text: Education
+        text: education
         href: https://www.va.gov/education/
-  - title: Careers and Employment
+  - title: Careers and employment
     links:
       columnOne:
-        title: Get Employment Benefits
+        title: Get employment benefits
         links:
         - text: About Vocational Rehabilitation and Employment
           href: https://www.va.gov/careers-employment/vocational-rehabilitation/
-        - text: How to Apply
+        - text: How to apply
           href: https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
-        - text: Veteran-Owned Small Business Support
+        - text: Veteran-owned small business support
           href: https://www.va.gov/careers-employment/veteran-owned-business-support/
       columnTwo:
-        title: Manage Your Career
+        title: Manage your career
         links:
-        - text: VA Transition Assistance
+        - text: VA transition assistance
           href: https://www.benefits.va.gov/tap/
-        - text: CareerScope Assessment
+        - text: CareerScope assessment
           href: https://www.va.gov/careers-employment/careerscope-skills-assessment/
-        - text: Find a Job
+        - text: Find a job
           href: https://www.dol.gov/veterans/findajob/
           target: _blank
-        - text: Find VA Careers and Support
+        - text: Find VA careers and support
           href: https://www.va.gov/jobs/
-        - text: Print Your Civil Service Preference Letter
+        - text: Print your civil service preference letter
           href: https://www.va.gov/records/download-va-letters/
       fragments:
         columnThree: promotions/careers
       seeAllLink:
-        text: Careers and Employment
+        text: careers and employment
         href: https://www.va.gov/careers-employment/
   - title: Pension
     links:
       columnOne:
-        title: Get Pension Benefits
+        title: Get pension benefits
         links:
-        - text: Veterans Pension Eligibility
+        - text: Veterans Pension eligibility
           href: https://www.va.gov/pension/eligibility/
-        - text: How to Apply
+        - text: How to apply
           href: https://www.va.gov/pension/how-to-apply/
-        - text: Aid and Attendance Benefits and Housebound Allowance
+        - text: Aid and attendance benefits and housebound allowance
           href: https://www.va.gov/pension/aid-attendance-housebound/
         - text: Survivors Pension
           href: https://www.va.gov/pension/survivors-pension/
-        - text: Apply Now for a Veterans Pension
+        - text: Apply now for a Veterans Pension
           href: https://www.va.gov/pension/application/527EZ
       columnTwo:
-        title: Manage Your Benefits
+        title: Manage your benefits
         links:
-        - text: Check Your Claim or Appeal Status
+        - text: Check your claim or appeal status
           href: https://www.va.gov/claim-or-appeal-status/
-        - text: View Your VA Payment History
+        - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
-        - text: Change Your Direct Deposit and Contact Information
+        - text: Change your address
+          href: https://www.va.gov/change-address/
+        - text: Change your direct deposit and contact information
           href: https://www.va.gov/change-direct-deposit-and-contact-information/
       fragments:
         columnThree: promotions/pension
       seeAllLink:
-        text: Pension
+        text: pension
         href: https://www.va.gov/pension/
-  - title: Housing Assistance
+  - title: Housing assistance
     links:
       columnOne:
-        title: Get Home Loan Benefits
+        title: Get home loan benefits
         links:
-        - text: About VA Home Loan Types
+        - text: About VA home loan types
           href: https://www.va.gov/housing-assistance/home-loans/loan-types/
-        - text: Check Your Appeal Status
+        - text: Check your appeal status
           href: https://www.va.gov/claim-or-appeal-status/
-        - text: How to Apply for Your COE
+        - text: How to apply for your COE
           href: https://www.va.gov/housing-assistance/home-loans/how-to-apply/
       columnTwo:
-        title: Get Veterans Housing Grants
+        title: Get Veterans housing grants
         links:
-        - text: About Disability Housing Grants
+        - text: About disability housing grants
           href: https://www.va.gov/housing-assistance/disability-housing-grants/
-        - text: Check Your SAH Claim Status
+        - text: Check your SAH claim status
           href: https://www.va.gov/claim-or-appeal-status/
-        - text: How to Apply for an SAH Grant
+        - text: How to apply for an SAH grant
           href: https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/
       fragments:
         columnThree: promotions/housing
       seeAllLink:
-        text: Housing Assistance
+        text: housing assistance
         href: https://www.va.gov/housing-assistance/
-  - title: Life Insurance
+  - title: Life insurance
     links:
       columnOne:
-        title: Get Life Insurance
+        title: Get life insurance
         links:
-        - text: About Life Insurance Options
+        - text: About life insurance options
           href: https://www.va.gov/life-insurance/options-eligibility/
-        - text: Benefits for Totally Disabled or Terminally Ill Policyholders
+        - text: Benefits for totally disabled or terminally ill policyholders
           href: https://www.va.gov/life-insurance/totally-disabled-or-terminally-ill/
-        - text: Beneficiary Financial Counseling and Online Will Preparation
+        - text: Beneficiary financial counseling and online will preparation
           href: https://www.benefits.va.gov/insurance/bfcs.asp
       columnTwo:
-        title: Manage Your Life Insurance
+        title: Manage your life insurance
         links:
-        - text: Access Your Policy Online
+        - text: Access your policy online
           href: https://www.va.gov/life-insurance/manage-your-policy/
-        - text: Update Your Beneficiaries
+        - text: Update your beneficiaries
           href: https://www.benefits.va.gov/INSURANCE/updatebene.asp
-        - text: File a Claim for Insurance Benefits
+        - text: File a claim for insurance benefits
           href: https://www.benefits.va.gov/INSURANCE/sglivgli.asp
-        - text: Check Your Appeal Status
+        - text: Check your appeal status
           href: https://www.va.gov/claim-or-appeal-status/
       fragments:
         columnThree: promotions/life-insurance
       seeAllLink:
-        text: Life Insurance
+        text: life insurance
         href: https://www.va.gov/life-insurance/
-  - title: Burials and Memorials
+  - title: Burials and memorials
     links:
       columnOne:
-        title: Get Burial Benefits
+        title: Get burial benefits
         links:
         - text: Eligibility
           href: https://www.va.gov/burials-memorials/eligibility/
-        - text: Pre-need Burial Eligibility Determination
+        - text: Pre-need burial eligibility determination
           href: https://www.va.gov/burials-memorials/pre-need-eligibility/
-        - text: Veteran Burial Allowance
+        - text: Veteran burial allowance
           href: https://www.va.gov/burials-memorials/veterans-burial-allowance/
-        - text: Memorial Items
+        - text: Memorial items
           href: https://www.va.gov/burials-memorials/memorial-items/
-        - text: Survivor and Dependent Compensation (DIC)
+        - text: Survivor and dependent compensation (DIC)
           href: https://www.va.gov/burials-memorials/dependency-indemnity-compensation/
       columnTwo:
-        title: Plan a Burial
+        title: Plan a burial
         links:
-        - text: Plan a Burial for a Family Member
+        - text: Plan a burial for a family member
           href: https://www.va.gov/burials-memorials/plan-a-burial/
-        - text: Schedule a Burial in a VA National Cemetery
+        - text: Schedule a burial in a VA national cemetery
           href: https://www.cem.va.gov/cem/burial_benefits/need.asp
-        - text: Find a Cemetery
+        - text: Find a cemetery
           href: https://www.cem.va.gov/cems/listcem.asp
-        - text: Request Military Records (DD214)
+        - text: Request military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
       fragments:
         columnThree: promotions/burials
       seeAllLink:
-        text: Burials and Memorials
+        text: burials and memorials
         href: https://www.va.gov/burials-memorials/
   - title: Records
     links:
       columnOne:
-        title: Get Your Records
+        title: Get your records
         links:
-        - text: Get Your VA Medical Records (Blue Button)
+        - text: Get your VA medical records (Blue Button)
           href: https://www.va.gov/health-care/get-medical-records/
-        - text: Download Your VA Benefit Letters
+        - text: Download your VA benefit letters
           href: https://www.va.gov/records/download-va-letters/
-        - text: Learn How to Apply for a Home Loan COE
+        - text: Learn how to apply for a home loan COE
           href: https://www.va.gov/housing-assistance/home-loans/how-to-apply/
-        - text: Get Veteran ID Cards
+        - text: Get Veteran ID cards
           href: https://www.va.gov/records/get-veteran-id-cards/
       columnTwo:
-        title: VA
+        title: Manage your records
         links:
-        - text: Request Your Military Records (DD214)
+        - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
-        - text: How to Apply for a Discharge Upgrade
+        - text: Change your address          
+          href: https://www.va.gov/change-address/
+        - text: How to apply for a discharge upgrade
           href: https://www.va.gov/discharge-upgrade-instructions
-        - text: View Your VA Payment History
+        - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
-        - text: Search Historical Military Records (National Archives)
+        - text: Search historical military records (National Archives)
           href: https://www.archives.gov/
           target: _blank
       fragments:
         columnThree: promotions/records
       seeAllLink:
-        text: Records
+        text: records
         href: https://www.va.gov/records/
+  - title: Service member benefits
+    text: Service member benefits
+    href: https://www.va.gov/service-member-benefits/
+  - title: Family member benefits
+    text: Family member benefits
+    href: https://www.va.gov/family-member-benefits/
 - title: About VA
   menuSections:
     mainColumn:
-      title: VA Organizations
+      title: VA organizations
       links:
       - text: Veterans Health Administration
         href: https://www.va.gov/health/
@@ -282,42 +292,42 @@
         href: https://www.va.gov/OPA/index.asp
       - text: Congressional Affairs
         href: https://www.va.gov/oca/index.asp
-      - text: All VA Offices and Organizations
+      - text: All VA offices and organizations
         href: https://www.va.gov/landing_organizations.htm
     columnOne:
       title: Innovation at VA
       links:
-      - text: Health Research
+      - text: Health research
         href: https://www.research.va.gov
-      - text: Public Health
+      - text: Public health
         href: https://www.publichealth.va.gov
       - text: Veterans Choice Program
         href: https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp
-      - text: VA Open Data
+      - text: VA open data
         href: https://www.data.va.gov
         target: _blank
-      - text: Veterans Analysis and Statistics
+      - text: Veterans analysis and statistics
         href: https://www.va.gov/VETDATA/index.asp
-      - text: Appeals Modernization
+      - text: Appeals modernization
         href: https://www.benefits.va.gov/benefits/appeals.asp
-      - text: VA Center for Innovation
+      - text: VA Innovation Center
         href: https://www.innovation.va.gov
       - text: Recovery Act
         href: https://www.va.gov/recovery/
     columnTwo:
-      title: Learn About VA
+      title: Learn about VA
       links:
-      - text: VA Mission, Vision, and Values
+      - text: VA mission, vision, and values
         href: https://www.va.gov/ABOUT_VA/index.asp
       - text: History of VA
         href: https://www.va.gov/about_va/vahistory.asp
-      - text: VA Plans, Budget, and Performance
+      - text: VA plans, budget, and performance
         href: https://www.va.gov/performance/
-      - text: National Cemetery History Program
+      - text: National cemetery history program
         href: https://www.cem.va.gov/cem/history/index.asp
-      - text: Veterans Legacy Program
+      - text: Veterans legacy program
         href: https://www.cem.va.gov/cem/legacy/index.asp
-      - text: Volunteer or Donate
+      - text: Volunteer or donate
         href: https://www.volunteer.va.gov/index.asp
     fragments:
         columnThree: promotions/about-va

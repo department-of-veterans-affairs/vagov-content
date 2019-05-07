@@ -8,8 +8,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-individual_unempl
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 9
-aliases:
-  - /disability-benefits/conditions/special-claims/individual-unemployability/
 ---
 
 <div class="va-introtext">
@@ -53,11 +51,11 @@ You’ll need to file a claim for disability compensation. When you file, you’
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 When you file a disability claim, you'll also need to fill out these additional forms for Individual Unemployability benefits:
+
 - A Veteran’s Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
 [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/vba-21-8940-are.pdf)<br>
 **and**<br>
 - A Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192)<br>
 [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
-
 
 

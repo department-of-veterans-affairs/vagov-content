@@ -7,8 +7,6 @@ description: Find out if you're eligible and how to apply for VA burial benefits
 lastupdate:
 order: 1
 hub: burials
-aliases:
-  - /burials-and-memorials/
 promo:
   - image: /img/hub-illustrations/burials.png
     heading: Find National Cemetery Administration Information
@@ -27,13 +25,13 @@ crosslinks:
       title: <b>Fiduciary Services</b>
       description: Learn how to become a VA fiduciary to handle the financial affairs of a Veteran in need.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-800-535-1117
           number: 1-800-535-1117
@@ -49,17 +47,17 @@ social:
           title: "Call MyVA311 for Help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
-  - heading: Connect with Us
+  - heading: Connect with us
     admin: National Cemetery Administration
     url: https://www.cem.va.gov/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVANCA/subscribers/qualify
           label: National Cemeteries Email Updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://twitter.com/VANatCemeteries
           label: National Cemeteries Twitter

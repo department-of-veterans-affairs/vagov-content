@@ -6,9 +6,7 @@ display_title: Educational and Career Counseling
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 4
-spoke: Get Benefits
-aliases:
-  - /education/tools-programs/education-career-counseling/
+spoke: Get benefits
 ---
 
 <div class="va-introtext">
@@ -26,7 +24,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 **Both of these must be true. You:**
 -	Separated from active duty not more than 1 year ago and didn't receive a dishonorable discharge, **and**
 -	Qualify as a Veteran for educational assistance under a VA educational program
- 
+
 **Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
 [Learn more about employment benefits for dependents](/careers-employment/dependent-benefits/)
 
@@ -48,8 +46,8 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 
 <ol class="process">
   <li class="process-step list-one">Sign in to your eBenefits account.</li>
-  <li class="process-step list-two">Click <b>Additional Benefits</b> on your dashboard.</li>
-  <li class="process-step list-three">Choose <b>Vocational Rehabilitation and Employment Program</b>.</li>
+  <li class="process-step list-two">Select <b>Apply</b>.</li>
+  <li class="process-step list-three">Click <b>Vocational Rehabilitation and Employment Benefits</b>.</li>
   <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
   <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
 </ol>
@@ -61,7 +59,7 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
 [Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
 
-Mail the completed form to your nearest VA regional benefit office.<br> 
+Mail the completed form to your nearest VA regional benefit office.<br>
 [Find your nearest VA regional benefit office](/find-locations/)
 
 If you qualify, we’ll invite you to an orientation session at a VA regional benefit office near you.

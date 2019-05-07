@@ -7,7 +7,7 @@ order: 1
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
 children: disabilityEligibility
-spoke: Get Benefits
+spoke: Get benefits
 majorlinks:
   - heading:
     links:
@@ -26,10 +26,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/ides/
       title: Accessing VR&E through the Integrated Disability Evaluation System (IDES)
       description: If you've been referred to IDES to determine if you're medically unfit for duty due to a service-connected disability, find out how to access VR&E services as quickly as possible.
-
-aliases:
-  - /disability-benefits/eligibility/
-  - /disability-benefits/conditions/
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description"  class="va-introtext">

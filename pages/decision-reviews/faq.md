@@ -20,10 +20,6 @@ Learn more about the review options and how to request a review. If you need hel
 - [How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?](#opt-in-to-modernized-system)
 
 
-<section class="usa-grid usa-grid-full">
-  <div class="va-h-ruled--stars"></div>
-</section>
-
 <div id="relevant-evidence">
 
 ## What’s new and relevant evidence?

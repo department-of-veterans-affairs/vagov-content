@@ -8,7 +8,7 @@ concurrence:
 collection:
 order: 5
 children:
-spoke: Manage Benefits
+spoke: Manage benefits
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
@@ -23,7 +23,7 @@ If you’ve filed a claim for disability compensation, you can continue uploadin
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can upload evidence to support your claim through our claim tracking tool. This tool also helps you check the status of your claim. <br>
+You can upload evidence to support your disability claim through our claim tracking tool. This tool also helps you check the status of your claim. <br>
 
 [Find out how to sign in to use this tool](/claim-or-appeal-status).
 
@@ -51,7 +51,7 @@ If we decide your claim early, you’ll still have the rest of the one-year peri
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-We’ll remove your claim from the Fully Developed Claims program and process it as a standard claim.
+We’ll remove your disability claim from the Fully Developed Claims program and process it as a standard claim.
 
 If we decide your claim earlier than one year from the date we received the claim, you’ll still have the rest of the year to provide any additional information or evidence.
 </div>
@@ -103,7 +103,7 @@ You can search for DBQs to download by form name or by symptom. <br>
 ### Any Additional Forms Needed to Support Your Claim
 
 In some cases, you may need to turn in one or more additional forms to support your disability claim. <br>
-[See if you need to complete any additional forms](/disability/how-to-file-claim/supplemental-forms/).
+[See if you need to complete any additional forms](/disability/how-to-file-claim/additional-forms/).
 </div>
 </div>
 </div>

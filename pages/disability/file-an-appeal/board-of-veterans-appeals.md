@@ -7,8 +7,6 @@ concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/claims-appeal/hearings/
 ---
 
 <div class="va-introtext">
@@ -40,8 +38,6 @@ You might want a Board hearing if you think it’ll help support your appeal to 
 ### Do I have to have a Board hearing?
 
 No. Board hearings are always optional.
-
-
 
 **Learn more about Board hearings:**
 

@@ -1,7 +1,7 @@
 ---
 title: File for Increased Disability
-href: /disability-benefits/apply/form-526-disability-claim/introduction
+href: /disability/how-to-file-claim
 order: 2
-spoke: Manage Benefits
+spoke: Manage benefits
 private: true
 ---

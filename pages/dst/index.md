@@ -298,11 +298,11 @@ $('#address_form').submit(function(e) {
 			console.log(callback);
 			if (callback.eligible) {
 				$(this).text('')
-				$("#result").append('Based on the information you provided, you are eligible for the Veterans Community Care Program.')
+				$("#result").append(callback.message)
 			}
 			else {
 				$(this).text('')
-				$("#result").append('Based on the information you provided, you may be eligible for the Veterans Community Care Program. Contact your primary care physician for more information.')
+				$("#result").append(callback.message)
 			}
 		},
 		error: function() {

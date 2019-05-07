@@ -8,13 +8,11 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-special-convalescence.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 5
-aliases:
-  - /disability-benefits/conditions/special-claims/convalescence/
 ---
 
 <div class="va-introtext">
 
-Are you recovering from surgery or a disability related to your military service that’s left you unable to move? You may be able to get a temporary 100% disability rating and disability compensation or benefits if you have this kind of immobilizing  disability. Find out if you can get this benefit. 
+Are you recovering from surgery or a disability related to your military service that’s left you unable to move? You may be able to get a temporary 100% disability rating and disability compensation or benefits if you have this kind of immobilizing  disability. Find out if you can get this benefit.
 
 </div>
 
@@ -33,7 +31,7 @@ You may be able to get disability benefits if you’ve had surgery or received o
       - Being unable to move due to being put in splints or casts to help with healing (known as therapeutic immobilizations)
       - Being unable to leave your house (known as house confinement)
       - Being required to use a wheelchair or crutches
- 
+
 **If you didn’t have surgery, this must be true:**
 
 You had one or more major joints immobilized by a cast.
@@ -50,14 +48,14 @@ Veterans
 
 -	Health care
 - Added compensation (payments) while you recover
--	A temporary 100% disability rating 
+-	A temporary 100% disability rating
 
 -----
 
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 Recovery time from either a surgery or the immobilization of a joint by a cast without surgery requires a temporary 100% disability rating for a service-connected disability. The temporary 100% rating may continue for 1 to 3 months—depending on your unique case. You may be able to get an extension for up to 3 more months if your case is severe.
 

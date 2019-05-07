@@ -5,8 +5,6 @@ display_title: C-123 Aircraft
 description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 template: detail-page
 order: 4
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/c-123/
 ---
 <div class="va-introtext">
 
@@ -56,99 +54,31 @@ Check our list of military units and Air Force Specialty codes to see if your un
 
 </div>
 
-### How to File a Claim Online
+### What kind of disability benefits can I get?
 
-This is the fastest way to file a claim for disability compensation and get your decision:
+- Health care
+- Compensation (payments)
 
-<ol class="process" markdown="0">
-<li class="process-step list-one" markdown="1">
+----
 
-[Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage).
+### How do I get these benefits?
 
-</li>
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure to Agent Orange while serving in the military.
 
-<li class="process-step list-two" markdown="1">
+You can upload supporting documents along with your online application, including:
 
-Select a disability benefit.
+  - Discharge or separation papers (DD214 or other separation documents)
+  - USAF Form 2096 (unit where you were assigned at the time of the training action)
+  - USAF Form 5 (aircraft flight duties)
+  - USAF Form 781 (aircraft maintenance duties)
+  - Dependency records (marriage certificate and children’s birth certificates)
+  - Medical evidence (like a doctor’s report or medical test results)
 
-</li>
 
-<li class="process-step list-three" markdown="1">
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).<br>
 
-Type C-123 next to the disability in the text box.
 
-</li>
 
-<li class="process-step list-four" markdown="0">
-
-<p>Upload any supporting documents along with your online application, including:</p>
-
-<div class="feature">
-
-<ul>
-  <li>Discharge or separation papers (DD214 or other separation documents)</li>
-  <li>USAF Form 2096 (unit where you were assigned at the time of the training action)</li>
-  <li>USAF Form 5 (aircraft flight duties)</li>
-  <li>USAF Form 781 (aircraft maintenance duties)</li>
-  <li>Dependency records (marriage certificate and children’s birth certificates)</li>
-  <li>Medical evidence (like a doctor’s report or medical test results)</li>
-</ul>
-
-</div>
-
-</li>
-</ol>
-
-### How to File a Claim by Mail or Fax
-
-<ol class="process" markdown="0">
-<li class="process-step list-one" markdown="1">
-
-Fill out the Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>
-[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf).
-
-</li>
-
-<li class="process-step list-two" markdown="0">
-
-Fill out the printed form—and make sure you include each C-123-related disability in Section I, Block 13 on the form.
-
-</li>
-
-<li class="process-step list-three wow fadeIn animated" markdown="0">
-
-<p>Send any supporting documents along with your application, including:</p>
-
-<div class="feature">
-
-<ul>
-  <li>Discharge or separation papers (DD214 or other separation documents)</li>
-  <li>USAF Form 2096 (unit where you were assigned at the time of the training action)</li>
-  <li>USAF Form 5 (aircraft flight duties)</li>
-  <li>USAF Form 781 (aircraft maintenance duties)</li>
-  <li>Dependency records (marriage certificate and children’s birth certificates)</li>
-  <li>Medical evidence (like a doctor’s report or medical test results)</li>
-</ul>
-
-</div>
-
-</li>
-
-<li class="process-step list-three" markdown="0">
-
-<p>Mail your claim with supporting documents to:</p>
-<p class='va-address-block'>Department of Veterans Affairs Claims Intake Center<br/>
-Attention: C-123 Claims<br />
-PO Box 5088<br />
-Janesville, WI<br />
-53547-5088</p>
-
-<p>Or, fax your claim with supporting documents to:<br />
-608-373-6694</p>
-
-</li>
-
-</ol>
 
 ### What if I need help filing my claim?
 Call the C-123 Hotline: <a href="tel:+18007498387">1-800-749-8387</a><br>

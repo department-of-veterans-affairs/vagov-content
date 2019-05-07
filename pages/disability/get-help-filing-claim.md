@@ -22,9 +22,7 @@ relatedlinks:
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
       title: Disabilities That Appear Within 1 Year After Discharge
       description: Find out if you're eligible for disability compensation for a disability that appeared within a year after you were discharged from service.
-aliases:
-  - /disability-benefits/apply/help/
-spoke: More Resources
+spoke: More resources
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">

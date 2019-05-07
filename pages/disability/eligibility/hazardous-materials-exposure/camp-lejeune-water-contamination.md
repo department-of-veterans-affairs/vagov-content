@@ -5,8 +5,6 @@ display_title: Camp Lejeune Water Contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/contaminated-drinking-water-at-camp-lejeune/
 order: 5
 ---
 
@@ -58,9 +56,12 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
 
 **You can file a claim in any of these ways:**
-- [File a claim online at eBenefits](http://www.ebenefits.va.gov). Be sure to note that you’re applying for one or more of the presumed Camp Lejeune illnesses, and attach evidence (like a doctor’s report or medical test results), **or**
+- [File a claim online on VA.gov](/disability/how-to-file-claim/), **or**
+- [File a claim online on eBenefits](http://www.ebenefits.va.gov), **or**
 - [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
+
+**Note:** When you file, be sure to state that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results).
 
 ### Are Veterans and their family members covered for health care?
 

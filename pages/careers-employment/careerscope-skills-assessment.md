@@ -6,9 +6,7 @@ template: detail-page
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 2
-spoke: Manage Benefits
-aliases:
-  - /education/tools-programs/careerscope/
+spoke: Manage benefits
 ---
 
 <div class="va-introtext">
@@ -19,16 +17,20 @@ In addition to getting career counseling, you may be able to use CareerScope, a 
 
 ## Can I use CareerScope?
 
-You can use CareerScope if you're a Veteran, Servicemember, or dependent who qualifies for—or is already getting—VA education benefits. [Get started with CareerScope](https://va.careerscope.net/gibill).
+You can use CareerScope if you're a Veteran, Servicemember, or dependent who qualifies for—or is already getting—VA education benefits.<br> [Get started with CareerScope](https://va.careerscope.net/gibill)
 
-The Report Interpretation guide helps you understand your CareerScope results. [Use the guide](https://www.benefits.va.gov/gibill/docs/job_aids/CareerScope_Report_Interpretation.pdf).
+The Report Interpretation guide helps you understand your CareerScope results. <br> [Use the guide](https://www.benefits.va.gov/gibill/docs/job_aids/CareerScope_Report_Interpretation.pdf)
 
 ## How can I get help if I don't qualify to use CareerScope?
 
 You can access our education and training resources:
 
 - Find out what benefits you’ll get at different schools. <br>
-[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
+[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
 
 - Learn about what to consider when choosing a school. <br>
-[Read our guide to choosing a school](https://www.benefits.va.gov/gibill/choosing_a_school.asp).
+[Read our guide to choosing a school](https://www.benefits.va.gov/gibill/choosing_a_school.asp)
+
+- Find out how to get free educational and career counseling (Chapter 36). <br>
+[Get help finding a training program or job](/careers-employment/education-and-career-counseling/)
+

@@ -7,8 +7,6 @@ concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-gulfwar.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/gulf-war-illness/
 order: 8
 ---
 
@@ -16,7 +14,7 @@ order: 8
 
 If you served in the Southwest Asia theater of military operations, you may suffer from illnesses or other conditions related to service in this region. Find out if you can get disability compensation or benefits.
 
-[Learn about service in Afghanistan and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/).  
+[Learn about service in Afghanistan and Gulf War Illness](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/).
 
 </div>
 
@@ -42,10 +40,10 @@ You may be able to get disability benefits if you served in the Southwest Asia t
 You can also get benefits for a presumed disability if both of the below descriptions are true for you.
 
 **Both of these must be true:**
-- You have a presumed disability that appeared within 1 year of your date of separation, **and** 
+- You have a presumed disability that appeared within 1 year of your date of separation, **and**
 - This presumed disability qualifies you for a disability rating of 10% or more
 
-We consider these illnesses to be presumed disabilities: 
+We consider these illnesses to be presumed disabilities:
 - Burcellosis
 - Campylobacter jejuni
 - Coxiella burnetii (Q fever)
@@ -73,7 +71,7 @@ Veterans
 ### How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 [Learn more about service in Southwest Asia](https://www.publichealth.va.gov/exposures/gulfwar/military-service.asp).
 
