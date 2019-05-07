@@ -4,7 +4,7 @@ template: detail-page
 title: Accelerated Payments For High-Tech
 heading: Accelerated payments for high-technology programs
 display_title: High-tech programs
-description: Learn about accelerated payments for technology industry training like coding bootcamps. Veterans who are eligible for the Montgomery GI Bill Active Duty (MGIB-AD) program may qualify for accelerated payments of up to 60% for high-cost program tuition and fees.
+description: Learn about accelerated payments for technology industry training like coding bootcamps. If you're eligible for the Montgomery GI Bill Active Duty (MGIB-AD) program, you may qualify for accelerated payments of up to 60% for high-cost program tuition and fees.
 keywords: n/a
 concurrence: incomplete
 aliases:
