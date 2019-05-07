@@ -39,15 +39,17 @@ You may be able to get burial allowances if you're paying for the burial and fun
 
 To get this benefit, the Veteran must not have received a dishonorable discharge, and one of the below circumstances must be true.
 
-**One of these must be true of the Veteran. They:**
+**One of these must be true. The Veteran died:**
 
-- Died as a result of a service-connected disability (a disability related to service), **or**
+- As a result of a service-connected disability (a disability related to service), **or**
+- While getting VA care, either at a VA facility or at a facility contracted by VA, **or**
+- While traveling at VA's expense to approved VA care, **or**
+- With an original or reopened claim pending for VA compensation or a pension that would have qualified them to get benefits, **or**
+- On or after October 9, 1996, while a patient at a VA-approved state nursing home
+
+**Or the Veteran:**
 - Had been getting a VA pension or compensation when they died, **or**
-- Had chosen to get military retired pay instead of compensation, **or**
-- Died while getting VA care, either at a VA facility or at a facility contracted by VA, **or**
-- Died while traveling at VA's expense to approved VA care, **or**
-- Died with an original or reopened claim pending for VA compensation or a pension that would have qualified them to get benefits, **or**
-- Died on or after October 9, 1996, while a patient at a VA-approved state nursing home
+- Had chosen to get military retired pay instead of compensation
 
 **Note:** We'll also provide an allowance for the cost of transporting a Veteran’s remains for burial in a national cemetery.
 
