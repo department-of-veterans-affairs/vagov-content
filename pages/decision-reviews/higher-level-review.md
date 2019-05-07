@@ -34,27 +34,27 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board Appeal. It’s also not available if you’re one of multiple people claiming the same benefit (this is rare).
 </div>
 
-### How long does it take VA to make a decision?
+## How long does it take VA to make a decision?
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
   <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
 </div>
 
-### What should I expect if I request a call with a senior reviewer?
+## What should I expect if I request a call with a senior reviewer?
 
 If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
 
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
 
-### How do I request a Higher-Level Review?
+## How do I request a Higher-Level Review?
 
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>.
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>
 
 <ol class="process">
 <li class="process-step list-one">
 
-#### Select a benefit type in Part I of the form
+### Select a benefit type in Part I of the form
 The most common benefit type is compensation, but if you’re unsure, check your VA decision. You can’t select multiple benefit types. You have to complete a separate form for each type.
 
 </li>
@@ -96,7 +96,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 <br>
 If you have evidence to submit, please select another review option.
 <br> 
-[Learn more about the review options](/decision-reviews/).
+[Learn more about the review options](/decision-reviews/)
 </li>
 
 <li class="process-step list-four">
@@ -104,7 +104,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>.
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996</a>
 
 **By mail**
 
@@ -136,7 +136,7 @@ Janesville, WI 53547-4444<br>
         Attention: St. Paul Pension Center <br>
         PO Box 5365<br>
         Janesville, WI 53547-5365<br>
-        Fax: 1-844-655-1604<br>
+        Fax: 844-655-1604<br>
       </p>
   </div>
 
@@ -149,7 +149,7 @@ Janesville, WI 53547-4444<br>
         Attention: Philadelphia Pension Center<br>
         PO Box 5206<br>
         Janesville, WI 53547-5206<br>
-        Fax: 1-844-655-1604<br>
+        Fax: 844-655-1604<br>
       </p>
   </div>
 
@@ -162,7 +162,7 @@ Janesville, WI 53547-4444<br>
         Attention: Milwaukee Pension Center<br>
         PO Box 5192<br>
         Janesville, WI 53547-5192<br>
-        Fax: 1-844-655-1604<br>
+        Fax: 844-655-1604<br>
       </p>
   </div>
 
@@ -236,15 +236,15 @@ form.<br>
 <br>
 Bring your completed form to a regional benefit office. 
 <br>
-[Find a regional benefit office near you](/find-locations/).
+[Find a regional benefit office near you](/find-locations/)
 <br>
 
 **By fax**
 <br>
-Fax your completed form and any supporting documents to 1-844-531-7818.
+Fax your completed form and any supporting documents to 844-531-7818.
 <br>
 <br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1-800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET), to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
 </li>
 </ol>
 <div class="usa-alert usa-alert-info">
@@ -259,15 +259,15 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 </div>
 
 ## What happens next?
-[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/). <br>
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
 
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
 <a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
 
 ## What if I need help?
-A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. <br>
-[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
+A Veterans service organization or VA-accredited attorney or agent can help you request a decision review. <br>
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
 ## What if I have more questions?
 Get answers to frequently asked questions about decision reviews. <br>
