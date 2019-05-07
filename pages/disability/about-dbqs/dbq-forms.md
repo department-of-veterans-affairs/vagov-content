@@ -2,8 +2,8 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Disability Benefits Questionnaire (DBQ) Forms
-heading: Find your disability benefits questionnaire (DBQ) 
-display_title: 
+heading: Find your disability benefits questionnaire (DBQ) form 
+display_title: DBQ forms
 description: 
 concurrence: 
 spoke: Get Benefits
@@ -19,15 +19,15 @@ take them to your health care provider appointment.
 
 </div>
 
-## Search DBQs by condition or form number 
+## Search DBQs by condition type or form number 
 
 Search the list of health conditions to find the right disability benefits questionnaire (DBQ) for you. 
 To do a quick search, hold down the “Ctrl” key and click on the “F” key. Enter your search word in the text 
 box and click “Enter.” You can also search by the form number.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="blood-conditions"><b>Blood conditions (hematologic and lymphatic)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="blood-conditions"><b>Blood (hematologic and lymphatic)</b></button>
 <div id="blood-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -43,21 +43,21 @@ box and click “Enter.” You can also search by the form number.
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
-| ALS or Lou Gehrig’s Disease, including progressive muscle weakness and wasting, speech, swallowing and breathing problems | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
-| Diabetic nerve damage, including weakness, numbness, tingling of legs and arms related to diabetes | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
-| Issues concerning specific nerves in the brain, including: <ul><li>V (trigeminal)</li><li>VII (facial)</li><li>IX (glossopharyngeal)</li><li>X (vagus)</li><li>XI (spinal accessory)</li><li>XII (hypoglossal)</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
-| Headache issues, including migraines, and those causing work limitation or incapacitation, nausea, and vomiting | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
-| Fibromyalgia issues, including sleep problems, muscle and joint pain, and altered affect | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
-| Multiple sclerosis symptoms, including weakness, numbness, urine incontinence, eyesight problems, balance issues, and more | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
-| Parkinson’s disease issues, including tremors or trembling in hands, arms, legs, jaw, and face; rigidity or stiffness of the limbs and trunk; slow movements; and impaired balance and coordination. Other symptoms may include depression and other emotional changes; difficulty in swallowing, chewing, and speaking; urinary problems or constipation; skin problems; and sleep disruptions. | 21-0960C-1 | [Parkinson's Disease](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-1-ARE.pdf) |
-| Narcolepsy symptoms, including sleep attacks, sleepiness, paralysis, and cataplexy | 21-0960C-6 | [Narcolepsy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-6-ARE.pdf) |
+| **ALS or Lou Gehrig’s Disease**<br> Includes progressive muscle weakness and wasting, speech, swallowing and breathing problems | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
+| **Diabetic nerve damage** <br> Includes weakness, numbness, tingling of legs and arms related to diabetes | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
+| **Issues concerning specific nerves in the brain** <br> Includes: <ul><li>V (trigeminal)</li><li>VII (facial)</li><li>IX (glossopharyngeal)</li><li>X (vagus)</li><li>XI (spinal accessory)</li><li>XII (hypoglossal)</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
+| **Headache issues** <br> Includes migraines, and headaches that cause nausea or vomiting or make it difficult to work | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
+| **Fibromyalgia issues** <br> Includes sleep problems, muscle and joint pain, and altered affect | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
+| **Multiple sclerosis symptoms** <br> Includes symptoms like weakness, numbness, urine incontinence, eyesight problems, and balance issues | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
+| **Parkinson’s disease issues** <br> Includes tremors or trembling in hands, arms, legs, jaw, and face; rigidity or stiffness of the limbs and trunk; slow movements; and impaired balance and coordination. Other symptoms may include depression and other emotional changes; difficulty in swallowing, chewing, and speaking; urinary problems or constipation; skin problems; and sleep disruptions. | 21-0960C-1 | [Parkinson's Disease](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-1-ARE.pdf) |
+| **Narcolepsy symptoms** <br> Includes sleep attacks, sleepiness, paralysis, and cataplexy | 21-0960C-6 | [Narcolepsy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-6-ARE.pdf) |
 | Specific kinds of nerve damage, including metabolic disorders, exposure to toxins, infections, immunological disorders, or inflammation and other conditions | 21-0960C-10 | [Peripheral Nerve Conditions (not including Diabetes Sensory-Motor Peripheral Neuropathy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-10-ARE.pdf) | 
 | Seizures from epilepsy or other conditions | 21-0960C-11 | [Seizure Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-11-ARE.pdf) |
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions"><b>Dental, gum, and oral conditions</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="dental-conditions"><b>Teeth, mouth, gum, and jaw (dental)</b></button>
 <div id="dental-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -68,7 +68,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="digestion"><b>Digestion (gastrointestinal)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="digestion"><b>Digestive system (gastrointestinal)</b></button>
 <div id="digestion" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -119,7 +119,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="heart-conditions"><b>Heart conditions (cardiovascular)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="heart-conditions"><b>Heart and blood vessels (cardiovascular)</b></button>
 <div id="heart-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -131,7 +131,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="hormonal-and-diabetes"><b>Hormonal conditions and diabetes (endocrinological)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hormonal-and-diabetes"><b>Hormones, thyroid, and blood glucose (endocrinological, including diabetes)</b></button>
 <div id="hormonal-and-diabetes" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -190,13 +190,14 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="mental-and-psychological"><b>Mental and psychological</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mental-and-psychological"><b>Mental health</b></button>
 <div id="mental-and-psychological" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
 | --- | --- | --- |
 | Anorexia, bulimia, and other eating disorders | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
-| General mental disorders, including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
+| <b>General mental disorders<b><br>
+  Including depression, mood and affective disorders, psychosis, etc. | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
 | PTSD-related issues, including evaluating beginning and extent of symptoms. Types include: <ul><li><b>Acute</b>, meaning the symptoms have been happening for less than 3 months</li><li><b>Chronic</b>, meaning the symptoms usually last 3 months or more</li><li><b>Delayed onset</b>, meaning the symptoms began at least 6 months after the traumatic experience </li></ul> Symptoms may include reliving the experience of a traumatic event, avoiding situations or people associated with the trauma, deadening of general responsiveness, insomnia, recurrent nightmares, extreme caution, an intensified fright response, and a change in levels of hostility. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
 
 </div>
@@ -225,7 +226,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="skin-conditions"><b>Skin conditions (dermatological)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="skin-conditions"><b>Skin (dermatological)</b></button>
 <div id="skin-conditions" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
@@ -236,7 +237,7 @@ box and click “Enter.” You can also search by the form number.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="womens-reproductive-issues"><b>Women’s reproductive issues (gynecological)</b></button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="womens-reproductive-issues"><b>Women’s reproductive system (gynecological)</b></button>
 <div id="womens-reproductive-issues" class="usa-accordion-content">
 
 | Conditions and symptoms | Form number | Form name |
