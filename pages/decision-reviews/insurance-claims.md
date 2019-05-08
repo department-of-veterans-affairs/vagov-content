@@ -21,7 +21,7 @@ If you disagree with a VA decision on an insurance claim, you can choose one of 
   </div>
 </div>
 
-## Decision Review Options
+## Decision review options
 
 ### Add new and relevant evidence
 
@@ -146,7 +146,7 @@ You don’t need to do anything while you wait unless VA sends you a letter aski
 
 ## What if I need help?
 
-A Veterans service organization or VA-accredited attorney or agent can help you request a decision review. 
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
