@@ -1,13 +1,13 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Frequently Asked Questions About Decision Reviews
-display_title: Frequently Asked Questions About Decision Reviews
+title: Frequently asked questions about decision reviews
+display_title: Frequently asked questions about decision reviews
 hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-Learn more about the review options and how to request a review. If you need help requesting a review, a Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+Learn more about the review options and how to request a review. If you need help requesting a review, a Veterans service organization or VA-accredited attorney or agent can help you request a decision review. 
 </div>
 
 ### On this page
@@ -81,12 +81,12 @@ If you requested a Board Appeal and want to switch to a different appeal option,
 ## How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?
 
 If you disagree with a VA decision you received before February 19, 2019, you can opt in to the modernized review system after you've received a VA Statement of the Case (SOC) or Supplemental Statement of the Case (SSOC). To get either a SOC or an SSOC, you must file a Notice of Disagreement (VA Form 21-0958) within 1 year of the date on your decision. <br>
-[Find out how to file a Notice of Disagreement](/disability/file-an-appeal).
+[Find out how to file a Notice of Disagreement](/disability/file-an-appeal)
 
 After you receive either a SOC or an SSOC on the issue(s) in your Notice of Disagreement, you have 60 days or the remainder of the 1-year period following the decision you appealed, whichever is later, to opt in to the modernized system by submitting one of the following forms (and checking the SOC/SSOC opt-in box):
 - Decision Review Request: Supplemental Claim (VA Form 20-0995)
 - Decision Review Request: Higher-Level Review (VA Form 20-0996)
 - Decision Review Request: Board Appeal (VA Form 10182)
 
-[Download the forms or learn more about Decision Review options](/decision-reviews).
+[Download the forms or learn more about Decision Review options](/decision-reviews)
 </div>
