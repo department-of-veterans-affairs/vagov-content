@@ -36,7 +36,7 @@ Learn about VA disability ratings and how we assign your rating. If you have mor
 
 We assign you a disability rating based on the severity of your disability. We express this rating as a percentage, representing how much your disability decreases your overall health and ability to function.
 
-We then use your disability rating to determine your disability compensation rate. Your compensation rate then determines how much money you’ll receive from us each month. We also use your disability rating to help determine your eligibility for other benefits, like VA health care.
+We then use your disability rating to determine your disability compensation rate, so we can calculate how much money you’ll receive from us each month. We also use your disability rating to help determine your eligibility for other benefits, like VA health care.
 
 </div>
 </div>
@@ -44,7 +44,7 @@ We then use your disability rating to determine your disability compensation rat
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">What does VA use to determine my disability rating?</h3>
+<h3 itemprop="name">What does VA use to decide my disability rating?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -79,7 +79,7 @@ Read below to find out more about how we’ll calculate your combined disability
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation. This means how much worse your service made your disability.
+If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation. This means how much worse your disability got because of your service.
 
 <strong>For example:</strong> If you had an illness or injury (also known as a condition) that was rated as 10% disabling when you entered the military, and it became 20% disabling due to the effects of your service, then the level of aggravation would be 10%.
 
@@ -283,7 +283,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 </li>
 </ul>
 
-[Download the full combined ratings table (pdf)](https://www.benefits.va.gov/compensation/rates-index.asp)
+[Download the full combined ratings table (PDF)](https://www.benefits.va.gov/compensation/rates-index.asp)
 
 <h3>How we use the combined ratings table</h3>
 
