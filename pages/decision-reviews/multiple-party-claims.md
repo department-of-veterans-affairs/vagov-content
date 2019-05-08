@@ -152,7 +152,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
   </li>
 </ol>
 
-## After a Board Decision
+## After a Board decision
 
 If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself. <br>
 [Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php)
@@ -180,7 +180,7 @@ You don’t need to do anything while you wait unless VA sends you a letter aski
 
 ## What if I need help?
 
-A Veterans service organization or VA-accredited attorney or agent can help you request a decision review.
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
 <br> 
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
