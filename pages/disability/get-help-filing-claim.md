@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 title: Get help filing your claim or appeal
 display_title: Get help filing a claim
-description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans service organizations (VSOs) or accredited individuals near you.
+description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
 concurrence: incomplete
 plainlanguage: 11-2-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -29,7 +29,7 @@ spoke: More Resources
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-If you need help filing a claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans service officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
+If you need help filing a claim or appeal, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
 
 VSOs work on behalf of Veterans and service members—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
 
@@ -75,7 +75,7 @@ Recognized organizations and individuals can legally represent a Veteran, servic
 - File a claim or appeal on your behalf
 - Provide added support, like helping with transportation to medical appointments or emergency funds
 
-**Note:** Veterans service officers work for Veterans service organizations (both are called VSOs), as well as for local government offices.
+**Note:** Veterans Service Officers work for Veterans Service Organizations (both are called VSOs), as well as for local government offices.
 
 </div>
 </div>
