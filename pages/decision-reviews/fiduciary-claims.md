@@ -113,7 +113,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 
 You can request a Board Appeal after an initial claim or Higher-Level Review decision. You can’t request two Board Appeals in a row.
 
-## After a Board Decision
+## After a Board decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. 
 <br>
@@ -129,7 +129,7 @@ You don’t need to do anything while you wait unless VA sends you a letter aski
 
 ## What if I need help?
 
-A Veterans service organization or VA-accredited attorney or agent can help you request a decision review. 
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
