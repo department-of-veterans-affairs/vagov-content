@@ -16,8 +16,6 @@ majorlinks:
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: If you're the dependent family member of a Servicemember or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
-aliases:
-  - /employment/vocational-rehab-and-employment/eligibility/
 ---
 
 <div class="va-introtext">
@@ -101,8 +99,8 @@ You can apply online right now.
 ### If I'm eligible for GI Bill benefits, can I get paid the Post-9/11 GI Bill subsistence rate for my VR&E program?
 If you're participating in a VR&E program and also qualify for Post-9/11 GI Bill benefits, you can choose to get paid the GI Bill subsistence rate instead of the Chapter 31 subsistence allowance rate. In most cases the GI Bill rate is higher.
 
-You'll need to officially choose the GI Bill subsistence rate. Your VRC can help you with this.<br> 
-[Contact your VRC for more information](/facilities/).<br>
+You'll need to officially choose the GI Bill subsistence rate. Your VRC can help you with this.<br>
+[Contact your VRC for more information](/find-locations/).<br>
 [View the current Chapter 31 subsistence allowance rates](https://benefits.va.gov/VOCREHAB/subsistence_allowance_rates.asp?_ga=2.203704281.836500684.1545080344-1582256389.1508352376).<br>
 [View the current Post-9/11 GI Bill benefit rates](/education/benefit-rates/).
 
@@ -124,7 +122,7 @@ You'll need to officially choose the GI Bill subsistence rate. Your VRC can help
 - Links to more resources outside VA that can help you in your job search. <br>
 [See our list of external resources](/careers-employment/veteran-resources/).
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
-[Contact your VRC for more information](/facilities/).
+[Contact your VRC for more information](/find-locations/).
 
 **Watch these videos to learn more about VR&E:**<br>
 [VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>

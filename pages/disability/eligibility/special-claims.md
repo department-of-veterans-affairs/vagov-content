@@ -34,8 +34,6 @@ majorlinks:
     - url: /disability/eligibility/special-claims/temporary-rating-prestabilization/
       title: Immediate help for temporary disability needs (prestabilization)
       description: If you recently ended your active military service and you have a service-connected disability, find out if you can get temporary disability payments or other benefits right away.
-aliases:
-  - /disability-benefits/conditions/special-claims/
 ---
 
 <div class="va-introtext">

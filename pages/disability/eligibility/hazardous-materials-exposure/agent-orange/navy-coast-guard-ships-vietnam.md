@@ -7,8 +7,6 @@ concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 9
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/navy-coast-guard/
 ---
 
 <div class="va-introtext">

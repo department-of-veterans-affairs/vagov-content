@@ -8,8 +8,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-pow.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 2
-aliases:
-  - /disability-benefits/conditions/pow/
 ---
 
 <div class="va-introtext">
@@ -45,8 +43,8 @@ These benefits cover conditions that we believe were caused by time spent as a P
 -	Hypertensive vascular disease, including hypertensive heart disease, and related problems (such as a stroke, blood clots, or other serious issues)
 
 **Conditions that affect your mind, including:**
--	A neuropsychiatric condition 
--	Psychosis 
+-	A neuropsychiatric condition
+-	Psychosis
 -	Dysthymic disorder (also called "persistent depressive disorder")
 -	Any of the anxiety states (such as PTSD)
 
@@ -56,18 +54,18 @@ These benefits cover conditions that we believe were caused by time spent as a P
 
 **Conditions that affect your body, including:**
 -	Osteoporosis (if you filed your claim on or after September 28, 2009; no PTSD diagnosis required)
--	Helminthiasis 
+-	Helminthiasis
 -	Peripheral neuropathy, except where directly related to an illness caused by an infection
--	Peptic ulcer disease 
--	Chronic dysentery 
--	Irritable bowel syndrome 
--	Cirrhosis of the liver 
+-	Peptic ulcer disease
+-	Chronic dysentery
+-	Irritable bowel syndrome
+-	Cirrhosis of the liver
 
 **Any nutritional deficiency, including:**
--	Avitaminosis 
--	Beriberi, including beriberi heart disease 
+-	Avitaminosis
+-	Beriberi, including beriberi heart disease
 -	Malnutrition, including optic atrophy connected to malnutrition
--	Pellagra 
+-	Pellagra
 <br>
 
 ### Who’s covered?

@@ -1,8 +1,8 @@
 ---
-title: Change Direct Deposit and Contact Information
-display_title: Change Direct Deposit and Contact Information
+title: Change direct deposit and contact information
+display_title: Change direct deposit and contact information
 order: 5
-spoke: Manage Benefits
+spoke: Manage benefits
 href: /change-direct-deposit-and-contact-information/
 private: true
 ---

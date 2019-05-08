@@ -7,8 +7,6 @@ concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-gulfwar.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/gulf-war-illness/
 order: 8
 ---
 
@@ -42,10 +40,10 @@ You may be able to get disability benefits if you served in the Southwest Asia t
 You can also get benefits for a presumed disability if both of the below descriptions are true for you.
 
 **Both of these must be true:**
-- You have a presumed disability that appeared within 1 year of your date of separation, **and** 
+- You have a presumed disability that appeared within 1 year of your date of separation, **and**
 - This presumed disability qualifies you for a disability rating of 10% or more
 
-We consider these illnesses to be presumed disabilities: 
+We consider these illnesses to be presumed disabilities:
 - Burcellosis
 - Campylobacter jejuni
 - Coxiella burnetii (Q fever)

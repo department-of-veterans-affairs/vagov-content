@@ -7,8 +7,6 @@ plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/non-hodgkins/
 ---
 
 <div class="va-introtext">

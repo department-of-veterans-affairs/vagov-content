@@ -25,8 +25,6 @@ relatedlinks:
     - url: /disability/about-disability-ratings/effective-date/
       title: Effective date of disability
       description: "Learn how VA decides the date you can start getting your disability benefits."
-aliases:
-  - /disability-benefits/eligibility/one-year/
 ---
 
 <div class="va-introtext">
@@ -67,6 +65,7 @@ Veterans
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).
 
 **Your evidence will need to show that both of these are true of your illness:**
+
 - It's at least 10% disabling (for example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure), **and**
 - It appeared within 1 year after being discharged from active service (for example, you may submit a medical report that shows the date of your diagnosis)
 

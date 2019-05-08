@@ -7,8 +7,6 @@ concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 5
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/thailand-military-bases/
 ---
 
 <div class="va-introtext">

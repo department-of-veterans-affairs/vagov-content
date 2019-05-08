@@ -145,6 +145,8 @@
           href: https://www.va.gov/claim-or-appeal-status/
         - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
+        - text: Change your address
+          href: https://www.va.gov/change-address/
         - text: Change your direct deposit and contact information
           href: https://www.va.gov/change-direct-deposit-and-contact-information/
       fragments:
@@ -249,10 +251,12 @@
         - text: Get Veteran ID cards
           href: https://www.va.gov/records/get-veteran-id-cards/
       columnTwo:
-        title: VA
+        title: Manage your records
         links:
         - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
+        - text: Change your address          
+          href: https://www.va.gov/change-address/
         - text: How to apply for a discharge upgrade
           href: https://www.va.gov/discharge-upgrade-instructions
         - text: View your VA payment history
@@ -267,10 +271,10 @@
         href: https://www.va.gov/records/
   - title: Service member benefits
     text: Service member benefits
-    href: /service-member-benefits/
+    href: https://www.va.gov/service-member-benefits/
   - title: Family member benefits
     text: Family member benefits
-    href: /family-member-benefits/
+    href: https://www.va.gov/family-member-benefits/
 - title: About VA
   menuSections:
     mainColumn:

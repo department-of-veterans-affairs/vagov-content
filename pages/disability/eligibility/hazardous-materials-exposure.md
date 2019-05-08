@@ -40,8 +40,6 @@ majorlinks:
     - url: /disability/eligibility/hazardous-materials-exposure/specific-environmental-hazards/
       title: Specific environmental hazards
       description: If you served in Iraq, Afghanistan, Djibouti, or near Atsugi, Japan, you may have had contact with toxic chemicals in the air, water, or soil.
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/
 ---
 
 

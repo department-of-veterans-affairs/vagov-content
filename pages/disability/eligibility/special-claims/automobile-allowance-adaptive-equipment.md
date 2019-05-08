@@ -7,13 +7,11 @@ concurrence: incomplete
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/conditions/special-claims/automobile/
 ---
 
 <div class="va-introtext">
 
-Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get disability compensation or benefits. 
+Do you have a disability related to your military service that prevents you from driving? If you do, you may be able to get disability compensation or benefits.
 
 </div>
 
@@ -68,3 +66,4 @@ When you file, you’ll need to show that your disability is service connected o
 - If you qualify for adaptive equipment only, you’ll need to fill out an Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394). <br>
 [Download VA Form 10-1394](https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf)
 - We may pay you, or we may pay the equipment seller directly.  
+

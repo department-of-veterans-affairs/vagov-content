@@ -13,8 +13,6 @@ relatedlinks:
     - url: /careers-employment/dependent-benefits/
       title: Dependent Family Members
       description: If you're the dependent family member of a Servicemember or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
-aliases:
-  - /employment/vocational-rehab-and-employment/apply-vre/
 ---
 
 <div class="va-introtext">
@@ -35,19 +33,19 @@ Sign in to your eBenefits account.
 
 <li class="process-step list-two">
 
-Click **Additional Benefits** on your dashboard.
+Select **Apply**.
 
 </li>
 
 <li class="process-step list-three">
 
-Click **Vocational Rehabilitation and Employment Program**.
+Click **Vocational Rehabilitation and Employment Benefits**.
 
 </li>
 
 <li class="process-step list-four">
 
-Apply for the Vocational Rehabilitation and Employment Program.
+Select the Vocational Rehabilitation and Employment benefit you're applying for.
 
 </li>
 
@@ -92,13 +90,18 @@ After we make an entitlement decision, you and your counselor will work together
 You can also meet with VRCs called VetSuccess on Campus (VSOC) Counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
 [Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
 
-### What's included in a rehabilitation plan? 
+### What's included in a rehabilitation plan?
 
-A rehabilitation plan is a written plan that outlines the resources we'll use to help you find employment. Depending on your situation, your VRC will work with you to choose one of the following support-and-services tracks to help you find and keep a job, and live as independently as possible: 
+A rehabilitation plan is a written plan that outlines the resources we'll use to help you find employment. Depending on your situation, your VRC will work with you to choose one of the following support-and-services tracks to help you find and keep a job, and live as independently as possible:
 - [Reemployment with a former employer](/careers-employment/vocational-rehabilitation/programs/reemployment/)
 - [Job placement and counseling services for new employment](/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment/)
 - [Help with starting your own business ](/careers-employment/vocational-rehabilitation/programs/self-employment/)
 - [Long-term training or services to help you find work in a different field that better suits your abilities and interests](/careers-employment/vocational-rehabilitation/programs/long-term-services/)
 - [Independent living services if you can’t return to work right away](/careers-employment/vocational-rehabilitation/programs/independent-living/)
+
+
+### What happens after my VRC creates my rehabilitation plan?
+
+Your VRC will help you put your plan into action. They'll also provide ongoing counseling and help you get tutorial assistance, job training, work-readiness support, and medical referrals.
 
 <div markdown="0"><br></div>

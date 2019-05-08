@@ -1,17 +1,16 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veteran Employment Through Technology Education Courses (VET TEC) program 
-display_title: VET TEC Program
-description: 
+title: Veteran Employment Through Technology Education Courses (VET TEC) program
+display_title: VET TEC program
+description:
 concurrence: incomplete
-aliases:
 order: 8
 ---
 
 <div class="va-introtext">
 
-If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new VET TEC program. 
+If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new VET TEC program.
 
 </div>
 
@@ -19,7 +18,7 @@ If you want to gain computer skills and experience to start or advance your care
 
 VET TEC is a new program that matches you with a leading training provider who can help you develop high-tech skills. You can start or advance your career in the high-tech industry with a training program that'll take months—or just weeks—to complete.
 
-VET TEC is a five-year pilot program. You can participate as long as the funding is available. 
+VET TEC is a five-year pilot program. You can participate as long as the funding is available.
 
 <div class="feature" markdown="1">
 
@@ -31,7 +30,7 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 -	Aren't on active duty, **and**
 -	Qualify for VA education assistance under the GI Bill, **and**
 - Have at least one day of unexpired GI Bill entitlement, **and**
-- Are accepted into a program by a VA-approved training provider  
+- Are accepted into a program by a VA-approved training provider
 
 **Note:** Your VET TEC training won't count against your GI Bill entitlement.
 
@@ -42,12 +41,12 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 
 With VET TEC, you can get training in one of these high-demand training areas:
 -	Computer software
--	Computer programming 
--	Data processing 
--	Information science 
+-	Computer programming
+-	Data processing
+-	Information science
 -	Media applications
 
-## What benefits can I get through this program? 
+## What benefits can I get through this program?
 
 -	Tuition for a full-time high-tech training program
 -	Money for housing during your training
@@ -56,7 +55,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 ## How do I apply?
 
-First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994). 
+First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994).
 
 If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)

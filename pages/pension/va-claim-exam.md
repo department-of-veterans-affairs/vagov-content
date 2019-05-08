@@ -1,7 +1,7 @@
 ---
-title: VA Claim Exam (C&P Exam)
+title: VA claim exam (C&P exam)
 href: /disability/va-claim-exam/
-spoke: More Resources
+spoke: More resources
 order: 4
 private: true
 ---

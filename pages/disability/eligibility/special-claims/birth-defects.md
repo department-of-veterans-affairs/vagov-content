@@ -8,8 +8,6 @@ source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-asb
 plainlanguage: 10-21-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 2
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/birth-defects/
 ---
 
 <div class="va-introtext">
@@ -41,7 +39,7 @@ The child’s biological mother or father served in:
 The child was conceived after the parent served in either South Vietnam or the Republic of Korea.
 
 **Note**: Your character of discharge and length of service don't affect your child's eligibility for disability benefits relating to spina bifida.
- 
+
 <br>
 
 #### For other birth defects
@@ -50,7 +48,7 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 **Both of these must be true:**
 - The child’s biological mother served in South Vietnam any time from January 9, 1962, through May 7, 1975, **and**
-- The child was conceived after the mother served in South Vietnam  
+- The child was conceived after the mother served in South Vietnam
 
 [See the list of covered birth defects](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/children-women-vietnam-vets.asp)
 

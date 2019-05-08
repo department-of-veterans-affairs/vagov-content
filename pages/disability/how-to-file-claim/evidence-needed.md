@@ -16,10 +16,6 @@ majorlinks:
     - url: /disability/how-to-file-claim/evidence-needed/standard-claims/
       title: Standard disability claims
       description: With standard claims, we take more responsibility for gathering the evidence we need to make a decision on your claim. Find out how to file a standard disability claim.
-      
-aliases:
-  - /disability-benefits/apply/evidence/
-  - /disability-evidence/
 ---
 
 <div class="va-introtext">
@@ -41,7 +37,7 @@ When you file a disability claim, we review all available evidence (supporting d
 
 ## What documents will I need to support my claim?
 
-We require certain documents to support all claims for disability benefits. 
+We require certain documents to support all claims for disability benefits.
 
 **You'll need to submit or give us permission to gather these:**
 -	Your DD214 or other separation documents
@@ -58,7 +54,7 @@ This depends on the type of claim you’re filing. Find out what evidence you'll
 
 **Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information below serves as this notification (called “section 5103 notice”).<br>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-original">Original claim—the first claim you file for disability benefits</button>
 <div id="claim-original" class="usa-accordion-content">
@@ -79,7 +75,7 @@ Under certain situations, we may conclude that there's a link between your milit
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased claim—a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse</button>
 <div id="claim-increased" class="usa-accordion-content">
 
-You'll need to submit current evidence from a medical professional or layperson (someone who's not a trained professional) that shows your disability has gotten worse. 
+You'll need to submit current evidence from a medical professional or layperson (someone who's not a trained professional) that shows your disability has gotten worse.
 
 </div>
 </li>
@@ -116,7 +112,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 **Find out what additional evidence or forms you'll need if you're filing a claim for any of these issues:**
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="special-ptsd">PTSD (posttraumatic stress disorder)</button>
 <div id="special-ptsd" class="usa-accordion-content">
@@ -129,6 +125,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
   [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)<br>
   
 [Learn more about PTSD claims](/disability/eligibility/ptsd/)<br>
+
 </div>
 </li>
 <li>
@@ -143,6 +140,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
   [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)<br>
   
  [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/)<br>
+
  </div>
 </li>
 <li>
@@ -186,7 +184,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 - Are a patient in a nursing home due to the loss of mental or physical abilities related to a disability, **or**
 - Have limited eyesight (even with glasses or contact lenses you have only 5/200 or less in both eyes; or concentric contraction of the visual field to 5 degrees or less)<br>
 
-**For Housebound benefits, you'll need to submit evidence that shows you:** 
+**For Housebound benefits, you'll need to submit evidence that shows you:**
 - Have a single service-connected disability rated at 100% disabling and another service-connected disability rated at 60% or more disabling, **or**
 - Spend most of your time in your home because of a permanent disability (a disability that doesn’t go away)<br>
 
@@ -196,6 +194,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
 [Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
+
 
 [Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/)<br>
 </div>
@@ -207,6 +206,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 **You'll need to submit both of these:** 
 - Evidence that shows you're a Veteran or service member with a qualifying permanent and totally disabling service-connected disability<br>
 [Find out if you have a qualifying service-connected disability](/housing-assistance/disability-housing-grants/) <br> 
+
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
 [Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf)<br>
@@ -238,7 +238,7 @@ An Application for Automobile or Other Conveyance and Adaptive Equipment (VA For
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="special-disabled">Seriously disabled child</button>
 <div id="special-disabled" class="usa-accordion-content">
 
-You'll need to submit medical evidence that shows the child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>  
+You'll need to submit medical evidence that shows the child became permanently disabled because of a physical or mental disability before their 18th birthday. <br>
 
 </div>
 </li>
