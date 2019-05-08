@@ -88,5 +88,5 @@ After you receive either a SOC or an SSOC on the issue(s) in your Notice of Disa
 - Decision Review Request: Higher-Level Review (VA Form 20-0996)
 - Decision Review Request: Board Appeal (VA Form 10182)
 
-[Download the forms or learn more about Decision Review options](/decision-reviews)
+[Download the forms or learn more about decision review options](/decision-reviews)
 </div>
