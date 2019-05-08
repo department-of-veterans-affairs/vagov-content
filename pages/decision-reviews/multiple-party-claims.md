@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Multiple Party or Contested Claims
-display_title: Multiple Party or Contested Claims
+title: Multiple party or contested claims
+display_title: Multiple party or contested claims
 hidesidenav: true
 ---
 <br>
@@ -22,30 +22,30 @@ If you’re one of multiple people claiming the right to the same benefit, you h
 </div>
 
 
-### Can I add new evidence?
+## Can I add new evidence?
 
 You have the option to add new evidence for a judge to review. You'll have to submit this evidence within 90 days from the date VA receives your Board Appeal form. 
 
 This option will take longer.
 
-### Can I request a hearing?
+## Can I request a hearing?
 
 You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you. 
 
 This option will take longer.
 
-### What happens at a hearing?
+## What happens at a hearing?
 
 You and the judge will have a conversation. The judge will listen to your testimony. The judge may ask you a few questions. Your representative, if you have one, may help you at the hearing.
 
 The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn’t required.
 
 
-### How do I request a Board Appeal?
+## How do I request a Board Appeal?
 
 To request a Board Appeal, fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf). 
+[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf) 
 
 <ol class="process">
   <li class="process-step list-one">
@@ -95,7 +95,7 @@ If you have additional evidence for a Veterans Law Judge to review, choose Evide
 If you want a video conference hearing with a Veterans Law Judge at a nearby VA location, choose a Hearing Request. 
 
 At your hearing, you and a Veterans Law Judge will have a conversation, and they’ll ask you questions about your appeal. Your hearing will be transcribed and added to your appeal file. <br>
-[Learn more about hearings and how to request one](/decision-reviews/board-appeal/veterans-law-judge-hearing/).
+[Learn more about hearings and how to request one](/decision-reviews/board-appeal/veterans-law-judge-hearing/)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -126,7 +126,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 Fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf).
+[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf)
 
 **By mail**
 
@@ -141,13 +141,13 @@ Washington, D.C. 20038<br>
 
 Bring your completed form to a regional benefit office. 
 <br> 
-[Find a regional benefit office near you](/find-locations/).
+[Find a regional benefit office near you](/find-locations/)
 
 **By fax**
 
-Fax your completed form to 1-844-678-8979.
+Fax your completed form to 844-678-8979.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+1phonenumber">1–800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. (ET), to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
 </p>
   </li>
 </ol>
@@ -155,7 +155,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 ## After a Board Decision
 
 If you disagree with the Board’s decision, you can appeal to the U.S. Court of Appeals for Veterans Claims. You can hire an attorney to represent you, or you can represent yourself. <br>
-[Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php).
+[Learn more about filing a Court Appeal](https://www.uscourts.cavc.gov/appeal.php)
 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
@@ -172,7 +172,7 @@ If you disagree with the Board’s decision, you can appeal to the U.S. Court of
 
 ## What happens next?
 
-[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/).
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/)
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
@@ -180,12 +180,12 @@ You don’t need to do anything while you wait unless VA sends you a letter aski
 
 ## What if I need help?
 
-A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
+A Veterans service organization or VA-accredited attorney or agent can help you request a decision review.
 <br> 
-[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/).
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
 ## What if I have more questions?
 
 Get answers to frequently asked questions about decision reviews.
 <br>
-[Go to FAQs](/decision-reviews/faq/).
+[Go to FAQs](/decision-reviews/faq/)
