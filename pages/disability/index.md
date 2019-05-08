@@ -175,7 +175,7 @@ hublinks:
       external: false
     - url: "/disability/get-help-filing-claim/"
       label: Get help filing a claim
-      description: Connect with a Veterans service organization (VSO) or accredited
+      description: Connect with a Veterans Service Organization (VSO) or accredited
         Veterans representative for help applying for benefits.
       external: false
     - url: https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp
