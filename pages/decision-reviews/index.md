@@ -38,7 +38,7 @@ relatedlinks:
   </div>
 </div>
 
-## Decision Review Options
+## Decision review options
 
 - [Add new and relevant evidence (file a Supplemental Claim)](#supplemental-claim)
 - [Ask for a new look from a senior reviewer (request a Higher-Level Review)](#higher-level-review)
@@ -174,7 +174,7 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 <br>
 
-## After a Board Decision
+## After a Board decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. <br>
 [Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision)
@@ -190,7 +190,7 @@ more information. If VA schedules exams for you, be sure not to miss them.
 
 ## What if I need help?
 
-A Veterans service organization or VA-accredited attorney or agent can
+A Veterans Service Organization or VA-accredited attorney or agent can
 help you request a decision review. <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request)
 
