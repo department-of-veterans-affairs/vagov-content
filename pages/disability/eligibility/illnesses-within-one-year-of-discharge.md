@@ -18,7 +18,7 @@ relatedlinks:
       description: "File a claim online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/get-help-filing-claim/
       title: Get help filing your claim
-      description: "Learn how an accredited representative with a Veterans service organization can help you file a disability claim."
+      description: "Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim."
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
       title: Pre-discharge claim
       description: "If you have a disability and you’re in pre-discharge status right now, you can file a pre-discharge disability claim 180 to 90 days before you leave the military."
