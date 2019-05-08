@@ -7,7 +7,7 @@ hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you need help requesting a decision review, you may want to work with an accredited attorney, a claims agent, or a Veterans service organization (VSO) representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
+If you need help requesting a decision review, you may want to work with an accredited attorney, a claims agent, or a Veterans Service Organization (VSO) representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes and can help you with VA-related needs.
 
 VSOs work on behalf of Veterans and service members—as well as their dependents and survivors. Find out more about accredited representatives and how they can help you.
 </div>
@@ -40,7 +40,7 @@ Recognized organizations and individuals can legally represent a Veteran, servic
 - File a claim or request a decision review on your behalf
 - Provide added support, like helping with transportation to medical appointments or emergency funds
 
-**Note:** Veterans service officers work for Veterans service organizations (both are
+**Note:** Veterans Service Officers work for Veterans Service Organizations (both are
 called VSOs), as well as for local government offices.
 
 ## What does it cost to use an accredited representative or a VSO?
