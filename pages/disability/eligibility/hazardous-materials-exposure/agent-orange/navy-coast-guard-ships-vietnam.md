@@ -83,4 +83,4 @@ You can get help from a trained professional trusted to help with VA-related cla
 
 ### Get more information
 Want to find out if the ship you were on had contact with Agent Orange?<br>
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>.
