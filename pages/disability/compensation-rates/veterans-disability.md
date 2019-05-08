@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 title: 2019 Veterans Disability Compensation Rates | Veterans Affairs
-display_title: Veterans disability compensation rates for 2019
-heading: Veterans disability compensation rates
+display_title: Veterans disability compensation rates
+heading: 2019 Veterans disability compensation rates
 description: View 2019 Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
 keywords: veterans disability rates, veterans compensation benefits rate tables
 template: detail-page
