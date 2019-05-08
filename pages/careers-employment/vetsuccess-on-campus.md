@@ -21,11 +21,11 @@ relatedlinks:
 
 <div class="va-introtext">
 
-VetSuccess on Campus (VSOC) supports Veterans, Servicemembers, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC Counselors) at 104 college campuses across the country.
+VetSuccess on Campus (VSOC) supports Veterans, service members, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC Counselors) at 104 college campuses across the country.
 
 </div>
 
-## How our counselors can help you as a Veteran or Servicemember
+## How our counselors can help you as a Veteran or service member
 
 Our counselors can help you with your Veterans’ benefits, which may include VA health services and education benefits. They can also show you how to get referrals for health services and disability accommodations (like help with taking notes or completing writing assignments) in the classroom. <br>
 [Find out if your college has a VSOC Counselor](http://www.benefits.va.gov/vocrehab/vsoc.asp).
