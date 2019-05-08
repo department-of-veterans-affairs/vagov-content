@@ -21,7 +21,7 @@ Find out what happens at a Board of Veterans’ Appeals hearing—and how to req
 - Opting into the new process using VA Form 10182
 </p>
     <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019,</b> 
-<a href="/disability/file-an-appeal/board-of-veterans-appeals">go to the Board of Veterans' Appeals (BVA) Hearing page</a>.</p>
+<a href="/disability/file-an-appeal/board-of-veterans-appeals">go to the Board of Veterans' Appeals (BVA) Hearing page</a></p>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Yes, you can bring new and relevant evidence to your hearing to share with the j
 
 ### Who can help me prepare for my hearing?
 
-A representative who’s trained in the appeals process can help you prepare for your hearing and for the conversation with the judge. Your representative must be a VA-accredited lawyer, claims agent, or someone from a Veterans service organization (VSO).<br>
+A representative who’s trained in the appeals process can help you prepare for your hearing and for the conversation with the judge. Your representative must be a VA-accredited lawyer, claims agent, or someone from a Veterans Service Organization (VSO).<br>
 
 [Get help preparing for your hearing](/decision-reviews/get-help-with-review-request/)
 
@@ -92,7 +92,7 @@ Hearings usually last 30 minutes.
 
 Your hearing will be transcribed and added to your appeal file. You’ll be asked if you’d like a copy of the transcript for your personal records. The judge will review the hearing and the other evidence in your appeal file before making a decision.
 
-When the 90-day time period for submitting new evidence closes, your case will be placed on the docket for a decision by a judge. If you don’t have new evidence to submit, you can waive the 90-day time period that’s automatically added to your appeal. Some Veterans service organizations will ask for time to make additional arguments in support of your case, so contact your representative first if you’re thinking of waiving this time period.
+When the 90-day time period for submitting new evidence closes, your case will be placed on the docket for a decision by a judge. If you don’t have new evidence to submit, you can waive the 90-day time period that’s automatically added to your appeal. Some Veterans Service Organizations will ask for time to make additional arguments in support of your case, so contact your representative first if you’re thinking of waiving this time period.
 
 
 <span id="reschedule-or-withdraw-request"></span>
