@@ -20,7 +20,7 @@ If you requested a decision review and haven’t heard back from VA yet, please 
 <a href="https://www.va.gov/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim or Appeal</a>
 
 ## What if I need help?
-A Veterans service organization or VA-accredited attorney or agent can help you request a decision review. 
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
 <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
