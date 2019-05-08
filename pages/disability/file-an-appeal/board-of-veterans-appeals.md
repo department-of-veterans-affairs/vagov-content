@@ -52,8 +52,8 @@ No. Board hearings are always optional.
 
 [Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf)
 
-Or you can contact your Veterans service organization at any time during the appeals process to get help with requesting a hearing.<br>
-[Find a Veterans service organization](https://www.va.gov/vso/)
+Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
+[Find a Veterans Service Organization](https://www.va.gov/vso/)
 
   ### How will I know when my hearing is scheduled?
 
@@ -105,7 +105,7 @@ Or you can contact your Veterans service organization at any time during the app
 
   ### Can I get help preparing for my hearing? 
 
-  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans service organization (VSO). 
+  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO). 
 
   [Get help from a representative](/disability/get-help-filing-claim/)
 </section>
