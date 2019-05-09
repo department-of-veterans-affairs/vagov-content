@@ -101,7 +101,7 @@ hublinks:
       description: Get step-by-step instructions on how to apply for voc rehab benefits.
       external: false
     - url: "/careers-employment/education-and-career-counseling/"
-      label: Educational and career counseling (Chapter 36)
+      label: Educational and Career Counseling (Chapter 36)
       description: Find out how to get free educational and career counseling as a recently
         discharged Veteran or a dependent family member.
       external: false
