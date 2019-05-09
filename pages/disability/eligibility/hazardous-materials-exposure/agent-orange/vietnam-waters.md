@@ -57,7 +57,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 
 You’ll have to show that you had contact with Agent Orange in another way while serving in the military. We decide these claims on a case-by-case basis.
 
-#### If I'm a "Blue Water Veteran" with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
+#### If I'm a "blue water" Veteran with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
 
 
 No. You don’t need to show where you came into contact with Agent Orange. We believe that non-Hodgkin’s lymphoma can be caused by contact with Agent Orange through service in Vietnam or its offshore waters during the Vietnam Era. <br>
