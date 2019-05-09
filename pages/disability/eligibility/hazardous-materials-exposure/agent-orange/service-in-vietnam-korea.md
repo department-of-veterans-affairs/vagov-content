@@ -11,7 +11,7 @@ order: 7
 
 <div class="va-introtext">
 
-Did you serve in Vietnam (including aboard a ship on the inland waterways) or in the Korean demilitarized zone during the Vietnam Era? If you did, you likely had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+Did you serve in Vietnam (including aboard a ship on the inland waterways) or in the Korean Demilitarized Zone during the Vietnam Era? If you did, you likely had contact with Agent Orange, a toxic chemical the U.S. military used to clear plants and trees during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -23,7 +23,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 
 **You must have served in one or both of these places:**
 - Vietnam (including aboard a ship on the inland waterways) for any length of time between January 9, 1962, and May 7, 1975, **or**
-- The Korean demilitarized zone for any length of time between April 1, 1968, and August 31, 1971
+- The Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
