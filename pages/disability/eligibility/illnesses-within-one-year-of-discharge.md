@@ -32,7 +32,7 @@ relatedlinks:
 You may be able to get disability benefits if you have signs of an illness like hypertension (high blood pressure), arthritis, diabetes, or peptic ulcers that started within a year after you were discharged from active military service.
 
 
-If your symptoms appear within 1 year after discharge—even if they weren’t there while you were serving—we’ll conclude that they’re related to your service. <br>
+If your symptoms appear within one year after discharge—even if they weren’t there while you were serving—we’ll conclude that they’re related to your service. <br>
 
 </div>
 
