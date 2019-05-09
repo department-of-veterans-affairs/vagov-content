@@ -8,7 +8,7 @@ majorlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E programs for service members and veterans
+      title: VR&E programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
       title: How to apply for VR&E
