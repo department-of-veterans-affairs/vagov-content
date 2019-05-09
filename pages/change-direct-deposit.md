@@ -33,7 +33,7 @@ This depends on the type of benefits you're receiving. You can change your infor
   <li class="process-step list-four"><strong>Edit your direct deposit information</strong> <br> Click <strong>Edit</strong> next to the information you'd like to change, including your bank name, account type, and account name. Then fill out the form and click <strong>Update</strong> to save your changes. We'll send you an email confirming the changes. <br><strong>Note:</strong>You can also change your address and other contact information in your VA.gov profile. This will update your contact information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation and Employment (VR&E), and VA health care. 
 </ol>
 <button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button>
-Or, if you're already signed in, <strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br>
+Or, if you're already signed in, <strong><a href="/profile/">go to your VA.gov profile</a></strong> <br>
 If you have questions about verifying your identity on VA.gov, <a href="/sign-in-faq/#verify">read our identity verification FAQs</a>.
 
 <h4>If you want to opt cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks</h4>
