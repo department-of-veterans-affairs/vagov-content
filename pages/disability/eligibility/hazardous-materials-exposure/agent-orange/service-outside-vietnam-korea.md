@@ -50,7 +50,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 **Exception:**<br>
-If you’re a "blue-water" Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
+If you’re a "blue water" Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
 [Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
 ## What if I need help filing my claim?
