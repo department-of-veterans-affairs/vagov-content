@@ -10,7 +10,7 @@ order: 8
 
 <div class="va-introtext">
 
-You may have had contact with Agent Orange even if you did not serve in Vietnam or in the Korean demilitarized one. Agent Orange is a toxic chemical used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
+You may have had contact with Agent Orange even if you did not serve in Vietnam or in the Korean Demilitarized Zone. Agent Orange is a toxic chemical used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
 
 </div>
 
