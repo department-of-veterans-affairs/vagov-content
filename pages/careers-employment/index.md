@@ -106,9 +106,9 @@ hublinks:
         discharged Veteran or a dependent family member.
       external: false
     - url: "/careers-employment/veteran-owned-business-support/"
-      label: Support for your Veteran-owned small business
-      description: Register to do business with VA and get support for your Veteran-owned
-        small business.
+      label: Support for your Veteran-Owned Small Business
+      description: Register to do business with VA and get support for your Veteran-Owned
+        Small Business.
       external: false
     - url: "/careers-employment/dependent-benefits/"
       label: Support for dependent family members
