@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Diseases related to Agent Orange
+heading: Diseases related to Agent Orange
 display_title: Related diseases
 description: Learn about certain cancers and other diseases we believe are related to Agent Orange exposure (called "Agent Orange presumptives"). If you have an illness or other condition and were exposed to Agent Orange, find out if you're eligible for VA disability pay and health care benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
