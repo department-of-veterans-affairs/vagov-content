@@ -101,7 +101,7 @@ Janesville, WI 53547-4444<br>
 
 <div class="vads-l-row medium-screen:vads-u-margin-x--neg2">
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
+    <h4>Pension/Survivors benefits</h4>
       <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX, 
       UT, WA, WY, Mexico, Central America, South America, or the Caribbean</p>
       <p class="va-address-block">
@@ -115,7 +115,7 @@ Janesville, WI 53547-4444<br>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
+    <h4>Pension/Survivors benefits</h4>
       <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
@@ -128,7 +128,7 @@ Janesville, WI 53547-4444<br>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Pension/Survivors Benefits</h4>
+    <h4>Pension/Survivors benefits</h4>
       <p>If you live in AL, AR, IL, IN, KY, LA, MI, MS, MO, OH, TN, or WI</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
@@ -192,7 +192,7 @@ form.<br>
   </div>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
-    <h4>Loan Guaranty</h4>
+    <h4>Loan guaranty</h4>
       <p class="va-address-block">
 Please refer to your<br>
 decision for instructions<br>
