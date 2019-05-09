@@ -37,9 +37,7 @@ You may be able to get burial allowances if you're paying for the burial and fun
 
 <br>
 
-To get this benefit, the Veteran must not have received a dishonorable discharge, and one of the below circumstances must be true.
-
-**One of these must be true. The Veteran died:**
+**The Veteran must not have received a dishonorable discharge, and one of these circumstances is true. The Veteran died:**
 
 - As a result of a service-connected disability (a disability related to service), **or**
 - While getting VA care, either at a VA facility or at a facility contracted by VA, **or**
