@@ -28,17 +28,16 @@ This depends on the type of benefits you're receiving. You can change your infor
 
 <ol class="process">
   <li class="process-step list-one"><strong>Sign in to VA.gov</strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
-  <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> This helps to keep your information safe, and prevent fraud and identity theft. If you've already verified your identity with us, you won't have to do this again. </li>
+  <li class="process-step list-two"><strong>Verify your identity and add 2-factor authentication (2FA) when prompted</strong> <br> This helps to keep your information safe, and prevent fraud and identity theft. If you've already verified your identity with us and added 2FA, you won't have to do this again. </li>
   <li class="process-step list-three"><strong>Go to your VA.gov profile</strong> <br> Once you're signed in, you can find your profile by clicking on the icon with your name in the top right corner of any VA.gov page.</li>
-  <li class="process-step list-four"><strong>Edit your direct deposit information</strong> <br> Click <strong>Edit</strong> next to the information you'd like to change, including your bank name, account type, and account name. Then fill out the form and click <strong>Update</strong> to save your changes. We'll send you an email confirming the changes. <br><strong>Note:</strong>You can also change your address and other contact information in your VA.gov profile. This will update your contact information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation and Employment (VR&E), and VA health care. 
+  <li class="process-step list-four"><strong>Edit your direct deposit information</strong> <br> Click <strong>Edit</strong> next to the information you'd like to change, including your bank name, account type, and account name. Then fill out the form and click <strong>Update</strong> to save your changes. We'll send you an email confirming the changes.
 </ol>
-<button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button>
-Or, if you're already signed in, <strong><a href="/profile/">go to your VA.gov profile</a></strong> <br>
+<strong><button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button></strong><br>
+<br>
+Or, if you're already signed in, <a href="/profile/">go to your VA.gov profile</a>. <br>
 If you have questions about verifying your identity on VA.gov, <a href="/sign-in-faq/#verify">read our identity verification FAQs</a>.
 
-<h4>If you want to opt cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks</h4>
-Please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday to Friday, 8:00 a.m. to 9:00 p.m. ET.
-Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType).
+<strong>If you want to opt cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks,</strong> please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday to Friday, 8:00 a.m. to 9:00 p.m. ET. Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType). 
       
 </div>
 </div>
@@ -49,13 +48,13 @@ Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&a
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to change your VA direct deposit and contact information online.</h4>
-  <p class="usa-alert-text"><br>
-    To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
+  <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
       <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to Change Your Information</a>
     </p>
   </div>
 </div>
- <strong>Note:</strong>You'll need your bank's name, address, phone number, and routing number as well as your account number.
+<br>
+<strong>Note:</strong> You'll need your bank's name, address, phone number, and routing number as well as your account number.
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -96,12 +95,16 @@ We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 Yes. It’s important to update your information with us if you move, change your marital status, have a baby, adopt a child, or experience any other life change that could affect your rating or payment.
 
-<strong>If you move or change your mailing address,</strong> make sure to update your contact information so we send information about your benefits and services as well as any prescriptions you may need to the right location. <br>
+<h3>If you move or change your mailing address</h3>
+Make sure to update your contact information so we send information about your benefits and services as well as any prescriptions, lab test results, or appointment reminders you may need to the right location.
+
 You can change your address and other contact information in your VA.gov profile. This will update your contact information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation and Employment (VR&E), and VA health care. <a href="/change-address">Find out how to change your address on file with VA</a>.
 
-<strong>If you have a disability rating of 30% or higher</strong>, you may be able to <a href="https://www.benefits.va.gov/compensation/add-dependents.asp">add eligible dependents to your VA disability compensation</a> to get a higher payment (also called a "benefit rate").
+<h3>If you have a disability rating of 30% or higher</h3>
+You may be able to <a href="https://www.benefits.va.gov/compensation/add-dependents.asp">add eligible dependents to your VA disability compensation</a> to get a higher payment (also called a "benefit rate").
 
-<strong>If your disability gets worse</strong>, you can <a href="/disability/how-to-file-claim/">file a claim for an increase in benefits</a>. <br>
+<h3>If your disability gets worse</h3>
+You can <a href="/disability/how-to-file-claim/">file a claim for an increase in benefits</a>. <br>
 
 </div>
 </div>
