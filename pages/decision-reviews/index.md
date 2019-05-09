@@ -54,7 +54,7 @@ relatedlinks:
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
 your case or identifying evidence for review. A reviewer will look at all the evidence and
 determine whether it changes the decision. <br>
-[Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/).
+[Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
