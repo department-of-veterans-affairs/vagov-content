@@ -10,7 +10,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-If you’re a Veteran who owns a small business, you may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out if you can register your Veteran-owned small business.
+If you’re a Veteran who owns a small business, you may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out if you can register your Veteran-Owned Small Business.
 
 </div>
 
