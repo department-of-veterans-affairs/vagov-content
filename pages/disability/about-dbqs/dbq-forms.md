@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disability Benefits Questionnaire (DBQ) Forms
-heading: Find your disability benefits questionnaire (DBQ) form 
+title: VA DBQ Forms
+heading: VA DBQ forms 
 display_title: DBQ forms
+keywords: va dbq forms
 description: 
 concurrence: 
 spoke: Get Benefits
@@ -12,12 +13,18 @@ order:
 
 <div class="va-introtext">
   
-Disability benefits questionnaires (DBQs) are forms that help us give you the right disability compensation for your 
-condition. To find the DBQ form to fit your needs, click on the condition type that best describes the type of condition or symptom you're claiming. Then download the form and email, or bring it in person to the health care provider who will be completing your exam. 
+Disability Benefits Questionnaire (VA DBQ forms) help us gather information from you health care provider about your service-connected illness or injury, and how it affects your ability to function. This information helps us to determine your VA disability rating (a rating that measures how severe your disability is). Find the DBQ form you need and get instructions for how to submit it to us for review.
 
 </div>
 
-## Search DBQs by condition type or form number 
+### On this page:
+- [Find VA DBQ forms my condition or symptom type](#find)
+- [How to submit DBQ forms to us for review](#submit)
+
+<span id="find"</a>
+## Find VA DBQ forms by condition or symptom type
+
+To find the right DBQ form, click on the description that best fits the type of condition or symptom you're claiming. Then download the specific form you need.
 
 <ul class="usa-accordion">
 <li>
@@ -39,7 +46,7 @@ condition. To find the DBQ form to fit your needs, click on the condition type t
 | --- | --- | --- |
 | **ALS or Lou Gehrig’s Disease**<br> Includes muscle weakness and wasting that become worse over time, as well as speech, swallowing, and breathing problems | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
 | **Diabetic nerve damage** <br> Includes weakness, numbness, and tingling of your legs and arms related to diabetes | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
-| **Issues concerning specific nerves in the brain** <br> Includes: <ul><li>V (trigeminal nerve that controls feelings in your face and functions like biting and chewing)</li><li>VII (facial nerve that controls your facial expressions and taste)</li><li>IX (glossopharyngeal nerve that's involved in many functions and senstations, including taste, blood pressure, pulse, and breathing)</li><li>X (vagus)</li><li>XI (spinal accessory)</li><li>XII (hypoglossal nerve that controls most of your tongue's movement)</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
+| **Issues concerning specific nerves in the brain** <br> Includes: <ul><li><strong>5th cranial nerve (CN V):</strong> Trigeminal nerve that controls feelings in your face and functions like biting and chewing</li><li><strong>7th cranial nerve (CN VII):</strong> Facial nerve that controls your facial expressions and taste</li><li><strong>9th cranial nerve (CN IX):</strong> Glossopharyngeal nerve that helps control functions and senstations like taste, blood pressure, pulse, and breathing</li><li><strong>10th cranial nerve (CN X):</strong> Vagus nerve that helps control your heart, lungs, and digestive tract)</li><li><strong>11th cnanial nerve (CN XI):</strong> Spinal accessory nerve affects muscles that help your neck and shoulder move </li><li><strong>12th cranial nerve (CN XII):</strong> Hypoglossal nerve that controls most of your tongue's movement</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
 | **Headaches** <br> Includes migraines and headaches that cause nausea or vomiting or make it difficult to work | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
 | **Fibromyalgia and related issues** <br> Includes sleep problems, muscle and joint pain, and altered affect | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
 | **Multiple sclerosis symptoms** <br> Includes symptoms like weakness, numbness, urine incontinence, eyesight problems, and balance issues | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
@@ -253,8 +260,69 @@ condition. To find the DBQ form to fit your needs, click on the condition type t
 </li>
 </ul>
 
-## What if I don’t see a DBQ form for the condition I’m claiming?
+------
 
-With few exceptions, the DBQs cover every condition for which a Veteran can receive compensation. If you can’t find a DBQ for
-your condition, please call <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m.
-to 9:00 p.m. ET.
+<span id="find"</a>
+## How to submit DBQ forms to us for review
+
+Follow the steps below to submit your DBQ.
+
+<ol class="process">
+<li class="process-step list-one">
+
+### Give the DBQ to your health care provider to complete
+
+**We suggest emailing the DBQ PDF to your provider's office.** When your provider fills out the form electronically, we can read the information more easily. 
+
+If you can't send the form by email, you can also print it out and take it to your appointment so your provider can fill it out by hand. Please ask your provider to make sure all information is readable.
+
+**Note:** Your provider must fill out the last section, which includes their name, signature, and contact information. If your provider has filled out the form electronically, they must print it out to sign it. We can’t review any form without this information.
+
+</li>
+
+<li class="process-step list-two">
+  
+### Make a copy of the completed DBQ for your records
+
+You'll want to always keep copies of all doctor's reports, test results, and any other evidence you submit to support your claim.
+
+</li>
+
+<li class="process-step list-three">
+  
+### Submit your completed VA DBQ
+
+You or your health care provider can send the completed form to us in one of these ways:
+
+#### By mail
+
+Mail the form to us at:
+<p class="va-address-block">
+Department of Veterans Affairs<br>
+Claims Intake Center<br>
+P.O. Box 4444<br>
+Janesville, WI 53547-4444<br>
+</p> 
+
+#### By fax
+
+Fax the form to your nearest VA regional office. <br>
+[Find your regional office’s fax number](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
+
+#### In person 
+
+Bring the form in person to your nearest VA regional office. <br>
+[Find your regional office’s address](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType)
+ 
+</li>
+</ol>
+
+[Learn more about the claim process](/disability/after-you-file-claim/)
+
+### What if I don’t see a DBQ for the condition I’m claiming, or have other questions?
+
+With few exceptions, the DBQs cover every condition for which a Veteran can get compensation. 
+
+If you can’t find a DBQ for your condition, or if you have any other questions, please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+Or ask us a question online through our [Inquiry Routing and Information System (IRIS)](https://iris.custhelp.va.gov/app/ask/).
