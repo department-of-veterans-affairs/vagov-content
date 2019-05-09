@@ -108,7 +108,7 @@ Examples of “good cause” for rescheduling would include if you, your represe
 
 #### You won't lose your place in line if you need to reschedule
 
-You won’t lose your place in line. The Board of Veterans’ Appeals schedules hearings in docket order (the order in which they receive requests). You’ll keep the same docket date, and your hearing will be rescheduled to the earliest date possible.
+The Board of Veterans’ Appeals schedules hearings in docket order (the order in which they receive requests). You’ll keep the same docket date, and your hearing will be rescheduled to the earliest date possible.
 
 ### What if I need to withdraw my hearing?
 
