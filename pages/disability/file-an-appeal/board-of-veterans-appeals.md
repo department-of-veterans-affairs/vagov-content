@@ -56,14 +56,14 @@ No. Board hearings are always optional.
   **The form will ask you to choose 1 of these 4 options:**
 -	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
 -	**A videoconference hearing at your local VA office.** This takes place at your local VA office (or another facility close to you). VA can usually schedule video hearings sooner than in-person hearings.<br>
-[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf).
+[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf)
 -	**An in-person hearing at your local VA office.** This can sometimes delay your hearing, because judges have to be scheduled to travel to your local VA office.
 -	**An in-person hearing at the Board in Washington, DC.**
 
-[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).
+[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf)
 
 Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
-[Find a Veterans Service Organization](https://www.va.gov/vso/).
+[Find a Veterans Service Organization](https://www.va.gov/vso/)
 
   ### How will I know when my hearing is scheduled?
 
@@ -117,7 +117,7 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO).
 
-  [Get help from a representative](/disability/get-help-filing-claim/).
+  [Get help from a representative](/disability/get-help-filing-claim/)
 </section>
 
 <section id="expect">
