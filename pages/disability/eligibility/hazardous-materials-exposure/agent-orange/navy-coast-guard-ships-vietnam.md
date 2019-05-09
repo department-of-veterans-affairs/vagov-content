@@ -43,7 +43,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 **Note:** Even if your ship or boat is not included in the Mobile Riverine Force, Inshore Fire Support Division 93, or the above designations, it may still appear in our alphabetized list of ships that had contact with Agent Orange.<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (pdf)</a>
+<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>
 
 <br>
 
