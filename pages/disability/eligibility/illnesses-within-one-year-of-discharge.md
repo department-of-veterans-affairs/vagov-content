@@ -67,14 +67,14 @@ You’ll need to file a claim for disability compensation and submit your eviden
 **Your evidence will need to show that both of these are true of your illness:**
 
 - It's at least 10% disabling (for example, you may submit a doctor’s report showing that you’re taking medicine for your high blood pressure), **and**
-- It appeared within 1 year after being discharged from active service (for example, you may submit a medical report that shows the date of your diagnosis)
+- It appeared within one year after being discharged from active service (for example, you may submit a medical report that shows the date of your diagnosis)
 
-If you have an illness listed in Title 38, Code of Federal Regulation, 3.09(a), you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases that appear within 1 year of your discharge are related to your service. We refer to these as “presumptive diseases.” <br>
+If you have an illness listed in Title 38, Code of Federal Regulation, 3.09(a), you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases that appear within one year of your discharge are related to your service. We refer to these as “presumptive diseases.” <br>
 [See Title 38, Code of Federal Regulation, 3.09(a) for the complete list of covered illnesses](https://www.benefits.va.gov/warms/docs/regs/38CFR/BOOKB/PART3/S3_309.doc) <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 **Exceptions**<br>
-The following diseases are covered, even if they appear more than 1 year after you separated from service:
+The following diseases are covered, even if they appear more than one year after you separated from service:
 
 
 -	Hansen&#8217;s disease (a long-lasting infection that affects your skin, nerves, and mucous membranes) can appear within 3 years after discharge.
