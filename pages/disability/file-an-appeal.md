@@ -54,7 +54,7 @@ After the Veterans Benefits Administration makes a decision on your claim, you c
       <div>
         <h4>File a Notice of Disagreement (NOD)</h4>
         <p>
-        By filing a Notice of Disagreement, you begin the appeals process. You’ll need to file a Notice of Disagreement within 1 year of the date on the letter notifying you of the claim decision. <br> 
+        By filing a Notice of Disagreement, you begin the appeals process. You’ll need to file a Notice of Disagreement within one year of the date on the letter notifying you of the claim decision. <br> 
         <a href="https://www.vba.va.gov/pubs/forms/VBA-21-0958-ARE.pdf">Download a Notice of Disagreement (VA Form 21-0958)</a> 
         </p>
         <p>
