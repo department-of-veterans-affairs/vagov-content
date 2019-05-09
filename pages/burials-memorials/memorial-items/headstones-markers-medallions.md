@@ -50,7 +50,7 @@ You can apply for one of these memorial items if you're representing the Veteran
 **One of these must describe your relationship or role:**
 - A family member of the Veteran, **or**
 - A personal representative (someone who officially represents the Veteran), **or**
-- A representative of an accredited Veterans service organization, **or**
+- A representative of an accredited Veterans Service Organization, **or**
 - An employee of a state or local government whose official responsibilities include serving Veterans, **or**
 - Any person who is legally responsible for making arrangements for unclaimed remains or for details having to do with the Veteran’s interment or memorialization, **or**
 - Any individual representing the Veteran, if their service ended before April 6, 1917
