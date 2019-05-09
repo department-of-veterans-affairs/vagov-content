@@ -106,7 +106,7 @@ If your hearing is less than 2 weeks away, you’ll need to file a motion explai
 
 Examples of “good cause” for rescheduling would include if you, your representative, or a witness are sick or you had trouble getting records. A judge will review your request, and you’ll receive a notice in the mail when the judge decides if the hearing can be rescheduled.
 
-#### Will I lose my place in line if I reschedule my hearing?
+#### You won't lose your place in line if you need to reschedule
 
 You won’t lose your place in line. The Board of Veterans’ Appeals schedules hearings in docket order (the order in which they receive requests). You’ll keep the same docket date, and your hearing will be rescheduled to the earliest date possible.
 
@@ -135,4 +135,6 @@ Washington, D.C. 20038<br>
 #### By fax
 
 Fax your request to 844-678-8979.
+
+<br>
 
