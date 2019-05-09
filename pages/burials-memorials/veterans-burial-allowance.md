@@ -35,9 +35,7 @@ You may be able to get burial allowances if you're paying for the burial and fun
 - A parent of the Veteran, **or**
 - The executor or administrator of the Veteran’s estate (someone who officially represents the Veteran)
 
-<br>
-
-**The Veteran must not have received a dishonorable discharge, and one of these circumstances is true. The Veteran died:**
+**The Veteran must not have received a dishonorable discharge, and one of these circumstances must be true. The Veteran died:**
 
 - As a result of a service-connected disability (a disability related to service), **or**
 - While getting VA care, either at a VA facility or at a facility contracted by VA, **or**
