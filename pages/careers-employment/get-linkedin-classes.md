@@ -1,5 +1,5 @@
 ---
-title: Get LinkedIn Classes
+title: Get LinkedIn classes
 href: https://www.veterans.linkedin.com/
 order: 6
 spoke: Manage benefits
