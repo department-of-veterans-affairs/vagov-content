@@ -1,18 +1,18 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for VA Vocational Rehab and Employment
-display_title: How to Apply
+title: How to apply for VA Vocational Rehab and Employment
+display_title: How to apply
 order: 3
 template: detail-page
 relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E Programs for Servicemembers and Veterans
+      title: VR&E programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/dependent-benefits/
-      title: Dependent Family Members
-      description: If you're the dependent family member of a Servicemember or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
+      title: Dependent family members
+      description: If you're the dependent family member of a service member or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
 ---
 
 <div class="va-introtext">
@@ -64,10 +64,10 @@ If you’re eligible, we’ll invite you to an orientation session at your neare
 
 <div class="feature" markdown=“1”>
 
-### What if I’m a Servicemember who hasn’t yet received a service-connected disability rating?
+### What if I’m a service member who hasn’t yet received a service-connected disability rating?
 
 You don’t need to wait for a rating. Instead, please fill out VA Vocational Rehabilitation - Getting Ahead After You Get Out (VA Form 28-0588). <br>
-[Download VA Form 28-0588](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf).
+[Download VA Form 28-0588](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf)
 
 You may be eligible for VR&amp;E benefits and services if you’re in at least one of the below situations.
 
@@ -75,9 +75,9 @@ You may be eligible for VR&amp;E benefits and services if you’re in at least o
 - Going through the Physical Evaluation Board process, **or**
 - Expecting an other than dishonorable discharge and have a VA memorandum rating of 20% or more, **or**
 - Entered in the Integrated Disability Evaluation System (IDES). <br>
-[Learn more about accessing VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/).
+[Learn more about accessing VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/)
 
-**Please note:** Severely injured active-duty Servicemembers can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
+**Please note:** Severely injured active-duty service members can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181). The sunset date of that law has been extended to September 30, 2018, through Sec. 724 of Public Law 113-291.
 
 </div>
 
@@ -87,8 +87,8 @@ After you apply, we’ll schedule a meeting for you with a Vocational Rehabilita
 
 After we make an entitlement decision, you and your counselor will work together to develop a rehabilitation plan. This plan outlines the rehabilitation and other services that VR&amp;E will provide.
 
-You can also meet with VRCs called VetSuccess on Campus (VSOC) Counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
-[Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
+You can also meet with VRCs called VetSuccess on Campus (VSOC) counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
+[Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/)
 
 ### What's included in a rehabilitation plan?
 
