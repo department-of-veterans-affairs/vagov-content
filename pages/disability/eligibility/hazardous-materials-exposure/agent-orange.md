@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Agent Orange exposure
+heading: Agent Orange exposure
 display_title: Agent Orange
 description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
