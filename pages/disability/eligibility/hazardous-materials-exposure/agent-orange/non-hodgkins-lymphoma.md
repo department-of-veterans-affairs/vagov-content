@@ -34,7 +34,7 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 
 **Both of these must be true:**
 - You had contact with Agent Orange while serving in the military, **and**
-- You served in Vietnam or in the waters off Vietnam during the Vietnam Era, in the Korean demilitarized zone, or in another area where Agent Orange was stored, tested, or sprayed
+- You served in Vietnam or in the waters off Vietnam during the Vietnam Era, in the Korean Demilitarized Zone, or in another area where Agent Orange was stored, tested, or sprayed
 
 ### Who’s covered?
 - Veterans
