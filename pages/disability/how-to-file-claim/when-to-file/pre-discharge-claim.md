@@ -19,8 +19,6 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
-aliases:
-  - /disability-benefits/apply/claim-types/predischarge-claim/
 ---
 
 <div class="va-introtext">
@@ -81,7 +79,7 @@ Compensation (monthly payments)
 
 Choose the scenario below that matches your situation to find out how to file a claim for disability compensation before discharge.
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bdd-program">If you have 180 to 90 days left on active duty: <br>
 Apply through the BDD program</button>
@@ -92,7 +90,7 @@ If you have 180 to 90 days left on active duty, you'll need to apply for benefit
 ### If you're stationed in the U.S.
 
 You can file a claim online, by mail, or in person. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).	
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 **To complete the process, you'll need to:**
 

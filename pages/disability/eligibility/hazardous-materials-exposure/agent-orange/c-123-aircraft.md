@@ -5,8 +5,6 @@ display_title: C-123 Aircraft
 description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 template: detail-page
 order: 4
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/c-123/
 ---
 <div class="va-introtext">
 
@@ -65,9 +63,9 @@ Check our list of military units and Air Force Specialty codes to see if your un
 
 ### How do I get these benefits?
 
-You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure to Agent Orange while serving in the military.  
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had exposure to Agent Orange while serving in the military.
 
-You can upload supporting documents along with your online application, including: 
+You can upload supporting documents along with your online application, including:
 
   - Discharge or separation papers (DD214 or other separation documents)
   - USAF Form 2096 (unit where you were assigned at the time of the training action)

@@ -21,9 +21,7 @@ relatedlinks:
       description: If you're a wartime Veteran, find out if you can get pension benefits based on your age, disability, and income.
     - url: /housing-assistance/disability-housing-grants/
       title: Adaptive Housing Grants
-      description: Find out if you may be eligible for a grant to buy or change a home to meet your needs and help you live more independently with your service-connected disability.  
-aliases:
-  - /employment/vocational-rehab-and-employment/ides/
+      description: Find out if you may be eligible for a grant to buy or change a home to meet your needs and help you live more independently with your service-connected disability.
 ---
 
 <div class="va-introtext">

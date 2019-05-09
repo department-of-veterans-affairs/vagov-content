@@ -6,8 +6,6 @@ plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 collection: educationChooseSchool
 order: 1
-aliases:
-  - /education/tools-programs/principles-excellence-program/
 ---
 
 <div class="va-introtext">

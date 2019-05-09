@@ -21,8 +21,6 @@ relatedlinks:
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-Out Refinance Loan
       description: Learn how to get cash from your home equity to pay off debts, pay for school, or take care of other needs.
-aliases:
-  - /housing-assistance/home-loans/apply-for-certificate-of-eligibility/
 ---
 
 <div class="va-introtext">
@@ -37,7 +35,7 @@ Gather the information you'll need to apply for your COE. Click on the descripti
 
 <br>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Veteran</button>
 <div id="apply-coe-veteran" class="usa-accordion-content">

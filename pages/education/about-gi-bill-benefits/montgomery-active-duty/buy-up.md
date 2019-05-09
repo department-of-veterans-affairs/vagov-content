@@ -6,8 +6,6 @@ plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 11
 collection: educationMontgomeryActiveDuty
-aliases:
-  - /education/gi-bill/buy-up-program/
 ---
 
 <div class="va-introtext">

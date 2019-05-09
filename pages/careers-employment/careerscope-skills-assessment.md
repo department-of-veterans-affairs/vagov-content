@@ -7,8 +7,6 @@ concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 2
 spoke: Manage benefits
-aliases:
-  - /education/tools-programs/careerscope/
 ---
 
 <div class="va-introtext">

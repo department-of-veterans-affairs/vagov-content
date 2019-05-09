@@ -1,9 +1,11 @@
 ---
 layout: page-react-sidebar.html
-title: How to Apply for a Discharge Upgrade
+title: How To Apply For A Discharge Upgrade
+heading: How to apply for a discharge upgrade
 entryname: discharge-upgrade-instructions
-display_title: Discharge Upgrade
-description: Get step-by-step instructions on how to apply for a military discharge upgrade or correction. If your discharge is upgraded, you'll be eligible for VA benefits you earned while serving.
+display_title: Discharge upgrade
+description: Want to apply for a military discharge upgrade or correction? Get step-by-step instructions depending on your specific situation. If your discharge is upgraded, you'll be eligible for VA benefits you earned while serving.
+keywords: upgrade discharge, military discharge upgrade, discharge upgrade
 order: 6
 spoke: Get records
 collection: records

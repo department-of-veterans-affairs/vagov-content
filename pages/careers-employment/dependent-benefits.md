@@ -17,8 +17,6 @@ relatedlinks:
     - url: /careers-employment/vetsuccess-on-campus/
       title: VetSuccess on Campus
       description: Find out if our counselors can help you transition from military to college life.
-aliases:
-  - /employment/vocational-rehab-and-employment/family-members/
 ---
 
 <div class="va-introtext">
