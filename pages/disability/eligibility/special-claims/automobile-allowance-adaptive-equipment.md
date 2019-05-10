@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: VA automobile allowance and adaptive equipment
+heading: VA automobile allowance and adaptive equipment
 display_title: Auto allowance and adaptive equipment
 description: Find out if you can get a VA automobile allowance if you're a Veteran living with a service-connected disability that prevents you from driving. Our automotive adaptive-equipment grants can help you buy or update a vehicle with special features that enable you to drive. Learn how to file a claim.
 concurrence: incomplete
