@@ -1,5 +1,6 @@
 ---
 title: Declaration of status of dependents
+heading: Declaration of status of dependents
 display_title: Add or remove a dependent
 entryname: 686-dependent-status
 layout: page-react.html
