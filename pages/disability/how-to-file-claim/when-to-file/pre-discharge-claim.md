@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Pre-discharge claim
+heading: Pre-discharge claim
 description: If you're on active duty and believe you have a service-connected disability, find out how to file a pre-discharge claim for VA disability benefits. You can file through the Benefits Delivery at Discharge (BDD) program 80 to 90 days before discharge. This may help you get your benefits sooner.
 source: http://www.benefits.va.gov/predischarge/index.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
