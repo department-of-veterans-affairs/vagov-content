@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Upload evidence to support your disability claim
+heading: Upload evidence to support your disability claim
 display_title: Upload evidence to support your disability claim
 description: Find out how and when to upload evidence online to support your VA claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 concurrence:
