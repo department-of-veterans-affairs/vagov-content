@@ -50,6 +50,13 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 -	Tuition for a full-time high-tech training program
 -	Money for housing during your training
+- The program doesn't count against your GI Bill entitlement, and you need only one day of unexpired GI Bill benefits to participate
+
+
+If you attend your training progam in person, your housing stipend will be equal to the monthly military Basic Allowance for Housing (BAH) for an E-5 with dependents, based on the zip code of the location where you attend the training. If you participate in an online program, your stipend will be half of the BAH national average for an E-5 with dependents.  
+
+**Note:** If you don't attend a training for a full month, we'll prorate your housing payment for the days you train. 
+
 
 ---------
 
@@ -59,6 +66,8 @@ First, you'll need to apply for the VET TEC program by filling out an Applicatio
 
 If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
 [View currently approved training providers](https://benefits.va.gov/gibill/fgib/vettec_providers.asp)
+
+After you complete your training, you'll receive a certification of your new skills. 
 
 **Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
 
