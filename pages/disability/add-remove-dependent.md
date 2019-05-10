@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Add dependents to your VA disability benefits
+heading: Add dependents to your VA disability benefits
 display_title: Add or remove a dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
 concurrence: Incomplete
