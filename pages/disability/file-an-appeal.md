@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: File a VA disability appeal
+heading: File a VA disability appeal
 display_title: File an appeal
 description: Learn about the VA appeals process and how to file a Notice of Disagreement to start an appeal if you disagree with our decision on your claim. Get answers to questions about the steps in the VA appeals timeline and find out how long it usually takes us to make a decision on an appeal.
 order: 3
