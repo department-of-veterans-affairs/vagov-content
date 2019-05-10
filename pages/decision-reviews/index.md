@@ -155,9 +155,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-user"></i></span>
   </div>
   <div class="vads-u-flex--1">
-
-      You also have the option to request a hearing with a judge, either in person in Washington, D.C., or by video conference at a VA location near you. 
-
+    You also have the option to request a hearing with a judge, either in person in Washington, D.C., or by video conference at a VA location near you.
   </div>
 </div>
 
