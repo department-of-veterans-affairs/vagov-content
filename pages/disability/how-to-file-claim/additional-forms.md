@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: File additional forms for your disability claim
+heading: File additional forms for your disability claim
 display_title: Additional forms
 description: Find out if you'll need to turn in any additional forms when you file your VA disability claim.
 plainlanguage:
