@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Special claims
+heading: Special claims
 description: If you're a Veteran living with a service-connected disability, find out if you can get special compensation for help with certain needs. These may be things like buying a specially equipped vehicle, replacing clothing damaged by a prosthetic, or getting extra pay while recovering from surgery.
 concurrence: complete
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
