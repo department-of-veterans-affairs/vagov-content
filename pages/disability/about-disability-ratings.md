@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: How VA assigns disability ratings
+heading: How VA assigns disability ratings
 display_title: About disability ratings
 description: Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the combined ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition.
 template: detail-page
