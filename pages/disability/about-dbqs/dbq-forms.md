@@ -314,6 +314,7 @@ Bring the form in person to your nearest VA regional office. <br>
  
 </li>
 </ol>
+
 [Learn more about the claim process](/disability/after-you-file-claim/)
 
 ### What if I don’t see a DBQ for the condition I’m claiming or have other questions?
