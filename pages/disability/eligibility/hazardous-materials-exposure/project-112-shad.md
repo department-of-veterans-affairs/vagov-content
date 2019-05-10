@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Chemical and biological exposure through Projects 112 or SHAD
+heading: Chemical and biological exposure through Projects 112 or SHAD
 display_title: Project 112/SHAD
 description: If you were part of Project 112 or Project SHAD, you may be at risk for certain illnesses. Find out if you can get VA disability pay and other benefits. You can also learn more about certain test sites, ships, and units involved in this chemical and biological warfare testing from 1962 to 1974.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-project_112_shad.asp
