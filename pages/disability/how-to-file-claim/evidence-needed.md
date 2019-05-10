@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Evidence needed for your disability claim
+heading: Evidence needed for your disability claim
 display_title: Evidence needed
 description: Find out what evidence you'll need when you file a VA disability claim—and what your options are for gathering documents to support your claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
 plainlanguage: 11-9-16 certified in compliance with the Plain Writing Act
