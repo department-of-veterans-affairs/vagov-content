@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Types of VA disability claims and when to file
+heading: Types of VA disability claims and when to file
 display_title: When to file
 description: Learn about the different types of VA claims for disability compensation. Find out when you can first file a claim for service-connected benefits—and what to do if you want to request more benefits or have new evidence to support a claim we denied in the past.
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
