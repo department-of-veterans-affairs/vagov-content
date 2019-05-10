@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Agent Orange exposure on U.S. Navy or Coast Guard ships
+heading: Agent Orange exposure on U.S. Navy or Coast Guard ships
 display_title: Navy or Coast Guard ships in Vietnam
 description: If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: complete
