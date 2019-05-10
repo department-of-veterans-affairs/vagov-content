@@ -13,7 +13,7 @@ order:
 
 <div class="va-introtext">
   
-Find the VA disability benefits questionnaire (or VA DBQ form) you need and get instructions for how to submit it to us for review. Submitting a VA DBQ form can speed up the process for deciding your disability compensation claim or pension benefits application.
+VA disability benefits questionnaires (or VA DBQ forms) can speed up the process for deciding your disability compensation claim or pension benefits application.Find the DBQ form you need and get instructions for how to submit it to us for review. 
 
 </div>
 
@@ -24,7 +24,7 @@ Find the VA disability benefits questionnaire (or VA DBQ form) you need and get 
 <span id="find"></a>
 ## Find VA DBQ forms by condition or symptom type
 
-To find the right DBQ form, click on the category below that best fits the type of condition or symptom you're claiming. Then download the specific form you need.
+To find the right DBQ form, click on the category below that best fits the type of condition or symptom you're claiming. Then click on the link to download the specific form you need.
 
 <ul class="usa-accordion">
 <li>
@@ -34,7 +34,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | ---|
 | **Red and white blood cell conditions** <br> Includes anemia and some types of leukemia and lymphoma | 21-0960B-2 | [Hematologic and Lymphatic Conditions, including Leukemia](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
-| **Hairy cell and other B-cell leukemias** | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
+| **B-cell leukemias** <br> Includes hairy cell leukemia | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
 
 </div>
 </li>
@@ -44,15 +44,15 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **ALS or Lou Gehrig’s Disease**<br> Includes muscle weakness and wasting that become worse over time, as well as speech, swallowing, and breathing problems | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
+| **ALS or Lou Gehrig’s Disease**<br> Includes muscle weakness and wasting that continues to get worse over time, as well as speech, swallowing, and breathing problems | 21-0960C-2 | [Amyotrophic Lateral Sclerosis (Lou Gehrig's Disease)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-2-ARE.pdf) |
 | **Diabetic nerve damage** <br> Includes weakness, numbness, and tingling of your legs and arms related to diabetes | 21-0960C-4 | [Diabetic Sensory-Motor Peripheral Neuropathy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-4-ARE.pdf) |
-| **Issues with specific nerves in the brain** <br> Includes:<ul><li><strong>Trigeminal nerve</strong> that controls feelings in your face and functions like biting and chewing</li><li><strong>Facial nerve</strong> that controls your facial expressions and taste</li><li><strong>Glossopharyngeal nerve></strong> that helps control functions and sensations like taste, blood pressure, pulse, and breathing</li><li><strong>Vagus nerve</strong> that helps control your heart, lungs, and digestive tract</li><li><strong>Spinal accessory nerve</strong> that controls muscles that help your neck and shoulder move </li><li><strong>Hypoglossal nerve</strong> that help controls your tongue's movement</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
-| **Headaches** <br> Includes migraines and headaches that cause nausea or vomiting or make it difficult to work | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
-| **Fibromyalgia and related issues** <br> Includes sleep problems, muscle and joint pain, and altered affect (trouble with concentration, memory, or confusion that's often called "brain fog" or "fibro fog") | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
-| **Multiple sclerosis symptoms** <br> Includes symptoms like weakness, numbness, loss of bladder control (urinary incontinence), eyesight problems, and balance issues | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
+| **Issues with specific nerves in the brain** <br> Includes issues with the:<ul><li><strong>Trigeminal nerve</strong> that controls feeling in your face and functions like biting and chewing</li><li><strong>Facial nerve</strong> that controls your facial expressions and taste</li><li><strong>Glossopharyngeal nerve</strong> that helps control functions and sensations like taste, blood pressure, pulse, and breathing</li><li><strong>Vagus nerve</strong> that helps control your heart, lungs, and digestive tract</li><li><strong>Spinal accessory nerve</strong> that controls muscles that help your neck and shoulder move </li><li><strong>Hypoglossal nerve</strong> that help controls your tongue's movement</li></ul>| 21-0960C-3 | [Cranial Nerve Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-3-ARE.pdf) |
+| **Headaches** <br> Includes migraines and headaches that happen often and that make it difficult to work or function and cause symptoms like nausea and vomiting | 21-0960C-8 | [Headaches (including Migraine Headaches)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-8-ARE.pdf) |
+| **Fibromyalgia and related issues** <br> Includes symptoms like sleep problems, muscle and joint pain, and problems with concentration, memory, or confusion (often called "brain fog" or "fibro fog") | 21-0960C-7 | [Fibromyalgia](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-7-ARE.pdf) |
+| **Multiple sclerosis symptoms** <br> Includes symptoms like weakness, numbness, loss of bladder control, eyesight problems, and balance issues | 21-0960C-9 | [Multiple Sclerosis (MS)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-9-ARE.pdf) |
 | **Parkinson’s disease symptoms** <br> Includes:<br><ul><li>Rigid or stiff limbs and trunk, and tremors or trembling in your hands, arms, legs, jaw, and face</li><li>Other physical effects such as slow movements, balance and coordination issues, bladder problems or constipation, skin problems, and trouble swallowing, chewing, and speaking</li><li>Trouble sleeping and emotional changes like depression</li></ul> | 21-0960C-1 | [Parkinson's Disease](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-1-ARE.pdf) |
 | **Narcolepsy symptoms** <br> Includes sleep attacks, sleepiness, paralysis, and cataplexy (sudden, brief muscle weakness or paralysis that's often triggered by strong emotion) | 21-0960C-6 | [Narcolepsy](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-6-ARE.pdf) |
-| **Specific kinds of nerve damage** <br> Includes nerve damage due to causes like metabolic disorders, exposure to toxins, infections, immunological disorders, or inflammation (swelling and irritation) | 21-0960C-10 | [Peripheral Nerve Conditions (not including Diabetes Sensory-Motor Peripheral Neuropathy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-10-ARE.pdf) | 
+| **Specific kinds of nerve damage** <br> Includes nerve damage due to causes like metabolic disorders, exposure to toxins, infections, disorders of your immune system, or inflammation (swelling and irritation) | 21-0960C-10 | [Peripheral Nerve Conditions (not including Diabetes Sensory-Motor Peripheral Neuropathy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-10-ARE.pdf) | 
 | **Seizures** <br> Includes seizures caused by epilepsy and other conditions | 21-0960C-11 | [Seizure Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960C-11-ARE.pdf) |
 
 </div>
@@ -64,13 +64,13 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Esophageal issues** <br> Includes spasms, a lump in your throat or chest, heartburn, pain when you swallow, or vomiting | 21-0960G-1 | [Esophageal Conditions (including GERD, Hiatal Hernia, and Other Esophageal Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-1-ARE.pdf) |
-| **Gallbladder or pancreatic issues** <br><ul><li>**Gallbladder:** Includes inflammation (swelling and irritation), gallstones, or pain after eating fatty food</li><li>**Pancreas:** Includes pancreatitis that causes severe recurring abdominal pain (pain in the stomach and surrounding area that keeps coming back over time) </li></ul> | 21-0960G-2 | [Gallbladder and Pancreas Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-2-ARE.pdf) |
+| **Gallbladder or pancreatic issues** <br><ul><li>**Gallbladder:** Includes inflammation (swelling and irritation), gallstones, or pain after eating fatty food</li><li>**Pancreas:** Includes pancreatitis that causes severe abdominal pain (pain in the stomach and surrounding area) that continues or comes back often over time </li></ul> | 21-0960G-2 | [Gallbladder and Pancreas Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-2-ARE.pdf) |
 | **Intestinal or colon issues** Includes:<br><ul><li>**Intestines:** Irritable bowel syndrome (IBS), chronic recurring diarrhea (diarrhea that lasts a long time or keeps coming back), or constipation</li><li>**Colon:** Includes issues like ulcerative colitis (pain and swelling in your colon), bloody stools, fistulas (when two parts of your body connect abnormally), or abscesses (swollen, puss-filled areas of body tissue)</li></ul> | 21-0960G-3 | [Intestinal Conditions (other than surgical or infectious) including Irritable Bowel Syndrome, Crohn's Disease, Ulcerative Colitis, and Diverticulitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-3-ARE.pdf) |
 | **Liver conditions** <br> Includes: <ul><li>All types of hepatitis, cirrhosis (severe liver scarring), and other chronic (long-lasting) liver damage and disease</li><li>Jaundice (yellowing of your skin, eyes, and mucous membranes), ascites (abnormal buildup of fluid in your abdomen), and fluid retention | 21-0960G-5 | [Hepatitis, Cirrhosis and Other Liver Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-5-ARE.pdf) |
 | **Scars inside your abdomen** <br> Includes peritoneal adhesions (scar tissue on the abdominal wall), which can cause partial or complete bowel obstruction | 21-0960G-6 | [Peritoneal Adhesions](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-6-ARE.pdf) |
 | **Stomach issues** <br> Includes peptic ulcer disease, pain that's relieved by antacids but keeps coming back, bloody stools, nausea or vomiting, and indigestion | 21-0960G-7 | [Stomach and Duodenum Conditions (not including GERD or Esophageal Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-7-ARE.pdf) |
 | **Infectious intestinal conditions** <br> Includes:<br><ul><li>Dysentery and intestinal bacteria and parasites</li><li>Symptoms like diarrhea that doesn't go away or keeps coming back, changes in the way your stool looks, or foul-smelling stool | 21-0960G-8 | [Infectious Intestinal Disorders, including Bacterial and Parasitic Infections](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-8-ARE.pdf) |
-| **Intestinal surgery** <br> Includes surgery to remove parts of your intestines or rebuild or divert your intestinal tract, and bowel surgery that causes you to need external bags to collect stool | 21-0960G-4 | [ntestinal Surgery (Bowel Resection, Colostomy, and Ileostomy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-4-ARE.pdf) |
+| **Intestinal surgery** <br> Includes surgery to remove parts of your intestines or rebuild or divert your intestinal tract, and bowel surgery that causes you to need external bags to collect stool | 21-0960G-4 | Intestinal Surgery (Bowel Resection, Colostomy, and Ileostomy)](https://www.vba.va.gov/pubs/forms/VBA-21-0960G-4-ARE.pdf) |
 
 </div>
 </li>
@@ -81,7 +81,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Ear problems** <br> Includes infections, dizziness, vertigo, tumors in your ear, and ringing in your ears (tinnitus) | 21-0960N-1 | [Ear Condition (including: Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
-| **Sinus, nose, throat, larynx, and pharynx issues** <br> Includes conditions like chronic sinusitis (long-lasting swelling and irritation in your nasal passages), rhinitis (swelling and irritation of the mucuous membrane inside your nose), deviated nasal septum, organic aphonia, and vocal cord issues | 21-0960N-4 | [Sinusitis, Rhinitis, and other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
+| **Sinus, nose, throat, larynx, and pharynx issues** <br> Includes conditions like chronic sinusitis (long-lasting swelling and irritation in your nasal passages), rhinitis (swelling and irritation of the mucuous membrane inside your nose), deviated nasal septum, losing your voice and other vocal cord issues | 21-0960N-4 | [Sinusitis, Rhinitis, and other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
 
 </div>
 </li>
@@ -260,7 +260,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 ------
 
-<span id="find"</a>
+<span id="submit"></a>
 ## How to submit DBQ forms to us for review
 
 Follow the steps below to submit your DBQ.
