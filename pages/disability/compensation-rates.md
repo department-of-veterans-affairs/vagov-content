@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Disability Compensation Rates | Veterans Affairs
+title: 2019 VA Disability Compensation Rates | Veterans Affairs
 display_title: Disability compensation rates
-heading: VA disability compensation rates
-description: View current VA disability compensation rates, and learn what factors may affect your monthly payments. 
+heading: 2019 VA disability compensation rates
+description: View current 2019 VA disability compensation rates, and learn what factors may affect your monthly payments. 
 keywords: va disability rates, va compensation rates, va disability compensation rates
 template: detail-page
 order: 2
@@ -13,16 +13,16 @@ children: disabilityCompensationRates
 majorlinks:
   - heading: View current VA disability compensation rates
     links:
-    - url: /disability/compensation-rates/veterans-disability/
+    - url: /disability/compensation-rates/veterans-rates/
       title: Veterans disability compensation rates
       description: View current disability compensation rates based on disability rating and number of dependents.
-    - url: /disability/compensation-rates/special-monthly-compensation/
+    - url: /disability/compensation-rates/special-benefit-allowance-rates/
       title: Special monthly compensation (SMC) rates
       description: View current compensation rates that may apply to you if you qualify for special monthly compensation based on the severity of your disability.
-    - url: /disability/compensation-rates/special-allowances/
+    - url: /disability/compensation-rates/special-benefit-allowance-rates/
       title: Special benefit allowances rates
       description: View current compensation rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
-    - url: /disability/compensation-rates/birth-defects/
+    - url: /disability/compensation-rates/birth-defect-rates/
       title: Birth defects compensation rates
       description: View current compensation rates that may apply to your family if your child has spina bifida or certain other birth defects linked to your or another parent’s service in South Vietnam or the Republic of Korea.
 relatedlinks:
@@ -44,7 +44,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-View current VA disability compensation rates, and learn what factors may affect your monthly payments.
+View current 2019 VA disability compensation rates, and learn what factors may affect your monthly payments.
 
 </div>
 
