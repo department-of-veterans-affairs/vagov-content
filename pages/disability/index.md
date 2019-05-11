@@ -178,7 +178,7 @@ hublinks:
       description: Connect with a Veterans Service Organization (VSO) or accredited
         Veterans representative for help applying for benefits.
       external: false
-    - url: "disability/about-dbqs/"
+    - url: "/disability/dbq-questionnaires/"
       label: Disability Evaluation Questionnaires (VA DBQs)
       description: Learn about VA DBQs, and download the specific form you'll need
         your health care provider to complete in support of your claim.
