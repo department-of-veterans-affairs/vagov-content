@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Special Benefit Allowances Rates | Veterans Affairs
-display_title: Special benefit allowances rates
-heading: Special benefit allowances rates
-description: View current benefit rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
+title: 2019 Special Benefit Allowances Rates | Veterans Affairs
+display_title: Special benefit allowances rates 
+heading: 2019 special benefit allowances rates
+description: View 2019 benefit rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
 keyword: n/a
 template: detail-page
 order: 3
@@ -26,7 +26,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-View current benefit rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
+View 2019 benefit rates that may apply to you if you qualify for an automobile or clothing allowance or a Medal of Honor pension.
 
 </div>
 
@@ -60,4 +60,6 @@ If you received the Medal of Honor, you may be eligible for the Medal of Honor p
 
 View special allowance rates for past years.
 
-[2017](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2017.asp) | [2016](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2016.asp) | [2015](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2015.asp) | [[2014](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2014.asp) | [2013](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2013.asp) | [2012](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2012.asp) | [2011](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2011.asp) | [2009-2010](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2009.asp) | [2008](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2008.asp) | [2007](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2007.asp) | [2006](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2006.asp) | [2005](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2005.asp) | [2004](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2004.asp) | [2003](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2003.asp) | [2002](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2002.asp) | [2001](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2001.asp) | [2000](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2000.asp) | [1999](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_1999.asp) | Special benefit allowances before 1999 (Word doc) | Emergency officer's retirement 1991 and previous (Word doc) 
+[Rates effective 2017 (payable August 2018)](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2017.asp) <br>
+[Rates effective 2016 (payable August 2017)](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2016.asp) <br>
+[Rates effective 2015 (payable August 2016) and earlier](https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2015.asp)
