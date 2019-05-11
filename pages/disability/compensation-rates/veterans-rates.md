@@ -38,7 +38,7 @@ View 2019 Veterans disability compensation rates. Use our compensation benefits 
 
 **Note:** If you have a 10% to 20% disability rating, you won't receive a higher rate even if you have a dependent spouse, child, or parent.
 
-<h2>Compensation rates for Veterans with a 30% to 100% disability rating<h2>
+<h2>Compensation rates for Veterans with a 30% to 100% disability rating</h2>
 <strong>Effective December 1, 2018</strong>
 
 <h3>With a dependent spouse or parent, but no children</h3>
