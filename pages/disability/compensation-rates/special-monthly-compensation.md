@@ -527,3 +527,11 @@ Select an SMC letter below to learn more about the specific situations and combi
 </div>
 </li>
 </ul>
+
+## Historic rates
+
+View special monthly compensation rates for past years. <br>
+
+[Rates effective December 1, 2017](https://www.benefits.va.gov/COMPENSATION/resources_comp0217.asp) <br>
+[Rates effective December 1, 2016](https://www.benefits.va.gov/COMPENSATION/resources_comp0216.asp) <br>
+[Rates effective December 1, 2014 and earlier](https://www.benefits.va.gov/COMPENSATION/resources_comp0214.asp)
