@@ -6,7 +6,7 @@ heading: VA disability compensation rates
 description: View current VA disability compensation rates, and learn what factors may affect your monthly payments. 
 keywords: va disability rates, va compensation rates, va disability compensation rates
 template: detail-page
-order: 1
+order: 2
 aliases:
 spoke: More resources
 children: disabilityCompensationRates
