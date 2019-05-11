@@ -148,8 +148,8 @@ To find the right DBQ form, click on the category below that best fits the type 
 | **Infectious diseases linked to military service in tropical areas, including the Persian Gulf and Afghanistan** <br>Includes exposure to salmonella, shigella, and other bacteria that cause symptoms like chronic (long-lasting) diarrhea | 21-0960I-1 | [Persian Gulf and Afghanistan Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-1-ARE.pdf) |
 | **Other infectious diseases** <br> Includes infectious diseases **not** specifically linked to either HIV or military service in a tropical area, the Persian Gulf, or Afghanistan | 21-0960I-3 | [Infectious Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-3-ARE.pdf) |
 | **Autoimmune diseases** <br> Includes conditions like lupus, Goodpasture syndrome, and Guillain-Barre syndrome | 21-0960I-4 | [Systemic Lupus Erthematosus (SLE) and Other Autoimmune Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-4-ARE.pdf) |
-| **Tuberculosis symptoms** | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
-| **Vitamin deficiencies** <br> Includes beriberi (lack of Vitamin B), pellagra (lack of niacin or tryptophan), some skin issues, diarrhea, dementia in prisoners of war, issues caused by gastrointestinal or bypass procedures, undernutrition, and problems with absorbing nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
+| **Tuberculosis symptoms** <br> Includes related issues such as emphysema, shortness of breath, needing oxygen therapy, acute respiratory failure (when your lungs stop working and your body can't get the oxygen it needs), pulmonary hypertension (a type of high blood pressure), lesions (or growths) in your lungs, right ventricle hypertrophy (when the heart muscle surrounding your right ventricle enlarges), or right-sided heart failure | 21-0960I-6 | [Tuberculosis (TB)](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-6-ARE.pdf) |
+| **Vitamin deficiencies** <br> Includes beriberi (lack of Vitamin B), pellagra (lack of niacin or tryptophan), some skin issues, diarrhea, dementia (memory and thinking problems) in prisoners of war, issues caused by gastrointestinal (digestive) or gastric bypass or other weight loss procedures, undernutrition, and problems with absorbing nutrients | 21-0960I-5 | [Nutritional Deficiencies](https://www.vba.va.gov/pubs/forms/VBA-21-0960I-5-ARE.pdf) |
 
 </div>
 </li>
@@ -194,7 +194,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Anorexia, bulimia, and other eating disorders** | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
+| **Eating disorders** <br> Includes conditions such as anorexia and bulimia | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
 | **Mental health problems** <br> Includes conditions such as depression, mood and affective disorders, and psychosis | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
 | **Posttraumatic Stress Disorder (PTSD)** <br> Includes determining how and when symptoms began and how severe they are. PTSD may include symptoms like upsetting memories, feeling on edge, having trouble sleeping, reliving the experience of a traumatic event, anger, or the desire to avoid thoughts and feelings about an event. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
 
@@ -224,10 +224,10 @@ To find the right DBQ form, click on the category below that best fits the type 
 | **Foot issues** <br> Includes loss of function or motion of a toe or foot | 21-0960M-6 | [Foot conditions including flatfoot (pes planus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-6-ARE.pdf) | 
 | **Hand, finger, and wrist issues** <br> Includes conditions like ankylosis and trigger finger, as well as issues related to tendon or muscle injuries and loss of mobility or function in your hand or finger | 21-0960M-7 | [Hand and Finger Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-7-ARE.pdf) |
 | **Hip and thigh issues** <br> Includes issues with muscle use, poor posture body support, and changes to the rotation of your hip | 21-0960M-8 | [Hip and Thigh Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-8-ARE.pdf) |
-| **Knee and lower leg issues** <br> Includes ankylosis of the knee, subluxation of the knee, knee instability, injuries to the meniscus, functional limitations, knee cartilage problems, and locked knee | 21-0960M-9 | [Knee and Lower Leg Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-9-ARE.pdf) |
+| **Knee and lower leg issues** <br> Includes ankylosis of your knee (a stiff knee joint caused by injury or disease), subluxation (or dislocation) of your knee, an unstable knee, injuries to your meniscus (the piece of cartilage between your shinbone and thighbone), functional limitations, knee cartilage problems, and locked knee | 21-0960M-9 | [Knee and Lower Leg Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-9-ARE.pdf) |
 | **Muscle injuries** <br> Includes traumatic and other injuries that result in muscle tears, scarring, weakness, or a loss or limitation of function | 21-0960M-10 | [Muscle Injuries](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-10-ARE.pdf) |
-| **Bone infection issues** <br> Includes fever, loss of function, persistent drainage or change to the bone itself | 21-0960M-11 | [Osteomyelitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-11-ARE.pdf) |
-| **Shoulder and arm issues** <br> Includes loss of function, dislocation, change in joint function, incomplete movements, deformity, complications from a fracture, and frozen shoulder | 21-0960M-12 | [Shoulder and Arm Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-12-ARE.pdf) |
+| **Bone infection issues** <br> Includes fever, loss of function, drainage that won't stop, and changes to the bone itself | 21-0960M-11 | [Osteomyelitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-11-ARE.pdf) |
+| **Shoulder and arm issues** <br> Includes loss of function, dislocation, change in joint function, incomplete movements, deformities, complications from a fracture, and frozen shoulder | 21-0960M-12 | [Shoulder and Arm Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-12-ARE.pdf) |
 | **Neck issues** <br> Includes arthritis and deformities | 21-0960M-13 | [Neck (Cervical Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-13-ARE.pdf) |
 | **Specific wrist issues** <br> Includes limited or lost wrist motion, wrist injuries, pain when moving your wrist, and joint replacement | 21-0960M-16 | [Wrist Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-16-ARE.pdf) |
 | **Back issues** <br> Includes chronic (long-lasting) lower back pain, arthritis, back injuries, spinal conditions, sciatica, and disc disease | 21-0960M-14 | [Back (Thoracolumbar Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-14-ARE.pdf) |
@@ -251,7 +251,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Breast masses or lumps** | 21-0960K-1 | [Breast Conditions and Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-1-ARE.pdf) |
+| **Breast conditions** <br> Includes breast cancer as well as benign (non-cancerous) breast masses (or lumps) | 21-0960K-1 | [Breast Conditions and Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-1-ARE.pdf) |
 | **Women’s reproductive issues** <br> Includes complications of pregnancy, endometriosis, and other conditions of the uterus, vagina, cervix, and ovaries | 21-0960K-2 | [Gynecological Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960K-2-ARE.pdf) |
 
 </div>
