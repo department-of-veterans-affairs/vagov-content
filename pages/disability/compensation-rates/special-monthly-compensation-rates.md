@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Special Monthly Compensation Rates | Veterans Affairs
+title: 2019 VA Special Monthly Compensation Rates | Veterans Affairs
 display_title: Special monthly compensation rates
-heading: VA special monthly compensation rates
-description: VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents with certain needs or disabilities. Find the special monthly compensation rates that may apply to you.
+heading: 2019 VA special monthly compensation rates
+description: VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents with certain needs or disabilities. Find the 2019 special monthly compensation rates that may apply to you.
 keywords: va special monthly compensation, special monthly compensation, special monthly compensation rates
 template: detail-page
 order: 2
@@ -27,7 +27,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents with certain needs or disabilities. Find the special monthly compensation rates that may apply to you.
+VA special monthly compensation (SMC) is a higher rate of compensation that we pay to Veterans as well as their spouses, surviving spouses, and parents with certain needs or disabilities. Find the 2019 special monthly compensation rates that may apply to you.
 
 </div>
 
@@ -528,7 +528,7 @@ Select an SMC letter below to learn more about the specific situations and combi
 </li>
 </ul>
 
-## Historic rates
+<h2>Historic rates</h2>
 
 View special monthly compensation rates for past years. <br>
 
