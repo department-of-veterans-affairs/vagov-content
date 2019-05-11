@@ -25,7 +25,7 @@ relatedlinks:
       description: Check the status of your VA disability and pension payments. You can also see certain survivor benefits.      
 ---
 <div class="va-introtext">
-View current 2019 Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
+View 2019 Veterans disability compensation rates. Use our compensation benefits rate tables to find your monthly payment amount. We'll base this amount on your disability rating and details about your dependent family members.
 </div>
 
 <h2>Compensation rates for Veterans with a 10% to 20% disability rating</h2>
