@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About VA DBQs For Disability And Pension Claims 
-heading: About VA DBQs for disability and pension claims
-display_title: About DBQs
+title: VA DBQs For Disability And Pension Claims 
+heading: VA DBQs for disability compensation and pension claims
+display_title: DBQs for disability and pension claims
 description: Find out how a VA disability benefits questionnaire (VA DBQ) can help us determine your VA disability rating and speed up the process for deciding your disability compensation claim or pension benefits application.
 keywords: dbq, va dbq 
 concurrence: 
