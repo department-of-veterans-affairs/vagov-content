@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 title: 2019 Birth Defect Compensation Rates | Veterans Affairs
 display_title: Birth defect compensation rates
 heading: 2019 birth defect compensation rates
-description: View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects.
+description: View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as women Vietnam Veterans' children with certain other birth defects.
 keywords: n/a
 template: detail-page
 order: 4
@@ -29,7 +29,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects. 
+View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as women Vietnam Veterans' children with certain other birth defects. 
 </div>
 
 <h2>Rates effective December 1, 2018</h2>
