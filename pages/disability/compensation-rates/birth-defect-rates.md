@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Birth Defect Compensation Rates | Veterans Affairs
-display_title: Birth defects compensation rates
-heading: Birth defects compensation rates
-description: View current compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects.
+title: 2019 Birth Defect Compensation Rates | Veterans Affairs
+display_title: Birth defect compensation rates
+heading: 2019 birth defect compensation rates
+description: View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects.
 keywords: n/a
 template: detail-page
 order: 4
@@ -29,7 +29,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
 
-View current compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects. 
+View 2019 compensation rates for Vietnam and Korea Veterans' children who have spina bifida as well as Women Vietnam Veterans' children with certain other birth defects. 
 </div>
 
 <h2>Rates effective December 1, 2018</h2>
@@ -65,4 +65,6 @@ All rates in $ U.S. dollars
 
 View birth defect compensation rates for past years.
 
-[2017](https://www.benefits.va.gov/COMPENSATION/sb2017.asp) | [2016](https://www.benefits.va.gov/COMPENSATION/sb2016.asp) | [2014](https://www.benefits.va.gov/COMPENSATION/sb2014.asp) | [2013](https://www.benefits.va.gov/COMPENSATION/sb2013.asp)| [2012](https://www.benefits.va.gov/COMPENSATION/sb2012.asp) | [2011](https://www.benefits.va.gov/COMPENSATION/sb2011.asp)| [2009](https://www.benefits.va.gov/COMPENSATION/sb2009.asp) | [2008](https://www.benefits.va.gov/COMPENSATION/sb2008.asp) | [2007](https://www.benefits.va.gov/COMPENSATION/sb2007.asp) | [2006](https://www.benefits.va.gov/COMPENSATION/sb2006.asp) | [2005](https://www.benefits.va.gov/COMPENSATION/sb2005.asp) | [2004](https://www.benefits.va.gov/COMPENSATION/sb2004.asp) | [2003](https://www.benefits.va.gov/COMPENSATION/sb2003.asp) | [2002](https://www.benefits.va.gov/COMPENSATION/sb2002.asp) | [2001](https://www.benefits.va.gov/COMPENSATION/sb2001.asp) | [2000](https://www.benefits.va.gov/COMPENSATION/sb2000.asp) | [1999](https://www.benefits.va.gov/COMPENSATION/sb1999.asp) | Before 1999 (Excel)
+[Rates effective December 1, 2017](https://www.benefits.va.gov/COMPENSATION/sb2017.asp) <br>
+[Rates effective December 1, 2016](https://www.benefits.va.gov/COMPENSATION/sb2016.asp) <br>
+[Rates effective December 1, 2014 and earlier](https://www.benefits.va.gov/COMPENSATION/sb2014.asp)
