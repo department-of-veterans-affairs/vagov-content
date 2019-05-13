@@ -30,7 +30,7 @@ The denial letter you received from your branch of service tells you how to file
 <div itemprop="text">
 
 You can download the form now.<br>
-<a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf">Download Form SGLV 8600A</a>
+<a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf">Download Form SGLV 8600A (PDF)</a>
 
 Or you can request a paper form in either of these ways. Contact:
 
