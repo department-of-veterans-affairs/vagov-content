@@ -50,7 +50,7 @@ You aren't required to have a hearing. A Board hearing is always optional.
 ### How do I request a Board hearing?
 
 When you fill out the Decision Review Request: Board Appeal (VA Form 10182), select block 11c, “Hearing with a Veterans Law Judge." <br>
-<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182</a><br>
+<a href="/decision-reviews/forms/board-appeal-10182.pdf">Download VA Form 10182 (PDF)</a><br>
 <a href="/decision-reviews/board-appeal/">Learn more about requesting a Board Appeal</a>
 
 ### How will I know when my hearing is scheduled?
