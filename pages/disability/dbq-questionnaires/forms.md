@@ -107,7 +107,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | **Kidney problems** <br> Includes nephritis (swelling and irritation of your kidneys and surrounding structures), renal insufficiency (when your kidneys stop working over time, also called chronic kidney disease), kidney failure, abnormal kidney function tests, protein in your urine, edema (swelling of parts of your body), and kidney stones | 21-0960J-1 | [Kidney Conditions (Nephrology)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-1-ARE.pdf) |
 | **Problems with male sex organs** <br> Includes issues affecting your urethra, penis, testes, and scrotum such as painful urination, swelling, blood in the urine, or loss of bladder control (incontinence) | 21-0960J-2 | [Male Reproductive Organ Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-2-ARE.pdf) |
 | **Prostate issues** <br> Includes prostate cancer and frequent urination | 21-0960J-3 | [Prostate Cancer](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-3-ARE.pdf) |
-| **Bladder and urethra problems** <br> Includes issues with urination and infections | 21-0960J-4 | [Urinary Tract (Bladder and Urethra)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
+| **Bladder and urethra problems** <br> Includes issues with urination and infections | 21-0960J-4 | [Urinary Tract (Including Bladder and Urethra) Conditions (Excluding Male Reproductive System)](https://www.vba.va.gov/pubs/forms/VBA-21-0960J-4-ARE.pdf) |
 
 </div>
 </li>
