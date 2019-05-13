@@ -117,9 +117,9 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Vein or artery issues** <br> Includes varicose veins and related conditions that may cause swelling of your legs or other areas, pain when walking, or skin or nail changes | 21-0960A-2 | [Artery and Vein Conditions (Vascular Diseases including varicose veins)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-2-ARE.pdf) |
+| **Vein or artery issues** <br> Includes varicose veins and related conditions that may cause swelling of your legs or other areas, pain when walking, or skin or nail changes | 21-0960A-2 | [Artery and Vein Conditions (Vascular Diseases Including Varicose Veins)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-2-ARE.pdf) |
 | **Blood vessel conditions** <br> Includes high blood pressure (hypertension) | 21-0960A-3 | [Hypertension](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-3-ARE.pdf) |
-| **Heart problems** <br> Includes conditions like heart attack, coronary artery disease (CAD), chest pain (angina), congestive heart failure, heart infections, irregular heartbeat (arrhythmia), heart valve disease, and heart surgery | 21-0960A-4 | [Heart Conditions (Including IHD, Non-IHD, Arrhythmias, Valvular Disease, and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
+| **Heart problems** <br> Includes conditions like heart attack, coronary artery disease (CAD), chest pain (angina), congestive heart failure, heart infections, irregular heartbeat (arrhythmia), heart valve disease, and heart surgery | 21-0960A-4 | [Heart Conditions (Including Ischemic and Non-Ischemic Heart Disease, Arrhythmias, Valvular Disease, and Cardiac Surgery)](https://www.vba.va.gov/pubs/forms/VBA-21-0960A-4-ARE.pdf) |
 
 </div>
 </li>
