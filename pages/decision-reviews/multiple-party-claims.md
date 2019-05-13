@@ -45,7 +45,7 @@ The hearing will be transcribed and added to your appeal file. You can add new a
 
 To request a Board Appeal, fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf) 
+[Download VA Form 10182 (PDF)](/decision-reviews/forms/board-appeal-10182.pdf) 
 
 <ol class="process">
   <li class="process-step list-one">
@@ -126,7 +126,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 Fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182 (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
 
 **By mail**
 
