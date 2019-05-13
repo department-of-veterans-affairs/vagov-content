@@ -39,7 +39,7 @@ Please choose one of the options below for your next review.
 
 ### Ask for a new look from a senior reviewer
 
-[Download VA Form 20-0996 (Higher-Level Review)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
+[Download VA Form 20-0996: Higher-Level Review (PDF)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
 
 When you choose a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error. 
 <br>
@@ -75,7 +75,7 @@ You can request a Higher-Level Review of an initial claim. This option isn’t a
 
 ### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182: Board Appeal (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
 <br>
 
 A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. 
