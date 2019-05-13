@@ -80,8 +80,8 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Ear problems** <br> Includes infections, vertigo (dizziness), tumors in your ear, and ringing in your ears (called tinnitus) | 21-0960N-1 | [Ear Condition (including: Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
-| **Sinus, nose, throat, larynx, and pharynx issues** <br> Includes conditions like: <br> <ul><li>Chronic sinusitis (long-lasting swelling and irritation in your nasal passages) and rhinitis (swelling and irritation of the mucous membrane inside your nose)</li><li>Deviated nasal septum (when the wall between your nasal passages is crooked or too far over to one side) </li><li>Losing your voice and other vocal cord issues | 21-0960N-4 | [Sinusitis, Rhinitis, and other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
+| **Ear problems** <br> Includes infections, vertigo (dizziness), tumors in your ear, and ringing in your ears (called tinnitus) | 21-0960N-1 | [Ear Conditions (Including Vestibular and Infectious Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-1-ARE.pdf) |
+| **Sinus, nose, throat, larynx, and pharynx issues** <br> Includes conditions like: <br> <ul><li>Chronic sinusitis (long-lasting swelling and irritation in your nasal passages) and rhinitis (swelling and irritation of the mucous membrane inside your nose)</li><li>Deviated nasal septum (when the wall between your nasal passages is crooked or too far over to one side) </li><li>Losing your voice and other vocal cord issues | 21-0960N-4 | [Sinusitis/Rhinitis, and Other Conditions of the Nose, Throat, Larynx, and Pharynx](https://www.vba.va.gov/pubs/forms/VBA-21-0960N-4-ARE.pdf) |
 
 </div>
 </li>
