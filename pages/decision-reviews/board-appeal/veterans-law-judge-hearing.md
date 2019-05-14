@@ -34,8 +34,6 @@ You can request a video conference hearing if you want to provide testimony to a
 
 You aren't required to have a hearing. A Board hearing is always optional.
 
-</div>
-
 ## Learn more about Board hearings
 
 - [Request a Board hearing](#request-board-hearing)
