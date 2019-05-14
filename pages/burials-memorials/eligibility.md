@@ -248,7 +248,7 @@ At the time of need, the person planning the burial can also request other honor
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
 [Learn about memorial items](/burials-memorials/memorial-items/) <br>
-[See our National Cemetery Administration brochure](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
+[See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
 
 ## If I'm the survivor of a Veteran or service member, what other benefits can I get?
@@ -274,4 +274,4 @@ Our Survivors and Burial Benefits Kit can guide you and your family members thro
 - Sample forms you and your family members may need to fill out
 - A section where you can record the personal information your family members will need and the location of important documents, like your birth certificate or will
 
- [Plan ahead using the VA Survivors and Burial Benefits Kit](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf)
+ [Plan ahead using the VA Survivors and Burial Benefits Kit (PDF)](https://www.cem.va.gov/cem/docs/factsheets/Planning_Legacy_Booklet.pdf)
