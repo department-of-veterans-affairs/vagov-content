@@ -233,6 +233,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 If you qualify for burial in a VA national cemetery, you'll receive burial benefits at no cost to your family.
 
 **Burial benefits include:**
+- A gravesite in any of our 136 national cemeteries with available space
 - Opening and closing of the grave
 - A burial liner provided by the government
 - A headstone or marker provided by the government
@@ -240,10 +241,10 @@ If you qualify for burial in a VA national cemetery, you'll receive burial benef
 
 At the time of need, the person planning the burial can also request other honors and memorial items.
 
-**Honors and memorial items may include a:**
-- [Burial flag to drape over the casket (or coffin) or place with the urn](/burials-memorials/memorial-items/burial-flags/)
-- [Presidential Memorial Certificate signed by the current president of the United States](/burials-memorials/memorial-items/presidential-memorial-certificates/)
-- [Headstone, marker, niche cover, or medallion to identify a gravesite located outside a VA national cemetery](/burials-memorials/memorial-items/headstones-markers-medallions/)
+**Other honors and memorial items include a:**
+- [Burial flag](/burials-memorials/memorial-items/burial-flags/) to drape over the casket (or coffin) or place with the urn
+- [Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/) signed by the current president of the United States
+- [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
 
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
