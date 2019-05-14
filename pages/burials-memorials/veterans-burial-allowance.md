@@ -87,7 +87,7 @@ No. When we receive notice of the Veteran’s passing, we automatically pay a se
 
 **By mail**<br>
 Apply by mail using an Application for Burial Benefits (VA Form 21P-530). <br>
-[Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf)
+[Download VA Form 21P-530 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf)
 
 Mail the application and other documents listed above to your nearest VA regional benefit office. <br>
 [Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
