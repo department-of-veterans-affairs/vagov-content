@@ -31,7 +31,7 @@ If you’re late with a mortgage payment, or think you might be late with your n
 
 If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
 
-**Note:** Be careful before agreeing to any offers to make up your back payments if you fall behind on paying your mortgage. If you get this type of offer from someone you don't know, contact the servicer of your mortgage or your nearest VA regional loan center for advice. They can advise you if it's an honest offer. <br>
+**Be careful about offers to help you make up back payments:** If you're behind on your mortgage payments and you get this type of offer from someone you don't know, contact the servicer of your mortgage or your nearest VA regional loan center for advice. They can let you know if it's an honest offer.
 
 ## How can I avoid foreclosure?
 
