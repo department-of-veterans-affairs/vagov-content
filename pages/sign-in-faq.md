@@ -1,7 +1,8 @@
 ---
 layout: page.html
 permalink: /sign-in-faq.html
-title: Frequently asked questions about signing in to VA.gov
+title: Frequently Asked Questions About Signing In To VA.gov
+heading: Frequently asked questions about signing in to VA.gov
 display_title: Frequently asked questions
 ---
 
