@@ -13,17 +13,17 @@ relatedlinks:
   - heading: More information about disability claims
     links:
     - url: /disability/how-to-file-claim/
-      title: How to apply for disability benefits
-      description: Apply online now, or find out how to file a claim in person, by mail, or with the help of a trained professional.
+      title: How to file a VA disability claim
+      description: File online now, or find out how to file a claim in person, by mail, or with the help of a trained professional.
+    - url: /pension/how-to-apply/
+      title: How to apply for a VA pension as a Veteran
+      description: Apply for tax-free VA pension benefits online now, or find out how to apply in person, by mail, or with the help of a trained professional.
     - url: /disability/get-help-filing-claim/
       title: Get help filing your claim
       description: Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim.
     - url: /disability/about-disability-ratings/after-you-get-a-rating/
       title: What to expect after you get a disability rating
       description: If we’ve confirmed your disability rating, you may be able to get disability compensation or other benefits like training. Find out what benefits you can get.
-    - url: /disability/effective-date/
-      title: Disability compensation effective dates
-      description: When we decide we’ll pay a disability benefit based on a claim, we assign an effective date to that claim. The effective date is the day you can start getting your disability benefits. Learn more about when you can start getting benefits.
 ---
 <div class="va-introtext">
 
