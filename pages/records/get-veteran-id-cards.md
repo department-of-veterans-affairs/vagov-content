@@ -53,7 +53,7 @@ You may be eligible if one of the descriptions below is true for you.
 <div id="apply-DoD-card" class="usa-accordion-content">
 
 You’ll need to fill out an Application for Identification Card/DEERS Enrollment (DD Form 1172-2). <br>
-[Download DD Form 1172-2](http://www.cac.mil/Portals/53/Documents/dd1172-2.pdf)</br>
+[Download DD Form 1172-2 (PDF)](http://www.cac.mil/Portals/53/Documents/dd1172-2.pdf)</br>
 
 Then turn in your completed application to a Real-Time Automated Personnel Identification System (RAPIDS) office for processing. </br>
 
