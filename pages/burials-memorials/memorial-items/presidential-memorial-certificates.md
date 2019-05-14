@@ -33,7 +33,7 @@ You can get a Presidential Memorial Certificate if both of the descriptions belo
 - You're the next of kin, family member, or close friend of the Veteran or Reservist (or an authorized service representative for a family member or friend of the Veteran or Reservist) <br>
 
 [View eligibility requirements for burial in a national cemetery](/burials-memorials/eligibility/) <br>
-[See what a Presidential Memorial Certificate looks like](https://www.cem.va.gov/cem/docs/factsheets/pmc.pdf)
+[See what a Presidential Memorial Certificate looks like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/pmc.pdf)
 </div>
 
 ## How do I apply for a Presidential Memorial Certificate?
@@ -48,7 +48,7 @@ You can apply at any VA regional benefit office.<br>
 ### By mail
 
 You can fill out and mail a PMC request form, along with a copy of the Veteran’s death certificate and discharge papers (DD214 or other separation documents). <br>
-[Download a PMC request form](https://www.va.gov/vaforms/va/pdf/VA40-0247.pdf)
+[Download a PMC request form (PDF)](/vaforms/va/pdf/VA40-0247.pdf)
 
 **Send the PMC request form and discharge papers here:**
 <br><br>
