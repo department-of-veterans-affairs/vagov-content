@@ -59,11 +59,11 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 ## What kind of benefits can I get?
 
-For burial in a national cemetery, you'll receive:
+For burial in a national cemetery, you'll receive and allowance for:
 
-- An allowance for burial and funeral costs
-- An allowance for the plot (gravesite) or interment
-- An allowance for transporting the Veteran’s remains for burial
+- Burial and funeral costs
+- The plot (gravesite) or interment
+- Transporting the Veteran’s remains for burial
 
 **Note**: The Veteran's family will need to cover the cost of funeral director services, like cremation.
 
