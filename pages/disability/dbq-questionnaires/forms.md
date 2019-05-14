@@ -241,7 +241,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Infectious and non-infectious skin diseases** <br> Includes rashes, spots, athlete's foot, sweating, and acne | 21-0960F-1 | [Skin Diseases](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-2-ARE.pdf) |
-| **Scarring and disfigurement** <br> Includes scars anywhere on your body as well as changes to the appearance of your head, face, or neck due to scars or other causes  | 21-0960F-2 | [Scars and Disfigurement](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-1-ARE.pdf) |
+| **Scarring and disfigurement** <br> Includes scars anywhere on your body as well as changes to the appearance of your head, face, or neck due to scars or other causes  | 21-0960F-2 | [Scars/Disfigurement](https://www.vba.va.gov/pubs/forms/VBA-21-0960F-1-ARE.pdf) |
 
 </div>
 </li>
