@@ -33,7 +33,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | ---|
-| **Red and white blood cell conditions** <br> Includes anemia and some types of leukemia and lymphoma | 21-0960B-2 | [Hematologic and Lymphatic Conditions, including Leukemia](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
+| **Red and white blood cell conditions** <br> Includes anemia and some types of leukemia and lymphoma | 21-0960B-2 | [Hematologic and Lymphatic Conditions, Including Leukemia](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-2-ARE.pdf) |
 | **B-cell leukemias** <br> Includes hairy cell leukemia | 21-0960B-1 | [Hairy Cell and Other B-Cell Leukemias](https://www.vba.va.gov/pubs/forms/VBA-21-0960B-1-ARE.pdf) |
 
 </div>
