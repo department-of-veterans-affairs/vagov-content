@@ -160,7 +160,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Hernias**  <br> Doesn't include hiatal hernia | 21-0960H-1 | [Hernias (including Abdominal, Inguinal, and Femoral Hernias)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-1-ARE.pdf) |
-| **Rectal and anal issues** <br> <ul><li>Includes symptoms such as changes in sphincter control, stricture (narrowing of the anal opening) or prolapse (when part of the rectum protrudes from the anus), fistula (a small tunnel that forms, connecting an infected gland in your anus to an opening on the skin around your anus)</li><li>Also includes bowel incontinence (inability to control your bowels), severe constipation, blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
+| **Rectal and anal issues** <br> <ul><li>Includes symptoms such as changes in sphincter control, stricture (narrowing of the anal opening) or prolapse (when part of the rectum protrudes from the anus), fistula (a small tunnel that forms, connecting an infected gland in your anus to an opening on the skin around your anus)</li><li>Also includes bowel incontinence (inability to control your bowels), severe constipation, blood in stools, or hemorrhoids | 21-0960H-2 | [Rectum and Anus Conditions (Including Hemorrhoids)](https://www.vba.va.gov/pubs/forms/VBA-21-0960H-2-ARE.pdf) |
 
 </div>
 </li>
@@ -170,7 +170,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Breathing conditions** <br> Other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (other than TB and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
+| **Breathing conditions** <br> Other than sleep apnea or tuberculosis | 21-0960L-1 | [Respiratory Conditions (Other Than Tuberculosis and Sleep Apnea)](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-1-ARE.pdf) |
 | **Sleep apnea** <br> Includes when you stop breathing during sleep, as well as impaired functionality during the day as a result of poor sleep | 21-0960L-2 | [Sleep Apnea](https://www.vba.va.gov/pubs/forms/VBA-21-0960L-2-ARE.pdf) |
 
 </div>
@@ -195,8 +195,8 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Eating disorders** <br> Includes conditions such as anorexia and bulimia | 21-0960P-1 | [Eating Disorders](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-1-ARE.pdf) |
-| **Mental health problems** <br> Includes conditions such as depression, mood and affective disorders, and psychosis | 21-0960P-2 | [Mental Disorders (other than PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
-| **Posttraumatic Stress Disorder (PTSD)** <br> Includes determining how and when symptoms began and how severe they are. PTSD may include symptoms like upsetting memories, feeling on edge, having trouble sleeping, reliving the experience of a traumatic event, anger, or the desire to avoid thoughts and feelings about an event. | 21-0960P-3 | [Review Evaluation of PTSD](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
+| **Mental health problems** <br> Includes conditions such as depression, mood and affective disorders, and psychosis | 21-0960P-2 | [Mental Disorders (Other Than PTSD and Eating Disorders)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-2-ARE.pdf) |
+| **Posttraumatic Stress Disorder (PTSD)** <br> Includes determining how and when symptoms began and how severe they are. PTSD may include symptoms like upsetting memories, feeling on edge, having trouble sleeping, reliving the experience of a traumatic event, anger, or the desire to avoid thoughts and feelings about an event. | 21-0960P-3 | [Review Post Traumatic Stress Disorder (PTSD)](https://www.vba.va.gov/pubs/forms/VBA-21-0960P-3-ARE.pdf) |
 
 </div>
 </li>
