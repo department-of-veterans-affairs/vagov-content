@@ -206,7 +206,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 
 | Conditions and symptoms | VA form number | DBQ form (PDF) |
 | --- | --- | --- |
-| **Conditions affecting your mouth, teeth, gums, or jaw** <br> Includes all conditions except TMJ | 21-0960D-1 | [Dental and Oral Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960D-1-ARE.pdf) |
+| **Conditions affecting your mouth, teeth, gums, or jaw** <br> Includes all conditions except TMJ | 21-0960D-1 | [Oral and Dental Conditions Including Mouth, Lips and Tongue (Other Than Temporomandibular Joint Conditions)](https://www.vba.va.gov/pubs/forms/VBA-21-0960D-1-ARE.pdf) |
 | **TMJ joint conditions** <br> Includes pain in the jaw when biting, and sounds in the jaw | 21-0960M-15 | [Temporomandibular Joint (TMJ) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960m-15-ARE.pdf) |
 
 </div>
@@ -218,7 +218,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | Conditions and symptoms | Form number | DBQ form (PDF) |
 | --- | --- | --- |
 | **Issues related to complete or partial amputation** <br> Includes exam of the site of your amputation and any related complications | 21-0960M-1 | [Amputations](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-1-ARE.pdf) |
-| **Non-degenerative arthritis and related issues** <br> Includes gout (arthritis caused by excess uric acid in your blood) and rheumatoid arthritis (when your body's immune system attacks your joints), as well as painful and swollen joints that don't get better over time | 21-0960M-3 | [Non-degenerative Arthritis (including Inflammatory, Autoimmune, Crystalline, and Infectious Arthritis) and Dysbaric Osteonecrosis](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-3-ARE.pdf) |
+| **Non-degenerative arthritis and related issues** <br> Includes gout (arthritis caused by excess uric acid in your blood) and rheumatoid arthritis (when your body's immune system attacks your joints), as well as painful and swollen joints that don't get better over time | 21-0960M-3 | [Non-degenerative Arthritis (Including Inflammatory, Autoimmune, Crystalline and Infectious Arthritis) and Dysbaric Osteonecrosis](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-3-ARE.pdf) |
 | **Muscle injuries** <br> Includes traumatic and other injuries that result in muscle tears, scarring, weakness, or a loss or limitation of function | 21-0960M-10 | [Muscle Injuries](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-10-ARE.pdf) |
 | **Bone infection issues** <br> Includes fever, loss of function, drainage that won't stop, and changes to the bone itself | 21-0960M-11 | [Osteomyelitis](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-11-ARE.pdf) |
 | **Neck issues** <br> Includes arthritis and deformities | 21-0960M-13 | [Neck (Cervical Spine) Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-13-ARE.pdf) |
@@ -231,7 +231,7 @@ To find the right DBQ form, click on the category below that best fits the type 
 | **Knee and lower leg issues** <br> <ul><li>**Knee:** Includes conditions like arthritis, ankylosis (joint stiffness caused by injury or disease), an unstable or  dislocated knee, injuries to your meniscus (the piece of cartilage between your shinbone and thighbone), knee cartilage problems or ligament tears, and locked knee</li><li>**Lower leg:** Includes breaks or fractures of your lower leg bones (tibia or fibula) and conditions like shin splints | 21-0960M-9 | [Knee and Lower Leg Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-9-ARE.pdf) |
 | **Ankle issues** <br> Includes ankle pain, deformities, and injuries, as well as reduced movement or the need to use an assistive device | 21-0960M-2 | [Ankle Conditions](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-2-ARE.pdf) |
 (https://www.vba.va.gov/pubs/forms/VBA-21-0960M-4-ARE.pdf) |
-| **Foot issues** <br> Includes loss of function or motion of a toe or foot | 21-0960M-6 | [Foot conditions including flatfoot (pes planus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-6-ARE.pdf) | (https://www.vba.va.gov/pubs/forms/VBA-21-0960M-7-ARE.pdf) |
+| **Foot issues** <br> Includes loss of function or motion of a toe or foot | 21-0960M-6 | [Foot Conditions Including Flatfoot (Pes Planus)](https://www.vba.va.gov/pubs/forms/VBA-21-0960M-6-ARE.pdf) | (https://www.vba.va.gov/pubs/forms/VBA-21-0960M-7-ARE.pdf) |
 
 </div>
 </li>
