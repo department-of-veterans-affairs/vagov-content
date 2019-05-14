@@ -140,6 +140,7 @@ St. Louis, Missouri 63138<br>
 
 <div itemscope itemtype="http://schema.org/Question">
 
+<span id="request-DD214"></span>
 <h2 itemprop="name">How do I request someone else's military records?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
