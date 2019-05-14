@@ -59,7 +59,7 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 ## What kind of benefits can I get?
 
-For burial in a national cemetery, you'll receive and allowance for:
+For burial in a national cemetery, you'll receive an allowance for:
 
 - Burial and funeral costs
 - The plot (gravesite) or interment
