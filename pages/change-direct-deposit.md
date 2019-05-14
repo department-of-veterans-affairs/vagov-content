@@ -35,7 +35,7 @@ This depends on the type of benefits you're receiving. You can change your infor
 <strong><button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button></strong><br>
 If you have questions about verifying your identity on VA.gov, <a href="/sign-in-faq/#verify">read our identity verification FAQs</a>.
 
-<strong>If you want to opt cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks,</strong> please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday to Friday, 8:00 a.m. to 9:00 p.m. ET. Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType). 
+<strong>If you want to cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks,</strong> please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType). 
       
 </div>
 </div>
@@ -66,14 +66,14 @@ Yes. You can change your information by mail or phone.
 <h3>By mail</h3>
 
 Fill out a VA Direct Deposit Enrollment (VA Form 24-0296). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296 (PDF)</a>
 
 **Mail the completed form to:**
 
 <p class="va-address-block">
 Department of Veterans Affairs<br>
 125 S. Main Street, Suite B<br>
-Muskogee OK 74401-7004<br>
+Muskogee, OK 74401-7004<br>
 </p>
 
 <h3>By phone</h3>
