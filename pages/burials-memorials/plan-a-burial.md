@@ -52,6 +52,7 @@ To start, you may want to choose a funeral director to help you plan the burial.
 
  - The DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
  [Find out which discharge documents we accept along with your application](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp)
+ [Find out how to request the Veteran's DD214](/records/get-military-service-records/#request-DD214)
 
 **You'll also need the information listed below about the Veteran, service member, or dependent family member:**
 
