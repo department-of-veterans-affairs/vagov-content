@@ -13,7 +13,7 @@ children: disabilityCompensationRates
 majorlinks:
   - heading: View current VA disability compensation rates
     links:
-    - url: /disability/compensation-rates/veterans-rates/
+    - url: /disability/compensation-rates/veteran-rates/
       title: Veterans disability compensation rates
       description: View current disability compensation rates based on disability rating and number of dependents.
     - url: /disability/compensation-rates/special-benefit-allowance-rates/
