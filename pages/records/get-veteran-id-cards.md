@@ -13,12 +13,6 @@ plainlanguage:
 template: detail-page
 collection: records
 children: veteranIdCards
-relatedlinks:
- - heading:
-   links:
-    - url:
-      title:
-      description:
 ---
 
 <div class="va-introtext">
