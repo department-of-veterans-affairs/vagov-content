@@ -34,7 +34,7 @@ Find out what steps to take to plan a burial for a Veteran, spouse, or dependent
 To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to request a burial.
 
 **Note:** You may be able to schedule a weekend burial at certain national cemeteries. <br>
-[Learn about the weekend burial program](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf)
+[Learn about the weekend burial program (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf)
 
 You don’t need to do anything else except prepare yourself and your family for the funeral. <br>
 [Find out what to expect at a military funeral or memorial service](/burials-memorials/what-to-expect-at-military-funeral/)
@@ -100,7 +100,7 @@ To start, you may want to choose a funeral director to help you plan the burial.
  [Learn more about military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp)
  
 **Note:** You may be able to schedule a weekend burial at certain national cemeteries. <br>
-[Learn about the weekend burial program](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf)
+[Learn about the weekend burial program (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf)
 </li>
 
 <li class="process-step list-three">
