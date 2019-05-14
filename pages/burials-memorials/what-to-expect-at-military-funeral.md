@@ -29,7 +29,7 @@ The family may choose to have military funeral honors.
 - A color guard
 - Uniformed service members who present the burial flag
 
-[Read more about the "Honoring Those Who Served" program](https://www.cem.va.gov/cem/docs/factsheets/honors.pdf)
+[Read more about the "Honoring Those Who Served" program (PDF)](https://www.cem.va.gov/cem/docs/factsheets/honors.pdf)
 
 **Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
 [Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/)
