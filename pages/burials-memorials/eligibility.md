@@ -251,6 +251,9 @@ At the time of need, the person planning the burial can also request other honor
 [Learn about memorial items](/burials-memorials/memorial-items/) <br>
 [See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
+## Can I be buried at Arlington National Cemetery? 
+
+You may be able to be buried at Arlington National Cemetery, which is maintained by the Army, not VA. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
 
 ## If I'm the survivor of a Veteran or service member, what other benefits can I get?
 
