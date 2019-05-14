@@ -60,10 +60,10 @@ You can apply for one of these memorial items if you're representing the Veteran
 ## How do I apply for a memorial item?
 
 **For a headstone, grave marker, or niche cover**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
-[Download VA Form 40-1330](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
+[Download VA Form 40-1330 (PDF)](/vaforms/va/pdf/VA40-1330.pdf)
 
 **For a medallion** to be placed on a privately purchased headstone or marker, fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
-[Download VA Form 40-1330M](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
+[Download VA Form 40-1330M (PDF)](/vaforms/va/pdf/VA40-1330M.pdf)
 
 - Make a copy of the Veteran’s discharge documents. Don’t send the originals, because we can’t return them.
 
@@ -95,8 +95,8 @@ You can apply for one of these memorial items if you're representing the Veteran
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
-[Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf) <br>
-[See the emblems of belief you can choose to place on a headstone or marker](https://www.cem.va.gov/cem/docs/emblems.pdf)
+[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf) <br>
+[See the emblems of belief you can choose to place on a headstone or marker (PDF)](https://www.cem.va.gov/cem/docs/emblems.pdf)
 <br>
 
 ## What do I need to know about burial in a private cemetery?
@@ -105,10 +105,10 @@ You may have additional costs, restrictions on the type of headstone or marker y
 [Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp)
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
-[Get help resolving your complaint](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
+[Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
 If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
-[Learn more about medallions and see what they look like](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
+[Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
 
 
 ## How do I make special arrangements?
