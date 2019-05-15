@@ -39,7 +39,6 @@ You may qualify for additional payments if you’re the surviving spouse of a Ve
 - Was married to you, the surviving spouse, for those same 8 years. 
 
 Additional amount available: **$280.09**
-
 Relevant law: 38 U.S.C. 1311(a)(2) 
 
 #### Benefits for spouse needing Aid and Attendance (A&A)
@@ -47,3 +46,40 @@ Relevant law: 38 U.S.C. 1311(a)(2)
 If you’re the surviving spouse and you need help doing daily activities, you may qualify for the A&A benefit. 
 
 Additional amount available: **$326.77**
+Relevant law: 38 U.S.C. 1311(c)
+
+#### Benefits for spouse needing housebound compensation
+
+If you’re the surviving spouse and are housebound, you may qualify for this benefit.
+
+Additional amount available: **$153.08**
+Relevant law: 38 U.S.C. 1311(d)
+
+#### Benefits for spouse with one or more children under age 18
+
+If you have 1 or more children, you may qualify for 2 different additional amounts. The first, called the transitional benefit, is for any spouse with children under age 18.
+
+Additional amount available: **$282.00 for 2 years**
+Relevant law: 38 U.S.C. 1311(f)(4)
+
+In addition, you can add another allowance for each child under age 18. These DIC apportionment rates, approved by the Under Secretary for Benefits under 38 CFR 3.461(b), will be the additional allowance for each child.
+
+Additional amount available: **$326.77 per child**
+Relevant law: 38 U.S.C. 1311(b)
+
+#### Benefits for children without a surviving spouse of a Veteran
+
+Children of Veterans who had no surviving spouse can receive their own benefit payments.
+
+Additional amount available: **$452.00**
+
+### Example: How to find your total benefit amount
+
+In this example, the surviving spouse has 2 children, and is the survivor of a Veteran who was covered under the 8-year provision. The monthly rate for the surviving spouse increases from the basic rate of $1,154 to a new monthly rate of $1,972.
+
+| **Rates** | **Amounts** |
+|---|---|
+Basic rate
+
+| 1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>286</br>286</br>+ 246</br>$1,972 |
+
