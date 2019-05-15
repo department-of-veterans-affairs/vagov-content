@@ -65,13 +65,25 @@ If you attend your training program in person, your housing stipend will be equa
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994).
 
 If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
-[View currently approved training providers](https://www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp)
 
 After you complete your training, you'll receive a certification of your new skills. 
 
 **Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
 
-[Apply for education benefits](/education/how-to-apply/)
+[Apply for education benefits](/education/how-to-apply/)<br>
+
+## VET TEC training providers
+
+| **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider*** | 
+|---|---|---|---|---|---|
+| [Skill Distillery](https://skilldistillery.com/) | 7400 E. Orchard Road, Suite 1450N, Greenwood Village, CO 80111  | Full Stack Development with Java | 680 hours | In-person training | Yes |
+| [Zip Code Wilmington](https://www.zipcodewilmington.com) | 1007 N. Orange Street, 4th floor, Wilmington, DE 19801  | Software Development Bootcamp | 480 Hours | In-person training | No |
+| [Code Platoon](https://www.codeplatoon.org/) | 125 S. Clark Street, 17th floor, Chicago, IL 60603 | Code Platoon | 560 hours | In-person and online training| No |
+| [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 2 | 80 hours | In-person training | No |
+|  [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 6 | 240 hours | In-person training | No |
+
+**Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
+
 
 ## Get more information
 
