@@ -81,7 +81,7 @@ social:
           icon: fa-instagram
 hublinks:
   - id: get
-    title: Get VA pension benefits 
+    title: Get VA pension benefits
     links:
     - url: "/pension/eligibility/"
       label: Eligibility for Veterans Pension
@@ -123,7 +123,7 @@ hublinks:
       label: Change your address on file with VA
       description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
       external: false
-    - url: "/change-direct-deposit-and-contact-information/"
+    - url: "/change-direct-deposit/"
       label: Change your VA direct deposit and contact information
       description: Learn how to change your VA pension benefits direct deposit information online.
       external: false
