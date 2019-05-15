@@ -97,7 +97,7 @@ Yes. It’s important to update your information with us if you move, change you
 <h3>If you move or change your mailing address</h3>
 Make sure to update your contact information so we send information about your benefits and services as well as any prescriptions, lab test results, or appointment reminders you may need to the right location.
 
-You can change your address and other contact information in your VA.gov profile. This will update your contact information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation and Employment (VR&E), and VA health care. <a href="/change-address">Find out how to change your address on file with VA</a>.
+You can change your address and other contact information in your VA.gov profile. This will update your contact information across disability compensation, pension benefits, claims and appeals, Vocational Rehabilitation and Employment (VR&E), and VA health care. <a href="/change-address">Find out how to change your address on file with VA</a>
 
 <h3>If you have a disability rating of 30% or higher</h3>
 You may be able to <a href="https://www.benefits.va.gov/compensation/add-dependents.asp">add eligible dependents to your VA disability compensation</a> to get a higher payment (also called a "benefit rate").
