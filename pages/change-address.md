@@ -13,7 +13,7 @@ relatedlinks:
     - url: /health-care/update-health-information/
       title: Update your health benefits information (VA Form 10-10EZR)
       description: Use VA Form 10-10EZR to update your personal, financial, and insurance information after you’re enrolled in VA health care.
-    - url: /change-direct-deposit-and-contact-information/
+    - url: /change-direct-deposit/
       title: Change your VA direct deposit and contact information
       description: Change your direct deposit and contact information for certain VA benefits.
     - url: /life-insurance/manage-your-policy/
