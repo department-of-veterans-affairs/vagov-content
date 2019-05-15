@@ -78,6 +78,6 @@ Additional amount available: **$452.00**
 In this example, the surviving spouse has 2 children, and is the survivor of a Veteran who was covered under the 8-year provision. The monthly rate for the surviving spouse increases from the basic rate of $1,154 to a new monthly rate of $1,972.
 
 | **Rates** | **Amounts** |
-|---|---|
+|---|---:|
 | Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>286</br>286</br>+ 246</br>$1,972 |
 
