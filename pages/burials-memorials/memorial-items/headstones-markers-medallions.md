@@ -76,6 +76,15 @@ You can apply for one of these memorial items if you're representing the Veteran
     Quantico, VA 22134-3903<br>
 </p>
 
+## How can I find out when the headstone, marker, or medallion I requested will arrive?
+
+### For national or state cemeteries
+Please contact the cemetery directly to find out when the headstone or marker will arrive. <br>
+[Find a national, state, or tribal government Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
+
+### For private cemeteries 
+If more than 60 days have passed since you filed your claim and the grave still isn't marked, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at 1-800-697-6947. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.
+
 ## What information goes on the headstone or marker?
 
 **You must put this information on the headstone or marker:**
