@@ -88,7 +88,7 @@ After we make an entitlement decision, you and your counselor will work together
 You can also meet with VRCs called VetSuccess on Campus (VSOC) Counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
 [Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/)
 
-### What's included in a rehabilitation plan?
+## What's included in a rehabilitation plan?
 
 A rehabilitation plan is a written plan that outlines the resources we'll use to help you find employment. Depending on your situation, your VRC will work with you to choose one of the following support-and-services tracks to help you find and keep a job, and live as independently as possible:
 - [Reemployment with a former employer](/careers-employment/vocational-rehabilitation/programs/reemployment/)
@@ -98,7 +98,7 @@ A rehabilitation plan is a written plan that outlines the resources we'll use to
 - [Independent living services if you can’t return to work right away](/careers-employment/vocational-rehabilitation/programs/independent-living/)
 
 
-### What happens after my VRC creates my rehabilitation plan?
+## What happens after my VRC creates my rehabilitation plan?
 
 Your VRC will help you put your plan into action. They'll also provide ongoing counseling and help you get tutorial assistance, job training, work-readiness support, and medical referrals.
 
