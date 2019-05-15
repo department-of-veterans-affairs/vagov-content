@@ -134,7 +134,7 @@ hublinks:
       description: Find out if you'll need to turn in any additional forms to support
         your disability claim.
       external: false
-    - url: "/change-direct-deposit-and-contact-information/"
+    - url: "/change-direct-deposit/"
       label: Change Your VA Direct Deposit and Contact Information
       description: Find out how to change your direct deposit information online.
       external: false
