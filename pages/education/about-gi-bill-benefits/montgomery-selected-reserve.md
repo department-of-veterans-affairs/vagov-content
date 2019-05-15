@@ -102,7 +102,7 @@ Follow the steps below to apply for these benefits.
   <p></p>
     <h4>If you already started training</h4>
     <p>Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a></P.
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990 (PDF)</a></P.
     <p></p>
     <p>Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.</p>
     </li>
