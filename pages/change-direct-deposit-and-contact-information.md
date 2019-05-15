@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Change your VA direct deposit and contact information
+title: Change VA Direct Deposit And Contact Info
+heading: Change your VA direct deposit and contact information
 display_title: Change direct deposit and contact info
+description: Change VA direct deposit information for your VA disability compensation, pension, or education benefits online. Sign in or register for a Premium account to update your information. 
+keywords: va direct deposit, change va direct deposit
 lastupdate:
       
 ---
@@ -10,13 +13,13 @@ lastupdate:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Change your direct deposit and contact information for certain VA benefits online.
+Change VA direct deposit and contact information for certain benefits online.
 
 </div>
 
 <div class="va-sign-in-alert usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to change your direct deposit and contact information online.</h4>
+    <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to change your VA direct deposit and contact information online.</h4>
   <p class="usa-alert-text"><br>
     To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
       <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to Change Your Information</a>
@@ -69,7 +72,7 @@ Change your direct deposit and contact information for certain VA benefits onlin
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Are there other ways to change my direct deposit or contact information?</h2>
+<h2 itemprop="name">Are there other ways to change my VA direct deposit or contact information?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -77,8 +80,8 @@ Yes. You can change your information by mail or phone.
 
 <h3>By mail</h3>
 
-Fill out a Direct Deposit Enrollment (VA Form 24-0296). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>
+Fill out a VA Direct Deposit Enrollment (VA Form 24-0296). <br>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296 (PDF)</a>
 
 **Mail the completed form to:**
 

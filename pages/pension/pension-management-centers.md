@@ -2,7 +2,10 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Find Your VA Pension Management Center
-display_title: Pension Management Centers
+heading: Find your VA pension management center
+display_title: Pension management centers
+description: Find the VA pension management center that serves the state, territory, or foreign country you live in. You can mail pension applications to one of our 3 regional VA pension management centers in Philadelphia, Milwaukee, and St. Paul. 
+keywords: va pension management center
 concurrence: ""
 order: 5
 spoke: More resources
@@ -10,17 +13,15 @@ spoke: More resources
 
 <div class="va-introtext">
 
-We have 3 regional pension management centers. Look at the lists below to find the center that serves your state, territory, or foreign country. Then, mail or fax your pension application to the address for that center.
+Find the VA pension management center that serves the state, territory, or foreign country you live in. Then, mail or fax your pension application to the address for that center.
 
 </div>
 
-## VA Philadelphia Pension Management Center
+## Philadelphia VA Pension Management Center
 
 This office serves:
 
-<div class="usa-grid-full">
 
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Connecticut</li>
 <li>Delaware</li>
@@ -32,11 +33,6 @@ This office serves:
 <li>New Hampshire</li>
 <li>New Jersey</li>
 <li>New York</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>North Carolina</li>
 <li>Pennsylvania</li>
 <li>Puerto Rico</li>
@@ -45,11 +41,8 @@ This office serves:
 <li>Vermont</li>
 <li>Virginia</li>
 <li>West Virginia</li>
-<li>All other foreign countries not included under the VA St. Paul Pension Management Center below
+<li>All other foreign countries not included under the St. Paul VA Pension Management Center below
 </ul>
-</div>
-
-</div>
 
 To submit a pension application to this office, mail it to:
 
@@ -61,18 +54,16 @@ To submit a pension application to this office, mail it to:
   Janesville, WI  53547-5206
 </p>
 
-Or, fax it to 1-844-655-1604.
+Or, fax it to 844-655-1604.
 
-[Get more information about the VA Philadelphia Regional Benefit Office](https://www.benefits.va.gov/philadelphia/).
+[Get more information about the Philadelphia VA Regional Office](https://www.benefits.va.gov/philadelphia/)
 
 <br>
 
-## VA Milwaukee Pension Management Center
+## Milwaukee VA Pension Management Center
 
 This office serves:
 
-<div class="usa-grid-full">
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Alabama</li>
 <li>Arkansas</li>
@@ -80,11 +71,6 @@ This office serves:
 <li>Illinois</li>
 <li>Kentucky</li>
 <li>Louisiana</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>Michigan</li>
 <li>Mississippi</li>
 <li>Missouri</li>
@@ -92,9 +78,7 @@ This office serves:
 <li>Tennessee</li>
 <li>Wisconsin</li>
 </ul>
-</div>
 
-</div>
 
 To submit a pension application to this office, mail it to:
 
@@ -106,19 +90,16 @@ To submit a pension application to this office, mail it to:
   Janesville, WI 53547-5192<br>
 </p>
 
-Or, fax it to 1-844-655-1604.
+Or, fax it to 844-655-1604.
 
-[Get more information about the VA Milwaukee Regional Benefit Office](https://www.benefits.va.gov/milwaukee/).
+[Get more information about the Milwaukee VA Regional Office](https://www.benefits.va.gov/milwaukee/)
 
 <br>
 
-## VA St. Paul Pension Management Center
+## St. Paul VA Pension Management Center
 
 This office serves:
 
-<div class="usa-grid-full">
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
 <ul>
 <li>Alaska</li>
 <li>Arizona</li>
@@ -133,11 +114,6 @@ This office serves:
 <li>Nebraska</li>
 <li>Nevada</li>
 <li>New Mexico</li>
-</ul>
-</div>
-
-<div class="small-12 medium-6 usa-width-five-twelfths columns">
-<ul>
 <li>North Dakota</li>
 <li>Oklahoma</li>
 <li>Oregon</li>
@@ -151,9 +127,6 @@ This office serves:
 <li>South America</li>
 <li>The Caribbean</li>
 </ul>
-</div>
-
-</div>
 
 To submit a pension application to this office, mail it to:
 
@@ -165,6 +138,6 @@ To submit a pension application to this office, mail it to:
   Janesville, WI 53547-5365<br>
 </p>
 
-Or, fax it to 1-844-655-1604.
+Or, fax it to 844-655-1604.
 
-[Get more information about the VA St. Paul Regional Benefit Office](https://www.benefits.va.gov/stpaul/).
+[Get more information about the St. Paul VA Regional Office](https://www.benefits.va.gov/stpaul/)
