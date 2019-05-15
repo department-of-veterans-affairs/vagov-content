@@ -79,7 +79,5 @@ In this example, the surviving spouse has 2 children, and is the survivor of a V
 
 | **Rates** | **Amounts** |
 |---|---|
-Basic rate
-
-| 1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>286</br>286</br>+ 246</br>$1,972 |
+| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>286</br>286</br>+ 246</br>$1,972 |
 
