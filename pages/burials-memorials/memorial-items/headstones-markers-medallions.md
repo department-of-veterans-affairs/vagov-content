@@ -106,7 +106,10 @@ If more than 60 days have passed since you filed your claim and the grave still 
 
 [Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf) <br>
 [See the emblems of belief you can choose to place on a headstone or marker (PDF)](https://www.cem.va.gov/cem/docs/emblems.pdf)
-<br>
+
+## What if there's a mistake with the headstone inscription?
+
+Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
 
 ## What do I need to know about burial in a private cemetery?
 
