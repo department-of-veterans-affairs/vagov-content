@@ -120,6 +120,16 @@ Changes to these parts of your SGLI coverage are effective on the first day of t
 
 </div>
 </li>
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">If I’m deployed, can someone else make changes to my SGLI coverage or beneficiaries for me?
+</button>
+<div id="deployed" class="usa-accordion-content">
+
+No. You are the only person who can make changes to your SGLI coverage or beneficiaries.
+
+</div>
+</li>
 
 
 
