@@ -98,8 +98,10 @@ Your (or your sponsor's):
 **If you’re applying as a spouse, surviving spouse, or unmarried adult child,** you’ll also need your personal information, including your Social Security number.
 
 **If you're applying on behalf of someone else,** you’ll also need supporting documents showing you have the authority to apply for that person. You'll need to fill out one of these forms:
-- [Appointment of Veterans Service Organization as Claimant's Representative (VA Form 21-22)](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf), **or**
-- [Appointment of Individual as Claimant's Representative (VA Form 21-22a)](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
+- Appointment of Veterans Service Organization as Claimant's Representative (VA Form 21-22)<br> 
+[Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf), **or**
+- Appointment of Individual as Claimant's Representative (VA Form 21-22a)<br>
+[Download VA Form 21-22a](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
 
 **If you're applying for an unmarried adult child of a Veteran or service member,** you'll also need to provide supporting documents with information about the child's disability.
 
