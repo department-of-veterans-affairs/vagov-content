@@ -8,6 +8,18 @@ description:
 concurrence:
 spoke: Additional resources
 order:2 
+relatedlinks:
+  - heading: More resources for survivors and dependents
+    links:
+    - url: /burials-memorials/dependency-indemnity-compensation/
+      title: Learn more about the VA surviving spouses and dependents (DIC) program
+      description: Learn more about the DIC program and whether you might be eligible to get these payments.
+    - url: /family-member-benefits/
+      title: Learn more about benefits for survivors
+      description: If you’re a spouse, dependent, survivor, or family caregiver of a Veteran, you may qualify for certain benefits.
+    - url: /pension/survivors-pension/
+      title: See if you qualify for a VA Survivors’ Pension
+      description: A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress.
 ---
 
 <div class="va-introtext">
@@ -53,4 +65,5 @@ The first column shows the number of children of a surviving Veteran. The middle
 | 9	| $2,237.55	| $248.62 |
 
 \*For each helpless child over 18, add $326.77.
-\**For each additional child, add $198.68.
+\*\*For each additional child, add $198.68.
+
