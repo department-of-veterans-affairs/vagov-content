@@ -53,9 +53,8 @@ These benefits are additional [[to WHAT]] and are for eligible children over 18.
 
 The first column shows the number of children of a surviving Veteran. The middle column shows the amount available if we give it to your family in one lump sum each month. The second column shows the rate for each individual child if we’re dividing it among the surviving children for you.
 
-| | Lump amount | Rate for each child if divided |
+| Number of children of the Veteran | Total payable in lump amount | Rate for each child if divided |
 |---|---|---|
-| Number of children of the Veteran | Total payable | Each child Share |
 | 1	| $556.93	| $556.93 |
 | 2	| $801.19	| $400.60 |
 | 3	| $1,045.47	| $348.49 |
@@ -66,6 +65,6 @@ The first column shows the number of children of a surviving Veteran. The middle
 | 8	| $2,038.87	| $254.86 |
 | 9	| $2,237.55	| $248.62 |
 
-\*For each helpless child over 18, add $326.77.
+\*For each helpless child over 18, add $326.77.</br>
 \*\*For each additional child, add $198.68.
 
