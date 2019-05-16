@@ -123,7 +123,7 @@ No. If you’re a beneficiary and want to make an SGLI benefits claim, please co
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When will changes I’ve made in SOES be effective? 
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When do changes I’ve made in SOES become effective? 
 <div id="changes-effective" class="usa-accordion-content">
 
 Changes made in SOES to these parts of your SGLI coverage are effective immediately:
