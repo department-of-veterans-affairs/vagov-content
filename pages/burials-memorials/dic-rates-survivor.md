@@ -7,7 +7,7 @@ display_title:
 description: 
 concurrence:
 spoke: Additional resources
-order:2 
+order: 2 
 relatedlinks:
   - heading: More resources for survivors and dependents
     links:
@@ -20,6 +20,7 @@ relatedlinks:
     - url: /pension/survivors-pension/
       title: See if you qualify for a VA Survivors’ Pension
       description: A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress.
+      
 ---
 
 <div class="va-introtext">
