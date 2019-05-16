@@ -24,6 +24,9 @@ relatedlinks:
 
 <div class="va-introtext">
 
+
+</div>
+
 ## DIC benefits for children of Veterans
 
 We base Dependency and Indemnity Compensation (DIC) benefits on the highest pay grade that the Veteran held for 6 months of active duty. We base the rates for children on several factors:
@@ -31,8 +34,6 @@ We base Dependency and Indemnity Compensation (DIC) benefits on the highest pay 
 -	The Veteran’s pay grade
 -	Whether the surviving spouse was entitled to benefits
 -	Whether the child was sharing benefits with other children
-
-</div>
 
 The charts below show the current benefit rates.
 
