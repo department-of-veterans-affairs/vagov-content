@@ -1,15 +1,42 @@
+---
+layout: page-breadcrumbs.html
+template: detail-page
+title: SGLI Online Enrollment System (SOES)
+heading: SGLI Online Enrollment System (SOES)
+display_title: Family Servicemembers’ Group (FSGLI)
+description: Use the SGLI Online Enrollment System (SOES) to sign up for, view, or make changes to your Servicemembers’ Group Life Insurance (SGLI) coverage.
+keywords: SOES, sgli online enrollment system
+concurrence: 
+order: 2
+relatedlinks:
+  - heading: More information about your benefits
+    links:
+    - url: /life-insurance/manage-your-policy/
+      title: Access Your Policy Online
+      description: Already have VA life insurance? Access your policy online.
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: Claims for Disabled and Terminally Ill Policyholders
+      description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
+aliases:
+  - /life-insurance/options-and-eligibility/fsgli/
+---
+
+<div class="va-introtext">
+
+
 # SGLI Online Enrollment System (SOES)
 
-Sign up for Servicemembers’ Group Life Insurance (SGLI) using our SGLI Online Enrollment System (SOES). You can view and make changes to your SGLI or your Family Servicemembers’ Group Life Insurance (FSGLI) policy using SOES.  
+Use the SGLI Online Enrollment System (SOES) to sign up for or make changes to your Servicemembers’ Group Life Insurance (SGLI) coverage.
  
 ## What is SOES?
  
-SOES is an online portal that lets you view and make changes to your SGLI or FSGLI policy. 
+SOES is an online portal that lets you sign up for or make changes to your SGLI policy. 
  
 In SOES, you can:
+- Sign up for SGLI coverage
 - Increase, reduce or cancel SGLI and FSGLI coverage
 - Add or make changes to SGLI beneficiary information
-- View, save, print, or email a SGLI Coverage Certificate
+- View, save, print, or email an SGLI Coverage Certificate
 
 ## Who can use SOES?
  
@@ -22,7 +49,7 @@ If you’re a service member in one of these groups, you can use SOES:
 - NOAA (as of October 1, 2018)
 
 
-Your service will provide you with information about when to use SOES.
+Your service will provide you with information on when to use SOES.
  
 <b>Note:</b> If you’re a Public Health service member, you don’t have access to SOES. You should continue to use paper SGLV 8286 forms to make changes to your SGLI or FSGLI policy. 
 
@@ -36,7 +63,7 @@ To use SOES, you’ll need:
 
 <ol class="process">
   <li class="process-step list-one"><h4>Sign in to [MilConnect](http://www.dmdc.osd.mil/milconnect)</h4><br>
-  Go to [MilConnect](http://www.dmdc.osd.mil/milconnect) and sign in. We recommend you use the latest version of Internet Explorer.</li>
+  Sign in to [MilConnect](http://www.dmdc.osd.mil/milconnect). We recommend you use the latest version of Internet Explorer.</li>
   <li class="process-step list-two"><h4>Go to Benefits > Life Insurance SOES - SGLI Online Enrollment System</h4> <br>
   Select “Benefits”, then select “Life Insurance SOES - SGLI Online Enrollment System.” </li>
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> <br>
@@ -44,4 +71,26 @@ To use SOES, you’ll need:
     <li class="process-step list-four"><h4>View or make changes to your SGLI or FSGLI coverage</h4> <br>
  View and manage your policy information and make changes to your life insurance beneficiaries.</li>
 </ol>
+
+## Frequently Ased Questions (FAQs) about SOES
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
+</button>
+<div id="no-computer" class="usa-accordion-content">
+
+You’re only allowed to use a paper form to make changes to your SGLI or FSGLI coverage if: 
+- You don’t have access to a computer, <b>or</b>
+- You’re only eligible for part-time coverage. You may only be eligible for part-time coverage if you’re a Guard or Reserve member and you aren’t assigned to a unit--or you’re scheduled to drill fewer than 12 times per year.
+<br>
+If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the [SGLI Election and Certificate form (SGLV 8386)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf). When you have completed this form, give it to your Personnel Office. 
+
+
+</div>
+</li>
+
+
+
+
 
