@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: What to expect after you get a disability rating
+title: What To Expect After You Get A Disability Rating
 heading: What to expect after you get a disability rating
 display_title: After you get a rating
 description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
