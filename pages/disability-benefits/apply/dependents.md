@@ -1,5 +1,5 @@
 ---
-title: Declaration of Status of Dependents
+title: Declaration Of Status Of Dependents
 heading: Declaration of status of dependents
 display_title: Add or remove a dependent
 entryname: 686-dependent-status
