@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Add dependents to your VA disability benefits
+title: Add Dependents To Your VA Disability Benefits
 heading: Add dependents to your VA disability benefits
 display_title: Add or remove a dependent
 description: Find out about adding dependents to your VA disability benefits for additional compensation. Learn about VA disability dependent eligibility for a child, spouse, or parent, when to add or remove a dependent, and how to get back pay for dependents if you file late.
@@ -105,12 +105,12 @@ You can file a claim for additional compensation for a child or spouse online ri
 
 **If your dependent is a child who’s between 18 and 23 years old and attending school full time,** you’ll also need to submit a Request for Approval of School Attendance (VA Form 21-674) with your application. <br>
 
-[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) 
+[Download VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) 
 
 ### To file a claim for additional disability compensation for a dependent parent
 
 You’ll need to fill out and submit a Statement of Dependency of Parent(s) (VA Form 21P-509) by mail or fax. <br>
-[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
+[Download VA Form 21P-509 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
 
 **Please send all correspondence related to compensation claims to this address:**
 
@@ -145,14 +145,14 @@ When you file your claim online, we recognize the day you start the online claim
 **If you can’t, or don’t want to file online,** you can file a claim for additional disability compensation by mail or fax using the forms below:
 
 - **For a spouse or a child under 18 years of age**, you'll need to fill out a Declaration of Status of Dependents (VA Form 21-686c). <br>
-[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
+[Download VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
 
 - **For a child who’s between 18 and 23 years old and attending school full time**, you’ll need to fill out both VA Form 21-686c and a Request for Approval of School Attendance (VA Form 21-674). <br>
-[Download VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf) <br>
-[Download VA Form 21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
+[Download VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf) <br>
+[Download VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 - **For a dependent parent**, you’ll need to fill out a Statement of Dependency of Parent(s) (VA Form 21P-509). <br>
-[Download VA Form 21P-509](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
+[Download VA Form 21P-509 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-509-ARE.pdf)
 
 **Mail your completed form(s) to:**
 
@@ -190,7 +190,7 @@ We may pay you back to the date of your marriage or the birth or adoption of you
 - File your claim for additional disability compensation for the dependent within a year of the marriage, birth, or adoption, **and**
 - Respond within a year to our request for any more information or evidence needed to confirm your claim <br>
 
-If it’s been more than 1 year since you got married or had or adopted a child, we may not pay you back to the date of the marriage, birth, or adoption. Instead, we may pay you back only to the date we received your claim for additional disability for the dependent or, in some cases, up to a year before before this date.
+If it’s been more than one year since you got married or had or adopted a child, we may not pay you back to the date of the marriage, birth, or adoption. Instead, we may pay you back only to the date we received your claim for additional disability for the dependent or, in some cases, up to a year before before this date.
 
 </div>
 </li>
