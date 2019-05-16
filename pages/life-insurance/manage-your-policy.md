@@ -28,3 +28,7 @@ If you have a VA life insurance policy with a file number that starts with a V, 
 
 If you have a Veterans’ Group Life Insurance (VGLI) policy with a VGLI control number, access your policy online through the Office of Servicemembers’ Group Life Insurance at Prudential Insurance Company of America. Prudential works with us to provide SGLI and VGLI benefits to Servicemembers and Veterans. <br>
 <a href="https://giosgli.prudential.com/osgli/web/OSGLIMenu.html" data-popup>Find your policy through Prudential Insurance Company of America</a>.
+
+<br>
+If you want to sign up for Servicemembers' Group Life Insurance (SGLI), use the SGLI Online Enrollment System (SOES). If you already have SGLI coverage, you can use SOES to view and make changes to your policy. <br>
+<a href="https://www.va.gov/life-insurance/about-soes/" data-popup>Find out more about SOES.</a>
