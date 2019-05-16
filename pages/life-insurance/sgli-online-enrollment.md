@@ -45,7 +45,7 @@ In SOES, you can:
 
 ## Who can use SOES?
  
-If you’re a service member in one of these groups, you can use SOES:
+You can use SOES if you're a service member in one of these groups:
 - Army
 - Navy
 - Air Force
@@ -56,7 +56,7 @@ If you’re a service member in one of these groups, you can use SOES:
 
 Your service will provide you with information on when to use SOES.
  
-<b>Note:</b> If you’re a Public Health service member, you don’t have access to SOES. You should continue to use paper SGLV 8286 forms to make changes to your SGLI or FSGLI policy. 
+<b>Note:</b> If you’re a Public Health service member, you don’t have access to SOES. You should continue to use a paper version of the [SGLI Election and Certificate form (SGLV 8286)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf) to make changes to your SGLI policy. 
 
  
 ## How to Use SOES
@@ -67,8 +67,8 @@ To use SOES, you’ll need:
 - A Common Access Card (CAC) or DS Logon
 
 <ol class="process">
-  <li class="process-step list-one"><h4>Sign in to [MilConnect](http://www.dmdc.osd.mil/milconnect)</h4><br>
-  Sign in to [MilConnect](http://www.dmdc.osd.mil/milconnect). We recommend you use the latest version of Internet Explorer.</li>
+  <li class="process-step list-one"><h4><a href="http://www.dmdc.osd.mil/milconnect">Sign in to MilConnect</a></h4><br>
+  Sign in to <a href="http://www.dmdc.osd.mil/milconnect">MilConnect</a>. We recommend you use the latest version of Internet Explorer.</li>
   <li class="process-step list-two"><h4>Go to Benefits > Life Insurance SOES - SGLI Online Enrollment System</h4> <br>
   Select “Benefits”, then select “Life Insurance SOES - SGLI Online Enrollment System.” </li>
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> <br>
