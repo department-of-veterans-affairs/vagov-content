@@ -40,7 +40,7 @@ SOES is an online portal that lets you sign up for or make changes to your SGLI 
 
 ## Who can use SOES?
  
-#### You have access SOES if you're a service member in one of these groups:
+#### You can use SOES if you're a service member in one of these groups:
 - Army
 - Navy
 - Air Force
@@ -50,7 +50,7 @@ SOES is an online portal that lets you sign up for or make changes to your SGLI 
 
 Your service will provide you with information on when to use SOES.
 
-#### You don't have access to SOES if you are:
+#### You can't use SOES if you are:
 - A public health service member
 - A Reserve or National Guard member with part-time SGLI coverage
 <br>
