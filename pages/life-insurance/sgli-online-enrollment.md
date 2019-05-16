@@ -66,15 +66,15 @@ To use SOES, you’ll need:
 <ol class="process">
   <li class="process-step list-one"><h4><a href="http://www.dmdc.osd.mil/milconnect">Sign in to MilConnect</a></h4><br>
   Sign in to <a href="http://www.dmdc.osd.mil/milconnect">MilConnect</a>. We recommend you use the latest version of Internet Explorer.</li>
-  <li class="process-step list-two"><h4>Go to Benefits > Life Insurance SOES - SGLI Online Enrollment System</h4> <br>
+  <li class="process-step list-two"><h4>Go to Benefits > Life Insurance SOES - SGLI Online Enrollment System</h4> 
   Select “Benefits”, then select “Life Insurance SOES - SGLI Online Enrollment System.” </li>
-  <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> <br>
-  Use your CAC card or DS Logon to sign in to SOES.</li>
-    <li class="process-step list-four"><h4>View or make changes to your SGLI or FSGLI coverage</h4> <br>
+  <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> 
+  Use your CAC or DS Logon to sign in to SOES.</li>
+    <li class="process-step list-four"><h4>View or make changes to your SGLI or FSGLI coverage</h4> 
  View and manage your policy information and make changes to your life insurance beneficiaries.</li>
 </ol>
 
-## Frequently Ased Questions (FAQs) about SOES
+## Frequently Asked Questions (FAQs) about SOES
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
@@ -117,8 +117,6 @@ Changes to these parts of your SGLI coverage are effective as soon as you make t
 Changes to these parts of your SGLI coverage are effective on the first day of the month after you make the change (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 - Reductions to coverage amounts
 - Cancellation of coverage 
-
-
 
 </div>
 </li>
