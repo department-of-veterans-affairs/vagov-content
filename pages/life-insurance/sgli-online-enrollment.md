@@ -32,9 +32,9 @@ Use the SGLI Online Enrollment System (SOES) to sign up for or make changes to y
  
 ## What is SOES?
  
-SOES is an online portal that lets you sign up for or make changes to your SGLI policy. In SOES, you can:
-- Sign up for SGLI coverage
-- Increase, reduce or cancel SGLI and FSGLI coverage
+SOES is an online portal that lets you sign up for or make changes to your SGLI coverage. In SOES, you can:
+- Sign up for SGLI
+- Increase, reduce or cancel SGLI coverage
 - Add or make changes to SGLI beneficiary information
 - View, save, print, or email an SGLI Coverage Certificate
 
@@ -55,15 +55,16 @@ Your service will provide you with information on when to use SOES.
 - A Reserve or National Guard member with part-time SGLI coverage
 <br>
 
-If you don't have access to SOES, you can make changes to your SGLI coverage by using a paper version of the [SGLI Election and Certificate form (SGLV 8286)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf).
+If you don't have access to SOES, you can make changes to your SGLI coverage by filling out an [SGLI Election and Certificate form (SGLV 8286)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf) and giving it to your Personnel Office.
+
 
  
 ## How to Use SOES
  
-To use SOES, you’ll need:
+To use SOES, you’ll need a:
  
-- Access to a computer that can connect to the Internet
-- A Common Access Card (CAC) or DS Logon
+- Computer that can connect to the Internet
+- Common Access Card (CAC) or DS Logon
 
 <ol class="process">
   <li class="process-step list-one"><h4><a href="http://www.dmdc.osd.mil/milconnect">Sign in to MilConnect</a></h4>
@@ -74,7 +75,7 @@ To use SOES, you’ll need:
   Use your CAC or DS Logon to sign in to SOES.</li>
     <li class="process-step list-four"><h4>View or make changes to your SGLI coverage</h4> 
  View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view your changes. <br>
-      <b>Note:</b> Any pending (effective in the future) changes will be noted on your home screen. </li>
+      <b>Note:</b> Any pending (effective in the future) changes will be noted on your SOES home screen. </li>
 </ol>
 
 ## Frequently Asked Questions (FAQs) about SOES
@@ -84,14 +85,14 @@ To use SOES, you’ll need:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
 </button>
 <div id="no-computer" class="usa-accordion-content">
-If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386</a> and giving it to your Personnel Office.
+If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386</a> and giving it to your Personnel Office.
 <br>
 <br>
 You’re only allowed to use a paper form to make changes to your SGLI coverage if: 
 
 <ul>
   <li>You don’t have access to a computer, <b>or</b></li>
-  <li>You’re only eligible for part-time coverage. You may only be eligible for part-time coverage if you’re a Guard or Reserve member and you aren’t assigned to a unit--or you’re scheduled to drill fewer than 12 times per year.
+  <li>You’re only eligible for part-time coverage. You may only be eligible for part-time coverage if you’re a National Guard or Reserve member and you aren’t assigned to a unit--or you’re scheduled to drill fewer than 12 times per year.
 </li>
 </ul>  
 
