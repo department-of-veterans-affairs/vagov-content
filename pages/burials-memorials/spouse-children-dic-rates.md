@@ -38,8 +38,7 @@ You may qualify for additional payments if you’re the surviving spouse of a Ve
 
 - Was married to you, the surviving spouse, for those same 8 years. 
 
-Additional amount available: **$280.09**
-
+Additional amount available: **$280.09**</br>
 Relevant law: 38 U.S.C. 1311(a)(2) 
 
 #### Benefits for spouse needing Aid and Attendance (A&A)
@@ -80,7 +79,7 @@ In this example, the surviving spouse has 2 children, and is the survivor of a V
 
 | **Rates** | **Amounts** |
 |---|---:|
-| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>286</br>286</br>+ 246</br>$1,972 |
+| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>$286</br>$286</br>+ $246</br>$1,972 |
 
 ## If the Veteran’s death was before January 1, 1993
 
@@ -263,8 +262,8 @@ These two examples show how the rates may differ.
 
 **The surviving spouse was married to a Veteran whose pay grade was E-1, and has two children.**
 
-Basic rate for spouse: $1,154
-Child 1: $286
+Basic rate for spouse: $1,154</br>
+Child 1: $286</br>
 Child 2: $286
 
 The Veteran was rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): $246
@@ -275,11 +274,11 @@ The Veteran was rated totally disabled for 8 continuous years before death, and 
 
 **The surviving spouse was married to a Veteran whose pay grade was O-6, and has two children.**
 
-Basic rate for spouse: $1,771
-Child 1: $286
+Basic rate for spouse: $1,771</br>
+Child 1: $286</br>
 Child 2: $286
 
-The Veteran was not rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): 0
+The Veteran was *not* rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): 0
 
 **Total: $2,343**
 
