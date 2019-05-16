@@ -7,7 +7,7 @@ display_title: Family Servicemembers’ Group (FSGLI)
 description: Use the SGLI Online Enrollment System (SOES) to sign up for, view, or make changes to your Servicemembers’ Group Life Insurance (SGLI) coverage.
 keywords: SOES, sgli online enrollment system
 concurrence: 
-order: 2
+order: 8
 relatedlinks:
   - heading: More information about your benefits
     links:
@@ -17,8 +17,6 @@ relatedlinks:
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for Disabled and Terminally Ill Policyholders
       description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
-aliases:
-  - /life-insurance/options-and-eligibility/fsgli/
 ---
 
 <div class="va-introtext">
@@ -74,7 +72,7 @@ To use SOES, you’ll need a:
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> 
   Use your CAC or DS Logon to sign in to SOES.</li>
     <li class="process-step list-four"><h4>View or make changes to your SGLI coverage</h4> 
- View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view your changes. <br>
+ View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view your changes. If you've made an SGLI coverage change your spouse is required to know about, they will receive a letter in the mail.<br> <br>
       <b>Note:</b> Any pending (effective in the future) changes will be noted on your SOES home screen. </li>
 </ol>
 
