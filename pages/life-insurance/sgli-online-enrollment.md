@@ -85,7 +85,7 @@ To use SOES, you’ll need a:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
 </button>
 <div id="no-computer" class="usa-accordion-content">
-If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386</a> and giving it to your Personnel Office.
+If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
 <br>
 <br>
 You’re only allowed to use a paper form to make changes to your SGLI coverage if: 
