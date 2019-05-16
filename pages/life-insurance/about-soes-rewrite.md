@@ -172,6 +172,19 @@ Philadelphia, PA 19176<br>
 </div>
 </li>
 
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="transfer">Will SOES transfer my SGLI beneficiaries and coverage amounts to my new VGLI policy?
+</button>
+<div id="transfer" class="usa-accordion-content">
+
+No. SGLI coverage amounts aren’t automatically transferred to your VGLI policy when you separate from service. Your beneficiary designations transfer for <b>only 60 days</b> after your VGLI coverage starts. Once your VGLI coverage starts, you’ll need to add a beneficiary to your policy. 
+ 
+There are some rare situations with legally determined  time frames (e.g. if a separating service member is incompetent) that allow the SGLI beneficiary listed in SOES to be the VGLI designation of record.
+
+</div>
+</li>
+
 
 
 
