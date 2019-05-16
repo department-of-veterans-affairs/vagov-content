@@ -1,5 +1,5 @@
 ---
-title: Apply for increased disability benefits
+title: Apply For Increased Disability Benefits
 heading: Apply for increased disability benefits
 display_title: File for increased disability
 entryname: 526EZ-claims-increase
