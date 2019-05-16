@@ -115,7 +115,7 @@ No. If you’re a beneficiary and want to make an SGLI benefits claim, please co
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When will changes I’ve made in SOES be effective? 
 <div id="changes-effective" class="usa-accordion-content">
 
-Changes to these parts of your SGLI coverage are effective as soon as you make the change in SOES:
+Changes made in SOES to these parts of your SGLI coverage are effective immediately:
 
 <ul>
   <li>Beneficiaries</li>
@@ -123,8 +123,7 @@ Changes to these parts of your SGLI coverage are effective as soon as you make t
   <li>Restorations of coverage</li>
 </ul>  
 
-Changes to these parts of your SGLI coverage are effective on the first day of the month after you make the change (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
-
+Changes made in SOES to these parts of your SGLI coverage are effective the following month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 
 <ul>
   <li>Reductions to coverage amounts</li>
