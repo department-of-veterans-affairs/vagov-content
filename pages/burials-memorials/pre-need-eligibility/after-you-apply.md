@@ -82,6 +82,10 @@ If you're a Veteran, your surviving spouse or other family members may also qual
 
 Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
 
+## What if I change my mind and don't want to be buried in a VA national cemetery?
+
+Your family members can make arrangements for your burial at a private cemetery even if we've already sent you a pre-need decision letter. There's no need to contact VA about this change of plans. 
+
 ## What happens if VA decides I don't qualify for burial in a VA national cemetery?
 
 We'll send you a denial decision letter explaining the reasons or basis of our denial.
