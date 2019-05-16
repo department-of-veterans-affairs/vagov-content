@@ -41,7 +41,7 @@ You can apply to find out in advance if you can be buried in a VA national cemet
 - The spouse or dependent child of a service member or Veteran, even if the service member or Veteran has already passed away, **or**
 - In some cases, the adult dependent child of a service member or Veteran (if you aren’t married)
 
-We base our decision of whether or not you qualify for burial in a VA national cemetery on your service history—or the service history of the Veteran or service member who's sponsoring your application for burial as a spouse, surviving spouse, or unmarried adult child.
+We base our decision of whether or not you qualify for burial in a VA national cemetery on your service history—or the service history of the Veteran or service member who's sponsoring your application for burial as a spouse, surviving spouse, or unmarried adult child.<br>
 [Get more details about eligibility](/burials-memorials/eligibility/)
 
 </li>
@@ -95,9 +95,13 @@ Your (or your sponsor's):
 
 ### More information needed for certain applicants
 
-- **If you’re applying as a spouse, surviving spouse, or unmarried adult child,** you’ll also need your personal information, including your Social Security number.
-- **If you're applying on behalf of someone else,** you'll also need supporting documents showing you have the authority to apply for that person.
-- **If you're applying for an unmarried adult child of a Veteran or service member,** you'll also need to provide supporting documents with information about the child's disability.
+**If you’re applying as a spouse, surviving spouse, or unmarried adult child,** you’ll also need your personal information, including your Social Security number.
+
+**If you're applying on behalf of someone else,** you’ll also need supporting documents showing you have the authority to apply for that person. You'll need to fill out one of these forms:
+- [Appointment of Veterans Service Organization as Claimant's Representative (VA Form 21-22)](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf), **or**
+- [Appointment of Individual as Claimant's Representative (VA Form 21-22a)](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
+
+**If you're applying for an unmarried adult child of a Veteran or service member,** you'll also need to provide supporting documents with information about the child's disability.
 
 </div>
 
