@@ -46,10 +46,10 @@ SOES is an online portal that lets you manage your SGLI coverage. In SOES, you c
 - Coast Guard (as of October 1, 2018)
 - NOAA (as of October 1, 2018)
 
-Your service will provide you with information on when to use SOES.
+Your service provides you with information on when to use SOES.
 
 #### You can't use SOES if you are:
-- A public health service member
+- A Public Health service member
 - A Reserve or National Guard member with part-time SGLI coverage
 <br>
 
@@ -57,7 +57,7 @@ If you don't have access to SOES, you can make changes to your SGLI coverage by 
 
 
  
-## How to Use SOES
+## How to use SOES
  
 To use SOES, you’ll need a:
  
@@ -72,7 +72,7 @@ To use SOES, you’ll need a:
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> 
   Use your CAC or DS Logon to sign in to SOES.</li>
     <li class="process-step list-four"><h4>View or make changes to your SGLI coverage</h4> 
- View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view your changes. If you've made an SGLI coverage change your spouse is required to know about, they will receive a letter in the mail.<br> <br>
+ View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view your changes. If you've made a change your spouse is required to know about, they will receive a letter in the mail.<br> <br>
       <b>Note:</b> Any pending (effective in the future) changes will be noted on your SOES home screen. </li>
 </ol>
 
@@ -86,7 +86,7 @@ To use SOES, you’ll need a:
 If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
 <br>
 <br>
-You’re only allowed to use a paper form to make changes to your SGLI coverage if: 
+You can only use a paper form to make changes to your SGLI coverage if: 
 
 <ul>
   <li>You don’t have access to a computer, <b>or</b></li>
@@ -122,7 +122,7 @@ Changes made in SOES to these parts of your SGLI coverage are effective immediat
   <li>Restorations of coverage</li>
 </ul>  
 
-Changes made in SOES to these parts of your SGLI coverage are effective the following month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
+Changes made in SOES to these parts of your SGLI coverage are effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 
 <ul>
   <li>Reductions to coverage amounts</li>
@@ -138,7 +138,7 @@ Changes made in SOES to these parts of your SGLI coverage are effective the foll
 </button>
 <div id="deployed" class="usa-accordion-content">
 
-No. You are the only person who can make changes to your SGLI coverage or beneficiaries, even if you're currently deployed.
+No. You're the only one who can make changes to your SGLI coverage or beneficiaries--even if you're currently deployed.
 
 </div>
 </li>
