@@ -28,9 +28,6 @@ Use the SGLI Online Enrollment System (SOES) to sign up for or make changes to y
 
 </div>
 
-<div class="feature">
-
-<br>
 
  
 ## What is SOES?
