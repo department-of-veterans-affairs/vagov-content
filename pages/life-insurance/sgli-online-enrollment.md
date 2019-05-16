@@ -24,9 +24,14 @@ aliases:
 <div class="va-introtext">
 
 
-# SGLI Online Enrollment System (SOES)
-
 Use the SGLI Online Enrollment System (SOES) to sign up for or make changes to your Servicemembers’ Group Life Insurance (SGLI) coverage.
+
+</div>
+
+<div class="feature">
+
+<br>
+
  
 ## What is SOES?
  
