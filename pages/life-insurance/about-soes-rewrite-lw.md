@@ -9,11 +9,23 @@ keywords: SOES, sgli online enrollment system
 concurrence: 
 order: 8
 relatedlinks:
-  - heading: More information about your benefits
-    links:
+  - heading: More VA life insurance resources
+    links: 
     - url: /life-insurance/manage-your-policy/
-      title: Access Your Policy Online
-      description: Already have VA life insurance? Access your policy online.
+      title: Access your policy online
+      description: View and manage the details of your VA life insurance policy online. 
+    - url: life-insurance/options-eligibility/vgli/
+      title: Veterans' Group Life Insurance (VGLI)
+      description: You may be able to keep your life insurance coverage after you leave the military for as long as you             continue to pay the premiums. Find out if you qualify—and how to manage your coverage.
+    - url: life-insurance/options-eligibility/fsgli/
+      title: Family Servicemembers' Group Life Insurance (VGLI)
+      description: Are you the spouse or dependent child of a service member who’s covered under Servicemembers’ Group Life         Insurance (SGLI)? If you are, you may qualify for FSGLI. 
+    - url: /claim-or-appeal-status/
+      title: Check your VA claim or appeal status
+      description: Find out how to check the status of a VA claim or appeal online
+    - url: https://benefits.va.gov/INSURANCE/updatebene.asp
+      title: Change your VA life insurance beneficiary
+      description: View and make changes to your VA life insurance beneficiary.
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: Claims for Disabled and Terminally Ill Policyholders
       description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
