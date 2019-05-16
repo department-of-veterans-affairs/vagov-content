@@ -42,7 +42,7 @@ In SOES, you can:
 
 ## Who can use SOES?
  
-You can use SOES if you're a service member in one of these groups:
+### You have access SOES if you're a service member in one of these groups:
 - Army
 - Navy
 - Air Force
@@ -52,8 +52,15 @@ You can use SOES if you're a service member in one of these groups:
 
 
 Your service will provide you with information on when to use SOES.
- 
-<b>Note:</b> If you’re a Public Health service member, you don’t have access to SOES. You should continue to use a paper version of the [SGLI Election and Certificate form (SGLV 8286)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf) to make changes to your SGLI policy. 
+
+<br> 
+
+### You don't have access to SOES if you are:
+- A public health service member
+- A Reserve or National Guard member with part-time SGLI coverage
+<br>
+
+If you don't have access to SOES, you can make changes to your SGLI coverage by using a paper version of the [SGLI Election and Certificate form (SGLV 8286)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf).
 
  
 ## How to Use SOES
@@ -70,8 +77,8 @@ To use SOES, you’ll need:
   Select “Benefits”, then select “Life Insurance SOES - SGLI Online Enrollment System.” </li>
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> 
   Use your CAC or DS Logon to sign in to SOES.</li>
-    <li class="process-step list-four"><h4>View or make changes to your SGLI or FSGLI coverage</h4> 
- View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view the changes you’ve made that are effective immediately. Any pending changes (changes that are effective in the future) will be noted on your home screen. </li>
+    <li class="process-step list-four"><h4>View or make changes to your SGLI coverage</h4> 
+ View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view the changes you’ve made. <b>Note:</b> Any pending (effective in the future) changes will be noted on your home screen. </li>
 </ol>
 
 ## Frequently Asked Questions (FAQs) about SOES
@@ -81,10 +88,10 @@ To use SOES, you’ll need:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
 </button>
 <div id="no-computer" class="usa-accordion-content">
-If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
+If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386</a> and giving it to your Personnel Office.
 <br>
 <br>
-You’re only allowed to use a paper form to make changes to your SGLI or FSGLI coverage if: 
+You’re only allowed to use a paper form to make changes to your SGLI coverage if: 
 - You don’t have access to a computer, <b>or</b>
 - You’re only eligible for part-time coverage. You may only be eligible for part-time coverage if you’re a Guard or Reserve member and you aren’t assigned to a unit--or you’re scheduled to drill fewer than 12 times per year.
 
@@ -127,6 +134,35 @@ Changes to these parts of your SGLI coverage are effective on the first day of t
 <div id="deployed" class="usa-accordion-content">
 
 No. You are the only person who can make changes to your SGLI coverage or beneficiaries, even if you're currently deployed.
+
+</div>
+</li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="vgli">Can I use SOES to sign up for Veterans’ Group Life Insurance (VGLI)?
+</button>
+<div id="vgli" class="usa-accordion-content">
+
+No. You can only use SOES to sign up for and make changes to your SGLI coverage. 
+ 
+You can apply for VGLI online or by mail.
+ 
+#### Online: 
+<a href="https://ssologin.prudential.com/app/giosgli/Login.fcc?TYPE=33554433&REALMOID=06-000eb2bc-e833-1efc-9d9b-348e307ff004&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=giosgli&TARGET=-SM-HTTPS%3a%2f%2fgiosgli%2eprudential%2ecom%2fosgli%2fController%2flogin%3faction%3dreturn">Apply for VGLI online.</a>Apply for VGLI online.
+
+#### By mail:
+
+Fill out a <a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf>VGLI application (form SGLV 8714)</a> and mail it to:
+  
+  <p class="va-address-block">
+OSGLI<br>
+PO BOX 41618<br>
+Philadelphia, PA 19176<br>
+</p>
+  
+Learn more about VGLI. <a href="https://www.va.gov/life-insurance/options-eligibility/vgli/>Learn more about VGLI.</a>
+
 
 </div>
 </li>
