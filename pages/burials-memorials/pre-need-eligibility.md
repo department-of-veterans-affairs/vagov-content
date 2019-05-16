@@ -129,9 +129,6 @@ Please don't send us the originals of your DD214 and other supporting documents 
 
 You can fax your application to us at 855-840-8299.
 
-#### By email
-You can email your application to us at <a href="mailto:eligibility.preneed@va.gov">eligibility.preneed@va.gov</a>.
-
 ## What if I need help filling out my application?
 
 Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
