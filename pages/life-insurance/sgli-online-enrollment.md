@@ -71,7 +71,7 @@ To use SOES, you’ll need:
   <li class="process-step list-three"><h4>Sign in with your CAC or your DS Logon</h4> 
   Use your CAC or DS Logon to sign in to SOES.</li>
     <li class="process-step list-four"><h4>View or make changes to your SGLI or FSGLI coverage</h4> 
- View and manage your policy information and make changes to your life insurance beneficiaries.</li>
+ View and manage your policy information and make changes to your life insurance beneficiaries. Refresh the page to view the changes you’ve made that are effective immediately. Any pending changes (changes that are effective in the future) will be noted on your home screen. </li>
 </ol>
 
 ## Frequently Asked Questions (FAQs) about SOES
@@ -122,11 +122,11 @@ Changes to these parts of your SGLI coverage are effective on the first day of t
 </li>
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">If I’m deployed, can someone else make changes to my SGLI coverage or beneficiaries for me?
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">Can someone else make changes to my SGLI coverage or beneficiaries for me?
 </button>
 <div id="deployed" class="usa-accordion-content">
 
-No. You are the only person who can make changes to your SGLI coverage or beneficiaries.
+No. You are the only person who can make changes to your SGLI coverage or beneficiaries, even if you're currently deployed.
 
 </div>
 </li>
