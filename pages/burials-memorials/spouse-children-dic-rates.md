@@ -259,5 +259,29 @@ Note: Veteran who served as Chairman of the Joint Chiefs of Staff, Chief of Staf
 
 These two examples show how the rates may differ.
 
-| Example | Rates | Amounts |
-|---|---|---|
+**Example 1:**
+
+**The surviving spouse was married to a Veteran whose pay grade was E-1, and has two children.**
+
+Basic rate for spouse: $1,154
+Child 1: $286
+Child 2: $286
+
+The Veteran was rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): $246
+
+**Total: $1,972**
+
+**Example 2:**
+
+**The surviving spouse was married to a Veteran whose pay grade was O-6, and has two children.**
+
+Basic rate for spouse: $1,771
+Child 1: $286
+Child 2: $286
+
+The Veteran was not rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): 0
+
+**Total: $2,343**
+
+
+
