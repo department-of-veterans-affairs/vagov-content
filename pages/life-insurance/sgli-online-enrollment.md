@@ -71,7 +71,7 @@ To use SOES, you’ll need:
 - A Common Access Card (CAC) or DS Logon
 
 <ol class="process">
-  <li class="process-step list-one"><h4><a href="http://www.dmdc.osd.mil/milconnect">Sign in to MilConnect</a></h4><br>
+  <li class="process-step list-one"><h4><a href="http://www.dmdc.osd.mil/milconnect">Sign in to MilConnect</a></h4>
   Sign in to <a href="http://www.dmdc.osd.mil/milconnect">MilConnect</a>. We recommend you use the latest version of Internet Explorer.</li>
   <li class="process-step list-two"><h4>Go to Benefits > Life Insurance SOES - SGLI Online Enrollment System</h4> 
   Select “Benefits”, then select “Life Insurance SOES - SGLI Online Enrollment System.” </li>
