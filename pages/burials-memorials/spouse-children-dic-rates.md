@@ -75,11 +75,11 @@ Additional amount available: **$452.00**
 
 ### Example: How to find your total benefit amount
 
-In this example, the surviving spouse has 2 children, and is the survivor of a Veteran who was covered under the 8-year provision. The monthly rate for the surviving spouse increases from the basic rate of $1,154 to a new monthly rate of $1,972.
+In this example, the surviving spouse has 2 children, and is the survivor of a Veteran who was covered under the 8-year provision. The monthly rate for the surviving spouse increases from the basic rate of $1,319.04 to a new monthly rate of $2,252.67.
 
 | **Rates** | **Amounts** |
 |---|---:|
-| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,154</br>$286</br>$286</br>+ $246</br>$1,972 |
+| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,319.04</br>$326.77</br>$326.77</br>+ $280.09</br>$2,252.67 |
 
 ## If the Veteran’s death was before January 1, 1993
 
@@ -262,25 +262,25 @@ These two examples show how the rates may differ.
 
 **The surviving spouse was married to a Veteran whose pay grade was E-1, and has two children.**
 
-Basic rate for spouse: $1,154</br>
-Child 1: $286</br>
-Child 2: $286
+Basic rate for spouse: $1,319.04</br>
+Child 1: $326.77</br>
+Child 2: $326.77
 
-The Veteran was rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): $246
+The Veteran was rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): $280.09
 
-**Total: $1,972**
+**Total: $2,252.67**
 
 **Example 2:**
 
 **The surviving spouse was married to a Veteran whose pay grade was O-6, and has two children.**
 
-Basic rate for spouse: $1,771</br>
-Child 1: $286</br>
-Child 2: $286
+Basic rate for spouse: $2,024.71</br>
+Child 1: $326.77</br>
+Child 2: $326.77
 
-The Veteran was *not* rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): 0
+The Veteran was *not* rated totally disabled for 8 continuous years before death, and if the surviving spouse was married to the Veteran those same 8 years (also known as the 8-year provision): $0
 
-**Total: $2,343**
+**Total: $2,678.25**
 
 
 
