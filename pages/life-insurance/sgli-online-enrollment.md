@@ -86,6 +86,7 @@ You’re only allowed to use a paper form to make changes to your SGLI or FSGLI 
 - You don’t have access to a computer, <b>or</b>
 - You’re only eligible for part-time coverage. You may only be eligible for part-time coverage if you’re a Guard or Reserve member and you aren’t assigned to a unit--or you’re scheduled to drill fewer than 12 times per year.
 <br>
+<br>
 If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a>. When you have completed this form, give it to your Personnel Office. 
 
 </div>
@@ -113,7 +114,7 @@ Changes to these parts of your SGLI coverage are effective as soon as you make t
 - Beneficiaries
 - Coverage increases
 - Restorations of coverage
-
+<br>
 Changes to these parts of your SGLI coverage are effective on the first day of the month after you make the change (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 - Reductions to coverage amounts
 - Cancellation of coverage 
