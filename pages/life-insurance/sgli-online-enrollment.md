@@ -86,6 +86,37 @@ You’re only allowed to use a paper form to make changes to your SGLI or FSGLI 
 <br>
 If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out a paper version of the [SGLI Election and Certificate form (SGLV 8386)](https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf). When you have completed this form, give it to your Personnel Office. 
 
+</div>
+</li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="beneficiary-claim">Can a beneficiary use SOES to make an SGLI benefits claim?
+</button>
+<div id="beneficiary-claim" class="usa-accordion-content">
+
+No. If you’re a beneficiary and want to make an SGLI benefits claim, please contact the Casualty Office.
+
+
+</div>
+</li>
+
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When will changes I’ve made in SOES be effective? 
+<div id="changes-effective" class="usa-accordion-content">
+
+Changes to these parts of your SGLI coverage are effective as soon as you make the change in SOES:
+
+- Beneficiaries
+- Coverage increases
+- Restorations of coverage
+
+Changes to these parts of your SGLI coverage are effective on the first day of the month after you make the change (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
+- Reductions to coverage amounts
+- Cancellation of coverage 
+
+
 
 </div>
 </li>
