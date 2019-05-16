@@ -30,7 +30,7 @@ Use the SGLI Online Enrollment System (SOES) to sign up for or make changes to y
  
 ## What is SOES?
  
-SOES is an online portal that lets you sign up for or make changes to your SGLI coverage. In SOES, you can:
+SOES is an online portal that lets you manage your SGLI coverage. In SOES, you can:
 - Sign up for SGLI
 - Increase, reduce or cancel SGLI coverage
 - Add or make changes to SGLI beneficiary information
