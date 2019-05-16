@@ -99,7 +99,10 @@ Your (or your sponsor's):
 
 **If you're applying on behalf of someone else,** you’ll also need supporting documents showing you have the authority to apply for that person. You'll need to fill out one of these forms:
 - Appointment of Veterans Service Organization as Claimant's Representative (VA Form 21-22)<br> 
-[Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf), **or**
+[Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf)
+
+**Or**
+
 - Appointment of Individual as Claimant's Representative (VA Form 21-22a)<br>
 [Download VA Form 21-22a](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
 
