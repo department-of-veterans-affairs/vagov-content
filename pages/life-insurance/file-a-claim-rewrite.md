@@ -105,7 +105,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
 </p>
     <br>
     <h5>By fax</h5>
-    Fax your claim to 877-832-4943 (<a href="tel:+18778324943">877-832-4943</a>).
+    Fax your claim to (<a href="tel:+18778324943">877-832-4943</a>).
   </li>
 </ol>
 
@@ -142,7 +142,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
     
 </p>
 <br> <h5>By fax</h5>
-Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
+Fax your claim to (<a href="tel:+18887485822">888-748-5822</a>).
   </li>
  </ol>
   
@@ -170,7 +170,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
 <br>
 <br>
 <div>
-  <strong> If the life insurance beneficiary wants monthly payments instead of one lump sum,</strong> we’ll need more information. Call VA toll-free at 1-800-669-8477 (<a href="tel:+18006698477">1-800-669-8477</a>).
+  <strong> If the life insurance beneficiary wants monthly payments instead of one lump sum,</strong> we’ll need more information. Call VA toll-free at (<a href="tel:+18006698477">1-800-669-8477</a>).
 </div>
 
  
@@ -211,7 +211,7 @@ Fax your claim to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
        </p>
         <br>
        <h5>By fax</h5>
-  Fax your documents to 888-748-5822 (<a href="tel:+18887485822">888-748-5822</a>).
+  Fax your documents to (<a href="tel:+18887485822">888-748-5822</a>).
      </li>
    </ol>
             
