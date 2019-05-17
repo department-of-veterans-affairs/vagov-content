@@ -220,6 +220,7 @@ Philadelphia, PA 19176<br>
 <br>
 <b>or:</b> 
 <br>
+<br>
 - A copy of your DD-214 or NGB22
 
 Once you submit your application, the Office of Servicemembers’ Group Life Insurance (OSGLI) will send you written notice about your application status.
