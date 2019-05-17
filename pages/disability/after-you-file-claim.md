@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: The VA claim process after you file your claim
+title: The VA Claim Process After You File Your Claim
 heading: The VA claim process after you file your claim
 display_title: After you file your claim
 description: Find out what happens in the VA claim process after you file your claim. Learn about the steps in the VA disability claim processing timeline and how long it takes, on average, to get your VA disability rating.
@@ -61,8 +61,8 @@ You don’t need to do anything unless we send you a letter asking for more info
 ### Claim received
 We’ll let you know when we receive your disability claim.
 - **If you file your disability claim online,** you’ll get an on-screen message from us after you submit the form. <br>
-- **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about 1 hour of applying.<br>
-- **If you mail your application,** we’ll send you a letter to let you know we have your claim. You should get this letter about 1 week, plus mailing time, after we receive your claim.
+- **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about one hour of applying.<br>
+- **If you mail your application,** we’ll send you a letter to let you know we have your claim. You should get this letter about one week, plus mailing time, after we receive your claim.
 
 
 </li>
