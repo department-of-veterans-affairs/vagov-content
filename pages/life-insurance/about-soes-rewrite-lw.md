@@ -99,7 +99,7 @@ To use SOES, you’ll need a:
 If you don’t have access to a computer, you can make changes to your SGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
 <br>
 <br>
-You can only use a paper form to make changes to your SGLI coverage if: 
+  <b>You can only use a paper form to make changes to your SGLI coverage if:</b> 
 
 <ul>
   <li>You don’t have access to a computer, <b>or</b></li>
@@ -135,7 +135,7 @@ If you change one of these things about your SGLI coverage, the change is effect
   <li>Restorations of coverage</li>
 </ul>  
 
-If you change one of these things about your SGLI coverage, the change is effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
+If you change one of these things about your SGLI coverage, the change is effective on the first day of the next month (for example, if you cancel SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 
 <ul>
   <li>Reductions to coverage amounts</li>
