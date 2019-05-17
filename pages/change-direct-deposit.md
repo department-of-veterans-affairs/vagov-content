@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: level2-index
 title: Change Your VA Direct Deposit Information
 heading: Change your VA direct deposit information
-display_title: Change VA direct deposit information
+display_title: Change your VA direct deposit information
 description: Change VA direct deposit information for your VA disability compensation, pension, or education benefits online. Sign in or register for a Premium account to update your information. 
 keywords: va direct deposit, change va direct deposit
 lastupdate:     
