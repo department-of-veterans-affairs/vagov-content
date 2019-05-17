@@ -200,9 +200,9 @@ There are some rare situations with legally determined  time frames (e.g. if a s
 </li>
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">Can I use SOES to apply for an SGLI Disability Extension?
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="sgli-extension">Can I use SOES to apply for an SGLI Disability Extension?
 </button>
-<div id="deployed" class="usa-accordion-content">
+<div id="sgli-extension" class="usa-accordion-content">
 
 No. If you're totally disabled at separation and you think you may be eligible for an SGLI disability extension, you can fill out an <a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf">SGLI Disability Extension application (form SGLV 8715)</a> and mail it to: 
 
