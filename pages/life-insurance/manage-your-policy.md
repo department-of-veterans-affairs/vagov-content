@@ -30,5 +30,5 @@ If you have a Veterans’ Group Life Insurance (VGLI) policy with a VGLI control
 <a href="https://giosgli.prudential.com/osgli/web/OSGLIMenu.html" data-popup>Find your policy through Prudential Insurance Company of America</a>.
 
 <br>
-The SGLI Online Enrollment System (SOES) is a tool that lets you manage your SGLI policy online. If you want to sign up for SGLI, use SOES. If you already have SGLI coverage, use SOES to view and make changes to your policy. <br>
+The SGLI Online Enrollment System (SOES) is a tool that lets you manage your SGLI policy online. You can use SOES to sign up for SGLI. If you already have SGLI coverage, use SOES to view and make changes to your policy. <br>
 <a href="https://www.va.gov/life-insurance/about-soes/" data-popup>Find out more about SOES.</a>
