@@ -197,6 +197,33 @@ There are some rare situations with legally determined  time frames (e.g. if a s
 </div>
 </li>
 
+</li>
+<ul class="usa-accordion" aria-multiselectable="true">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">Can I use SOES to apply for an SGLI Disability Extension?
+</button>
+<div id="deployed" class="usa-accordion-content">
+
+No. If you're totally disabled at separation and you think you may be eligible for an SGLI disability extension, you can fill out an SGLI Disability Extension application (form SGLV 8715) and mail it to: 
+
+  <p class="va-address-block">
+OSGLI<br>
+PO BOX 41618<br>
+Philadelphia, PA 19176<br>
+</p>
+
+<br>
+
+#### You must include these documents with your SGLI Disability Extension application: 
+- A copy of your most recent separation orders, <b>and,</b>
+- A copy of your most recent Leave and Earnings Statement (LES), <b>or</b> <br>
+- A copy of your DD-214 or NGB22
+
+Once you submit your application, the Office of Servicemembers’ Group Life Insurance (OSGLI) will send you written notice about your application's status.
+
+</div>
+</li>
+
 
 
 
