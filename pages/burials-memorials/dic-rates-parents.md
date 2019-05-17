@@ -49,4 +49,27 @@ Your new monthly rate would be **$376.59**.
 | $1353</br>-1300</br>53</br></br>53</br>x.03</br>1.59</br></br>$375</br>+1.59</br>$376.59 | Your income</br>Minus prior row's limit</br>Difference</br></br>Difference</br>Times the decrement</br>Amount of extra monthly income</br></br>Your beginning monthly rate</br>Add your extra monthly income</br>Your new monthly rate |
 |--:|--|
  
+#### Chart 1
+
+**For a sole surviving parent not remarried, or remarried and living with the new spouse**
+
+Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353** to this monthly rate.
+
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
+| $800 |	$652	| None |
+| 900	| 644	| .08 |
+| 1,000	| 636	| .08 |
+| 1,100	| 628	| .08 |
+| 1,200	| 620	| .08 |
+| 1,300	| 612	| .08 |
+| 1,400	| 604	| .08 |
+| 1,500	| 596	| .08 |
+| 1,600	| 588	| .08 |
+| 1,700	| 580	| .08 |
+| 1,800	| 572	| .08 |
+| 1,900	| 564	| .08 |
+| 2,000	| 556	| .08 |
+| 2,100	| 548	| .08 |
+| 2,200	| 540	| .08 |
 
