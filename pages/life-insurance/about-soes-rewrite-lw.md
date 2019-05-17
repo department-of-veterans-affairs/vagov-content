@@ -212,7 +212,7 @@ OSGLI<br>
 PO BOX 41618<br>
 Philadelphia, PA 19176<br>
 </p>
-
+<br>
 <b>You must include these documents with your SGLI Disability Extension application:</b> 
 - A copy of your most recent separation orders <b>and,</b>
 - A copy of your most recent Leave and Earnings Statement (LES)
