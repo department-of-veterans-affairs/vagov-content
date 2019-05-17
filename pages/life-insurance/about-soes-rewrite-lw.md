@@ -212,10 +212,12 @@ PO BOX 41618<br>
 Philadelphia, PA 19176<br>
 </p>
 
-##### You must include these documents with your SGLI Disability Extension application: 
+<b>You must include these documents with your SGLI Disability Extension application:</b> 
 - A copy of your most recent separation orders <b>and,</b>
-- A copy of your most recent Leave and Earnings Statement (LES), <b>or</b> 
-<br> <br>
+- A copy of your most recent Leave and Earnings Statement (LES)
+<br>
+<b>or</b> 
+<br>
 - A copy of your DD-214 or NGB22
 
 Once you submit your application, the Office of Servicemembers’ Group Life Insurance (OSGLI) will send you written notice about your application status.
