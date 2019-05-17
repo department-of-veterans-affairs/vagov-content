@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: SGLI Online Enrollment System (SOES)
 heading: SGLI Online Enrollment System (SOES)
-display_title: Family Servicemembers’ Group (FSGLI)
+display_title: SGLI Online Enrollment System (SOES)
 description: Use the SGLI Online Enrollment System (SOES) to sign up for, view, or make changes to your Servicemembers’ Group Life Insurance (SGLI) coverage.
 keywords: SOES, sgli online enrollment system
 concurrence: 
@@ -95,7 +95,7 @@ To use SOES, you’ll need a:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
 </button>
 <div id="no-computer" class="usa-accordion-content">
-If you don’t have access to a computer, you can make changes to your SGLI or FSGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
+If you don’t have access to a computer, you can make changes to your SGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
 <br>
 <br>
 You can only use a paper form to make changes to your SGLI coverage if: 
