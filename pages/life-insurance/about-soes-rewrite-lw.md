@@ -218,8 +218,7 @@ Philadelphia, PA 19176<br>
 - A copy of your most recent Leave and Earnings Statement (LES)
 <br>
 <br>
-<b>or</b> 
-<br>
+<b>or:</b> 
 <br>
 - A copy of your DD-214 or NGB22
 
