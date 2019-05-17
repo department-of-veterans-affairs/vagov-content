@@ -67,4 +67,4 @@ This depends on the illness or injury you're claiming as a disability. It can ta
 
 ## How do I find and submit a DBQ?
 
-[Find VA DBQ forms and get instructions for submitting your form to us](/disability/about-dbqs/dbq-forms/)
+[Find VA DBQ forms and get instructions for submitting your form to us](/disability/dbq-questionnaires/forms/)
