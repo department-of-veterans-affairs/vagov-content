@@ -8,6 +8,27 @@ description:
 concurrence: 
 spoke: Additional resources
 order: 3 
+relatedlinks:
+  - heading: More help for survivors and dependents of Veterans
+    links:
+    - url: /burials-memorials/dependency-indemnity-compensation/
+      title: Compensation for surviving spouse and dependents (DIC)
+      description: Learn more about the overall VA Dependency and Indemnity Compensation (VA DIC) program, and whether you qualify for benefits.
+    - url: /pension/survivors-pension/
+      title: VA Survivors Pension
+      description: Learn about monthly pensions for surviving spouses and dependent children of wartime Veterans. To qualify, you’ll need to meet certain income and net worth limits.
+    - url: /pension/survivors-pension-rates/
+      title: VA Survivors Pension benefit rates
+      description: Find out what the current VA Survivors Pension benefit payment rates are.
+    - url: /education/types-of-education-benefits/
+      title: Compare all Veterans education benefits 
+      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
+    - url: /education/other-va-education-benefits/veap/
+      title: Veterans’ Educational Assistance Program (VEAP)
+      description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
+    - url: /gibill/apply.asp
+      title: Apply for VA education benefits
+      description: You can easily apply for VA education benefits online, by mail, or in person.
 ---
 
 <div class="va-introtext">
@@ -283,3 +304,39 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 7,100	| 13	| .08 |
 | 7,199	| 5.08	| .08 |
 | 7,200 to 20,692	| 5	| None |
+
+### Historic DIC for surviving parent rates
+
+| [2017](https://benefits.va.gov/PENSION/rates_parents_DIC_pen17.asp) | [2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) | [2014](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) |
+|---|---|---|
+
+### [How to Use Your Benefits](/education/about-gi-bill-benefits/how-to-use-benefits/)
+
+### Can I change my education benefits?
+In some cases, yes. Call <a href="tel:+8884424551">888-442-4551</a>888-442-4552, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+
+### [Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+
+Find out if your school participates in the Yellow Ribbon program, which can help pay tuition costs that the Post-9/11 GI Bill doesn’t cover.
+
+### [Tuition assistance top-up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
+
+If your college tuition costs more than what’s covered by your education benefits program, find out if you can get more money to cover tuition costs.
+
+### [Tutoring assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)
+
+If you’re using VA educational benefits and you're struggling with the coursework, find out if you can get help paying for a tutor.
+
+### Historic Post-9/11 GI Bill rates
+
+- [Rates effective August 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
+- [Rates effective August 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080117.asp)
+- [Rates effective August 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080116.asp)
+- [Rates effective August 1, 2015](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080115.asp)
+- [Rates effective August 1, 2014](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080114.asp)
+- [Rates effective August 1, 2013](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080113.asp)
+- [Rates effective August 1, 2012](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080112.asp)
+- [For the 2011 - 2012 academic year the Post-9/11 GI Bill pays the full tuition and fees for all public school in-state students. Learn more.](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080111.asp)
+- [2010-2011 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2010.asp)
+- [2009-2010 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2009.asp)
+- [2008-2009 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2008.asp)
