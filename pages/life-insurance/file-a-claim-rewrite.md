@@ -78,7 +78,7 @@ If you want to file an SGLI claim for a Reservist or National Guard member or a 
   <br> 
   <br>
     <h5>By phone</h5> 
-    Call 202-736-4302 (<a href="tel:+12027364302">202-736-4302</a>).
+    Call (<a href="tel:+12027364302">202-736-4302</a>).
 <br>
     <br>
     <h5>By email</h5>
