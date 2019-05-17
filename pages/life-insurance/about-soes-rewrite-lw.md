@@ -18,7 +18,7 @@ relatedlinks:
       title: Veterans' Group Life Insurance (VGLI)
       description: You may be able to keep your life insurance coverage after you leave the military for as long as you             continue to pay the premiums. Find out if you qualify—and how to manage your coverage.
     - url: life-insurance/options-eligibility/fsgli/
-      title: Family Servicemembers' Group Life Insurance (VGLI)
+      title: Family Servicemembers' Group Life Insurance (FSGLI)
       description: Are you the spouse or dependent child of a service member who’s covered under Servicemembers’ Group Life         Insurance (SGLI)? If you are, you may qualify for FSGLI. 
     - url: /claim-or-appeal-status/
       title: Check your VA claim or appeal status
