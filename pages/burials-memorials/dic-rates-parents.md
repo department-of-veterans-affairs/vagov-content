@@ -47,6 +47,6 @@ Then add that amount to your beginning monthly rate. **$375 + 1.59 = $376.39**.
 Your new monthly rate would be **$376.59**.
 
 | $1353</br>-1300</br>53</br></br>53</br>x.03</br>1.59</br></br>$375</br>+1.59</br>$376.59 | Your income</br>Minus prior row's limit</br>Difference</br></br>Difference</br>Times the decrement</br>Amount of extra monthly income</br></br>Your beginning monthly rate</br>Add your extra monthly income</br>Your new monthly rate |
-|--|--|
+|--:|--|
  
 
