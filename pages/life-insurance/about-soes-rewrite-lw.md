@@ -73,7 +73,7 @@ If you don't have access to SOES, you can make changes to your SGLI coverage by 
  
 To use SOES, you’ll need a:
  
-- Computer that can connect to the Internet
+- Computer that connects to the Internet
 - Common Access Card (CAC) or DS Logon
 
 <ol class="process">
@@ -126,7 +126,7 @@ No. If you’re a beneficiary and want to make an SGLI benefits claim, please co
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When do changes I’ve made in SOES become effective? 
 <div id="changes-effective" class="usa-accordion-content">
 
-Changes made in SOES to these parts of your SGLI coverage are effective immediately:
+If you change one of these things about your SGLI coverage, the change is effective immediately: 
 
 <ul>
   <li>Beneficiaries</li>
@@ -134,7 +134,7 @@ Changes made in SOES to these parts of your SGLI coverage are effective immediat
   <li>Restorations of coverage</li>
 </ul>  
 
-Changes made in SOES to these parts of your SGLI coverage are effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
+If you change of these things about your SGLI coverage, the change is effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 
 <ul>
   <li>Reductions to coverage amounts</li>
