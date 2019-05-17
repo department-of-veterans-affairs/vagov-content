@@ -219,10 +219,10 @@ Philadelphia, PA 19176<br>
   <li>A copy of your most recent separation orders <b>and,</b></li>
   <li>A copy of your most recent Leave and Earnings Statement (LES)</li>
 </ul> 
-<br>
+
 <br>
 <b>or:</b> 
-<br>
+
 <br>
 <ul>
   <li>A copy of your DD-214 or NGB22</li>
