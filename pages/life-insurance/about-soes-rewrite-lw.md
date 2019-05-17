@@ -204,7 +204,7 @@ There are some rare situations with legally determined  time frames (e.g. if a s
 </button>
 <div id="deployed" class="usa-accordion-content">
 
-No. If you're totally disabled at separation and you think you may be eligible for an SGLI disability extension, you can fill out an SGLI Disability Extension application (form SGLV 8715) and mail it to: 
+No. If you're totally disabled at separation and you think you may be eligible for an SGLI disability extension, you can fill out an <a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf">SGLI Disability Extension application (form SGLV 8715)</a> and mail it to: 
 
   <p class="va-address-block">
 OSGLI<br>
