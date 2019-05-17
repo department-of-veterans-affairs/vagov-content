@@ -221,6 +221,12 @@ Philadelphia, PA 19176<br>
 
 Once you submit your application, the Office of Servicemembers’ Group Life Insurance (OSGLI) will send you written notice about your application's status.
 
+<br>
+
+<a href="https://www.benefits.va.gov/insurance/sglidisabled.asp">Learn more about applying for an SGLI Disability Extension</a>
+
+
+
 </div>
 </li>
 
