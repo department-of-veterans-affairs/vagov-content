@@ -95,6 +95,7 @@ To use SOES, you’ll need a:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="no-computer">What if I don't have access to a computer?
 </button>
 <div id="no-computer" class="usa-accordion-content">
+<br>
 If you don’t have access to a computer, you can make changes to your SGLI coverage by filling out an <a href="https://benefits.va.gov/INSURANCE/forms/SGLV_8286_ed2013-04.pdf">SGLI Election and Certificate form (SGLV 8386)</a> and giving it to your Personnel Office.
 <br>
 <br>
@@ -114,7 +115,7 @@ You can only use a paper form to make changes to your SGLI coverage if:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="beneficiary-claim">Can a beneficiary use SOES to make an SGLI benefits claim?
 </button>
 <div id="beneficiary-claim" class="usa-accordion-content">
-
+<br>
 No. If you’re a beneficiary and want to make an SGLI benefits claim, please contact the Casualty Office.
 
 
@@ -125,7 +126,7 @@ No. If you’re a beneficiary and want to make an SGLI benefits claim, please co
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="changes-effective">When do changes I’ve made in SOES become effective? 
 <div id="changes-effective" class="usa-accordion-content">
-
+<br>
 If you change one of these things about your SGLI coverage, the change is effective immediately: 
 
 <ul>
@@ -149,7 +150,7 @@ If you change one of these things about your SGLI coverage, the change is effect
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="deployed">Can someone else make changes to my SGLI coverage or beneficiaries for me?
 </button>
 <div id="deployed" class="usa-accordion-content">
-
+<br>
 No. You're the only one who can make changes to your SGLI coverage or beneficiaries--even if you're currently deployed.
 
 </div>
@@ -160,7 +161,7 @@ No. You're the only one who can make changes to your SGLI coverage or beneficiar
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="vgli">Can I use SOES to sign up for Veterans’ Group Life Insurance (VGLI)?
 </button>
 <div id="vgli" class="usa-accordion-content">
-
+<br>
 No. You can only use SOES to sign up for and make changes to your SGLI coverage. 
  
 You can apply for VGLI online or by mail.
@@ -189,7 +190,7 @@ Philadelphia, PA 19176<br>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="transfer">Will SOES transfer my SGLI beneficiaries and coverage amounts to my new VGLI policy?
 </button>
 <div id="transfer" class="usa-accordion-content">
-
+<br>
 No. SGLI coverage amounts aren’t automatically transferred to your VGLI policy when you separate from service. Your beneficiary designations transfer for <b>only 60 days</b> after your VGLI coverage starts. Once your VGLI coverage starts, you’ll need to add a beneficiary to your policy. 
  
 There are some rare situations with legally determined  time frames (e.g. if a separating service member is incompetent) that allow the SGLI beneficiary listed in SOES to be the VGLI designation of record.
@@ -203,7 +204,7 @@ There are some rare situations with legally determined  time frames (e.g. if a s
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="sgli-extension">Can I use SOES to apply for an SGLI Disability Extension?
 </button>
 <div id="sgli-extension" class="usa-accordion-content">
-
+<br>
 No. If you're totally disabled at separation and you think you may be eligible for an SGLI disability extension, you can fill out an <a href="https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf">SGLI Disability Extension application (form SGLV 8715)</a> and mail it to: 
 
   <p class="va-address-block">
@@ -216,7 +217,9 @@ Philadelphia, PA 19176<br>
 - A copy of your most recent separation orders <b>and,</b>
 - A copy of your most recent Leave and Earnings Statement (LES)
 <br>
+<br>
 <b>or</b> 
+<br>
 <br>
 - A copy of your DD-214 or NGB22
 
