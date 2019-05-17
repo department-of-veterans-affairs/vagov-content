@@ -37,7 +37,7 @@ View current Veterans disability compensation rates for surviving parents of Vet
 
 </div>
 
-[Learn more about the Dependency and Indemnity compensation (DIC) benefit](burials-memorials/dependency-indemnity-compensation/)
+[Learn more about the Dependency and Indemnity compensation (DIC) benefit](/burials-memorials/dependency-indemnity-compensation/)
 
 On this page, you’ll learn the rates for three types of surviving parents. You can find your situation in the list of questions below. Answer the question yes or no, and then you can go to the right chart to find your benefit.
 
