@@ -134,7 +134,7 @@ If you change one of these things about your SGLI coverage, the change is effect
   <li>Restorations of coverage</li>
 </ul>  
 
-If you change of these things about your SGLI coverage, the change is effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
+If you change one of these things about your SGLI coverage, the change is effective on the first day of the next month (for example, if you cancelled SGLI coverage on April 15, 2019, the change is effective on May 1, 2019): 
 
 <ul>
   <li>Reductions to coverage amounts</li>
