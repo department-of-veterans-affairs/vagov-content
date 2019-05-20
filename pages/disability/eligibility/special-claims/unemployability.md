@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Individual Unemployability (Veterans who can't work due to a disability)
+title: VA Individual Unemployability (Veterans Who Can't Work Due To A Disability)
 heading: VA Individual Unemployability (Veterans who can't work due to a disability)
 display_title: Unemployability
 description: Find out how to file for VA Individual Unemployability compensation if you're an unemployed Veteran who can't work due to a service-connected disability. With this benefit, you may be able to get disability compensation or benefits at the same level as a Veteran who has a 100% disability rating.
@@ -54,9 +54,9 @@ You’ll need to file a claim for disability compensation. When you file, you’
 When you file a disability claim, you'll also need to fill out these additional forms for Individual Unemployability benefits:
 
 - A Veteran’s Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-[Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/vba-21-8940-are.pdf)<br>
+[Download VA Form 21-8940 (PDF)](https://www.vba.va.gov/pubs/forms/vba-21-8940-are.pdf)<br>
 **and**<br>
 - A Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192)<br>
-[Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
+[Download VA Form 21-4192 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)
 
 
