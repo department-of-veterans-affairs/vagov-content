@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Health issues related to Camp Lejeune water contamination
+title: Health Issues Related To Camp Lejeune Water Contamination
 heading: Health issues related to Camp Lejeune water contamination
 display_title: Camp Lejeune water contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
@@ -54,7 +54,7 @@ You may be able to get disability benefits if you meet all of the requirements l
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Your military records showing you served at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 while on active duty, or in the National Guard or Reserves, **and**
-- Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
+- Medical records stating that you have 1 or more of the 8 illnesses on the presumptive conditions list (see above)
 
 **You can file a claim in any of these ways:**
 - [File a claim online on VA.gov](/disability/how-to-file-claim/), **or**
@@ -96,8 +96,8 @@ You’ll need to file a claim for disability compensation and provide the eviden
 And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below.
 
 **You must provide evidence of payment during one of these time periods:**
-- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**
-- Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014 and up to 2 years before the date you apply for benefits)
+- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012, and up to 2 years before the date of your application), **or**
+- Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014, and up to 2 years before the date you apply for benefits)
 
 **You may want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b)**<br>
 You'll need to ask your doctor to fill out and sign this form before submitting it to us. We don't require this form, but it can help give us important information to determine your eligibility for benefits.<br>
@@ -136,7 +136,7 @@ Two on-base water wells that were shut down in 1985 had these chemicals:
 
 ## Get more information
 
-[Download a fact sheet about Camp Lejeune-related benefits](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf)<br>
+[Download a fact sheet about Camp Lejeune-related benefits (PDF)](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf)<br>
 [Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/)<br>
 [Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/)
 
