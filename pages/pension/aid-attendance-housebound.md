@@ -51,12 +51,12 @@ You can write to the PMC for your state. <br>
 
 Include this information:
 - Evidence, like a doctor’s report, that shows you need Aid and Attendance or Housebound care, or VA Form 21-2680  (Examination for Housebound Status or Permanent Need for Regular Aid and Attendance), which your doctor can fill out <br>
-[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf)
+[Download VA Form 21-2680 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf)
 - Details about what you normally do during the day and how you get places
 - Details that help show what kind of illness, injury, or mental or physical disability affects your ability to do things, like take a bath, on your own
 
 If you're in a nursing home, you'll also need to fill out a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779). <br>
-[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br>
+[Download VA Form 21-0779 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br>
 
 ### Apply in person
 

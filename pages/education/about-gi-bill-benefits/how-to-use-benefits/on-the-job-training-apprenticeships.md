@@ -91,7 +91,7 @@ You’ll get this percentage of your GI Bill rate until your benefits run out:
 - 55% of the full-time GI Bill rate for the second 6 months of training
 - 35% of the full-time GI Bill rate for the rest of the training period
 
-[Get more information about on-the-job and apprenticeship training programs](https://www.benefits.va.gov/gibill/docs/factsheets/OJT_Factsheet.pdf)
+[Get more information about on-the-job and apprenticeship training programs (PDF)](https://www.benefits.va.gov/gibill/docs/factsheets/OJT_Factsheet.pdf)
 
 </div>
 </div>
