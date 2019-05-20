@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illness linked to service in Southwest Asia
+title: Gulf War Illness Linked To Service In Southwest Asia
 heading: Gulf War Illness linked to service in Southwest Asia
 display_title: Gulf War Illness SW Asia
 description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Southwest Asia (often called "Gulf War Syndrome"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
@@ -33,7 +33,7 @@ You may be able to get disability benefits if you served in the Southwest Asia t
 
 **And you must also have a diagnosis of one or more of these conditions:**
 - Functional gastrointestinal disorders
-- Chronic Fatigue Syndrome
+- Chronic fatigue syndrome
 - Fibromyalgia
 - Other undiagnosed illnesses, including but not limited to cardiovascular disease, muscle and joint pain, and headaches
 
@@ -48,9 +48,9 @@ We consider these illnesses to be presumed disabilities:
 - Burcellosis
 - Campylobacter jejuni
 - Coxiella burnetii (Q fever)
-- Nontyphoid Salmonella
+- Nontyphoid salmonella
 - Shigella
-- West Nile Virus
+- West Nile virus
 
 [Learn more about disabilities that appear within one year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/) <br>
 [Learn more about presumed disabilities](/disability/eligibility/)
