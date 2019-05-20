@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Veterans asbestos exposure
+title: Veterans Asbestos Exposure
 heading: Veterans asbestos exposure
 display_title: Asbestos
 description: Find out if you can get VA disability pay for illnesses related to asbestos exposure. You may have had contact with asbestos if you served in Iraq or other countries in the Middle East and Southeast Asia, or if you worked in certain jobs or settings, like shipyards, construction, or vehicle repair.
