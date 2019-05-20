@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Non-Hodgkin's lymphoma linked to Agent Orange
+title: Non-Hodgkin's Lymphoma Linked To Agent Orange
 heading: Non-Hodgkin's lymphoma linked to Agent Orange
 display_title: Non-Hodgkin's lymphoma
 description: Non-Hodgkin's lymphoma (a type of cancer) can be caused by contact with Agent Orange. If you served in or near Vietnam during the Vietnam War, or in certain related jobs, and you have this cancer, find out if you're eligible for VA disability pay and other benefits.
