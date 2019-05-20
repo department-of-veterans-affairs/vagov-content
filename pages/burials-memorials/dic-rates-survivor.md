@@ -30,28 +30,26 @@ View current Veterans disability compensation rates for surviving spouses and de
 </div>
 
 ### On this page
- - [DIC rates if the Veteran died on or after January 1, 1993](#after-1993)
- - [DIC rates if the Veteran died before January 1, 1993](#before-1993)
- 
+ - [DIC rates for survivors of a Veteran who died on or after January 1, 1993](#after-1993)
+ - [DIC rates for survivors of a Veteran who died before January 1, 1993](#before-1993-) 
  
 <span id="after-1993"></a>
-## If the Veteran died on or after January 1, 1993 
+## DIC rates for survivors of a Veteran who died on or after January 1, 1993 
 **Effective December 1, 2018**
 
-### Basic monthly rate
+### Basic rates for monthly payments
 
-All rates shown in U.S. $ 
-
-| **Your status** | **Basic monthly rate** | 
+All rates in $ U.S. dollars
+| **Your dependent status** | **Basic monthly rate** | 
 |---|---| 
 | Surviving spouse | 1,319.04 |
 | Surviving dependent child of a Veteran who has no surviving spouse | 452.00 |
 
-### Added amounts for surviving spouses
+### Added amounts
 
 As the surviving spouse of a Veteran, you may qualify for more money each month based on certain factors.
 
-### Added amounts based on disability
+#### Added amounts for surviving spouses based on Veteran or spouse disability
 
 All rates shown in U.S. $ 
 
@@ -61,233 +59,138 @@ All rates shown in U.S. $
 | You need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 each month |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 each month |
 
-## Added amounts based on dependent children
+#### Added amounts for surviving spouses with dependent children under 18 years
 
-If you have 1 or more children who are under 18 years old, you may qualify for more added amounts.
-
-All rates shown in U.S. $
-
+All rates in $ U.S. dollars
 | **Benefit program** | **Added amount** |
 |---|---|
 | Transitional benefit | 282.00 each month, for 2 years |
 | DIC apportionment rates | 326.77 each month for each child under 18 years |
 
-#### Benefits for Veteran service-related disability
+<ul class="usa-accordion">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-spouse">How to use these tables to find your monthly payment as a surviving spouse</button>
+<div id="how-to-spouse" class="usa-accordion-content">
 
-If you’re the surviving spouse of a Veteran who had a specific kind of disability before their death, you may qualify for a program called the “8-year provision.” You may be eligible for this program if both of the descriptions below are true for the Veteran.
+Start with the **Basic rates** table. Find the dependent status in the left column that best describes you. Then find the basic monthly rate to the right. Then, look at the **Added amounts** tables. Find each of the descriptions that are true for you and add the corresponding added amount to your basic rate to get your total monthly payment.
 
-**Both of these must be true. The Veteran was:**
-- Receiving, or was eligible to receive, VA disability compensation for a service-connected disability rated totally disabling, including a rating based on individual unemployability, for at least 8 continuous years (with no breaks) before and up to their death, **and**
-- Was married to you, the surviving spouse, for those same 8 years 
+**For example:** If you were the qualified surviving spouse of a Veteran who qualified for the 8-year provision, and you qualified for Aid and Attendance, and you had 2 children under 18 years, you would calculate your rate as below.
 
-Added amount: **$280.09**</br>
-Relevant law: 38 U.S.C. 1311(a)(2) 
+- **Total monthly payment for the first 2 years:** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18 years) + $326.77 (2nd child under 18 years) + $282.00 (transitional benefit) = **$2,771.44**
 
-#### Benefits for spouse needing Aid and Attendance (A&A)
+- **Total monthly payment after 2 years (when transitional benefit stops):** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18 years) + $326.77 (2nd child under 18 years) = **$2,489.44**
+</div>
+</ul>
 
-If you’re the surviving spouse and you need help doing daily activities, you may qualify for the A&A benefit. 
-
-Added amount: **$326.77**</br>
-Relevant law: 38 U.S.C. 1311(c)
-
-#### Benefits for spouse needing housebound compensation
-
-If you’re the surviving spouse and are housebound, you may qualify for this benefit.
-
-Added amount: **$153.08**</br>
-Relevant law: 38 U.S.C. 1311(d)
-
-#### Benefits for spouse with one or more children under age 18
-
-If you have 1 or more children, you may qualify for 2 different additional amounts. 
-
-- **Trasitional benefit**: For any spouse with children under age 18. <br>
-Additional amount available: **$282.00 for 2 years**<br>
-Relevant law: 38 U.S.C. 1311(f)(4)
-
-- **DIC apportionment rates:** Added for each child under age 18. <br>
-Additional amount available: **$326.77 per child**</br>
-Relevant law: 38 U.S.C. 1311(b)
-
-#### Benefits for children without a surviving spouse of a Veteran
-
-If you're the child of a Veteran who had no surviving spouse, you may be eligible to receive your own benefit payments.
-
-Added amount available: **$452.00**
-
-### Example: How to find your total benefit amount
-
-In this example, the surviving spouse has 2 children, and is the survivor of a Veteran who was covered under the 8-year provision. The monthly rate for the surviving spouse increases from the basic rate of $1,319.04 to a new monthly rate of $2,252.67.
-
-| **Rates** | **Amounts** |
-|---|---:|
-| Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,319.04</br>$326.77</br>$326.77</br>+ $280.09</br>$2,252.67 |
+------
 
 <span id="after-1993"></a>
-## DIC rates if the Veteran died before January 1, 1993
+## DIC rates for survivors of a Veteran who died before January 1, 1993 
+**Effective December 1, 2018**
 
-The Dependency and Indemnity Compensation (DIC) benefits paid to survivors of Veterans who died before January 1, 1993, can seem complex. 
+If your Veteran spouse or parent died before January 1, 1993, we'll use a different method to calculate your DIC monthly payments.
 
-### Benefits for surviving spouse, based on the Veteran’s enlisted pay grade
+### Surviving spouse, with or without dependent children
 
-To find your benefit, select the Veteran’s enlisted pay grade. The amount listed is your monthly benefit.
+We'll base your DIC monthly payments on:
+- The Veteran's pay grade, **and**
+- Whether or not the Veteran qualifies for the 8-year provision
+- Whether or not you have dependent children under the age of 18 years
 
-Add **$326.77** for each child under 18.
+**Note:** The Veteran qualifies for the 8-year provision if...
 
-| **Enlisted pay grade** | **Basic monthly payment amount** | **Adjusted monthly payment amount** |
+<ul class="usa-accordion">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="enlisted">Enlisted Veteran pay grade (E-1 to E-9)</button>
+<div id="enlisted" class="usa-accordion-content">
+
+<h5>Basic monthly rates</h5>
+All rates in $ U.S. dollars
+
+| Enlisted pay grade | Monthly payment amount | 
+|---|---|
+| **E-1** | 1,319.04 | 
+| **E-2** | 1,319.04 | 
+| **E-3** | 1,283.11 | 
+| **E-4** | 1,319.04 | 
+| **E-5** | 1,319.04 | 
+| **E-6** | 1,319.04 | 
+| **E-7** | 1,364.64 | 
+| **E-8** | 1,440.64 | 
+| **E-9 regular** | 1,502.51 | 
+| **E-9 special capacity** <br> (Veteran served as Sergeant Major of the Army or Marine Corps, Senior Enlisted Advisor of the Navy, Chief Master Sgt of the Air Force, or Master Chief Petty Officer of the Coast Guard) | 1,621.94 | 
+
+**Note:** If you're the surviving spouse of an Aviation Cadet or other service not covered by this table, you'll receive the DIC rate for enlisted E-3.
+
+<h5>Added or increased amounts</h5>
+All rates in $ U.S. dollars
+
+| Status | Added amount |
 |---|---|---|
-| E-1 | 1,319.04 | Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.|
-| E-2 | 1,319.04 | Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.|
+| **Veteran qualifies for 8-year provision (E-1 through E-7)** | Add 280.09 to basic rate |
+| **Veteran qualifies for 8-year providion (E-8 or E-9)** | Raise basic rate to 1,599.33 |
+| **Surviving spouse has children under 18 years old** | Add 325.77 for each child |
 
+**Note:** The Veteran qualifies for the 8-year provision 
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="warrant-officer">Warrant officer pay grade (W-1 to W-4)</button>
+<div id="warrant-officer" class="usa-accordion-content">
 
-**E-1**
+<h5>Basic rates</h5>
 
-**$1,319.04**
+| Enlisted pay grade | Monthly payment amount | 
+|---|---|
+| **W-1** | 1,392.87 | 
+| **W-2** | 1,448.23 | 
+| **W-3** | 1,490.57 | 
+| **W-4** | 1,577.42 | 
 
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
+<h5>Added or increased amounts</h5>
 
-**E-2**
+| Status | Added amount |
+|---|---|---|
+| **Veteran qualifies for 8-year provision** | Raise basic rate to 1,599.33 |
+| **Surviving spouse has children under 18 years old** | Add 326.77 for each child |
 
-**$1,319.04**
-
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-3**
-
-**$1,283.11**
-
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-Also, the surviving spouse of an Aviation Cadet or other service not covered by this table will get the DIC rate for enlisted E-3 under 34.
-
-**E-4**
-
-**$1,319.04**
-
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-5**
-
-**$1,319.04**
-
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-6**
-
-**$1,319.04**
-
-Note: Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-7**
-
-**$1,364.64**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-8**
-
-**$1,440.64**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-9-Regular**
-
-**$1,502.51**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**E-9-Served in special capacity**
-
-**$1,621.94**
-
-Note: This rate applies to the surviving spouses of Veterans who served as Sergeant Major of the Army or Marine Corps, Senior Enlisted Advisor of the Navy, Chief Master Sgt of the Air Force, or Master Chief Petty Officer of the Coast Guard.
-
-### Benefits for surviving spouse, based on the Veteran’s Warrant Officer pay grade
-
-To find your benefit, select the Veteran’s Warrant Officer pay grade. The amount listed is your monthly benefit. 
-Then add **$326.77** for each child under 18.
-
-**W-1**
-
-**$1,392.87**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**W-2**
-
-**$1,448.23**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**W-3**
-
-**$1,490.57**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**W-4**
-
-**$1,577.42**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="warrant-officer">Officer pay grade (O-1 to O-10)</button>
+<div id="warrant-officer" class="usa-accordion-content">
 
 ### Benefits for surviving spouse, based on the Veteran’s Officer pay grade
 
 To find your benefit, select the Veteran’s Officer pay grade. The amount listed is your monthly benefit. 
 
-Add **$326.77** for each child under 18.
+#### Basic rates
 
-**O-1**
+| **Enlisted pay grade** | **Monthly payment amount** | 
+|---|---|
+| **O-1** | 1,392.87 | 
+| **O-2** | 1,440.64 | 
+| **O-3** | 1,539.42 | 
+| **O-4** | 1,631.69 | 
+| **O-5** | 1,795.63 | 
+| **O-5** | 1,795.63 | 
+| **O-6** | 2,024.71 | 
+| **O-7** | 2,185.36 | 
+| **O-8** | 2,400.33 | 
+| **O-9** | 2,567.51 | 
+| **O-10 regular** | 2,816.11 | 
+| **O-10 special capacity** <br> (Veteran served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army or Air Force, Chief of Naval Operations, or Commandant of the Marine Corps) | 3,022.39 | 
 
-**$1,392.87**
+#### Added or increased amounts
 
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years (also known as the 8-year provision).
+| **Status** | **Added amount** |
+|---|---|---|
+| **Veteran qualifies for 8-year provision (O-1 through O-3)** | Raise basic rate to 1,599.33 |
+| **Surviving spouse has children under 18 years old** | Add 326.77 for each child |
 
-**O-2**
+Note: .
 
-**$1,440.64**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**O-3**
-
-**$1,539.42**
-
-Note: Base rate is **$1,599.33** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.
-
-**O-4**
-
-**$1,631.69**
-
-**O-5**
-
-**$1,795.63**
-
-**O-6**
-
-**$2,024.71**
-
-**O-7**
-
-**$2,185.36**
-
-**O-8**
-
-**$2,400.33**
-
-**O-9**
-
-**$2,567.51**
-
-**O-10-Regular**
-
-**$2,816.11**
-
-**O-10-Served in special capacity**
-
-**$3,022.39**
-
-Note: Veteran who served as Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army or Air Force, Chief of Naval Operations, or Commandant of the Marine Corps.
+</div>
+</li>
+</ul>
 
 ### Examples of how to use these charts
 
@@ -317,45 +220,37 @@ The Veteran was *not* rated totally disabled for 8 continuous years before death
 
 **Total: $2,678.25**
 
-## DIC benefits for children of Veterans
+### Surviving children who are over 18 years of age, when the Veteran's surviving spouse is also eligible for DIC
 
-We base Dependency and Indemnity Compensation (DIC) benefits on the highest pay grade that the Veteran held for 6 months of active duty. We base the rates for children on several factors:
+This payment is in addition to the eligible surviving spouse's compensation. We pay these payments separately to the adult child. 
 
--	The Veteran’s pay grade
--	Whether the surviving spouse was entitled to benefits
--	Whether the child was sharing benefits with other children
+All rates in $ U.S. dollars
 
-The charts below show the current benefit rates.
-
-#### Rates for children of Veterans whose surviving spouse is also eligible for benefits
-
-This chart shows the rates for children of Veterans whose surviving spouse is also entitled to benefits. As mentioned above, the monthly rate for each child under 18 is **$326.77**.
-
-These benefits are additional [[to WHAT]] and are for eligible children over 18.
-
-| Type of child | Rate |
+| Type of child | Monthly payment amount |
 |---|---|
-| School child | $276.84 |
-| Helpless child | $556.93 |
+| Child between the ages of 18 and 23 years who's in a qualified school program | $276.84 |
+| Helpless child over 18 years | $556.93 |
 
-#### Rates for children of Veterans whose surviving spouse is not eligible for benefits
+#### Surviving children when the Veteran doesn't have a surviving spouse who is eligible for DIC
 
-The first column shows the number of children of a surviving Veteran. The middle column shows the amount available if we give it to your family in one lump sum each month. The second column shows the rate for each individual child if we’re dividing it among the surviving children for you.
+We'll base your payment amount on the number of eligible surviving children. In the chart below, the monthly rate for each child shows how much you'll receive each month if we pay each child separately. The total monthly payment shows how much your family will receive if we pay you in one lump sum each month.
 
-| Number of children of the Veteran | Total payable in lump amount | Rate for each child if divided |
+##### Basic monthly rate
+
+| Number of children under age 18 years, or between 18 to 23 years and in a qualified school program | Monthly rate for each child | Total monthly payment |
 |---|---|---|
-| 1	| $556.93	| $556.93 |
-| 2	| $801.19	| $400.60 |
-| 3	| $1,045.47	| $348.49 |
-| 4	| $1,244.15	| $311.04 |
-| 5	| $1,442.83	| $288.57 |
-| 6	| $1,641.51	| $273.59 |
-| 7	| $1,840.19	| $262.88 |
-| 8	| $2,038.87	| $254.86 |
-| 9	| $2,237.55	| $248.62 |
+| 1	| 556.93	| 556.93 |
+| 2	| 400.60 | 801.19 |
+| 3	| 348.49 | 1,045.47 |
+| 4	| 311.04	| 1,244.15 |
+| 5	| 288.57	| 1,442.83 |
+| 6	| 273.59	| 1,641.51 |
+| 7	| 262.88	| 1,840.19 |
+| 8	| 254.86	| 2,038.87 |
+| 9	| 248.62	| 2,237.55 |
 
-\*For each helpless child over 18, add $326.77.</br>
-\*\*For each additional child, add $198.68.
-
-
-
+##### Added amounts
+| Type of child  | Added monthly payment | 
+|---|---|---|
+| Each helpless child over age 18 | 326.77 per child | 
+| Each additional eligible child in a family of 10 or more children | 198.68 per child|
