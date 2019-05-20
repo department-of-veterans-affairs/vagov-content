@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA clothing allowance for Veterans with certain disabilities
+title: VA Clothing Allowance For Veterans With Certain Disabilities
 heading: VA clothing allowance for Veterans with certain disabilities
 display_title: Clothing allowance
 description: Find out if you can get a VA clothing allowance to replace clothing damaged by your prosthetic or orthopedic device or by certain medicines. To get a yearly payment, you'll need to qualify by August 1 of each year. Learn more about rates and how to file a claim.
@@ -52,7 +52,7 @@ You’ll need to file a claim for disability compensation.<br>
 When you file a disability claim, you’ll also need to fill out this additional form:
 
 An Application for Annual Clothing Allowance (VA Form 10-8678)<br>
-[Download VA Form 10-8678](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf)
+[Download VA Form 10-8678 (PDF)](https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf)
 
 Bring it to the prosthetic representative at your local VA medical center.
 
