@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Gulf War Illnesses linked to service in Afghanistan
+title: Gulf War Illnesses Linked To Service In Afghanistan
 heading: Gulf War Illnesses linked to service in Afghanistan
 display_title: Gulf War Illness Afghanistan
 description: Find out if you can get VA disability compensation for illnesses linked to Gulf War service in Afghanistan (often called "Gulf War Illness"). Read the list of Gulf War presumptives and other illnesses we believe are connected to service, and learn how to file your claim.
