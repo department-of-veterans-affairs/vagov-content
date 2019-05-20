@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Ionizing radiation exposure
+title: Ionizing Radiation Exposure
 heading: Ionizing radiation exposure
 display_title: Radiation exposure
 description: Find out if you can get VA disability pay and health care for illnesses linked to ionizing radiation exposure during military service. Illnesses include some cancers. You may have had contact with ionizing radiation if you served in certain roles or locations or were part of nuclear weapons testing.
