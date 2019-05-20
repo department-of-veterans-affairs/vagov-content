@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange exposure while serving outside Vietnam or Korea
+title: Agent Orange Exposure While Serving Outside Vietnam Or Korea
 heading: Agent Orange exposure while serving outside Vietnam or Korea
 display_title: Service outside Vietnam or Korea
 concurrence: incomplete
