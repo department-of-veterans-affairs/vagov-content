@@ -43,7 +43,7 @@ View current Veterans disability compensation rates for surviving spouses and de
 All rates shown in U.S. $ 
 
 | **Your status** | **Basic monthly rate** | 
-|-----|---| 
+|---|---| 
 | Surviving spouse | 1,319.04 |
 | Surviving dependent child of a Veteran who has no surviving spouse | 452.00 |
 
@@ -56,7 +56,7 @@ As the surviving spouse of a Veteran, you may qualify for more money each month 
 All rates shown in U.S. $ 
 
 | **If this is true for you** | **You may qualify for** | **Added amount** |
-|-----|---| --- |
+|---|---|---|
 | <ul><li>Your Veteran spouse had a VA rating of totally disabling for at least the 8 years before their death (without a break), **and**</li><li>You were married to the Veteran for those same 8 years</li> | 8-year provision | 280.09 each month |
 | You need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 each month |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 each month |
