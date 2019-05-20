@@ -48,7 +48,7 @@ You can get paid to work a part-time job while you study.
 ## How do I get these benefits?
 
 You’ll need to apply for the work-study program by filling out an Application for Work-Study Allowance (VA Form 22-8691). <br>
-[Download VA Form 22-8691](https://www.vba.va.gov/pubs/forms/VBA-22-8691-ARE.pdf)
+[Download VA Form 22-8691 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-22-8691-ARE.pdf)
 
 If you have any questions about the program, contact the VA regional processing office that handles your claim. <br>
 [Contact your VA regional processing office](https://www.benefits.va.gov/gibill/regional_processing.asp) <br>

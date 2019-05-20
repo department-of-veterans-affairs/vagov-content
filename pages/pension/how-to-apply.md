@@ -63,7 +63,7 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 
 ### By mail <br>
 Fill out an Application for Pension (VA Form 21P-527EZ). <br>
-[Download VA Form 21P-527EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf)
+[Download VA Form 21P-527EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-527EZ-ARE.pdf)
 
 Mail the completed form to the pension management center (PMC) for your state.<br>
 [Find your PMC](/pension/pension-management-centers/)
@@ -95,7 +95,7 @@ No. Simply starting your VA pension application doesn’t show your intent to fi
 ## How do I submit an intent to file form?
 
 Download, fill out, and submit an Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC (VA Form 21-0966). <br>
-[Download VA Form 21-0966](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf)
+[Download VA Form 21-0966 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0966-ARE.pdf)
 
 Turn in your form in any of these ways:
 

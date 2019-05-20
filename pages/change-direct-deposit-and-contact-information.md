@@ -81,7 +81,7 @@ Yes. You can change your information by mail or phone.
 <h3>By mail</h3>
 
 Fill out a VA Direct Deposit Enrollment (VA Form 24-0296). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296 (PDF)</a>
 
 **Mail the completed form to:**
 

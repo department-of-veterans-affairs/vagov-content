@@ -73,7 +73,7 @@ You’ll need to apply for these benefits as soon as possible after becoming tot
 
 To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). Mail it to the address listed on the form. <br>
 
-[Download VA Form 29-357](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) <br>
+[Download VA Form 29-357 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) <br>
 
 
 
