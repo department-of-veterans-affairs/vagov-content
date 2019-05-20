@@ -57,7 +57,7 @@ All rates shown in U.S. $
 
 | **If this is true for you** | **You may qualify for** | **Added amount** |
 |-----|---| --- |
-| <ul><li>Your Veteran spouse was receiving or eligible to receive VA disability compensation for a service-connected disability rated totally disabling (including a rating based on individual unemployability) for at least 8 continuous years (without a break) before and up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li> | 8-year provision | 280.09 each month |
+| <ul><li>Your Veteran spouse had a VA rating of totally disabling for at least the 8 years before their death (without a break), **and**</li><li>You were married to the Veteran for those same 8 years</li> | 8-year provision | 280.09 each month |
 | You need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 each month |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 each month |
 
@@ -126,27 +126,19 @@ In this example, the surviving spouse has 2 children, and is the survivor of a V
 <span id="after-1993"></a>
 ## DIC rates if the Veteran died before January 1, 1993
 
-The Dependency and Indemnity Compensation (DIC) benefits paid to survivors of Veterans who died before January 1, 1993, can seem complex. We base the rate on the highest pay grade that the Veteran held for 6 months of active duty. We decided rates for children on several factors:
-
--	The Veteran’s pay grade
--	Whether the surviving spouse was entitled to benefits
--	Whether the child was sharing benefits with other children
-
-There are 5 rate tables for this benefit. They include:
-
--	Surviving spouse, enlisted pay grade
--	Surviving spouse, warrant officer pay grade
--	Surviving spouse, officer pay grade
--	Children, with the Veteran’s surviving spouse also due benefits
--	Children, with no surviving spouse of the Veteran
-
-Below you’ll find the rates for each of these groups of survivors and dependents.
+The Dependency and Indemnity Compensation (DIC) benefits paid to survivors of Veterans who died before January 1, 1993, can seem complex. 
 
 ### Benefits for surviving spouse, based on the Veteran’s enlisted pay grade
 
 To find your benefit, select the Veteran’s enlisted pay grade. The amount listed is your monthly benefit.
 
 Add **$326.77** for each child under 18.
+
+| **Enlisted pay grade** | **Basic monthly payment amount** | **Adjusted monthly payment amount** |
+|---|---|---|
+| E-1 | 1,319.04 | Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.|
+| E-2 | 1,319.04 | Add **$280.09** if Veteran was rated totally disabled for 8 continuous years before death, and if you, the surviving spouse, were married to the Veteran those same 8 years.|
+
 
 **E-1**
 
@@ -213,7 +205,7 @@ Note: This rate applies to the surviving spouses of Veterans who served as Serge
 ### Benefits for surviving spouse, based on the Veteran’s Warrant Officer pay grade
 
 To find your benefit, select the Veteran’s Warrant Officer pay grade. The amount listed is your monthly benefit. 
-Add **$326.77** for each child under 18.
+Then add **$326.77** for each child under 18.
 
 **W-1**
 
