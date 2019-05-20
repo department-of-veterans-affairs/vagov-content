@@ -79,8 +79,8 @@ You’ll need to file a claim for disability compensation and submit your eviden
 When you file your claim, you'll need to submit this evidence:
 
 - A medical record that shows you have an Agent Orange‒related illness, **and**
-- A military record that shows your service dates in Vietnam or in or near the Korean demilitarized zone, **and**
-- Evidence that proves exposure to herbicides in a location other than Vietnam or the Korean demilitarized zone
+- A military record that shows your service dates in Vietnam or in or near the Korean Demilitarized Zone, **and**
+- Evidence that proves exposure to herbicides in a location other than Vietnam or the Korean Demilitarized Zone
 
 </div>
 </li>
@@ -102,8 +102,8 @@ When you file your claim, you'll need to submit this evidence:
 - A medical record showing your current disability, **and**
 - A medical record showing a connection between exposure to Agent Orange and the current disability, **and**
 - Evidence that proves either:
-   - Contact with Agent Orange in a location other than Vietnam or the Korean demilitarized zone, **or**
-   - Service in Vietnam or at or near the Korean demilitarized zone during the dates listed below
+   - Contact with Agent Orange in a location other than Vietnam or the Korean Demilitarized Zone, **or**
+   - Service in Vietnam or at or near the Korean Demilitarized Zone during the dates listed below
 
 </div>
 </li>
