@@ -32,7 +32,7 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 - Have at least one day of unexpired GI Bill entitlement, **and**
 - Are accepted into a program by a VA-approved training provider
 
-**Note:** Your VET TEC training won't count against your GI Bill entitlement.
+**Note:** Your VET TEC training won't count against your GI Bill entitlement, and you need only one day of unexpired GI Bill benefits to participate.
 
 <br>
 </div>
@@ -50,13 +50,11 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 -	Tuition for a full-time high-tech training program
 -	Money for housing during your training
-- The program doesn't count against your GI Bill entitlement, and you need only one day of unexpired GI Bill benefits to participate
 
+**If you attend your training program in person,** your housing stipend will be equal to the monthly military Basic Allowance for Housing (BAH) for an E-5 with dependents. This is based on the zip code where you attend your training. 
 
-If you attend your training program in person, your housing stipend will be equal to the monthly military Basic Allowance for Housing (BAH) for an E-5 with dependents, based on the zip code of where you attend your training. If you participate in an online program, your stipend will be half of the BAH national average for an E-5 with dependents.  
-
+**If you participate in an online program,** your stipend will be half of the BAH national average for an E-5 with dependents.  
 **Note:** If you don't attend a training for a full month, we'll prorate your housing payment for the days you train. 
-
 
 ---------
 
@@ -64,9 +62,7 @@ If you attend your training program in person, your housing stipend will be equa
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994).
 
-If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. <br>
-
-After you complete your training, you'll receive a certification of your new skills. 
+If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment.
 
 **Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
 
@@ -76,14 +72,17 @@ After you complete your training, you'll receive a certification of your new ski
 
 | **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider*** | 
 |---|---|---|---|---|---|
-| [Skill Distillery](https://skilldistillery.com/) | 7400 E. Orchard Road, Suite 1450N, Greenwood Village, CO 80111  | Full Stack Development with Java | 680 hours | In-person training | Yes |
-| [Zip Code Wilmington](https://www.zipcodewilmington.com) | 1007 N. Orange Street, 4th floor, Wilmington, DE 19801  | Software Development Bootcamp | 480 Hours | In-person training | No |
-| [Code Platoon](https://www.codeplatoon.org/) | 125 S. Clark Street, 17th floor, Chicago, IL 60603 | Code Platoon | 560 hours | In-person and online training| No |
-| [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 2 | 80 hours | In-person training | No |
-|  [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 6 | 240 hours | In-person training | No |
+| [Skill Distillery](https://skilldistillery.com/) | 7400 E. Orchard Road, Suite 1450N, Greenwood Village, CO 80111  | Full Stack Development with Java | 680 hours | In person | Yes |
+| [Zip Code Wilmington](https://www.zipcodewilmington.com) | 1007 N. Orange Street, 4th floor, Wilmington, DE 19801  | Software Development Bootcamp | 480 Hours | In person | No |
+| [Code Platoon](https://www.codeplatoon.org/) | 125 S. Clark Street, 17th floor, Chicago, IL 60603 | Code Platoon | 560 hours | In person and online | No |
+| [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 2 | 80 hours | In person | No |
+|  [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 6 | 240 hours | In person | No |
 
 **Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
+## What happens after I complete the program?
+
+After you complete your training, you'll receive a certification of your new skills. 
 
 ## Get more information
 
