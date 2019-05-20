@@ -1,5 +1,5 @@
 ---
-title: Change direct deposit and contact information
+title: Change your VA direct deposit information
 href: /change-direct-deposit/
 spoke: Manage benefits
 order: 4
