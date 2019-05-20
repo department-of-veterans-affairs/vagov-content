@@ -128,4 +128,13 @@ If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We'r
 - We may also pay you back for some or all of the costs of moving the Veteran’s remains if they were hospitalized or in a VA-contracted nursing home at the time of death.
 - We may pay you back for some or all of the costs of moving the Veteran’s remains if they died while traveling to VA-authorized care.
 
-**Note:** If a Veteran’s remains aren’t claimed, we’ll pay the person or organization responsible for the Veteran’s burial a $300 burial allowance and $780 for a plot. If the deceased qualifies, we may pay you back for the costs of moving the Veteran’s remains to a VA national cemetery. Contact the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to determine eligiblity.
+## Unclaimed remains
+
+If a Veteran’s remains aren’t claimed, we’ll pay the person or organization responsible for the Veteran’s burial a $300 burial allowance (and $780 for a plot if the burial is in a private cemetery). If the deceased qualifies, we may also pay back this person or organization for the costs of moving the Veteran’s remains to a VA national cemetery. 
+
+**For burial in a national cemetery**
+Contact the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to determine eligiblity. 
+
+**For burial at a state or tribal Veterans cemetery**
+
+[Contact the state or tribal cemetery](www.cem.va.gov/cem/cems/listcem.asp) to determine eligibility or schedule a burial.
