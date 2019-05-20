@@ -215,6 +215,30 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
+## Who isn't eligible for burial in a national cemetery?
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">Former spouses and certain family members</button>
+<div id="family-members" class="usa-accordion-content">
+  
+**You aren't eligible if you're a:**
+- Former spouse of an eligible individual whose marriage to that individual ended by annulment or divorce
+- Family member who doesn't meet the eligibility requirements
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="character-of-discharge">Veterans with a certain character of discharge</button>
+<div id="character-of-discharge" class="usa-accordion-content">
+  
+**You aren't eligible if:**
+- You separated from the Armed Forces under conditions other than honorable, **or** 
+- Your character of service disqualifies you
+</div>
+</li>
+</ul>
+
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
