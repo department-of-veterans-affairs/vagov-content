@@ -115,6 +115,7 @@ If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We'r
 | If the Veteran died on or after October 1, 2014, but before October 1, 2015 | We’ll pay a $300 burial allowance and $745 for a plot |
 | If the Veteran died on or after October 1, 2013, but before October 1, 2014 | We’ll pay a $300 burial allowance and $734 for a plot |
 
+
 ### What are the burial allowance amounts if the Veteran was hospitalized by VA at the time of their death?
 
 | Status                   | Maximum burial allowance |
@@ -125,16 +126,15 @@ If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We'r
 | If the Veteran died on or after October 1, 2014, but before October 1, 2015 | We’ll pay a $745 burial allowance and $745 for a plot |
 | If the Veteran died on or after October 1, 2013, but before October 1, 2014 | We’ll pay a $734 burial allowance and $734 for a plot |
 
-- We may also pay you back for some or all of the costs of moving the Veteran’s remains if they were hospitalized or in a VA-contracted nursing home at the time of death.
-- We may pay you back for some or all of the costs of moving the Veteran’s remains if they died while traveling to VA-authorized care.
+**We may also pay you back for some or all of the costs of moving the Veteran’s remains if they:** 
+- Were hospitalized or in a VA-contracted nursing home at the time of death, **or**
+- Died while traveling to VA-authorized care
 
 ## Unclaimed remains
 
 If a Veteran’s remains aren’t claimed, we’ll pay the person or organization responsible for the Veteran’s burial a $300 burial allowance (and $780 for a plot if the burial is in a private cemetery). If the deceased qualifies, we may also pay back this person or organization for the costs of moving the Veteran’s remains to a VA national cemetery. 
 
-**For burial in a national cemetery**
-Contact the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to determine eligiblity. 
+**For burial in a national cemetery,** contact the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to determine eligiblity. 
 
-**For burial at a state or tribal Veterans cemetery**
+**For burial at a state or tribal Veterans cemetery,** [contact the state or tribal cemetery](https://www.cem.va.gov/cem/cems/listcem.asp) to determine eligibility or schedule a burial.
 
-[Contact the state or tribal cemetery](www.cem.va.gov/cem/cems/listcem.asp) to determine eligibility or schedule a burial.
