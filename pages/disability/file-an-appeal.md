@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: File a VA disability appeal
+title: File A VA Disability Appeal
 heading: File a VA disability appeal
 display_title: File an appeal
 description: Learn about the VA appeals process and how to file a Notice of Disagreement to start an appeal if you disagree with our decision on your claim. Get answers to questions about the steps in the VA appeals timeline and find out how long it usually takes us to make a decision on an appeal.
@@ -56,7 +56,7 @@ After the Veterans Benefits Administration makes a decision on your claim, you c
         <h4>File a Notice of Disagreement (NOD)</h4>
         <p>
         By filing a Notice of Disagreement, you begin the appeals process. You’ll need to file a Notice of Disagreement within one year of the date on the letter notifying you of the claim decision. <br> 
-        <a href="https://www.vba.va.gov/pubs/forms/VBA-21-0958-ARE.pdf">Download a Notice of Disagreement (VA Form 21-0958)</a> 
+        <a href="https://www.vba.va.gov/pubs/forms/VBA-21-0958-ARE.pdf">Download a Notice of Disagreement, VA Form 21-0958 (PDF)</a> 
         </p>
         <p>
         Fill out your Notice of Disagreement and mail it to the address provided on the VA claim decision notice letter you received, or bring it to your local regional office. An accredited representative can help you file a Notice of Disagreement. <a href="/disability/get-help-filing-claim/">Get help filing your appeal</a>
