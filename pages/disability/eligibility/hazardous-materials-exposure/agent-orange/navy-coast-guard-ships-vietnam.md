@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange exposure on U.S. Navy or Coast Guard ships
+title: Agent Orange Exposure On U.S. Navy Or Coast Guard Ships
 heading: Agent Orange exposure on U.S. Navy or Coast Guard ships
 display_title: Navy or Coast Guard ships in Vietnam
 description: If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have been exposed to Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
@@ -20,7 +20,7 @@ If you served on a Navy or Coast Guard ship in or around Vietnam during the Viet
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have 1 or more illnesses believed to be caused by Agent Orange and you meet the requirements listed below.
+You may be able to get disability benefits if you have one or more illnesses believed to be caused by Agent Orange and you meet the requirements listed below.
 
 **One of these must be true:**
 - You served on ships or boats that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
