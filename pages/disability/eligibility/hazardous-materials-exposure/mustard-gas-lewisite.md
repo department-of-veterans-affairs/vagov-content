@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Mustard gas or lewisite exposure
+title: Mustard Gas Or Lewisite Exposure
 heading: Mustard gas or lewisite exposure
 display_title: Mustard gas or lewisite
 description: Find out if you can get VA disability pay and other benefits for illnesses related to mustard gas or lewisite exposure. You may have had contact with mustard gas or lewisite if you served in certain areas during WW2 or if you participated in biological and chemical testing.
@@ -50,7 +50,7 @@ You may be able to get disability benefits if you have a disability believed to 
  - Finschhafen, New Guinea
  - Porton Down, England
 
-**Select merchant seaman** were also exposed at Bari, Italy.
+**Select merchant seamen** were also exposed at Bari, Italy.
 
 <br>
 
@@ -71,7 +71,7 @@ Veterans
 
 You’ll need to file a claim for disability compensation.
 
-You have to claim an actual disease or disability. It’s not enough to state that you were exposed to mustard gas or lewisite during service. You’ll need to apply based on the illnesses believed to be caused by your contact with 1 of these chemicals. When you send in your claim, be sure to share any military records that show you had contact with blistering agents.
+You have to claim an actual disease or disability. It’s not enough to state that you were exposed to mustard gas or lewisite during service. You’ll need to apply based on the illnesses believed to be caused by your contact with one of these chemicals. When you send in your claim, be sure to share any military records that show you had contact with blistering agents.
 
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
