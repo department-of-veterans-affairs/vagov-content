@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Dependency and Indemnity Compensation (DIC) Survivor Benefit Rates
-heading: Veterans Dependency and Indemnity Compensation (DIC) survivor benefit rates
+title: Dependency and Indemnity Compensation (DIC) Survivor Benefit Rates
+heading: VA Dependency and Indemnity Compensation (DIC) survivor benefit rates
 display_title: 
 description: 
 concurrence: 
@@ -18,7 +18,7 @@ relatedlinks:
       title: Learn more about benefits for survivors
       description: If you’re a spouse, dependent, survivor, or family caregiver of a Veteran, you may qualify for certain benefits.
     - url: /pension/survivors-pension/
-      title: See if you qualify for a VA Survivors’ Pension
+      title: Apply for a VA Survivors’ Pension
       description: A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress.
       
 ---
@@ -27,64 +27,93 @@ relatedlinks:
 
 View current Veterans disability compensation rates for surviving spouses and dependent children of Veterans. These benefits are also known as the Dependency and Indemnity Compensation (DIC) benefits. We base the benefits on when the Veteran died, as well as other factors. Each section shows you how to read the tables. The rates are effective December 1, 2018.
 
-[Learn more about the Dependency and Indemnity compensation (DIC) benefit](https://www.va.gov/burials-memorials/dependency-indemnity-compensation/)
-
-[See DIC rates for surviving parents of a Veteran]
-
 </div>
 
-## If the Veteran’s death was on or after January 1, 1993 
+### On this page
+ - [DIC rates if the Veteran died on or after January 1, 1993](#after-1993)
+ - [DIC rates if the Veteran died before January 1, 1993](#before-1993)
+ 
+ 
+<span id="after-1993"></a>
+## If the Veteran died on or after January 1, 1993 
+**Effective December 1, 2018**
 
-### Basic monthly DIC rate
+### Basic monthly rate
 
-The basic monthly rate for these surviving spouses and dependents is **$1,319.04**. The relevant law is 38 U.S.C. 1311(a)(1). In addition to this basic amount, you may qualify for additional money under the “additional allowances” listed below.
+All rates shown in U.S. $ 
 
-### Additional allowances you may be able to get
+| **Your status** | **Basic monthly rate** | 
+|-----|---| 
+| Surviving spouse | 1,319.04 |
+| Surviving dependent child of a Veteran who has no surviving spouse | 452.00 |
 
-You may be able to get additional benefits on top of the basic monthly amount. Here are additional benefits you may qualify for.
+### Added amounts for surviving spouses
+
+As the surviving spouse of a Veteran, you may qualify for more money each month based on certain factors.
+
+### Added amounts based on disability
+
+All rates shown in U.S. $ 
+
+| **If this is true for you** | **You may qualify for** | **Added amount** |
+|-----|---| --- |
+| <ul><li>Your Veteran spouse was receiving or eligible to receive VA disability compensation for a service-connected disability rated totally disabling (including a rating based on individual unemployability) for at least 8 continuous years (without a break) before and up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li> | 8-year provision | 280.09 each month |
+| You need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 each month |
+| You can't leave your house due to a disability | Housebound allowance | 153.08 each month |
+
+## Added amounts based on dependent children
+
+If you have 1 or more children who are under 18 years old, you may qualify for more added amounts.
+
+All rates shown in U.S. $
+
+| **Benefit program** | **Added amount** |
+|---|---|
+| Transitional benefit | 282.00 each month, for 2 years |
+| DIC apportionment rates | 326.77 each month for each child under 18 years |
 
 #### Benefits for Veteran service-related disability
 
-You may qualify for additional payments if you’re the surviving spouse of a Veteran who had a specific kind of disability before their death. This program is also called the “8-year provision.” You may be eligible if **both** of the following things are true. The Veteran:
+If you’re the surviving spouse of a Veteran who had a specific kind of disability before their death, you may qualify for a program called the “8-year provision.” You may be eligible for this program if both of the descriptions below are true for the Veteran.
 
-- Was receiving, or was eligible to receive, compensation for a service-connected disability rated **totally disabling**, including a rating based on individual unemployability, for at least 8 continuous years immediately before their death, **and**
+**Both of these must be true. The Veteran was:**
+- Receiving, or was eligible to receive, VA disability compensation for a service-connected disability rated totally disabling, including a rating based on individual unemployability, for at least 8 continuous years (with no breaks) before and up to their death, **and**
+- Was married to you, the surviving spouse, for those same 8 years 
 
-- Was married to you, the surviving spouse, for those same 8 years. 
-
-Additional amount available: **$280.09**</br>
+Added amount: **$280.09**</br>
 Relevant law: 38 U.S.C. 1311(a)(2) 
 
 #### Benefits for spouse needing Aid and Attendance (A&A)
 
 If you’re the surviving spouse and you need help doing daily activities, you may qualify for the A&A benefit. 
 
-Additional amount available: **$326.77**</br>
+Added amount: **$326.77**</br>
 Relevant law: 38 U.S.C. 1311(c)
 
 #### Benefits for spouse needing housebound compensation
 
 If you’re the surviving spouse and are housebound, you may qualify for this benefit.
 
-Additional amount available: **$153.08**</br>
+Added amount: **$153.08**</br>
 Relevant law: 38 U.S.C. 1311(d)
 
 #### Benefits for spouse with one or more children under age 18
 
-If you have 1 or more children, you may qualify for 2 different additional amounts. The first, called the transitional benefit, is for any spouse with children under age 18.
+If you have 1 or more children, you may qualify for 2 different additional amounts. 
 
-Additional amount available: **$282.00 for 2 years**</br>
+- **Trasitional benefit**: For any spouse with children under age 18. <br>
+Additional amount available: **$282.00 for 2 years**<br>
 Relevant law: 38 U.S.C. 1311(f)(4)
 
-In addition, you can add another allowance for each child under age 18. These DIC apportionment rates, approved by the Under Secretary for Benefits under 38 CFR 3.461(b), will be the additional allowance for each child.
-
+- **DIC apportionment rates:** Added for each child under age 18. <br>
 Additional amount available: **$326.77 per child**</br>
 Relevant law: 38 U.S.C. 1311(b)
 
 #### Benefits for children without a surviving spouse of a Veteran
 
-Children of Veterans who had no surviving spouse can receive their own benefit payments.
+If you're the child of a Veteran who had no surviving spouse, you may be eligible to receive your own benefit payments.
 
-Additional amount available: **$452.00**
+Added amount available: **$452.00**
 
 ### Example: How to find your total benefit amount
 
@@ -94,9 +123,10 @@ In this example, the surviving spouse has 2 children, and is the survivor of a V
 |---|---:|
 | Basic rate</br>1st child</br>2nd child</br>8-year provision</br>Total | $1,319.04</br>$326.77</br>$326.77</br>+ $280.09</br>$2,252.67 |
 
-## If the Veteran’s death was before January 1, 1993
+<span id="after-1993"></a>
+## DIC rates if the Veteran died before January 1, 1993
 
-The Dependency and Indemnity Compensation (DIC) benefits paid to survivors of Veterans who died before January 1, 1993, can seem complex. The rate is based on the highest pay grade that the Veteran held for 6 months of active duty. We decided rates for children on several factors:
+The Dependency and Indemnity Compensation (DIC) benefits paid to survivors of Veterans who died before January 1, 1993, can seem complex. We base the rate on the highest pay grade that the Veteran held for 6 months of active duty. We decided rates for children on several factors:
 
 -	The Veteran’s pay grade
 -	Whether the surviving spouse was entitled to benefits
