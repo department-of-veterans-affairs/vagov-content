@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA disability compensation for posttraumatic stress disorder (PTSD)
+title: VA Disability Compensation For Posttraumatic Stress Disorder (PTSD)
 heading: VA disability compensation for posttraumatic stress disorder (PTSD)
 display_title: PTSD
 description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PTSD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
@@ -85,10 +85,10 @@ You’ll need to file a claim for disability compensation. <br>
 
 When you file a disability claim, you'll also need to fill out one of these additional forms:
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781).<br>
-[Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF)<br>
+[Download VA Form 21-0781 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF)<br>
  **or**<br>
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a).<br>
-[Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
+[Download VA Form 21-0781a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
 
 **Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for disability benefits. We won't offer you treatment during this process.
 
