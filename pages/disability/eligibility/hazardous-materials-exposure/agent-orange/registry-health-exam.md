@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Agent Orange Registry exam
+title: VA Agent Orange Registry Exam
 heading: VA Agent Orange Registry exam
 display_title: Registry health exam
 description: Find out how to request an Agent Orange Registry health exam if you think you had contact with this toxic herbicide during military service. The exam can help alert you to illnesses that may be related to contact with herbicides and help us learn more to better serve Veterans with these illnesses.
