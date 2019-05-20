@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: VA automobile allowance and adaptive equipment
+title: VA Automobile Allowance And Adaptive Equipment
 heading: VA automobile allowance and adaptive equipment
 display_title: Auto allowance and adaptive equipment
 description: Find out if you can get a VA automobile allowance if you're a Veteran living with a service-connected disability that prevents you from driving. Our automotive adaptive-equipment grants can help you buy or update a vehicle with special features that enable you to drive. Learn how to file a claim.
@@ -60,11 +60,11 @@ When you file, you’ll need to show that your disability is service connected o
 
 ### For the one-time payment to help you buy a specially equipped vehicle 
 - You’ll need to fill out an Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502). <br>
-[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) 
+[Download VA Form 21-4502 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) 
 - We’ll pay the vehicle’s seller directly. 
 
 ### For the adaptive-equipment grant
 - If you qualify for adaptive equipment only, you’ll need to fill out an Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394). <br>
-[Download VA Form 10-1394](https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf)
+[Download VA Form 10-1394 (PDF)](https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf)
 - We may pay you, or we may pay the equipment seller directly.  
 
