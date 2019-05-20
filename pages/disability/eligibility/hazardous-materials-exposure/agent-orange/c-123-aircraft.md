@@ -29,7 +29,7 @@ You may be able to get disability benefits if you have an illness believed to be
 - Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[See a list of Agent Orange—related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[See a list of Agent Orange–related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
 [View the list of codes (PDF)](https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf)
@@ -47,7 +47,7 @@ You may be able to get disability benefits if you have an illness believed to be
 - **Pittsburgh, Pennsylvania International Airport**, 1972-1982 (758th Airlift Squadron)
 
 If you have an illness believed to be caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[See a list of Agent Orange—related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[See a list of Agent Orange–related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
