@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange exposure in Vietnam waters ("blue water" Navy Veterans)
+title: Agent Orange Exposure In Vietnam Waters ("Blue Water" Navy Veterans)
 heading: Agent Orange exposure in Vietnam waters ("blue water" Navy Veterans)
 display_title: Vietnam waters
 description: If you served on a "blue water" Navy ship on the inland waterways of Vietnam or ever came ashore in Vietnam, you likely had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
