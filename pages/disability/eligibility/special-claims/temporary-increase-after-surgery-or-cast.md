@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Temporary disability rating after surgery or getting a cast
+title: Temporary Disability Rating After Surgery Or Getting A Cast
 heading: Temporary disability rating after surgery or getting a cast
 display_title: Increase after surgery or cast
 description: Find out if you can get temporary VA disability after surgery for a service-connected disability, or after getting a cast that's left you unable to move. You may be able to get a temporary 100% disability rating and increased compensation during your recovery (called convalescence).
@@ -24,8 +24,8 @@ Are you recovering from surgery or a disability related to your military service
 
 You may be able to get disability benefits if you’ve had surgery or received other treatment at a VA hospital, approved hospital, or outpatient center for a disability related to your military service (called a service-connected disability).
 
-**If you had surgery, both of these must true for you:**
-  -	The surgery required a recovery time of at least 1 month or reports show that the surgery or treatment was for a service-connected disability, **and**
+**If you had surgery, both of these must be true for you:**
+  -	The surgery required a recovery time of at least one month or reports show that the surgery or treatment was for a service-connected disability, **and**
   -	The surgery resulted in severe issues, like:
       - Surgical wounds that haven’t totally healed
       - Stumps of recent amputations
