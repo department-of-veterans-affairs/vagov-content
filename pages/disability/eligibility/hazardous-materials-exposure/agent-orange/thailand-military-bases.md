@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange exposure on Thailand military bases
+title: Agent Orange Exposure On Thailand Military Bases
 heading: Agent Orange exposure on Thailand military bases
 display_title: Thailand military bases
 description: If you served on a U.S. military base in Thailand or a Royal Thai Air Force Base during the Vietnam War, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
