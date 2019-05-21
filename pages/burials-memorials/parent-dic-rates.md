@@ -243,6 +243,7 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <div id="income-2000" class="usa-accordion-content">
 
 | If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 2,000	| 404	| .05 |
 | 2,100	| 399	| .05 |
 | 2,200	| 393	| .05 |
@@ -259,6 +260,8 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">Monthly income between $3,000 and $3,900</button>
 <div id="income-3000" class="usa-accordion-content">
 
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 3,000	| 341	| .07 |
 | 3,100	| 333	| .07 |
 | 3,200	| 325	| .07 |
@@ -275,6 +278,8 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">Monthly income between $4,000 and $4,900</button>
 <div id="income-4000" class="usa-accordion-content">
 
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 4,000	| 261	| .08 |
 | 4,100	| 253	| .08 |
 | 4,200	| 245	| .08 |
@@ -291,6 +296,8 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">Monthly income between $5,000 and $5,900</button>
 <div id="income-5000" class="usa-accordion-content">
 
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 5,000	| 181	| .08 |
 | 5,100	| 173	| .08 |
 | 5,200	| 165	| .08 |
@@ -307,6 +314,8 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">Monthly income between $6,000 and $6,900</button>
 <div id="income-6000" class="usa-accordion-content">
 
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 6,000	| 101	| .08 |
 | 6,100	| 93	| .08 |
 | 6,200	| 85	| .08 |
@@ -323,6 +332,8 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">Monthly income between $7,000 and $20,692</button>
 <div id="income-7000" class="usa-accordion-content">
 
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+|---|---|---|
 | 7,000	| 21	| .08 |
 | 7,100	| 13	| .08 |
 | 7,199	| 5.08	| .08 |
