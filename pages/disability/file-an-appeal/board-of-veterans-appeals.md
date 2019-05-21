@@ -16,7 +16,21 @@ Find out what happens at a Board of Veterans’ Appeals hearing—and how to req
 
 </div>
 
-<div class="feature" markdown=“1”>
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
+    <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019,</b> keep reading below to learn how to request and prepare for a hearing.
+</p>
+    <p><b>If you're appealing a VA decision under the new process,</b> 
+<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">go to the Board Hearings with a Veterans Law Judge page</a>.
+      
+You’ll follow the new process if you’re:
+- Appealing a VA decision you received on or after February 19, 2019
+- Participating in the Rapid Appeals Modernization Program
+- Opting into the new process using VA Form 10182</p>
+  </div>
+</div>
+
 
 ### Why might I want a Board hearing?
 
@@ -25,8 +39,6 @@ You might want a Board hearing if you think it’ll help support your appeal to 
 ### Do I have to have a Board hearing?
 
 No. Board hearings are always optional.
-
-</div>
 
 **Learn more about Board hearings:**
 
@@ -50,6 +62,7 @@ No. Board hearings are always optional.
 -	**An in-person hearing at the Board in Washington, DC.**
 
 [Download VA Form 9 (PDF)](https://www.va.gov/vaforms/va/pdf/va9.pdf)
+
 
 Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
 [Find a Veterans Service Organization](https://www.va.gov/vso/)

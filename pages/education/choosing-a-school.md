@@ -49,7 +49,7 @@ You can use your GI Bill benefits at some—but not all—schools. Use the resou
 - Watch our "Know Before You Go" video to get advice from other Veterans based on their experiences using the GI Bill.<br>
 [Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4)
 - Read our "Factors to Consider When Choosing a School" guide to using the GI Bill.<br>
-[Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf)
+[Download the guide (PDF)](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf)
 - Visit the Consumer Financial Protection Bureau's Paying for College website for tools and resources to help you make smart decisions about paying for your college education.<br>
 [Visit the Paying for College website](https://www.consumerfinance.gov/paying-for-college/)
 - Go to the U.S. Department of Education's  College Scorecard website to compare schools by programs, degrees, location, and size. And get more information about the schools you're considering, like the average annual cost, graduation rate, and average salaries of school alumni.<br>

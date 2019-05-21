@@ -33,8 +33,8 @@ You can get an Agent Orange Registry health exam if you served in any of the way
   - In Thailand (U.S. Army Veterans) on some small Army installations in Thailand anytime between February 28, 1961, and May 7, 1975—if you were a member of a military police (MP) unit or assigned a job with duty placing you at or near the base perimeter, **or**
   - In other locations, but you had contact with herbicides during a military operation or while testing, transporting, or spraying herbicides for military purposes
 
- 
- [See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/index.asp) <br>
+
+ <a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>  <br>
  [Learn about herbicide tests and storage outside Vietnam](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/index.asp)
 
 
