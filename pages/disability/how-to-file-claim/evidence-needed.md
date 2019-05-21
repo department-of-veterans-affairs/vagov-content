@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Evidence needed for your disability claim
+title: Evidence Needed For Your Disability Claim
 heading: Evidence needed for your disability claim
 display_title: Evidence needed
 description: Find out what evidence you'll need when you file a VA disability claim—and what your options are for gathering documents to support your claim. Evidence may include supporting documents like medical test results, doctor’s reports, and other records.
@@ -46,7 +46,7 @@ We require certain documents to support all claims for disability benefits.
 -	Any medical evidence related to your illness or injury (like doctor's reports, X-rays, and medical test results)
 <br>
 
-**Note:** In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Your records may have been destroyed in the fire if you were discharged from the Army between November 1, 1912 and January 1, 1960, or if you were discharged from the Air Force between September 25, 1947 and January 1, 1964. If you think your records may have been involved in this fire, you can learn more about the fire and how to get help filing a claim. <br>
+**Note:** In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Your records may have been destroyed in the fire if you were discharged from the Army between November 1, 1912, and January 1, 1960, or if you were discharged from the Air Force between September 25, 1947, and January 1, 1964. If you think your records may have been involved in this fire, you can learn more about the fire and how to get help filing a claim. <br>
 [Learn more about the fire at the NPRC](https://www.benefits.va.gov/COMPENSATION/NPRC1973Fire.asp)
 
 <span id="evidence-show"></span>
@@ -66,7 +66,7 @@ This depends on the type of claim you’re filing. Find out what evidence you'll
 - A link between your current disability and the event, injury, or disease that happened during your service. Usually we need medical records or medical opinions from health care providers to support this link. <br>
 
 Under certain situations, we may conclude that there's a link between your military service and your disability even if there's no evidence. This usually applies to:<br>
-- [A chronic (long-lasting) illness that appears within 1 year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
+- [A chronic (long-lasting) illness that appears within one year after discharge](/disability/eligibility/illnesses-within-one-year-of-discharge/), **or**
 - [An illness caused by contact with contaminants (toxic chemicals) or other hazardous materials](/disability/eligibility/hazardous-materials-exposure/), **or**
 - [An illness caused by your time spent as a POW](/disability/eligibility/former-pows/)<br>
 
@@ -103,7 +103,7 @@ You'll need to submit current evidence from a medical professional or layperson 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-supplemental">Supplemental claim—a claim providing new evidence to support a disability claim that was denied</button>
 <div id="claim-supplemental" class="usa-accordion-content">
 
-You'll need to submit new evidence we've haven't reviewed before that's related to the issue you're claiming.<br>
+You'll need to submit new evidence we haven't reviewed before that's related to the issue you're claiming.<br>
 [Learn more about supplemental claims](/decision-reviews/supplemental-claim/)<br>
 
 </div>
@@ -120,10 +120,10 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 
 **You'll also need to submit one of these forms:**
   - A completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781), <br>
-  [Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
+  [Download VA Form 21-0781 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.pdf)<br>
   **or**<br>
   - If you're claiming PTSD based on personal assault, a completed Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a)<br>
-  [Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)<br>
+  [Download VA Form 21-0781a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.pdf)<br>
   
 [Learn more about PTSD claims](/disability/eligibility/ptsd/)<br>
 
@@ -136,9 +136,9 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 **You'll need to submit everything listed here:**
 - Medical evidence that shows a service-connected disability prevents you from getting or keeping substantially gainful employment (work that brings in enough money to earn a livelihood). Odd jobs (marginal employment), don’t count.
 - A completed Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940)<br>
-  [Download VA Form 21-8940](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
+  [Download VA Form 21-8940 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-8940-ARE.pdf)
 - A completed Request for Employment Information in Connection with Claim for Disability Benefits (VA Form 21-4192), completed by your last employer<br>
-  [Download VA Form 21-4192](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)<br>
+  [Download VA Form 21-4192 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4192-ARE.pdf)<br>
   
  [Learn more about Individual Unemployability](/disability/eligibility/special-claims/unemployability/)<br>
 
@@ -153,7 +153,7 @@ You'll need to submit new evidence we've haven't reviewed before that's related 
 - Were under hospital observation for more than 21 days at our expense for a service-connected disability<br>
 
 **If you had surgery, you'll need to submit evidence that shows the surgery:**
-- Required a recovery time of at least 1 month (or the surgery or treatment was for a service-connected disability), **and**
+- Required a recovery time of at least one month (or the surgery or treatment was for a service-connected disability), **and**
 - Resulted in severe issues for you, like surgical wounds that haven’t totally healed, stumps or recent amputations, being unable to move due to being put in splints or casts, being unable to leave your house, or having to use a wheelchair or crutches <br>
 
 If you didn’t have surgery, you'll need to show that one or more of your major joints was immobilized by a cast.<br>
@@ -191,10 +191,10 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll also need to submit one of these forms:**
   - An Examination for Housebound Status or Permanent Need for Regular Aid and Attendance (VA Form 21-2680)<br>
-[Download VA Form 21-2680](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf) <br>
+[Download VA Form 21-2680 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-2680-ARE.pdf) <br>
 **or**<br>
 - If you're in a nursing home, a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779)<br>
-[Download VA Form 21-0779](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
+[Download VA Form 21-0779 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0779-ARE.pdf)<br> 
 
 
 [Learn more about Aid and Attendance benefits and Housebound allowance](/pension/aid-attendance-housebound/)<br>
@@ -210,7 +210,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **and** <br>
 - An Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555)<br>
-[Download VA Form 26-4555](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf)<br>
+[Download VA Form 26-4555 (PDF)](https://www.vba.va.gov/pubs/forms/vba-26-4555-are.pdf)<br>
 
 [Learn more about disability housing grants](/housing-assistance/disability-housing-grants/)<br>
 </div>
@@ -230,7 +230,7 @@ If you didn’t have surgery, you'll need to show that one or more of your major
 
 **You'll also need to submit:**<br>
 An Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502)<br>
-[Download VA Form 21-4502](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) <br>
+[Download VA Form 21-4502 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) <br>
 
 [Learn more about automobile allowance and adaptive equipment](/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/)<br>
 </div>
@@ -247,5 +247,5 @@ You'll need to submit medical evidence that shows the child became permanently d
 
 <br>
 
-[View the evidence requirements listed on the 21-526EZ paper form for disability claims](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
+[View the evidence requirements listed on the 21-526EZ paper form for disability claims (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
 
