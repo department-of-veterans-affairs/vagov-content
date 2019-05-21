@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Careers and employment
+title: Careers And Employment
+heading: Careers and employment
 display_title: Careers and employment
 concurrence: complete
 lastupdate:
@@ -98,7 +99,7 @@ hublinks:
       external: false
     - url: "/careers-employment/vocational-rehabilitation/how-to-apply/"
       label: How to apply
-      description: Get step-by-step instructions on how to apply for voc rehab benefits.
+      description: Get step-by-step instructions on how to apply for vocational rehab benefits.
       external: false
     - url: "/careers-employment/education-and-career-counseling/"
       label: Educational and Career Counseling (Chapter 36)
@@ -146,7 +147,7 @@ hublinks:
       external: false
     - url: https://linkedinforgood.linkedin.com/programs/veterans
       label: Get free classes for a year (LinkedIn)
-      description: Get 1 year of free access to LinkedIn Premium and LinkedIn Learning.
+      description: Get one year of free access to LinkedIn Premium and LinkedIn Learning.
       external: true
       target: _blank
   - id: more
