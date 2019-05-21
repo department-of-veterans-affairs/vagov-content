@@ -59,7 +59,7 @@ Biological or adoptive parents who passed away after October 13, 2010, and whose
 
 </div>
 
-### Find eligibility information for these groups of people
+### Find more eligibility information for these groups of people
 
 <ul class="usa-accordion">
 <li>
@@ -215,7 +215,7 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
-## Who isn't eligible for burial in a national cemetery?
+## Who's not eligible for burial in a national cemetery?
 
 <ul class="usa-accordion">
 <li>
