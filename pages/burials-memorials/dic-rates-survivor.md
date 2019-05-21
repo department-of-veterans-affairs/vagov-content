@@ -29,42 +29,46 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
 </div>
 
 ### On this page
- - [DIC rates for surviving spouse or child of a Veteran who died on or after January 1, 1993](#after-1993)
- - [DIC rates for surviving spouse or child of a Veteran who died before January 1, 1993](#before-1993-) 
+ - [DIC rates if Veteran died on or after January 1, 1993](#after-1993)
+ - [DIC rates if Veteran died before January 1, 1993](#before-1993-) 
  - [How your DIC payments may impact your Survivor Benefit Plan](#sbp)
  
 <span id="after-1993"></a>
-## DIC rates for surviving spouse or child of a Veteran who died on or after January 1, 1993 
+## DIC rates if Veteran died on or after January 1, 1993 
 **Effective December 1, 2018**
 
 To find your total monthly payment amount start with the **Basic rates** table. Find the dependent status in the left column that best describes you. Your basic monthly rate will be to the right.
 
-Then, go to the **Added amounts** tables. Find any descriptions that are true for you and add the matching amount next to each to your basic rate to get your total monthly payment.
+Then, go to the **Added amounts**. Find any descriptions that are true for you and add the matching amount next to each to your basic rate to get your total monthly payment.
 
 ### Basic rates for monthly payments
 
 All rates in $ U.S. dollars
-| **Your dependent status** | **Basic monthly rate** | 
+| **Your survivor status** | **Monthly payment** | 
 |---|---| 
 | Surviving spouse | 1,319.04 |
 | Surviving dependent child of a Veteran who has no surviving spouse | 452.00 |
 
 ### Added amounts for surviving spouses
 
+As a surviving spouse, you may be eligible to receive more money each month based on your or the Veteran's disablity.
+
 All rates in $ U.S. dollars
-| **If this is true for you** | **You may qualify for this benefit** | **Added monthly amount** |
-| --- | --- | ---: |
-| <ul><li>Your Veteran spouse had a VA rating of totally disabling for at least the 8 years before their death (without a break), **and**</li><li>You were married to the Veteran for those same 8 years</li> | 8-year provision | 280.09 |
-| You need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
+| If this is true for you... | You may qualify for this benefit | Added monthly amount | 
+| ---| ---: | ---: | 
+| <ul><li>You were married to the Veteran for at least the 8 years leading up to their death, **and**</li>The Veteran Veteran had a VA service-connected disability rating of totally disabling for at least those entire 8 years</li></ul> | 8-year provision | 280.09 |
+| You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 |
-| You have 1 or more children who are under 18 years  | Transitional benefits | 282.00 for the first 2 years after the Veteran's death |
-| | DIC apportionment rates | 326.77 for each child |
 
-**Note:** For the purposes of the 8-year provision, a rating of totally disabling includes a rating based on individual unemployability. The Veteran may have been receiving VA disability compensation, or may have been entitled to receive it.
+If you have 1 or more dependent children who are under the age of 18 years, you may be eligible for added amounts each month.
 
-<ul class="usa-accordion">
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-spouse">Example of how to calculate your monthly payment amount</button>
-<div id="how-to-spouse" class="usa-accordion-content">
+All rates in $ U.S. dollars
+| Benefit | Added monthly amount | 
+| ---| ---: |
+| Transitional benefit | 282.00 <br> For the first 2 years after the Veteran's death |
+| DIC apportionment rate | 326.77 <br> For each eligible child |
+
+### Example of how to calculate your monthly payment amount
 
 If you were the qualified surviving spouse of a Veteran who qualified for the 8-year provision, and you qualified for Aid and Attendance, and you had 2 children under 18 years, you would calculate your rate as below.
 
@@ -77,7 +81,7 @@ If you were the qualified surviving spouse of a Veteran who qualified for the 8-
 ------
 
 <span id="after-1993"></a>
-## DIC rates for surviving spouse or child of a Veteran who died before January 1, 1993 
+## DIC rates if the Veteran died before January 1, 1993 
 **Effective December 1, 2018**
 
 If your Veteran spouse or parent died before January 1, 1993, we'll use a different method to calculate your DIC monthly payments.
@@ -257,7 +261,7 @@ Eligible children include children who are under the age of 18 years, or who are
 <span id="sbp"></a>
 ## How your DIC payments may impact your Survivor Benefit Plan
 
-### What is a Survivor Benefit Plan?
+### What's a Survivor Benefit Plan?
 
 The Survivor Benefit Program is a voluntary annuity program that service members may purchase as a retirement benefit for family members. An annuity is a monthly payment received for life. Depending on the branch of service, members may buy a Survivor Benefit Plan (SBP) or Reserve Component Survivor Benefit Plan (RCSBP).
 
