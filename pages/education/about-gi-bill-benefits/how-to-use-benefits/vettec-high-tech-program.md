@@ -82,7 +82,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 **Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
-## Will I get a certificate after I've completed the program?
+## How can I show that I've completed the program?
 
 After you complete your training, you'll receive a certification of your new skills. 
 
