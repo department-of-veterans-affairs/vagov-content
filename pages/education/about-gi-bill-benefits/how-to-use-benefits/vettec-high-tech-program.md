@@ -72,7 +72,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 ## VET TEC training providers
 
-**Note:** A program is considered "preferred" if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
+See your options for training providers listed below. A provider is considered "preferred" if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
 | **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider** | 
 |---|---|---|---|---|---|
