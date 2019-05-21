@@ -37,42 +37,16 @@ View current Veterans disability compensation rates for surviving parents of Vet
 
 </div>
 
-[Learn more about the Dependency and Indemnity compensation (DIC) benefit](/burials-memorials/dependency-indemnity-compensation/)
-
-On this page, you’ll learn the rates for three types of surviving parents. You can find your situation in the list of questions below. Answer the question yes or no, and then you can go to the right chart to find your benefit.
-
-| Find your situation | If yes, see | If no, see |
-|---|---|---|
-| Are both of the Veteran's parents still living? | Chart 2 or 3 (also answer B) | [Chart 1](https://www.benefits.va.gov/COMPENSATION/resources_comp04.asp#BMC1) | 
-| Are both of the Veteran's parents still married to each other? | [Chart 3](https://www.benefits.va.gov/COMPENSATION/resources_comp04.asp#BMC3) | [Chart 2](https://www.benefits.va.gov/COMPENSATION/resources_comp04.asp#BMC2) |
-| Has the Veteran’s parent remarried? | [Chart 3](https://www.benefits.va.gov/COMPENSATION/resources_comp04.asp#BMC3) | [Chart 2](https://www.benefits.va.gov/COMPENSATION/resources_comp04.asp#BMC2) |
-
-## How to read the DIC for surviving parents rate charts
-
-Each chart includes three columns. The first column shows a monthly income amount. To find your correct row, find the amount in the chart that’s the closest amount to your monthly income, rounded up to the nearest benefit level. 
-
-For example, in Chart 3 below, if you make $1,353 a month, you would choose the row with **$1,400**, because your income is “equal to or less than” $1,400, but more than the previous level, $1,300. So $375 would be your beginning monthly rate.
-
-But your income is less than $1,400, so you get a rate between the previous row’s rate of $378 and your beginning rate of $375. 
-
-To find your actual monthly rate, you’ll use the “decrement” amount in the final column. The decrement is a decimal that’s multiplied to the difference between your monthly income and the income shown on the prior row.
-
-This example shows how you’d use the decrement rate with the income and rate example above.
-
-Start with your income, $1,353. Then subtract the previous row’s dollar amount. **$1,353 - $1,300 = $53**.
-
-Then take that amount, $53, and multiply it by the decrement in Chart 3, .03. **$53 X .03 = $1.59**.
-
-Then add that amount to your beginning monthly rate. **$375 + 1.59 = $376.39**.
-
-Your new monthly rate would be **$376.59**.
-
-| $1353</br>-1300</br>53</br></br>53</br>x.03</br>1.59</br></br>$375</br>+1.59</br>$376.59 | Your income</br>Minus prior row's limit</br>Difference</br></br>Difference</br>Times the decrement</br>Amount of extra monthly income</br></br>Your beginning monthly rate</br>Add your extra monthly income</br>Your new monthly rate |
-|--:|--|
+### On this page
+- [Rates if only 1 surviving parent is alive]
+- [Rates if both surviving parents are alive, but the eligible parent doesn't live with a spouse]
+- [Rates if both surviving parents are alive, and the eligible parent lives with the Veteran's other parent or another spouse]
  
-#### Chart 1
+## Rates if only 1 surviving parent is alive
 
-**For a sole surviving parent not remarried, or remarried and living with the new spouse**
+**These rates apply to you if you're the only surviving parent and you're:**
+- Not remarried, **or**
+- Remarried and living with your spouse
 
 Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353** to this monthly rate.
 
@@ -164,9 +138,12 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 \** If living with spouse: $20,692
 \** If not living with spouse: $15,394
 
-#### Chart 2
+------
 
-## For one of two surviving parents, not living with a spouse
+## Rates if both surviving parents are alive, but the eligible parent doesn't live with a spouse
+
+These rates apply to you if you and the other surviving parent of the Veteran are both living, but you're not living together or with the Veteran's spouse
+
 Note: If you’re entitled to Aid and Attendance allowance, add $353 to the monthly rate.
 
 | If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
@@ -233,14 +210,23 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 6,637 |	5.04	| .08 |
 | 6,638 to 15,394	| 5	| None |
 
-#### Chart 3
+## Rates if both surviving parents are alive, and the eligible parent lives with the Veteran's other parent or another spouse
 
-## For one of two surviving parents, either living with a spouse or with the other parent
+These rates apply to you if both you and the other parent of the Veteran are living, and you're living with:
+- The Veteran's surviving spouse, **or**
+- The Veteran's other parent
+
+### Basic monthly rates
+
 Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the monthly rate.
+
+<ul class="usa-accordion">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000">Monthly income of  $1,900 or less</button>
+<div id="income-1000" class="usa-accordion-content">
 
 | If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
 |---|---|---|
-| $1,000	| $444	| None |
+| 1,000	| 444	| None |
 | 1,100	| 441	| .03 |
 | 1,200	| 438	| .03 |
 | 1,300	| 435	| .03 |
@@ -250,6 +236,13 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 1,700	| 419	| .04 |
 | 1,800	| 414	| .04 |
 | 1,900	| 409	| .04 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000">Monthly income between $2,000 and $2,900</button>
+<div id="income-2000" class="usa-accordion-content">
+
+| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
 | 2,000	| 404	| .05 |
 | 2,100	| 399	| .05 |
 | 2,200	| 393	| .05 |
@@ -260,6 +253,12 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 2,700	| 362	| .06 |
 | 2,800	| 355	| .06 |
 | 2,900	| 348	| .06 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">Monthly income between $3,000 and $3,900</button>
+<div id="income-3000" class="usa-accordion-content">
+
 | 3,000	| 341	| .07 |
 | 3,100	| 333	| .07 |
 | 3,200	| 325	| .07 |
@@ -270,6 +269,12 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 3,700	| 285	| .08 |
 | 3,800	| 277	| .08 |
 | 3,900	| 269	| .08 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">Monthly income between $4,000 and $4,900</button>
+<div id="income-4000" class="usa-accordion-content">
+
 | 4,000	| 261	| .08 |
 | 4,100	| 253	| .08 |
 | 4,200	| 245	| .08 |
@@ -280,6 +285,12 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 4,700	| 205	| .08 |
 | 4,800	| 197	| .08 |
 | 4,900	| 189	| .08 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">Monthly income between $5,000 and $5,900</button>
+<div id="income-5000" class="usa-accordion-content">
+
 | 5,000	| 181	| .08 |
 | 5,100	| 173	| .08 |
 | 5,200	| 165	| .08 |
@@ -290,6 +301,12 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 5,700 |	125	| .08 |
 | 5,800	| 117	| .08 |
 | 5,900	| 109	| .08 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">Monthly income between $6,000 and $6,900</button>
+<div id="income-6000" class="usa-accordion-content">
+
 | 6,000	| 101	| .08 |
 | 6,100	| 93	| .08 |
 | 6,200	| 85	| .08 |
@@ -300,43 +317,47 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 | 6,700	| 45	| .08 |
 | 6,800	| 37	| .08 |
 | 6,900	| 29	| .08 |
+
+</div>
+</li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">Monthly income between $7,000 and $20,692</button>
+<div id="income-7000" class="usa-accordion-content">
+
 | 7,000	| 21	| .08 |
 | 7,100	| 13	| .08 |
 | 7,199	| 5.08	| .08 |
 | 7,200 to 20,692	| 5	| None |
 
+</div>
+</li>
+</ul>
+
+## How to read the DIC for surviving parents rate charts
+
+Each chart includes three columns. The first column shows a monthly income amount. To find your correct row, find the amount in the chart that’s the closest amount to your monthly income, rounded up to the nearest benefit level. 
+
+For example, in Chart 3 below, if you make $1,353 a month, you would choose the row with **$1,400**, because your income is “equal to or less than” $1,400, but more than the previous level, $1,300. So $375 would be your beginning monthly rate.
+
+But your income is less than $1,400, so you get a rate between the previous row’s rate of $378 and your beginning rate of $375. 
+
+To find your actual monthly rate, you’ll use the “decrement” amount in the final column. The decrement is a decimal that’s multiplied to the difference between your monthly income and the income shown on the prior row.
+
+This example shows how you’d use the decrement rate with the income and rate example above.
+
+Start with your income, $1,353. Then subtract the previous row’s dollar amount. **$1,353 - $1,300 = $53**.
+
+Then take that amount, $53, and multiply it by the decrement in Chart 3, .03. **$53 X .03 = $1.59**.
+
+Then add that amount to your beginning monthly rate. **$375 + 1.59 = $376.39**.
+
+Your new monthly rate would be **$376.59**.
+
+| $1353</br>-1300</br>53</br></br>53</br>x.03</br>1.59</br></br>$375</br>+1.59</br>$376.59 | Your income</br>Minus prior row's limit</br>Difference</br></br>Difference</br>Times the decrement</br>Amount of extra monthly income</br></br>Your beginning monthly rate</br>Add your extra monthly income</br>Your new monthly rate |
+|--:|--|
+
+
 ### Historic DIC for surviving parent rates
 
-| [2017](https://benefits.va.gov/PENSION/rates_parents_DIC_pen17.asp) | [2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) | [2014](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) |
+| [2017](https://benefits.va.gov/PENSION/rates_parents_DIC_pen17.asp) | [2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) | [2014 and earlier](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) |
 |---|---|---|
 
-### [How to Use Your Benefits](/education/about-gi-bill-benefits/how-to-use-benefits/)
-
-### Can I change my education benefits?
-In some cases, yes. Call <a href="tel:+8884424551">888-442-4551</a>888-442-4552, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
-
-### [Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
-
-Find out if your school participates in the Yellow Ribbon program, which can help pay tuition costs that the Post-9/11 GI Bill doesn’t cover.
-
-### [Tuition assistance top-up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
-
-If your college tuition costs more than what’s covered by your education benefits program, find out if you can get more money to cover tuition costs.
-
-### [Tutoring assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)
-
-If you’re using VA educational benefits and you're struggling with the coursework, find out if you can get help paying for a tutor.
-
-### Historic Post-9/11 GI Bill rates
-
-- [Rates effective August 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
-- [Rates effective August 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080117.asp)
-- [Rates effective August 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080116.asp)
-- [Rates effective August 1, 2015](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080115.asp)
-- [Rates effective August 1, 2014](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080114.asp)
-- [Rates effective August 1, 2013](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080113.asp)
-- [Rates effective August 1, 2012](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080112.asp)
-- [For the 2011 - 2012 academic year the Post-9/11 GI Bill pays the full tuition and fees for all public school in-state students. Learn more.](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/Ch33rates080111.asp)
-- [2010-2011 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2010.asp)
-- [2009-2010 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2009.asp)
-- [2008-2009 In-State Tuition & Fees](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch33/tuition_and_fees_2008.asp)
