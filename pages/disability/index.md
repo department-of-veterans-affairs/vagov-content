@@ -135,7 +135,7 @@ hublinks:
         your disability claim.
       external: false
     - url: "/change-direct-deposit/"
-      label: Change Your VA Direct Deposit and Contact Information
+      label: Change Your VA Direct Deposit Information
       description: Find out how to change your direct deposit information online.
       external: false
     - url: "/health-care/get-medical-records/"
