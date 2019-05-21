@@ -124,7 +124,7 @@ hublinks:
       description: Find out how to change your address and other contact information in your VA.gov profile. This will update your information across several VA benefits and services.
       external: false
     - url: "/change-direct-deposit/"
-      label: Change your VA direct deposit and contact information
+      label: Change your VA direct deposit information
       description: Learn how to change your VA pension benefits direct deposit information online.
       external: false
   - id: more
