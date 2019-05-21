@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Employment benefits for dependent family members
+title: Employment Benefits For Dependent Family Members
+heading: Employment benefits for dependent family members
 display_title: Dependent benefits
 template: detail-page
 order: 6
