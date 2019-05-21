@@ -233,8 +233,16 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 <div id="character-of-discharge" class="usa-accordion-content">
   
 **You aren't eligible if:**
-- You separated from the Armed Forces under conditions other than honorable, **or** 
+- You separated from the Armed Forces under dishonorable conditions, **or** 
 - Your character of service disqualifies you
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="discharge-from-draft">Those discharged from being drafted</button>
+<div id="discharge-from-draft" class="usa-accordion-content">
+  
+You aren't eligible if you were ordered to report to an induction station, but you never actually entered military service.
 </div>
 </li>
 </ul>
