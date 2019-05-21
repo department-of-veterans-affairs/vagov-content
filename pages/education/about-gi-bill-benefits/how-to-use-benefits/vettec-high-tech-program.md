@@ -72,6 +72,8 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 ## VET TEC training providers
 
+**Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
+
 | **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider*** | 
 |---|---|---|---|---|---|
 | [Skill Distillery](https://skilldistillery.com/) | 7400 E. Orchard Road, Suite 1450N, Greenwood Village, CO 80111  | Full Stack Development with Java | 680 hours | In person | Yes |
@@ -79,8 +81,6 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 | [Code Platoon](https://www.codeplatoon.org/) | 125 S. Clark Street, 17th floor, Chicago, IL 60603 | Code Platoon | 560 hours | In person and online | No |
 | [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 2 | 80 hours | In person | No |
 |  [Detroit School for Digital Technology](https://www.dsdt.tech/) | 1759 W. 20th Street, Detroit, MI 48216 | Technology Professional 6 | 240 hours | In person | No |
-
-**Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
 ## How can I show that I've completed the program?
 
