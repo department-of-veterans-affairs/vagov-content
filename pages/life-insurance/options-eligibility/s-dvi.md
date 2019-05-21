@@ -77,7 +77,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
  - [Apply for basic S-DVI online](https://www.insurance.va.gov/portal/), **or**
 
  - Fill out an Application for Service-Disabled Veterans Life Insurance (VA Form 29-4364). <br>
- [Download VA Form 29-4364](https://benefits.va.gov/INSURANCE/forms/29-4364.pdf)
+ [Download VA Form 29-4364 (PDF)](https://benefits.va.gov/INSURANCE/forms/29-4364.pdf)
 
  Fax it to 888-748-5822, or mail it to:
 
@@ -89,7 +89,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 </p>
 
 If you want to apply for supplemental S-DVI, you must have already applied for and been granted a waiver of premiums. (See our information below about getting a waiver.) To apply for supplemental S-DVI, file an Application for Supplemental Service-Disabled Veterans Insurance (VA Form 29-0188) or send a letter requesting this insurance over your signature. You must apply for the coverage within one year from the date you receive notice of the grant of waiver of premiums.<br>
-[Download VA Form 29-0188](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf) <br>
+[Download VA Form 29-0188 (PDF)](https://benefits.va.gov/INSURANCE/forms/29-0188.pdf) <br>
 
 
 ## How much will I pay for these benefits?

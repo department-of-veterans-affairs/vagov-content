@@ -57,7 +57,7 @@ If you enlist under the National Call to Service program, you don’t qualify fo
 
 ## Get more information
 
-[National Call to Service program pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/summary-of-national-call-to-service-program.pdf)
+[National Call to Service program pamphlet (PDF)](https://www.benefits.va.gov/gibill/docs/pamphlets/summary-of-national-call-to-service-program.pdf)
 
 
 This program is administered by VA for the Department of Defense.

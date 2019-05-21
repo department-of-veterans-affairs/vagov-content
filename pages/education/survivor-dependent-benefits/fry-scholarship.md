@@ -65,11 +65,11 @@ You may be able to get up to 36 months of benefits, including:
 
 - [Apply online now](/education/apply-for-education-benefits/application/5490/introduction), **or**
 - Fill out a Dependents’ Application for VA Education Benefits (VA Form 22-5490) and send it to the VA regional benefit office where you want to go to school.<br>
-[Download VA Form 22-5490](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf)<br>
+[Download VA Form 22-5490 (PDF)](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf)<br>
 [Find a VA regional benefit office](/find-locations/?facilityType=benefits)
 - If you aren’t legally an adult, your parent or guardian must sign the application.
 - If you’ve already started your educational program, ask a certifying official from your school or your employer to fill out a VA Enrollment Certification (VA Form 22-1999). They’ll need to submit it online using VA Online Certification (VA-ONCE). <br>
-[Download VA Form 22-1999](https://www.vba.va.gov/pubs/forms/vba-22-1999-are.pdf?_ga=2.18213945.1206357025.1555902018-524815269.1555902018)
+[Download VA Form 22-1999 (PDF)](https://www.vba.va.gov/pubs/forms/vba-22-1999-are.pdf?_ga=2.18213945.1206357025.1555902018-524815269.1555902018)
 
 </li>
 
