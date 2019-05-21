@@ -74,7 +74,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 **Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
-| **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider*** | 
+| **Provider name** | **Address** | **Program name** | **Program length** | **Type of training** | **Preferred training provider** | 
 |---|---|---|---|---|---|
 | [Skill Distillery](https://skilldistillery.com/) | 7400 E. Orchard Road, Suite 1450N, Greenwood Village, CO 80111  | Full Stack Development with Java | 680 hours | In person | Yes |
 | [Zip Code Wilmington](https://www.zipcodewilmington.com) | 1007 N. Orange Street, 4th floor, Wilmington, DE 19801  | Software Development Bootcamp | 480 Hours | In person | No |
