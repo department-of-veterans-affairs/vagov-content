@@ -1,5 +1,5 @@
 ---
-title: File for increased disability
+title: File For Increased Disability
 href: /disability/how-to-file-claim
 order: 2
 spoke: Manage benefits
