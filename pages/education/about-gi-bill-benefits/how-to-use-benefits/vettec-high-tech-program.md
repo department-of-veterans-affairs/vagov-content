@@ -39,7 +39,7 @@ You may be eligible for VET TEC if you meet all of the requirements listed below
 
 ## What types of training does VET TEC cover?
 
-With VET TEC, you can get training in one of these high-demand training areas:
+You can get training in one of these high-demand training areas:
 -	Computer software
 -	Computer programming
 -	Data processing
@@ -48,7 +48,7 @@ With VET TEC, you can get training in one of these high-demand training areas:
 
 ## What benefits can I get through this program?
 
-You can get:
+With VET TEC, you can get:
 -	Tuition for a full-time high-tech training program
 -	Money for housing during your training
 
@@ -82,7 +82,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 **Note:** A program is preferred if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.  
 
-## What happens after I complete the program?
+## Will I get a certificate after I've completed the program?
 
 After you complete your training, you'll receive a certification of your new skills. 
 
