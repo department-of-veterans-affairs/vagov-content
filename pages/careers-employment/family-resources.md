@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: topic-landing
-title: Resources for military and Veteran family members
+title: Resources For Military And Veteran Family Members
+heading: Resources for military and Veteran family members
 display_title: Family resources
 concurrence: complete
 order: 6
@@ -14,7 +15,7 @@ The Veterans Employment Center can help spouses and other family members access 
 
 </div>
 
-Through the Department of Defense’s [Spouse Education Career Opportunities](https://myseco.militaryonesource.mil/Portal/) (SECO) program, spouses can use government-sponsored career and education resources, take advantage of networking opportunities, and work with employment counselors. SECO also partners with the [Military Spouse Employment Partnership](https://msepjobs.militaryonesource.mil/msep/) (MSEP) and [My Career Advancement Account](https://myseco.militaryonesource.mil/Portal/Media/Default/Collaterals_Catalog/Program_Overview/MyCAA-Helping-Spouses-Reach-Career-Goals.pdf) (MyCAA) scholarship program. These organizations and others (such as [Blue Star Families](https://www.bluestarfam.org/)) offer assistance for spouses interested in the following:
+Through the Department of Defense’s [Spouse Education Career Opportunities](https://myseco.militaryonesource.mil/Portal/) (SECO) program, spouses can use government-sponsored career and education resources, take advantage of networking opportunities, and work with employment counselors. SECO also partners with the [Military Spouse Employment Partnership](https://msepjobs.militaryonesource.mil/msep/) (MSEP) and [My Career Advancement Account (PDF)](https://myseco.militaryonesource.mil/Portal/Media/Default/Collaterals_Catalog/Program_Overview/MyCAA-Helping-Spouses-Reach-Career-Goals.pdf) (MyCAA) scholarship program. These organizations and others (such as [Blue Star Families](https://www.bluestarfam.org/)) offer assistance for spouses interested in the following:
 
 - Connecting with employers committed to hiring military spouses.
 - Pursuing additional education and/or training.
