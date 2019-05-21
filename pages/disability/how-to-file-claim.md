@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: How to file a VA disability claim
+title: How To File A VA Disability Claim
 heading: How to file a VA disability claim
 display_title: How to file a claim
 description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
@@ -83,7 +83,7 @@ You should also know that you have up to a year from the date we receive your cl
 
 #### By mail
 
-File your claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
+File your claim by mail using an Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). <br>[Download VA Form 21-526EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
 
 Print the form, fill it out, and send it to this address:
 
