@@ -62,7 +62,6 @@ If you’re eligible, we’ll invite you to an orientation session at your neare
 
 <span id="servicemember-not-received-rating"></span>
 
-
 ## What if I’m a service member who hasn’t yet received a service-connected disability rating?
 
 You don’t need to wait for a rating. Instead, please fill out VA Vocational Rehabilitation - Getting Ahead After You Get Out (VA Form 28-0588). <br>
