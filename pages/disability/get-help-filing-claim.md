@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Get help filing your claim or appeal
+title: Get Help Filing Your Claim Or Appeal
 heading: Get help filing your claim or appeal
 display_title: Get help filing a claim
 description: Get help filing your VA disability claim from an accredited Veterans service representative. We trust these professionals because they’re trained and certified in the VA claims and appeals processes. Find Veterans Service Organizations (VSOs) or accredited individuals near you.
@@ -125,9 +125,9 @@ You'll need to either use eBenefits or fill out a form and mail it in.
 - Use eBenefits to let us know you’ll be working with a representative or to change your current representation. <br>
 [Go to eBenefits](https://www.ebenefits.va.gov/ebenefits/manage/representative)
 - To have a VSO help you, fill out an Appointment of Veterans Service Organization as Claimant’s Representative (VA Form 21-22). <br>
-[Download VA Form 21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf)
+[Download VA Form 21-22 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf)
 - To have a claims agent or attorney help you, fill out an Appointment of Individual as Claimant's Representative (VA Form 21-22a). <br>
-[Download VA Form 21-22a](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
+[Download VA Form 21-22a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf)
 
 If you're filling out one of the forms, you'll need to mail it to your nearest VA regional office. Please speak to the service organization or representative before you send your request. <br>
 [Find a VA regional office near you](/find-locations/)
