@@ -20,15 +20,7 @@ relatedlinks:
     - url: /pension/survivors-pension-rates/
       title: VA Survivors Pension benefit rates
       description: Find out what the current VA Survivors Pension benefit payment rates are.
-    - url: /education/types-of-education-benefits/
-      title: Compare all Veterans education benefits 
-      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
-    - url: /education/other-va-education-benefits/veap/
-      title: Veterans’ Educational Assistance Program (VEAP)
-      description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
-    - url: /gibill/apply.asp
-      title: Apply for VA education benefits
-      description: You can easily apply for VA education benefits online, by mail, or in person.
+
 ---
 
 <div class="va-introtext">
@@ -39,20 +31,29 @@ View current Veterans disability compensation rates for surviving parents of Vet
 
 ### On this page
 - [Rates if only 1 surviving parent is alive]
-- [Rates if both surviving parents are alive, but the eligible parent doesn't live with a spouse]
-- [Rates if both surviving parents are alive, and the eligible parent lives with the Veteran's other parent or another spouse]
+- [Rates if both surviving parents are alive]
  
 ## Rates if only 1 surviving parent is alive
 
-**These rates apply to you if you're the only surviving parent and you're:**
-- Not remarried, **or**
-- Remarried and living with your spouse
+These rates apply to you if both of the below descriptions are true for you.
 
-Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353** to this monthly rate.
+**Both of these must be true:**
+- You're the Veteran's only surviving parent, **and**
+- You're either not remarried, **or** you're remarried and living with your spouse
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
-|---|---|---|
-| $800 |	$652	| None |
+If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353** to this monthly rate.
+
+### Find your rate based on your monthly income
+
+Click on the monthly income range that applies to you. Then, follow the directions below the table to find your monthly payment amount.
+
+<ul class="usa-accordion">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000-1">$1,900 or less</button>
+<div id="income-1000-1" class="usa-accordion-content">
+
+| Income equal to or less than | Beginning monthly rate | Each $1 decrement |
+|---: |---: |---: |
+| 800 |	652	| None |
 | 900	| 644	| .08 |
 | 1,000	| 636	| .08 |
 | 1,100	| 628	| .08 |
@@ -64,6 +65,39 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 1,700	| 580	| .08 |
 | 1,800	| 572	| .08 |
 | 1,900	| 564	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $1,353 a month, you would round up to $1,400. So your beginning rate would be $604.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $1,353 (your actual monthly income) - $1,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $604 (your beginning monthly rate) = **$608.24 total monthly payment**
+
+If you’re entitled to Aid and Attendance, **add $353** to your total monthly payment.
+
+**Using our example:**
+
+$608.24 (total monthly payment) + $353 (Aid and Attendance) = **$961.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000-1">$1,901 to $2,900</button>
+<div id="income-2000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 2,000	| 556	| .08 |
 | 2,100	| 548	| .08 |
 | 2,200	| 540	| .08 |
@@ -74,6 +108,37 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 2,700	| 500	| .08 |
 | 2,800	| 492	| .08 |
 | 2,900	| 484	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $2,353 a month, you would round up to $2,400. So your beginning rate would be $524.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $2,353 (your actual monthly income) - $2,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $524 (your beginning monthly rate) = **$528.24 total monthly payment**
+
+**Using our example:**
+
+$528.24 (total monthly payment) + $353 (Aid and Attendance) = **$881.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000-1">$2,901 to $3,900</button>
+<div id="income-3000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 3,000	| 476	| .08 |
 | 3,100	| 468	| .08 |
 | 3,200	| 460	| .08 |
@@ -84,6 +149,38 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 3,700	| 420	| .08 |
 | 3,800	| 412	| .08 |
 | 3,900	| 404	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $3,353 a month, you would round up to $3,400. So your beginning rate would be $444.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $3,353 (your actual monthly income) - $3,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $444 (your beginning monthly rate) = **$448.24 total monthly payment**
+
+**Using our example:**
+
+$448.24 (total monthly payment) + $353 (Aid and Attendance) = **$801.24 total monthly payment**
+
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000-1">$3,901 to $4,900</button>
+<div id="income-4000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 4,000	| 396	| .08 |
 | 4,100	| 388	| .08 |
 | 4,200	| 380	| .08 |
@@ -94,6 +191,37 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 4,700	| 340	| .08 |
 | 4,800	| 332	| .08 |
 | 4,900	| 324	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $4,353 a month, you would round up to $4,400. So your beginning rate would be $364.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $4,353 (your actual monthly income) - $4,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $364 (your beginning monthly rate) = **$368.24 total monthly payment**
+
+**Using our example:**
+
+$368.24 (total monthly payment) + $353 (Aid and Attendance) = **$721.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000-1">$4,901 to $5,900</button>
+<div id="income-5000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 5,000	| 316	| .08 |
 | 5,100	| 308	| .08 |
 | 5,200	| 300	| .08 |
@@ -104,6 +232,37 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 5,700	| 260	| .08 |
 | 5,800	| 252	| .08 |
 | 5,900	| 244	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $5,353 a month, you would round up to $5,400. So your beginning rate would be $284.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $5,353 (your actual monthly income) - $5,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $284 (your beginning monthly rate) = **$288.24 total monthly payment**
+
+**Using our example:**
+
+$288.24 (total monthly payment) + $353 (Aid and Attendance) = **$641.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000-1">$5,901 to $6,900</button>
+<div id="income-6000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 6,000	| 236	| .08 |
 | 6,100	| 228	| .08 |
 | 6,200	| 220	| .08 |
@@ -114,6 +273,37 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 6,700	| 180	| .08 |
 | 6,800	| 172	| .08 |
 | 6,900	| 164	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $6,353 a month, you would round up to $6,400. So your beginning rate would be $204.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $6,353 (your actual monthly income) - $6,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $204 (your beginning monthly rate) = **$208.24 total monthly payment**
+
+**Using our example:**
+
+$208.24 (total monthly payment) + $353 (Aid and Attendance) = **$561.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000-1">$6,901 to $7,900</button>
+<div id="income-7000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 7,000	| 156	| .08 |
 | 7,100	| 148	| .08 |
 | 7,200	| 140	| .08 |
@@ -124,6 +314,37 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 | 7,700	| 100	| .08 |
 | 7,800	| 92	| .08 |
 | 7,900	| 84	| .08 |
+
+<h5> How to use this table to find your monthly payment amount</h5>
+
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $7,353 a month, you would round up to $7,400. So your beginning rate would be $124.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $7,353 (your actual monthly income) - $7,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $124 (your beginning monthly rate) = **$128.24 total monthly payment**
+
+**Using our example:**
+
+$128.24 (total monthly payment) + $353 (Aid and Attendance) = **$481.24 total monthly payment**
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-8000-1">$7,901 to $8,900</button>
+<div id="income-8000-1" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 8,000	| 76	| .08 |
 | 8,100	| 68	| .08 |
 | 8,200	| 60	| .08 |
@@ -138,17 +359,56 @@ Note: If you’re entitled to the Aid and Attendance (A&A) allowance, **add $353
 \** If living with spouse: $20,692
 \** If not living with spouse: $15,394
 
+Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
+
+**For example:** If you made $8,353 a month, you would round up to $8,400. So your beginning rate would be $44.
+
+Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
+
+- Start with your actual monthly income. Subtract the previous level's dollar amount.
+- Multiply the new amount by the decrement.
+- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
+
+**Using our example:** 
+
+- $8,353 (your actual monthly income) - $8,300 (the amount in the previous level) - **$53**
+- $53 X .08 (decrement) = $4.24
+- $4.24 + $44 (your beginning monthly rate) = **$48.24 total monthly payment**
+
+**Using our example:**
+
+$48.24 (total monthly payment) + $353 (Aid and Attendance) = **$401.24 total monthly payment**
+
+
+</div>
+</li>
+</ul>
+
 ------
 
-## Rates if both surviving parents are alive, but the eligible parent doesn't live with a spouse
+## Rates if both surviving parents are alive
 
-These rates apply to you if you and the other surviving parent of the Veteran are both living, but you're not living together or with the Veteran's spouse
+### If eligible parent doesn't live with a spouse
+
+These rates apply to you if both of the below descriptions are true for you.
+
+**Both of these must be true:**
+- You and the Veteran's other surviving parent are both alive, **and**
+- You're not living with the Veteran's other surviving parent or your current spouse
 
 Note: If you’re entitled to Aid and Attendance allowance, add $353 to the monthly rate.
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
-|---|---|---|
-| $800	| $472	| None |
+### Find your rate based on your monthly income
+
+Click on the monthly income range that applies to you. Then, follow the directions below the table to find your monthly payment amount.
+
+<ul class="usa-accordion">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000-2">$1,900 or less</button>
+<div id="income-1000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
+| $800	| $472 | None |
 | 900	| 464	| .08 |
 | 1,000	| 456	| .08 |
 | 1,100	| 448	| .08 |
@@ -160,6 +420,15 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 1,700	| 400	| .08 |
 | 1,800	| 392	| .08 |
 | 1,900	| 384	| .08 |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000-2">$1,901 to $2,900</button>
+<div id="income-2000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 2,000	| 376	| .08 |
 | 2,100	| 368	| .08 |
 | 2,200	| 360	| .08 |
@@ -170,6 +439,15 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 2,700	| 320	| .08 |
 | 2,800	| 312	| .08 |
 | 2,900	| 304	| .08 |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000-2">$2,901 to $3,900</button>
+<div id="income-3000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 3,000	| 296	| .08 |
 | 3,100	| 288	| .08 |
 | 3,200 |	280	| .08 |
@@ -180,6 +458,15 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 3,700	| 240	| .08 |
 | 3,800	| 232	| .08 |
 | 3,900	| 224	| .08 |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000-2">$3,901 to $4,900</button>
+<div id="income-4000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 4,000	| 216	| .08 |
 | 4,100	| 208	| .08 |
 | 4,200	| 200	| .08 |
@@ -190,6 +477,15 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 4,700	| 160	| .08 |
 | 4,800	| 152	| .08 |
 | 4,900	| 144	| .08 |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000-2">$4,901 to $5,900</button>
+<div id="income-5000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 5,000	| 136	| .08 |
 | 5,100	| 128	| .08 |
 | 5,200	| 120	| .08 |
@@ -200,6 +496,15 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 5,700	| 80	| .08 |
 | 5,800	| 72	| .08 |
 | 5,900	| 64	| .08 |
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000-2">$5,901 to $6,900</button>
+<div id="income-6000-2" class="usa-accordion-content">
+
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
+| --- | ---: | ---: |
 | 6,000	| 56	| .08 |
 | 6,100	| 48	| .08 |
 | 6,200	| 40	| .08 |
@@ -210,21 +515,29 @@ Note: If you’re entitled to Aid and Attendance allowance, add $353 to the mont
 | 6,637 |	5.04	| .08 |
 | 6,638 to 15,394	| 5	| None |
 
-## Rates if both surviving parents are alive, and the eligible parent lives with the Veteran's other parent or another spouse
+</div>
+</li>
+</ul>
 
-These rates apply to you if both you and the other parent of the Veteran are living, and you're living with:
-- The Veteran's surviving spouse, **or**
-- The Veteran's other parent
+### If eligible parent lives with the Veteran's other parent or current spouse
 
-### Basic monthly rates
+These rates apply to you if both of the below descriptions are true for you.
 
-Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the monthly rate.
+**Both of these must be true:**
+- You and the Veteran's other surviving parent are both alive, **and**
+- You're living with the Veteran's other surviving parent or your current spouse
+
+### Find your rate based on your monthly income
+
+Click on the monthly income range that applies to you. Then, follow the directions below the table to find your monthly payment amount.
+
+**If you’re entitled to the Aid and Attendance allowance,** add $353 to your monthly payment amount.
 
 <ul class="usa-accordion">
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000">Monthly income of  $1,900 or less</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000">$1,900 or less</button>
 <div id="income-1000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 1,000	| 444	| None |
 | 1,100	| 441	| .03 |
@@ -239,10 +552,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000">Monthly income between $2,000 and $2,900</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000">$1,901 to $2,900</button>
 <div id="income-2000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 2,000	| 404	| .05 |
 | 2,100	| 399	| .05 |
@@ -257,10 +570,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">Monthly income between $3,000 and $3,900</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">$2,901 to $3,900</button>
 <div id="income-3000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 3,000	| 341	| .07 |
 | 3,100	| 333	| .07 |
@@ -275,10 +588,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">Monthly income between $4,000 and $4,900</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">$3,901 to $4,900</button>
 <div id="income-4000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 4,000	| 261	| .08 |
 | 4,100	| 253	| .08 |
@@ -293,10 +606,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">Monthly income between $5,000 and $5,900</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">$4,901 to $5,900</button>
 <div id="income-5000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 5,000	| 181	| .08 |
 | 5,100	| 173	| .08 |
@@ -311,10 +624,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">Monthly income between $6,000 and $6,900</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">$5,901 to $6,900</button>
 <div id="income-6000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 6,000	| 101	| .08 |
 | 6,100	| 93	| .08 |
@@ -329,10 +642,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 
 </div>
 </li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">Monthly income between $7,000 and $20,692</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">$6,901 to $20,692</button>
 <div id="income-7000" class="usa-accordion-content">
 
-| If your monthly income is equal to or less than: | You’ll get this monthly payment: | Each $1 decrement |
+| Monthly income less than or equal to | Beginning monthly rate | Each $1 decrement |
 |---|---|---|
 | 7,000	| 21	| .08 |
 | 7,100	| 13	| .08 |
@@ -343,32 +656,10 @@ Note: If you’re entitled to the Aid and Attendance allowance, add $353 to the 
 </li>
 </ul>
 
-## How to read the DIC for surviving parents rate charts
+## Historic rates
 
-Each chart includes three columns. The first column shows a monthly income amount. To find your correct row, find the amount in the chart that’s the closest amount to your monthly income, rounded up to the nearest benefit level. 
+View VA DIC parent rates for past years.
 
-For example, in Chart 3 below, if you make $1,353 a month, you would choose the row with **$1,400**, because your income is “equal to or less than” $1,400, but more than the previous level, $1,300. So $375 would be your beginning monthly rate.
-
-But your income is less than $1,400, so you get a rate between the previous row’s rate of $378 and your beginning rate of $375. 
-
-To find your actual monthly rate, you’ll use the “decrement” amount in the final column. The decrement is a decimal that’s multiplied to the difference between your monthly income and the income shown on the prior row.
-
-This example shows how you’d use the decrement rate with the income and rate example above.
-
-Start with your income, $1,353. Then subtract the previous row’s dollar amount. **$1,353 - $1,300 = $53**.
-
-Then take that amount, $53, and multiply it by the decrement in Chart 3, .03. **$53 X .03 = $1.59**.
-
-Then add that amount to your beginning monthly rate. **$375 + 1.59 = $376.39**.
-
-Your new monthly rate would be **$376.59**.
-
-| $1353</br>-1300</br>53</br></br>53</br>x.03</br>1.59</br></br>$375</br>+1.59</br>$376.59 | Your income</br>Minus prior row's limit</br>Difference</br></br>Difference</br>Times the decrement</br>Amount of extra monthly income</br></br>Your beginning monthly rate</br>Add your extra monthly income</br>Your new monthly rate |
-|--:|--|
-
-
-### Historic DIC for surviving parent rates
-
-| [2017](https://benefits.va.gov/PENSION/rates_parents_DIC_pen17.asp) | [2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) | [2014 and earlier](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) |
-|---|---|---|
-
+[Rates effective December 1, 2017](https://benefits.va.gov/PENSION/rates_parents_DIC_pen17.asp)<br>
+[Rates effective December 1, 2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) <br>
+[Rates effective December 1, 2014 and earlier](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) 
