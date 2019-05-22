@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VR&E Independent Living track
+title: VR&E Independent Living Track
+heading: VR&E Independent Living track
 display_title: Independent Living
 template: detail-page
 order: 5
