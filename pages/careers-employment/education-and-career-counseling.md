@@ -18,7 +18,7 @@ If you’re leaving active service soon, find out how to get free Educational an
 
 <div class="feature" markdown="1">
 
-### Can I get educational and career counseling?
+### Can I get Educational and Career Counseling?
 
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
