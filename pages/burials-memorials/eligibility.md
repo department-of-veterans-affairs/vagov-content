@@ -268,6 +268,24 @@ You aren't eligible for burial in a VA national cemetery, Arlington National Cem
 
 </div>
 </li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="subversive-activities">Those convicted of subversive activities</button>
+<div id="subversive-activities" class="usa-accordion-content">
+  
+You aren't eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
+
+**Note:** You can become eligible again only if the President of the United States pardons you.
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="training">Those on active or inactive duty for training </button>
+<div id="training" class="usa-accordion-content">
+  
+You aren't eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
+</div>
+</li>
 </ul>
 
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
