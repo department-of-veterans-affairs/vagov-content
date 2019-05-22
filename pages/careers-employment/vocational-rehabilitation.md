@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Vocational Rehabilitation and Employment (Chapter 31)
+title: VA Vocational Rehabilitation And Employment (Chapter 31)
+heading: VA Vocational Rehabilitation and Employment (Chapter 31)
 display_title: Vocational Rehab and Employment
 permalink: /employment/vocational-rehab-and-employment/index.html
 source: http://www.benefits.va.gov/VRE/
