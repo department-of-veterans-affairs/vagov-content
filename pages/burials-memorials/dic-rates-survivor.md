@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: 2019 VA DIC Rates for Surviving Spouse and Child
 heading: 2019 VA DIC rates for surviving spouse and child
-display_title: View 2019 VA DIC rates for the surviving spouses and dependent children of Veterans. These VA survivor benefits are tax exempt. This means you won't have to pay any taxes on your DIC (Dependency and Indemnity Compensation) payments.
-description: 
+display_title: DIC rates for surviving spouse and child
+description: View 2019 VA DIC rates for the surviving spouses and dependent children of Veterans. These VA survivor benefits are tax exempt. This means you won't have to pay any taxes on your DIC (Dependency and Indemnity Compensation) payments.
 keywords: va dic rates, va dic rates 2019, va survivor benefits rates, dependency and indemnity compensation rates
 concurrence: 
 spoke: Additional Resources
@@ -34,30 +34,28 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
 
 ### On this page
  - [VA DIC rates if the Veteran died on or after January 1, 1993](#after-1993)
- - [VA DIC rates if the Veteran died before January 1, 1993](#before-1993-) 
+ - [VA DIC rates if the Veteran died before January 1, 1993](#before-1993) 
  - [How your DIC payments may affect your VA Survivors Pension or Survivor Benefit Plan](#sbp)
+ - [Historic DIC rates](#historic)
  
 <span id="after-1993"></a>
 ## VA DIC rates if the Veteran died on or after January 1, 1993 
 **Effective December 1, 2018**
 
-To find your total monthly payment amount, start with the **Basic rates** table. 
+To find your total monthly payment amount, start with the **Basic rates** table. Find the survivor status that applies to you.
 
-If you're the surviving spouse of a Veteran, then go to the **Added amounts** table. Find any descriptions that are true for you and add the matching amount next to each to your basic rate to get your total monthly payment.
+- **If you're the surviving dependent child of a Veteran, and the Veteran has no surviving spouse,** the rate to the right of your survivor status is your total monthly payment.
+- **If you're the surviving spouse of a Veteran,** go next to the **Added amounts** tables. Find any descriptions that are true for you, and add the amount to the right of each to your basic monthly payment amount. This is your total monthly payment.
 
 ### Basic rates for monthly payments
 
 All rates in $ U.S. dollars
-| **Your survivor status** | **Monthly payment** | 
+| **Survivor status** | **Monthly payment** | 
 |---|---| 
 | Surviving spouse | 1,319.04 |
 | Surviving dependent child of a Veteran, when the Veteran has no surviving spouse | 452.00 |
 
 ### Added amounts for surviving spouses
-
-#### Added amounts based on factors related to disability
-
-As a surviving spouse, you may be eligible to receive more money each month based on your or the Veteran's disability.
 
 All rates in $ U.S. dollars
 | If this is true for you... | You may qualify for this benefit | Added monthly amount | 
@@ -65,32 +63,25 @@ All rates in $ U.S. dollars
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | 8-year provision | 280.09 |
 | You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 |
-
-#### Added amounts based on dependent children
-
-If you have 1 or more dependent children who are under the age of 18, you may be eligible for added amounts each month.
-
-All rates in $ U.S. dollars
-| Benefit | Added monthly amount | 
-| ---| --- |
-| Transitional benefit | 282.00 <br> For the first 2 years after the Veteran's death |
-| DIC apportionment rate | 326.77 <br> For each eligible child |
+| You have 1 or more children who are under the age of 18 | <ul><li>Transitional benefit, **and**</li><li>DIC apportionment rate</li></ul> | <ul><li>282.00 <br> For the first 2 years after the Veteran's death<li><li>326.77 <br> For each eligible child</li></ul>
 
 ### Example of how to use these tables to find your monthly payment amount
 
-If you were the qualified surviving spouse of a Veteran who qualified for the 8-year provision, **and** you qualified for Aid and Attendance, **and** you had 2 children under 18, you would calculate your rate as below.
+If you were the surviving spouse of a Veteran, **and** you qualified for the 8-year provision **and** Aid and Attendance, **and** you had 2 children under 18, you would calculate your rate as below.
 
-- **Total monthly payment for the first 2 years:** $1,319.04 (basic monthly rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18) + $326.77 (2nd child under 18) + $282.00 (transitional benefit) = **$2,771.44**
+#### Total monthly payment for the first 2 years
 
-- **Total monthly payment after 2 years (when transitional benefit stops):** $1,319.04 (basic monthly rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18) + $326.77 (2nd child under 18) = **$2,489.44**
-</div>
-</ul>
+$1,319.04 (basic monthly rate) <br> + $280.09 (8-year provision) <br> + $236.77 (Aid and Attendance) <br> + $326.77 (1st child under 18) <br> + $326.77 (2nd child under 18) <br> + $282.00 (transitional benefit) <br> = **$2,771.44**
+
+#### Total monthly payment after 2 years (when transitional benefit ends)
+
+$2,771.44 (monthly payment with transitional benefit) <br> - $282.00 (transitional benefit) <br> = **$2,489.44**
 
 **Note:** If you haven't yet applied for this benefit, [find out if you're eligible and how to apply for VA DIC](/burials-memorials/dependency-indemnity-compensation/).
 
 ------
 
-<span id="after-1993"></a>
+<span id="before-1993"></a>
 ## VA DIC rates if the Veteran died before January 1, 1993 
 **Effective December 1, 2018**
 
@@ -109,7 +100,7 @@ Then, go to the **Added or increased amounts** table. Add any added or increased
 <h4>Basic monthly rates</h4>
 All rates in $ U.S. dollars
 
-| Pay grade | Monthly payment amount | 
+| Veteran's pay grade | Monthly payment amount | 
 | --- | ---: |
 | **E-1** | 1,319.04 | 
 | **E-2** | 1,319.04 | 
@@ -128,23 +119,19 @@ All rates in $ U.S. dollars
 
 | If this is true for you... | We'll add or increase your monthly payment amount as below | 
 | ---| ---: |
-| <ul><li>The Veteran had a pay grade of E-1 to E-7, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Add $280.09 |
-| <ul><li>The Veteran had a pay grade of E-8 or E-9, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
+| <ul><li>The Veteran had a pay grade of **E-1 to E-7**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Add $280.09 |
+| <ul><li>The Veteran had a pay grade of **E-8 or E-9**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under the age of 18 | Add $325.77 per child |
 
-<h4>Examples of how to calculate your monthly payment amount</h4>
+<h4>Example of how to use these tables to find your monthly payment amount</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was E-3, and you had 2 dependent children under 18 years, you would calculate your monthly DIC payment amount as below.
+If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under 18, you would calculate your monthly DIC payment amount as below.
 
-$1,283.11 (basic rate) + $325.77 (rate for 1st eligible child) + $325.77 (rate for 2nd eligible child) = **$1,934.65 total monthly payment**
+$1,283.11 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$1,934.65 total monthly payment**
 
-If you were the surviving spouse of a Veteran whose pay grade was E-3, and you had 2 dependent children under 18 years, **and** and the Veteran qualified for the 8-year provision, you would calculate your monthly DIC payment amount as below.
+If you were the surviving spouse of a Veteran whose pay grade was **E-9**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under 18, you would calculate your monthly DIC payment amount as below.
 
-$1,283.11 (basic rate) + $280.09 (8-year provision for E-1 to E-7 pay grades) + $325.77 (rate for 1st eligible child) + $325.77 (rate for 2nd eligible child) = **$2,214.74 total monthly payment**
-
-If you were the surviving spouse of a Veteran whose pay grade was E-8, and you had 2 dependent children under 18 years, and the Veteran qualified for the 8-year provision, you would calculate your monthly DIC payment amount as below.
-
-$1,599.33 (basic rate for Veteran with E-8 pay grade who qualifies for the 8-year provision) + $325.77 (rate for 1st eligible child) + $325.77 (rate for 2nd eligible child) = **$2,250.87 total monthly payment**
+$1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9 with 8-year provision) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$2,250.87 total monthly payment**
 
 </div>
 </li>
@@ -154,7 +141,7 @@ $1,599.33 (basic rate for Veteran with E-8 pay grade who qualifies for the 8-yea
 
 <h4>Basic monthly payment rates</h4>
 
-| Pay grade | Monthly payment amount | 
+| Veteran's pay grade | Monthly payment amount | 
 | --- | ---: |
 | **W-1** | 1,392.87 | 
 | **W-2** | 1,448.23 | 
@@ -168,15 +155,15 @@ $1,599.33 (basic rate for Veteran with E-8 pay grade who qualifies for the 8-yea
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under the age of 18 | Add $326.77 per child |
 
-<h4>Examples of how to calculate your monthly payment amount</h4>
+<h4>Example of how to calculate your monthly payment amount</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was W-3, and you had 2 dependent children under 18 years, you would calculate your monthly DIC payment amount as below.
+If you were the surviving spouse of a Veteran whose pay grade was W-3, **and** you had 2 dependent children under 18, you would calculate your monthly DIC payment amount as below.
 
-$1,490.57 (basic rate) + $326.77 (rate for 1st eligible child) + $326.77 (rate for 2nd eligible child) = **$2,144.11 total monthly payment**
+$1,490.57 (basic monthly payment rate) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,144.11 total monthly payment**
 
-If you were the surviving spouse of a Veteran whose pay grade was W-3, and you had 2 dependent children under 18 years, **and** the Veteran qualifies for the 8-year provision, you would calculate your monthly DIC payment amount as below.
+If you **also** qualified for the 8-year provision, you would calculate your monthly DIC payment amount as below.
 
-$1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate for 1st eligible child) + $326.77 (rate for 2nd eligible child) = **$2,252.87 total monthly payment**
+$1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.87 total monthly payment**
 
 </div>
 </li>
@@ -186,7 +173,7 @@ $1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate
 
 <h4>Basic monthly payment rates</h4>
 
-| **Pay grade** | **Monthly payment amount** | 
+| **Veteran's pay grade** | **Monthly payment amount** | 
 | --- | ---: |
 | **O-1** | 1,392.87 | 
 | **O-2** | 1,440.64 | 
@@ -210,13 +197,13 @@ $1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate
 
 <h4>Example</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was O-3, and you had 2 dependent children under 18 years, you would calculate your monthly DIC payment amount as below.
+If you were the surviving spouse of a Veteran whose pay grade was **O-3**, and you had 2 dependent children under 18, you would calculate your monthly DIC payment amount as below.
 
-$1,539.42 (basic rate) + $326.77 (rate for 1st eligible child) + $326.77 (rate for 2nd eligible child) = **$2,192.96 total monthly payment**
+$1,539.42 (basic monthly payment rate) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,192.96 total monthly payment**
 
-If you were the surviving spouse of a Veteran whose pay grade was O-3, and you had 2 dependent children under 18 years, **and** the Veteran qualifies for the 8-year provision, you would calculate your monthly DIC payment amount as below.
+If you **also** qualified for the 8-year provision, you would calculate your monthly DIC payment amount as below.
 
-$1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate for 1st eligible child) + $326.77 (rate for 2nd eligible child) = **$2,252.87 total monthly payment**
+$1,599.33 (increased monthly payment rate with 8-year provision) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.87 total monthly payment**
 
 </div>
 </li>
@@ -226,7 +213,7 @@ $1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate
 
 #### If child is over 18 years of age and the Veteran's surviving spouse is also eligible for DIC
 
-This payment is in addition to the eligible surviving spouse's compensation. We'll pay this compensation to you separately as the adult surviving child.
+We pay this in addition to the eligible surviving spouse's compensation. We pay this compensation to you separately as the adult surviving child.
 
 All rates in $ U.S. dollars
 | Type of child | Monthly payment amount |
@@ -238,11 +225,9 @@ All rates in $ U.S. dollars
 
 #### If the Veteran doesn't have a surviving spouse who is eligible for DIC
 
-We'll base your payment amount on the number of the Veteran's eligible surviving children. In the table below, the monthly rate for each child shows how much you'll receive each month if we pay each child separately. The total monthly payment shows how much your family will receive if we pay you in one lump sum each month.
+We'll base your payment amount on the number of the Veteran's eligible surviving children. Eligible children include children who are under the age of 18, or who are between 18 to 23 years old and in a qualified school program.
 
 ##### Basic monthly rate
-
-Eligible children include children who are under the age of 18 years, or who are between 18 to 23 years and in a qualified school program.
 
 | Number of Veteran's eligible children | Monthly rate for each child | Total monthly payment |
 | ---: | ---: | ---: |
@@ -277,7 +262,7 @@ If we determine that you're eligible for both DIC and [Survivors Pension benefit
 
 ### What's a Survivor Benefit Plan?
 
-The Survivor Benefit Program is a voluntary annuity program that service members may purchase as a retirement benefit for family members. An annuity is a monthly payment received for life. Depending on the branch of service, members may buy a Survivor Benefit Plan (SBP) or Reserve Component Survivor Benefit Plan (RCSBP).
+The Survivor Benefit Program is a voluntary annuity program that service members may purchase as a retirement benefit for their family members. An annuity is a monthly payment received for life. Depending on their military service, members may buy a Survivor Benefit Plan (SBP) or Reserve Component Survivor Benefit Plan (RCSBP).
 
 We don't manage this program. It's managed by the Department of Defense's Defense Finance and Accounting Service (DFAS). 
 
@@ -285,7 +270,7 @@ We don't manage this program. It's managed by the Department of Defense's Defens
 
 In most cases, you can't receive a full SBP or RCSBP payment and a full DIC payment at the same time. 
 
-**Exception:** If you're receiving an SBP or RCSBP annuity from one spouse, but then remarry after age 57 and become eligible for DIC based on the service-connected disability of another spouse, you can receive full benefits through each program. 
+**Exception:** If you're receiving an SBP or RCSBP annuity from one spouse, but then remarry after age 57 and become eligible for DIC based on the service-connected disability of another spouse, you can receive full benefits through both programs at the same time. 
 
 ### What happens if I'm receiving SBP or RCSBP payments and then qualify for DIC and the exception above doesn't apply to me?
 
@@ -295,7 +280,9 @@ If DFAS pays you more than the offset amount in SBP or RCSBP payments after you 
 
 Be sure to notify DFAS as soon as you qualify for DIC so they can reduce your SBP or RCSBP payment amount and you can avoid owing money. You'll need to send them a copy of your VA DIC award letter. You can all DFAS at <a href="tel:+18003211080">800-321-1080</a>, Monday to Friday, 8:00 a.m. to 5:00 p.m. ET.
 
+------
 
+<span id="historic"></a>
 ## Historic rates
 
 View VA DIC surviving spouse and child rates for past years.
