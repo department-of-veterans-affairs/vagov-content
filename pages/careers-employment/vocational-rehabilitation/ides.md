@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Accessing VR&E through the Integrated Disability Evaluation System (IDES)
+title: Accessing VR&E Through The Integrated Disability Evaluation System (IDES)
+heading: Accessing VR&E through the Integrated Disability Evaluation System (IDES)
 display_title: Accessing VR&E through IDES
 template: detail-page
 order: 4
