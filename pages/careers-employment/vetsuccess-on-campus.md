@@ -2,7 +2,7 @@
 template: detail-page
 layout: page-breadcrumbs.html
 title: VetSuccess on Campus
-heading: VetSuccess on campus
+heading: VetSuccess on Campus
 source: http://www.benefits.va.gov/vocrehab/vsoc.asp
 order: 2
 spoke: More resources
