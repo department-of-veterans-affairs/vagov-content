@@ -23,8 +23,8 @@ relatedlinks:
   - heading: More support for your small business
     links:
     - url: /careers-employment/veteran-owned-business-support/
-      title: Register your Veteran-owned small business
-      description: Register to do business with VA and get support for your Veteran-owned small business.
+      title: Register your Veteran-Owned Small Business
+      description: Register to do business with VA and get support for your Veteran-Owned Small Business.
 ---
 
 <div class="va-introtext">
