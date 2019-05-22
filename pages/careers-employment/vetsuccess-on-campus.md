@@ -315,7 +315,7 @@ This program is also available to dependents of Veterans who meet at least one o
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="North-Carolina">North-Carolina</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="North-Carolina">North Carolina</button>
 <div id="North-Carolina" class="usa-accordion-content">
 
 | **School name** | **VSOC counselor email address** | **Regional office** |
