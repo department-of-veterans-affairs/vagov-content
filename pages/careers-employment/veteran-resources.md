@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Other employment resources for Veterans
+title: Other Employment Resources For Veterans
+heading: Other employment resources for Veterans
 display_title: Veteran resources
 source: http://www.benefits.va.gov/VOW/vocational-rehabilitation.asp
 template: detail-page
