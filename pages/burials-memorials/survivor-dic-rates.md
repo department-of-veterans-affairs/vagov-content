@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 2019 VA DIC Rates for Surviving Spouse and Child
+title: 2019 VA DIC Rates For Surviving Spouse And Child
 heading: 2019 VA DIC rates for surviving spouse and child
 display_title: DIC rates for surviving spouse and child
 description: View 2019 VA DIC rates for the surviving spouses and dependent children of Veterans. These VA survivor benefits are tax exempt. This means you won't have to pay any taxes on your DIC (Dependency and Indemnity Compensation) payments.
@@ -34,27 +34,27 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
 </div>
 
 ### On this page
- - [VA DIC rates if the Veteran died on or after January 1, 1993](#after-1993)
- - [VA DIC rates if the Veteran died before January 1, 1993](#before-1993) 
- - [How your DIC payments may affect your VA Survivors Pension or Survivor Benefit Plan](#sbp)
- - [Historic DIC rates](#historic)
+ - [Rates if the Veteran died on or after January 1, 1993](#after-1993)
+ - [Rates if the Veteran died before January 1, 1993](#before-1993) 
+ - [How your payments for DIC may affect your VA Survivors Pension or Survivor Benefit Plan](#sbp)
+ - [Historic rates for DIC](#historic)
  
 <span id="after-1993"></a>
-## VA DIC rates if the Veteran died on or after January 1, 1993 
+## Rates if the Veteran died on or after January 1, 1993 
 **Effective December 1, 2018**
 
-To find your total monthly payment amount, start with the **Basic rates** table. Find the survivor status that applies to you.
+To find your total monthly payment amount, start with the **Basic rates** table below. Find the survivor status that applies to you.
 
 - **If you're the surviving dependent child of a Veteran, and the Veteran has no surviving spouse,** the rate to the right of your survivor status is your total monthly payment.
-- **If you're the surviving spouse of a Veteran,** go next to the **Added amounts** table. Find any descriptions that are true for you, and add the amount to the right of each to your basic monthly payment amount. This is your total monthly payment.
+- **If you're the surviving spouse of a Veteran,** the rate to the right of your survivor status is your basic monthly payment. You may also be eligible for added amounts based on certain factors. Go next to the **Added amounts** table. Find any descriptions that are true for you, and add the amount to the right of each to your basic monthly payment amount. This is your total monthly payment.
 
 ### Basic rates for monthly payments
 
 All rates in $ U.S. dollars
 | **Survivor status** | **Monthly payment** | 
 |---|---| 
-| Surviving spouse | 1,319.04 |
 | Surviving dependent child of a Veteran, when the Veteran has no surviving spouse | 452.00 |
+| Surviving spouse | 1,319.04 |
 
 ### Added amounts for surviving spouses
 
@@ -83,7 +83,7 @@ $2,771.44 (monthly payment with transitional benefit) <br> - $282.00 (transition
 ------
 
 <span id="before-1993"></a>
-## VA DIC rates if the Veteran died before January 1, 1993 
+## Rates if the Veteran died before January 1, 1993 
 **Effective December 1, 2018**
 
 If your Veteran spouse or parent died before January 1, 1993, we use a different method to determine your DIC monthly payments.
@@ -254,9 +254,9 @@ We'll base your payment amount on the number of the Veteran's eligible surviving
 ------
 
 <span id="sbp"></a>
-## How your DIC payments may affect your VA Survivors Pension or Survivor Benefit Plan 
+## How your payments for DIC may affect your VA Survivors Pension or Survivor Benefit Plan 
 
-### How do my DIC payments affect my ability to receive a VA Survivors Pension?
+### How do my payments for DIC affect my ability to receive a VA Survivors Pension?
 
 If we determine that you're eligible for both DIC and [Survivors Pension benefits](/pension/survivors-pension/), we'll pay you whichever benefit gives you the most money. <br>
 [View current VA Survivors Pension benefit rates](/pension/survivors-pension-rates/)
@@ -267,7 +267,7 @@ The Survivor Benefit Program is a voluntary annuity program that service members
 
 We don't manage this program. It's managed by the Department of Defense's Defense Finance and Accounting Service (DFAS). 
 
-### Can I receive SBP or RCSBP payments and DIC payments at the same time?
+### Can I receive SBP or RCSBP payments and payments for DIC at the same time?
 
 In most cases, you can't receive a full SBP or RCSBP payment and a full DIC payment at the same time. 
 
@@ -284,7 +284,7 @@ Be sure to notify DFAS as soon as you qualify for DIC so they can reduce your SB
 ------
 
 <span id="historic"></a>
-## Historic rates
+## Historic rates for DIC
 
 View VA DIC surviving spouse and child rates for past years.
 
