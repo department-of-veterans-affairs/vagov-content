@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Dependent And Indemnity Compensation (DIC) Rates For Surviving Parents
-heading: Dependent and Indemnity Compensation (DIC) rates for surviving parents
+title: 2019 VA DIC Rates For Surviving Parents
+heading: 2019 VA DIC rates for surviving parents
 display_title: 
 description: 
 concurrence: 
@@ -25,14 +25,16 @@ relatedlinks:
 
 <div class="va-introtext">
 
-View current Veterans disability compensation rates for surviving parents of Veterans. These benefits are also known as the Dependency and Indemnity Compensation (DIC) benefits. We base the benefits based on when the Veteran died, as well as other factors. Each section shows you how to read the tables. **The rates are effective December 1, 2018.**
+View 2019 VA Dependency and Indemnity Compensation (DIC) benefits. We base the benefits based on when the Veteran died, as well as other factors. Each section shows you how to read the tables. 
 
 </div>
 
 ### On this page
-- [Rates if only 1 surviving parent is alive]
-- [Rates if both surviving parents are alive]
- 
+- [How to read VA DIC rate tables for surviving parents](#read)
+- [Rates if only 1 surviving parent is alive](#one-parent)
+- [Rates if both surviving parents are alive](#both-parents)
+
+<span id="one-parent"></a>
 ## Rates if only 1 surviving parent is alive
 
 These rates apply to you if both of the below descriptions are true for you.
@@ -68,28 +70,15 @@ Click on the monthly income range that applies to you. Then, follow the directio
 
 <h5> How to use this table to find your monthly payment amount</h5>
 
-Find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning rate.
-
-**For example:** If you made $1,353 a month, you would round up to $1,400. So your beginning rate would be $604.
-
-Then, if your income is less than the amount you rounded up to, use the **$1 decrement** decimal to the right of your beginning rate to calculate your total monthly payment amount. To do this:
-
-- Start with your actual monthly income. Subtract the previous level's dollar amount.
-- Multiply the new amount by the decrement.
-- Then, add that armount to your beginning monthly rate to get your full monthly payment amount.
-
-**Using our example:** 
-
-- $1,353 (your actual monthly income) - $1,300 (the amount in the previous level) - **$53**
-- $53 X .08 (decrement) = $4.24
-- $4.24 + $604 (your beginning monthly rate) = **$608.24 total monthly payment**
-
-If you’re entitled to Aid and Attendance, **add $353** to your total monthly payment.
-
-**Using our example:**
-
-$608.24 (total monthly payment) + $353 (Aid and Attendance) = **$961.24 total monthly payment**
-
+<ol class="process">
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> To do this, find the amount in the first column that’s closest to your monthly income when rounded up to the next level. The amount to the right is your beginning monthly rate. <br>
+    <strong>For example:</strong> If you made $1,353 a month, you would round up to $1,400. So your beginning rate would be <strong>$604</strong>.</li>
+  <li class="process-step list-two"><strong>Go back to your actual monthly income (before you rounded it up)</strong> Find the previous level's dollar amount, and subtract it from your actual monthly income.<br><strong>Using our example:</strong> $1,353 (your actual monthly income) - $1,300 (the amount in the previous level) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiple this new amount by the $1 decrement</strong>Use the decimal to the right of your beginning monthly rate.</strong><br><strong>Using our example:</strong>$53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate to get your monthly payment amount</strong><br><strong>Using our example:</strong> $4.24 + $604 (your beginning monthly rate) = **$608.24 monthly payment** </li>
+   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353 to get your total monthly payment</strong><br><strong>Using our example:</strong> $608.24 (your total monthly payment without Aid and Attendance) + $353 (Aid and Attendance) = <strong>$961.24 total monthly payment with Aid and Attendance</strong></li>
+   </ol>
+    
 </div>
 </li>
 <li>
@@ -385,7 +374,7 @@ $48.24 (total monthly payment) + $353 (Aid and Attendance) = **$401.24 total mon
 </ul>
 
 ------
-
+<span id="both-parents"></a>
 ## Rates if both surviving parents are alive
 
 ### If eligible parent doesn't live with a spouse
