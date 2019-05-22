@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VR&E Rapid Access to Employment track
+title: VR&E Rapid Access To Employment Track
+heading: VR&E Rapid Access to Employment track
 display_title: Rapid Access to Employment
 template: detail-page
 order: 2
@@ -107,9 +108,9 @@ Some dependents of service members or Veterans with service-connected disabiliti
 
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
-  [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf)
+  [Download the SEI program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf)
 - **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
-  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf)<br>
+  [Download the NPWE program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf)<br>
   [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM)
 
 
