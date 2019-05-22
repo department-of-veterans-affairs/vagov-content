@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Principles of Excellence program
+title: Principles Of Excellence Program
+heading: Principles of Excellence program
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 collection: educationChooseSchool
