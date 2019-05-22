@@ -95,7 +95,7 @@ If your Veteran spouse or parent died before January 1, 1993, we'll use a differ
 
 To find your monthly payment amount, click on the Veteran's pay grade category. Find the Veteran's specific pay grade in the left column of the **Basic monthly rates** table, and the matching monthly payment amount to the right. 
 
-Then, add any added or increased amounts that apply to you, based on the Veteran's disability rating and whether you have dependent children under the age of 18 years.
+Then, go to the **Added or increased amounts** table. Add any added or increased amounts that apply to you, based on the Veteran's disability rating and whether you have dependent children under the age of 18 years.
 
 <ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="enlisted">Enlisted Veteran pay grades E-1 to E-9</button>
@@ -129,13 +129,6 @@ All rates in $ U.S. dollars
 
 **Note:** For the purposes of the 8-year provision, the Veteran must have been receiving or entitled to receive VA disability compensation for their service-connected disability rating totally disabling (including for indidividual unemployability).
 
-- **If the Veteran had a pay grade of E-1 to E-7 and you qualify for the 8-year provision,** we'll add $280.09 to your monthly payment amount.
-- **If the Veteran had a pay grade of E-8 or E-9 and you qualify for the 8-year provision,** we'll raise your  monthly payment to $1,599.33.
-- **If you have 1 or more dependent children who are under 18 years old,** we'll add $325.77 to your monthly payment amount for each eligible child.
-
-**You qualify for the 8-year provision if both of the below descriptions are true:**
-<ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including a rating of individual unemployability) for at least the entire 8 years before their death, <strong>and</strong></li><li>You were married to the Veteran for those same 8 years</li></ul> 
-
 <h4>Examples of how to calculate your monthly payment amount</h4>
 
 If you were the surviving spouse of a Veteran whose pay grade was E-3, and you had 2 dependent children under 18 years, you would calculate your monthly DIC payment amount as below.
@@ -167,11 +160,12 @@ $1,599.33 (basic rate for Veteran with E-8 pay grade who qualifies for the 8-yea
 
 <h4>Added or increased amounts</h4>
 
-- **If the Veteran qualifies for the 8-year provision,** we'll raise your basic monthly rate to $1,599.33.
-- **If you have 1 or more dependent children who are under 18 years old,** we'll add $326.77 to your basic monthly rate for each eligible child.
+| If this is true for you... | We'll add or increase your monthly payment amount as below | 
+| ---| ---: |
+| <ul><li>You were married to the Veteran for the 8 full years leading up to their death, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for those entire 8 years</li></ul> | Increase payment to $1,599.33 |
+| You have 1 or more dependent children who are under the age of 18 | Add $326.77 per child |
 
-**The Veteran qualifies for the 8-year provision if both of the below descriptions are true:**
-<ul><li>The Veteran had a VA disability rating of totally disabling, and was receiving or was entitled to receive disability compensation, for at least the 8 years before their death (without a break), <strong>and</strong></li><li>You were married to the Veteran for those same 8 years</li></ul>
+**Note:** For the purposes of the 8-year provision, the Veteran must have been receiving or entitled to receive VA disability compensation for their service-connected disability rating totally disabling (including for indidividual unemployability).
 
 <h4>Examples of how to calculate your monthly payment amount</h4>
 
@@ -208,13 +202,14 @@ $1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate
 
 #### Added or increased amounts
 
-- **If the Veteran had a pay grade of O-1 to O-3 and qualifies for the 8-year provision,** we'll raise your basic monthly rate to $1,599.33.
-- **If you have 1 or more dependent children who are under 18 years old,** we'll add $326.77 to your basic monthly rate for each eligible child.
+| If this is true for you... | We'll add or increase your monthly payment amount as below | 
+| ---| ---: |
+| <ul><li>The Veteran had a pay grade of O-1 to O-3, **and**</li><li>You were married to the Veteran for the 8 full years leading up to their death, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for those entire 8 years</li></ul> | Increase payment to $1,599.33 |
+| You have 1 or more dependent children who are under the age of 18 | Add $326.77 per child |
 
-**The Veteran qualifies for the 8-year provision if both of the below descriptions are true:**
-<ul><li>The Veteran had a VA disability rating of totally disabling, and was receiving or was entitled to receive disability compensation, for at least the 8 years before their death (without a break), <strong>and</strong></li><li>You were married to the Veteran for those same 8 years</li></ul>
+**Note:** For the purposes of the 8-year provision, the Veteran must have been receiving or entitled to receive VA disability compensation for their service-connected disability rating totally disabling (including for indidividual unemployability).
 
-<h5>Example</h5>
+<h4>Example</h4>
 
 If you were the surviving spouse of a Veteran whose pay grade was O-3, and you had 2 dependent children under 18 years, you would calculate your monthly DIC payment amount as below.
 
@@ -228,7 +223,9 @@ $1,599.33 (basic rate if Veteran qualifies for 8-year provision) + $326.77 (rate
 </li>
 </ul>
 
-### Surviving unmarried child who is over 18 years of age, when the Veteran's surviving spouse is also eligible for DIC
+### Surviving unmarried child
+
+#### If child is over 18 years of age and the Veteran's surviving spouse is also eligible for DIC
 
 This payment is in addition to the eligible surviving spouse's compensation. We'll pay this compensation to you separately as the adult surviving child.
 
@@ -240,7 +237,7 @@ All rates in $ U.S. dollars
 
 **Note:** We define a helpless child as an adult child who became permanently unable to support themself before the age of 18.
 
-### Surviving unmarried child, when the Veteran doesn't have a surviving spouse who is eligible for DIC
+#### If the Veteran doesn't have a surviving spouse who is eligible for DIC
 
 We'll base your payment amount on the number of the Veteran's eligible surviving children. In the table below, the monthly rate for each child shows how much you'll receive each month if we pay each child separately. The total monthly payment shows how much your family will receive if we pay you in one lump sum each month.
 
@@ -293,3 +290,12 @@ DFAS will reduce your SBP or RCSBP by the amount of your DIC payment. If your DI
 If DFAS pays you more than the offset amount in SBP or RCSBP payments after you begin receiving DIC payments, they'll consider this amount an overpayment. This means you'll have to pay the money back.
 
 Be sure to notify DFAS as soon as you qualify for DIC so they can reduce your SBP or RCSBP payment amount and you can avoid owing money. You'll need to send them a copy of your VA DIC award letter. You can all DFAS at <a href="tel:+18003211080">800-321-1080</a>, Monday to Friday, 8:00 a.m. to 5:00 p.m. ET.
+
+
+## Historic rates
+
+View VA DIC surviving spouse and child rates for past years.
+
+[Rates effective December 1, 2017](https://benefits.va.gov/COMPENSATION/rates_DIC_pen17.asp)<br>
+[Rates effective December 1, 2016](https://benefits.va.gov/COMPENSATION/rates_DIC_pen16.asp) <br>
+[Rates effective December 1, 2014 and earlier](https://benefits.va.gov/COMPENSATION/rates_DIC_pen14.asp) 
