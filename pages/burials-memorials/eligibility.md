@@ -239,10 +239,33 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="discharge-from-draft">Those discharged from being drafted</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="discharge-from-draft">Those drafted but then discharged before entering military service</button>
 <div id="discharge-from-draft" class="usa-accordion-content">
   
-You aren't eligible if you were ordered to report to an induction station, but you never actually entered military service.
+You aren't eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="guilty-of-capital-crime">Those found guilty of a capital crime</button>
+<div id="guilty-of-capital-crime" class="usa-accordion-content">
+  
+**You aren't eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
+ - You have been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
+ - Clear and convincing evidence shows that you have committed a federal or state capital crime, but you couldn't have a trial due to death or flight to avoid prosecution
+
+**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+
+</div>
+</li>
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="convicted-of-sex-offenses">Those convicted of certain sex offenses</button>
+<div id="convicted-of-sex-offenses" class="usa-accordion-content">
+  
+You aren't eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.
+**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+
 </div>
 </li>
 </ul>
