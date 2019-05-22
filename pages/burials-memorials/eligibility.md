@@ -215,6 +215,52 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+
+If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+
+<br>
+
+**There are 2 ways you can try to qualify:**
+
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
+
+
+
+## What do burial benefits include?
+
+If you qualify for burial in a VA national cemetery, you'll receive burial benefits at no cost to your family.
+
+**Burial benefits include:**
+- A gravesite in any of our 136 national cemeteries with available space
+- Opening and closing of the grave
+- A burial liner provided by the government
+- A headstone or marker provided by the government
+- Perpetual (ongoing) care of the gravesite
+
+At the time of need, the person planning the burial can also request other honors and memorial items.
+
+**Other honors and memorial items include a:**
+- [Burial flag](/burials-memorials/memorial-items/burial-flags/) to drape over the casket (or coffin) or place with the urn
+- [Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/) signed by the current president of the United States
+- [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
+
+
+[Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
+[Learn about memorial items](/burials-memorials/memorial-items/) <br>
+[See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
+
+## Can I be buried at Arlington National Cemetery? 
+
+You may be able to be buried at Arlington National Cemetery, which is maintained by the Army, not VA. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
+
+## If I'm the survivor of a Veteran or service member, what other benefits can I get?
+
+We give the surviving spouse, children, and parents of Veterans and service members a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
+[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
+[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
+
 ## Who's not eligible for burial in a national cemetery?
 
 <ul class="usa-accordion">
@@ -287,52 +333,6 @@ You aren't eligible for burial in a VA national cemetery if your only service wa
 </div>
 </li>
 </ul>
-
-## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
-
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
-
-<br>
-
-**There are 2 ways you can try to qualify:**
-
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
-
-
-
-## What do burial benefits include?
-
-If you qualify for burial in a VA national cemetery, you'll receive burial benefits at no cost to your family.
-
-**Burial benefits include:**
-- A gravesite in any of our 136 national cemeteries with available space
-- Opening and closing of the grave
-- A burial liner provided by the government
-- A headstone or marker provided by the government
-- Perpetual (ongoing) care of the gravesite
-
-At the time of need, the person planning the burial can also request other honors and memorial items.
-
-**Other honors and memorial items include a:**
-- [Burial flag](/burials-memorials/memorial-items/burial-flags/) to drape over the casket (or coffin) or place with the urn
-- [Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/) signed by the current president of the United States
-- [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
-
-
-[Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
-[Learn about memorial items](/burials-memorials/memorial-items/) <br>
-[See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
-
-## Can I be buried at Arlington National Cemetery? 
-
-You may be able to be buried at Arlington National Cemetery, which is maintained by the Army, not VA. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
-
-## If I'm the survivor of a Veteran or service member, what other benefits can I get?
-
-We give the surviving spouse, children, and parents of Veterans and service members a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
-[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
-[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
 
 -------
 
