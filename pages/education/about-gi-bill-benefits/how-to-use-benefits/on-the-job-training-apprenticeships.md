@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: On-the-job training and apprenticeships
+title: On-The-Job Training And Apprenticeships
+heading: On-the-job training and apprenticeships
 display_title: On-the-job training
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
