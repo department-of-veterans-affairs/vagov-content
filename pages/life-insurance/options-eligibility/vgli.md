@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans’ Group Life Insurance (VGLI)
+heading: Veterans’ Group Life Insurance (VGLI)
 display_title: Veterans’ Group (VGLI)
 concurrence:
 order: 4
