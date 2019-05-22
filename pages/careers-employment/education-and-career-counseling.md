@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Educational and Career Counseling (Chapter 36)
+title: Educational And Career Counseling (Chapter 36)
+heading: Educational and Career Counseling (Chapter 36)
 display_title: Educational and Career Counseling
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -11,7 +12,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
+If you’re leaving active service soon, find out how to get free Educational and Career Counseling (also called Chapter 36).
 
 </div>
 
@@ -22,7 +23,7 @@ If you’re leaving active service soon, find out how to get free educational an
 You can get these services if you’ll be discharged from active duty within 6 months or if you meet both of the requirements listed below.
 
 **Both of these must be true. You:**
--	Separated from active duty not more than 1 year ago and didn't receive a dishonorable discharge, **and**
+-	Separated from active duty not more than one year ago and didn't receive a dishonorable discharge, **and**
 -	Qualify as a Veteran for educational assistance under a VA educational program
 
 **Note:** If you're the dependent of a Veteran, you may also qualify for educational and career counseling. <br>
@@ -33,7 +34,7 @@ You can get these services if you’ll be discharged from active duty within 6 m
 ## What benefits can I get?
 
 -	Counseling to help you decide which civilian or military jobs you want
--	Educational and career counseling to help you find a training program or job
+-	Educational and Career Counseling to help you find a training program or job
 -	Academic and adjustment counseling to help you deal with issues that get in the way of your success in training or employment
 
 -----
@@ -57,7 +58,7 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
 ### You can also apply by mail
 
 Fill out an Educational/Vocational Counseling Application (VA Form 28-8832). <br>
-[Download VA Form 28-8832](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
+[Download VA Form 28-8832 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf)<br>
 
 Mail the completed form to your nearest VA regional benefit office.<br>
 [Find your nearest VA regional benefit office](/find-locations/)
