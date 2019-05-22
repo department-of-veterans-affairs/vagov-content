@@ -43,5 +43,6 @@ If entrepreneurship interests you, learn about everything from start-up costs to
 
 ## How it works
 You'll use your DS Logon username and password to register for SECO. This is the same username and password you'll use for online services like TRICARE. If you don't have a DS Logon account, you can register for one now. 
+
 [Go to My Access Center](https://myaccess.dmdc.osd.mil/my.policy).
 
