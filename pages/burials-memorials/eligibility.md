@@ -59,7 +59,7 @@ Biological or adoptive parents who passed away after October 13, 2010, and whose
 
 </div>
 
-### Find more eligibility information for these groups of people
+### Find specific eligibility information for these groups of people
 
 <ul class="usa-accordion">
 <li>
@@ -261,14 +261,14 @@ We give the surviving spouse, children, and parents of Veterans and service memb
 [See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
 [Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
 
-## Who's not eligible for burial in a national cemetery?
+## Who's not eligible for burial benefits?
 
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">Former spouses and certain family members</button>
 <div id="family-members" class="usa-accordion-content">
   
-**You aren't eligible if you're a:**
+**You're not eligible if you're a:**
 - Former spouse of an eligible individual whose marriage to that individual ended by annulment or divorce
 - Family member who doesn't meet the eligibility requirements
 </div>
@@ -278,7 +278,7 @@ We give the surviving spouse, children, and parents of Veterans and service memb
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="character-of-discharge">Veterans with a certain character of discharge</button>
 <div id="character-of-discharge" class="usa-accordion-content">
   
-**You aren't eligible if:**
+**You're not eligible if:**
 - You separated from the Armed Forces under dishonorable conditions, **or** 
 - Your character of service disqualifies you
 </div>
@@ -288,7 +288,7 @@ We give the surviving spouse, children, and parents of Veterans and service memb
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="discharge-from-draft">Those drafted but then discharged before entering military service</button>
 <div id="discharge-from-draft" class="usa-accordion-content">
   
-You aren't eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
+You're not eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
 </div>
 </li>
 
@@ -296,7 +296,7 @@ You aren't eligible if you were ordered to report to an induction station, but y
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="guilty-of-capital-crime">Those found guilty of a capital crime</button>
 <div id="guilty-of-capital-crime" class="usa-accordion-content">
   
-**You aren't eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
+**You're not eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
  - You have been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
  - Clear and convincing evidence shows that you have committed a federal or state capital crime, but you couldn't have a trial due to death or flight to avoid prosecution
 
@@ -309,7 +309,7 @@ You aren't eligible if you were ordered to report to an induction station, but y
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="convicted-of-sex-offenses">Those convicted of certain sex offenses</button>
 <div id="convicted-of-sex-offenses" class="usa-accordion-content">
   
-You aren't eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.<br>
+You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.<br>
 **Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
 
 </div>
@@ -319,7 +319,7 @@ You aren't eligible for burial in a VA national cemetery, Arlington National Cem
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="subversive-activities">Those convicted of subversive activities</button>
 <div id="subversive-activities" class="usa-accordion-content">
   
-You aren't eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
+You're not eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
 
 **Note:** You can become eligible again only if the President of the United States pardons you.
 </div>
@@ -329,7 +329,7 @@ You aren't eligible for burial in a VA national cemetery if you were convicted o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="training">Those on active or inactive duty for training </button>
 <div id="training" class="usa-accordion-content">
   
-You aren't eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
+You're not eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
 </div>
 </li>
 </ul>
