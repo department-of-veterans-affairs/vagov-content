@@ -11,6 +11,7 @@ display_title: Veterans Community Care Program Eligibility Tool
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: false
+private: true
 ---
 
 <div class="va-introtext" id="introtext">
