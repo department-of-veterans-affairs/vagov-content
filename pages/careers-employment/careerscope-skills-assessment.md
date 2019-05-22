@@ -32,6 +32,6 @@ You can access our education and training resources:
 - Learn about what to consider when choosing a school. <br>
 [Read our guide to choosing a school](https://www.benefits.va.gov/gibill/choosing_a_school.asp)
 
-- Find out how to get free educational and career counseling (Chapter 36). <br>
+- Find out how to get free Educational and Career Counseling (Chapter 36). <br>
 [Get help finding a training program or job](/careers-employment/education-and-career-counseling/)
 
