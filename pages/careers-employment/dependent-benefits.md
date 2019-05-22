@@ -28,9 +28,9 @@ Find out if you're eligible and how to apply to get career and educational couns
 
 <div class="feature">
 
-### Can I get educational and vocational counseling services provided by VR&amp;E (also called Chapter 36)?
+### Can I get Educational and Career Counseling services provided by VR&amp;E (also called Chapter 36)?
 
-You may be eligible for educational and vocational counseling if you meet both of the requirements listed below.
+You may be eligible for Educational and Career Counseling if you meet both of the requirements listed below.
 
 **Both of these must be true. You're:**
 
@@ -83,7 +83,7 @@ Click **Vocational Rehabilitation and Employment Program**.
 
 <li class="process-step list-four">
 
-Apply for **Educational and Vocational Counseling**.
+Apply for **Education and Career Counseling**.
 
 </li>
 
