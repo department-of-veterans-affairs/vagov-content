@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Vocational Rehab programs for Veterans and service members
+title: Vocational Rehab Programs For Veterans And Service Members
+heading: Vocational Rehab programs for Veterans and service members
 display_title: Programs
 order: 1
 template: detail-page
