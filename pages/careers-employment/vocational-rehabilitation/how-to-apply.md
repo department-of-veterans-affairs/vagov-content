@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: How to apply for VA Vocational Rehab and Employment
+title: How To Apply For VA Vocational Rehab And Employment
+heading: How to apply for VA Vocational Rehab and Employment
 display_title: How to apply
 order: 3
 template: detail-page
@@ -66,7 +67,7 @@ If you’re eligible, we’ll invite you to an orientation session at your neare
 ## What if I’m a service member who hasn’t yet received a service-connected disability rating?
 
 You don’t need to wait for a rating. Instead, please fill out VA Vocational Rehabilitation - Getting Ahead After You Get Out (VA Form 28-0588). <br>
-[Download VA Form 28-0588](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf)
+[Download VA Form 28-0588 (PDF)](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf)
 
 You may be eligible for VR&amp;E benefits and services if you’re in at least one of the below situations.
 
