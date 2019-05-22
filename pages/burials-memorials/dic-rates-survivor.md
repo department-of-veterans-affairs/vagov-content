@@ -1,15 +1,16 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Dependency and Indemnity Compensation (DIC) Survivor Benefit Rates
-heading: VA Dependency and Indemnity Compensation (DIC) survivor benefit rates
+title: 2019 VA DIC Rates for Surviving Spouse and Child
+heading: 2019 VA DIC rates for surviving spouse and child
 display_title: 
 description: 
+keywords: va dic rates, va dic rates 2019, va survivor benefits rates, dependency and indemnity compensation rates
 concurrence: 
 spoke: Additional Resources
 order: 1 
 relatedlinks:
-  - heading: More resources for survivors and dependents
+  - heading: More benefits for survivors and dependents
     links:
     - url: /burials-memorials/dependency-indemnity-compensation/
       title: Learn more about the VA surviving spouses and dependents (DIC) program
@@ -19,22 +20,22 @@ relatedlinks:
       description: A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress.
     - url: /family-member-benefits/
       title: Family member benefits
-      description: Find out other benefits you may qualify for as the surviving spouse or child of a Veteran.     
+      description: Find out other benefits you may qualify for as the family member or family caregiver of a Veteran.     
 ---
 
 <div class="va-introtext">
 
-View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving spouses and dependent children of Veterans. DIC payments are tax exempt. This means you won't have to pay any taxes on your payments.
+View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving spouses and dependent children of Veterans. These VA survivor benefits are tax exempt. This means you won't have to pay any taxes on your DIC payments.
 
 </div>
 
 ### On this page
- - [DIC rates if Veteran died on or after January 1, 1993](#after-1993)
- - [DIC rates if Veteran died before January 1, 1993](#before-1993-) 
+ - [VA DIC rates if Veteran died on or after January 1, 1993](#after-1993)
+ - [VA DIC rates if Veteran died before January 1, 1993](#before-1993-) 
  - [How your DIC payments may impact your Survivor Benefit Plan](#sbp)
  
 <span id="after-1993"></a>
-## DIC rates if Veteran died on or after January 1, 1993 
+## VA DIC rates if Veteran died on or after January 1, 1993 
 **Effective December 1, 2018**
 
 To find your total monthly payment amount start with the **Basic rates** table. Find the dependent status in the left column that best describes you. Your basic monthly rate will be to the right.
@@ -53,14 +54,18 @@ All rates in $ U.S. dollars
 
 As a surviving spouse, you may be eligible to receive more money each month based on your or the Veteran's disablity.
 
+#### Added amounts based on factors related to disability
+
 All rates in $ U.S. dollars
 | If this is true for you... | You may qualify for this benefit | Added monthly amount | 
 | ---| ---: | ---: | 
-| <ul><li>You were married to the Veteran for at least the 8 years leading up to their death, **and**</li>The Veteran Veteran had a VA service-connected disability rating of totally disabling for at least those entire 8 years</li></ul> | 8-year provision | 280.09 |
+| <ul><li>You were married to the Veteran for the 8 full years leading up to their death, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for those entire 8 years</li></ul> | 8-year provision | 280.09 |
 | You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 |
 
 If you have 1 or more dependent children who are under the age of 18 years, you may be eligible for added amounts each month.
+
+#### Added amounts based on dependent children
 
 All rates in $ U.S. dollars
 | Benefit | Added monthly amount | 
@@ -70,27 +75,27 @@ All rates in $ U.S. dollars
 
 ### Example of how to calculate your monthly payment amount
 
-If you were the qualified surviving spouse of a Veteran who qualified for the 8-year provision, and you qualified for Aid and Attendance, and you had 2 children under 18 years, you would calculate your rate as below.
+If you were the qualified surviving spouse of a Veteran who qualified for the 8-year provision, **and** you qualified for Aid and Attendance, **and** you had 2 children under 18, you would calculate your rate as below.
 
-- **Total monthly payment for the first 2 years:** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18 years) + $326.77 (2nd child under 18 years) + $282.00 (transitional benefit) = **$2,771.44**
+- **Total monthly payment for the first 2 years:** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18) + $326.77 (2nd child under 18) + $282.00 (transitional benefit) = **$2,771.44**
 
-- **Total monthly payment after 2 years (when transitional benefit stops):** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18 years) + $326.77 (2nd child under 18 years) = **$2,489.44**
+- **Total monthly payment after 2 years (when transitional benefit stops):** $1,319.04 (basic rate) + $280.09 (8-year provision) + $236.77 (Aid and Attendance) + $326.77 (1st child under 18) + $326.77 (2nd child under 18) = **$2,489.44**
 </div>
 </ul>
 
 ------
 
 <span id="after-1993"></a>
-## DIC rates if the Veteran died before January 1, 1993 
+## VA DIC rates if the Veteran died before January 1, 1993 
 **Effective December 1, 2018**
 
 If your Veteran spouse or parent died before January 1, 1993, we'll use a different method to calculate your DIC monthly payments.
 
 ### Surviving spouse, with or without dependent children
 
-To find your monthly DIC rate, click on the Veteran's pay grade category. Find the Veteran's specific pay grade in the left column of the **Basic monthly rates** table, and the matching monthly payment amount to the right. 
+To find your monthly payment amount, click on the Veteran's pay grade category. Find the Veteran's specific pay grade in the left column of the **Basic monthly rates** table, and the matching monthly payment amount to the right. 
 
-Then, add any added or increase amounts that apply to you, based the Veteran's disability status before death and whether you have dependent children under the age of 18 years.
+Then, add any added or increased amounts that apply to you, based on the Veteran's disability rating and whether you have dependent children under the age of 18 years.
 
 <ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="enlisted">Enlisted Veteran pay grades E-1 to E-9</button>
@@ -116,12 +121,20 @@ All rates in $ U.S. dollars
 
 <h4>Added or increased amounts</h4>
 
-- **If the Veteran had a pay grade of E-1 to E-7 and qualifies for the 8-year provision,** we'll add $280.09 to your basic monthly rate.
-- **If the Veteran had a pay grade of E-8 or E-9 and qualifies for the 8-year provision,** we'll raise your basic monthly rate to $1,599.33.
-- **If you have 1 or more dependent children who are under 18 years old,** we'll add $325.77 to your basic monthly rate for each eligible child.
+| If this is true for you... | We'll add or increase your monthly payment amount as below | 
+| ---| ---: |
+| <ul><li>The Veteran had a pay grade of E-1 to E-7, **and**</li><li>You were married to the Veteran for the 8 full years leading up to their death, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for those entire 8 years</li></ul> | Add $280.09 |
+| <ul><li>The Veteran had a pay grade of E-8 or E-9, **and**</li><li>You were married to the Veteran for the 8 full years leading up to their death, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for those entire 8 years</li></ul> | Increase payment to $1,599.33 |
+| You have 1 or more dependent children who are under the age of 18 | Add $325.77 per child |
 
-**The Veteran qualifies for the 8-year provision if both of the below descriptions are true:**
-<ul><li>The Veteran had a VA disability rating of totally disabling, and was receiving or was entitled to receive disability compensation, for at least the 8 years before their death (without a break), <strong>and</strong></li><li>You were married to the Veteran for those same 8 years</li></ul> 
+**Note:** For the purposes of the 8-year provision, the Veteran must have been receiving or entitled to receive VA disability compensation for their service-connected disability rating totally disabling (including for indidividual unemployability).
+
+- **If the Veteran had a pay grade of E-1 to E-7 and you qualify for the 8-year provision,** we'll add $280.09 to your monthly payment amount.
+- **If the Veteran had a pay grade of E-8 or E-9 and you qualify for the 8-year provision,** we'll raise your  monthly payment to $1,599.33.
+- **If you have 1 or more dependent children who are under 18 years old,** we'll add $325.77 to your monthly payment amount for each eligible child.
+
+**You qualify for the 8-year provision if both of the below descriptions are true:**
+<ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including a rating of individual unemployability) for at least the entire 8 years before their death, <strong>and</strong></li><li>You were married to the Veteran for those same 8 years</li></ul> 
 
 <h4>Examples of how to calculate your monthly payment amount</h4>
 
