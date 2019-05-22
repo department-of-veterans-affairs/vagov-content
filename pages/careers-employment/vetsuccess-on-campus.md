@@ -22,14 +22,14 @@ relatedlinks:
 
 <div class="va-introtext">
 
-VetSuccess on Campus (VSOC) supports Veterans, service members, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC Counselors) at 104 college campuses across the country.
+VetSuccess on Campus (VSOC) supports Veterans, service members, and some eligible dependents in their transition from military to college life. We have Vocational Rehabilitation Counselors (called VSOC counselors) at 104 college campuses across the country.
 
 </div>
 
 ## How our counselors can help you as a Veteran or service member
 
 Our counselors can help you with your Veterans’ benefits, which may include VA health services and education benefits. They can also show you how to get referrals for health services and disability accommodations (like help with taking notes or completing writing assignments) in the classroom. <br>
-[Find out if your college has a VSOC Counselor](http://www.benefits.va.gov/vocrehab/vsoc.asp)
+[Find out if your college has a VSOC counselor](http://www.benefits.va.gov/vocrehab/vsoc.asp)
 
 **Watch these videos to learn more about VetSuccess on Campus:** <br>
 [VetSuccess on Campus](https://www.youtube.com/watch?v=GdoqPObM8dg) <br>
@@ -57,7 +57,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alabama">Alabama</button>
 <div id="Alabama" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Troy University | Rickey Jones <a href="mailto:Rickey.Jones@va.gov">Rickey.Jones@va.gov</a> | Montgomery (322) |
 | University of Alabama | Lisa Fells <a href="mailto:Lisa.Fells@va.gov">Lisa.Fells@va.gov</a> | Montgomery (322) |
@@ -68,7 +68,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Alaska">Alaska</button>
 <div id="Alaska" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Alaska - Anchorage | Terry Jackson <a href="mailto:Terry.Jackson@va.gov">Terry.Jackson@va.gov</a> | Anchorage (463) |
 
@@ -78,7 +78,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Arizona">Arizona</button>
 <div id="Arizona" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Arizona State University | Troy Rundle <a href="mailto:Troy.Rundle@va.gov">Troy.Rundle@va.gov</a> | Phoenix (345) |
 
@@ -88,7 +88,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Arkansas">Arkansas</button>
 <div id="Arkansas" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Arkansas | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock (350) |
 | Northwest Arkansas Community College | Brian Burgess <a href="mailto:Brian.Burgess@va.gov">Brian.Burgess@va.gov</a> | Little Rock (350) |
@@ -98,7 +98,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="California">California</button>
 <div id="California" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | California State University - Long Beach | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
 | Long Beach City College | Lois Daz <a href="mailto:Lois.Daz@va.gov">Lois.Daz@va.gov</a> | Los Angeles (344) |
@@ -120,7 +120,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Colorado">Colorado</button>
 <div id="Colorado" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Colorado - Colorado Springs | Julie Zook <a href="mailto:Julie.Zook@va.gov">Julie.Zook@va.gov</a> | Denver (339) |
 </div>
@@ -133,7 +133,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="District-of-Columbia">District of Columbia</button>
 <div id="District-of-Columbia" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | George Washington University | Laura Ferraro <a href="mailto:laura.ferraro@va.gov">laura.ferraro@va.gov</a> | National Capital Region Benefits Office (372) |
 </div>
@@ -142,7 +142,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Florida">Florida</button>
 <div id="Florida" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Northwest Florida State College | Maronda Clark <a href="mailto:Maronda.Clark@va.gov">Maronda.Clark@va.gov</a> | Montgomery (322) |
 | University of West Florida | Becky Baisden <a href="mailto:Rebecca.Baisden@va.gov">Rebecca.Baisden@va.gov</a> | Montgomery (322) |
@@ -159,7 +159,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Georgia">Georgia</button>
 <div id="Georgia" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Kennesaw State University | Margo Thompson <a href="mailto:Margo.Thompson@va.gov">Margo.Thompson@va.gov</a> | Atlanta (316) |
 </div>
@@ -168,7 +168,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Hawaii">Hawaii</button>
 <div id="Hawaii" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Hawaii Pacific University | Gwen Dang <a href="mailto:Gwen.Dang@va.gov">Gwen.Dang@va.gov</a> | Honolulu (459) |
 | Leeward Community College | Claire Kusakabe <a href="mailto:Claire.Kusakabe@va.gov">Claire.Kusakabe@va.gov</a> | Honolulu (459) |
@@ -179,7 +179,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Idaho">Idaho</button>
 <div id="Idaho" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Boise State University | Sean Burlile <a href="mailto:Sean.Burlile@va.gov">Sean.Burlile@va.gov</a> | Boise (347) |
 </div>
@@ -188,7 +188,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Illinois">Illinois</button>
 <div id="Illinois" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Southwestern Illinois College | Armando De La Garza <a href="mailto:Armando.DeLaGarza@va.gov">Armando.DeLaGarza@va.gov</a> | Chicago (328) |
 | University of Illinois - Urbana Champaign | Vacant | Chicago (328) |
@@ -202,7 +202,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Kansas">Kansas</button>
 <div id="Kansas" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Johnson County Community College | Vacant | Wichita (452) |
 | University of Kansas | Sally MacNeill <a href="mailto:Sally.MacNeill@va.gov">Sally.MacNeill@va.gov</a> | Wichita (452) |
@@ -212,7 +212,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Kentucky">Kentucky</button>
 <div id="Kentucky" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Eastern Kentucky University | Steven Johnson <a href="mailto:Steven.C.Johnson@va.gov">Steven.C.Johnson@va.gov</a> | Louisville (327) |
 | Elizabethtown Community & Technical College | Shannon Francis <a href="mailto:Shannon.Francis@va.gov">Shannon.Francis@va.gov</a> | Louisville (327) |
@@ -224,7 +224,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Maryland">Maryland</button>
 <div id="Maryland" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Maryland - University College | Diane Wilson <a href="mailto:Diane.Wilson2@va.gov">Diane.Wilson2@va.gov</a> <br/> Barbara Brown <a href="mailto:Barbara.Brown3@va.gov">Barbara.Brown3@va.gov</a> | National Capital Region Benefits Office (372) |
 </div>
@@ -233,7 +233,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Michigan">Michigan</button>
 <div id="Michigan" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Kalamazoo Valley Community College | Brent Haddow <a href="mailto:Brent.Haddow@va.gov">Brent.Haddow@va.gov</a> | Detroit (329) |
 | Kellogg Community College | Brent Haddow <a href="mailto:Brent.Haddow@va.gov">Brent.Haddow@va.gov</a> | Detroit (329) |
@@ -247,7 +247,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Mississippi">Mississippi</button>
 <div id="Mississippi" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Southern Mississippi | Steven Welch <a href="mailto:Steven.Welch@va.gov">Steven.Welch@va.gov</a> | Jackson (323) |
 </div>
@@ -256,7 +256,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Missouri">Missouri</button>
 <div id="Missouri" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Webster University - St. Louis | Jason Blakemore <a href="mailto:Jason.Blakemore@va.gov">Jason.Blakemore@va.gov</a> | St. Louis (331)|
 </div>
@@ -269,7 +269,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Nebraska">Nebraska</button>
 <div id="Nebraska" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Bellevue University | Vacant | Lincoln (334) |
 | University of Nebraska - Omaha | Vacant | Lincoln (334) |
@@ -279,7 +279,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Nevada">Nevada</button>
 <div id="Nevada" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Nevada - Las Vegas | Allan Shockley <a href="mailto:Dana.Shockley2@va.gov">Dana.Shockley2@va.gov</a> | Reno (354) |
 </div>
@@ -288,7 +288,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="New-Jersey">New Jersey</button>
 <div id="New-Jersey" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Rutgers University | Valerie Williams <a href="mailto:Valerie.Williams1@va.gov">Valerie.Williams1@va.gov</a> | Newark (309) |
 | Middlesex County College | Valerie Williams <a href="mailto:Valerie.Williams1@va.gov">Valerie.Williams1@va.gov</a> | Newark (309) |
@@ -298,7 +298,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="New-Mexico">New Mexico</button>
 <div id="New-Mexico" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of New Mexico | Christopher Mulvihill <a href="mailto:Christopher.Mulvihill@va.gov">Christopher.Mulvihill@va.gov</a> | Albuquerque (340) |
 </div>
@@ -307,7 +307,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="New-York">New York</button>
 <div id="New-York" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Syracuse University | Kate Untiedt <a href="mailto:Katherine.Untiedt@va.gov">Katherine.Untiedt@va.gov</a> | Buffalo (307) |
 | Nassau Community College | Vacant | New York (306) |
@@ -318,7 +318,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="North-Carolina">North-Carolina</button>
 <div id="North-Carolina" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | East Carolina University | Kim Treece <a href="mailto:Kimberly.Treece@va.gov">Kimberly.Treece@va.gov</a> | Winston-Salem (318) |
 | Fayetteville Technical Community College | April C. Riley <a href="mailto:April.Riley@va.gov">April.Riley@va.gov</a> | Winston-Salem (318) |
@@ -332,7 +332,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Ohio">Ohio</button>
 <div id="Ohio" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Cleveland State University | George Ackerman <a href="mailto:George.Ackerman@va.gov">George.Ackerman@va.gov</a> | Cleveland (325) |
 | The Ohio State University | Angela Abel <a href="mailto:Angela.Abel@va.gov">Angela.Abel@va.gov</a> | Cleveland (325) |
@@ -343,7 +343,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Oklahoma">Oklahoma</button>
 <div id="Oklahoma" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Cameron University | Alfred Finch <a href="mailto:Alfred.Finch@va.gov">Alfred.Finch@va.gov</a> | Muskogee (351) |
 </div>
@@ -352,7 +352,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Oregon">Oregon</button>
 <div id="Oregon" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Portland State University | Alexandra Birmingham <a href="mailto:Alexandra.Birmingham@va.gov">Alexandra.Birmingham@va.gov</a> | Portland (348) |
 </div>
@@ -361,7 +361,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Pennsylvania">Pennsylvania</button>
 <div id="Pennsylvania" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Harrisburg Area Community College | Gail Hrobuchak <a href="mailto:Gail.Hrobuchak@va.gov">Gail.Hrobuchak@va.gov</a> | Philadelphia (310) |
 </div>
@@ -370,7 +370,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Rhode-Island">Rhode Island</button>
 <div id="Rhode-Island" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Community College of Rhode Island | Micaela Black-Estrella <a href="mailto:Micaela.Black@va.gov">Micaela.Black@va.gov</a> | Providence (304) |
 | Rhode Island College | Micaela Black-Estrella <a href="mailto:Micaela.Black@va.gov">Micaela.Black@va.gov</a> | Providence (304) |
@@ -380,7 +380,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="South-Carolina">South Carolina</button>
 <div id="South-Carolina" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Midlands Technical College | Andria Jeffries <a href="mailto:Andria.Jeffries@va.gov">Andria.Jeffries@va.gov</a> | Columbia (319) |
 </div>
@@ -393,7 +393,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Tennessee">Tennessee</button>
 <div id="Tennessee" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Middle Tennessee State University | Heather Conrad <a href="mailto:Heather.Conrad@va.gov">Heather.Conrad@va.gov</a> | Nashville (320) |
 | Austin Peay State University - Clarksville | Christina Hicks <a href="mailto:Christina.Hicks2@va.gov">Christina.Hicks2@va.gov</a> | Nashville (320) |
@@ -403,7 +403,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Texas">Texas</button>
 <div id="Texas" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Texas - San Antonio | Wendy Foster <a href="mailto:Wendy.Foster@va.gov">Wendy.Foster@va.gov</a> <br/> Kareem Vaughn <a href="mailto:Kareem.Vaughn@va.gov">Kareem.Vaughn@va.gov</a> | Houston (362) |
 | Sam Houston State University | Roberta Ardoin <a href="mailto:Roberta.Ardoin@va.gov">Roberta.Ardoin@va.gov</a> | Houston (362) |
@@ -424,7 +424,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Utah">Utah</button>
 <div id="Utah" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | Salt Lake Community College | Mike Foster <a href="mailto:Michael.Foster@va.gov">Michael.Foster@va.gov</a> | Salt Lake City (341) |
 | University of Utah | Alan Heal <a href="mailto:Alan.Heal@va.gov">Alan.Heal@va.gov</a> | Salt Lake City (341) |
@@ -435,7 +435,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Virginia">Virginia</button>
 <div id="Virginia" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | George Mason University | Valerie Smith <a href="mailto:Valerie.Smith11@va.gov">Valerie.Smith11@va.gov</a> | National Capital Region Benefits Office (372) |
 | Northern Virginia Community College - Alexandria | Michelle Pohmer <a href="mailto:Michelle.Pohmer@va.gov">Michelle.Pohmer@va.gov</a> | National Capital Region Benefits Office (372) |
@@ -455,7 +455,7 @@ This program is also available to dependents of Veterans who meet at least one o
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="Wisconsin">Wisconsin</button>
 <div id="Wisconsin" class="usa-accordion-content">
 
-| **School name** | **VSOC Counselor email address** | **Regional office** |
+| **School name** | **VSOC counselor email address** | **Regional office** |
 |---|---|---|
 | University of Wisconsin - Milwaukee | Callie Overturf <a href="mailto:Callie.Overturf@va.gov">Callie.Overturf@va.gov</a> | Milwaukee (330) |
 </div>
