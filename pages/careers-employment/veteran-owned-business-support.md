@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: topic-landing
-title: Register to do business with VA and get support for your Veteran-Owned Small Business
+title: Register To Do Business With VA And Get Support For Your Veteran-Owned Small Business
+heading: Register to do business with VA and get support for your Veteran-Owned Small Business
 display_title: Veteran-owned business support
 concurrence: complete
 order: 5
