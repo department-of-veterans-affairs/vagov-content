@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Post-9/11 GI Bill (Chapter 33)
+heading: Post-9/11 GI Bill (Chapter 33)
 display_title: Post-9/11 GI Bill
 description: Find out if you can help paying for school or job training through the Post-9/11 GI Bill (Chapter 33). You may qualify if you served on active duty after September 10, 2001, or if you're the qualified spouse or dependent child of a Veteran who meets these service requirements.
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act now
