@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Careers and Employment | Veterans Affairs
-heading: Careers and Employment
+title: VA Careers and Employment 
+heading: VA Careers and Employment
 display_title: Careers and Employment
 keywords: va careers
-description: VA career support can help you find job training for a new career or start or growing your own business. See how Department of Labor resources can help you with your resume, career advice, and access to companies who want to hire Veterans and military spouses. 
+description: Get VA careers and employment assistance for support in all stages of your career. If you qualify, we can help you inreturning to work with a service-connected disability, geting more training for new job opportunities, or starting or growing your own business.  
 concurrence: complete
 lastupdate:
 order: 1
@@ -200,7 +200,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-VA career support can help you in all stages of your career—from returning to work with a service-connected disability, to getting more training for new job opportunities, to starting or growing your own business. And we can connect you with Department of Labor resources for more career advice, help building your resume, and access to employers who want to hire Veterans and military spouses. Find out how you can get VA career support and find the right job or business opportunity for you.
+VA careers and employment assistance can help you in all stages of your career—from returning to work with a service-connected disability, to getting more training for new job opportunities, to starting or growing your own business. And we can connect you with Department of Labor resources for more career advice, help building your resume, and access to employers who want to hire Veterans and military spouses. Find out how you can get the help you need to build your career and find the right job or business opportunity for you.
 </p>
 
 <h3>On This Page</h3>
