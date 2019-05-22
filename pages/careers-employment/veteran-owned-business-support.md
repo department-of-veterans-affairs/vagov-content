@@ -32,11 +32,7 @@ You may qualify if you’re a Veteran, and you or another Veteran at your compan
 
 <br>
 
-#### What qualifies me as a Veteran?
-
-You’re considered a Veteran if you meet either of the requirements listed below.
-
-**At least one of these must be true. You:**
+**To be considered a Veteran, at least one of these must be true. You:**
 
 - Served on active duty with the Army, Air Force, Navy, Marine Corps, or Coast Guard for any length of time and didn't receive a dishonorable discharge, **or**
 - Served as a Reservist or member of the National Guard and were called to federal active duty or disabled from a disease or injury that started or got worse in the line of duty or while in training status
@@ -54,7 +50,9 @@ You may qualify if you meet all the requirements of a VOSB listed above, and eit
 
 <br>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+</div>
+
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -63,7 +61,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
-</div>
+<br>
 
 **Jump to a section:**
 - [What kind of advantages and support can I get when I register my business?](#business-advantages)
