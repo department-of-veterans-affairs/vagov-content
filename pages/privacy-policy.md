@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Privacy, policies, and legal information
+title: Privacy, Policies, And Legal Information
+heading: Privacy, policies, and legal information
 ---
 
 <p class="va-introtext">
@@ -22,20 +23,20 @@ At VA, we take your privacy seriously. That's why we collect only the personal i
 
 <h2>VA.gov Privacy Policy</h2>
 
-Thank you for visiting VA.gov and reviewing our Privacy Policy. The Department of Veterans Affairs (VA) applies leading privacy practices and adheres to data stewardship principles in managing our Web user data. The data stewardship principles guiding our efforts include the following goals:
--	Protecting Web user privacy,
--	Maintaining the confidentiality of Web user data, and
--	Ensuring appropriate levels of security for Web user data
+Thank you for visiting VA.gov and reviewing our Privacy Policy. The Department of Veterans Affairs (VA) applies leading privacy practices and adheres to data stewardship principles in managing our web user data. The data stewardship principles guiding our efforts include the following goals:
+-	Protecting web user privacy,
+-	Maintaining the confidentiality of web user data, and
+-	Ensuring appropriate levels of security for web user data
 
-This policy describes how VA applies these principles to the handling of personal information you provide to us via VA.gov Web pages and forms. Personal information may include your name; email, home, and/or business address; phone numbers; Social Security number; or other information that identifies you personally.
+This policy describes how VA applies these principles to the handling of personal information you provide to us via VA.gov web pages and forms. Personal information may include your name; email, home, and/or business address; phone numbers; Social Security number; or other information that identifies you personally.
 
 Key features of our privacy policy include:
--	This General Web Page Privacy Policy (“General Policy”) applies to all VA.gov Web pages. Some VA.gov Web pages may provide additional policy guidance on privacy practices that is compatible with this General Policy. These additional policy guidance documents are called “Limited Privacy Policies.” Please review any appropriate Limited Privacy Policy which may be presented to you prior to submitting your information on any VA.gov Web page.
--	We will not require you to register or provide personal information in order to visit the VA.gov Web site. However, certain areas of our site may require you to register or provide personal information before you will be granted access.
--	VA.gov does not collect personal information from Web users unless the personal information is provided by you. A Limited Privacy Policy will apply in each case where you may provide personal information to VA through our Web site.
+-	This General Web Page Privacy Policy (“General Policy”) applies to all VA.gov web pages. Some VA.gov web pages may provide additional policy guidance on privacy practices that is compatible with this General Policy. These additional policy guidance documents are called “Limited Privacy Policies.” Please review any appropriate Limited Privacy Policy which may be presented to you prior to submitting your information on any VA.gov web page.
+-	We will not require you to register or provide personal information in order to visit the VA.gov website. However, certain areas of our site may require you to register or provide personal information before you will be granted access.
+-	VA.gov does not collect personal information from web users unless the personal information is provided by you. A Limited Privacy Policy will apply in each case where you may provide personal information to VA through our website.
 -	VA.gov will never sell or rent your personal information to outside parties.
--	VA.gov uses Web analysis tools (e.g., cookies) for limited uses authorized in this policy.
--	This General Policy and each Limited Privacy Policy promotes the privacy, confidentiality, security, and responsible handling of any information collected by VA.gov over the Web.
+-	VA.gov uses web analysis tools (e.g., cookies) for limited uses authorized in this policy.
+-	This General Policy and each Limited Privacy Policy promotes the privacy, confidentiality, security, and responsible handling of any information collected by VA.gov over the web.
 
 <h3>Privacy Act rights</h3>
 
@@ -45,17 +46,17 @@ VA.gov is a Department of Veterans Affairs computer system. This computer system
 
 VA.gov will not disclose your personal information to third parties outside VA without your consent, except to facilitate the transaction, to act on your behalf at your request, or as authorized by law.
 
-When VA.gov does collect personal information from you online, we will tell you in advance in any applicable Limited Privacy Policy’s Privacy Act Statement. The Privacy Act Statement will contain any additional privacy policies that apply to the information collected on a particular VA.gov Web page. The VA.gov Web pages that collect personal information will have a hyperlink to the Limited Privacy Policy that applies to that particular Web page.
+When VA.gov does collect personal information from you online, we will tell you in advance in any applicable Limited Privacy Policy’s Privacy Act Statement. The Privacy Act Statement will contain any additional privacy policies that apply to the information collected on a particular VA.gov web page. The VA.gov web pages that collect personal information will have a hyperlink to the Limited Privacy Policy that applies to that particular web page.
 
 VA.gov will use your information to process requests for VA services or information. When VA.gov  collects information from you, we will reference the relevant authority in the appropriate Limited Privacy Policy. Providing the information is voluntary, but if it is not provided, we may not be able to process your request and provide you with electronic services. When information is required to process your request, we will advise you of this fact in the appropriate Limited Privacy Policy. Any decision you make not to provide information will not have any effect on any benefits to which you may be entitled.
 
 <h3>Information collected and stored automatically</h3>
 
-VA.gov automatically collects certain information about your visit to VA.gov Web pages. We limit the data collected to meet specific business needs and to protect your privacy. We may know what path(s) you took on our Web sites, but we don’t know who you are. We do not use this information to identify you personally without your express consent and an authorized purpose.
+VA.gov automatically collects certain information about your visit to VA.gov web pages. We limit the data collected to meet specific business needs and to protect your privacy. We may know what path(s) you took on our websites, but we don’t know who you are. We do not use this information to identify you personally without your express consent and an authorized purpose.
 
-We automatically collect and store the following information about your visit to the VA.gov Web site:
--	General log information. Examples of general log information include, but are not limited to: Internet domain (for example, “xcompany.com” or “yourschool.edu”); Internet Protocol (IP) address; operating system; the browser used to access our Web site; the date and time you accessed our site; and the pages that you visited.
--	Referral and statistical information where we have links to or from the site you visited. Such data may include aggregate data such as the number of offsite links occurring during a visit to a VA.gov Web page. It may also include specific data, such as the identity of the site which you visited immediately before or after our site. We do not use such data to identify you personally.
+We automatically collect and store the following information about your visit to the VA.gov website:
+-	General log information. Examples of general log information include, but are not limited to: Internet domain (for example, “xcompany.com” or “yourschool.edu”); Internet Protocol (IP) address; operating system; the browser used to access our website; the date and time you accessed our site; and the pages that you visited.
+-	Referral and statistical information where we have links to or from the site you visited. Such data may include aggregate data such as the number of offsite links occurring during a visit to a VA.gov web page. It may also include specific data, such as the identity of the site which you visited immediately before or after our site. We do not use such data to identify you personally.
 
 We use the general log information to help us make VA.gov sites more useful to visitors. We use it to learn about how locations on our site are being used, what information is of most and least interest, and how we can enhance ease of use by ensuring our sites can interface with the types of technology our visitors use. We also use such statistics to tell us of any possible site performance problems.  Except for oversight, law enforcement investigations, or protection of the VA information technology infrastructure as authorized by law, no other attempts are made to identify you or your usage habits.
 
@@ -63,15 +64,15 @@ General logs are used for no other purposes than the purposes described above, a
 
 <h3>Use of cookies and tracking technologies</h3>
 
-When you visit certain Web sites, they send a small piece of information called a “cookie” to your computer along with the Web page. This is also true of VA.gov.
+When you visit certain websites, they send a small piece of information called a “cookie” to your computer along with the web page. This is also true of VA.gov.
 
 There are two kinds of cookies.
 -	A Session Cookie is a line of text that is stored temporarily in your computer’s random access memory (RAM). A Session Cookie is destroyed as soon as you close your browser.
--	A Persistent Cookie is a line of text that is saved to a file on your hard drive and is called up the next time you visit that Web site. This lets the Web site remember information about your previous visits and use of the Web site. Persistent Cookies are generally not used by VA or other federal government Web sites, unless there is a compelling and authorized reason for their use. If any VA Web page uses a Persistent Cookie, then the Limited Privacy Policy for that Web page will clearly state the purpose and legal authority for such use. VA.gov does not use Persistent Cookies to retain information.
+-	A Persistent Cookie is a line of text that is saved to a file on your hard drive and is called up the next time you visit that website. This lets the website remember information about your previous visits and use of the website. Persistent Cookies are generally not used by VA or other federal government websites, unless there is a compelling and authorized reason for their use. If any VA web page uses a Persistent Cookie, then the Limited Privacy Policy for that web page will clearly state the purpose and legal authority for such use. VA.gov does not use Persistent Cookies to retain information.
 
 We use Session Cookies in the following manner:
 -	Log-in and log-off process: You do not have to log in and register to browse our site. However, if you decide to register with VA.gov, Session Cookies help with the log-in and log-off process. The cookies enable us to recognize your log-in ID when you log in so that we do not create a duplicate log-in or registration record for you.
--	Transactions and site usability: We use Session Cookies to improve how you navigate through our Web site and conduct transactions. Session Cookies are used to maintain your online session as you browse over several pages, or to store and enter information on a Web page so that you do not have to reenter the same information, repetitively. Session Cookies may also be used to collect referral statistics when you click on a link to or from a VA.gov Web page.
+-	Transactions and site usability: We use Session Cookies to improve how you navigate through our website and conduct transactions. Session Cookies are used to maintain your online session as you browse over several pages, or to store and enter information on a web page so that you do not have to reenter the same information, repetitively. Session Cookies may also be used to collect referral statistics when you click on a link to or from a VA.gov web page.
 
 <h3>Registration and log in</h3>
 
@@ -91,7 +92,7 @@ Please remember to log out when you are finished using personalized VA.gov servi
 
 <h3>Information sharing</h3>
 
-We do not sell, rent, or otherwise provide your personal information to outside marketers. Information collected via VA.gov may be shared with employees, contractors, and other service providers as necessary to respond to a request, provide a service, or as otherwise authorized by law. If appropriate, additional information regarding the use and disclosure of information collected on specific Web pages will be posted in the appropriate Limited Privacy Policy for that Web page.
+We do not sell, rent, or otherwise provide your personal information to outside marketers. Information collected via VA.gov may be shared with employees, contractors, and other service providers as necessary to respond to a request, provide a service, or as otherwise authorized by law. If appropriate, additional information regarding the use and disclosure of information collected on specific web pages will be posted in the appropriate Limited Privacy Policy for that web page.
 
 <h3>Digital analytics program</h3>
 
@@ -102,9 +103,9 @@ We participate in the <a href="https://digital.gov/dap/" target="_blank">Digital
 
 <h3>Security</h3>
 
-In those instances where we secure your personal information in transit to us over the Internet, and upon our receipt, VA.gov uses industry-standard encryption, including Secure Socket Layer (SSL). The connection icon area on your browser will change to “HTTPS” instead of “HTTP” when this security feature is invoked. Your browser may also display a lock symbol on the task bar at the bottom of your screen to indicate this secure transmission is in place. You should refer to the instructions for your particular Internet browser software to determine how to examine the security certificate from our Web site to verify the security of the connection.
+In those instances where we secure your personal information in transit to us over the Internet, and upon our receipt, VA.gov uses industry-standard encryption, including Secure Socket Layer (SSL). The connection icon area on your browser will change to “HTTPS” instead of “HTTP” when this security feature is invoked. Your browser may also display a lock symbol on the task bar at the bottom of your screen to indicate this secure transmission is in place. You should refer to the instructions for your particular Internet browser software to determine how to examine the security certificate from our website to verify the security of the connection.
 
-For site security purposes and to ensure that VA.gov Web pages remain available to all users, VA employs software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for oversight or authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits other than those uses identified in this policy.
+For site security purposes and to ensure that VA.gov web pages remain available to all users, VA employs software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for oversight or authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits other than those uses identified in this policy.
 
 Unauthorized attempts or acts to (1) access, upload, change, or delete information on this system, (2) modify this system, (3) deny access to this system, or (4) accrue resources for unauthorized use on this system, are strictly prohibited and may be considered violations subject to criminal, civil, or administrative penalties.
 
@@ -112,7 +113,7 @@ VA.gov takes the security of all personally identifiable information we receive 
 
 <h3>Links to other sites</h3>
 
-VA.gov provides access to other Web sites outside our control and jurisdiction. When you click on a link to these Web sites, you leave our Web site and your communications no longer are protected by our privacy policies. VA is not responsible for the privacy practices or the content of non-VA Web sites. We encourage you to review the privacy policy or terms and conditions of those sites to fully understand what information is collected and how it is used.
+VA.gov provides access to other websites outside our control and jurisdiction. When you click on a link to these websites, you leave our website and your communications no longer are protected by our privacy policies. VA is not responsible for the privacy practices or the content of non-VA websites. We encourage you to review the privacy policy or terms and conditions of those sites to fully understand what information is collected and how it is used.
 
 <h3>Contact VA Privacy Service</h3>
 

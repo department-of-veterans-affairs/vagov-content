@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: The Veterans Portrait Project on VA.gov
+title: The Veterans Portrait Project On VA.gov
+heading: The Veterans Portrait Project on VA.gov
 display_title: Veterans Portrait Project
 description:
 concurrence:
@@ -13,8 +14,8 @@ The images of U.S. Veterans that you see on the VA.gov homepage come from the Ve
 
 Pearsall has photographed more than 7,500 Veterans so far, and hopes to capture portraits of Veterans in every state and province the U.S. Department of Defense recruits from. She got the idea for the project after being injured in combat. “After spending hours in VA waiting rooms surrounded by Veterans from every generation and branch of service,” she says, “I was compelled to honor and thank them in the only way I know how: photography.”
 
-[Learn more about the Veterans featured on VA.gov](#veterans). <br>
-[Learn more about Stacy Pearsall, founder of the Veterans Portrait Project](#pearsall).
+[Learn more about the Veterans featured on VA.gov](#veterans) <br>
+[Learn more about Stacy Pearsall, founder of the Veterans Portrait Project](#pearsall)
 
 <h2 id="veterans">Featured Veterans</h2> 
 
@@ -88,5 +89,5 @@ Between her photography, teaching, and speaking engagements, Pearsall completed 
 
 **Learn more about Pearsall and the Veterans Portrait Project:**
 
-[Visit Pearsall's website](https://www.stacypearsall.com). <br>
-[Visit the Veterans Portrait Project website](http://www.veteransportraitproject.com). <br>
+[Visit Pearsall's website](https://www.stacypearsall.com) <br>
+[Visit the Veterans Portrait Project website](http://www.veteransportraitproject.com) <br>
