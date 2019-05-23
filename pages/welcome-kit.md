@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Print Out Your VA Welcome Kit
+heading: Print out your VA Welcome Kit
 display_title: Your VA Welcome Kit
 order: 1
 plainlanguage:
@@ -25,7 +26,7 @@ majorlinks:
         description: Apply for vocational rehabilitation services, get support for your Veteran-owned small business, and access other career resources.
       - url: /life-insurance/
         title: Life Insurance
-        description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your policy online, file claims for benefits, and access helpful resources.
+        description: Explore VA life insurance options for Veterans, service members, and families. Manage your policy online, file claims for benefits, and access helpful resources.
       - url: /pension/
         title: Pension
         description: Apply for monthly payments for wartime Veterans and survivors with limited or no income who meet certain age and disability requirements.
@@ -49,8 +50,8 @@ Based on where you are in life, your VA benefits and services can support you in
 
 Feel free to share this guide with friends or family members who need help with their benefits too. Download your VA Welcome Kit and print out copies for yourself and others:
 
-[Download your VA Welcome Kit in black and white](/va-welcome-kit-bw.pdf).
+[Download your VA Welcome Kit in black and white (PDF)](/va-welcome-kit-bw.pdf).
 
-[Download your VA Welcome Kit in color](/va-welcome-kit-color.pdf).
+[Download your VA Welcome Kit in color (PDF)](/va-welcome-kit-color.pdf).
 
 </div>

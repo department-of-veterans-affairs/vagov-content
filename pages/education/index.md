@@ -150,7 +150,7 @@ hublinks:
       description: Request a change to use a different GI Bill program or to transfer
         your benefits to a new school or training program.
       external: false
-    - url: "/change-direct-deposit-and-contact-information/"
+    - url: "/change-direct-deposit/"
       label: Change your VA direct deposit information
       description: Find out how to change your GI Bill direct deposit and contact information.
       external: false
