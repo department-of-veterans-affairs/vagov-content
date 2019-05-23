@@ -2,6 +2,8 @@
 title: CareerScope Assessment
 heading: CareerScope assessment
 display_title: CareerScope
+description: Find out if you can use CareerScope, an online assessment tool that measures your interests and skill levels and helps you figure out the best career path when you move into civilian life. You may be eligible if you're a Veteran, service member, or qualified dependent.
+keywords: careerscope, careerscope assessment
 layout: page-breadcrumbs.html
 template: detail-page
 concurrence: incomplete
@@ -12,7 +14,7 @@ spoke: Manage benefits
 
 <div class="va-introtext">
 
-In addition to getting career counseling, you may be able to use CareerScope, a tool that measures your interests and skill levels and helps you figure out the best career path when you move into civilian life. It recommends careers you may enjoy and jobs in which you’re likely to do well. The tool also recommends courses or training programs that can help you go after those careers. Find out if you qualify to use CareerScope.
+In addition to getting career counseling, you may be able to use CareerScope, an online assessment tool that measures your interests and skill levels and helps you figure out the best career path when you move into civilian life. It recommends careers you may enjoy and jobs in which you’re likely to do well. The tool also recommends courses or training programs that can help you go after those careers. Find out if you qualify for a CareerScope assessment.
 
 </div>
 
