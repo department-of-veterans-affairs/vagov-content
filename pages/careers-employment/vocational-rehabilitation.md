@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 title: VA Vocational Rehabilitation And Employment (Chapter 31)
 heading: VA Vocational Rehabilitation and Employment (Chapter 31)
 display_title: Vocational Rehab and Employment
-description: Find out how VA Vocational Rehabilitation and Employment (Chapter 31) can help if you have a service-connected disability that limits your ability to work. You may qualify for vocational rehabilitation services like help exploring employment options and any required training needs.
+description: Find out how VA Vocational Rehabilitation and Employment (Chapter 31) can help if you have a service-connected disability that limits your ability to work. You may qualify for vocational rehabilitation services, like help exploring employment options and any required training needs.
 keywords: vocational rehabilitation, va vocational rehabilitation, vocational rehabilitation services
 permalink: /employment/vocational-rehab-and-employment/index.html
 source: http://www.benefits.va.gov/VRE/
