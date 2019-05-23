@@ -5,6 +5,7 @@ title: Get Support For Your Veteran-Owned Small Business
 heading: Get support for your Veteran-owned small business
 display_title: Veteran-owned business support
 description: Register your Veteran-owned business to get support from VA. Learn how registering a Veteran-owned small business (VOSB) or service-disabled Veteran-owned small business (SDVOSB) can give you advantages when bidding on government contracts, tax relief, and better access to capital.
+keywords: veteran owned business, veteran owned small business, service disabled veteran owned small business, sdvosb
 concurrence: complete
 order: 5
 spoke: Get benefits
