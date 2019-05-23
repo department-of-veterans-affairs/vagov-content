@@ -3,10 +3,12 @@ layout: page-breadcrumbs.html
 title: Eligibility For Vocational Rehab And Employment
 heading: Eligibility for Vocational Rehab and Employment
 display_title: Eligibility
+description: Find out if you're eligible for VA Vocational Rehab and Employment as a Veteran or service member with a service-connected disability that limits your ability to work. Review the different vocational rehabilitation eligibility requirements for Veterans and active-duty service members.
+keywords: vocational rehab, vocational rehabilitation eligibility, vocational rehab services 
 order: 2
 template: detail-page
 majorlinks:
-  - heading: More information about VR&E benefits and services
+  - heading: More information about VR&E benefits and services, vocational rehab services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
       title: VR&E programs for service members and Veterans
@@ -21,21 +23,21 @@ majorlinks:
 
 <div class="va-introtext">
 
-If you have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, you may be eligible for Vocational Rehabilitation and Employment (VR&amp;E) benefits and services. Find out if you can get employment support or help living as independently as possible.
+If you have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, you may be eligible for Vocational Rehab and Employment (VR&amp;E) benefits and services. Find out if you can get employment support or help living as independently as possible.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### If I'm a Veteran, can I get VR&amp;E benefits and services?
+### If I'm a Veteran, am I eligible for Vocational Rehab and Employment?
 
-You may be eligible for VR&E benefits and services if you’re a Veteran, and you meet all of the requirements listed below.
+You may be eligible for VR&amp;E benefits and services if you’re a Veteran, and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 
 - Didn't receive a dishonorable discharge, **and**
 - Have a service-connected disability rating of at least 10% from VA, **and**
-- [Apply for VR&E services](/careers-employment/vocational-rehabilitation/how-to-apply/)
+- [Apply for VR&amp;E services](/careers-employment/vocational-rehabilitation/how-to-apply/)
 
 <br>
 
@@ -49,7 +51,7 @@ You may be eligible for VR&E benefits and services if you’re a Veteran, and yo
 
 <br>
 
-### If I'm still on active duty, can I get VR&amp;E benefits and services?
+### If I'm still on active duty, am I eligible for Vocational Rehab and Employment?
 
 You may be eligible for VR&amp;E benefits and services if you're a service member and you meet at least one of the requirements listed below.
 
