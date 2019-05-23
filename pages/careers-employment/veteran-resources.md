@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
-title: Other Employment Resources For Veterans
-heading: Other employment resources for Veterans
+title: Other Veteran Employment Resources
+heading: Other Veteran employment resources
 display_title: Veteran resources
+description: Get links to Veteran employment resources to help you find a job and any needed education or career training when you transition to civilian life. Resources include Veterans ReEmployment, Hire Heroes USA, VA for Vets, and the Department of Labor's Veterans' Employment and Training Service (VETS).
+keywords: veteran employment resources, employment resources for Veterans
+
 source: http://www.benefits.va.gov/VOW/vocational-rehabilitation.asp
 template: detail-page
 order: 5
