@@ -3,6 +3,8 @@ template: detail-page
 layout: page-breadcrumbs.html
 title: VetSuccess on Campus
 heading: VetSuccess on Campus
+description: Learn how VetSuccess on Campus (VSOC) can help support you as a Veteran, service member, or eligible dependent in your transition from military to college life. And find out if your college has a Vocational Rehabilitation Counselor.
+keywords: vetsuccess, vetsuccess on campus, veteran college, vocational rehabilitation counselor
 source: http://www.benefits.va.gov/vocrehab/vsoc.asp
 order: 2
 spoke: More resources
@@ -10,7 +12,7 @@ relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: Programs for service members and Veterans
+      title: Programs for Veterans and service members
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
       title: How to apply for VR&E
