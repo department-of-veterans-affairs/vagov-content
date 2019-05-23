@@ -1,7 +1,7 @@
 ---
 template: detail-page
 layout: page-breadcrumbs.html
-title: VetSuccess on Campus
+title: VetSuccess On Campus
 heading: VetSuccess on Campus
 description: Learn how VetSuccess on Campus (VSOC) can help support you as a Veteran, service member, or eligible dependent in your transition from military to college life. And find out if your college has a Vocational Rehabilitation Counselor.
 keywords: vetsuccess, vetsuccess on campus, veteran college, vocational rehabilitation counselor
