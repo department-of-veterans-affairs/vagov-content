@@ -4,6 +4,8 @@ template: topic-landing
 title: Resources For Military And Veteran Family Members
 heading: Resources for military and Veteran family members
 display_title: Family resources
+description: Learn about military spouse education and career opportunities and programs, like the Spouse Education Career Opportunities (SECO) program. SECO can help military spouses find education and career training and connect with employers who are committed to hiring military spouses.
+keywords: military spouse education and career opportunities, spouse education and career opportunities, careers for military spouses
 concurrence: complete
 order: 6
 spoke: More resources
@@ -11,7 +13,7 @@ spoke: More resources
 
 <div class="va-introtext">
 
-The Veterans Employment Center can help spouses and other family members access valuable career resources.
+If you're a military spouse or surviving spouse, find out if you're eligible and how to apply for the Department of Defense's Spouse Education Career Opportunities (SECO) program. And learn about other resources to help you build your career or start a small business.
 
 </div>
 
@@ -22,9 +24,9 @@ Through the Department of Defense’s [Spouse Education Career Opportunities](ht
 
 <div class="feature" markdown="1">
 
-### Are you eligible for SECO services?
-Yes, if:
+### Am I eligible for SECO services?
 
+You may be eligible if:
 - You are the spouse of an active-duty, National Guard, or Reserve service member in the Army, Marine Corps, Navy, or Air Force.
 - You are the spouse of a service member who has been separated from active duty, National Guard, or Reserves for less than 180 days.
 - You are the surviving spouse of a service member who died while on active duty.
