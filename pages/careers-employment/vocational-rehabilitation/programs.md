@@ -3,6 +3,8 @@ layout: page-breadcrumbs.html
 title: Vocational Rehab Programs For Veterans And Service Members
 heading: Vocational Rehab programs for Veterans and service members
 display_title: Programs
+description: Looking for Veterans vocational rehabilitation services? Explore the VA Vocational Rehabilitation and Employment (also called Voc Rehab or Chapter 31) program tracks for Veterans and service members who have a service-connected disability that limits their ability to work. And find out how to apply.
+keywords: veterans vocational rehabilitation, voc rehab chapter 31
 order: 1
 template: detail-page
 no_article_bottom_padding: true
@@ -29,6 +31,6 @@ majorlinks:
 
 <div class="va-introtext">
 
-If you're a Veteran or service member with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment (VR&amp;E) program may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for VR&E benefits and services.
+If you're a Veteran or service member with a service-connected disability that impacts your ability to work, the Vocational Rehabilitation and Employment program (also called Voc Rehab, VR&E, or Chapter 31 benefits) may be able to help. We offer 5 support-and-services tracks to help you find and keep a job, and live as independently as possible. Explore the different tracks—and find out how to apply for benefits and services.
 
 </div>
