@@ -1,15 +1,17 @@
 ---
 layout: page-breadcrumbs.html
-title: How To Apply For VA Vocational Rehab And Employment
-heading: How to apply for VA Vocational Rehab and Employment
+title: How To Apply For VA Voc Rehab And Employment
+heading: How to apply for VA Voc Rehab and Employment
 display_title: How to apply
+description: Find out how to apply for VA Voc Rehab and Employment benefits (also known as Vocational Rehabilitation and Employment, VR&E, or Chapter 31 benefits). Get step-by-step instructions, and learn what to expect after you apply.
+keywords: va voc rehab, voc rehab, chapter 31 benefits, how to apply for va vocational rehabilitation
 order: 3
 template: detail-page
 relatedlinks:
-  - heading: More information about VR&E benefits and services
+  - heading: More information about Voc Rehab and Employment benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E programs for service members and Veterans
+      title: Vocational Rehab and Employment programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/dependent-benefits/
       title: Dependent family members
@@ -18,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to apply for Vocational Rehabilitation and Employment (VR&E).
+Find out how to apply for VA Voc Rehab and Employment (also known as Vocational Rehabilitation and Employment, VR&E, or Chapter 31 benefits).
 
 </div>
 
