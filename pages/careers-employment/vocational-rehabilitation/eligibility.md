@@ -8,13 +8,13 @@ keywords: vocational rehab, vocational rehabilitation eligibility, vocational re
 order: 2
 template: detail-page
 majorlinks:
-  - heading: More information about VR&E benefits and services, vocational rehab services
+  - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E programs for service members and Veterans
+      title: Vocational Rehab programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
-      title: How to apply for VR&E
+      title: How to apply for VA Vocational Rehab and Employment
       description: Find out how to apply for VR&E benefits and services as a service member or Veteran.
     - url: /careers-employment/dependent-benefits/
       title: Dependent family members
