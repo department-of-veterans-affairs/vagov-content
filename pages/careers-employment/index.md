@@ -4,7 +4,7 @@ template: level2-index
 title: Careers And Employment
 heading: Careers and employment
 display_title: Careers and employment
-description: Get VA careers and employment assistance for support in all stages of your career. If you qualify, we can help you inreturning to work with a service-connected disability, geting more training for new job opportunities, or starting or growing your own business.
+description: Get VA careers and employment assistance for support in all stages of your career. If you qualify, we can help you in returning to work with a service-connected disability, getting more training for new job opportunities, or starting or growing your own business.
 keywords: va careers
 concurrence: complete
 lastupdate:
