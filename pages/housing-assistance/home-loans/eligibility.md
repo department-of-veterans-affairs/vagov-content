@@ -31,7 +31,7 @@ To get a VA direct or VA-backed home loan, you’ll need a Certificate of Eligib
 
 <div class="feature" markdown="1">
 
-### Can I get a COE?
+## Can I get a COE?
 
 You may be able to get a COE if you didn't receive a dishonorable discharge and you meet the minimum active-duty service requirement based on when you served.
 
