@@ -4,7 +4,7 @@ template: detail-page
 title: Educational And Career Counseling (VA Chapter 36)
 heading: Educational and Career Counseling (VA Chapter 36)
 display_title: Educational and Career Counseling
-description: Find out how to apply for VA Chapter 36 benefits to get free Veteran educational and career (or vocational) counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
+description: Find out how to apply for VA Chapter 36 benefits to get free Veteran Educational and Career Counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
 keywords: va chapter 36, vocational counseling, veteran career counseling services, career counseling for veterans
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -14,7 +14,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-Find out how to apply for VA Chapter 36 benefits to get free Veteran educational and career (or vocational) counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
+Find out how to apply for VA Chapter 36 benefits to get free Veteran Educational and Career Counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
 
 </div>
 
@@ -51,7 +51,7 @@ First, you’ll need to apply for Vocational Rehabilitation and Employment benef
   <li class="process-step list-one">Sign in to your eBenefits account.</li>
   <li class="process-step list-two">Select <b>Apply</b>.</li>
   <li class="process-step list-three">Click <b>Vocational Rehabilitation and Employment Benefits</b>.</li>
-  <li class="process-step list-four">Apply for <b>Education and Career Counseling</b>.</li>
+  <li class="process-step list-four">Apply for <b>Educational and Career Counseling</b>.</li>
   <li class="process-step list-five">If you're eligible, we’ll invite you to an orientation session at your nearest VA regional benefit office.</li>
 </ol>
 
