@@ -4,7 +4,7 @@ template: detail-page
 title: Educational And Career Counseling (VA Chapter 36)
 heading: Educational and Career Counseling (VA Chapter 36)
 display_title: Educational and Career Counseling
-description: Find out how to apply for VA Chapter 36 benefits to get free Veteran Educational and Career Counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
+description: Find out how to apply for VA Chapter 36 benefits to get free Veteran Educational and Career (or vocational) Counseling services. You may be eligible if you're leaving active service soon, if you've been discharged within the past year, or if you're the dependent of a Veteran.
 keywords: va chapter 36, vocational counseling, veteran career counseling services, career counseling for veterans
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
