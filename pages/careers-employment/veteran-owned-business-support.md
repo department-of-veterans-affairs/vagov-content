@@ -18,13 +18,13 @@ aliases:
 
 <div class="va-introtext">
 
-Register your Veteran-owned small business to get support and do business with VA. You may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out how to register your Veteran-owned business, and learn if you qualify to register as a service-disabled Veteran-owned small business.
+If you have a Veteran-owned small business, you may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out if you're eligible and how to register your business.
 
 </div>
 
 <div class="feature" markdown="1">
 
-## Can I register my business as a Veteran-Owned Small Business (VOSB) through the Vets First Verification Program?
+### Can I register my business as a Veteran-Owned Small Business (VOSB) through the Vets First Verification Program?
 
 You may qualify if you’re a Veteran, and you or another Veteran at your company meet all of the requirements listed below.
 
@@ -99,9 +99,9 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <br>
 <span id="business-how">
 
-### How do I register my Veteran-owned small business?
+### How do I register my Veteran-owned small business as a VOSB or SDVOSB?
 
-To register as a VOSB or SDVOSB, you’ll need to apply through the Vets First Verification Program. <br>
+You’ll need to apply through the Vets First Verification Program. <br>
 [Apply online](https://www.vip.vetbiz.va.gov/).
 
 Our VA-certified Verification Assistance Counselors—and Verification Program Webinars and Town Halls—can help guide you through the process. If you use these pre-qualification resources, you can help speed up the decision on your application.</br>
