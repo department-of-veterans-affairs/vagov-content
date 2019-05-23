@@ -1,9 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: topic-landing
-title: Register To Do Business With VA And Get Support For Your Veteran-Owned Small Business
-heading: Register to do business with VA and get support for your Veteran-Owned Small Business
+title: Get Support For Your Veteran-Owned Small Business
+heading: Get support for your Veteran-owned small business
 display_title: Veteran-owned business support
+description: Register your Veteran-owned business to get support from VA. Learn how registering a Veteran-owned small business (VOSB) or service-disabled Veteran-owned small business (SDVOSB) can give you advantages when bidding on government contracts, tax relief, and better access to capital.
 concurrence: complete
 order: 5
 spoke: Get benefits
@@ -11,7 +12,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-If you’re a Veteran who owns a small business, you may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out if you can register your Veteran-Owned Small Business.
+If you have a Veteran-owned small business, you may qualify for advantages when bidding on government contracts—along with access to other resources and support—through the Vets First Verification Program. This program is run by the Office of Small & Disadvantaged Business Utilization (OSDBU). Registering through OSDBU will allow you to work with us (all businesses who work with VA must be registered). Find out if 're eligible and how to register your business.
 
 </div>
 
@@ -73,7 +74,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <br>
 <span id="business-advantages">
 
-## What kind of advantages and support can I get when I register my business?
+## What kind of advantages and support can I get when I register my Veteran-owned small business?
 
 - The ability to do business with us. If you want to do business with VA, your company must be registered as a VOSB or SDVOSB.
 - Priority when you bid on contracts for other federal or state government agencies
@@ -90,9 +91,9 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <br>
 <span id="business-how">
 
-## How do I register my small business?
+## How do I register my business as a VOSB or SDVOSB?
 
-To register as a VOSB or SDVOSB, you’ll need to apply through the Vets First Verification Program. <br>
+You’ll need to apply through the Vets First Verification Program. <br>
 [Apply online](https://www.vip.vetbiz.va.gov/)
 
 Our VA-certified Verification Assistance Counselors—and Verification Program webinars and town halls—can help guide you through the process. If you use these pre-qualification resources, you can help speed up the decision on your application.</br>
