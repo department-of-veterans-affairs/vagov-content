@@ -39,19 +39,25 @@ If you have SGLI Active Duty coverage, follow these steps to convert to a commer
 <ol class="process">
 <li class="process-step list-one">
   
-##### After your separation from the military, but **no more than 120 days** (approximately 4 months) after that date, begin your application. 
+##### 
+
+After your separation from the military, but **no more than 120 days** (approximately 4 months) after that date, begin your application.
 
 </li>
 
 <li class="process-step list-two">
   
-##### Contact one of the companies listed below, or your local insurance agent, and tell them you’d like to convert your existing VA coverage to an individual policy.
+##### 
+
+Contact one of the companies listed below, or your local insurance agent, and tell them you’d like to convert your existing VA coverage to an individual policy.
 
 </li>
 
 <li class="process-step list-three">
  
-##### You’ll need **both** of the following documents to convert your policy:
+##### 
+
+You’ll need **both** of the following documents to convert your policy:
 
 - **An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
 - **A DD-214 form** (Certificate of Release or Discharge from Active Duty) **or** your reservist orders, **and**
@@ -93,3 +99,18 @@ You’ll need **all** of the following documents to convert your policy:
 - Your final Leave and Earnings Statement (LES)
 
 </li>
+
+You may convert your coverage to a commercial policy at standard premium rates, without having to provide proof of good health. The conversion policy must be a permanent policy, such as a whole life policy.
+
+Other types of policies, such as term, variable life, or universal life insurance, aren’t allowed as conversion policies. Also, there are other policy benefits, like accidental death and dismemberment or waiver of premium for disability, that aren’t covered in conversion policies.
+
+## I currently have Family or Spousal (FSGLI) coverage.
+
+If you’re married to a service member who has coverage under FSGLI, you have the option to convert your spousal coverage to an individual policy under certain circumstances. (Only spouses can convert their coverage; children aren’t eligible.) **One** of the following qualifying events must apply to you:
+
+-	Your spouse has separated from the military, **or**
+-	You’ve divorced the service member, **or**
+-	The service member has elected to terminate spousal FSGLI coverage (SOES Certificate of Coverage or [Form SGLV-8286A](https://www.benefits.va.gov/INSURANCE/forms/8286A.htm)), **or**
+-	The service member has elected to terminate their own SGLI coverage (SOES Certificate of Coverage or [Form SGLV-8286](https://www.benefits.va.gov/INSURANCE/forms/8286.htm))
+
+After the qualifying event happens, follow these steps:
