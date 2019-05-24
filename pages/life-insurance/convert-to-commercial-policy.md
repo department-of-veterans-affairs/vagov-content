@@ -1,3 +1,4 @@
+---
 layout: page-breadcrumbs.html
 template: detail-page
 title: Convert Your VA Life Insurance To A Commercial Policy
@@ -7,7 +8,6 @@ description:
 concurrence: 
 spoke: Manage your policy and benefits
 order:5 
-
 ---
 
 <div class="va-introtext">
