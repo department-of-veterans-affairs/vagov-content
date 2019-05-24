@@ -75,14 +75,12 @@ Yes. You can choose to have legal representation for all VA payment disputes.
 
 <b>To find an accredited representative or VSO:</b>
 
-- Go to eBenefits to find a local representative (including a recognized VSO, an attorney, or a claims agent) by state/territory, zip code, or the organization’s name. <br>
-<a href="https://www.ebenefits.va.gov/ebenefits/vso-search?_ga=2.197424556.2097259274.1549232369-1173244138.1525894550">Go to eBenefits</a>
-- Or search the VA Office of the General Counsel’s list to find VA-recognized organizations and VA-accredited individuals by name, city, state, or zip code. <br>
-<a href="https://www.va.gov/ogc/apps/accreditation/index.asp">Search the VA Office of the General Counsel’s list</a>
+- <a href="https://www.ebenefits.va.gov/ebenefits/vso-search?_ga=2.197424556.2097259274.1549232369-1173244138.1525894550">Go to eBenefits</a> to find a local representative (including a recognized VSO, an attorney, or a claims agent) by state/territory, zip code, or the organization’s name. 
+- Or <a href="https://www.va.gov/ogc/apps/accreditation/index.asp">search the VA Office of the General Counsel’s list</a> to find VA-recognized organizations and VA-accredited individuals by name, city, state, or zip code. <br>
 
-<b>To set up representative with an accredited representative or VSO:</b>
+<b>To set up representation with an accredited representative or VSO:</b>
 
-Contact us at <a href="tel:+18664001238">1-866-400-1238</a> to request the necessary forms. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 711.
+Contact us at <a href="tel:+18664001238">866-400-1238</a> to request the necessary forms. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 If you choose to hire an attorney or accredited agent for a fee, you'll need to send a copy of the agreement of payment to us at:
 <p class="va-address-block">
