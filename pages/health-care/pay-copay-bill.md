@@ -34,7 +34,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or other collection actions. Find out how to make a payment—and what to do if you're having trouble making payments or you disagree with your bill.
+You need to pay your full VA copay bill balance by the due date on your billing statement to avoid late charges, interest, or collection actions. Find out how to make a payment—and what to do if you're having trouble making payments or you disagree with your bill.
 
 </div>
 
@@ -47,12 +47,11 @@ You need to pay your full VA copay bill balance by the due date on your billing 
 
 <h3>Online</h3>
 
-Pay directly from your bank account or by debit or credit card on the secure Pay.gov website. <br>
-[Go to Pay.gov](https://www.pay.gov/public/form/start/25987221)
+Pay directly from your bank account or by debit or credit card on the secure [Pay.gov website](https://www.pay.gov/public/form/start/25987221). <br>
 
 <h3>By phone</h3>
 
-Call us at <a href="tel:+18888274817">1-888-827-4817</a>. Be sure to have your account number ready.
+Call us at <a href="tel:+18888274817">888-827-4817</a>. Be sure to have your account number ready.
 
 <h3>By mail</h3>
 
@@ -60,8 +59,8 @@ Send your payment stub, along with a check or money order made payable to "VA," 
 
 <p class="va-address-block">
 Department of Veterans Affairs <br>
-PO Box 530269 <br>
-Atlanta, GA 30353-0269 <br>
+PO Box 3978 <br>
+Portland, OR 97208-3978 <br>
 </p>
 
 <h3>In person</h3>
@@ -145,8 +144,7 @@ The U.S. Treasury will add more fees and interest to your copay debt. They may a
 </div>
 </div>
 
-For more information, watch our video on Veteran copayments. <br>
-[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be)
+For more information, watch our [Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be). <br>
 
 ------
 <div itemscope itemtype="http://schema.org/Question">
