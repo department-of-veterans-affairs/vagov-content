@@ -148,14 +148,12 @@ For more information, watch our [Veteran copayments video](https://www.youtube.c
 
 ------
 <div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How can I get help with Veterans Choice Program billing issues?</h2>
+<h2 itemprop="name">What should I do if I receive a bill from my approved non-VA community provider?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. ET.
-
-We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
-[Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp)
+You most likely received the bill because your provider tried to send it to us, but didn’t receive payment. Contact your VA health facility and ask the staff to work with your community provider to resolve payment. <br>
+[Get contact information for your VA health facility](/find-locations/)
 
 </div>
 </div>
