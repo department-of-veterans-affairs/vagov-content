@@ -8,6 +8,7 @@ concurrence:
 spoke: Manage your policy and benefits
 order:5 
 ---
+
 <div class="va-introtext">
 
 When you leave the military, you may want to convert your Servicemembers’ Group Life Insurance (SGLI) policy to a commercial one, instead of converting to VGLI. You may also be considering switching from a VGLI or FSGLI policy. This page will help you understand how to convert from a VA life insurance policy, specifically SGLI, FSGLI, and VGLI, to a commercial one. 
