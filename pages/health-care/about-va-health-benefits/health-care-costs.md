@@ -24,7 +24,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext">
 
-We're committed to providing free health care for conditions related to military service and for all Veterans with catastrophic disabilities and disability ratings of at least 50%—as well as for those who can't afford to pay for care. Learn more about how we'll determine if you'll need to pay for any part of your care.
+We're committed to providing free health care for conditions related to military service and for Veterans with catastrophic disabilities and disability ratings of at least 50%, as well as for those who can't afford to pay for care. Learn more about how we'll determine if you'll need to pay for any part of your care.
 
 </div>
 
@@ -60,12 +60,11 @@ Whether or not you'll need to pay copays—and how much you'll pay—depends on 
 [Learn more about priority groups](https://www.va.gov/HEALTHBENEFITS/resources/publications/hbco/hbco_enrollment_eligibility.asp)<br>
 [View current copay rates](/health-care/copay-rates/)
 
-If you haven't applied for VA health care yet, you can review VA health care eligibility requirements, or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
+If you haven't applied for VA health care yet, you can review VA health care eligibility requirements or use our Health Benefits Explorer tool to see what your copays may be if you enroll. <br>
 [Learn more about VA health care eligibility requirements](/health-care/eligibility/)<br>
 [Go to the Health Benefits Explorer](http://hbexplorer.vacloud.us/)
 
-For more information, watch our video on Veteran copayments.
-[Watch the Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be)
+For more information, watch our [Veteran copayments video](https://www.youtube.com/watch?v=gNlM8FHzMQI&feature=youtu.be).
 
 </div>
 </div>
@@ -197,7 +196,7 @@ If our review shows that your income is still above our limits, we’ll send you
 
 - **If you completed a financial assessment to find out if you were eligible for cost-free medications or for beneficiary travel pay (but not for free VA health care),** you’ll need to provide updated income information each year.
 
-- **If we determined that you’re eligible for free VA health care because your household income is below our income limit,** you don’t have to provide updated income information each year. But, if you last provided your updated income information before March 24, 2014, you’ll need to provide your current information at your next VA appointment. </br>
+- **If we determine you’re eligible for free VA health care because your household income is below our income limit,** you don’t have to provide updated income information each year. 
 
 We’ll receive your income information from the IRS and the SSA each year to confirm that you’re still eligible for free VA health care. We’ll contact you only if this information changes your eligibility or copay requirements. If you disagree with the information, you can keep using VA health care services while we review your situation.
 
