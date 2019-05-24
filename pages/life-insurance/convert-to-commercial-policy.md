@@ -153,7 +153,7 @@ Contact one of the companies listed below, or your local insurance agent, and te
 #####
 
 You’ll need **all** of the following documents to convert your policy:
--**An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
+- **An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
 -	The final Leave and Earnings Statement (LES), showing the deduction for Spousal SGLI
 
 </li>
