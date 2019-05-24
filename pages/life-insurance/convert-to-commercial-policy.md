@@ -23,3 +23,38 @@ To learn what you need to do to convert your current policy, choose the section 
 
 
 </div>
+
+## What is military conversion to a private life insurance? 
+
+Conversion is a process that allows you to transfer your existing group coverage to an individual life policy without the need to provide evidence of good health. The converting private company may ask you to answer health questions, because doing so may help you get a better rate. But you aren’t required to answer health questions.
+
+## How do I find out how much coverage I have?
+
+Your most recent Leave and Earnings Statement (LES) or VGLI bill has details about your coverage.
+
+## I currently have SGLI Active Duty coverage.
+
+If you have SGLI Active Duty coverage, follow these steps to convert to a commercial life insurance policy:
+
+<ol class="process">
+<li class="process-step list-one">
+  
+##### After your separation from the military, but **no more than 120 days** (approximately 4 months) after that date, begin your application. 
+
+</li>
+
+<li class="process-step list-two">
+  
+##### Contact one of the companies listed below, or your local insurance agent, and tell them you’d like to convert your existing VA coverage to an individual policy.
+
+</li>
+
+<li class="process-step list-three">
+ 
+##### 3.	You’ll need **both** of the following documents to convert your policy:
+
+- **An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
+- **A DD-214 form** (Certificate of Release or Discharge from Active Duty) **or** your reservist orders, **and**
+- A copy of your last Leave and Earnings Statement (LES).
+
+</li>
