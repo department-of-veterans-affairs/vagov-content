@@ -237,7 +237,7 @@ These companies can help you convert to a private policy. Note that not every co
 
 **Trans World Assurance Company** 650-348-2300; [www.twasite.com](https://www.twalife.com/)
 
-**More life insurance information**
+## More life insurance information
 
 ### [About VA life insurance options and eligibility](/life-insurance/options-eligibility/)
 
