@@ -93,14 +93,19 @@ We may assign you to priority group 2 if you have a service-connected disability
 
 **We may assign you to priority group 6 if any of the below descriptions are true. You:**
 
-- Have a non-compensable service-connected disability that we've rated as 0% disabling, **or**
+- Have a compensable service-connected disability that we've rated as 0% disabling, **or**
 - Were exposed to ionizing radiation during atmospheric testing or during the occupation of Hiroshima and Nagasaki, **or**
 - Participated in Project 112/SHAD, **or**
 - Served in the Republic of Vietnam between January 9, 1962, and May 7, 1975, **or**
 - Served in the Persian Gulf War between August 2, 1990, and November 11, 1998, **or**
 - Served on active duty at Camp Lejeune for at least 30 days between August 1, 1953, and December 31, 1987
 
-**Note:** If you're currently enrolled or newly enrolled in the VA health care program, and you served in a theater of combat operations after November 11, 1998, or were discharged from active duty on or after January 28, 2003, you're eligible for enhanced benefits for 5 years after discharge. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
+**We may also assign you to priority group 6 if you meet all of the requirements listed below. You:**
+- Are currently or newly enrolled in VA health care **and**
+- Served in a theater of combat operations after November 11, 1998, or were discharged from active duty on or after January 28, 2003, **and**
+- Were discharged less than 5 years ago 
+
+<br> **Note:** As a returning combat Veteran, you're eligible for these enhanced benefits for 5 years after discharge. At the end of this enhanced enrollment period, we'll assign you to the highest priority group you qualify for at that time.
 
 <h3>Priority group 7</h3>
 
