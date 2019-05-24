@@ -8,7 +8,21 @@ description:
 concurrence: 
 spoke: Manage your policy and benefits
 order: 5
-
+relatedlinks:
+  - heading: Other helpful resources
+    links:
+    - url: /burials-memorials/pre-need-eligibility/
+      title: Pre-need burial eligibility determination
+      description: You can apply to find out in advance if you can be buried in a VA national cemetery. This is called a pre-need determination of eligibility—and it can help make the burial planning process easier for your family members.
+    - url: /burials-memorials/veterans-burial-allowance/
+      title: How to apply for Veterans burial allowance
+      description: Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
+    - url: https://www.benefits.va.gov/Compensation/current_rates_dic.asp
+      title: VA survivor benefits rates (VA DIC)
+      description: View current dependency and indemnity compensation rates for surviving spouses and children. 
+    - url: https://www.benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp?_ga=2.178092133.1532992680.1558364164-175658214.1545415984
+      title: Parents Dependency and Indemnity Compensation (DIC) rates
+      description: View current survivor benefit rates for parents.
 ---
 
 <div class="va-introtext">
@@ -188,7 +202,7 @@ Contact one of the companies listed below, or your local insurance agent, and te
   
 #####
 
-3.	Give a copy of the conversion notice to the agent helping you.
+Give a copy of the conversion notice to the agent helping you.
 
 </li>
 </ol>
