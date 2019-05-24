@@ -72,7 +72,7 @@ Visit your nearest VA medical center, and ask for the agent cashier's office. Br
 **Note:** We can deposit your check through either a one-time electronic funds transfer or as a check transaction. If we make an electronic funds transfer, your bank may withdraw the funds from your account on the same day as we process your payment and you won't receive your check back from your bank.
 
 <h3>If you need help understanding your patient statement</h3>
-- [View our guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf)
+- [View our guide to understanding your VA patient statement (PDF)](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691_understanding_your_va_patient_statement.pdf)
 - Call us at <a href="tel:+18664001238">1-866-400-1238</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 - Or visit your nearest VA medical center or other health facility and ask to talk with a member of the facility's revenue staff. <br>
 [Find your nearest VA health facility](/find-locations/) <br>
@@ -152,7 +152,7 @@ For more information, watch our [Veteran copayments video](https://www.youtube.c
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">1-877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. ET.
+If you receive care through the Choice Program and you're having issues with negative credit reporting or debt collections because of incorrect or delayed billing, we can help. Call us at <a href="tel:+ 18778817618">877-881-7618</a>. We're here Monday through Friday, 9:00 a.m. to 5:00 p.m. ET.
 
 We encourage you to continue working with your VA primary care team to get the health care services you need while we help you resolve these issues. <br>
 [Learn more about the Veterans Choice Program](https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp)
