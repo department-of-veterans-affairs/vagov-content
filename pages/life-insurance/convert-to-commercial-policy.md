@@ -64,6 +64,7 @@ You’ll need **both** of the following documents to convert your policy:
 - A copy of your last Leave and Earnings Statement (LES)
 
 </li>
+</ol>
 
 Other types of policies, such as term, variable life, or universal life insurance, aren’t allowed as conversion policies. Also, there are other policy benefits, like accidental death and dismemberment or waiver of premium for disability, that aren’t covered in conversion policies.
 
@@ -99,6 +100,7 @@ You’ll need **all** of the following documents to convert your policy:
 - Your final Leave and Earnings Statement (LES)
 
 </li>
+</ol>
 
 You may convert your coverage to a commercial policy at standard premium rates, without having to provide proof of good health. The conversion policy must be a permanent policy, such as a whole life policy.
 
@@ -113,4 +115,50 @@ If you’re married to a service member who has coverage under FSGLI, you have t
 -	The service member has elected to terminate spousal FSGLI coverage (SOES Certificate of Coverage or [Form SGLV-8286A](https://www.benefits.va.gov/INSURANCE/forms/8286A.htm)), **or**
 -	The service member has elected to terminate their own SGLI coverage (SOES Certificate of Coverage or [Form SGLV-8286](https://www.benefits.va.gov/INSURANCE/forms/8286.htm))
 
-After the qualifying event happens, follow these steps:
+## After the qualifying event happens, follow these steps:
+
+<ol class="process">
+<li class="process-step list-one">
+  
+##### 
+
+After the qualifying event, but **no more than 120 days** (approximately 4 months) after that date, begin your application.
+
+</li>
+
+<li class="process-step list-two">
+  
+#####
+
+Contact one of the companies listed below, or your local insurance agent, and tell them you’d like to convert your existing coverage to an individual policy.
+
+</li>
+
+<li class="process-step list-three">
+  
+#####
+
+You’ll need **all** of the following documents to convert your policy:
+-**An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
+-	The final Leave and Earnings Statement (LES), showing the deduction for Spousal SGLI
+
+</li>
+
+<li class="process-step list-four">
+  
+#####
+
+You’ll also need one of the following: 
+- The service member's separation document (**A DD-214 form**, Certificate of Release or Discharge from Active Duty,
+or NGB-22, or written orders), **or**
+- The certificate of dissolution of the marriage of the spouse and the service member, **or**
+- The service member's FSGLI spousal declination (SOES Certificate of Coverage or [Form SGLV-8286A](https://www.benefits.va.gov/INSURANCE/forms/8286A.htm)), **or**
+- The service member's SGLI declination (SOES Certificate of Coverage or [Form SGLV-8286](https://www.benefits.va.gov/INSURANCE/forms/8286.htm)), **or**
+- Proof of the service member's death (Report of Casualty Form DD 1300 or civilian death certificate)
+
+</li>
+</ol>
+
+Spouses covered under Family SGLI may convert their coverage to a commercial policy at standard premium rates, without having to provide proof of good health. The conversion policy must be a permanent policy, such as a whole life policy.
+
+Other types of policies, such as term, variable life, or universal life insurance, aren’t allowed as conversion policies. Also, there are other policy benefits, like accidental death and dismemberment or waiver of premium for disability, that aren’t covered in conversion policies.
