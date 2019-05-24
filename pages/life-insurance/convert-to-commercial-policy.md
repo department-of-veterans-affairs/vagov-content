@@ -51,10 +51,45 @@ If you have SGLI Active Duty coverage, follow these steps to convert to a commer
 
 <li class="process-step list-three">
  
-##### 3.	You’ll need **both** of the following documents to convert your policy:
+##### You’ll need **both** of the following documents to convert your policy:
 
 - **An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
 - **A DD-214 form** (Certificate of Release or Discharge from Active Duty) **or** your reservist orders, **and**
-- A copy of your last Leave and Earnings Statement (LES).
+- A copy of your last Leave and Earnings Statement (LES)
+
+</li>
+
+Other types of policies, such as term, variable life, or universal life insurance, aren’t allowed as conversion policies. Also, there are other policy benefits, like accidental death and dismemberment or waiver of premium for disability, that aren’t covered in conversion policies.
+
+## I currently have SGLI National Guard or Reserves coverage.
+
+If you have SGLI National Guard or Reserves coverage, follow these steps to convert to a commercial life insurance policy:
+
+<ol class="process">
+<li class="process-step list-one">
+  
+##### 
+
+After your separation from the military, but **no more than 120 days** (approximately 4 months) after that date, begin your application. 
+
+</li>
+
+<li class="process-step list-two">
+  
+#####
+
+Contact one of the companies listed below, or your local insurance agent, and tell them you’d like to convert your existing coverage to an individual policy.
+
+</li>
+
+<li class="process-step list-three">
+  
+#####
+
+You’ll need **all** of the following documents to convert your policy:
+
+-	**An SGLI Conversion Notice**, which you can get by calling the Office of Servicemembers’ Group Life Insurance (OSGLI) at 800-419-1473, **and**
+- **An NGB-22** (the National Guard equivalent of a DD-214 form) or written orders as proof of separation, **and**
+- Your final Leave and Earnings Statement (LES)
 
 </li>
