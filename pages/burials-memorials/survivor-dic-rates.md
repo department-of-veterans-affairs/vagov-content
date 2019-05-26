@@ -68,7 +68,7 @@ All rates in $ U.S. dollars
 
 ### Example of how to use these tables to figure out your monthly payment
 
-If you were the surviving spouse of a Veteran, **and** you had 2 children under age 18, **and** you qualified for both the 8-year provision and Aid and Attendance, you would calculate your rate as you see below.
+If you were the surviving spouse of a Veteran, **and** you had 2 children under age 18, **and** you qualified for both the 8-year provision and Aid and Attendance, you would figure out your rate as you see below.
 
 #### Total monthly payment for the first 2 years
 
@@ -126,7 +126,7 @@ All rates in $ U.S. dollars
 
 <h4>Example of how to use these tables to figure out your monthly payment</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
 
 $1,283.11 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$1,934.65 total monthly payment**
 
@@ -156,9 +156,9 @@ $1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-ye
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
 
-<h4>Example of how to calculate your monthly payment</h4>
+<h4>Example of how to figure out your monthly payment</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was W-3, **and** you had 2 dependent children under age 18, you would calculate your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was W-3, **and** you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
 
 $1,490.57 (basic monthly payment rate) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,144.11 total monthly payment**
 
