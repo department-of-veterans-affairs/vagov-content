@@ -181,7 +181,6 @@ $1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eli
 | **O-3** | 1,539.42 | 
 | **O-4** | 1,631.69 | 
 | **O-5** | 1,795.63 | 
-| **O-5** | 1,795.63 | 
 | **O-6** | 2,024.71 | 
 | **O-7** | 2,185.36 | 
 | **O-8** | 2,400.33 | 
@@ -214,19 +213,19 @@ $1,599.33 (increased monthly payment rate with 8-year provision) <br> + $326.77 
 
 #### If child is over 18 years of age and the Veteran's surviving spouse is also eligible for DIC
 
-We pay this in addition to the eligible surviving spouse's compensation. We pay this compensation to you separately as the adult surviving child.
+We pay this in addition to the eligible surviving spouse's compensation. We make this payment to you separately as the adult surviving child.
 
 All rates in $ U.S. dollars
 | Child status | Monthly payment |
 | --- | ---: |
-| Child between age 18 and 23 who's in a qualified school program | 276.84 |
+| Child between ages 18 and 23 who's in a qualified school program | 276.84 |
 | Helpless child over age 18 | 556.93 |
 
 **Note:** We define a helpless child as an adult child who became permanently unable to support themselves before age 18.
 
-#### If the Veteran doesn't have a surviving spouse who is eligible for DIC
+#### If the Veteran doesn't have a surviving spouse who's eligible for DIC
 
-We'll base your payment amount on the number of the Veteran's eligible surviving children. Eligible children include children who are under age 18, or who are between age 18 and 23 and in a qualified school program.
+We'll base your payment amount on the number of the Veteran's eligible surviving children. Eligible children include children who are under age 18, or who are between ages 18 and 23 and in a qualified school program.
 
 ##### Basic monthly payment rates 
 
@@ -267,9 +266,9 @@ If we determine that you're eligible for both DIC and [Survivors Pension benefit
 
 The Survivor Benefit Program is a voluntary annuity program that service members may purchase as a retirement benefit for their family members. An annuity is a monthly payment received for life. Depending on their military service, members may buy a Survivor Benefit Plan (SBP) or Reserve Component Survivor Benefit Plan (RCSBP).
 
-We don't manage this program. It's managed by the Department of Defense's Defense Finance and Accounting Service (DFAS). 
+We don't manage this program. It's managed by the Defense Finance and Accounting Service (DFAS) at the Department of Defense. 
 
-### Can I receive SBP or RCSBP payments and payments for DIC at the same time?
+### Can I receive SBP or RCSBP payments and DIC at the same time?
 
 In most cases, you can't receive a full SBP or RCSBP payment and a full DIC payment at the same time. 
 
@@ -277,7 +276,7 @@ In most cases, you can't receive a full SBP or RCSBP payment and a full DIC paym
 
 ### What happens if I'm receiving SBP or RCSBP payments and then qualify for DIC and the exception above doesn't apply to me?
 
-DFAS will reduce your SBP or RCSBP by the amount of your DIC payment. If your DIC payment amount is greater than your total SBP or RCSBP payment, DFAS will stop your SBP or RCSBP payments. This is called the "SBP/DIC offset."
+DFAS will reduce your SBP or RCSBP by the amount of your DIC payment. If your DIC payment is greater than your total SBP or RCSBP payment, DFAS will stop your SBP or RCSBP payments. This is called the "SBP/DIC offset."
 
 If DFAS pays you more than the offset amount in SBP or RCSBP payments after you begin receiving DIC payments, they'll consider this amount an overpayment. This means you'll have to pay the money back.
 
