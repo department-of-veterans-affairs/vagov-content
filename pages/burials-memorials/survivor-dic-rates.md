@@ -274,7 +274,7 @@ In most cases, you can't receive a full SBP or RCSBP payment and a full DIC paym
 
 **Exception:** If you're receiving an SBP or RCSBP annuity from one spouse, but then remarry after age 57 and become eligible for DIC based on the service-connected disability of another spouse, you can receive full benefits through both programs at the same time. 
 
-### What happens if I'm receiving SBP or RCSBP payments and then qualify for DIC and the exception above doesn't apply to me?
+### What happens if I'm receiving SBP or RCSBP payments and then qualify for DIC—but the exception above doesn't apply to me?
 
 DFAS will reduce your SBP or RCSBP by the amount of your DIC payment. If your DIC payment is greater than your total SBP or RCSBP payment, DFAS will stop your SBP or RCSBP payments. This is called the "SBP/DIC offset."
 
