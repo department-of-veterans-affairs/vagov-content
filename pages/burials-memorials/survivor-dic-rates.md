@@ -59,7 +59,7 @@ All rates in $ U.S. dollars
 ### Added amounts for surviving spouses
 
 All rates in $ U.S. dollars
-| Descriptions:<br> If this is true for you... | You may qualify for this benefit | Added monthly amount | 
+| If this description is true for you... | You may qualify for this benefit | Added monthly amount | 
 | ---| --- | --- | 
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | 8-year provision | 280.09 |
 | You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
