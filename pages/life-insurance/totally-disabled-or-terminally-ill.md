@@ -66,7 +66,7 @@ There are certain exceptions to the above conditions. But if you think you’re 
 
 ### What benefits can I get?
 
-A waiver of premiums. This means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
+A waiver of premiums. This means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to one year prior to receipt of a claim.
 
 ### How do I get these benefits?
 
