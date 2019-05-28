@@ -309,7 +309,8 @@ You're not eligible if you were ordered to report to an induction station, but y
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="convicted-of-sex-offenses">Those convicted of certain sex offenses</button>
 <div id="convicted-of-sex-offenses" class="usa-accordion-content">
   
-You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.<br>
+You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.
+
 **Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
 
 </div>
