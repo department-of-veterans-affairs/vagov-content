@@ -83,7 +83,7 @@ If both you and your spouse are applying, you’ll each need to fill out your ow
 
 ### You'll need this information
 
-Your (or your sponsor's):
+To apply, you'll need your (or your sponsor's):
 
 - Social Security number
 - Date and place of birth
