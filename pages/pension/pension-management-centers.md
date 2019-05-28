@@ -67,8 +67,8 @@ This office serves:
 <ul>
 <li>Alabama</li>
 <li>Arkansas</li>
-<li>Indiana</li>
 <li>Illinois</li>
+<li>Indiana</li>
 <li>Kentucky</li>
 <li>Louisiana</li>
 <li>Michigan</li>
