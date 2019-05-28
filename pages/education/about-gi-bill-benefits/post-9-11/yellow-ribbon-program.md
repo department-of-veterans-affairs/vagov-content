@@ -158,7 +158,7 @@ school, and you'll need to pay the remaining $2,000.
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions-4">Do I have to attend full time to be in the Yellow Ribbon Program?</button>
 <div id="questions-4" class="usa-accordion-content">
 
-No. You don't have to attend full-time to be in the program.
+No. You don't have to attend full time to be in the program.
 
 </div>
 </li>
