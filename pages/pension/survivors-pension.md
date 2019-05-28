@@ -52,7 +52,7 @@ Under current law, we recognize the following wartime periods to decide eligibil
 - World War I (April 6, 1917, to November 11, 1918)
 - World War II (December 7, 1941, to December 31, 1946)
 - Korean conflict (June 27, 1950, to January 31, 1955)
-- Vietnam War era (February 28, 1961, to May 7, 1975 for Veterans who served in the Republic of Vietnam during that period. August 5, 1964, to May 7, 1975, for Veterans who served outside of the Republic of Vietnam.)
+- Vietnam War era (February 28, 1961, to May 7, 1975, for Veterans who served in the Republic of Vietnam during that period. August 5, 1964, to May 7, 1975, for Veterans who served outside of the Republic of Vietnam.)
 - Gulf War (August 2, 1990, through a future date to be set by law or presidential proclamation)
 
 <br>
