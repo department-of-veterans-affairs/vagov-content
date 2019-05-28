@@ -141,7 +141,7 @@ You can fax your application to us at 855-840-8299.
 
 ## What if I need help filling out my application?
 
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
+Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
 
 Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
 [Find a representative](https://www.benefits.va.gov/vso/varo.asp)<br>
@@ -153,7 +153,7 @@ Get help from an accredited representative (a trained professional trusted to he
 
 **Note:** We’ve received a large number of pre-need eligibility applications, and it’s slowing down our approval process. We’ll let you know when we’ve received your application and how long we think it’ll take to make a decision. We’re sorry for the delay.
 
-For more information, you can call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>. Please wait to hear back about your application rather than applying again.
+For more information, you can call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>). We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>. Please wait to hear back about your application rather than applying again.
 
 </div>
 <div markdown="0"><br></div>
