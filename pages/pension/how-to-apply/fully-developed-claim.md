@@ -145,7 +145,7 @@ You’ll need to turn in the information and evidence at the same time as you fi
 
 You’ll need to turn in the information and evidence as soon as you can.
 
-**Note:** You have up to one year from the date we receive your claim to turn in any information and evidence. If we decide your claim before one year from the date we receive the claim, you’ll have the rest of the 1-year period to turn in additional information or evidence to support your claim.
+**Note:** You have up to one year from the date we receive your claim to turn in any information and evidence. If we decide your claim before one year from the date we receive the claim, you’ll have the rest of the one-year period to turn in additional information or evidence to support your claim.
 
 </div>
 </li>
