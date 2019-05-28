@@ -139,7 +139,7 @@ With the standard claim process, we’ll handle the evidence-gathering steps lis
 
 You’ll need to turn in the information and evidence at the same time as you file your claim.
 
-**Note:** If you turn in additional information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
+**Note:** If you turn in additional information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. If we decide your claim before one year from the date we receive the claim, you’ll have the rest of that one-year period to turn in additional information or evidence to support your claim.
 
 ### Standard claim process
 
