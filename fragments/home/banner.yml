@@ -19,9 +19,8 @@
 #   '
 #
 
-visible: false
+visible: true
 type: warning
-title: Important Note for Veterans and VA Employees
-content: '
-    The Department of Veterans Affairs is fully funded for fiscal year 2019 and remains fully operational during the partial government shutdown. 
-  '
+title: You may have trouble signing in or using some tools or services
+content: >
+    We’re sorry. We’re working to fix a problem that affects some parts of our site. If you have trouble signing in or using any tools or services, please check back soon.
