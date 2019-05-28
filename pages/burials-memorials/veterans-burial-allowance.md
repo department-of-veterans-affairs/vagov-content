@@ -147,13 +147,13 @@ If a Veteran’s remains aren’t claimed, we’ll pay back the person or organi
 
 ### How do I get reimbursed for the casket or urn?
 
-Fill out a Request for Reimbursement of Casket/Urn (VA Form 40-10088). 
+Fill out a Request for Reimbursement of Casket/Urn (VA Form 40-10088). <br>
 [Download VA Form 40-10088](https://www.va.gov/vaforms/va/pdf/VA40-10088.pdf)
 
-**Note:** Part I (requesting burial) and Part II (requesting casket/urn reimbursement) of this form may be submitted by the same person or different people.
+Part I (requesting burial) and Part II (requesting casket/urn reimbursement) of this form may be submitted by the same person or different people.
 
-#### Part I 
-Turn this in with documentation of qualifying military service to the VA National Cemetery Scheduling Office (NCSO). 
+#### Part I of VA Form 40-10088 (requesting burial)
+Turn this in along with the Veteran’s military discharge papers (DD214 or other separation documents) to the VA National Cemetery Scheduling Office (NCSO). 
 
 **By fax:** 1-866-900-6417, **or**
 
@@ -165,7 +165,7 @@ PO Box 510543<br>
 St. Louis, MO 63151<br>
 </p>
 
-#### Part II
+#### Part II of VA Form 40-10088 (requesting casket/urn reimbursement)
 If you're the same person who's requesting burial using Part I of VA Form 40-10088, fill out Part II as well. Turn in the required reimbursement documentation when you submit the form.
 
 If you didn't request burial using Part I of the form, but you want to get reimbursed for the cost of a casket or urn, fill out only Part II of VA Form 40-10088. Submit it, along with the required reimbursement documentation, to the VA national cemetery, or to the state or tribal Veterans cemetery **before** the actual burial. 
