@@ -22,7 +22,7 @@ Learn about VA Survivors Pension benefit rates. If you qualify for this benefit 
 - **Your MAPR amount** is the maximum amount of pension payable to a Veteran, surviving spouse, or child. Your MAPR is based on how many dependents you have and whether you qualify for Housebound or Aid and Attendance benefits. MAPRs are adjusted each year for cost-of-living increases. You can find your current MAPR amount using the tables below.
 
 **Example:**
-You’re a qualified surviving spouse with 1 dependent child. You also qualify for Aid and Attendance benefits. Your yearly income is $10,000.
+You’re a qualified surviving spouse with one dependent child. You also qualify for Aid and Attendance benefits. Your yearly income is $10,000.
 
 Your MAPR amount = $17,309 <br>
 Your yearly income = $10,000 <br>
