@@ -19,7 +19,7 @@
 #   '
 #
 
-visible: true
+visible: false
 type: warning
 title: You may have trouble signing in or using some tools or services on VA.gov
 content: >
