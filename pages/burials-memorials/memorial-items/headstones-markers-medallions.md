@@ -104,8 +104,7 @@ If more than 60 days have passed since you filed your claim and the grave still 
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
-[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf) <br>
-[See the emblems of belief you can choose to place on a headstone or marker (PDF)](https://www.cem.va.gov/cem/docs/emblems.pdf)
+[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What if there's a mistake with the headstone inscription?
 
