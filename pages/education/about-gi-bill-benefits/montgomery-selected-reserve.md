@@ -85,7 +85,7 @@ Follow the steps below to apply for these benefits.
     </li>
   <li class="process-step list-two">
     <h3>Make sure we've approved your program</h3>
-<p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
+<p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
     <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a><br>
     <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a></P.
     <p></p>
@@ -135,14 +135,14 @@ You can use your benefits in many ways to advance your education and training. <
 
 Yes. If you're eligible for more than one benefit, you'll need to decide which to receive. You can't receive benefits under more than one program at a time.
 
-We can help you make this decision. Call us at 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. If you have hearing loss, call TTY: 711.
+We can help you make this decision. Call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. If you have hearing loss, call TTY: 711.
 
 ## Get more information
 
 Search frequently asked questions or submit your own question on our GI Bill customer service page.<br>
 [Ask a question online](http://gibill.custhelp.com/) <br>
 
-Or call us at 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. If you have hearing loss, call TTY: 711.
+Or call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. If you have hearing loss, call TTY: 711.
 
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol&reg; does not constitute a waiver of VA’s trademark rights in that phrase.<br>
