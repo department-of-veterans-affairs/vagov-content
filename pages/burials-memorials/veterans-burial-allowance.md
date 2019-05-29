@@ -158,9 +158,14 @@ There are 2 different sections of this form. Part I and Part II may be submitted
 Turn this in along with the Veteran’s military discharge papers (DD214 or other separation documents) to the VA National Cemetery Scheduling Office (NCSO). See the address listed below.
 
 #### Requesting casket/urn reimbursement (Part II of VA Form 40-10088)
-If you're the same person who's requesting a burial using Part I of VA Form 40-10088, fill out Part II as well. Submit the required reimbursement documentation when you submit the form.
+If you're the same person who's requesting a burial using Part I of VA Form 40-10088, fill out Part II as well. Submit the required reimbursement documents when you submit the form.
 
-If you didn't request a burial using Part I of the form, but you want to get reimbursed for the cost of a casket or urn you paid for, fill out only Part II of VA Form 40-10088. Submit it, along with the required reimbursement documentation, to the VA national cemetery, or to the state or tribal Veterans cemetery **before** the actual burial. 
+If you didn't request a burial using Part I of the form, but you want to get reimbursed for the cost of a casket or urn you paid for, fill out only Part II of VA Form 40-10088. Submit it, along with the required reimbursement documents, to the VA national cemetery, or to the state or tribal Veterans cemetery **before** the actual burial. 
+
+**Required reimbursement documents include:**
+- And invoice or bill of sale with the model number and cost of the casket or urn, **or** 
+- A completed and signed [FSC Vendor File Request Form (VA Form 10091)](https://www.cem.va.gov/pdf/VA10091.pdf), **or** 
+- A previously assigned vendor ID
 
 #### How to submit your form and any documents or receipts
 
