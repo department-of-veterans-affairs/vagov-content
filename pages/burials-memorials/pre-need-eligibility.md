@@ -123,7 +123,7 @@ You can apply online right now.
 
 #### By mail
 
-Apply by mail using an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007). <br> [Download VA Form 40-10007 (PDF)](/vaforms/va/pdf/VA40-10007.pdf)
+Apply by mail using an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007). <br> [Download VA Form 40-10007 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf)
 
 **Print the form, fill it out, and send it (with copies of your supporting documents) to:**
 
@@ -145,7 +145,7 @@ Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8
 
 Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
 [Find a representative](https://www.benefits.va.gov/vso/varo.asp)<br>
-[Find your state’s Veterans agency](/statedva.htm)
+[Find your state’s Veterans agency](https://www.va.gov/statedva.htm)
 
 ## What happens after I apply?
 
