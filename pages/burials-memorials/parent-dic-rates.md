@@ -9,17 +9,20 @@ concurrence:
 spoke: Additional resources
 order: 3 
 relatedlinks:
-  - heading: More help for survivors and dependents of Veterans
+  - heading: More benefits and memorial items 
     links:
-    - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for surviving spouse and dependents (DIC)
-      description: Learn more about the overall VA Dependency and Indemnity Compensation (VA DIC) program, and whether you qualify for benefits.
-    - url: /pension/survivors-pension/
-      title: VA Survivors Pension
-      description: Learn about monthly pensions for surviving spouses and dependent children of wartime Veterans. To qualify, you’ll need to meet certain income and net worth limits.
-    - url: /pension/survivors-pension-rates/
-      title: VA Survivors Pension benefit rates
-      description: Find out what the current VA Survivors Pension benefit payment rates are.
+    - url: /burials-memorials/plan-a-burial/ 
+      title: Plan a burial
+      description: Get step-by-step instructions on how to plan a burial for a Veteran.
+    - url: /burials-memorials/veterans-burial-allowance/
+      title: How to apply for a Veterans burial allowance
+      description: Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
+    - url: /burials-memorials/memorial-items/
+      title: Memorial items
+      description: Learn how to apply for grave markers, headstones, Presidential Memorial Certificates, and other memorial items to honor a Veteran's service.
+    - url: /burials-memorials/bereavement-counseling/
+      title: Bereavement counseling
+      description: Find out if you qualify for grief counseling and transition support after the loss of an active-duty service member, reservist, or National Guard soldier.
 
 ---
 
@@ -32,7 +35,7 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
 ### On this page
 - [Rates if only 1 surviving parent is alive](#one-parent)
 - [Rates if both surviving parents are alive](#both-parents)
-- [Historic rates]
+- [Historic rates](#historic-rates)
 
 <span id="one-parent"></a>
 ## Rates if only 1 surviving parent is alive
@@ -721,6 +724,7 @@ All rates in $ U.S. dollars
 </li>
 </ul>
 
+<span id="historic-rates"></a>
 ## Historic rates
 
 View VA DIC parent rates for past years.
