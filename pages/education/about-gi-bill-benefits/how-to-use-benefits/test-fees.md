@@ -152,4 +152,4 @@ Then, mail your completed form to your nearest VA regional processing office. <b
 **You can reach us in either of these ways:**
 
 - [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.104850562.308050883.1542048286-1173244138.1525894550)
-- Or call us at 888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). If you have hearing loss, call TTY: 711.
+- Or call us at <a href="tel:+18884424551">888-442-4551</a>. If you have hearing loss, call TTY: 711.
