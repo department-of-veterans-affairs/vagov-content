@@ -14,7 +14,7 @@ order: 3
 |--------------|--------------- | ---------------------- | --------------|
 | Disability pension | Only Veterans | Your rate as of December 31, 1978 may be continued if your Income for VA Purposes (IVAP) is: | $15,394 or less |
 | Special Aid and Attendance (A/A) allowance | Only Veterans whose annual income is more than $15,394 | Your rate as of December 31, 1978 may be continued if your IVAP is: | $15,948 or less |
-| Hospital reduction rates [(38 CFR 3.552)](https://www.law.cornell.edu/cfr/text/38/3.552) for special A/A allowance	 | Only Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is: <br> <br> View the 38 CFR 3.552 rate chart to find out your rate (this is a link),|  $21,245 or less   |
+| Hospital reduction rates [(38 CFR 3.552)](https://www.law.cornell.edu/cfr/text/38/3.552) for special A/A allowance	 | Only Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is: <br> <br> View the 38 CFR 3.552 rate chart to find out your rate (this is a link):|  $21,245 or less   |
 
 ### Veretan with dependents
 
