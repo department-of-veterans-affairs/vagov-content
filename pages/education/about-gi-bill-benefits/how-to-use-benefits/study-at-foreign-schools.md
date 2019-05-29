@@ -116,7 +116,7 @@ If you don’t do this, it could affect when you get benefits.
 **To get more information or help with your application:**
 
 - [Ask a question online](https://gibill.custhelp.va.gov/app/home?_ga=2.12019956.1924984484.1542640153-1173244138.1525894550)
-- **If you’re in the United States**, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. Or go to a VA regional benefit office near you. <br>
+- **If you’re in the United States**, call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. Or go to a VA regional benefit office near you. <br>
 [Find a VA regional benefit office](/find-locations/?facilityType=benefits)
 - **If you have hearing loss**, call TTY: 711.
 - **If you’re outside the United States**, call <a href="tel:+0019187815678">+1-918-781-5678</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>. This is not a toll-free number.
