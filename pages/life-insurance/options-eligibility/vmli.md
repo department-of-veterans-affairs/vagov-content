@@ -58,7 +58,7 @@ Up to $200,000 in mortgage life insurance—paid directly to the bank or other l
 First, you’ll need to apply for an SAH grant. If you get the SAH grant, your loan guaranty agent will tell you if you qualify for VMLI. If you already have an SAH grant, ask your agent about VMLI.
 
 Your agent will help you fill out a Veterans’ Mortgage Life Insurance Statement (VA Form 29-8636).<br>
-[Download VA Form 29-8636](https://www.benefits.va.gov/INSURANCE/forms/29-8636_08-2011.pdf)
+[Download VA Form 29-8636 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/29-8636_08-2011.pdf)
 
 **Note:** Remember, you must apply for VMLI before your 70th birthday.
 

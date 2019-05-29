@@ -62,7 +62,7 @@ If you sign up within 240 days of leaving the military, you won’t need to prov
 [Apply online through OSGLI](https://giosgli.prudential.com/osgli/OnlineFillableAppController/NBEnrollment)
 - [Apply online through eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management)
 - Apply by mail or fax. Fill out the Application for Veterans’ Group Life Insurance (SGLV 8714). <br>
-[Download the Application for Veterans’ Group Life Insurance](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
+[Download the Application for Veterans’ Group Life Insurance (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8714_ed2014-07.pdf)
 
 Fax the form to 800-236-6142, or mail it to:
 
@@ -73,7 +73,7 @@ Fax the form to 800-236-6142, or mail it to:
 </p>
 
 To reinstate a VGLI policy that has expired, you'll need to fill out an Application for Reinstatement of VGLI Coverage (SGLV 180). <br>
-[Download SGLV 180](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf) <br>
+[Download SGLV 180 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_180_ed2012-12.pdf) <br>
 
 ## How much will I pay for these benefits?
 
@@ -81,7 +81,7 @@ VGLI premium rates are based on your age and the amount of insurance coverage yo
 
 **Choose your age to find monthly premium rates as of July 1, 2014.**
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="age-29-below">Age 29 and below</button>
 <div id="age-29-below" class="usa-accordion-content">
@@ -633,7 +633,7 @@ Yes. You can choose your beneficiaries (the people you pick to get the money fro
 - Access your policy online. <br>
 [Find your policy through Prudential Life Insurance Company of America](https://giosgli.prudential.com/osgli/web/OSGLIMenu.html), **or** <br>
 - Fill out a VGLI Beneficiary Designation form (SGLV 8721). <br>
-[Download SGLV 8721](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
+[Download SGLV 8721 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8721_ed2014-06.pdf)<br>
 
 Fax the form to 800-236-6142, or mail it to:
 
@@ -654,7 +654,7 @@ Yes. You can convert your policy into a commercial (civilian) policy at any time
   <li class="process-step list-one">
 
   Choose your new insurance company. <br>
-  [View our list of companies that take part in this program](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
+  [View our list of companies that take part in this program (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2016-06.pdf)
 
   </li>
 
@@ -679,7 +679,7 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 
 ## Which forms would my family member need?
   - **To request an advance insurance payment for a service member who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
-[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
+[Download SGLV 8284 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283).<br>
-[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
+[Download SGLV 8283 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
 
