@@ -74,7 +74,7 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 <div itemprop="itemListElement">
 
 #### By mail
-Call 1-888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>, to request that we send the application to you. Fill it out and mail it to the VA regional claims processing office that’s in the same location as your school.<br/>
+Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>, to request that we send the application to you. Fill it out and mail it to the VA regional claims processing office that’s in the same location as your school.<br/>
 [See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp)
 
 #### In person
@@ -97,7 +97,7 @@ You can work with a trained professional called an accredited representative to 
 
 [Find out what happens after you apply](/education/after-you-apply/)
 
-You can’t make changes to your application, but if you have questions about VA education benefits, please call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
+You can’t make changes to your application, but if you have questions about VA education benefits, please call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
 
 If we’ve asked you for documents, please upload them through the GI Bill website.
 <a class="usa-button-primary" href="https://gibill.custhelp.com/app/home">Go to the GI Bill Website</a>
