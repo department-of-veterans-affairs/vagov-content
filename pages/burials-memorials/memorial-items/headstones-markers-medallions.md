@@ -60,10 +60,10 @@ You can apply for one of these memorial items if you're representing the Veteran
 ## How do I apply for a memorial item?
 
 **For a headstone, grave marker, or niche cover**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
-[Download VA Form 40-1330 (PDF)](/vaforms/va/pdf/VA40-1330.pdf)
+[Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
 **For a medallion** to be placed on a privately purchased headstone or marker, fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
-[Download VA Form 40-1330M (PDF)](/vaforms/va/pdf/VA40-1330M.pdf)
+[Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
 
 - Make a copy of the Veteran’s discharge documents. Don’t send the originals, because we can’t return them.
 
