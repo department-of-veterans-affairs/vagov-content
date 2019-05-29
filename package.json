@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Content files for VA.gov",
   "engines": {
-    "node": "8.10.0",
+    "node": "10.15.3",
     "yarn": "1.12.3"
   },
   "scripts": {
