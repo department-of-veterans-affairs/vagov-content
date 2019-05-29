@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Plan a burial for a Veteran, spouse, or dependent family member
-display_title: Plan a burial
+title: Schedule a burial for a Veteran, spouse, or dependent family member
+display_title: Schedule a burial
 collection: burials
-children: burialsPlanABurial
+children: burialsScheduleABurial
 spoke: Plan a burial
 order: 7
 relatedlinks:
@@ -22,12 +22,12 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Find out what steps to take to plan a burial for a Veteran, spouse, or dependent family member.
+Find out what steps to take to schedule a burial for a Veteran, spouse, or dependent family member.
 </div>
 
 <br>
 
-## How do I plan a burial for a Veteran or other family member?
+## How do I schedule a burial for a Veteran or other family member?
 
 ### If you have a pre-need decision letter confirming that the Veteran, spouse, or dependent family member can be buried in a VA national cemetery:
 
