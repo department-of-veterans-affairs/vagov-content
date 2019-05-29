@@ -48,7 +48,7 @@ You can apply at any VA regional benefit office.<br>
 ### By mail
 
 You can fill out and mail a PMC request form, along with a copy of the Veteran’s death certificate and discharge papers (DD214 or other separation documents). <br>
-[Download a PMC request form (PDF)](/vaforms/va/pdf/VA40-0247.pdf)
+[Download a PMC request form (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-0247.pdf)
 
 **Send the PMC request form and discharge papers here:**
 <br><br>
