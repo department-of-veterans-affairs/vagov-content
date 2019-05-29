@@ -1,14 +1,17 @@
 ---
 layout: page-breadcrumbs.html
-title: How to Apply for VA Vocational Rehab and Employment
-display_title: How to Apply
+title: How To Apply For VA Voc Rehab And Employment
+heading: How to apply for VA Voc Rehab and Employment
+display_title: How to apply
+description: Find out how to apply for VA Voc Rehab and Employment benefits (also known as Vocational Rehabilitation and Employment, VR&E, or Chapter 31 benefits). Get step-by-step instructions, and learn what to expect after you apply.
+keywords: va voc rehab, voc rehab, chapter 31 benefits, how to apply for va vocational rehabilitation
 order: 3
 template: detail-page
 relatedlinks:
-  - heading: More information about VR&E benefits and services
+  - heading: More information about Voc Rehab and Employment benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E programs for service members and Veterans
+      title: Vocational Rehab and Employment programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/dependent-benefits/
       title: Dependent family members
@@ -17,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to apply for Vocational Rehabilitation and Employment (VR&E).
+Find out how to apply for VA Voc Rehab and Employment (also known as Vocational Rehabilitation and Employment, VR&E, or Chapter 31 benefits).
 
 </div>
 
@@ -62,10 +65,11 @@ If you’re eligible, we’ll invite you to an orientation session at your neare
 
 <span id="servicemember-not-received-rating"></span>
 
+
 ## What if I’m a service member who hasn’t yet received a service-connected disability rating?
 
 You don’t need to wait for a rating. Instead, please fill out VA Vocational Rehabilitation - Getting Ahead After You Get Out (VA Form 28-0588). <br>
-[Download VA Form 28-0588](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf)
+[Download VA Form 28-0588 (PDF)](http://www.vba.va.gov/pubs/forms/VBA-28-0588-ARE.pdf)
 
 You may be eligible for VR&amp;E benefits and services if you’re in at least one of the below situations.
 
@@ -84,7 +88,8 @@ After you apply, we’ll schedule a meeting for you with a Vocational Rehabilita
 
 After we make an entitlement decision, you and your counselor will work together to develop a rehabilitation plan. This plan outlines the rehabilitation and other services that VR&amp;E will provide.
 
-You can also meet with VRCs called VetSuccess on Campus (VSOC) Counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
+You can also meet with VRCs called VetSuccess on Campus (VSOC) counselors at schools participating in the VetSuccess on Campus (VSOC) program. <br>
+
 [Learn more about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/)
 
 ## What's included in a rehabilitation plan?

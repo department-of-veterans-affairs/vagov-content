@@ -87,7 +87,7 @@
         - text: Change your GI Bill school or program
           href: https://www.va.gov/education/change-gi-bill-benefits/
         - text: Change your direct deposit information
-          href: https://www.va.gov/change-direct-deposit-and-contact-information/
+          href: https://www.va.gov/change-direct-deposit/
       fragments:
         columnThree: promotions/education
       seeAllLink:
@@ -147,8 +147,8 @@
           href: https://www.va.gov/va-payment-history/
         - text: Change your address
           href: https://www.va.gov/change-address/
-        - text: Change your direct deposit and contact information
-          href: https://www.va.gov/change-direct-deposit-and-contact-information/
+        - text: Change your direct deposit information
+          href: https://www.va.gov/change-direct-deposit/
       fragments:
         columnThree: promotions/pension
       seeAllLink:
@@ -255,7 +255,7 @@
         links:
         - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
-        - text: Change your address          
+        - text: Change your address
           href: https://www.va.gov/change-address/
         - text: How to apply for a discharge upgrade
           href: https://www.va.gov/discharge-upgrade-instructions

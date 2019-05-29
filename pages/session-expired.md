@@ -1,5 +1,6 @@
 ---
 title: Session Expired
+heading: Session expired
 layout: page.html
 ---
 
