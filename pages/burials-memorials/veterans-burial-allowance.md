@@ -75,7 +75,7 @@ For burial in a national cemetery, you'll receive an allowance for:
 - Any documents or receipts you have for the cost of transporting the Veteran’s remains
 
 ## As a surviving spouse, do I need to file a claim for burial costs?
-No. When we receive notice of the Veteran’s passing, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
+No, you don't need to file a claim as a surviving spouse. When we receive notice of the Veteran’s passing, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
 
 <div id="react-applicationStatus" data-widget-type="burials-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
@@ -130,9 +130,11 @@ If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We'r
 - Were hospitalized or in a VA-contracted nursing home at the time of death, **or**
 - Died while traveling to VA-authorized care
 
+-------------------
+
 ## Unclaimed remains
 
-If a Veteran’s remains aren’t claimed, we’ll pay back the person or organization responsible for the Veteran’s burial for certain burial costs. These reimbursement amounts are for burial in a VA national cemetery or a VA-funded state or tribal Veterans cemetery:
+If a Veteran’s remains aren’t claimed, we’ll pay back the person or organization responsible for the Veteran’s burial for certain burial costs. The reimbursement amounts listed below are for burial in a VA national cemetery or a VA-funded state or tribal Veterans cemetery:
 - A $300 allowance
 - The cost of a casket or urn (in 2019, this amount is $2,681 for a 20-gauge metal casket and $162 for a durable plastic urn)
 - If the deceased qualifies, the costs of moving the Veteran’s remains to the cemetery
@@ -143,19 +145,28 @@ If a Veteran’s remains aren’t claimed, we’ll pay back the person or organi
 
 **For burial in a national cemetery,** contact the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a>.
 
-**For burial at a state or tribal Veterans cemetery,** [contact the state or tribal cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
+**For burial at a state or tribal Veterans cemetery,** [contact the state or tribal cemetery](https://www.cem.va.gov/cem/cems/listcem.asp).
 
 ### How do I get reimbursed for the casket or urn?
 
 Fill out a Request for Reimbursement of Casket/Urn (VA Form 40-10088). <br>
 [Download VA Form 40-10088](https://www.va.gov/vaforms/va/pdf/VA40-10088.pdf)
 
-Part I (requesting burial) and Part II (requesting casket/urn reimbursement) of this form may be submitted by the same person or different people.
+There are 2 different sections of this form. Part I and Part II may be submitted by either the same person or by different people. Keep reading below to learn about how to request a burial and reimbursement for the casket or urn.
 
-#### Part I of VA Form 40-10088 (requesting burial)
-Turn this in along with the Veteran’s military discharge papers (DD214 or other separation documents) to the VA National Cemetery Scheduling Office (NCSO). 
+#### Requesting a burial (Part I of VA Form 40-10088)
+Turn this in along with the Veteran’s military discharge papers (DD214 or other separation documents) to the VA National Cemetery Scheduling Office (NCSO). See the address listed below.
 
-**By fax:** 1-866-900-6417, **or**
+#### Requesting casket/urn reimbursement (Part II of VA Form 40-10088)
+If you're the same person who's requesting a burial using Part I of VA Form 40-10088, fill out Part II as well. Submit the required reimbursement documentation when you submit the form.
+
+If you didn't request a burial using Part I of the form, but you want to get reimbursed for the cost of a casket or urn you paid for, fill out only Part II of VA Form 40-10088. Submit it, along with the required reimbursement documentation, to the VA national cemetery, or to the state or tribal Veterans cemetery **before** the actual burial. 
+
+#### How to submit your form and any documents or receipts
+
+You can submit VA Form 40-10088 by fax or by mail.
+
+**By fax:** 866-900-6417
 
 **By mail:**
 
@@ -164,8 +175,3 @@ VA National Cemetery Scheduling Office<br>
 PO Box 510543<br>
 St. Louis, MO 63151<br>
 </p>
-
-#### Part II of VA Form 40-10088 (requesting casket/urn reimbursement)
-If you're the same person who's requesting burial using Part I of VA Form 40-10088, fill out Part II as well. Turn in the required reimbursement documentation when you submit the form.
-
-If you didn't request burial using Part I of the form, but you want to get reimbursed for the cost of a casket or urn, fill out only Part II of VA Form 40-10088. Submit it, along with the required reimbursement documentation, to the VA national cemetery, or to the state or tribal Veterans cemetery **before** the actual burial. 
