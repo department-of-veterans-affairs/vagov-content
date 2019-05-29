@@ -127,7 +127,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 
 <span id="privacy-service"></span>
 
-<h3>VA privacy service</h3>
+<h2>VA privacy service</h2>
 
 ------
 
@@ -157,7 +157,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 
 <span id="account"></span>
 
-<h3>Account policies</h3>
+<h2>Account policies</h2>
 
 ------
 
@@ -175,7 +175,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 
  <span id="other"></span>
 
-<h3>Other VA policies</h3>
+<h2>Other VA policies</h2>
 
 ------
 
@@ -193,7 +193,7 @@ The VA Privacy Service works to minimize the impact on Veterans' privacy, partic
 
   <span id="links"></span>
 
-<h3>Federally required links</h3>
+<h2>Federally required links</h2>
 
 ------
 
