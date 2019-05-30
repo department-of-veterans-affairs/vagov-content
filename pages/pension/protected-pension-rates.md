@@ -1,7 +1,10 @@
 ---
+layout: page-breadcrumbs.html
+template: detail-page
 title: 2019 VA Protected Pension Rates
-header: 2019 VA protected pension rates
+heading: 2019 VA protected pension rates
 display_title: Protected pension rates
+description: n/a
 spoke: More resources
 order: 3
 ---
