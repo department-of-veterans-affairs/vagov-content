@@ -29,9 +29,10 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 <span id="active"></a>
 ## Accessing and managing SGLI while you're serving
 
-<div class="feature">
-
-### Can I get SGLI?
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="get-SGLI">Can I get SGLI?</button>
+<div id="get-SGLI" class="usa-accordion-content">
 
 You may be able to get full-time SGLI coverage if any of the descriptions below are true for you.
 
@@ -56,32 +57,60 @@ You may be able to get full-time SGLI coverage if you meet both of the requireme
 
 **Note:** You must pay your premiums directly.
 
-<br>
+</div>
+</li>
 
-#### Who’s covered?
-
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="who's-covered">Who’s covered?</button>
+<div id="who's-covered" class="usa-accordion-content">
+  
 Service members
 
 </div>
+</li>
 
-### What kind of life insurance benefits can I get with SGLI?
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-kind-benefits">What kind of life insurance benefits can I get with SGLI?</button>
+<div id="what-kind-benefits" class="usa-accordion-content">
+  
+You can get: 
 - Coverage up to the top limit of $400,000—in $50,000 increments
 - 120 days of free coverage from the date you left the military
 - Extension of free coverage for up to 2 years (if you’re totally disabled) when you leave the military. <br>
 [See below for information on the SGLI-Disability Extension](#extension)
 - Part-time coverage (if you’re a Reserve member who doesn’t qualify for full-time coverage)
 
-### How do I get these benefits?
+</div>
+</li>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="how-get-benefits">How do I get these benefits?</button>
+<div id="how-get-benefits" class="usa-accordion-content">
 
 If you qualify for SGLI, we’ll automatically sign you up through your service branch. See your unit’s personnel office for more information.
 
+</div>
+</li>
 
-### Can I make changes to my benefits?
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="make-changes-benefits">Can I make changes to my benefits?</button>
+<div id="make-changes-benefits" class="usa-accordion-content">
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
-#### How to change your beneficiaries—or to reduce, turn down, or restore SGLI coverage
+</div>
+</li>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-beneficiaries">How can I change my beneficiaries or reduce, turn down, or restore SGLI coverage?</button>
+<div id="changes-beneficiaries" class="usa-accordion-content">
+ 
 
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
@@ -118,10 +147,19 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 
-### How much will I pay for these benefits?
+</div>
+</li>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="pay-for-benefits">How much will I pay for these benefits?</button>
+<div id="pay-for-benefits" class="usa-accordion-content">
 
 If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatically taken out of your base pay. The current basic SGLI premium rate is 7 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic Injury Protection coverage (TSGLI). <br>
 [Learn more about TSGLI](/life-insurance/options-eligibility/tsgli/)
+
+</div>
+</li>
 
 **These are the SGLI premium rates effective July 1, 2014:**
 
@@ -140,16 +178,27 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 <span id="convert"></a>
 ## Applying for VGLI when you separate or retire
 
-### How do I apply for VGLI when I leave the military?
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-for-VGLI">How do I apply for VGLI when I leave the military?</button>
+<div id="apply-for-VGLI" class="usa-accordion-content">
+
 When you leave the military, you can apply for Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
+</div>
+</li>
+
 <span id="extension"></span>
 
-### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="free-extension">Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?</button>
+<div id="free-extension" class="usa-accordion-content">
+ 
 You may be able to keep your coverage for up to 2 years after the date you left the military if you’re within 2 years of your separation date and you meet either of the requirements listed below.
 
 **At least one of these must be true:**
@@ -160,7 +209,13 @@ You may be able to keep your coverage for up to 2 years after the date you left 
   - Loss of speech that leaves you unable to talk—even in a whisper—without the help of an artificial device
   - Permanent (long-lasting) loss of use of both of your hands, feet, or eyes, or one hand and one foot, or one hand or foot and one eye
 
-### How do I apply for SGLI Disability Extension?
+</div>
+</li>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-for-extension">How do I apply for SGLI Disability Extension?</button>
+<div id="apply-for-extension" class="usa-accordion-content">
 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE).
 
