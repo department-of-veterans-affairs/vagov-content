@@ -37,7 +37,7 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
  - [Rates if the Veteran died on or after January 1, 1993](#after-1993)
  - [Rates if the Veteran died before January 1, 1993](#before-1993) 
  - [How your payments for DIC may affect your VA Survivors Pension or Survivor Benefit Plan](#sbp)
- - [Historic rates for DIC](#historic)
+ - [Historic rates](#historic)
  
 <span id="after-1993"></a>
 ## Rates if the Veteran died on or after January 1, 1993 
@@ -47,6 +47,8 @@ To find your total monthly payment amount, start with the **Basic monthly paymen
 
 - **If you're the surviving dependent child of a Veteran, and the Veteran has no surviving spouse,** the rate listed to the right is your total monthly payment.
 - **If you're the surviving spouse of a Veteran,** the rate listed to the right is your basic monthly payment. You may also be eligible for added amounts based on certain factors. Go to the **Added amounts** table next to find any descriptions that are true for you. Add the amount listed to the right of each description to your basic monthly payment. This is your total monthly payment.
+
+**Note:** If you haven't yet applied for this benefit, [find out if you're eligible and how to apply for VA DIC](/burials-memorials/dependency-indemnity-compensation/).
 
 ### Basic monthly payment rates
 
@@ -62,9 +64,11 @@ All rates in $ U.S. dollars
 | If this description is true... | You may qualify for this benefit | Added monthly amount | 
 | ---| --- | --- | 
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | 8-year provision | 280.09 |
-| You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 236.77 |
+| You have a disability and need help with regular daily activities (like eating, bathing, or dressing) | Aid and Attendance | 326.77 |
 | You can't leave your house due to a disability | Housebound allowance | 153.08 |
 | You have 1 or more children who are under age 18 | <ul><li>Transitional benefit, **and**</li><li>DIC apportionment rate</li></ul> | <ul><li>282.00 <br> for the first 2 years after the Veteran's death</li><li>326.77 <br> for each eligible child</li></ul>
+
+**Note:** You can find the details of these rates in title 38 U.S.C. 1311(a, b, c, d, f) and 38 CFR 3.461(b).
 
 ### Example of how to use these tables to figure out your monthly payment
 
@@ -72,13 +76,11 @@ If you were the surviving spouse of a Veteran, **and** you had 2 children under 
 
 #### Total monthly payment for the first 2 years
 
-$1,319.04 (basic monthly rate) <br> + $326.77 (1st child under 18) <br> + $326.77 (2nd child under age 18) <br> + $280.09 (8-year provision) <br> + $236.77 (Aid and Attendance) <br> + $282.00 (transitional benefit) <br> = **$2,771.44**
+$1,319.04 (basic monthly rate) <br> + $326.77 (1st child under 18) <br> + $326.77 (2nd child under age 18) <br> + $280.09 (8-year provision) <br> + $326.77 (Aid and Attendance) <br> + $282.00 (transitional benefit) <br> = **$2,861.44**
 
 #### Total monthly payment after 2 years (when transitional benefit ends)
 
-$2,771.44 (monthly payment with transitional benefit) <br>  - $282.00 (transitional benefit) <br> = **$2,489.44**
-
-**Note:** If you haven't yet applied for this benefit, [find out if you're eligible and how to apply for VA DIC](/burials-memorials/dependency-indemnity-compensation/).
+$2,771.44 (monthly payment with transitional benefit) <br>  - $282.00 (transitional benefit) <br> = **$2,579.44**
 
 ------
 
@@ -105,7 +107,7 @@ All rates in $ U.S. dollars
 | --- | ---: |
 | **E-1** | 1,319.04 | 
 | **E-2** | 1,319.04 | 
-| **E-3** | 1,283.11 | 
+| **E-3** | 1,319.04 | 
 | **E-4** | 1,319.04 | 
 | **E-5** | 1,319.04 | 
 | **E-6** | 1,319.04 | 
@@ -114,7 +116,7 @@ All rates in $ U.S. dollars
 | **E-9 regular** | 1,502.51 | 
 | **E-9 special capacity** <br><br> Veteran served as: <ul><li>Sergeant Major of the Army or Marine Corps, **or**</li><li>Senior enlisted advisor of the Navy, **or**</li><li>Chief Master Sgt of the Air Force, **or**</li><li>Master Chief Petty Officer of the Coast Guard</li> | 1,621.94 | 
 
-**Note:** If you're the surviving spouse of an aviation cadet or other service not covered by this table, you'll receive the DIC rate for enlisted E-3.
+**Note:** If you're the surviving spouse of an aviation cadet or other service member not covered by this table, you'll receive the DIC rate for enlisted E-3.
 
 <h4>Added or increased amounts</h4>
 
@@ -124,13 +126,13 @@ All rates in $ U.S. dollars
 | <ul><li>The Veteran had a pay grade of **E-8 or E-9**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $325.77 per child |
 
-<h4>Example of how to use these tables to figure out your monthly payment</h4>
+<h4>Examples of how to use these tables to figure out your monthly payment</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
-$1,283.11 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$1,934.65 total monthly payment**
+$1,319.04 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$2,250.67 total monthly payment**
 
-If you were the surviving spouse of a Veteran whose pay grade was **E-9**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was **E-9**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
 $1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-year provision) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$2,250.87 total monthly payment**
 
@@ -158,11 +160,11 @@ $1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-ye
 
 <h4>Example of how to figure out your monthly payment</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was W-3, **and** you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was **W-3**, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
 $1,490.57 (basic monthly payment rate) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,144.11 total monthly payment**
 
-If you **also** qualified for the 8-year provision, you would figure out your monthly DIC payment as you see below.
+If you **also** qualified for the 8-year provision, you would calculate your monthly payment as in the example below.
 
 $1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.87 total monthly payment**
 
@@ -197,11 +199,11 @@ $1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eli
 
 <h4>Example</h4>
 
-If you were the surviving spouse of a Veteran whose pay grade was **O-3**, and you had 2 dependent children under age 18, you would figure out your monthly DIC payment as you see below.
+If you were the surviving spouse of a Veteran whose pay grade was **O-3**, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
 $1,539.42 (basic monthly payment rate) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,192.96 total monthly payment**
 
-If you **also** qualified for the 8-year provision, you would figure out your monthly DIC payment as you see below.
+If you **also** qualified for the 8-year provision, you would calculate your monthly payment as in the example below.
 
 $1,599.33 (increased monthly payment rate with 8-year provision) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.87 total monthly payment**
 
@@ -219,9 +221,7 @@ All rates in $ U.S. dollars
 | Child status | Monthly payment |
 | --- | ---: |
 | Child between ages 18 and 23 who's in a qualified school program | 276.84 |
-| Helpless child over age 18 | 556.93 |
-
-**Note:** We define a helpless child as an adult child who became permanently unable to support themselves before age 18.
+| Helpless child over age 18 <br> (An adult child who became permanently unable to support themselves before age 18) | 556.93 |
 
 #### If the Veteran doesn't have a surviving spouse who's eligible for DIC
 
@@ -248,9 +248,7 @@ All rates in $ U.S. dollars
 | Type of child  | Added monthly payment | 
 | --- | ---: | 
 | Each additional eligible child in a family of 10 or more children | 198.68 |
-| Each helpless child over age 18 | 326.77 | 
-
-**Note:** We define a helpless child as an adult child who became permanently unable to support themselves before age 18.
+| Each helpless child over age 18 <br> (An adult child who became permanently unable to support themselves before age 18) | 326.77 | 
 
 ------
 
@@ -285,7 +283,7 @@ Be sure to notify DFAS as soon as you qualify for DIC so they can reduce your SB
 ------
 
 <span id="historic"></a>
-## Historic rates for DIC
+## Historic rates
 
 View VA DIC surviving spouse and child rates for past years.
 
