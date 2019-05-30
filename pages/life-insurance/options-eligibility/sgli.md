@@ -170,10 +170,6 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 </li>
 </ul>
 
-<ul class="usa-accordion">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="premium-rates">How much will I pay in premiums each month? </button>
-<div id="premium-rates" class="usa-accordion-content">
 
 **These are the SGLI premium rates effective July 1, 2014:**
 
@@ -188,9 +184,6 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 | $100,000 | $7.00 | $1.00 | $8.00 |
 | $50,000 | $3.50 | $1.00 | $4.50 |
 
-</div>
-</li>
-</ul>
 
 ------
 <span id="convert"></a>
