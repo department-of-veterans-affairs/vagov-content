@@ -32,6 +32,8 @@ View pension rates and find out if your pension rate is protected.
 
 ### Veteran without dependents
 
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
+
 | Pension type | Who's eligible | Eligibility conditions | Annual income for VA purposes (IVAP) limit |
 |--------------|--------------- | ---------------------- | --------------|
 | Disability pension | Veterans | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,394 or less |
@@ -39,6 +41,10 @@ View pension rates and find out if your pension rate is protected.
 | Hospital reduction rates (38 CFR 3.552) for special A/A allowance	 | Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page 6 of this document to find out your rate (this is a link):|  $21,245 or less   |
 
 ### Veteran with dependents
+
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
+
+
 
 | Veteran status                                                    | Condition                                                                                                                                                                                                                              | Annual income for VA purposes (IVAP) limit    |
 |-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -48,9 +54,12 @@ View pension rates and find out if your pension rate is protected.
 ### Spouse income exclusion
 <strong>Under 38 CFR 3.262(b)(2)</strong>
 
-The spouse income exclusion disability pension limit is <b>$4,916</b> as of December 1, 2018
+Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>.
 
 ### Section 306 death pension
+
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
+
 
 | Who's eligible | Eligibility conditions | Annual income for VA purposes (IVAP) limit |
 |--------------- | ---------------------- | --------------|
@@ -63,10 +72,13 @@ The spouse income exclusion disability pension limit is <b>$4,916</b> as of Dece
 
 ### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation (section 306)
 
-The SBP/MIW annuity limitatation <b>$9,078</b> as of December 1, 2018.
+Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 
 
 ## Old law disability pension
+
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
+
 
 | Your household status | Annual income for VA purposes (IVAP) limit | 
 |--------------- | ---------------------- | 
@@ -87,6 +99,8 @@ The SBP/MIW annuity limitatation <b>$9,078</b> as of December 1, 2018.
 ### Rates payable
 
 ## Old law death pension
+
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
 
 
 | Beneficiary | Annual income for VA purposes (IVAP) limit | 
