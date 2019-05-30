@@ -34,7 +34,7 @@ If you become totally disabled or terminally ill, you may be able to get certain
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="free-extension-SGLI">Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="free-extension-SGLI" class="usa-accordion-content">
   
 
 You may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below.
@@ -54,7 +54,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="can-I-get-waiver">Can I get a waiver so I don’t have to pay my life insurance premiums?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="can-I-get-waiver" class="usa-accordion-content">
   
 You may be able to get a waiver of your life insurance premiums if you meet all of the requirements listed below.
 
@@ -71,7 +71,7 @@ There are certain exceptions to the above conditions. But if you think you’re 
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="what-benefits-can-I-get">What benefits can I get?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="what-benefits-can-I-get" class="usa-accordion-content">
 
 A waiver of premiums. This means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
 
@@ -80,7 +80,7 @@ A waiver of premiums. This means you won’t have to pay your life insurance pre
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-get-benefits">How do I get these benefits?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="how-to-get-benefits" class="usa-accordion-content">
 
 You’ll need to apply for these benefits as soon as possible after becoming totally disabled. We’ll decide if you qualify, and we’ll notify you of the decision.
 
@@ -97,7 +97,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="life-insurance-benefits-earlier">Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="life-insurance-benefits-earlier" class="usa-accordion-content">
 
 You or your spouse may be able to get benefits early if you meet both of the requirements listed below.
 
@@ -112,7 +112,7 @@ You or your spouse may be able to get benefits early if you meet both of the req
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="who's-covered">Who’s covered?</button>
-<div id="need-to-do" class="usa-accordion-content"> 
+<div id="who's-covered" class="usa-accordion-content"> 
 
 Veterans, service members, and covered spouses of service members can get accelerated benefits. 
 
@@ -121,7 +121,7 @@ Veterans, service members, and covered spouses of service members can get accele
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="benefits-can-we-get">What benefits can my spouse and I get?</button>
-<div id="need-to-do" class="usa-accordion-content"> 
+<div id="benefits-can-we-get" class="usa-accordion-content"> 
 
 You'll get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death. 
 
@@ -130,7 +130,7 @@ You'll get up to 50% of the face value of your coverage in increments of $5,000�
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-do-we-get-benefits">How do we get these benefits?</button>
-<div id="need-to-do" class="usa-accordion-content">
+<div id="how-do-we-get-benefits" class="usa-accordion-content">
 
 Only the insured service member or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply. 
 
