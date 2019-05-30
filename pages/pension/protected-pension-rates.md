@@ -25,7 +25,7 @@ widgets:
 
 <div class="va-introtext">
 
-View pension rates and find out if your pension rate is protected.
+View pension rates determined by older laws and find out if your pension rate is protected.
 </div>
 
 ## Section 306 disability pension
