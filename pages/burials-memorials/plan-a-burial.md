@@ -4,7 +4,7 @@ template: detail-page
 title: Schedule a burial for a Veteran, spouse, or dependent family member
 display_title: Schedule a burial
 collection: burials
-children: burialsScheduleABurial
+children: burialsPlanABurial
 spoke: Plan a burial
 order: 7
 relatedlinks:
