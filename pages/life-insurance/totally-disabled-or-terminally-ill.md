@@ -13,9 +13,11 @@ relatedlinks:
       title: Access your policy online
       description: Need to file a benefits claim after your family member has died? Access your policy online.
     - url: https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp
-      title: Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance
+      title: Learn more about accelerated benefits
+      description: Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance Handbook
     - url: https://benefits.va.gov/INSURANCE/resources-contact.asp
-      title: Contact the Office of Servicemembers' Group Life Insurance
+      title: Contact the Office of Servicemembers' Group Life Insurance (OSGLI)
+      decription: Get more information about life insurance coverage
 
 
 ---
@@ -29,7 +31,7 @@ If you become totally disabled or terminally ill, you may be able to get certain
 
 ## Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
 
-<ul class="usa-accordion" >
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="free-extension-SGLI">Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?</button>
 <div id="need-to-do" class="usa-accordion-content">
@@ -45,11 +47,13 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 </div>
 </li>
+</ul>
 
 <hr>
 
 ## Waiver of premiums for policyholders who become totally disabled
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="can-I-get-waiver">Can I get a waiver so I don’t have to pay my life insurance premiums?</button>
 <div id="need-to-do" class="usa-accordion-content">
@@ -88,11 +92,13 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 </div>
 </li>
+</ul>
 
 <hr>
 
 ## Accelerated benefits for terminally ill policyholders
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="life-insurance-benefits-earlier">Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?</button>
 <div id="need-to-do" class="usa-accordion-content">
