@@ -59,6 +59,7 @@ You may be able to get full-time SGLI coverage if you meet both of the requireme
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -69,7 +70,7 @@ Service members
 
 </div>
 </li>
-
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -85,6 +86,7 @@ You can get:
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -95,6 +97,7 @@ If you qualify for SGLI, we’ll automatically sign you up through your service 
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -105,13 +108,13 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-beneficiaries">How can I change my beneficiaries or reduce, turn down, or restore SGLI coverage?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-beneficiaries">How can I change my beneficiaries or reduce, turn down, or restore my SGLI coverage?</button>
 <div id="changes-beneficiaries" class="usa-accordion-content">
  
-
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
 <ol class="process" markdown="1">
@@ -149,6 +152,7 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -160,6 +164,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 </div>
 </li>
+</ul>
 
 **These are the SGLI premium rates effective July 1, 2014:**
 
@@ -191,6 +196,7 @@ You can also convert your SGLI policy into a civilian policy within 120 days fro
 
 </div>
 </li>
+</ul>
 
 <span id="extension"></span>
 
@@ -211,6 +217,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 </div>
 </li>
+</ul>
 
 <ul class="usa-accordion">
 <li>
@@ -227,6 +234,9 @@ If you get approved, you’ll receive a notice 20 months after your separation d
 If you pay the premium, you’ll be able to keep your life insurance coverage for as long as you keep paying the premiums. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
+</div>
+</li>
+</ul>
 
 ## What if I need help with my claim?
 
