@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility for burial in a VA national cemetery
+title: Eligibility For Burial In A VA National Cemetery
+heading: Eligibility for burial in a VA national cemetery
 display_title: Eligibility
 description: Find out if you or a loved one qualify for burial in a VA national cemetery and for other burial honors. Review VA burial benefits eligibility requirements for Veterans, service members, spouses, and dependents.
 collection: burials
