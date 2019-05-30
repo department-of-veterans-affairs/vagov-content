@@ -43,7 +43,7 @@ You don’t need to do anything else except prepare yourself and your family for
 
 ### If you don't have a pre-need decision letter
 
-To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director will need to take these 3 steps to apply for a burial.
+To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director will need to take these 3 steps to schedule the burial.
 
 <ol class="process">
 <li class="process-step list-one">
