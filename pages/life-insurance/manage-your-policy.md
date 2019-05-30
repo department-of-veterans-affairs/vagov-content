@@ -10,7 +10,7 @@ spoke: Manage Benefits
 
 <div class="va-introtext">
 
-If you have VA life insurance, the easiest way to manage your policy is online. You can use your online portal to:
+If you have VA life insurance, the easiest way to manage your policy is online. You can use your online portal to: 
 
 </div>
 
