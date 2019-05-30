@@ -42,7 +42,7 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
 <span id="one-parent"></a>
 ## Rates if only 1 surviving parent is alive
 
-These rates apply to you if both of the below descriptions are true for you.
+These rates apply to you if you're [eligible for VA DIC as a surviving parent](/burials-memorials/dependency-indemnity-compensation/) and both of the below descriptions are true for you.
 
 **Both of these must be true:**
 - You're the Veteran's only surviving parent, **and**
@@ -50,7 +50,7 @@ These rates apply to you if both of the below descriptions are true for you.
 
 ### Find your rate based on your yearly income
 
-Click on the income range that applies to you. Then, follow the directions below the table to find your monthly payment amount. 
+Click on the income range that applies to you. Then, follow the directions below the table to calculate your monthly payment. 
 
 **Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 1). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. If you're remarried and living with your spouse, this also includes your spouse's income. 
 
@@ -76,14 +76,15 @@ All rates in $ U.S. dollars
 | 1,800	| 572	| .08 |
 | 1,900	| 564	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $1,353 a year, you would round up to $1,400. So your beginning rate would be <strong>$604</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $1,353 (your actual income) - $1,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $604 (your beginning monthly rate) = <strong>$608.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $608.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$961.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $1,353 a year, you would round your income up to $1,400. So your beginning monthly rate would be <strong>$604</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong>
+    <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.</strong><br><br><strong>Using our example:</strong> $1,353 (actual income) - $1,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $604 (beginning monthly rate) = <strong>$608.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $608.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$961.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
     
 </div>
@@ -107,14 +108,14 @@ All rates in $ U.S. dollars
 | 2,800	| 492	| .08 |
 | 2,900	| 484	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $2,353 a year, you would round up to $2,400. So your beginning rate would be <strong>$524</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (your actual income) - $2,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $604 (your beginning monthly rate) = <strong>$528.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353.</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$881.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $2,353 a year, you would round your income up to $2,400. So your beginning monthly rate would be <strong>$524</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $604 (beginning monthly rate) = <strong>$528.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$881.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
    
 </div>
@@ -138,14 +139,14 @@ All rates in $ U.S. dollars
 | 3,800	| 412	| .08 |
 | 3,900	| 404	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your yearly income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $2,353 a year, you would round up to $2,400. So your beginning rate would be <strong>$524</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (your actual income) - $2,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $604 (your beginning monthly rate) = <strong>$528.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353.</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$881.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your yearly income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $2,353 a year, you would round your income up to $2,400. So your beginning monthly rate would be <strong>$524</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $604 (beginning monthly rate) = <strong>$528.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$881.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -169,14 +170,14 @@ All rates in $ U.S. dollars
 | 4,800	| 332	| .08 |
 | 4,900	| 324	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $4,353 a year, you would round up to $4,400. So your beginning rate would be <strong>$364</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (your actual income) - $4,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $364 (your beginning monthly rate) = <strong>$368.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353.</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $368.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$721.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $4,353 a year, you would round your income up to $4,400. So your beginning monthly rate would be <strong>$364</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (actual income) - $4,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $364 (beginning monthly rate) = <strong>$368.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $368.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$721.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -200,14 +201,14 @@ All rates in $ U.S. dollars
 | 5,800	| 252	| .08 |
 | 5,900	| 244	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $5,353 a year, you would round up to $5,400. So your beginning rate would be <strong>$284</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (your actual income) - $5,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $288.24 (your beginning monthly rate) = <strong>$368.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353.</strong><br>This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $288.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$641.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $5,353 a year, you would round your income up to $5,400. So your beginning monthly rate would be <strong>$284</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (actual income) - $5,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $288.24 (beginning monthly rate) = <strong>$368.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br>This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $288.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$641.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
    
 </div>
@@ -231,14 +232,14 @@ All rates in $ U.S. dollars
 | 6,800	| 172	| .08 |
 | 6,900	| 164	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $6,353 a month, you would round up to $5,400. So your beginning rate would be <strong>$204</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (your actual income) - $6,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $204 (your beginning monthly rate) = <strong>$208.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $208.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$561.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $6,353 a year, you would round your income up to $5,400. So your beginning monthly rate would be <strong>$204</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (actual income) - $6,300 (income amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $204 (beginning monthly rate) = <strong>$208.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $208.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$561.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -262,14 +263,14 @@ All rates in $ U.S. dollars
 | 7,800	| 92	| .08 |
 | 7,900	| 84	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your yearly income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $7,353 a month, you would round up to $7,400. So your beginning rate would be <strong>$124</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $7,353 (your actual income) - $7,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $124 (your beginning monthly rate) = <strong>$128.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $128.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$481.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $7,353 a year, you would round your income up to $7,400. So your beginning rate would be <strong>$124</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $7,353 (actual income) - $7,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount.<br><br><strong>Using our example:</strong> $4.24 + $124 (beginning monthly rate) = <strong>$128.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $128.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$481.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
    
 </div>
@@ -294,21 +295,21 @@ All rates in $ U.S. dollars
 | 8,887	| 5.04	| .08 |
 | 8,888 and above <br> **If you're living with your spouse:** Up to 20,692 <br> **If you're not living with your spouse:** Up to 15,394 |	5	| None |
 
-<h5>How to use this table to find your monthly payment</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $8,353 a year, you would round up to $8,400. So your beginning rate would be <strong>$44</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $8,353 (your actual income) - $8,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $44 (your beginning monthly rate) = <strong>$48.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $48.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$401.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $8,353 a year, you would round your income up to $8,400. So your beginning monthly rate would be <strong>$44</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $8,353 (actual income) - $8,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $44 (beginning monthly rate) = <strong>$48.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $48.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$401.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
    
-   **Note:** Depending on your total payment amount for the year, we may not pay you each month.
+**Note:** Depending on your total payment amount for the year, we may not pay you each month.
 <ul>
-  <li>If your total for the year equals between $144 and $228, we'll pay you 4 times per year (every 3 months).</li>
-  <li>If your total for the year equals between $72 and $144, we'll pay you 2 times per year (every 6 months).</li>
-  <li>If your total for the year equals less than $72, we'll pay you once per year.</li>
+  <li>If your total for the year equals between $144 and $228, we'll pay you in 4 equal payments throughout the year (every 3 months).</li>
+  <li>If your total for the year equals between $72 and $144, we'll pay you in 2 equal payments throughout the year (every 6 months).</li>
+  <li>If your total for the year equals less than $72, we'll pay you in one yearly payment.</li>
   </ul>
 
 </div>
@@ -321,13 +322,15 @@ All rates in $ U.S. dollars
 
 ### If eligible parent doesn't live with a spouse
 
-These rates apply to you if both of the below descriptions are true for you.
+These rates apply to you if you're [eligible for VA DIC as a surviving parent](/burials-memorials/dependency-indemnity-compensation/) and both of the below descriptions are true for you.
 
 **Both of these must be true:**
 - You and the Veteran's other surviving parent are both alive, **and**
 - You're not living with the Veteran's other surviving parent or your current spouse
 
 ### Find your rate based on your yearly income
+
+Click on the income range that applies to you. Then, follow the directions below the table to calculate your monthly payment. 
 
 **Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 1). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. 
 
@@ -353,14 +356,14 @@ All rates in $ U.S. dollars
 | 1,800	| 392	| .08 |
 | 1,900	| 384	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $1,353 a year, you would round up to $1,400. So your beginning rate would be <strong>$424</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $1,353 (your actual income) - $1,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $424 (your beginning monthly rate) = <strong>$428.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $428.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$781.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $1,353 a year, you would round your income up to $1,400. So your beginning monthly rate would be <strong>$424</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $1,353 (actual income) - $1,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount.<br><br><strong>Using our example:</strong> $4.24 + $424 (beginning monthly rate) = <strong>$428.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $428.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$781.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -384,14 +387,14 @@ All rates in $ U.S. dollars
 | 2,800	| 312	| .08 |
 | 2,900	| 304	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $2,353 a month, you would round up to $2,400. So your beginning rate would be <strong>$344</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up).</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (your actual income) - $2,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $344 (your beginning monthly rate) = <strong>$348.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $348.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$701.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $2,353 a year, you would round your income up to $2,400. So your beginning monthly rate would be <strong>$344</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $344 (beginning monthly rate) = <strong>$348.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $348.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$701.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -415,14 +418,14 @@ All rates in $ U.S. dollars
 | 3,800	| 232	| .08 |
 | 3,900	| 224	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $3,353 a month, you would round up to $3,400. So your beginning rate would be <strong>$264</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $3,353 (your actual income) - $3,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $264 (your beginning monthly rate) = <strong>$268.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $268.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$621.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $3,353 a year, you would round your income up to $3,400. So your beginning monthly rate would be <strong>$264</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br> If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $3,353 (actual income) - $3,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $264 (beginning monthly rate) = <strong>$268.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $268.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$621.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -446,14 +449,14 @@ All rates in $ U.S. dollars
 | 4,800	| 152	| .08 |
 | 4,900	| 144	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $4,353 a month, you would round up to $4,400. So your beginning rate would be <strong>$184</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (your actual income) - $4,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $184 (your beginning monthly rate) = <strong>$188.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $188.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$541.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $4,353 a year, you would round your income up to $4,400. So your beginning rate would be <strong>$184</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br> If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (actual income) - $4,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $184 (beginning monthly rate) = <strong>$188.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $188.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$541.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -477,14 +480,14 @@ All rates in $ U.S. dollars
 | 5,800	| 72	| .08 |
 | 5,900	| 64	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $5,353 a month, you would round up to $5,400. So your beginning rate would be <strong>$104</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (your actual income) - $5,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $104 (your beginning monthly rate) = <strong>$108.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $108.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$461.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $5,353 a year, you would round your income up to $5,400. So your beginning monthly rate would be <strong>$104</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (actual income) - $5,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $104 (beginning monthly rate) = <strong>$108.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $108.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$461.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -507,21 +510,21 @@ All rates in $ U.S. dollars
 | 6,637 |	5.04	| .08 |
 | 6,638 to 15,394	| 5	| None |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $6,353 a month, you would round up to $6,400. So your beginning rate would be <strong>$24</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (your actual income) - $6,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $24 (your beginning monthly rate) = <strong>$28.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $28.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$381.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $6,353 a year, you would round your income up to $6,400. So your beginning monthly rate would be <strong>$24</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (actual income) - $6,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $24 (beginning monthly rate) = <strong>$28.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $28.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$381.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 **Note:** Depending on your total payment amount for the year, we may not pay you each month.
 <ul>
-  <li>If your total for the year equals between $144 and $228, we'll pay you 4 times per year (every 3 months).</li>
-  <li>If your total for the year equals between $72 and $144, we'll pay you 2 times per year (every 6 months).</li>
-  <li>If your total for the year equals less than $72, we'll pay you once per year.</li>
+  <li>If your total for the year equals between $144 and $228, we'll pay you in 4 equal payments throughout the year (every 3 months).</li>
+  <li>If your total for the year equals between $72 and $144, we'll pay you in 2 equal payments throughout the year (every 6 months).</li>
+  <li>If your total for the year equals less than $72, we'll pay you in one yearly payment.</li>
   </ul>
 
 </div>
@@ -530,13 +533,15 @@ All rates in $ U.S. dollars
 
 ### If eligible parent lives with the Veteran's other parent or current spouse
 
-These rates apply to you if both of the below descriptions are true for you.
+These rates apply to you if you're [eligible for VA DIC as a surviving parent](/burials-memorials/dependency-indemnity-compensation/) and both of the below descriptions are true for you.
 
 **Both of these must be true:**
 - You and the Veteran's other surviving parent are both alive, **and**
 - You're living with the Veteran's other surviving parent or your current spouse
 
 ### Find your rate based on your yearly income
+
+Click on the income range that applies to you. Then, follow the directions below the table to calculate your monthly payment. 
 
 **Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 1). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. This also includes your spouse's income.
 
@@ -560,14 +565,14 @@ All rates in $ U.S. dollars
 | 1,800	| 414	| .04 |
 | 1,900	| 409	| .04 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $1,353 a year, you would round up to $1,400. So your beginning rate would be <strong>$431</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $1,353 (your actual income) - $1,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $431 (your beginning monthly rate) = <strong>$435.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $435.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$788.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $1,353 a year, you would round your income up to $1,400. So your beginning monthly rate would be <strong>$431</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br> If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $1,353 (actual income) - $1,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $431 (beginning monthly rate) = <strong>$435.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $435.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$788.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -590,14 +595,14 @@ All rates in $ U.S. dollars
 | 2,800	| 355	| .06 |
 | 2,900	| 348	| .06 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $2,353 a year, you would round up to $2,400. So your beginning rate would be <strong>$381</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (your actual income) - $2,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $381 (your beginning monthly rate) = <strong>$385.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $385.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$738.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $2,353 a year, you would round your income up to $2,400. So your beginning monthly rate would be <strong>$381</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment. <br><br><strong>Using our example:</strong> $4.24 + $381 (beginning monthly rate) = <strong>$385.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $385.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$738.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -620,14 +625,14 @@ All rates in $ U.S. dollars
 | 3,800	| 277	| .08 |
 | 3,900	| 269	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $3,353 a year, you would round up to $3,400. So your beginning rate would be <strong>$309</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $3,353 (your actual income) - $3,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $309 (your beginning monthly rate) = <strong>$313.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $313.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$666.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $3,353 a year, you would round your income up to $3,400. So your beginning monthly rate would be <strong>$309</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $3,353 (actual income) - $3,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount.<br><br><strong>Using our example:</strong> $4.24 + $309 (beginning monthly rate) = <strong>$313.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $313.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$666.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -650,14 +655,14 @@ All rates in $ U.S. dollars
 | 4,800	| 197	| .08 |
 | 4,900	| 189	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $4,353 a year, you would round up to $4,400. So your beginning rate would be <strong>$229</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (your actual income) - $4,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $229 (your beginning monthly rate) = <strong>$233.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $233.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$586.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $4,353 a year, you would round your income up to $4,400. So your beginning monthly rate would be <strong>$229</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $4,353 (your actual income) - $4,300 (the amount in the previous level) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br>This is your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $229 (beginning monthly rate) = <strong>$233.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $233.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$586.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -680,14 +685,14 @@ All rates in $ U.S. dollars
 | 5,800	| 117	| .08 |
 | 5,900	| 109	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $5,353 a year, you would round up to $5,400. So your beginning rate would be <strong>$149</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (your actual income) - $5,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal listed to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $149 (your beginning monthly rate) = <strong>$153.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $153.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$506.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $5,353 a year, you would round your income up to $5,400. So your beginning monthly rate would be <strong>$149</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $5,353 (actual income) - $5,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount.<br><br><strong>Using our example:</strong> $4.24 + $149 (beginning monthly rate) = <strong>$153.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $153.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$506.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -710,14 +715,14 @@ All rates in $ U.S. dollars
 | 6,800	| 37	| .08 |
 | 6,900	| 29	| .08 |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $6,353 a year, you would round up to $6,400. So your beginning rate would be <strong>$69</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (your actual income) - $6,300 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $69 (your beginning monthly rate) = <strong>$73.24 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $73.24 (your monthly payment) + $353 (Aid and Attendance) = <strong>$426.24 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $6,353 a year, you would round your income up to $6,400. So your beginning monthly rate would be <strong>$69</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $6,353 (actual income) - $6,300 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $69 (beginning monthly rate) = <strong>$73.24 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $73.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$426.24 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 </div>
@@ -734,21 +739,22 @@ All rates in $ U.S. dollars
 | 7,199	| 5.08	| .08 |
 | 7,200 to 20,692	| 5	| None |
 
-<h5>How to use this table to find your monthly payment amount</h5>
+<h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you made $7,153 a year, you would round up to $7,199. So your beginning rate would be <strong>$5.08</strong>.</li>
-  <li class="process-step list-two"><strong>Go back to your actual income (before you rounded it up)</strong> <br> Find the previous level's dollar amount, and subtract it from your actual  income.<br><br><strong>Using our example:</strong> $7,153 (your actual income) - $7,100 (the amount in the previous level) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this new amount by the $1 decrement.</strong> <br> Use the decimal to the right of your beginning monthly rate.</strong><br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this new amount to your beginning monthly rate.</strong><br>This will give you your monthly payment amount<br><br><strong>Using our example:</strong> $4.24 + $5.08 (your beginning monthly rate) = <strong>$9.32 monthly payment</strong> </li>
-   <li class="process-step list-five"><strong>If you're eligible for Aid and Attendance, add $353</strong><br> This will give you your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $9.32 (your monthly payment) + $353 (Aid and Attendance) = <strong>$306.32 total monthly payment with Aid and Attendance</strong></li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up to the next level. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $7,153 a year, you would round your income up to $7,199. So your beginning monthly rate would be <strong>$5.08</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income level in the table above.</strong> <br>If your actual income falls between income levels, this helps us adjust your rate to match your actual income. To calculate this amount, find the amount in the first column of the row above your income level and subtract it from your actual income.<br><br><strong>Using our example:</strong> $7,153 (actual income) - $7,100 (amount in row above) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the $1 decrement.</strong> <br> The decrement is the decimal to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income level.<br><br><strong>Using our example:</strong> $53 X .08 (decrement) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment amount.<br><br><strong>Using our example:</strong> $4.24 + $5.08 (beginning monthly rate) = <strong>$9.32 monthly payment</strong> </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $9.32 (monthly payment) + $353 (Aid and Attendance) = <strong>$306.32 total monthly payment with Aid and Attendance</strong></li>
    </ol>
 
 **Note:** Depending on your total payment amount for the year, we may not pay you each month.
 <ul>
-  <li>If your total for the year equals between $144 and $228, we'll pay you 4 times per year (every 3 months).</li>
-  <li>If your total for the year equals between $72 and $144, we'll pay you 2 times per year (every 6 months).</li>
-  <li>If your total for the year equals less than $72, we'll pay you once per year.
+  <li>If your total for the year equals between $144 and $228, we'll pay you in 4 equal payments throughout the year (every 3 months).</li>
+  <li>If your total for the year equals between $72 and $144, we'll pay you in 2 equal payments throughout the year (every 6 months).</li>
+  <li>If your total for the year equals less than $72, we'll pay you in one yearly payment.</li>
+  </ul>
 
 </div>
 </li>
