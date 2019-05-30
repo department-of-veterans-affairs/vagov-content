@@ -29,7 +29,9 @@ Find out what steps to take to schedule a burial for a Veteran, spouse, or depen
 
 ## How do I schedule a burial for a Veteran or other family member?
 
-### If you have a pre-need decision letter confirming that the Veteran, spouse, or dependent family member can be buried in a VA national cemetery:
+### If you have a pre-need decision letter 
+
+This letter confirms that the Veteran, spouse, or dependent family member can be buried in a VA national cemetery. Please be aware you can't reserve a gravesite in advance. 
 
 To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to request a burial.
 
@@ -39,7 +41,7 @@ To start, you may want to choose a funeral director to help you plan the burial.
 You don’t need to do anything else except prepare yourself and your family for the funeral. <br>
 [Find out what to expect at a military funeral or memorial service](/burials-memorials/what-to-expect-at-military-funeral/)
 
-### If you don't have a pre-need decision letter:
+### If you don't have a pre-need decision letter
 
 To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director will need to take these 3 steps to apply for a burial.
 
