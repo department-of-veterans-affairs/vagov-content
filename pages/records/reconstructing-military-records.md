@@ -8,7 +8,19 @@ description:
 concurrence:
 spoke: Records
 order: 9 
-
+relatedlinks:
+  - heading: Other helpful information
+    links:
+    - url: https://www.archives.gov/veterans/military-service-records
+      title: Request other military records
+      description: The National Archives can help Veterans or their family members find some important records related to the Veteran’s service.
+    - url: https://www.archives.gov/st-louis/archival-programs/preservation-program/burned-records.html
+      title: Learn more about records damaged in the 1973 fire
+      description: Learn how the National Archives has worked to save as many records as possible, and how to prevent future fires from damaging records.
+    - url: /claim-or-appeal-status/
+      title: Check the status of your claim or appeal online 
+      description: Find out how to check the status of a VA claim or appeal online.
+      
 ---
 
 <div class="va-introtext">
