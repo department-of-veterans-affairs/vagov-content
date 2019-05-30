@@ -121,6 +121,16 @@ The National Cemetery Scheduling Office is open every day from 8:00 a.m. to 7:30
 </li>
 </ol>
 
+## Should I ever contact a national cemetery directly?
+
+Yes, you should contact a [national cemetery](/find-locations/) directly in these cases. To:
+
+- Schedule a burial for an active duty service member
+- Cancel or reschedule a burial
+- Change any information you already provided to the scheduling office
+- Request a disinterment and/or relocation to another national cemetery
+- Get information that's specific to a cemetery, like what can be inscribed on a headstone, the policy for flowers, and the hours of operation
+
 ## Can I get information about the Burial at Sea program?
 
 If you have questions about the Burial at Sea program, please contact the United States Navy Mortuary Affairs office toll-free at <a href="tel:+18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. <abbr title="eastern time">ET</abbr>. <br>
