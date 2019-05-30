@@ -130,11 +130,11 @@ All rates in $ U.S. dollars
 
 If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
-$1,319.04 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$2,250.67 total monthly payment**
+$1,319.04 (basic rate) <br> + $280.09 (8-year provision rate for Veteran with pay grade of E-1 to E-7) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.67 total monthly payment**
 
 If you were the surviving spouse of a Veteran whose pay grade was **E-9**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
-$1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-year provision) <br> + $325.77 (rate for 1st eligible child) <br> + $325.77 (rate for 2nd eligible child) <br> = **$2,250.87 total monthly payment**
+$1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-year provision) <br> + $326.77 (rate for 1st eligible child) <br> + $326.77 (rate for 2nd eligible child) <br> = **$2,252.87 total monthly payment**
 
 </div>
 </li>
