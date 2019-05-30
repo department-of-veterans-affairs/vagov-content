@@ -120,7 +120,7 @@ All rates in $ U.S. dollars
 
 <h4>Added or increased amounts</h4>
 
-| If this description is true... | We'll add or increase your monthly payment by this amount | 
+| If this description is true... | We'll adjust your monthly payment by this amount | 
 | --- | --- |
 | <ul><li>The Veteran had a pay grade of **E-1 to E-7**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Add $280.09 |
 | <ul><li>The Veteran had a pay grade of **E-8 or E-9**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
@@ -153,7 +153,7 @@ $1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-ye
 
 <h4>Added or increased amounts</h4>
 
-| If this description is true... | We'll add or increase your monthly payment by this amount | 
+| If this description is true... | We'll adjust your monthly payment by this amount | 
 | --- | --- |
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
@@ -192,7 +192,7 @@ $1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eli
 
 #### Added or increased amounts
 
-| If this description is true... | We'll add or increase your monthly payment by this amount | 
+| If this description is true... | We'll adjust your monthly payment by this amount | 
 | --- | --- |
 | <ul><li>The Veteran had a pay grade of O-1 to O-3, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
