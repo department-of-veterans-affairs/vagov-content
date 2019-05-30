@@ -77,7 +77,7 @@ We may prescribe special restorative training, if needed, to help you overcome o
 First, contact your school’s certifying official to make sure your program is approved for VA benefits. Then, you can:
 - [Apply online now](/education/apply-for-education-benefits/application/5490/introduction), **or**
 - Apply by mail. You’ll need to fill out a Dependents’ Application for VA Education Benefits (VA Form 22-5490) and mail it to the regional processing office for your state. You’ll find the address on the last page of the form. <br>
-[Download VA Form 22-5490](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf) <br>
+[Download VA Form 22-5490 (PDF)](https://www.vba.va.gov/pubs/forms/vba-22-5490-are.pdf) <br>
 
 
 ### If you haven’t started school or a training program:
