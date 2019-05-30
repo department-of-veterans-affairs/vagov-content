@@ -66,7 +66,7 @@ It's important to make sure your life insurance beneficiary information is up to
     <li class="process-step list-two"><h4>Submit your form</h4> <br> Submit your completed form to your branch of service personnel office</li>
  
   
-  **Note:** You can name someone as your SGLI beneficiary without their permission, but your spouse will be notified by VA if you name a beneficiarythat     isn’t them.
+  **Note:** You can name someone as your SGLI beneficiary without their permission. But if you have a spouse, they will be notified by VA if you name a beneficiary that isn’t them.
     
     
   </div>
