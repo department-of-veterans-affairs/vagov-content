@@ -42,8 +42,7 @@ The spouse income exclusion disability pension limit is <b>$4,916</b> as of Dece
 
 ### Surviving spouse and child
 
-### SBP/MIW annuity limitatation (section 306)
-
+### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation (section 306)
 
 The SBP/MIW annuity limitatation <b>$9,078</b> as of December 1, 2018.
 
