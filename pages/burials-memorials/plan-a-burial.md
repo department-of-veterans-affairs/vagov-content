@@ -33,8 +33,7 @@ Find out what steps to take to schedule a burial for a Veteran, spouse, or depen
 
 This letter confirms that the Veteran, spouse, or dependent family member can be buried in a VA national cemetery. Please be aware you can't reserve a gravesite in advance. 
 
-To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to request a burial.
-
+To start, you may want to choose a funeral director to help you plan the burial. Then either you or the funeral director can call the National Cemetery Scheduling Office at <a href="tel:+18005351117">800-535-1117</a> to request a burial.<br>
 **Note:** You may be able to schedule a weekend burial at certain national cemeteries. <br>
 [Learn about the weekend burial program (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Weekend_Burial_Program.pdf)
 
@@ -48,15 +47,15 @@ To start, you may want to choose a funeral director to help you plan the burial.
 <ol class="process">
 <li class="process-step list-one">
 
-#### Gather the information and documents you'll need to identify the Veteran, spouse, or dependent family member
+#### Gather the information and documents you'll need to identify the Veteran, spouse, or dependent family member when you call the National Cemetery Scheduling Office
 
-**You'll need:**
-
- - The DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. If you can't find these documents, please ask for our help to get them. <br>
+You'll need the DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. Their discharge from service needs to have been under conditions other than dishonorable. If you can't find these documents, please ask for our help when you call. It may take us 48 hours or more to check eligibility if you don't have discharge documents. <br>
  [Find out which discharge documents we accept along with your application](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp)<br>
  <a href="/records/get-military-service-records/#request-dd214">Find out how to request the Veteran's DD214</a>
+ 
+ **Note:** Discharge documents aren't usually needed for scheduling when a Veteran or eligible dependent is already interred in a national cemetery.
 
-**You'll also need the information listed below about the Veteran, service member, or dependent family member:**
+**You'll also need this information about the deceased:**
 
  - Name
  - Gender
@@ -66,10 +65,10 @@ To start, you may want to choose a funeral director to help you plan the burial.
  - Marital status
  - Date of death (and zip code and county at the time of death)
 
-**You'll need information about the next-of-kin (the closest living relative of the Veteran, service member, or dependent family member), including the person's:**
+**You'll need this information about the next-of-kin (the closest living relative of the deceased):**
 
    - Name
-   - Relationship to the Veteran, service member, or dependent family member
+   - Relationship to the deceased
    - Social Security number
    - Phone number
    - Address
@@ -88,11 +87,12 @@ To start, you may want to choose a funeral director to help you plan the burial.
 
 **You'll need to tell us:**
 
- - The cemetery where you'd prefer the Veteran, spouse, dependent family member be buried <br>
+- The cemetery where you'd prefer the Veteran, spouse, or dependent family member be buried <br>
  [Find a VA national cemetery](/find-locations/)<br>
  [Find a state Veterans cemetery](https://www.cem.va.gov/grants/veterans_cemeteries.asp)
- - The type of burial you'd like for the person (casket or cremation) and the size of the casket or cremation urn
- - [The type of gravesite memorial you'd like](/burials-memorials/memorial-items/headstones-markers-medallions/). This may be a headstone, grave marker, niche cover, or medallion.
+- The type of burial you'd like for the person (casket or cremation) and the size of the casket or cremation urn
+- The type of [gravesite memorial](/burials-memorials/memorial-items/headstones-markers-medallions/) you'd like. This may be a headstone, grave marker, niche cover, or medallion.
+- Any religious emblem you'd like on the headstone
 
 **If the person is a Veteran or Reservist, you'll also need to tell us if you'd like burial honors or memorial items, such as:**
  - [A burial flag](/burials-memorials/memorial-items/burial-flags/)
@@ -115,6 +115,8 @@ The funeral director you’ve chosen can help you with these steps too:
 - For burial in a national cemetery, fax any discharge papers to the National Cemetery Scheduling Office at 866-900-6417. Or scan and email the papers to [NCA.Scheduling@va.gov](mailto:NCA.Scheduling@va.gov) with the person's name you're requesting burial benefits for in the subject line.
 
 - Then call <a href="tel:+18005351117">800-535-1117</a> to confirm the burial application. Be sure to have all the information handy that’s listed above in the “Prepare” section.
+
+The National Cemetery Scheduling Office is open every day from 8:00 a.m. to 7:30 p.m. ET. The office is closed Thanksgiving day, Christmas day, and New Year’s day. Burials at national cemeteries take place Monday through Friday. When there's a federal holiday on a Monday or Friday, cemeteries schedule burials on one of the days over the holiday weekend. The National Cemetery Scheduling Office can tell you the available burial times for each cemetery.
 
 </li>
 </ol>
