@@ -4,7 +4,7 @@ template: detail-page
 title: Compare Education Benefits | Veterans Affairs
 heading: Compare Education Benefits
 display_title: Compare Education Benefits
-description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, or qualified survivors or dependents. Find out which programs you’re eligible for and decide which one is best for you. Use the table below to compare VA education benefits. 
+description: Learn about different types of VA education benefits. Find out which programs you’re eligible for and decide which one is best for you. Use the table below to compare VA education benefits. 
 keywords: compare va education benefits, gi bill comparison
 concurrence: incomplete
 spoke: More Resources
@@ -43,11 +43,20 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Compare VA education benefits available to Veterans, service members, Guard and Reserve members, and qualified survivors or dependents using the table below. Learn about the different types of VA education benefits, find out which ones you may be eligible for, and decide which one is right for you. 
-
+Compare VA education benefits using the table below. Learn about the different types of VA education benefits and find out which ones you may be eligible for.
 </div>
 
 <h2>Eligibility and Rules</h2>
+
+### Eligibility
+VA education benefits are available to:
+
+- Veterans
+- Service members
+- Guard and Reserve members
+- Qualified survivors or dependents
+
+### Rules
 
 - You can only choose one education benefit to use, even if you're eligible for 2
 - Once you choose which benefit you’ll use, <strong>you can't change your mind</strong>
