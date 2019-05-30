@@ -41,7 +41,7 @@ You should also review your life insurance beneficiary when <strong>one of these
 - Other major life event
 <br>
 
-It's important to make sure your life insurance beneficiary information is up to date. Reviewing your beneficiary information on a regular basis makes it easier for your family members in the event that a claim has to be filed.
+It's important to make sure your life insurance beneficiary information is up to date. Doing this on a regular basis makes it easier for your family members to file a claim if they need to. 
 
 ## Review and make changes to your VA life insurance beneficiary information
 
