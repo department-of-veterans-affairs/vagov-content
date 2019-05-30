@@ -142,6 +142,10 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
  </li>
  </ol>
+ 
+</div>
+</li>
+</ul>
 
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
@@ -166,7 +170,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 </li>
 </ul>
 
-**These are the SGLI premium rates effective July 1, 2014:**
+## SGLI premium rates effective July 1, 2014
 
 | Coverage amount | Monthly premium rate | TSGLI premium | Total monthly premium deduction |
 | --- | --- | --- | --- |
