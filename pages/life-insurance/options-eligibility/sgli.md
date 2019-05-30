@@ -140,8 +140,7 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
   Check your coverage and beneficiary information and make any needed updates.
 
- </li>
- </ol>
+ 
  
 
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
@@ -150,6 +149,8 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 [Download SGLV 8286 (PDF)](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)<br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
+</li>
+</ol>
 
 </div>
 </li>
