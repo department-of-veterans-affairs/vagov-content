@@ -44,7 +44,7 @@ View pension rates and find out if your pension rate is protected.
 |-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | Only Veterans with dependents                                           | Your rate as of December 31, 1978 may be continued if your IVAP is...                                                                                                                                           | $20,692 or less |
 | Special A/A allowance when income is more than $20,732            | Your rate as of December 31, 1978 may be continued if your Income for VA Purposes (IVAP) is:                                                                                                                                           | $21,245 or less |
-| Hospital reduction rates (38 CFR 3.552) for Special A/A Allowance | Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is: <br> <br> View the hospital reduction rates chart on page 6 of this document to find out your rate (this is a link): | $21,245 or less |
+| Hospital reduction rates (38 CFR 3.552) for Special A/A Allowance | Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page 23 of this document to find out your rate (this is a link). | $21,245 or less |
 ### Spouse income exclusion
 <strong>Under 38 CFR 3.262(b)(2)</strong>
 
@@ -55,8 +55,8 @@ The spouse income exclusion disability pension limit is <b>$4,916</b> as of Dece
 | Who's eligible | Eligibility conditions | Annual income for VA purposes (IVAP) limit |
 |--------------- | ---------------------- | --------------|
 | Surviving spouses | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,394 or less |
-| Surviving spouses and children | Your rate as of December 31, 1978 may be continued if your IVAP is: | $20,692 or less |
-| Children of survivors | Your rate as of December 31, 1978 may be continued if your IVAP is: | $12,587 or less |
+| Surviving spouses and children | Your rate as of December 31, 1978 may be continued if your IVAP is... | $20,692 or less |
+| Children of survivors | Your rate as of December 31, 1978 may be continued if your IVAP is... | $12,587 or less |
 
 
 ### Surviving spouse and child
