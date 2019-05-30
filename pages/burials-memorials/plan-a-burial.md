@@ -47,7 +47,7 @@ To start, you may want to choose a funeral director to help you plan the burial.
 <ol class="process">
 <li class="process-step list-one">
 
-#### Gather the information and documents you'll need to identify the Veteran, spouse, or dependent family member when you call the National Cemetery Scheduling Office
+#### Gather the information and documents you'll need to identify the deceased when you call the National Cemetery Scheduling Office
 
 You'll need the DD214 or other discharge documents of the Veteran or service member whose military service will be used to determine eligibility for burial in a VA national cemetery. Their discharge from service needs to have been under conditions other than dishonorable. If you can't find these documents, please ask for our help when you call. It may take us 48 hours or more to check eligibility if you don't have discharge documents. <br>
  [Find out which discharge documents we accept along with your application](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp)<br>
