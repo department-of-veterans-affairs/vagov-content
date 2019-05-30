@@ -47,4 +47,4 @@ You can credit your REAP eligibility toward your Post-9/11 GI Bill eligibility i
 - Will not be eligible for 48 months of entitlement based on your previous eligibility for REAP and your new eligibility under the Post-9/11 GI Bill
 - Will be entitled to the 60% payment tier under the Post-9/11 GI Bill regardless of the length of your Post-9/11 active-duty service
 
-If you'd like to switch your benefits, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
+If you'd like to switch your benefits, call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
