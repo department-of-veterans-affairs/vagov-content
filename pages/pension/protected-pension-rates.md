@@ -25,10 +25,13 @@ widgets:
 
 <div class="va-introtext">
 
-View pension rates determined by older laws and find out if your pension rate is protected.
+If you began receiving a VA pension before a certain date, your pension rate may be determined differently. View pension rates determined by older laws and find out if your pension rate is protected.
+
 </div>
 
-## Section 306 disability pension
+## Section 306 Disability Pensions 
+
+"Section 306" refers to VA nonservice-connected disability and death pension programs that were available from July 1, 1960 through December 31, 1978.  
 
 ### Veteran without dependents
 
@@ -38,7 +41,7 @@ View pension rates determined by older laws and find out if your pension rate is
 |--------------|--------------- | ---------------------- | --------------|
 | Disability pension | Veterans | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,394 or less |
 | Special Aid and Attendance (A/A) allowance | Veterans with an annual income greater than $15,394 | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,948 or less |
-| Hospital reduction rates (38 CFR 3.552) for special A/A allowance	 | Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page 6 of this document to find out your rate (this is a link):|  $21,245 or less   |
+| Hospital reduction rates (38 CFR 3.552) for special A/A allowance	 | Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page [ ] of this document to find out your rate (this is a link) |  $21,245 or less   |
 
 ### Veteran with dependents
 
@@ -51,6 +54,7 @@ View pension rates determined by older laws and find out if your pension rate is
 | Veterans with dependents                                           | Your rate as of December 31, 1978 may be continued if your IVAP is...                                                                                                                                           | $20,692 or less |
 | Special A/A allowance when income is more than $20,732            | Your rate as of December 31, 1978 may be continued if your IVAP is:                                                                                                                                           | $21,245 or less |
 | Hospital reduction rates (38 CFR 3.552) for Special A/A Allowance | Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page 23 of this document to find out your rate (this is a link). | $21,245 or less |
+
 ### Spouse income exclusion
 <strong>Under 38 CFR 3.262(b)(2)</strong>
 
@@ -68,14 +72,20 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 | Children of survivors | Your rate as of December 31, 1978 may be continued if your IVAP is... | $12,587 or less |
 
 
-### Surviving spouse and child
-
 ### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation (section 306)
 
 Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 
+### Surviving spouse and child
 
-## Old law disability pension
+[I don't see the content for this section on the original page? -LW]
+
+## Old Law Pensions
+
+"Old law" refers to VA nonservice-connected disability and death pension programs that were available before July 1,
+1960. 
+
+### Old law disability pension
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
 
@@ -93,12 +103,7 @@ Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 | If entitlted to HB | $100.00 |
 
 
-
-### Income limits
-
-### Rates payable
-
-## Old law death pension
+### Old law death pension
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
 
@@ -107,3 +112,14 @@ Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 |--------------- | ---------------------- | 
 | Surviving spouse or each child (no surviving spouse) | $13,480 |
 | Surviving spouse with children | $19,429 | 
+
+
+
+### Income limits
+
+[I don't see the content for this section on the original page? -LW]
+
+### Rates payable
+
+[I don't see the content for this section on the original page? -LW]
+
