@@ -59,13 +59,12 @@ It's important to make sure your life insurance beneficiary information is up to
     <li class="process-step list-three"><h4>Enter SGLI online enrollment</h4><br> Select “Life Insurance SOES--SGLI Online Enrollment System.”</li>
   </ol>
   
-  #### If you have part-time SGLI coverage or you're in the Public Health Service:
+  #### If you're in any uniformed service and have part-time SGLI coverage or you're in the Public Health Service:
   
   <ol class="process">
-    <li class="process-step list-one"><a href="https://www.benefits.va.gov/INSURANCE/forms/8286.htmServicemembers’ Group Life Insurance Election and    Certificate">Fill out an SGLI Election and Certificate Form (VA Form SGLV 8286)</a></li>
-    <li class="process-step list-two">Submit your completed form to your branch of service personnel office</li>
-    <li class="process-step list-three">Select “Life Insurance SOES--SGLI Online Enrollment System”</li>
-  </ol>
+    <li class="process-step list-one"><h4>Complete an SGLI Election and Certificate form </h4><br> <a href="https://www.benefits.va.gov/INSURANCE/forms/8286.htmServicemembers’ Group Life Insurance Election and Certificate">Fill out an SGLI Election and Certificate form (VA form SGLV 8286).</a></li>
+    <li class="process-step list-two"><h4>Submit your form</h4> <br> Submit your completed form to your branch of service personnel office</li>
+ 
   
   **Note:** You can name someone as your SGLI beneficiary without their permission, but your spouse will be notified by VA if you name a beneficiarythat     isn’t them.
     
