@@ -774,7 +774,8 @@ Depending on your total payment amount for the year, we may not pay you each mon
 </li>
 </ul>
 
-<span id="historic-rates"></a>
+----------------
+<span id="historic-rates"></a> 
 ## Historic rates
 
 View VA DIC parent rates for past years.
@@ -783,8 +784,8 @@ View VA DIC parent rates for past years.
 [Rates effective December 1, 2016](https://benefits.va.gov/PENSION/rates_parents_DIC_pen16.asp) <br>
 [Rates effective December 1, 2014 and earlier](https://benefits.va.gov/PENSION/rates_parents_DIC_pen14.asp) 
 
+--------------------
 <span id="title-38"></a>
-
 ## Full Title 38 regulations
 
 Read the full regulations from Title 38 Code of Federal Regulations.
