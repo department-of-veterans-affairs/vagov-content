@@ -92,5 +92,5 @@ First, contact your school’s certifying official to make sure your program is 
 
 
 ### Get more information
-[Read the DEA pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf)
+[Read the DEA pamphlet (PDF)](https://www.benefits.va.gov/gibill/docs/pamphlets/ch35_pamphlet_2.pdf)
 
