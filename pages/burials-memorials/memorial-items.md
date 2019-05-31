@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Honor a Veteran, Reservist, or family member with memorial items
+title: Honor A Veteran, Reservist, Or Family Member With Memorial Items
+heading: Honor a Veteran, Reservist, or family member with memorial items
 display_title: Memorial items
 collection: burials
 children: burialsHonor
