@@ -34,7 +34,7 @@ Find out what happens after you apply for a pre-need eligibility determination f
 
 **Note:** We’ve received a large number of pre-need eligibility applications, and it’s slowing down our approval process. We’ll let you know when we’ve received your application and how long we think it’ll take to make a decision. We’re sorry for the delay.
 
-For more information, you can call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>. Please wait to hear back about your application rather than applying again.
+For more information, you can call <a href="tel:+18772228387">877-222-8387</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>. Please wait to hear back about your application rather than applying again.
 
 ### What should I do while I wait?
 
@@ -81,7 +81,7 @@ If you're a Veteran, your surviving spouse or other family members may also qual
 
 ### What if I need to update my information in the future?
 
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
+Call our toll-free hotline at <a href="tel:+18772228387">877-222-8387</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
 
 ## What if I change my mind and don't want to be buried in a VA national cemetery?
 
