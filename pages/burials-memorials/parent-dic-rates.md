@@ -54,13 +54,13 @@ Click on the income range that applies to you. Then, follow the directions below
 
 **Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 1). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. If you're remarried and living with your spouse, this also includes your spouse's income. 
 
-If you'd like to read the full details for how we determine your income, please go to the [Full Title 38 regulations](#title-38) section below.
+If you'd like to read more about how we determine your income, please go to the [Full Title 38 regulations](#title-38) section below.
 
 <ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000-1">$1,900 or less</button>
 <div id="income-1000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---: |---: |---: |
 | $800 |	$652	| None |
