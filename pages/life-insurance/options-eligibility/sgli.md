@@ -24,6 +24,7 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 
 <div class="feature">
   
+  
 ### Can I get SGLI?
   
 You may be able to get full-time SGLI coverage if any of the descriptions below are true for you.
@@ -74,7 +75,7 @@ If you qualify for SGLI, we’ll automatically sign you up through your service 
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
-### How can I change my beneficiaries or reduce, turn down, or restore my SGLI coverage?
+## How to change your beneficiaries--or to reduce, turn down, or restore your SGLI coverage
  
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
@@ -101,7 +102,6 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
   Check your coverage and beneficiary information and make any needed updates.
 
- 
  
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
@@ -143,7 +143,6 @@ When you leave the military, you can apply for Veterans’ Group Life Insurance 
 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
 [Learn how to convert your SGLI coverage to an individual policy (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
-
 
 <span id="extension"></span>
 
