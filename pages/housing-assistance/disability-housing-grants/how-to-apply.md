@@ -8,16 +8,15 @@ concurrence:
 order: 1
 ---
 
-<div itemscope itemtype ="http://schema.org/HowTo">
-<div class="va-introtext" itemprop="description">
-
+<div class="va-introtext">
+ 
 Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adaptation (SHA) grant on our eBenefits website. You can also check the status of an open SAH claim on the site.
 
 </div>
 
 <div class="feature">
  
- ## Here's how to prepare before starting your application
+ ## How to prepare before starting your application
 
 
 <li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a>.</li>
