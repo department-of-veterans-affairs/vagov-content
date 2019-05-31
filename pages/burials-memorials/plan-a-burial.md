@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Schedule a burial for a Veteran, spouse, or dependent family member
+title: Schedule A Burial For A Veteran, Spouse, Or Dependent Family Member
+heading: Schedule a burial for a Veteran, spouse, or dependent family member
 display_title: Schedule a burial
 collection: burials
 children: burialsPlanABurial
