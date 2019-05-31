@@ -34,8 +34,7 @@ You may be able to get an SAH grant if you’re using the grant money to buy, bu
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,645—through the SAH grant program.
 
-<br>
-<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>.
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
 <br>
 
@@ -56,8 +55,7 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program.
 
-<br>
-<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>.
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
 
 ## What if I need money to make changes to a family member’s home that I’m living in for a short period of time?
@@ -72,7 +70,6 @@ You may be able to get a Temporary Residence Adaptation (TRA) grant if you meet 
 **If you qualify for an SAH grant**, you can get up to $37,597 through the TRA grant program for FY 2019.
 
 **If you qualify for an SHA grant**, you can get up to $6,713 through the TRA grant program for FY 2019.
-
 
 
 ## Apply for an SAH, SHA, or TRA grant
