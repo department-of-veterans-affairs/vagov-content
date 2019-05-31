@@ -539,6 +539,11 @@ Depending on your total payment amount for the year, we may not pay you each mon
   <li><strong>Less than $72,</strong> we'll pay you once a year.</li>
   </ul>
 
+
+</div>
+</li>
+</ul>
+
 ### If eligible parent lives with the Veteran's other parent or current spouse
 
 These rates apply to you if you're [eligible for VA DIC as a surviving parent](/burials-memorials/dependency-indemnity-compensation/) and both of the below descriptions are true for you.
