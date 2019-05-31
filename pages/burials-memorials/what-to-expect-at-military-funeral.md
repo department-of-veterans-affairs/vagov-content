@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: What to expect at a military funeral
+title: What To Expect At A Military Funeral
+heading: What to expect at a military funeral
 template: detail-page
 collection: burials
 order: 8
