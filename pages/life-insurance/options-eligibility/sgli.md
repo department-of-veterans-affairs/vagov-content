@@ -22,11 +22,6 @@ If you’re a service member who meets certain criteria, we’ll automatically s
 
 </div>
 
-### On this page
-- [Accessing and managing SGLI while you're serving](#active)
-- [Applying for VGLI when you separate or retire](#convert)
-
-<span id="active"></a>
 ## Accessing and managing SGLI while you're serving
 
 <ul class="usa-accordion">
@@ -184,7 +179,7 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 
 
 ------
-<span id="convert"></a>
+
 ## Applying for VGLI when you separate or retire
 
 <ul class="usa-accordion">
