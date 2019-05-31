@@ -46,7 +46,7 @@ These rates apply to you if you're [eligible for VA DIC as a surviving parent](/
 
 **Both of these must be true:**
 - You're the Veteran's only surviving parent, **and**
-- You're either not remarried, **or** you're remarried and living with your spouse
+- Either you're not remarried or you're remarried and living with your spouse
 
 ### Find your rate based on your yearly income
 
