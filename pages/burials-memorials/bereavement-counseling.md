@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Bereavement counseling
+title: Bereavement Counseling
+heading: Bereavement counseling
 display_title:
 order: 6
 spoke: Get benefits
