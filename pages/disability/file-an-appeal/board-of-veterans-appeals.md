@@ -7,27 +7,37 @@ concurrence: complete
 plainlanguage: 11-4-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/claims-appeal/hearings/
 ---
 
 <div class="va-introtext">
-  
+
 Find out what happens at a Board of Veterans’ Appeals hearing—and how to request one if you want a Veterans Law Judge to discuss your appeal.
 
 </div>
 
-<div class="feature" markdown=“1”>
-  
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">The process for Board hearings has changed</h3>
+    <p><b>If you’re using VA Form 9 to appeal a VA decision you received before February 19, 2019,</b> keep reading below to learn how to request and prepare for a hearing.
+</p>
+    <p><b>If you're appealing a VA decision under the new process,</b> 
+<a href="/decision-reviews/board-appeal/veterans-law-judge-hearing">go to the Board Hearings with a Veterans Law Judge page</a>.
+      
+You’ll follow the new process if you’re:
+- Appealing a VA decision you received on or after February 19, 2019
+- Participating in the Rapid Appeals Modernization Program
+- Opting into the new process using VA Form 10182</p>
+  </div>
+</div>
+
+
 ### Why might I want a Board hearing?
 
 You might want a Board hearing if you think it’ll help support your appeal to discuss your case with a judge.
 
 ### Do I have to have a Board hearing?
 
-No. Board hearings are always optional. 
-
-</div>
+No. Board hearings are always optional.
 
 **Learn more about Board hearings:**
 
@@ -46,14 +56,14 @@ No. Board hearings are always optional.
   **The form will ask you to choose 1 of these 4 options:**
 -	**No hearing.** If you choose this option, you can send a letter to the Board that delivers the same message as what you would have said at a hearing.
 -	**A videoconference hearing at your local VA office.** This takes place at your local VA office (or another facility close to you). VA can usually schedule video hearings sooner than in-person hearings.<br>
-[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf).
+[Find out more about choosing a video hearing](https://www.bva.va.gov/docs/BVA-VideoHearing-508version.pdf)
 -	**An in-person hearing at your local VA office.** This can sometimes delay your hearing, because judges have to be scheduled to travel to your local VA office.
 -	**An in-person hearing at the Board in Washington, DC.**
 
-[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf).
+[Download VA Form 9](https://www.va.gov/vaforms/va/pdf/va9.pdf)
 
 Or you can contact your Veterans Service Organization at any time during the appeals process to get help with requesting a hearing.<br>
-[Find a Veterans Service Organization](https://www.va.gov/vso/).
+[Find a Veterans Service Organization](https://www.va.gov/vso/)
 
   ### How will I know when my hearing is scheduled?
 
@@ -103,11 +113,11 @@ Or you can contact your Veterans Service Organization at any time during the app
 
   If you’ve already submitted evidence, the judge will be able to review it on their computer, and it’s not necessary to bring it to your hearing. But you should bring any new evidence with you. Once you’ve received your hearing schedule notice, it’s better to bring new evidence to your hearing rather than mailing it.
 
-  ### Can I get help preparing for my hearing? 
+  ### Can I get help preparing for my hearing?
 
-  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO). 
+  Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO).
 
-  [Get help from a representative](/disability/get-help-filing-claim/).
+  [Get help from a representative](/disability/get-help-filing-claim/)
 </section>
 
 <section id="expect">

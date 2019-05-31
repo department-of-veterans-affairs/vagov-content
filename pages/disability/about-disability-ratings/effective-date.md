@@ -25,8 +25,6 @@ relatedlinks:
     - url: /disability/eligibility/illnesses-within-one-year-of-discharge/
       title: Disabilities That Appear Within 1 Year After Discharge
       description: "You may be able to get disability benefits if you have an illness that started within a year after you were discharged from service."
-aliases:
-  - /disability-benefits/after-you-apply/date/
 ---
 
 <div class="va-introtext">

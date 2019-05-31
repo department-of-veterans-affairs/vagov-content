@@ -7,8 +7,6 @@ concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 9
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/navy-coast-guard/
 ---
 
 <div class="va-introtext">
@@ -45,7 +43,7 @@ You may be able to get disability benefits if you have 1 or more illnesses belie
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
 
 **Note:** Even if your ship or boat is not included in the Mobile Riverine Force, Inshore Fire Support Division 93, or the above designations, it may still appear in our alphabetized list of ships that had contact with Agent Orange.<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>.
 
 <br>
 
@@ -85,4 +83,4 @@ You can get help from a trained professional trusted to help with VA-related cla
 
 ### Get more information
 Want to find out if the ship you were on had contact with Agent Orange?<br>
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (pdf)</a>.
+<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>

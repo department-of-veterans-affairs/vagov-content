@@ -6,8 +6,6 @@ display_title: VEAP
 concurrence: complete
 plainlanguage: 12-12-16 certified in compliance with the Plain Writing Act
 order: 2
-aliases:
-  - /education/other-educational-assistance-programs/veap/
 ---
 
 <div class="va-introtext">
@@ -29,7 +27,7 @@ You can get these benefits if you meet all of the requirements listed below.
   - Finished your first period of service and didn't receive a dishonorable discharge
 
 **Note:** If you're currently on active duty, you must have at least 3 months of contributions available to use your VEAP benefits.
-  
+
 </div>
 
 ## What benefits can I get?
@@ -64,7 +62,7 @@ Money for tuition
     <br>
     <h4>If you've already started training</h4><br>
     Take your VA Form 22-1990 application and the member copy of your DD214 to your school or employer. Ask them to complete VA Form 22-1999, Enrollment Certification, and send all the forms to us. <br>
-    <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990</a>
+    <a href="https://www.vba.va.gov/pubs/forms/vba-22-1990-are.pdf">Download VA Form 22-1990 (PDF)</a>
   </li>
   <li class="process-step list-three">
   <h3>Verify your enrollment</h3><br>
@@ -105,7 +103,7 @@ You have 10 years from your release from active duty to use your VEAP benefits. 
 Yes. You can withdraw the money in your VEAP account if you don’t meet basic qualifying requirements or if you formally ask for a refund.
 
 To ask for a refund, complete an Application for Refund of Educational Contributions (VA Form 22-5281).<br>
-[Download VA Form 22-5281](https://www.vba.va.gov/pubs/forms/VBA-22-5281-ARE.pdf)
+[Download VA Form 22-5281 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-22-5281-ARE.pdf)
 
 Send the form to your nearest VA regional benefit office. <br>
 [Get the address of your nearest VA regional benefit office](/find-locations/?facilityType=benefits)

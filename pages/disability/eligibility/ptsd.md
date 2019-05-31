@@ -8,8 +8,6 @@ source: http://www.va.gov/opa/issues/ptsd.asp
 plainlanguage: 11-14-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/conditions/ptsd/
 ---
 <div class="va-introtext">
 
@@ -22,9 +20,9 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 <div id="get-help-now" class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
 		<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-		<div id="crisis-line-details" class="form-expanding-group borderless-alert additional-info-container">
+		<div data-analytics="nav-crisis-get-support-247" class="form-expanding-group borderless-alert additional-info-container">
 			<span class="additional-info-title">Find out how to get support any time day or night.</span>
-			<div class="additional-info-content usa-alert-text">
+			<div class="additional-info-content usa-alert-text" hidden>
 				<p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
 				<p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>
 				<ul>

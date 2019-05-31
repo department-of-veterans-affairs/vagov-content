@@ -2,31 +2,34 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: VA Survivors Pension
+heading: VA Survivors Pension
 display_title: Survivors Pension
-description: Find out if you're eligible and how to apply for a VA survivors pension (some people call this a "VA widows pension" or "VA death pension"). You may qualify if you're the surviving spouse or unmarried dependent child of a wartime Veteran and meet certain income and net worth limits set by Congress.
+description: A VA Survivors Pension (formerly called a "VA death pension" and sometimes called a "VA widows pension") offers monthly payments to qualified survivors of wartime Veterans. Find out if you're eligible and how to apply.
+keywords: va survivors pension, widows pension, va widows pension, va death pension
 concurrence: ""
 children: pensionSurvivors
-spoke: Get Benefits
+spoke: Get benefits
 relatedlinks:
   - heading: More information for survivors
     links:
     - url: /pension/survivors-pension-rates/
-      title: VA Survivors Pension Rates
+      title: VA Survivors Pension rates
       description: View pension rates for surviving spouses and children.
 order: 5
 ---
 
 <div class="va-introtext">
 
-Find out if you're eligible and how to apply for a survivors pension as a surviving spouse or child of a deceased Veteran with wartime service.
+A VA Survivors Pension offers monthly payments to qualified surviving spouses and unmarried dependent children of wartime Veterans who meet certain income and net worth limits set by Congress. Find out if you qualify and how to apply. 
+
 
 </div>
 
 <div class="feature" markdown=“1”>
 
-### Can I get this benefit as a surviving spouse?
+### Am I eligible for a VA Survivors Pension as a surviving spouse?
 
-You may be able to get this benefit if you haven’t remarried after the Veteran’s death, if the deceased Veteran didn't receive a dishonorable discharge, and if the Veteran’s service meets at least one of the requirements listed below.
+If you haven’t remarried after the Veteran’s death, and if the deceased Veteran didn't receive a dishonorable discharge and their service meets at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true. The Veteran:**
 
@@ -54,9 +57,9 @@ Under current law, we recognize the following wartime periods to decide eligibil
 
 <br>
 
-### Can I get this benefit as the child of a deceased wartime Veteran?
+### Am I eligible for a VA Survivors Pension as the child of a deceased wartime Veteran?
 
-You may be able to get this benefit if you’re unmarried and you meet at least one of the requirements listed below.
+If you’re unmarried and you meet at least one of the requirements listed below, you may be eligible for this benefit.
 
 **At least one of these must be true:**
 
@@ -66,29 +69,28 @@ You may be able to get this benefit if you’re unmarried and you meet at least 
 
 </div>
 
-## How do I apply?
+## How do I apply for a VA Survivors Pension?
 
 You can apply in any of these ways:
 
 ### By mail
 
 Fill out an Application for DIC, Death Pension, and/or Accrued Benefits (VA Form 21-534EZ). <br>
-[Download VA Form 21-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
+[Download VA Form 21-534EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
 
-Mail it to the Pension Management Center (PMC) for your state. <br>
-[Find your PMC](/pension/pension-management-centers/).
+Mail it to the pension management center (PMC) for your state. <br>
+[Find your PMC](/pension/pension-management-centers/)
 
 ### In person
 
-Bring your application to a VA regional benefit office near you. <br>
-[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
-
+Bring your application to a VA regional office near you. <br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
 
 ### With the help of a trained professional
 
-You can work with a trained professional called an accredited representative to get help applying for survivors pension benefits. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+You can work with a trained professional called an accredited representative to get help applying for VA survivors pension benefits. <br>
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 ## How long does it take VA to make a decision?
 
-It depends. We process claims in the order we received them, unless a claim requires priority processing.
+It depends. We process VA Survivors Pension claims in the order we receive them, unless a claim requires priority processing.

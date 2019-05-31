@@ -1,7 +1,7 @@
 ---
 href: /housing-assistance/home-loans/how-to-apply/
-title: Learn How to Apply for a Home Loan COE
+title: Learn how to apply for a home loan COE
 order: 6
-spoke: Get Records
+spoke: Get records
 private: true
 ---

@@ -7,8 +7,6 @@ concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 7
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/service-inside/
 ---
 
 <div class="va-introtext">
@@ -52,7 +50,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
 
 Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship allows us to conclude that you had contact with Agent Orange. <br>
-[See the list of ships that had contact with Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/shiplist/list.asp).
+<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>
 
 ### What if I need help filing my claim?
 

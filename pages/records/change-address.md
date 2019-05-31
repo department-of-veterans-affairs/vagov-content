@@ -1,7 +1,7 @@
 ---
 href: /change-address/
-title: Change Your Address
+title: Change your address
 order: 4
-spoke: Get Records
+spoke: Get records
 private: true
 ---

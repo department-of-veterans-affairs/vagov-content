@@ -6,8 +6,6 @@ description: Find out how to request a priority review to have your VA appeal mo
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
-aliases:
-  - /disability-benefits/claims-appeal/request-a-priority-review/
 ---
 <div itemscope itemtype="http://schema.org/HowTo">
 
@@ -36,7 +34,7 @@ You or your representative will need to write a letter to the Board of Veteransâ
 - The VA file number for your claim, **and**
 - The reason you want to be moved forward on the docket
 
-#### You or your representative can send your written request in 1 of 2 ways:
+#### You or your representative can send your written request in one of these ways:
 
 ##### By mail
 <p class="va-address-block">
@@ -46,10 +44,10 @@ You or your representative will need to write a letter to the Board of Veteransâ
 </p>
 
 ##### By fax
-Fax your request to <a href="tel:+12024956803">1-202-495-6803</a>.
+Fax your request to <a href="tel:+12024956803">1-844-678-8979</a>.
 
 ### Who can I contact if I need more information?
 
-Contact your Veterans Service Organization or representative, or call the Board of Veteransâ€™ Appeals at 1-800-923-8387.
+Contact your Veterans Service Organization or representative, or call the Board of Veteransâ€™ Appeals at 1-800-827-1000.
 
 

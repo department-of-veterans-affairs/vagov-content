@@ -6,10 +6,8 @@ display_title: Choosing a school
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool
 concurrence: incomplete
-spoke: More Resources
+spoke: More resources
 order: 3
-aliases:
-  - /education/tools-programs/locate-a-school/
 relatedlinks:
   - url: /education/about-gi-bill-benefits/how-to-use-benefits/
     title: How to use your GI Bill benefits
@@ -25,8 +23,8 @@ relatedlinks:
     description: Use our online verification system (called "WAVE") to confirm you're enrolled in an approved school or training program so you keep receiving your education benefits.
   - url: https://www.benefits.va.gov/GIBILL/FGIB/Restoration.asp?_ga=2.76481687.308050883.1542048286-1173244138.1525894550
     title: Apply to restore your GI Bill benefits
-    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restored.   
- 
+    description: If your school closed or your program ended because of a change in VA regulations or a new law, apply to have your GI Bill benefits restored.
+
 ---
 
 <div class="va-introtext">
@@ -51,7 +49,7 @@ You can use your GI Bill benefits at some—but not all—schools. Use the resou
 - Watch our "Know Before You Go" video to get advice from other Veterans based on their experiences using the GI Bill.<br>
 [Watch the video](https://www.youtube.com/watch?v=Z1ttkv9oRI4)
 - Read our "Factors to Consider When Choosing a School" guide to using the GI Bill.<br>
-[Download the guide](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf)
+[Download the guide (PDF)](https://www.benefits.va.gov/gibill/docs/factsheets/choosing_a_school.pdf)
 - Visit the Consumer Financial Protection Bureau's Paying for College website for tools and resources to help you make smart decisions about paying for your college education.<br>
 [Visit the Paying for College website](https://www.consumerfinance.gov/paying-for-college/)
 - Go to the U.S. Department of Education's  College Scorecard website to compare schools by programs, degrees, location, and size. And get more information about the schools you're considering, like the average annual cost, graduation rate, and average salaries of school alumni.<br>

@@ -1,8 +1,10 @@
 ---
 title: Get LinkedIn Classes
+heading: Get LinkedIn classes
+display_title: Get LinkedIn classes
 href: https://www.veterans.linkedin.com/
 order: 6
-spoke: Manage Benefits
+spoke: Manage benefits
 target: _blank
 private: true
 ---

@@ -15,9 +15,7 @@ relatedlinks:
       description: If you have 180 to 90 days left on active duty, find out how to file a disability claim through the Benefits Delivery at Discharge (BDD) program to get your benefits sooner.
     - url: /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
       title: Fully Developed Disability Claims
-      description: Find out how to use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting your evidence (supporting documents) along with your claim.    
-aliases:
-  - /disability-benefits/apply/claim-types/
+      description: Find out how to use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting your evidence (supporting documents) along with your claim.
 ---
 
 <div class="va-introtext">
@@ -26,10 +24,10 @@ Find out when you can first file a claim for service-connected benefits—and wh
 
 </div>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-active-duty">Original Claim—File your first claim for disability compensation.</button>
-<div id="claim-active-duty" class="usa-accordion-content"> 
+<div id="claim-active-duty" class="usa-accordion-content">
 
 We refer to the first claim you file for a disability as your original claim.
 
@@ -62,7 +60,7 @@ Learn more about disabilities that may be related to your active-duty service bu
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-increased">Increased Claim—File a claim for more compensation for a disability that we’ve already determined to be service connected and that’s gotten worse.</button>
 <div id="claim-increased" class="usa-accordion-content">
 
-You can file a claim for increased disability compensation if you have a rated service-connected disability that’s gotten worse. You’ll need to submit up-to-date medical evidence that shows your disability has gotten worse. 
+You can file a claim for increased disability compensation if you have a rated service-connected disability that’s gotten worse. You’ll need to submit up-to-date medical evidence that shows your disability has gotten worse.
 
 **You can file an increased claim to request:**
 - An increase in your disability rating
@@ -106,7 +104,7 @@ You can file a secondary claim to get more disability benefits for a new disabil
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-special">Special Claim—File a claim for special needs linked to your service-connected disability.</button>
 <div id="claim-special" class="usa-accordion-content">
 
-You can file a special claim to request compensation for special needs. 
+You can file a special claim to request compensation for special needs.
 
 **These may include needs like:**
 - A specially equipped vehicle if your service-connected disability prevents you from driving, **or**

@@ -1,7 +1,7 @@
 ---
-title: View VA Payment History
+title: View VA payment history
 href: /va-payment-history/
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 2
 private: true
 ---

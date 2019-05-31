@@ -3,7 +3,7 @@ layout: page-react-sidebar.html
 title: Check your Post-9/11 GI Bill benefits status
 display_title: Check Post-9/11 GI Bill benefits
 collection: education
-spoke: Manage Benefits
+spoke: Manage benefits
 order: 2
 entryname: post-911-gib-status
 in_maintenance: false

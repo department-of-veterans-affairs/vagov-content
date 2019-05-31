@@ -6,7 +6,7 @@ display title: Change GI Bill school or program
 children: educationChangeGIBillBenefits
 collection: education
 order: 4
-spoke: Manage Benefits
+spoke: Manage benefits
 ---
 
 <div class="va-introtext">
@@ -63,8 +63,8 @@ Yes. Follow the steps below to submit your request by mail, in person, or with t
 <h3>By mail</h3>
 
 Download the form you'll need:<br>
-[Download VA Form 22-1995 for Veterans and service members](https://www.vba.va.gov/pubs/forms/vba-22-1995-are.pdf)<br>
-[Download VA Form 22-5495 for dependents](https://www.vba.va.gov/pubs/forms/vba-22-5495-are.pdf)
+[Download VA Form 22-1995 for Veterans and service members (PDF)](https://www.vba.va.gov/pubs/forms/vba-22-1995-are.pdf)<br>
+[Download VA Form 22-5495 for dependents (PDF)](https://www.vba.va.gov/pubs/forms/vba-22-5495-are.pdf)
 
 Fill out the form and mail it to the VA regional claims processing office that’s in the same region as your school.<br>
 [See a list of regional claims processing offices](https://www.benefits.va.gov/gibill/regional_processing.asp)

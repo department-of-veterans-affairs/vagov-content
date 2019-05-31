@@ -9,8 +9,6 @@ concurrence: complete
 gibsAlert: false
 children: educationPost911
 order: 1
-aliases:
-  - /education/gi-bill/post-9-11/
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -44,7 +42,7 @@ You can get these education benefits if you meet at least one of the requirement
 
 <br>
 <div itemscope itemtype="http://schema.org/Question">
-  
+
 <h3 itemprop="name">What if I qualify for other VA education benefits too?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
@@ -61,9 +59,9 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 <h2 itemprop="name">What benefits can I get through the Post-9/11 GI Bill?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-  
-**You can receive up to 36 months of benefits, including:** 
-  
+
+**You can receive up to 36 months of benefits, including:**
+
 - **Tuition and fees.** If you qualify for the maximum benefit, we'll cover the full cost of public, in-state tuition and fees. We cap the rates for private and foreign schools, and update those rates each year.<br>
 [ View current rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
 - **Money for housing (if you're in school more than half time).** We'll base your monthly housing allowance on the cost of living where your school is located.
@@ -72,7 +70,7 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 
 **Here's how we'll determine how much of the benefit you'll qualify for:**
 
-The specific amount you'll receive will depend on how much active service you’ve had since September 10, 2001. We'll calculate this amount based on a percentage of the maximum benefit. 
+The specific amount you'll receive will depend on how much active service you’ve had since September 10, 2001. We'll calculate this amount based on a percentage of the maximum benefit.
 
 **For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charges $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
 
@@ -120,9 +118,9 @@ The benefit amount depends on which school you go to, how much active-duty servi
  <h2 itemprop="name">How do I know how much of my Post-9/11 GI Bill benefits are left?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-  
+
 If you already applied for and were awarded Post-9/11 GI Bill education benefits, your GI Bill Statement of Benefits will show you how much of your benefits you’ve used and how much you have left to use. <br>
-[View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit) 
+[View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit)
 
 </div>
 </div>
@@ -133,7 +131,7 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 <h2 itemprop="name">Can my family members or I get any additional benefits through the Post-9/11 GI Bill?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
-  
+
 **You may qualify for these additional benefits:**
 
 - If you need more money to cover higher private-school or out-of-state tuition, you can apply for the Yellow Ribbon Program. <br>
@@ -193,7 +191,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 - Compare benefits by school. <br>
 [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
 - [See the current payment rates for the Post-9/11 GI Bill](/education/benefit-rates/)
-- [Read the Post-9/11 GI Bill pamphlet](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)
+- [Read the Post-9/11 GI Bill pamphlet (PDF)](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)
 - [See Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/list)
 
 </div>

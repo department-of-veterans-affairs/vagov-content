@@ -6,8 +6,6 @@ display_title: Montgomery GI Bill Selected Reserve
 concurrence: complete
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 order: 3
-aliases:
-  - /education/gi-bill/montgomery-selected-reserve/
 ---
 
 <div class="va-introtext">
@@ -20,7 +18,7 @@ If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard R
 
 ### Can I get education benefits under the MGIB-SR program?
 
-You can get education benefits under this program if you meet the requirements listed below. 
+You can get education benefits under this program if you meet the requirements listed below.
 
 **One of these must be true. You:**
 - Have a 6-year service obligation (you agreed to serve 6 years) in the Selected Reserve, **or**
@@ -42,10 +40,10 @@ You can get education benefits under this program if you meet the requirements l
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-0">How long can I receive benefits if I stay in the Selected Reserve?</button>
 <div id="eligibility-0" class="usa-accordion-content">
- 
+
 You can receive benefits until your eligibility period ends or you use all of your entitlement, whichever comes first. "Entitlement" means the number of months of benefits you may receive.
 
-If you stay in the Selected Reserve, you'll be eligible for 14 years after you started your first 6-year obligation. 
+If you stay in the Selected Reserve, you'll be eligible for 14 years after you started your first 6-year obligation.
 
 We may extend your eligibility period if you're called to active duty. If this happens, we'll extend your eligibility for the amount of time you're mobilized plus 4 months. For example, if you're mobilized for 12 months, we'll extend your eligibility period for 16 months. This extension still applies even if you leave the Selected Reserves after mobilization.
 
@@ -54,7 +52,7 @@ We may extend your eligibility period if you're called to active duty. If this h
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="eligibility-1">Can I receive MGIB-SR benefits after I leave the Selected Reserve?</button>
 <div id="eligibility-1" class="usa-accordion-content">
- 
+
 This depends on the reason you left. Your eligibility for this program usually ends the day you leave the Selected Reserve. But there are exceptions to this rule.
 
 You can still qualify for MGIB-SR benefits for 14 years from the date of your first 6-year obligation if any of the below descriptions are true for you.
@@ -89,22 +87,22 @@ Follow the steps below to apply for these benefits.
 <p>Before you enroll, contact the school or use the GI Bill Comparison Tool to find out if we’ve approved your program for VA educational benefits. If you have questions, call us at 888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711. Or submit a question through the GI Bill website.<br>
     <a href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a><br>
     <a href="https://gibill.custhelp.va.gov/app/home?_ga=2.257417291.1166866982.1543770803-1173244138.1525894550">Ask a question online</a></P.
-    <p></p>    
+    <p></p>
     <p><b>Note:</b> If you want to enroll in a program that we haven’t approved, you’ll need to ask the school to request approval. We can’t take any action until an official from your school (not you) requests approval. And you can't use the benefit until we've approved it. If we don’t approve your program, you’ll have to pay all costs at the school, including tuition and fees.</p>  </li>
   <li class="process-step list-three">
     <h3>Apply for the MGIB-SR program</h3>
     <br>
     <h4>If you haven't started training</h4>
     Submit your Application for VA Education Benefits (VA Form 22-1990) online. <br>
-    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a> 
+    <a href="/education/apply-for-education-benefits/application/1990/">Apply online now</a>
     <br>
     <p></p>
     <p>You can also apply by mail, in person, or with the help of a trained professional.<br>
-      <a href="/education/how-to-apply/">Learn more about other ways to apply</a></p>    
+      <a href="/education/how-to-apply/">Learn more about other ways to apply</a></p>
   <p></p>
     <h4>If you already started training</h4>
     <p>Fill out an Application for VA Education Benefits (VA Form 22-1990). <br>
-    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990</a></P.
+    <a href="https://www.vba.va.gov/pubs/forms/VBA-22-1990-ARE.pdf">Download VA Form 22-1990 (PDF)</a></P.
     <p></p>
     <p>Take your application and your Notice of Basic Entitlement to your school or employer. Ask them to complete VA Form 22-1999 and send all 3 forms to us.</p>
     </li>
