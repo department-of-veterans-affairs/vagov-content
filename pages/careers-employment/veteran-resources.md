@@ -1,7 +1,11 @@
 ---
 layout: page-breadcrumbs.html
-title: Other Employment Resources for Veterans
-display_title: Veteran Resources
+title: Other Veteran Employment Resources
+heading: Other Veteran employment resources
+display_title: Veteran resources
+description: Get links to Veteran employment resources to help you find a job and any needed education or career training when you transition to civilian life. Resources include Veterans ReEmployment, Hire Heroes USA, VA for Vets, and the Department of Labor's Veterans' Employment and Training Service (VETS).
+keywords: veteran employment resources, employment resources for Veterans
+
 source: http://www.benefits.va.gov/VOW/vocational-rehabilitation.asp
 template: detail-page
 order: 5
@@ -10,13 +14,13 @@ relatedlinks:
   - heading: More information about VR&E benefits and services
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/
-      title: VR&E Programs for Servicemembers and Veterans
+      title: VR&E programs for service members and Veterans
       description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
     - url: /careers-employment/vocational-rehabilitation/how-to-apply/
-      title: How to Apply for VR&E
-      description: Find out how to apply for VR&amp;E benefits and services as a Servicemember or Veteran.
+      title: How to apply for VR&E
+      description: Find out how to apply for VR&amp;E benefits and services as a service member or Veteran.
     - url: /careers-employment/dependent-benefits/
-      title: Dependent Family Members
+      title: Dependent family members
       description: Find out if you're eligible for certain counseling services, training, and education benefits.
 ---
 
