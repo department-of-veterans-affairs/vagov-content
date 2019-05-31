@@ -15,23 +15,17 @@ Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adap
 
 </div>
 
-<div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How do I prepare before starting my application?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-<ul>
+<div class="feature">
+ 
+ ## Here's how to prepare before starting your application
+
 
 <li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a>.</li>
 
 <li>Make sure you have the information listed below that you’ll need to fill out an  Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555).</li>
-</div>
-</div>
-</div>
 
-<div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">What documents do I need to apply?</h3>
-<div itemprop="itemListElement">
+### What documents do I need to apply?
  <b>You'll need your:</b>
 <ul>
 <li>Social Security number</li>
