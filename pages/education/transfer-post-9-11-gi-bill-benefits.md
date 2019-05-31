@@ -138,7 +138,7 @@ Once you leave active duty, you can still provide a future effective date for wh
   - Army Active-Duty Enlisted  [Email](mailto:usarmy.knox.hrc.mbx.tagd-post-911-gi-bill@mail.mil)
   - Army National Guard  [Email](mailto:ng.robinson.ngb-arng-pec.mbx.arng-hrm-o-gi-bill-ch33@mail.mil)
   - Army Reserve (Enlisted and Officer)  [Email](mailto:usarmy.knox.hrc.mbx.tagd-post-911-gi-bill@mail.mil)
-  - Navy Active-Duty Personnel  866-U-ASK-NPC (<a href="tel:+18668275672">866-827-5672</a>) or DSN 882-5672
+  - Navy Active-Duty Personnel  <a href="tel:+18668275672">866-827-5672</a> or DSN 882-5672
   - Navy Reserve  <a href="tel:+18006218853">800-621-8853</a>, Fax: 757-444-7597/7598  [Email](mailto:cnrfc_post911gibill@navy.mil)
   - Marine Corps Active-Duty Officer  [Email](mailto:Angelo.Valadez@usmc.mil)
   - Marine Corps Active-Duty Enlisted  [Email](mailto:Michael.A.Peck@usmc.mil)
