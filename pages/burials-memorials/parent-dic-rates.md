@@ -590,6 +590,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000">$1,901 to $2,900</button>
 <div id="income-2000" class="usa-accordion-content">
 
@@ -620,6 +621,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">$2,901 to $3,900</button>
 <div id="income-3000" class="usa-accordion-content">
 
@@ -650,6 +652,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">$3,901 to $4,900</button>
 <div id="income-4000" class="usa-accordion-content">
 
@@ -680,6 +683,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">$4,901 to $5,900</button>
 <div id="income-5000" class="usa-accordion-content">
 
@@ -710,6 +714,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">$5,901 to $6,900</button>
 <div id="income-6000" class="usa-accordion-content">
 
@@ -740,6 +745,7 @@ All income limit and beginning monthly rates in $ U.S. dollars
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">$6,901 to $20,692</button>
 <div id="income-7000" class="usa-accordion-content">
 
