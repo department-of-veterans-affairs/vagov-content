@@ -17,10 +17,10 @@ The Principles of Excellence program requires schools that get federal funding t
 Schools that are a part of the program must:
 
 - Give you a written personal summary of the total cost of your educational program, including:
-  - The costs covered by your benefits.
-  - The financial aid you may qualify for.
-  - Your expected student-loan debt after you graduate.
-  - Other information to help you compare aid packages offered by different schools.
+  - The costs covered by your benefits
+  - The financial aid you may qualify for
+  - Your expected student-loan debt after you graduate
+  - Other information to help you compare aid packages offered by different schools
 - Give you an educational plan with a timeline showing how and when you can fulfill everything required for you to graduate.
 - Assign you a point of contact who will give you ongoing academic and financial advice (including access to disability counseling).
 - Allow for you to be gone for both long and short periods of time due to service obligations (service you must fulfill) for active-duty service members and Reservists.
