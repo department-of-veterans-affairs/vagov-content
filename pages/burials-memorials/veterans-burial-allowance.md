@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to apply for a Veterans burial allowance
+title: How To Apply For A Veterans Burial Allowance
+heading: How to apply for a Veterans burial allowance
 display_title: Burial allowance
 description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
 order: 3
