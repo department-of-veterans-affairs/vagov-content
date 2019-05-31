@@ -30,7 +30,7 @@ Unless you opt out, we share basic information about your eligibility and benefi
 - The amount of money you’re receiving for tuition and school fees
 - The amount of money you get and the time you have left to use your benefits
 - If you’re getting money through the Yellow Ribbon Program.
-[Learn about the Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/).
+[Learn about the Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - Residence hours (your time spent in the classroom)
 - Distance hours (your time spent in online classes)
 - Benefit percentage (amount of education benefits based on active-duty service time)
@@ -56,4 +56,4 @@ You’ll need to fill out a short form to tell us you want to opt out of sharing
 ## What’s the Colmery Act?
 The Harry W. Colmery Veterans Educational Assistance Act, also called the “Forever GI Bill,” was signed into law August 2017 and expands education benefits for Veterans, service members, and their family members.
 
-[Learn more about the Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp).
+[Learn more about the Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp)
