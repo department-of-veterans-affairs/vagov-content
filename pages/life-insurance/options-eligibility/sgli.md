@@ -75,7 +75,7 @@ If you qualify for SGLI, we’ll automatically sign you up through your service 
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
-## How to change your beneficiaries--or to reduce, turn down, or restore your SGLI coverage
+### How to change your beneficiaries--or to reduce, turn down, or restore your SGLI coverage
  
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
