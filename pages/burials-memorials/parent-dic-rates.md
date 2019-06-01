@@ -52,7 +52,7 @@ These rates apply to you if you're [eligible for VA DIC as a surviving parent](/
 
 Click on the income range that applies to you. Then, follow the directions below the table to calculate your monthly payment. 
 
-**Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 1). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. If you're remarried and living with your spouse, this also includes your spouse's income. 
+**Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 31). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. If you're remarried and living with your spouse, this also includes your spouse's income. 
 
 If you'd like to read more about how we determine your income, please go to the [Full Title 38 regulations](#title-38) section below.
 
@@ -79,12 +79,12 @@ All income limits and beginning monthly rates are in $ U.S. dollars
 <h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the income limit amount in the first column that’s closest to your income when rounded up. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $1,353 a year, you would round your income up to the $1,400 income limit. So your beginning monthly rate would be <strong>$604</strong>.</li>
-  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income limit in the table above.</strong>
-    <br>If your actual income falls between income limits, this helps us adjust your rate to match your actual income. To calculate this amount, find the income limit in the row above your rounded-up limit and subtract it from your actual income.</strong><br><br><strong>Using our example:</strong> $1,353 (actual income) - $1,300 (previous income limit) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this amount by the rate of decrease (also called the $1 decrement).</strong> <br> This is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income.<br><br><strong>Using our example:</strong> $53 X .08 (rate of decrease) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $604 (beginning monthly rate) = <strong>$608.24</strong> monthly payment </li>
-   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $608.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$961.24</strong> total monthly payment with Aid and Attendance</li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the income limit amount in the first column that’s closest to your income when rounded up. The amount listed to the right, in the middle column, is your beginning monthly rate. <br><br><strong>For example:</strong> If you earn $1,353 a year, you would round up to the $1,400 income limit. Your beginning monthly rate would be <strong>$604</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate the difference between your actual income and the income limit that's closest when rounded down.</strong>
+    <br>This helps us adjust your beginning monthly rate to match your actual income. To calculate this amount, find the income limit in the first column that's closest when rounded down and subtract it from your actual income.</strong><br><br><strong>Using our example:</strong> $1,353 (actual income) - $1,300 (rounded-down income limit) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the rate of decrease.</strong> <br> The rate of decrease is the decimal listed in the last column. It helps us adjust your rate to match your actual income.<br><br><strong>Using our example:</strong> $53 x .08 (rate of decrease) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>The total is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $604 (beginning monthly rate) = <strong>$608.24</strong> (monthly payment) </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> The total is your monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $608.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$961.24</strong> (monthly payment with Aid and Attendance)</li>
    </ol>
     
 </div>
