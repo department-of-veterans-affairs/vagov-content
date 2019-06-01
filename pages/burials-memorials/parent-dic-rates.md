@@ -93,7 +93,7 @@ All income limits and beginning monthly rates are in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000-1">$1,901 to $2,900</button>
 <div id="income-2000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $1,900	| $564	| .08 |
@@ -111,11 +111,11 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <h5>How to use this table to calculate your monthly payment</h5>
 
 <ol class="process">
-  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the amount in the first column that’s closest to your income when rounded up. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earned $2,353 a year, you would round your income up to the $2,400 income limit. So your beginning monthly rate would be <strong>$524</strong>.</li>
-  <li class="process-step list-two"><strong>Calculate how much your actual income exceeds the previous income limit in the table above.</strong> <br>If your actual income falls between income limits, this helps us adjust your rate to match your actual income. To calculate this amount, find the income limit in the row above your rounded-up limit and subtract it from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (previous income limit) = <strong>$53</strong></li>
-  <li class="process-step list-three"><strong>Multiply this amount by the rate of decrease (also called the $1 decrement).</strong> <br> This is the decimal listed to the right of your beginning monthly rate. It helps us adjust your rate to match your actual income.<br><br><strong>Using our example:</strong> $53 X .08 (rate of decrease) = <strong>$4.24</strong></li>
-  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>This is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $524 (beginning monthly rate) = <strong>$528.24</strong> monthly payment </li>
-   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> This is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$881.24</strong> total monthly payment with Aid and Attendance</li>
+  <li class="process-step list-one"><strong>Find your beginning monthly rate in the table above.</strong> <br> To do this, find the income limit amount in the first column that’s closest to your income when rounded up. The amount listed to the right is your beginning monthly rate. <br><br><strong>For example:</strong> If you earn $2,353 a year, you would round up to the $2,400 income limit. Your beginning monthly rate would be <strong>$524</strong>.</li>
+  <li class="process-step list-two"><strong>Calculate the difference between your actual income and the income limit that's closest to your income when rounded down.</strong> <br>To do this, find the income limit in the first column that's closest to your income limit when rounded down. Subtract this income limit from your actual income.<br><br><strong>Using our example:</strong> $2,353 (actual income) - $2,300 (rounded-down income limit) = <strong>$53</strong></li>
+  <li class="process-step list-three"><strong>Multiply this amount by the rate of decrease.</strong> <br> The rate of decrease is the decimal listed in the last column. It helps us adjust your rate to match your actual income.<br><br><strong>Using our example:</strong> $53 X .08 (rate of decrease) = <strong>$4.24</strong></li>
+  <li class="process-step list-four"><strong>Add this amount to your beginning monthly rate.</strong><br>The total is your monthly payment.<br><br><strong>Using our example:</strong> $4.24 + $524 (beginning monthly rate) = <strong>$528.24</strong> (monthly payment) </li>
+   <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> The total is your total monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $528.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$881.24</strong> (monthly payment with Aid and Attendance)</li>
    </ol>
    
 </div>
@@ -124,7 +124,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000-1">$2,901 to $3,900</button>
 <div id="income-3000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $2,900	| $484	| .08 |
@@ -155,7 +155,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000-1">$3,901 to $4,900</button>
 <div id="income-4000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $3,900	| $404	| .08 |
@@ -186,7 +186,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000-1">$4,901 to $5,900</button>
 <div id="income-5000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $4,900	| $324	| .08 |
@@ -217,7 +217,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000-1">$5,901 to $6,900</button>
 <div id="income-6000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $5,900	| $244	| .08 |
@@ -248,7 +248,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000-1">$6,901 to $7,900</button>
 <div id="income-7000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $6,900	| $164	| .08 |
@@ -279,7 +279,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-8000-1">$7,901 to $8,900</button>
 <div id="income-8000-1" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $7,900	| $84	| .08 |
