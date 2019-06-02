@@ -136,14 +136,14 @@ hublinks:
       description: Find the date, time, and location of the committal service for the
         scheduled burial of a Veteran, spouse, or other eligible family member.
       external: false
-    - url: https://www.benefits.va.gov/Compensation/current_rates_dic.asp
-      label: VA Survivor Benefits Rates (VA DIC)
-      description: View current dependency and indemnity compensation rates for surviving
+    - url: /burials-memorials/survivor-dic-rates/
+      label: 2019 VA survivor compensation rates  
+      description: View current dependency and indemnity compensation (DIC) rates for surviving
         spouses and children.
       external: false
-    - url: https://www.benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp
-      label: Parents Dependency and Indemnity Compensation (DIC) Rates
-      description: View current survivor benefit rates for parents.
+    - url: /burials-memorials/parent-dic-rates/
+      label: 2019 VA surviving parent compensation rates
+      description: View current dependency and indemnity compensation (DIC) rates for surviving parents.
       external: false
     - url: https://www.archives.gov/veterans/replace-medals
       label: Replace Medals, Awards, and Decorations
