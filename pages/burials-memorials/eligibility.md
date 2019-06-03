@@ -223,13 +223,13 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 
 ### Veterans with a certain character of discharge
 
-**You're not eligible if:**
-- You separated from the Armed Forces under dishonorable conditions, **or** 
-- Your character of service disqualifies you
+**You're not eligible if you:**
+- Separated from the Armed Forces under dishonorable conditions, **or** 
+- Have a character of service that disqualifies you
 
 ### Those drafted but then discharged before entering military service
   
-You're not eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
+You're not eligible if you were ordered to report to an induction station, but you were discharged at that point and never actually entered military service.
 
 ### Those found guilty of a capital crime
   
