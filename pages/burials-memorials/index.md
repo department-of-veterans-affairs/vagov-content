@@ -87,7 +87,7 @@ hublinks:
         your family members in their time of need.
       external: false
     - url: "/burials-memorials/veterans-burial-allowance/"
-      label: Veteran burial allowance
+      label: Veterans burial allowance
       description: Learn how to apply for a burial allowance to help pay for a Veteran's
         funeral services, burial, and transportation costs.
       external: false
