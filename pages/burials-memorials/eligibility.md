@@ -229,7 +229,7 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </ul>
 
 
-## Find out who's not eligible for burial benefits
+## Who's not eligible for burial benefits?
 
 <ul class="usa-accordion">
 <li>
