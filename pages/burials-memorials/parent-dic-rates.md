@@ -526,16 +526,15 @@ All income limits and beginning monthly rates in $ U.S. dollars
    <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> The total is your monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $28.24 (monthly payment) + $353 (Aid and Attendance) = <strong>$381.24</strong> (monthly payment with Aid and Attendance)</li>
    </ol>
 
-<h5>How we'll pay you</h5>
-
-Depending on your total payment amount for the year, we may not pay you each month.
+<h5>Your payment schedule</h5>
+How often you’ll get a payment depends on your total amount for the year.
 
 **If your monthly payments add up to:**
 
 <ul>
   <li><strong>More than $228,</strong> we'll pay you monthly.
-  <li><strong>Between $144 and $228,</strong> we'll pay you 4 times a year, with 1 payment every 3 months.</li>
-  <li><strong>Between $72 and $144,</strong> we'll pay you 2 times a year, with 1 payment every 6 months.</li>
+  <li><strong>Between $144 and $228,</strong> we'll pay you 4 times a year, or 1 payment every 3 months.</li>
+  <li><strong>Between $72 and $144,</strong> we'll pay you 2 times a year, or 1 payment every 6 months.</li>
   <li><strong>Less than $72,</strong> we'll pay you once a year.</li>
   </ul>
 
@@ -558,7 +557,7 @@ Click on the income range that applies to you. Then, follow the directions below
 
 **Note:** Your yearly income is how much money you earn during one calendar year (January 1 to December 31). This includes income from all sources, such as wages, salary, investment payments, rental properties, gifts, income of dependents living in your home, and some retirement payments. This also includes your spouse's income.
 
-If you'd like to read the full details for how we determine your income, please go to the [Full Title 38 regulations](#title-38) section below.
+If you’d like to read more about how we determine your income, please go to the [Full Title 38 regulations](#title-38) section below.
 
 <ul class="usa-accordion">
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000">$1,900 or less</button>
@@ -768,16 +767,16 @@ All income limit and beginning monthly rates in $ U.S. dollars
    <li class="process-step list-five"><strong>If you're eligible for <a href="/pension/aid-attendance-housebound/">Aid and Attendance</a>, add $353.</strong><br> The total is your monthly payment with Aid and Attendance.<br><br><strong>Using our example:</strong> $9.32 (monthly payment) + $353 (Aid and Attendance) = <strong>$362.32</strong> (monthly payment with Aid and Attendance)</li>
    </ol>
 
-<h5>How we'll pay you</h5>
+<h5>Your payment schedule</h5>
 
-Depending on your total payment amount for the year, we may not pay you each month.
+How often you’ll get a payment depends on your total amount for the year.
 
 **If your monthly payments add up to:**
 
 <ul>
   <li><strong>More than $228,</strong> we'll pay you monthly.
-  <li><strong>Between $144 and $228,</strong> we'll pay you 4 times a year, with 1 payment every 3 months.</li>
-  <li><strong>Between $72 and $144,</strong> we'll pay you 2 times a year, with 1 payment every 6 months.</li>
+  <li><strong>Between $144 and $228,</strong> we'll pay you 4 times a year, or 1 payment every 3 months.</li>
+  <li><strong>Between $72 and $144,</strong> we'll pay you 2 times a year, or 1 payment every 6 months.</li>
   <li><strong>Less than $72,</strong> we'll pay you once a year.</li>
   </ul>
 
