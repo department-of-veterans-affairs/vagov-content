@@ -38,6 +38,7 @@ View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving
  - [Rates if the Veteran died before January 1, 1993](#before-1993) 
  - [How your payments for DIC may affect your VA Survivors Pension or Survivor Benefit Plan](#sbp)
  - [Historic rates](#historic)
+ - [Title 38 regulations](#title-38)
  
 <span id="after-1993"></a>
 ## Rates if the Veteran died on or after January 1, 1993 
@@ -290,3 +291,23 @@ View VA DIC surviving spouse and child rates for past years.
 [Rates effective December 1, 2017](https://benefits.va.gov/COMPENSATION/rates_DIC_pen17.asp)<br>
 [Rates effective December 1, 2016](https://benefits.va.gov/COMPENSATION/rates_DIC_pen16.asp) <br>
 [Rates effective December 1, 2014, and earlier](https://benefits.va.gov/COMPENSATION/rates_DIC_pen14.asp) 
+
+------
+
+<span id="title-38"></a>
+## Full Title 38 regulations
+
+Read the full regulations from Title 38 Code of Federal Regulations.
+
+### Full section
+
+[38 U.S.C. II Dependency and Indemnity Compensation (chapter 13, sections 1310 to 1318]https://www.govinfo.gov/app/details/USCODE-2011-title38/USCODE-2011-title38-partII-chap13-subchapII)
+[38 U.S.C 501(a) Subpart A—Pension, Compensation, and Dependency and Indemnity Compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#sp38.1.3.a)
+
+### Details related to rates for surviving spouses and children
+
+[3.5 Dependency and indenmnity compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_15)
+[3.10 Dependency and indemnity compensation rate for a surviving spouse](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_110)
+[3.22 DIC benefits for survivors of certain Veterans rated totally disabled at time of death](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_122)
+
+
