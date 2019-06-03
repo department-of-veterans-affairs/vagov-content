@@ -346,7 +346,7 @@ If you’d like to read more about how we determine your income, please go to th
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000-2">$1,900 or less</button>
 <div id="income-1000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $800	| $472 | None |
@@ -378,7 +378,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000-2">$1,901 to $2,900</button>
 <div id="income-2000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $1,900	| $384	| .08 |
@@ -409,7 +409,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000-2">$2,901 to $3,900</button>
 <div id="income-3000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $2,900	| $304	| .08 |
@@ -440,7 +440,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000-2">$3,901 to $4,900</button>
 <div id="income-4000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $3,900	| $224	| .08 |
@@ -471,7 +471,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000-2">$4,901 to $5,900</button>
 <div id="income-5000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $4,900	| $144	| .08 |
@@ -502,7 +502,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000-2">$5,901 to $6,900</button>
 <div id="income-6000-2" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 | --- | ---: | ---: |
 | $5,900	| $64	| .08 |
@@ -563,7 +563,7 @@ If you’d like to read more about how we determine your income, please go to th
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-1000">$1,900 or less</button>
 <div id="income-1000" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | $1,000	| $444	| None |
@@ -593,7 +593,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-2000">$1,901 to $2,900</button>
 <div id="income-2000" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | $1,900	| $409	| .04 |
@@ -624,7 +624,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-3000">$2,901 to $3,900</button>
 <div id="income-3000" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | $2,900	| $348	| .06 |
@@ -655,7 +655,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-4000">$3,901 to $4,900</button>
 <div id="income-4000" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | $3,900	| $269	| .08 |
@@ -686,7 +686,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-5000">$4,901 to $5,900</button>
 <div id="income-5000" class="usa-accordion-content">
 
-All income limits and beginning monthly rates in $ U.S. dollars
+All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | $4,900	| $189	| .08 |
@@ -717,7 +717,7 @@ All income limits and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-6000">$5,901 to $6,900</button>
 <div id="income-6000" class="usa-accordion-content">
 
-All income limit and beginning monthly rates in $ U.S. dollars
+All income limit and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | 5,900	| 109	| .08 |
@@ -748,7 +748,7 @@ All income limit and beginning monthly rates in $ U.S. dollars
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="income-7000">$6,901 to $20,692</button>
 <div id="income-7000" class="usa-accordion-content">
 
-All income limit and beginning monthly rates in $ U.S. dollars
+All income limit and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
 |---|---|---|
 | 6,900	| 29	| .08 |
