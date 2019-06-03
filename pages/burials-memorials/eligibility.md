@@ -9,6 +9,27 @@ collection: burials
 children: burialsEligibility
 spoke: Get benefits
 order: 1
+relatedlinks:
+  - heading: VA benefits for survivors
+    links:
+    - url: /burials-memorials/dependency-indemnity-compensation/
+      title: Compensation for surviving spouse and dependents (VA DIC)
+      description: Learn about getting VA disability benefits for a surviving spouse or a dependent child or parent.
+    - url: /burials-memorials/veterans-burial-allowance/
+      title: How to apply for a Veterans burial allowance
+      description: Learn how to apply for a burial allowance to help pay for a Veteran's funeral services, burial, and transportation costs.
+    - url: /survivors-pension/
+      title: VA Survivors Pension
+      description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
+    - url: /health-care/family-caregiver-benefits/
+      title: Health care for spouses, dependents, and family caregivers
+      description: See if you qualify for VA medical benefits as a spouse, surviving spouse, dependent child, or caregiver.
+    - url: /education/survivor-dependent-benefits/
+      title: VA education benefits for survivors and dependents
+      description: Find out if you're eligible for Veteran dependent or survivor education benefits through a GI Bill program.
+    - url: /housing-assistance/home-loans/surviving-spouse/
+      title: VA home loan programs for surviving spouses
+      description: Find out if you're eligible and how to apply for a VA home loan COE as the surviving spouse of a Veteran or the spouse of a Veteran who is missing in action or being held as a Prisoner of War.
 ---
 
 <div class="va-introtext">
@@ -295,12 +316,6 @@ At the time of need, the person planning the burial can also request other honor
 ## Can I be buried at Arlington National Cemetery? 
 
 You may be able to be buried at Arlington National Cemetery, which is maintained by the Army, not VA. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
-
-## If I'm the survivor of a Veteran or service member, what other benefits can I get?
-
-We give the surviving spouse, children, and parents of Veterans and service members a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
-[See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
-[Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
 
 ## Can I plan ahead for my burial in a VA national cemetery?
 
