@@ -184,26 +184,17 @@ Washington, DC 20593 <br>
 **All of these must be true. The Hmong Veteran:**
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
-- Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (the 2000 Act).
+- Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (the 2000 Act)
 
-### Eligibility for certain burial benefits
+### What burial benefits do Hmong Veterans qualify for?
 
-Hmong Veterans are eligible for burial in a national cemetery and a headstone or marker. 
+Hmong Veterans are eligible for burial in a national or private cemetery. They're also eligible for a headstone or marker, but not for other memorial items (like a burial flag or Presidential Memorial Certificate) or for military funeral honors (like the playing of "Taps"). 
 
-But these other burial benefits aren't included:
-- Medallion
-- Memorial headstone
-- Burial flag
-- Presidential Memorial Certificate
-- Military funeral honors provided by the Department of Defense
+**Spouses and surviving spouses of Hmong Veterans aren't eligible** for interment or any other burial benefits, even if they were naturalized under the 2000 Act. 
 
-**Note:** Spouses and surviving spouses of Hmong Veterans aren't eligible for interment or any other burial benefits, even if they were naturalized under the 2000 Act. 
+### What's Public Law 115-141?
 
-Hmong Veterans who choose to be buried in a private cemetery are eligible to receive a headstone or marker.
-
-### Be sure to refer to Public Law 115-141 when requesting burial benefits
-
-Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cemetery. You'll need to refer to it in each of these situations:
+Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cemetery. Be sure to refer to it when requesting burial benefits:
 
 **When you call the National Cemetery Scheduling Office in your time of need,** tell the scheduler that interment is requested under PL115-141.
 
