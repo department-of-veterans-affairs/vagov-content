@@ -63,7 +63,7 @@ If you'd like to read more about how we determine your income, please go to the 
 
 All income limits and beginning monthly rates are in $ U.S. dollars
 | Income limit <br> (income less than or equal to this amount) | Beginning monthly rate | Rate of decrease <br> (also called a $1 decrement) |
-|---: |---: |---: |
+|--- |---: |---: |
 | $800 |	$652	| None |
 | 900	| 644	| .08 |
 | 1,000	| 636	| .08 |
