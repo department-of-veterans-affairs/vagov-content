@@ -26,17 +26,14 @@ This depends on the type of benefits you're receiving. You can change your infor
 
 <h3>Disability compensation and pension benefit payments</h3>
 
-<ol class="process">
-  <li class="process-step list-one"><strong>Sign in to VA.gov</strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
-  <li class="process-step list-two"><strong>Verify your identity and add 2-factor authentication (2FA) when prompted</strong> <br> This helps to keep your information safe, and prevent fraud and identity theft. If you've already verified your identity with us and added 2FA, you won't have to do this again. </li>
-  <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> Once you're signed in, you can find your profile by clicking on the icon with your name in the top right corner of any VA.gov page.</li>
-  <li class="process-step list-four"><strong>Edit your direct deposit information</strong> <br> Click <strong>Edit</strong> next to the information you'd like to change, including your bank name, account type, and account name. Then fill out the form and click <strong>Update</strong> to save your changes. We'll send you an email confirming the changes.
-</ol>
-<strong><button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button></strong><br>
-If you have questions about verifying your identity on VA.gov, <a href="/sign-in-faq/#verify">read our identity verification FAQs</a>.
+*Add dynamic CTA here*
 
-<strong>If you want to cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks,</strong> please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType). 
-      
+<strong>Note:</strong> You'll need your bank's routing number as well as your account number.
+
+<h4>To cancel your direct deposit payments, switch from paper checks to direct deposit, or change the address on your paper checks</h4>
+
+Please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET. Or go to your [nearest VA regional office](/find-locations/?zoomLevel=4&page=1&address=&facilityType=benefits&serviceType). 
+
 </div>
 </div>
 </div>
