@@ -14,6 +14,21 @@ Find out how we determine your disability rating.
 
 </div>
 
+<div class="usa-alert usa-alert-info" role="alert">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">
+      We’re working to give more family caregivers access to this program
+    </h3>
+     <div data-analytics="nav-crisis-get-care-now" class="form-expanding-group borderless-alert additional-info-container">
+        <div class="additional-info-title">Learn more about this change and how it may affect you</div>
+       <div class="additional-info-content usa-alert-text" hidden=""><p>As part of the VA MISSION Act, we’re working to give more family caregivers access to this program so we can support them as they care for Veterans of all eras. We’re in the process of putting in place the technology we need to support this expanded access. Then, the expansion will happen in 2 phases.</p>
+         <p>First, family caregivers of Veterans who were seriously injured in the line of duty on or before May 7, 1975, will become eligible for this program. After 2 years, family caregivers of Veterans who were seriously injured in the line of duty between May 7, 1975, and September 10, 2001, will become eligible.</p>
+         <p>Please check our <a href="https://www.missionact.va.gov/">MISSION Act website</a> for ongoing updates. You can also call our caregiver support line at <a href="tel:+1855-260-3274">8552603274</a> to learn about the many support services you can access now. We’re here Monday through Friday, 8:00 a.m. to 11:00 p.m. ET and Saturday, 10:30 a.m. to 6:00 p.m. ET.</p>
+         </div>
+    </div>
+  </div>
+</div>
+
 ### What is a disability rating?
 
 We assign you a disability rating based on the severity of your disability. We use this rating to determine your compensation rate.
