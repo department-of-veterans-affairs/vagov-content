@@ -803,7 +803,7 @@ Read the full regulations from Title 38 Code of Federal Regulations.
 
 ### Full section
 
-[Subpart A—Pension, Compensation, and Dependency and Indemnity Compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#sp38.1.3.a)
+[38 U.S.C 501(a) Subpart A—Pension, Compensation, and Dependency and Indemnity Compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#sp38.1.3.a)
 
 ### Details about how we determine income limits
 
