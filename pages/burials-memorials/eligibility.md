@@ -207,17 +207,63 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">Who's not eligible for burial benefits?</button>
+<div id="not-eligible" class="usa-accordion-content">
+  
+### Former spouses and certain family members
+
+**You're not eligible if you're a:**
+- Former spouse of an eligible individual whose marriage to that individual ended by annulment or divorce
+- Family member who doesn't meet the eligibility requirements
+
+### Veterans with a certain character of discharge
+
+**You're not eligible if:**
+- You separated from the Armed Forces under dishonorable conditions, **or** 
+- Your character of service disqualifies you
+
+### Those drafted but then discharged before entering military service
+  
+You're not eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
+
+### Those found guilty of a capital crime
+  
+**You're not eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
+ - You have been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
+ - Clear and convincing evidence shows that you have committed a federal or state capital crime, but you couldn't have a trial due to death or flight to avoid prosecution
+
+**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+
+### Those convicted of certain sex offenses
+
+You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.
+
+**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+
+### Those convicted of subversive activities
+
+You're not eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
+
+**Note:** You can become eligible again only if the President of the United States pardons you.
+
+### Those on active or inactive duty for training 
+
+You're not eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
+</div>
+</li>
+</ul>
+
+
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
-
-<br>
 
 **There are 2 ways you can try to qualify:**
 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
-
 
 
 ## What do burial benefits include?
@@ -252,82 +298,6 @@ You may be able to be buried at Arlington National Cemetery, which is maintained
 We give the surviving spouse, children, and parents of Veterans and service members a range of benefits. These may include tax-free monetary benefits (called Dependency and Indemnity Compensation) and help paying for the funeral service (called a burial allowance). <br>
 [See if you’re eligible for Dependency and Indemnity Compensation (DIC)](/burials-memorials/dependency-indemnity-compensation/) <br>
 [Find out how to apply for a burial allowance](/burials-memorials/veterans-burial-allowance/)
-
-## Who's not eligible for burial benefits?
-
-<ul class="usa-accordion">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">Former spouses and certain family members</button>
-<div id="family-members" class="usa-accordion-content">
-  
-**You're not eligible if you're a:**
-- Former spouse of an eligible individual whose marriage to that individual ended by annulment or divorce
-- Family member who doesn't meet the eligibility requirements
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="character-of-discharge">Veterans with a certain character of discharge</button>
-<div id="character-of-discharge" class="usa-accordion-content">
-  
-**You're not eligible if:**
-- You separated from the Armed Forces under dishonorable conditions, **or** 
-- Your character of service disqualifies you
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="discharge-from-draft">Those drafted but then discharged before entering military service</button>
-<div id="discharge-from-draft" class="usa-accordion-content">
-  
-You're not eligible if you were ordered to report to an induction station, but you were discharged and never actually entered military service.
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="guilty-of-capital-crime">Those found guilty of a capital crime</button>
-<div id="guilty-of-capital-crime" class="usa-accordion-content">
-  
-**You're not eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
- - You have been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
- - Clear and convincing evidence shows that you have committed a federal or state capital crime, but you couldn't have a trial due to death or flight to avoid prosecution
-
-**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="convicted-of-sex-offenses">Those convicted of certain sex offenses</button>
-<div id="convicted-of-sex-offenses" class="usa-accordion-content">
-  
-You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.
-
-**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="subversive-activities">Those convicted of subversive activities</button>
-<div id="subversive-activities" class="usa-accordion-content">
-  
-You're not eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
-
-**Note:** You can become eligible again only if the President of the United States pardons you.
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="training">Those on active or inactive duty for training </button>
-<div id="training" class="usa-accordion-content">
-  
-You're not eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
-</div>
-</li>
-</ul>
-
--------
 
 ## Can I plan ahead for my burial in a VA national cemetery?
 
