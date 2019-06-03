@@ -54,8 +54,6 @@ Learn more about disabilities that may be related to your active-duty service bu
   - [Disabilities related to service in Southwest Asia (Gulf War service)](/disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/)</br>
   - [Disabilities related to time spent as a prisoner of war (POW)](/disability/eligibility/former-pows/)
 
-<br>
-
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 </div>
