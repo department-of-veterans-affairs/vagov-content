@@ -15,11 +15,11 @@ relatedlinks:
       title: Vocational Rehabilitation and Employment (VR&E)
       description: If you have a service-connected disability that limits your ability to work or prevents you from working, find out if you can get VR&E benefits and services—like help exploring employment options and getting more training if required.
     - url: /careers-employment/education-and-career-counseling/
-      title: Educational and career counseling
-      description: If you’re leaving active service soon, find out how to get free educational and career counseling (also called Chapter 36).
+      title: Educational and Career Counseling
+      description: If you’re leaving active service soon, find out how to get free Educational and Career Counseling (also called Chapter 36).
     - url: /careers-employment/veteran-owned-business-support/
-      title: Register your Veteran-owned small business
-      description: If you have—or want to start—your own business, we can help. Register to do business with VA and get support for your Veteran-owned small business.
+      title: Register your Veteran-Owned Small Business
+      description: If you have—or want to start—your own business, we can help. Register to do business with VA and get support for your Veteran-Owned Small Business.
     - url: /careers-employment/family-resources/
       title: Explore resources for military and Veteran family members
       description: Find out how the Veterans Employment Center can help spouses and other family members access valuable career resources.
@@ -48,7 +48,7 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 **Note:** To apply for Vocational Rehabilitation and Employment (also called Chapter 31) or educational and career counseling (also called Chapter 36) benefits and services, you'll need to use a different application.
 
 [Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
-[Learn more about educational and career counseling](/careers-employment/education-and-career-counseling/)
+[Learn more about Educational and Career Counseling](/careers-employment/education-and-career-counseling/)
 
 <div markdown="0"><br></div>
 

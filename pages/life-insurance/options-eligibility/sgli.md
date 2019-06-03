@@ -114,7 +114,7 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
 **If you’re a member of the Public Health Service,** please submit your changes by filling out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and giving it to your unit's personnel officer. <br>
-[Download SGLV 8286](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)<br>
+[Download SGLV 8286 (PDF)](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)<br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
 
@@ -145,7 +145,7 @@ When you leave the military, you can apply for Veterans’ Group Life Insurance 
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
 You can also convert your SGLI policy into a civilian policy within 120 days from the date you left the military. <br>
-[Learn how to convert your SGLI coverage to an individual policy](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
+[Learn how to convert your SGLI coverage to an individual policy (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGL133_ed2015-06.pdf)
 
 <span id="extension"></span>
 
@@ -165,7 +165,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE).
 
 To apply, fill out the SGLI Disability Extension Application (SGLV 8715) and send it to the OSGLI address listed on the application. <br>
-[Download SGLV 8715](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
+[Download SGLV 8715 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8715_ed2017-09.pdf)
 
 If you get approved, you’ll receive a notice 20 months after your separation date letting you know that your SGLI-DE will end and that you now have the option to pay a premium for Veterans’ Group Life Insurance (VGLI). <br>
 
@@ -181,8 +181,8 @@ If you have questions about Servicemembers' or Veterans' Group Life Insurance, y
 ## Which forms would my family member need?
 
 - **To request an advance insurance payment for a service member who’s terminally ill,** a family member would file a Claim for Accelerated Benefits (SGLV 8284).<br>
-[Download SGLV 8284](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
+[Download SGLV 8284 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284_ed2018-06.pdf) <br>
 - **To receive an insurance payment in their time of need,** a family member would file a Claim for Death Benefits (SGLV 8283).<br>
-[Download SGLV 8283](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
+[Download SGLV 8283 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283_CO_ed2015-10.pdf) <br>
 - **To help a service member get short-term financial support while recovering from a traumatic injury,** a family member would work with the service member to file an Application for TSGLI Benefits (SGLV 8600).<br>
-[Download SGLV 8600](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
+[Download SGLV 8600 (PDF)](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)

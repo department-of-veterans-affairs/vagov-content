@@ -86,7 +86,7 @@ If you use any of the VA benefits or services listed below, you’ll need to con
 <h4>For education benefits</h4>
 
 <ul>
-  <li>Call us at 888-GIBILL-1 (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.</li>
+  <li>Call us at (<a href="tel:+18884424551">888-442-4551</a>). We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.</li>
   <li>Or sign in to our <a href="https://www.gibill.va.gov/wave/index.do">online verification system (called "WAVE")</a>. Once you're signed in, click on the <strong>Change address</strong> link.</li>
   </ul>
 
@@ -109,7 +109,7 @@ Call us at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday throug
 <h4>For CHAMPVA</h4>
 
 <ul>
-  <li>Call our customer call center at <a href="tel:+18007338387">800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your last address available. Our customer service representatives will need to verify your this before updating your file.</li>
+  <li>Call our customer call center at <a href="tel:+18007338387">800-733-8387</a>. We're here Monday through Friday, 8:05 a.m. to 7:30 p.m. ET. Please have your last address available. Our customer service representatives will need to verify this before updating your file.</li>
   <li>Email our customer call center through the secure <a href="https://iris.custhelp.va.gov/app/ask">Inquiry Routing & Information System (IRIS)</a>.</li>
   <li>Send a signed and dated address change request to us at:<br>
     <p class="va-address-block">

@@ -1,21 +1,21 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Decision Reviews and Appeals
-display_title: VA Decision Reviews and Appeals
+title: VA decision reviews and appeals
+display_title: VA decision reviews and appeals
 decision_reviews_banner: true
 hidesidenav: true
 relatedlinks:
   - heading: Rare situations that may apply to you
     links:
     - url: "/decision-reviews/multiple-party-claims/"
-      title: Multiple Party or Contested Claims
+      title: Multiple party or contested claims
       description: If you're one of multiple people claiming the same benefit, find out how to request a decision review.
     - url: "/decision-reviews/insurance-claims/"
-      title: Insurance Claims
+      title: Insurance claims
       description: If you have an insurance claim, find out how to request a decision review.
     - url: "/decision-reviews/fiduciary-claims/"
-      title: Fiduciary Claims
+      title: Fiduciary claims
       description: If you have a fiduciary claim, find out how to request a decision review.
 ---
 <br>
@@ -33,12 +33,12 @@ relatedlinks:
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to request a decision review,
       unless you have a fiduciary claim or a multiple party claim. <br>
-      <a href="#rare-situations">See if one of these rare situations applies to you.</a>
+      <a href="#rare-situations">See if one of these rare situations applies to you</a>
     </p>
   </div>
 </div>
 
-## Decision Review Options
+## Decision review options
 
 - [Add new and relevant evidence (file a Supplemental Claim)](#supplemental-claim)
 - [Ask for a new look from a senior reviewer (request a Higher-Level Review)](#higher-level-review)
@@ -48,13 +48,13 @@ relatedlinks:
 
 ### Add new and relevant evidence
 
-<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (Supplemental Claim)</a>.
+<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995: Supplemental Claim (PDF)</a>
 
 
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
 your case or identifying evidence for review. A reviewer will look at all the evidence and
 determine whether it changes the decision. <br>
-[Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/).
+[Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -76,7 +76,7 @@ determine whether it changes the decision. <br>
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
 
 But you can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#rare-situations">See if one of these rare situations applies to you</a>.
+<a href="#rare-situations">See if one of these rare situations applies to you</a>
 
 <br>
 <br>
@@ -85,12 +85,12 @@ But you can’t file a Supplemental Claim if you have a fiduciary claim or you�
 
 ### Ask for a new look from a senior reviewer
 
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (Higher-Level Review)</a>.
+<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996: Higher-Level Review (PDF)</a>
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
 whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
-[Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/).
+[Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
@@ -129,10 +129,10 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 ### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182 (Board Appeal)](/decision-reviews/forms/board-appeal-10182.pdf).
+[Download VA Form 10182: Board Appeal (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
 
 A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
-[Learn more about how to request a Board Appeal](/decision-reviews/board-appeal).
+[Learn more about how to request a Board Appeal](/decision-reviews/board-appeal)
 
 <!-- Todo: Implement updated number component -->
 <div class="card information">
@@ -155,8 +155,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-user"></i></span>
   </div>
   <div class="vads-u-flex--1">
-      You also have the option to request a hearing with a judge. A video conference
-hearing will take place at a VA location near you.
+    You also have the option to request a hearing with a judge, either in person in Washington, D.C., or by video conference at a VA location near you.
   </div>
 </div>
 
@@ -174,14 +173,14 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 <br>
 
-## After a Board Decision
+## After a Board decision
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. <br>
-[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision).
+[Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision)
 
 ## What happens next?
 
-[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review).
+[Find out what happens after you request a decision review](/decision-reviews/after-you-request-review)
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for
 more information. If VA schedules exams for you, be sure not to miss them.
@@ -192,11 +191,11 @@ more information. If VA schedules exams for you, be sure not to miss them.
 
 A Veterans Service Organization or VA-accredited attorney or agent can
 help you request a decision review. <br>
-[Get help requesting a decision review](/decision-reviews/get-help-with-review-request).
+[Get help requesting a decision review](/decision-reviews/get-help-with-review-request)
 
 ## What if I have more questions?
 
 Get answers to frequently asked questions about decision reviews. <br>
-[Go to FAQs](/decision-reviews/faq).
+[Go to FAQs](/decision-reviews/faq)
 
 <div id="rare-situations"></div>

@@ -83,7 +83,7 @@ To access SOES, have your service member:
 Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your service member is part of the Public Health Service,** you’ll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have them turn it in to their unit's personnel officer. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
+[Download the Spouse Coverage Election and Certificate (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 
 ## How much will my service member pay for spousal coverage—and how do the premium payments work?
 
@@ -264,7 +264,7 @@ To access SOES, have your service member:
 Your service member can log in with their CAC or DS Logon using Internet Explorer as soon as they receive notice that they can start using SOES.
 
 **If your service member is part of the Public Health Service,** you'll need to fill out the Spouse Coverage Election and Certificate (SGLV 8286A) and have your service member turn it in to their unit's personnel officer. <br>
-[Download the Spouse Coverage Election and Certificate](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
+[Download the Spouse Coverage Election and Certificate (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8286A_ed2017-10.PDF)
 <br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
@@ -311,8 +311,8 @@ You can’t convert other types of policies—such as term, variable, or univers
 
 ## Which forms would my service member need?
 - **To request an advance insurance payment for a spouse who's terminally ill,** a service member would file a Claim for Accelerated Benefits (SGLV 8284A).<br>
-[Download SGLV 8284A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
+[Download SGLV 8284A (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8284A.pdf) <br>
 - **To tell us about the death of a family member covered by the policy,** a service member would file a Report of Death of Family Member (SGLV 8700).<br>
-[Download SGLV 8700](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
+[Download SGLV 8700 (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8700_ed2017-11.pdf) <br>
 - **To receive an insurance payment in their time of need,** a service member would file a Claim for Family Coverage Death Benefits (SGLV 8283A). <br>
-[Download SGLV 8283A](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) <br>
+[Download SGLV 8283A (PDF)](https://www.benefits.va.gov/INSURANCE/forms/SGLV_8283A_Bene_ed2015-10.pdf) <br>

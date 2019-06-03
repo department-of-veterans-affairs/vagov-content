@@ -55,6 +55,7 @@ Please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday
 
 <span id="mail-phone"></a>
 <h2 itemprop="name">Are there other ways to change my VA direct deposit information?</h2>
+
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
