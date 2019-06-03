@@ -30,8 +30,8 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 - Your military record shows that you were aboard one of the U.S. Navy and Coast Guard ships that entered Vietnam’s inland waterways, **or**
 - You came ashore in Vietnam
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/) <br>
-[Learn more about U.S. Navy and Coast Guard ships in Vietnam](https://www.publichealth.va.gov/exposures/agentorange/shiplist/index.asp)
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+
 
 ### Who’s covered?
 
@@ -55,23 +55,15 @@ You’ll need to file a claim for disability compensation. When you file, you’
 
 ### What if I didn’t go ashore or serve aboard a ship that entered the inland waterways of Vietnam? 
 
-
 You’ll have to show that you had contact with Agent Orange in another way while serving in the military. We decide these claims on a case-by-case basis.
 
 #### If I'm a "blue water" Veteran with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
 
-
 No. You don’t need to show where you came into contact with Agent Orange. We believe that non-Hodgkin’s lymphoma can be caused by contact with Agent Orange through service in Vietnam or its offshore waters during the Vietnam Era. <br>
 [Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
-### How can I find out if it's likely I had contact with Agent Orange?
 
-Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship means you likely had contact with Agent Orange. <br>
-
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>
-
-
-## What if I need help filing my claim?
+### What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/)

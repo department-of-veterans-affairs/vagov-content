@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: VR&E Reemployment Track
+heading: VR&E Reemployment track
 display_title: Reemployment
 template: detail-page
 order: 1
@@ -8,16 +9,16 @@ relatedlinks:
   - heading: Other VR&E tracks you may be interested in
     links:
     - url: /careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment/
-      title: Rapid Access to Employment Track
+      title: Rapid Access to Employment track
       description: If you want a job that matches your existing skills, find out if you can get employment counseling and job-search support.
     - url: /careers-employment/vocational-rehabilitation/programs/self-employment/
-      title: Self-Employment Track
-      description: If you’re a Servicemember or Veteran with a service-connected disability, find out how we can help you start your own business.
+      title: Self-Employment track
+      description: If you’re a service member or Veteran with a service-connected disability, find out how we can help you start your own business.
     - url: /careers-employment/vocational-rehabilitation/programs/long-term-services/
-      title: Employment through Long-Term Services Track
+      title: Employment through Long-Term Services track
       description: Find out if you may be eligible for vocational training to help you develop new job skills.
     - url: /careers-employment/vocational-rehabilitation/programs/independent-living/
-      title: Independent Living Track
+      title: Independent Living track
       description: Learn about services that can help you live as independently as possible if you can't return to work right away.
 ---
 
@@ -79,7 +80,7 @@ Choose **Vocational Rehabilitation and Employment Program**.
 
 <li class="process-step list-four">
 
-Apply for the Vocational Rehabilitation and Employment Program.
+Apply for the Vocational Rehabilitation and Employment program.
 
 </li>
 
@@ -94,25 +95,25 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
 
-[Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating).
+[Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating)
 
 <br>
 
-### Get more information
+## Get more information
 
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
 - **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
-  [Download the SEI program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf).
-- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and Servicemembers who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
-  [Download the NPWE program fact sheet](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf).<br>
-  [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM).
+  [Download the SEI program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf)
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+  [Download the NPWE program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf)<br>
+  [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM)
 
 **We also offer:**
 - VR&E employment coordinators—located at our VA regional offices and many of our out-based locations—who can help you access the employment services available to you. <br>
-[Find an employment coordinator near you](https://www.benefits.va.gov/VOCREHAB/docs/EmploymentCoordinators.xlsx).
+[Find an employment coordinator near you](https://www.benefits.va.gov/VOCREHAB/docs/EmploymentCoordinators.xlsx)
 - Counselors to help you transition from military to college life. <br>
-[Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/).
+[Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/)
 - Links to more resources outside VA that can help you in your job search. <br>
-[See our list of external resources](/careers-employment/veteran-resources/).<br>
+[See our list of external resources](/careers-employment/veteran-resources/)<br>
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
-[Contact your VR&E counselor for more information](/find-locations/).
+[Contact your VR&E counselor for more information](/find-locations/)
