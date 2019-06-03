@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 2019 VA DIC Rates For Surviving Parents
-heading: 2019 VA DIC rates for surviving parents
-display_title: DIC rates for surviving parents
+title: 2019 VA Surviving Parent Compensation (DIC) Rates
+heading: 2019 VA surviving parent compensation (DIC) rates
+display_title: Surviving parent compensation rates
 description: View 2019 VA Dependency and Indemnity Compensation (DIC) rates for the surviving parents of Veterans. These VA survivor benefits are tax exempt. This means you won’t have to pay any taxes on your DIC payments.
 keywords: 
 concurrence: 
