@@ -207,9 +207,12 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
+
+### Find out who's not eligible for burial benefits
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">Who's not eligible for burial benefits?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="family-members">These people are not eligible for VA burial benefits</button>
 <div id="not-eligible" class="usa-accordion-content">
   
 ### Former spouses and certain family members
