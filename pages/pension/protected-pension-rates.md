@@ -33,15 +33,9 @@ If you began receiving a VA pension before a certain date, your pension rate may
 
 "Section 306" refers to VA nonservice-connected disability and death pension programs that were available from July 1, 1960 through December 31, 1978.  
 
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
+
 ### Veteran without dependents
-
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
-
-| Pension type | Who's eligible | Eligibility conditions | Income limit (income less than or equal to this amount) |
-|--------------|--------------- | ---------------------- | --------------|
-| Disability pension | Veterans | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,394 or less |
-| Special Aid and Attendance (A/A) allowance | Veterans with an annual income greater than $15,394 | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,948 or less |
-| Hospital reduction rates (38 CFR 3.552) for special A/A allowance	 | Veterans |  Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page [ ] of this document to find out your rate (this is a link) |  $21,245 or less   |
 
 | Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
@@ -50,20 +44,7 @@ If you began receiving a VA pension before a certain date, your pension rate may
 | 38 CFR 3.552 rates (hospital reduction) for Special Aid and Attendance | <ul><li>Your yearly income for 2018 is $15,394 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
 
 
-
-
 ### Veteran with dependents
-
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
-
-
-
-| Veteran status                                                    | Condition                                                                                                                                                                                                                              | Annual income for VA purposes (IVAP) limit    |
-|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Veterans with dependents                                           | Your rate as of December 31, 1978 may be continued if your IVAP is...                                                                                                                                           | $20,692 or less |
-| Special A/A allowance when income is more than $20,732            | Your rate as of December 31, 1978 may be continued if your IVAP is:                                                                                                                                           | $21,245 or less |
-| Hospital reduction rates (38 CFR 3.552) for Special A/A Allowance | Your rate as of December 31, 1978 will be paid if your hospitalization date is on or after January 1, 2018, and your 2018 IVAP is... <br> <br> View the hospital reduction rates chart on page 23 of this document to find out your rate (this is a link). | $21,245 or less |
-
 
 | Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
@@ -80,14 +61,12 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 
 ### Section 306 death pension
 
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
+| Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
+| --- | --- |
+| Surviving spouses | Your yearly income is $15,394 or less | 
+| Surviving spouses and children | $20,692 or less |
+| Children of survivors | $12,587 or less | 
 
-
-| Who's eligible | Eligibility conditions | Annual income for VA purposes (IVAP) limit |
-|--------------- | ---------------------- | --------------|
-| Surviving spouses | Your rate as of December 31, 1978 may be continued if your IVAP is... | $15,394 or less |
-| Surviving spouses and children | Your rate as of December 31, 1978 may be continued if your IVAP is... | $20,692 or less |
-| Children of survivors | Your rate as of December 31, 1978 may be continued if your IVAP is... | $12,587 or less |
 
 
 ### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation (section 306)
@@ -99,31 +78,29 @@ Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 "Old law" refers to VA nonservice-connected disability and death pension programs that were available before July 1,
 1960. 
 
+<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
+
 ### Old law disability pension
 
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
 
-
-| Your household status | Annual income for VA purposes (IVAP) limit | 
+| Your household status | Income limit 
+(income less than or equal to this amount) | 
 |--------------- | ---------------------- | 
 | Unmarried | $13,480 |
 | Dependent spouse and/or children | $19,429 | 
 
-| Entitlement | Rates payable | 
+| Entitlement | Monthly payment | 
 |--------------- | ---------------------- | 
 | Basic rates | $78.75 |
 | 10 Years or Age 65 | $19,429 | 
 | If entitled to Aid and Attendence (A/A) | $135.45 |
-| If entitlted to HB | $100.00 |
+| If entitled to housebound allowance | $100.00 |
 
 
 ### Old law death pension
 
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018. 
-
-
-| Beneficiary | Annual income for VA purposes (IVAP) limit | 
+| Beneficiary | Income limit (income less than or equal to this amount) | 
 |--------------- | ---------------------- | 
-| Surviving spouse or each child (no surviving spouse) | $13,480 |
+| Surviving spouse or surviving child | $13,480 |
 | Surviving spouse with children | $19,429 | 
 
