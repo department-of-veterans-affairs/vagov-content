@@ -71,7 +71,7 @@ All rates in $ U.S. dollars
 
 **Note:** You can find the details of these rates in title 38 U.S.C. 1311(a, b, c, d, f) and 38 CFR 3.461(b).
 
-### Example of how to use these tables to figure out your monthly payment
+### Example of how to use these tables to calculate your monthly payment
 
 If you were the surviving spouse of a Veteran, **and** you had 2 children under age 18, **and** you qualified for both the 8-year provision and Aid and Attendance, you would figure out your rate as you see below.
 
@@ -127,7 +127,7 @@ All rates in $ U.S. dollars
 | <ul><li>The Veteran had a pay grade of **E-8 or E-9**, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
 
-<h4>Examples of how to use these tables to figure out your monthly payment</h4>
+<h4>Examples of how to use these tables to calculate your monthly payment</h4>
 
 If you were the surviving spouse of a Veteran whose pay grade was **E-3**, **and** you qualified for the 8-year provision, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
@@ -159,7 +159,7 @@ $1,599.33 (increased payment for Veteran with pay grade of E-8 or E-9, with 8-ye
 | <ul><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
 
-<h4>Example of how to figure out your monthly payment</h4>
+<h4>Example of how to use these tables to calculate your monthly payment</h4>
 
 If you were the surviving spouse of a Veteran whose pay grade was **W-3**, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
@@ -198,7 +198,7 @@ $1,599.33 (increased rate for 8-year provision) <br> + $326.77 (rate for 1st eli
 | <ul><li>The Veteran had a pay grade of O-1 to O-3, **and**</li><li>The Veteran had a VA service-connected disability rating of totally disabling (including for individual unemployability) for at least the 8 full years leading up to their death, **and**</li><li>You were married to the Veteran for those same 8 years</li></ul> | Increase payment to $1,599.33 |
 | You have 1 or more dependent children who are under age 18 | Add $326.77 per child |
 
-<h4>Example</h4>
+<h4>Example of how to use these tables to calculate your monthly payment</h4>
 
 If you were the surviving spouse of a Veteran whose pay grade was **O-3**, **and** you had 2 dependent children under age 18, you would calculate your monthly payment as in the example below.
 
