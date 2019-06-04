@@ -91,7 +91,7 @@ https://www.github.com/${GITHUB_ORG}/${CONTENT_REPO}/pull/${prNumber}
 
     def currentDir = pwd()
     def dockerArgs = "-v ${currentDir}/${APP_CODE_REPO}:/application -v ${currentDir}/${CONTENT_REPO}:/${CONTENT_REPO}"
-    def drupalAddress = "http://internal-prod-vagovcms-3000-1370756925.us-gov-west-1.elb.amazonaws.com"
+    def drupalAddress = "http://internal-prod-vagovcms-3001-2053888503.us-gov-west-1.elb.amazonaws.com"
 
     withCredentials([usernamePassword(credentialsId:  "drupal-prod", usernameVariable: 'DRUPAL_USERNAME', passwordVariable: 'DRUPAL_PASSWORD')]) {
       dockerImage.inside(dockerArgs) {

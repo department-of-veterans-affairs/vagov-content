@@ -1,7 +1,8 @@
 ---
 layout: page.html
 permalink: /sign-in-faq.html
-title: Frequently asked questions about signing in to VA.gov
+title: Frequently Asked Questions About Signing In To VA.gov
+heading: Frequently asked questions about signing in to VA.gov
 display_title: Frequently asked questions
 ---
 
@@ -154,7 +155,7 @@ display_title: Frequently asked questions
                         <p><strong>You’ll need to bring:</strong></p>
                         <ul>
                           <li><strong>An Individuals’ Request for a Copy of Their Own Health Information (VA Form 10-5345a-MHV).</strong> You can download a PDF copy of this “VA release of information” form now, call ahead to ask the staff to mail you a form, or ask for a form when you get there.<br/>
-                           <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV</a><br/>
+                           <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV (PDF)</a><br/>
                             <a href="/find-locations/?facilityType=health">Find the phone number for your nearest VA health care facility</a></li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>
@@ -224,7 +225,7 @@ display_title: Frequently asked questions
                         <p><strong>You’ll need to have:</strong></p>
                         <ul>
                           <li><strong>A completed and signed Individuals’ Request for a Copy of Their Own Health Information (VA Form 10-5345a-MHV).</strong> This “VA release of information” form gives us permission to share an electronic copy of your health record with your online account. You can download a PDF copy of the form now, call ahead to ask the staff to mail you a form, or ask for a form when you get there.<br/>
-                            <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV</a><br/>
+                            <a href="https://www.va.gov/vaforms/medical/pdf/vha-10-5345a-MHV-fill.pdf">Download VA Form 10-5345a-MHV (PDF)</a><br/>
                             <a href="/find-locations/">Find the phone number for your nearest VA health care facility</a></li>
                           <li><strong>A government-issued photo ID.</strong> This can be either your Veteran Health Identification Card or a valid driver’s license.</li>
                         </ul>

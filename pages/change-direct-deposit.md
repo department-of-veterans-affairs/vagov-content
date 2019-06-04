@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Change VA Direct Deposit And Contact Info
-heading: Change your VA direct deposit and contact information
-display_title: Change direct deposit and contact info
+title: Change Your VA Direct Deposit Information
+heading: Change your VA direct deposit information
+display_title: Change your VA direct deposit information
 description: Change VA direct deposit information for your VA disability compensation, pension, or education benefits online. Sign in or register for a Premium account to update your information. 
 keywords: va direct deposit, change va direct deposit
 lastupdate:
@@ -81,14 +81,14 @@ Yes. You can change your information by mail or phone.
 <h3>By mail</h3>
 
 Fill out a VA Direct Deposit Enrollment (VA Form 24-0296). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-24-0296-ARE.pdf">Download VA Form 24-0296 (PDF)</a>
 
 **Mail the completed form to:**
 
 <p class="va-address-block">
 Department of Veterans Affairs<br>
 125 S. Main Street, Suite B<br>
-Muskogee OK 74401-7004<br>
+Muskogee, OK 74401-7004<br>
 </p>
 
 <h3>By phone</h3>

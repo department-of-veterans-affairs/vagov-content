@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 title: Types Of Veteran ID Cards
-heading: Types of Veteran ID cards 
+heading: Types of Veteran ID cards
 display_title: Types of Veteran ID cards
-description: There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of VA ID cards and other Veteran ID options. 
-keywords: veteran id, va id card, veterans identification card  
-concurrence: 
+description: There are many types of identification cards you can use to show you’re a Veteran. You only need to have one of them for this purpose. Learn about the different types of VA ID cards and other Veteran ID options.
+keywords: veteran id, va id card, veterans identification card
+concurrence:
 order: 3
 lastupdate: 2019-04-19
 spoke: Get records
@@ -13,12 +13,6 @@ plainlanguage:
 template: detail-page
 collection: records
 children: veteranIdCards
-relatedlinks:
- - heading:
-   links:
-    - url:
-      title:
-      description:
 ---
 
 <div class="va-introtext">
@@ -53,7 +47,8 @@ You may be eligible if one of the descriptions below is true for you.
 <div id="apply-DoD-card" class="usa-accordion-content">
 
 You’ll need to fill out an Application for Identification Card/DEERS Enrollment (DD Form 1172-2). <br>
-[Download DD Form 1172-2](http://www.cac.mil/Portals/53/Documents/dd1172-2.pdf)</br>
+[Download DD Form 1172-2 (PDF)](https://www.cac.mil/Uniformed-Services-ID-Card/Getting-Your-ID-Card/)</br>
+
 
 Then turn in your completed application to a Real-Time Automated Personnel Identification System (RAPIDS) office for processing. </br>
 

@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure in Vietnam Waters (Blue Water Navy Veterans)
-display_title: Vietnam Waters
+title: Agent Orange Exposure In Vietnam Waters (Blue Water Navy Veterans)
+heading: Agent Orange exposure in Vietnam waters (Blue Water Navy Veterans)
+display_title: Vietnam waters
 description: If you served on a Blue Water Navy ship on the inland waterways of Vietnam or ever came ashore in Vietnam, you likely had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
@@ -26,7 +27,7 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 - Served on vessel operating within the 12-mile territorial seas of the Republic of Vietnam, **or**
 - You came ashore in Vietnam
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/). <br>
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 ### Who’s covered?
 
@@ -34,7 +35,7 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 - Qualified survivors
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -42,30 +43,26 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you were aboard one of the U.S. Navy and Coast Guard ships that entered Vietnam’s inland waterways. If your ship docked or landed crewmembers, you’ll have to show that you went ashore. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-#### What if I didn’t go ashore or serve aboard a ship that entered the inland waterways of Vietnam?
+
+### What if I didn’t go ashore or serve aboard a ship that entered the inland waterways of Vietnam? 
 
 You’ll have to show that you had contact with Agent Orange in another way while serving in the military. We decide these claims on a case-by-case basis.
 
 #### If I'm a Blue Water Veteran with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
 
 No. You don’t need to show where you came into contact with Agent Orange. We believe that non-Hodgkin’s lymphoma can be caused by contact with Agent Orange through service in Vietnam or its offshore waters during the Vietnam Era. <br>
-[Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
-
-#### How can I find out if it's likely I had contact with Agent Orange?
-
-Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship means you likely had contact with Agent Orange. <br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>
+[Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
 ### What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
-### Get more information
-[Learn more about Blue Water Veterans and Agent Orange](http://www.publichealth.va.gov/exposures/agentorange/locations/blue-water-veterans.asp#sthash.Srfgf1kO.dpuf).
+## Get more information
+[Learn more about Blue Water Veterans and Agent Orange](http://www.publichealth.va.gov/exposures/agentorange/locations/blue-water-veterans.asp#sthash.Srfgf1kO.dpuf)
 

@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure
+title: Agent Orange exposure
+heading: Agent Orange exposure
 display_title: Agent Orange
 description: Learn about VA disability compensation and other benefits for Veterans with illnesses related to Agent Orange exposure during the Vietnam War or in certain related jobs. Find out if you may have had contact with this toxic chemical, and how to file a claim for compensation.
 plainlanguage: 10-21-16 certified in compliance with the Plain Writing Act
@@ -11,10 +12,10 @@ majorlinks:
   - heading: You may have had contact with Agent Orange if you served in any of these ways
     links:
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
-      title: On C-123 Airplanes
+      title: On C-123 airplanes
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/thailand-military-bases/
-      title: On Thailand Military Bases
+      title: On Thailand military bases
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/service-in-vietnam-korea/
       title: In Vietnam or Korea
@@ -23,13 +24,13 @@ majorlinks:
       title: Outside of Vietnam or Korea
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/testing-storage-areas/
-      title: In Testing and Storage Areas Outside of Vietnam
+      title: In testing and storage areas outside of Vietnam
       description: Between 1944 and a yet-to-be-determined date
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/
-      title: On U.S. Navy and Coast Guard Ships in Vietnam
+      title: On U.S. Navy and Coast Guard ships in Vietnam
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/vietnam-waters/
-      title: In Waters in or near Vietnam
+      title: In waters in or near Vietnam
       description: Between January 9, 1962, and May 7, 1975
 ---
 
@@ -60,17 +61,17 @@ You may be able to get disability benefits if one of the below descriptions is t
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents). <br>
 
 **If you have an illness believed to be caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <ul class="usa-accordion">
 <li>
@@ -79,19 +80,20 @@ You’ll need to file a claim for disability compensation and submit your eviden
 When you file your claim, you'll need to submit this evidence:
 
 - A medical record that shows you have an Agent Orange‒related illness, **and**
-- A military record that shows your service dates in Vietnam or in or near the Korean demilitarized zone, **and**
-- Evidence that proves exposure to herbicides in a location other than Vietnam or the Korean demilitarized zone
+- A military record that shows your service dates in Vietnam or in or near the Korean Demilitarized Zone, **and**
+- Evidence that proves exposure to herbicides in a location other than Vietnam or the Korean Demilitarized Zone
 
 </div>
 </li>
 </ul>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 <br>
 
-**If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange, you'll need to provide scientific and medical evidence that the condition is related to exposure to Agent Orange, or show the problem started during—or got worse because of—your military service. Scientific proof might be an article from a medical journal or a published research study.
+**If you have an illness that’s not on the list of Agent Orange‒related illnesses,** but you believe it was caused by Agent Orange, you'll need to provide scientific and medical evidence that the condition is related to exposure to Agent Orange, or show the problem started during—or got worse because of—your military service. Scientific proof might be an article from a medical journal or a published research study. <br>
 [See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+
 
 <ul class="usa-accordion">
 <li>
@@ -102,31 +104,31 @@ When you file your claim, you'll need to submit this evidence:
 - A medical record showing your current disability, **and**
 - A medical record showing a connection between exposure to Agent Orange and the current disability, **and**
 - Evidence that proves either:
-   - Contact with Agent Orange in a location other than Vietnam or the Korean demilitarized zone, **or**
-   - Service in Vietnam or at or near the Korean demilitarized zone during the dates listed below
+   - Contact with Agent Orange in a location other than Vietnam or the Korean Demilitarized Zone, **or**
+   - Service in Vietnam or at or near the Korean Demilitarized Zone during the dates listed below
 
 </div>
 </li>
 </ul>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 
-### Get more information
+## Get more information
 
-[See the Veterans Compensation Benefits Rate Tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp).
+[See the Veterans compensation benefits rate tables](https://www.benefits.va.gov/COMPENSATION/resources_comp01.asp)
 
 Contact us if you have questions:
 
-- Call the Agent Orange Help Line at <a href="tel:+180074983872">800-749-8387</a> **or** 
-- Send an email to GW/AOHelpline@vba.va.gov
+- Call the Agent Orange help line at <a href="tel:+18007498387">800-749-8387</a>, **or** 
+- Send an email to <a href="mailto:GW/AOHelpline@vba.va.gov">GW/AOHelpline@vba.va.gov</a>
 
 **Note:** Please be ready to give us your name, email address, telephone number, and VA file number or Social Security number.
 
 **If you think you may have had contact with Agent Orange** or other herbicides while serving in the military, you can request a health exam. <br>
-[Get an Agent Orange Registry Health Exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/).
+[Get an Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/)
 
 **If you have non-Hodgkin’s lymphoma (a type of cancer),** you can get VA support. <br>
-[Learn about non-Hodgkin’s Lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
 <span id="kinds-of-service"></span>

@@ -73,14 +73,14 @@ You may get $25,000 to $100,000 in short-term financial support to help in your 
 You’re automatically covered through TSGLI if you’re signed up for full-time SGLI. This insurance covers you even if your injury happened while you were off duty.
 
 To get payments—including retroactive TSGLI payments—you’ll need to apply. To file a claim, fill out the Application for TSGLI Benefits (SGLV 8600), and fax, email, or mail it to us. Look for the address of your service branch on the front page of the form.<br>
-[Download the Application for TSGLI Benefits](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
+[Download the Application for TSGLI Benefits (PDF)](https://www.benefits.va.gov/insurance/forms/SGLV-8600_ed2015-08.pdf)
 
 ## How do I appeal a decision if I’m denied benefits?
 
 First, look at the denial letter you received from your branch of service. Your letter will tell you if you should use the TSGLI Appeal Request Form (SGLV 8600A)—and how long you’ll have to submit your appeal.
 
 If your letter says to complete this form, fill it out and submit it to your branch of service.<br>
-[Download the TSGLI Appeal Request Form](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf)
+[Download the TSGLI Appeal Request Form (PDF)](https://benefits.va.gov/INSURANCE/forms/SGLV_8600A_ed2017-01.pdf)
 
 ## How much will I pay for these benefits?
 

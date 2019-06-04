@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure on Thailand Military Bases
-display_title: Thailand Military Bases
+title: Agent Orange Exposure On Thailand Military Bases
+heading: Agent Orange exposure on Thailand military bases
+display_title: Thailand military bases
 description: If you served on a U.S. military base in Thailand or a Royal Thai Air Force Base during the Vietnam War, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
@@ -31,29 +32,29 @@ You may be able to get disability benefits if you have an illness believed to be
 - Qualified survivors
 </div>
 
-### What kind of disability benefits can I get?
-- Heath care
+## What kind of disability benefits can I get?
+- Health care
 - Compensation (payments)
 - [An Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/)
 
 -----
 
-### How do I get these benefits?
-You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military.
+## How do I get these benefits?
+You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. 
 
 To prove that you had contact with Agent Orange during your Thailand service, you’ll need to send us supporting documents that show you had regular perimeter security duty, such as:
 - Daily work duty logs, **or**
 - Performance evaluation reports, **or**
 - Job records (for example, records showing you worked as a dog handler or a member of a security squadron or military police unit)
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-### What if I need help filing my claim?
+## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
-### Get more information
+## Get more information
 Want to know more about benefits for Veterans with illnesses believed to be caused by contact with Agent Orange? <br>
-[Learn about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp).
+[Learn about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp)
 
