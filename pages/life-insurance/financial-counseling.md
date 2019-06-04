@@ -1,7 +1,12 @@
 ---
-title: Financial counseling and online will prep
-href: https://www.benefits.va.gov/insurance/bfcs.asp
+layout: page-breadcrumbs.html
+template: detail-page
+title: How To Get VA Beneficiary Financial Counseling And Online Will Preparation
+heading: How to get VA beneficiary financial counseling and online will preparation
+display_title: 
+description: 
+concurrence: 
+spoke: Get Benefits
 order: 3
-spoke: Get benefits
-private: true
+
 ---
