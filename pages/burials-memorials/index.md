@@ -137,12 +137,12 @@ hublinks:
         scheduled burial of a Veteran, spouse, or other eligible family member.
       external: false
     - url: /burials-memorials/survivor-dic-rates/
-      label: 2019 VA survivor compensation rates  
+      label: 2019 VA Surviving Spouse and Child Benefit Rates
       description: View current dependency and indemnity compensation (DIC) rates for surviving
         spouses and children.
       external: false
     - url: /burials-memorials/parent-dic-rates/
-      label: 2019 VA surviving parent compensation rates
+      label: 2019 VA Surviving Parent Benefit Rates
       description: View current dependency and indemnity compensation (DIC) rates for surviving parents.
       external: false
     - url: https://www.archives.gov/veterans/replace-medals
