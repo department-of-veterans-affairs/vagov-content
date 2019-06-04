@@ -73,37 +73,49 @@ Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI 
 <ol class="process">
 <li class="process-step list-one">
 
-##### Go to [financialpointplus.com](https://www.financialpointplus.com/).
+##### 
+
+Go to [financialpointplus.com](https://www.financialpointplus.com/).
 
 </li>
 
 <li class="process-step list-two">
   
-##### Choose “register as a first-time user.”  
+##### 
+
+Choose “register as a first-time user.”  
 
 </li>
 
 <li class="process-step list-three">
   
-##### The website will ask you to enter an Organization Web ID. Your ID is **BFCSVA**.
+##### 
+
+The website will ask you to enter an Organization Web ID. Your ID is **BFCSVA**.
 
 </li>
 
 <li class="process-step list-four">
   
-##### Enter your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number when asked. 
+##### 
+
+Enter your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number when asked.
 
 </li>
 
 <li class="process-step list-five">
   
-##### To request your personalized financial plan, choose **FinancialPoint** to begin the process.
+##### 
+
+To request your personalized financial plan, choose **FinancialPoint** to begin the process.
 
 </li>
 
 <li class="process-step list-six">
   
-##### To create and print a will, choose **EstateGuidance** to create and print a will.  
+##### 
+
+To create and print a will, choose **EstateGuidance** to create and print a will.
 
 </li>
 </ol>
