@@ -120,8 +120,10 @@ If you receive an old law pension, the rates listed below apply to you if one of
 
 ### Old law death pension
 
-| Beneficiary | Income limit (income less than or equal to this amount) | 
-|--------------- | ---------------------- | 
-| Surviving spouse or surviving child | $13,480 |
-| Surviving spouse with children | $19,429 | 
+If you're the beneficiary of an old law death pension and your income is under a certain yearly amount, you're entitled to a monthly payment.
+
+| Beneficiary | Income limit (income less than or equal to this amount) | Monthly payment |
+|--------------- | ---------------------- | ----- |
+| Surviving spouse or surviving child | $13,480 | ? |
+| Surviving spouse with children | $19,429 | ? |
 
