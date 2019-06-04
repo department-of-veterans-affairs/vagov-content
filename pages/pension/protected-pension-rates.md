@@ -50,6 +50,14 @@ View rates for disability and death pension programs that were available <b>from
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
 
+
+#### Spouse income exclusion
+<strong>Under 38 CFR 3.262(b)(2)</strong> (this link is broken on the original page)
+
+If you're receiving a Section 306 disability pension **and you're married**, the income of your spouse may affect your pension. Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>. This means that any amount of money over $4,916 that your spouse makes in a year will be included as part of your yearly income. 
+<br>
+[Read more about spouse income exclusion under 38 CFR 3.262(b)(2)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
+
 ### Disability pension
 
 #### Veterans without dependents
@@ -70,12 +78,6 @@ View rates for disability and death pension programs that were available <b>from
 | 38 CFR 3.552 rates (hospital reduction) for Special Aid and Attendance | <ul><li>Your yearly income for 2018 is $21,245 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
 
 
-
-### Spouse income exclusion
-<strong>Under 38 CFR 3.262(b)(2)</strong>
-
-Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>.
-
 ### Death pension
 
 | Beneficiary | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
@@ -85,10 +87,9 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 | Children of survivors | $12,587 or less | 
 
 
+### Survivor Benefit Plan (SBP) / Minimum Income Widow (MIW) annuity limitatation
 
-### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation
-
-Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
+An annuity is a fixed sum of money paid to someone each year. If you're part of a Section 306 Survivor Benefit Plan (sometimes called a "minimum income widow"), the maximum amount of money you're entitled to is <b>$9,078</b> per year, effective December 1, 2018. 
 
 ## Old law pensions
 
