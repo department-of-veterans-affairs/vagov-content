@@ -46,7 +46,7 @@ If you received a VA pension before a certain date, your pension rate may be det
 
 ## Disability and death pensions (Section 306)
 
-"Section 306" refers to VA nonservice-connected disability and death pension programs that were available from July 1, 1960 through December 31, 1978.  
+View rates for disability and death pension programs that were available <b>from July 1, 1960 through December 31, 1978</b>. These types of benefits are sometimes called  "Section 306" pensions.
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
 
@@ -92,16 +92,14 @@ Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 
 ## Old Law Pensions
 
-"Old law" refers to VA nonservice-connected disability and death pension programs that were available before July 1,
-1960. 
+View rates for disability and death pension programs that were available <b>before July 1, 1960</b>. These types of benefits are sometimes called  "Old law" pensions.
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
 
 ### Old law disability pension
 
 
-| Your household status | Income limit 
-(income less than or equal to this amount) | 
+| Your household status | Income limit (income less than or equal to this amount) | 
 |--------------- | ---------------------- | 
 | Unmarried | $13,480 |
 | Dependent spouse and/or children | $19,429 | 
