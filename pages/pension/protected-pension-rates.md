@@ -23,19 +23,36 @@ widgets:
     errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 ---
 
+### On this page
+
+#### Section 306 disability and death pension rates
+- [Disability pension rates for Veterans without dependents](####Veterans-without-dependents)
+- [Disability pension rates for Veterans with dependents](####Veteran-with-dependents)
+- [Spouse income exclusion rates](###Spouse-income-exclusion)
+- [Death pension rates](####Death-pension)
+- [Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation](###Survivor-Benefit-Plan-(SBP)-/-Minimum-Income-Annuity-(MIW)-annuity-limitatation)
+
+#### Old law pension rates
+- [Disability pension rates](###Old-law-disability-pension)
+- [Death pension rates](###Old-law-death-pension)
+
+
+
 <div class="va-introtext">
 
-If you began receiving a VA pension before a certain date, your pension rate may be determined differently. View pension rates determined by older laws and find out if your pension rate is protected.
+If you received a VA pension before a certain date, your pension rate may be determined differently. View pension rates determined by older laws and find out if your pension rate is protected.
 
 </div>
 
-## Section 306 Disability Pensions 
+## Disability and death pensions (Section 306)
 
 "Section 306" refers to VA nonservice-connected disability and death pension programs that were available from July 1, 1960 through December 31, 1978.  
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
 
-### Veteran without dependents
+### Disability pension
+
+#### Veterans without dependents
 
 | Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
@@ -44,7 +61,7 @@ If you began receiving a VA pension before a certain date, your pension rate may
 | 38 CFR 3.552 rates (hospital reduction) for Special Aid and Attendance | <ul><li>Your yearly income for 2018 is $15,394 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
 
 
-### Veteran with dependents
+#### Veterans with dependents
 
 | Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
@@ -59,7 +76,7 @@ If you began receiving a VA pension before a certain date, your pension rate may
 
 Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>.
 
-### Section 306 death pension
+### Death pension
 
 | Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
@@ -69,7 +86,7 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 
 
 
-### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation (section 306)
+### Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation
 
 Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 
