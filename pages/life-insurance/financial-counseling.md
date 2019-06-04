@@ -42,3 +42,53 @@ Good financial planning can help you feel better about the present—and the fut
 - Have extra money for emergencies 
 - Pay your children’s college tuition 
 - Have a comfortable retirement 
+
+### When should I get financial counseling?
+
+The best time to get financial counseling is as soon as you get your insurance money, and before you make any major financial decisions. Getting financial counseling right away will help make your insurance money last.
+
+## I don’t have a will. Can I create one online?
+
+Yes. FinancialPoint also has an affiliated online service that lets you easily make a will without an attorney by answering some questions. Then you’ll get a legal will, valid in all states, ready to print and sign.
+
+## How to get your financial plan or create a will online
+
+Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number. If you don’t have your claim number, please call the Office of Servicemembers' Group Life Insurance at 800-419-1473.
+
+<ol class="process">
+<li class="process-step list-one">
+
+##### Go to [www.financialpointplus.com](www.financialpointplus.com).
+
+</li>
+
+<li class="process-step list-two">
+  
+##### Choose “register as a first-time user.”  
+
+</li>
+
+<li class="process-step list-three">
+  
+##### The website will ask you to enter an Organization Web ID. Your ID is **BFCSVA**.
+
+</li>
+
+<li class="process-step list-four">
+  
+##### Enter your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number when asked. 
+
+</li>
+
+<li class="process-step list-five">
+  
+##### To request your personalized financial plan, choose **FinancialPoint** to begin the process.
+
+</li>
+
+<li class="process-step list-six">
+  
+##### To create and print a will, choose **EstateGuidance** to create and print a will.  
+
+</li>
+</ol>
