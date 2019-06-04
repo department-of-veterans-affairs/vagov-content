@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA DIC Surviving Spouse And Child Benefit Rates
-heading: VA DIC surviving spouse and child benefit rates
+title: 2019 VA DIC Surviving Spouse And Child Benefit Rates
+heading: 2019 VA DIC surviving spouse and child benefit rates
 display_title: Surviving spouse and child benefit rates
 description: View 2019 VA DIC rates for the surviving spouses and dependent children of Veterans. These VA survivor benefits are tax exempt. This means you won't have to pay any taxes on your DIC (Dependency and Indemnity Compensation) payments.
 keywords: va dic rates, va dic rates 2019, va survivor benefits rates, dependency and indemnity compensation rates
