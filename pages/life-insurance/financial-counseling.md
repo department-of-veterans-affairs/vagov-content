@@ -30,16 +30,16 @@ relatedlinks:
 
 If you’re a service member with a certain type of VA life insurance policy, or if you’re the beneficiary of a Veteran’s life insurance policy, you may be able to get free financial counseling and online will preparation. You can get these services if one of the following applies to you. You are:
 
-- A service member with a traumatic injury protection life insurance policy (TSGLI), **or**
+- A service member with a Servicemembers' Group Life Insurance Traumatic Injury Protection policy (TSGLI), **or**
 -	The beneficiary of a Veteran’s Servicemembers’ Group Life Insurance (SGLI) policy, **or**
 -	The beneficiary of a Veteran’s Family Servicemembers' Group Life Insurance (FSGLI) policy, **or**
--	The beneficiary of a Veteran’s Veterans’ Group Life Insurance (VGLI) policy.
+-	The beneficiary of a Veteran’s Veterans’ Group Life Insurance (VGLI) policy
 
 </div>
 
 ## I’m a service member and interested in financial counseling, but I haven’t received a TSGLI payment. Can I still qualify?
 
-You can contact your command financial specialists or financial readiness counselor. You can also visit [militaryonesource.mil](www.militaryonesource.mil) or call 800-342-9647 for more information. 
+You can contact your command financial specialists or financial readiness counselor. You can also visit [militaryonesource.mil](https://www.militaryonesource.mil/) or call <a href="tel:+18003429647">800-342-9647</a> for more information. 
 
 ## Getting help through the beneficiary financial counseling service
 
@@ -68,12 +68,12 @@ Yes. FinancialPoint also has an affiliated online service that lets you easily m
 
 ## How to get your financial plan or create a will online
 
-Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number. If you don’t have your claim number, please call the Office of Servicemembers' Group Life Insurance at 800-419-1473.
+Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI claim number. If you don’t have your claim number, please call the Office of Servicemembers' Group Life Insurance at <a href="tel:+18004191473">800-419-1473</a>.
 
 <ol class="process">
 <li class="process-step list-one">
 
-##### Go to [financialpointplus.com](www.financialpointplus.com).
+##### Go to [financialpointplus.com](https://www.financialpointplus.com/).
 
 </li>
 
@@ -112,8 +112,8 @@ Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI 
 
 Financial experts are available 24/7, whenever you need them. To contact them, do one of these: 
 
-If you’re a SGLI, FSGLI, VGLI beneficiary, call 888-243-7351</br>
-If you are a TSGLI recipient, call 800-428-3416</br>
+If you’re a SGLI, FSGLI, VGLI beneficiary, call <a href="tel:+18882437351">888-243-7351</a></br>
+If you're a TSGLI recipient, call <a href="tel:+18004283416">800-428-3416</a></br>
 Any beneficiary can email: [fcs@FinancialPoint.com](mailto:fcs@FinancialPoint.com)
 
 ## Other helpful resources
