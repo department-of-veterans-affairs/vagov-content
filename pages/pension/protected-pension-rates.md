@@ -28,7 +28,6 @@ widgets:
 #### Section 306 disability and death pension rates
 - [Disability pension rates for Veterans without dependents](####Veterans-without-dependents)
 - [Disability pension rates for Veterans with dependents](####Veteran-with-dependents)
-- [Spouse income exclusion rates](###Spouse-income-exclusion)
 - [Death pension rates](####Death-pension)
 - [Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation](###Survivor-Benefit-Plan-(SBP)-/-Minimum-Income-Annuity-(MIW)-annuity-limitatation)
 
@@ -52,9 +51,8 @@ View rates for disability and death pension programs that were available <b>from
 
 
 #### Spouse income exclusion
-<strong>Under 38 CFR 3.262(b)(2)</strong> (this link is broken on the original page)
 
-If you're receiving a Section 306 disability pension **and you're married**, the income of your spouse may affect your pension. Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>. This means that any amount of money over $4,916 that your spouse makes in a year will be included as part of your yearly income. 
+If you're receiving a Section 306 disability pension **and you're married**, the income of your spouse may affect your pension. Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>. This means that any income over $4,916 made by your spouse in a year will be included as part your yearly income when we determine your Section 306 disability pension rate. For example, if your spouse's income last year was $5,916.00 and yours was $5,000.00, your income for VA purposes (IVAP) would be $6,000.00. 
 <br>
 [Read more about spouse income exclusion under 38 CFR 3.262(b)(2)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
 
