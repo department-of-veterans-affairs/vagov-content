@@ -24,8 +24,7 @@ You can get an Agent Orange Registry health exam if you served in any of the way
 
 **You must have served in one of these ways:**
 
-  - In Vietnam between 1962 and 1975 for any length of time, **or**
-
+  - In Vietnam between 1962 and 1975 for any length of time, including in the inland waterways (Brown Water Navy) and within the 12-mile territorial seas (Blue Water Navy), **or**
   - On smaller river patrol and swift boats that were on the inland waterways of Vietnam (also known as “Brown Water Veterans”), **or**
   - In Korea in a unit in or near the Demilitarized Zone (DMZ) anytime between April 1, 1968, and August 31, 1971, **or**
   - In Thailand (U.S. Air Force Veterans) on Royal Thai Air Force (RTAF) bases near U-Tapao, Ubon, Nakhon Phanom, Udorn, Takhli, Korat, and Don Muang near the air base perimeter anytime between February 28, 1961, and May 7, 1975, **or**
