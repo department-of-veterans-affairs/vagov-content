@@ -98,22 +98,22 @@ View rates for disability and death pension programs that were available <b>befo
 
 ### Old law disability pension
 
-If you receive an old law pension, the rates listed below only apply to you if:
+If you receive an old law pension, the rates listed below apply to you if one of these is true:
 
-- Both of these things are true: You're unmarried **and** your yearly income is less than or equal to $13,480
+- You're unmarried **and** your yearly income is less than or equal to $13,480
 <br>
 
 <b>or</b>
 
 <br>
 
-- Both of these things are true: You have a dependent spouse or children **and** your yearly income is less than or equal to $19,429
+- You have a dependent spouse or children **and** your yearly income is less than or equal to $19,429
 
 
 | Entitlement | Monthly payment | 
 |--------------- | ---------------------- | 
-| Basic rates | $78.75 |
-| 10 Years or Age 65 | $19,429 | 
+| Basic rates | $66.15 |
+| 10 Years or Age 65 | $78.75 | 
 | If entitled to Aid and Attendence (A/A) | $135.45 |
 | If entitled to housebound allowance | $100.00 |
 
