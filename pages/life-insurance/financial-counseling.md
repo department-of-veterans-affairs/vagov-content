@@ -9,20 +9,23 @@ concurrence:
 spoke: Get Benefits
 order: 3
 relatedlinks:
-  - heading: Other helpful resources
+  - heading: More life insurance information
     links:
-    - url: /burials-memorials/pre-need-eligibility/
-      title: Pre-need burial eligibility determination
-      description: You can apply to find out in advance if you can be buried in a VA national cemetery. This is called a pre-need determination of eligibility—and it can help make the burial planning process easier for your family members.
-    - url: /burials-memorials/veterans-burial-allowance/
-      title: How to apply for Veterans burial allowance
-      description: Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
-    - url: https://www.benefits.va.gov/Compensation/current_rates_dic.asp
-      title: VA survivor benefits rates (VA DIC) 
-      description: See current dependency and indemnity compensation (DIC) rates for surviving spouses and children. 
-    - url: https://www.benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp?_ga=2.178092133.1532992680.1558364164-175658214.1545415984
-      title: Parents Dependency and Indemnity Compensation (DIC) rates
-      description: View current survivor benefit rates for parents. 
+    - url: /life-insurance/options-eligibility/
+      title: About VA life insurance options and eligibility
+      description: Find out which VA life insurance programs may be right for you.
+      [Learn more about SGLI coverage](/life-insurance/options-eligibility/sgli/)
+      [Learn more about FSGLI coverage](/life-insurance/options-eligibility/fsgli/)
+      [Learn more about VGLI coverage](/life-insurance/options-eligibility/vgli/)
+    - url: /life-insurance/options-eligibility/vmli/
+      title: Veterans Mortgage Life Insurance (VMLI)
+      description: If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
+    - url: https://insurance.va.gov/UnclaimedFunds/
+      title: Search for unclaimed life insurance funds
+      description: See if you’re owed any uncollected life insurance benefits by using our easy search tool.
+    - url: https://www.benefits.va.gov/insurance/select.asp?_ga=2.189789035.1532992680.1558364164-175658214.1545415984
+      title: Other VA life insurance programs
+      description: Search our other programs to see if any of them may apply to you or your family. 
       
 ---
 
