@@ -8,7 +8,22 @@ description:
 concurrence: 
 spoke: Get Benefits
 order: 3
-
+relatedlinks:
+  - heading: Other helpful resources
+    links:
+    - url: /burials-memorials/pre-need-eligibility/
+      title: Pre-need burial eligibility determination
+      description: You can apply to find out in advance if you can be buried in a VA national cemetery. This is called a pre-need determination of eligibility—and it can help make the burial planning process easier for your family members.
+    - url: /burials-memorials/veterans-burial-allowance/
+      title: How to apply for Veterans burial allowance
+      description: Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
+    - url: https://www.benefits.va.gov/Compensation/current_rates_dic.asp
+      title: VA survivor benefits rates (VA DIC) 
+      description: See current dependency and indemnity compensation (DIC) rates for surviving spouses and children. 
+    - url: https://www.benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp?_ga=2.178092133.1532992680.1558364164-175658214.1545415984
+      title: Parents Dependency and Indemnity Compensation (DIC) rates
+      description: View current survivor benefit rates for parents. 
+      
 ---
 
 <div class="va-introtext">
@@ -24,7 +39,7 @@ If you’re a service member with a certain type of VA life insurance policy, or
 
 ## I’m a service member and interested in financial counseling, but I haven’t received a TSGLI payment. Can I still qualify?
 
-You can contact your command financial specialists or financial readiness counselor. You can also visit [www.militaryonesource.mil](www.militaryonesource.mil) or call 800-342-9647 for more information. 
+You can contact your command financial specialists or financial readiness counselor. You can also visit [militaryonesource.mil](www.militaryonesource.mil) or call 800-342-9647 for more information. 
 
 ## Getting help through the beneficiary financial counseling service
 
@@ -58,7 +73,7 @@ Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI 
 <ol class="process">
 <li class="process-step list-one">
 
-##### Go to [www.financialpointplus.com](www.financialpointplus.com).
+##### Go to [financialpointplus.com](www.financialpointplus.com).
 
 </li>
 
@@ -92,3 +107,11 @@ Before you begin, be sure you have your eight-digit SGLI, TSGLI, FSGLI, or VGLI 
 
 </li>
 </ol>
+
+## Where to go for help
+
+Financial experts are available 24/7, whenever you need them. To contact them, do one of these: 
+
+If you’re a SGLI, FSGLI, VGLI beneficiary, call 888-243-7351</br>
+If you are a TSGLI recipient, call 800-428-3416</br>
+Any beneficiary can email: [fcs@FinancialPoint.com](mailto:fcs@FinancialPoint.com)
