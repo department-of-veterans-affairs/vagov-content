@@ -11,7 +11,7 @@ order: 9
 
 <div class="va-introtext">
 
-If you served on a Navy or Coast Guard ship in or around Vietnam during the Vietnam Era, you may have had contact with Agent Orange, a toxic chemical used to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+If you served on a Blue Water Navy ship within the 12-mile territorial seas, or another Navy or Coast Guard vessel operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, you likely had contact with Agent Orange, a toxic chemical used to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -21,29 +21,11 @@ If you served on a Navy or Coast Guard ship in or around Vietnam during the Viet
 
 You may be able to get disability benefits if you have one or more illnesses believed to be caused by Agent Orange and you meet the requirements listed below.
 
-**One of these must be true:**
-- You served on ships or boats that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
-- You had one of the following designations:
-
-  - AGP (Assault Group Patrol/Patrol Craft Tender)
-  - LCM (Landing Craft, Mechanized)
-  - LCU (Landing Craft, Utility)
-  - LCVP (Landing Craft, Vehicle, Personnel)
-  - LST (Landing Ship, Tank)
-  - PBR (Patrol Boat, River)
-  - PCF (Patrol Craft, Fast or Swift Boat)
-  - PG (Patrol Gunboat)
-  - STABS (Strike Assault Boats)
-  - WAK (Cargo Vessel)
-  - WHEC (High Endurance Cutter)
-  - WLB (Buoy Tender)
-  - WPB (Patrol Boat)
-  - YFU (Harbor Utility Craft)
+**One of these must be true. You served on:**
+- Vessels that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
+- A vessel operating within the 12-mile territorial seas of the Republic of Vietnam
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
-
-**Note:** Even if your ship or boat is not included in the Mobile Riverine Force, Inshore Fire Support Division 93, or the above designations, it may still appear in our alphabetized list of ships that had contact with Agent Orange.<br>
-<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>.
 
 <br>
 
