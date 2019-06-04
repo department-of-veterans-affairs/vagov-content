@@ -25,7 +25,7 @@ Yes, if you have one or more illnesses believed to be caused by Agent Orange and
 **One of these must be true. You:**
 - Served on vessels that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
 - Served on vessel operating within the 12-mile territorial seas of the Republic of Vietnam, **or**
-- You came ashore in Vietnam
+- Came ashore in Vietnam
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
@@ -53,7 +53,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 
 You’ll have to show that you had contact with Agent Orange in another way while serving in the military. We decide these claims on a case-by-case basis.
 
-#### If I'm a Blue Water Veteran with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
+### If I'm a Blue Water Veteran with non-Hodgkin’s lymphoma, do I need to prove contact with Agent Orange?
 
 No. You don’t need to show where you came into contact with Agent Orange. We believe that non-Hodgkin’s lymphoma can be caused by contact with Agent Orange through service in Vietnam or its offshore waters during the Vietnam Era. <br>
 [Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
