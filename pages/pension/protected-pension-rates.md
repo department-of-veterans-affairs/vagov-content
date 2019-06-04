@@ -78,7 +78,7 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 
 ### Death pension
 
-| Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
+| Beneficiary | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
 | Surviving spouses | Your yearly income is $15,394 or less | 
 | Surviving spouses and children | $20,692 or less |
