@@ -93,7 +93,7 @@ An annuity is a fixed sum of money paid to someone each year. If you're part of 
 
 ## Old law pensions
 
-View rates for disability and death pension programs that were available <b>before July 1, 1960</b>. These types of benefits are sometimes called  "Old law" pensions.
+View rates for disability and death pension programs that were available <b>before July 1, 1960</b>. These types of benefits are sometimes called  "old law" pensions.
 
 <b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
 
