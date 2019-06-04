@@ -13,10 +13,7 @@ relatedlinks:
     links:
     - url: /life-insurance/options-eligibility/
       title: About VA life insurance options and eligibility
-      description: Find out which VA life insurance programs may be right for you.</br>
-      [Learn more about SGLI coverage](/life-insurance/options-eligibility/sgli/)</br>
-      [Learn more about FSGLI coverage](/life-insurance/options-eligibility/fsgli/)</br>
-      [Learn more about VGLI coverage](/life-insurance/options-eligibility/vgli/)
+      description: Find out which VA life insurance programs may be right for you.
     - url: /life-insurance/options-eligibility/vmli/
       title: Veterans Mortgage Life Insurance (VMLI)
       description: If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
