@@ -98,11 +98,17 @@ View rates for disability and death pension programs that were available <b>befo
 
 ### Old law disability pension
 
+If you receive an old law pension, the rates listed below only apply to you if:
 
-| Your household status | Income limit (income less than or equal to this amount) | 
-|--------------- | ---------------------- | 
-| Unmarried | $13,480 |
-| Dependent spouse and/or children | $19,429 | 
+- Both of these things are true: You're unmarried **and** your yearly income is less than or equal to $13,480
+<br>
+
+<b>or</b>
+
+<br>
+
+- Both of these things are true: You have a dependent spouse or children **and** your yearly income is less than or equal to $19,429
+
 
 | Entitlement | Monthly payment | 
 |--------------- | ---------------------- | 
