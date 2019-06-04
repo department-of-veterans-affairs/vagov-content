@@ -301,13 +301,13 @@ Read the full regulations from Title 38 Code of Federal Regulations.
 
 ### Full section
 
-[38 U.S.C. II Dependency and Indemnity Compensation (chapter 13, sections 1310 to 1318]https://www.govinfo.gov/app/details/USCODE-2011-title38/USCODE-2011-title38-partII-chap13-subchapII)
+[38 U.S.C. II Dependency and Indemnity Compensation (chapter 13, sections 1310 to 1318)](https://www.govinfo.gov/app/details/USCODE-2011-title38/USCODE-2011-title38-partII-chap13-subchapII) <br>
 [38 U.S.C 501(a) Subpart A—Pension, Compensation, and Dependency and Indemnity Compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#sp38.1.3.a)
 
 ### Details related to rates for surviving spouses and children
 
-[3.5 Dependency and indenmnity compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_15)
-[3.10 Dependency and indemnity compensation rate for a surviving spouse](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_110)
+[3.5 Dependency and indenmnity compensation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_15) <br>
+[3.10 Dependency and indemnity compensation rate for a surviving spouse](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_110) <br>
 [3.22 DIC benefits for survivors of certain Veterans rated totally disabled at time of death](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_122)
 
 
