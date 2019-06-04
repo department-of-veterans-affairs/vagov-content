@@ -13,9 +13,9 @@ relatedlinks:
     links:
     - url: /life-insurance/options-eligibility/
       title: About VA life insurance options and eligibility
-      description: Find out which VA life insurance programs may be right for you.
-      [Learn more about SGLI coverage](/life-insurance/options-eligibility/sgli/)
-      [Learn more about FSGLI coverage](/life-insurance/options-eligibility/fsgli/)
+      description: Find out which VA life insurance programs may be right for you.</br>
+      [Learn more about SGLI coverage](/life-insurance/options-eligibility/sgli/)</br>
+      [Learn more about FSGLI coverage](/life-insurance/options-eligibility/fsgli/)</br>
       [Learn more about VGLI coverage](/life-insurance/options-eligibility/vgli/)
     - url: /life-insurance/options-eligibility/vmli/
       title: Veterans Mortgage Life Insurance (VMLI)
