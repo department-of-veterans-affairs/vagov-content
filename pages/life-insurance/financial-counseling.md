@@ -115,3 +115,22 @@ Financial experts are available 24/7, whenever you need them. To contact them, d
 If you’re a SGLI, FSGLI, VGLI beneficiary, call 888-243-7351</br>
 If you are a TSGLI recipient, call 800-428-3416</br>
 Any beneficiary can email: [fcs@FinancialPoint.com](mailto:fcs@FinancialPoint.com)
+
+## Other helpful resources
+
+### [Pre-need burial eligibility determination](/burials-memorials/pre-need-eligibility/)
+
+You can apply to find out in advance if you can be buried in a VA national cemetery. This is called a pre-need determination of eligibility—and it can help make the burial planning process easier for your family members.
+
+### [How to apply for Veterans burial allowance](/burials-memorials/veterans-burial-allowance/)
+
+Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
+
+### [VA survivor benefits rates (VA DIC)](https://www.benefits.va.gov/Compensation/current_rates_dic.asp)
+
+See current dependency and indemnity compensation (DIC) rates for surviving spouses and children.
+
+### [Parents Dependency and Indemnity Compensation (DIC) rates](https://www.benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp?_ga=2.178092133.1532992680.1558364164-175658214.1545415984)
+
+View current survivor benefit rates for parents. 
+
