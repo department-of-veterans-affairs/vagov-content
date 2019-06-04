@@ -90,7 +90,7 @@ Effective December 1, 2018, the spouse income exclusion disability pension limit
 
 Effective December 1, 2018, the SBP/MIW annuity limitatation is <b>$9,078</b>.
 
-## Old Law Pensions
+## Old law pensions
 
 View rates for disability and death pension programs that were available <b>before July 1, 1960</b>. These types of benefits are sometimes called  "Old law" pensions.
 
