@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure in Vietnam Waters (Blue Navy Veterans)
+title: Agent Orange Exposure in Vietnam Waters (Blue Water Navy Veterans)
 display_title: Vietnam Waters
 description: If you served on a Blue Water Navy ship on the inland waterways of Vietnam or ever came ashore in Vietnam, you likely had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
 concurrence: incomplete
@@ -11,9 +11,7 @@ order: 6
 
 <div class="va-introtext">
 
-If you served on a Blue Water Navy ship on the **inland waterways** of Vietnam between January 9, 1962, and May 7, 1975—or you ever came ashore in Vietnam—you likely had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
-
-If you served on the **coastal waterways** of Vietnam between January 9, 1962, and May 7, 1975, and you came ashore, you may have had contact with Agent Orange. We'll need additional information from you to determine if you may be able to get disability benefits.
+If you served on a Blue Water Navy ship within the 12-mile territorial seas, or on another Navy or Coast Guard vessel operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975—or you ever came ashore in Vietnam—you likely had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
 
 </div>
 
@@ -23,12 +21,12 @@ If you served on the **coastal waterways** of Vietnam between January 9, 1962, a
 
 Yes, if you have one or more illnesses believed to be caused by Agent Orange and you meet one of the requirements listed below.
 
-**One of these must be true:**
-- Your military record shows that you were aboard one of the U.S. Navy and Coast Guard ships that entered Vietnam’s inland waterways, **or**
+**One of these must be true. You:**
+- Served on vessels that were part of the Mobile Riverine Force or Inshore Fire Support Division 93, **or**
+- Served on vessel operating within the 12-mile territorial seas of the Republic of Vietnam, **or**
 - You came ashore in Vietnam
 
 [See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/). <br>
-[Learn more about U.S. Navy and Coast Guard ships in Vietnam](https://www.publichealth.va.gov/exposures/agentorange/shiplist/index.asp).
 
 ### Who’s covered?
 
