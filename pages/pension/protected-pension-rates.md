@@ -89,8 +89,8 @@ This means that any amount of income above $4,916 made by your spouse will be in
 | Beneficiary | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
 | --- | --- |
 | Surviving spouses | Your yearly income is $15,394 or less | 
-| Surviving spouses and children | $20,692 or less |
-| Children of survivors | $12,587 or less | 
+| Surviving spouses and children | Your yearly income is $20,692 or less |
+| Children of survivors | Your yearly income is $12,587 or less | 
 
 
 ### Survivor Benefit Plan (SBP) / Minimum Income Widow (MIW) annuity limitatation
@@ -119,10 +119,10 @@ If you receive an old law pension, the rates listed below apply to you if one of
 
 | Entitlement | Monthly payment | 
 |--------------- | ---------------------- | 
-| Basic rates | $66.15 |
-| 10 Years or Age 65 | $78.75 | 
-| If entitled to Aid and Attendence (A/A) | $135.45 |
-| If entitled to housebound allowance | $100.00 |
+| Basic rates | Your monthly payment is $66.15 |
+| 10 Years or Age 65 | Your monthly payment is $78.75 | 
+| If entitled to Aid and Attendence (A/A) | Your monthly payment is $135.45 |
+| If entitled to housebound allowance | Your monthly payment is $100.00 |
 
 
 ### Old law death pension
@@ -131,6 +131,6 @@ If you already receive an old law death pension, we'll continue your monthly pen
 
 | Beneficiary | Income limit (income less than or equal to this amount) | 
 |--------------- | ---------------------- | 
-| Surviving spouse or surviving child | $13,480 | 
-| Surviving spouse with children | $19,429 | 
+| Surviving spouse or surviving child | Your yearly income is $13,480 | 
+| Surviving spouse with children | Your yearly income is $19,429 | 
 
