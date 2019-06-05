@@ -34,144 +34,149 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Service members, Veterans, and family members may qualify for burial in a VA national cemetery and for other burial honors, like a headstone, marker, medallion, burial flag, and Presidential Memorial Certificate. Some family members may also qualify for money to pay for burial costs. Find out if you can get these benefits.
+Veterans, service members, and some family members may be eligible for burial in a VA national cemetery, including certain burial honors and memorial items. Some family members may also qualify for money to pay for burial costs. Find out if you or a person you're planning a burial for can get these benefits.
 
 </div>
 
 <div class="feature" markdown="0">
 
-### Who can be buried in a VA national cemetery and receive other burial benefits?
+### Who can be buried in a VA national cemetery?
 
-#### Service members
+#### Veterans 
 
-Members of the United States Armed Forces who died on active duty may be eligible for burial benefits.
+With certain exceptions, a Veteran may be eligible if they meet all of the requirements listed below.
 
-#### Veterans who didn’t receive a dishonorable discharge
+**All of these must be true. The Veteran:**
+- Served at least 24 months in a row or the full period for which they were called to active duty, **and**
+- Served as enlisted personnel after September 7, 1980 or as an officer after October 16, 1981, **and**
+- Didn't receive a dishonorable discharge
 
-With certain exceptions, a Veteran who served at least 24 months in a row or the full period for which they were called to active duty may be eligible for burial benefits if they were an:
-- Enlisted person who served after September 7, 1980, <b>or</b>
-- Officer who served after October 16, 1981
-
-A VA regional office determines eligibility in cases where the Veteran had:
+**A VA regional office determines eligibility in cases where the Veteran had:**
 - Undesirable, bad conduct, and any other type of discharge other than honorable <b>or</b>
 - Multiple discharges of varying character
 
-#### Spouses and dependents
+#### Service members
 
-These family members may be eligible for burial in a VA national cemetery:
+A member of the United States Armed Forces who died while on active duty may be eligible.
 
-- The spouse, surviving spouse, or dependent of an eligible Veteran or member of the Armed Forces, even if that Veteran isn't buried or memorialized in a national cemetery
-- The surviving spouse of an eligible Veteran who remarried a non-Veteran and who passed away on or after January 1, 2000
-- The minor child of an eligible Veteran. To be considered a minor, the child must be unmarried and:
-  - Under 21 years, **or**
-  - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution
-- The unmarried adult child of an eligible Veteran. The child may be any age, but they must have became permanently disabled (either physically or mentally) and not able to support themselves either:
-  - Before turning 21 years old, **or**
-  - Before turning 23 years old if pursuing a full-time course of instruction at an approved educational institution <br>
-  **Note:** Proper supporting documentation must be provided.
+#### Spouses
+
+The spouse or surviving spouse of an eligible Veteran or member of the Armed Forces may be eligible, even if that Veteran isn't buried or memorialized in a national cemetery. 
+
+**Note:** A surviving spouse who remarried a non-Veteran may still be eligible if they passed away on or after January 1, 2000.
+
+#### Dependent children
+
+The unmarried child of an eligible Veteran may be eligible if they meet one of the requirements listed below. 
+
+**One of these must be true. The child is:**
+  - Under 21 years of age, **or**
+  - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution, **or**
+  - An adult of any age who became permanently physically or mentally disabled and unable to support themselves before turning 21 or before turning 23 while pursuing a full-time course of instruction at an approved educational institution.
+  
+**Note:** We require proper documentation showing a dependent child's eligibility.
   
 #### Parents
 
-Biological or adoptive parents who passed away after October 13, 2010, and whose biological or adoptive child was a service member may be eligible for burial in a national cemetery. For the parents to be eligible, everything listed below must be true. The service member:
+Biological or adoptive parents of service members who passed away after October 13, 2010 may be eligible if they meet all of the requirements listed below.
 
+**All of these must be true. The parents' biological or adoptive child:**
 - Passed away on or after October 7, 2001, **and**
 - Was a hostile casualty or died because of a training-related injury, **and**
-- Is buried in a national cemetery, in a gravesite with available space for burial of other family members in the future, **and**
-- At the time of the parent’s death, had no spouse, surviving spouse, or child who is buried in a national cemetery or may be eligible for burial when they pass away
+- Is buried in a VA national cemetery, in a gravesite with available space for burial of other family members in the future, **and**
+- At the time of the parent’s death, had no spouse, surviving spouse, or child who was buried, or who may be eligible for future burial, in a VA national cemetery
 
 </div>
 
-## Find specific eligibility information for these groups of people
+## More eligibility information
+
+### Specific eligibility criteria for certain groups
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizen who served in the armed forces of any government allied with the United States during a war</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="armed-forces-of-allied-government">U.S. citizens who served in the armed forces of any government allied with the United States during a war</button>
 <div id="armed-forces-of-allied-government" class="usa-accordion-content">
-  
-**Both of these are true. The person:**
-- Ended their last active service honorably by death or otherwise, <b>and</b>
-- Was a citizen of the United States at the time they entered their last active service and at the time of death
+
+A U.S. citizen who served in the armed forces of a U.S. ally during wartime may qualify if they meet both of the requirements listed below. 
+
+**Both of these must be true. The service member:**
+- Ended their last active service honorably by death or otherwise, **and**
+- Was a United States citizen at the time they entered their last active service and at the time of their death
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Member of a Reserve component of the United States Armed Forces</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="reservist-national-guard">Members of Reserve components or the Reserve Officers' Training Corps</button>
 <div id="reservist-national-guard" class="usa-accordion-content">
   
-The person was in one of these military organizations:
+#### National Guard and Reserve members
 
-<b>The Reserves or National Guard</b> <br>
-At the time of death, they were entitled to retirement pay, or would have been entitled if they had been over the age of 60.
+A National Guard or Reserve member may be eligible if they meet any of the requirements listed below.
 
-<b>A Reserve component, the Army National Guard, or the Air National Guard</b> <br>
-They died while hospitalized or getting treatment at the expense of the United States for injury or disease they got under honorable conditions while performing active duty for training or inactive duty training.
+**At least one of these must be true. The National Guard or Reserve member:**
+- Met their legal minimum active duty service requirements, was called up to active duty and served their full term of service, and didn't receive a dishonorable discharge, **or**
+- Was entitled to retirement pay at their time of death, or would have been entitled retirement pay if they weren't under 60 years of age, **or**
+- Died while hospitalized or getting treatment at the expense of the United States for an injury or illness that occurred while they were performing active-duty services for training or inactive duty training under honorable conditions, **or**
+- Became disabled or died from a disease or injury caused—or made worse—by their active duty service during a period of active duty for training, **or**
+- Became disabled or died from an injury or certain cardiovascular disorders caused—or made worse—by their active duty service during a period of inactive duty training
 
-<b>The Reserve Officers’ Training Corps of the Army, Navy, or Air Force</b> <br>
-They died under honorable conditions while:
+#### Members of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force
 
-- Attending an authorized training camp or on an authorized cruise, <b>or</b>
-- Performing authorized travel to or from a training camp or cruise, <b>or</b>
-- Hospitalized or getting treatment at the expense of the United States for an injury or disease they got under honorable conditions while attending or traveling to a training camp or cruise
+A member of the Reserve Officers' Training Corps may be eligible if the meet any of the requirements listed below.
 
-<b>A Reserve component</b><br>
-**One of these is true:**
-- During a period of active duty for training they became disabled or died from a disease or injury caused—or made worse—by their active duty service, <b>or</b>
-- During a period of inactive duty training they became disabled or died from an injury or certain cardiovascular disorders caused—or made worse—by their active duty service
+**At least one of these must be true. The officer died under honorable conditions while:**
+- Attending an authorized training camp or on an authorized cruise, **or**
+- Performing authorized travel to or from a training camp or cruise, **or**
+- Hospitalized or getting treatment at the expense of the United States for an injury or illness that occurred while they were attending or traveling to a training camp or cruise under honorable conditions
 
-<b>Reserve and Guard components</b> <br>
-
-**All of these are true. They:**
-- Have met minimum active duty service requirements, as required by law, <b>and</b> 
-- Were discharged under conditions other than dishonorable, <b>and</b> 
-- Were called to active duty and served the full term of service
 </div>
 </li>
-
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
 <div id="commissioned-officer-noaa" class="usa-accordion-content">
   
-**One of these must be true:**
+A commissioned officer of the National Oceanic and Atmospheric Administration may qualify if they meet at least one of the requirements listed below.
 
-The person had full-time duty on or after July 29, 1945,
-
-<b>or</b>
-
-The person served before July 29, 1945, and
-- Was assigned to an area of immediate military hazard (as determined by the secretary of defense while in time of war or by a national emergency as declared by the president), <b>or</b>
-- Served in the Philippine Islands on December 7, 1941, and continued to serve there until their death.
+**At least one of these must be true. The officer:**
+- Served on full-time duty on or after July 29, 1945, **or*
+- Served before July 29, 1945, and was assigned to an area of immediate military hazard (as determined by the secretary of defense while in time of war or by a national emergency as declared by the president), **or**
+- Served in the Philippine Islands on December 7, 1941, and continued to serve there until their death
 
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officer of the Public Health Service</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="public-health-service-officer">Commissioned officers of the Public Health Service</button>
 <div id="public-health-service-officer" class="usa-accordion-content">
   
+A commissioned officer of the Public Health Service may be eligible if they meet at least one of the requirements listed below.
+
 **One of these must be true:**
 
-**The officer served on full-time duty on or after July 29, 1945.** If their service is considered active duty for training, they must have become disabled or died from a disease or injury caused or made worse by their service.
+**The officer served on full-time duty on or after July 29, 1945.** If their service was considered active duty for training, they must have become disabled or died from a disease or injury caused or made worse by their service.
 
 **The officer performed full-time duty prior to July 29, 1945:**
-
-- In time of war, <b>or</b>
-- On detail for duty with the Army, Navy, Air Force, Marine Corps, or Coast Guard, <b>or</b>
+- In time of war, **or**
+- On detail for duty with the Army, Navy, Air Force, Marine Corps, or Coast Guard, **or**
 - While a part of the military forces of the United States by executive order of the president
 
-**The officer served on inactive duty training,** and their death must have resulted from an injury caused or made worse by their service.
+**The officer served on inactive duty training,** and their death resulted from an injury caused or made worse by their service.
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariner</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="merchant-mariner">World War II Merchant Mariners</button>
 <div id="merchant-mariner" class="usa-accordion-content">
-  
-**One of these must be true:**
 
-**The United States Merchant Mariner died on or after November 11, 1998.**
-They had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946.
+A WWII Merchant Mariner may be eligible if they meet at least one of the requirements listed below.
 
-A DD214 documenting this service may be obtained by submitting an application to:
+**One of these must be true. The Merchant Mariner:**
+
+- Had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1945, **or**
+- Had oceangoing service during the period of armed conflict December 7, 1941, to December 31, 1946 and died after November 11, 1998, **or**
+- Served on blockships in support of Operation Mulberry during World War II
+
+To get a DD214 documenting this service, mail an application to:
 
 <p class="va-address-block">
 Commandant (G-MVP-6)<br>
@@ -180,14 +185,15 @@ United States Coast Guard<br>
 Washington, DC 20593 <br>
 </p>
 
-**The United States Merchant Mariner served on blockships in support of Operation Mulberry during World War II.**
 </div>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veteran</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="philippine-armed-forces">Philippine Armed Forces Veterans</button>
 <div id="philippine-armed-forces" class="usa-accordion-content">
-  
+
+A Philippine Armed Forces Veteran may be eligible if they meet the requirements listed below.
+
 **Both of these must be true. The Philippine Veteran was:**
 - A citizen of the United States or an alien lawfully admitted for permanent residence in the United States at the time of their death, <b>and</b>
 - Residing in the United States at the time of their death
@@ -199,88 +205,86 @@ Washington, DC 20593 <br>
 </li>
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veteran</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veterans</button>
 <div id="hmong-veteran" class="usa-accordion-content">
+
+A Hmong Veteran may qualify if they meet all of the requirements listed below.
 
 **All of these must be true. The Hmong Veteran:**
 - Died on or after March 23, 2018, **and**
 - Resided in the U.S. at the time of death, **and**
 - Was naturalized under Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (the 2000 Act)
 
-### What burial benefits do Hmong Veterans qualify for?
+#### What burial benefits do Hmong Veterans qualify for?
 
 Hmong Veterans are eligible for burial in a national or private cemetery. They're also eligible for a headstone or marker, but not for other memorial items (like a burial flag or Presidential Memorial Certificate) or for military funeral honors (like the playing of "Taps"). 
 
 **Spouses and surviving spouses of Hmong Veterans aren't eligible** for interment or any other burial benefits, even if they were naturalized under the 2000 Act. 
 
-### What's Public Law 115-141?
+#### What's Public Law 115-141?
 
 Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cemetery. Be sure to refer to it when requesting burial benefits:
 
-**When you call the National Cemetery Scheduling Office in your time of need,** tell the scheduler that interment is requested under PL115-141.
+**When you call the National Cemetery Scheduling Office in your time of need,** tell the scheduler you're requesting interment under PL115-141.
 
-**When you're filling out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007),** write “PL115-141” in Block 5, write the Certification of Naturalization Registration “A” number in Block 6, and select **Other** in Block 13.
+**When you're filling out an [Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery](/burials-memorials/pre-need-eligibility) (VA Form 40-10007),** write “PL115-141” in Block 5, write the Certification of Naturalization Registration “A” number in Block 6, and select **Other** in Block 13.
 
-**When requesting a headstone or marker for burial in a private cemetery using VA Form 40-1330,** 
+**When requesting a [headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/) for burial in a private cemetery using VA Form 40-1330,** 
 write “PL115-141” and the Certification of Naturalization Registration “A” number in Block 33.
 
 </div>
 </li>
 </ul>
 
-
-## Who's not eligible for burial benefits?
+### Who's not eligible for burial in a VA national cemetery?
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="not-eligible">These people are not eligible for VA burial benefits</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="not-eligible">Read about Veterans, service members, and family members who aren't eligible for VA burial benefits</button>
 <div id="not-eligible" class="usa-accordion-content">
   
-### Former spouses and certain family members
+### Certain family members
 
-**You're not eligible if you're a:**
-- Former spouse of an eligible individual whose marriage to that individual ended by annulment or divorce
-- Family member who doesn't meet the eligibility requirements
+**These family members aren't eligible:**
+- Former spouses of an eligible individual whose marriage to that individual ended by annulment or divorce
+- Family members of Veterans convicted of subversive activities (unless the Veteran receives a pardon from the President of the United States)
+- Other family members who don't meet the eligibility requirements
 
-### Veterans with a certain character of discharge
+### Veterans
 
-**You're not eligible if you:**
+#### With a certain character of discharge
+
+**Veterans aren't eligible if they:**
 - Separated from the Armed Forces under dishonorable conditions, **or** 
 - Have a character of service that disqualifies you
 
-### Those drafted but then discharged before entering military service
+#### Drafted but then discharged before entering military service
   
-You're not eligible if you were ordered to report to an induction station, but you were discharged at that point and never actually entered military service.
+Veterans aren't eligible if they were ordered to report to an induction station, but were discharged at that point and never actually entered military service.
 
-### Those found guilty of a capital crime
+#### Found guilty of a capital crime
   
-**You're not eligible for burial  in a VA national cemetery, Arlington National Cemetery, or a federally funded state Veterans cemetery if:**
- - You have been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
- - Clear and convincing evidence shows that you have committed a federal or state capital crime, but you couldn't have a trial due to death or flight to avoid prosecution
+**Veterans aren't eligible if:**
+ - They've been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
+ - Clear and convincing evidence shows that they've have committed a federal or state capital crime, but they couldn't have a trial due to death or flight to avoid prosecution
 
-**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+These Veterans also don't qualify for a Presidential Memorial Certificate, burial flag, headstone, or marker.
 
-### Those convicted of certain sex offenses
+### Convicted of certain sex offenses
 
-You're not eligible for burial in a VA national cemetery, Arlington National Cemetery, or a federally funded state or tribal cemetery if you were convicted of a Tier III sex offense and sentenced to a minimum of life imprisonment—and the conviction is final.
+Veterans aren't eligible if they were convicted of a Tier III sex offense, and sentenced to a minimum of life imprisonment—and the conviction is final.
 
-**Note:** Those in this category don't qualify for a Presidential Memorial Certificate, burial flag, or a headstone or marker.
+These Veterans also don't qualify for a Presidential Memorial Certificate, burial flag, headstone, or marker.
 
-### Those convicted of subversive activities
+### Convicted of subversive activities
 
-You're not eligible for burial in a VA national cemetery if you were convicted of subversive activities after September 1, 1959. Your family members also don't qualify for burial benefits when you're in this category. 
+Veteran's aren't eligible if they were convicted of subversive activities after September 1, 1959, unless they've received a pardon from the President of the United States. 
 
-**Note:** You can become eligible again only if the President of the United States pardons you.
-
-### Those on active or inactive duty for training 
-
-You're not eligible for burial in a VA national cemetery if your only service was active duty for training or inactive duty training in the National Guard or Reserve Component, unless you meet certain eligibility criteria.
 </div>
 </li>
 </ul>
 
-
-## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -289,12 +293,19 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
+### Can I be buried in Arlington National Cemetery? 
 
-## What do burial benefits include?
+We can't determine your eligibility for burial in Arlington National Cemetery because the United States Army maintains this cemetery. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
 
-If you qualify for burial in a VA national cemetery, you'll receive burial benefits at no cost to your family.
+------
 
-**Burial benefits include:**
+## More about VA burial benefits and planning
+
+### What does burial in a VA national cemetery include?
+
+When a Veteran, service member, or family member qualifies for burial in a VA national cemetery, they receive certain burial benefits at no cost to their family.
+
+**These burial benefits include:**
 - A gravesite in any of our 136 national cemeteries with available space
 - Opening and closing of the grave
 - A burial liner provided by the government
@@ -308,16 +319,11 @@ At the time of need, the person planning the burial can also request other honor
 - [Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/) signed by the current president of the United States
 - [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
 
-
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
 [Learn about memorial items](/burials-memorials/memorial-items/) <br>
 [See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
-## Can I be buried at Arlington National Cemetery? 
-
-You may be able to be buried at Arlington National Cemetery, which is maintained by the Army, not VA. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
-
-## Can I plan ahead for my burial in a VA national cemetery?
+### Can I plan ahead for my burial in a VA national cemetery?
 
 Yes. You can plan ahead to make the process of applying for a burial in a VA national cemetery easier for your family members in the event of your death. To do this, you’ll need to apply for a pre-need eligibility determination. <br>
 [Find out how to apply](/burials-memorials/pre-need-eligibility/)
@@ -325,7 +331,7 @@ Yes. You can plan ahead to make the process of applying for a burial in a VA nat
  **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
  [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
  
-## How can I make sure my family members have all the information and documents they need to plan for the future?
+### How can I make sure my family members have all the information and documents they need to plan for the future?
 Our Survivors and Burial Benefits Kit can guide you and your family members through the planning process so they have what they need to prepare for the future and get the benefits they're entitled to. This kit, called "Planning Your Legacy," includes:
 - Information about survivors’ benefits
 - Sample forms you and your family members may need to fill out
