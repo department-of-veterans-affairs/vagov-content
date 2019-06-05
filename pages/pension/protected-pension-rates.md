@@ -72,7 +72,7 @@ This means that any amount of income above $4,916 made by your spouse will be in
 | --- | --- |
 | Basic amount for Veteran only (no spouse or dependent children) | Your yearly income is $15,394 or less |
 | Special Aid and Attendance allowance if your income exceeds $15,398 | Your yearly income is $15,948 or less |
-| 38 CFR 3.552 rates (hospital reduction) for Special Aid and Attendance | <ul><li>Your yearly income for 2018 is $15,394 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
+| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | <ul><li>Your yearly income for 2018 is $15,394 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
 
 
 #### Veterans with dependents
@@ -81,7 +81,7 @@ This means that any amount of income above $4,916 made by your spouse will be in
 | --- | --- |
 | Basic amount for Veteran only (with dependent spouse or children) | Your yearly income is $20,692 or less |
 | Special Aid and Attendance allowance if your income exceeds $20,732 | Your yearly income is $21,245 or less |
-| 38 CFR 3.552 rates (hospital reduction) for Special Aid and Attendance | <ul><li>Your yearly income for 2018 is $21,245 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
+| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | <ul><li>Your yearly income for 2018 is $21,245 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
 
 
 ### Death pension
@@ -127,10 +127,10 @@ If you receive an old law pension, the rates listed below apply to you if one of
 
 ### Old law death pension
 
-If you're the beneficiary of an old law death pension and your income is under a certain yearly amount, you're entitled to a monthly payment.
+If you already receive an old law death pension, we'll continue your monthly pension payments as long as your yearly income is less than a certain amount. 
 
-| Beneficiary | Income limit (income less than or equal to this amount) | Monthly payment |
-|--------------- | ---------------------- | ----- |
-| Surviving spouse or surviving child | $13,480 | ? |
-| Surviving spouse with children | $19,429 | ? |
+| Beneficiary | Income limit (income less than or equal to this amount) | 
+|--------------- | ---------------------- | 
+| Surviving spouse or surviving child | $13,480 | 
+| Surviving spouse with children | $19,429 | 
 
