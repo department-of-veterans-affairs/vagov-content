@@ -84,13 +84,13 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 - **Upright headstones:** granite or marble 
 - **Flat markers:** granite, marble, or bronze 
 - **Niche markers:** bronze <br>
-**Note:** For burial in a private cemetery, check with officials there to make sure the style you want is allowed.
+**Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
 [Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What information goes on the headstone or marker and who provides it?
 
-The next of kin or an authorized representative provides the inscription information listed below to cemetery officials at the national cemetery, state Veterans cemetery, military post cemetery, or military base cemetery. These officials order the headstone or marker for you.
+The next of kin or an authorized representative will need to provide the inscription information listed below to cemetery officials at a national cemetery, state Veterans cemetery, military post cemetery, or military base cemetery. These officials will order the headstone or marker for you.
 
 **You must put this information on the headstone or marker:**
 - The person's legal name
@@ -118,13 +118,15 @@ Please contact the cemetery directly to find out when the headstone or marker wi
 ### For private cemeteries 
 If more than 60 days have passed since you filed your claim and the grave still isn't marked, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at 1-800-697-6947. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.
 
+Cemetery staff in national, military post, and military base cemeteries are responsible for setting the headstone or marker at no cost to the applicant. Some state Veterans' cemeteries may charge the applicant a nominal fee for setting a Government-furnished headstone or marker.
+
 ## What if there's a mistake with the headstone inscription?
 
 Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
 
 ## What do I need to know about burial in a private cemetery?
 
-You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it in a private cemetery (called a setting fee).<br>
+You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee).<br>
 [Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp)
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
