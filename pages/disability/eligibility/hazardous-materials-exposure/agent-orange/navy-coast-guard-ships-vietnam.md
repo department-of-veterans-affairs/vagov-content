@@ -12,7 +12,7 @@ order: 9
 
 <div class="va-introtext">
 
-If you served on a Blue Water Navy ship within the 12-mile territorial seas, or another Navy or Coast Guard vessel operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, you likely had contact with Agent Orange, a toxic chemical used to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+If you served on a Blue Water Navy ship within the 12-mile territorial seas, or another Navy or Coast Guard vessel operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, you likely had contact with Agent Orange, an herbicide used to clear trees and plants during the war. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -59,8 +59,3 @@ You can get help from us in one of these ways:
 - Call <a href="tel:+1-800-827-1000">800-827-1000</a> or TTY <a href="tel:+18008778339">800-877-8339</a>, **or**
 - [Go to your nearest VA regional benefit office](/find-locations/), **or**
 - [Get help from a trained professional trusted to help with VA-related claims](/disability/get-help-filing-claim/)
-
-## Get more information
-Want to find out if the ship you were on had contact with Agent Orange?<br>
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>
-
