@@ -86,7 +86,7 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 - **Niche markers:** bronze <br>
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
-[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)<br>
 [Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/wp-content/uploads/Best-Practices-Final.pdf)
 
 ## What information goes on the headstone or marker and who provides it?
@@ -110,7 +110,7 @@ The next of kin or an authorized representative will need to provide the inscrip
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
-## How can I find out when the headstone, marker, or medallion I requested will arrive, and who will set it for me?
+## When will the headstone, marker, or medallion I requested will arrive, and who will set it for me?
 
 For national or state cemeteries, please contact the cemetery directly to find out when the headstone or marker will arrive. <br>
 [Find a national, state, or tribal government Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
@@ -136,9 +136,9 @@ If you have a complaint about a private cemetery policy, there are organizations
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
 
-## How do I make special arrangements?
+## How do I make special arrangements for a memorial headstone or marker?
 
-We provide memorial headstones and markers for qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
+We provide memorial headstones and markers for eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
 
 For Veterans, dependents, and Servicemembers who qualify for a memorial headstone or marker, the words engraved on the memorial item must begin, “IN MEMORY OF,” and the headstone or marker must be placed in a national cemetery, state Veterans cemetery, or military base cemetery.
 
