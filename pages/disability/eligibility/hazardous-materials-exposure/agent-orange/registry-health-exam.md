@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 title: VA Agent Orange Registry Exam
 heading: VA Agent Orange Registry exam
 display_title: Registry health exam
-description: Find out how to request an Agent Orange Registry health exam if you think you had contact with this toxic herbicide during military service. The exam can help alert you to illnesses that may be related to contact with herbicides and help us learn more to better serve Veterans with these illnesses.
+description: Find out how to request an Agent Orange Registry health exam if you think you had contact with this herbicide during military service. The exam can help alert you to illnesses that may be related to contact with herbicides and help us learn more to better serve Veterans with these illnesses.
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
@@ -12,7 +12,7 @@ order: 1
 
 <div class="va-introtext">
 
-If you think you had contact with Agent Orange, a toxic chemical used to clear trees and plants during the Vietnam War, or other herbicides while serving in the military, you can request a VA Agent Orange Registry health exam. Even if you don’t have a known illness, the exam could alert you to illnesses that may be related to contact with herbicides. By being part of this registry, you’re also helping your fellow Veterans by giving us information so we can better understand and serve those affected by Agent Orange–related illnesses.
+If you think you had contact with Agent Orange, an herbicide used to clear trees and plants during the Vietnam War, or other herbicides while serving in the military, you can request a VA Agent Orange Registry health exam. Even if you don’t have a known illness, the exam could alert you to illnesses that may be related to contact with herbicides. By being part of this registry, you’re also helping your fellow Veterans by giving us information so we can better understand and serve those affected by Agent Orange–related illnesses.
 
 </div>
 
@@ -25,7 +25,6 @@ You can get an Agent Orange Registry health exam if you served in any of the way
 **You must have served in one of these ways:**
 
   - In Vietnam between 1962 and 1975 for any length of time, including in the inland waterways (Brown Water Navy) and within the 12-mile territorial seas (Blue Water Navy), **or**
-  - On smaller river patrol and swift boats that were on the inland waterways of Vietnam (also known as “Brown Water Veterans”), **or**
   - In Korea in a unit in or near the Demilitarized Zone (DMZ) anytime between April 1, 1968, and August 31, 1971, **or**
   - In Thailand (U.S. Air Force Veterans) on Royal Thai Air Force (RTAF) bases near U-Tapao, Ubon, Nakhon Phanom, Udorn, Takhli, Korat, and Don Muang near the air base perimeter anytime between February 28, 1961, and May 7, 1975, **or**
   - In Thailand (U.S. Army Veterans) as perimeter security personnel on RTAF bases in Thailand anytime between February 28, 1961, and May 7, 1975, **or**
