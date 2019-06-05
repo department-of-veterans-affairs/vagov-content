@@ -303,18 +303,13 @@ We can't determine eligibility for burial in Arlington National Cemetery because
 When a Veteran, service member, or family member qualifies for burial in a VA national cemetery, they receive certain burial benefits at no cost to their family.
 
 **These burial benefits include:**
-- A gravesite in any of our 136 national cemeteries with available space
+- A gravesite in any of our [136 national cemeteries](/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType) with available space
 - Opening and closing of the grave
 - A burial liner provided by the government
-- A headstone or marker provided by the government
+- [A headstone or marker provided by the government](/burials-memorials/memorial-items/headstones-markers-medallions/)
 - Perpetual (ongoing) care of the gravesite
 
-At the time of need, the person planning the burial can also request other honors and memorial items.
-
-**Other honors and memorial items may include a:**
-- [Burial flag](/burials-memorials/memorial-items/burial-flags/) to drape over the casket (or coffin) or place with the urn
-- [Presidential Memorial Certificate](/burials-memorials/memorial-items/presidential-memorial-certificates/) signed by the current president of the United States
-- [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
+At the time of need, the person planning the burial can also request other [VA memorial items](/burials-memorials/memorial-items/) as well as [military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp) provided by the Department of Defense. These items and honors have added eligibility requirements.
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
 [Download our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
