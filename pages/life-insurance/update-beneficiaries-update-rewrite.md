@@ -131,8 +131,8 @@ It's important to make sure your life insurance beneficiary information is up to
           </p>
         </li>
       </ol>
-    <h3>Changing life insurance information for a competent Veteran:</h3><br>
-    If you’re changing information for a competent Veteran, review the following options and decide which one applies to you: 
+    <h3>Changing life insurance beneficiary information for a competent Veteran:</h3><br>
+    If you’re changing beneficiary information for a competent Veteran, review the following options and decide which one applies to you: 
       <br>
       <br>
         <ul>
@@ -144,7 +144,7 @@ It's important to make sure your life insurance beneficiary information is up to
           </li>
         </ul>
     <h3>Changing life insurance beneficiary information for an incompetent Veteran:</h3><br>
-    Only a guardian appointed by a court of law (court-appointed guardian) can change the life insurance beneficiary for an incompetent Veteran.     
+    Only a guardian appointed by a court of law (court-appointed guardian) can change beneficiary information for an incompetent Veteran.     
     <br>
     <br>
       <strong>If you're a court-appointed guardian</strong>, follow the steps below to change your Veteran's life insurance beneficiary information for them:
