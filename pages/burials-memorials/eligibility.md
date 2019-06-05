@@ -317,16 +317,14 @@ At the time of need, the person planning the burial can also request other honor
 - [Headstone, marker, niche cover, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/) to identify a gravesite located outside a VA national cemetery
 
 [Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
-[Learn about memorial items](/burials-memorials/memorial-items/) <br>
-[See our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
+[Download our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
 ### Can I plan ahead for my burial in a VA national cemetery?
 
 Yes. You can plan ahead to make the process of applying for a burial in a VA national cemetery easier for your family members in the event of your death. To do this, you’ll need to [apply for a pre-need eligibility determination](/burials-memorials/pre-need-eligibility/).
 
- **Please note:** The pre-need eligibility determination is only for national cemeteries. If you want to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
- [Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
- 
+ **Please note:** The pre-need eligibility determination is only for VA national cemeteries. If you want to be buried in a [state or tribal Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp), check the site you want ahead of time, since some state Veterans cemeteries require that you live in that state or have other rules around eligibility.<br>
+  
 ### How can I make sure my family members have all the information and documents they need to plan for the future?
 Our Survivors and Burial Benefits Kit can guide you and your family members through the planning process so they have what they need to prepare for the future and get the benefits they're entitled to. This kit, called "Planning Your Legacy," includes:
 - Information about survivors’ benefits
