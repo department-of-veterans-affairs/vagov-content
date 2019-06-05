@@ -42,6 +42,8 @@ Veterans, service members, and some family members may be eligible for burial in
 
 ### Who can be buried in a VA national cemetery?
 
+
+<br>
 #### Veterans 
 
 With certain exceptions, a Veteran may be eligible if they meet all of the requirements listed below.
@@ -55,16 +57,19 @@ With certain exceptions, a Veteran may be eligible if they meet all of the requi
 - Undesirable, bad conduct, and any other type of discharge other than honorable <b>or</b>
 - Multiple discharges of varying character
 
+<br>
 #### Service members
 
-A member of the United States Armed Forces who died while on active duty may be eligible.
+A member of the U.S. Armed Forces who died while on active duty may be eligible.
 
+<br>
 #### Spouses
 
-The spouse or surviving spouse of an eligible Veteran or member of the Armed Forces may be eligible, even if that Veteran isn't buried or memorialized in a national cemetery. 
+The spouse or surviving spouse of an eligible Veteran or service member may be eligible, even if the Veteran or service member isn't buried or memorialized in a VA national cemetery.
 
-**Note:** A surviving spouse who remarried a non-Veteran may still be eligible if they passed away on or after January 1, 2000.
+A surviving spouse who remarried a non-Veteran may still be eligible if they passed away on or after January 1, 2000.
 
+<br>
 #### Dependent children
 
 The unmarried child of an eligible Veteran may be eligible if they meet one of the requirements listed below. 
@@ -72,15 +77,14 @@ The unmarried child of an eligible Veteran may be eligible if they meet one of t
 **One of these must be true. The child is:**
   - Under 21 years of age, **or**
   - Under 23 years of age and pursuing a full-time course of instruction at an approved educational institution, **or**
-  - An adult of any age who became permanently physically or mentally disabled and unable to support themselves before turning 21 or before turning 23 while pursuing a full-time course of instruction at an approved educational institution.
-  
-**Note:** We require proper documentation showing a dependent child's eligibility.
-  
+  - An adult of any age who became permanently physically or mentally disabled and unable to support themselves before turning 21 or before turning 23 while pursuing a full-time course of instruction at an approved educational institution. We require supporting evidence of the child's permanent disability.
+
+<br>
 #### Parents
 
-Biological or adoptive parents of service members who passed away after October 13, 2010 may be eligible if they meet all of the requirements listed below.
+The biological or adoptive parent of a service member who passed away after October 13, 2010 may be eligible if they meet all of the requirements listed below.
 
-**All of these must be true. The parents' biological or adoptive child:**
+**All of these must be true. The parent's biological or adoptive child:**
 - Passed away on or after October 7, 2001, **and**
 - Was a hostile casualty or died because of a training-related injury, **and**
 - Is buried in a VA national cemetery, in a gravesite with available space for burial of other family members in the future, **and**
@@ -132,7 +136,7 @@ A member of the Reserve Officers' Training Corps may be eligible if the meet any
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officer of the National Oceanic and Atmospheric Administration</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officer-noaa">Commissioned officers of the National Oceanic and Atmospheric Administration</button>
 <div id="commissioned-officer-noaa" class="usa-accordion-content">
   
 A commissioned officer of the National Oceanic and Atmospheric Administration may qualify if they meet at least one of the requirements listed below.
@@ -236,7 +240,7 @@ write “PL115-141” and the Certification of Naturalization Registration “A�
 </li>
 </ul>
 
-### Who's not eligible for burial in a VA national cemetery?
+### Factors that make certain Veterans, service members, and family members ineligible
 
 <ul class="usa-accordion">
 <li>
@@ -284,7 +288,7 @@ Veteran's aren't eligible if they were convicted of subversive activities after 
 </li>
 </ul>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+### Eligibility for Veterans with an honorable, bad conduct, or dishonorable discharge
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -293,9 +297,9 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
-### Can I be buried in Arlington National Cemetery? 
+### Eligibility for burial in Arlington National Cemetery
 
-We can't determine your eligibility for burial in Arlington National Cemetery because the United States Army maintains this cemetery. Please work with your funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
+We can't determine eligibility for burial in Arlington National Cemetery because the United States Army maintains this cemetery. Please work with a funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
 
 ------
 
