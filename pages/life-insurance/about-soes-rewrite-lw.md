@@ -116,11 +116,11 @@ If you don’t have access to a computer, you can make changes to your SGLI cove
 </button>
 <div id="beneficiary-claim" class="usa-accordion-content">
 <br>
-No. If you’re a beneficiary and want to make an SGLI benefits claim, please contact the Casualty Office.
+No. If you’re a beneficiary and want to make an SGLI benefits claim, please contact your Casualty Assistance Officer (CAO).
+<br>
+  
+<a href="https://www.benefits.va.gov/TAP/docs/mlc-survivor-casualty-assistance.pdf">Read more about VA survivor and casualty assistance.</a>
 
-
-</div>
-</li>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
