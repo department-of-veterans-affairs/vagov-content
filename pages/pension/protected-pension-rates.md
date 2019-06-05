@@ -15,7 +15,7 @@ relatedlinks:
       description: Find out if you're eligible for current Veterans pension benefits.
     - url: /pension/application/527EZ/introduction
       title: Apply for Veterans pension benefits
-      description: Apply for a Veterans pension. 
+      description: Apply for a Veterans pension online. 
     - url: /pension/survivors-pension/
       title: VA Survivors Pension
       description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
