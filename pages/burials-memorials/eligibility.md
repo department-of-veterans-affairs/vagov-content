@@ -247,7 +247,7 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
   
 ### Certain family members
 
-**These family members aren't eligible:**
+These family members aren't eligible:
 - Former spouses of an eligible Veteran or service member whose marriage to that individual ended by annulment or divorce
 - Family members of Veterans convicted of subversive activities (unless the Veteran receives a pardon from the President of the United States)
 - Other family members who don't meet the eligibility requirements
@@ -260,17 +260,17 @@ Individuals aren't eligible if they were ordered to report to an induction stati
 
 #### With a certain character of discharge
 
-**Veterans aren't eligible if they:**
+Veterans aren't eligible if they:
 - Separated from the Armed Forces under dishonorable conditions, **or** 
 - Have a character of service that disqualifies them
 
-**A VA regional office determines eligibility in cases where the Veteran has:**
+A VA regional office determines eligibility in cases where the Veteran has:
 - An undesirable, bad conduct, and any other type of discharge other than honorable, **or**
 - Multiple discharges of varying character
 
 #### Found guilty of a capital crime
   
-**Veterans aren't eligible if:**
+Veterans aren't eligible if:
  - They've been convicted of a federal or state capital crime and may receive a sentence of imprisonment for life or the death penalty—and the conviction is final, **or**
  - Clear and convincing evidence shows that they've have committed a federal or state capital crime, but they couldn't have a trial due to death or flight to avoid prosecution
 
@@ -282,9 +282,9 @@ Veterans aren't eligible if they were convicted of a Tier III sex offense and se
 
 These Veterans also don't qualify for a Presidential Memorial Certificate, burial flag, headstone, or marker.
 
-### Convicted of subversive activities
+#### Convicted of subversive activities
 
-A Veterans aren't eligible if they were convicted of subversive activities after September 1, 1959, unless they've received a pardon from the President of the United States. 
+Veterans aren't eligible if they were convicted of subversive activities after September 1, 1959, unless they've received a pardon from the President of the United States. 
 
 </div>
 </li>
