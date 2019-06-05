@@ -44,12 +44,6 @@ Any Veteran who was not dishonorably discharged and meets any of the requirement
 
 </div>
 
-## What materials are headstones and markers made from?
-
-- **Upright headstones** are made from granite and marble 
-- **Flat markers** are made from granite, marble, and bronze 
-- **Niche markers** are made from bronze 
-
 ## Can I apply for one of these memorial items?
 
 You can apply for one of these memorial items if you're representing the Veteran in any of the below relationships or professional roles.
@@ -116,6 +110,14 @@ If more than 60 days have passed since you filed your claim and the grave still 
 ## What if there's a mistake with the headstone inscription?
 
 Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
+
+## Can I choose the type of headstone or marker?
+
+You'll choose the material you'd like for the headstone or marker.
+
+- **Upright headstones:** granite or marble 
+- **Flat markers:** granite, marble, or bronze 
+- **Niche markers:** bronze 
 
 ## What do I need to know about burial in a private cemetery?
 
