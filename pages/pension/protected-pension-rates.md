@@ -60,7 +60,7 @@ View rates for disability and death pension programs that were available <b>from
 
 If you're receiving a Section 306 disability pension **and you're married**, the income of your spouse may affect your pension. Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>. 
 <br> 
-This means that any amount of income above $4,916 made by your spouse will be included as part of your yearly income when we determine your Section 306 disability pension rate. For example, if your spouse made $5,916.00 and you made $5,000.00, your income for VA purposes (IVAP) is $6,000.00. 
+This means that any amount of income above $4,916 made by your spouse will be included as part of your yearly income. For example, if your spouse made $5,916.00 last year and you made $5,000.00, your income for VA purposes (IVAP) is $6,000.00. 
 <br>
 [Read more about spouse income exclusion under 38 CFR 3.262(b)(2)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
 
