@@ -18,15 +18,15 @@ Find out how to apply for a headstone, grave marker, or medallion to honor a Vet
 
 <div class="feature">
 
-### Who can be honored with a Veterans headstone, grave marker, or niche cover?
+### Who can be honored with a Veterans headstone, grave marker, or medallion?
 
 Any Veteran who was not dishonorably discharged and meets any of the requirements below may be eligible for a headstone, grave marker, or niche cover.
 
 **At least one of these must be true. The Veteran:**
 
-- Died on or after November 1, 1990, **or**
-- Was buried in an unmarked grave and served before September 7, 1980, **or**
-- Was buried in an unmarked grave and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
+- Died on or after November 1, 1990, and their grave is currently marked with a privately purchased headstone, **or**
+- Was buried in an unmarked grave, anywhere in the world, and served before September 7, 1980, **or**
+- Was buried in an unmarked grave, anywhere in the world, and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
 
 **Note:** An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may also be able to get these memorial items. Spouses and family members buried in a private cemetery aren't eligible.
 
@@ -43,6 +43,12 @@ Any Veteran who was not dishonorably discharged and meets any of the requirement
 - Is buried in a privately marked grave
 
 </div>
+
+## What materials are headstones and markers made from?
+
+- **Upright headstones** are made from granite and marble 
+- **Flat markers** are made from granite, marble, and bronze 
+- **Niche markers** are made from bronze 
 
 ## Can I apply for one of these memorial items?
 
