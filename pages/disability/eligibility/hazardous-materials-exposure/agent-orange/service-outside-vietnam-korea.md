@@ -11,7 +11,7 @@ order: 8
 
 <div class="va-introtext">
 
-You may have had contact with Agent Orange even if you did not serve in Vietnam or in the Korean Demilitarized Zone. Agent Orange is a toxic chemical used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
+You may have had contact with Agent Orange even if you did not serve in Vietnam or in the Korean Demilitarized Zone. Agent Orange is an herbicide used to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
 
 </div>
 
@@ -51,7 +51,7 @@ You’ll need to file a claim for disability compensation. When you file, you’
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 **Exception:**<br>
-If you’re a "blue water" Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
+If you’re a Blue Water Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
 [Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
 ## What if I need help filing my claim?
