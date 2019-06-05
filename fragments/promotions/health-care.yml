@@ -1,9 +1,7 @@
 img:
   src: https://www.va.gov/img/hub-illustrations/health-care.png
-  alt: VA Telehealth Services
+  alt: MISSION Act and VA health care
 link:
-  text: VA Telehealth Services
-  href: https://www.telehealth.va.gov/
-description: Find out how we use telehealth technologies to provide specialty
-  care and health monitoring to Veterans at their local VA clinic or in their
-  own home.
+  text: MISSION Act and VA health care
+  href: https://www.missionact.va.gov/
+description: Learn how we’re making it easier for you to get health care through VA facilities, mobile health clinics, virtual telehealth, and community care providers.
