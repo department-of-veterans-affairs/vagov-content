@@ -64,6 +64,7 @@ It's important to make sure your life insurance beneficiary information is up to
   <ol class="process">
     <li class="process-step list-one"><h4>Complete an SGLI Election and Certificate form </h4><br> <a href="https://www.benefits.va.gov/INSURANCE/forms/8286.htmServicemembers’ Group Life Insurance Election and Certificate">Fill out an SGLI Election and Certificate form (VA form SGLV 8286).</a></li>
     <li class="process-step list-two"><h4>Submit your form</h4> <br> Submit your completed form to your branch of service personnel office</li>
+  </ol>
  
   
   **Note:** You can name someone as your SGLI beneficiary without their permission. But if you have a spouse, they will be notified by VA if you name a beneficiary that isn’t them.
