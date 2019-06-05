@@ -3,13 +3,13 @@ layout: page-breadcrumbs.html
 title: Agent Orange Exposure From C-123 Aircraft
 heading: Agent Orange exposure from C-123 aircraft
 display_title: C-123 aircraft
-description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this toxic chemical.
+description: If you flew on, or worked with, C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with this herbicide.
 template: detail-page
 order: 4
 ---
 <div class="va-introtext">
 
-If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. The U.S. military used this toxic chemical to clear trees and plants during the Vietnam War. C-123 aircraft sprayed Agent Orange during the war, and the planes still had traces of the chemical in them afterward while they were being used, up until 1986. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
+If you flew on—or worked with—C-123 aircraft in Vietnam or other locations, you may have had contact with Agent Orange. The U.S. military used this herbicide to clear trees and plants during the Vietnam War. C-123 aircraft sprayed Agent Orange during the war, and the planes still had traces of the chemical in them afterward while they were being used, up until 1986. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
 
 </div>
 
