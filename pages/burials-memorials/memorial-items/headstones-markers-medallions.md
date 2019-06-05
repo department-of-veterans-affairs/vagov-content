@@ -87,6 +87,7 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
 [Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/wp-content/uploads/Best-Practices-Final.pdf)
 
 ## What information goes on the headstone or marker and who provides it?
 
@@ -126,6 +127,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee). And you'll need to make arrangements yourself to have the headstone or marker placed. 
 - If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
 [Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
+- If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at 1-800-697-6947 to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.
 - If more than 60 days have passed since you filed your claim and the grave still isn't marked, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at 1-800-697-6947. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.<br>
 
 [Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp)
