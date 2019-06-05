@@ -1,113 +1,76 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 
-heading: Veteran Health Identification Card (VHIC)
-display_title: About VHICs
-description: 
+title: Request a Veteran Health Identification Card (VHIC)
+heading: Request a Veteran Health Identification Card (VHIC)
+display_title: Request a health ID card
+description: Learn how to request your Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past. 
+keywords: vhic, veteran health identification card
 concurrence: 
 spoke: Get Benefits
 order: 6 
 relatedlinks:
   - heading: More information and resources
-    links:
-    - url: /records/get-veteran-id-cards/
-      title: Other Veteran ID cards
-      description: Learn about the other types of identification cards you can get to show you’re a Veteran.
-    - url: /health-care/
-      title: Get VA health care
-      description: Learn how to apply for VA health care benefits, manage your appointments and benefits, and more.
+    links:      
+      url: /health-care/after-you-apply/
+      title: After you apply for health care benefits
+      description: Find out when to expect your VA health care welcome letter—and what to do next.
+      url: /health-care/refill-track-prescriptions/
+      title: Refill and track your VA prescriptions
+      description: Order a prescription refill and track your shipment online.
+      url: /health-care/secure-messaging/
+      title: Use VA Secure Messaging
+      description: Communicate privately with your VA health care team through Secure Messaging.
+      url: /health-care/schedule-view-va-appointments/
+      title: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
+      description: 
+      url: /records/get-veteran-id-cards/
+      title: Types of Veteran ID Cards
+      description: If you're not enrolled in VA health care, learn about other types of ID cards you can get to show you're a Veteran.
 ---
 
 <div class="va-introtext">
   
-If you’re signed up for the VA health care system, you’ll get a Veteran Health Identification 
-Card (VHIC). You’ll use it for identification and to check in for your health care appointments. 
-You may also use this card to get discounts offered to Veterans at many stores, businesses, 
-and restaurants. If you have a VHIC, you don’t need another type of photo ID card to prove you’re a Veteran.
+Learn how to request a Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past.
 
 </div>
 
-## How do I get this VA health ID card?
+## What's a Veteran Health Identification Card (VHIC), and how will I use it?
 
-Veterans must first be signed up for the VA health care system to receive a VHIC. There are three ways to sign up:
+When you’re enrolled in VA health care, you'll use your Veteran Health Identification Card (VHIC) to check in to your appointments at VA medical centers. This secure ID card keeps your personal information safe while giving us the information we need to easily access your VA health record.
 
-**By phone**
+You may also use this card to get discounts offered to Veterans at many stores, businesses, and restaurants. If you have a VHIC, you don’t need to request another type of photo ID card to prove you’re a Veteran or to get retail or business discounts.
 
-You can call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through 
-Friday, 8:00 a.m. to 8:00 p.m. ET. 
+**Note:** You can't use your VHIC as a credit card or insurance card. It also doesn't authorize or pay for care at non-VA health facilities.
 
-**Online** 
+## How do I get my VHIC?
 
-You can apply [online](/health-care/how-to-apply/).
+First, you'll need to be enrolled in VA health care to receive your VHIC.
+If you're not already enrolled, [find out how to apply for VA health care](/health-care/how-to-apply/).
 
-**In person** 
+After we verify your enrollment, you can go to your nearest VA medical center to request your VHIC and get your picture taken for your card. You'll need to show a current form of primary identification at this time.
 
-You can apply at your local VA medical center.
+**Please bring your current, unexpired:**
 
-After we verify that you're signed up, we’ll take your picture at your local VA medical center. 
-You’ll also need to provide one form of identification when you apply. After this step, 
-we’ll mail you your VHIC identification card.
+- State-issued driver’s license, **or**
+- U.S. passport or passport card, **or**
+- Other government ID issued by a federal, state, or local government agency <br> **Note:** This ID must show your picture and date of birth. If it doesn't also show your address, you'll need to bring another document to confirm your address. This may include your electric bill, cable bill, 
+or voter registration card, or another mailed document.
 
-## What kind of ID do I need when I apply for a VHIC?
+## How and when will I get my VHIC?
 
-You’ll need to bring one of these types of identification:
+After we take your picture, we'll process your VHIC and send it to you by mail. You should receive it within  10 days. 
 
-- A current primary identification card
-- A state-issued driver’s license
-- A U.S. passport or passport card
-- Another government ID card. This ID can be issued by federal, state, or local government agencies, 
-as long as it contains your picture, your date of birth, and your address. 
+**If it's been 10 days since you've had your picture taken and you haven’t received your card**, please call the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 
-If this government ID card doesn't contain your address, you can provide another document 
-to prove your address. Acceptable documents include your electric bill, your cable bill, or 
-your voter registration card.
+## What should I do if my VHIC is lost or stolen?
 
-## What do I do if I haven’t received my VHIC yet?
+Contact the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken to ask for a new card. Or call us at <a href="tel:+18772228387">877-222-8387</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 
-Once you have your picture taken, you should receive your VHIC card in 10 days. 
-If you haven’t received it, you can call your local VA medical facility, or call 
-877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
+**Note:** You’ll need to bring your driver's license, passport, or other government ID again when you go to get a replacement card.
 
-## What do I do with my old Veterans Identification Card (VIC)?
+## What should I do with my old Veterans identification card?
 
-We want all Veterans who are signed up for the VA health care system to have the VHIC, which 
-is more secure and protects your personal information. If you have the old VIC, 
-you should destroy it by cutting it up or shredding it.
+Please destroy it by cutting it up or shredding it. We want all Veterans who are enrolled in VA health care to have the new VHIC. This new card offers even more security to protect your personal information.
 
-## What are the advantages of using a VHIC?
-
-A VHIC is a more secure ID card. A VHIC gives you:
-
-- **Increased security for your personal information.** No personal information is on the magnetic strip or bar code.
-- **Easy access to your unique member identifier.** The Department of Defense assigns you a unique member identifier, 
-also called an electronic data interchange personal identifier or EDIPI. This identifier allows us to easily 
-find your health record.
-- **Accessibility features.** The letters “VA” are inscribed in Braille to help visually impaired Veterans 
-recognize and use the card.
-- **Protection against counterfeiting and identity theft.** Microtext helps prevent reproductions.
-- **A salute to your military service.** The card shows the emblem of your latest branch of service, 
-as well as some special awards if they apply.
-
-## What do I do if my VHIC is lost or stolen?
-If your VHIC is lost or stolen, contact the VA medical facility where your picture 
-was taken to ask for a new card. You may also call 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>). You’ll need to
-provide identification information again.
-
-## What do I do if I still have questions?
-
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
-
-## Interested in another type of VA ID card?
-
-There are other types of identification cards you can get to show you’re a Veteran. 
-See the types of [Veteran ID cards](/records/get-veteran-id-cards/).
-
-## Learn how to get VA health care
-
-Apply for VA health care benefits, manage your appointments and benefits, and more. 
-Learn about [VA health benefits](/health-care/).
-
-## Need help understanding your benefits or accessing services?
-
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+It also offers other helpful new features. These include "VA" printed in braille to help Veterans with low vision to quickly recognize the card as well as a display of your latest branch of service emblem and a list of special awards you may have received.
