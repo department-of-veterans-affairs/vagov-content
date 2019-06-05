@@ -1,12 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Undergraduate and Graduate Degrees
+title: Undergraduate and graduate degrees
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 1
-aliases:
-  - /education/gi-bill/higher-learning/
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
@@ -36,7 +34,7 @@ We decide your payment amounts based on the number of classes you go to and the 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How much does VA cover for graduate-level programs?</h3>
+<h2 itemprop="name">How much does VA cover for graduate-level programs?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -48,7 +46,7 @@ The school decides how to rate each hour. For example, if a graduate program at 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Can I take classes at more than one school at a time?</h3>
+<h2 itemprop="name">Can I take classes at more than one school at a time?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -65,7 +63,7 @@ You can take classes at more than one school under the GI Bill as long as:
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Can I use the GI Bill to pay for classes toward more than one degree?</h3>
+<h2 itemprop="name">Can I use the GI Bill to pay for classes toward more than one degree?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -77,7 +75,7 @@ Yes. After earning your first degree, you can use any GI Bill benefits you have 
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">How does VA make the payments?</h3>
+<h2 itemprop="name">How does VA make the payments?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 

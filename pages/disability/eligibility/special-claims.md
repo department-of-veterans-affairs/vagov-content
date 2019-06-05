@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Special Claims
+heading: Special claims
 description: If you're a Veteran living with a service-connected disability, find out if you can get special compensation for help with certain needs. These may be things like buying a specially equipped vehicle, replacing clothing damaged by a prosthetic, or getting extra pay while recovering from surgery.
 concurrence: complete
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -11,31 +12,29 @@ majorlinks:
   - heading:
     links:
     - url: /disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/
-      title: Automobile Allowance and Adaptive Equipment
+      title: Automobile allowance and adaptive equipment
       description: If your service-connected disability prevents you from driving, find out if you can get money to help buy a specially equipped vehicle or make needed changes to your existing vehicle.
     - url: /disability/eligibility/special-claims/clothing-allowance/
-      title: Replacing Damaged Clothing
+      title: Replacing damaged clothing
       description: If your clothing’s been damaged by your prosthetic or orthopedic device—or by medicine you’re taking for a skin condition—find out if you can get money to help buy new clothes.
     - url: /disability/eligibility/special-claims/temporary-increase-after-surgery-or-cast/
-      title: Recovery from Surgery or an Immobilizing Disability (Convalescence)
+      title: Recovery from surgery or an immobilizing disability (convalescence)
       description: If you’re recovering from surgery or other treatment that’s left you unable to move, find out if you can get temporary disability payments or other benefits. 
     - url: /disability/eligibility/special-claims/dental-care/
-      title: Dental Care
+      title: Dental care
       description: If you’re a Veteran, find out if you can get dental care through VA.
     - url: /disability/eligibility/special-claims/temporary-increase-for-time-in-hospital/
-      title: Time Spent in a Hospital
+      title: Time spent in a hospital
       description: If you spent time in a VA or VA-approved hospital for a service-connected disability, find out if you can get benefits like disability payments for that time.
     - url: /disability/eligibility/special-claims/unemployability/
-      title: Being Unable to Work (Individual Unemployability)
+      title: Being unable to work (Individual Unemployability)
       description: If you can’t work because of your service-connected disability, find out if you can get increased disability payments.
     - url: /disability/eligibility/special-claims/1151-claims-title-38/
-      title: Title 38 U.S.C. 1151 Disabilities
+      title: Title 38 U.S.C. 1151 disabilities
       description: If you suffered an added disability while getting VA medical care or taking part in a VA program designed to help you find, get, or keep a job, find out if you can get disability payments.
     - url: /disability/eligibility/special-claims/temporary-rating-prestabilization/
-      title: Immediate Help for Temporary Disability Needs (Prestabilization)
+      title: Immediate help for temporary disability needs (prestabilization)
       description: If you recently ended your active military service and you have a service-connected disability, find out if you can get temporary disability payments or other benefits right away.
-aliases:
-  - /disability-benefits/conditions/special-claims/
 ---
 
 <div class="va-introtext">
