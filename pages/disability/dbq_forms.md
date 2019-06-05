@@ -1,5 +1,5 @@
 ---
-title: DBQ Forms
+title: DBQ forms
 href: https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp
 order: 5
 spoke: More resources

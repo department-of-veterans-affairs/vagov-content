@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure from Testing and Storage Areas outside Vietnam
-display_title: Testing and Storage
+title: Agent Orange Exposure From Testing And Storage Areas Outside Vietnam
+heading: Agent Orange exposure from testing and storage areas outside Vietnam
+display_title: Testing and storage
 description: If you were part of testing or storing Agent Orange on military bases in the U.S. or elsewhere, you may have been exposed to this toxic chemical. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with Agent Orange.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -22,10 +23,10 @@ Were you part of testing or storing Agent Orange on bases in the United States o
 You may be able to get disability benefits if you meet both of the requirements listed below.
 
 **Both of these must be true:**
-- You have 1 or more illnesses believed to be caused by Agent Orange, **and**
+- You have one or more illnesses believed to be caused by Agent Orange, **and**
 - You were part of testing or storing Agent Orange during your military service
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 ### Who’s covered?
 
@@ -34,7 +35,7 @@ You may be able to get disability benefits if you meet both of the requirements 
 </div>
 
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -42,22 +43,22 @@ You may be able to get disability benefits if you meet both of the requirements 
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military and that you have an illness believed to be caused by Agent Orange. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-### What if I need help?
+## What if I need help?
 
 See these comprehensive lists for dates and locations of herbicide tests and storage:<br>
 [In the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/usa.asp)<br>
 [Outside the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/outside-vietnam.asp)
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 
-### Get more information
+## Get more information
 
 Want to figure out where you may have come into contact with Agent Orange? See all the dates and locations of herbicide tests and storage:
 - [In the U.S.](https://www.publichealth.va.gov/exposures/agentorange/locations/tests-storage/usa.asp)
