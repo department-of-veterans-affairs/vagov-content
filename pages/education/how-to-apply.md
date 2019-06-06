@@ -50,8 +50,6 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 [Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
 [Learn more about Educational and Career Counseling](/careers-employment/education-and-career-counseling/)
 
-<div markdown="0"><br></div>
-
 ## What documents and information do I need to apply?
 
 - Social Security number
