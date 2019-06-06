@@ -238,7 +238,7 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 </li>
 </ul>
 
-### Groups who are not eligible
+### Individuals who are not eligible
 
 <ul class="usa-accordion">
 <li>
