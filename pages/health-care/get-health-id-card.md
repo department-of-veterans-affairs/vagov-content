@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Veteran Health Identification Card (VHIC)
-heading: Request a Veteran Health Identification Card (VHIC)
-display_title: Request a health ID card
-description: Learn how to request your Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past. 
+title: Get a Veteran Health Identification Card (VHIC)
+heading: Get a Veteran Health Identification Card (VHIC)
+display_title: Get a health ID card
+description: Learn how to get your Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past. 
 keywords: vhic, veteran health identification card
 concurrence: 
 spoke: Get benefits
@@ -31,7 +31,7 @@ relatedlinks:
 
 <div class="va-introtext">
   
-Learn how to request a Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past.
+Learn how to get a Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past.
 
 </div>
 
@@ -43,12 +43,16 @@ You may also use this card to get discounts offered to Veterans at many stores, 
 
 **Note:** You can't use your VHIC as a credit card or insurance card. It also doesn't authorize or pay for care at non-VA health facilities.
 
-## How do I request my VHIC?
+## How do I get my VHIC?
 
 First, you'll need to be enrolled in VA health care. 
 If you're not already enrolled, [find out how to apply for VA health care](/health-care/how-to-apply/).
 
-After we verify your enrollment, you can go to your nearest VA medical center to request your VHIC and get your picture taken for your card. You'll need to show a current form of primary identification at this time.
+### After you've received your VA health care welcome call
+
+Contact your nearest [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) and speak with the enrollment coordinator. Ask the coordinator to help you arrange to have your picture taken for your new Veteran Health Identification Card. Or, you can request your VHIC at your next VA health care appointment.
+
+When you get your picture taken, you'll need to show a current form of primary identification.
 
 **Please bring your current, unexpired:**
 
