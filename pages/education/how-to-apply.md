@@ -52,7 +52,7 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 
 <div markdown="0"><br></div>
 
-### What documents and information do I need to apply?
+## What documents and information do I need to apply?
 
 - Social Security number
 - Bank account direct deposit information
