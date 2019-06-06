@@ -123,18 +123,16 @@ Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where t
 
 ## What do I need to know about burial in a private cemetery?
 
-You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. 
+You may have additional costs, restrictions on the type of headstone or marker you can use, and other requirements you should know about when preparing for burial in a private cemetery. <br>
+[Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp)
+
 - You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee). And you'll need to make arrangements yourself to have the headstone or marker placed. 
 - If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
 [Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
 - If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at 1-800-697-6947 to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.
 - If more than 60 days have passed since you filed your claim and the grave still isn't marked, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at 1-800-697-6947. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.<br>
-
-[Find out what to ask when planning a burial in a private cemetery](https://www.cem.va.gov/cem/burial_benefits/private_cemetery.asp)
-
-If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
+- If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
-
 
 ## How do I make special arrangements for a memorial headstone or marker?
 
