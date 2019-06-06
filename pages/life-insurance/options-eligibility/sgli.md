@@ -102,15 +102,15 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
   Check your coverage and beneficiary information and make any needed updates.
 
- 
+</li>
+</ol>
+
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
 **If you’re a member of the Public Health Service,** please submit your changes by filling out the Servicemembers' Group Life Insurance Election and Certificate (SGLV 8286) and giving it to your unit's personnel officer. <br>
 [Download SGLV 8286 (PDF)](https://www.benefits.va.gov/insurance/forms/SGLV_8286_ed2017-10.pdf)<br>
 [Learn more about SOES](https://www.benefits.va.gov/INSURANCE/SOES.asp)
 
-</li>
-</ol>
 
 ### How much will I pay for these benefits?
 
