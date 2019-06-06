@@ -22,8 +22,8 @@ relatedlinks:
       title: Use VA Secure Messaging
       description: Communicate privately with your VA health care team through Secure Messaging.
       url: /health-care/schedule-view-va-appointments/
-      title: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
-      description: 
+      title: Schedule and view VA appointments online
+      description: Find out how to schedule an appointment by phone, online, or through Secure Messaging.
       url: /records/get-veteran-id-cards/
       title: Types of Veteran ID Cards
       description: If you're not enrolled in VA health care, learn about other types of ID cards you can get to show you're a Veteran.
