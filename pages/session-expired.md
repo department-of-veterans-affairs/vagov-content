@@ -8,7 +8,7 @@ layout: page.html
   <div class="section main-menu">
     <div class="row vads-u-padding-y--5">
       <div class="usa-content small-12 columns">
-        <h1>Your session expired</h1>
+        <h1>We've signed you out of VA.gov</h1>
         <div class="usa-alert usa-alert-error">
           <div class="usa-alert-body">
             <div class="usa-alert-text">
