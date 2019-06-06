@@ -39,13 +39,13 @@ Different programs cover Veterans (VGLI), service members (SGLI), and family mem
 SGLI provides group life insurance to eligible service members. [Find out if you're eligible](/life-insurance/options-eligibility/sgli/)
 
 ### Family Servicemembers’ Group Life Insurance (FSGLI)
-If you're covered under SGLI, you can get coverage for your spouse and dependent children. [Find out if you're eligible](/life-insurance/options-eligibility/fsgli/)
+If you're covered under SGLI, you can get coverage for your spouse and dependent children.<br> [Find out if you're eligible](/life-insurance/options-eligibility/fsgli/)
 
 ### Traumatic Injury Protection (TSGLI)
-You can get short-term financial support if you're recovering from a traumatic injury. [Find out if you're eligible](/life-insurance/options-eligibility/tsgli/)
+You can get short-term financial support if you're recovering from a traumatic injury. <br>[Find out if you're eligible](/life-insurance/options-eligibility/tsgli/)
 
 ### Veterans’ Group Life Insurance (VGLI)
-This programs lets you continue to get group life insurance once you've left the service. [Find out if you're eligible](/life-insurance/options-eligibility/vgli/)
+This programs lets you continue to get group life insurance once you've left the service. <br>[Find out if you're eligible](/life-insurance/options-eligibility/vgli/)
 
 ### Service-Disabled Veterans Insurance (S-DVI)
 If you’re disabled because of an injury or illness caused—or made worse—by your active service, you can get S-DVI for 2 years after you leave the military. [Find out if you're eligible](/life-insurance/options-eligibility/s-dvi/)
