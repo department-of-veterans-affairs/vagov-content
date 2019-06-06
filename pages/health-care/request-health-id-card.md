@@ -7,7 +7,7 @@ display_title: Request a health ID card
 description: Learn how to request your Veteran Health Identification Card (VHIC), what to do if your card is lost or stolen, and what to do with any old ID cards you may have used for VA health care in the past. 
 keywords: vhic, veteran health identification card
 concurrence: 
-spoke: Get Benefits
+spoke: Get benefits
 order: 6 
 relatedlinks:
   - heading: More information and resources
