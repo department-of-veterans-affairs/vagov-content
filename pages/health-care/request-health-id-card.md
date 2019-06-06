@@ -43,9 +43,9 @@ You may also use this card to get discounts offered to Veterans at many stores, 
 
 **Note:** You can't use your VHIC as a credit card or insurance card. It also doesn't authorize or pay for care at non-VA health facilities.
 
-## How do I get my VHIC?
+## How do I request my VHIC?
 
-First, you'll need to be enrolled in VA health care to receive your VHIC.
+First, you'll need to be enrolled in VA health care. 
 If you're not already enrolled, [find out how to apply for VA health care](/health-care/how-to-apply/).
 
 After we verify your enrollment, you can go to your nearest VA medical center to request your VHIC and get your picture taken for your card. You'll need to show a current form of primary identification at this time.
@@ -57,11 +57,11 @@ After we verify your enrollment, you can go to your nearest VA medical center to
 - Other government ID issued by a federal, state, or local government agency <br> **Note:** This ID must show your picture and date of birth. If it doesn't also show your address, you'll need to bring another document to confirm your address. This may include your electric bill, cable bill, 
 or voter registration card, or another mailed document.
 
-## How and when will I get my VHIC?
+After we take your picture, we'll process your VHIC and send it to you by mail. You should receive your card within  10 days.
 
-After we take your picture, we'll process your VHIC and send it to you by mail. You should receive it within  10 days. 
+## What should I do if I don't receive my VHIC in the mail? 
 
-**If it's been 10 days since you've had your picture taken and you haven’t received your card**, please call the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+If it's been more than 10 days since you've had your picture taken and you haven’t received your card, please call the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
 
 ## What should I do if my VHIC is lost or stolen?
 
