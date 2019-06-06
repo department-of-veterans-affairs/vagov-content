@@ -22,17 +22,13 @@ If you’re an active-duty service member or Veteran, a member of the National G
 
 </div>
 
-<div class="feature" markdown="1" itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get VA education benefits through the Post-9/11 GI Bill?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+## Post-9/11 GI Bill
+
+### Can I get VA education benefits through the Post-9/11 GI Bill?
 
 You may be able to get benefits through the Post-9/11 GI Bill if you've served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001. <br>
 [Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 <br>
-
-</div>
-</div>
 
 </div><div markdown="0"><br></div>
 
