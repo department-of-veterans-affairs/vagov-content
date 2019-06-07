@@ -2,9 +2,10 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: VA Dental Insurance Program (VADIP)
-heading: VA Dental Insurance (VADIP)
-display_title: 
-description: 
+heading: VA Dental Insurance Program (VADIP)
+display_title: VA Dental Insurance Program
+description: The VA Dental Insurance Program (VADIP) offers discounted private dental insurance for Veterans and family members who meet certain requirements. Find out if you're eligible and how to enroll in a plan that meets your needs.
+keywords: va dental insurance, dental insurance for veterans
 concurrence: 
 spoke: Get Benefits
 order:  
@@ -12,19 +13,17 @@ order:
 
 <div class="va-introtext">
   
-Find out if you're eligible to buy dental insurance for Veterans and families through the VA Dental Insurance Program (VADIP).
+The VA Dental Insurance Program (VADIP) offers discounted private dental insurance for Veterans and family members who meet certain requirements. Find out if you're eligible and how to enroll in a plan that meets your needs.
 
 </div>
 
-## What's the VA dental insurance program?
+## What are the benefits of the VA Dental Insurance Program?
 
-The VA Dental Insurance Program helps certain Veterans and dependent or surviving family members to buy dental insurance at a reduced cost. We offer plans through 2 different insurance carries: Delta Dental of California and MetLife. 
-
-We offer this program to give Veterans and their families access to good oral health care, even if they're not eligible for VA dental care. 
+While some Veterans enrolled in VA health care are eligible for free dental care from our providers, many are not. VADIP helps these Veterans, as well as eligible family members, to buy dental insurance at a reduced cost.
 
 <div class="va-feature">
 
-### Am I eligible for the VA dental insurance program?
+### Am I eligible for the VA Dental Insurance Program?
 
 You may be eligible for VADIP if either of the below descriptions are true for you.
 
@@ -37,58 +36,53 @@ VADIP provides coverage throughout the United States and its territories, includ
 
 </div>
 
-## About VA Dental Insurance Program benefits
+## About VA Dental Insurance Program benefits and how to enroll
 
-### What dental services does VADIP cover?
+### What types of dental care does VADIP cover, and how much will it cost?
 
-**VADIP covers many common dental procedures. These may include:**
+**VADIP plans cover many common dental procedures. These may include:**
 
 -	Diagnostic services
 -	Preventive dental care
--	Endodontic (issues with the soft tissue inside the tooth) and other restorative services
+-	Root canals and other services to manage oral health problems and restore function (called endodontic or restorative services)
 -	Dental surgery
 -	Emergency dental care
 
-Read coverage details and compare VADIP plans from:
-[Delta Dental](https://feds.deltadentalins.com/vadip/), **or**
+The costs for your coverage will depend on the insurance company and plan you choose.
+
+**Based on your plan, you'll pay:**
+- The full insurance premium for each individual on your plan
+- Any added copays when you get care
+
+**Read coverage details and compare VADIP plans and premium rates from:**
+[Delta Dental](https://feds.deltadentalins.com/vadip/)
 [MetLife](https://www.metlife.com/vadip/)
 
-For questions, call <a href="tel:+18553703303">855-370-3303</a>.
-
-
-
-For questions, call <a href="tel:+18883101681">888-310-1681</a>.
-
-
-### What will I pay for this dental insurance?
-
-You'll pay the entire insurance premium and any copays. 
-
-Find monthly premium rates and compare VADIP plans from:
-[Delta Dental](https://feds.deltadentalins.com/vadip/), **or**
-[MetLife](https://www.metlife.com/vadip/)
-
-### How do I sign up for VA dental insurance?
+### How do I sign up for the VA Dental Insurance Program?
 
 Once you've chosen a Delta Dental or MetLife VADIP plan, you can enroll online at:
 [Delta Dental](https://feds.deltadentalins.com/vadip/), **or**
 [MetLife](https://www.metlife.com/vadip/)
 
-## I signed up for the VADIP pilot program. Do I need to sign up again?
+After you enroll, you can also use your insurance provider's website to manage your plan and benefits online.
 
-Yes. The VADIP VA dental insurance pilot program ran from 2013 to 2017. 
+### I signed up for the VADIP pilot program. Do I need to sign up again?
+
+Yes. The VADIP pilot program ran from 2013 to 2017. 
 
 If you were covered during that time, you’ll need to sign up again to be covered by the new version 
 of the program. Some of the plan options and fees may have changed under the new plan.
-
 
 ### What if I'm also eligible for free VA dental care?
 
 You don't have to sign up for VADIP, but you can if you'd like more dental coverage. Signing up for VA dental insurance won’t affect your ability to get free VA dental care.
 
-## Need help understanding your benefits or accessing services?
+### Will I be able to keep this dental insurance throughout my life?
 
-Call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>), Monday through Friday, 
-8:00 a.m. to 8:00 p.m. ET.
+At this time, we're allowed by law to continue this program until December 31, 2021. Please check back for more information in the future.
 
+### What if I have more questions?
 
+For questions about Delta Dental, call <a href="tel:+18553703303">855-370-3303</a>.
+
+For questions about MetLife, call <a href="tel:+18883101681">888-310-1681</a>.
