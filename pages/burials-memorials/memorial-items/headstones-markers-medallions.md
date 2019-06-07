@@ -12,13 +12,15 @@ children: burialsHeadstoneMarkersMedallions
 
 <div class="va-introtext">
 
-Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran, service memeber, or eligible family member.
+Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran, service member, or eligible family member.
 
 </div>
 
 <div class="feature">
 
 ### Who can be honored with a Veterans headstone or marker?
+
+#### Veterans
 
 If they meet any of the requirements below, Veterans who weren't dishonorably discharged and members of the Armed Forces who die on active duty may be eligible for a headstone or marker.
 
@@ -28,7 +30,28 @@ If they meet any of the requirements below, Veterans who weren't dishonorably di
 - Was buried in an unmarked grave, anywhere in the world, and served before September 7, 1980, **or**
 - Was buried in an unmarked grave, anywhere in the world, and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
 
-**Note:** An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may also be able to get these memorial items. Spouses and family members buried in a private cemetery aren't eligible.
+**Note:** Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000, and died on or after March 23, 2018.
+
+#### Service members
+
+Service members may be eligible for a headstone or marker if they meet all of the requirements listed below.
+
+**All of these must be true. They:**
+
+- Served as an enlisted person after September 7, 1980, or as an officer after Oct. 16, 1981, **and**
+- Served for a minimum of 24 months of continuous active duty or died on active duty <br>
+**Note:** If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
+
+#### National Guard members or Reservists
+
+- Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+- Reservists and National Guard members are eligible if, at the time of death, they were entitled to retirement pay (or would have been entitled if they were over 60 years old).
+- Reservists are eligible if they were called to active duty other than training. 
+- National Guard members are eligible if they served in a federal status and for a specific period of time. 
+
+#### Spouses and other family members
+
+An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may be able to get a headstone or marker. Spouses and family members buried in a private cemetery aren't eligible.
 
 <br>
 
