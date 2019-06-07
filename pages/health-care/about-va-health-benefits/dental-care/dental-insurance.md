@@ -52,7 +52,7 @@ The costs for your coverage will depend on the insurance company and plan you ch
 
 **Based on your plan, you'll pay:**
 - The full insurance premium for each individual on your plan
-- Any added copays when you get care
+- Any required copays when you get care
 
 **Read coverage details and compare VADIP plans and premium rates from:**
 [Delta Dental](https://feds.deltadentalins.com/vadip/)
