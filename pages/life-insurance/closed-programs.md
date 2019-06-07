@@ -39,9 +39,18 @@ If you have a USGLI policy, you do not need to make any premium payments. All US
 
 The National Service Life Insurance (NSLI) program was created in 1940 to manage new policies issued during WWII. 
 
-The maximum USGLI policy amount is $10,000. If you have an active NSLI policy, you can buy additional insurance with the annual dividends you receive from your NSLI coverage. 
+The maximum USGLI policy amount is $10,000. If you have an active NSLI policy, you can buy additional insurance with the annual dividends you receive from your coverage. 
 
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive certain disability benefits. 
+
+#### NSLI term plan
+
+If you have an NSLI term plan--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your NSLI term plan premium will never increase after you turn 70 years old. 
+
+Effective September 11, 2000, if you have an NSLI term plan and your rate is already capped, you'll receive a payment ("termination dividend") if your policy lapses or  you cancel your coverage. Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
+
+[Learn more about PUA]
+
 
 ## Veterans Special Life Insurance (VSLI)
 
@@ -49,16 +58,33 @@ The Veterans Special Life Insurance (VSLI) was created in 1951 to manage new pol
 
 Effective January 1, 1959, VSLI policy holders could convert their VSLI policy to a permanent insurance plan or a limited convertible term policy.
 
-The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy additional insurance with the annual dividends you receive from your NSLI coverage. 
+The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy additional insurance with the annual dividends you receive from your coverage. 
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive certain disability benefits. 
 
-## Veterans’ Reopened Insurance
-In 1964, Congress enacted legislation which provided for a limited one year reopening of the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs.
+#### VSLI term plans
 
-Photo: Army Rangers aboard landing craft at Normandy, June 6,1944
-(Courtesy of Time Life Books, The American Story - World War II, courtesy Salmander Books, London
-From May 1,1965 until May 2, 1966, disabled veterans who had been eligible to obtain NSLI or VSLI between 1940 and 1956, could once again apply for Government life insurance. This coverage was available only to disabled veterans. Approximately 228,000 policies were issued. No term insurance policies were issued. Today there are still over 41,000 Veterans Reopened Insurance policies in force. Annual dividends are paid on these policies. The maximum face amount of a policy is $10,000. However, this limit does not include paid-up additional insurance which can be purchased with the dividends that are paid annually on these policies. Certain disability benefits are available under these policies for policyholders who become totally disabled before their 65thbirthday.
+If you have a VSLI term plan (sometimes called a VSLI "RS policy")--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. The age 70 rate for VSLI term plans is $69.73 per $1,000 of coverage.
+
+Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment ("termination dividend") if your policy lapses or  you cancel your coverage. Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
+
+
+## Veterans’ Reopened Insurance
+
+Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. 
+
+The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy opened during the Veterans Reopened Insurance period, you can buy additional insurance with the annual dividends you receive from your coverage. 
+
+If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive certain disability benefits. 
+
+## Paid Up Additional Insurance (PUA)
+
+If you have one of the life insurance policies listed on this page, you may receive an annual payment--or dividend--in some situations. If you receive a dividend on your life insurance policy, you can use a dividend to purchase more life insurance--also called "Paid Up Additional insurance" (PUA). Once you purchase PUA, it is fully paid for. This means PUA is fully paid for once it has been purchased, no further premium payments are required has no maximum limit, policyholders can continue to add PUA to their policy as long as they desire.
+
+
+
+
+
 
 
 
