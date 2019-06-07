@@ -44,10 +44,10 @@ Service members may be eligible for a headstone or marker if they meet all of th
 
 #### National Guard members or Reservists
 
-- Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
 - Reservists and National Guard members are eligible if, at the time of death, they were entitled to retirement pay (or would have been entitled if they were over 60 years old).
 - Reservists are eligible if they were called to active duty other than training. 
 - National Guard members are eligible if they served in a federal status and for a specific period of time. 
+- Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
 
 #### Spouses and other family members
 
@@ -152,8 +152,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee). And you'll need to make arrangements yourself to have the headstone or marker placed. 
 - If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
 [Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
-- If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at 1-800-697-6947 to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.
-- If more than 60 days have passed since you filed your claim and the grave still isn't marked, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at 1-800-697-6947. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET.<br>
+- If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. If you know we've received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at the above number.<br>
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
