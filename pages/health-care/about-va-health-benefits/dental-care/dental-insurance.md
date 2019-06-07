@@ -15,6 +15,8 @@ order:
   
 The VA Dental Insurance Program (VADIP) offers discounted private dental insurance for Veterans and family members who meet certain requirements. Find out if you're eligible, and how to enroll in a plan that meets your needs and budget.
 
+</div>
+
 <div class="feature" markdown="1">
 
 ### Am I eligible for the VA Dental Insurance Program?
@@ -24,7 +26,7 @@ You may be eligible for VADIP if either of the below descriptions are true for y
 **One of these must be true. You're:**
 
 - A Veteran who's enrolled in VA health care, **or**
-- The spouse or child, or surviving spouse or child, of a Veteran or service member and you're enrolled in the Civilian Health and Medical Program of the VA (CHAMPVA) <br> **Note:** Insurance carriers may offer separate coverage options for dependents who aren't CHAMPVA beneficiaries.
+- The current or surviving spouse or dependent child of a Veteran or service member, and you're enrolled in the Civilian Health and Medical Program of the VA (CHAMPVA) <br> **Note:** Insurance carriers may offer separate coverage options for dependents who aren't CHAMPVA beneficiaries.
 
 VADIP provides coverage throughout the United States and its territories, including Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
