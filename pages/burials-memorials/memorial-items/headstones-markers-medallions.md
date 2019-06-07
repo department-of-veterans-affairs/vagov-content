@@ -138,7 +138,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 
 We provide memorial headstones and markers for:
 - Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
-- Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran 
+- Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran <br>
 **Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
 
 The words engraved on the memorial item must begin, “IN MEMORY OF."
