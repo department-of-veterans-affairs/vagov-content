@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Family Servicemembers’ Group Life Insurance (FSGLI)
-display_title: Family Servicemembers’ Group (FSGLI)
+title: VA life insurance programs closed to new enrollees
+heading: VA life insurance programs closed to new enrollees
+display_title: VA life insurance programs closed to new enrollees
+description: 
+keywords: n/a
 concurrence:
 order: 2
 relatedlinks:
