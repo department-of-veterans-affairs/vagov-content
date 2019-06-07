@@ -59,12 +59,14 @@ The costs for your coverage will depend on the insurance company and plan you ch
 - Any required copays when you get care
 
 **Read coverage details and compare VADIP plans and premium rates from:**
+
 [Delta Dental](https://feds.deltadentalins.com/vadip/)<br>
 [MetLife](https://www.metlife.com/vadip/)
 
 ### How do I enroll in a VADIP plan?
 
 Once you've chosen a Delta Dental or MetLife VADIP plan, you can enroll online at:
+
 [Delta Dental](https://feds.deltadentalins.com/vadip/), **or** <br>
 [MetLife](https://www.metlife.com/vadip/)
 
