@@ -13,15 +13,9 @@ order:
 
 <div class="va-introtext">
   
-The VA Dental Insurance Program (VADIP) offers discounted private dental insurance for Veterans and family members who meet certain requirements. Find out if you're eligible and how to enroll in a plan that meets your needs.
+The VA Dental Insurance Program (VADIP) offers discounted private dental insurance for Veterans and family members who meet certain requirements. Find out if you're eligible, and how to enroll in a plan that meets your needs and budget.
 
-</div>
-
-## What are the benefits of the VA Dental Insurance Program?
-
-While some Veterans enrolled in VA health care are eligible for free dental care from our providers, many are not. VADIP helps these Veterans, as well as eligible family members, to buy dental insurance at a reduced cost.
-
-<div class="va-feature">
+<div class="feature" markdown="1">
 
 ### Am I eligible for the VA Dental Insurance Program?
 
@@ -30,13 +24,21 @@ You may be eligible for VADIP if either of the below descriptions are true for y
 **One of these must be true. You're:**
 
 - A Veteran who's enrolled in VA health care, **or**
-- The spouse or child, or surviving spouse or child, of a Veteran or service member and you're enrolled in the Civilian Health and Medical Program of the VA (CHAMPVA) <br> **Note:** Only dependents enrolled in CHAMPVA are eligible for VADIP. But the insurance carriers may offer dependents separate coverage options.
+- The spouse or child, or surviving spouse or child, of a Veteran or service member and you're enrolled in the Civilian Health and Medical Program of the VA (CHAMPVA) <br> **Note:** Insurance carriers may offer separate coverage options for dependents who aren't CHAMPVA beneficiaries.
 
 VADIP provides coverage throughout the United States and its territories, including Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 </div>
 
 ## About VA Dental Insurance Program benefits and how to enroll
+
+### Why might I want to buy private dental insurance through VADIP as a Veteran?
+
+While some Veterans enrolled in VA health care are eligible for free dental care from our providers, many are not. Others may be eligible for free care for some, but not all, of their dental needs.
+
+**If you're not eligible for free VA dental care,** VADIP can help you buy private dental insurance at a reduced cost.
+
+**If you're eligible for free VA care for some of your dental needs,** you can buy a VADIP plan if you want added dental insurance. Signing up for VADIP won’t affect your ability to get free VA dental care.
 
 ### What types of dental care does VADIP cover, and how much will it cost?
 
@@ -58,7 +60,7 @@ The costs for your coverage will depend on the insurance company and plan you ch
 [Delta Dental](https://feds.deltadentalins.com/vadip/)<br>
 [MetLife](https://www.metlife.com/vadip/)
 
-### How do I sign up for the VA Dental Insurance Program?
+### How do I enroll in a VADIP plan?
 
 Once you've chosen a Delta Dental or MetLife VADIP plan, you can enroll online at:
 [Delta Dental](https://feds.deltadentalins.com/vadip/), **or** <br>
@@ -66,18 +68,13 @@ Once you've chosen a Delta Dental or MetLife VADIP plan, you can enroll online a
 
 After you enroll, you can also use your insurance provider's website to manage your plan and benefits online.
 
-### I signed up for the VADIP pilot program. Do I need to sign up again?
+### I enrolled in the VADIP pilot program. Do I need to enroll again?
 
 Yes. The VADIP pilot program ran from 2013 to 2017. 
 
-If you were covered during that time, you’ll need to sign up again to be covered by the new version 
-of the program. Some of the plan options and fees may have changed under the new plan.
+If you were covered during that time, you’ll need to enroll again to get new coverage. You should know that some of the plan options and fees may have changed.
 
-### What if I'm also eligible for free VA dental care?
-
-You don't have to sign up for VADIP, but you can if you'd like more dental coverage. Signing up for VA dental insurance won’t affect your ability to get free VA dental care.
-
-### Will I be able to keep this dental insurance throughout my life?
+### How long can I keep this dental insurance?
 
 At this time, we're allowed by law to continue this program until December 31, 2021. Please check back for more information in the future.
 
