@@ -61,7 +61,7 @@ The costs for your coverage will depend on the insurance company and plan you ch
 ### How do I sign up for the VA Dental Insurance Program?
 
 Once you've chosen a Delta Dental or MetLife VADIP plan, you can enroll online at:
-[Delta Dental](https://feds.deltadentalins.com/vadip/), **or**
+[Delta Dental](https://feds.deltadentalins.com/vadip/), **or** <br>
 [MetLife](https://www.metlife.com/vadip/)
 
 After you enroll, you can also use your insurance provider's website to manage your plan and benefits online.
