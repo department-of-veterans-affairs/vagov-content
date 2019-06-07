@@ -210,8 +210,7 @@ A Philippine Armed Forces Veteran may be eligible if they meet the requirements 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hmong-veteran">Hmong Veterans</button>
 <div id="hmong-veteran" class="usa-accordion-content">
-  
-<span id="hmong-veteran"></span>
+
 A Hmong Veteran may be eligible if they meet all of the requirements listed below.
 
 **All of these must be true. The Hmong Veteran:**
