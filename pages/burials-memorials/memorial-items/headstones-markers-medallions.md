@@ -110,7 +110,7 @@ The next of kin or an authorized representative will need to provide the inscrip
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
-## When will the headstone, marker, or medallion I requested will arrive, and who will set it for me?
+## When will the headstone, marker, or medallion I requested arrive, and who will set it for me?
 
 For national or state cemeteries, please contact the cemetery directly to find out when the headstone or marker will arrive. <br>
 [Find a national, state, or tribal government Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
@@ -134,10 +134,13 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
-## How do I make special arrangements for a memorial headstone or marker?
+## Does VA provide a memorial headstone or marker if the remains are not available for burial?
 
-We provide memorial headstones and markers for eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered.
+We provide memorial headstones and markers for:
+- Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
+- Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran 
+**Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
 
-For Veterans, dependents, and Servicemembers who qualify for a memorial headstone or marker, the words engraved on the memorial item must begin, “IN MEMORY OF,” and the headstone or marker must be placed in a national cemetery, state Veterans cemetery, or military base cemetery.
+The words engraved on the memorial item must begin, “IN MEMORY OF."
 
-Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
+Get help applying for a headstone, marker, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
