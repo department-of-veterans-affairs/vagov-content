@@ -55,7 +55,7 @@ The costs for your coverage will depend on the insurance company and plan you ch
 - Any required copays when you get care
 
 **Read coverage details and compare VADIP plans and premium rates from:**
-[Delta Dental](https://feds.deltadentalins.com/vadip/)
+[Delta Dental](https://feds.deltadentalins.com/vadip/)<br>
 [MetLife](https://www.metlife.com/vadip/)
 
 ### How do I sign up for the VA Dental Insurance Program?
