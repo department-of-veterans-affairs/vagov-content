@@ -12,15 +12,15 @@ children: burialsHeadstoneMarkersMedallions
 
 <div class="va-introtext">
 
-Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran or eligible family member.
+Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran, service memeber, or eligible family member.
 
 </div>
 
 <div class="feature">
 
-### Who can be honored with a Veterans headstone, grave marker, or medallion?
+### Who can be honored with a Veterans headstone or marker?
 
-Any Veteran who was not dishonorably discharged and meets any of the requirements below may be eligible for a headstone, grave marker, or niche cover.
+If they meet any of the requirements below, Veterans who weren't dishonorably discharged and members of the Armed Forces who die on active duty may be eligible for a headstone or marker.
 
 **At least one of these must be true. The Veteran:**
 
@@ -134,7 +134,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
-## Does VA provide a memorial headstone or marker if the remains are not available for burial?
+## Does VA provide a memorial headstone or marker if remains are not available for burial?
 
 We provide memorial headstones and markers for:
 - Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
