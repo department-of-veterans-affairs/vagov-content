@@ -53,5 +53,13 @@ The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, yo
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive certain disability benefits. 
 
+## Veterans’ Reopened Insurance
+In 1964, Congress enacted legislation which provided for a limited one year reopening of the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs.
+
+Photo: Army Rangers aboard landing craft at Normandy, June 6,1944
+(Courtesy of Time Life Books, The American Story - World War II, courtesy Salmander Books, London
+From May 1,1965 until May 2, 1966, disabled veterans who had been eligible to obtain NSLI or VSLI between 1940 and 1956, could once again apply for Government life insurance. This coverage was available only to disabled veterans. Approximately 228,000 policies were issued. No term insurance policies were issued. Today there are still over 41,000 Veterans Reopened Insurance policies in force. Annual dividends are paid on these policies. The maximum face amount of a policy is $10,000. However, this limit does not include paid-up additional insurance which can be purchased with the dividends that are paid annually on these policies. Certain disability benefits are available under these policies for policyholders who become totally disabled before their 65thbirthday.
+
+
 
 
