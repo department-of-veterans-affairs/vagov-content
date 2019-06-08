@@ -8,6 +8,25 @@ description:
 concurrence: 
 spoke: More resources
 order:
+relatedlinks:
+  - heading: Other helpful information
+    links:
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: About VA life insurance
+      description: Learn about all the VA life insurance options, how to file claims, and how to manage your benefits.
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: Benefits for totally disabled or terminally ill policyholders
+      description: Find out if you can get your insurance premium waived or receive your benefits early in certain situations.
+    - url: /life-insurance/options-eligibility/vmli/
+      title: Veterans Mortgage Life Insurance (VMLI)
+      description: If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-forms.asp
+      title: VA life insurance forms
+      description: Find and download the forms you need to apply for and manage your life insurance benefits.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
+      title: Contact us
+      description: Find out how to reach us to ask a question about your policy or to file a claim for benefits.
+      
 ---
 
 <div class="va-introtext">
