@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 
+title: VA Travel Pay for health care 
 heading: VA travel pay for health care 
 display_title: 
 description: 
@@ -33,15 +33,13 @@ VA travel pay (also called the Beneficiary Travel program) reimburses Veterans f
 
 <div class="feature" markdown="1">
 
-### Am I eligible to receive VA travel pay?
+### Am I eligible to receive VA travel pay as a Veteran?
 
-There are 2 types of travel reimbursement:
+You may be eligible for 1 or both of our 2 types of travel pay.
 
 #### General health care travel reimbursement
 
-This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. 
-
-You may be eligible for general health care travel reimbursement if at least one of the descriptions below is true for you.
+This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. You may be eligible for general health care travel reimbursement if at least one of the descriptions below is true for you.
 
 **At least one of these must be true. You:**
 
@@ -52,21 +50,19 @@ You may be eligible for general health care travel reimbursement if at least one
 - Are traveling for a scheduled VA claim exam (also called a compensation and pension, or C&P, exam), **or** 
 - Can’t afford to pay for your travel, as defined by our guidelines
 
-Even if you don't meet one of the requirements listed below, you may be able to get this benefit in some situations. To learn more, call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
 #### Special mode transporation
 
-This includes transporation by a specially equipped vehicle, like an ambulance or wheelchair vain.
-
-You may be eligible for special mode transportation if you qualify for general health care travel reimbursement and the descriptions below are also true for you.
+This includes transporation by a specially equipped vehicle, like an ambulance or wheelchair vain. You may be eligible for special mode transportation if you qualify for general health care travel reimbursement and the descriptions below are also true for you.
 
 **All of these must be true:**
 
 - You're eligible for general health care travel reimbursement, **and**
--	A VA health care provider determines that your travel requires an ambulance or a specially equipped van, **and** 
+-	A VA health care provider determines that your medical condition requires an ambulance or a specially equipped van for travel, **and** 
 -	We've preauthorized your travel, unless the travel is for an emergency situation where a delay would threaten your life or health
 
 </div>
+
+**Note:** Certain other individuals who are supporting a Veteran's care, like caregivers, may be eligible for travel pay in some cases. To learn more, call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 ## What travel expenses does VA travel pay reimburse?
 
@@ -75,22 +71,24 @@ You may be eligible for special mode transportation if you qualify for general h
 - Authorized care at non-VA facilities
 
 **This may include:**
--	Mileage to and from a provider appointment at the current rate of **41.5 cents ($0.415) per mile** based on the shortest and fastest route
+-	Mileage driven to and from a provider appointment at the current rate of **41.5 cents ($0.415) per mile** based on the shortest and fastest route
 -	Ticket costs for public transportation, including train, bus, taxi, light rail, and plane
 -	Transportation by a specially equipped vehicle, like an ambulance or wheelchair van, if needed and authorized
 
 ------
 
-## How do I get VA travel pay for scheduled appointments?
+## How to get reimbursed for your health-related travel
+
+### How do I get VA travel pay for scheduled appointments?
 
 When you travel to a health care appointment, you’ll save and submit your expenses along with the reimbursement form. 
 
-### For each scheduled appointment
+#### For each scheduled appointment
 
 <ol class="process">
 <li class="process-step list-one">
   
-#### Fill out a claim for reimbursement
+##### Fill out a claim for reimbursement
 
 You'll need to fill out a new Veteran/Beneficiary Claim for Reimbursement of Travel Expenses (VA Form 10-3542) for each appointment. <br>
 [Download VA Form 10-3542](https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf)  
@@ -109,26 +107,15 @@ Be sure to keep your receipts for all private or public transportation.
 
 ##### Submit your completed form and receipts within 30 days of your appointment
 
-You can:
-
--	Take it in person to your VA facility’s beneficiary travel office, **or**
--	Mail or fax it to your VA facility’s beneficiary travel office
+You can mail, fax, or take your form and receipts in person to the VA facility where you received care. 
 
 If you have questions, you can call your VA facility’s beneficiary travel office. 
 You can also call our toll-free hotline at 877-222-VETS (<a href="tel:+18772228387">877-222-8387</a>).
 
 </li>
-
-<li class="process-step list-four">
+</ol>
   
-Be sure to submit your form within 30 days of your health care appointment.  
-
-</li>
-
-<li class="process-step list-five">
-  
-We’ll review your form, and when we approve it, we’ll send you a reimbursement for your expenses.  
-
+We’ll review your form. We’ll then send you a check to reimburse you for approved expenses.
 
 ### For ambulance claims
 
@@ -173,19 +160,13 @@ income limit
 Learn more about [annual income limits](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=2684) and 
 [pension rates](https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp).
 
-### What if I need more help getting to and from my VA appointments?
+### What if I'm not eligible for VA travel pay?
 
-You may qualify for help getting to and from your VA appointments if you:
-- Live in a rural area, far from a VA medical center, **or**
-- Need a specially equipped van or other service
+You may still qualify for other VA transportation programs that can help you get to and from your VA appointments. For more information about these options, talk to your VA health care team.
 
-For more information about these options, talk to your VA health care team.
+You may also qualify for transportation help from other organizations, such as:
 
-### Other groups offering travel help
-
-There are many organizations outside VA that offer health care travel help for those who qualify. These include:
-
-- [American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx) This list
+- [The American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx) This list
 includes links to thousands of local, regional, and national transit agencies.
 - [The National Center on Senior Transportation](http://www.seniortransportation.net) This organization offers transportation 
 resources and options for seniors who qualify.
