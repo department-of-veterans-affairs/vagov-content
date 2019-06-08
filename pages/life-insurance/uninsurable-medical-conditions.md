@@ -47,7 +47,7 @@ If you have one or more of these conditions, you may be unable to get private li
 -	**HIV/AIDS**
 -	**Liver and kidney diseases**
 -	**Mental health conditions**, including posttraumatic stress disorder (PTSD), bipolar disorder, schizophrenia, and depression
-- **Neurological conditions**, including multiple sclerosis, ALS (Lou Gehrig’s disease), Parkinson’s, epilepsy, and traumatic brain injury (TBI)
+- **Neurological conditions**, including multiple sclerosis, ALS (Lou Gehrig’s disease), Parkinson’s disease, epilepsy, and traumatic brain injury (TBI)
 - **Respiratory conditions**, including severe asthma or bronchitis, chronic obstructive pulmonary disease, and emphysema
 - Other conditions, including severe Lyme disease, thyroid conditions, and ulcers
 
