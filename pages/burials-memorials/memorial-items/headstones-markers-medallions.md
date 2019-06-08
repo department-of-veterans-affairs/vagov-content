@@ -20,9 +20,11 @@ Find out how to apply for a headstone, grave marker, or medallion to honor a Vet
 
 ### Who can be honored with a Veterans headstone or marker?
 
+<br> 
+
 #### Veterans
 
-If they meet any of the requirements below, Veterans who weren't dishonorably discharged and members of the Armed Forces who die on active duty may be eligible for a headstone or marker.
+If they meet any of the requirements below, Veterans who weren't dishonorably discharged may be eligible for a headstone or marker.
 
 **At least one of these must be true. The Veteran:**
 
@@ -30,24 +32,33 @@ If they meet any of the requirements below, Veterans who weren't dishonorably di
 - Was buried in an unmarked grave, anywhere in the world, and served before September 7, 1980, **or**
 - Was buried in an unmarked grave, anywhere in the world, and served for 24 months or longer, or died while on active duty (including training) after September 7, 1980
 
-**Note:** Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000, and died on or after March 23, 2018.
+**Note:** Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000 and died on or after March 23, 2018.
+
+<br> 
 
 #### Service members
 
 Service members may be eligible for a headstone or marker if they meet all of the requirements listed below.
 
-**All of these must be true. They:**
+**Both of these must be true. They:**
 
 - Served as an enlisted person after September 7, 1980, or as an officer after Oct. 16, 1981, **and**
 - Served for a minimum of 24 months of continuous active duty or died on active duty <br>
 **Note:** If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
 
+<br> 
+
 #### National Guard members or Reservists
+
+A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
 
 - Reservists and National Guard members are eligible if, at the time of death, they were entitled to retirement pay (or would have been entitled if they were over 60 years old).
 - Reservists are eligible if they were called to active duty other than training. 
-- National Guard members are eligible if they served in a federal status and for a specific period of time. 
-- Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+- National Guard members are eligible if they served in a federal status and for the period of time they were called to serve.
+
+**Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+
+<br> 
 
 #### Spouses and other family members
 
@@ -55,15 +66,43 @@ An eligible spouse or other family member buried in a national cemetery, state o
 
 <br>
 
-### Who can be honored with a Veterans medallion to attach to a privately purchased headstone or marker?
+### Who can be honored with a Veterans medallion?
 
-Any Veteran who was not dishonorably discharged and meets any of the requirements below may be eligible for a medallion.
+<br>
 
-**At least one of these must be true. The Veteran:**
+#### Veterans
 
-- Died before November 1, 1990, **or**
-- Served on or after April 6, 1917, **or**
-- Is buried in a privately marked grave
+A Veteran may be eligible for a bronze medallion or medal of honor medallion if they were not dishonorably discharged and their grave is in a private cemetery marked with a privately purchased headstone or marker.
+
+**Both of these must be true. The Veteran:**
+
+- Served on or after April 6, 1917, **and**
+- Died on or after November 1, 1990
+
+#### Service members
+
+A service member may be eligible for a bronze medallion or medal of honor medallion if they died on active duty and their  grave is in a private cemetery marked with a privately purchased headstone or marker.
+
+**All of these must be true. They:**
+
+- Served after September 7, 1980, **and**
+- Served for a minimum of 24 months of continuous active duty or died on active duty
+
+#### Members of the National Guard or Reserves
+
+A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
+
+- Reservists and National Guard members are eligible if, at the time of death, they were entitled to retirement pay (or would have been entitled if they were over 60 years old).
+- Reservists are eligible if they were called to active duty other than training. 
+- National Guard members are eligible if they served in a federal status and for the period of time they were called to serve. 
+
+**Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+
+#### Commissioned officers
+
+VA may furnish a medallion to be attached to a headstone or marker furnished at private expense of a commissioned officer who had active service in Public Health Service on or after April 6, 1917.
+
+#### Spouses and dependents are not eligible for a medallion
 
 </div>
 
@@ -156,7 +195,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
-## Does VA provide a memorial headstone or marker if remains are not available for burial?
+## Does VA provide a memorial headstone or marker if remains aren't available?
 
 We provide memorial headstones and markers for:
 - Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
