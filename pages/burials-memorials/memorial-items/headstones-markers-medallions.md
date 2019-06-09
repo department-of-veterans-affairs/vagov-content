@@ -125,12 +125,15 @@ You can apply for one of these memorial items if you're representing the Veteran
 **For a headstone, grave marker, or niche cover**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
 [Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
+**Note:** If this is your second request, or if you're requesting a replacement because of a mistake with the inscription or a damaged headstone or marker, be sure to explain this in block 27 of the form.
+
 **For a medallion** to be placed on a privately purchased headstone or marker, fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
 [Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
 
-- Make a copy of the Veteran’s discharge documents. Don’t send the originals, because we can’t return them.
+Mail or fax your form, along with a copy of the Veteran’s DD214 or other discharge documents. Don’t send the originals, because we can’t return them.
 
-- Fax the documents to 800-455-7143. Or, mail the discharge papers and the form to this address:
+- Fax the documents to 800-455-7143, **or**
+- Mail the discharge papers and the form to this address:
 
 <p class="va-address-block">
     Memorial Products Service (41B)<br>
