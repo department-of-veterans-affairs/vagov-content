@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disabled Veterans Life Insurance (S-DVI) | Veterans Affairs
-heading: Service-Disabled Veterans' Life Insurance (S-DVI)
+title: Service-Disabled Veterans’ Life Insurance (S-DVI)
+heading: Service-Disabled Veterans’ Life Insurance (S-DVI)
 display_title: Service-Disabled Veterans (S-DVI)
-description: You may be able to get disabled Veterans insurance coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for these benefits online or by mail. 
-keywords: service disabled veterans life insurance, disabled veterans life insurance. disabled veterans
+description: Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service member. If you have a disability that we’ve concluded was caused—or made worse—by your active service, find out how to apply for S-DVI online or by mail. 
+keywords: service disabled veterans life insurance, disabled veterans life insurance, disabled veterans
 concurrence:
 order: 5
 relatedlinks:
@@ -20,13 +20,13 @@ aliases:
 
 <div class="va-introtext">
 
-You may be able to get disabled Veterans insurance coverage under Service-Disabled Veterans Insurance (S-DVI) if you have a disability that we’ve concluded was caused—or made worse—by your active service. Find out how to apply for S-DVI online or by mail. 
+Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service member. If you have a disability that we’ve concluded was caused—or made worse—by your active service, find out how to apply for S-DVI online or by mail. 
 
 </div>
 
 <div class="feature">
 
-### Can I apply for S-DVI?
+### Can I apply for Service-Disabled Veterans’ Life Insurance?
 
 You can apply for S-DVI if you meet all of the requirements listed below.
 
@@ -75,7 +75,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 <br>
 
-### What kind of life insurance benefits can I get with S-DVI?
+### What kind of life insurance benefits can I get with Service-Disabled Veterans’ Life Insurance?
 
 - Up to $10,000 of coverage
 - Up to $30,000 of supplemental coverage
