@@ -311,7 +311,7 @@ When a Veteran, service member, or family member qualifies for burial in a VA na
 
 At the time of need, the person planning the burial can also request other [VA memorial items](/burials-memorials/memorial-items/) as well as [military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp) provided by the Department of Defense. These items and honors have other eligibility requirements.
 
-[Learn about the burial planning process](/burials-memorials/plan-a-burial/) <br>
+[Learn about scheduling a burial](/burials-memorials/plan-a-burial/) <br>
 [Download our National Cemetery Administration brochure (PDF)](https://www.cem.va.gov/cem/docs/factsheets/NCA_Brochure.pdf)
 
 ### Can I plan ahead for my burial in a VA national cemetery?
