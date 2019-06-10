@@ -45,9 +45,7 @@ The United States Government Life Insurance (USGLI) program was created in 1919 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
 The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments).<br>
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
-
-<br>
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)<br>
 
 [Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
@@ -67,14 +65,13 @@ Some NSLI policies were issued as "renewable term life insurance" plan, or "term
 
 <b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your NSLI term plan premium payment will never increase after you turn 70 years old. 
 
-**If there is a break in your coverage (sometimes called a "policy lapse"), and you have a capped NSLI term plan:**<br>
+**If there's a break in your coverage (sometimes called a "policy lapse"), and you have a capped NSLI term plan:**<br>
 You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
 #### Can I convert my NSLI term policy to a permanent policy?
 
-Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)
+Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
 
-<br>
 [Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
 
 
@@ -97,7 +94,7 @@ Some VSLI policies were issued as "renewable term life insurance" plan, or "term
 
 If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. 
 
-**If there is a break in your coverage (sometimes called a "policy lapse"), and you have a capped VSLI term plan:**<br>
+**If there's a break in your coverage (sometimes called a "policy lapse"), and you have a capped VSLI term plan:**<br>
 You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
 #### Can I convert my VSLI term policy to a permanent policy?
