@@ -161,6 +161,7 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
 [Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)<br>
+[Learn about special styles for those who served in the Civil War and the Spanish-American War](https://www.cem.va.gov/cem/hmm/pre_WWI_era.asp)
 [Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/wp-content/uploads/Best-Practices-Final.pdf)
 
 </div>
@@ -169,7 +170,8 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="inscription">What information goes on the headstone or marker and who provides it?</button>
 <div id="inscription" class="usa-accordion-content">
 
-The next of kin or an authorized representative will need to provide the inscription information listed below to cemetery officials at a national cemetery, state Veterans cemetery, military post cemetery, or military base cemetery. These officials will order the headstone or marker for you.
+The next of kin or an authorized representative will need to provide the inscription information listed below to cemetery officials at a national cemetery, state Veterans cemetery, military post cemetery, or military base cemetery. These officials will order the headstone or marker for you.<br>
+[See the abbreviations that are most often used for inscriptions](https://www.cem.va.gov/cem/hmm/abbreviations.asp)
 
 **You must put this information on the headstone or marker:**
 - The person's legal name
@@ -181,7 +183,7 @@ The next of kin or an authorized representative will need to provide the inscrip
 - The full beginning and ending dates of the person's life
 - The highest rank the Veteran attained
 - The Veteran's awards and war service
-- An emblem of belief
+- An [emblem of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
 
 **We may approve other requests, such as:**
 - Nicknames
