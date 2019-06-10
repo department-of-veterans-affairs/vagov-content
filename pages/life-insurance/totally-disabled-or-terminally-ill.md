@@ -55,8 +55,9 @@ You may be able to get a waiver of your life insurance premiums if you meet all 
 
 There are certain exceptions to the above conditions. But if you think you’re entitled to a waiver of premiums, you should apply as soon as possible and we’ll let you know if you qualify.
 
-</div>
 </li>
+</div>
+</br>
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-get-benefits">How do I get these benefits?</button>
@@ -91,6 +92,7 @@ You or your spouse may be able to get benefits early if you meet both of the req
 
 </div>
 </li>
+</br>
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-do-we-get-benefits">How do we get these benefits?</button>
@@ -127,7 +129,7 @@ We pay the remaining amount of the face value of the insurance policy to your de
 </li>
 </ul>
 
-## Learn more about life insurance benefits
+## Learn more
 
 [Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp) <br>
 [Contact the Office of Servicemembers' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp)
