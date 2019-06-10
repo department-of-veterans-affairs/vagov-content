@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for the Totally Disabled or Terminally Ill | Veterans Affairs
-heading: Benefits for Policyholders Who Are Totally Disabled or Terminally Ill
+title: Benefits for the Totally Disabled or Terminally Ill 
+heading: Benefits for policyholders who are totally disabled or terminally ill
 display_title: Totally Disabled or Terminally Ill
-description: You may be able to get benefits if you become terminally ill or totally disabled. Your spouse may also be able to get certain benefits if diganosed with a terminal illness. Find out what benefits you or your spouse may qualify for and how to apply for them.
+description: If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
 keywords: benefits for terminally ill
 concurrence: 
 order: 2
@@ -14,18 +14,18 @@ relatedlinks:
     links:
     - url: /life-insurance/manage-your-policy/
       title: Access Your Policy Online
-      description: Need to file a benefits claim after your family member has died? Access your policy online.
+      description: Need to file a benefits claim? Access your policy online.
 aliases:
   - /life-insurance/disabled-and-terminally-ill/
 ---
 
 <div class="va-introtext">
 
-You may be able to get benefits if you become terminally ill or totally disabled. Your spouse may also be able to get certain benefits if diganosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you or your spouse may qualify for and how to apply for them.
+If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
 
 </div>
 
-<hr>
+<br>
 
 ### Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
 
