@@ -17,7 +17,7 @@ relatedlinks:
       title: Compensation for survivors and dependents
       description: Find out if you can get tax-free monetary benefits.
     - url: /burials-memorials/plan-a-burial/
-      title: Burial planning
+      title: Scheduling a burial
       description: Find out the steps you’ll need to take to arrange for a service member, Veteran, or eligible family member’s burial.
     - url: /burials-memorials/what-to-expect-at-military-funeral/
       title: What to expect at a memorial service
@@ -42,7 +42,7 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 **You may qualify for bereavement counseling if you’re the surviving spouse, child, or parent of:**
 - A service member who died while serving their country
 - A Reservist who died while on active duty
-- A National Guard Soldier who died while on active duty
+- A National Guard soldier who died while on active duty
 
 </div>
 
