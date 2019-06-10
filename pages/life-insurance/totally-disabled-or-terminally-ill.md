@@ -25,9 +25,13 @@ If you have VA life insurance coverage and you become totally disabled or termin
 
 </div>
 
-<br>
+### On this page
+- [SGLI extension for policyholders who become disabled](#sgli-extension)
+- [Waiver of premiums for policyholders who become totally disabled](#waiver)
+- [Accelerated benefits for terminally ill policyholders](#accelerated)
 
-## Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
+<span id="sgli-extension"></span>
+## SGLI extension for policyholders who become disabled
 
 <br>
 
@@ -43,11 +47,9 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 <br>
 
-<hr>
+------
+
 <span id="waiver"></span>
-
-
-
 ## Waiver of premiums for policyholders who become totally disabled
 
 <br>
@@ -80,16 +82,13 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 [Download VA Form 29-357 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-29-357-ARE.pdf) <br>
 
-
-
-<hr>
-
+------
+<span id="accelerated"></a>
 ## Accelerated benefits for terminally ill policyholders
 
 <br>
 
 <div class="feature">
-
 
 ### Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?
 You or your spouse may be able to get benefits early if you meet both of the requirements listed below.
