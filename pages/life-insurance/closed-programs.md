@@ -25,6 +25,7 @@ We offer some life insurance programs to service members and Veterans that are n
 
 </div>
 
+If you hold a VA life insurance policy that is closed to new enrollees, read about your policy details and learn about your other insurance options.
 
 **Note:** If you have one of these life insurance policies and need to make a payment, we require that all payments be made by Electronic Fund Transfer (EFT). We won’t accept other payment methods (like paper checks). <br>
 
@@ -45,13 +46,14 @@ The maximum USGLI policy amount is $10,000. Active USGLI policyholders still rec
 
 The National Service Life Insurance (NSLI) program was created in 1940 to manage new policies issued during WWII. NSLI closed to new enrollees in 1951.
 
-The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy Paid Up Additional (PUA) insurance with the yearly dividends (payments) you receive from your coverage. 
+The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy Paid Up Additional (PUA) insurance with the yearly dividends (payments) you receive from your coverage. <br>
+[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive certain disability benefits. [Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp)
 
-[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
-[Learn more about NSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
+<br>
+[Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
 
 ### NSLI capped term plan
 
@@ -61,9 +63,7 @@ Some NSLI policies were issued as "renewable term life insurance" plan, or "term
 
 Effective September 11, 2000, if you have an NSLI term plan and your rate is already capped, you'll receive a payment called a "termination dividend" <b>if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your plan.</b> Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
-[Learn more about PUA]
-
-### Can I convert my NSLI term policy to a permanent policy?
+#### Can I convert my NSLI term policy to a permanent policy?
 
 Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)
 
@@ -78,10 +78,17 @@ The Veterans Special Life Insurance (VSLI) was created in 1951 to manage new pol
 
 Effective January 1, 1959, VSLI policyholders can convert their VSLI policy to a permanent insurance plan or a limited convertible term policy.
 
-The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy additional insurance with the yearly dividends you receive from your coverage. 
+The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy Paid Up Additional (PUA) insurance with the yearly dividends you receive from your coverage. <br>
+
+[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive certain disability benefits. <br>
-[Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp)
+[Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
+<br>
+[Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
+
+
 
 ### VSLI capped term plans
 
@@ -91,7 +98,7 @@ If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium
 
 Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment called a  "termination dividend" <b>if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your plan.</b>  Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance.
 
-### Can I convert my VSLI term policy to a permanent policy?
+#### Can I convert my VSLI term policy to a permanent policy?
 
 Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.]((https://benefits.va.gov/INSURANCE/forms/29-0152.pdf))
 
