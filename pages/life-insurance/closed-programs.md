@@ -58,10 +58,7 @@ The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, yo
 
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
-If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive certain disability benefits. [Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp)
-
-<br>
-
+If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). <br>
 [Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
 
 ### NSLI capped term plan
@@ -76,9 +73,6 @@ Effective September 11, 2000, if you have an NSLI term plan and your rate is alr
 
 Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)
 
-##### Contact us if you have questions about converting your policy:
-[Online](https://insurance.va.gov/ContactUs)<br>
-By phone: <a href="tel:18006698477">800-669-8477</a> 
 
 
 ## Veterans Special Life Insurance (VSLI)
@@ -91,8 +85,7 @@ The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, yo
 
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
-If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive certain disability benefits. <br>
-[Learn more about these benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
+If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 <br>
 [Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
@@ -110,19 +103,13 @@ Effective September 11, 2000, if you have a VSLI term plan and your rate is alre
 
 Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.]((https://benefits.va.gov/INSURANCE/forms/29-0152.pdf))
 
-##### Contact us if you have questions about converting your policy:
-
-[Online](https://insurance.va.gov/ContactUs)<br>
-By phone: <a href="tel:18006698477">800-669-8477</a>
-
-
 ## Veterans Reopened Insurance
 
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. 
 
 The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. 
 
-If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive certain disability benefits. [Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
+If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp).
 
 ## Paid Up Additional (PUA) Insurance
 
@@ -141,10 +128,16 @@ PUA is available for these life insurance policies:
 - No maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
 - PUA insurance earns yearly dividends
 - The option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
--  ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. <br>
+-  ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
-[Appy for cash surrender](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf)
+
+## What do I do if I have more questions?
+
+##### Contact us if you have questions about converting your policy:
+[Online](https://insurance.va.gov/ContactUs)<br>
+By phone: <a href="tel:18006698477">800-669-8477</a> 
+
 
 
 
