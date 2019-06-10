@@ -57,7 +57,6 @@ There are certain exceptions to the above conditions. But if you think you’re 
 
 </li>
 </div>
-</br>
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-get-benefits">How do I get these benefits?</button>
@@ -92,7 +91,6 @@ You or your spouse may be able to get benefits early if you meet both of the req
 
 </div>
 </li>
-</br>
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-do-we-get-benefits">How do we get these benefits?</button>
