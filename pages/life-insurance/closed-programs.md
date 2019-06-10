@@ -21,33 +21,40 @@ relatedlinks:
 
 <div class="va-introtext">
 
-We offer some life insurance programs to service members and Veterans that are closed to new enrollees. Learn more about these programs and when they closed. 
+We offer some life insurance programs to service members and Veterans that are now closed to new enrollees. Learn more about these programs and when they closed. 
 
 </div>
 
-**Note:** If you participate in any of the insurance programs listed on this page, all payments must be made by Electronic Fund Transfer (EFT). We won’t accept other payment methods (like paper checks). <br>
+**Note:** If you have one of these life insurance policies and need to make a payment, we require that all payments be made by Electronic Fund Transfer (EFT) only. We won’t accept other payment methods (like paper checks). <br>
 
-[Learn more](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
+[Learn more about EFT](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
 
 ## United States Government Life Insurance (USGLI)
 
 The United States Government Life Insurance (USGLI) program was created in 1919 to manage new policies issued during WWI (and after). The USGLI program closed on April 25, 1951. 
 
-If you have a USGLI policy, you do not need to make any premium payments. All USGLI policies were considered “paid-up” as of January 1, 1983. The maximum USGLI policy amount is $10,000. Annual dividends are still paid on all active USGLI policies. 
+If you have a USGLI policy, you do not need to make any premium payments. All USGLI policies are considered “paid-up” as of January 1, 1983. The maximum USGLI policy amount is $10,000. Annual dividends (payments) are still paid to active USGLI policy holders. <br>
+
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
+[Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
 ## National Service Life Insurance (NSLI)
 
 The National Service Life Insurance (NSLI) program was created in 1940 to manage new policies issued during WWII. 
 
-The maximum USGLI policy amount is $10,000. If you have an active NSLI policy, you can buy additional insurance with the annual dividends you receive from your coverage. 
+The maximum USGLI policy amount is $10,000. If you have an active NSLI policy, you can buy Paid Up Additional (PUA) insurance with the annual dividends (payments) you receive from your coverage. 
 
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive certain disability benefits. 
 
+[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
+[Learn more about NSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
+
 #### NSLI term plan
 
-If you have an NSLI term plan--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your NSLI term plan premium will never increase after you turn 70 years old. 
+If you have an NSLI term plan--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your NSLI term plan premium payment will never increase after you turn 70 years old. 
 
-Effective September 11, 2000, if you have an NSLI term plan and your rate is already capped, you'll receive a payment ("termination dividend") if your policy lapses or  you cancel your coverage. Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
+Effective September 11, 2000, if you have an NSLI term plan and your rate is already capped, you'll receive a payment if your policy lapses or you cancel your coverage. This type of payment is called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
 
 [Learn more about PUA]
 
@@ -66,7 +73,7 @@ If you became totally disabled before your 65th birthday and you have VSLI cover
 
 If you have a VSLI term plan (sometimes called a VSLI "RS policy")--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. The age 70 rate for VSLI term plans is $69.73 per $1,000 of coverage.
 
-Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment ("termination dividend") if your policy lapses or  you cancel your coverage. Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
+Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment if your policy lapses or you cancel your coverage. This type of payment is called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) whole life insurance. 
 
 
 ## Veterans’ Reopened Insurance
@@ -77,9 +84,23 @@ The maximum amount for NSLI and VSLI policies opened during the Veterans Reopene
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive certain disability benefits. 
 
-## Paid Up Additional Insurance (PUA)
+## Paid Up Additional (PUA) Insurance
 
-If you have one of the life insurance policies listed on this page, you may receive an annual payment--or dividend--in some situations. If you receive a dividend on your life insurance policy, you can use a dividend to purchase more life insurance--also called "Paid Up Additional insurance" (PUA). Once you purchase PUA, it is fully paid for. This means PUA is fully paid for once it has been purchased, no further premium payments are required has no maximum limit, policyholders can continue to add PUA to their policy as long as they desire.
+If you receive an annual payment--called a dividend--on your life insurance policy, you can use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
+
+PUA:
+
+- Is fully paid for once you buy it. This means you don't need to make any premium payments.
+- Has no maximum limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
+- Earns annual dividends
+- Allows you to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+- Has "cash surrender" value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we will pay you a certain amount of money. <br>
+
+[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
+[Learn more about cash surrender].
+[Appy for cash surrender].
+
+
 
 
 
