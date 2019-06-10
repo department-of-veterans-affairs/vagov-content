@@ -33,7 +33,7 @@ We offer some life insurance programs to service members and Veterans that are n
 - [Veterans Reopened Insurance](##Veterans-Reopened-Insurance)
 - [Paid-Up-Additional-(PUA)-Insurance](##Paid-Up-Additional-(PUA)-Insurance) 
 <br>
-
+<br>
 **Note:** If you have one of these life insurance policies and need to make a payment, we require that all payments be made by Electronic Fund Transfer (EFT). We won’t accept other payment methods (like paper checks). <br>
 
 [Learn more about EFT](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
@@ -45,7 +45,7 @@ The United States Government Life Insurance (USGLI) program was created in 1919 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
 The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments).<br>
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)<br>
+[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 [Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
@@ -135,9 +135,13 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 
 ## What do I do if I have more questions?
 
-##### Contact us if you have questions about converting your policy:
-[Online](https://insurance.va.gov/ContactUs)<br>
-By phone: <a href="tel:18006698477">800-669-8477</a> 
+##### Contact us:
+
+- [Fill out a form online](https://insurance.va.gov/ContactUs)
+- [Ask us a question online](https://iris.custhelp.va.gov/app/ask)
+- Call us at <a href="tel:18006698477">800-669-8477</a>
+- Email us: <a href="mailto:vainsurance@va.gov">800-669-8477</a> 
+
 
 
 
