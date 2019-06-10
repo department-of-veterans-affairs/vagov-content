@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Life Insurance | Manage Benefits | VA.gov
+title: VA Life Insurance 
 heading: VA Life Insurance
 display_title: Life Insurance
-description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your Veterans life insurance policy online, file claims for benefits, and access helpful resources.
+description: Explore VA life insurance options for Veterans, service members, and eligible family members. Manage your Veterans life insurance policy online, file claims for benefits, and access helpful resources.
 keywords: va life insurance, veterans life insurance
 concurrence: complete
 lastupdate:
@@ -169,7 +169,7 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA life insurance can offer financial security and support for Veterans, Servicemembers, their spouses and dependent children. Explore your options, manage your policy, and file claims to get the insurance benefits you've earned.</p>
+VA life insurance can offer financial security and support for Veterans and service members as well as their spouses and dependent children. Explore your options, manage your policy, and file claims to get the insurance benefits you've earned.</p>
 
 <h3>On This Page</h3>
 
