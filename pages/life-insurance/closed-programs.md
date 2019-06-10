@@ -27,10 +27,10 @@ We offer some life insurance programs to service members and Veterans that are n
 
 <h3>On this page</h3>
 
-- [United States Government Life Insurance (USGLI)](##United-States-Government-Life Insurance-(USGLI))
+- [United States Government Life Insurance (USGLI)](##United-States-Government-Life-Insurance-(USGLI))
 - [National Service Life Insurane (NSLI)](##National-Service-Life-Insurance-(NSLI))
 - [Veterans Special Life Insurance (VSLI)](##Veterans-Special-Life-Insurance-(VSLI))
-- [Veterans Reopened Insurance](##Veterans-Reopened Insurance)
+- [Veterans Reopened Insurance](##Veterans-Reopened-Insurance)
 - [Paid-Up-Additional-(PUA)-Insurance](##Paid-Up-Additional-(PUA)-Insurance)
 
 If you hold a VA life insurance policy that is closed to new enrollees, read about your policy details and learn about your other insurance options.
@@ -61,6 +61,7 @@ The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, yo
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive certain disability benefits. [Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp)
 
 <br>
+
 [Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
 
 ### NSLI capped term plan
@@ -91,7 +92,7 @@ The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, yo
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive certain disability benefits. <br>
-[Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
+[Learn more about these benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
 <br>
 [Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
@@ -119,7 +120,7 @@ By phone: <a href="tel:18006698477">800-669-8477</a>
 
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. 
 
-The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance] ((##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. 
+The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. 
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive certain disability benefits. [Learn more about these benefits.](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp) 
 
@@ -127,17 +128,23 @@ If you became totally disabled before your 65th birthday and you have NSLI or VS
 
 If you receive a yearly payment--called a dividend--on your life insurance policy, you can use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
 
-PUA:
+PUA is available for these life insurance policies:
 
-- Is fully paid for once you buy it. This means you don't need to make any premium payments.
-- Has no maximum limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
-- Earns yearly dividends
-- Allows you to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
-- Has "cash surrender" value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. <br>
+- NSLI (life insurance policies that start with "V"
+- VSLI (life insurance policies that start with "RS" and "W")
+- Veterans Reopened Insurance (insurance policies that start with “J,” “JR” and “JS”)
 
-[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)
-[Learn more about cash surrender].
-[Appy for cash surrender](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf).
+
+<b>PUA insurance benefits include:</b>
+
+- PUA insurance is fully paid for once you buy it. This means you don't need to make any premium payments.
+- No maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
+- PUA insurance earns yearly dividends
+- The option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+-  ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. <br>
+
+[Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
+[Appy for cash surrender](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf)
 
 
 
