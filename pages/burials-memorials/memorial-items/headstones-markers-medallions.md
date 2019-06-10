@@ -7,8 +7,6 @@ description: Find out how to apply for Veterans grave markers, headstones, and m
 order: 1
 concurrence: incomplete
 children: burialsHeadstoneMarkersMedallions
-aliases:
-  - /burials-and-memorials/honor/headstones-markers-medallions/
 ---
 
 <div class="va-introtext">

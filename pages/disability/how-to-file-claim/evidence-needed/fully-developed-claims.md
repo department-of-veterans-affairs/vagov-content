@@ -1,35 +1,33 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Fully Developed Claims Program
-display_title: Fully Developed Claims
+title: VA Fully Developed Claims program
+heading: VA Fully Developed Claims program
+display_title: Fully developed claims
 description: Find out how to file a fully developed claim to get a faster decision on your VA disability compensation claim. Through the Fully Developed Claims program, you'll submit all the evidence (supporting documents) you have—or can easily get—along with your claim and go to any required medical exams.
 children: disabilityFullyDevelopedClaims
-plainlanguage: 
+plainlanguage:
 template: detail-page
 order: 2
 relatedlinks:
   - heading: More information about disability claims
     links:
     - url: /disability/how-to-file-claim/when-to-file/pre-discharge-claim/
-      title: Pre-discharge Claim
+      title: Pre-discharge claim
       description: Learn how to file a disability claim through the Benefits Delivery at Discharge (BDD) program.
     - url: /disability/eligibility/hazardous-materials-exposure/
-      title: Exposure to Hazardous Chemicals and Materials
+      title: Exposure to hazardous chemicals and materials
       description: Learn more about claims for conditions related to contact with hazardous materials.
     - url: /disability/eligibility/former-pows/
-      title: Disability Benefits for Former Prisoners of War (POWs)
-      description: Learn more about claims for former Prisoners of War (POWs).
+      title: Disability benefits for former prisoners of war (POWs)
+      description: Learn more about claims for former prisoners of war (POWs).
     - url: /disability/eligibility/special-claims/
-      title: Special Claims
+      title: Special claims
       description: Learn more about other special claims.
-aliases:
-  - /disability-benefits/apply/evidence/fully-developed-disability-claims/
-  - /disability/how-to-file-claim/evidence-needed/decision-ready-claims/
 ---
 
 <div itemprop="description" class="va-introtext">
-  
-Find out how you can use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting evidence along with your claim. 
+
+Find out how you can use the Fully Developed Claims program to get a faster decision on your disability benefits claim by submitting evidence along with your claim.
 
 </div>
 
@@ -62,7 +60,7 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 </div>
 </div>
 
-<h3 itemprop="name">What evidence will I need to submit along with my disability claim?</h3>
+<h2 itemprop="name">What evidence will I need to submit along with my disability claim?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -80,17 +78,13 @@ Find out how you can use the Fully Developed Claims program to get a faster deci
 </div>
 </div>
 
-<br>
-
 ## Are there any risks to using the Fully Developed Claims program?
 
 No. Filing a fully developed claim won't affect the attention we give to your claim or the benefits you're entitled to receive.
 
-If we determine that we need other non-federal records to make a decision on your claim, we'll simply remove the claim from the Fully Developed Claims program and process it as a standard claim. 
+If we determine that we need other non-federal records to make a decision on your claim, we'll simply remove the claim from the Fully Developed Claims program and process it as a standard claim.
 
 Once you start your fully developed claim, you'll have up to 1 year to complete it. If we approve your claim, you'll be paid back to the day you started it.
-
-<br>
 
 ## What should the evidence show to support my disability claim?
 
@@ -98,48 +92,37 @@ This depends on the type of claim you’re filing. <br>
 
 [See what evidence is needed for different types of claims](/disability/how-to-file-claim/evidence-needed/)<br>
 
-<br>
-
 ## Can VA help me gather evidence?
 
 Yes. We can help you through the Fully Developed Claims program.
 
-**We'll:** 
+**We'll:**
 - Request your military service records (with your permission), **and**
 - Request relevant Social Security benefits information and medical records that you identify and authorize us to get from a federal facility, like a VA medical center, **and**
 - Schedule a health exam for you or get a medical opinion from a health care provider if we decide we need it for your claim
 
 **Note:** Even though we'll gather federal records (like your DD214 or VA medical records) on your behalf, we encourage you to submit these if you have them to save time in the process.
 
-<br>
-
-## When should I turn in my evidence? 
+## When should I turn in my evidence?
 
 To submit your claim through the Fully Developed Claims program, you’ll need to turn in the information and evidence at the same time as you file your claim. If you turn in more information or evidence after you send in your fully developed claim, we’ll remove your claim from the FDC program and process it as a standard claim. <br>
 
 If we decide your claim before 1 year from the date we receive the claim, you’ll have the rest of that 1-year period to turn in additional information or evidence to support your claim.
 
-<br>
-
 ## How do I turn in my information and evidence?
 
-You'll need to upload all medical evidence or supporting documents at the end of the disability compensation form. 
+You'll need to upload all medical evidence or supporting documents at the end of the disability compensation form.
 
 You can start your online application right now, or find out how to file a claim by mail, in person, or with the help of a trained professional.<br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-
-
-<br>
-
-## Should I work with a Veterans Service Officer (VSO) to file my claim?
+## Should I work with a Veterans service officer (VSO) to file my claim?
 
 You don't have to, but we encourage you to work with an accredited VSO. These trained professionals can help you file your claim and gather the needed medical records and evidence.<br>
 [Find out how to get help filing your claim](/disability/get-help-filing-claim/)
 
-<br>
+## More helpful resources
 
-### More helpful resources
+[Get a checklist for preparing your fully developed claim](https://www.benefits.va.gov/FDC/checklist.asp) <br>
+[View a step-by-step graphic of the fully developed claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp) 
 
-[Get a checklist for preparing your Fully Developed Claim](https://www.benefits.va.gov/FDC/checklist.asp) <br>
-[View a step-by-step graphic of the Fully Developed Claim online process](https://www.benefits.va.gov/FDC/walkthrough.asp) 
