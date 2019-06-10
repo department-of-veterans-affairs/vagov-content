@@ -54,7 +54,7 @@ If you became totally disabled before your 65th birthday and you have NSLI cover
 
 #### NSLI capped term plan
 
-Some NSLI policies were originally issued as "renewable term life insurance" plan, or "term insurance." Term insurance means that you pay a monthly fee (called a premium) and are only covered for a specific amount of time.
+Some NSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time ("term"). After the term ends, you can choose to renew your coverage. 
 
 <b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your NSLI term plan premium payment will never increase after you turn 70 years old. 
 
@@ -62,10 +62,11 @@ Effective September 11, 2000, if you have an NSLI term plan and your rate is alr
 
 [Learn more about PUA]
 
-#### Can I convert my term plan to a permanent plan?
+#### Can I convert my NSLI term policy to a permanent policy?
 
-Yes. 
+Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.] 
 
+[Contact us](https://insurance.va.gov/ContactUs) if you have questions about converting your policy. 
 
 
 ### Veterans Special Life Insurance (VSLI)
@@ -80,9 +81,24 @@ If you became totally disabled before your 65th birthday and you have VSLI cover
 
 #### VSLI capped term plans
 
-If you have a VSLI term plan (sometimes called a VSLI "RS policy")--which is different from a permanent plan--your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. The age 70 rate for VSLI term plans is $69.73 per $1,000 of coverage.
+Some VSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time ("term"). After the term ends, you can choose to renew your coverage. 
 
-Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your coverage. This type of payment is called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
+If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. 
+
+Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped, you'll receive a payment if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your coverage. This type of payment is called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance.
+
+#### Can I convert my VSLI term policy to a permanent policy?
+
+Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.] 
+
+[Contact us online](https://insurance.va.gov/ContactUs) 
+
+##### Contact us if you have questions about converting your policy:
+
+- [Online](https://insurance.va.gov/ContactUs)
+- By phone: <a href="tel:18006698477">800-669-8477</a>
+
+
 
 
 ### Veterans’ Reopened Insurance
