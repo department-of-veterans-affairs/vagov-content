@@ -22,16 +22,12 @@ If you’re an active-duty service member or Veteran, a member of the National G
 
 </div>
 
-## Post-9/11 GI Bill
-
-### Can I get VA education benefits through the Post-9/11 GI Bill?
+## Can I get VA education benefits through the Post-9/11 GI Bill?
 
 You may be able to get benefits through the Post-9/11 GI Bill if you've served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001. <br>
 [Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 
-## Montgomery GI Bill
-
-### Can I get VA education benefits through the Montgomery GI Bill?
+## Can I get VA education benefits through the Montgomery GI Bill?
 
 You may be able to get benefits through one of our 2 Montgomery GI Bill programs: the Montgomery GI Bill Active Duty (MGIB-AD) or the Montgomery GI Bill Selected Reserve (MGIB-SR).
 
@@ -58,9 +54,7 @@ You may be able to get benefits through one of our 2 Montgomery GI Bill programs
 
 [Learn more about MGIB-SR](/education/about-gi-bill-benefits/montgomery-selected-reserve/)
 
-## Other educational assistance programs
-
-### Can I get VA education benefits through other programs?
+## Can I get VA education benefits through other programs?
 
 You may be able to get help paying for school tuition, testing fees, and advanced licensing and certifications through other VA educational assistance programs. You may also be able to get entrepreneurship training to help start or improve a small business.
 
