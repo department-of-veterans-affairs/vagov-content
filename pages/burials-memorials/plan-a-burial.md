@@ -139,7 +139,7 @@ Yes, you should contact a [national cemetery](/find-locations/) directly in thes
 ## Can I get information about the Burial at Sea program?
 
 If you have questions about the Burial at Sea program, please contact the United States Navy Mortuary Affairs office toll-free at <a href="tel:+18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. <abbr title="eastern time">ET</abbr>. <br>
-[Get more information about the Burial at Sea program](http://www.navy.mil/navydata/nav_legacy.asp?id=204)
+[Get more information about the Burial at Sea program](https://www.cem.va.gov/cem/burial_benefits/burial_at_sea.asp)
 
 ## Can I get help paying for burial costs?
 
