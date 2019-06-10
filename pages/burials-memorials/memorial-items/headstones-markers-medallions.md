@@ -16,13 +16,15 @@ Find out how to apply for a headstone, grave marker, or medallion to honor a Vet
 
 </div>
 
-<div class="feature">
 
-### Who can be honored with a Veterans headstone or marker?
+## Eligibility information
 
-<br> 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="headstone-marker">Who can be honored with a Veterans headstone or marker?</button>
+<div id="headstone-marker" class="usa-accordion-content">
 
-#### Veterans
+### Veterans
 
 If they meet any of the requirements below, Veterans who weren't dishonorably discharged may be eligible for a headstone or marker.
 
@@ -36,7 +38,7 @@ If they meet any of the requirements below, Veterans who weren't dishonorably di
 
 <br> 
 
-#### Service members
+### Service members
 
 Service members may be eligible for a headstone or marker if they meet all of the requirements listed below.
 
@@ -48,7 +50,7 @@ Service members may be eligible for a headstone or marker if they meet all of th
 
 <br> 
 
-#### National Guard members or Reservists
+### National Guard members or Reservists
 
 A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
 
@@ -60,17 +62,17 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 
 <br> 
 
-#### Spouses and other family members
+### Spouses and other family members
 
 An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may be able to get a headstone or marker. Spouses and family members buried in a private cemetery aren't eligible.
 
-<br>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="medallion">Who can be honored with a Veterans medallion?</button>
+<div id="medallion" class="usa-accordion-content">
 
-### Who can be honored with a Veterans medallion?
-
-<br>
-
-#### Veterans
+### Veterans
 
 A Veteran may be eligible for a bronze medallion or medal of honor medallion if they were not dishonorably discharged and their grave is in a private cemetery marked with a privately purchased headstone or marker.
 
@@ -79,7 +81,7 @@ A Veteran may be eligible for a bronze medallion or medal of honor medallion if 
 - Served on or after April 6, 1917, **and**
 - Died on or after November 1, 1990
 
-#### Service members
+### Service members
 
 A service member may be eligible for a bronze medallion or medal of honor medallion if they died on active duty and their  grave is in a private cemetery marked with a privately purchased headstone or marker.
 
@@ -88,7 +90,7 @@ A service member may be eligible for a bronze medallion or medal of honor medall
 - Served after September 7, 1980, **and**
 - Served for a minimum of 24 months of continuous active duty or died on active duty
 
-#### Members of the National Guard or Reserves
+### Members of the National Guard or Reserves
 
 A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
 
@@ -98,13 +100,15 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 
 **Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
 
-#### Commissioned officers
+### Commissioned officers
 
 VA may furnish a medallion to be attached to a headstone or marker furnished at private expense of a commissioned officer who had active service in Public Health Service on or after April 6, 1917.
 
-#### Spouses and dependents are not eligible for a medallion
+### Spouses and dependents are not eligible for a medallion
 
-</div>
+  </div>
+  </li>
+ </ul>
 
 ## Can I apply for one of these memorial items?
 
@@ -142,7 +146,14 @@ Mail or fax your form, along with a copy of the Veteran’s DD214 or other disch
     Quantico, VA 22134-3903<br>
 </p>
 
-## Can I choose the type of headstone or marker?
+---------------
+
+## More information about headstones and markers
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="headstone-marker-type">Can I choose the type of headstone or marker?</button>
+<div id="headstone-marker-type" class="usa-accordion-content">
 
 Yes. You'll choose the material you'd like for the headstone or marker in block 15 of Form 40-1330.
 
@@ -154,7 +165,11 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 [Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)<br>
 [Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/wp-content/uploads/Best-Practices-Final.pdf)
 
-## What information goes on the headstone or marker and who provides it?
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="inscription">What information goes on the headstone or marker and who provides it?</button>
+<div id="inscription" class="usa-accordion-content">
 
 The next of kin or an authorized representative will need to provide the inscription information listed below to cemetery officials at a national cemetery, state Veterans cemetery, military post cemetery, or military base cemetery. These officials will order the headstone or marker for you.
 
@@ -175,16 +190,44 @@ The next of kin or an authorized representative will need to provide the inscrip
 - Terms of endearment (like “Loving Father”)
 - Special unit identification
 
-## When will the headstone, marker, or medallion I requested arrive, and who will set it for me?
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="when-will-it-arrive">When will the headstone or marker I requested arrive, and who will set it for me?</button>
+<div id="when-will-it-arrive" class="usa-accordion-content">
 
 For national or state cemeteries, please contact the cemetery directly to find out when the headstone or marker will arrive. <br>
 [Find a national, state, or tribal government Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
 
 Cemetery staff in national, military post, and military base cemeteries are responsible for setting the headstone or marker at no cost to you. Some state Veterans' cemeteries may charge you a nominal fee for setting a government headstone or marker.
 
-## What if there's a mistake with the headstone inscription?
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="mistake-with-inscription">What if there's a mistake with the headstone inscription?</button>
+<div id="mistake-with-inscription" class="usa-accordion-content">
 
 Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="remains-not-available">Does VA provide a memorial headstone or marker if remains aren't available?</button>
+<div id="remains-not-available" class="usa-accordion-content">
+
+We provide memorial headstones and markers for:
+- Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
+- Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran <br>
+**Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
+
+The words engraved on the memorial item must begin, “IN MEMORY OF."
+  </div>
+  </li>
+ </ul>
+
+Get help applying for a headstone, marker, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
+
+-------------
 
 ## What do I need to know about burial in a private cemetery?
 
@@ -197,14 +240,3 @@ You may have additional costs, restrictions on the type of headstone or marker y
 - If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. If you know we've received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at the above number.<br>
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
-
-## Does VA provide a memorial headstone or marker if remains aren't available?
-
-We provide memorial headstones and markers for:
-- Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
-- Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran <br>
-**Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
-
-The words engraved on the memorial item must begin, “IN MEMORY OF."
-
-Get help applying for a headstone, marker, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
