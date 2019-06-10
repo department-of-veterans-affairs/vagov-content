@@ -36,8 +36,6 @@ If they meet any of the requirements below, Veterans who weren't dishonorably di
 
 **Note:** Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000 and died on or after March 23, 2018.
 
-<br> 
-
 ### Service members
 
 Service members may be eligible for a headstone or marker if they meet all of the requirements listed below.
@@ -48,8 +46,6 @@ Service members may be eligible for a headstone or marker if they meet all of th
 - Served for a minimum of 24 months of continuous active duty or died on active duty <br>
 **Note:** If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
 
-<br> 
-
 ### National Guard members or Reservists
 
 A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
@@ -59,8 +55,6 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 - National Guard members are eligible if they served in a federal status and for the period of time they were called to serve.
 
 **Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
-
-<br> 
 
 ### Spouses and other family members
 
@@ -104,7 +98,9 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 
 VA may furnish a medallion to be attached to a headstone or marker furnished at private expense of a commissioned officer who had active service in Public Health Service on or after April 6, 1917.
 
-### Spouses and dependents are not eligible for a medallion
+<br>
+
+**Note:** Spouses and dependents are not eligible for a medallion.
 
   </div>
   </li>
