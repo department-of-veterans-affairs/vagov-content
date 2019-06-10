@@ -12,13 +12,6 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Need to file a benefits claim after your family member has died? Access your policy online.
-    - url: https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp
-      title: Learn more about accelerated benefits
-      description: Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance Handbook
-    - url: https://benefits.va.gov/INSURANCE/resources-contact.asp
-      title: Contact the Office of Servicemembers' Group Life Insurance (OSGLI)
-      description: Get more information about life insurance coverage
-
 
 ---
 
@@ -31,11 +24,7 @@ If you become totally disabled or terminally ill, you may be able to get certain
 
 ## Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
 
-<ul class="usa-accordion">
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="free-extension-SGLI">Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?</button>
-<div id="free-extension-SGLI" class="usa-accordion-content">
-  
+### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?  
 
 You may be able to keep your coverage for up to 2 years after the date you left the military if you meet both of the requirements listed below.
 
@@ -45,12 +34,12 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 [Find out if you qualify for the SGLI Disability Extension—and how to apply](/life-insurance/options-eligibility/sgli/#extension)
 
-</div>
-</li>
 
 <hr>
 
 ## Waiver of premiums for policyholders who become totally disabled
+
+A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
 
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="can-I-get-waiver">Can I get a waiver so I don’t have to pay my life insurance premiums?</button>
@@ -65,15 +54,6 @@ You may be able to get a waiver of your life insurance premiums if you meet all 
 -	Your total disability continues for at least 6 months in a row
 
 There are certain exceptions to the above conditions. But if you think you’re entitled to a waiver of premiums, you should apply as soon as possible and we’ll let you know if you qualify.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-benefits-can-I-get">What benefits can I get?</button>
-<div id="what-benefits-can-I-get" class="usa-accordion-content">
-
-A waiver of premiums. This means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
 
 </div>
 </li>
@@ -95,6 +75,8 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 ## Accelerated benefits for terminally ill policyholders
 
+Eligible Veterans, service members, and covered spouses of service members can get accelerated benefits. Acclerated benefits means you can get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death. 
+
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="life-insurance-benefits-earlier">Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?</button>
 <div id="life-insurance-benefits-earlier" class="usa-accordion-content">
@@ -106,24 +88,6 @@ You or your spouse may be able to get benefits early if you meet both of the req
 -	You or your covered spouse has a written statement from a doctor saying you have (or your spouse has) 9 months or less to live
 
 **Note:** Only the insured service member or Veteran may apply for accelerated benefits. No one may apply on their behalf. In the case of a terminally ill spouse, only the insured may apply.
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="who's-covered">Who’s covered?</button>
-<div id="who's-covered" class="usa-accordion-content"> 
-
-Veterans, service members, and covered spouses of service members can get accelerated benefits. 
-
-</div>
-</li>
-
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="benefits-can-we-get">What benefits can my spouse and I get?</button>
-<div id="benefits-can-we-get" class="usa-accordion-content"> 
-
-You'll get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death. 
 
 </div>
 </li>
@@ -162,4 +126,9 @@ We pay the remaining amount of the face value of the insurance policy to your de
 </div>
 </li>
 </ul>
+
+## Learn more about life insurance benefits
+
+[Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp) <br>
+[Contact the Office of Servicemembers' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp)
 
