@@ -29,7 +29,7 @@ You can apply to find out in advance if you can be buried in a VA national cemet
 </div>
 
 **Please note:** "Pre-need" means before the time of need. This application is for planning for your own burial in advance. Please don't complete this form if you're requesting burial at the time of need.<br/>
-[Find out how to plan a burial](/burials-memorials/plan-a-burial/)
+[Find out how to schedule a burial](/burials-memorials/plan-a-burial/)
 
 ## How do I prepare before starting my application?
 
