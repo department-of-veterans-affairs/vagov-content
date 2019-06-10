@@ -41,6 +41,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="can-I-get-waiver">Can I get a waiver so I don’t have to pay my life insurance premiums?</button>
 <div id="can-I-get-waiver" class="usa-accordion-content">
@@ -70,6 +71,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 </div>
 </li>
+</ul>
 
 <hr>
 
@@ -77,6 +79,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 
 Eligible Veterans, service members, and covered spouses of service members can get accelerated benefits. Acclerated benefits means you can get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death. 
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="life-insurance-benefits-earlier">Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?</button>
 <div id="life-insurance-benefits-earlier" class="usa-accordion-content">
