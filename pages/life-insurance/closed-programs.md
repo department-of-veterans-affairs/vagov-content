@@ -130,9 +130,9 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 
 PUA is available for these life insurance policies:
 
-- NSLI (life insurance policies that start with "V"
-- VSLI (life insurance policies that start with "RS" and "W")
-- Veterans Reopened Insurance (insurance policies that start with “J,” “JR” and “JS”)
+- NSLI (policies that start with "V")
+- VSLI (policies that start with "RS" or "W")
+- Veterans Reopened Insurance (policies that start with “J,” “JR” or “JS”)
 
 
 <b>PUA insurance benefits include:</b>
