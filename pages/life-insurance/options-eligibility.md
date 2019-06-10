@@ -47,7 +47,7 @@ aliases:
 
 <div class="va-introtext">
 
-Are you a Servicemember, Veteran, or spouse or dependent child of a Servicemember? Find out which VA life insurance programs may be right for you.
+Find out which VA insurance programs may be right for you as a Veteran, service member, spouse, or dependent child. 
 
 </div>
 
