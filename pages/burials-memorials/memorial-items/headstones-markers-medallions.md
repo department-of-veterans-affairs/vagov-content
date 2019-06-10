@@ -125,7 +125,7 @@ You can apply for one of these memorial items if you're representing the Veteran
 **For a headstone, grave marker, or niche cover**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
 [Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
-**Note:** If this is your second request, or if you're requesting a replacement because of a mistake with the inscription or a damaged headstone or marker, be sure to explain this in block 27 of the form.
+**Note:** If this is your second request, or if you're requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp) because of a mistake with the inscription or a damaged headstone or marker, be sure to explain this in block 27 of the form.
 
 **For a medallion** to be placed on a privately purchased headstone or marker, fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
 [Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
@@ -232,7 +232,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 
 - You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee). And you'll need to make arrangements yourself to have the headstone or marker placed. 
 - If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
-[Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/medallion.pdf)
+[Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/hmm/types.asp)
 - If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. If you know we've received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at the above number.<br>
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
