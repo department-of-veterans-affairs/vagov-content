@@ -44,17 +44,18 @@ The United States Government Life Insurance (USGLI) program was created in 1919 
 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
-The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments).
+The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments).<br>
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 <br>
+
 [Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
 ## National Service Life Insurance (NSLI)
 
 The National Service Life Insurance (NSLI) program was created in 1940 to manage new policies issued during WWII. NSLI closed to new enrollees in 1951.
 
-The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage.
+The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage.<br>
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
@@ -66,8 +67,8 @@ Some NSLI policies were issued as "renewable term life insurance" plan, or "term
 
 <b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your NSLI term plan premium payment will never increase after you turn 70 years old. 
 
-**Effective September 11, 2000, if you have an NSLI term plan and your rate is capped**:
-You'll receive a payment called a "termination dividend" <b>if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your plan.</b> Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
+**If there is a break in your coverage (sometimes called a "policy lapse"), and you have a capped NSLI term plan:**<br>
+You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
 #### Can I convert my NSLI term policy to a permanent policy?
 
@@ -80,11 +81,11 @@ Yes. [Fill out an application to convert your NSLI term policy to a permanent po
 
 ## Veterans Special Life Insurance (VSLI)
 
-The Veterans Special Life Insurance (VSLI) was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956.
+The Veterans Special Life Insurance (VSLI) program was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956.
 
 Effective January 1, 1959, VSLI policyholders can convert their VSLI policy to a permanent insurance plan or a limited convertible term policy.
 
-The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage.
+The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage.<br>
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
@@ -96,13 +97,13 @@ Some VSLI policies were issued as "renewable term life insurance" plan, or "term
 
 If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. 
 
-**Effective September 11, 2000, if you have a VSLI term plan and your rate is already capped:**
-You'll receive a payment called a  "termination dividend" <b>if there's a break in your coverage (sometimes called a "policy lapse") or you cancel your plan.</b> Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance.
+**If there is a break in your coverage (sometimes called a "policy lapse"), and you have a capped VSLI term plan:**<br>
+You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
 #### Can I convert my VSLI term policy to a permanent policy?
 
-Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.(https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)
-<br>
+Yes. [Fill out an application to convert your VSLI term policy to a permanent policy](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
+
 [Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
 
@@ -116,9 +117,9 @@ If you became totally disabled before your 65th birthday and you have NSLI or VS
 
 ## Paid Up Additional (PUA) Insurance
 
-If you receive a yearly payment--called a dividend--on your life insurance policy, you can use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
+If you receive a yearly payment--called a dividend--on your life insurance policy, you may be able to use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
 
-PUA is available for these life insurance policies:
+**PUA is available for these life insurance policies:**
 
 - NSLI (policies that start with "V")
 - VSLI (policies that start with "RS" or "W")
