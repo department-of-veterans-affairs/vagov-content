@@ -160,8 +160,8 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 - **Niche markers:** bronze <br>
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
-[Learn more about these memorial items—and see what they look like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)<br>
-[Learn about special styles for those who served in the Civil War and the Spanish-American War](https://www.cem.va.gov/cem/hmm/pre_WWI_era.asp)
+[Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/hmm/types.asp)<br>
+[Learn about special styles for those who served in the Civil War and the Spanish-American War](https://www.cem.va.gov/cem/hmm/pre_WWI_era.asp)<br>
 [Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/blog/best-practice-recommendations-for-cleaning-government-issued-marble-headstones/)
 
 </div>
