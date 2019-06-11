@@ -44,7 +44,10 @@ We offer some life insurance programs to service members and Veterans that are n
 
 [Learn more about EFT](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
 
+<div id="united-states-government-life-insurance-(usgli)">
+
 ## United States Government Life Insurance (USGLI)
+</div>
 
 ### History
 The United States Government Life Insurance (USGLI) program was created in 1919 to manage new policies issued during WWI and after. USGLI closed to new enrollees in 1951. <br>
@@ -65,8 +68,10 @@ Active USGLI policyholders still receive yearly dividends (payments).
 
 **You don't need to apply in order to receive dividends.** Any requests asking you to apply for dividends (sometimes called "special dividends") are not valid. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
+<div id="national-service-life-insurance-(nsli)-and-veterans-special-life-insurance-(vsli)">
 
 ## National Service Life Insurance (NSLI) and Veterans Special Life Insurance (VSLI)
+</div>
 
 ### History
 
@@ -105,7 +110,11 @@ You'll receive a payment called a "termination dividend." Your termination divid
 
 Yes. [Fill out an application to convert your term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
 
+<div id="veterans-reopened-insurance">
+
 ## Veterans Reopened Insurance
+
+</div>
 
 ### History 
 
@@ -126,7 +135,11 @@ If you have an active NSLI or VSLI life insurance policy from this period, you c
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp).
 
+<div id="paid-up-additional-(pua)-insurance">
+
 ## Paid Up Additional (PUA) Insurance
+
+</div>
 
 If you receive a yearly dividend (payment) from your VA life insurance policy, you may be able to use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
 
