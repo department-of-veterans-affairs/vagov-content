@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Purchase Loan | Veterans Affairs
+title: Purchase Loan 
 heading: Purchase Loan
 display_title: Purchase Loan
-description: Find out if you meet the requirements to apply for a VA-backed purchase loan. These loans can help you buy, build, or modify a home by offering better terms and interest rates, reduce closing costs, and waive private mortgage insurance premiums. 
+description: Find out if you meet the requirements to apply for a VA-backed purchase loan Certificate of Eligibility. These loans can help you buy, build, or improve a home by offering benefits like better terms and interest rates and lower closing costs.
 keywords: n/a
 concurrence: 
 order: 1
@@ -14,13 +14,13 @@ aliases:
 
 <div class="va-introtext">
 
-Lenders offer competitive interest rates on VA-backed purchase loans. This can help you buy a home—especially if you don’t want to make a down payment. Find out if you can get this loan—and how to apply. 
+Lenders offer competitive interest rates on VA-backed purchase loans. This can help you buy, build, or improve a home—especially if you don’t want to make a down payment. Find out if you're eligible for this loan—and how to apply for your Certificate of Eligibility. 
 
 </div>
 
 <div class="feature">
 
-### Can I get a VA-backed purchase loan?
+### Am I eligible for a VA-backed purchase loan?
 
 You may be able to get a VA-backed purchase loan if you meet all of the requirements listed below.
 
