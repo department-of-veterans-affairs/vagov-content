@@ -59,7 +59,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 
 - **This application doesn’t apply to Arlington National Cemetery or the United States Soldiers and Airmen's Home National Cemetery.** If you'd like to be buried in either of these Department of the Army cemeteries, please call <a href="tel:+18779078585">877-907-8585</a>, Monday through Friday, 8:00 a.m. to 5:30 p.m. <abbr title="eastern time">ET</abbr>, and Saturday, 9:00 a.m. to 1:00 p.m. <abbr title="eastern time">ET</abbr>.
 
-- **Getting a pre-need determination of eligibility doesn’t guarantee you’ll be buried in a specific VA national cemetery.** We ask you where you'd prefer to be buried so we can try to help fulfill your final wishes. But, when we receive a request for burial from the person handling your burial arrangements, we'll assign a gravesite in a cemetery with available space at the time of need.
+- **Getting a pre-need determination of eligibility doesn’t guarantee you’ll be buried in a specific VA national cemetery.** We ask you where you'd prefer to be buried so we can try to help fulfill your final wishes. But, when we receive a request for burial from the person handling your burial arrangements, we'll assign a gravesite in a cemetery with available space at the time of need. We make assignments without regard to rank, ethnic or religious background, branch of service, or other factors. 
 
 </li>
 
