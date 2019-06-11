@@ -36,7 +36,7 @@ The family may plan to have readings by a friend or family member. They may also
 ## How can I pay my respects at a committal service?
 
 **You may:** 
-- Bring flowers, which may go with the casket or urn when it’s taken from the committal shelter to the gravesite, **and**
+- Bring flowers to accompany the casket or urn when it's taken from the committal shelter to the gravesite, **and**
 - Visit the gravesite at the end of the workday, but not immediately following the ceremony
 
 ## What happens at a military funeral at Arlington National Cemetery?
