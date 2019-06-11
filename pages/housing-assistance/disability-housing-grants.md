@@ -15,7 +15,7 @@ concurrence:
 
 <div class="va-introtext">
 
-We offer housing grants for Veterans and Servicemembers with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you're eligible for a disability housing grant—and how to apply.
+We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you're eligible for a disability housing grant—and how to apply.
 
 </div>
 
