@@ -14,9 +14,14 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
-    - url: /life-insurance/totally-disabled-or-terminally-ill/
-      title: Claims for disabled and terminally ill policyholders
-      description: If you or your spouse become totally disabled or terminally ill, find out if you can get certain benefits.
+    - url: /life-insurance/file-a-claim/
+      title: File a life insurance claim
+      description: Review how to file a life insurance claim online. 
+    - url: https://www.benefits.va.gov/INSURANCE/updatebene.asp
+      title: Change your beneficiary information
+      description: Learn how to update your beneficiary information online. 
+      
+      
 ---
 
 <div class="va-introtext">
