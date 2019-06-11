@@ -77,7 +77,7 @@ Yes. [Fill out an application to convert your NSLI term policy to a permanent po
 
 The Veterans Special Life Insurance (VSLI) program was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956.
 
-The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. [Learn more about dividends,](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 
@@ -102,13 +102,13 @@ Yes. [Fill out an application to convert your VSLI term policy to a permanent po
 
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. Plans opened during this period are known as Veterans Reopened Insurance. 
 
-The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. 
+The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage. 
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp).
 
 ## Paid Up Additional (PUA) Insurance
 
-If you receive a yearly payment--called a dividend--on your life insurance policy, you may be able to use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
+If you receive a yearly dividend (payment) from your VA life insurance policy, you may be able to use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
 
 **PUA is available for these life insurance policies:**
 
@@ -118,19 +118,19 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 
 <br> 
 
-<b>What you should know about PUA insurance benefits:</b>
+<b>What you should know about PUA insurance:</b>
 
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
 - There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
 - It earns yearly dividends
-- It gives you the option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+- You can use it to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
 - It has ["cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
 
 ## What do I do if I have more questions?
 
-Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. We're open Monday - Friday 8:30 a.m -- 6:00 p.m. ET 
+Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. We're open Monday - Friday 8:30 a.m - 6:00 p.m. ET.
 
 
 
