@@ -27,11 +27,11 @@ We offer some life insurance programs to service members and Veterans that are n
 
 <h3>On this page</h3>
 
-- [United States Government Life Insurance (USGLI)](##United-States-Government-Life-Insurance-(USGLI))
-- [National Service Life Insurane (NSLI)](##National-Service-Life-Insurance-(NSLI)-and-Veterans-Special-Life-Insurance-(VSLI))
-- [Veterans Special Life Insurance (VSLI)](##National-Service-Life-Insurance-(NSLI)-and-Veterans-Special-Life-Insurance-(VSLI))
-- [Veterans Reopened Insurance](##Veterans-Reopened-Insurance)
-- [Paid-Up-Additional-(PUA)-Insurance](##Paid-Up-Additional-(PUA)-Insurance) 
+- [United States Government Life Insurance (USGLI)](#United-States-Government-Life-Insurance-(USGLI))
+- [National Service Life Insurane (NSLI)](#National-Service-Life-Insurance-(NSLI)-and-Veterans-Special-Life-Insurance-(VSLI))
+- [Veterans Special Life Insurance (VSLI)](#National-Service-Life-Insurance-(NSLI)-and-Veterans-Special-Life-Insurance-(VSLI))
+- [Veterans Reopened Insurance](#Veterans-Reopened-Insurance)
+- [Paid-Up-Additional-(PUA)-Insurance](#Paid-Up-Additional-(PUA)-Insurance) 
 <br>
 <br>
 
