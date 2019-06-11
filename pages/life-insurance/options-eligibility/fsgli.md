@@ -45,7 +45,7 @@ You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matt
 
 </div>
 
-### How much coverage can I get with Family Servicemembers' Group Life Insurance?
+## How much coverage can I get with Family Servicemembers' Group Life Insurance?
 
 Up to a maximum of $100,000 of coverage for you as a spouse, not to exceed your service member’s SGLI coverage, and $10,000 for each dependent child. Dependent children get free coverage.
 
