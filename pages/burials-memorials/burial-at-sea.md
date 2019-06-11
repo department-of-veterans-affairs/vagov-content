@@ -26,6 +26,8 @@ relatedlinks:
 Review information on the Navy burial at sea program and find out if you can plan a burial at sea for a Veteran.  
 </div>
 
+## Who provides a burial at sea?
+
 A burial at sea is provided by the U.S. Navy Mortuary Affairs office. A burial at sea can't be provided by the the National Cemetery Administration. 
 
 [Learn more about the Navy's burial at sea program.](https://www.navy.mil/navydata/questions/burial.html)
