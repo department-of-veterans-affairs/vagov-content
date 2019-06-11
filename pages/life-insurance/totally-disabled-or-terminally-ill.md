@@ -83,12 +83,11 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 </ul>
 
 <hr>
-<span id="accelerated"></a>
+<span id="accelerated"></span>
+
 ## Accelerated benefits for terminally ill policyholders
 
 Eligible Veterans, service members, and covered spouses of service members can get accelerated benefits. With accelerated benefits, you can get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death.
-
-### Can my spouse or I get life insurance benefits early if either of us becomes terminally ill?
 
 <ul class="usa-accordion">
 <li>
