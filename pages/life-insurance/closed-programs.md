@@ -93,7 +93,7 @@ You'll receive a payment called a "termination dividend." Your termination divid
 
 #### Can I convert my VSLI term policy to a permanent policy?
 
-Yes. [Fill out an application to convert your VSLI term policy to a permanent policy](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
+Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
 
 [Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
@@ -130,8 +130,7 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 
 ## What do I do if I have more questions?
 
-Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a> <br>
-Monday - Friday 8:30 a.m -- 6:00 p.m. ET 
+Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. We're open Monday - Friday 8:30 a.m -- 6:00 p.m. ET 
 
 
 
