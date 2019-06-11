@@ -43,7 +43,7 @@ Service members may be eligible for a headstone or marker if they meet all of th
 **Both of these must be true. They:**
 
 - Served as an enlisted person after September 7, 1980, or as an officer after October 16, 1981, **and**
-- Served for a minimum of 24 months of continuous active duty or died on active duty (If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.) <br>
+- Served for a minimum of 24 months of continuous active duty or died on active duty. (If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.) <br>
 
 ### Members of the National Guard or Reserves
 
