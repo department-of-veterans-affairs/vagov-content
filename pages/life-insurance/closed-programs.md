@@ -60,7 +60,7 @@ The maximum amount for NSLI and VSLI policies is $10,000. If you have an active 
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 
-### NSLI and VSLI payment caps for term plans
+### NSLI and VSLI payment caps for term plan
 
 Some NSLI and VSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage. 
 
@@ -69,7 +69,7 @@ Some NSLI and VSLI policies were issued as "renewable term life insurance" plan,
 **If there's a break in your coverage (sometimes called a "policy lapse"), and you have a capped NSLI or VSLI term plan:**<br>
 You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
 
-### Can I convert my NSLI or VSLI term policy to a permanent policy?
+### Can I convert my NSLI or VSLI term plan to a permanent plan?
 
 Yes. [Fill out an application to convert your term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
 
