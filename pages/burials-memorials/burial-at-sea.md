@@ -33,6 +33,7 @@ A burial at sea is provided by the U.S. Navy Mortuary Affairs office. A burial a
 [Learn more about the Navy's burial at sea program.](https://www.navy.mil/navydata/questions/burial.html)
 
 **If you need more information about the Navy's burial at sea program, contact the U.S. Navy Mortuary Affairs office:**
+
 Call the U.S. Navy Mortuary Affairs office toll free at <a href="tel:18667870081">866-787-0081</a>, Monday through Friday, 8:30 a.m. to 5:00 p.m. (ET).
 
 ### Are burial items available to Veterans who have already been buried at sea?
