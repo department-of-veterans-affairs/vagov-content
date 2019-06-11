@@ -4,7 +4,7 @@ template: detail-page
 title: Manage Your VA Life Insurance Policy Online
 heading: Manage your VA life insurance policy online
 display_title: Manage your policy online 
-description: The easiest way to manage your VA life insurance policy is online. Use our portal to pay your premium, check your policy status, compare plans, update beneficiaries and more. Find out how to access your VA life insurance depending on what kind of policy you have. 
+description: The easiest way to manage your VA life insurance policy is online. Use our portal to pay your premium, check your policy status, compare plans, update beneficiaries, and more. Find out how to access your VA life insurance depending on what kind of policy you have. 
 keywords: n/a
 concurrence: 
 order: 1
