@@ -127,7 +127,7 @@ We pay the remaining amount of the face value of the insurance policy to your de
 </li>
 </ul>
 
-## Learn more
+## Learn more about VA life insurance
 
 [Read chapter 5 of the Servicemembers' and Veterans' Group Life Insurance Handbook](https://benefits.va.gov/INSURANCE/resources_handbook_ins_chapter5.asp) <br>
 [Contact the Office of Servicemembers' Group Life Insurance (OSGLI)](https://benefits.va.gov/INSURANCE/resources-contact.asp)
