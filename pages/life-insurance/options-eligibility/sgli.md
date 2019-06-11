@@ -25,13 +25,6 @@ Servicemembers’ Group Life Insurance (SGLI) offers low-cost term coverage to e
 
 </div>
 
-### On this page
-- [Accessing and managing SGLI while you're serving](#active)
-- [Applying for VGLI when you separate or retire](#convert)
-
-<span id="active"></a>
-## Accessing and managing SGLI while you're serving
-
 <div class="feature">
 
 ### Am I eligible for SGLI? 
@@ -59,16 +52,17 @@ You may be able to get full-time SGLI coverage if you meet both of the requireme
 
 **Note:** You must pay your premiums directly.
 
-<br>
-
-#### Who’s covered?
+#### Who's covered? 
 
 Service members
-
+ 
 </div>
 
-### What kind of life insurance benefits can I get with SGLI?
+## Accessing and managing SGLI while you're serving
 
+### What kind of life insurance benefits can I get with SGLI?
+  
+You can get: 
 - Coverage up to the top limit of $400,000—in $50,000 increments
 - 120 days of free coverage from the date you left the military
 - Extension of free coverage for up to 2 years (if you’re totally disabled) when you leave the military. <br>
@@ -79,13 +73,12 @@ Service members
 
 If you qualify for SGLI, we’ll automatically sign you up through your service branch. See your unit’s personnel office for more information.
 
-
 ### Can I make changes to my benefits?
 
 Yes. You can choose your level of coverage or even refuse coverage completely. You can also choose your beneficiaries (the people you pick to get the money from your life insurance policy if you die) and change them as needed.
 
-#### How to change your beneficiaries—or to reduce, turn down, or restore SGLI coverage
-
+### How to change your beneficiaries—or reduce, turn down, or restore your SGLI coverage
+ 
 **If you’re a member of the Army, Navy, Air Force, Marines, Coast Guard, or National Oceanic and Atmospheric Administration,** please submit your changes online through the SGLI Online Enrollment System (SOES). To access SOES:
 
 <ol class="process" markdown="1">
@@ -111,8 +104,8 @@ Yes. You can choose your level of coverage or even refuse coverage completely. Y
 
   Check your coverage and beneficiary information and make any needed updates.
 
- </li>
- </ol>
+</li>
+</ol>
 
 You can log in with your CAC or DS Logon using Internet Explorer as soon as you receive a notice that you can start using SOES.
 
@@ -125,6 +118,7 @@ You can log in with your CAC or DS Logon using Internet Explorer as soon as you 
 
 If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatically taken out of your base pay. The current basic SGLI premium rate is 7 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic Injury Protection coverage (TSGLI). <br>
 [Learn more about TSGLI](/life-insurance/options-eligibility/tsgli/)
+
 
 **These are the SGLI premium rates effective July 1, 2014:**
 
@@ -139,11 +133,13 @@ If you have SGLI coverage, you’ll pay a monthly premium that’ll be automatic
 | $100,000 | $7.00 | $1.00 | $8.00 |
 | $50,000 | $3.50 | $1.00 | $4.50 |
 
+
 ------
-<span id="convert"></a>
+
 ## Applying for VGLI when you separate or retire
 
 ### How do I apply for VGLI when I leave the military?
+
 When you leave the military, you can apply for Veterans’ Group Life Insurance (VGLI) within 1 year and 120 days from your discharge for up to the amount of coverage you had through SGLI. <br>
 [Learn more about VGLI](/life-insurance/options-eligibility/vgli/)
 
@@ -153,6 +149,7 @@ You can also convert your SGLI policy into a civilian policy within 120 days fro
 <span id="extension"></span>
 
 ### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?
+ 
 You may be able to keep your coverage for up to 2 years after the date you left the military if you’re within 2 years of your separation date and you meet either of the requirements listed below.
 
 **At least one of these must be true:**
@@ -163,7 +160,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
   - Loss of speech that leaves you unable to talk—even in a whisper—without the help of an artificial device
   - Permanent (long-lasting) loss of use of both of your hands, feet, or eyes, or one hand and one foot, or one hand or foot and one eye
 
-### How do I apply for SGLI Disability Extension?
+### How do I apply for an SGLI Disability Extension?
 
 You’ll need to apply for the Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE).
 

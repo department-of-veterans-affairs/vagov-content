@@ -27,9 +27,6 @@ To get a VA-backed home loan as the surviving spouse of a Veteran, you’ll need
 
 </div>
 
-**Note:** If you have a VA-backed loan and you're having trouble making your mortgage payments, we can help you avoid foreclosure and keep your house. <br>
-[Learn about VA financial counseling](/housing-assistance/home-loans/trouble-making-payments/)
-
 <div class="feature" markdown="1">
 
 ### Can I get a COE?
@@ -84,4 +81,8 @@ Submit the form and documents to the VA pension management center that serves yo
 
 ## Next steps for getting a VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender.
+Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender. <br>
+
+**Note:** If you already have a VA-backed loan and you're having trouble making your mortgage payments, we can help you avoid foreclosure and keep your house. <br>
+[Learn about VA financial counseling](/housing-assistance/home-loans/trouble-making-payments/)
+
