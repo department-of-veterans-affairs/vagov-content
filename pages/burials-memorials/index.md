@@ -162,6 +162,10 @@ hublinks:
       description: Find a Veteran's or family member's grave in a VA national cemetery,
         or in a state or tribal Veterans cemetery.
       external: false
+    - url: /burials-memorials/burial-at-sea/
+      label: Burial at Sea
+      description: Find out how to request a burial at sea.
+      external: false
     - url: https://www.cem.va.gov/cem/faq.asp
       label: VA Burial Benefits FAQ
       description: Find answers to common questions about VA burial benefits and memorial
