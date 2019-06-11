@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Native American Direct Loan (NADL) | Veterans Affairs
+title: Native American Direct Loan (NADL) 
 heading: Native American Direct Loan (NADL)
 display_title: Native American Direct Loan
-description: Learn if you're eligible for a Native American Direct Loan to help buy, build, or improve a home on Federal Trust Land. You may also be able to lower your interest rate and refinance a loan you already have. 
+description: Find out if you're eligible for a Native American Direct Loan (NADL) to help buy, build, or improve a home on Federal Trust Land. You may also be able to lower your interest rate and refinance a loan you already have. 
 keywords: n/a
 concurrence:
 children: housingNativeAmericanDLoan
@@ -15,7 +15,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you’re a Veteran, and either you or your spouse is Native American, our Native American Direct Loan (NADL) program may help you get a loan to buy, build, or improve a home on Federal Trust Land. You may also get a loan to refinance an existing NADL and reduce your interest rate. Find out if you qualify for a NADL—and how to apply.
+If you’re a Veteran, and either you or your spouse is Native American, our Native American Direct Loan (NADL) program may help you get a loan to buy, build, or improve a home on Federal Trust Land. You may also get a loan to refinance an existing NADL and reduce your interest rate. Find out if you're eligible for a NADL—and how to apply.
 
 </div>
 
