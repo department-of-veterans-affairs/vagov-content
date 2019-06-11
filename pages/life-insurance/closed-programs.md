@@ -116,8 +116,6 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 - VSLI (policies that start with "RS" or "W")
 - Veterans Reopened Insurance (policies that start with “J,” “JR” or “JS”)
 
-<br> 
-
 <b>What you should know about PUA insurance:</b>
 
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
