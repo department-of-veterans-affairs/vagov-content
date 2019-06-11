@@ -74,8 +74,7 @@ Active USGLI policyholders still receive yearly dividends (payments).
 
 **The Veterans Special Life Insurance (VSLI) program** was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956. <br>
 
-[Learn more about NSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
-
+[Learn more about NSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)<br>
 [Learn more about VSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
 
@@ -148,7 +147,7 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
 
-## What do I do if I have more questions?
+## What should I do if I have more questions?
 
 Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. Our hours of operation are Monday - Friday, 8:30 a.m - 6:00 p.m. ET.
 
