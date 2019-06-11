@@ -146,11 +146,11 @@ Fax your claim to (<a href="tel:+18887485822">888-748-5822</a>).
   </li>
  </ol>
   
- #### Principal beneficiary or contingent beneficiary
+ #### If you're a principal beneficiary or contingent beneficiary:
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Send the form by fax or mail to VA Regional Office and Insurance Center
   
- #### Representative of the estate
+ #### If you're a representative of the estate:
  - Have the executor or administrator of the estate sign the claim form</li>
  - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
  - Include copies of letters testamentary, letters of administration, or a court order of distribution
@@ -163,7 +163,7 @@ Fax your claim to (<a href="tel:+18887485822">888-748-5822</a>).
   <a href="https://www.benefits.va.gov/INSURANCE/forms/29-541.htm">Download a Certificate Showing Residence and Heirs of Deceased Veteran (VA Form 29-541)</a>.
   </div>
     
-  <h4>Minor or incompetent beneficiary</h4>
+  <h4>If you're a minor or incompetent beneficiary</h4>
   - Include letters of guardianship or conservatorship (if applicable)
   - Include the mailing address of the minor or incompetent beneficary
   - Include a photocopy of the insured person’s death certificate, showing the date and cause of death. You don't need to provide an original copy of the death certificate.
