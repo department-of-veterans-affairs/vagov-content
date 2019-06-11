@@ -45,7 +45,9 @@ The United States Government Life Insurance (USGLI) program was created in 1919 
 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
-The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments). **Note:** You don't need to apply in order to receive dividends. Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments). 
+
+**Note:** You don't need to apply in order to receive dividends. Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 
 ## National Service Life Insurance (NSLI) and Veterans Special Life Insurance (VSLI)
