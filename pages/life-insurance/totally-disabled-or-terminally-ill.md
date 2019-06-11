@@ -14,13 +14,11 @@ relatedlinks:
       description: Need to file a benefits claim after your family member has died? Access your policy online.
 
 ---
-
 <div class="va-introtext">
 
 If you become totally disabled or terminally ill, you may be able to get certain benefits. Your spouse may also be able to get certain benefits if diagnosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you qualify for—and how to get them.
 
 </div>
-
 
 ## Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
 
