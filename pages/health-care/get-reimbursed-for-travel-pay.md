@@ -40,7 +40,7 @@ You may be eligible for 1 or both of our 2 types of travel pay.
 
 #### General health care travel reimbursement
 
-This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. You may be eligible for general health care travel reimbursement if at least one of the descriptions below is true for you.
+This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. You may be eligible if at least one of the below descriptions is true for you.
 
 **At least one of these must be true. You:**
 
@@ -53,7 +53,7 @@ This includes regular transportation, such as by car, plane, train, bus, taxi, o
 
 #### Special mode transportation
 
-This includes transportation by a specially equipped vehicle, like an ambulance or wheelchair vain. You may be eligible for special mode transportation if you qualify for general health care travel reimbursement and the descriptions below are also true for you.
+This includes transportation by a specially equipped vehicle, like an ambulance or wheelchair vain. You may be eligible if all of the below descriptions are true for you.
 
 **All of these must be true:**
 
@@ -124,10 +124,10 @@ If you have questions, please call your VA health facility. You can also call ou
 
 We’ll deposit your reimbursement through electronic funds transfer (EFT), unless we've made other payment arrangements with you. <br>
 
-### For ambulance claims
+### How do I get reimbursed for travel by ambulance?
 
 We have a special system to handle your ambulance claims. It’s called the fee-based claims 
-system, or FBCS. For more information, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
+system, and it helps us process your claims quickly so we can send your reimbursement faster. For more information, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
 
 ------
 
@@ -138,16 +138,15 @@ system, or FBCS. For more information, please email us at <a href="mailto:VHABen
 We currently pay **41.5 cents ($0.415)** per mile for approved, health-related travel. 
 
 **You should know that we:**
-- Calculate your mileage using the fastest and shortest route according to [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD)
-- Measure each trip door to door
+- Use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage based on the fastest and shortest route from your home to the health care facility ("door to door")
 - Pay round-trip mileage for your scheduled appointments, but may only pay return mileage for unscheduled visits
 - Reimburse you for travel to the closest VA health facility, unless your VA health care provider determines that you need to travel to another facility for care
 
 ### Will I have to pay a deductible before getting VA travel reimbursement?
 
-Yes. The deductible is $3 one-way or $6 round-trip for each appointment, up to $18 total each month.
+Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month.
 
-After you pay $18 within one month, we’ll cover the entire cost of your travel for the rest of that month.
+After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
 
 ### Can I get this deductible waived so I don't have to pay it?
 
@@ -155,21 +154,23 @@ We may waive this deductible for you in certain cases. You don’t need to pay t
 
 **One of these must be true. You're:**
 
--	Receiving a VA pension, **or**
--	Traveling for a scheduled compensation and pension exam, **or**
+-	Receiving a [VA pension](/pension/veterans-pension-rates/), **or**
+-	Traveling for a scheduled [VA claim exam](/disability/va-claim-exam/), **or**
 -	A non-service-connected Veteran, and your income last year was below the [maximum annual VA pension rate](/pension/veterans-pension-rates/), **or**
--	A non-service-connected Veteran, and what you expect to earn this year doesn’t exceed the [maximum annual VA pension rate](/pension/veterans-pension-rates/), **or**
--	A service-connected Veteran, and your income last year doesn’t exceed the applicable national means test income limit, **or**
--	A service-connected Veteran and what you expect to earn this year doesn’t exceed the [applicable national means test income limit](https://www.va.gov/HEALTHBENEFITS/apps/explorer/AnnualIncomeLimits/HealthBenefits) 
+-	A non-service-connected Veteran, and what you expect to earn this year doesn’t exceed our maximum annual VA pension rate, **or**
+-	A service-connected Veteran, and your income last year falls below the [VA national income limit](https://www.va.gov/HEALTHBENEFITS/apps/explorer/AnnualIncomeLimits/HealthBenefits) for health care benefits and prescriptions, **or**
+-	A service-connected Veteran and what you expect to earn this year doesn’t exceed our national income limit for health care benefits and prescriptions 
 
 ### What if I'm not eligible for VA travel pay?
 
 You may still qualify for other VA transportation programs that can help you get to and from your VA appointments. For more information about these options, talk to your VA health care team.
 
-**You may also qualify for transportation help from other organizations, such as:**
+You may also qualify for transportation help from other organizations.
 
-- <strong>[The American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx)</strong><br> This list includes links to thousands of local, regional, and national transit agencies. 
-- <strong>[The National Center on Senior Transportation](http://www.seniortransportation.net)</strong> <br> This organization offers transportation resources and options for seniors who qualify.
+**These resources may help you find transportation options:**
+
+- <strong>[The American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx)</strong><br> This resource includes links to thousands of local, regional, and national transit agencies. 
+- <strong>[The National Center on Senior Transportation](http://www.seniortransportation.net)</strong> <br> This organization offers transportation resources and options for eligible older adults.
 - <strong>[United Way](http://www.unitedway.org/)</strong><br> The United Way offers many services to those in need, including transportation services. Enter your zip code to find services near you.
 
 Your local VA health facility may also be able to refer you to other groups and resources to help with your transportation needs.
