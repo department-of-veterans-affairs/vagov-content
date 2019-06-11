@@ -14,6 +14,7 @@ relatedlinks:
       description: Need to file a benefits claim after your family member has died? Access your policy online.
 
 ---
+
 <div class="va-introtext">
 
 If you become totally disabled or terminally ill, you may be able to get certain benefits. Your spouse may also be able to get certain benefits if diagnosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you qualify for—and how to get them.
@@ -54,9 +55,8 @@ You may be able to get a waiver of your life insurance premiums if you meet all 
 
 There are certain exceptions to the above conditions. But if you think you’re entitled to a waiver of premiums, you should apply as soon as possible and we’ll let you know if you qualify.
 
-</li>
 </div>
-
+</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-to-get-benefits">How do I get these benefits?</button>
 <div id="how-to-get-benefits" class="usa-accordion-content">
@@ -92,7 +92,6 @@ You or your spouse may be able to get benefits early if you meet both of the req
 
 </div>
 </li>
-
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="how-do-we-get-benefits">How do we get these benefits?</button>
 <div id="how-do-we-get-benefits" class="usa-accordion-content">
