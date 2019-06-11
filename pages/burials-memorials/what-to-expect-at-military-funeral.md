@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: What To Expect At A Military Funeral
-heading: What to expect at a military funeral
-display_title: What to expect at a military funeral
+title: Military Funeral Honors and Commital Service
+heading: Military funeral honors and commital service
+display_title: Military funeral honors and commital service
 template: detail-page
 collection: burials
 order: 8
@@ -23,7 +23,6 @@ When you arrive at the cemetery, a cemetery representative will meet you and pro
 
 The family may choose to have military funeral honors.
 
-
 **Military funeral honors include:**
 - The playing of “Taps”
 - A rifle detail
@@ -35,9 +34,9 @@ The family may choose to have military funeral honors.
 **Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
 [Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-## How can I pay my respects at a military funeral?
+## How can I pay my respects at a commital service?
 
-**People attending a military funeral may:**
+**You may:** 
 - Bring flowers, which may go with the casket or urn when it’s taken from the committal shelter to the gravesite, **and**
 - Visit the gravesite at the end of the workday, but not immediately following the ceremony
 
