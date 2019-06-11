@@ -17,10 +17,9 @@ We carry out memorial services at national cemeteries with dignity and respect. 
 
 </div>
 
-## What happens during a military funeral for a Veteran or service member?
+## What happens during a commital service for a Veteran or service member?
 
-There may be a brief ceremony, including any readings or military honors, led by someone of the family's choice. This ceremony will take place at a special area called a committal shelter (not at the gravesite). A cemetery official will be there to help guide guests and family members.
-
+When you arrive at the cemetery, a cemetery representative will meet you and provide you with the deceased’s burial documents. They'll lead you and others gathered to honor the deceased to a committal shelter. The service takes place at this location, not at the gravesite. Viewing facilities aren't available and funeral services cannot be held at VA national cemeteries,There may be readings or military honors, led by someone of the family's choice. 
 
 The family may choose to have military funeral honors.
 
