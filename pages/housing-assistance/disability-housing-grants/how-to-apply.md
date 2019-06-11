@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Apply Now for Adapted Housing Grants | Veterans Affairs
-heading: How to Apply for a Specially Adapted Housing (SAH) Grant
+title: How To Apply For A Specially Adapted Housing Grant
+heading: How to apply for a Specially Adapted Housing Grant
 display_title: How to Apply
 description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
 keywords: specially adapted housing grant, sah grant
