@@ -122,7 +122,7 @@ You can apply for one of these memorial items if you're representing the Veteran
 
 ## How do I apply for a memorial item?
 
-**For a headstone, grave marker, or niche cover**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
+**For a headstone, grave marker, or niche marker**, fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
 [Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
 **Note:** If this is your second request, or if you're requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp) because of a mistake with the inscription or a damaged headstone or marker, be sure to explain this in block 27 of the form.
