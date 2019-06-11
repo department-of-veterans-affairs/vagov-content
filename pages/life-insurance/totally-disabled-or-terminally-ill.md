@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for the Totally Disabled or Terminally Ill 
-heading: Benefits for policyholders who are totally disabled or terminally ill
+title: Totally Disabled Or Terminally Ill Policyholders
+heading: Totally disabled or terminally ill policyholders
 display_title: Totally Disabled or Terminally Ill
 description: If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
 keywords: benefits for terminally ill
