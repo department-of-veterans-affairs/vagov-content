@@ -34,6 +34,7 @@ We offer some life insurance programs to service members and Veterans that are n
 - [Paid-Up-Additional-(PUA)-Insurance](##Paid-Up-Additional-(PUA)-Insurance) 
 <br>
 <br>
+
 **Note:** If you have one of these life insurance policies and need to make a payment, you must pay by Electronic Fund Transfer (EFT). We can't accept other payment methods (like paper checks). <br>
 
 [Learn more about EFT](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
