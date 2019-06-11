@@ -63,7 +63,7 @@ The maximum USGLI policy amount is $10,000.
 
 Active USGLI policyholders still receive yearly dividends (payments). 
 
-**You don't need to apply in order to receive dividends.** Any information asking you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+**You don't need to apply in order to receive dividends.** Any requests asking you to apply for dividends (sometimes called "special dividends") are not valid. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 
 ## National Service Life Insurance (NSLI) and Veterans Special Life Insurance (VSLI)
@@ -86,7 +86,7 @@ The maximum amount for NSLI and VSLI policies is $10,000.
 
 If you have an active NSLI or VSLI policy, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
 
-**You don't need to apply in order to receive dividends.** Any information asking you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+**You don't need to apply in order to receive dividends.** Any requests asking you to apply for dividends (sometimes called "special dividends") are not valid. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 ### Related benefits 
 
@@ -120,7 +120,7 @@ The maximum amount for NSLI and VSLI policies opened during the Veterans Reopene
 ### Dividends 
 If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
 
-**You don't need to apply in order to receive dividends.** Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp) <br>
+**You don't need to apply in order to receive dividends.** Any requests asking you to apply for dividends (sometimes called "special dividends") are not valid. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp) <br>
 
 ### Related benefits 
 
