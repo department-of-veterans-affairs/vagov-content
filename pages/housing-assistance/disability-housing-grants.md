@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disability Housing Grants for Veterans
+title: Disability Housing Grants For Veterans
 heading: Disability housing grants for Veterans
 display_title: Housing grants
 description: We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Find out if you're eligible for a disability housing grant, and how to apply.
