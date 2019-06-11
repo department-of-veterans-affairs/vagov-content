@@ -21,7 +21,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-We offer some life insurance programs to service members and Veterans that are now closed to new enrollees. Learn more about these programs and when they closed. 
+We offer some life insurance programs to service members and Veterans that are now closed to new enrollees. Learn more about these programs and what to do if you want to convert your policy. 
 
 </div>
 
