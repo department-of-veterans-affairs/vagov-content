@@ -106,7 +106,7 @@ If you became totally disabled before your 65th birthday and you have NSLI or VS
 
 If you receive a yearly dividend (payment) from your VA life insurance policy, you may be able to use it to buy more life insurance--also called "Paid Up Additional" (PUA) insurance. 
 
-**PUA is available for these life insurance policies:**
+**PUA insurance is available for these life insurance policies:**
 
 - NSLI (policies that start with "V")
 - VSLI (policies that start with "RS" or "W")
