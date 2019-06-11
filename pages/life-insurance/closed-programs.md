@@ -96,7 +96,7 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
 - There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
 - It earns yearly dividends
-- You can use it to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+- You can use it to take out a loan. This means that in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
 - It has ["cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
