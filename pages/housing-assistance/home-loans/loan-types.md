@@ -3,14 +3,14 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Home Loan Types
 heading: VA home loan types 
-display_title: Loan Types
+display_title: Loan types
 description: We offer VA home loan programs to help you buy, build, or improve a home or refinance your current home loan—including a VA direct loan and VA-backed loans. Learn more about the different programs, and find out if you can get a Certificate of Eligibility for a loan that meets your needs.
 keywords: va home loan, va loan 
 concurrence:
 children: housingVALoans
 order: 1
 majorlinks:
-  - heading: Explore Different Loan Types 
+  - heading: Explore Different Loan Types
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
       title: Purchase Loan
@@ -24,8 +24,6 @@ majorlinks:
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-Out Refinance Loan
       description: Want to take cash out of your home equity to pay off debt, pay for school, or take care of other needs? Find out if you're eligible for a VA-backed cash-out refinance loan.
-aliases:
-  - /housing-assistance/home-loans/loan-options/
 ---
 
 <div class="va-introtext">

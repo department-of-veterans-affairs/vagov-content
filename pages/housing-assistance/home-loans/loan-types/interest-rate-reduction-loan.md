@@ -8,8 +8,6 @@ description: An Interest Rate Reduction Refinance Loan to refinance an existing 
 keywords: n/a
 concurrence:
 order: 4
-aliases:
-  - /housing-assistance/home-loans/loan-options/irrrl/
 ---
 
 <div class="va-introtext">
@@ -30,7 +28,7 @@ You may be able to get an IRRRL if you meet all of the requirements listed below
 -	Are using the IRRRL to refinance your existing VA-backed home loan, **and**
 -	Can certify that you currently live in or used to live in the home covered by the loan
 
-**Note:** If you have a second mortgage on the home, the holder must agree to make your new VA-backed loan the first mortgage.  
+**Note:** If you have a second mortgage on the home, the holder must agree to make your new VA-backed loan the first mortgage.
 
 </div>
 

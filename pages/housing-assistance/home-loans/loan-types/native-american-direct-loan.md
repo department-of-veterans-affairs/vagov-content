@@ -9,8 +9,6 @@ keywords: n/a
 concurrence:
 children: housingNativeAmericanDLoan
 order: 3
-aliases:
-  - /housing-assistance/home-loans/loan-options/nadl/
 ---
 
 <div class="va-introtext">

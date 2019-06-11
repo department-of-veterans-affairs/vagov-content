@@ -8,7 +8,7 @@ description: VA direct and VA-backed Veterans home loans can help Veterans, serv
 keywords: veterans home loans
 concurrence:
 children: housingHomeLoans
-spoke: VA Home Loans
+spoke: VA home loans
 order: 1
 majorlinks:
   - heading:

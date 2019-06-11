@@ -8,8 +8,6 @@ description: A VA-backed cash-out refinance loan lets you replace your current l
 keywords: va cash out refinance loan 
 concurrence:
 order: 2
-aliases:
-  - /housing-assistance/home-loans/loan-options/cash-out-refinance/
 ---
 
 <div class="va-introtext">
