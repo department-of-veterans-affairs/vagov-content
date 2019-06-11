@@ -46,7 +46,7 @@ Service members may be eligible for a headstone or marker if they meet all of th
 - Served for a minimum of 24 months of continuous active duty or died on active duty <br>
 **Note:** If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
 
-### National Guard members or Reservists
+### Members of the National Guard or Reserves
 
 A member of the National Guard or Reserves may be eligible for a bronze medallion or medal of honor medallion if they meet the requirements listed below:
 
@@ -79,10 +79,10 @@ A Veteran may be eligible for a bronze medallion or medal of honor medallion if 
 
 A service member may be eligible for a bronze medallion or medal of honor medallion if they died on active duty and their  grave is in a private cemetery marked with a privately purchased headstone or marker.
 
-**All of these must be true. They:**
+**All of these must be true. They served:**
 
-- Served after September 7, 1980, **and**
-- Served for a minimum of 24 months of continuous active duty or died on active duty
+- After September 7, 1980, **and**
+- For a minimum of 24 months of continuous active duty or died on active duty
 
 ### Members of the National Guard or Reserves
 
@@ -100,7 +100,7 @@ VA may furnish a medallion to be attached to a headstone or marker furnished at 
 
 <br>
 
-**Note:** Spouses and dependents are not eligible for a medallion.
+### Spouses and dependents are not eligible for a medallion
 
   </div>
   </li>
@@ -153,7 +153,7 @@ Get help applying for a headstone, marker, or medallion by calling <a href="tel:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="headstone-marker-type">Can I choose the type of headstone or marker?</button>
 <div id="headstone-marker-type" class="usa-accordion-content">
 
-Yes. You'll choose the material you'd like for the headstone or marker in block 15 of Form 40-1330.
+Yes. You'll choose either a headstone or marker and the material you'd like it to be made of. You'll make your choice by selecting one of the boxes in block 15 of Form 40-1330. You can request any of these:
 
 - **Upright headstones:** granite or marble 
 - **Flat markers:** granite, marble, or bronze 
@@ -161,8 +161,8 @@ Yes. You'll choose the material you'd like for the headstone or marker in block 
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
 [Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/hmm/types.asp)<br>
-[Learn about special styles for those who served in the Civil War and the Spanish-American War](https://www.cem.va.gov/cem/hmm/pre_WWI_era.asp)<br>
-[Find out how to clean a government headstone or marker (PDF)](https://www.ncptt.nps.gov/blog/best-practice-recommendations-for-cleaning-government-issued-marble-headstones/)
+[Learn about special headstone and marker styles for Civil War and Spanish-American War Veterans](https://www.cem.va.gov/cem/hmm/pre_WWI_era.asp)<br>
+[Find out how to clean a government headstone or marker](https://www.ncptt.nps.gov/blog/best-practice-recommendations-for-cleaning-government-issued-marble-headstones/)
 
 </div>
 </li>
