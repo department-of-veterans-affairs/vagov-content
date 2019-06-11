@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Military Funeral Honors and Commital Service
-heading: Military funeral honors and commital service
-display_title: Military funeral honors and commital service
+title: Military Funeral Honors and Committal Service
+heading: Military funeral honors and committal service
+display_title: Military funeral honors and committal service
 template: detail-page
 collection: burials
 order: 8
@@ -17,11 +17,12 @@ We carry out memorial services at national cemeteries with dignity and respect. 
 
 </div>
 
-## What happens during a commital service for a Veteran or service member?
+## What happens during a committal service for a Veteran or service member?
 
-When you arrive at the cemetery, a cemetery representative will meet you and provide you with the deceased’s burial documents. They'll lead you and others gathered to honor the deceased to a committal shelter. The service takes place at this location, not at the gravesite. Viewing facilities aren't available and funeral services cannot be held at VA national cemeteries,There may be readings or military honors, led by someone of the family's choice. 
+When you arrive at the cemetery, a cemetery representative will meet you and give you the deceased’s burial documents. They'll lead you, and others who are gathered to honor the deceased, to a committal shelter. The committal service takes place at this location, not at the gravesite, and lasts for about 20 minutes. The burial happens after the committal service.<br>
+**Note:** Please be aware that viewing facilities aren't available at national cemeteries, and the family must arrange for funeral services elsewhere. 
 
-The family may choose to have military funeral honors.
+The family may plan to have readings by a friend or family member. They may also choose to have [military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp) performed at the committal shelter.
 
 **Military funeral honors include:**
 - The playing of “Taps”
@@ -29,12 +30,10 @@ The family may choose to have military funeral honors.
 - A color guard
 - Uniformed service members who present the burial flag
 
-[Read more about the "Honoring Those Who Served" program (PDF)](https://www.cem.va.gov/cem/docs/factsheets/honors.pdf)
-
 **Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
 [Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-## How can I pay my respects at a commital service?
+## How can I pay my respects at a committal service?
 
 **You may:** 
 - Bring flowers, which may go with the casket or urn when it’s taken from the committal shelter to the gravesite, **and**
