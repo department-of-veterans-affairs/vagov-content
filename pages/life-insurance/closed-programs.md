@@ -34,7 +34,7 @@ We offer some life insurance programs to service members and Veterans that are n
 - [Paid-Up-Additional-(PUA)-Insurance](##Paid-Up-Additional-(PUA)-Insurance) 
 <br>
 <br>
-**Note:** If you have one of these life insurance policies and need to make a payment, we require that all payments be made by Electronic Fund Transfer (EFT). We won’t accept other payment methods (like paper checks). <br>
+**Note:** If you have one of these life insurance policies and need to make a payment, you must pay by Electronic Fund Transfer (EFT). We can't accept other payment methods (like paper checks). <br>
 
 [Learn more about EFT](https://www.benefits.va.gov/INSURANCE/payments-eft.asp)
 
@@ -44,8 +44,7 @@ The United States Government Life Insurance (USGLI) program was created in 1919 
 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
-The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments).<br>
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments). [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 [Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
@@ -53,15 +52,14 @@ The maximum USGLI policy amount is $10,000. Active USGLI policyholders still rec
 
 The National Service Life Insurance (NSLI) program was created in 1940 to manage new policies issued during WWII. NSLI closed to new enrollees in 1951.
 
-The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage.<br>
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum NSLI policy amount is $10,000. If you have an active NSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends (payments) you receive from your coverage. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have NSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 
 
-### NSLI capped term plan
+### NSLI term plan cap
 
-Some NSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time ("term"). After the term ends, you can choose to renew your coverage. 
+Some NSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time (a "term"). After the term ends, you can choose to renew your coverage. 
 
 <b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your premium payment will never increase after you turn 70 years old. 
 
@@ -79,13 +77,12 @@ Yes. [Fill out an application to convert your NSLI term policy to a permanent po
 
 The Veterans Special Life Insurance (VSLI) program was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956.
 
-The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage.<br>
-[Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage. [Learn more about dividends,](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 
 
-### VSLI capped term plans
+### VSLI term plan cap
 
 Some VSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage. 
 
@@ -119,14 +116,15 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 - VSLI (policies that start with "RS" or "W")
 - Veterans Reopened Insurance (policies that start with “J,” “JR” or “JS”)
 
+<br> 
 
-<b>What you should know about PUA insurance benefits</b>
+<b>What you should know about PUA insurance benefits:</b>
 
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
 - There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
 - It earns yearly dividends
 - It gives you the option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
-- It has ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
+- It has ["cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
 
