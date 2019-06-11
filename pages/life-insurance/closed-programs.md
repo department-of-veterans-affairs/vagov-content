@@ -63,7 +63,7 @@ If you became totally disabled before your 65th birthday and you have NSLI cover
 
 Some NSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time ("term"). After the term ends, you can choose to renew your coverage. 
 
-<b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your NSLI term plan premium payment will never increase after you turn 70 years old. 
+<b>If you have an NSLI term plan, your premium payment is capped at the age 70 rate.</b> This means that your premium payment will never increase after you turn 70 years old. 
 
 **If there's a break in your coverage (sometimes called a "policy lapse"), and you have a capped NSLI term plan:**<br>
 You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
@@ -75,12 +75,9 @@ Yes. [Fill out an application to convert your NSLI term policy to a permanent po
 [Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
 
 
-
 ## Veterans Special Life Insurance (VSLI)
 
 The Veterans Special Life Insurance (VSLI) program was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956.
-
-Effective January 1, 1959, VSLI policyholders can convert their VSLI policy to a permanent insurance plan or a limited convertible term policy.
 
 The maximum VSLI policy amount is $10,000. If you have an active VSLI policy, you can buy [Paid Up Additional (PUA) insurance](##Paid-Up-Additional-(PUA)-Insurance) with the yearly dividends you receive from your coverage.<br>
 [Learn more about dividends](https://www.benefits.va.gov/insurance/dividends_options.asp)
@@ -90,9 +87,9 @@ If you became totally disabled before your 65th birthday and you have VSLI cover
 
 ### VSLI capped term plans
 
-Some VSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of a time ("term"). After the term ends, you can choose to renew your coverage. 
+Some VSLI policies were issued as "renewable term life insurance" plan, or "term insurance." Term life insurance means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage. 
 
-If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium payment is capped at the age 70 rate. This means that your VSLI term plan premium will never increase after you turn 70 years old. 
+If you have a VSLI term plan (sometimes called a VSLI "RS policy"), your premium payment is capped at the age 70 rate. This means that your premium payment will never increase after you turn 70 years old. 
 
 **If there's a break in your coverage (sometimes called a "policy lapse"), and you have a capped VSLI term plan:**<br>
 You'll receive a payment called a "termination dividend." Your termination dividend can be used to purchase Paid Up Additional (PUA) life insurance. 
@@ -123,24 +120,23 @@ If you receive a yearly payment--called a dividend--on your life insurance polic
 - Veterans Reopened Insurance (policies that start with “J,” “JR” or “JS”)
 
 
-<b>PUA insurance benefits include:</b>
+<b>What you should know about PUA insurance benefits</b>
 
-- PUA insurance is fully paid for once you buy it. This means you don't need to make any premium payments.
-- No maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
-- PUA insurance earns yearly dividends
-- The option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
--  ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
+- It's fully paid for once you buy it. This means you don't need to make any premium payments.
+- There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
+- It earns yearly dividends
+- It gives you the option to take out a loan. This means in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+- It has ["Cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
 
 ## What do I do if I have more questions?
 
-##### Contact us:
+Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a> <br>
+Monday - Friday 8:30 a.m -- 6:00 p.m. ET 
 
-- [Fill out a form online](https://insurance.va.gov/ContactUs)
-- [Ask us a question online](https://iris.custhelp.va.gov/app/ask)
-- Call us at <a href="tel:18006698477">800-669-8477</a>
-- Email us: <a href="mailto:vainsurance@va.gov">800-669-8477</a> 
+
+
 
 
 
