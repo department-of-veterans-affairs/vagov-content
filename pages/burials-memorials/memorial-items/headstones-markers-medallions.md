@@ -42,9 +42,8 @@ Service members may be eligible for a headstone or marker if they meet all of th
 
 **Both of these must be true. They:**
 
-- Served as an enlisted person after September 7, 1980, or as an officer after Oct. 16, 1981, **and**
-- Served for a minimum of 24 months of continuous active duty or died on active duty <br>
-**Note:** If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
+- Served as an enlisted person after September 7, 1980, or as an officer after October 16, 1981, **and**
+- Served for a minimum of 24 months of continuous active duty or died on active duty (If the deceased served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.) <br>
 
 ### Members of the National Guard or Reserves
 
@@ -54,7 +53,7 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 - Reservists are eligible if they were called to active duty other than training. 
 - National Guard members are eligible if they served in a federal status and for the period of time they were called to serve.
 
-**Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+**Note:** Persons who have only limited active-duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
 
 ### Spouses and other family members
 
@@ -92,7 +91,7 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 - Reservists are eligible if they were called to active duty other than training. 
 - National Guard members are eligible if they served in a federal status and for the period of time they were called to serve. 
 
-**Note:** Persons who have only limited active duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
+**Note:** Persons who have only limited active-duty service for training while in the National Guard or Reserves aren't eligible unless there are special circumstances, like death while on active duty or as a result of training. 
 
 ### Commissioned officers
 
@@ -158,6 +157,7 @@ Yes. You'll choose either a headstone or marker and the material you'd like it t
 - **Upright headstones:** granite or marble 
 - **Flat markers:** granite, marble, or bronze 
 - **Niche markers:** bronze <br>
+
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
 [Learn more about these memorial items—and see what they look like](https://www.cem.va.gov/cem/hmm/types.asp)<br>
@@ -216,7 +216,7 @@ Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where t
 <div id="remains-not-available" class="usa-accordion-content">
 
 We provide memorial headstones and markers for:
-- Eligible deceased active duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
+- Eligible deceased active-duty service members and qualified Veterans when their remains are missing, not identified, donated to science, buried at sea, or scattered, **and**
 - Eligible spouses and other dependents whose remains are not available, whether or not they pass away before the eligible Veteran <br>
 **Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
 
@@ -234,7 +234,7 @@ You may have additional costs, restrictions on the type of headstone or marker y
 
 - You don't have to pay for the headstone or marker itself, but you're responsible for the cost of placing it (called a setting fee). And you'll need to make arrangements yourself to have the headstone or marker placed. 
 - If you'd like, you can request a medallion to attach to a privately purchased headstone, marker, or niche cover in a private cemetery. You can choose from 3 different sizes. When you receive the medallion, it comes with a kit to help you attach it. <br>
-[Learn more about medallions and see what they look like (PDF)](https://www.cem.va.gov/cem/hmm/types.asp)
+[Learn more about medallions and see what they look like](https://www.cem.va.gov/cem/hmm/types.asp)
 - If more than 30 days have passed since you filed your claim and the grave still isn't marked, please call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. If you know we've received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at the above number.<br>
 - If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
