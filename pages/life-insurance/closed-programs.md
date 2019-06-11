@@ -128,7 +128,7 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 
 ## What do I do if I have more questions?
 
-Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. We're open Monday - Friday 8:30 a.m - 6:00 p.m. ET.
+Call the VA Insurance Center at <a href="tel:18006698477">800-669-8477</a>. Our hours of operation are Monday - Friday 8:30 a.m - 6:00 p.m. ET.
 
 
 
