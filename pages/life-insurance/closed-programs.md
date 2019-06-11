@@ -47,7 +47,9 @@ We offer some life insurance programs to service members and Veterans that are n
 ## United States Government Life Insurance (USGLI)
 
 ### History
-The United States Government Life Insurance (USGLI) program was created in 1919 to manage new policies issued during WWI and after. USGLI closed to new enrollees in 1951. 
+The United States Government Life Insurance (USGLI) program was created in 1919 to manage new policies issued during WWI and after. USGLI closed to new enrollees in 1951. <br>
+
+[Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=18)
 
 ### Premiums
 
@@ -71,6 +73,11 @@ Active USGLI policyholders still receive yearly dividends (payments).
 **The National Service Life Insurance (NSLI) program** was created in 1940 to manage new policies issued during WWII. NSLI closed to new enrollees in 1951. <br>
 
 **The Veterans Special Life Insurance (VSLI) program** was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956. <br>
+
+[Learn more about NSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
+
+[Learn more about VSLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
+
 
 ### Coverage maximum
 
@@ -105,13 +112,16 @@ Yes. [Fill out an application to convert your term policy to a permanent policy.
 
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. Plans opened during this period are known as Veterans Reopened Insurance. 
 
+[Learn more about Veterans Reopened Insurance](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=24)
+
+
 ### Coverage maximum 
 The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. 
 
 ### Dividends 
 If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
 
-**You don't need to apply in order to receive dividends.** Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+**You don't need to apply in order to receive dividends.** Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp) <br>
 
 ### Related benefits 
 
