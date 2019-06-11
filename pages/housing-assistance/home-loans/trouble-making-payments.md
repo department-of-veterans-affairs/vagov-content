@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Trouble Making Mortgage Payments? | Veterans Affairs
-heading: Having Trouble Making Mortgage Payments on a VA-Backed Loan?
+title: VA Help to Avoid Mortgage Foreclosure
+heading: VA help to avoid mortgage foreclosure
 display_title: Trouble Making Payments?
-description: If you're having trouble making payments on your VA-backed mortgage, find out how we can help you avoid foreclosure and keep your home. Contact a VA Loan Technician for financial advice.
+description: Having trouble making your mortgage payments? If you're a Veteran or surviving spouse, find out how our VA loan technicians can work with you, and your lender, to help you avoid foreclosure and keep your home.
 keywords: va mortgage
 concurrence:
 order: 5
@@ -12,7 +12,7 @@ order: 5
 
 <div class="va-introtext">
 
-If you fall far behind on your VA-backed mortgage payments, your mortgage servicer (the company that handles collecting the money for your lender) can take your house to cover the money owed. This process is called foreclosure. Find out how we can help you avoid foreclosure and keep your house.
+If you fall far behind on your mortgage payments, your mortgage servicer (the company that handles collecting the money for your lender) can take your house to cover the money owed. This process is called foreclosure. Find out how our VA loan technicians can help you avoid foreclosure and keep your house.
 
 </div>
 
@@ -32,7 +32,7 @@ If you fall far behind on your VA-backed mortgage payments, your mortgage servic
 
 ### What should I do if I’m having trouble paying my mortgage?
 
-If you’re late with a VA-backed mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
+If you’re late with a mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
 
 If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA Loan Technician at <a href="tel:+18778273702">1-877-827-3702</a>.
 
@@ -42,11 +42,11 @@ If you’re nervous about contacting your servicer, or if you’d like our help 
 
 **There are 6 general ways you can try to avoid a foreclosure:**
 
-1. **Repayment plan:** If you’ve missed a few VA-backed mortgage payments, this plan lets you go back to making your regular payments, with an added amount each month to cover the ones you’ve missed.
+1. **Repayment plan:** If you’ve missed a few mortgage payments, this plan lets you go back to making your regular payments, with an added amount each month to cover the ones you’ve missed.
 
-2. **Special forbearance:** This plan gives you some extra time to repay the missed VA-backed mortgage payments.
+2. **Special forbearance:** This plan gives you some extra time to repay the missed mortgage payments.
 
-3. **Loan modification:** Sometimes you need a fresh start. This plan lets you add the missed VA-backed mortgage payments and any related legal costs to your total loan balance. You and your servicer then come up with a new VA-backed mortgage payment schedule.
+3. **Loan modification:** Sometimes you need a fresh start. This plan lets you add the missed mortgage payments and any related legal costs to your total loan balance. You and your servicer then come up with a new mortgage payment schedule.
 
 4. **Extra time to arrange a private sale:** If you need to sell your home, this plan lets you delay a foreclosure so you have time to sell.
 
