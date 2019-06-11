@@ -59,7 +59,7 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 
 An eligible spouse or other family member buried in a national cemetery, state or tribal Veterans cemetery, military post cemetery, or military base cemetery may be able to get a headstone or marker, even if they die before the Veteran. Spouses and family members buried in a private cemetery aren't eligible. 
 
-In most cases, we provide one gravesite and a single headstone for all eligible family members. When 2 Veterans are married, we'll provide 2 gravesites and 2 headstones or markers if requested.
+In most cases, we provide one gravesite and a single headstone for all eligible family members. When 2 Veterans are married, we'll provide 2 side-by-side gravesites and 2 headstones or markers if requested.
 
 </div>
 </li>
