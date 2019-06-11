@@ -4,7 +4,7 @@ template: detail-page
 title: Interest Rate Reduction Refinance Loan | Veterans Affairs
 heading: Interest Rate Reduction Refinance Loan (IRRRL)
 display_title: Interest Rate Reduction Refinance Loan
-description: Find out how you can apply for an Interest Rate Reduction Refinance Loan to refinance an existing VA-backed loan and reduce monthly mortgage payments. 
+description: An Interest Rate Reduction Refinance Loan to refinance an existing VA-backed loan and reduce monthly mortgage payments. Find out if you're eligible—and how to apply.
 keywords: n/a
 concurrence:
 order: 4
@@ -14,7 +14,7 @@ aliases:
 
 <div class="va-introtext">
 
-If you have an existing VA-backed home loan and you want to refinance to reduce your monthly mortgage payments—or make your payments more stable—an Interest Rate Reduction Refinance Loan (IRRRL) may be right for you. Refinancing lets you replace your current loan with a new one under different terms. Find out if you can get an IRRRL and how to apply.
+If you have an existing VA-backed home loan and you want to refinance to reduce your monthly mortgage payments—or make your payments more stable—an Interest Rate Reduction Refinance Loan (IRRRL) may be right for you. Refinancing lets you replace your current loan with a new one under different terms. Find out if you're eligible—and how to apply.
 
 </div>
 
