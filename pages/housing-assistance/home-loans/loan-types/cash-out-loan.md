@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Cash-Out Refinance Loan | Veterans Affairs
+title: Cash-Out Refinance Loan
 heading: Cash-Out Refinance Loan
 display_title: Cash Out Refinance Loan
-description: Find out if you can apply for a VA-backed cash-out refinance loan that has newer terms than your current loan. 
+description: A VA-backed cash-out refinance loan lets you replace your current loan with a new one under different terms. Find out if you're eligible—and how to apply for your Certificate of Eligibility.
 keywords: va cash out refinance loan 
 concurrence:
 order: 2
@@ -14,7 +14,7 @@ aliases:
 
 <div class="va-introtext">
 
-A VA-backed cash-out refinance loan lets you replace your current loan with a new one under different terms. If you want to take cash out of your home equity or refinance a non-VA loan into a VA-backed loan, a VA-backed cash-out refinance loan may be right for you. Find out if you can get a VA-backed cash-out refinance loan--and how to apply.
+A VA-backed cash-out refinance loan lets you replace your current loan with a new one under different terms. If you want to take cash out of your home equity or refinance a non-VA loan into a VA-backed loan, a VA-backed cash-out refinance loan may be right for you. Find out if you're eligible—and how to apply for your Certificate of Eligibility.
 
 </div>
 
@@ -22,7 +22,7 @@ A VA-backed cash-out refinance loan lets you replace your current loan with a ne
 
 ### Am I eligible for a VA-backed cash-out refinance loan?
 
-You may be able to get a VA-backed cash-out refinance loan if you meet all of the requirements listed below.
+You may be eligible for this type of loan if you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 
@@ -68,7 +68,7 @@ You’ll go through a private bank, mortgage company, or credit union—not dire
 
 <li class="process-step list-two">
 
-#### Apply for your VA-backed home loan Certificate of Eligibility (COE).
+#### Apply for your Certificate of Eligibility (COE).
 
 You’ll need to show your COE to your lender as proof that you qualify for the home loan benefit. <br />
 [Find out if you qualify for a COE](/housing-assistance/home-loans/eligibility/). <br />
