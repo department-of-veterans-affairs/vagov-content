@@ -77,7 +77,7 @@ Yes. [Fill out an application to convert your term policy to a permanent policy.
 
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. Plans opened during this period are known as Veterans Reopened Insurance. 
 
-The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
+The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp).
 
@@ -96,7 +96,8 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
 - There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
 - It earns yearly dividends
-- You can use it to take out a loan. This means that in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. 
+- You can use it to take out a policy loan. This means that in some cases, you can borrow a certain percentage of the total amount of your PUA life insurance. [Learn more about taking out a policy loan.](https://www.benefits.gov/benefit/1512)<br>
+[Apply for a policy loan](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf)
 - It has ["cash surrender"](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=67) value. This means that in some cases, if you cancel your VA life insurance policy before the policy matures or an insurable event occurs, we'll pay you a certain amount of money. [Appy for cash surrender.](https://www.vba.va.gov/pubs/forms/VBA-29-1546-ARE.pdf) <br>
 
 [Learn more about PUA](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=71)<br>
