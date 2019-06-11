@@ -19,6 +19,10 @@ relatedlinks:
     - url: /burials-memorials/dependency-indemnity-compensation/
       title: Compensation for Surviving Spouses and Dependents
       description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
+    - url: /burials-memorials/burial-at-sea/
+      title: Burial at Sea
+      description: Find out how to request a burial at sea. 
+      
 ---
 
 <div class="va-introtext">
@@ -110,11 +114,6 @@ The funeral director you’ve chosen can help you with these steps too:
 
 </li>
 </ol>
-
-## Can I get information about the Burial at Sea program?
-
-If you have questions about the Burial at Sea program, please contact the United States Navy Mortuary Affairs office toll-free at <a href="tel:+18667870081">1-866-787-0081</a>, Monday through Friday, 8:30 a.m. to 5:00 p.m. (<abbr title="eastern time">ET</abbr>). <br>
-[Get more information about the Burial at Sea program](http://www.navy.mil/navydata/nav_legacy.asp?id=204).
 
 ## Can I get help paying for burial costs?
 
