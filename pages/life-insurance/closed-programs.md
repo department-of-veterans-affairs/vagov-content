@@ -46,7 +46,6 @@ All USGLI policies are considered “paid-up” as of January 1, 1983. This mean
 
 The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments). [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
-[Learn more about USGLI](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf)
 
 ## National Service Life Insurance (NSLI)
 
@@ -70,8 +69,6 @@ You'll receive a payment called a "termination dividend." Your termination divid
 
 Yes. [Fill out an application to convert your NSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
 
-[Learn more about NSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=20)
-
 
 ## Veterans Special Life Insurance (VSLI)
 
@@ -94,8 +91,6 @@ You'll receive a payment called a "termination dividend." Your termination divid
 #### Can I convert my VSLI term policy to a permanent policy?
 
 Yes. [Fill out an application to convert your VSLI term policy to a permanent policy.](https://benefits.va.gov/INSURANCE/forms/29-0152.pdf)<br>
-
-[Learn more about VSLI coverage](https://www.benefits.va.gov/INSURANCE/docs/2018_VALifeBook.pdf#page=22)
 
 
 ## Veterans Reopened Insurance
