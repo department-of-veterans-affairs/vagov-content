@@ -27,7 +27,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Learn about VA home loan eligibility requirements. Find out how to apply for a Certificate of Eligibility (COE) to show your lender that you qualify for a VA-backed loan based on your service history and duty status. Keep in mind that you’ll also need to meet your lender’s credit and income loan requirements to receive financing.
+Learn about VA home loan eligibility requirements for a VA direct or VA-backed loan. Find out how to apply for a Certificate of Eligibility (COE) to show your lender that you qualify based on your service history and duty status. Keep in mind that for a VA-backed home loan, you’ll also need to meet your lender’s credit and income loan requirements to receive financing.
 
 </div>
 
