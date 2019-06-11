@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-title: About VA Insurance Options and Eligibility
+title: About VA Insurance Options And Eligibility
 heading: About VA insurance options and eligibility
 display_title: Options and eligibility
 description: Find out which VA insurance program may be right for you as a Veteran, service member, spouse, or dependent child. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in life insurance coverage.
