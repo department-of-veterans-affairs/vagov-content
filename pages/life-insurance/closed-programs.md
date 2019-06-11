@@ -46,26 +46,43 @@ We offer some life insurance programs to service members and Veterans that are n
 
 ## United States Government Life Insurance (USGLI)
 
+### History
 The United States Government Life Insurance (USGLI) program was created in 1919 to manage new policies issued during WWI and after. USGLI closed to new enrollees in 1951. 
+
+### Premiums
 
 All USGLI policies are considered “paid-up” as of January 1, 1983. This means that if you have USGLI coverage, you don't need to make any premium payments. <br>
 
-The maximum USGLI policy amount is $10,000. Active USGLI policyholders still receive yearly dividends (payments). 
+### Coverage maximum
 
-**Note:** You don't need to apply in order to receive dividends. Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+The maximum USGLI policy amount is $10,000. 
+
+### Dividends
+
+Active USGLI policyholders still receive yearly dividends (payments). 
+
+**You don't need to apply in order to receive dividends.** Any information asking you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
 
 
 ## National Service Life Insurance (NSLI) and Veterans Special Life Insurance (VSLI)
 
+### History
 
 **The National Service Life Insurance (NSLI) program** was created in 1940 to manage new policies issued during WWII. NSLI closed to new enrollees in 1951. <br>
 
 **The Veterans Special Life Insurance (VSLI) program** was created in 1951 to manage new policies issued during the Korean War. VSLI closed to new enrollees in 1956. <br>
 
+### Coverage maximum
 
-The maximum amount for NSLI and VSLI policies is $10,000. If you have an active NSLI or VSLI policy, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
+The maximum amount for NSLI and VSLI policies is $10,000. 
 
-**Note:** You don't need to apply in order to receive dividends. Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+### Dividends 
+
+If you have an active NSLI or VSLI policy, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
+
+**You don't need to apply in order to receive dividends.** Any information asking you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+
+### Related benefits 
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp). 
 
@@ -84,11 +101,19 @@ Yes. [Fill out an application to convert your term policy to a permanent policy.
 
 ## Veterans Reopened Insurance
 
+### History 
+
 Congress reopened the National Service Life Insurance (NSLI) and the Veterans Special Life Insurance (VSLI) programs for a one year period between May 1, 1965 to May 2, 1966. Plans opened during this period are known as Veterans Reopened Insurance. 
 
-The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
+### Coverage maximum 
+The maximum amount for NSLI and VSLI policies opened during the Veterans Reopened Insurance period is $10,000. 
 
-**Note:** You don't need to apply in order to receive dividends. Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+### Dividends 
+If you have an active NSLI or VSLI life insurance policy from this period, you can buy [Paid Up Additional (PUA) insurance](#paid-up-additional-(pua)-insurance) with the yearly dividends (payments) you receive from your coverage. 
+
+**You don't need to apply in order to receive dividends.** Any information instructing you to apply for dividends (sometimes called "special dividends") is false. [Learn more about dividends.](https://www.benefits.va.gov/insurance/dividends_options.asp)
+
+### Related benefits 
 
 If you became totally disabled before your 65th birthday and you have NSLI or VSLI coverage, you may be eligible to receive [certain disability benefits](https://www.benefits.va.gov/INSURANCE/gli-claim-disability.asp).
 
@@ -102,7 +127,7 @@ If you receive a yearly dividend (payment) from your VA life insurance policy, y
 - VSLI (policies that start with "RS" or "W")
 - Veterans Reopened Insurance (policies that start with “J,” “JR” or “JS”)
 
-<b>What you should know about PUA insurance:</b>
+### What you should know about PUA insurance:
 
 - It's fully paid for once you buy it. This means you don't need to make any premium payments.
 - There's no maximum coverage limit. You can add any amount of PUA to your existing life insurance policy for as long as you want.
