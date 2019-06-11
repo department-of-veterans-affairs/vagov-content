@@ -10,26 +10,26 @@ children: lifeInsuranceOptions
 order: 1
 spoke: Get benefits
 majorlinks:
-  - heading: VA life insurance options
-    links:
-      - url: /life-insurance/options-eligibility/sgli/
-        title: Servicemembers’ Group Life Insurance (SGLI)
-        description: Get group life insurance while you’re serving.
-      - url: /life-insurance/options-eligibility/fsgli/
-        title: Family Servicemembers’ Group Life Insurance (FSGLI)
-        description: Add coverage for your spouse and dependent children (children who rely on you for financial support).
-      - url: /life-insurance/options-eligibility/tsgli/
-        title: Traumatic Injury Protection (TSGLI)
-        description: Get short-term financial support to help you recover from a severe injury.
-      - url: /life-insurance/options-eligibility/vgli/
-        title: Veterans’ Group Life Insurance (VGLI)
-        description: Get group life insurance once you’ve ended your service.
-      - url: /life-insurance/options-eligibility/s-dvi/
-        title: Service-Disabled Veterans Insurance (S-DVI)
-        description: If you’re disabled because of an injury or illness caused—or made worse—by your active service, continue your life insurance beyond 2 years after you leave the military.
-      - url: /life-insurance/options-eligibility/vmli/
-        title: Veterans’ Mortgage Life Insurance (VMLI)
-        description: If you have a severe service-connected disability, get mortgage protection insurance for a home that’s been adapted to meet your needs.
+ - heading: VA life insurance options	
+   links:	
+     - url: /life-insurance/options-eligibility/sgli/	
+       title: Servicemembers’ Group Life Insurance (SGLI)	
+       description: Get group life insurance while you’re serving.	
+     - url: /life-insurance/options-eligibility/fsgli/	
+       title: Family Servicemembers’ Group Life Insurance (FSGLI)	
+       description: Add coverage for your spouse and dependent children (children who rely on you for financial support).	
+     - url: /life-insurance/options-eligibility/tsgli/	
+       title: Traumatic Injury Protection (TSGLI)	
+       description: Get short-term financial support to help you recover from a severe injury.	
+     - url: /life-insurance/options-eligibility/vgli/	
+       title: Veterans’ Group Life Insurance (VGLI)	
+       description: Get group life insurance once you’ve ended your service.	
+     - url: /life-insurance/options-eligibility/s-dvi/	
+       title: Service-Disabled Veterans Insurance (S-DVI)	
+       description: If you’re disabled because of an injury or illness caused—or made worse—by your active service, continue your life insurance beyond 2 years after you leave the military.	
+     - url: /life-insurance/options-eligibility/vmli/	
+       title: Veterans’ Mortgage Life Insurance (VMLI)	
+       description: If you have a severe service-connected disability, get mortgage protection insurance for a home that’s been adapted to meet your needs.
 relatedlinks:
   - heading: More information about your benefits
     links:
