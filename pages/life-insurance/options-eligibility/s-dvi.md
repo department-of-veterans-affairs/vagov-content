@@ -55,8 +55,9 @@ You may be able to get $30,000 of supplemental coverage if you qualify for a pre
 
 Veterans
 
+</div>
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -64,13 +65,9 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
-
-
-</div>
-
 <br>
-### What kind of life insurance benefits can I get with Service-Disabled Veterans’ Life Insurance?
 
+## What kind of life insurance benefits can I get with Service-Disabled Veterans’ Life Insurance?
 
 - Up to $10,000 of coverage
 - Up to $30,000 of supplemental coverage
