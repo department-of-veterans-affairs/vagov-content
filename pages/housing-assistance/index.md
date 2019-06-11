@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Housing Assistance | Veterans Affairs
+title: VA Housing Assistance 
 heading: VA housing assistance
 display_title: Housing
-description: Find out if you're eligible for VA housing assistance and learn how to apply. We offer Veterans housing assistance, including VA-backed home loans and grants for Veterans with service-connected disabilities. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.
-keywords: va housing, va housing assistance, veteran housing, veterans housing assistance
+description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veteran housing assistance programs, including VA-backed home loans for Veterans, serivce members, and surviving spouses as well as grants for Veterans with service-connected disabilities. 
+keywords: va housing, va housing assistance, veteran housing
 concurrence: complete
 lastupdate:
 order: 1
@@ -166,7 +166,7 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA housing assistance helps Servicemembers, Veterans, and their surviving spouses buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
+VA housing assistance can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
 
 <h3>On This Page</h3>
 <ul>
