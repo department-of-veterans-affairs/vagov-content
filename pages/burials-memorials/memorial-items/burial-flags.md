@@ -13,7 +13,7 @@ relatedlinks:
     title: Presidential Memorial Certificates
     description: Find out if you can get an engraved paper certificate signed by the current president to honor the service of a Veteran or Reservist.
   - url: /burials-memorials/memorial-items/headstones-markers-medallions/
-    title: Headstones, markers, niche covers, and medallions
+    title: Headstones, markers, and medallions
     description: Apply for one of these memorial items to identify the burial place of a Veteran or eligible family member.
 ---
 
