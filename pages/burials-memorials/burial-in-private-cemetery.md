@@ -126,6 +126,9 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Can you give me a written list of what information or resources I need to give you in order to plan the burial? 
 
 
+## Is a spouse or dependent get eligible for memorial items if they're buried in private cemetery?
+
+No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
 
 
 
