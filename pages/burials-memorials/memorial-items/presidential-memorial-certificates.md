@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request A Presidential Memorial Certificate To Honor A Veteran Or Reservist
-heading: Request a Presidential Memorial Certificate to honor a Veteran or Reservist
+title: Presidential Memorial Certificates
+heading: Presidential Memorial Certificates
 display_title: Presidential Memorial Certificates
 description: Find out how to apply for a Presidential Memorial Certificate (PMC) to honor the military service of a Veteran or Reservist. A PMC is an engraved paper certificate signed by the current president of the United States.
 order: 3
@@ -13,7 +13,7 @@ relatedlinks:
     title: Burial flags
     description: Apply for a United States flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist.
   - url: /burials-memorials/memorial-items/headstones-markers-medallions/
-    title: Headstones, markers, niche covers, and medallions
+    title: Headstones, markers, and medallions
     description: Apply for one of these memorial items to identify the burial place of a Veteran or eligible family member.
 ---
 
