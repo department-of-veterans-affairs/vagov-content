@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for policyholders who are totally disabled or terminally ill
+title: Benefits For Policyholders Who Are Totally Disabled Or Terminally Ill
+heading: Benefits for policyholders who are totally disabled or terminally ill
 display_title: Totally disabled or terminally ill
 concurrence: 
 order: 2
@@ -38,7 +39,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 ## Waiver of premiums for policyholders who become totally disabled
 
-A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
+A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to one year prior to receipt of a claim.
 
 <ul class="usa-accordion">
 <li>
