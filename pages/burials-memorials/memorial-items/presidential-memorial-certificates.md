@@ -53,7 +53,7 @@ You can apply at any VA regional benefit office.<br>
 Fill out the Presidential Memorial Certificate Request Form (VA Form 40-0247). <br>
 [Download VA Form 40-0247 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-0247.pdf)
 
-Mail the form, along with copies of the Veteran’s death certificate and discharge papers (DD214 or other separation documents), here: <br>
+Mail the form, along with copies of the Veteran’s death certificate and [DD214 or other discharge documents](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp), here: <br>
 
 <p class="va-address-block">
     Memorial Products Service (41B)<br>
