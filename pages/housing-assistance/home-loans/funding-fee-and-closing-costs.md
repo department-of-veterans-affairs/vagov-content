@@ -162,7 +162,7 @@ We don't determine most details of your home loan.
 - Discount points (fees you may pay to your lender at closing to get a lower interest rate on your loan)
 - Other closing costs
 
-These rates may vary from lender to lender. You should know that adding the VA funding fee and other loan costs to your loan could lead to you owing more money than the fair market value of the home. This could reduce the benefit of refinancing since your payment wouldn't be as low as you may want it to be. It could also make it harder for you get enough money out of the future sale of the home to pay off your loan balance.
+These rates may vary from lender to lender. You should know that adding the VA funding fee and other loan costs to your loan could lead to you owing more money than the fair market value of the home. This could reduce the benefit of refinancing since your payment wouldn't be as low as you may want it to be. It could also make it harder for you to get enough money out of the future sale of the home to pay off your loan balance.
 
 <h3>Who pays for which closing costs?</h3>
 
@@ -185,4 +185,4 @@ These rates may vary from lender to lender. You should know that adding the VA f
 
 **Note:** We require that a seller can't pay more than 4% of the total home loan in seller's concessions. But this rule only covers some closing costs, including the VA funding fee. The rule doesn't cover loan discount points.
 
-[Learn more about closing costs for buyers and sellers](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
+[Learn more about closing costs for buyers and sellers (PDF)](https://www.benefits.va.gov/phoenix/pdf/rlc/closing_costs.pdf)
