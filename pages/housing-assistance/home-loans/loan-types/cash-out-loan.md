@@ -45,7 +45,7 @@ On a no-down-payment loan, you can borrow up to the Fannie Mae/Freddie Mac confo
 You’ll want to keep closing costs in mind when refinancing a loan, as they can add up to thousands of dollars. Make sure you understand how your new loan amount relates to the value of your home. While your lender can advise you on the costs and benefits of the transaction, you’ll want to be sure you understand what you’re getting into. <br>
 [Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/) <br>
 [Visit the Consumer Financial Protection Bureau for more information](https://www.consumerfinance.gov/owning-a-home/) <br>
-[Download the Bureau’s home loan toolkit](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
+[Download the Bureau’s home loan toolkit (PDF)](http://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf)
 
 <br>
 
