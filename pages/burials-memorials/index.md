@@ -114,6 +114,10 @@ hublinks:
       description: Get step-by-step guidance on how to request and apply for a burial
         in a VA national cemetery, or in a state or tribal government Veterans cemetery.
       external: false
+    - url: /burials-memorials/burial-in-private-cemetery/
+      label: VA burial in a private cemetery
+      description: Learn more about having a burial in a private cemetery.
+      external: false
     - url: https://www.cem.va.gov/cem/burial_benefits/need.asp
       label: Schedule a Burial in a VA National Cemetery
       description: Learn how to work with the VA National Cemetery Scheduling Office
