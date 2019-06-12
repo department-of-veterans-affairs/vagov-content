@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Cash-Out Refinance Loan
 heading: Cash-out refinance loan
-display_title: Cash out refinance loan
+display_title: Cash-out refinance loan
 description: A VA-backed cash-out refinance loan lets you replace your current loan with a new one under different terms. Find out if you're eligible—and how to apply for your Certificate of Eligibility.
 keywords: va cash out refinance loan 
 concurrence:
