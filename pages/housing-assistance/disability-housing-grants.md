@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disability housing grants for Veterans
+title: Disability Housing Grants For Veterans
+heading: Disability housing grants for Veterans
 display_title: Housing grants
-description: Find out if you're eligible for disability housing grants for Veterans and Servicemembers with certain service-connected disabilities. We offer these grants to disabled Veterans and Servicemembers who want to buy or change a home (like adding a ramp) to meet their needs and live more independently.
+description: We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Find out if you're eligible for a disability housing grant, and how to apply.
+keywords: grants for veterans, veteran housing grants, housing grants, disability housing grant
 children: housingAssistanceDisabilityHousingGrants
 lastupdate:
 order: 2
@@ -13,7 +15,7 @@ concurrence:
 
 <div class="va-introtext">
 
-We offer grants to Veterans and Servicemembers with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
+We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you're eligible for a disability housing grant—and how to apply.
 
 </div>
 

@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Service-Disabled Veterans’ Life Insurance (S-DVI)
-heading: Service-Disabled Veterans’ Life Insurance (S-DVI)
+title: Service-Disabled Veterans Life Insurance (S-DVI)
+heading: Service-Disabled Veterans Life Insurance (S-DVI)
 display_title: Service-Disabled Veterans (S-DVI)
 description: Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service members. If you have a disability that we’ve concluded was caused—or made worse—by your active service, find out how to apply for S-DVI online or by mail. 
 keywords: service disabled veterans life insurance, disabled veterans life insurance, disabled veterans

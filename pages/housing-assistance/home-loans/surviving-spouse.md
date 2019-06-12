@@ -1,8 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA home loan programs for surviving spouses
-display_title: Surviving Spouse Programs
+title: VA Home Loan Programs For Surviving Spouses
+heading: VA home loan programs for surviving spouses
+display_title: Surviving spouse programs
 description: 
 concurrence:
 order: 4

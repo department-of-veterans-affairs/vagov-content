@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Traumatic Injury Protection (TSGLI) | Veterans Affairs
+title: Traumatic Injury Protection (TSGLI)
 heading: Traumatic Injury Protection (TSGLI)
 display_title: Traumatic Injury Protection (TSGLI)
 description: TSGLI (also known as Servicemembers' Group Life Insurance Traumatic Injury Protection) provides short-term financial support to eligible service members. If you were covered by SGLI and experienced a traumatic injury during service, find out how to file a claim for TSGLI or appeal a past decision.

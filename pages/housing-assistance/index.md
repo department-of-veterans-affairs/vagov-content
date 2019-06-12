@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Housing Assistance
+title: VA Housing Assistance 
+heading: VA housing assistance
 display_title: Housing
-description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veterans housing assistance, including VA-backed home loans and grants for Veterans with service-connected disabilities. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.
+description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veteran housing assistance programs, including VA-backed home loans for Veterans, service members, and surviving spouses as well as grants for Veterans with service-connected disabilities. 
+keywords: va housing, va housing assistance, veteran housing
 concurrence: complete
 lastupdate:
 order: 1
@@ -164,9 +166,9 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA housing assistance can help Servicemembers, Veterans, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
+VA housing assistance can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
 
-<h3>On This Page</h3>
+<h3>On this page</h3>
 <ul>
   <li><a href="#get">Get VA Home Loan Benefits</a></li>
   <li><a href="#manage">Get Veterans Housing Assistance Grants</a></li>

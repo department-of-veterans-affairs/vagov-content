@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Totally Disabled Or Terminally Ill Policyholders
-heading: Totally disabled or terminally ill policyholders
+heading: Totally disabled or terminally ill policyholders 
 display_title: Totally disabled or terminally ill
 description: If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
 keywords: benefits for terminally ill
@@ -47,7 +47,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 <span id="waiver"></span>
 ## Waiver of premiums for policyholders who become totally disabled
 
-A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
+A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to one year prior to receipt of a claim.
 
 <ul class="usa-accordion">
 <li>
