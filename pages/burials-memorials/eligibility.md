@@ -294,7 +294,7 @@ Veterans aren't eligible if they were convicted of subversive activities after S
 
 We can't determine eligibility for burial in Arlington National Cemetery because the United States Army maintains this cemetery. Please work with a funeral home director to contact Arlington National Cemetery at <a href="tel:+18779078585">877-907-8585</a> for their eligibility information.
 
-### The full regulations for burial in VA national cemetery
+### The full regulations for burial in VA national cemeteries
 
 Read the [full regulations](https://www.cem.va.gov/CEM/pdf/IS1_Jan_2011.pdf) to learn about burial in a VA national cemetery.
 
