@@ -30,8 +30,10 @@ A Presidential Memorial Certificate (PMC) is an engraved paper certificate signe
 You can get a Presidential Memorial Certificate if both of the descriptions below are true.
 
 **Both of these must be true:**
-- The Veteran or Reservist is eligible for burial in a national cemetery, **and**
+- The Veteran or Reservist is [eligible for burial in a national cemetery](/burials-memorials/eligibility/), **and**
 - You're the next of kin, family member, or close friend of the Veteran or Reservist (or an authorized service representative for a family member or friend of the Veteran or Reservist) <br>
+
+**Note:** More than one person may request a PMC. 
 
 [View eligibility requirements for burial in a national cemetery](/burials-memorials/eligibility/) <br>
 [See what a Presidential Memorial Certificate looks like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/pmc.pdf)
@@ -48,19 +50,24 @@ You can apply at any VA regional benefit office.<br>
 
 ### By mail
 
-You can fill out and mail a PMC request form, along with a copy of the Veteran’s death certificate and discharge papers (DD214 or other separation documents). <br>
-[Download a PMC request form (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-0247.pdf)
+Fill out the Presidential Memorial Certificate Request Form (VA Form 40-0247). <br>
+[Download VA Form 40-0247 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-0247.pdf)
 
-**Send the PMC request form and discharge papers here:**
-<br><br>
+Mail the form, along with copies of the Veteran’s death certificate and discharge papers (DD214 or other separation documents), here: <br>
+
 <p class="va-address-block">
     Memorial Products Service (41B)<br>
     Department of Veterans Affairs<br>
     5109 Russell Road<br>
     Quantico, VA 22134-3903<br>
 </p>
-<br>
+
+**Note:** Please don't send original documents since we can't return them to you.
 
 ### By fax
+
 You can also fax the form to 800-455-7143. If you need help, call <a href="tel:+18006976947">800-697-6947</a>.
 
+## Check the status of your request
+
+If it's been 16 weeks since you submitted your form and you haven't received it yet, please call <a href="tel:+12026327300">202-632-7300</a> to find out the status of your request. Please don't send a second application unless we ask you to.
