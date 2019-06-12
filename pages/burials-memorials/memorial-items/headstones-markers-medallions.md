@@ -131,7 +131,7 @@ You can apply for one of these memorial items if you're representing the Veteran
 **For a medallion** to be placed on a privately purchased headstone or marker, fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
 [Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
 
-Mail or fax your form, along with a copy of the Veteran’s DD214 or other discharge documents. Don’t send the originals, because we can’t return them.
+Mail or fax your form, along with a copy of the Veteran’s [DD214 or other discharge documents](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp). Don’t send the originals since we can’t return them.
 
 - Fax the documents to 800-455-7143, **or**
 - Mail the discharge papers and the form to this address:
