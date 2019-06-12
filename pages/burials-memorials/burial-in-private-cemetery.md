@@ -43,12 +43,56 @@ We provide these items at no extra cost to your family.
 
 ## How do I request a memorial item for a private cemetery burial?
 
+<ol class="process">
+<li class="process-step list-one">
+
+#### Fill out a claim for a memorial item
+
 ##### For a headstone, grave marker, or niche cover:
 
-Fill out the [Claim for Standard Government Headstone or Marker (VA Form 40-1330)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf).
+Fill out a [Claim for Standard Government Headstone or Marker (VA Form 40-1330)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf).
+
+<b>Note:</b> If this is your second request, or if you’re requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp) because of a mistake with the inscription or a damaged headstone or marker, please explain this in block 27 of the form.
 
 ##### For a medallion to be placed on a privately purchased headstone or marker:
-Fill out the [Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf). 
+Fill out a [Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf). 
+
+
+ </li>
+
+ <li class="process-step list-two">
+
+#### Make a copy of the Veteran's DD214 or other discharge documents
+
+Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. Don’t send the originals, because we can’t return them.
+
+ </li>
+ 
+ <li class="process-step list-three">
+ 
+ #### Submit your documents
+ 
+ Send us these documents:
+ 
+ - Claim for a memorial item
+ - Copy of DD214 or other discharge papers
+ 
+ ##### By mail: 
+ 
+ <p class="va-address-block">
+    Memorial Products Service (41B)<br>
+    Department of Veteran Affairs<br>
+    5109 Russell Road<br>
+    Quantico, VA 22134-3903<br>
+</p>
+
+##### By fax:
+
+Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>
+ 
+ </li>
+</ol>
+
 
 
 
