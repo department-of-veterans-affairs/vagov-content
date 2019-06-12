@@ -14,7 +14,7 @@ relatedlinks:
       description: Find out how to get a VA-backed purchase loan to buy a home.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
       title: Native American Direct Loan (NADL)
-      description: Find out if you can get a NADL loan to buy, build, or improve a home on Federal Trust Land.
+      description: Find out if you can get a NADL loan to buy, build, or improve a home on federal trust land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Find out how to get an IRRRL loan to refinance an existing loan.
@@ -112,7 +112,7 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 If you’re a **surviving spouse** who qualifies for home loan benefits, you’ll need the Veteran’s discharge documents (DD214)—if available—and:
 
 **If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll need to fill out and send us a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-[Download VA Form 26-1817](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf) 
+[Download VA Form 26-1817 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf) 
 
 **Or**
 
@@ -121,7 +121,7 @@ If you’re a **surviving spouse** who qualifies for home loan benefits, you’l
 - A copy of your marriage license, **and**
 - The Veteran’s death certificate
 
-[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
+[Download VA Form 21P-534EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
 <br/>
 [Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/)
 <br/>
@@ -152,7 +152,7 @@ In some cases, you can get your COE through your lender using our Web LGY system
 
 #### By mail
 To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and mail it to the address listed on the form. Please keep in mind that this may take longer than applying online or through our Web LGY system. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf)
+[Download VA Form 26-1880 (PDF)](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf)
 
 <!-- </li>
 </ol> -->
