@@ -92,7 +92,7 @@ All income limits in U.S. $
 
 **Note:** If you're married, we also include some of your spouse's income when we determine if your yearly income is at or below the income limit. The current Section 306 disability pension spouse income exclusion limit is <b>$4,916</b>. This means that we won't include the first $4,916 of your spouse's yearly income, but we'll include any amount above this. <br> [Read the full Title 38 regulations for the spouse income exclusion](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
 
-### Secton 306 death pension
+### Section 306 death pension
 
 All income limits in U.S. $
 | Survivor status | Income limit <br> (2018 yearly income at or below this amount) |
@@ -101,9 +101,9 @@ All income limits in U.S. $
 | Surviving spouse with one or more children | 20,692 |
 | Children of survivors | 12,587 | 
 
-### Survivor Benefit Plan (SBP) or Minimum Income Widow (MIW) annuity limitatation
+### Survivor Benefit Plan (SBP) or Minimum Income Widow (MIW) annuity limitation
 
-An annuity is a fixed sum of money paid to the plan's beneficiary each year. If you're part of a Section 306 Survivor Benefit Plan (sometimes called a "minimum income widow"), we'll pay you up to <b>$9,078</b> each year. 
+An annuity is a fixed sum of money paid to the plan's beneficiary each year. If you're part of a Section 306 Survivor Benefit Plan (also called the “minimum income widow” provision), we'll pay you up to <strong>$9,078</strong> each year. 
 
 ------
 <span id="old-law"></span>
@@ -146,4 +146,6 @@ All income limits in U.S. $
 
 ### Old law Survivor Benefit Plan (SBP) or Minimum Income Widow (MIW) annuity limitation
 
-An annuity is a fixed sum of money paid to the plan's beneficiary each year. If you're part of an old law death pension Survivor Benefit Plan (sometimes called a "minimum income widow"), we'll pay you up to <b>$9,078</b> each year. This includes a 2.8% cost-of-living increase for this year.
+An annuity is a fixed sum of money paid to the plan's beneficiary each year. 
+
+If you're part of an old law death pension Survivor Benefit Plan (also called the “minimum income widow” provision), we'll pay you up to <strong>$9,078</strong> each year. This includes a 2.8% cost-of-living increase for this year.
