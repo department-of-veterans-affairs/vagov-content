@@ -145,7 +145,7 @@ Contact the cemetery, funeral home, or other party responsible for accepting del
 ## What do I do if I need to file a complaint?
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
-[Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
+[Get help resolving your complaint (PDF).](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
 
 
