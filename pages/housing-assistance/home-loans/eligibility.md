@@ -143,7 +143,7 @@ You may be able to “restore” an entitlement you used in the past to buy anot
 * You’ve repaid your prior loan in full, but haven’t sold the home you bought with that loan (you can only do this one time)
 
 To request an entitlement restoration, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and send it to the VA regional loan center for your state. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf) <br>
+[Download VA Form 26-1880 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf) <br>
 [Find your state’s VA regional loan center](https://www.benefits.va.gov/homeloans/contact_rlc_info.asp) <br>
 
 ## What if I have questions about my eligibility?
@@ -153,5 +153,5 @@ If you have any questions about your eligibility for a VA home loan, please call
 ## Get more information
 - [Learn more about VA home loan guaranty benefits](https://www.benefits.va.gov/BENEFITS/benefits-summary/SummaryofVAHomeLoanGuarantyBenefits.pdf) <br>
 - [Watch a video about the costs of home ownership](https://www.youtube.com/watch?v=vYr5QVwL1Ow&list=PLA93A5833057D78B7&index=7) <br>
-- [Check out the Consumer Financial Protection Bureau's home loan toolkit](https://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf) <br>
+- [Check out the Consumer Financial Protection Bureau's home loan toolkit (PDF)](https://files.consumerfinance.gov/f/201503_cfpb_your-home-loan-toolkit-web.pdf) <br>
 
