@@ -94,6 +94,9 @@ Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
  </li>
 </ol>
 
+**Note:** Only the National Cemetery Administration (NCA) can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
+
+
 ##### Need help?
 
 Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
@@ -137,6 +140,11 @@ No. Only an eligible Veteran can receive a headstone, marker or medallion for bu
 Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We’re available Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. <br>
 
 If you know we’ve received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
+
+## What do I do if I need to file a complaint?
+
+If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
+[Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
 
 
 
