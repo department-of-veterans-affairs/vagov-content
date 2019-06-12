@@ -139,7 +139,9 @@ No. Only an eligible Veteran can receive a headstone, marker or medallion for bu
 
 Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We’re available Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. <br>
 
-If you know we’ve received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
+**If you know we’ve received your claim and more than 60 days have passed:**
+
+Contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
 
 ## What do I do if I need to file a complaint?
 
