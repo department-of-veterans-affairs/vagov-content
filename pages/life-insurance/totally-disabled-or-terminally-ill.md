@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits for policyholders who are totally disabled or terminally ill
+title: Totally Disabled Or Terminally Ill Policyholders
+heading: Totally disabled or terminally ill policyholders
 display_title: Totally disabled or terminally ill
+description: If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
+keywords: benefits for terminally ill
 concurrence: 
 order: 2
 spoke: Get benefits
@@ -11,17 +14,22 @@ relatedlinks:
     links:
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
-      description: Need to file a benefits claim after your family member has died? Access your policy online.
-
+      description: Need to file a benefits claim? Access your policy online.
 ---
 
 <div class="va-introtext">
 
-If you become totally disabled or terminally ill, you may be able to get certain benefits. Your spouse may also be able to get certain benefits if diagnosed with a terminal illness. Being totally disabled means you’re totally unable to do everyday tasks, including meaningful work. Being terminally ill means you’re sick with an illness that can’t be cured and that will likely result in death within a short period of time. Find out what benefits you qualify for—and how to get them.
+If you have VA life insurance coverage and you become totally disabled or terminally ill, you may be eligible for certain benefit options. Your spouse may also be eligible for certain options if diagnosed with a terminal illness. Learn more about these options—and how to apply.
 
 </div>
 
-## Extension of Servicemembers' Group Life Insurance (SGLI) for policyholders who become disabled
+### On this page
+- [SGLI extension for policyholders who become disabled](#sgli-extension)
+- [Waiver of premiums for policyholders who become totally disabled](#waiver)
+- [Accelerated benefits for terminally ill policyholders](#accelerated)
+
+<span id="sgli-extension"></span>
+## SGLI extension for policyholders who become disabled
 
 ### Can I get a free extension of my SGLI coverage if I’m disabled when I leave the military?  
 
@@ -36,6 +44,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 
 <hr>
 
+<span id="waiver"></span>
 ## Waiver of premiums for policyholders who become totally disabled
 
 A waiver of premiums means you won’t have to pay your life insurance premiums (the monthly payments you make to hold your policy). In most cases, premiums can only be waived up to 1 year prior to receipt of a claim.
@@ -72,6 +81,7 @@ To apply, fill out and sign a Claim for Disability Insurance (VA Form 29-357). M
 </ul>
 
 <hr>
+<span id="accelerated"></span>
 
 ## Accelerated benefits for terminally ill policyholders
 

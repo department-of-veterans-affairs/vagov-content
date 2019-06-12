@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: About VA insurance options and eligibility
+title: About VA Insurance Options And Eligibility
+heading: About VA insurance options and eligibility
 display_title: Options and eligibility
-description: If you're a Veteran, a service member, or the spouse or dependent child of a service member, find out which VA life insurance program may be right for you. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in coverage.
+description: Find out which VA insurance program may be right for you as a Veteran, service member, spouse, or dependent child. If you're ending your active-duty service, in some cases you must act within 120 days of leaving the military to ensure no lapse in life insurance coverage.
+keywords: va insurance
 concurrence:
 template: detail-page
 no_article_bottom_padding: true
@@ -43,7 +45,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Are you a service member, Veteran, or spouse or dependent child of a service member? Find out which life insurance programs may be right for you. <br>
+Find out which VA insurance programs may be right for you as a Veteran, service member, spouse, or dependent child. 
 
 </div>
 
@@ -52,6 +54,3 @@ Are you a service member, Veteran, or spouse or dependent child of a service mem
 Different programs cover Veterans (VGLI), service members (SGLI), and family members (FSGLI). You may also be able to get short-term financial coverage through TSGLI to help you recover from a traumatic (severe) injury. And if you’re disabled because of an injury or illness caused—or made worse—by your active service, you may be able to get coverage through S-DVI to continue your life insurance beyond 2 years after you leave the military.
 
 **Note:** If you're ending your military tour of duty soon, you’ll need to get new coverage quickly. In some cases, you must act within 120 days of leaving the military to be sure there's no break in your coverage.
-
-
-
