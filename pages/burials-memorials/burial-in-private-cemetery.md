@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Burial in a private cemetery
 display_title: Burial in a private cemetery
-description: 
+description: Learn more about having a burial in a private cemetery. Find out which burial benefits are available to Veterans buried in private cemeteries. 
 keywords: private cemetery
 collection: burials
 spoke: More resources
