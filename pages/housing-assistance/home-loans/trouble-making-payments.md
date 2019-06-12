@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: VA Help To Avoid Mortgage Foreclosure
 heading: VA help to avoid mortgage foreclosure
-display_title: Trouble Making Payments?
+display_title: VA help to avoid mortgage foreclosure
 description: Having trouble making your mortgage payments? If you're a Veteran or surviving spouse, find out how our VA loan technicians can work with you, and your lender, to help you avoid foreclosure and keep your home.
 keywords: va mortgage
 concurrence:
