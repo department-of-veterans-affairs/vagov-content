@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request A Burial Flag To Honor A Veteran Or Reservist
-heading: Request a burial flag to honor a Veteran or Reservist
+title: Burial Flags To Honor Veterans And Reservists
+heading: Burial flags to honor Veterans and Reservists
 display_title: Burial flags
 description: Find out how to apply for a United States burial flag to drape over the casket (or coffin) or place with the urn of a Veteran or Reservist in honor of their military service. And learn how to properly display and care for burial flags.
 order: 2
@@ -47,7 +47,7 @@ To get a burial flag, fill out the Application for United States Flag for Burial
 **Bring the application form to:**
 - A funeral director, **or**
 - [A VA regional benefit office](/find-locations/?facilityType=benefits), **or**
-- A United States post office. Call ahead to make sure your local post office has burial flags.
+- A United States post office. Call ahead to make sure your local post office has burial flags. If they don't, they can direct you to one that does.
 
 ## How do I care for the flag?
 
@@ -62,7 +62,7 @@ On the last page of the Application for United States Flag for Burial Purposes, 
 [Read more about burial flags on the last page of the application (PDF)](https://www.vba.va.gov/pubs/forms/VBA-27-2008-ARE.pdf)
 
 ## What else should I know about burial flags?
-The Veteran’s family can donate the flag to a national cemetery that has an Avenue of Flags so that it can be flown on patriotic holidays.
+The Veteran’s family can donate the flag to a national cemetery that has an Avenue of Flags so it can be flown on patriotic holidays.
 
-We can’t replace flags that are lost, destroyed, or stolen, but some Veterans organizations may be able to help if something happens to the flag we gave you.
+We can’t replace flags that are lost, destroyed, or stolen, but some Veterans organizations may be able to help you get a replacement if something happens to the flag we gave you.
 
