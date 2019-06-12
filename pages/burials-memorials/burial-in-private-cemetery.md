@@ -26,10 +26,9 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Review information on the Navy burial at sea program and find out if you can plan a burial at sea for a Veteran.  
+Learn more about having a burial in a private cemetery. Find out which burial benefits are available to Veterans buried in private cemeteries. 
 </div>
 
-Learn more about having a burial in a private cemetery. Find out which burial benefits are available to Veterans buried in private cemeteries. 
 
 ## Are memorial items available to Veterans buried in a private cemetery?
 
@@ -99,6 +98,8 @@ Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
 
 **Note:** Only the National Cemetery Administration (NCA) can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
+[Find out more about requesting memorial items](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
 #### Need help?
 
 Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
@@ -128,7 +129,7 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Does it cost money to place, set, or take care of a government headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
 
-## Is a spouse or dependent get eligible for memorial items if they're buried in private cemetery?
+## Is a spouse or dependent eligible for memorial items if they're buried in private cemetery?
 
 No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
 
@@ -142,7 +143,7 @@ Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received 
 
 Contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
 
-## What do I do if I need to file a complaint?
+## What should I do if I need to file a complaint?
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
 [Get help resolving your complaint (PDF).](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
