@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Servicemembers’ Group Life Insurance (SGLI)
+heading: Servicemembers’ Group Life Insurance (SGLI)
 display_title: Servicemembers’ Group (SGLI)
 concurrence:
 order: 1
@@ -153,7 +154,7 @@ You may be able to keep your coverage for up to 2 years after the date you left 
 **At least one of these must be true:**
 
 - You’re totally disabled at the time of your discharge and unable to work, **or**
-- No matter your work status, you’ve had 1 of the following:
+- No matter your work status, you’ve had one of the following:
   - Total loss of hearing in both ears
   - Loss of speech that leaves you unable to talk—even in a whisper—without the help of an artificial device
   - Permanent (long-lasting) loss of use of both of your hands, feet, or eyes, or one hand and one foot, or one hand or foot and one eye
