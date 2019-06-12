@@ -96,8 +96,7 @@ Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
 
 **Note:** Only the National Cemetery Administration (NCA) can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
-
-##### Need help?
+#### Need help?
 
 Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
 
