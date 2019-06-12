@@ -73,9 +73,8 @@ Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. D
  <li class="process-step list-three">
  
  #### Submit your documents
- <br>
  Send us these documents:
- 
+ <br>
  - Claim for a memorial item
  - Copy of DD214 or other discharge papers
  
@@ -91,12 +90,14 @@ Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. D
 ##### By fax:
 
 Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>
-
-Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
-
  
  </li>
 </ol>
+
+##### Need help?
+
+Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
+
 
 ## How much does a burial in a private cemetery cost? 
 
