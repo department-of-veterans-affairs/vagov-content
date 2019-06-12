@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Benefits For Policyholders Who Are Totally Disabled Or Terminally Ill
-heading: Benefits for policyholders who are totally disabled or terminally ill
+title: Totally Disabled Or Terminally Ill Policyholders
+heading: Totally disabled or terminally ill policyholders 
 display_title: Totally disabled or terminally ill
 concurrence: 
 order: 2
