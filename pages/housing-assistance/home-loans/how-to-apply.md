@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: How To Apply For A VA Home Loan Certificate Of Eligibility
 heading: How to apply for a VA home loan Certificate of Eligibility
-display_title: How to Apply
+display_title: How to apply
 description: Find out how to apply for a VA home loan Certificate of Eligibility (COE) to prove to your lender that you qualify for a VA direct or VA-backed home loan based on your service history and duty status. Then, learn more about the rest of the loan application process.
 keywords: how to apply for a va home loan, va certificate of eligibility, va loan certificate of eligibility, va home loan certificate of eligibility
 concurrence:
