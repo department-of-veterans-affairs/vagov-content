@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Access Your Policy Online
-heading: Access your policy online
-display_title: Access your policy online 
+title:  Manage Your VA Life Insurance Policy Online 
+heading: Manage your VA life insurance policy online 
+display_title: Manage your policy online 
 concurrence: 
 order: 1
 spoke: Manage benefits
