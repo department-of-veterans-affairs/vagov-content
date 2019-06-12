@@ -3,8 +3,10 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans’ Group Life Insurance (VGLI)
 heading: Veterans’ Group Life Insurance (VGLI)
+description: With Veterans’ Group Life Insurance (VGLI), you may be able to keep your life insurance coverage after you leave the military for as long as you continue to pay the premiums. Find out if you qualify for VGLI—and how to manage your coverage.
 display_title: Veterans’ Group (VGLI)
-concurrence:
+keywords: vgli, veterans group life insurance, veterans life insurance
+concurrence: 
 order: 4
 children: lifeInsuranceVGLI
 relatedlinks:
@@ -20,13 +22,13 @@ relatedlinks:
 
 <div class="va-introtext">
 
-With Veterans’ Group Life Insurance (VGLI), you may be able to keep your life insurance coverage after you leave the military for as long as you continue to pay the premiums. Find out if you qualify—and how to manage your coverage.
+With Veterans’ Group Life Insurance (VGLI), you may be able to keep your life insurance coverage after you leave the military for as long as you continue to pay the premiums. Find out if you qualify for VGLI—and how to manage your coverage.
 
 </div>
 
 <div class="feature">
 
-### Can I get VGLI?
+### Am I eligible for Veterans’ Group Life Insurance?
 
 You may be able to get VGLI if you meet at least one of the requirements listed below.
 
