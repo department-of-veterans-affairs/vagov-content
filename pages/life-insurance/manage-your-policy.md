@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Access your policy online
+title: Access Your Policy Online
+heading: Access your policy online
 display_title: Access your policy online 
 concurrence: 
 order: 1
