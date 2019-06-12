@@ -89,7 +89,7 @@ Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. D
 
 ##### By fax:
 
-Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>
+Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
  
  </li>
 </ol>
@@ -129,6 +129,15 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 ## Is a spouse or dependent get eligible for memorial items if they're buried in private cemetery?
 
 No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
+
+## What should I do if the Veteran's grave is still unmarked?
+
+**If the Veteran's grave is still unmarked and more than 30 days have passed since you filed your claim:**
+
+Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We’re available Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. <br>
+
+If you know we’ve received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
+
 
 
 
