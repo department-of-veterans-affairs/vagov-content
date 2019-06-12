@@ -1,45 +1,38 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Specially Adapted Housing (SAH) Grant
-display_title: How to Apply
+title: How to apply for a Specially Adapted Housing (SAH) grant
+display_title: How to apply
 description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
 concurrence:
 order: 1
 ---
 
+
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
-
+ 
 Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adaptation (SHA) grant on our eBenefits website. You can also check the status of an open SAH claim on the site.
 
 </div>
 
-<div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How do I prepare before starting my application?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-<ul>
+<div class="feature">
+ 
+ ## How do I prepare before starting my application?
 
-<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a>.</li>
+<ul>
+<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a></li>
 
 <li>Make sure you have the information listed below that you’ll need to fill out an  Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555).</li>
-</div>
-</div>
-</div>
+</ul>
 
-<div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-
-<h3 itemprop="name">What documents do I need to apply?</h3>
-<div itemprop="itemListElement">
- <b>You'll need your:</b>
+### You'll need these documents to apply:
 <ul>
 <li>Social Security number</li>
 <li>VA file or claim number (if you have one)</li>
 </ul>
 
 
-</div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">

@@ -18,6 +18,7 @@ private: true
 
 <script>
   window.sessionStorage.removeItem('authReturnUrl');
+  window.sessionStorage.removeItem('shouldRedirectExpiredSession');
   window.localStorage.removeItem('hasSession');
   window.localStorage.removeItem('sessionExpiration');
   window.localStorage.removeItem('userFirstName');
