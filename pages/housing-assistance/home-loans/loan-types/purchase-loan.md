@@ -34,8 +34,6 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 
 ### Why might I want a VA-backed purchase loan?
 
-<br>
-
 #### A VA-backed purchase loan often offers:
 
 - **No down payment** as long as the sales price isn’t higher than the home’s appraised value (the value set for the home after an expert reviews the property)
