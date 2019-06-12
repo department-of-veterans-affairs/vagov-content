@@ -12,7 +12,7 @@ children: burialsHeadstoneMarkersMedallions
 
 <div class="va-introtext">
 
-Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran, service member, or eligible family member.
+Find out how to apply for a headstone, marker, or medallion to honor a Veteran, service member, or eligible family member.
 
 </div>
 
