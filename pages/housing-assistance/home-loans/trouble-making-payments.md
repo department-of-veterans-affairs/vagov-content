@@ -62,5 +62,5 @@ Our VA Loan Technicians can help you figure out which option is best for you. Co
 ## What if I need help or more information?
 
 - Talk to a [housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-- Read HUD's [homeowner's guide to success](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf)
+- Read HUD's [homeowner's guide to success (PDF)](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf)
 - Read the Consumer Financial Protection Bureau's advisory on [how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/)
