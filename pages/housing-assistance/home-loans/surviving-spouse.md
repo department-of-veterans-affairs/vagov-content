@@ -56,7 +56,7 @@ This depends on whether or not you're receiving Dependency & Indemnity Compensat
 ### If you’re receiving DIC benefits
 
 You’ll need to fill out a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a> <br>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817 (PDF)</a> <br>
 
 You'll also need the Veteran's DD214 (or other separation papers) if available. <br>
 [Get military service records online](https://www.archives.gov/veterans/military-service-records)
@@ -69,7 +69,7 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 ### If you’re not receiving DIC benefits
 
 You’ll first need to fill out an Application for DIC, Survivors Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ (PDF)</a>
 
 <b>You'll also need:</b>
 - The Veteran's DD214 (or other separation papers) if available, **and**
