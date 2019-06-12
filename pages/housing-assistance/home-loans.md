@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA-backed Veterans Home Loans
+title: VA-Backed Veterans Home Loans
 heading: VA-backed Veterans home loans
-display_title: VA-Backed Home Loans
+display_title: VA-backed Home Loans
 description: VA direct and VA-backed Veterans home loans can help Veterans, service members, and their survivors to buy, build, improve, or refinance a home. Learn about our different loan programs—and how to apply. 
 keywords: veterans home loans
 concurrence:
