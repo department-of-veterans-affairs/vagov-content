@@ -15,8 +15,6 @@ relatedlinks:
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Need to file a benefits claim? Access your policy online.
-aliases:
-  - /life-insurance/disabled-and-terminally-ill/
 ---
 
 <div class="va-introtext">
