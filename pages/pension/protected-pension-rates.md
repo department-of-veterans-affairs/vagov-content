@@ -22,45 +22,49 @@ relatedlinks:
     - url: /pension/aid-attendance-housebound/
       title: Aid and Attendance benefits and Housebound allowance
       description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 ---
-
-### On this page
-
-#### Section 306 disability and death pension rates
-- [Disability pension rates for Veterans without dependents](####Veterans-without-dependents)
-- [Disability pension rates for Veterans with dependents](####Veteran-with-dependents)
-- [Death pension rates](####Death-pension)
-- [Survivor Benefit Plan (SBP) / Minimum Income Annuity (MIW) annuity limitatation](###Survivor-Benefit-Plan-(SBP)-/-Minimum-Income-Annuity-(MIW)-annuity-limitatation)
-
-#### Old law pension rates
-- [Disability pension rates](###Old-law-disability-pension)
-- [Death pension rates](###Old-law-death-pension)
-
-
 
 <div class="va-introtext">
 
-If you received a VA pension before a certain date, your pension rate may be determined differently. View pension rates determined by older laws and find out if your pension rate is protected.
+If you began receiving VA pension payments before a certain date, and you haven't elected to instead receive payments through the improved pension program, we determine your pension rates differently. View current pension rates for Section 306 and Old Law disability and death pensions, and find out if your rate is protected.
 
 </div>
 
-## Disability and death pensions (Section 306)
+<div class="usa-alert usa-alert-info" role="alert">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">
+      You can choose to receive the new VA pension benefits
+    </h3>              
+      <div data-analytics="nav-crisis-get-care-now" class="form-expanding-group borderless-alert additional-info-container">
+        <div class="additional-info-title">Learn more about changing pension benefits</div>
+          <div class="additional-info-content usa-alert-text" hidden="">
+            <p><strong>If you're currently receiving payments from a Section 306 or Old Law pension,</strong> you can elect to change your benefits to begin receiving payments through the improved VA pension program. If you have questions about your benefits, please call us at <a href="tel:+18772946380">877-294-6380</a>.  </p>    
+            <p><a href="/pension/veterans-pension-rates/">View current Veterans Pension rates</a></p>
+            <p><a href="/pension/survivors-pension-rates/">View current Survivors Pension rates</a></p>              
+            <p><strong>If you've lost entitlement to your Section 306 or Old Law pension,</strong> you can't apply again for these benefits. But you can apply for an improved <a href="/pension/how-to-apply/">Veterans Pension</a></li> or <a href="/pension/survivors-pension/">Survivors Pension</a></p>. </div>
+      </div>
+  </div>
+</div>
 
-View rates for disability and death pension programs that were available <b>from July 1, 1960 through December 31, 1978</b>. These types of benefits are sometimes called  "Section 306" pensions.
+### On this page
+- [Section 306 pension rates](#306-disability)
+- [Old Law pension rates](#old-law)
 
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
+<span id="306-disability"></span>
+## Section 306 disability and death pension rates
+**Effective December 1, 2018**
 
+These pensions were available from July 1, 1960 through December 31, 1978. If you qualify for the protected rate, we'll pay the rate you were entitled to on December 31, 1978 plus a 2.8% cost-of-living increase.
+
+We base your eligibility to receive these protected pension rates on your yearly income. Your income is how much you earn, including your salary, investment and retirement payments, and any income you may have from your dependents. Some expenses, like non-reimbursable medical expenses (paid medical expenses not covered by your insurance provider), may reduce your countable income.
 
 #### Spouse income exclusion
 
-If you're receiving a Section 306 disability pension **and you're married**, the income of your spouse may affect your pension. Effective December 1, 2018, the spouse income exclusion disability pension limit is <b>$4,916</b>. 
-<br> 
-This means that any amount of income above $4,916 made by your spouse will be included as part of your yearly income. For example, if your spouse made $5,916.00 last year and you made $5,000.00, your income for VA purposes (IVAP) is $6,000.00. 
+If you're married, we also include some of your spouse's income.
+
+The current Section 306 disability pension spouse income exclusion limit is <b>$4,916</b>. This means that we won't count the first $4,916 of your spouse's income as part of your yearly income. We'll include any amount above this.
+
+**For example:** If you earned $5,000 last year, we would include this full amount in your yearly income. If your spouse  earned $6,000 last year, we would include $1,084 in your yearly income ($6,000 - $4,916). So your yearly income for our purposes would be $6,084.
 <br>
 [Read more about spouse income exclusion under 38 CFR 3.262(b)(2)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
 
@@ -68,69 +72,71 @@ This means that any amount of income above $4,916 made by your spouse will be in
 
 #### Veterans without dependents
 
-| Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
-| --- | --- |
-| Basic amount for Veteran only (no spouse or dependent children) | Your yearly income is $15,394 or less |
-| Special Aid and Attendance allowance if your income exceeds $15,398 | Your yearly income is $15,948 or less |
-| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | <ul><li>Your yearly income for 2018 is $15,394 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
+Your rate is protected if your yearly income in 2018 was at or below the income limit listed to the right of your rate type.
 
+All rates in U.S. $
+| Pension rate type | Income limit |
+| --- | ---: |
+| Basic amount for Veteran only (no spouse or dependent children) | 15,394 |
+| Special Aid and Attendance allowance if your income exceeds $15,398 | 15,948 |
+| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | 15,394, **and**<br>You were hospitalized on or after January 1, 2018 |
 
 #### Veterans with dependents
 
-| Pension rate type | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
-| --- | --- |
-| Basic amount for Veteran only (with dependent spouse or children) | Your yearly income is $20,692 or less |
-| Special Aid and Attendance allowance if your income exceeds $20,732 | Your yearly income is $21,245 or less |
-| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | <ul><li>Your yearly income for 2018 is $21,245 or less, **and**<li>You’re hospitalized on January 1, 2018 or later</li></ul> |
+Your rate is protected if your yearly income in 2018 was at or below the income limit listed to the right of your rate type.
 
+All rates in U.S. $
+| Pension rate type | Income limit |
+| --- | ---: |
+| Basic amount for Veteran only (with dependent spouse or children) | 20,692 |
+| Special Aid and Attendance allowance if your income exceeds $20,732 | 21,245 |
+| Hospital reduction rates for Special Aid and Attendance ([38 CFR 3.552](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)) | 21,245, **and** <br> You were hospitalized on or after January 1, 2018 |
 
 ### Death pension
 
-| Beneficiary | We’ll continue paying the rate you were entitled to on December 31, 1978 if these descriptions are true for you |
-| --- | --- |
-| Surviving spouses | Your yearly income is $15,394 or less | 
-| Surviving spouses and children | Your yearly income is $20,692 or less |
-| Children of survivors | Your yearly income is $12,587 or less | 
+Your rate is protected if your yearly income in 2018 was at or below the income limit listed to the right of your survivor status.
 
+All rates in U.S. $
+| Survivor status | Income limit |
+| --- | --- |
+| Surviving spouses | 15,394 | 
+| Surviving spouses and children | 20,692 |
+| Children of survivors | 12,587 | 
 
 ### Survivor Benefit Plan (SBP) / Minimum Income Widow (MIW) annuity limitatation
 
-An annuity is a fixed sum of money paid to someone each year. If you're part of a Section 306 Survivor Benefit Plan (sometimes called a "minimum income widow"), the maximum amount of money you're entitled to is <b>$9,078</b> per year, effective December 1, 2018. 
+An annuity is a fixed sum of money paid to someone each year. If you're part of a Section 306 Survivor Benefit Plan (sometimes called a "minimum income widow"), you're entitled to up to <b>$9,078</b> each year. 
 
-## Old law pensions
+------
+<span id="old-law"></span>
 
-View rates for disability and death pension programs that were available <b>before July 1, 1960</b>. These types of benefits are sometimes called  "old law" pensions.
+## Old law pension rates
+**Effective December 1, 2018**
 
-<b>Note:</b> These rates reflect a 2.8% cost of living increase effective December 1, 2018.
+These pension programs were available before July 1, 1960. Current rates reflect a 2.8% cost-of-living increase effective December 1, 2018.
 
 ### Old law disability pension
+If you receive an old law pension, the rates listed below apply to you if one of the below descriptions is true for you.
 
-If you receive an old law pension, the rates listed below apply to you if one of these is true:
+**One of these must be true. You:**
+- Are unmarried and have a yearly income of $13,480 or less, **or**
+- Have a dependent spouse or child and have a yearly income of $19,429 or less
 
-- You're unmarried **and** your yearly income is less than or equal to $13,480
-<br>
-
-<b>or</b>
-
-<br>
-
-- You have a dependent spouse or child **and** your yearly income is less than or equal to $19,429
-
-
+All rates in U.S. $
 | Entitlement | Monthly payment | 
 |--------------- | ---------------------- | 
-| Basic rates | Your monthly payment is $66.15 |
-| 10 Years or Age 65 | Your monthly payment is $78.75 | 
-| If entitled to Aid and Attendence (A/A) | Your monthly payment is $135.45 |
-| If entitled to housebound allowance | Your monthly payment is $100.00 |
-
+| Basic rate | 66.15 |
+| 10 years or Age 65 | 78.75 | 
+| If entitled to Aid and Attendence (A/A) | 135.45 |
+| If entitled to housebound allowance | 100 |
 
 ### Old law death pension
 
-If you already receive an old law death pension, we'll continue your monthly pension payments as long as your yearly income is less than a certain amount. 
+If you already receive an old law death pension, we'll continue your monthly pension payments as long as your 2018 yearly income was less than a certain amount. 
 
-| Beneficiary | Income limit (income less than or equal to this amount) | 
+All rates in U.S. $
+| Survivor status | Income limit <br> (yearly income less than or equal to this amount) | 
 |--------------- | ---------------------- | 
-| Surviving spouse or surviving child | Your yearly income is $13,480 | 
-| Surviving spouse with children | Your yearly income is $19,429 | 
+| Surviving spouse **or** surviving child, when Veteran has no surviving spouse | 13,480 | 
+| Surviving spouse **with** one or more children | 19,429 | 
 
