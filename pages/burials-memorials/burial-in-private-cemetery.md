@@ -11,6 +11,9 @@ order: 5
 relatedlinks:
   - heading: Other helpful information
     links:
+    - url: /burials-memorials/plan-a-burial/
+      title: Plan a burial
+      description: Find out what steps to take to plan a burial for a Veteran, spouse, or dependent family member.
     - url: /burials-memorials/memorial-items/headstones-markers-medallions/
       title: Request Veterans Headstones, Grave Markers, and Medallions
       description: Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran or eligible family member.
@@ -124,9 +127,6 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Do I need to buy a special marker base before ordering a government headstone?
 - Does it cost money to place, set, or take care of a government headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
-- Can you give me a written list of what I’ll receive during the burial process?  
-- Can you give me a written list of what information or resources I need to give you in order to plan the burial? 
-
 
 ## Is a spouse or dependent get eligible for memorial items if they're buried in private cemetery?
 
