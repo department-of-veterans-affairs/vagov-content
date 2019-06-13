@@ -35,7 +35,6 @@ You can get a Presidential Memorial Certificate if both of the descriptions belo
 
 **Note:** More than one person may request a PMC. 
 
-[View eligibility requirements for burial in a national cemetery](/burials-memorials/eligibility/) <br>
 [See what a Presidential Memorial Certificate looks like (PDF)](https://www.cem.va.gov/cem/docs/factsheets/pmc.pdf)
 </div>
 
