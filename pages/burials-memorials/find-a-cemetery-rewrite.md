@@ -59,7 +59,7 @@ The Department of the Army maintains 2 national cemeteries:
     Interment Services Branch<br>
     Arlington, VA 22211<br>
 </p>
-
+<br>
 ##### Phone:
 
 Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> (local), or at <a href="tel:+18779078585">877-907-8585</a> (toll-free).
@@ -74,8 +74,7 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
     21 Harewood Road, NW<br>
     Washington, DC 20011<br>
 </p>
-
-
+<br>
 ##### Phone:
 
 Call <a href="tel:+12028291829">202-829-1829</a>.
@@ -115,7 +114,7 @@ The National Park Service (NPS) maintains 14 cemeteries.
     1849 C Street, N.W.<br>
     Washington, D.C. 20240<br>
 </p>
-
+<br>
 
 ##### Phone:
 
@@ -138,6 +137,7 @@ The American Battle Monuments Commission (AMBC) maintains 26 permanent military 
     2300 Clarendon Boulevard<br>                                     
     Arlington, VA 22201 <br>
 </p>
+<br>
 
 ##### Phone (U.S.):
 
@@ -153,6 +153,7 @@ If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
     Unit 9200, Box 1030<br>
     DPO AE 09777-1030 <br>
 </p>
+<br>
 
 ##### Phone (Overseas):
 
