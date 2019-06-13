@@ -22,9 +22,9 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 - **If you’re a Veteran or the surviving spouse of a Veteran,** we’ll provide financial counseling—even if your loan isn’t a VA direct or VA-backed loan.
 
-- **If you have a VA direct or VA-backed loan,** you can contact us anytime to request that we assign a VA Loan Technician to your loan. Our technicians can offer you financial counseling and help you deal with your servicer (or work with you directly in the case of a VA direct loan).
+- **If you have a VA direct or VA-backed loan,** you can contact us anytime to request that we assign a VA loan technician to your loan. Our technicians can offer you financial counseling and help you deal with your servicer (or work with you directly in the case of a VA direct loan).
 
-- **If you have a VA direct or VA-backed loan and it’s 61 days past due,** we’ll automatically assign a VA Loan Technician to your loan.
+- **If you have a VA direct or VA-backed loan and it’s 61 days past due,** we’ll automatically assign a VA loan technician to your loan.
 
 </div>
 
@@ -32,7 +32,7 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 If you’re late with a mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
 
-If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
+If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA loan technician at <a href="tel:+18778273702">877-827-3702</a>.
 
 ### Be careful about offers to help you make up back payments 
 
@@ -54,7 +54,7 @@ If you're behind on your mortgage payments and you get this type of offer from s
 
 6. **Deed in lieu of foreclosure:** This plan lets you avoid the foreclosure process by signing over the deed to the home to your servicer. The home will then belong to the servicer.
 
-Our VA Loan Technicians can help you figure out which option is best for you. Contact a VA Loan Technician at <a href="tel:+18778273702">877-827-3702</a>.
+Our VA loan technicians can help you figure out which option is best for you. Contact a VA loan technician at <a href="tel:+18778273702">877-827-3702</a>.
 
 ## If I can't avoid foreclosure, will I have to pay back my loan?
 
