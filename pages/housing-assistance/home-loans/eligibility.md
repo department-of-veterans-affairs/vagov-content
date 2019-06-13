@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility requirements for VA home loan programs
+title: Eligibility Requirements For VA Home Loan Programs
+heading: Eligibility requirements for VA home loan programs
 display_title: Eligibility
-description: Review eligibility requirements for VA home loan programs. Find out if you qualify for a Certificate of Eligibility (COE), which shows your lender that you qualify for a VA-backed home loan. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
+description: Learn about VA home loan eligibility requirements. Find out how to apply for a Certificate of Eligibility (COE) to show your lender that you qualify for a VA-backed loan based on your service history and duty status.
+keywords: va home loan eligibility, va loan requirements
 concurrence:
 order: 2
 relatedlinks:
@@ -25,13 +27,13 @@ relatedlinks:
 
 <div class="va-introtext">
 
-To get a VA direct or VA-backed home loan, you’ll need a Certificate of Eligibility (COE) to show your lender that you qualify for this benefit based on your service history and duty status. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
+Learn about VA home loan eligibility requirements for a VA direct or VA-backed loan. Find out how to apply for a Certificate of Eligibility (COE) to show your lender that you qualify based on your service history and duty status. Keep in mind that for a VA-backed home loan, you’ll also need to meet your lender’s credit and income loan requirements to receive financing.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get a COE?
+### Can I get a Certificate of Eligibility for a VA direct or VA-backed home loan?
 
 You may be able to get a COE if you didn't receive a dishonorable discharge and you meet the minimum active-duty service requirement based on when you served.
 
