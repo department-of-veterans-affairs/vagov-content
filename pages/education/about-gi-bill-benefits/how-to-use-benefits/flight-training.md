@@ -15,9 +15,8 @@ Find out how your VA education benefits can help pay for flight training to adva
 
 </div>
 
-<h2 itemprop="name">Can I use the GI Bill to pay for flight training?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+<div class="va-introtext">
+Can I use the GI Bill to pay for flight training?
 
 You can get benefits for flight training if you meet all of the requirements listed below.
 
