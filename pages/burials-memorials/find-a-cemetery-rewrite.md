@@ -62,7 +62,7 @@ The Department of the Army maintains 2 national cemeteries:
 <br>
 <h5>Phone:</h5>
 
-Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> (local), or at <a href="tel:+18779078585">877-907-8585</a> (toll-free).
+Call <a href="tel:+17036078585">703-607-8585</a> (local), or <a href="tel:+18779078585">877-907-8585</a> (toll-free).
 
 [Learn more about Arlington National Cemetery.](http://www.arlingtoncemetery.mil/)
 
