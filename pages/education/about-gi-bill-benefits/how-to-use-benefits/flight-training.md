@@ -15,7 +15,24 @@ Find out how your VA education benefits can help pay for flight training to adva
 
 </div>
 
-<div class="va-introtext">
+<div class="feature" markdown=“1” itemscope itemtype="http://schema.org/Question">
+<h3 itemprop="name">Can I use the GI Bill to pay for flight training?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+
+You can get benefits for flight training if you meet all of the requirements listed below.
+
+**All of these must be true. You:**
+
+- Qualify for the Post-9/11 GI Bill, Montgomery GI Bill, or Reserve Educational Assistance Program (REAP), **and**
+- Have a private pilot’s license, **and**
+- Have a second-class medical certificate valid for second-class privileges—or a first-class medical certificate if you want to pursue the Airline Transport Pilot (ATP) certificate
+
+**Note:** You can't qualify for flight training benefits through Survivors’ and Dependents’ Educational Assistance (DEA).
+
+</div>
+</div>
+</div> 
   
 ## Can I use the GI Bill to pay for flight training?
 
