@@ -1,8 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Non-Hodgkin's Lymphoma Linked to Agent Orange
-display_title: Non-Hodgkin's Lymphoma
-description: Non-Hodgkin's Lymphoma (a type of cancer) can be caused by contact with Agent Orange. If you served in or near Vietnam during the Vietnam War, or in certain related jobs, and you have this cancer, find out if you're eligible for VA disability pay and other benefits.
+title: Non-Hodgkin's Lymphoma Linked To Agent Orange
+heading: Non-Hodgkin's lymphoma linked to Agent Orange
+display_title: Non-Hodgkin's lymphoma
+description: Non-Hodgkin's lymphoma (a type of cancer) can be caused by contact with Agent Orange. If you served in or near Vietnam during the Vietnam War, or in certain related jobs, and you have this cancer, find out if you're eligible for VA disability pay and other benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
@@ -42,7 +43,7 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 - Qualified survivors
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -50,16 +51,16 @@ You may be able to get disability benefits if you have non-Hodgkin’s lymphoma 
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. We consider non-Hodgkin’s lymphoma to be related to contact with Agent Orange. So, when you file a claim, you won’t have to show that your illness is related to Agent Orange or that it began during—or got worse because of—your military service.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-### Get more information
+## Get more information
 
 Want to figure out where you may have come into contact with Agent Orange? <br>
-[See locations linked to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/).
+[See locations linked to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/)
 
 Want to learn more about non-Hodgkin’s lymphoma treatment, the latest research, and more from the National Institutes of Health? <br>
-[Visit MedlinePlus](https://www.nlm.nih.gov/medlineplus/ency/article/000581.htm).
+[Visit MedlinePlus](https://www.nlm.nih.gov/medlineplus/ency/article/000581.htm)

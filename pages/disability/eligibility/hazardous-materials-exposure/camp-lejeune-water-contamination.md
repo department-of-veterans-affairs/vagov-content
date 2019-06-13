@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Health Issues Related to Camp Lejeune Water Contamination
-display_title: Camp Lejeune Water Contamination
+title: Health Issues Related To Camp Lejeune Water Contamination
+heading: Health issues related to Camp Lejeune water contamination
+display_title: Camp Lejeune water contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
 template: detail-page
@@ -44,21 +45,21 @@ You may be able to get disability benefits if you meet all of the requirements l
 
 </div>
 
-### What kind of benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Your military records showing you served at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 while on active duty, or in the National Guard or Reserves, **and**
-- Medical records stating that you have one or more of the 8 illnesses on the presumptive conditions list (see above)
+- Medical records stating that you have 1 or more of the 8 illnesses on the presumptive conditions list (see above)
 
 **You can file a claim in any of these ways:**
 - [File a claim online on VA.gov](/disability/how-to-file-claim/), **or**
 - [File a claim online on eBenefits](http://www.ebenefits.va.gov), **or**
-- [Get help from an accredited representative, like a Veterans Service Officer (VSO)](/disability/get-help-filing-claim/), **or**
+- [Get help from an accredited representative, like a Veterans service officer (VSO)](/disability/get-help-filing-claim/), **or**
 - [Get help at a VA regional benefit office](/find-locations/?facilityType=benefits)
 
 **Note:** When you file, be sure to state that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results).
@@ -83,29 +84,33 @@ Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumul
 - Renal toxicity
 - Scleroderma
 
-### How do I get these benefits as a family member?
+## How do I get these benefits as a family member?
 
-You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
+You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below.
+
+**You must provide all of this evidence:**
 - A document proving your relationship to the Veteran who served on active duty for at least 30 days at Camp Lejeune (like a marriage license, birth certificate, or adoption papers), **and**
 - A document proving that you lived at Camp Lejeune or MCAS New River for at least 30 days from August 1953 through December 1987 (like utility bills, base housing records, military orders, or tax forms), **and**
 - Medical records that show you have one of the 15 conditions listed above (as well as the date the illness was diagnosed and that you're being treated or have been treated in the past for this illness)
 
-And you must provide evidence that you paid health care expenses for your claimed condition during one of these time periods:
-- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012 and up to 2 years before the date of your application), **or**
-- Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014 and up to 2 years before the date you apply for benefits)
+And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below.
 
-**You may also want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b).** <br>
+**You must provide evidence of payment during one of these time periods:**
+- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012, and up to 2 years before the date of your application), **or**
+- Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014, and up to 2 years before the date you apply for benefits)
+
+**You may want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b)**<br>
 You'll need to ask your doctor to fill out and sign this form before submitting it to us. We don't require this form, but it can help give us important information to determine your eligibility for benefits.<br>
-[Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b).
+[Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b)
 
 
-**You can file a claim in one of these ways:**
+### File a claim
 
-- [Fill out a Camp Lejeune Family Member Application (VA Form 10-10068) online](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068), **or**
+Fill out the Camp Lejeune Family Member Program Application (VA Form 10-10068).<br>
+[Download VA Form 10-10068](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
 
-- [Download the Camp Lejeune Family Member Application (VA Form 10-10068)](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
-<br>
-Fax it to 1-512-460-5536, or mail it to:
+- Fax it to 512-460-5536, **or**
+- Mail it to:
 
 <p class="va-address-block">
 <b>Department of Veterans Affairs</b><br>
@@ -114,7 +119,7 @@ PO Box 149200<br>
 Austin, TX 78714-9200<br>
 </p>
 
-If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">1-866-372-1144</a>. <br>
+If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">866-372-1144</a>. <br>
 <div class="feature" markdown="1">
 
 ### What was in the drinking water?
@@ -131,16 +136,16 @@ Two on-base water wells that were shut down in 1985 had these chemicals:
 
 ## Get more information
 
-[Download a fact sheet about Camp Lejeune-related benefits](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf).<br>
-[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/). <br>
-[Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/).
+[Download a fact sheet about Camp Lejeune-related benefits (PDF)](https://www.publichealth.va.gov/docs/exposures/camp_lejeune_brochure.pdf)<br>
+[Learn more about Camp Lejeune water contamination](https://www.publichealth.va.gov/exposures/camp-lejeune/)<br>
+[Learn more about the Camp Lejeune Family Member program](https://www.clfamilymembers.fsc.va.gov/)
 
 Sign up to receive notifications from the Marine Corps with the latest updates on issues related to Camp Lejeune water contamination.<br>
-[Sign up for Marine Corps notifications](https://clnr.hqi.usmc.mil/clwater/index.html).
+[Sign up for Marine Corps notifications](https://clnr.hqi.usmc.mil/clwater/index.html)
 
 Read about the Agency for Toxic Substances and Disease Registry public health studies and other efforts to help Marines and their families affected by Camp Lejeune water contamination. <br>
-[Read more from the Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/sites/lejeune/).
+[Read more from the Agency for Toxic Substances and Disease Registry](https://www.atsdr.cdc.gov/sites/lejeune/)
 
 Read a report from the National Academies of Sciences, Engineering, and Medicine. This report offers a summary of research on the historical Camp Lejeune water contamination up to 2009. <br>
-[Read the National Academies Camp Lejeune report](http://dels.nas.edu/Report/Contaminated-Water-Supplies-Camp-Lejeune/12618).
+[Read the National Academies Camp Lejeune report](http://dels.nas.edu/Report/Contaminated-Water-Supplies-Camp-Lejeune/12618)
 

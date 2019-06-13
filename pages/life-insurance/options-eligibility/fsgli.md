@@ -1,9 +1,12 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Family Servicemembers’ Group Life Insurance (FSGLI)
+title: Family Group Life Insurance (FSGLI)
+heading: Family Servicemembers’ Group Life Insurance (FSGLI)
+description: Family SGLI, also known as Family Servicemembers' Group Life Insurance (FSGLI), offers coverage for the spouse and dependent children of service members covered under full-time SGLI. Find out how much coverage you may qualify for—and how to apply for and manage your benefits.
 display_title: Family Servicemembers’ Group (FSGLI)
-concurrence:
+keywords: family sgli, family servicemembers group life insurance
+concurrence: 
 order: 2
 relatedlinks:
   - heading: More information about your benefits
@@ -18,13 +21,13 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Are you the spouse or dependent child of a service member who’s covered under Servicemembers’ Group Life Insurance (SGLI)? If you are, you may qualify for term life insurance coverage through Family Servicemembers’ Group Life Insurance (FSGLI). Find out if you qualify—and how to manage your coverage.
+Family SGLI, also known as Family Servicemembers' Group Life Insurance (FSGLI), offers coverage for the spouse and dependent children of service members covered under full-time SGLI. Find out how much coverage you may qualify for—and how to apply for and manage your benefits.
 
 </div>
 
 <div class="feature">
 
-### Can I get FSGLI?
+### Am I eligible for FSGLI?
 
 You may be able to get FSGLI if you’re the spouse or dependent child of a service member who meets one of the requirements listed below.
 
@@ -42,7 +45,7 @@ You may qualify to get FSGLI as the spouse of someone with SGLI coverage no matt
 
 </div>
 
-## What kind of life insurance benefits can I get with FSGLI?
+## How much coverage can I get with Family Servicemembers' Group Life Insurance?
 
 Up to a maximum of $100,000 of coverage for you as a spouse, not to exceed your service member’s SGLI coverage, and $10,000 for each dependent child. Dependent children get free coverage.
 
