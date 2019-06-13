@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Opt out of sharing VA education benefits information
+title: Opt Out Of Sharing VA Education Benefits Information
+heading: Opt out of sharing VA education benefits information
 display_title: Opt out of information sharing
 description:
 concurrence: Incomplete
