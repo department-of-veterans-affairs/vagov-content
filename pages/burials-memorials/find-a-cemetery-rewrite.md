@@ -35,6 +35,8 @@ Learn about national, state, and other types of VA cemeteries. Find out where VA
 
 The National Cemetery Administration (NCA) maintains 136 national cemeteries in 40 states and Puerto Rico. We also maintain 33 soldiers’ lots and monument sites. 
 
+### How do I find a VA national cemetery?
+
 [Use our facility locator tool to find a VA national cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
 
 
@@ -47,8 +49,8 @@ The Department of the Army maintains 2 national cemeteries.
 ##### Address: 
  <br>
  <p class="va-address-block">
-    Arlington National Cemetery
-    Interment Services Branch
+    Arlington National Cemetery<br>
+    Interment Services Branch<br>
     Arlington, VA 22211<br>
 </p>
 
@@ -63,15 +65,15 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
 ##### Address: 
  <br>
  <p class="va-address-block">
-    United States Soldiers' & Airmen's Home National Cemetery
-    21 Harewood Road, NW
+    United States Soldiers' & Airmen's Home National Cemetery<br>
+    21 Harewood Road, NW<br>
     Washington, DC 20011<br>
 </p>
 
 
 ##### Phone
 
-Cal U.S. Soldiers' and Airmen's Home National Cemetery at <a href="tel:+12028291829">202-829-1829</a>.
+Call <a href="tel:+12028291829">202-829-1829</a>.
 
 ## Department of the Interior National Park Service cemeteries
  
@@ -79,7 +81,7 @@ The National Park Service (NPS) maintains 14 cemeteries.
 
 [Learn more about National Park Service cemeteries](https://www.nps.gov/ande/planyourvisit/np-natcems.htm)
 
-### Locations
+### Where can I find National Park Service cemeteries?
 
 | **Location**       | **Name**                                                                                                      | **Open to new graves?**  |
 |--------------------|---------------------------------------------------------------------------------------------------------------|--------------------------|
@@ -104,36 +106,38 @@ The National Park Service (NPS) maintains 14 cemeteries.
 ##### Address: 
  <br>
  <p class="va-address-block">
-    Department of the Interior
-    National Park Service
-    1849 C Street, N.W.
+    Department of the Interior<br>
+    National Park Service<br>
+    1849 C Street, N.W.<br>
     Washington, D.C. 20240<br>
 </p>
 
 
 ##### Phone
 
-Call the Department of the Interior National Park Service office at <a href="tel:+12022084747">202-208-4747</a>.
+Call <a href="tel:+12022084747">202-208-4747</a>.
 
 ## American Battle Monuments Commission Cemeteries
  
 The American Battle Monuments Commission (AMBC) maintains 26 permanent military cemeteries and 30 Federal memorial monuments and markers. AMBC operates 17 cemeteries in foreign countries and 3 cemeteries in the United States. Over 217,000 Veterans are buried in AMBC cemeteries. 
+
+### Where can I find AMBC cemetery locations?
  
-[Learn more about AMBC and find out where AMBC cemeteries and memorial sites are located.](https://www.abmc.gov/cemeteries-memorials)
+[Find out where AMBC cemeteries and memorial sites are located.](https://www.abmc.gov/cemeteries-memorials)
 
 #### American Battle Monuments Commission (U.S.)
 
 ##### Address (U.S.)
  <br>
  <p class="va-address-block">
-    American Battle Monuments Commission           
-    2300 Clarendon Boulevard                                        
+    American Battle Monuments Commission<br>          
+    2300 Clarendon Boulevard<br>                                     
     Arlington, VA 22201 <br>
 </p>
 
 ##### Phone (U.S.):
 
-If you're in the U.S., call AMBC at <a href="tel:+17036966900">703-696-6900</a>.
+If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 
 
 #### Overseas Operations Office
@@ -141,19 +145,21 @@ If you're in the U.S., call AMBC at <a href="tel:+17036966900">703-696-6900</a>.
 ##### Address (Overseas)
  <br>
  <p class="va-address-block">
-    Overseas Operations Office          
-    Unit 9200, Box 1030
+    Overseas Operations Office<br>          
+    Unit 9200, Box 1030<br>
     DPO AE 09777-1030 <br>
 </p>
 
 ##### Phone (Overseas):
 
-If you're overseas, call AMBC at <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
+If you're overseas, call <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
 
 ## VA state cemeteries
 
 Most states have cemeteries for Veterans. Eligibility for state cemeteries is determined by each state. Some states require that a Veteran must be a state resident in order to be buried in a state VA cemetery. 
 If you need more information, please contact a VA state cemetery office directly. 
+
+### How do I find a VA state cemetery?
 
 [Use our facility locator tool to find a VA state cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
 
