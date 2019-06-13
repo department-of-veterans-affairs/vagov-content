@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Request a Priority Review
-display_title: Request a Priority Review
+title: Request A Priority Review
+heading: Request a priority review
+display_title: Request a priority review
 description: Find out how to request a priority review to have your VA appeal moved to the front of the line (called "Advanced on the Board of Veterans' Appeals Docket"). You can request to have your appeal moved up due to age, serious illness, financial distress, or other reasons.
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -13,7 +14,7 @@ template: detail-page
 If you need to have your appeal moved to the front of the line due to serious illness, financial distress, or other reasons, find out how to request a priority review.
 </div>
 
-<h3>Can my appeal get a priority review?</h3>
+<h2>Can my appeal get a priority review?</h2>
 You can request to have your appeal Advanced on Docket, or moved to the front of the line, for any of the below reasons.
 <div class="feature">
 
@@ -26,28 +27,30 @@ You can request to have your appeal Advanced on Docket, or moved to the front of
 **Note:** If you’re over 75 years old, your appeal will receive Advanced on Docket status automatically.
 </div>
 
-### How do I request to have my appeal Advanced on Docket?
+## How do I request to have my appeal Advanced on Docket?
 You or your representative will need to write a letter to the Board of Veterans’ Appeals.
 
-#### You’ll need to include all of this information:
+### You’ll need to include all of this information:
 - Your name (as the Veteran or other person appealing a claim—like a survivor, guardian, or fiduciary), **and**
 - The VA file number for your claim, **and**
 - The reason you want to be moved forward on the docket
 
-#### You or your representative can send your written request in one of these ways:
+### You or your representative can send your written request in one of these ways:
 
-##### By mail
+
+#### By mail
 <p class="va-address-block">
   Board of Veterans’ Appeals<br/>
   PO Box 27063<br/>
   Washington, DC 20038<br/>
 </p>
 
-##### By fax
-Fax your request to <a href="tel:+12024956803">1-844-678-8979</a>.
 
-### Who can I contact if I need more information?
+#### By fax
+Fax your request to <a href="tel:+12024956803">202-495-6803</a>.
 
-Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at 1-800-827-1000.
 
+## Who can I contact if I need more information?
+
+Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at 800-923-8387.
 
