@@ -154,9 +154,9 @@ Get help applying for a headstone, marker, or medallion by calling <a href="tel:
 
 Yes. You'll choose either a headstone or marker and the material you'd like it to be made of. You'll make your choice by selecting one of the boxes in block 15 of Form 40-1330. You can request any of these:
 
-- **Upright headstones:** granite or marble 
-- **Flat markers:** granite, marble, or bronze 
-- **Niche markers:** bronze <br>
+- **Upright headstones,** in granite or marble 
+- **Flat markers,** in granite, marble, or bronze 
+- **Niche markers,** in bronze <br>
 
 **Note:** For burial in a private cemetery, check with officials there to make sure they allow the style you want.
 
@@ -207,7 +207,7 @@ Cemetery staff in national, military post, and military base cemeteries are resp
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="mistake-with-inscription">What if there's a mistake with the headstone inscription?</button>
 <div id="mistake-with-inscription" class="usa-accordion-content">
 
-Contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
+If there's a mistake with the inscription, contact the [national cemetery](https://www.cem.va.gov/cems/listcem.asp) where the grave is located. If the Veteran is buried in a private cemetery, you can get help by calling <a href="tel:+18006976947">800-697-6947</a>. 
 
 </div>
 </li>
@@ -221,7 +221,12 @@ We provide memorial headstones and markers for:
 **Note:** For spouses and other dependents, this benefit is for burial only in national, military post, military base, or state Veterans cemeteries, not private cemeteries.
 
 The words engraved on the memorial item must begin, “IN MEMORY OF."
-  </div>
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="remains-not-available">Can two Veterans who are married get separate headstones?</button>
+<div id="remains-not-available" class="usa-accordion-content">Yes. All Veterans are eligible for a headstone and gravesite. Spouses can be buried in side-by-side graves with separate headstones or in the same gravesite with inscriptions on a shared headstone.
+    </div>
   </li>
  </ul>
 
