@@ -99,8 +99,6 @@ A member of the National Guard or Reserves may be eligible for a bronze medallio
 
 VA may furnish a medallion to be attached to a headstone or marker furnished at private expense of a commissioned officer who had active service in Public Health Service on or after April 6, 1917.
 
-<br>
-
 ### Spouses and dependents are not eligible for a medallion
 
   </div>
