@@ -67,7 +67,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 
 ### Gather the supporting documents and information you’ll need to fill out the application.
 
-Please see the list below. If you don’t have everything on the list, you can still apply and we'll help by finding the supporting documents we need. Just keep in mind that the more information you can give us when you apply, the faster we can review your application and give you a decision.
+Please see the list below. If you don’t have everything on the list, you can still apply and we'll help by finding the supporting documents we need. Just keep in mind that the more information you can give us when you apply, the faster we can review your application and give you a decision. We'll contact you if we need you to provide additional information.
 
 </li>
 
