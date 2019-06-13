@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: After you apply for education benefits
+title: After You Apply For Education Benefits
+heading: After you apply for education benefits
 display_title: After you apply
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
