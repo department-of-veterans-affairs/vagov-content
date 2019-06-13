@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: National Call to Service program
+title: National Call to Service Program
+heading: National Call to Service program
 concurrence: incomplete
 order: 3
 children: educationNationalCallToServiceProgram
