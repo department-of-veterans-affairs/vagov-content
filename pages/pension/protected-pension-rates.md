@@ -86,22 +86,22 @@ If you qualify for the protected rate for a specific pension benefit, we'll pay 
 #### Veterans without dependents
 
 All income limits in U.S. $
-| Pension benefit | Income limit <br> (2018 yearly income at or below this amount) |
+| Pension benefit | 2018 yearly income limit |
 | --- | ---: |
 | Basic monthly payment for Veteran only (no spouse or dependent children) | 15,394 |
-| Special Aid and Attendance allowance if your income exceeds $15,398 | 15,948 |
-| Hospital reduction rates for Special Aid and Attendance | 15,394 <br>**Note:** Current rates apply if you were hospitalized on or after January 1, 2018. |
+| Special Aid and Attendance allowance, if your income exceeds $15,398 | 15,948 |
+| Hospital reduction rates for Special Aid and Attendance, if you're hospitalized on or after January 1, 2018 | 15,394 |
 
 [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
 #### Veterans with dependents
 
 All income limits in U.S. $
-| Pension benefit | Income limit <br> (2018 yearly income at or below this amount) |
+| Pension benefit | 2018 yearly income limit |
 | --- | ---: |
-| Basic monthly payment for Veteran with spouse or dependent children under 18 years or under 23 years and enrolled in a qualifying school program | 20,692 |
+| Basic monthly payment for Veteran with spouse or one or more dependent children | 20,692 |
 | Special Aid and Attendance allowance if your income exceeds $20,732 | 21,245 |
-| Hospital reduction rates for Special Aid and Attendance | 21,245 <br>**Note:** Current rates apply if you were hospitalized on or after January 1, 2018. |
+| Hospital reduction rates for Special Aid and Attendance, if you're hospitalized on or after January 1, 2018 | $21,245 | 
 
 [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
@@ -110,11 +110,11 @@ All income limits in U.S. $
 ### Section 306 death pension yearly income limits to determine eligibility
 
 All income limits in U.S. $
-| Survivor status | Income limit <br> (2018 yearly income at or below this amount) |
+| Survivor status | 2018 yearly income limit |
 | --- | ---: |
 | Surviving spouse alone (no dependent children) | 15,394 | 
 | Surviving spouse with one or more dependent children | 20,692 |
-| Each surviving dependent child, when the Veteran has no surviving spouse | 12,587 | 
+| Each surviving dependent child, if the Veteran has no surviving spouse | 12,587 | 
 
 ### Survivor Benefit Plan (SBP) or minimum income widow annuity limitation
 
@@ -133,14 +133,14 @@ These pension programs were available before July 1, 1960.
 #### Yearly income limits to determine eligibility
 
 All income limits in U.S. $
-| Veteran status | Income limit <br> (2018 yearly income at or below this amount) |
+| Veteran status | 2018 yearly income limit |
 | --- | ---: |
 | Veteran alone (no spouse or dependent children) | 13,480 | 
-| Veteran with spouse or one or more dependent children under 18 years old or between 18 and 23 years and enrolled in a qualifying school program | 19,429 |
+| Veteran with spouse or one or more dependent children | 19,429 |
 
 #### Monthly payments
 
-Your monthly payment will depend on which specific disability pension benefits you're eligible to receive. Current rates are listed below for the basic monthly payment and added amounts you may be entitled to based on your eligibility. These rates include a 2.8% cost-of-living increase for 2018.
+If you're eligible, we'll pay the protected rates listed below for your basic monthly payment and added amounts you may be entitled to. These rates include a 2.8% cost-of-living increase for this year.
 
 All rates in U.S. $
 | Pension benefit | Monthly payment | 
