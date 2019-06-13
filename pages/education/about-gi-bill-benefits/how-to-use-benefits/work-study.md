@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Work study
+title: Work Study
+heading: Work study
 concurrence: incomplete
 order: 11
 ---
