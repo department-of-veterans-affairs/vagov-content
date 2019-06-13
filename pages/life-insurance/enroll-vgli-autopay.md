@@ -9,7 +9,7 @@ concurrence:
 spoke: 
 order: 1
 relatedlinks:
-- heading: Other helpful information
+  - heading: Other helpful information
     links:
     - url: /life-insurance/totally-disabled-or-terminally-ill/
       title: About VA life insurance
