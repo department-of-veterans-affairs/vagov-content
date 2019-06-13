@@ -26,7 +26,7 @@ This depends on the type of benefits you're receiving. You can change your infor
 
 <h3>Disability compensation and pension benefit payments</h3>
 
-<div class="cta-widget" data-widget-type="cta" data-app-id="letters"></div>
+<div class="cta-widget" data-widget-type="cta" data-app-id="direct-deposit"></div>
 
 <strong>Note:</strong> You'll need your bank's routing number as well as your account number.
 
