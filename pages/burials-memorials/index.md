@@ -123,7 +123,7 @@ hublinks:
       description: Learn how to work with the VA National Cemetery Scheduling Office
         to schedule a burial.
       external: false
-    - url: https://www.cem.va.gov/cems/listcem.asp
+    - url: /burials-memorials/find-a-cemetery/
       label: Find a National, State, or Tribal Government Veterans Cemetery
       description: Search for national, state, or tribal government Veterans cemeteries.
       external: false
