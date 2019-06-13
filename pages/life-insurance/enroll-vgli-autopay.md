@@ -8,6 +8,24 @@ description:
 concurrence: 
 spoke: 
 order: 1
+relatiedlinks:
+- heading: Other helpful information
+    links:
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: About VA life insurance
+      description: Learn about all the VA life insurance options, how to file claims, and how to manage your benefits.
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: Benefits for totally disabled or terminally ill policyholders
+      description: Find out if you can get your insurance premium waived or receive your benefits early in certain situations.
+    - url: /life-insurance/options-eligibility/vmli/
+      title: Veterans Mortgage Life Insurance (VMLI)
+      description: If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-forms.asp
+      title: VA life insurance forms
+      description: Find and download the forms you need to apply for and manage your life insurance benefits.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
+      title: Contact us
+      description: Find out how to reach us to ask a question about your policy or to file a claim for benefits.
 
 ---
 
@@ -21,10 +39,7 @@ When you enroll in VGLI auto pay, you’re authorizing the Office of Servicememb
 
 ## How VGLI auto pay works
 
-Every month you’ll get an email 2 business days before the premium money is withdrawn from your account. The email will tell you the date and amount of the withdrawal. To make sure you get these emails from us, you’ll need to do a couple of things. You’ll need to:
-
-- Keep your email address current, **and**
-- Update your email filters that might keep the emails from being delivered
+Every month you’ll get an email 2 business days before the premium money is withdrawn from your account. The email will tell you the date and amount of the withdrawal. </br>
 
 Even if the emails are returned as not delivered, or if the email address we have isn’t valid, OSGLI will keep withdrawing the money every month to pay your premium until you cancel the program. </br>
 
