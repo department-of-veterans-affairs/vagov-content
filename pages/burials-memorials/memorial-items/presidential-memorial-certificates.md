@@ -69,4 +69,4 @@ You can also fax the form to 800-455-7143. If you need help, call <a href="tel:+
 
 ## Check the status of your request
 
-If it's been 16 weeks since you submitted your form and you haven't received it yet, please call <a href="tel:+12026327300">202-632-7300</a> to find out the status of your request. Please don't send a second application unless we ask you to.
+If it's been 16 weeks since you applied for a PMC and you haven't received it yet, please call <a href="tel:+12026327300">202-632-7300</a> to find out the status of your request. Please don't send a second application unless we ask you to.
