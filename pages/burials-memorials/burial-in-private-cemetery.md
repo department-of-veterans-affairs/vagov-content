@@ -55,11 +55,12 @@ We provide these items at no extra cost to your family.
 
 Fill out a [Claim for Standard Government Headstone or Marker (VA Form 40-1330)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf).
 
-<b>Note:</b> If this is your second request, or if you’re requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp) because of a mistake with the inscription or a damaged headstone or marker, please explain this in block 27 of the form.
+<b>Note:</b> If this is your second request, or if you’re requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp), please explain this in block 27 of the form.
 
 **For a medallion to be placed on a privately purchased headstone or marker:** <br>
 Fill out a [Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf). 
 
+<b>Note:</b> If you're requesting an MOH medallion, check "Other" in block 11 of the form and write "MOH." 
 
  </li>
 
