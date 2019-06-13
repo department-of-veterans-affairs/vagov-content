@@ -1,21 +1,23 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veterans Pension Eligibility
+title: Eligibility For Veterans Pension
+heading: Eligibility for Veterans Pension
 display_title: Eligibility
-description: Find out if you're eligible for a Veterans pension based on income limits, your service history, and your current situation. Review VA non-service-connected pension eligibility requirements and learn more about how to apply.
+description: The Veterans Pension program provides monthly payments to wartime Veterans based on need. Review VA pension eligibility requirements to find out if you qualify based on your age or a permanent and total non-service-connected disability, as well as your income and net worth. 
+keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility 
 concurrence:
 order: 1
 children: pensionEligibility
 spoke: Get benefits
 relatedlinks:
-  - heading: Other pension benefits
+  - heading: Other VA pension benefits
     links:
     - url: /pension/survivors-pension/
       title: VA Survivors Pension
       description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
     - url: /pension/aid-attendance-housebound/
-      title: Aid and Attendance Benefits and Housebound Allowance
+      title: Aid and Attendance benefits and Housebound allowance
       description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
 widgets:
   - root: react-applicationStatus
@@ -26,21 +28,21 @@ widgets:
 
 <div class="va-introtext">
 
-If you’re a wartime Veteran who meets certain age or disability requirements, and your income and net worth are within certain limits, you may qualify for monthly payments through our Veterans Pension program. Find out if you can get this benefit.
+The Veterans Pension program provides monthly payments to wartime Veterans who meet certain age or disability requirements, and who have income and net worth within certain limits. Find out if you're eligible for this benefit.
 
 </div>
 
 <div class="feature" markdown=“1”>
 
-### Can I get Veterans pension benefits from VA?
+### Am I eligible for Veterans Pension benefits from VA? 
 
-You may be able to get pension benefits if you meet the requirements listed below.
+If you meet the VA pension eligibility requirements listed below, you may be eligible for the Veterans Pension program. 
 
 **Both of these must be true:**
 
 - You didn't receive a dishonorable discharge, **and**
 - Your yearly family income and net worth meet certain limits set by Congress. Your net worth includes all personal property you own (except your house, your car, and most home furnishings), minus any debt you owe. Your net worth includes the net worth of your spouse. <br>
-[Find out about Veterans pension rates](/pension/veterans-pension-rates/).
+[Find out about Veterans Pension rates](/pension/veterans-pension-rates/)
 
 
 **And at least one of these must be true about your service. You:**
@@ -56,10 +58,11 @@ You may be able to get pension benefits if you meet the requirements listed belo
 - Are a patient in a nursing home for long-term care because of a disability, **or**
 - Are getting Social Security Disability Insurance or Supplemental Security Income
 
-<br>
+</div>
 
-### How do I know if I served under an eligible wartime period?
-Under current law, we recognize the following wartime periods to decide eligibility for pension benefits:
+## How do I know if I served under an eligible wartime period? 
+Under current law, we recognize the following wartime periods to decide eligibility for VA pension benefits:
+
 
 - Mexican Border period (May 9, 1916, to April 5, 1917, for Veterans who served in Mexico, on its borders, or in adjacent waters)
 - World War I (April 6, 1917, to November 11, 1918)
@@ -68,20 +71,15 @@ Under current law, we recognize the following wartime periods to decide eligibil
 - Vietnam War era (February 28, 1961, to May 7, 1975, for Veterans who served in the Republic of Vietnam during that period. August 5, 1964, to May 7, 1975, for Veterans who served outside the Republic of Vietnam.)
 - Gulf War (August 2, 1990, through a future date to be set by law or presidential proclamation)
 
-<br>
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
-### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
-
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
-
-<br>
+If you've received one of these discharge statuses, you may not be eligible for VA pension benefits.
 
 **There are 2 ways you can try to qualify:**
 
-[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).<br/>
-[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options).
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
-</div>
 
 <div id="react-applicationStatus" data-widget-type="pension-app-status" class="static-page-widget">
   <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>

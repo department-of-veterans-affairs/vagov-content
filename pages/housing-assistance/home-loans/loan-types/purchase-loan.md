@@ -1,16 +1,18 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Purchase loan
+title: Purchase Loan 
+heading: Purchase loan
+display_title: Purchase loan
+description: Find out if you meet the requirements to apply for a VA-backed purchase loan Certificate of Eligibility. These loans can help you buy, build, or improve a home by offering benefits like better terms and interest rates and lower closing costs.
+keywords: n/a
 concurrence: 
 order: 1
-aliases:
-  - /housing-assistance/home-loans/loan-options/purchase-loan/
 ---
 
 <div class="va-introtext">
 
-Lenders offer competitive interest rates on VA-backed purchase loans. This can help you buy a home—especially if you don’t want to make a down payment. Find out if you can get this loan—and how to apply. 
+Lenders offer competitive interest rates on VA-backed purchase loans. This can help you buy, build, or improve a home—especially if you don’t want to make a down payment. Find out if you're eligible for this loan—and how to apply for your Certificate of Eligibility. 
 
 </div>
 
@@ -57,6 +59,7 @@ You may be able to get a VA-backed purchase loan if you meet all of the requirem
 - Use your VA loan benefit again if you sell or refinance a home you bought with a VA-backed home loan
 - Assume a VA-backed home loan (which means that instead of opening a new mortgage loan, the buyer takes over the seller’s loan)
 
+
 ## How can I buy a home with a VA-backed purchase loan?
 
 Buying a home is a complex process, and getting a VA-backed purchase loan is only one piece of the puzzle. <br>
@@ -66,3 +69,4 @@ Buying a home is a complex process, and getting a VA-backed purchase loan is onl
 
 You may need to pay the VA funding fee. This one-time fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn’t require down payments or monthly mortgage insurance. Your lender will also charge interest on the loan in addition to closing fees. <br>
 [Learn about the VA funding fee and other closing costs](/housing-assistance/home-loans/funding-fee-and-closing-costs/)
+

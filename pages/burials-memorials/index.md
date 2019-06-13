@@ -7,8 +7,6 @@ description: Find out if you're eligible and how to apply for VA burial benefits
 lastupdate:
 order: 1
 hub: burials
-aliases:
-  - /burials-and-memorials/
 promo:
   - image: /img/hub-illustrations/burials.png
     heading: Find National Cemetery Administration Information

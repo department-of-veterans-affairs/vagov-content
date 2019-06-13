@@ -1,13 +1,12 @@
 ---
 layout: page-breadcrumbs.html
-title: Exposure to Specific Environmental Hazards
-display_title: Specific Environmental Hazards
+title: Exposure To Specific Environmental Hazards
+heading: Exposure to specific environmental hazards
+display_title: Specific environmental hazards
 description: Learn about VA disability compensation for illnesses related to environmental hazards. Find out which hazards you may have come in contact with during military service, and how to file a claim for compensation.
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 1
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/specific-environmental-hazards/
 ---
 
 <div class="va-introtext">
@@ -24,7 +23,7 @@ If you had contact with certain environmental hazards while serving in Iraq, Afg
 You may be able to get disability benefits if you have an illness or other condition believed to be caused by your contact with an environmental hazard while serving in the military. This may include contact with:
   - Particulate matter or large burn pits in Iraq, Afghanistan, and Djibouti in the Horn of Africa
   - A large sulfur fire at Mishraq State Sulfur Mine near Mosul, Iraq
-  - Hexavalent chromium at the Qarmat Ali Water Treatment Plant in Basra, Iraq
+  - Hexavalent chromium at the Qarmat Ali water treatment plant in Basra, Iraq
   - Pollutants from a waste incinerator near the Naval Air Facility at Atsugi, Japan
 
 <br>
@@ -34,18 +33,18 @@ You may be able to get disability benefits if you have an illness or other condi
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 -	Health care
 -	Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 When you file, you’ll have to show that your health problems are linked to your contact with certain environmental hazards while serving in the military. Be sure to send in all information (such as the Burn Pit Registry) supporting your claim that you came into contact with certain environmental hazards. <br>
-[Check the Burn Pit Registry](https://veteran.mobilehealth.va.gov/AHBurnPitRegistry/).
+[Check the Burn Pit Registry](https://veteran.mobilehealth.va.gov/AHBurnPitRegistry/)
 
 

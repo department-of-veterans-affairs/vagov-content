@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA home loan programs for surviving spouses
+title: VA Home Loan Programs For Surviving Spouses
+heading: VA home loan programs for surviving spouses
 display_title: Surviving spouse programs
 description: 
 concurrence:
@@ -26,9 +27,6 @@ relatedlinks:
 To get a VA-backed home loan as the surviving spouse of a Veteran, you’ll need a Certificate of Eligibility (COE) to show your lender  that you qualify for this benefit. Find out if you can get a COE. Keep in mind that you’ll also need to meet your lender’s credit and income requirements to get a loan.
 
 </div>
-
-**Note:** If you have a VA-backed loan and you're having trouble making your mortgage payments, we can help you avoid foreclosure and keep your house. <br>
-[Learn about VA financial counseling](/housing-assistance/home-loans/trouble-making-payments/)
 
 <div class="feature" markdown="1">
 

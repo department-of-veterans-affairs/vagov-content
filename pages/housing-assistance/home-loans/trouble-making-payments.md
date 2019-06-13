@@ -1,15 +1,18 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Having trouble making mortgage payments on a VA-backed loan?
-display_title: Trouble making payments?
+title: VA Help To Avoid Mortgage Foreclosure
+heading: VA help to avoid mortgage foreclosure
+display_title: Trouble making payments? 
+description: Having trouble making your mortgage payments? If you're a Veteran or surviving spouse, find out how our VA loan technicians can work with you, and your lender, to help you avoid foreclosure and keep your home.
+keywords: va mortgage
 concurrence:
 order: 5
 ---
 
 <div class="va-introtext">
 
-If you fall far behind on your mortgage payments, your mortgage servicer (the company that handles collecting the money for your lender) can take your house to cover the money owed. This process is called foreclosure. Find out how we can help you avoid foreclosure and keep your house.
+If you fall far behind on your mortgage payments, your mortgage servicer (the company that handles collecting the money for your lender) can take your house to cover the money owed. This process is called foreclosure. Find out how our VA loan technicians can help you avoid foreclosure and keep your house.
 
 </div>
 
@@ -39,11 +42,11 @@ If you're behind on your mortgage payments and you get this type of offer from s
 
 **There are 6 general ways you can try to avoid a foreclosure:**
 
-1. **Repayment plan:** If you’ve missed a few payments, this plan lets you go back to making your regular payments, with an added amount each month to cover the ones you’ve missed.
+1. **Repayment plan:** If you’ve missed a few mortgage payments, this plan lets you go back to making your regular payments, with an added amount each month to cover the ones you’ve missed.
 
-2. **Special forbearance:** This plan gives you some extra time to repay the missed payments.
+2. **Special forbearance:** This plan gives you some extra time to repay the missed mortgage payments.
 
-3. **Loan modification:** Sometimes you need a fresh start. This plan lets you add the missed payments and any related legal costs to your total loan balance. You and your servicer then come up with a new payment schedule.
+3. **Loan modification:** Sometimes you need a fresh start. This plan lets you add the missed mortgage payments and any related legal costs to your total loan balance. You and your servicer then come up with a new mortgage payment schedule.
 
 4. **Extra time to arrange a private sale:** If you need to sell your home, this plan lets you delay a foreclosure so you have time to sell.
 
