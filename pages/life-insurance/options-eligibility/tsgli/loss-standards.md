@@ -1,6 +1,79 @@
 ---
-title: TSGLI loss standards
-href: https://www.benefits.va.gov/insurance/tsgli_schedule_Schedule.asp
-order: 1
-private: true
+layout: page-breadcrumbs.html
+template: detail-page
+title: TSGLI Loss Standards
+heading: TSGLI loss standards
+display_title: TSGLI loss standards
+concurrence:
+order: 3
+relatedlinks:
+  - heading: More information about your benefits
+    links:
+    - url: /life-insurance/manage-your-policy/
+      title: Access your policy online
+      description: Already have VA life insurance? Access your policy online.
 ---
+
+<div class="va-introtext">
+
+
+
+</div>
+
+## Part I
+
+For losses listed in Part I, multiple injuries resulting from a single traumatic event may be combined with each other and treated as one loss for purposes of a single payment (except where noted otherwise), however, the total payment amount can't be more than $100,000.
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="sight">Sight</button>
+<div id="sight" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+- Total and permanent loss of sight, **or**
+- Loss of sight that has lasted at least 120 days
+
+<h5>Payment</h5>
+
+$50,000 for each eye in which you've lost vision
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if at least one of the descriptions below is true for you.
+
+**At least one of these must be true. You:**
+- Have 20/200 vision or less (worse) with corrective lenses in at least one eye, and your vision loss has lasted at least 120 days, **or**
+- Have greater (better) than 20/200 vision in at least one eye, and you have at least a 20 degree or less peripheral field of vision on at least one eye, and your vision loss has lasted at least 120 days, **or**
+- Lost complete vision in at least one eye
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hearing">Hearing</button>
+<div id="hearing" class="usa-accordion-content">
+
+
+<h5>Loss</h5>
+
+Total and permanent loss of hearing
+
+<h5>Payment</h5>
+
+- $25,000 if you've lost hearing in one ear
+- $100,000 if you've lost hearing in both ears
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- Your average hearing threshold sensitivity for aid conduction is 80 decibels or more in at least one ear, **and**
+- It's reasonable certain that your hearing loss won't improve throughout your life
+
+**Note:** Hearing acuity must be measured at 500 Hz, 1000 Hz and 2000 Hz to calculate the average hearing threshold. Loss of hearing must be clinically stable and unlikely to improve
+
+</div>
+</li>
+</ul>
