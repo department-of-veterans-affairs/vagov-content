@@ -30,7 +30,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Learn about national, state, and other types of VA cemeteries. Find out where VA cemeteries are located and how to contact them. 
+Learn about VA national cemeteries and state Veterans cemeteries. Find out how to locate or contact national and state cemeteries.
 
 </div>
 
