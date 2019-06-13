@@ -73,10 +73,13 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
 
 Cal U.S. Soldiers' and Airmen's Home National Cemetery at <a href="tel:+12028291829">202-829-1829</a>.
 
-## Department of the Interior national cemeteries
+## Department of the Interior National Park Service cemeteries
  
 The National Park Service (NPS) maintains 14 cemeteries.
 
+[Learn more about National Park Service cemeteries](https://www.nps.gov/ande/planyourvisit/np-natcems.htm)
+
+### Locations
 
 | **Location**       | **Name**                                                                                                      | **Open to new graves?**  |
 |--------------------|---------------------------------------------------------------------------------------------------------------|--------------------------|
@@ -96,6 +99,21 @@ The National Park Service (NPS) maintains 14 cemeteries.
 | Yorktown, VA       | [Yorktown National Cemetery](https://www.nps.gov/york/yorktown-national-cemetery.htm)                         | No                       |
 
 
+#### Department of the Interior
+
+##### Address: 
+ <br>
+ <p class="va-address-block">
+    Department of the Interior
+    National Park Service
+    1849 C Street, N.W.
+    Washington, D.C. 20240<br>
+</p>
+
+
+##### Phone
+
+Cal the Department of the Interior National Park Service office at <a href="tel:+12022084747">202-208-4747</a>.
 
 
 
