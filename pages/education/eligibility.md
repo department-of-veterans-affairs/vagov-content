@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Eligibility for the GI Bill and other education benefits
+title: Eligibility For The GI Bill And Other Education Benefits
+heading: Eligibility for the GI Bill and other education benefits
 display_title: Eligibility
 description: Review GI Bill eligibility requirements to find out if you can get help paying for school or training. You can also find out if you qualify for other VA education benefits as a Veteran, service member, Reservist, National Guard Soldier, or qualified survivor or dependent.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
@@ -31,8 +32,6 @@ You may be able to get benefits through the Post-9/11 GI Bill if you've served o
 
 You may be able to get benefits through one of our 2 Montgomery GI Bill programs: the Montgomery GI Bill Active Duty (MGIB-AD) or the Montgomery GI Bill Selected Reserve (MGIB-SR).
 
-<br>
-
 **You can get benefits through MGIB-AD** if you served at least 2 years on active duty and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
@@ -42,8 +41,6 @@ You may be able to get benefits through one of our 2 Montgomery GI Bill programs
 - Meet other requirements
 
 [Learn more about MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty/)
-
-<br>
 
 **You can get benefits through MGIB-SR** if you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserves, Army National Guard, or Air National Guard, and you meet all of the requirements listed below.
 
@@ -76,8 +73,6 @@ If you have a service-connected disability that limits your ability to work or p
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
-
-<br>
 
 **There are 2 ways you can try to qualify:**
 
