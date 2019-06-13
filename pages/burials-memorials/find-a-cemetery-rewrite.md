@@ -45,19 +45,22 @@ The National Cemetery Administration (NCA) maintains 136 national cemeteries in 
 
 ## Department of the Army National Cemeteries
  
-The Department of the Army maintains 2 national cemeteries.
+The Department of the Army maintains 2 national cemeteries:
+
+- [Arlington National Cemetery](http://www.arlingtoncemetery.mil/)
+- U.S. Soldiers' and Airmen's Home National Cemetery
 
 #### Arlington National Cemetery 
 
 ##### Address: 
- <br>
+
  <p class="va-address-block">
     Arlington National Cemetery<br>
     Interment Services Branch<br>
     Arlington, VA 22211<br>
 </p>
 
-##### Phone
+##### Phone:
 
 Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> (local), or at <a href="tel:+18779078585">877-907-8585</a> (toll-free).
 
@@ -66,7 +69,6 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
 #### U.S. Soldiers' and Airmen's Home National Cemetery
 
 ##### Address: 
- <br>
  <p class="va-address-block">
     United States Soldiers' & Airmen's Home National Cemetery<br>
     21 Harewood Road, NW<br>
@@ -74,7 +76,7 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
 </p>
 
 
-##### Phone
+##### Phone:
 
 Call <a href="tel:+12028291829">202-829-1829</a>.
 
@@ -82,7 +84,7 @@ Call <a href="tel:+12028291829">202-829-1829</a>.
  
 The National Park Service (NPS) maintains 14 cemeteries.
 
-[Learn more about National Park Service cemeteries](https://www.nps.gov/ande/planyourvisit/np-natcems.htm)
+[Learn more about National Park Service cemeteries.](https://www.nps.gov/ande/planyourvisit/np-natcems.htm)
 
 ### Where can I find National Park Service cemeteries?
 
@@ -107,7 +109,6 @@ The National Park Service (NPS) maintains 14 cemeteries.
 #### Department of the Interior
 
 ##### Address: 
- <br>
  <p class="va-address-block">
     Department of the Interior<br>
     National Park Service<br>
@@ -116,7 +117,7 @@ The National Park Service (NPS) maintains 14 cemeteries.
 </p>
 
 
-##### Phone
+##### Phone:
 
 Call <a href="tel:+12022084747">202-208-4747</a>.
 
@@ -130,8 +131,8 @@ The American Battle Monuments Commission (AMBC) maintains 26 permanent military 
 
 #### American Battle Monuments Commission (U.S.)
 
-##### Address (U.S.)
- <br>
+##### Address (U.S.):
+
  <p class="va-address-block">
     American Battle Monuments Commission<br>          
     2300 Clarendon Boulevard<br>                                     
@@ -145,8 +146,8 @@ If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 
 #### Overseas Operations Office
 
-##### Address (Overseas)
- <br>
+##### Address (Overseas):
+
  <p class="va-address-block">
     Overseas Operations Office<br>          
     Unit 9200, Box 1030<br>
@@ -157,14 +158,14 @@ If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 
 If you're overseas, call <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
 
-## VA state cemeteries
+## State cemeteries
 
-Most states have cemeteries for Veterans. Eligibility for state cemeteries is determined by each state. Some states require that a Veteran must be a state resident in order to be buried in a state VA cemetery. 
+Most states have cemeteries for Veterans. Eligibility for burial state cemeteries is determined by each state. Some states require state residency in order to be buried in a state Veterans cemetery. 
 If you need more information, please contact a VA state cemetery office directly. 
 
-### How do I find a VA state cemetery?
+### How do I find a State cemetery?
 
-[Use our facility locator tool to find a VA state cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
+[Use our facility locator tool to find a state cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
 
 
 
