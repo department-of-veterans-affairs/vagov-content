@@ -11,6 +11,9 @@ order: 3
 relatedlinks:
   - heading: Other helpful information
     links:
+    - url: /find-locations/
+      title: Find a VA facility
+      description: Find VA facilities, including national and state cemeteries, using our facility locator tool.
     - url: /burials-memorials/plan-a-burial/
       title: Plan a burial
       description: Find out what steps to take to plan a burial for a Veteran, spouse, or dependent family member.
