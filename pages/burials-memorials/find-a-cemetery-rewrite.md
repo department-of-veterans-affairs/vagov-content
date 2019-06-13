@@ -53,14 +53,14 @@ The Department of the Army maintains 2 national cemeteries:
 #### Arlington National Cemetery 
 
 ##### Address: 
-
+<br>
  <p class="va-address-block">
     Arlington National Cemetery<br>
     Interment Services Branch<br>
     Arlington, VA 22211<br>
 </p>
 <br>
-##### Phone:
+<h5>Phone:</h5>
 
 Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> (local), or at <a href="tel:+18779078585">877-907-8585</a> (toll-free).
 
@@ -69,13 +69,14 @@ Call Arlington National Cemetery at <a href="tel:+17036078585">703-607-8585</a> 
 #### U.S. Soldiers' and Airmen's Home National Cemetery
 
 ##### Address: 
+<br>
  <p class="va-address-block">
     United States Soldiers' & Airmen's Home National Cemetery<br>
     21 Harewood Road, NW<br>
     Washington, DC 20011<br>
 </p>
 <br>
-##### Phone:
+<h5>Phone:</h5>
 
 Call <a href="tel:+12028291829">202-829-1829</a>.
 
@@ -108,6 +109,7 @@ The National Park Service (NPS) maintains 14 cemeteries.
 #### Department of the Interior
 
 ##### Address: 
+<br>
  <p class="va-address-block">
     Department of the Interior<br>
     National Park Service<br>
@@ -116,7 +118,7 @@ The National Park Service (NPS) maintains 14 cemeteries.
 </p>
 <br>
 
-##### Phone:
+<h5>Phone:</h5>
 
 Call <a href="tel:+12022084747">202-208-4747</a>.
 
@@ -131,7 +133,7 @@ The American Battle Monuments Commission (AMBC) maintains 26 permanent military 
 #### American Battle Monuments Commission (U.S.)
 
 ##### Address (U.S.):
-
+<br>
  <p class="va-address-block">
     American Battle Monuments Commission<br>          
     2300 Clarendon Boulevard<br>                                     
@@ -139,15 +141,14 @@ The American Battle Monuments Commission (AMBC) maintains 26 permanent military 
 </p>
 <br>
 
-##### Phone (U.S.):
-
+<h5>Phone (U.S.):</h5>
 If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 
 
 #### Overseas Operations Office
 
 ##### Address (Overseas):
-
+<br>
  <p class="va-address-block">
     Overseas Operations Office<br>          
     Unit 9200, Box 1030<br>
@@ -155,8 +156,7 @@ If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 </p>
 <br>
 
-##### Phone (Overseas):
-
+<h5>Phone (Overseas):</h5>
 If you're overseas, call <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
 
 ## Veterans state cemeteries
