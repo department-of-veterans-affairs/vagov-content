@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Find a cemetery
 display_title: Find a cemetery
-description: Find a national or state-run VA cemetery. 
+description: Find a VA national or Veterans state cemetery. 
 keywords: private cemetery
 collection: burials
 spoke: Plan a burial
@@ -159,14 +159,14 @@ If you're in the U.S., call <a href="tel:+17036966900">703-696-6900</a>.
 
 If you're overseas, call <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
 
-## State cemeteries
+## Veterans state cemeteries
 
-Most states have cemeteries for Veterans. Eligibility for burial state cemeteries is determined by each state. Some states require state residency in order to be buried in a state Veterans cemetery. 
-If you need more information, please contact a VA state cemetery office directly. 
+Most states have cemeteries for Veterans. Eligibility for burial in Veterans state cemeteries is determined by each state. Some states require state residency in order to be buried in a state Veterans cemetery. 
+If you need more information, please contact a Veterans state cemetery office directly. 
 
-### How do I find a State cemetery?
+### How do I find a Veterans state cemetery?
 
-[Use our facility locator tool to find a state cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
+[Use our facility locator tool to find a Veterans state cemetery.](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType)
 
 
 
