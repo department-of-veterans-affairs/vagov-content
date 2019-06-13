@@ -143,8 +143,6 @@ Mail or fax your form, along with a copy of the Veteran’s [DD214 or other disc
 
 Get help applying for a headstone, marker, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
 
----------------
-
 ## More information about headstones and markers
 
 <ul class="usa-accordion">
