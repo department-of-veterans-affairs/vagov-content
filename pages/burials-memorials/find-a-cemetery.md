@@ -126,11 +126,11 @@ Call <a href="tel:+12022084747">202-208-4747</a>.
 
 ## American Battle Monuments Commission Cemeteries
  
-The American Battle Monuments Commission (AMBC) maintains 26 permanent military cemeteries and 30 Federal memorial monuments and markers. AMBC operates 17 cemeteries in foreign countries and 3 cemeteries in the United States. Over 217,000 Veterans are buried in AMBC cemeteries. 
+The American Battle Monuments Commission (ABMC) maintains 26 permanent military cemeteries and 30 Federal memorial monuments and markers. ABMC operates 17 cemeteries in foreign countries and 3 cemeteries in the United States. Over 217,000 Veterans are buried in ABMC cemeteries. 
 
-[Learn more about AMBC.](https://www.abmc.gov/)
+[Learn more about ABMC.](https://www.abmc.gov/)
 
-### Where can I find AMBC cemetery locations?
+### Where can I find ABMC cemetery locations?
  
 [Find out where AMBC cemeteries and memorial sites are located.](https://www.abmc.gov/cemeteries-memorials)
 
