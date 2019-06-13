@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 title: Ionizing Radiation Exposure
-display_title: Radiation Exposure
+heading: Ionizing radiation exposure
+display_title: Radiation exposure
 description: Find out if you can get VA disability pay and health care for illnesses linked to ionizing radiation exposure during military service. Illnesses include some cancers. You may have had contact with ionizing radiation if you served in certain roles or locations or were part of nuclear weapons testing.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-environmental_hazards.asp,http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -26,7 +27,7 @@ You may be able to get disability benefits if you didn’t receive a dishonorabl
 - You have an illness that's on our list of illnesses believed to be caused by radiation or that doctors say may be caused by radiation, **and**
 - Your illness started within a certain period of time (as shown along with the list of illnesses)
 
-[See the list of radiation-related illnesses](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=38:1.0.1.1.4#se38.1.3_1309).
+[See the list of radiation-related illnesses](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=38:1.0.1.1.4#se38.1.3_1309)
 
 **And you must have had contact with ionizing radiation in one of these ways while serving in the military. You:**
 
@@ -51,14 +52,14 @@ Veterans
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 ------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below:
 - Medical records showing that you've been diagnosed with one of the illnesses on our list of those believed to be caused by radiation—or that your doctor states may be caused by radiation exposure, **and**
@@ -66,7 +67,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 
 **Note:** When you file your claim, we’ll ask the military branch that you served with (or the Defense Threat Reduction Agency) to give us a range of how much radiation they think you may have come into contact with. We’ll use the highest level of the range they report to decide on your benefits.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 
 

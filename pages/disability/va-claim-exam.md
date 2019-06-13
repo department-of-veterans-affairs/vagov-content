@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Claim Exam (C&P Exam)
-display_title: VA Claim Exam (C&P Exam)
+title: VA claim exam (C&P exam)
+heading: VA claim exam (C&P exam)
+display_title: VA claim exam (C&P exam)
 description: Get answers to commonly asked questions about the VA claim exam (also called a "VA C&P exam," which stands for "VA Compensation and Pension exam"). Find out how to schedule your exam, what to expect during your appointment, and how long it usually takes to get a decision after your exam.
 order: 3
 plainlanguage: 02-09-18 certified in compliance with the Plain Writing Act
@@ -10,13 +11,13 @@ majorlinks:
   - heading: More information about what happens after you file your claim
     links:
     - url: /disability/about-disability-ratings/
-      title: How VA Assigns Disability Ratings
+      title: How VA assigns disability ratings
       description: "Learn how we assign severity ratings and how they affect your disability payments."
     - url: /track-claims/
-      title: Check Claim and Appeal Status
+      title: Check claim and appeal status
       description: "Track the status of your disability claims and appeals."
     - url: /disability/file-an-appeal/
-      title: Appeals Process
+      title: Appeals process
       description: "Find out what to do if you disagree with your disability rating decision."
 spoke: More resources
 ---
@@ -41,11 +42,11 @@ If you miss your exam, we may not be able to reschedule you right away, and your
 </div>
 </div>
 
-### Why might I need a VA claim exam?
+## Why might I need a VA claim exam?
 
 This exam will help us rate your disability. Your rating will be based on how severe your disability is—and will affect how much disability compensation you’ll receive. Compensation may include things like monthly payments and enrollment in the VA health care program.
 
-### Does everyone who files a claim need to have a VA claim exam?
+## Does everyone who files a claim need to have a VA claim exam?
 
 No. We’ll ask you to have a claim exam only if we need more information to decide your claim.
 
@@ -53,7 +54,7 @@ If you have enough medical evidence in your file to support your claim, we won't
 
 <br>
 
-### How to schedule your VA claim exam
+## How to schedule your VA claim exam
 
 <ul class="usa-accordion">
 <li>
@@ -82,9 +83,9 @@ If you can’t make it to your appointment, let us know right away. You can most
 
 **To reschedule your appointment:**
 
-* Call 1-800-827-1000, **or**
+* Call 800-827-1000, **or**
 * Go to your nearest VA regional benefit office. <br>
-  [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
+  [Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
 
 </div>
 </li>
@@ -92,7 +93,7 @@ If you can’t make it to your appointment, let us know right away. You can most
 
 <br>
 
-### What to expect at your VA claim exam
+## What to expect at your VA claim exam
 
 <ul class="usa-accordion">
 <li>
@@ -123,7 +124,7 @@ A VA claim exam isn’t like a normal medical exam or other VA health care visit
 
 * Review your claim file with you
 * Ask you questions based on the medical records in your claim file. These may include questions from the Disability Benefits Questionnaire for each service-connected condition you’re claiming. <br>
-  [Take a look at the Disability Benefits Questionnaires (DBQs)](http://benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp).
+  [Take a look at the Disability Benefits Questionnaires (DBQs)](http://benefits.va.gov/COMPENSATION/dbq_ListByDBQFormName.asp)
 * Perform a basic physical exam
 * Ask you to get other tests—like X-rays or blood work—if needed
 
@@ -150,7 +151,7 @@ It’s important to remember that your in-person visit is only one part of the c
 <div id="VA-claim-exam-who" class="usa-accordion-content">
 
 Either a VA doctor or a non-VA doctor who we’ve contracted with will do the exam. You can also have your own doctor examine you and fill out the necessary forms. <br>
-[Get instructions for your doctor to fill out VA claim exam forms](http://benefits.va.gov/COMPENSATION/dbq_veteraninstruct.asp).
+[Get instructions for your doctor to fill out VA claim exam forms](http://benefits.va.gov/COMPENSATION/dbq_veteraninstruct.asp)
 
 </div>
 </li>
@@ -161,7 +162,7 @@ Either a VA doctor or a non-VA doctor who we’ve contracted with will do the ex
 No. The doctor will give the exam results to our VA claims processors. Our claims processors will decide your claim based on these results, plus your other medical and military records.
 
 If you have questions about the claims process, call your nearest VA regional benefit office. <br>
-[Find contact information for your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+[Find contact information for your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
 </div>
 </li>
@@ -173,7 +174,7 @@ If you miss your claim exam, contact us right away to let us know why you didn't
 
 If you have what we consider to be a good reason for missing your exam (called “good cause”), we’ll work with you to reschedule your exam. Examples of "good cause" might be an illness or the death of someone in your immediate family.
 
-[Find contact information for your nearest VA regional benefit office](/find-locations/?facilityType=benefits).
+[Find contact information for your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
 </div>
 </li>
@@ -181,7 +182,7 @@ If you have what we consider to be a good reason for missing your exam (called �
 
 <br>
 
-### After your VA claim exam
+## After your VA claim exam
 
 <ul class="usa-accordion">
 <li>
@@ -192,9 +193,9 @@ We’ll review all the evidence in your file, assign your disability rating, and
 
 Each claim is different, but it usually takes us about 3 to 4 months to process a claim from start to finish. The processing time for your claim depends on how complex your claim is and how many conditions you’ve claimed.
 
-[See our most recent estimate for the average number of days to complete a claim](/disability/how-to-file-claim/#days-to-complete-claim).
+[See our most recent estimate for the average number of days to complete a claim](/disability/how-to-file-claim/#days-to-complete-claim)
 
-[Sign in to track your claim](/track-claims/).
+[Sign in to track your claim](/track-claims/)
 
 </div>
 </li>
@@ -205,7 +206,7 @@ Each claim is different, but it usually takes us about 3 to 4 months to process 
 Yes. To get a copy of the final report from your exam, you can:
 
 * [Contact your nearest VA regional benefit office](/find-locations/?facilityType=benefits), **or**
-* Call us at 1-800-827-1000 and request an appointment to view your file
+* Call us at 800-827-1000 and request an appointment to view your file
 
 </div>
 </li>
@@ -227,15 +228,15 @@ Our VA claims processors will review:
 <div id="VA-claim-exam-another" class="usa-accordion-content">
 
 We may ask you to have a claim exam if you appeal your disability benefits decision. <br>
-[Learn more about appealing a decision](/disability/file-an-appeal/).
+[Learn more about appealing a decision](/disability/file-an-appeal/)
 
 </div>
 </li>
 </ul>
 
-### What if I have more questions about my exam?
+## What if I have more questions about my exam?
 
-#### Download helpful PDFs
+### Download helpful PDFs
 
 **[VA claim exam fact sheet](https://www.benefits.va.gov/COMPENSATION/docs/claimexam-factsheet.pdf#)**<br>
 A quick guide on the claim exam process, and what you can expect during and after your exam
@@ -255,8 +256,8 @@ Information about how we evaluate mental health claims for compensation, and why
 **[Review exams fact sheet](https://www.benefits.va.gov/COMPENSATION/docs/claimexam-reviewexams.pdf#)<br>**
 Information about why and when we request review exams, what will happen at the exam, and why it's important to go to your exam
 
-#### Watch informational videos
+### Watch informational videos
 
 You can also watch our VA claim exams video series. This series offers videos on how to prepare for your VA claim exam, how to use disability benefits questionnaires (DBQs), and what to expect at claim exams for the most common disability claims.
 
-[View the VA claim exams video series](https://www.youtube.com/playlist?list=PLrrh23QvVVYhAJ6t3vr81YvDypkezZ2yI).<br>
+[View the VA claim exams video series](https://www.youtube.com/playlist?list=PLrrh23QvVVYhAJ6t3vr81YvDypkezZ2yI)<br>

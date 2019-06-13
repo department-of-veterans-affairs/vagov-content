@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 title: Veterans Asbestos Exposure
+heading: Veterans asbestos exposure
 display_title: Asbestos
 description: Find out if you can get VA disability pay for illnesses related to asbestos exposure. You may have had contact with asbestos if you served in Iraq or other countries in the Middle East and Southeast Asia, or if you worked in certain jobs or settings, like shipyards, construction, or vehicle repair.
 concurrence: complete
@@ -37,12 +38,12 @@ Veterans
 
 --------
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
-### How do I get these benefits?
+## How do I get these benefits?
 You’ll need to file a claim for disability compensation and provide the evidence (supporting documents) listed below: <br>
 
 - Medical records that state your illness or disability, <b>and</b>
@@ -50,9 +51,9 @@ You’ll need to file a claim for disability compensation and provide the eviden
 - A doctor's statement that there's a connection between your contact with asbestos during military service and the illness or disability
 <br>
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-### How do I know if I have an illness caused by my contact with asbestos?
+## How do I know if I have an illness caused by my contact with asbestos?
 If you worked in certain jobs or with certain products, talk to your doctor about getting tested for illnesses that affect your lungs.
 
 
@@ -72,7 +73,7 @@ Get tested if you’ve made or worked with products like:
 - Insulation
 - Clutch facings and brake linings (called friction products)
 
-### Get more information
+## Get more information
 
 Do you think you may have had contact with asbestos? <br>
-[Learn about asbestos-related illnesses](https://www.publichealth.va.gov/exposures/asbestos/index.asp).
+[Learn about asbestos-related illnesses](https://www.publichealth.va.gov/exposures/asbestos/index.asp)

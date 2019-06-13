@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Mustard Gas or Lewisite Exposure
-display_title: Mustard Gas or Lewisite
+title: Mustard Gas Or Lewisite Exposure
+heading: Mustard gas or lewisite exposure
+display_title: Mustard gas or lewisite
 description: Find out if you can get VA disability pay and other benefits for illnesses related to mustard gas or lewisite exposure. You may have had contact with mustard gas or lewisite if you served in certain areas during WW2 or if you participated in biological and chemical testing.
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-mustard.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
@@ -45,11 +46,11 @@ You may be able to get disability benefits if you have a disability believed to 
 - Naval Research Laboratory, Washington, DC
 - USS Eagle Boat 58
 
-**Some Servicemembers** who took part in testing in these places:
+**Some service members** who took part in testing in these places:
  - Finschhafen, New Guinea
  - Porton Down, England
 
-**Select merchant seaman** were also exposed at Bari, Italy.
+**Select merchant seamen** were also exposed at Bari, Italy.
 
 <br>
 
@@ -59,30 +60,30 @@ Veterans
 
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation.
 
-You have to claim an actual disease or disability. It’s not enough to state that you were exposed to mustard gas or lewisite during service. You’ll need to apply based on the illnesses believed to be caused by your contact with 1 of these chemicals. When you send in your claim, be sure to share any military records that show you had contact with blistering agents.
+You have to claim an actual disease or disability. It’s not enough to state that you were exposed to mustard gas or lewisite during service. You’ll need to apply based on the illnesses believed to be caused by your contact with one of these chemicals. When you send in your claim, be sure to share any military records that show you had contact with blistering agents.
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-### What if I need help filing my disability claim?
+## What if I need help filing my disability claim?
 
 If you have questions about benefits related to mustard gas exposure, you can contact us via email. <a href="mailto:mustardgas@vba.va.gov">Email us at mustardgas@vba.va.gov</a>
 
-You can also get help from a trained professional trusted to help with VA-related claims. [Get help filing your claim](/disability/get-help-filing-claim/).
+You can also get help from a trained professional trusted to help with VA-related claims. [Get help filing your claim](/disability/get-help-filing-claim/)
 
 -----
 
-### Can I get benefits if I volunteered for research involving chemical and biological testing?
+## Can I get benefits if I volunteered for research involving chemical and biological testing?
 
 As many as 60,000 Veterans volunteered for medical research for the U.S. Biological and Chemical Programs. If you were involved in this research, you can get medical care through the U.S. Army if you meet both of the requirements listed below.
 
@@ -91,6 +92,6 @@ As many as 60,000 Veterans volunteered for medical research for the U.S. Biologi
 - Volunteered for research involving chemical and biological testing between 1942 and 1975, **and**
 - Have an injury or disease directly caused by your participation in this testing
 
-If you have questions or need help getting medical care:
-- [Visit the U.S. Army web page](https://armymedicine.health.mil/CBTP), **or**
-- Call <a href="tel:+18009848523">1-800-984-8523</a>
+If you have questions or need help getting medical care: 
+- [Visit the U.S. Army web page](https://armymedicine.health.mil/CBTP), **or** 
+- Call <a href="tel:+18009848523">800-984-8523</a>

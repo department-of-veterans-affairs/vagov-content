@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: File a TSGLI appeal (VA Form SGLV 8600A)
+title: File A TSGLI Appeal (VA Form SGLV 8600A)
+heading: File a TSGLI appeal (VA Form SGLV 8600A)
 display_title: File a TSGLI appeal
 collection: lifeInsurance
 lastupdate:
