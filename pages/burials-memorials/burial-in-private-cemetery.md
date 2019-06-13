@@ -26,7 +26,7 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Learn more about having a burial in a private cemetery. Find out which burial benefits are available to Veterans buried in private cemeteries. 
+Learn more about having a burial in a private cemetery and find out which burial benefits are available to Veterans buried in private cemeteries. 
 </div>
 
 
@@ -124,9 +124,9 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Can you give me a written list of what services my family and I will receive during the burial process?  
 - Can you give me a written list of what information or resources I need to give you in order to plan the burial? 
 - Do you offer a trust fund to protect buyers? 
-- Are there any headstone or gravemarker requirements or restrictions?
-- Do I need to buy a special marker base before ordering a government headstone?
-- Does it cost money to place, set, or take care of a government headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
+- Are there any requirements or restrictions on headstones or gravemarkers in your cemetery?
+- Do I need to buy a special marker base before ordering a headstone from VA?
+- Does it cost money to place, set, or take care of a VA headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
 
 ## Is a spouse or dependent eligible for memorial items if they're buried in private cemetery?
