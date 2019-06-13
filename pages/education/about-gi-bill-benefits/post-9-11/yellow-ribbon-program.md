@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Yellow Ribbon Program
+heading: Yellow Ribbon Program
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 children: educationYellowRibbonProgram
