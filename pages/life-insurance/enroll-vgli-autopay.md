@@ -45,7 +45,7 @@ Even if the emails are returned as not delivered, or if the email address we hav
 
 You’ll be able to see your payment history in your VGLI online account. </br>
 
-Note: With VGLI auto pay, you’ll get only email notifications, not paper mail ones. If you want to receive paper notifications through the U.S. Postal Service, you shouldn’t sign up for auto pay.
+**Note:** With VGLI auto pay, you’ll get only email notifications, not paper mail ones. If you want to receive paper notifications through the U.S. Postal Service, you shouldn’t sign up for auto pay.
 
 ## How do I enroll in VGLI auto pay?
 
@@ -85,3 +85,9 @@ Also, if your bank ever doesn’t honor a monthly withdrawal request, OSGLI will
 
 </li>
 </ol>
+
+## What happens if my premium amount changes?
+
+Your premium payment may change depending on your age. OSGLI will send you a notice in writing 30 to 60 days before the date your premium changes. </br>
+
+Your premium amount may also change if you change your coverage amount, or if you change how often you make payments. When you make those changes, OSGLI will tell you what your new premium will be. 
