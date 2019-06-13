@@ -36,7 +36,7 @@ Learn about VA national cemeteries and state Veterans cemeteries. Find out how t
 
 ## VA national cemeteries
 
-The National Cemetery Administration (NCA) maintains 136 national cemeteries in 40 states and Puerto Rico. We also maintain 33 soldiers’ lots and monument sites. 
+The National Cemetery Administration (NCA) maintains 136 national cemeteries in 40 states and Puerto Rico, as well as 33 soldiers’ lots and monument sites. 
 
 ### How do I find a VA national cemetery?
 
