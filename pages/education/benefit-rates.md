@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Post-9/11 GI Bill and other VA education benefit rates
+title: Post-9/11 GI Bill And Other VA Education Benefit Rates
+heading: Post-9/11 GI Bill and other VA education benefit rates
 display_title: Benefit rates
 concurrence: incomplete
 order: 2
