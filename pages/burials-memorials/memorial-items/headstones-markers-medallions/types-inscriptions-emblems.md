@@ -99,32 +99,49 @@ Medallions are:
 - A way to show Veteran status in a private cemetery that may have rules against the types of markers, headstones, or footstones you can use
 
 
-#### Who are medallions for? How can I get a medallion?
+#### Who can get a medallion? How can I get a medallion?
 
-Veterans who served on or after April 6, 1917 **and** who have graves in a private cemetery and a privately purchased headstone or marker can get a medallion.
+Medallions are for Veterans who: 
+- Served on or after April 6, 1917, **and** 
+- Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
+**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
+
 
 [Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Learn about private cemetery burials](/burials-memorials/burial-in-private-cemetery/)
 
+
+**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
 #### What types of medallions are available?
 
 ##### Bronze medallions
 
+- **Dimensions**: 
+**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
+**Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
+- **Material:** Bronze
+- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom. 
+
+##### Medal of Honor (MOH)
+
+- **Dimensions**: 
+**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
+- **:Material:** Bronze
+- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom. 
+
+[Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
+#### What happens after I apply for a medallion?
+
+Once a request for a medallion is received and approved, we'll mail you your medallion. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
 
 
 
 
-Bronze Medallion Sizes: The medallion is available in three sizes: Large (6-3/8”W x 4-3/4”H x 1/2”D), Medium (3-3/4”W x 2-7/8”H x 1/4"D) and Small (2”W x 1-1/2”H x 1/3”D). Each medallion is inscribed with the word “VETERAN” across the top and the branch of service at the bottom.
 
-Medal of Honor Medallion Sizes: The Medal of Honor (MOH) Medallion comes in Medium and Large. Each medallion is inscribed with "MEDAL OF HONOR" at the top and the branch of service at the bottom.
-
-To request a medallion, please use VA Form 40-1330M, Claim for Government Medallion for Placement in a Private Cemetery. When requesting the MOH Medallion, check "OTHER" in block 11 and specify MOH.
-
-Once a claim for a medallion is received and approved, VA will mail the medallion along with a kit that will allow the family or the staff of a private cemetery to affix the device to a headstone, grave marker, mausoleum or columbarium niche cover.
-
-Important: This benefit is only applicable if the grave is marked with a privately purchased headstone or marker. In these instances, eligible Veterans are entitled to either a traditional Government-furnished headstone or marker, or the new medallion, but not both.
-
-For family members of eligible Veterans interested in submitting a claim for the medallion, instructions on how to apply for a medallion are available. Please use: VA Form 40-1330M, Claim for Government Medallion for Placement in a Private Cemetery
 
 
 
