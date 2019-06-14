@@ -96,7 +96,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 And you'll need to provide evidence that you paid health care expenses for your claimed condition during one of the time periods listed below.
 
 **You must provide evidence of payment during one of these time periods:**
-- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012, and up to 2 years before the date of your application), **or
+- Between January 1, 1957, and December 31, 1987 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after August 6, 2012, and up to 2 years before the date of your application), **or**
 - Between August 1, 1953, and December 31, 1956 (if you lived on Camp Lejeune during this time period, we'll reimburse you for care received on or after December 16, 2014, and up to 2 years before the date you apply for benefits)
 
 **You may want to provide a Camp Lejeune Family Member Program Treating Physician Report (VA Form 10-10068b)**<br>
