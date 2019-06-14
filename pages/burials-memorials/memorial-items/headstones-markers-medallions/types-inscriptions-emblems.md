@@ -58,16 +58,17 @@ A marker is piece of bronze, granite, or marble that is placed flat on the groun
 
 [See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
-##### What types of markers are available?
+#### What type of markers are available?
+<br>
 
-###### Flat granite or marble
+##### Flat granite or marble
 
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** Stone color will vary. Marble may have light to medium veining (lines)
 
 
-###### Flat bronze
+##### Flat bronze
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
@@ -84,21 +85,34 @@ A marker is piece of bronze, granite, or marble that is placed flat on the groun
 
 #### What is a medallion?
 
-A medallion is used to show that a gravesite or memorial site belongs to a Veteran. A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. 
+A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
-#### Who gets a medallion?
+#### Why should I choose a medallion?
 
-Veterans who served on or after April 6, 1917 **and** who have graves in a private cemetery and a privately purchased headstone or marker. 
+If you have a privately purchased headstone or marker, a medallion is a good way to show Vetearn status. 
 
-#### How do I get a medallion?
+Medallions are: 
+
+- Easy to attach to different kinds of headstones and markers
+- Free--there are no headstone or marker setting fees
+- Long-lasting and durable
+- A way to show Veteran status in a private cemetery that may have rules against the types of markers, headstones, or footstones you can use
+
+
+#### Who are medallions for? How can I get a medallion?
+
+Veterans who served on or after April 6, 1917 **and** who have graves in a private cemetery and a privately purchased headstone or marker can get a medallion.
+
+[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
+
+#### What types of medallions are available?
+
+##### Bronze medallions
 
 
 
-The Department of Veterans Affairs provides a medallion, by request, to be affixed to an existing, privately purchased headstone or marker to signify the deceased's status as a Veteran.
 
-This device is furnished in lieu of a traditional Government headstone or grave marker for those Veterans who served on or after Apr. 6, 1917 and whose grave in a private cemetery is marked with a privately purchased headstone or marker.
-
-Why choose a medallion: Bronze medallions are durable and can be easily affixed to privately purchased headstones by anyone, avoiding headstone or marker setting fees. The medallion also offers a way to identify the grave as that of a Veteran when a cemetery only allows one headstone per grave, preventing the use of a standard VA marker as a footstone.
 
 Bronze Medallion Sizes: The medallion is available in three sizes: Large (6-3/8”W x 4-3/4”H x 1/2”D), Medium (3-3/4”W x 2-7/8”H x 1/4"D) and Small (2”W x 1-1/2”H x 1/3”D). Each medallion is inscribed with the word “VETERAN” across the top and the branch of service at the bottom.
 
