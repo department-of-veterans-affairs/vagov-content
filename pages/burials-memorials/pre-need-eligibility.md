@@ -75,7 +75,8 @@ Please see the list below. If you don’t have everything on the list, you can s
 
 ### Be sure to fill out an application for each person requesting a pre-need eligibility determination.
 
-If both you and your spouse are applying, you’ll each need to fill out your own application.
+If both you and your spouse are applying, you’ll each need to fill out your own application.<br>
+**Note:** We recommend that you don't submit a pre-need burial application for most children. This is because most children  reach an age where their eligibility expires.
 
 </li>
 </ol>
