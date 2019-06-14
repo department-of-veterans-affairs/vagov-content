@@ -135,7 +135,7 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
 
 
-## What should I do if I applied for a memorial item for a Veteran buried in a private cemetery, but the grave is still unmarked?
+### What should I do if I applied for a memorial item for a Veteran buried in a private cemetery, but the grave is still unmarked?
 
 **If the Veteran's grave is still unmarked and more than 30 days have passed since you filed your claim:**
 
@@ -145,7 +145,7 @@ Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received 
 
 Contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
 
-## What can I do if I have a complaint about a private cemetery?
+### What can I do if I have a complaint about a private cemetery?
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
 [Get help resolving your complaint (PDF).](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
