@@ -33,9 +33,17 @@ Find out about different types of memorial items, and learn about selecting diff
 
 Review the different types of memorial items available to Veterans. 
 
-[[See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 ### Headstones
+
+#### VA headstone details:
+- **Dimensions:** 42 inches tall (3.5 feet) x 13 inches wide (about 1 foot) x 4 inches thick (about 1/2 foot)
+- **Weight:** About 230 pounds
+- **Material:** Marble or granite
+- **Color:** Stone color will vary. Marble may have light to medium veining (lines)
+
+[See an example of an upright marble headstone.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 
 
