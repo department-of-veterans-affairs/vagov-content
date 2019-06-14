@@ -39,7 +39,7 @@ Review the different types of memorial items available to Veterans.
 
 Headstones are pieces of upright stone that are specially carved and inscribed according to each Veteran's personal details and VA guidelines. 
 
-#### Headstone details:
+##### Details:
 - **Dimensions:** 42 inches tall (3.5 feet) x 13 inches wide (about 1 foot) x 4 inches thick (about 1/2 foot)
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
@@ -52,11 +52,9 @@ Headstones are pieces of upright stone that are specially carved and inscribed a
 
 Markers are placed flat on the ground or mounted on a wall. They're inscribed according each Veteran's personal details and VA guidelines. 
 
-#### Types of Markers
+##### Types of Markers
 
-##### Flat granite and marble
-
-The flat granite and flat marble grave marker is 24 inches long, 12 inches wide, and 4 inches thick. Weight is approximately 130 pounds. Variations may occur in stone color; the marble may contain light to moderate veining. (Shown is the Flat Granite)
+##### Flat granite or marble
 
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
