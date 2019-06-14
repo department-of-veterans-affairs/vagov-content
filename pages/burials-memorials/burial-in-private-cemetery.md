@@ -29,19 +29,32 @@ relatedlinks:
 Learn more about having a burial in a private cemetery and find out which burial benefits are available to Veterans buried in private cemeteries. 
 </div>
 
+## Memorial items
 
-## Are memorial items available to Veterans buried in a private cemetery?
+### Is a Veteran buried in a private cemetery eligible for memorial items?
 
 Yes. Veterans buried in a private cemetery may be eligible for these memorial items:
-
 
 - Headstone, marker or medallion
 - Burial flag
 - Presidential Memorial Certificate
 
-We provide these items at no extra cost to your family.
+[See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-[See if you’re eligible for a memorial item.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+### Is a family member buried in a private cemetery eligible for memorial items?
+
+No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
+
+## Costs
+
+### How much does a burial in a private cemetery cost?
+
+It depends. We provide memorial items to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend you ask about these additional costs when planning a burial in a private cemetery. 
+
+### Can VA help with the cost of a Veteran's burial in a private cemetery?
+
+Yes. We can help you with the cost of a Veteran's burial with a burial allowance. [Learn more about burial allowances and find out how to apply.](https://www.va.gov/burials-memorials/veterans-burial-allowance/)
+
 
 ## How do I request a memorial item for a private cemetery burial?
 
@@ -105,17 +118,8 @@ Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
 
 Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
 
-
-## How much does a burial in a private cemetery cost? 
-
-It depends. We provide memorial items to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend you ask about these additional costs when planning a burial in a private cemetery. 
-
-## Can I use a burial allowance for a private cemetery burial? 
-
-Yes. [Learn more about burial allowances and find out how to apply.](https://www.va.gov/burials-memorials/veterans-burial-allowance/)
-
-
-## What questions should I ask to prepare for a private cemetery burial? 
+## More information about burial in a private cemetery
+### What questions should I ask to prepare for a private cemetery burial? 
 
 If you’re planning a burial in a private cemetery, you may want to ask these questions to the cemetery you’re working with:
 <br>
@@ -130,11 +134,8 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Does it cost money to place, set, or take care of a VA headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
 
-## Is a spouse or dependent eligible for memorial items if they're buried in private cemetery?
 
-No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
-
-## What should I do if the Veteran's grave is still unmarked?
+## What should I do if I applied for a memorial item for a Veteran buried in a private cemetery, but the grave is still unmarked?
 
 **If the Veteran's grave is still unmarked and more than 30 days have passed since you filed your claim:**
 
@@ -144,7 +145,7 @@ Call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received 
 
 Contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven’t received it, please call us at the number above.
 
-## What should I do if I need to file a complaint?
+## What can I do if I have a complaint about a private cemetery?
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
 [Get help resolving your complaint (PDF).](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
