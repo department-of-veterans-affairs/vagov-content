@@ -36,7 +36,7 @@ A Veteran who didn't receive a dishonorable discharge or a service member who di
 - Died on or after November 1, 1990, and their grave is currently marked with a privately purchased headstone, **or**
 - Was buried in an unmarked grave, anywhere in the world
 
-**Note:** If the Veteran or service member served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
+**Note:** If the Veteran or service member served before World War I, we require detailed documents, like muster rolls, extracts from state files, or the military or state organization where they served.
 
 ### Enlisted personnel who served after September 7, 1980 and officers who served after October 16, 1981
 
@@ -52,10 +52,11 @@ A Veteran who didn't receive a dishonorable discharge or a service member who di
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="national-guard-reserve">National Guard members and Reservists</button>
 <div id="national-guard-reserve" class="usa-accordion-content">
 
-A National Guard or Reservist may be eligible for a headstone or marker if they meet any of the requirements listed below specific to their type of service.
+A National Guard member or Reservist may be eligible for a headstone or marker if they meet any of the requirements listed below specific to their type of service.
 
 #### National Guard members
 
@@ -73,6 +74,7 @@ A National Guard or Reservist may be eligible for a headstone or marker if they 
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="spouses-family">Spouses and other family members</button>
 <div id="spouses-family" class="usa-accordion-content">
 
@@ -90,6 +92,7 @@ In most cases, we provide one gravesite and a single headstone for all eligible 
 
 Review eligibility requirements for:
 
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="veterans-servicemembers">Veterans and active-duty service members</button>
 <div id="veterans-servicemembers" class="usa-accordion-content">
@@ -124,7 +127,7 @@ We provide 2 types of medallions. Veterans and service members may be eligible f
 
 ### National Guard members and Reservists
 
-National Guard members and Reservists may be eligible for a medallion if they meet any of the requirements listed below specific to their type of service.
+A National Guard member or Reservist may be eligible for a medallion if they meet any of the requirements listed below specific to their type of service.
 
 We provide 2 types of medallions. National Guard members and Reservists may be eligible for a bronze medallion. If they've received a Medal of Honor, they may also be eligible for a Medal of Honor medallion.
 
@@ -171,7 +174,7 @@ In most cases, you can apply for one of these memorial items if you're represent
 - Any person who is legally responsible for making arrangements for unclaimed remains or for details having to do with the deceased's interment or memorialization, **or**
 - Any individual representing the deceased, if the Veteran's service ended before April 6, 1917
 
-**You must be a member of the deceased's family to apply for a memorial item if any of the below descriptions is true for the deceased's remains. Their remains:
+**You must be a member of the deceased's family to apply for a memorial item if any of the below descriptions is true for the deceased's remains. Their remains:**
 
 - Haven't been recovered or identified, **or**
 - Were buried at sea, **or**
@@ -293,15 +296,15 @@ The words engraved on the memorial item must begin, “IN MEMORY OF."
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="remains-not-available">Can 2 Veterans who are married get separate headstones?</button>
-<div id="remains-not-available" class="usa-accordion-content">Yes. All Veterans are eligible for their own headstone and gravesite. 
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="married-vets">Can 2 Veterans who are married get separate headstones?</button>
+<div id="married-vets" class="usa-accordion-content">Yes. All Veterans are eligible for their own headstone and gravesite. 
 
 **Spouses can be buried in:**
 - Side-by-side graves with separate headstones, **or**
 - The same gravesite with inscriptions on a shared headstone
 
-    </div>
-  </li>
+ </div>
+ </li>
  </ul>
 
 -------------
@@ -319,6 +322,6 @@ The words engraved on the memorial item must begin, “IN MEMORY OF."
 - If more than 30 days have passed since you filed your claim and the grave still isn't marked, you can call us at <a href="tel:+18006976947">800-697-6947</a> to make sure we received your claim. We're here Monday through Friday, 8:00 a.m. - 5:00 p.m. ET. 
 - If you know we've received your claim and more than 60 days have passed, contact the cemetery, funeral home, or other party responsible for accepting delivery of the headstone, marker or medallion. If they haven't received it, please call us at the above number.<br>
 
-**If you have a complaint about a private cemetery:**
-There are organizations that can help you resolve it. <br>
+**If you have a complaint about a private cemetery:** <br>
+There are organizations that can help you resolve the issue. <br>
 [Get help resolving your complaint (PDF)](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
