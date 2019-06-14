@@ -26,25 +26,27 @@ Find out how to apply for a headstone, grave or niche marker, or medallion to ho
 
 ### Veterans and active-duty service members
 
-A Veteran who didn't receive a dishonorable discharge or a service member who died while on active duty may be eligible for a headstone or marker if they meet the requirements listed below specific to when they started their service.
+A Veteran who didn't receive a dishonorable discharge or a service member who died while on active duty may be eligible for a headstone or marker if they meet the requirements listed below specific to when they served.
 
-#### For service before September 7, 1980 for enlisted personnel and October 15, 1981 for officers
+#### Enlisted personnel who served before September 7, 1980 and officers who served before October 16, 1981
 
 **At least one of these must be true. The Veteran or service member:**
 - Died on or after November 1, 1990, and their grave is currently marked with a privately purchased headstone, **or**
-- Was buried in an unmarked grave, anywhere in the world, and served before September 7, 1980 
-
-#### For service after September 7, 1980 for enlisted personnel and October 15, 1981 for officers
-
-**At least one of these must be true. The Veteran or service member:**
-- Served for a minimum of 24 months of continuous active duty, **or**
-- Died while serving on active duty <br>
+- Was buried in an unmarked grave, anywhere in the world
 
 **Note:** If the Veteran or service member served before World War I, you'll need detailed documents, like muster rolls, extracts from state files, or the military or state organization where you served.
 
-#### Hmong Veterans
-Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000 and died on or after March 23, 2018.
+#### Enlisted personnel who served after September 7, 1980 and officers who served after October 16, 1981
 
+**At least one of these must be true. The Veteran or service member:**
+- Died on or after November 1, 1990, and their grave is currently marked with a privately purchased headstone, **or**
+- Was buried in an unmarked grave, anywhere in the world
+
+**And at least one of these must also be true. The Veteran or service member:**
+- Served for a minimum of 24 months of continuous active duty, **or**
+- Died while serving on active duty <br>
+
+**Note:** Hmong individuals who were living in the U.S. when they died are eligible if they were naturalized under the Hmong Veterans Naturalization Act of 2000 and died on or after March 23, 2018.
 
 ### Members of the National Guard or Reserves
 
