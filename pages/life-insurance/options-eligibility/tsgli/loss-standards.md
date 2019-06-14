@@ -70,10 +70,36 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 **Both of these must be true:**
 - Your average hearing threshold sensitivity for aid conduction is 80 decibels or more in at least one ear, **and**
-- It's reasonable certain that your hearing loss won't improve throughout your life
+- It's reasonably certain that your hearing loss won't improve throughout your life
 
 **Note:** Hearing acuity must be measured at 500 Hz, 1000 Hz and 2000 Hz to calculate the average hearing threshold. Loss of hearing must be clinically stable and unlikely to improve
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="speech">Hearing</button>
+<div id="speech" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Total and permanent loss of speech
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- You've lost the ability to express yourself, both by voice and whisper, through normal organs for speech, **and**
+- It's reasonably cetain that your loss of speech will not improve throughout your life
+
+**Note:** If you use an artificial appliance, such as a voice box, to simulate speech, you are still considered to have suffered an organic loss of speech and are eligible for a TSGLI benefit.
+
+</div>
+</li>
 </ul>
+
+
