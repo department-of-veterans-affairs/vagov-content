@@ -42,7 +42,7 @@ def commentBrokenLinks(buildOutput) {
   commentOnGitHub(comment);
 }
 
-node('vetsgov-general-purpose') {
+node('vagov-general-purpose') {
 
   def imageTag
   def dockerImage
