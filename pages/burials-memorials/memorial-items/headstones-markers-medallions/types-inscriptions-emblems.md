@@ -37,7 +37,9 @@ Review the different types of memorial items available to Veterans.
 
 ### Headstones
 
-#### VA headstone details:
+Headstones are pieces of upright stone that are specially carved and inscribed according to each Veteran's personal details and VA guidelines. 
+
+#### Headstone details:
 - **Dimensions:** 42 inches tall (3.5 feet) x 13 inches wide (about 1 foot) x 4 inches thick (about 1/2 foot)
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
@@ -46,8 +48,33 @@ Review the different types of memorial items available to Veterans.
 [See an example of an upright marble headstone.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 
-
 ### Markers
+
+Markers are placed flat on the ground or mounted on a wall. They're inscribed according each Veteran's personal details and VA guidelines. 
+
+#### Types of Markers
+
+##### Flat granite and marble
+
+The flat granite and flat marble grave marker is 24 inches long, 12 inches wide, and 4 inches thick. Weight is approximately 130 pounds. Variations may occur in stone color; the marble may contain light to moderate veining. (Shown is the Flat Granite)
+
+- **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
+- **Weight:** About 130 pounds
+- **Additional details:** Stone color will vary. Marble may have light to medium veining (lines)
+
+
+##### Flat bronze
+
+- **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
+- **Weight:** About 18 pounds
+- **Additional details:** We don't provide you with a base, but we do provide anchor bolts, nuts, and washers for attaching a marker to its base
+
+##### Bronze niche
+
+- **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
+- **Weight:** About 3 pounds
+- **Additional details:** We provide you mountin bolts and washers
+
 
 ### Medallions
 
