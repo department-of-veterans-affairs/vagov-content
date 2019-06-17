@@ -891,4 +891,33 @@ If you're able to perform the activity by using accommodating equipment, such as
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hospitalization due to traumatic injury">Hospitalization due to traumatic injury</button>
+<div id="hospitalization due to traumatic injury" class="usa-accordion-content">
+
+<h5>Loss</h5>  
+
+Hospitalization due to traumatic injury
+
+<h5>Payment</h5>
+
+At 15th consecutive day of hospitalization: $25,000
+
+**Note:** Payment for hospitalization replaces the first payment period in traumatic injury resulting in inability to perform at least 2 Activities of Daily Living (ADL).
+
+**Note:** Duration of hospitalization includes dates on which you're transported from the injury site to a facility described in 9.20(e)(6)(xiii), admitted to the facility, transferred between facilities, and discharged from the facility.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both descriptions below are true for you.
+- You've been hospitalized for 15 consecutive days* as a result of a traumatic brain injury.
+
+**Note:** The count of consecutive hospitalization days begins when you're transported to the hospital, includes the day of admission, continues through subsequent transfers from one hospital to another, and includes the day of discharge.
+
+**Definition of a hospital:** an inpatient facility accredited as a hospital under the Hospital Accreditation Program of the Joint Commission on Accreditation of Healthcare Organizations. This includes Combat Support Hospitals, Air Force Theater Hospitals and Navy Hospital Ships. </br>
+
+Hospital does not include a nursing home. Neither does it include an institution, or part of one, which: (1) is used mainly as a place for convalescence, rest, nursing care or for the aged; or (2) furnishes mainly homelike or Custodial Care, or training in the routines of daily living; or (3) is for residential or domiciliary living; or (4) is mainly a school.
+
+</div>
+</li>
 </ul>
