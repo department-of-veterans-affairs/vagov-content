@@ -80,7 +80,23 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 
 <div markdown="0"><br></div>
-<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
+<div data-widget-type="disability-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
