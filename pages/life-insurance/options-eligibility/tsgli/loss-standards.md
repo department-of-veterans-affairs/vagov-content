@@ -559,7 +559,6 @@ If you're able to perform the activity by using accommodating equipment, such as
 
 </div>
 </li>
-</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="hospitalization due to traumatic brain injury">Hospitalization due to traumatic brain injury</button>
 <div id="hospitalization due to traumatic brain injury" class="usa-accordion-content">
@@ -572,6 +571,10 @@ Hospitalization due to traumatic brain injury
 
 $25,000 at 15th day of hospitalization
 
+**Note:** Payment for hospitalization replaces the first payment period in a coma from traumatic injury and/or traumatic brain injury 
+
+**Note:** Duration of hospitalization includes dates on which you're transported from the injury site to a facility described in 9.20(e)(6)(xiii), admitted to the facility, transferred between facilities, and discharged from the facility.
+
 <h5>Loss standards</h5>
 
 You're eligible for this benefit if the description below is true for you.
@@ -580,9 +583,36 @@ You're eligible for this benefit if the description below is true for you.
 
 **Note:** The count of consecutive hospitalization days begins when you're transported to the hospital, includes the day of admission, continues through subsequent transfers from one hospital to another, and includes the day of discharge.
 
-**Definition of a Hospital:** an inpatient facility accredited as a hospital under the Hospital Accreditation Program of the Joint Commission on Accreditation of Healthcare Organizations. This includes Combat Support Hospitals, Air Force Theater Hospitals and Navy Hospital Ships. </br>
+**Definition of a hospital:** an inpatient facility accredited as a hospital under the Hospital Accreditation Program of the Joint Commission on Accreditation of Healthcare Organizations. This includes Combat Support Hospitals, Air Force Theater Hospitals and Navy Hospital Ships. </br>
 
 Hospital does not include a nursing home. Neither does it include an institution, or part of one, which: (1) is used mainly as a place for convalescence, rest, nursing care or for the aged; or (2) furnishes mainly homelike or Custodial Care, or training in the routines of daily living; or (3) is for residential or domiciliary living; or (4) is mainly a school.
+
+</div>
+</li>
+
+**Genitourinary losses**
+
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of the penis">Anatomical loss of the penis</button>
+<div id="anatomical loss of the penis" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Anatomical loss of the penis 
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
+
+**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+
+- You've suffered amputation of the glans penis or any portion of the shaft of the penis above the glans penis (i.e. closer to the body) or damage to the glans penis or shaft of the penis that requires reconstructive surgery.
 
 </div>
 </li>
