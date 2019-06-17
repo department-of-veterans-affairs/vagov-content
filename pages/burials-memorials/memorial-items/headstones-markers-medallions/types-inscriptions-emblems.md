@@ -99,13 +99,13 @@ Medallions are:
 - A way to show Veteran status in a private cemetery that may have rules against the types of markers, headstones, or footstones you can use
 
 
-#### Who can get a medallion? How can I get a medallion?
-
+#### Who can get a medallion? 
 Medallions are for Veterans who: 
 - Served on or after April 6, 1917, **and** 
 - Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
+#### How can I get a medallion?
 
 [Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 [Learn about private cemetery burials](/burials-memorials/burial-in-private-cemetery/)
@@ -165,11 +165,101 @@ The inscription on a Veteran's headstone or grave marker can include:
 - [Navy](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Navy.pdf)
 - [Other](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_All_Other.pdf)
 
-### Emblems of Belief
+### Emblems of belief
+
+#### What is an emblem of belief?
+
+An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
+
+#### Who can request an emblem of belief? 
+
+These people can request an emblem of belief for a Veteran:
+
+- Veteran's next-of-kin (NOK)
+- A person authorized by the Veteran's NOK
+- A persona authorized by the Veteran
+
+
+#### Can I request an emblem of belief that isn't included on the list? 
+
+Yes. Follow the directions below to request an image that isn't included on the VA lisst of emblems of belief. 
+
+<ol class="process">
+<li class="process-step list-one">
+
+#### Check the Veteran's eligibility for memorial items
+<br>
+[Find out if the Veteran is eligible for a memorial item.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
+
+ </li>
+
+ <li class="process-step list-two">
+
+#### Certify that the emblem of belief you want to request represents the Veteran's religious or other beliefs
+<br> 
+
+Make sure that the emblem of belief you're requesting accurately portrays the Veteran's religious or other equivalent (equal) belief system. [We might want to get more specific here.]
+ </li>
+ 
+ <li class="process-step list-three">
+ 
+ #### Submit an image of the emblem of belief
+ 
+ Send us a picture of the emblem of belief you want on the Veteran's headstone or grave marker. The picture must:
+ 
+ - Be 3 inches in diameter
+ - Printed in black and white
+ - Have no copyright or trademark restrictions
+ - Must be able to be inscribed in a stone or bronze production environment without losing image quality
+ 
+ [Is there other information they need to submit?]
+ 
+ ##### By mail: 
+ <br>
+ <p class="va-address-block">
+    Memorial Products Service (41B)<br>
+    Department of Veterans Affairs<br>
+    5109 Russell Road<br>
+    Quantico, VA 22134-3903<br>
+</p>
 
 
 
 
+
+
+
+
+Print version of Available Emblems of Belief.
+
+No graphics (logos, symbols, etc.) are permitted on Government-furnished headstones or markers other than the available emblems of belief, the Civil War Union Shield, the Civil War Confederate Southern Cross of Honor, and the Medal of Honor insignias.
+
+An emblem of belief for inscription on a Government headstone or marker is an emblem or symbol that represents the sincerely held belief of the decedent that constituted a religion or the functional equivalent of religion and was believed and/or accepted as true by that individual during his or her life. The belief represented by an emblem need not be associated with or endorsed by a group or organization.
+
+Emblems of belief for inscription on Government headstones and markers do not include social, cultural, ethnic, civic, fraternal, trade, commercial, political, professional or military emblems. VA will not inscribe any emblem on a headstone or marker that would have an adverse impact on the dignity and solemnity of cemeteries honoring those who served the Nation. Emblems that would not be permitted include (but are not limited to), emblems that contain explicit or graphic depictions or descriptions of sexual organs or sexual activities that are shocking, titillating, or pandering in nature; and emblems that display coarse or abusive language or images.
+
+If you are applying for a headstone or marker and the emblem you desire is not currently available, please see information below:
+
+Who Can Request a New Emblem of Belief?
+CFR 38.632 rule states that the following individuals may request a new emblem of belief for inscription on a headstone or marker: the decedent's next-of-kin (NOK), a person authorized in writing by the NOK, or a personal representative authorized in writing by the decedent.
+
+Instructions for Requesting an Emblem not Available for Inscription
+To submit a request for an emblem of belief not available for inscription, the requestor must:
+
+Establish that there is an immediate need for a Government headstone/marker to be furnished for a deceased eligible individual (i.e., submission of VA-Form 40-1330, for Standard Government Headstone or Marker, verification from national or state Veterans' cemetery officials).
+Certify that the proposed new emblem of belief represents the decedent's religious affiliation or sincerely held religious belief system, or a sincerely held belief system that was functionally equivalent to a religious belief system in the life of the decedent.
+Submit a three-inch diameter digitized black and white representation of the requested emblem that is free of copyright or trademark restrictions or authorized by the owner for inscription on Government-furnished headstones and markers and can be reproduced in a production-line environment in stone or bronze without loss of graphic quality.
+Submit all information to the following address:
+
+Memorial Products Service (41B)
+Department of Veterans Affairs
+5109 Russell Road
+Quantico, VA 22134-3903
+
+Download Plugins
+
+return to top go
 
 
 
