@@ -54,8 +54,8 @@ We base our decision of whether or not you qualify for burial in a VA national c
 
 **Please note:**
 
-- **This application is only for national cemeteries.** If you'd like to be buried in a state or tribal Veterans cemetery, check the site you want ahead of time. Some state Veterans cemeteries require that you live in that state or have other rules around eligibility. <br>
-[Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/listcem.asp)
+- **This application is only for VA national cemeteries.** If you'd like to be buried in a state or tribal Veterans cemetery, contact that specific cemetery ahead of time to find out about their pre-need program. Some state Veterans cemeteries require that you live in that state or have other rules around eligibility. You can apply for a pre-need determination of eligibility both from VA and from a state or tribal Veterans cemetery.<br>
+[Find a state Veterans cemetery](https://www.cem.va.gov/cem/cems/index.asp)
 
 - **This application doesn’t apply to Arlington National Cemetery or the United States Soldiers and Airmen's Home National Cemetery.** If you'd like to be buried in either of these Department of the Army cemeteries, please call <a href="tel:+18779078585">877-907-8585</a>, Monday through Friday, 8:00 a.m. to 5:30 p.m. <abbr title="eastern time">ET</abbr>, and Saturday, 9:00 a.m. to 1:00 p.m. <abbr title="eastern time">ET</abbr>.
 
