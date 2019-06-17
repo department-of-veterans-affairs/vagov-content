@@ -108,6 +108,10 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 Complete paralysis of all four limbs
 
+<h5>Payment</h5>
+
+$100,000
+
 <h5>Loss standards</h5>
 
 You're eligible for this benefit if both of the descriptions below are true for you.
@@ -120,6 +124,105 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="hemiplegia">Hemiplegia</button>
+<div id="hemiplegia" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Complete paralysis of the upper and lower limbs on one side of the body
+
+<h5>Payment</h5>
+
+$100,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+
+**Note:** A limb is defined as an arm or a leg with all its parts.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="paraplegia">Paraplegia</button>
+<div id="paraplegia" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Complete paralysis of both lower limbs
+
+<h5>Payment</h5>
+
+$100,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+
+**Note:** A limb is defined as an arm or a leg with all its parts.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="uniplegia">Uniplegia</button>
+<div id="uniplegia" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Complete paralysis of one limb
+
+**Note:** Payment for uniplegia of arm cannot be combined with amputation of hand, amputation of 4 fingers on 1 hand or thumb alone, or limb salvage of arm for the same arm. Payment for uniplegia of leg cannot be combined with amputation of foot, amputation of all toes including the big toe on 1 foot, amputation of big toe only, or other 4 toes on 1 foot, or limb salvage of leg for the same leg.
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+
+**Note:** A limb is defined as an arm or a leg with all its parts.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="	
+burns">Burns</button><div id="burns" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Second degree or worse burns to at least 20% of the body, including the face, or at least 20% of the face
+
+<h5>Payment</h5>
+
+$100,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if one of the descriptions below is true for you.
+
+**One of these must be true:**
+- Second degree (partial thickness) or worse burns over 20% of the body, including the face and head, **or**
+- Second degree (partial thickness) or worse burns over 20% of the face only
+
+**Note:** Percentage may be measured using the Rule of Nines or any other acceptable alternative.
+
+</div>
+</li>
 </ul>
+
 
 
