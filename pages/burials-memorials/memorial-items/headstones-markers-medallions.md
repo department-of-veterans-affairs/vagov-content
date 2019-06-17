@@ -19,7 +19,7 @@ Find out how to apply for a headstone, grave or niche marker, or medallion to ho
 
 ## Eligibility
 
-### Who can be honored with a headstone or a grave or niche marker?
+### Who can be honored with a headstone, grave marker, or niche marker?
 
 Review eligibility requirements for:
 
