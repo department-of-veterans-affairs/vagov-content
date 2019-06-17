@@ -72,7 +72,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 - Your average hearing threshold sensitivity for aid conduction is 80 decibels or more in at least one ear, **and**
 - It's reasonably certain that your hearing loss won't improve throughout your life
 
-**Note:** Hearing acuity must be measured at 500 Hz, 1000 Hz and 2000 Hz to calculate the average hearing threshold. Loss of hearing must be clinically stable and unlikely to improve
+**Note:** Hearing acuity must be measured at 500 Hz, 1000 Hz, and 2000 Hz to calculate the average hearing threshold. Loss of hearing must be clinically stable and unlikely to improve.
 
 </div>
 </li>
@@ -96,7 +96,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 - You've lost the ability to express yourself, both by voice and whisper, through normal organs for speech, **and**
 - It's reasonably cetain that your loss of speech will not improve throughout your life
 
-**Note:** If you use an artificial appliance, such as a voice box, to simulate speech, you are still considered to have suffered an organic loss of speech and are eligible for a TSGLI benefit.
+**Note:** If you use an artificial appliance, such as a voice box, to simulate speech, you're still considered to have suffered an organic loss of speech and are eligible for a TSGLI benefit.
 
 </div>
 </li>
@@ -106,7 +106,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 <h5>Loss</h5>
 
-Complete paralysis of all four limbs
+Complete paralysis of all 4 limbs
 
 <h5>Payment</h5>
 
@@ -118,7 +118,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 **Both of these must be true:**
 - You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
-- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+- The paralysis falls into 1 of these 4 categories: quadriplegia (paralysis of all 4 limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on 1 side of the body), or uniplegia (paralysis of 1 limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
 
@@ -142,7 +142,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 **Both of these must be true:**
 - You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
-- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+- The paralysis falls into 1 of these 4 categories: quadriplegia (paralysis of all 4 limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on 1 side of the body), or uniplegia (paralysis of 1 limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
 
@@ -166,7 +166,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 **Both of these must be true:**
 - You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
-- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+- The paralysis falls into 1 of these 4 categories: quadriplegia (paralysis of all 4 limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on 1 side of the body), or uniplegia (paralysis of 1 limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
 
@@ -180,11 +180,11 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 Complete paralysis of one limb
 
-**Note:** Payment for uniplegia of arm cannot be combined with amputation of hand, amputation of 4 fingers on 1 hand or thumb alone, or limb salvage of arm for the same arm. Payment for uniplegia of leg cannot be combined with amputation of foot, amputation of all toes including the big toe on 1 foot, amputation of big toe only, or other 4 toes on 1 foot, or limb salvage of leg for the same leg.
-
 <h5>Payment</h5>
 
 $50,000
+
+**Note:** Payment for uniplegia of an arm cannot be combined with amputation of a hand, amputation of 4 fingers on 1 hand or thumb alone, or limb salvage of an arm for the same arm. Payment for uniplegia of a leg cannot be combined with amputation of a foot, amputation of all toes including the big toe on 1 foot, amputation of the big toe only, or other 4 toes on 1 foot, or limb salvage of a leg for the same leg.
 
 <h5>Loss standards</h5>
 
@@ -192,7 +192,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 **Both of these must be true:**
 - You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
-- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+- The paralysis falls into 1 of these 4 categories: quadriplegia (paralysis of all 4 limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on 1 side of the body), or uniplegia (paralysis of 1 limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
 
@@ -204,7 +204,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 <h5>Loss</h5>
 
-Second degree or worse burns to at least 20% of the body, including the face, or at least 20% of the face
+Second-degree or worse burns to at least 20% of the body, including the face, or at least 20% of the face
 
 <h5>Payment</h5>
 
@@ -215,8 +215,8 @@ $100,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- You've suffered second degree (partial thickness) or worse burns over 20% of the body, including the face and head, **or**
-- Second degree (partial thickness) or worse burns over 20% of the face only
+- You've suffered second-degree (partial thickness) or worse burns over 20% of the body, including the face and head, **or**
+- Second-degree (partial thickness) or worse burns over 20% of the face only
 
 **Note:** Percentage may be measured using the Rule of Nines or any other acceptable alternative.
 
@@ -234,7 +234,7 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 Amputation at or above the wrist for each hand
 
-**Note:** Payment for amputation of hand cannot be combined with payment for amputation of 4 fingers on 1 hand or thumb alone for the same hand.
+**Note:** Payment for amputation of hand can't be combined with payment for amputation of 4 fingers on 1 hand or thumb alone for the same hand.
 
 <h5>Payment</h5>
 
@@ -244,7 +244,7 @@ $50,000
 
 You're eligible for this benefit if the description below is true for you.
 
-Your hand is amputated at or above the wrist.
+- Your hand is amputated at or above the wrist.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
 
@@ -267,8 +267,8 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- You've suffered amputation of four fingers on the same hand (not including the thumb) at or above the metacarpophalangeal joint, **or**
-- Amputation of thumb at or above the metacarpophalangeal joint.
+- You've suffered amputation of 4 fingers on the same hand (not including the thumb) at or above the metacarpophalangeal joint, **or**
+- Amputation of the thumb at or above the metacarpophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
 
@@ -282,7 +282,7 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 Amputation at or above the ankle for each foot
 
-**Note**: Payment for amputation of foot cannot be combined with payments for amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same foot.
+**Note**: Payment for amputation of foot can't be combined with payments for amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same foot.
 
 <h5>Payment</h5>
 
@@ -293,7 +293,7 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- You've suffered amputation of foot at or above the ankle **or**
+- You've suffered amputation of a foot at or above the ankle **or**
 - Amputation of all toes (including the big toe) on the same foot at or above the metatarsophalangeal joint
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
@@ -319,8 +319,8 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- You've suffered amputation of four toes (not including the big toe) on one foot at or above* the metatarsophalangeal joint, **or**
-- Amputation of big toe at or above the metatarsophalangeal joint.
+- You've suffered amputation of four toes (not including the big toe) on one foot at or above the metatarsophalangeal joint, **or**
+- Amputation of the big toe at or above the metatarsophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
 
@@ -344,7 +344,7 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 **One of these must be true:**
 - You've suffered amputation of 4 toes (not including the big toe) on 1 foot at or above the metatarsophalangeal joint, **or**
-- Amputation of big toe at or above the metatarsophalangeal joint.
+- Amputation of the big toe at or above the metatarsophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
 
@@ -366,16 +366,16 @@ Salvage of arm in place of amputation for each arm
 
 $50,000
 
-**Note:** Payment for limb salvage of arm cannot be combined with payments for uniplegia, amputation of hand, or amputation of 4 fingers on 1 hand or thumb alone for the same arm.
+**Note:** Payment for limb salvage of an arm can't be combined with payments for uniplegia, amputation of a hand, or amputation of 4 fingers on 1 hand or thumb alone for the same arm.
 
 <h5>Loss standards</h5>
 
 You're eligible for this benefit if both of the descriptions below are true for you.
 
-**Both of these must be true:**
+**All of these must be true:**
 - You underwent a series of operations designed to save an arm rather than amputate, **and**
 - A surgeon certifies that the option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
-- You've chosen to pursue limb salvage.
+- You've chosen to pursue limb salvage
 
 </div>
 </li>
@@ -397,10 +397,10 @@ $50,000
 
 You're eligible for this benefit if both of the descriptions below are true for you.
 
-**Both of these must be true:**
+**All of these must be true:**
 - You underwent a series of operations designed to save a leg rather than amputate, **and**
 - The option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
-- You've chosen to pursue limb salvage.
+- You've chosen to pursue limb salvage
 
 </div>
 </li>
