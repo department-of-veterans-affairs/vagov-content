@@ -48,10 +48,10 @@ You or your representative will need to write a letter to the Board of Veterans�
 
 
 #### By fax
-Fax your request to <a href="tel:+12024956803">202-495-6803</a>.
+Fax your request to <a href="tel:+12024956803">844-678-8979</a>.
 
 
 ## Who can I contact if I need more information?
 
-Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at 800-923-8387.
+Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at 800-827-1000.
 
