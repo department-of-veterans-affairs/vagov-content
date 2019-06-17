@@ -222,7 +222,132 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of hand">Amputation of hand</button>
+<div id="amputation of hand" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Amputation at or above the wrist for each hand
+
+**Note:** Payment for amputation of hand cannot be combined with payment for amputation of 4 fingers on 1 hand or thumb alone for the same hand.
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+
+The member’s hand is amputated at or above the wrist.
+
+**Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of 4 fingers on 1 hand or thumb alone">Amputation of 4 fingers on 1 hand or thumb alone</button>
+<div id="amputation of 4 fingers on 1 hand or thumb alone" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Amputation at or above the metacarpophalangeal joint for each hand
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if one of the descriptions below is true for you.
+
+**One of these must be true:**
+- Amputation of four fingers on the same hand (not including the thumb) at or above the metacarpophalangeal joint, **or**
+- Amputation of thumb at or above the metacarpophalangeal joint.
+
+**Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of foot">Amputation of foot</button>
+<div id="amputation of foot" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Amputation at or above the ankle for each foot
+
+**Note**: Payment for amputation of foot cannot be combined with payments for amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same foot.
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if one of the descriptions below is true for you.
+
+**One of these must be true:**
+- Amputation of foot at or above the ankle **or**
+- Amputation of all toes (including the big toe) on the same foot at or above the metatarsophalangeal joint
+
+**Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of all toes including the big toe on 1 foot">Amputation of all toes including the big toe on 1 foot</button>
+<div id="amputation of all toes including the big toe on 1 foot" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Amputation at or above the metatarsophalangeal joint for each foot
+
+**Note:** Payment for amputation of all toes including the big toe on 1 foot cannot be combined with payments for amputation of big toe only, or other 4 toes on 1 foot for the same foot
+
+<h5>Payment</h5>
+
+$50,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if one of the descriptions below is true for you.
+
+**One of these must be true:**
+- Amputation of four toes (not including the big toe) on one foot at or above* the metatarsophalangeal joint, **or**
+- Amputation of big toe at or above the metatarsophalangeal joint.
+
+**Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of big toe only, or other 4 toes on 1 foot">Amputation of big toe only, or other 4 toes on 1 foot</button>
+<div id="amputation of big toe only, or other 4 toes on 1 foot" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Amputation at or above the metatarsophalangeal joint for each foot
+
+<h5>Payment</h5>
+
+$25,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if one of the descriptions below is true for you.
+
+**One of these must be true:**
+- Amputation of 4 toes (not including the big toe) on 1 foot at or above the metatarsophalangeal joint, **or**
+- Amputation of big toe at or above the metatarsophalangeal joint.
+
+**Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
 </ul>
+
 
 
 
