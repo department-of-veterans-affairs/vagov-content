@@ -352,6 +352,8 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 </li>
 </ul>
 
+<ul class="usa-accordion">
+  
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of arm">Limb salvage of arm</button>
 <div id="limb salvage of arm" class="usa-accordion-content">
