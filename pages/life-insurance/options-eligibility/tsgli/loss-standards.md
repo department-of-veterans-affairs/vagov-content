@@ -616,6 +616,98 @@ You're eligible for this benefit if the description below is true for you.
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of the penis">Permanent loss of the penis</button>
+<div id="permanent loss of the penis" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Permanent loss of use of the penis
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
+
+**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+- You've suffered damage to the glans penis or shaft of the penis that results in complete loss of the ability to perform sexual intercourse that is reasonably certain to continue throughout your lifetime.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of one testicle">Anatomical loss of one testicle</button>
+<div id="anatomical loss of one testicle" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Anatomical loss of one testicle
+
+<h5>Payment</h5>
+
+$25,000
+
+**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
+
+**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+- You've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of both testicles">Anatomical loss of both testicles</button>
+<div id="anatomical loss of both testicles" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Anatomical loss of both testicles
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
+
+**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+- You've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of use of both testicles">Permanent loss of use of both testicles</button>
+<div id="permanent loss of use of both testicles" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Permanent loss of use of both testicles
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
+
+**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if the description below is true for you.
+- You've suffered damage to both testicles resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
+
+</div>
+</li>
 </ul>
 
 
