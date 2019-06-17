@@ -222,6 +222,10 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 </div>
 </li>
+</ul>
+
+**Amputation**
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of hand">Amputation of hand</button>
 <div id="amputation of hand" class="usa-accordion-content">
@@ -346,6 +350,8 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 </div>
 </li>
+</ul>
+
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of arm">Limb salvage of arm</button>
 <div id="limb salvage of arm" class="usa-accordion-content">
@@ -396,7 +402,10 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
+</ul>
 
+<ul class="usa-accordion">
+  
 **Facial reconstruction**
 
 <li>
@@ -522,6 +531,9 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
+</ul>
+
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="coma from traumatic injury and/or traumatic brain injury">Coma from traumatic injury and/or traumatic brain injury</button>
 <div id="coma from traumatic injury and/or traumatic brain injury" class="usa-accordion-content">
