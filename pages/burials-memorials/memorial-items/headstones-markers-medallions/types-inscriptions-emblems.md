@@ -138,6 +138,35 @@ Medallions are for Veterans who:
 
 Once a request for a medallion is received and approved, we'll mail you your medallion. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
 
+## What can be inscribed on a Veteran's headstone or grave marker?
+
+The inscription on a Veteran's headstone or grave marker can include:
+- An abbreviated description of their service. The inscription varies depending on the Veteran's branch of service, war service, awards, and rank. 
+- An emblem (image) of belief (faith)
+
+### List of Abbreviations 
+
+#### Service
+- [Branch of Service](https://www.cem.va.gov/CEM/docs/abbreviations/Branch_of_Service.pdf)
+- [War Service](https://www.cem.va.gov/CEM/docs/abbreviations/War_Service_Abbreviations.pdf)
+- [Awards](https://www.cem.va.gov/CEM/docs/abbreviations/Awards.pdf)
+
+<br>
+
+#### Ranks
+
+- [Air Force](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Air_Force.pdf)
+- [Army](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Army.pdf)
+- [Army Air Corps](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Army_Air_Corps.pdf)
+- [Army Air Forces](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Army_Air_Forces.pdf)
+- [Coast Guard](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Coast_Guard.pdf)
+- [Marine Corps](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Marine_Corps.pdf)
+- [Merchant Marines](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Merchant_Marine.pdf)
+- [Navy](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Navy.pdf)
+- [Other](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_All_Other.pdf)
+
+### Emblems of Belief
+
 
 
 
