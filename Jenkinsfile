@@ -12,7 +12,7 @@ def checkoutAppCode = {
     doGenerateSubmoduleConfigurations: false,
     submoduleCfg: [],
     userRemoteConfigs: [
-      [url: "git@github.com:${GITHUB_ORG}/${APP_CODE_REPO}.git"]
+      [url: "https://github.com/${GITHUB_ORG}/${APP_CODE_REPO}.git"]
     ]
   ]
   checkout changelog: false, poll: false, scm: scmOptions
