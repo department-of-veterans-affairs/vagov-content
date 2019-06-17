@@ -100,6 +100,26 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="quadriplegia">Quadriplegia</button>
+<div id="quadriplegia" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Complete paralysis of all four limbs
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
+
+**Note:** A limb is defined as an arm or a leg with all its parts.
+
+</div>
+</li>
 </ul>
 
 
