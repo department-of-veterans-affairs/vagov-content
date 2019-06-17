@@ -396,9 +396,12 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
+
+**Facial reconstruction**
+
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: jaw">Facial reconstruction: Jaw</button>
-<div id="facial reconstruction: jaw" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="jaw">Jaw</button>
+<div id="jaw" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
@@ -423,8 +426,8 @@ You're eligible for this benefit if both of the descriptions below are true for 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: nose">Facial reconstruction: Nose</button>
-<div id="facial reconstruction: nose" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="nose">Nose</button>
+<div id="nose" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
@@ -449,8 +452,8 @@ You're eligible for this benefit if both of the descriptions below are true for 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: lips">Facial reconstruction: Lips</button>
-<div id="facial reconstruction: lips" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="lips">Lips</button>
+<div id="lips" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
@@ -476,8 +479,8 @@ You're eligible for this benefit if both of the descriptions below are true for 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: eyes">Facial reconstruction: Eyes</button>
-<div id="facial reconstruction: eyes" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="eyes">Eyes</button>
+<div id="eyes" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
@@ -498,8 +501,8 @@ You're eligible for this benefit if both of the descriptions below are true for 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: facial tissue">Facial reconstruction: Facial tissue</button>
-<div id="facial reconstruction: facial tissue" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial tissue">Facial tissue</button>
+<div id="facial tissue" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
@@ -848,6 +851,44 @@ You're eligible for this benefit if the description below is true for you.
 </li>
 </ul>
 
+## Part II
+
+For losses listed in Part II, payment amounts **may not** be combined with payment amounts in Part I—only the higher amount will be paid. The total payment amount **may not** exceed $100,000 for multiple injuries resulting from a single traumatic event.
 
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="traumatic injury">Traumatic injury</button>
+<div id="traumatic injury" class="usa-accordion-content">
 
+<h5>Loss</h5>  
+
+Traumatic injury resulting in inability to perform at least 2 Activities of Daily Living (ADL)
+
+<h5>Payment</h5>
+
+At 30th consecutive day of ADL loss: $25,000
+At 60th consecutive day of ADL loss: an additional $25,000
+At 90th consecutive day of ADL loss: an additional $25,000
+At 120th consecutive day of ADL loss: an additional $25,000
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both descriptions below are true for you.
+- You're unable to independently perform at least 2 of 6 ADL (bathing, continence, dressing, eating, toileting and transferring), **and**
+- Your inability lasts for at least 30 consecutive days.
+
+**Note:** You're considered unable to perform an activity independently if you **require** assistance to perform the activity.
+
+**Note:** Requires assistance is defined as:
+- Physical assistance: when you require hands-on assistance from another person
+- Stand-by assistance: when you require someone to be within arm's reach because your ability fluctuates and physical or verbal assistance may be needed
+- Verbal assistance: when you require verbal instruction in order to complete the ADL due to cognitive impairment. Without these verbal reminders, you wouldn't remember to perform the ADL.
+
+Without this physical, stand-by, or verbal assistance, you'd be incapable of performing the task.</br>
+
+If you're able to perform the activity by using accommodating equipment, such as a cane, walker, commode, etc., you're considered able to independently perform the activity.
+
+</div>
+</li>
+</ul>
