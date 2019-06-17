@@ -141,7 +141,7 @@ $100,000
 You're eligible for this benefit if both of the descriptions below are true for you.
 
 **Both of these must be true:**
-- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
 - The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
@@ -165,7 +165,7 @@ $100,000
 You're eligible for this benefit if both of the descriptions below are true for you.
 
 **Both of these must be true:**
-- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
 - The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
@@ -191,7 +191,7 @@ $50,000
 You're eligible for this benefit if both of the descriptions below are true for you.
 
 **Both of these must be true:**
-- Complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
+- You've suffered complete paralysis due to damage to the spinal cord or associated nerves, or to the brain, **and**
 - The paralysis falls into one of these four categories: quadriplegia (paralysis of all four limbs), paraplegia (paralysis of both lower limbs), hemiplegia (paralysis of the upper and lower limbs on one side of the body), or uniplegia (paralysis of one limb)
 
 **Note:** A limb is defined as an arm or a leg with all its parts.
@@ -215,7 +215,7 @@ $100,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- Second degree (partial thickness) or worse burns over 20% of the body, including the face and head, **or**
+- You've suffered second degree (partial thickness) or worse burns over 20% of the body, including the face and head, **or**
 - Second degree (partial thickness) or worse burns over 20% of the face only
 
 **Note:** Percentage may be measured using the Rule of Nines or any other acceptable alternative.
@@ -240,7 +240,7 @@ $50,000
 
 You're eligible for this benefit if the description below is true for you.
 
-The member’s hand is amputated at or above the wrist.
+Your hand is amputated at or above the wrist.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
 
@@ -263,7 +263,7 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- Amputation of four fingers on the same hand (not including the thumb) at or above the metacarpophalangeal joint, **or**
+- You've suffered amputation of four fingers on the same hand (not including the thumb) at or above the metacarpophalangeal joint, **or**
 - Amputation of thumb at or above the metacarpophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
@@ -289,7 +289,7 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- Amputation of foot at or above the ankle **or**
+- You've suffered amputation of foot at or above the ankle **or**
 - Amputation of all toes (including the big toe) on the same foot at or above the metatarsophalangeal joint
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
@@ -304,7 +304,7 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 Amputation at or above the metatarsophalangeal joint for each foot
 
-**Note:** Payment for amputation of all toes including the big toe on 1 foot cannot be combined with payments for amputation of big toe only, or other 4 toes on 1 foot for the same foot
+**Note:** Payment for amputation of all toes including the big toe on 1 foot can't be combined with payments for amputation of big toe only, or other 4 toes on 1 foot for the same foot
 
 <h5>Payment</h5>
 
@@ -315,7 +315,7 @@ $50,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- Amputation of four toes (not including the big toe) on one foot at or above* the metatarsophalangeal joint, **or**
+- You've suffered amputation of four toes (not including the big toe) on one foot at or above* the metatarsophalangeal joint, **or**
 - Amputation of big toe at or above the metatarsophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
@@ -339,10 +339,86 @@ $25,000
 You're eligible for this benefit if one of the descriptions below is true for you.
 
 **One of these must be true:**
-- Amputation of 4 toes (not including the big toe) on 1 foot at or above the metatarsophalangeal joint, **or**
+- You've suffered amputation of 4 toes (not including the big toe) on 1 foot at or above the metatarsophalangeal joint, **or**
 - Amputation of big toe at or above the metatarsophalangeal joint.
 
 **Note:** The words “at or above” in the standard refer to the loss being closer to the body.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of arm">Limb salvage of arm</button>
+<div id="limb salvage of arm" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Salvage of arm in place of amputation for each arm
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Payment for limb salvage of arm cannot be combined with payments for uniplegia, amputation of hand, or amputation of 4 fingers on 1 hand or thumb alone for the same arm.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- You underwent a series of operations designed to save an arm rather than amputate, **and**
+- A surgeon certifies that the option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
+- You've chosen to pursue limb salvage.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of leg">Limb salvage of leg</button>
+<div id="limb salvage of leg" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Salvage of leg in place of amputation for each leg
+
+<h5>Payment</h5>
+
+$50,000
+
+**Note:** Payment for limb salvage of leg can't be combined with payments for losses uniplegia, amputation of foot, amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same leg.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- You underwent a series of operations designed to save a leg rather than amputate, **and**
+- The option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
+- You've chosen to pursue limb salvage.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction: jaw">Facial reconstruction: Jaw</button>
+<div id="facial reconstruction: jaw" class="usa-accordion-content">
+
+<h5>Loss</h5>
+
+Surgery to correct discontinuity loss of the upper or lower jaw
+
+<h5>Payment</h5>
+
+$75,000
+
+**Note:** Injuries listed under facial reconstruction may be combined with each other, but the maximum benefit for facial reconstruction may not exceed $75,000.
+
+**Note:** Any injury or combination of injuries under facial reconstruction may also be combined with other injuries listed in Part I and treated as one loss, provided that all injuries are the result of a single traumatic event. However, the total payment amount may not exceed $100,000.
+
+<h5>Loss standards</h5>
+
+You're eligible for this benefit if both of the descriptions below are true for you.
+
+**Both of these must be true:**
+- You underwent surgery to correct traumatic avulsions (i.e. separation, detachment or tear) of the face or jaw that cause discontinuity defects, **and**
+- A surgeon certifies that the surgery was to correct discontinuity loss to one or more of the following facial areas: the upper or lower jaw, 50% or more of the cartilaginous nose, 50% or more of the upper or lower lip, 30% or more of the left or right periorbita, or 50% or more of any of the following facial subunits: forehead, left or right temple, left or right zygomatic, left or right mandibular, or left or right infraorbital chin
 
 </div>
 </li>
