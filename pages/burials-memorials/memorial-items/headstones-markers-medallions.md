@@ -94,8 +94,8 @@ Review eligibility requirements for:
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="veterans-servicemembers">Veterans and active-duty service members</button>
-<div id="veterans-servicemembers" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="vets-servicemembers">Veterans and active-duty service members</button>
+<div id="vets-servicemembers" class="usa-accordion-content">
   
 A Veteran who didn't receive a dishonorable discharge or a service member who died while on active duty may be eligible for a medallion if they meet the requirements listed below specific to when they served.
 
@@ -117,13 +117,13 @@ We provide 2 types of medallions. Veterans and service members may be eligible f
 
 **And at least one of these must also be true. The Veteran or service member:**
 - Served for a minimum of 24 months of continuous active duty, **or**
-- Died while serving on active duty <br>
+- Died while serving on active duty
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="national-guard-reserve">National Guard members and Reservists</button>
-<div id="national-guard-reserve" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="nat-guard-reserve">National Guard members and Reservists</button>
+<div id="nat-guard-reserve" class="usa-accordion-content">
 
 ### National Guard members and Reservists
 
@@ -148,8 +148,8 @@ We provide 2 types of medallions. National Guard members and Reservists may be e
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-officers">Commissioned officers</button>
-<div id="commissioned-officers" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="commissioned-off">Commissioned officers</button>
+<div id="commissioned-off" class="usa-accordion-content">
 
 A commissioned officer may be eligible for a medallion to be attached to a headstone or marker that was purchased at their or another person's private expense. The officer may be eligible if they served in active Public Health Service on or after April 6, 1917.
 
@@ -297,7 +297,9 @@ The words engraved on the memorial item must begin, “IN MEMORY OF."
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="married-vets">Can 2 Veterans who are married get separate headstones?</button>
-<div id="married-vets" class="usa-accordion-content">Yes. All Veterans are eligible for their own headstone and gravesite. 
+<div id="married-vets" class="usa-accordion-content">
+  
+Yes. All Veterans are eligible for their own headstone and gravesite. 
 
 **Spouses can be buried in:**
 - Side-by-side graves with separate headstones, **or**
