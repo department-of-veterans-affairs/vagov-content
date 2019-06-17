@@ -199,8 +199,8 @@ You're eligible for this benefit if both of the descriptions below are true for 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="	
-burns">Burns</button><div id="burns" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="burns">Burns</button>
+<div id="burns" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
