@@ -16,7 +16,7 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 
 </div>
 
-##### Documents that must show a period of active duty service dates
+#### Documents that must show a period of active duty service dates
 
 
 | Form     | Title                           |
@@ -32,15 +32,14 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 | DD 257MC | General Discharge Certificate   |
 | DD 257N  | General Discharge Certificate   |
 
-##### Documents that must show active duty service dates
+####  Documents that must show active duty service dates
 
 | Form     | Title                           |
 |----------|---------------------------------|
 | Bureau of Investigation No. 213	Discharge from U. S. Naval Reserve Force  | Honorable Discharge Certificate |
 
 
-**Documents that must show previous active Federal service for something other than training, or
-a minimum of 20 years total service (for pay)**
+#### Documents that must show previous active Federal service for something other than training, or a minimum of 20 years total service (for pay)
 
 | Form     | Title                           |
 |----------|---------------------------------|
