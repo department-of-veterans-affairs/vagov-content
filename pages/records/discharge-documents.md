@@ -69,12 +69,12 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 | DD 1300                         | Report of Casualty                                                                            |
 |                                 |                                                                                               |
 | ADJ 545                         | Discharge Certificate                                                                         |
-| Army DS ODF                     | Honorable Discharge from the United States Army                                               |
 | AGO 525                         | Discharge Certificate                                                                         |
 | AGO 755                         | Discharge Certificate                                                                         |
 | AGO 01252                       | Discharge Certificate                                                                         |
 | AGO 01254                       | Transcript of Military Record                                                                 |
 | AGO 01502                       | Discharge Certificate                                                                         |
+| Army DS ODF                     | Honorable Discharge from the United States Army                                               |
 |                                 |                                                                                               |
 | WD AGO 01502                    | Certificate in Lieu of Lost or Destroyed Discharge Certificate                                |
 | WD AGO 01504                    | Discharge Certificate                                                                         |
