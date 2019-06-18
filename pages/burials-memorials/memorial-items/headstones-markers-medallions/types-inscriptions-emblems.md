@@ -71,6 +71,7 @@ A marker is an piece of bronze, granite, or marble with an inscription that is p
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
+[See an example of a flat granite or marble marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ##### Flat bronze
 
@@ -78,67 +79,16 @@ A marker is an piece of bronze, granite, or marble with an inscription that is p
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do provide anchor bolts, nuts, and washers for attaching a marker to its base
 
+[See an example of a flat bronze marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+
+
 ##### Bronze niche (for mounting on a wall)
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mountin bolts and washers
 
-
-## Medallions
-
-### What is a medallion? 
-
-A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
-
-### Why should I choose a medallion?
-
-If you have a privately purchased headstone or marker, a medallion is a good way to show Vetearn status. 
-
-Medallions are: 
-
-- Easy to attach to different kinds of headstones and markers
-- Free. There are no headstone or marker setting fees.
-- Long-lasting and durable
-- A way to show Veteran status in a private cemetery
-
-
-### Who can get a medallion? 
-
-Medallions are for Veterans who: 
-- Served on or after April 6, 1917, **and** 
-- Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
-
-**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
-
-### How can I get a medallion?
-
-[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
-[Learn about private cemetery burials](/burials-memorials/burial-in-private-cemetery/)
-
-
-**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
-
-### What types of medallions are available and what do they look like?
-
-##### Bronze medallions
-
-- **Dimensions**: <br>
-**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
-**Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
-- **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
-
-##### Medal of Honor (MOH)
-
-- **Dimensions**: <br>
-**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
-- **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
-
-[Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[See an example of a bronze niche marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -227,6 +177,69 @@ Make sure that the emblem of belief you're requesting accurately portrays the Ve
     5109 Russell Road<br>
     Quantico, VA 22134-3903<br>
 </p>
+
+
+## Medallions
+
+### What is a medallion? 
+
+A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
+
+[See an example of a medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+
+### Why should I choose a medallion?
+
+If you have a privately purchased headstone or marker, a medallion is a good way to show Vetearn status. 
+
+Medallions are: 
+
+- Easy to attach to different kinds of headstones and markers
+- Free. There are no headstone or marker setting fees.
+- Long-lasting and durable
+- A way to show Veteran status in a private cemetery
+
+
+### Who can get a medallion? 
+
+Medallions are for Veterans who: 
+- Served on or after April 6, 1917, **and** 
+- Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
+
+**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
+
+### How can I get a medallion?
+
+[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
+[Learn about private cemetery burials.](/burials-memorials/burial-in-private-cemetery/)
+
+
+**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
+
+### What types of medallions are available and what do they look like?
+
+##### Bronze medallions
+
+- **Dimensions**: <br>
+**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
+**Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
+- **Material:** Bronze
+- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
+
+[See an example of a bronze medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+
+##### Medal of Honor (MOH)
+
+- **Dimensions**: <br>
+**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
+- **Material:** Bronze
+- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
+
+[See an example of a Medal of Honor medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+<br>
+[Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
 
 ### What happens after I apply for a medallion?
 
