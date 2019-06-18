@@ -404,23 +404,27 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
-</ul>
-
-<ul class="usa-accordion">
-  
-**Facial reconstruction**
 
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="jaw">Jaw</button>
-<div id="jaw" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial reconstruction">Facial reconstruction</button>
+<div id="facial reconstruction" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
-Surgery to correct discontinuity loss of the upper or lower jaw
+Reconstructive surgery to correct traumatic avulsions of the face or jaw that cause discontinuity defects.
 
 <h5>Payment</h5>
 
-$75,000
+- Jaw: $75,000 <br>
+  Definited as surgery to correct discontinuity loss of the upper or lower jaw
+- Nose: $50,000 <br>
+  Defined as surgery to correct discontinuity loss of 50% or more of the cartilaginous nose 
+- Lips: $50,000 for one lip; $75,000 for both lips <br>
+  Defined as surgery to correct discontinuity loss of 50% or more of the upper or lower lip 
+- Eyes: $25,000 for each eye <br>
+  Definited as surgery to correct discontinuity loss of 30% or more of the periorbita for each eye
+- Facial tissue: $25,000 for each facial subunit <br>
+  Surgery to correct discontinuity loss of the tissue in 50% or more of any of the following facial subunits: forehead, temple, zygomatic, mandibular, infraorbital or chin.
 
 **Note:** Injuries listed under facial reconstruction may be combined with each other, but the maximum benefit for facial reconstruction may not exceed $75,000.
 
@@ -436,106 +440,7 @@ You're eligible for this benefit if both of the descriptions below are true for 
 
 </div>
 </li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="nose">Nose</button>
-<div id="nose" class="usa-accordion-content">
 
-<h5>Loss</h5>
-
-Surgery to correct discontinuity loss of 50% or more of the cartilaginous nose
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Injuries listed under facial reconstruction may be combined with each other, but the maximum benefit for facial reconstruction may not exceed $75,000.
-
-**Note:** Any injury or combination of injuries under facial reconstruction may also be combined with other injuries listed in Part I and treated as one loss, provided that all injuries are the result of a single traumatic event. However, the total payment amount may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if both of the descriptions below are true for you.
-
-**Both of these must be true:**
-- You underwent surgery to correct traumatic avulsions (i.e. separation, detachment or tear) of the face or jaw that cause discontinuity defects, **and**
-- A surgeon certifies that the surgery was to correct discontinuity loss to one or more of the following facial areas: the upper or lower jaw, 50% or more of the cartilaginous nose, 50% or more of the upper or lower lip, 30% or more of the left or right periorbita, or 50% or more of any of the following facial subunits: forehead, left or right temple, left or right zygomatic, left or right mandibular, or left or right infraorbital chin
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="lips">Lips</button>
-<div id="lips" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Surgery to correct discontinuity loss of 50% or more of the upper or lower lip
-
-<h5>Payment</h5>
-
-For one lip: $50,000 </br>
-For both lips: $75,000
-
-**Note:** Injuries listed under facial reconstruction may be combined with each other, but the maximum benefit for facial reconstruction may not exceed $75,000.
-
-**Note:** Any injury or combination of injuries under facial reconstruction may also be combined with other injuries listed in Part I and treated as one loss, provided that all injuries are the result of a single traumatic event. However, the total payment amount may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if both of the descriptions below are true for you.
-
-**Both of these must be true:**
-- You underwent surgery to correct traumatic avulsions (i.e. separation, detachment or tear) of the face or jaw that cause discontinuity defects, **and**
-- A surgeon certifies that the surgery was to correct discontinuity loss to one or more of the following facial areas: the upper or lower jaw, 50% or more of the cartilaginous nose, 50% or more of the upper or lower lip, 30% or more of the left or right periorbita, or 50% or more of any of the following facial subunits: forehead, left or right temple, left or right zygomatic, left or right mandibular, or left or right infraorbital chin
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eyes">Eyes</button>
-<div id="eyes" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Surgery to correct discontinuity loss of 30% or more of the periorbita for each eye
-
-<h5>Payment</h5>
-
-$25,000
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if both of the descriptions below are true for you.
-
-**Both of these must be true:**
-- You underwent surgery to correct traumatic avulsions (i.e. separation, detachment or tear) of the face or jaw that cause discontinuity defects, **and**
-- A surgeon certifies that the surgery was to correct discontinuity loss to one or more of the following facial areas: the upper or lower jaw, 50% or more of the cartilaginous nose, 50% or more of the upper or lower lip, 30% or more of the left or right periorbita, or 50% or more of any of the following facial subunits: forehead, left or right temple, left or right zygomatic, left or right mandibular, or left or right infraorbital chin
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="facial tissue">Facial tissue</button>
-<div id="facial tissue" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Surgery to correct discontinuity loss of the tissue in 50% or more of any of the following facial subunits: forehead, temple, zygomatic, mandibular, infraorbital or chin.
-
-<h5>Payment</h5>
-
-$25,000
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if both of the descriptions below are true for you.
-
-**Both of these must be true:**
-- You underwent surgery to correct traumatic avulsions (i.e. separation, detachment or tear) of the face or jaw that cause discontinuity defects, **and**
-- A surgeon certifies that the surgery was to correct discontinuity loss to one or more of the following facial areas: the upper or lower jaw, 50% or more of the cartilaginous nose, 50% or more of the upper or lower lip, 30% or more of the left or right periorbita, or 50% or more of any of the following facial subunits: forehead, left or right temple, left or right zygomatic, left or right mandibular, or left or right infraorbital chin
-
-</div>
-</li>
-</ul>
-
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="coma from traumatic injury and/or traumatic brain injury">Coma from traumatic injury and/or traumatic brain injury</button>
 <div id="coma from traumatic injury and/or traumatic brain injury" class="usa-accordion-content">
@@ -606,260 +511,38 @@ Hospital does not include a nursing home. Neither does it include an institution
 
 </div>
 </li>
-
-**Genitourinary losses**
-
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of the penis">Anatomical loss of the penis</button>
-<div id="anatomical loss of the penis" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="genitourinary losses">Genitourinary losses</button>
+<div id="genitourinary losses" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
-Anatomical loss of the penis 
-
-<h5>Payment</h5>
-
-$50,000
-
+- Anatomical loss of the penis: $50,000 <br>
+  You're eligible for this benefit if you've suffered amputation of the glans penis or any portion of the shaft of the penis above the glans penis (i.e. closer to the body) or damage to the glans penis or shaft of the penis that requires reconstructive surgery.
+- Permanent loss of use of the penis: $50,000 <br>
+  You're eligible for this benefit if you've suffered damage to the glans penis or shaft of the penis that results in complete loss of the ability to perform sexual intercourse that is reasonably certain to continue throughout your lifetime.
+- Anatomical loss of one testicle: $25,000 <br>
+  You're eligible for this benefit if you've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
+- Anatomical loss of both testicles: $50,000 <br>
+  You're eligible for this benefit if you've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
+- Permanent loss of use of both testicles: $50,000 <br>
+  You're eligible for this benefit if you've suffered damage to both testicles resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
+- Anatomical loss of the vulva, uterus, or vaginal canal: $50,000 <br>
+  You're eligible for this benefit if you've suffered the complete or partial amputation of the vulva, uterus, or vaginal canal or damage to the vulva, uterus, or vaginal canal that requires reconstructive surgery.
+- Permanent loss of use of the vulva or vaginal canal: $50,000 <br> 
+  You're eligible for this benefit if you've suffered damage to the vulva or vaginal canal that results in complete loss of the ability to perform sexual intercourse that is reasonably certain to continue throughout your lifetime.
+- Anatomical loss of one ovary: $25,000 <br>
+  You're eligible for this benefit if you've suffered the amputation of one or both ovaries or damage to one or both ovaries that requires ovarian salvage, reconstructive surgery, or both.
+- Anatomical loss of both ovaries: $50,000 <br>
+  You're eligible for this benefit if you've suffered the amputation of one or both ovaries or damage to one or both ovaries that requires ovarian salvage, reconstructive surgery, or both.
+- Permanent loss of use of both ovaries: $50,000 <br>
+  You're eligible for this benefit if you've suffered damage to both ovaries resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
+- Total and permanent loss of urinary system function: $50,000
+  You're eligible for this benefit if you've suffered damage to the urethra, ureter(s), both kidneys, bladder, or urethral sphincter muscle(s) that requires urinary diversion and/or hemodialysis, either of which is reasonably certain to continue throughout your lifetime. </br>
+  
 **Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
 
 **Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-
-- You've suffered amputation of the glans penis or any portion of the shaft of the penis above the glans penis (i.e. closer to the body) or damage to the glans penis or shaft of the penis that requires reconstructive surgery.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of the penis">Permanent loss of the penis</button>
-<div id="permanent loss of the penis" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Permanent loss of use of the penis
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered damage to the glans penis or shaft of the penis that results in complete loss of the ability to perform sexual intercourse that is reasonably certain to continue throughout your lifetime.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of one testicle">Anatomical loss of one testicle</button>
-<div id="anatomical loss of one testicle" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Anatomical loss of one testicle
-
-<h5>Payment</h5>
-
-$25,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of both testicles">Anatomical loss of both testicles</button>
-<div id="anatomical loss of both testicles" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Anatomical loss of both testicles
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered amputation of, or damage to, one or both testicles that requires testicular salvage, reconstructive surgery, or both.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of use of both testicles">Permanent loss of use of both testicles</button>
-<div id="permanent loss of use of both testicles" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Permanent loss of use of both testicles
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered damage to both testicles resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of the vulva, uterus, or vaginal canal">Anatomical loss of the vulva, uterus, or vaginal canal</button>
-<div id="anatomical loss of the vulva, uterus, or vaginal canal" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Anatomical loss of the vulva, uterus, or vaginal canal
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered the complete or partial amputation of the vulva, uterus, or vaginal canal or damage to the vulva, uterus, or vaginal canal that requires reconstructive surgery.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of use of the vulva or vaginal canal">Permanent loss of use of the vulva or vaginal canal</button>
-<div id="permanent loss of use of the vulva or vaginal canal" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Permanent loss of use of the vulva or vaginal canal
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
--You've suffered damage to the vulva or vaginal canal that results in complete loss of the ability to perform sexual intercourse that is reasonably certain to continue throughout your lifetime.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of one ovary">Anatomical loss of one ovary</button>
-<div id="anatomical loss of one ovary" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Anatomical loss of one ovary
-
-<h5>Payment</h5>
-
-$25,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered the amputation of one or both ovaries or damage to one or both ovaries that requires ovarian salvage, reconstructive surgery, or both.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="anatomical loss of both ovaries">Anatomical loss of both ovaries</button>
-<div id="anatomical loss of both ovaries" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Anatomical loss of both ovaries
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered the amputation of one or both ovaries or damage to one or both ovaries that requires ovarian salvage, reconstructive surgery, or both.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="permanent loss of use of both ovaries">Permanent loss of use of both ovaries</button>
-<div id="permanent loss of use of both ovaries" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Permanent loss of use of both ovaries
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered damage to both ovaries resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="total and permanent loss of urinary system function">Total and permanent loss of urinary system function</button>
-<div id="total and permanent loss of urinary system function" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Total and permanent loss of urinary system function
-
-<h5>Payment</h5>
-
-$50,000
-
-**Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
-
-**Note:** Any genitourinary loss may be combined with other (TSGLI) injuries listed in Part I and treated as one loss, provided that all losses are the result of a single traumatic event. However, the total payment may not exceed $100,000.
-
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if the description below is true for you.
-- You've suffered damage to the urethra, ureter(s), both kidneys, bladder, or urethral sphincter muscle(s) that requires urinary diversion and/or hemodialysis, either of which is reasonably certain to continue throughout your lifetime.
 
 </div>
 </li>
