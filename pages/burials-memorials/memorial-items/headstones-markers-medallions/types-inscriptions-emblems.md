@@ -109,7 +109,7 @@ Medallions are for Veterans who:
 
 ### How can I get a medallion?
 
-[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
 [Learn about private cemetery burials](/burials-memorials/burial-in-private-cemetery/)
 
 
@@ -165,15 +165,15 @@ The inscription on a Veteran's headstone or grave marker can include:
 - [Navy](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Navy.pdf)
 - [Other](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_All_Other.pdf)
 
-## Emblems of belief
+### Emblems of belief
 
-### What is an emblem of belief?
+#### What is an emblem of belief?
 
 An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
 
 [View the official list of emblems of belief.](https://www.cem.va.gov/cem/hmm/emblems.asp)
 
-### Who can request an emblem of belief? 
+#### Who can request an emblem of belief? 
 
 These people can request an emblem of belief for a Veteran:
 
@@ -182,7 +182,7 @@ These people can request an emblem of belief for a Veteran:
 - A persona authorized by the Veteran
 
 
-### Can I request an emblem of belief that isn't included on the official list? 
+#### Can I request an emblem of belief that isn't included on the official list? 
 
 Yes. Follow the directions below to request an image that isn't included on the official list of emblems of belief. 
 
