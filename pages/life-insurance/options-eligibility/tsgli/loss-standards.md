@@ -222,10 +222,6 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 </div>
 </li>
-</ul>
-
-**Amputation**
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="amputation of hand">Amputation of hand</button>
 <div id="amputation of hand" class="usa-accordion-content">
@@ -350,46 +346,17 @@ You're eligible for this benefit if one of the descriptions below is true for yo
 
 </div>
 </li>
-</ul>
-
-<ul class="usa-accordion">
-  
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of arm">Limb salvage of arm</button>
-<div id="limb salvage of arm" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="salvage of limb">Salvage of limb</button>
+<div id="salvage of limb" class="usa-accordion-content">
 
 <h5>Loss</h5>
 
-Salvage of arm in place of amputation for each arm
-
-<h5>Payment</h5>
-
-$50,000
+- Salvage of arm in place of amputation for each arm: $50,000
 
 **Note:** Payment for limb salvage of an arm can't be combined with payments for uniplegia, amputation of a hand, or amputation of 4 fingers on 1 hand or thumb alone for the same arm.
 
-<h5>Loss standards</h5>
-
-You're eligible for this benefit if both of the descriptions below are true for you.
-
-**All of these must be true:**
-- You underwent a series of operations designed to save an arm rather than amputate, **and**
-- A surgeon certifies that the option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
-- You've chosen to pursue limb salvage
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="limb salvage of leg">Limb salvage of leg</button>
-<div id="limb salvage of leg" class="usa-accordion-content">
-
-<h5>Loss</h5>
-
-Salvage of leg in place of amputation for each leg
-
-<h5>Payment</h5>
-
-$50,000
+- Salvage of leg in place of amputation for each leg: $50,000
 
 **Note:** Payment for limb salvage of a leg can't be combined with payments for uniplegia, amputation of a foot, amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same leg.
 
@@ -398,7 +365,7 @@ $50,000
 You're eligible for this benefit if both of the descriptions below are true for you.
 
 **All of these must be true:**
-- You underwent a series of operations designed to save a leg rather than amputate, **and**
+- You underwent a series of operations designed to save a limb rather than amputate, **and**
 - The option of amputation of limb(s) was offered to you as a medically justified alternative to limb salvage, **and**
 - You've chosen to pursue limb salvage
 
@@ -422,7 +389,7 @@ Reconstructive surgery to correct traumatic avulsions of the face or jaw that ca
 - Lips: $50,000 for one lip; $75,000 for both lips <br>
   Defined as surgery to correct discontinuity loss of 50% or more of the upper or lower lip 
 - Eyes: $25,000 for each eye <br>
-  Definited as surgery to correct discontinuity loss of 30% or more of the periorbita for each eye
+  Defined as surgery to correct discontinuity loss of 30% or more of the periorbita for each eye
 - Facial tissue: $25,000 for each facial subunit <br>
   Surgery to correct discontinuity loss of the tissue in 50% or more of any of the following facial subunits: forehead, temple, zygomatic, mandibular, infraorbital or chin.
 
@@ -537,7 +504,7 @@ Hospital does not include a nursing home. Neither does it include an institution
   You're eligible for this benefit if you've suffered the amputation of one or both ovaries or damage to one or both ovaries that requires ovarian salvage, reconstructive surgery, or both.
 - Permanent loss of use of both ovaries: $50,000 <br>
   You're eligible for this benefit if you've suffered damage to both ovaries resulting in the need for hormonal replacement therapy that is medically required and reasonably certain to continue throughout your lifetime.
-- Total and permanent loss of urinary system function: $50,000
+- Total and permanent loss of urinary system function: $50,000 <br>
   You're eligible for this benefit if you've suffered damage to the urethra, ureter(s), both kidneys, bladder, or urethral sphincter muscle(s) that requires urinary diversion and/or hemodialysis, either of which is reasonably certain to continue throughout your lifetime. </br>
   
 **Note:** Losses due to genitourinary injuries may be combined with each other, but the maximum benefit for genitourinary losses may not exceed $50,000.
