@@ -16,7 +16,31 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 
 </div>
 
-#### Documents that must show a period of active duty service dates
+#### DD214 and other Department of Defense documents
+
+| Form                            | Title                                                                                         |
+|---------------------------------|-----------------------------------------------------------------------------------------------|
+| DD 214                          | Certificate of Release or Discharge from Active Duty                                          |
+| DD 13                           | Statement of Service                                                                          |
+| DA 1569                         | Transcript of Military Record                                                                 |
+| DD 2A                           | Armed Forces Identification Card (Active)                                                     |
+| DD 2AF                          | Armed Forces Identification Card (Active)                                                     |
+| DD 2CG                          | Armed Forces Identification Card (Active)                                                     |
+| DD 2MC                          | Armed Forces Identification Card (Active)                                                     |
+| DD 2N                           | Armed Forces Identification Card (Active)                                                     |
+| DD 2NOAA                        | Armed Forces Identification Card (Active)                                                     |
+| DD 2 (Retired)                  | US Uniformed Services Identification Card                                                     |
+| DD 214                          | Certificate of Release or Discharge from Active Duty                                          |
+| DD 217                          | Discharge Certificate                                                                         |
+| DD 303                          | Certificate in Lieu of Lost or Destroyed Discharge                                            |
+| DD 303AF                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
+| DD 303CG                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
+| DD 303MC                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
+| DD 303N                         | Certificate in Lieu of Lost or Destroyed Discharge                                            |
+| DD 1300                         | Report of Casualty                                                                            |
+
+
+#### Department of Defense documents that must show a period of active duty service dates
 
 
 | Form     | Title                           |
@@ -47,35 +71,16 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 
 #### Other accepted documents
 
+
 | Form                            | Title                                                                                         |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| DD 214                          | Certificate of Release or Discharge from Active Duty                                          |
-| DD 13                           | Statement of Service                                                                          |
-| DA 1569                         | Transcript of Military Record                                                                 |
-| DD 2A                           | Armed Forces Identification Card (Active)                                                     |
-| DD 2AF                          | Armed Forces Identification Card (Active)                                                     |
-| DD 2CG                          | Armed Forces Identification Card (Active)                                                     |
-| DD 2MC                          | Armed Forces Identification Card (Active)                                                     |
-| DD 2N                           | Armed Forces Identification Card (Active)                                                     |
-| DD 2NOAA                        | Armed Forces Identification Card (Active)                                                     |
-| DD 2 (Retired)                  | US Uniformed Services Identification Card                                                     |
-| DD 214                          | Certificate of Release or Discharge from Active Duty                                          |
-| DD 217                          | Discharge Certificate                                                                         |
-| DD 303                          | Certificate in Lieu of Lost or Destroyed Discharge                                            |
-| DD 303AF                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
-| DD 303CG                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
-| DD 303MC                        | Certificate in Lieu of Lost or Destroyed Discharge                                            |
-| DD 303N                         | Certificate in Lieu of Lost or Destroyed Discharge                                            |
-| DD 1300                         | Report of Casualty                                                                            |
-|                                 |                                                                                               |
 | ADJ 545                         | Discharge Certificate                                                                         |
+| Army DS ODF                     | Honorable Discharge from the United States Army                                               |
 | AGO 525                         | Discharge Certificate                                                                         |
 | AGO 755                         | Discharge Certificate                                                                         |
 | AGO 01252                       | Discharge Certificate                                                                         |
 | AGO 01254                       | Transcript of Military Record                                                                 |
 | AGO 01502                       | Discharge Certificate                                                                         |
-| Army DS ODF                     | Honorable Discharge from the United States Army                                               |
-|                                 |                                                                                               |
 | WD AGO 01502                    | Certificate in Lieu of Lost or Destroyed Discharge Certificate                                |
 | WD AGO 01504                    | Discharge Certificate                                                                         |
 | WD AGO 0729                     | Honorable Discharge from Army of the United States of America                                 |
@@ -88,13 +93,10 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 | WD AGO 53-98                    | Military Record and Report of Separation Certificate of Service                               |
 | WD AGO 55                       | Honorable Discharge from The Army of the United States                                        |
 | WD AGO 755                      | Honorable Discharge, Women’s Army Auxiliary Corps                                             |
-|                                 |                                                                                               |
 | Bureau of Investigation No. 6   | Discharge certificate                                                                         |
 | Bureau of Investigation No. 53  | Discharge certificate                                                                         |
 | Bureau of Investigation No. 118 | Discharge certificate                                                                         |
-|                                 |                                                                                               |
 | Form No. 6, U.S.N.              | Discharge Certificate                                                                         |
-|                                 |                                                                                               |
 | Navy (no number)                | War Service Certificate                                                                       |
 | NAVCG-2510                      | Honorable Discharge, U.S. Coast Guard                                                         |
 | NAVCG-553                       | Notice of Separation from U.S. Coast Guard                                                    |
@@ -112,12 +114,9 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 | NAR 529                         | Certification of Military Service                                                             |
 | NA 13038                        | Certification of Military Service                                                             |
 | NA 13041                        | Statement of Service                                                                          |
-|                                 |                                                                                               |
 | GSA 6851                        | Service Information                                                                           |
 | GSA 6954                        | Certificate of Military Service                                                               |
-|                                 |                                                                                               |
 | VA Adjudication 545             | Summary of Record of Active Service                                                           |
-|                                 |                                                                                               |
 | VA 3101                         | Request for Army Information                                                                  |
 | VA 3101                         | Official Retirement Order                                                                     |
 | VA 3101                         | Official Retirement Register                                                                  |
