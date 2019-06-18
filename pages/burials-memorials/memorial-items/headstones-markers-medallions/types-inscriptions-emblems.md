@@ -43,40 +43,42 @@ Memorial items include:
 
 ### What is a headstone? 
 
-Headstones are pieces of upright stone that are specially carved and inscribed according to each Veteran's personal details and VA guidelines. 
+Headstones are pieces of upright stone that are specially carved and inscribed.
 
 ### What does a headstone look like?
 
 - **Dimensions:** 42 inches tall x 13 inches wide x 4 inches thick 
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
-- **Color:** Stone color will vary. Marble may have light to medium veining (lines)
+- **Color:** The stone color will vary. The marble may have light to medium veining (lines).
 
 [See an example of an upright marble headstone.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 
 ## Markers
 
-A marker is piece of bronze, granite, or marble that is placed flat on the ground or mounted on a wall. They're inscribed according each Veteran's personal details and VA guidelines.
+### What is a marker? 
+
+A marker is an piece of bronze, granite, or marble with an inscription that is placed flat on the ground or mounted on a wall. 
 
 [See what each marker type looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ### What kinds of markers are available?
 
-#### Flat granite or marble
+##### Flat granite or marble
 
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
-- **Additional details:** Stone color will vary. Marble may have light to medium veining (lines)
+- **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
 
-#### Flat bronze
+##### Flat bronze
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do provide anchor bolts, nuts, and washers for attaching a marker to its base
 
-#### Bronze niche (for mounting on a wall)
+##### Bronze niche (for mounting on a wall)
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
@@ -84,6 +86,8 @@ A marker is piece of bronze, granite, or marble that is placed flat on the groun
 
 
 ## Medallions
+
+### What is a medallion? 
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
@@ -117,28 +121,24 @@ Medallions are for Veterans who:
 
 ### What types of medallions are available and what do they look like?
 
-#### Bronze medallions
+##### Bronze medallions
 
 - **Dimensions**: <br>
 **Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
 **Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
 **Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
 - **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom. 
+- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
 
-#### Medal of Honor (MOH)
+##### Medal of Honor (MOH)
 
 - **Dimensions**: <br>
 **Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
 **Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
 - **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom. 
+- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
 [Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
-
-### What happens after I apply for a medallion?
-
-Once a request for a medallion is received and approved, we'll mail your medallion toyou. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -227,6 +227,12 @@ Make sure that the emblem of belief you're requesting accurately portrays the Ve
     5109 Russell Road<br>
     Quantico, VA 22134-3903<br>
 </p>
+
+### What happens after I apply for a medallion?
+
+Once a request for a medallion is received and approved, we'll mail your medallion toyou. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+
+
 
 
 
