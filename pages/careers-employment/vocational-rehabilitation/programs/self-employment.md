@@ -20,11 +20,7 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/programs/independent-living/
       title: Independent Living track
       description: Learn about services that can help you live as independently as possible if you can't return to work right away.
-  - heading: More support for your small business
-    links:
-    - url: /careers-employment/veteran-owned-business-support/
-      title: Register your Veteran-Owned Small Business
-      description: Register to do business with VA and get support for your Veteran-Owned Small Business.
+
 ---
 
 <div class="va-introtext">
