@@ -585,3 +585,5 @@ Hospital does not include a nursing home. Neither does it include an institution
 </div>
 </li>
 </ul>
+
+[Download the TSGLI Schedule of Losses (PDF)](https://www.benefits.va.gov/INSURANCE/docs/ScheduleOfLosses.pdf)
