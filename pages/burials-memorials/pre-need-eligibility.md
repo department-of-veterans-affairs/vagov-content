@@ -157,7 +157,7 @@ Get help from an accredited representative (a trained professional trusted to he
 [Find a representative](https://www.benefits.va.gov/vso/varo.asp)<br>
 [Find your state’s Veterans agency](https://www.va.gov/statedva.htm)
 
-**Note:** These services are free. You should never pay someone to help you fill out the VA Form 40-10007 or file your request. 
+**Note:** These services are free. You should never pay someone to help you fill out VA Form 40-10007 or file your request. 
 
 ## What happens after I apply?
 
