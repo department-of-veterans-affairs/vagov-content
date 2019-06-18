@@ -128,7 +128,7 @@ You can apply online right now.
 
 Fill out an Application for Pre-need Determination of Eligibility for Burial in a VA National Cemetery (VA Form 40-10007). <br> [Download VA Form 40-10007 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-10007.pdf)
 
-The person applying for a pre-need determination must sign the form. If that person is under 18 years old, mentally incompetent, or physically unable to sign the form, a spouse, parent, or court-appointed representative may sign the form.
+The person applying for a pre-need determination must sign the form. If that person is under 18 years old, mentally unable to make decisions for themselves (sometimes called mentally incompetent), or physically unable to sign the form, a spouse, parent, or court-appointed representative may sign the form.
 
 **If you're signing the form on behalf of someone else, you'll need to:**
 - Select box 33B on the form and provide your name, address, phone number, and email address in blocks 34 through 37
