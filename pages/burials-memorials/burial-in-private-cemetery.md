@@ -41,9 +41,20 @@ Yes. Veterans buried in a private cemetery may be eligible for these memorial it
 
 [See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
+### Can I find out which memorial items I can get in a private cemetery burial before I need them? 
+
+Yes. You can find out which burial benefits you're eligible for by filling out the [Pre-need Eligibility application](https://www.va.gov/burials-memorials/pre-need-eligibility/). This application can be used to determine if you can get a VA headstone or marker. 
+
+If you want to be buried in a private cemetery, the Pre-need Eligibility application will help your family as they plan your burial. **Note:** When a family member submits a [Claim for Standard Government Headstone or Marker](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf), please include this note in box 27: "Decedent has a VA pre-need decision letter."
+
+**Please note:** “Pre-need” means before the time of need. This application is for planning for your own burial in advance. Please don’t complete the Pre-need Eligibility application if you’re requesting burial at the time of need.
+[Find out how to plan a burial.](https://www.va.gov/burials-memorials/plan-a-burial/)
+
 ### Is a family member buried in a private cemetery eligible for memorial items?
 
-No. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. 
+No, a family member buried in a private cemetery isn't eligible for VA memorial items. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. <br>
+
+Additionally, we can't pay to have a family member's date of birth or death inscribed on the Veteran's headstone or marker if the Veteran is buried at a private cemetery. 
 
 ## Costs
 
