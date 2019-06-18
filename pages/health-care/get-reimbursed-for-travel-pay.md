@@ -32,9 +32,19 @@ VA travel pay (also called the Beneficiary Travel program) reimburses Veterans f
 
 </div>
 
+### On this page
+
+- [Eligibility](#eligibility)
+- [Reimbursement benefits, rates, and deductibles](#reimbursement)
+- [How to file a claim](#file-claim)
+- [More about VA travel pay](#more)
+
+<span id="eligibility"></span>
+## Eligibility
+
 <div class="feature" markdown="1">
 
-### Am I eligible to receive VA travel pay?
+### Am I eligible to receive VA travel pay as a Veteran?
 
 You may be eligible for 1 or both of our 2 types of travel pay.
 
@@ -63,9 +73,16 @@ This includes transportation by a vehicle specially designed to transport people
 
 </div>
 
-**Note:** Certain other individuals who are supporting a Veteran's care, like caregivers, may be eligible for travel pay in some cases. To learn more, download our [Beneficiary Travel Frequently Asked Questions resource (PDF)](https://www.va.gov/healthbenefits/resources/benetravelfaq.pdf). Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+### If I'm a Veteran with a special VA designation of spinal cord injured (SCI), combat Veteran (CV), or catastrophically disabled (CD), do I automatically qualify for VA travel pay?
 
-## What travel expenses does VA travel pay reimburse?
+No. Only Veterans traveling for VA-authorized transplant care are automatically eligible for reimbursement. If you're a Veteran with a special VA designation, you'll need to meet the eligibility requirements listed above to qualify for VA travel pay.
+
+------
+
+<span id="reimbursement"></span>
+## Reimbursement benefits, rates, and deductibles
+
+### What travel expenses does VA travel pay reimburse?
 
 **We pay for travel to care at a:**
 - VA health care facility (the closes facility to your home unless your VA health care provider determines that you need to travel to a different facility)
@@ -82,13 +99,58 @@ This includes transportation by a vehicle specially designed to transport people
 
 Keep reading below to find out more details about reimbursement.
 
-------
+### What's the current VA mileage reimbursement rate?
 
-## How to get reimbursed for your health-related travel
+We currently pay **41.5 cents ($0.415)** per mile for approved, health-related travel. 
+
+**You should know that we:**
+- **Use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage,** based on the fastest and shortest route from your home to the health care facility ("door to door")
+- **Pay round-trip mileage for your scheduled appointments,** but may only pay return mileage for unscheduled visits
+- **Reimburse you for travel to the closest VA health facility that provides the care you need,** unless your VA health care provider determines that you need to travel to another facility for care
+
+### When, and how much, will VA pay for my meals and lodging?
+
+In some cases, we may reimburse you for the actual cost, up to 50% of the local government employee rate, for meals or lodging. We determine the need for meals and lodging on a case-by-case basis based on:
+- Your medical condition, **and**
+- How far you need to travel for care, **and**
+- Other circumstances
+
+You'll need to provide all receipts for lodging and meals.
+
+Except in certain unusual cases, you can only get this reimbursement if we approve it before you travel. And we won't reimburse you for lodging or meals if you chose to stop or take a less direct route to a VA or VA-authorized health facility. 
+
+### Will I have to pay a deductible before getting VA travel reimbursement?
+
+Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month.
+
+After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
+
+**Note** We charge this deductible because we're required by law to withhold certain amounts from travel reimbursement payments. The money we withhold helps to pay for travel or medical care for other Veterans.
+
+### Can I get this deductible waived so I don't have to pay it?
+
+We may waive this deductible for you if it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions are true for you.
+
+**One of these must be true. You're:**
+
+-	Receiving a [VA pension](/pension/veterans-pension-rates/), **or**
+-	Traveling for a scheduled [VA claim exam](/disability/va-claim-exam/), **or**
+-	A non-service-connected Veteran, and your income last year was below the [maximum annual VA pension rate](/pension/veterans-pension-rates/), **or**
+-	A non-service-connected Veteran, and what you expect to earn this year doesn’t exceed our maximum annual VA pension rate, **or**
+-	A service-connected Veteran, and your income last year falls below the [VA national income limit](https://www.va.gov/HEALTHBENEFITS/apps/explorer/AnnualIncomeLimits/HealthBenefits) for health care benefits and prescriptions, **or**
+-	A service-connected Veteran and what you expect to earn this year doesn’t exceed our national income limit for health care benefits and prescriptions 
+
+If we determine that you qualify for a waiver, we'll automatically waive your deductible. You can also request a waiver in person or in writing.
+
+**Note:** We consider Aid and Attendance and Housebound benefits for 100% service-connected Veterans to be special monthly compensation and not a VA pension.
+
+------
+<span id="file-claim"></span>
+## How to file a claim
 
 ### How do I get VA travel pay for scheduled appointments?
 
-Follow the steps below to get paid back for travel after each appointment. Be sure to submit your claim within 30 days of your appointment.
+Follow the steps below to get paid back for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you became eligible.
 
 #### For each scheduled appointment
 
@@ -134,42 +196,8 @@ We have a special system to handle your ambulance claims. It’s called the fee-
 system, and it helps us process your claims quickly so we can send your reimbursement faster. For more information, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
 
 ------
+
 <span id="more"></span>
-## Current reimbursement rate and deductible
-
-### What's the current VA mileage reimbursement rate?
-
-We currently pay **41.5 cents ($0.415)** per mile for approved, health-related travel. 
-
-**You should know that we:**
-- **Use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage,** based on the fastest and shortest route from your home to the health care facility ("door to door")
-- **Pay round-trip mileage for your scheduled appointments,** but may only pay return mileage for unscheduled visits
-- **Reimburse you for travel to the closest VA health facility that provides the care you need,** unless your VA health care provider determines that you need to travel to another facility for care
-
-### Will I have to pay a deductible before getting VA travel reimbursement?
-
-Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month.
-
-After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
-
-**Note** We charge this deductible because we're required by law to withhold certain amounts from travel reimbursement payments. The money we withhold helps to pay for travel or medical care for other Veterans.
-
-### Can I get this deductible waived so I don't have to pay it?
-
-We may waive this deductible for you if it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions are true for you.
-
-**One of these must be true. You're:**
-
--	Receiving a [VA pension](/pension/veterans-pension-rates/), **or**
--	Traveling for a scheduled [VA claim exam](/disability/va-claim-exam/), **or**
--	A non-service-connected Veteran, and your income last year was below the [maximum annual VA pension rate](/pension/veterans-pension-rates/), **or**
--	A non-service-connected Veteran, and what you expect to earn this year doesn’t exceed our maximum annual VA pension rate, **or**
--	A service-connected Veteran, and your income last year falls below the [VA national income limit](https://www.va.gov/HEALTHBENEFITS/apps/explorer/AnnualIncomeLimits/HealthBenefits) for health care benefits and prescriptions, **or**
--	A service-connected Veteran and what you expect to earn this year doesn’t exceed our national income limit for health care benefits and prescriptions 
-
-If we determine that you qualify for a waiver, we'll automatically waive your deductible. You can also request a waiver in person or in writing.
-
-**Note:** We consider Aid and Attendance and Housebound benefits for 100% service-connected Veterans to be special monthly compensation and not a VA pension.
 
 ### More about VA travel pay 
 
@@ -201,14 +229,6 @@ For your return trip home, we'll reimburse you for the distance (mileage) to you
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="eligible-after">What if become eligible for reimbursement after I've already traveled for care?</button>
-<div id="eligible-after" class="usa-accordion-content">
-
-You'll need to submit your claim for reimbursement within 30 days of when you became eligible for VA travel pay. If you mail your claim, we consider the postmark date to be the date of submission.
-
-</div>
-</li>
-<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="emergency">What if I need transportation to a non-VA health facility in an emergency?</button>
 <div id="emergency" class="usa-accordion-content">
 
@@ -218,46 +238,6 @@ You'll need to submit your claim for reimbursement within 30 days of when you be
 - **If you have an emergency and you're anywhere other than at a VA health facility,** we can pay for your transport to a non-VA facility for emergency treatment. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for travel pay. But, once you're in a stable medical condition, you'll need to meet travel pay and medical expense eligibility requirements to receive any further reimbursement.
 
 Notify us as soon possible, but no later than 30 days from the date of transport. 
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="special">If I'm a Veteran with a special VA designation of spinal cord injured (SCI), combat Veteran (CV), or catastrophically disabled (CD), do I automatically qualify for VA travel pay?</button>
-<div id="special" class="usa-accordion-content">
-
-No. Only Veterans traveling for VA-authorized transplant care are automatically eligible for reimbursement. If you're a Veteran with a special VA designation, you'll need to meet the eligibility requirements listed above to qualify for VA travel pay.
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="meals-lodging">When, and how much, will VA pay for my meals and lodging?</button>
-<div id="meals-lodging" class="usa-accordion-content">
-
-In some cases, we may reimburse you for the actual cost, up to 50% of the local government employee rate, for meals or lodging. We determine the need for meals and lodging on a case-by-case basis based on:
-- Your medical condition, **and**
-- How far you need to travel for care, **and**
-- Other circumstances
-
-You'll need to provide all receipts for lodging and meals.
-
-Except in certain unusual cases, you can only get this reimbursement if we approve it before you travel. And we won't reimburse you for lodging or meals if you chose to stop or take a less direct route to a VA or VA-authorized health facility. 
-
-</div>
-</li>
-<li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="non-veteran">Can I get reimbursement as a family caregiver, attendant, donor, or in any other situations?</button>
-<div id="non-veteran" class="usa-accordion-content">
-
-We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions are true.
-
-**One of these must be true:**
-
-- A VA health care provider determines that the Veteran needs an attendant while traveling due to the Veteran's mental or physical condition, **or**
-- The non-Veteran is the donor or potential donor of tissue, organ, or parts to a Veteran receiving VA or
-VA-authorized non-VA transplant health care, **or**
-- In the case of an allied beneficiary, the appropriate foreign government agency has authorized the beneficiary's travel and reimbursement, **or**
-- Another federal agency has authorized us to provide care to a beneficiary of that agency, **or**
-- The non-Veteran is a caregiver under our [Comprehensive Program of Caregiver Assistance](/health-care/family-caregiver-benefits/comprehensive-assistance/), and is traveling in order to receive initial training as a potential caregiver or to care for a Veteran receiving VA or VA-approved health care
 
 </div>
 </li>
@@ -311,3 +291,23 @@ You may still qualify for other VA transportation programs that can help you get
 - <strong>[United Way](http://www.unitedway.org/)</strong><br> The United Way offers many services to those in need, including transportation services. Enter your zip code to find services near you.
 
 Your local VA health facility may also be able to refer you to other groups and resources to help with your transportation needs.
+</div>
+<li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="non-veteran">Can caregivers, attendants, donors, or anyone else get travel reimbursement?</button>
+<div id="non-veteran" class="usa-accordion-content">
+
+We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions are true.
+
+**One of these must be true:**
+
+- A VA health care provider determines that the Veteran needs an attendant while traveling due to the Veteran's mental or physical condition, **or**
+- The non-Veteran is the donor or potential donor of tissue, organ, or parts to a Veteran receiving VA or
+VA-authorized non-VA transplant health care, **or**
+- In the case of an allied beneficiary, the appropriate foreign government agency has authorized the beneficiary's travel and reimbursement, **or**
+- Another federal agency has authorized us to provide care to a beneficiary of that agency, **or**
+- The non-Veteran is a caregiver under our [Comprehensive Program of Caregiver Assistance](/health-care/family-caregiver-benefits/comprehensive-assistance/), and is traveling in order to receive initial training as a potential caregiver or to care for a Veteran receiving VA or VA-approved health care
+
+</div>
+</li>
+</ul>
