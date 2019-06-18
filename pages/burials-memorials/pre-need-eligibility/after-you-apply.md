@@ -86,7 +86,7 @@ We'll send you a denial decision letter explaining the reasons or basis of our d
 
 ### How much time do I have to appeal the decision?
 
-If you disagree with our decision, you can file a Notice of Disagreement within one year from the date of the pre-need decision letter. If you don't file a Notice of Disagreement within one year, our decision will become final.
+If you disagree with our decision, you can file a Notice of Disagreement within 1 year from the date of the pre-need decision letter. If you don't file a Notice of Disagreement within 1 year, our decision will become final.
 
 ### Can my family member or authorized representative still apply for my burial in a VA national cemetery at the time of need?
 
