@@ -6,7 +6,7 @@ display_title: Selecting types, inscriptions, emblems
 description: Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
 keywords: n/a
 collection: burials
-spoke: More resources
+spoke: Get benefits
 order: 6
 relatedlinks:
   - heading: Other helpful information
@@ -150,10 +150,10 @@ Yes. Follow the directions below to request an image that isn't included on the 
 
  <li class="process-step list-two">
 
-#### Certify that the emblem of belief you want to request represents the Veteran's religious or other beliefs
+#### Certify that the emblem of belief you request represents the Veteran's religious or other beliefs
 <br> 
 
-Make sure that the emblem of belief you're requesting accurately portrays the Veteran's religious or other equivalent (equal) belief system. [We might want to get more specific here.]
+Make sure that the emblem of belief you're requesting portrays the Veteran's religious or other equivalent (equal) belief system. 
  </li>
  
  <li class="process-step list-three">
@@ -166,8 +166,6 @@ Make sure that the emblem of belief you're requesting accurately portrays the Ve
  - Printed in black and white
  - Have no copyright or trademark restrictions
  - Must be able to be inscribed in a stone or bronze production environment without losing image quality
- 
- [Is there other information they need to submit?]
  
  ##### By mail: 
  <br>
