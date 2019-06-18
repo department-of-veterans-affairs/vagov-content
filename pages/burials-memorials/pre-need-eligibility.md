@@ -37,13 +37,14 @@ You can apply to find out in advance if you can be buried in a VA national cemet
 <li class="process-step list-one">
 
 ### Find out if you're eligible. One of these must describe you:
-- A service member on active duty, **or**
 - A Veteran who didn't receive a dishonorable discharge when you separated from the military, **or**
 - The spouse or dependent child of a service member or Veteran, even if the service member or Veteran has already passed away, **or**
 - In some cases, the adult dependent child of a service member or Veteran (if you aren’t married)
 
 We base our decision of whether or not you qualify for burial in a VA national cemetery on your service history—or the service history of the Veteran or service member who's sponsoring your application for burial as a spouse, surviving spouse, or unmarried adult child.<br>
 [Get more details about eligibility](/burials-memorials/eligibility/)
+
+**Note:** Active-duty service members don't need to apply for a pre-need determination of eligibility. If a service member dies on active duty, they're eligible for burial without a pre-need decision letter.
 
 </li>
 
@@ -61,7 +62,6 @@ We base our decision of whether or not you qualify for burial in a VA national c
 
 - **Getting a pre-need determination of eligibility doesn’t guarantee you’ll be buried in a specific VA national cemetery.** We ask you where you'd prefer to be buried so we can try to help fulfill your final wishes. But, when we receive a request for burial from the person handling your burial arrangements, we'll assign a gravesite in a cemetery with available space at the time of need. We make assignments without regard to rank, ethnic or religious background, branch of service, or other factors. 
 
-- **Active-duty service members don't need to apply for a pre-need determination of eligibility.** If a service member dies on active duty, they're eligible for burial without a pre-need decision letter.
 </li>
 
 <li class="process-step list-three">
@@ -156,6 +156,8 @@ Call our toll-free hotline at <a href="tel:+18772228387">877-222-8387</a>. We're
 Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
 [Find a representative](https://www.benefits.va.gov/vso/varo.asp)<br>
 [Find your state’s Veterans agency](https://www.va.gov/statedva.htm)
+
+**Note:** These services are free. You should never pay someone to help you fill out the VA Form 40-10007 or file your request. 
 
 ## What happens after I apply?
 
