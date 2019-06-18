@@ -391,7 +391,7 @@ Salvage of leg in place of amputation for each leg
 
 $50,000
 
-**Note:** Payment for limb salvage of leg can't be combined with payments for losses uniplegia, amputation of foot, amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same leg.
+**Note:** Payment for limb salvage of a leg can't be combined with payments for uniplegia, amputation of a foot, amputation of all toes including the big toe on 1 foot, or amputation of big toe only, or other 4 toes on 1 foot for the same leg.
 
 <h5>Loss standards</h5>
 
@@ -559,11 +559,11 @@ You're eligible for this benefit if the description below is true for you.
 
 - You're in a coma with brain injury measured at a Glasgow Coma Score of 8 or less that lasts for at least 15 consecutive days.
 
-**Traumatic Brain Injury resulting in inability to perform at least 2 Activities of Daily Living (ADL):**
+**Traumatic brain injury resulting in inability to perform at least 2 Activities of Daily Living (ADL):**
 
 You're eligible for this benefit if the description below is true for you.
 
-- You're unable to independently perform at least 2 of 6 ADL (bathing, continence, dressing, eating, toileting and transferring) and your inability lasts for at least 15 consecutive days. You're considered unable to perform an activity independently if you **require** assistance to perform the activity.
+- You're unable to independently perform at least 2 of 6 ADL (bathing, continence, dressing, eating, toileting, and transferring), and your inability lasts for at least 15 consecutive days. You're considered unable to perform an activity independently if you **require** assistance to perform the activity.
 
 **Note:** Requires assistance is defined as:
 - Physical assistance: when you require hands-on assistance from another person
@@ -600,9 +600,9 @@ You're eligible for this benefit if the description below is true for you.
 
 **Note:** The count of consecutive hospitalization days begins when you're transported to the hospital, includes the day of admission, continues through subsequent transfers from one hospital to another, and includes the day of discharge.
 
-**Definition of a hospital:** an inpatient facility accredited as a hospital under the Hospital Accreditation Program of the Joint Commission on Accreditation of Healthcare Organizations. This includes Combat Support Hospitals, Air Force Theater Hospitals and Navy Hospital Ships. </br>
+**Definition of a hospital:** an inpatient facility accredited as a hospital under the Hospital Accreditation Program of the Joint Commission on Accreditation of Healthcare Organizations. This includes Combat Support Hospitals, Air Force Theater Hospitals, and Navy Hospital Ships. </br>
 
-Hospital does not include a nursing home. Neither does it include an institution, or part of one, which: (1) is used mainly as a place for convalescence, rest, nursing care or for the aged; or (2) furnishes mainly homelike or Custodial Care, or training in the routines of daily living; or (3) is for residential or domiciliary living; or (4) is mainly a school.
+Hospital does not include a nursing home. Neither does it include an institution, or part of one, which: (1) is used mainly as a place for convalescence, rest, nursing care, or for the aged; or (2) furnishes mainly homelike or Custodial Care, or training in the routines of daily living; or (3) is for residential or domiciliary living; or (4) is mainly a school.
 
 </div>
 </li>
@@ -881,16 +881,16 @@ Traumatic injury resulting in inability to perform at least 2 Activities of Dail
 
 <h5>Payment</h5>
 
-At 30th consecutive day of ADL loss: $25,000
-At 60th consecutive day of ADL loss: an additional $25,000
-At 90th consecutive day of ADL loss: an additional $25,000
+At 30th consecutive day of ADL loss: $25,000 </br>
+At 60th consecutive day of ADL loss: an additional $25,000 </br>
+At 90th consecutive day of ADL loss: an additional $25,000 </br>
 At 120th consecutive day of ADL loss: an additional $25,000
 
 <h5>Loss standards</h5>
 
 You're eligible for this benefit if both descriptions below are true for you.
-- You're unable to independently perform at least 2 of 6 ADL (bathing, continence, dressing, eating, toileting and transferring), **and**
-- Your inability lasts for at least 30 consecutive days.
+- You're unable to independently perform at least 2 of 6 ADL (bathing, continence, dressing, eating, toileting, and transferring), **and**
+- Your inability lasts for at least 30 consecutive days
 
 **Note:** You're considered unable to perform an activity independently if you **require** assistance to perform the activity.
 
@@ -924,7 +924,7 @@ At 15th consecutive day of hospitalization: $25,000
 <h5>Loss standards</h5>
 
 You're eligible for this benefit if both descriptions below are true for you.
-- You've been hospitalized for 15 consecutive days* as a result of a traumatic brain injury.
+- You've been hospitalized for 15 consecutive days as a result of a traumatic brain injury.
 
 **Note:** The count of consecutive hospitalization days begins when you're transported to the hospital, includes the day of admission, continues through subsequent transfers from one hospital to another, and includes the day of discharge.
 
