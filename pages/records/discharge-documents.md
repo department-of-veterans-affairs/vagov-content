@@ -39,8 +39,8 @@ To be buried in a national cemetery, you'll need to show the National Cemetery A
 | Bureau of Investigation No. 213	Discharge from U. S. Naval Reserve Force  | Honorable Discharge Certificate |
 
 
-Document must show previous active Federal service for something other than training, **or**
-a minimum of 20 years total service (for pay)
+**Documents that must show previous active Federal service for something other than training, or
+a minimum of 20 years total service (for pay)**
 
 | Form     | Title                           |
 |----------|---------------------------------|
@@ -50,7 +50,7 @@ a minimum of 20 years total service (for pay)
 
 | Form                            | Title                                                                                         |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| **DD 214**                      | **Certificate of Release or Discharge from Active Duty**                                      |
+| DD 214                          | Certificate of Release or Discharge from Active Duty                                          |
 | DD 13                           | Statement of Service                                                                          |
 | DA 1569                         | Transcript of Military Record                                                                 |
 | DD 2A                           | Armed Forces Identification Card (Active)                                                     |
@@ -77,7 +77,6 @@ a minimum of 20 years total service (for pay)
 | AGO 01254                       | Transcript of Military Record                                                                 |
 | AGO 01502                       | Discharge Certificate                                                                         |
 |                                 |                                                                                               |
-|                                 |                                                                                               |
 | WD AGO 01502                    | Certificate in Lieu of Lost or Destroyed Discharge Certificate                                |
 | WD AGO 01504                    | Discharge Certificate                                                                         |
 | WD AGO 0729                     | Honorable Discharge from Army of the United States of America                                 |
@@ -98,7 +97,6 @@ a minimum of 20 years total service (for pay)
 | Form No. 6, U.S.N.              | Discharge Certificate                                                                         |
 |                                 |                                                                                               |
 | Navy (no number)                | War Service Certificate                                                                       |
-|                                 |                                                                                               |
 | NAVCG-2510                      | Honorable Discharge, U.S. Coast Guard                                                         |
 | NAVCG-553                       | Notice of Separation from U.S. Coast Guard                                                    |
 | NAVMC-455                       | U.S. Marine Corps Certificate of Service (Instead of lost or destroyed discharge certificate) |
@@ -112,7 +110,6 @@ a minimum of 20 years total service (for pay)
 | NAVPERS-660                     | Honorable Discharge from U.S. Navy                                                            |
 | NAVPERS-661                     | Certificate of Discharge, U.S. Naval Service                                                  |
 | NAVPERS-663B                    | Discharge Certificate                                                                         |
-|                                 |                                                                                               |
 | NAR 529                         | Certification of Military Service                                                             |
 | NA 13038                        | Certification of Military Service                                                             |
 | NA 13041                        | Statement of Service                                                                          |
@@ -120,7 +117,7 @@ a minimum of 20 years total service (for pay)
 | GSA 6851                        | Service Information                                                                           |
 | GSA 6954                        | Certificate of Military Service                                                               |
 |                                 |                                                                                               |
-| VA Adjudication 545            | Summary of Record of Active Service                                                           |
+| VA Adjudication 545             | Summary of Record of Active Service                                                           |
 |                                 |                                                                                               |
 | VA 3101                         | Request for Army Information                                                                  |
 | VA 3101                         | Official Retirement Order                                                                     |
