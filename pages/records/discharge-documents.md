@@ -48,6 +48,26 @@ a minimum of 20 years total service (for pay)
 
 #### Other accepted documents
 
+| Form           | Title                                                    |
+|----------------|----------------------------------------------------------|
+| **DD 214**     | **Certificate of Release or Discharge from Active Duty** |
+| DD 13          | Statement of Service                                     |
+| DA 1569        | Transcript of Military Record                            |
+| DD 2A          | Armed Forces Identification Card (Active)                |
+| DD 2AF         | Armed Forces Identification Card (Active)                |
+| DD 2CG         | Armed Forces Identification Card (Active)                |
+| DD 2MC         | Armed Forces Identification Card (Active)                |
+| DD 2N          | Armed Forces Identification Card (Active)                |
+| DD 2NOAA       | Armed Forces Identification Card (Active)                |
+| DD 2 (Retired) | US Uniformed Services Identification Card                |
+| DD 214         | Certificate of Release or Discharge from Active Duty     |
+| DD 217         | Discharge Certificate                                    |
+| DD 303         | Certificate in Lieu of Lost or Destroyed Discharge       |
+| DD 303AF       | Certificate in Lieu of Lost or Destroyed Discharge       |
+| DD 303CG       | Certificate in Lieu of Lost or Destroyed Discharge       |
+| DD 303MC       | Certificate in Lieu of Lost or Destroyed Discharge       |
+| DD 303N        | Certificate in Lieu of Lost or Destroyed Discharge       |
+| DD 1300        | Report of Casualty                                       |
 
 Form	Title
 DA 1569	Transcript of Military Record
@@ -59,7 +79,7 @@ DD 2N	Armed Forces Identification Card (Active)
 DD 2NOAA	Armed Forces Identification Card (Active)
 DD 2 (Retired)	US Uniformed Services Identification Card
 DD 13	Statement of Service
-DD 214 ***	Certificate of Release or Discharge from Active Duty
+DD 214	Certificate of Release or Discharge from Active Duty
 DD 217	Discharge Certificate
 
 DD 303	Certificate in Lieu of Lost or Destroyed Discharge
