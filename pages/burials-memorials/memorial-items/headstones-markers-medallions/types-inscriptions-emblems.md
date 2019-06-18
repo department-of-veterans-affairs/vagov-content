@@ -177,7 +177,8 @@ Make sure that the emblem of belief you're requesting accurately portrays the Ve
     5109 Russell Road<br>
     Quantico, VA 22134-3903<br>
 </p>
-
+</ol>
+</li>
 
 ## Medallions
 
