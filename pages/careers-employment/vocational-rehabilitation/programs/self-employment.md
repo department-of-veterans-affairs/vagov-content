@@ -20,11 +20,7 @@ relatedlinks:
     - url: /careers-employment/vocational-rehabilitation/programs/independent-living/
       title: Independent Living track
       description: Learn about services that can help you live as independently as possible if you can't return to work right away.
-  - heading: More support for your small business
-    links:
-    - url: /careers-employment/veteran-owned-business-support/
-      title: Register your Veteran-Owned Small Business
-      description: Register to do business with VA and get support for your Veteran-Owned Small Business.
+
 ---
 
 <div class="va-introtext">
@@ -102,8 +98,6 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
 
 [Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating)
-
-<br>
 
 ## Get more information
 
