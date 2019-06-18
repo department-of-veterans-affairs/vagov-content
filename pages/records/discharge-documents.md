@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Military discharge documents
-heading: Military discharge documents
-display_title: Military discharge documents
-description: Download your VA Benefit Summary Letter (sometimes called a VA award letter) and other benefit letters and documents online.  
+title: Discharge documents for National Cemetery Burial 
+heading: Discharge documents for National Cemetery Burial 
+display_title: Discharge documents for National Cemetery Burial 
+description: Find out which military discharge documents the National Cemetery Association accepts for burial in a national cemetery. 
 keywords: n/a
 template: detail-page
 order: 6
