@@ -237,37 +237,37 @@ Notify us as soon possible, but no later than 30 days from the date of transport
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="veteran-employee">If I have an appointment at the VA health facility where I work or volunteer, can I still get reimbursed for travel?</button>
-<div id="non-veteran" class="usa-accordion-content">
+<div id="veteran-employee" class="usa-accordion-content">
 
-**If you're a Veteran employee who's eligible for reimbursement, or if you're a compensated work therapy patient**
+<h5>If you're a Veteran employee who's eligible for reimbursement, or if you're a compensated work therapy patient</h5>
 
 We'll reimburse you for travel to and from your scheduled appointments. This includes appointments scheduled on a day when you're working or volunteering at the same VA health facility. For unscheduled appointments, we may reimburse you for one-way travel if you're seen as a Veteran and not an employee.
 
-**If you're a volunteer**
+<h5>If you're a volunteer</h5>
 
 You're eligible for travel pay whether or not you volunteer on the same day as your appointment.
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="veteran-employee">If I travel together with another Veteran, or take free transportation, can I still get reimbursement? </button>
-<div id="non-veteran" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="travel-together">If I travel together with another Veteran, or use a free transportation service, can I still get reimbursement? </button>
+<div id="travel-together" class="usa-accordion-content">
 
-##### If you traveled together with another Veteran
+<h5>If you travel together with another Veteran</h5>
 
 You're eligible for reimbursement only if any of the below descriptions is true. 
 
 **One of these must be true. You:**
 
 - Are the owner of the vehicle used for travel, **or**
-- Shared a vehicle, like a taxi, with other veterans and paid your own fare, **or**
-- Paid another Veteran to take you to an appointment
+- Share a vehicle, like a taxi, with other veterans and pay your own fare, **or**
+- Pay another Veteran to take you to an appointment
 
 You'll need to provide a receipt for your expenses. If you're eligible for reimbursement, we'll pay the mileage rate or actual expense, whichever is less. 
 
-##### If you took free transportation
+<h5>If you use a free transportation service</h5>
 
-If you took a free transportation service, you're only eligible for reimbursement for any travel you may have had to get to and from your home to where you were picked up or dropped off by this service.
+You're only eligible for reimbursement for any travel you may have had to get to and from your home to where you were picked up or dropped off by the service.
 
 Free transportation services may include the Disabled American Veterans (DAV) system, VA Veterans transportation service (VTS), or other no-cost city or state transportation.
 
