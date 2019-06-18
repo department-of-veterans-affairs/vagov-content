@@ -29,20 +29,25 @@ relatedlinks:
 Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
 </div>
 
-## Types of headstones, markers and medallions
+## What types of memorial items can I get?
 
-Review the different types of memorial items available to Veterans. 
+Memorial items include:
+
+- Headstones
+- Grave markers
+- Medallions
 
 [See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-### Headstones
+## Headstones
 
-#### What is a headstone? 
+### What is a headstone? 
 
 Headstones are pieces of upright stone that are specially carved and inscribed according to each Veteran's personal details and VA guidelines. 
 
-##### What does a headstone look like?
-- **Dimensions:** 42 inches tall (3.5 feet) x 13 inches wide (about 1 foot) x 4 inches thick (about 1/2 foot)
+### What does a headstone look like?
+
+- **Dimensions:** 42 inches tall x 13 inches wide x 4 inches thick 
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
 - **Color:** Stone color will vary. Marble may have light to medium veining (lines)
@@ -50,62 +55,59 @@ Headstones are pieces of upright stone that are specially carved and inscribed a
 [See an example of an upright marble headstone.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 
-### Markers
-
-#### What is a marker?
+## Markers
 
 A marker is piece of bronze, granite, or marble that is placed flat on the ground or mounted on a wall. They're inscribed according each Veteran's personal details and VA guidelines.
 
-[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See what each marker type looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
-#### What type of markers are available?
-<br>
+### What kinds of markers are available?
 
-##### Flat granite or marble
+#### Flat granite or marble
 
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** Stone color will vary. Marble may have light to medium veining (lines)
 
 
-##### Flat bronze
+#### Flat bronze
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do provide anchor bolts, nuts, and washers for attaching a marker to its base
 
-##### Bronze niche (for mounting on a wall)
+#### Bronze niche (for mounting on a wall)
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mountin bolts and washers
 
 
-### Medallions
-
-#### What is a medallion?
+## Medallions
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
-#### Why should I choose a medallion?
+### Why should I choose a medallion?
 
 If you have a privately purchased headstone or marker, a medallion is a good way to show Vetearn status. 
 
 Medallions are: 
 
 - Easy to attach to different kinds of headstones and markers
-- Free--there are no headstone or marker setting fees
+- Free. There are no headstone or marker setting fees.
 - Long-lasting and durable
-- A way to show Veteran status in a private cemetery that may have rules against the types of markers, headstones, or footstones you can use
+- A way to show Veteran status in a private cemetery
 
 
-#### Who can get a medallion? 
+### Who can get a medallion? 
+
 Medallions are for Veterans who: 
 - Served on or after April 6, 1917, **and** 
 - Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
+
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
-#### How can I get a medallion?
+### How can I get a medallion?
 
 [Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 [Learn about private cemetery burials](/burials-memorials/burial-in-private-cemetery/)
@@ -113,30 +115,30 @@ Medallions are for Veterans who:
 
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
-#### What types of medallions are available?
+### What types of medallions are available and what do they look like?
 
-##### Bronze medallions
+#### Bronze medallions
 
-- **Dimensions**: 
+- **Dimensions**: <br>
 **Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
 **Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
 **Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom. 
 
-##### Medal of Honor (MOH)
+#### Medal of Honor (MOH)
 
-- **Dimensions**: 
+- **Dimensions**: <br>
 **Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
 **Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
-- **:Material:** Bronze
+- **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom. 
 
 [Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-#### What happens after I apply for a medallion?
+### What happens after I apply for a medallion?
 
-Once a request for a medallion is received and approved, we'll mail you your medallion. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+Once a request for a medallion is received and approved, we'll mail your medallion toyou. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -151,8 +153,6 @@ The inscription on a Veteran's headstone or grave marker can include:
 - [War Service](https://www.cem.va.gov/CEM/docs/abbreviations/War_Service_Abbreviations.pdf)
 - [Awards](https://www.cem.va.gov/CEM/docs/abbreviations/Awards.pdf)
 
-<br>
-
 #### Ranks
 
 - [Air Force](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Air_Force.pdf)
@@ -165,13 +165,15 @@ The inscription on a Veteran's headstone or grave marker can include:
 - [Navy](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Navy.pdf)
 - [Other](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_All_Other.pdf)
 
-### Emblems of belief
+## Emblems of belief
 
-#### What is an emblem of belief?
+### What is an emblem of belief?
 
 An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
 
-#### Who can request an emblem of belief? 
+[View the official list of emblems of belief.](https://www.cem.va.gov/cem/hmm/emblems.asp)
+
+### Who can request an emblem of belief? 
 
 These people can request an emblem of belief for a Veteran:
 
@@ -180,9 +182,9 @@ These people can request an emblem of belief for a Veteran:
 - A persona authorized by the Veteran
 
 
-#### Can I request an emblem of belief that isn't included on the list? 
+### Can I request an emblem of belief that isn't included on the official list? 
 
-Yes. Follow the directions below to request an image that isn't included on the VA lisst of emblems of belief. 
+Yes. Follow the directions below to request an image that isn't included on the official list of emblems of belief. 
 
 **Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that takes away from the dignity of cemeteries that honor Veterans. No emblem request should contain abusive or sexually explicit language or images. 
 
