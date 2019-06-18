@@ -29,7 +29,7 @@ relatedlinks:
 Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
 </div>
 
-## What types of memorial items can I get?
+## What are the different types of memorial items?
 
 Memorial items include:
 
