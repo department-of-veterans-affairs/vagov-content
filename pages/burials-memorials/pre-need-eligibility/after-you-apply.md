@@ -82,7 +82,7 @@ Your family members can make arrangements for your burial at a private cemetery 
 ## If you don't qualify for burial benefits
 
 We'll send you a denial decision letter explaining the reasons or basis of our denial. We'll also send you a form called Your Rights to Appeal Our Decision (VA Form 4107) along with your denial letter. This form explains your rights to appeal and how to submit more evidence. You can send us more supporting documents whether or not you choose to appeal the pre-need decision.  <br>
-[Learn more about appeals of VA claims](http://www.va.gov/opa/publications/benefits_book/benefits_chap14.asp)
+[Learn more about appealing VA claims](http://www.va.gov/opa/publications/benefits_book/benefits_chap14.asp)
 
 ### How much time do I have to appeal the decision?
 
