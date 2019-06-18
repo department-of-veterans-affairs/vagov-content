@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Bereavement Counseling
 heading: Bereavement counseling
-display_title:
+display_title: Bereavement counseling
 order: 6
 spoke: Get benefits
 collection: burials
