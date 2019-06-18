@@ -99,8 +99,6 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 
 [Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating)
 
-<br>
-
 ## Get more information
 
 **We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
