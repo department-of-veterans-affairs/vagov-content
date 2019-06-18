@@ -47,7 +47,7 @@ VA travel pay (also called the Beneficiary Travel program) reimburses Veterans f
 ### Am I eligible to receive VA travel pay as a Veteran?
 
 You may be eligible for 1 or both of our 2 types of travel pay.
-
+<br>
 #### General health care travel reimbursement
 
 This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. You may be eligible if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and at least one of the below descriptions is true for you.
@@ -61,6 +61,8 @@ This includes regular transportation, such as by car, plane, train, bus, taxi, o
 - Are traveling for a scheduled [VA claim exam](/disability/va-claim-exam/) (also called a compensation and pension, or C&P, exam), **or** 
 - Can’t afford to pay for your travel, as defined by our guidelines
 
+**Note:** Veterans traveling for VA-approved transplant care are automatically eligible for reimbursement. If you're a Veteran with a different special VA designation, you'll need to meet the eligibility requirements listed above.
+<br>
 #### Special mode transportation
 
 This includes transportation by a vehicle specially designed to transport people with disabilities, like an ambulance, ambulette, air ambulance, or wheelchair vain. You may be eligible if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and all of the below descriptions are true for you.
@@ -69,15 +71,9 @@ This includes transportation by a vehicle specially designed to transport people
 
 - You're eligible for general health care travel reimbursement, **and**
 -	A VA health care provider determines that your medical condition requires an ambulance or a specially equipped van for travel, **and** 
--	We've preauthorized your travel, unless the travel is for an emergency situation where a delay would threaten your life or health
+-	We've approved your travel in advance, unless the travel is for an emergency situation where a delay would threaten your life or health
 
 </div>
-
-### If I'm a Veteran with a special VA designation of spinal cord injured (SCI), combat Veteran (CV), or catastrophically disabled (CD), do I automatically qualify for VA travel pay?
-
-No. Only Veterans traveling for VA-authorized transplant care are automatically eligible for reimbursement. If you're a Veteran with a special VA designation, you'll need to meet the eligibility requirements listed above to qualify for VA travel pay.
-
-------
 
 <span id="reimbursement"></span>
 ## Reimbursement benefits, rates, and deductibles
@@ -85,8 +81,8 @@ No. Only Veterans traveling for VA-authorized transplant care are automatically 
 ### What travel expenses does VA travel pay reimburse?
 
 **We pay for travel to care at a:**
-- VA health care facility (the closes facility to your home unless your VA health care provider determines that you need to travel to a different facility)
-- Non-VA health care facility (if we've approved the care in advance or your travel is for a life-threatening emergency)
+- **VA health care facility** (the closest facility to your home unless your VA health care provider determines that you need to travel to a different facility)
+- **Non-VA health care facility** (if we've approved the care in advance or your travel is for a life-threatening emergency)
 
 **This may include reimbursement for:**
 -	Mileage driven to and from a provider appointment
@@ -96,8 +92,6 @@ No. Only Veterans traveling for VA-authorized transplant care are automatically 
 -	Ticket costs for public transportation, including train, subway, bus, ferry, or light rail
 -	Transportation by a specially equipped vehicle, like an ambulance or wheelchair van (if your VA health care provider determines this is medically necessary for you or your travel is for a life-threatening emergency)
 - Meals and lodging in some cases (if we've approved this reimbursement in advance)
-
-Keep reading below to find out more details about reimbursement.
 
 ### What's the current VA mileage reimbursement rate?
 
@@ -277,6 +271,8 @@ If you took a free transportation service, you're only eligible for reimbursemen
 
 Free transportation services may include the Disabled American Veterans (DAV) system, VA Veterans transportation service (VTS), or other no-cost city or state transportation.
 
+</div>
+</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="not-eligible">What if I'm not eligible for VA travel pay?</button>
 <div id="not-eligible" class="usa-accordion-content">
