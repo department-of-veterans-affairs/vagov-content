@@ -36,6 +36,7 @@ Memorial items include:
 - Headstones
 - Grave markers
 - Medallions
+- Pre-World War I headstones and markers
 
 [See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
@@ -69,7 +70,7 @@ A marker is an piece of bronze, granite, or marble with an inscription that is p
 
 [See what each marker type looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
-### What kinds of markers are available?
+### What does a marker look like and what types of markers are available?
 
 ##### Flat granite or marble
 
@@ -190,6 +191,8 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
+### What does a medallion look like?
+
 [See an example of a medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
 ### Why should I choose a medallion?
@@ -212,14 +215,14 @@ Medallions are for Veterans who:
 
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
-### What types of medallions are available and what do they look like?
+### What does a medallion look like and what kinds are available?
 
 ##### Bronze medallions
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
-**Small:** 2 inch width x 1-1/2 inch height x 1/3 inch diameter <br>
+**Large:** 6-3/8 inches wide x 4-3/4 inches tall x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inches wide  x 2-7/8 inches tall x 1/4 inch diameter <br>
+**Small:** 2 inches wide x 1-1/2 inches tall x 1/3 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
 
@@ -228,8 +231,8 @@ Medallions are for Veterans who:
 ##### Medal of Honor (MOH)
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inch width x 4-3/4 inch height x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inch width  x 2-7/8 inch heigh x 1/4 inch diameter <br>
+**Large:** 6-3/8 inches wide x 4-3/4 inches tall x 1/2 inch diameter <br>
+**Medium:** 3-3/4 inches wide  x 2-7/8 inch tall x 1/4 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
@@ -237,7 +240,42 @@ Medallions are for Veterans who:
 
 ### What happens after I apply for a medallion?
 
-Once a request for a medallion is received and approved, we'll mail your medallion toyou. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+Once a request for a medallion is received and approved, we'll mail your medallion to you. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+
+## Pre-World War I headstones and markers
+
+### What is a pre-World War I headstone or marker?
+
+A pre-World War I headstone or marker is a memorial item used for the gravesite of a Civil War or Spanish American War Veteran. 
+
+### What does a pre-World War I headstone look like and what types are available??
+
+
+
+##### Marble
+- **Dimensions**: <br>
+**A:** 12 inches wide x 42 inches tall x 3 inches thick <br>
+**B:** 13 inches wide x 42 inches tall x 3 inches thick <br>
+**C:** 10 inches wide x 39 inches tall x 3 inches thick
+- **Lettering:** Lettering is raised inside a recessed shield
+
+**Note:** If you're requesting a pre-World War I marble headstone, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
+
+
+##### Granite
+
+- **Dimensions**: <br>
+**A:** 12 inches wide x 42 inches tall x 3 inches thick <br>
+- **Lettering:** Lettering is raised inside a recessed shield
+
+**Note:** If you're requesting a pre-World War I granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
+
+
+
+
+
+
+
 
 
 
