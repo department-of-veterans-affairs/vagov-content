@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Travel Pay for health care 
+title: VA Travel Pay For Health Care 
 heading: VA travel pay for health care 
 display_title: Get VA travel pay
-description: VA travel pay (also called the Beneficiary Travel program) reimburses Veterans for mileage and other travel expenses to and from health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
+description: VA travel pay through the Beneficiary Travel program reimburses Veterans for mileage and other travel expenses to and from health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
 keywords: va travel pay, va travel reimbursement
 concurrence: 
 spoke: 
@@ -28,14 +28,14 @@ relatedlinks:
 
 <div class="va-introtext">
   
-VA travel pay (also called the Beneficiary Travel program) reimburses Veterans for mileage and other travel expenses to and from approved health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
+VA travel pay through the Beneficiary Travel program reimburses Veterans for mileage and other travel expenses to and from approved health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
 
 </div>
 
 ### On this page
 
 - [Eligibility](#eligibility)
-- [Reimbursement benefits, rates, and deductibles](#reimbursement)
+- [VA travel reimbursement benefits, rates, and deductibles](#reimbursement)
 - [How to file a claim](#file-claim)
 - [More about VA travel pay](#more)
 
@@ -48,9 +48,11 @@ VA travel pay (also called the Beneficiary Travel program) reimburses Veterans f
 
 You may be eligible for 1 or both of our 2 types of travel pay.
 <br>
+<br>
 #### General health care travel reimbursement
+**(Regular transportation, such as by car, plane, train, bus, taxi, or light rail)**
 
-This includes regular transportation, such as by car, plane, train, bus, taxi, or light rail. You may be eligible if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and at least one of the below descriptions is true for you.
+You may be eligible for this reimbursement if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and at least one of the below descriptions is true for you.
 
 **At least one of these must be true. You:**
 
@@ -63,9 +65,11 @@ This includes regular transportation, such as by car, plane, train, bus, taxi, o
 
 **Note:** Veterans traveling for VA-approved transplant care are automatically eligible for reimbursement. If you're a Veteran with a different special VA designation, you'll need to meet the eligibility requirements listed above.
 <br>
+<br>
 #### Special mode transportation
+**(Transportation by a vehicle specially designed to transport people with disabilities, like an ambulance, ambulette, air ambulance, or wheelchair vain)**
 
-This includes transportation by a vehicle specially designed to transport people with disabilities, like an ambulance, ambulette, air ambulance, or wheelchair vain. You may be eligible if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and all of the below descriptions are true for you.
+You may be eligible for this benefit if you're traveling for care at a VA health facility or for VA-approved care at a facility in your community, and all of the below descriptions are true for you.
 
 **All of these must be true:**
 
@@ -75,23 +79,38 @@ This includes transportation by a vehicle specially designed to transport people
 
 </div>
 
+### Can my caregivers, attendants, donors, or anyone else get travel reimbursement?
+
+We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions are true.
+
+**One of these must be true:**
+
+- The non-Veteran is a caregiver under our [Comprehensive Program of Caregiver Assistance](/health-care/family-caregiver-benefits/comprehensive-assistance/), and is traveling in order to receive initial training as a potential caregiver or to care for a Veteran receiving VA or VA-approved health care
+- A VA health care provider determines that the Veteran needs an attendant while traveling due to the Veteran's mental or physical condition, **or**
+- The non-Veteran is the donor or potential donor of tissue, organ, or parts to a Veteran receiving VA or
+VA-authorized non-VA transplant health care, **or**
+- In the case of an allied beneficiary, the appropriate foreign government agency has authorized the beneficiary's travel and reimbursement, **or**
+- Another federal agency has authorized us to provide care to a beneficiary of that agency, **or**
+
+------
+
 <span id="reimbursement"></span>
-## Reimbursement benefits, rates, and deductibles
+## VA travel reimbursement benefits, rates, and deductibles
 
 ### What travel expenses does VA travel pay reimburse?
 
-**We pay for travel to care at a:**
-- **VA health care facility** (the closest facility to your home unless your VA health care provider determines that you need to travel to a different facility)
-- **Non-VA health care facility** (if we've approved the care in advance or your travel is for a life-threatening emergency)
+**We pay for your travel to receive care at a:**
+- **VA health care facility.** We reimburse you for travel to the closest VA health facility to your home that provides the care you need, unless your VA health care provider determines that you need to travel to another facility for care.
+- **Non-VA health care facility.** We only reimburse you for non-VA care that we've approved in advance, except in certain emergency situations.
 
 **This may include reimbursement for:**
--	Mileage driven to and from a provider appointment
+-	Mileage driven to and from your appointment
 - Bridge, road, and tunnel tolls
 - Parking
 - Taxi and plane fares
 -	Ticket costs for public transportation, including train, subway, bus, ferry, or light rail
--	Transportation by a specially equipped vehicle, like an ambulance or wheelchair van (if your VA health care provider determines this is medically necessary for you or your travel is for a life-threatening emergency)
-- Meals and lodging in some cases (if we've approved this reimbursement in advance)
+-	Transportation by a specially equipped vehicle, like an ambulance or wheelchair van, when needed and approved
+- Meals and lodging in some cases 
 
 ### What's the current VA mileage reimbursement rate?
 
@@ -100,18 +119,17 @@ We currently pay **41.5 cents ($0.415)** per mile for approved, health-related t
 **You should know that we:**
 - **Use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage,** based on the fastest and shortest route from your home to the health care facility ("door to door")
 - **Pay round-trip mileage for your scheduled appointments,** but may only pay return mileage for unscheduled visits
-- **Reimburse you for travel to the closest VA health facility that provides the care you need,** unless your VA health care provider determines that you need to travel to another facility for care
 
 ### When, and how much, will VA pay for my meals and lodging?
 
-In some cases, we may reimburse you for the actual cost, up to 50% of the local government employee rate, for meals or lodging. We determine the need for meals and lodging on a case-by-case basis based on:
+In some cases, we may reimburse you for the actual cost, up to 50% of the local government employee rate, for meals or lodging. You'll need to provide all receipts.
+
+**We determine the need for meals and lodging on a case-by-case basis based on:**
 - Your medical condition, **and**
 - How far you need to travel for care, **and**
 - Other circumstances
 
-You'll need to provide all receipts for lodging and meals.
-
-Except in certain unusual cases, you can only get this reimbursement if we approve it before you travel. And we won't reimburse you for lodging or meals if you chose to stop or take a less direct route to a VA or VA-authorized health facility. 
+Except in certain unusual cases, you can only get this reimbursement if we approve it before you travel. We won't reimburse you for lodging or meals if you chose to stop or take a less direct route to a VA or VA-authorized health facility. 
 
 ### Will I have to pay a deductible before getting VA travel reimbursement?
 
@@ -123,7 +141,7 @@ After you pay $18 within one month, we’ll pay the full cost of your approved t
 
 ### Can I get this deductible waived so I don't have to pay it?
 
-We may waive this deductible for you if it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions are true for you.
+We may waive this deductible for you if paying it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions are true for you.
 
 **One of these must be true. You're:**
 
@@ -144,7 +162,7 @@ If we determine that you qualify for a waiver, we'll automatically waive your de
 
 ### How do I get VA travel pay for scheduled appointments?
 
-Follow the steps below to get paid back for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you became eligible.
+Follow the steps below to get paid back for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you become eligible.
 
 #### For each scheduled appointment
 
@@ -187,7 +205,9 @@ We’ll deposit your reimbursement through electronic funds transfer (EFT), unle
 ### How do I get reimbursed for travel by ambulance?
 
 We have a special system to handle your ambulance claims. It’s called the fee-based claims 
-system, and it helps us process your claims quickly so we can send your reimbursement faster. For more information, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
+system, and it helps us process your claims quickly so we can send your reimbursement faster. 
+
+For more information, please email us at <a href="mailto:VHABeneficiaryTravelQuestions@va.gov">VHABeneficiaryTravelQuestions@va.gov</a>.
 
 ------
 
@@ -213,10 +233,10 @@ You'll need to establish an official place of residence so we can determine your
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-residence">What if I change my residence while receiving care from VA (such as during a lengthy hospital stay)?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-residence">What if I change my residence while receiving VA or VA-approved care (such as during a lengthy hospital stay)?</button>
 <div id="change-residence" class="usa-accordion-content">
 
-For your return trip home, we'll reimburse you for the distance (mileage) to your new residence. But we won't pay more than the amount that we'd allow from the VA health facility where the care or services could have been provided that's closest to your new residence.
+For your return trip home, we'll reimburse you for the distance (mileage) to your new residence. But we won't pay more than the amount that we'd pay from the VA health facility closest to your new residence that could have provided the care you needed.
 
 **For example:** If you lived in Baltimore, Maryland when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan during your hospital stay, we would reimburse you for travel up to the amount we'd pay for the distance from your new Detroit home to the nearest VA or VA-approved facility that could have provided your care.
 
@@ -228,10 +248,10 @@ For your return trip home, we'll reimburse you for the distance (mileage) to you
 
 **We can provide travel in certain emergency situations:**
 
-- **If you have an emergency while receiving care at a VA health facility and the facility can't provide the car you need,** we can pay for your transport to a non-VA facility for emergency treatment and back to the VA facility. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for travel pay.
-- **If you have an emergency and you're anywhere other than at a VA health facility,** we can pay for your transport to a non-VA facility for emergency treatment. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for travel pay. But, once you're in a stable medical condition, you'll need to meet travel pay and medical expense eligibility requirements to receive any further reimbursement.
+- **If you have an emergency while receiving care at a VA health facility and the facility can't provide the care you need,** we can pay for your transport to a non-VA facility for emergency treatment and back to the VA facility. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for VA travel pay.
+- **If you have an emergency and you're anywhere other than at a VA health facility,** we can pay for your transport to a non-VA facility for emergency treatment. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for VA travel pay. But, once you're in a stable medical condition, you'll need to meet travel pay and medical expense eligibility requirements to receive any further reimbursement.
 
-Notify us as soon possible, but no later than 30 days from the date of transport. 
+Notify us as soon possible, but no later than 30 days from the date of emergency transport. 
 
 </div>
 </li>
@@ -239,9 +259,9 @@ Notify us as soon possible, but no later than 30 days from the date of transport
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="veteran-employee">If I have an appointment at the VA health facility where I work or volunteer, can I still get reimbursed for travel?</button>
 <div id="veteran-employee" class="usa-accordion-content">
 
-<h5>If you're a Veteran employee who's eligible for reimbursement, or if you're a compensated work therapy patient</h5>
+<h5>If you're a Veteran and a VA employee who's eligible for reimbursement, or if you're a compensated work therapy patient</h5>
 
-We'll reimburse you for travel to and from your scheduled appointments. This includes appointments scheduled on a day when you're working or volunteering at the same VA health facility. For unscheduled appointments, we may reimburse you for one-way travel if you're seen as a Veteran and not an employee.
+We'll reimburse you for travel to and from your scheduled appointments. This includes appointments scheduled on a day when you're working at the same VA health facility. For unscheduled appointments, we may reimburse you for one-way travel if you're seen as a Veteran and not an employee.
 
 <h5>If you're a volunteer</h5>
 
@@ -255,9 +275,9 @@ You're eligible for travel pay whether or not you volunteer on the same day as y
 
 <h5>If you travel together with another Veteran</h5>
 
-You're eligible for reimbursement only if any of the below descriptions is true. 
+You're eligible for reimbursement only if one of the below descriptions is true. 
 
-**One of these must be true. You:**
+**At least one of these must be true. You:**
 
 - Are the owner of the vehicle used for travel, **or**
 - Share a vehicle, like a taxi, with other veterans and pay your own fare, **or**
@@ -277,33 +297,16 @@ Free transportation services may include the Disabled American Veterans (DAV) sy
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="not-eligible">What if I'm not eligible for VA travel pay?</button>
 <div id="not-eligible" class="usa-accordion-content">
 
-You may still qualify for other VA transportation programs that can help you get to and from your VA appointments. You may also qualify for transportation help from other organizations. Your VA health care team can help you explore your options.
+You may still qualify for other VA transportation programs that can help you get to and from your VA and VA-approved appointments. You may also qualify for transportation help from other organizations. Your VA health care team can help you explore your options.
 
-**These resources may help you find transportation options:**
+**These resources may also help you find transportation options:**
 
-- <strong>[Disabled American Veterans (DAV) transportation network](https://www.dav.org/veterans/i-need-a-ride/) <br> This organization provides transportation to VA health facilities for ill and injured Veterans across the country.
+- <strong>[Disabled American Veterans (DAV) transportation network](https://www.dav.org/veterans/i-need-a-ride/)</strong> <br> This organization provides transportation to VA health facilities for ill and injured Veterans across the country.
 - <strong>[The American Public Transportation Association](http://www.apta.com/resources/links/unitedstates/Pages/default.aspx)</strong><br> This resource includes links to thousands of local, regional, and national transit agencies. 
 - <strong>[The National Center on Senior Transportation](http://www.seniortransportation.net)</strong> <br> This organization offers transportation resources and options for eligible older adults.
 - <strong>[United Way](http://www.unitedway.org/)</strong><br> The United Way offers many services to those in need, including transportation services. Enter your zip code to find services near you.
 
-Your local VA health facility may also be able to refer you to other groups and resources to help with your transportation needs.
 </div>
 <li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="non-veteran">Can caregivers, attendants, donors, or anyone else get travel reimbursement?</button>
-<div id="non-veteran" class="usa-accordion-content">
-
-We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions are true.
-
-**One of these must be true:**
-
-- A VA health care provider determines that the Veteran needs an attendant while traveling due to the Veteran's mental or physical condition, **or**
-- The non-Veteran is the donor or potential donor of tissue, organ, or parts to a Veteran receiving VA or
-VA-authorized non-VA transplant health care, **or**
-- In the case of an allied beneficiary, the appropriate foreign government agency has authorized the beneficiary's travel and reimbursement, **or**
-- Another federal agency has authorized us to provide care to a beneficiary of that agency, **or**
-- The non-Veteran is a caregiver under our [Comprehensive Program of Caregiver Assistance](/health-care/family-caregiver-benefits/comprehensive-assistance/), and is traveling in order to receive initial training as a potential caregiver or to care for a Veteran receiving VA or VA-approved health care
-
-</div>
-</li>
 </ul>
