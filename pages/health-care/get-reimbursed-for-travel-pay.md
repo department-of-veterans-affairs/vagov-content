@@ -20,7 +20,7 @@ relatedlinks:
       description: Order a prescription refill and track your shipment online.
     - url: /health-care/health-needs-conditions/  
       title: Health needs and conditions
-      description: Learn how to get care for specific needs (like mental health or women's health), and learn about service-related health concerns you should be aware of (like Agent Orange-related diseases or Camp Lejeune water contamination).
+      description: Learn how to get care for specific needs (like mental health or women's health), and learn about service-related health concerns you should be aware of (like Agent Orange–related diseases or Camp Lejeune water contamination).
     - url: /disability/eligibility/  
       title: Disability benefits
       description: Find out if you're eligible for VA disability compensation (pay) for an injury or illness that was caused—or made worse—by your active-duty service. 
@@ -136,7 +136,7 @@ Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment,
 
 ### Can I get this deductible waived so I don't have to pay it?
 
-We may waive this deductible for you if paying it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions is true for you.
+We may waive this deductible for you if paying it would result in a severe financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions is true for you.
 
 **At least one of these must be true. You're:**
 
@@ -167,7 +167,7 @@ Follow the steps below to get reimbursed for travel after each appointment. Be s
 ##### Fill out a claim for reimbursement
 
 You'll need to fill out a new Veteran/Beneficiary Claim for Reimbursement of Travel Expenses (VA Form 10-3542) for each appointment. <br>
-[Download VA Form 10-3542](https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf)  
+[Download VA Form 10-3542 (PDF)](https://www.va.gov/vaforms/medical/pdf/vha-10-3542-fill.pdf)  
 
 </li>
 
@@ -215,15 +215,15 @@ For more information, please email us at <a href="mailto:VHABeneficiaryTravelQue
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="not-closest">What if I choose to go to a VA health facility that's not the closest one to my home?</button>
 <div id="not-closest" class="usa-accordion-content">
 
-You can go to any VA health facility you choose to for care. But, if you choose to go a facility other than the one that's closest to your home with your VA health care provider determining the extra travel is needed, you'll need to pay for any costs above the amount for travel to your closest facility. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
+You can go to any VA health facility you choose to for care. But, if you choose to go to a facility other than the one that's closest to your home with your VA health care provider determining the extra travel is needed, you'll need to pay for any costs above the amount for travel to your closest facility. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="po-box">What if I my official address is a PO Box?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="po-box">What if my official address is a PO Box?</button>
 <div id="po-box" class="usa-accordion-content">
 
-You'll need to establish an official place of residence so we can determine your travel pay to the closes VA or VA-authorized health facility that can provide the care you need. We may ask you to provide documentation confirming your home address.
+You'll need to establish an official place of residence so we can determine your travel pay to the closest VA or VA-authorized health facility that can provide the care you need. We may ask you to provide documentation confirming your home address.
 
 </div>
 </li>
@@ -233,7 +233,7 @@ You'll need to establish an official place of residence so we can determine your
 
 For your return trip home, we'll reimburse you for the distance (mileage) to your new residence. But we won't pay more than the amount that we'd pay from the VA health facility closest to your new residence that could have provided the care you needed.
 
-**For example:** If you lived in Baltimore, Maryland when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan during your hospital stay, we would reimburse you for travel up to the amount we'd pay for the distance from your new Detroit home to the nearest VA or VA-approved facility that could have provided your care.
+**For example:** If you lived in Baltimore, Maryland, when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan, during your hospital stay, we would reimburse you for travel up to the amount we'd pay for the distance from your new Detroit home to the nearest VA or VA-approved facility that could have provided your care.
 
 </div>
 </li>
@@ -275,7 +275,7 @@ You're eligible for reimbursement only if one of the below descriptions is true.
 **At least one of these must be true. You:**
 
 - Are the owner of the vehicle used for travel, **or**
-- Share a vehicle, like a taxi, with other veterans and pay your own fare, **or**
+- Share a vehicle, like a taxi, with other Veterans and pay your own fare, **or**
 - Pay another Veteran to take you to an appointment
 
 You'll need to provide a receipt for your expenses. If you're eligible for reimbursement, we'll pay the mileage rate or actual expense, whichever is less. 
