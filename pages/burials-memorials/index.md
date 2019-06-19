@@ -110,14 +110,9 @@ hublinks:
     title: Plan a burial
     links:
     - url: "/burials-memorials/plan-a-burial/"
-      label: Plan a burial for a Veteran, spouse, or dependent family member
+      label: Schedule a burial for a Veteran, spouse, or dependent family member
       description: Get step-by-step guidance on how to request and apply for a burial
         in a VA national cemetery, or in a state or tribal government Veterans cemetery.
-      external: false
-    - url: https://www.cem.va.gov/cem/burial_benefits/need.asp
-      label: Schedule a burial in a VA national cemetery
-      description: Learn how to work with the VA National Cemetery Scheduling Office
-        to schedule a burial.
       external: false
     - url: https://www.cem.va.gov/cems/listcem.asp
       label: Find a national, state, or tribal government Veterans cemetery
