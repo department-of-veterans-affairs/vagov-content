@@ -4,7 +4,7 @@ title: Life Insurance Plans
 heading: Life Insurance Plans
 display_title: Life Insurance Plans
 description: Learn more about different VA life insurance plans. 
-keywords: va insurance
+keywords: n/a
 concurrence:
 template: detail-page
 no_article_bottom_padding: true
@@ -12,7 +12,7 @@ children: lifeInsuranceOptions
 order: 1
 spoke: Get benefits
 majorlinks:
- - heading: VA life insurance options	
+ - heading: More VA life insurance resources	
    links:	
      - url: /life-insurance/options-eligibility/sgli/	
        title: Servicemembers’ Group Life Insurance (SGLI)	
@@ -45,8 +45,22 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Learn about different types of VA life insurance options, and find out which one is right for you. 
+We offer other life insurance options aside from SGLI and VGLI. Learn about other VA life insurance options.
+Government Life Insurance is issued in a variety of insurance plans. Select a plan below to view a brief description of that plan. This information is for policy numbers beginning with K, V, RS, W, J. JR. JS and RH. Information for: Servicemembers' Group Life Insurance policies (SGLI) and Veterans' Group Life Insurance policies (VGLI).
 </div>
+
+**Note:** This page has information on policy numbers beginning with these letters:
+- K
+- V
+- RS
+- W
+- J
+- JR
+- JS
+- RH
+
+[Find out more about Servicemembers Group Life Insurance (SGLI)](https://www.va.gov/life-insurance/options-eligibility/sgli/)<br>
+[Find out more about Veterans Group Life Insurance](https://www.va.gov/life-insurance/options-eligibility/vgli/)
 
 <h3>On this page</h3>
 
@@ -61,6 +75,25 @@ Learn about different types of VA life insurance options, and find out which one
 - [Endowment at Age 60](#endowment-at-age-60)
 - [Endowment at Age 60](#endowment-at-age-65)
 - [Endowment at Age 60](#endowment-at-age-96)
+<br>
+<br>
+
+## 5 Year Level Premium Term
+
+A 5 year level premium term life insurance policy provides low-cost protection when you're young. As you age, your premium payments increase. 
+
+This plan:
+- Is available on all programs except "J," "JR," "JS"
+- Is renewable every five years
+- Can be converted to a permanent plan
+- Has no cash or loan value
+- Ends if you stop making premium payments
+
+
+Provides protection only and has no cash or loan values *
+When premiums are not paid, the protection stops *
+* Effective September 11, 2000, "capped" NSLI (V) and VSLI term policies receive a termination dividend that protects against the lapse of the policy. See more information about premium capping.
+
 
 
 
