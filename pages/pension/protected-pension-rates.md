@@ -65,7 +65,7 @@ To qualify for protected rates, your yearly income for 2018 must be at or below 
 
 Eligible dependents may include your spouse. We recognize same-sex and common-law marriages.
 
-Dependents may also include your biological, step, or adopted children who are unmarried and meet at least one of the requirements listed below.
+Dependents may also include any biological, step, or adopted children you may have who are unmarried and meet at least one of the requirements listed below.
 
 **At least one of these must be true for a dependent child. The child is unmarried and:**
 - Under 18 years old, **or**
@@ -92,9 +92,9 @@ All income limits in U.S. $
 | --- | ---: |
 | **Basic monthly payment** for Veteran only (no spouse or dependent children) | 15,394 |
 | **Special Aid and Attendance allowance,** if your income exceeds $15,398 | 15,948 |
-| **Hospital reduction rates for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | 15,394 |
+| **Hospital reduction rate for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | 15,394 |
 
-[Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
+**Note:** The hospital reduction rate is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
 #### Veterans with dependents
 
@@ -105,9 +105,9 @@ All income limits in U.S. $
 | **Special Aid and Attendance allowance,** if your income exceeds $20,732 | 21,245 |
 | **Hospital reduction rates for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | $21,245 | 
 
-[Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
-
-**Note:** If you're married, we also include some of your spouse's income when we determine if your yearly income is at or below the income limit. The current Section 306 disability pension spouse income exclusion limit is <strong>$4,916</strong>. This means that we won't include the first $4,916 of your spouse's yearly income, but we'll include any amount above this. <br> [Read the full Title 38 regulations for the spouse income exclusion](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
+**Notes:**
+- **The hospital reduction rate** is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
+- **If you're married,** we also include some of your spouse's income when we determine if your yearly income is at or below the income limit. The current Section 306 disability pension spouse income exclusion limit is <strong>$4,916</strong>. This means that we won't include the first $4,916 of your spouse's yearly income, but we'll include any amount above this. <br> [Read the full Title 38 regulations for the spouse income exclusion](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
 
 ### Section 306 death pension yearly income limits to determine eligibility
 
