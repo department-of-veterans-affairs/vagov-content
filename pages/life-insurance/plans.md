@@ -83,18 +83,28 @@ Government Life Insurance is issued in a variety of insurance plans. Select a pl
 A 5 year level premium term life insurance policy provides low-cost protection when you're young. As you age, your premium payments increase. 
 
 This plan:
-- Is available on all programs except "J," "JR," "JS"
+- Is available on all programs except those that start with "J," "JR," "JS"
 - Is renewable every five years
 - Can be converted to a permanent plan
 - Has no cash or loan value
 - Ends if you stop making premium payments
 
+**Note:** If you have a capped NSLI or VSLI term policy, you will receive a termination dividend (payment) if you miss a premium payment. <br>
 
-Provides protection only and has no cash or loan values *
-When premiums are not paid, the protection stops *
-* Effective September 11, 2000, "capped" NSLI (V) and VSLI term policies receive a termination dividend that protects against the lapse of the policy. See more information about premium capping.
+[Learn more about capped term policies](/life-insurance/closed-programs/)
 
+## Modified Life at Age 65
 
+This plan:
 
+- Available on all programs except those that start with "K"
+- Is a permanent plan. This means your preimum payments stay the same as you age.
+- Costs less per month than an Ordinary Life policy
+- Has loan and cash value
+
+Can only be purchased before the insured attains insurance age 61
+Affords a permanent plan of insurance at a premium that is lower than the Ordinary Life Plan premium
+Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 65th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)
+Policy earns loan and cash values
 
 
