@@ -298,7 +298,7 @@ To apply for a pre-World War I headstone or marker, you'll need to show proof of
 
 ###### If you don't have detailed primary documentation, you can request it through National Archives and Records Administration (NARA)
 
-[Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
+[Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records) Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
 
 The fee for requesting records varies between $25.00 and $75.00. Records ship between 60-90 days from the date of your request. 
 
