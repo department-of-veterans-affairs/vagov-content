@@ -50,7 +50,7 @@ Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. Our hours of
 
 ## Under what circumstances will the government replace a headstone or marker?
 
-##### We will cover the cost of replacing a government-issued headstone or marker if it is:**
+###### We will cover the cost of replacing a government-issued headstone or marker if it is:
 
 - Badly deteriorated
 - Illegible
@@ -60,7 +60,7 @@ Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. Our hours of
 - Damaged during shipping
 - Not up to contract specifications
 
-##### We won't cover the cost of replacing a government-issued headstone or marker if:**
+###### We won't cover the cost of replacing a government-issued headstone or marker if:
 
 - The headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. The cemetery is repsonsible for paying all replacement costs. 
 
