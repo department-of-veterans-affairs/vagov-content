@@ -96,11 +96,11 @@ We may also pay for care for an allied beneficiary when the appropriate foreign 
 <span id="reimbursement"></span>
 ## VA travel reimbursement benefits, rates, and deductibles
 
-### What travel expenses does VA travel pay reimburse?
+### What travel expenses does VA reimburse?
 
-**We pay for your travel to receive care at a:**
+**We may pay for your travel to receive care at a:**
 - **VA health care facility.** We reimburse you for travel to the closest VA health facility to your home that can provide the care you need, unless your VA health care provider determines that you need to travel to another facility for care.
-- **Non-VA health care facility.** We only reimburse you for non-VA care that we've approved in advance, except in certain emergency situations.
+- **Non-VA health care facility.** We only reimburse you for travel to receive non-VA care that we've approved in advance, except in certain emergency situations.
 
 **This may include reimbursement for:**
 -	Mileage driven to and from your appointment
