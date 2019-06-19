@@ -1,18 +1,19 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Pension Rates for Veterans
-display_title: Veterans Pension Rates
+title: VA Pension Rates For Veterans
+heading: VA pension rates for Veterans
+display_title: Veterans Pension rates
+description: Learn about VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for Veterans Pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+keywords: va pension rates, va aid and attendance rates
 concurrence:
 spoke: More resources
 order: 1
-aliases:
-  - /pension/rates/
 ---
 
 <div class="va-introtext">
 
-If you qualify for Veterans pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+View current VA pension rates for Veterans, including VA Aid and Attendance rates. If you qualify for these benefits, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 
 </div>
 
@@ -23,9 +24,9 @@ If you qualify for Veterans pension benefits, the amount you get will be based o
 **Example:**
 You’re a qualified Veteran with a dependent, non-Veteran spouse and no children. You also qualify for Aid and Attendance benefits based on your disabilities. You and your spouse have a combined yearly income of $10,000.
 <br>
-Your MAPR amount = $26,036 <br>
+Your MAPR amount = $26,766 <br>
 Your yearly income = $10,000 <br>
-Your VA pension = $16,036 for the year (or $1,336 paid each month)
+Your VA pension = $16,766 for the year (or $1,397 paid each month)
 
 ## What's the net worth limit to qualify for a Veterans Pension?
 
@@ -47,9 +48,9 @@ A penalty period is a length of time when a Veteran isn’t eligible for pension
 
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
-*Date of Cost-of-Living Increase: December 1, 2018* <br>
-*Increase Factor: 2.8%* <br>
-*Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
+*Date of cost-of-living increase: December 1, 2018* <br>
+*Increase factor: 2.8%* <br>
+*Standard Medicare deduction: Actual amount will be determined by SSA based on individual income.*
 
 ### For Veterans with no dependents:
 
@@ -63,7 +64,7 @@ A penalty period is a length of time when a Veteran isn’t eligible for pension
 If you have medical expenses, you may deduct only the amount that’s above 5% of your MAPR amount ($676 for a Veteran with no spouse or child).
 
 ### For Veterans with at least 1 dependent spouse or child:
-
+  
 | **If you have 1 dependent and…** | **Your MAPR amount is:** |
 | --- | --- |
 | You don’t qualify for Housebound or Aid and Attendance benefits | $17,724 |
@@ -91,7 +92,9 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 - **If you have a child who works**, you may exclude their wages up to $12,200 for 2018.
 - **If you have medical expenses**, you may deduct only the amount that’s above 5% of your MAPR amount ($886 for a Veteran with 1 dependent).
 
-**Get historic rate charts from past years**
+## Historic VA pension rate tables
+
+Read VA pension rate tables from past years: <br>
 [2017](https://www.benefits.va.gov/PENSION/rates_veteran_pen17.asp) |
 [2016](https://www.benefits.va.gov/PENSION/rates_veteran_pen16.asp) |
 [2014](https://www.benefits.va.gov/PENSION/rates_veteran_pen14.asp) |
@@ -111,14 +114,16 @@ If you have medical expenses, you may deduct only the amount that’s above 5% o
 [1999 and earlier](https://www.benefits.va.gov/PENSION/rates_veteran_pen99.asp)<br>
 
 
-### Read full regulations from Title 38 Code of Federal Regulations
+## Full Title 38 regulations
 
-[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+Read full regulations from Title 38 Code of Federal Regulations: <br>
 
-[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124)
+[3.23 Improved pension rates—Veterans and surviving spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123) <br>
 
-[3.271 Computation of Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271)
+[3.24 Improved pension rates—surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124) <br>
 
-[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272)
+[3.271 Computation of income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271) <br>
 
-[3.273 Rate Computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)
+[3.272 Exclusions from income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272) <br>
+
+[3.273 Rate computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)

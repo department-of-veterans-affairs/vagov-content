@@ -8,11 +8,6 @@ children: educationHowToUseBenefits
 order: 4
 plainlanguage:
 concurrence:
-aliases:
-  - /education/work-learn/
-  - /education/work-learn/non-traditional/
-  - /education/tools-programs/
-  - /education/advanced-training-and-certifications/
 majorlinks:
   - heading: Work toward a degree
     links:
@@ -33,14 +28,14 @@ majorlinks:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
       title: Get paid back for test fees
       description: Reimbursement for the cost of tests to become a licensed or certified professional, or to apply for college or a training course
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/
       title: Accelerated payments for high-technology programs
       description: A lump-sum payment to help cover the cost of courses in high-tech degree or non-degree programs
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/
       title: Non-college degree programs
       description: Funding for specific training programs (like HVAC repair, truck driving, or EMT training)
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/
-      title: VET TEC program 
+      title: VET TEC program
       description: A program that connects you to a high-tech training provider so you can gain computer skills and experience to start or advance your high-tech career
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/flight-training/
       title: Flight training

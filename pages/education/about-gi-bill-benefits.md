@@ -62,9 +62,6 @@ majorlinks:
     - url: /education/opt-out-information-sharing/
       title: Opt out of sharing VA education benefits information
       description: The Harry W. Colmery Veterans Educational Assistance Act (also called the “Forever GI Bill”) requires us to share certain information about your eligibility and benefits with schools, unless you ask us not to. Find out how to opt out of information sharing.
-
-aliases:
-  - /education/gi-bill/
 ---
 
 <div class="va-introtext">
@@ -73,7 +70,7 @@ Since 1944, the GI Bill has helped millions of Veterans pay for college, graduat
 
 If you applied for and were awarded Post-9/11 GI Bill education benefits, your GI Bill Statement of Benefits will show you how much of your benefits you’ve used and how much you have left to use. [View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit).
 
-The GI Bill Comparison Tool and Veterans service organizations can help you explore options and find out what benefits you can get. [Find a Veterans service organization](https://www.va.gov/vso/).
+The GI Bill Comparison Tool and Veterans Service Organizations can help you explore options and find out what benefits you can get. [Find a Veterans service organization](https://www.va.gov/vso/).
 
 
 <a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for Education Benefits</a><br>

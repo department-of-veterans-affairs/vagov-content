@@ -19,8 +19,6 @@ relatedlinks:
     - url: /burials-memorials/dependency-indemnity-compensation/
       title: Compensation for Surviving Spouses and Dependents
       description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
-aliases:
-  - /burials-and-memorials/burial-planning/
 ---
 
 <div class="va-introtext">

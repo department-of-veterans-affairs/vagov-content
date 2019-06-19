@@ -1,21 +1,21 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Disability Housing Grants for Veterans
-display_title: Housing Grants
-description: Find out if you're eligible for disability housing grants for Veterans and Servicemembers with certain service-connected disabilities. We offer these grants to disabled Veterans and Servicemembers who want to buy or change a home (like adding a ramp) to meet their needs and live more independently.
+title: Disability Housing Grants For Veterans
+heading: Disability housing grants for Veterans
+display_title: Housing grants
+description: We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Find out if you're eligible for a disability housing grant, and how to apply.
+keywords: grants for veterans, veteran housing grants, housing grants, disability housing grant
 children: housingAssistanceDisabilityHousingGrants
 lastupdate:
 order: 2
 spoke: Disability housing grants
-aliases:
-  - /housing-assistance/adaptive-housing-grants/
 concurrence:
 ---
 
 <div class="va-introtext">
 
-We offer grants to Veterans and Servicemembers with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you can get a grant to help meet your housing needs.
+We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you're eligible for a disability housing grant—and how to apply.
 
 </div>
 
@@ -36,6 +36,8 @@ You may be able to get an SAH grant if you’re using the grant money to buy, bu
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,645—through the SAH grant program.
 
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
+
 <br>
 
 ## Can I get a Special Housing Adaptation (SHA) grant—and how much funding does this grant offer?
@@ -55,9 +57,10 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 
 For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program.
 
-<div class="feature" markdown=“1”>
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
-### What if I need money to make changes to a family member’s home that I’m living in for a short period of time?
+
+## What if I need money to make changes to a family member’s home that I’m living in for a short period of time?
 
 You may be able to get a Temporary Residence Adaptation (TRA) grant if you meet both of the requirements listed below.
 
@@ -70,9 +73,8 @@ You may be able to get a Temporary Residence Adaptation (TRA) grant if you meet 
 
 **If you qualify for an SHA grant**, you can get up to $6,713 through the TRA grant program for FY 2019.
 
-</div>
 
-## How do I get an SAH, SHA, or TRA grant?
+## Apply for an SAH, SHA, or TRA grant
 
 You can apply online right now by going to our eBenefits website.
 
@@ -80,5 +82,3 @@ You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to Apply</a>
 
-<br>
-<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>.

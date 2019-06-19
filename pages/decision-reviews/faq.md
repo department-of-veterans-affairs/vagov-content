@@ -1,13 +1,13 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Frequently Asked Questions About Decision Reviews
-display_title: Frequently Asked Questions About Decision Reviews
+title: Frequently asked questions about decision reviews
+display_title: Frequently asked questions about decision reviews
 hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-Learn more about the review options and how to request a review. If you need help requesting a review, a Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+Learn more about the review options and how to request a review. If you need help requesting a review, a Veterans service organization or VA-accredited attorney or agent can help you request a decision review. 
 </div>
 
 ### On this page
@@ -17,11 +17,8 @@ Learn more about the review options and how to request a review. If you need hel
 - [What should I expect if I request a call with a senior reviewer?](#higher-level-review)
 - [What should I expect if I request a hearing with a Veterans Law Judge?](#request-hearing)
 - [What if I want to change my review option after submitting a form?](#change-review)
+- [How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?](#opt-in-to-modernized-system)
 
-
-<section class="usa-grid usa-grid-full">
-  <div class="va-h-ruled--stars"></div>
-</section>
 
 <div id="relevant-evidence">
 
@@ -64,7 +61,7 @@ During the call, you and/or your representative can talk about why you think the
 
 You have the option to request a hearing with a judge. A video conference hearing will take place at a VA location near you. 
 
-At your hearing, you and the judge will have a conversation. The judge may ask you a few questions, but it won’t be like a cross-examination. The judge will talk to you about the evidence needed to grant your appeal. Your representative, if you have one, may help you at the hearing.
+At your hearing, you and the judge will have a conversation. The judge will listen to your testimony. The judge may ask you a few questions. Your representative, if you have one, may help you at the hearing.
 
 The hearing will be transcribed and added to your appeal file. You can add new and relevant evidence within 90 days after the hearing, but it isn't required.
 </div>
@@ -78,5 +75,18 @@ If you’ve submitted a form and want to change your review option, you can send
 If you requested a Board Appeal and want to switch to a different appeal option, you can send in a new Board Appeal form with a different option selected. You can switch appeal options within 1 year from the date on your VA decision or 60 days from the date you submitted your original form. You can’t select a different appeal option if you’ve already submitted evidence or had a hearing.
 
 </div>
-<div id="copy-of-evidence">
+
+<div id="opt-in-to-modernized-system">
+  
+## How do I opt in if I want my legacy claim or appeal to be considered in the modernized system?
+
+If you disagree with a VA decision you received before February 19, 2019, you can opt in to the modernized review system after you've received a VA Statement of the Case (SOC) or Supplemental Statement of the Case (SSOC). To get either a SOC or an SSOC, you must file a Notice of Disagreement (VA Form 21-0958) within 1 year of the date on your decision. <br>
+[Find out how to file a Notice of Disagreement](/disability/file-an-appeal)
+
+After you receive either a SOC or an SSOC on the issue(s) in your Notice of Disagreement, you have 60 days or the remainder of the 1-year period following the decision you appealed, whichever is later, to opt in to the modernized system by submitting one of the following forms (and checking the SOC/SSOC opt-in box):
+- Decision Review Request: Supplemental Claim (VA Form 20-0995)
+- Decision Review Request: Higher-Level Review (VA Form 20-0996)
+- Decision Review Request: Board Appeal (VA Form 10182)
+
+[Download the forms or learn more about decision review options](/decision-reviews)
 </div>

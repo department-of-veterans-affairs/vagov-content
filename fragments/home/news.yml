@@ -1,14 +1,14 @@
-- img: /img/homepage/hp-img-secva-graphic.jpg
-  alt: Video of VA Secretary Robert Wilkie's video announcing the new VA.gov.
-  title: Welcome to the new VA.gov!
-  href: 'https://youtu.be/DEfRlL63nCg'
-  description: VA Secretary Robert Wilkie talks about the redesign intentionally built with Veterans, for Veterans.  
+- img: /img/homepage/hp-vamissionact-550x320.jpg
+  alt: Image of an a smiling Veteran.
+  title: VA MISSION Act
+  href: 'https://www.missionact.va.gov/'
+  description: Learn about new eligibility criteria for community care under the VA MISSION Act.  
   
-- img: /img/homepage/battle_iwo_jima1.jpg
-  alt: Graphic of Iwo Jima Veteran Woody Williams.
-  title: 74th Anniversary of Iwo Jima
-  href: 'https://www.blogs.va.gov/VAntage/58427/woody-williams-remembers-the-battle-of-iwo-jima/'
-  description: Marine Corps Veteran Woody Williams shares his story.
+- img: /img/homepage/hp-dna-550x360.jpg
+  alt: Image DNA.
+  title: Free genetic testing 
+  href: 'https://www.va.gov/opa/publications/factsheets/PHASER-FLYER-VA-Patient-FAQ.pdf'
+  description: FAQ’s about free genetic testing being offered by Sanford Health.
   
 - img: /img/homepage/hp-vantage.jpg
   alt: Graphic for the VAntage Point

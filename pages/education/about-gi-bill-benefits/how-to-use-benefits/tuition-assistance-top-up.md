@@ -5,8 +5,6 @@ title: Tuition Assistance Top-Up
 concurrence: incomplete
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 order: 14
-aliases:
-  - /education/gi-bill/tuition-assistance/
 ---
 
 <div class="va-introtext">
@@ -53,4 +51,4 @@ If you’re using the Montgomery GI Bill, you’ll get the difference between th
 
 ## Get more information
 
-[Read the Top-Up fact sheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/topup.pdf)
+[Read the Top-Up fact sheet (PDF)](https://www.benefits.va.gov/GIBILL/docs/factsheets/topup.pdf)

@@ -1,14 +1,13 @@
 ---
 layout: page-breadcrumbs.html
-title: Increased Disability Rating for Time Spent in a Hospital
-display_title: Increase for Time in Hospital
+title: Increased Disability Rating For Time Spent In A Hospital
+heading: Increased disability rating for time spent in a hospital
+display_title: Increase for time in hospital
 description: If you spent time in a VA or VA-approved hospital for a disability related to your military service, find out if you can get added disability pay. You may be able to get a temporary 100% disability rating for the time you sent in the hospital.
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-hospital_treatment.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 6
-aliases:
-  - /disability-benefits/conditions/special-claims/hospitalization/
 ---
 
 <div class="va-introtext">
@@ -32,18 +31,18 @@ You may be able to get disability benefits if one of the situations below descri
 Veterans
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Increased compensation (payments) for the time you spent in the hospital
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-**Note:** If you weren’t in a VA hospital, when filing your claim you’ll need to give us your hospital discharge summary showing the length and cause of your hospital stay. 
+**Note:** If you weren’t in a VA hospital, when filing your claim you’ll need to give us your hospital discharge summary showing the length and cause of your hospital stay.
 
 **Example:** A Veteran with a 40% service-connected disability rating for diabetes had to stay in a VA hospital after going into a diabetic coma. He needed to stay in the hospital for 25 days because of the coma and related infections. We raised his rating to 100% during his hospital stay. After he got out of the hospital, his disability rating went back to 40%.

@@ -1,18 +1,19 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Survivors Pension Rates
-display_title: Survivors Pension Rates
+title: VA Survivors Pension Benefit Rates
+heading: VA Survivors Pension benefit rates
+display_title: Survivors Pension rates
+description: Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+keywords: va survivor benefit rates, va survivors pension rate table, va widows pension rates
 concurrence:
 spoke: More resources
 order: 2
-aliases:
-  - /pension/survivors-pension/rates/
 ---
 
 <div class="va-introtext">
 
-If you qualify for survivors pension benefits, the amount you get will be based on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
+Learn about VA Survivors Pension benefit rates. If you qualify for this benefit as a surviving spouse or dependent child, we'll base your payment amount on the difference between your countable income and a limit that Congress sets (called the Maximum Annual Pension Rate, or MAPR).
 
 </div>
 
@@ -23,9 +24,9 @@ If you qualify for survivors pension benefits, the amount you get will be based 
 **Example:**
 You’re a qualified surviving spouse with 1 dependent child. You also qualify for Aid and Attendance benefits. Your yearly income is $10,000.
 
-Your MAPR amount = $16,837 <br>
+Your MAPR amount = $17,309 <br>
 Your yearly income = $10,000 <br>
-Your VA pension = $6,837 for the year (or $569 paid each month)
+Your VA pension = $7,309 for the year (or $609 paid each month)
 
 
 ## What's the net worth limit to qualify for a Survivors Pension?
@@ -46,12 +47,11 @@ If you transfer assets for less than fair market value during the look-back peri
 
 A penalty period is a length of time when a survivor isn’t eligible for pension benefits because they transferred assets for less than fair market value during the look-back period. We won’t pay pension benefits during a penalty period.
 
-
 ## Find your Maximum Annual Pension Rate (MAPR) amount
 
-*Date of Cost-of-Living Increase: December 1, 2018* <br>
-*Increase Factor: 2.8%* <br>
-*Standard Medicare Deduction: Actual amount will be determined by SSA based on individual income.*
+*Date of cost-of-living increase: December 1, 2018* <br>
+*Increase factor: 2.8%* <br>
+*Standard Medicare deduction: Actual amount will be determined by SSA based on individual income.*
 
 ### For qualified surviving spouses with at least 1 dependent:
 
@@ -87,7 +87,9 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 | --- | --- |
 | A qualified surviving child  | $2,313 |
 
-**Get historic rate charts from past years**
+## Historic VA Survivors Pension rate tables
+
+View VA Survivors Pension rate tables from past years: <br>
 [2017](https://www.benefits.va.gov/PENSION/rates_survivor_pen17.asp) |
 [2016](https://www.benefits.va.gov/PENSION/rates_survivor_pen16.asp) |
 [2014](https://www.benefits.va.gov/PENSION/rates_survivor_pen14.asp) |
@@ -108,14 +110,16 @@ A penalty period is a length of time when a survivor isn’t eligible for pensio
 
 <br>
 
-### Read the full regulations from Title 38 Code of Federal Regulations
+## Full Title 38 regulations
 
-[3.23 Improved Pension Rates – Veterans and Surviving Spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+Read the full regulations from Title 38 Code of Federal Regulations:
 
-[3.24 Improved Pension Rates – Surviving Children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.23 Improved pension rates—Veterans and surviving spouses](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
 
-[3.271 “Income” for VA Purposes (IVAP)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.24 Improved pension rates—surviving children](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_124)
 
-[3.272 Exclusions from Income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.271 “Income” for VA purposes (IVAP)](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1271)
 
-[3.272 Rate Computations](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_123)
+[3.272 Exclusions from income](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1272)
+
+[3.273 Rate computation](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1273)

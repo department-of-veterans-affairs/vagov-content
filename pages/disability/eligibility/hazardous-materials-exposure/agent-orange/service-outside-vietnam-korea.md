@@ -1,13 +1,12 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure While Serving outside Vietnam or Korea
+title: Agent Orange Exposure While Serving Outside Vietnam Or Korea
+heading: Agent Orange exposure while serving outside Vietnam or Korea
 display_title: Service outside Vietnam or Korea
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 8
-aliases:
-  - /disability-benefits/conditions/exposure-to-hazardous-materials/agent-orange/service-outside/
 ---
 
 <div class="va-introtext">
@@ -29,7 +28,7 @@ You may be able to get disability benefits if you have one or more illnesses bel
   - You had regular and repeated contact with a C-123 aircraft that had traces of Agent Orange, **or**
   - You took part in projects that tested, disposed of, or stored Agent Orange
 
-[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/).
+[See a list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 
 ### Who’s covered?
@@ -38,7 +37,7 @@ You may be able to get disability benefits if you have one or more illnesses bel
 - Qualified survivors
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -46,20 +45,20 @@ You may be able to get disability benefits if you have one or more illnesses bel
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you had contact with Agent Orange while serving in the military. If you were exposed outside of the areas listed, please give your location and timeframe of service so we can review your claim. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
 **Exception:**<br>
 If you’re a Blue Water Veteran with non-Hodgkin’s lymphoma, you don’t need to show that you had contact with Agent Orange. We recognize non-Hodgkin’s lymphoma as related to service in Vietnam or its offshore waters during the Vietnam Era. <br>
-[Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/).
+[Learn more about non-Hodgkin’s lymphoma and Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/non-hodgkins-lymphoma/)
 
-### What if I need help filing my claim?
+## What if I need help filing my claim?
 
 You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
-### Get more information
+## Get more information
 Want to know more about benefits for Veterans with illnesses believed to be caused by contact with Agent Orange? <br>
-[Learn more about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp).
+[Learn more about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp)
