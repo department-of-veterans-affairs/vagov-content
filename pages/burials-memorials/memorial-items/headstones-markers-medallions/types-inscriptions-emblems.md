@@ -39,11 +39,15 @@ Memorial items include:
 
 [See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
+## How do I apply for a memorial item? 
+
+[Apply for a headstone, marker, or medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+
 ## Headstones
 
 ### What is a headstone? 
 
-Headstones are pieces of upright stone that are specially carved and inscribed.
+A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ### What does a headstone look like?
 
@@ -208,14 +212,6 @@ Medallions are for Veterans who:
 
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
-### How can I get a medallion?
-
-[Find out if you're eligible for a medallion, and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
-[Learn about private cemetery burials.](/burials-memorials/burial-in-private-cemetery/)
-
-
-**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
-
 ### What types of medallions are available and what do they look like?
 
 ##### Bronze medallions
@@ -238,9 +234,6 @@ Medallions are for Veterans who:
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
 [See an example of a Medal of Honor medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
-<br>
-[Find out how to apply for a medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
-
 
 ### What happens after I apply for a medallion?
 
