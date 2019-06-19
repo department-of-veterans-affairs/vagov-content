@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program, you may be able to continue receiving payments at the rates under the old programs as well as a cost-of-living increase. We call these “protected rates.” Find out if you're eligible for protected rates under Section 306 of Public Law 95–588 or older laws.
+If you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program, you may be able to continue receiving payments at the rates under the old programs as well as a cost-of-living increase. We call these “protected rates.” Find out if you're eligible for protected rates under an older program.
 
 </div>
 
@@ -47,8 +47,9 @@ If you began receiving VA disability or death pension payments before December 3
 
 ### On this page
 - [How we determine if you're eligible for protected rates](#eligibility)
-- [Section 306 pension rates](#306-disability)
-- [Old law pension rates](#old-law)
+- [Section 306 protected pension rates](#306-disability)
+- [Old law protected pension rates](#old-law)
+- [Historic rates](#historic)
 
 <span id="eligibility"></span>
 ## How we determine if you're eligible for protected rates
@@ -56,13 +57,15 @@ If you began receiving VA disability or death pension payments before December 3
 To qualify for protected rates, your yearly income for 2018 must be at or below a certain amount. This is called the income limit. We count as income any money you earn in a year, including your salary, investment and retirement payments, and any income from your dependents. Some expenses, like non-reimbursable medical expenses (paid medical expenses not covered by your insurance provider), may reduce your countable income.
 
 **We base your income limit on:**
-- The specific pension benefit you're eligible to receive (including added amounts for Aid and Attendance or housebound allowance), **and**
+- The specific pension benefits you're eligible to receive (including added amounts for Aid and Attendance), **and**
 - Whether or not you have eligible dependents, **and**
 - Your yearly income 
 
 ### Eligible dependents
 
-Eligible dependents may include your spouse (including your spouse through a same-sex or common-law marriage). Dependents may also include your biological, step, or adopted children who are unmarried and meet at least one of the requirements listed below.
+Eligible dependents may include your spouse. We recognize same-sex and common-law marriages.
+
+Dependents may also include your biological, step, or adopted children who are unmarried and meet at least one of the requirements listed below.
 
 **At least one of these must be true for a dependent child. The child is unmarried and:**
 - Under 18 years old, **or**
@@ -71,7 +74,7 @@ Eligible dependents may include your spouse (including your spouse through a sam
 
 ------
 <span id="306-disability"></span>
-## Section 306 pension rates
+## Section 306 protected pension rates
 **Effective December 1, 2018**
 
 These pensions were available from July 1, 1960 through December 31, 1978. 
@@ -122,7 +125,7 @@ An annuity is a fixed sum of money paid to the plan's beneficiary each year. If 
 ------
 <span id="old-law"></span>
 
-## Old law pension rates
+## Old law protected pension rates
 **Effective December 1, 2018**
 
 These pension programs were available before July 1, 1960. 
@@ -169,3 +172,14 @@ If you're eligible for the protected rate for a specific pension benefit, we'll 
 An annuity is a fixed sum of money paid to the plan's beneficiary each year. 
 
 If you're the beneficiary of an old law death pension Survivor Benefit Plan (also called the “minimum income widow” provision), we'll pay you up to <strong>$9,078</strong> for the year. This includes a 2.8% cost-of-living increase for this year.
+
+------
+<span id="historic"></span>
+
+## Historic rates
+
+Review protected pension rates from past years:
+
+[Rates effective December, 2017](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen17.asp)
+[Rates effective December 1, 2016](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen16.asp)
+[Rates effective December 1, 2014, and earlier](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen14.asp)
