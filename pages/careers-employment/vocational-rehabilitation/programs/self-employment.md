@@ -117,3 +117,5 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 [See our list of external resources](/careers-employment/veteran-resources/)<br>
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
 [Contact your VR&E counselor for more information](/find-locations/)
+
+You may also want to consider registering with the Office of Small & Disadvantaged Business Utilization (OSDBU) to [get support for your Veteran-owned small business](/careers-employment/veteran-owned-business-support/).
