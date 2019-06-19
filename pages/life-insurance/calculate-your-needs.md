@@ -8,7 +8,25 @@ description:
 concurrence: 
 spoke: More Resources
 order: 1
-
+relatedlinks:
+  - heading: Other helpful information
+    links:
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: About VA life insurance
+      description: Learn about all the VA life insurance options, how to file claims, and how to manage your benefits.
+    - url: /life-insurance/totally-disabled-or-terminally-ill/
+      title: Benefits for totally disabled or terminally ill policyholders
+      description: Find out if you can get your insurance premium waived or receive your benefits early in certain situations.
+    - url: /life-insurance/options-eligibility/vmli/
+      title: Veterans Mortgage Life Insurance (VMLI)
+      description: If you have a severe service-connected disability that we’ve concluded was caused—or made worse—by your service, you may be able to get Veterans’ Mortgage Life Insurance (VMLI). In the event of your death, this mortgage protection insurance can help your family pay off the home mortgage on a home that’s been adapted to meet your needs.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-forms.asp
+      title: VA life insurance forms
+      description: Find and download the forms you need to apply for and manage your life insurance benefits.
+    - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
+      title: Contact us
+      description: Find out how to reach us to ask a question about your policy or to file a claim for benefits.
+      
 ---
 
 <div class="va-introtext">
@@ -71,6 +89,16 @@ Assets are the amount of property your survivors would need to have, or sell, to
 -	Retirement funds
 -	Employer survivor benefit plans
 -	And other kinds of assets
+
+## Use VA life insurance calculator
+
+Once you’ve gathered the lists of your debts/obligations, other sources of income, and assets, you’re ready to use our life insurance calculator. For each of the sections and line items below, enter the total amount you’ll need for your survivors, as well as what other income amounts your survivors may have. Each of the sections has helpful information, and in some cases a separate calculator, to help you figure out what to put in each field. Once you’ve filled out the whole calculator, it will tell you what additional life insurance amount you may need to help cover your family’s obligations, and to give them the income and standard of living you want them to have. </br>
+
+As you go through the form, enter the information in the boxes. If you need help understanding how to estimate a number, you can open the accordion under it for more background. </br>
+
+Remember, this life insurance needs calculator is a guide, and doesn’t include every financial situation that may apply to you. For more specific planning guidance, you should work with a financial planner. Note: We don’t save any of the information you enter, and it doesn’t go to VA. </br>
+
+[Use the life insurance planning calculator](https://www.benefits.va.gov/INSURANCE/introCalc.asp#what)
 
 
 
