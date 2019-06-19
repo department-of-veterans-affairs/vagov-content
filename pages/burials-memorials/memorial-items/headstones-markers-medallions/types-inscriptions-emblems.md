@@ -246,9 +246,9 @@ Once a request for a medallion is received and approved, we'll mail your medalli
 
 ### What is a pre-World War I headstone or marker?
 
-A pre-World War I headstone or marker is a memorial item used for the gravesite of a Civil War or Spanish American War Veteran. 
+A pre-World War I headstone or marker is a memorial item used for the gravesite of a Civil War or Spanish American War Veteran. The style and inscription of a pre-World War I headstone or marker is different from the style of a current headstone or marker.
 
-### What does a pre-World War I headstone look like and what types are available??
+### What does a pre-World War I headstone look like and what types are available?
 
 
 
@@ -261,7 +261,6 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 **Note:** If you're requesting a pre-World War I marble headstone, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
 
-
 ##### Granite
 
 - **Dimensions**: <br>
@@ -269,6 +268,42 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 - **Lettering:** Lettering is raised inside a recessed shield
 
 **Note:** If you're requesting a pre-World War I granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
+
+### What can be inscribed on a pre-World War I headstone or marker?
+
+Inscriptions for Union and Confederate soldiers are different. 
+
+**Note:** No emblem or belief or additional inscription can be included on either a Union or Confederate headstone or marker. 
+
+##### A Union inscription includes:
+- A shield with the Veteran's name inscribed inside, in an arched style
+- Abbreviated military organization
+- Dates of birth and death (inscribed below shield)
+
+##### A Confederate inscription includes:
+
+- A Southern Cross of Honor at the top
+- Veteran's name, in an arched style
+- Abbreviated military organization
+- Dates of birth and death
+
+
+### How do I apply for a pre-World War I headstone or marker? 
+
+To apply for a pre-World War I headstone or marker, you'll need to show proof of the Veteran's military service. 
+
+**To show proof of pre-World War I military service, you'll need to provide this information in your headstone or marker claim:**
+
+- Detailed primary documentation. Primary documentation may include Compiled Military Service Records (CMSR), details from official State files, Federal pension documents, or land warrants. 
+
+##### If you don't have detailed primary documentation, you can request it through [National Archives and Records Administration](https://www.archives.gov/)
+
+[Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
+
+The fee for requesting records varies between $25.00 and $75.00. Records ship between 60-90 days from the date of your request. 
+
+
+
 
 
 
