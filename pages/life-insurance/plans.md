@@ -97,14 +97,62 @@ This plan:
 
 This plan:
 
-- Available on all programs except those that start with "K"
-- Is a permanent plan. This means your preimum payments stay the same as you age.
+- Is available on all programs except those that start with "K"
+- Is a permanent plan. This means your premium payments stay the same as you age.
 - Costs less per month than an Ordinary Life policy
 - Has loan and cash value
+- Must be purcharsed before you turn 61 years old
+- "Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 65th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)" (I cannot decipher this--LW)
 
-Can only be purchased before the insured attains insurance age 61
-Affords a permanent plan of insurance at a premium that is lower than the Ordinary Life Plan premium
-Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 65th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)
-Policy earns loan and cash values
+## Modified Life at Age 70
+
+This plan:
+
+- Is available on all programs except those that start with "K"
+- Is a permanent plan. This means your premium payments stay the same as you age.
+- Costs less per month than an Ordinary Life policy
+- Has loan and cash value
+- Must be purcharsed before you turn 69 years old
+- "Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 70th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)" (I cannot decipher this--LW)
+
+## Special Ordinary Life
+
+If you have a Modified Life insurance policy, your policy values decreases by 50% (1/2) on your 65th or 70th birthday. When this happens, your life insurance policy automatically turns into a Special Ordinary plan. When this happens, your premium payments stay the same. 
+
+This plan:
+
+- Is available on all programs except those that start with "K"
+- Is a permanent plan. This means your premium payments stay the same as you age.
+- Requires that you make premium payments for your lifetime
+- Has loan and cash value
+
+## Ordinary Life
+
+This plan:
+
+- Is available on all programs
+- Requires that you make premium payments for your lifetime
+- Has loan and cash value
+- "Premiums remain constant" (I can't decipher this--LW)
+
+## 30 Payment Life
+
+This plan:
+
+- Is available on all programs
+- Has premiums that must be paid for 30 years
+- Has loan and cash value
+- Has slightly higher premium payments than an Ordinary Life policy
+
+
+
+## 20 Payment Life
+
+- Is available on all programs
+- Has premiums that must be paid for 20 years
+- Has loan and cash value
+- Has slightly higher premium payments than a a 30 Payment Life policy
+
+
 
 
