@@ -174,30 +174,26 @@ In most cases, you can apply for one of these memorial items if you're represent
 - Any person who is legally responsible for making arrangements for unclaimed remains or for details having to do with the deceased's interment or memorialization, **or**
 - Any individual representing the deceased, if the Veteran's service ended before April 6, 1917
 
-**You must be a member of the deceased's family to apply for a memorial item if any of the below descriptions is true for the deceased's remains. Their remains:**
+**You must be a member of the deceased's family to apply for a memorial item if any of the below descriptions is true. The deceased's remains:**
 
 - Haven't been recovered or identified, **or**
 - Were buried at sea, **or**
-- Were donated to science, **or*
+- Were donated to science, **or**
 - Were cremated and scattered
 
 ### How do I apply for a memorial item?
 
 #### Fill out an application
 
-##### For a headstone, grave marker, or niche marker
-
-Fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
+**For a headstone, grave marker, or niche marker,** fill out the Claim for Standard Government Headstone or Marker (VA Form 40-1330). <br>
 [Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
 **Note:** If this is your second request, or if you're requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp) because of a mistake with the inscription or a damaged headstone or marker, be sure to explain this in block 27 of the form.
 
-##### For a medallion to be placed on a privately purchased headstone or marker
-
-Fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
+**For a medallion to be placed on a privately purchased headstone or marker,** fill out the Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M). <br>
 [Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf)
 
-#### Then, send us your application and supporting documents
+#### Send us your application and supporting documents
 
 Mail or fax your form, along with a copy of the Veteran’s [DD214 or other discharge documents](https://www.cem.va.gov/CEM/hmm/discharge_documents.asp). Don’t send the originals since we can’t return them.
 
