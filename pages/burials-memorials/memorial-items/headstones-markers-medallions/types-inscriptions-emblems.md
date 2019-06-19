@@ -296,7 +296,7 @@ To apply for a pre-World War I headstone or marker, you'll need to show proof of
 
 - Detailed primary documentation. Primary documentation may include Compiled Military Service Records (CMSR), details from official State files, Federal pension documents, or land warrants. 
 
-##### If you don't have detailed primary documentation, you can request it through [National Archives and Records Administration](https://www.archives.gov/)
+###### If you don't have detailed primary documentation, you can request it through National Archives and Records Administration (NARA)
 
 [Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
 
