@@ -29,7 +29,7 @@ relatedlinks:
 Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
 </div>
 
-## What are the different types of memorial items?
+## What types of memorial items are there?
 
 Memorial items include:
 
@@ -41,7 +41,7 @@ Memorial items include:
 
 ## How do I apply for a memorial item? 
 
-[Apply for a headstone, marker, or medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Follow these instructions to apply for a headstone, marker, or medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 ## Headstones
 
