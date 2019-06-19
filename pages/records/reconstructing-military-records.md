@@ -20,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records.
+In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records to support a disability compensation claim.
 
 </div>
 
@@ -37,15 +37,17 @@ In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Mi
 
 </div>
 
-## How does the NPRC reconstruct my records destroyed in the fire?
+## Reconstructing your records
 
-If your records were destroyed in the fire, we'll need to submit a specific request to the NPRC for any additional service records they can find for you.
+### How does VA reconstruct my records?
 
-With the information we provide, the NPRC will search for documents that may help to reconstruct your records. For example, they'll try to reconstruct portions of your service treatment records by reviewing unit records, morning reports, and hospital admission records from the surgeon general's office.
+We submit a specific request to the NPRC for any additional service records they may have or can find for you.
 
-## If I'm filing a claim for disability compensation, how can I get the records I need to support my claim?
+With the information we provide, the NPRC searches for documents that may help to reconstruct your records. They may also reach out to other government agencies. For example, they may try to reconstruct portions of your service treatment records by reviewing unit records, morning reports, and hospital admission records from the surgeon general's office.
 
-Follow the steps below to reconstruct the records you need to support your [VA disability compensation claim](/disability/how-to-file-claim/).
+### How can the records I need to support my VA disability compensation claim?
+
+If you're filing a [VA disability compensation claim](/disability/how-to-file-claim/), follow the steps below to get the records you need.
 
 <ol class="process">
 <li class="process-step list-one">
@@ -54,7 +56,14 @@ Follow the steps below to reconstruct the records you need to support your [VA d
 
 You'll need to fill out a Request for Information Needed to Reconstruct Medical Data (NA Form 13055). We'll use this form as our request to the NPRC to reconstruct your records. 
 
-Please give us as much information as you can, including the units you were assigned to, as well as the name of the company, battalion, regiment, squadron, group, or wing.</br>
+**Please give us as much information as you can about your assignments during service, including any of the below that apply to you:**
+- Unit
+- Company
+- Battalion
+- Regiment
+- Squadron
+- Group
+- Wing <br>
 
 [Download NA Form 13055 (PDF)](https://www.archives.gov/files/st-louis/military-personnel/na-13055-info-2-reconstruct-medical-data.pdf)
 
@@ -68,12 +77,12 @@ We'll also look at other records or documents (called “supplemental records”
 
 **Please send us any of these documents you may have:**
 - Statements from service medical personnel
-- Certified “buddy” statements or affidavits from fellow service members
+- Certified “buddy” statements or affidavits from fellow service members who witnessed your injury or illness
 -	Military accident and police reports
 -	Examination reports related to employment or insurance
 -	Letters or photographs from your time in the service
--	Military prescription records
--	Photocopies of any service treatment records, or medical reports from any private hospitals, clinics, or doctors who treated you during service or shortly after separation
+-	Prescription records
+-	Photocopies of any service treatment records or medical reports from any private hospitals, clinics, or doctors who treated you during service or shortly after separation
 
 </li>
 
@@ -81,12 +90,11 @@ We'll also look at other records or documents (called “supplemental records”
   
 #### Submit your disability compensation claim, NA Form 13055, and any supporting documents 
 
-You can file your claim online, by mail, in person, or with the help of a trained professional. For claims involved the reconstruction of records, we encourage you to work with a professional, such as an accredited attorney, claims agent, or Veterans Service Officer (VSO).
+You can file your claim online, by mail, in person, or with the help of a trained professional. For claims involving the reconstruction of records, we encourage you to work with a professional, such as an accredited attorney, claims agent, or Veterans Service Officer (VSO).
 
-Make sure you include your [NA Form 13055 (PDF)](https://www.archives.gov/files/st-louis/military-personnel/na-13055-info-2-reconstruct-medical-data.pdf) and any supplemental material you have with your claim.
+Make sure to include your [NA Form 13055 (PDF)](https://www.archives.gov/files/st-louis/military-personnel/na-13055-info-2-reconstruct-medical-data.pdf) and any supplemental records or other documents you may have with your claim.
 
-<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
-[Learn how to file a disability claim by mail or in person](/disability/how-to-file-claim/)
+[Get instructions for filing a disability claim](/disability/how-to-file-claim/) <br>
 [Get help from a trained professional](/disability/get-help-filing-claim/)
 
 </li>
