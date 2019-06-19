@@ -45,8 +45,8 @@ relatedlinks:
 
 <div class="va-introtext">
 
-We offer other life insurance options aside from SGLI and VGLI. Learn about other VA life insurance options.
-Government Life Insurance is issued in a variety of insurance plans. Select a plan below to view a brief description of that plan. This information is for policy numbers beginning with K, V, RS, W, J. JR. JS and RH. Information for: Servicemembers' Group Life Insurance policies (SGLI) and Veterans' Group Life Insurance policies (VGLI).
+We offer other life insurance options aside from SGLI and VGLI. Learn about these other VA life insurance options.
+
 </div>
 
 **Note:** This page has information on policy numbers beginning with these letters:
