@@ -79,18 +79,17 @@ You may be eligible for this benefit if you're traveling for care at a VA health
 
 </div>
 
-### Can my caregivers, attendants, donors, or anyone else get travel reimbursement?
+### Can my caregiver or other support people also get travel reimbursement?
 
-We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions are true.
+We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions is true of that person.
 
-**One of these must be true:**
+**At least one of these must be true. The person is your:**
 
-- The non-Veteran is a caregiver under our [Comprehensive Program of Caregiver Assistance](/health-care/family-caregiver-benefits/comprehensive-assistance/), and is traveling in order to receive initial training as a potential caregiver or to care for a Veteran receiving VA or VA-approved health care
-- A VA health care provider determines that the Veteran needs an attendant while traveling due to the Veteran's mental or physical condition, **or**
-- The non-Veteran is the donor or potential donor of tissue, organ, or parts to a Veteran receiving VA or
-VA-authorized non-VA transplant health care, **or**
-- In the case of an allied beneficiary, the appropriate foreign government agency has authorized the beneficiary's travel and reimbursement, **or**
-- Another federal agency has authorized us to provide care to a beneficiary of that agency, **or**
+- Family caregiver under the National Caregiver Program traveling to receive caregiver training or to support your care, **or**
+- Medically required attendant traveling with you to support your care, **or**
+- Transplant care donor or support person
+
+We may also pay for care for an allied beneficiary when the appropriate foreign government agency has authorized their care, or for the beneficiary of another federal agency when that agency has approved their care.
 
 ------
 
@@ -100,7 +99,7 @@ VA-authorized non-VA transplant health care, **or**
 ### What travel expenses does VA travel pay reimburse?
 
 **We pay for your travel to receive care at a:**
-- **VA health care facility.** We reimburse you for travel to the closest VA health facility to your home that provides the care you need, unless your VA health care provider determines that you need to travel to another facility for care.
+- **VA health care facility.** We reimburse you for travel to the closest VA health facility to your home that can provide the care you need, unless your VA health care provider determines that you need to travel to another facility for care.
 - **Non-VA health care facility.** We only reimburse you for non-VA care that we've approved in advance, except in certain emergency situations.
 
 **This may include reimbursement for:**
@@ -116,9 +115,7 @@ VA-authorized non-VA transplant health care, **or**
 
 We currently pay **41.5 cents ($0.415)** per mile for approved, health-related travel. 
 
-**You should know that we:**
-- **Use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage,** based on the fastest and shortest route from your home to the health care facility ("door to door")
-- **Pay round-trip mileage for your scheduled appointments,** but may only pay return mileage for unscheduled visits
+We use [Bing Maps](https://www.bing.com/maps?FORM=LGCYVD) to calculate your mileage, based on the fastest and shortest route from your home to the health care facility ("door to door"). We pay round-trip mileage for your scheduled appointments, but may only pay return mileage for unscheduled visits.
 
 ### When, and how much, will VA pay for my meals and lodging?
 
@@ -133,17 +130,15 @@ Except in certain unusual cases, you can only get this reimbursement if we appro
 
 ### Will I have to pay a deductible before getting VA travel reimbursement?
 
-Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month.
+Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month. After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
 
-After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
-
-**Note** We charge this deductible because we're required by law to withhold certain amounts from travel reimbursement payments. The money we withhold helps to pay for travel or medical care for other Veterans.
+**Note:** We charge this deductible because we're required by law to withhold certain amounts from travel reimbursement payments. The money we withhold helps to pay for travel or medical care for other Veterans.
 
 ### Can I get this deductible waived so I don't have to pay it?
 
-We may waive this deductible for you if paying it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions are true for you.
+We may waive this deductible for you if paying it would result in a several financial hardship. You don’t need to pay the deductible if you're eligible for travel pay and any of the below descriptions is true for you.
 
-**One of these must be true. You're:**
+**At least one of these must be true. You're:**
 
 -	Receiving a [VA pension](/pension/veterans-pension-rates/), **or**
 -	Traveling for a scheduled [VA claim exam](/disability/va-claim-exam/), **or**
@@ -162,7 +157,7 @@ If we determine that you qualify for a waiver, we'll automatically waive your de
 
 ### How do I get VA travel pay for scheduled appointments?
 
-Follow the steps below to get paid back for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you become eligible.
+Follow the steps below to get reimbursed for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you become eligible.
 
 #### For each scheduled appointment
 
