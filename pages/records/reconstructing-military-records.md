@@ -4,7 +4,7 @@ template: detail-page
 title: Reconstruct Military Records Destroyed In NPRC Fire
 heading: Reconstruct military records destroyed in NPRC fire
 display_title: Reconstruct military records
-description: 
+description: Were your military records destroyed in the 1973 fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri? Find out how to reconstruct your records to support a VA disability compensation claim.
 keywords: nprc fire, military records center fire st louis, 1973 fire military records
 concurrence:
 spoke: Records
@@ -20,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records to support a disability compensation claim.
+In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records to support a VA disability compensation claim.
 
 </div>
 
