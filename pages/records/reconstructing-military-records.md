@@ -20,7 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records to support a VA disability compensation claim.
+In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Missouri, destroyed the records held for Veterans who were discharged from the Army and Air Force during certain periods of time. Find out if your records may have been destroyed in this fire, and how to reconstruct your records to support a VA disability compensation claim.
 
 </div>
 
@@ -30,10 +30,10 @@ In 1973, a fire at the National Personnel Records Center (NPRC) in St. Louis, Mi
 
 **Your records may have been destroyed in the fire if you were discharged from either:**
 
-- **The Army between November 1, 1912, and January 1, 1960.** The fire destroyed 80% of the records held for Veterans discharged from the Army during this time period. The fire didn't involve records for retirees and reservists who were alive on July 12, 1973.
+- **The Army between November 1, 1912, and January 1, 1960.** The fire destroyed 80% of the records held for Veterans discharged from the Army during this time period. The fire didn't involve records for retirees and Reservists who were alive on July 12, 1973.
 - **Or the Air Force between September 25, 1947, and January 1, 1964.** The fire destroyed 75% of the records held for Veterans discharged from the Air Force during this time period with surnames beginning with **“Hubbard”** and running through the end of the alphabet.
 
-[Learn more about the 1973 NPRC fire](https://www.archives.gov/personnel-records-center/fire-1973).
+[Learn more about the 1973 NPRC fire](https://www.archives.gov/personnel-records-center/fire-1973)
 
 </div>
 
@@ -45,7 +45,7 @@ We submit a specific request to the NPRC for any additional service records they
 
 With the information we provide, the NPRC searches for documents that may help to reconstruct your records. They may also reach out to other government agencies. For example, they may try to reconstruct portions of your service treatment records by reviewing unit records, morning reports, and hospital admission records from the surgeon general's office.
 
-### How can the records I need to support my VA disability compensation claim?
+### How can I get the records I need to support my VA disability compensation claim?
 
 If you're filing a [VA disability compensation claim](/disability/how-to-file-claim/), follow the steps below to get the records you need.
 
