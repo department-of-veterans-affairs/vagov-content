@@ -31,8 +31,7 @@ The family may choose to have readings by a friend or family member. They may al
 - A color guard
 - Uniformed service members who present the burial flag
 
-**Note:** If you requested a headstone, marker, or medallion, we’ll arrange for it to be delivered within 60 days. <br>
-[Learn about Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/)
+**Note:** If you requested a [headstone, marker, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/), we’ll arrange for it to be delivered within 60 days. <br>
 
 ## How can I pay my respects at a committal service?
 
