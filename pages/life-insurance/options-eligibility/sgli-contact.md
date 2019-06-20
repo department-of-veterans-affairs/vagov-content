@@ -119,7 +119,7 @@ Send your payment to:
 <br>
  <p class="va-address-block">
     U.S. Army Human Resources Command <br>
-    Special Compensation Branch/ SGLI<br>
+    Special Compensation Branch/SGLI<br>
     ATTN: AHRC-PDR-C<br>
     1600 Spearhead Division Ave Dept. 420 <br>
     Fort Knox, KY 40122-5402
@@ -155,14 +155,41 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
 
 Send your payment to:
 
-DFAS- Cleveland Center
-ATTN: SGLI Processing - Code ADBC
-1240 East 9th Street
-Cleveland, OH 44199-2056
+<br>
+ <p class="va-address-block">
+    DFAS Cleveland Center <br>
+    ATTN: SGLI Processing - Code ADBC<br>
+    1240 East 9th Street<br>
+    Cleveland, OH 44199-2056
+</p>
+<br>
 
-### To pay premiums online
+### To pay premiums online:
 
 If you're a sailor, you can pay your premiums online at <a href="https://www.pay.gov">www.pay.gov</a>.
 
+## Air Force SGLI Contact Information
+
+### For coverage status and questions about premium payments: 
+
+Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-7411</a> and select "2" for "military pay." 
+
+### To pay premiums by mail: 
+
+- Make your payment out to "U.S. Treasury"
+- Include "SGLI payment" in the description
+- Include your Social Security Number
+
+
+Send your payment to:
+
+<br>
+ <p class="va-address-block">
+    Disbursing Operation Directorate <br>
+    3801 Center Collections<br>
+    PO Box 269490<br>
+    Indianapolis, IN  46249
+</p>
+<br>
 
 
