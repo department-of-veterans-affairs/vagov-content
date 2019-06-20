@@ -148,10 +148,48 @@ This plan:
 
 ## 20 Payment Life
 
+This plan: 
+
 - Is available on all programs
 - Has premiums that must be paid for 20 years
 - Has loan and cash value
 - Has slightly higher premium payments than a a 30 Payment Life policy
+
+## 20 Year Endowment
+
+This plan: 
+
+- Is available on all programs
+- Has premiums that must be paid for 20 years
+- Face-value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
+- Has policy proceeds (payments to you) paid  in one lump sum in installments
+- Has loan and cash value
+
+## Endowment at Age 60
+
+This plan: 
+
+- Is available on all programs except those that start with "K"
+- Face-value of policy is paid to you on the policy anniversary date that is closest to your 60th birthday. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Has loan and cash value
+
+## Endowment at Age 65
+
+This plan: 
+
+- Is available on all programs except those that start with "K"
+- Face-value of policy is paid to you on the policy anniversary date that is closest to your 65th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Has loan and cash value
+
+## Endowment at Age 96
+
+This plan:
+
+- Is available only if you have a policy that begins with "K" **and** are over 65 years old **and** still have term plan life insurance
+- Is a regular endowment plan that matures when you turn 96 years old
+- Has premium payments that stay the same the entire time the policy is active
+- Doesn't give you permanent and total disability benefits. If you become disabled, you'll still need to make your premium payment.
+- "Provides a waiver of premiums provision to be purchased for an additional premium at the time the insurance was exchanged" (I can't decipher this -LW)
 
 
 
