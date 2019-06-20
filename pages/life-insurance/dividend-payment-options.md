@@ -29,7 +29,6 @@ relatedlinks
     - url: https://www.benefits.va.gov/INSURANCE/resources-contact.asp
       title: Contact us
       description: Find out how to reach us to ask a question about your policy or to file a claim for benefits.
-      
 ---
 
 <div class="va-introtext">
