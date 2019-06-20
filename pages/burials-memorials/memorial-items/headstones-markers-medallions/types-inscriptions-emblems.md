@@ -26,7 +26,7 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
+Find out about different types of memorial items, and learn about what types of inscriptions and emblems are available. 
 </div>
 
 ## What types of memorial items are there?
@@ -84,7 +84,7 @@ A marker is an piece of bronze, granite, or marble with an inscription that is p
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
-- **Additional details:** We don't provide you with a base, but we do provide anchor bolts, nuts, and washers for attaching a marker to its base
+- **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
 
 [See an example of a flat bronze marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
@@ -136,14 +136,14 @@ These people can request an emblem of belief for a Veteran:
 
 - Veteran's next-of-kin (NOK)
 - A person authorized by the Veteran's NOK
-- A persona authorized by the Veteran
+- A person authorized by the Veteran
 
 
 #### Can I request an emblem of belief that isn't included on the official list? 
 
 Yes. Follow the directions below to request an image that isn't included on the official list of emblems of belief. 
 
-**Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that takes away from the dignity of cemeteries that honor Veterans. No emblem request should contain abusive or sexually explicit language or images. 
+**Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that contains abusive or sexually explicit language or images. 
 
 <ol class="process">
 <li class="process-step list-one">
@@ -189,7 +189,7 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
 
 ### What is a medallion? 
 
-A medallion is an inscribed piece of bronze that can be attached to an existing, private purchased (non-VA) headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
+A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
 ### What does a medallion look like?
 
@@ -197,7 +197,7 @@ A medallion is an inscribed piece of bronze that can be attached to an existing,
 
 ### Why should I choose a medallion?
 
-If you have a privately purchased headstone or marker, a medallion is a good way to show Vetearn status. 
+If you have a privately purchased headstone or marker, a medallion shows Vetearn status. 
 
 Medallions are: 
 
@@ -300,7 +300,7 @@ To apply for a pre-World War I headstone or marker, you'll need to show proof of
 
 [Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records) Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
 
-The fee for requesting records varies between $25.00 and $75.00. Records ship between 60-90 days from the date of your request. 
+The fee for requesting records is between $25.00 and $75.00. Records ship 60-90 days from the date of your request. 
 
 
 
