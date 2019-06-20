@@ -28,61 +28,61 @@ relatedlinks:
 
 <div class="va-introtext">
   
-When you use your Post-9/11 GI Bill or Montgomery GI Bill-Active Duty benefits for school, your school must charge you only
-in-state tuition and fee rates. This law applies to all institutions of higher learning (IHL), like colleges and universities,
-for terms that began after July 1, 2017. Your IHL must do this for all “covered individuals.”
+To remain approved for the Post-9/11 GI Bill and Montgomery GI Bill-Active Duty, all public colleges and universities (also called institutions of higher learning) must charge in-state tuition and fees to all "covered individuals." This law applies for terms that began after July 1, 2017. Find out if you're a "covered individual," and what to do if your school charges you out-of-state rates.
 
-## How do I know whether I’m a covered individual?
+</div>
 
-You’re a covered individual, and your school must charge you only in-state rates for tuition and fees, if you are any **one**
-of the following. You:
--	Live in the state where your school is located (regardless of your formal state of residence), and you enroll in the school
-within 3 years of discharge from active-duty service of 90 days or more, **or**
--	Are using transferred benefits and you live in the state where the school is located (regardless of your formal state of
-residence), and you enroll in the school within 3 years of discharge from active-duty service of 90 days or more, **or**
-- Are in one of the two groups above, and have stayed continuously enrolled at the same school. You must have enrolled in the
-school before the end of the 3-year period after your discharge, and you must be getting educational benefits under either the
-Post-9/11 GI Bill or the Montgomery GI Bill-Active Duty program chapter 30 or chapter 33, of title 38, United States Code,
-**or**
--	Are using transferred Post-9/11 GI Bill benefits and live in the state where the school is located and you’re  a member of
-the uniformed service who’s serving on active duty.
--	Are using benefits under the Marine Gunnery Sergeant John David Fry Scholarship and live in the state where the school is 
-located (regardless of your formal state of residence)
+### Eligibility for in-state rates
 
-## I’m on active duty. Does the in-state rate apply to me?
+<div class="feature" markdown="1">
 
-No, the in-state provisions don’t apply if you’re still on active duty.
+### Am I a covered individual?
 
-## I’m a covered individual, but my school isn’t offering me in-state tuition and fees. What will happen?
+You’re a covered individual if you meet the requirements listed below.
 
-If a school isn’t offering in-state tuition and fees to you, and your term started after July 1, 2017, we won’t issue 
-payments to the school until it becomes fully compliant and offers you the correct rate. We require this so that you or 
-your family members won’t have to pay the higher out-of-state tuition rates.
+**At least one of these must be true. You:**
 
-## What else can affect whether I get the resident rate for tuition and fees?
+- Are an official resident of the state where you go to school, **or**
+- Live in the state where you go to school (even if it's not your official state of residence)
 
-Schools can legally have more requirements for you to meet to get the in-state tuition rate. You should contact your school 
-to learn more about their rules and requirements. Your school will review your situation and decide if you’ll be charged the
-resident rate. To learn more, find the [contact information for your school](https://inquiry.vba.va.gov/weamspub/searchInst.do) and search by state or territory.
+**And at least one of these must be true. You:**
 
-After your school has made a decision, and you believe that it incorrectly intends to charge or has charged you more than 
-the resident rate, you should [submit a complaint to the GI Bill Feedback System](https://www.benefits.va.gov/GIBILL/Feedback.asp). Please include details as to why you believe either you or your 
-beneficiary has been incorrectly charged out-of-state tuition. Our complaint team will review the case and take appropriate
-action. If you’ve overpaid, we’ll make sure the school refunds you the overpayment.
+- Served on active duty for at least 90 days and enrolled in the school within 3 years of discharge, **or**
+- Are using Post-9/11 GI Bill benefits transferred to you by a Veteran who served on active duty for at least 90 days, and you enrolled in the school within 3 years of the Veteran's discharge, **or**
+-	Are using Post-9/11 GI Bill benefits transferred to you by an active-duty service member, **or**
+-	Are using Marine Gunnery Sergeant John David Fry Scholarship benefits
 
-## I’m not sure I’m really a covered individual. Could I still qualify?
+**Note:** The school must continue to charge you in-state rates as long as you remain continuously enrolled. This means you stay enrolled in the same school without a break, except for regularly scheduled breaks between courses, semesters, or terms.
 
-Maybe. Some schools grant the resident rates to students with military connections, including current or former members of 
-the Armed Forces, or dependents of current or former members of the Armed Forces. In these cases, you can get this in-state
-tuition benefit whether or not you’re a covered individual.
+</div>
 
-[How to use your benefits](/education/about-gi-bill-benefits/how-to-use-benefits/)
+### I’m on active duty. Does this rule apply to me?
 
-### Can I change my education benefits?
+No. You're not considered a "covered individual" under this law while you're still on active duty.
 
-In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET).
+### Can my school add more requirements to qualify for the in-state rates?
 
-### [Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+Yes. Schools can legally include more requirements to qualify for the in-state tuition rate. Contact your school to learn more about their rules and requirements. <br>
+[Find the contact information for your school](https://inquiry.vba.va.gov/weamspub/searchInst.do)
 
-Find out if your school participates in the Yellow Ribbon program, which can help pay tuition costs that the Post-9/11 GI Bill
-doesn’t cover.
+
+## What to do if you don't qualify or your school charges you the out-of-state rate
+
+### What should I do if my school decides I don't meet their additional requirements for in-state rates?
+
+If you believe the school has or intends to incorrectly charge you more than the in-state rate, you can [submit a complaint through our GI Bill Feedback tool](https://www.benefits.va.gov/GIBILL/Feedback.asp). 
+
+Please tell us why you believe the charges are incorrect. Our complaint team will review the case and take any needed action. 
+
+### I’m a covered individual, but my school isn’t offering me in-state tuition and fees. What will happen?
+
+If a school isn’t offering in-state tuition and fees to you, or to other Veterans, we'll stop paying them until they begin to fully follow this rule. During this time, you won't be able to use your benefits to pay for courses at the school. If you have questions or concerns about this, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+
+### I don't meet the definition of a covered individual, and I'm not an official resident of the state where I go to school. Can I still qualify for in-state rates?
+
+It's possible. Some schools charge in-state rates to Veterans, service members, and their dependents even if they don't meet the definition of a covered individual. Contact your school to learn more about their rules and requirements. <br>
+[Find the contact information for your school](https://inquiry.vba.va.gov/weamspub/searchInst.do)
+
+### What if I have more questions?
+
+Please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
