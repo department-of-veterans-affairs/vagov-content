@@ -96,13 +96,13 @@ We pay this allowance to you at the end of each month. <br>
 
 ### Education books and supplies allowance
 
-You may be eligible for up to **$1,000** for each academic year for books and supplies. We base your payment on how many courses you're enrolled in for the year.
+You may be eligible for up to **$1,000** each academic year for books and supplies. We base your payment on how many courses you're enrolled in for the year.
 
 We pay this money to you at the beginning of each term.
 
-### Post-9/11 GI Bill rural grant
+### Monday to help you move if you live in a rural area
 
-If you need to relocate from a highly rural area so you can attend school, we pay pay a one-time payment of **$500** to help with your moving expenses. You may be eligible for this added payment if the below descriptions are true for you.
+If you need to relocate from a highly rural area so you can attend school, we may pay a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill Rural Grant. You may be eligible for this grant if the below descriptions are true for you.
 
 **This must be true:**
 
@@ -131,19 +131,21 @@ If you have questions about your payments, or would like to ask about changing y
 
 ### Monthly housing allowance
 
-Because you’ll be earning a salary during your apprenticeship or on-the-job training, we won’t pay for tuition or fees. Instead, we’ll pay for your monthly housing allowance based on where you are in your training program. The chart below shows the percentage of your MHA you’ll receive.
+Because you’ll be earning a salary during your apprenticeship or on-the-job training, we won’t pay for tuition or fees. Instead, we’ll give you money to help with housing while you're training. This is called your monthly housing allowance.
 
-| Training period | Monthly rate |
-| --- | --- |
-| First 6 months | 100% of your applicable MHA |
-| Second 6 months | 80% of your applicable MHA |
-| Third 6 months | 60% of your applicable MHA |
-| Fourth 6 months | 40% of your applicable MHA |
-| Remaining time in training | 20% of your applicable MHA |
+For the first 6 months of training, we'll pay you the full [monthly housing allowance rate](/education/benefit-rates/monthly-housing-allowance-rates/) that you're eligible to receive. We'll pay you a lower percentage of the full rate for every 6 months you continue training beyond this.
 
-### Monthly stipend for books and supplies
+| If you're at this point in your training... |  We'll pay this percentage of your monthly housing allowance |
+| --- | ---: |
+| First 6 months | 100% |
+| 7 to 12 months | 80% |
+| 13 to 18 months | 60% |
+| 19 to 24 months | 40% |
+| Remaining time after 24 months | 20% |
 
-We’ll also pay you up to **$1,000** each academic year for books and supplies. 
+### Money for books and supplies
+
+We’ll pay you up to **$1,000** each academic year for books and supplies. We pay this money to you at the beginning of each term.
 
 If you have questions about your payments, or would like to ask about changing your benefits, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
 
