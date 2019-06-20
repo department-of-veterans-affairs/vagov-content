@@ -97,9 +97,8 @@ hublinks:
         Memorial Certificates, and other memorial items to honor a Veteran's service.
       external: false
     - url: "/burials-memorials/dependency-indemnity-compensation/"
-      label: Compensation Benefits for Surviving Spouse and Dependents (VA DIC)
-      description: Learn about getting VA disability benefits for a surviving spouse
-        or a dependent child or parent.
+      label: VA Dependency and Indemnity Compensation (DIC)
+      description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit.
       external: false
     - url: "/burials-memorials/bereavement-counseling/"
       label: Bereavement Counseling
