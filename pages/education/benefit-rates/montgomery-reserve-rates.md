@@ -17,12 +17,7 @@ relatedlinks:
     - url: /gi-bill-comparison-tool/
       title: GI Bill Comparison Tool
       description: Learn about education programs and compare benefits by school.
-    - url: /education/types-of-education-benefits/
-      title: Compare all Veterans education benefits 
-      description: Learn about the different types of VA education benefits available to service members, Veterans, members of the National Guard or Reserves, and qualified survivors or dependents.
-    - url: https://www.benefits.va.gov/gibill/apply.asp
-      title: Apply for VA education benefits
-      description: You can easily apply for VA education benefits online, by mail, or in person. 
+
 ---
 
 <div class="va-introtext">
