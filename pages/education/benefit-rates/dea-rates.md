@@ -14,15 +14,7 @@ relatedlinks:
     - url: /education/survivor-dependent-benefits/fry-scholarship/
       title: Learn about the Fry Scholarship benefit 
       description: If your parent or spouse was an active-duty service member who died in the line of duty on or after September 11, 2001, you may qualify for the Marine Gunnery Sergeant John David Fry Scholarship.
-    - url: https://vagov-content-pr-375.herokuapp.com/education/benefit-rates/post-9-11-rates/
-      title: Learn about Fry Scholarship rates
-      description: See the current benefit rates for Post-9/11 GI Bill and for the Fry Scholarship
-    - url: /education/transfer-post-9-11-gi-bill-benefits/
-      title: Transfer your Post-9/11 GI Bill benefits to your dependents
-      description: You can easily apply for VA education benefits online, by mail, or in person. 
-    - url: https://explore.va.gov/spouses-dependents-survivors
-      title: Learn about all VA benefits for survivors and dependents
-      description: If you’re a family member or a dependent of a service member who died or was seriously injured in the line of duty, you may be eligible for many types of benefits. You can use these benefits to get an education or career training, or for additional income.  
+
 ---
 
 <div class="va-introtext">
