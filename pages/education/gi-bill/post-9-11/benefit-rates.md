@@ -54,6 +54,7 @@ We provide education benefits to qualifying Veterans and their family members. T
 things like books, tuition, and housing depends on which program you choose. On this page, you’ll learn about the
 rates we pay for different programs, including the Post-9/11 GI Bill, as well as for other education benefit programs. 
 You’ll be able to find out more details so you can pick the one that’s right for you.
+</div>
 
 ## More education information
 
@@ -73,5 +74,5 @@ You can easily apply for VA education benefits online, by mail, or in person.
 
 ### Can I change my education benefits?
 
-In some cases, yes. Call <a href="tel:+18884424551">888-GI-BILL-1</a> (888-442-4551), Monday through Friday, 8:00 a.m. to 
-7:00 p.m. (ET).
+In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 
+7:00 p.m. ET.
