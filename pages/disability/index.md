@@ -97,9 +97,8 @@ hublinks:
         how long it takes us to make a decision, and what to do if you disagree.
       external: false
     - url: "/burials-memorials/dependency-indemnity-compensation/"
-      label: Compensation Benefits for a Surviving Spouse and Dependents (VA DIC)
-      description: Learn about getting VA disability benefits as a surviving spouse,
-        dependent child, or parent.
+      label: VA Dependency and Indemnity Compensation (DIC)
+      description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit.
       external: false
   - id: manage
     title: Manage Your Veterans Disability Benefits
