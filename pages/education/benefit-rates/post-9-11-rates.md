@@ -21,50 +21,39 @@ relatedlinks:
 ---
 <div class="va-introtext">
   
-The Post-9/11 GI Bill pays for many types of education, including undergraduate and graduate degrees, vocational and 
-technical training, and more. The benefit levels range from 40% to 100%, and we pay benefits for 15 years after your 
-release from active duty.
+Review the pay rates for the Post-9/11 GI Bill and the Marine Gunnery Seargant John David Fry Scholarship for the 2019 academic year (August 1, 2019, to July 31, 2019). The Post 9-11 GI Bill and the Fry Scholarship offer the same benefit rates. Learn what your payments will cover, and how much of the benefit you may be eligible for.
 
-In addition, some dependents of service members may qualify for the Marine Gunnery Sergeant John David Fry Scholarship (Fry
-Scholarship), a separate benefit. The rates for the Fry Scholarship are the same as the rates for Post-9/11 GI Bill benefits.
+</div>
 
-On this page, you’ll learn the full pay rates for the Post-9/11 GI Bill and the Fry Scholarship for the **2019 academic year
-(August 1, 2019, to July 31, 2020)**. You’ll also learn what the payments cover, and how much of the benefit you may qualify
-for. 
+## Understand your percentage of benefits
 
-## Do I qualify for the Post-9/11 GI Bill? 
+### Will I get the full benefit rate?
 
-You qualify for the Post-9/11 GI Bill if both of these things are true. You:
-- Served at least 90 days of active-duty service after September 10, 2001, **and**
-- You’ve received an honorable discharge
+How much you get depends on how long you (or the eligible Veteran, if you're a survivor using the Fry Scholarship) served on active duty after September 10, 2001. You’ll receive **100% of the benefits** if one of the below descriptions is true for you. 
 
-To qualify for the full benefit, you must have served at least 3 years of active duty after September 10, 2001. 
-If you qualify for both the Active Duty GI Bill and the Reserve GI Bill, you’ll have the option to choose the benefit 
-that’s right for you.
+**At least one of these must be true. You served at least:**
 
-## Will I get the full benefit amount?
+- 36 months on active duty, **or**
+- 30 days on active duty all at once, without a break (called "continuous"), and were discharged due to service-connected disability
 
-How much you get depends on how long you served on active duty after September 10, 2001. You’ll receive **100% of the benefits** if one of the following is true. You:
+### What if I don't meet the requirements for full benefits?
 
-- Served at least 36 months on active duty, **or**
-- Served at least 30 continuous days on active duty and were discharged due to service-connected disability
+You can find the percentage of the benefit you can receive in the chart below, based on your length of service.
 
-If you served less than 36 months, you can find the percentage of the benefit you can receive in the chart below, 
-based on the time you served. 
-
-| If you served | You’ll get this much of the full benefit | 
+| If you served at least... | But less than... | You’ll get this much of the full benefit | 
 | --- | --- |
-| At least 30 months, but less than 36 months | 90% | 
-| At least 24 months, but less than 30 months | 80% | 
-| At least 18 months, but less than 24 months | 70% | 
-| At least 12 months, but less than 18 months | 60% |
-| At least 6 months, but less than 12 months | 50% |
-| At least 90 days, but less than 6 months | 40% |
+| 30 months | 36 months | 90% | 
+| 24 months | 30 months | 80% | 
+| 18 months | 24 months | 70% | 
+| 12 months | 18 months | 60% |
+| 6 months | 12 months | 50% |
+| 90 days | 6 months | 40% |
 
-## What’s this year’s Post-9/11 GI Bill pay rate for colleges and universities?
+## 2019-2020 academic year rates
 
-If you’re attending a college or university that grants degrees (also known as an institution of 
-higher learning), we’ll pay depending on the type of school you attend. The chart below shows this year’s pay benefit.
+### Rates for colleges and universities
+
+If you’re attending a college or university that grants degrees (also known as an institution of higher learning), your benefit amount will depend on the type of school you attend. The chart below shows this year’s pay benefit.
 
 | Type of school | Maximum tuition & fee payment for 2019 academic year |
 | --- | --- |
@@ -88,7 +77,7 @@ the school’s decision.
 
 [File a complaint](https://www.benefits.va.gov/GIBILL/Feedback.asp)
 
-## What’s the pay rate for non-college degree-granting schools?
+### Rates for non-college degree-granting schools
 
 If you attend a non-college degree school, you may be eligible for Post-9/11 GI Bill benefits. These schools can 
 include vocational and technical training like mechanic and repair programs, emergency medical technician (EMT) 
@@ -102,7 +91,7 @@ In addition, you may be eligible for other benefits. You may be able to get:
 - A one-time rural benefit for certain veterans
 See the information below for more details on these programs.
 
-## What’s the pay rate for apprenticeship or on-the-job training programs?
+### Rates for apprenticeship or on-the-job training programs
 
 Because you’ll be earning a salary during your apprenticeship or on-the-job training, we won’t pay for tuition or fees. 
 We’ll pay for your monthly housing allowance (MHA) based on where you are in your training program. The chart below shows 
@@ -118,7 +107,7 @@ the percentage of your MHA you’ll receive.
 
 We’ll also pay you up to $1,000 each academic year for books and supplies. 
 
-### Other types of training covered by the Post-9/11 GI Bill
+### Rates for other types of training covered by the Post-9/11 GI Bill
 
 We’ll also cover payment for other kinds of training programs. We cover:
 - **Vocational flight schools**. We’ll pay up to **$13,986.72** for the academic year. 
@@ -137,6 +126,7 @@ find out what’s approved before you take any tests.
 In addition to the payments for tuition and fees at your school, we offer housing benefits payable while you’re 
 studying. We offer a **monthly housing allowance**, also known as MHA. This benefit is similar to the basic allowance 
 for housing (BAH).
+
 Learn more about the VA education housing allowance rates
 
 ### Education books and supplies allowance
