@@ -81,9 +81,7 @@ Note that this will change August 1, 2020. In this example, 90 days of active se
 
 We pay all tuition and fees directly to your school or training program.
 
-**Note for out-of-state students:** If you live in the state where you're going to school, you can also ask your school if you may qualify for in-state tuition even if you have a different official state of residence. <br> [Find your school in our interactive map](https://inquiry.vba.va.gov/weamspub/searchInst.do) 
-
-If you disagree with what your school tells you, you can [file a complaint](https://www.benefits.va.gov/GIBILL/Feedback.asp) with us to see if we can help change the school’s decision. 
+**Note for out-of-state students:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
 
 ### Monthly housing allowance
 
