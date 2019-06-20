@@ -23,7 +23,7 @@ When you arrive at the cemetery, a cemetery representative will meet you and giv
 
 **Note:** Please be aware that viewing facilities aren't available at national cemeteries, and the family must arrange for funeral services at a different location. 
 
-The family may plan to have readings by a friend or family member. They may also choose to have [military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp) performed at the committal shelter. Arrange for military funeral honors through your funeral director or get help from a Veterans Service Organization or VA national cemetery staff.
+The family may choose to have readings by a friend or family member. They may also request to have [military funeral honors](https://www.cem.va.gov/CEM/military_funeral_honors.asp) performed at the committal shelter. Arrange for military funeral honors through your funeral director or get help from a Veterans Service Organization or VA national cemetery staff.
 
 **Military funeral honors include:**
 - The playing of “Taps”
