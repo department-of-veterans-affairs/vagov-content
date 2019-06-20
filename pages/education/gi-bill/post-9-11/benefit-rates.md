@@ -57,14 +57,9 @@ You’ll be able to find out more details so you can pick the one that’s right
 
 ## More education information
 
-### [GI Bill Comparison Tool](/gi-bill-comparison-tool/)
+### GI Bill Comparison Tool
 
 Learn about education programs and compare benefits by school.
-
-### [Compare all Veteran education benefits](/education/types-of-education-benefits/)
-
-Learn about the different types of VA education benefits available to service members, Veterans, members of the 
-National Guard or Reserves, and qualified survivors or dependents.
 
 ### [Veterans’ Educational Assistance Program (VEAP)](/education/other-va-education-benefits/veap/)
 
