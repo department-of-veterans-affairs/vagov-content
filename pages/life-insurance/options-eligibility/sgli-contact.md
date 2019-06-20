@@ -48,22 +48,36 @@ Email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX.HRC.MBX.TAG
 
 ##### By mail: 
 
-###### If you are a Troop Program Unit (TPU) Reservist or Guard member, and you need to make an SGLI premium payment on your Defense Joint Military Pay System - Reserve Component Master Military Pay Account (DJMS-RC MMPA), you can mail your payment to:
+**If you're making a payment by check or money order,** please make it out to "U.S. Treasury" and include "SGLI payment" in the description. 
+
+###### If you're a Troop Program Unit (TPU) Reservist or Guard member, and you need to make an SGLI premium payment on your Defense Joint Military Pay System - Reserve Component Master Military Pay Account (DJMS-RC MMPA), you can mail your payment to:
 <br>
  <p class="va-address-block">
     DFAS-IN Disbursing Operations<br>
-    Attn:  Collection Department 3292<br>
+    Attn: Collection Department 3292<br>
     8899 E. 56th Street<br>
     Indianapolis, IN 46249<br>
 </p>
 <br>
 
-**If you're paying by check or money order,** please make your payment out to to "U.S. Treasury" and include "SGLI payment" in the description. 
+**Note:** If you're a TPU Reservist or Guard member and you owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
 
-**Note:** If you're a TPU Reservist or Guard member and owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
+###### If you're a National Guard member and you're "attached" or are described as "Drilling for Points Only" and you need to make an SGLI payment:
+
+You'll need to contact the United States Property and Fiscal Office (USPFO) in your state. You should ask for your USPFO's Military Pay division. 
+
+You can send your check or money order to: 
+
+<br>
+ <p class="va-address-block">
+    [Your state name] USPFO <br>
+    Attn: Check Control Officer<br>
+    [Address of USPFO]<br>
+    [City, STATE] 46249<br>
+</p>
+<br>
 
 
-NOTE:  National Guard members that are "Attached" and "Drilling for Points Only" should reach out to the United States Property and Fiscal Office (USPFO) in their State. Each State, Territory and the District of Columbia has a USPFO and a Military Pay Section that they can contact directly. USPFO's can be easily found on the internet. Members should make a check out to the "US Treasury" for the amount of the premium due and send it to their USPFO, ATTN: Check Control Officer, at the address provided by their State.
 
 2.  For Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) Soldiers that are "Attached" and "Drilling for Points Only", HRC will send out individual billing notices.  Soldiers in this category are required to send their payments to the address below (which will be reflected in future HRC SGLI notices):
  
