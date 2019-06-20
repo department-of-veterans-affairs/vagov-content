@@ -90,15 +90,9 @@ Send your payment to:
 
 You'll need to contact the United States Property and Fiscal Office (USPFO) in your state. You should ask for your USPFO's Military Pay division. 
 
-Send your payment to: 
+Your USPFO will give you an address to send your premium payment to. 
 
-<br>
- <p class="va-address-block">
-    [Your state name] USPFO <br>
-    Attn: Check Control Officer<br>
-    [Address of USPFO]<br>
-    [City, STATE, Zip code] <br>
-</p>
+Send your payment to: 
 
 </div>
 </li>
