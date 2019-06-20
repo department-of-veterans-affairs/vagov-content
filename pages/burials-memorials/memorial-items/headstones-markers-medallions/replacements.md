@@ -5,8 +5,6 @@ title: Replacement headstones and markers
 display_title: Replacement headstones and markers
 description: Learn how to request a replacement headstone or gravemarker. 
 keywords: n/a
-collection: burials
-spoke: More resources
 order: 7
 relatedlinks:
   - heading: Other helpful information
