@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: SGLI Contact Information by Branch of Service
-heading: SGLI Contact Information by Branch of Service
-display_title: SGLI Contact Information by Branch of Service
-description: Find SGLI contact information by your branch of service. Find out how to make premium payments on your VA life insurance online, by phone, or by mail. 
+title: SGLI contact info for National Guard and Reserve
+heading: SGLI contact info for National Guard and Reserve
+display_title: SGLI contact info for National Guard and Reserve
+description: If you're a National Guard member or reservist drilling for points, find out how to contact your branch of service to ask questions about your Servicemembers Group Life Insurance (SGLI) policy and pay your premiums.
 keywords: n/a
 concurrence: 
 order: 1
@@ -21,7 +21,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to contact us about your Servicemembers Group Life Insurance (SGLI) policy. Each military branch of service has different SGLI contact information. Review SGLI contact information based on your branch of service out find out how to make premium payments on your VA life insurance online, by phone, or by mail. 
+If you're a National Guard member or reservist drilling for points, find out how to contact your branch of service to ask questions about your Servicemembers Group Life Insurance (SGLI) policy and pay your premiums.
 
 </div>
 
@@ -34,19 +34,6 @@ You should contact your branch of service about your SGLI policy if:
 - You want to make a premium payment
 
 In some cases, you can also make premium payments over the phone with a debit or credit card. 
-
-## What forms of payment are acceptable?
-
-**If you make a payment by mail, we only accept:**
-
-- Checks
-- Money orders
-- Cashier's checks
-
-**If you make a payment by phone or online, we only accept:** 
-
-- Debit
-- Credit
 
 ## Army SGLI contact information
 
@@ -224,7 +211,18 @@ Send your payment to:
     Topeka, KS 66683-3591
 </p>
 
+## What forms of payment are acceptable?
 
+**If you make a payment by mail, we only accept:**
+
+- Checks
+- Money orders
+- Cashier's checks
+
+**If you make a payment by phone or online, we only accept:** 
+
+- Debit
+- Credit
 
 
 
