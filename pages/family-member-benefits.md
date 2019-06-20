@@ -102,7 +102,7 @@ hublinks:
         label: Burial benefits and memorial items
         description: Get step-by-step guidance on how to plan a burial in a VA national cemetery, or in a state or tribal government Veterans cemetery. You can also apply for help paying for burial costs, request memorial items, and learn about bereavement (grief) counseling and transition support. <br> <b>For surviving spouse, surviving child, surviving parent</b>
       - url: /burials-memorials/dependency-indemnity-compensation/
-        label: Compensation for surviving spouse and dependents (DIC)
+        label: VA Dependency and Indemnity Compensation (DIC)
         description: If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, find out how to apply for this tax-free monetary benefit. <br> <b>For surviving spouse, surviving child, surviving parent</b>
   - id: "caregiver"
     title: More benefits and services for family members caring for a Veteran or service member
