@@ -103,7 +103,7 @@ All income limits in U.S. $
 | --- | ---: |
 | **Basic monthly payment** for Veteran with spouse or one or more dependent children | 20,692 |
 | **Special Aid and Attendance allowance,** if your income exceeds $20,732 | 21,245 |
-| **Hospital reduction rates for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | $21,245 | 
+| **Hospital reduction rates for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | 21,245 | 
 
 **Notes:**
 - **The hospital reduction rate** is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
