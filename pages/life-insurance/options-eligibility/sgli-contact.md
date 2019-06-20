@@ -196,7 +196,7 @@ Send your payment to:
 
 Call the Marine Forces Reserve Customer Service Center at <a href="tel:+180025550821">800-255-5082</a>. 
 
-**o pay premiums by mail:** 
+**To pay premiums by mail:** 
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
@@ -225,13 +225,13 @@ Send your payment to:
 Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
 
 **Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
-
+<br>
 **If you make a payment by phone, we only accept:** 
 
 - Debit
 - Credit
-
-### To pay premiums by mail: 
+<br>
+**To pay premiums by mail:**
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
