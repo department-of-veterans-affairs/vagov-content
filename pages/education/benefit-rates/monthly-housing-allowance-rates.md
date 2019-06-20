@@ -14,9 +14,6 @@ relatedlinks:
     - url: /gi-bill-comparison-tool/ 
       title: GI Bill Comparison Tool
       description: Learn about education programs and compare benefits by school.
-    - url: https://www.benefits.va.gov/gibill/apply.asp
-      title: Apply for VA education benefits
-      description: You can easily apply for VA education benefits online, by mail, or in person. 
     - url: /education/other-va-education-benefits/veap/
       title: Veterans’ Educational Assistance Program (VEAP)
       description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
