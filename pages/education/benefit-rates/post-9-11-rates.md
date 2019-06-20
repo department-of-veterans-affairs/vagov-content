@@ -138,7 +138,7 @@ find out what’s approved before you take any tests.
 In addition to the payments for tuition and fees at your school, we offer housing benefits payable while you’re 
 studying. We offer a **monthly housing allowance**, also known as MHA. This benefit is similar to the basic allowance 
 for housing (BAH).
-[Learn more about the VA education housing allowance rates]
+Learn more about the VA education housing allowance rates
 
 ### Education books and supplies allowance
 
