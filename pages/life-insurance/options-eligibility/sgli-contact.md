@@ -40,23 +40,21 @@ In some cases, you can also make premium payments over the phone with a debit or
 
 **If you're making a payment by phone or online**, you can use a debit or credit card.
 
-## Contact information by branch of service
+## Army
 
-### Army
-
-##### By phone: 
+#### By phone: 
 
 Call <a href="tel:+18882769472">888-276-9472</a> Monday - Friday, between the hours of 8:00 a.m. and 4:00 p.m. ET.
 
-##### By email: 
+#### By email: 
 
 Email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX.HRC.MBX.TAGD-SGLI@MAIL.MIL">USARMY.KNOX.HRC.MBX.TAGD-SGLI@MAIL.MIL</a>.
 
-##### By mail: 
+#### To make a payment by mail: 
 
 **If you're making a payment by check or money order,** please make it out to "U.S. Treasury" and include "SGLI payment" in the description. 
 
-###### If you're a Troop Program Unit (TPU) Reservist or Guard member, and you need to make an SGLI premium payment on your Defense Joint Military Pay System - Reserve Component Master Military Pay Account (DJMS-RC MMPA), you can mail your payment to:
+##### If you're a Troop Program Unit (TPU) Reservist or Guard member, and you need to make an SGLI premium payment on your Defense Joint Military Pay System - Reserve Component Master Military Pay Account (DJMS-RC MMPA), you can mail your payment to:
 <br>
  <p class="va-address-block">
     DFAS-IN Disbursing Operations<br>
@@ -68,7 +66,7 @@ Email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX.HRC.MBX.TAG
 
 **Note:** If you're a TPU Reservist or Guard member and you owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
 
-###### If you're a National Guard member and you're "attached" or are described as "Drilling for Points Only" and you need to make an SGLI payment:
+##### If you're a National Guard member and you're "attached" or are described as "Drilling for Points Only" and you need to make an SGLI payment:
 
 You'll need to contact the United States Property and Fiscal Office (USPFO) in your state. You should ask for your USPFO's Military Pay division. 
 
@@ -79,11 +77,11 @@ You can send your check or money order to:
     [Your state name] USPFO <br>
     Attn: Check Control Officer<br>
     [Address of USPFO]<br>
-    [City, STATE] 46249<br>
+    [City, STATE, Zip code] <br>
 </p>
 <br>
 
-###### If you're an Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) soldier and you're "Attached" or described as "Drilling for Points Only:"
+##### If you're an Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) soldier and you're "Attached" or described as "Drilling for Points Only:"
 
 Your Human Resources Command (HRC) will send you an individual billing notice for your SGLI policy. <br>
 
@@ -93,7 +91,7 @@ Your Human Resources Command (HRC) will send you an individual billing notice fo
 - HRC can't see information about your past SGLI payments if you're a TPU or National Guard service member 
 - HRC can't process payments for TPU service members. If you're a TPU service member, you'll need to contact your unit S1 or higher headquarters, sometimes called your US Army Reserve Command (USARC) 
 - HRC can't process payments for National Guard service members. If you're a National Guard service member, you'll need to contact your USPFO to make a payment. 
-- If you've received a DFAS Debt Notice or debt is reflected on your LES, you'll need to contact DFAS
+- If you've received a Defense Accounting Service (DFAS) Debt Notice or debt is reflected on your LES, you'll need to contact DFAS
 
 <br>
 
@@ -108,4 +106,24 @@ Your SGLI premium payments should be sent to:
     Fort Knox, KY 40122-5402
 </p>
 <br>
+
+## Navy
+
+#### By phone
+
+Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-7411</a> and select "2" for "military pay." 
+
+#### To make a payment by mail
+
+To pay premiums by mail, send check or money order to:
+
+DFAS- Cleveland Center
+ATTN: SGLI Processing - Code ADBC
+1240 East 9th Street
+Cleveland, OH 44199-2056
+
+Check or money order should be clearly marked “SGLI payment” and made out to U.S. Treasury.   Please include Social Security number on check.
+
+Sailors also have the option of paying online at www.pay.gov.
+
 
