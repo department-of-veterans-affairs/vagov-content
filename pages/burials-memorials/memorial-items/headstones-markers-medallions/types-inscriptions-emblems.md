@@ -4,9 +4,6 @@ template: detail-page
 title: Selecting types, inscriptions, emblems
 display_title: Selecting types, inscriptions, emblems
 description: Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
-keywords: n/a
-collection: burials
-spoke: Get benefits
 order: 6
 relatedlinks:
   - heading: Other helpful information
