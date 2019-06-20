@@ -49,10 +49,10 @@ You may be able to get disability benefits if one of the below descriptions is t
 **At least one of these must be true:**
 
 - You served in or near the Republic of Vietnam between January 9, 1962, and May 7, 1975, **or**
-- You have an illness believed to be caused by Agent Orange, and you came into contact with Agent Orange while serving in the military
+- You have an [illness believed to be caused by Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/), and you came into contact with Agent Orange while serving in the military
 
-[See the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)<br>
-[See what kinds of service may have put you in contact with Agent Orange](#kinds-of-service)
+[See what kinds of service may have put you in contact with Agent Orange](#kinds-of-service) <br>
+<a href="/shiplist-agent-orange.pdf">Check the list of ships that had contact with Agent Orange (PDF)</a>
 
 #### Who’s covered?
 
