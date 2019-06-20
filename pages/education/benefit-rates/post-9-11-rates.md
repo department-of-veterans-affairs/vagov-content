@@ -116,7 +116,6 @@ the percentage of your MHA you’ll receive.
 | Fourth 6 months of training | 40% of your applicable MHA |
 | Remaining pursuit of training | 20% of your applicable MHA |
 
-[Learn more about the monthly housing allowance](/education/gi-bill/post-9-11/MHA-benefits/)
 We’ll also pay you up to $1,000 each academic year for books and supplies. 
 
 ### Other types of training covered by the Post-9/11 GI Bill
