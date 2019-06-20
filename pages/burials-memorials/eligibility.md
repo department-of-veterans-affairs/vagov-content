@@ -13,15 +13,15 @@ relatedlinks:
   - heading: VA benefits for survivors
     links:
     - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for surviving spouse and dependents (VA DIC)
+      title: VA dependency and indemnity compensation (DIC)
       description: Learn about getting VA disability benefits for a surviving spouse or a dependent child or parent.
     - url: /burials-memorials/veterans-burial-allowance/
       title: How to apply for a Veterans burial allowance
       description: Learn how to apply for a burial allowance to help pay for a Veteran's funeral services, burial, and transportation costs.
-    - url: /survivors-pension/
+    - url: /pension/survivors-pension/
       title: VA Survivors Pension
       description: Find out if you’re eligible and how to apply for VA pension benefits as a surviving spouse or child of a deceased Veteran with wartime service.
-    - url: /health-care/family-caregiver-benefits/
+    - url: /health-care/family-caregiver-benefits/ 
       title: Health care for spouses, dependents, and family caregivers
       description: See if you qualify for VA medical benefits as a spouse, surviving spouse, dependent child, or caregiver.
     - url: /education/survivor-dependent-benefits/
