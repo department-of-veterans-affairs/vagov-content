@@ -8,7 +8,7 @@ description:
 concurrence: 
 spoke: More resources
 order: 4 
-relatedlinks
+relatedlinks:
   - heading: Other helpful information
     links:
     - url: /life-insurance/totally-disabled-or-terminally-ill/
