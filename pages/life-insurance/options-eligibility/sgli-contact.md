@@ -76,7 +76,6 @@ Send your payment to:
     8899 E. 56th Street<br>
     Indianapolis, IN 46249<br>
 </p>
-<br>
 
 **Note:** If you're a TPU Reservist or Guard member and you owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
 
@@ -87,7 +86,6 @@ Send your payment to:
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="ng-attached">If you're a National Guard member and you're "attached" or are described as "Drilling for Points Only" and you need to make an SGLI payment</button>
 <div id="ng-attached" class="usa-accordion-content">
-
 
 You'll need to contact the United States Property and Fiscal Office (USPFO) in your state. You should ask for your USPFO's Military Pay division. 
 
@@ -100,8 +98,6 @@ Send your payment to:
     [Address of USPFO]<br>
     [City, STATE, Zip code] <br>
 </p>
-<br>
-
 
 </div>
 </li>
@@ -124,7 +120,6 @@ Send your payment to:
     1600 Spearhead Division Ave Dept. 420 <br>
     Fort Knox, KY 40122-5402
 </p>
-<br>
 
 **Note: If this situation describes you, you should know that:** <br>
 
@@ -185,7 +180,6 @@ Send your payment to:
     PO Box 269490<br>
     Indianapolis, IN  46249
 </p>
-<br>
 
 ## Marine Corps SGLI contact information
 
@@ -208,8 +202,6 @@ Send your payment to:
     2000 Opelousas Ave<br>
     New Orleans, LA  70146
 </p>
-<br>
-
 
 ## Coast Guard SGLI contact info
 
@@ -236,7 +228,6 @@ Send your payment to:
     444 SE Quincy Street <br>
     Topeka, KS 66683-3591
 </p>
-<br>
 
 
 
