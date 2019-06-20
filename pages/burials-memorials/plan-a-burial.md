@@ -12,14 +12,14 @@ relatedlinks:
   - heading: Other helpful information
     links:
     - url: /burials-memorials/what-to-expect-at-military-funeral/
-      title: What to expect at a military funeral
+      title: Military funeral honors and the committal service
       description: Find out what will happen to help you prepare for this day.
     - url: /burials-memorials/veterans-burial-allowance/
       title: How to apply for a Veterans burial allowance
       description: Learn how to apply for help paying for a Veteran's burial and funeral costs.
     - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for surviving spouses and dependents
-      description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
+      title: VA dependency and indemnity compensation (DIC)
+      description: Find out if you can get this tax-free monetary benefit.
 ---
 
 <div class="va-introtext">
