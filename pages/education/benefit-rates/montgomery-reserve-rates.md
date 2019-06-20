@@ -59,7 +59,7 @@ full-time for a period. If you’re participating in this program, your monthly 
 
 **Flight payments.** We’ll pay **60%** of the approved charges.
 
-### [Can I use the $600 Buy-Up program?](education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
+### Can I use the $600 Buy-Up program?
 If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly payments. Learn how it works, and what the current rates are.
 
 ### I still have questions about my benefits.
