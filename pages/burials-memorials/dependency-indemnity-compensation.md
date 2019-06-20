@@ -53,7 +53,7 @@ You may be able to get compensation as a surviving spouse if you meet the requir
 **If the Veteran's eligibility was due to a rating of totally disabling, they must have had this rating:**
 - For at least 10 years before their death, **or**
 - Since their release from active duty and for at least 5 years immediately before their death, **or**
-- For at least 1 year before their death if they were a former Prisoner of War who died after September 30, 1999
+- For at least 1 year before their death if they were a former prisoner of war who died after September 30, 1999
 
 **Note:** “Totally disabling” means the Veteran’s injuries made it impossible for them to work.
 
@@ -80,7 +80,7 @@ You may be able to get compensation as a surviving child if you meet the require
 **If the Veteran's eligibility was due to a service-connected disability rated as totally disabling, they must have had this rating:**
 - For at least 10 years before their death, **or**
 - Since their release from active duty and for at least 5 years immediately before their death, **or**
-- For at least 1 year before their death if they were a former Prisoner of War (POW) who died after September 30, 1999
+- For at least 1 year before their death if they were a former prisoner of war (POW) who died after September 30, 1999
 
 **Note:** “Totally disabling” means the Veteran’s injuries make it impossible for them to work.
 </div>
@@ -119,21 +119,21 @@ Tax-free monthly payments
 First you’ll need to fill out an application for benefits. The application you fill out will depend on your survivor status.
 
 **If you're the surviving spouse or child of a service member who died while on active duty,** your Military Casualty Assistance Officer will help you to complete an Application for DIC, Death Pension, and/or Accrued Benefits by a Surviving Spouse or Child (VA Form 21P-534a). The officer will help you mail the form to the correct VA regional benefit office.<br>
-[Download VA Form 21P-534a](https://www.vba.va.gov/pubs/forms/VBA-21P-534a-ARE.pdf).
+[Download VA Form 21P-534a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-534a-ARE.pdf)
 
 **If you’re the surviving spouse or child of a Veteran,** fill out an Application for DIC, Death Pension, and/or Accrued Benefits (VA Form 21P-534EZ). <br>
-[Download VA Form 21P-534EZ](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf).
+[Download VA Form 21P-534EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
 
 **If you’re a surviving parent,** fill out an Application for Dependency and Indemnity Compensation by Parent(s) (VA Form 21P-535). <br>
-[Download VA Form 21P-535](https://www.vba.va.gov/pubs/forms/VBA-21P-535-ARE.pdf).
+[Download VA Form 21P-535 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-535-ARE.pdf)
 
 #### You can apply for this benefit in any of these ways:
 
 - Mail the form to the Pension Management Center (PMC) for your state. <br>
-[Find your PMC](/pension/pension-management-centers/).
+[Find your PMC](/pension/pension-management-centers/)
 
 - Work with an accredited representative. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/).
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 - Go to a VA regional benefit office and get help from a VA employee. <br>
-[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits).
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
