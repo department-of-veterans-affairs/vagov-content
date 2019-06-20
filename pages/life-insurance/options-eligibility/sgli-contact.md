@@ -48,6 +48,43 @@ Email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX.HRC.MBX.TAG
 
 ##### By mail: 
 
+###### If you are a Troop Program Unit (TPU) Reservist or Guard member, and you need to make an SGLI premium payment on your Defense Joint Military Pay System - Reserve Component Master Military Pay Account (DJMS-RC MMPA), you can mail your payment to:
+<br>
+ <p class="va-address-block">
+    DFAS-IN Disbursing Operations<br>
+    Attn:  Collection Department 3292<br>
+    8899 E. 56th Street<br>
+    Indianapolis, IN 46249<br>
+</p>
+<br>
+
+**If you're paying by check or money order,** please make your payment out to to "U.S. Treasury" and include "SGLI payment" in the description. 
+
+**Note:** If you're a TPU Reservist or Guard member and owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
+
+
+NOTE:  National Guard members that are "Attached" and "Drilling for Points Only" should reach out to the United States Property and Fiscal Office (USPFO) in their State. Each State, Territory and the District of Columbia has a USPFO and a Military Pay Section that they can contact directly. USPFO's can be easily found on the internet. Members should make a check out to the "US Treasury" for the amount of the premium due and send it to their USPFO, ATTN: Check Control Officer, at the address provided by their State.
+
+2.  For Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) Soldiers that are "Attached" and "Drilling for Points Only", HRC will send out individual billing notices.  Soldiers in this category are required to send their payments to the address below (which will be reflected in future HRC SGLI notices):
+ 
+U.S. Army Human Resources Command 
+Special Compensation Branch/ SGLI
+ATTN: AHRC-PDR-C 
+1600 Spearhead Division Ave Dept. 420 
+Fort Knox, KY 40122-5402
+
+Forms of acceptable payment is limited to a Personal Check (includes Cashier's Check) or Money Order and be made payable to "Collection Agent, DSSN 5570".  It should be clearly marked "SGLI payment" and contain Soldier's full Social Security number.
+
+HRC SGLI Notes:
+
+HRC does not have visibility of SGLI records/information for TPU or NG Soldiers that will permit the tracking/posting of SGLI payments.
+
+HRC cannot process payments for Reserve Troop Program Unit (TPU) Soldiers. They must contact their unit S1 or higher headquarters (US Army Reserve Command (USARC). 
+
+HRC cannot process payments for the National Guard (NG).  They must contact the United States Property and Fiscal Office (USPFO) for the state in which they serve.
+
+Soldiers that have received a DFAS Debt Notice or Debt is reflected on their LES, must contact DFAS for resolution of debt.  
+
 
 
 
