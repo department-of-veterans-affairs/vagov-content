@@ -31,6 +31,7 @@ You should contact your branch of service about your SGLI policy if:
 
 - You want to know more about your coverage status
 - You have a question about your premium payment
+- You want to make a premium payment
 
 In some cases, you can also make premium payments over the phone with a debit or credit card. 
 
