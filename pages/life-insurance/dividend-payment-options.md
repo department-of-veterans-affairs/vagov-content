@@ -24,3 +24,7 @@ You may change your option any time by calling us at 800-669-8477. </br>
 
 | Dividend option | How it works |
 | --- | --- |
+| Use the dividend to pay your annual premium | This dividend option automatically applies your annual dividend toward your annual policy premium. If your dividend is less than your annual premium, you’ll receive a bill for the difference. If your dividend exceeds your policy's annual premium, you have three options. You can use the extra money to:
+-	Be paid to you in cash, **or**
+-	Buy paid-up additional insurance (see next item below), **or**
+-	Pay a policy loan or lien if you have one |
