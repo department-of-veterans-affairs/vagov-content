@@ -62,10 +62,6 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 **Note:** This page has information on policy numbers beginning with these letters:
 - K, V, RS, W, J, JR, JS, RH
 
-
-[Find out more about Servicemembers Group Life Insurance (SGLI)](https://www.va.gov/life-insurance/options-eligibility/sgli/)<br>
-[Find out more about Veterans Group Life Insurance](https://www.va.gov/life-insurance/options-eligibility/vgli/)
-
 <h3>On this page</h3>
 
 - [5 Year Level Premium Term](#5-year-level-premium-term)
