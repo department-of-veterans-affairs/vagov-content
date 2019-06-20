@@ -11,19 +11,19 @@ relatedlinks:
   - heading: Other helpful information
     links:
     - url: /burials-memorials/veterans-burial-allowance/
-      title: How to apply for a burial allowance
+      title: How to apply for a Veterans burial allowance
       description: Find out if you can get paid back for funeral and other burial costs.
     - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for survivors and dependents
+      title: VA dependency and indemnity compensation (DIC)
       description: Find out if you can get tax-free monetary benefits.
     - url: /burials-memorials/plan-a-burial/
       title: Scheduling a burial
       description: Find out the steps you’ll need to take to arrange for a service member, Veteran, or eligible family member’s burial.
     - url: /burials-memorials/what-to-expect-at-military-funeral/
-      title: What to expect at a memorial service
+      title: Military funeral honors and the committal service
       description: Find out what will happen to help you prepare for this day.
     - url: /pension/survivors-pension/
-      title: How to apply for a survivors pension
+      title: VA Survivors Pension
       description: If you’re an unmarried surviving spouse or an unmarried child of a deceased Veteran with wartime service, find out if you can get monthly payments.
 ---
 
@@ -32,8 +32,6 @@ relatedlinks:
 If you’re the surviving spouse, child, or parent of a service member who died while serving their country, you may qualify for bereavement counseling through VA. Bereavement counseling (also sometimes called "grief counseling") provides assistance and support for people going through emotional and psychological stress after the death of a loved one.
 
 </div>
-
-<br>
 
 <div class="feature" markdown=“1”>
 
@@ -46,7 +44,6 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 
 </div>
 
-<br>
 
 ## What kinds of benefits can I get with bereavement counseling?
 
