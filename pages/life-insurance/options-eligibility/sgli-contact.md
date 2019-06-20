@@ -215,7 +215,9 @@ Send your payment to:
 
 ### For coverage status and questions about premium payments: 
 
-Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>. 
+Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
+
+**Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
 
 ### To pay premiums by mail: 
 
