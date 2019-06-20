@@ -8,11 +8,6 @@ plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 collection: education
 spoke: Get benefits
 order: 2
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 gibsAlert: false
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -151,7 +146,23 @@ If you have a service-connected disability that limits your ability to work or p
 
 </div><div markdown="0"><br></div>
 
-<div id="react-applicationStatus" data-widget-type="education-app-status" class="static-page-widget"></div>
+<div data-widget-type="education-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 [Learn more about how to apply for education benefits](/education/how-to-apply/)
 
