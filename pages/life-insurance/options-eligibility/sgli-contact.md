@@ -35,19 +35,27 @@ You should contact your branch of service about your SGLI policy if:
 
 In some cases, you can also make premium payments over the phone with a debit or credit card. 
 
-## Army SGLI contact information
+## Contact information by branch of service
 
-### For coverage status and questions about premium payments: 
+### Army SGLI contact information
+
+**For coverage status and questions about premium payments:**
 
 You can call <a href="tel:+18882769472">888-276-9472</a> Monday - Friday, between the hours of 8:00 a.m. and 4:00 p.m. ET.
 <br>
 Or, you can email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX.HRC.MBX.TAGD-SGLI@MAIL.MIL">USARMY.KNOX.HRC.MBX.TAGD-SGLI@MAIL.MIL</a>.
 
-### To pay premiums by mail: 
+**To pay premiums by mail:**
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
 - Include your Social Security Number
+
+**Acceptable forms of payment include:**
+
+- Personal check
+- Cashier's check
+- Money order
 
 
 <ul class="usa-accordion">
@@ -66,6 +74,8 @@ Send your payment to:
 </p>
 
 **Note:** If you're a TPU Reservist or Guard member and you owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
+
+
 
 </div>
 </li>
@@ -114,18 +124,24 @@ Send your payment to:
 </div>
 </li>
 
-## Navy SGLI contact information
+### Navy SGLI contact information
 
-### For coverage status and questions about premium payments: 
+**For coverage status and questions about premium payments:** 
 
 Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-7411</a> and select "2" for "military pay." 
 
 
-### To pay premiums by mail: 
+**To pay premiums by mail:**
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
 - Include your Social Security Number
+
+**Acceptable forms of payment include:**
+
+- Personal check
+- Cashier's check
+- Money order
 
 Send your payment to:
 
@@ -137,21 +153,32 @@ Send your payment to:
     Cleveland, OH 44199-2056
 </p>
 
-### To pay premiums online:
+**To pay premiums online:**
 
 If you're a sailor, you can pay your premiums online at <a href="https://www.pay.gov">www.pay.gov</a>.
 
-## Air Force SGLI contact information
+**If you make a payment online, we only accept:** 
 
-### For coverage status and questions about premium payments: 
+- Debit
+- Credit
+
+### Air Force SGLI contact information
+
+**For coverage status and questions about premium payments:** 
 
 Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-7411</a> and select "2" for "military pay." 
 
-### To pay premiums by mail: 
+**To pay premiums by mail:**
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
 - Include your Social Security Number
+
+**Acceptable forms of payment include:**
+
+- Personal check
+- Cashier's check
+- Money order
 
 Send your payment to:
 
@@ -163,17 +190,23 @@ Send your payment to:
     Indianapolis, IN  46249
 </p>
 
-## Marine Corps SGLI contact information
+### Marine Corps SGLI contact information
 
-### For coverage status and questions about premium payments: 
+**For coverage status and questions about premium payments:**
 
 Call the Marine Forces Reserve Customer Service Center at <a href="tel:+180025550821">800-255-5082</a>. 
 
-### To pay premiums by mail: 
+**o pay premiums by mail:** 
 
 - Make your payment out to "U.S. Treasury"
 - Include "SGLI payment" in the description
 - Include your Social Security Number
+
+**Acceptable forms of payment include:**
+
+- Personal check
+- Cashier's check
+- Money order
 
 Send your payment to:
 
@@ -185,13 +218,18 @@ Send your payment to:
     New Orleans, LA  70146
 </p>
 
-## Coast Guard SGLI contact info
+### Coast Guard SGLI contact info
 
-### For coverage status and questions about premium payments: 
+**For coverage status and questions about premium payments:**
 
 Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
 
 **Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
+
+**If you make a payment by phone, we only accept:** 
+
+- Debit
+- Credit
 
 ### To pay premiums by mail: 
 
@@ -199,6 +237,12 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 - Include "SGLI payment" in the description
 - Include your name and Employee ID number
 - Include your Social Security Number
+
+**Acceptable forms of payment include:**
+
+- Personal check
+- Cashier's check
+- Money order
 
 Send your payment to:
 
@@ -211,18 +255,7 @@ Send your payment to:
     Topeka, KS 66683-3591
 </p>
 
-## What forms of payment are acceptable?
 
-**If you make a payment by mail, we only accept:**
-
-- Checks
-- Money orders
-- Cashier's checks
-
-**If you make a payment by phone or online, we only accept:** 
-
-- Debit
-- Credit
 
 
 
