@@ -66,7 +66,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ### What is a marker? 
 
-A marker is an piece of bronze, granite, or marble with an inscription that is placed flat on the ground or mounted on a wall. 
+A marker is a piece of bronze, granite, or marble with an inscription that is placed flat on the ground or mounted on a wall. 
 
 [See what each marker type looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
