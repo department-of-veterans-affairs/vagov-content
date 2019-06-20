@@ -1,19 +1,30 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Dependency and Indemnity Compensation (DIC)
+title: VA Dependency And Indemnity Compensation (DIC)
 heading: VA Dependency and Indemnity Compensation (DIC)
 display_title: Dependency and Indemnity Compensation (DIC)
-description: Find out how to apply for VA Dependent and Indemnity Compensation (VA DIC). These VA benefits for spouses, children, and parents of Veterans and service members who died in the line of duty or from a service-related injury or illness give a tax-free monthly payment to eligible survivors.
+description: VA Dependency and Indemnity Compensation (DIC) provides tax-free monthly payments to the eligible surviving spouse, children, and parents of service members who died in the line of duty and Veterans who died from a service-related injury or illness. Find out if you're eligible and how to apply.
 order: 5
 collection: burials
 spoke: Get benefits
-
+relatedlinks:
+  - heading: More helpful information
+    links:
+      - url: /burials-memorials/survivor-dic-rates/
+        title: VA DIC surviving spouse and child benefit rates
+        description: View current VA Dependency and Indemnity Compensation (DIC) rates for surviving spouses and dependent children.
+      - url: /burials-memorials/parent-dic-rates/
+        title: VA DIC surviving parent benefit rates
+        description: View current VA Dependency and Indemnity Compensation (DIC) rates for surviving parents. 
+      - url: /family-member-benefits/
+        title: More VA benefits for survivors and other family members
+        description: Learn about other VA benefits you may be eligible for as a surviving spouse, child, or parent.
 ---
 
 <div class="va-introtext">
 
-VA Dependency and Indemnity Compensation (DIC) provides tax-free monthly payments to the eligible surviving spouse, dependent children, and dependent parents of service members who died in the line of duty and Veterans who died from a service-related injury or illness. Find out if you're eligible for VA DIC.
+VA Dependency and Indemnity Compensation (DIC) provides tax-free monthly payments to the eligible surviving spouse, dependent children, and dependent parents of service members who died in the line of duty and Veterans who died from a service-related injury or illness. Find out if you're eligible and how to apply for VA DIC.
 
 </div>
 
@@ -84,7 +95,7 @@ You may be able to get compensation as a surviving parent if both of the descrip
 **Both of these must be true:**
 - You're the biological, adoptive, or foster parent of the Veteran or service member, **and**
 - Your income is below a certain amount <br>
-[View the parents DIC rate table]( https://benefits.va.gov/Pension/current_rates_Parents_DIC_pen.asp).
+[Review the current income limits for parents' DIC](/burials-memorials/parent-dic-rates/)
 
 **Note:** We define a foster parent as someone who served in the role of a parent to the Veteran or service member before their last entry into active service.
 
