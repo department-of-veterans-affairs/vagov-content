@@ -83,7 +83,6 @@ Send your payment to:
 </div>
 </li>
 
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="ng-attached">If you're a National Guard member and you're "attached" or are described as "Drilling for Points Only" and you need to make an SGLI payment</button>
 <div id="ng-attached" class="usa-accordion-content">
@@ -95,7 +94,6 @@ Your USPFO will give you an address to send your premium payment to.
 </div>
 </li>
 
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="irr">If you're an Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) soldier and you're "Attached" or described as "Drilling for Points Only</button>
 <div id="irr" class="usa-accordion-content">
@@ -104,7 +102,6 @@ Your USPFO will give you an address to send your premium payment to.
 Your Human Resources Command (HRC) will send you an individual billing notice for your SGLI policy. <br>
 
 Send your payment to: 
-
 <br>
  <p class="va-address-block">
     U.S. Army Human Resources Command <br>
@@ -126,6 +123,7 @@ Send your payment to:
 </ul>
 </div>
 </li>
+</ul>
 
 ### Navy SGLI contact information
 
