@@ -55,8 +55,6 @@ You may be able to get disability benefits if you have one or more illnesses bel
 You’ll need to file a claim for disability compensation. When you file, you’ll have to show that you served in Vietnam (including aboard a ship on the inland waterways or on a ship within the 12-mile territorial seas) or in the Korean Demilitarized Zone during the time periods listed above. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
 
-Check the list of U.S. Navy and Coast Guard ships linked to service in Vietnam to find out if your service aboard a ship allows us to conclude that you had contact with Agent Orange. <br>
-<a href="/shiplist-agent-orange.pdf">See the list of ships that had contact with Agent Orange (PDF)</a>
 
 ## What if I need help filing my claim?
 
