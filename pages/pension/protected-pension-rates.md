@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program, you may be able to continue receiving payments at the rates under the old programs as well as a cost-of-living increase. We call these “protected rates.” Find out if you're eligible for protected rates under an older program.
+If you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program, you may be eligible for protected rates. If you qualify for protected rates, it means you're able to continue receiving payments at the rates under the old program as well as a cost-of-living increase. 
 
 </div>
 
