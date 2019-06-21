@@ -72,7 +72,7 @@ Send your payment to:
     8899 E. 56th Street<br>
     Indianapolis, IN 46249<br>
 </p>
-
+<br>
 **Note:** If you're a TPU Reservist or Guard member and you owe more than one payment on your SGLI policy, you'll need to contact your Chain of Command in order to resolve your debt. 
 
 
