@@ -36,11 +36,9 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 
 **You can can calculate your premium rate by doing the following:**
 
-Multiply your amount of insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:
+Multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment: <br>
 
-2.57 (Age 51 rate per $1000.00) x 10 (amount of insurance) = $25.70 / month. 
-
-
+2.57 (Age 51 rate) x 10 (amount of insurance) = $25.70 / month. 
 
 ### Should I compare these premium rates to other insurance companies? 
 
@@ -64,6 +62,13 @@ You must pay your premiums for supplemental S-DVI.
 - Can be converted to a permanent plan
 - Ends if you stop making premium payments
 - No cash or loan value
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year">5 year level premium term rates</button>
+<div id="5-year" class="usa-accordion-content">
+
 
 | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
@@ -122,6 +127,14 @@ You must pay your premiums for supplemental S-DVI.
 | 68       | 4.98            | 14.91             | 29.74               | 59.15                   |
 | 69       | 5.41            | 16.2              | 32.31               | 64.26                   |
 | 70       | 5.87            | 17.58             | 35.06               | 69.73                   |
+
+**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
+
+1.28 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $12.80 / month. 
+
+
+</div>
+</li>
 
 ### Modified life at age 65
 
