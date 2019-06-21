@@ -110,7 +110,7 @@ Send your payment to:
     1600 Spearhead Division Ave Dept. 420 <br>
     Fort Knox, KY 40122-5402
 </p>
-
+<br> 
 **Note: If this situation describes you, you should know that:** <br>
 
 <ul style="list-style-type:square;">
@@ -133,15 +133,18 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
 
 **To pay premiums by mail:**
 
-- Make your payment out to "U.S. Treasury"
-- Include "SGLI payment" in the description
-- Include your Social Security Number
-
+<ul style="list-style-type:square;">
+  <li>Make your payment out to "U.S. Treasury"</li>
+  <li>Include "SGLI payment" in the description</li>
+  <li>Include your Social Security Number</li>
+</ul>
 **Acceptable forms of payment include:**
 
-- Personal check
-- Cashier's check
-- Money order
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 Send your payment to:
 
@@ -159,8 +162,10 @@ If you're a sailor, you can pay your premiums online at <a href="https://www.pay
 
 **If you make a payment online, we only accept:** 
 
-- Debit
-- Credit
+<ul style="list-style-type:square;">
+  <li>Debit</li>
+  <li>Credit</li>
+</ul>
 
 ### Air Force SGLI contact information
 
@@ -170,15 +175,19 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
 
 **To pay premiums by mail:**
 
-- Make your payment out to "U.S. Treasury"
-- Include "SGLI payment" in the description
-- Include your Social Security Number
+<ul style="list-style-type:square;">
+  <li>Make your payment out to "U.S. Treasury"</li>
+  <li>Include "SGLI payment" in the description</li>
+  <li>Include your Social Security Number</li>
+</ul>
 
 **Acceptable forms of payment include:**
 
-- Personal check
-- Cashier's check
-- Money order
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 Send your payment to:
 
@@ -196,17 +205,21 @@ Send your payment to:
 
 Call the Marine Forces Reserve Customer Service Center at <a href="tel:+180025550821">800-255-5082</a>. 
 
-**To pay premiums by mail:** 
+**To pay premiums by mail:**
 
-- Make your payment out to "U.S. Treasury"
-- Include "SGLI payment" in the description
-- Include your Social Security Number
+<ul style="list-style-type:square;">
+  <li>Make your payment out to "U.S. Treasury"</li>
+  <li>Include "SGLI payment" in the description</li>
+  <li>Include your Social Security Number</li>
+</ul>
 
 **Acceptable forms of payment include:**
 
-- Personal check
-- Cashier's check
-- Money order
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 Send your payment to:
 
@@ -228,21 +241,28 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 <br>
 **If you make a payment by phone, we only accept:** 
 
-- Debit
-- Credit
+<ul style="list-style-type:square;">
+  <li>Debit</li>
+  <li>Credit</li>
+</ul>
+
 <br>
 **To pay premiums by mail:**
 
-- Make your payment out to "U.S. Treasury"
-- Include "SGLI payment" in the description
-- Include your name and Employee ID number
-- Include your Social Security Number
+<ul style="list-style-type:square;">
+  <li>Make your payment out to "U.S. Treasury"</li>
+  <li>Include "SGLI payment" in the description</li>
+  <li>Include your name and Employee ID number</li>
+  <li>Include your Social Security Number</li>
+</ul>
 
 **Acceptable forms of payment include:**
 
-- Personal check
-- Cashier's check
-- Money order
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 Send your payment to:
 
