@@ -111,7 +111,7 @@ Send your payment to:
     Fort Knox, KY 40122-5402
 </p>
 <br> 
-**Note: If this situation describes you, you should know that:** <br>
+<b>Note: If this situation describes you, you should know that:</b> <br>
 
 <ul style="list-style-type:square;">
   <li>Your payment must include your Social Security Number.</li>
