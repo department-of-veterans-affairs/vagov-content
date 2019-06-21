@@ -115,12 +115,14 @@ Send your payment to:
 
 **Note: If this situation describes you, you should know that:** <br>
 
-- Your payment must include your Social Security Number. 
-- HRC can't see information about your past SGLI payments if you're a TPU or National Guard service member 
-- HRC can't process payments for TPU service members. If you're a TPU service member, you'll need to contact your unit S1 or higher headquarters, sometimes called your US Army Reserve Command (USARC) 
-- HRC can't process payments for National Guard service members. If you're a National Guard service member, you'll need to contact your USPFO to make a payment. 
-- If you've received a Defense Accounting Service (DFAS) Debt Notice or debt is reflected on your LES, you'll need to contact DFAS
+<ul style="list-style-type:square;">
+  <li>Your payment must include your Social Security Number.</li>
+  <li>HRC can't see information about your past SGLI payments if you're a TPU or National Guard service member</li>
+  <li>HRC can't process payments for TPU service members. If you're a TPU service member, you'll need to contact your unit S1   or higher headquarters, sometimes called your US Army Reserve Command (USARC)</li>
+  <li>HRC can't process payments for National Guard service members. If you're a National Guard service member, you'll need to   contact your USPFO to make a payment.</li>
+  <li>If you've received a Defense Accounting Service (DFAS) Debt Notice or debt is reflected on your LES, you'll need to       contact DFAS</li>
 
+</ul>
 </div>
 </li>
 
