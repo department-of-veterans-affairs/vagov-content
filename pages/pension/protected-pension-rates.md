@@ -39,7 +39,7 @@ You may be eligible for protected rates if you began receiving VA disability or 
         <div class="additional-info-title">Learn more about changing your pension benefits program</div>
           <div class="additional-info-content usa-alert-text" hidden="">
             <p><strong>If you're currently receiving payments from a Section 306 or old law pension,</strong> you can elect to change your benefits to begin receiving payments through the current, improved VA pension program. If you have questions about your benefits, please call us at <a href="tel:+18772946380">877-294-6380</a>. </p>    
-            <p>View the current, improved pension rates:<br><a href="/pension/veterans-pension-rates/">Veterans Pension rates</a><br><a href="/pension/survivors-pension-rates/">Survivors Pension rates</a></p>              
+            <p>View the current rates for improved pension programs:<br><a href="/pension/veterans-pension-rates/">Veterans Pension rates</a><br><a href="/pension/survivors-pension-rates/">Survivors Pension rates</a></p>              
             <p><strong>If you've lost entitlement to your Section 306 or old law pension,</strong> you can't apply again for these benefits. But you can apply for an improved <a href="/pension/how-to-apply/">Veterans Pension</a></li> or <a href="/pension/survivors-pension/">Survivors Pension</a>.</p> </div>
       </div>
   </div>
