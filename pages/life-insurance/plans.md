@@ -52,8 +52,8 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 - [30 Payment Life](#30-payment-life)
 - [20 Year Endowment](#20-year-endowment)
 - [Endowment at Age 60](#endowment-at-age-60)
-- [Endowment at Age 60](#endowment-at-age-65)
-- [Endowment at Age 60](#endowment-at-age-96)
+- [Endowment at Age 65](#endowment-at-age-65)
+- [Endowment at Age 96](#endowment-at-age-96)
 <br>
 <br>
 
