@@ -153,11 +153,11 @@ You can fax your application to us at 855-840-8299.
 
 Call our toll-free hotline at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. <abbr title="eastern time">ET</abbr>.
 
-Get help from an accredited representative (a trained professional trusted to help with VA-related claims). <br>
+Get help from a trained professional trusted to help with VA-related claims, like an accredited representative or Veterans Service Officer (VSO). <br>
 [Find a representative](https://www.benefits.va.gov/vso/varo.asp)<br>
 [Find your state’s Veterans agency](https://www.va.gov/statedva.htm)
 
-**Note:** These services are free. You should never pay someone to help you fill out VA Form 40-10007 or file your request. 
+**Note:** These services are free. No one should ever ask you to pay them to help you fill out VA Form 40-10007 or file your request. 
 
 ## What happens after I apply?
 
