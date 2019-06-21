@@ -38,94 +38,102 @@ assistance (TA), your payments will make up the difference between the tuition a
 On this page, you’ll learn the monthly payment rates for the MGIB-AD, **effective August 
 2018**.
 
-## Will I get the full benefit amount?
+### On this page
+- [Rates if you served at least 3 years on active duty](#3-years)
+- [Rates if you served between 2 and 3 years on active duty](#2-3-years)
+- [Rates for remaining entitlement for certain Vietnam Era Veterans](#remaining-entitlement)
+- [Historic rates](#historic)
 
-How much you get depends on several factors. These include:
--	How long you served on active duty, **and**
--	How much of a course load you’re taking, up to full-time, **and**
--	Whether you have dependents, and how many
--	Whether you participated in the $600 Buy-Up program (see below)
 
 [Learn more about how to qualify for the Montgomery GI Bill Active Duty program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
 
-## Pay rates for 3 years of service or more
+------
+<span id="3-years"></span>
+## Rates if you served at least 3 years on active duty
 
-These charts show the pay rates if you’ve served at least 3 years in active duty. The first chart shows 
-payments covering training you receive in institutions like colleges, universities, and trade schools. 
-The second chart shows payments covering apprenticeships and on-the-job training. The amounts show what 
-you’ll get based on the time you’re attending school or training.
+### Colleges, universities, trade schools, and other learning institutions
 
-### Schools and other institutional training
+We base your monthly rate (or payment amount) on how much of a course load you're taking, up to full-time.
+
 All rates in $ U.S. dollars
-| **Training time** | **Monthly rate** |
+| **If you're enrolled...** | **You're entitled to this amount each month** |
 |--|--|
 | Full-time | 1,994.00 |
 | ¾ time | 1,495.50 |
 | ½ time | 997.00 |
-| Less than ½ time more than ¼ time | 997.00* |
-| ¼ time or less | 498.50* |
+| Between ¼ and ½ time | 997.00 |
+| ¼ time or less | 498.50 |
 
-\* Payment for tuition and fees only. Payment cannot exceed the listed amount.
+**Note:** If you're enrolled less than half-time, we'll only pay tuition and fees. Your payment can't me more than the listed amount.
 
 ### Apprenticeships and on-the-job training
+
+We base your monthly rate (or payment amount) on where you're at in your training.
+
 All rates in $ U.S. dollars
-| **Training period** | **Monthly rate** |
+| **If you're at this point in your training...** | **You're entitled to this amount each month** |
 |--|--|
 | First 6 months of training | 1,495.50 |
 | Second 6 months of training | 1,096.70 |
 | Remainder of training | 697.90 |
 
-### Other education benefit rates
+### Correspondence and flight schools
 
-The Montgomery GI Bill Active Duty pays for other education and training programs for those who’ve had at 
-least 3 years of active duty. They include:
+We charge your entitlement at the rate of 1 month for each $1,994.00 paid.
 
-**Correspondence and flight schools.** Entitlement charged at the rate of 1 month for each $1,994.00 paid.
+### Cooperative training
 
-**Cooperative training.** The cooperative training program lets you go to school full-time for a period, and then work 
+The cooperative training program lets you go to school full-time for a period, and then work 
 full-time for a period. If you’re participating in this program, your benefit rate is **$1,994.00**.
 
-## Pay rates for less than 3 years of service 
+------
 
-These charts show the pay rates if you’ve served more than 2 years but less than 3 years in active duty. The 
-first chart shows payments covering training you receive in institutions like colleges, universities, and trade schools. 
-The second chart shows payments covering apprenticeships and on-the-job training. The amounts show what you’ll get based 
-on the time you’re attending school or training.
+<span id="2-3-years"></span>
+## Rates if you served between 2 to 3 years on active duty
 
-### Schools and other institutional training
+### Colleges, universities, trade schools, and other learning institutions
+
+We base your monthly rate (or payment amount) on how much of a course load you're taking, up to full-time.
+
 All rates in $ U.S. dollars
-| **Training time** | **Monthly rate** |
+| **If you're enrolled...** | **You're entitled to this amount each month** |
 |--|--|
 | Full-time | 1,619.00 |
 | ¾ time | 1,214.25 |
 | ½ time | 809.50 |
-| Less than ½ time more than ¼ time | 809.50* |
-| ¼ time or less | 404.75* |
+| Between ¼ and ½ time | 809.50 |
+| ¼ time or less | 404.75 |
 
-\*Payment for tuition and fees only. Payment cannot exceed the listed amount.
+**Note:** If you're enrolled less than half-time, we'll only pay tuition and fees. Your payment can't me more than the listed amount.
 
-### H3: Apprenticeships and on-the-job training
+### Apprenticeships and on-the-job training
+
+We base your monthly rate (or payment amount) on where you're at in your training.
+
 All rates in $ U.S. dollars
-| **Training period** | **Monthly rate** |
+| **If you're at this point in your training...** | **You're entitled to this amount each month** |
 |--|--|
 | First 6 months of training | 1,214.25 |
 | Second 6 months of training | 890.45 |
 | Remainder of training | 566.65 |
 
-### Other education benefit rates
+### Correspondence and flight schools
 
-The MGIB-AD pays for other education and training programs for those who’ve had at least 2 years but
-less than 3 years of active duty. They include:
+We charge your entitlement at the rate of 1 month for each $1,619.00 paid.
 
-**Correspondence and flight schools.** Entitlement charged at the rate of 1 month for each $1,619.00 paid.
+### Cooperative training
 
-**Cooperative training.** The cooperative training program lets you go to school full-time for a period, and then 
+The cooperative training program lets you go to school full-time for a period, and then 
 work full-time for a period. If you’re participating in this program, your benefit rate is **$1,619.00**.
 
-## Pay rates for remaining entitlement for certain Vietnam Era Veterans 
+------
+<span id="remaining-entitlement"></span>
+## Rates for remaining entitlement for certain Vietnam Era Veterans 
 
 If you’re a Vietnam War era Veteran, you may be entitled to additional benefits. You’ll qualify for this “remaining 
-entitlement” under the Vietnam Era GI Bill (Chapter 34, Title 38) if **one** of the following is true for you. You:
+entitlement” under the Vietnam Era GI Bill (Chapter 34, Title 38) if **one** of the below descriptions is true for you. 
+
+**One of these must be true. You:**
 
 -	Have remaining entitlement under Vietnam Era GI Bill, **or**
 -	Had remaining Vietnam Era GI Bill entitlement on December 31, 1989, **or**
@@ -140,6 +148,7 @@ The rates are effective **October 1, 2017**.
 
 ### Schools and other institutional training
 All rates in $ U.S. dollars
+
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
 |---|---|---|---|---|
 | Full-time | 2,182.00 | 2,218.00 | 2,249.00 | 16.00 |
@@ -186,24 +195,13 @@ GI Bill monthly payments. Learn how it works, and what the current rates are.
 
 In some cases, yes. Call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
 
-### Historic Montgomery GI Bill Active Duty rates
-- [Rates effective October 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100118.asp)
+------
+<span id="historic"></span>
+
+## Historic rates
+
+Review MGIB-AD rates for past years:
+
 - [Rates effective October 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100117.asp)
 - [Rates effective October 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100116.asp)
-- [Rates effective October 1, 2015](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100115.asp)
-- [Rates effective October 1, 2014](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100114.asp)
-- [Rates effective October 1, 2013](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100113.asp)
-- [Rates effective October 1, 2012](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100112.asp)
-- [Rates effective October 1, 2011](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100111.asp)
-- [Rates effective October 1, 2010](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100110.asp)
-- [Rates effective October 1, 2009](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100109.asp)
-- [Rates effective August 1, 2008](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates080108.asp)
-- [Rates effective October 1, 2007](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100107.asp)
-- [Rates effective October 1, 2006](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100106.asp)
-- [Rates effective October 1, 2005](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100105.asp)
-- [Rates effective October 1, 2004](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100104.asp)
-- [Rates effective October 1, 2003](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100103.asp)
-- [Rates effective October 1, 2002](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100102.asp)
-- [Rates effective January 1, 2002](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates010102.asp)
-- [Rates effective October 1, 2001](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates100101.asp)
-- [Rates effective November 1, 2000](https://www.benefits.va.gov/gibill/resources/benefits_resources/rates/ch30/ch30rates110100.asp)
+- [Rates effective October 1, 2015, and earlier](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch30/ch30rates100115.asp)
