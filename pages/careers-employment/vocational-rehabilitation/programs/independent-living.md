@@ -106,6 +106,6 @@ If you’re eligible, a VRC will work with you to determine the severity of your
 
 ### Ready to apply?
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to apply</a>
 
 [Find out how to apply if you haven't yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating)
