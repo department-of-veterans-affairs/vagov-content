@@ -21,7 +21,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you're a National Guard member or reservist drilling for points, find out how to contact your branch of service to ask questions about your Servicemembers Group Life Insurance (SGLI) policy and pay your premiums.
+If you're a National Guard member or Reservist drilling for points, find out how to contact your branch of service to ask questions about your Servicemembers Group Life Insurance (SGLI) policy and pay your premiums.
 
 </div>
 
@@ -34,6 +34,9 @@ You should contact your branch of service about your SGLI policy if:
 - You want to make a premium payment
 
 In some cases, you can also make premium payments over the phone with a debit or credit card. 
+
+<b>Note:</b> If you're an active-duty service member, your premium is automatically deducted from your base pay.
+
 
 ## Contact information by branch of service
 
