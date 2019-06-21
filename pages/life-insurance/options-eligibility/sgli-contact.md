@@ -89,15 +89,13 @@ You'll need to contact the United States Property and Fiscal Office (USPFO) in y
 
 Your USPFO will give you an address to send your premium payment to. 
 
-Send your payment to: 
-
 </div>
 </li>
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="ng-attached">If you're an Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) soldier and you're "Attached" or described as "Drilling for Points Only</button>
-<div id="ng-attached" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="irr">If you're an Individual Ready Reserve (IRR) or Individual Mobilization Augmentation (IMA) soldier and you're "Attached" or described as "Drilling for Points Only</button>
+<div id="irr" class="usa-accordion-content">
 
 
 Your Human Resources Command (HRC) will send you an individual billing notice for your SGLI policy. <br>
