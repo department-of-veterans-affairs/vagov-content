@@ -135,6 +135,7 @@ You must pay your premiums for supplemental S-DVI.
 
 </div>
 </li>
+</ul>
 
 ### Modified life at age 65
 
@@ -145,6 +146,69 @@ You must pay your premiums for supplemental S-DVI.
 - Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments remain the same for your lifetime
 - When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $6.58 per month per $1000.00.
 - Has loan and cash value
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">5 year level premium term rates</button>
+<div id="modified-65" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
+| 15       | 0.75            | 2.25              | 4.48                | 8.91                    |
+| 16       | 0.77            | 2.31              | 4.6                 | 9.15                    |
+| 17       | 0.79            | 2.37              | 4.72                | 9.38                    |
+| 18       | 0.81            | 2.43              | 4.84                | 9.62                    |
+| 19       | 0.83            | 2.49              | 4.96                | 9.86                    |
+| 20       | 0.86            | 2.58              | 5.14                | 10.22                   |
+| 21       | 0.88            | 2.64              | 5.26                | 10.45                   |
+| 22       | 0.91            | 2.72              | 5.43                | 10.81                   |
+| 23       | 0.93            | 2.78              | 5.55                | 11.05                   |
+| 24       | 0.96            | 2.87              | 5.73                | 11.4                    |
+| 25       | 0.99            | 2.96              | 5.91                | 11.76                   |
+| 26       | 1.02            | 3.05              | 6.09                | 12.12                   |
+| 27       | 1.05            | 3.14              | 6.27                | 12.47                   |
+| 28       | 1.08            | 3.23              | 6.45                | 12.83                   |
+| 29       | 1.11            | 3.32              | 6.63                | 13.19                   |
+| 30       | 1.15            | 3.44              | 6.87                | 13.66                   |
+| 31       | 1.18            | 3.53              | 7.05                | 14.02                   |
+| 32       | 1.22            | 3.65              | 7.29                | 14.49                   |
+| 33       | 1.26            | 3.77              | 7.53                | 14.97                   |
+| 34       | 1.3             | 3.89              | 7.76                | 15.44                   |
+| 35       | 1.34            | 4.01              | 8                   | 15.92                   |
+| 36       | 1.38            | 4.13              | 8.24                | 16.39                   |
+| 37       | 1.43            | 4.28              | 8.54                | 16.99                   |
+| 38       | 1.48            | 4.43              | 8.84                | 17.58                   |
+| 39       | 1.53            | 4.58              | 9.14                | 18.17                   |
+| 40       | 1.56            | 4.73              | 9.44                | 18.77                   |
+| 41       | 1.63            | 4.88              | 9.73                | 19.36                   |
+| 42       | 1.69            | 5.06              | 10.09               | 20.07                   |
+| 43       | 1.74            | 5.21              | 10.39               | 20.67                   |
+| 44       | 1.8             | 5.39              | 10.75               | 21.38                   |
+| 45       | 1.87            | 5.6               | 11.17               | 22.21                   |
+| 46       | 1.93            | 5.78              | 11.53               | 22.93                   |
+| 47       | 2               | 5.99              | 11.94               | 23.76                   |
+| 48       | 2.07            | 6.2               | 12.36               | 24.59                   |
+| 49       | 2.14            | 6.41              | 12.78               | 25.42                   |
+| 50       | 2.22            | 6.65              | 13.26               | 26.37                   |
+| 51       | 2.29            | 6.86              | 13.26               | 27.2                    |
+| 52       | 2.37            | 7.1               | 14.15               | 28.15                   |
+| 53       | 2.45            | 7.34              | 14.63               | 29.1                    |
+| 54       | 2.54            | 7.61              | 15.17               | 30.17                   |
+| 55       | 2.62            | 7.85              | 15.65               | 31.12                   |
+| 56       | 2.7             | 8.09              | 16.13               | 32.07                   |
+| 57       | 2.79            | 8.35              | 16.66               | 33.14                   |
+| 58       | 2.87            | 8.59              | 17.14               | 34.09                   |
+| 59       | 2.96            | 8.86              | 17.68               | 35.16                   |
+| 60       | 3.03            | 9.07              | 18.1                | 35.99                   |
+
+**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
+
+2.29 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $22.90 / month.
+
+</div>
+</li>
+</ul>
 
 ### Modified life at age 70
 
