@@ -59,10 +59,9 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 
 ## 5-year level premium term
 
-A 5 year level premium term life insurance policy gives you low-cost life insurance when you're young. As you age, your premium payments for this policy increase. 
-
 **Plan details:**
 
+- Gives you low-cost life insurance when you're young. As you age, your premium payments for this policy increase. 
 - Available on all programs except those that start with "J," "JR," "JS"
 - This is a term life insurance plan. A term life insurance plan means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage.  
 - Can be renewed every five years (5 year term)
