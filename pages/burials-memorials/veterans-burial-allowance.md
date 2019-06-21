@@ -135,7 +135,7 @@ If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We'r
 
 | Status                   | Maximum burial allowance |
 | ------------------------ | ------------------------ |
-| If the Veteran died on or after October 1, 2018 | We'll pay a $780 burial allowance and $780 for a plot ||
+| If the Veteran died on or after October 1, 2018 | We'll pay a $780 burial allowance and $780 for a plot |
 | If the Veteran died on or after October 1, 2017 | We’ll pay a $762 burial allowance and $762 for a plot |
 | If the Veteran died on or after October 1, 2016, but before October 1, 2017 | We’ll pay a $749 burial allowance and $749 for a plot |
 | If the Veteran died on or after October 1, 2015, but before October 1, 2016 | We’ll pay a $747 burial allowance and $747 for a plot |
