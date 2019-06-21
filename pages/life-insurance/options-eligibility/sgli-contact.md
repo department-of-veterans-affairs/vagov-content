@@ -138,7 +138,8 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
   <li>Include "SGLI payment" in the description</li>
   <li>Include your Social Security Number</li>
 </ul>
-**Acceptable forms of payment include:**
+
+<b>Acceptable forms of payment include:</b>
 
 <ul style="list-style-type:square;">
   <li>Personal check</li>
@@ -239,6 +240,7 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 
 **Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
 <br>
+<br>
 **If you make a payment by phone, we only accept:** 
 
 <ul style="list-style-type:square;">
@@ -247,7 +249,8 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 </ul>
 
 <br>
-**To pay premiums by mail:**
+
+<b>To pay premiums by mail:</b>
 
 <ul style="list-style-type:square;">
   <li>Make your payment out to "U.S. Treasury"</li>
