@@ -55,13 +55,7 @@ Yes, in some cases. Under certain conditions, the basic S-DVI policy provides fo
 
 You must pay your premiums for supplemental S-DVI.
 
-
-
-
-
-
-
-## Second H2: Premium rates by plan 
+## Premium rates by plan 
 
 ### 5 year level premium term
 
@@ -72,9 +66,6 @@ You must pay your premiums for supplemental S-DVI.
 - Can be converted to a permanent plan
 - Ends if you stop making premium payments
 - No cash or loan value
-
-
-
 
 ### Modified life at age 65
 
