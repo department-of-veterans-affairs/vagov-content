@@ -248,8 +248,8 @@ Public Law 115-141 allows eligible Hmong Veterans to be buried in a national cem
 ### Certain family members
 
 These family members aren't eligible:
-- Former spouses of an eligible Veteran or service member whose marriage to that individual ended by annulment or divorce
-- Family members of Veterans convicted of subversive activities (unless the Veteran receives a pardon from the President of the United States)
+- A former spouse who isn't also a Veteran whose marriage to an eligible Veteran or service member ended by annulment or divorce
+- Family members of a Veteran convicted of subversive activities (unless the Veteran receives a pardon from the President of the United States)
 - Other family members who don't meet the eligibility requirements
 
 ### Individuals who were drafted but then discharged before entering military service
