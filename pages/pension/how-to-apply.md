@@ -19,11 +19,6 @@ relatedlinks:
     - url: /pension/aid-attendance-housebound/
       title: Aid and Attendance benefits and Housebound allowance
       description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 ---
 
 <div class="va-introtext">
@@ -51,8 +46,24 @@ Find out how to apply for tax-free VA pension benefits as a Veteran.
 - Medical information
 </div>
 
-<div id="react-applicationStatus" data-widget-type="pension-app-status" class="static-page-widget">
-  <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
+<div data-widget-type="pension-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+    <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
+  </span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
 </div>
 
 

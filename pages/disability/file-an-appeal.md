@@ -18,14 +18,15 @@ spoke: Manage benefits
 You have the right to appeal any benefits decision made by the Veterans Benefits Administration. The VA appeals process is set in law and is different from other judicial appeals processes. Find out how to file an appeal.
 </div>
 
-<div class="feature" markdown="0">
-
-### Have you already filed an appeal?
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Have you already filed an appeal?</h3>
 
 When the regional office for the Veterans Benefits Administration receives your Notice of Disagreement, you’ll be able to check the status of your appeal online.
 
 <a class="usa-button-primary" href="/track-claims">Track Your Appeal</a>
 
+ </div>
 </div>
 
 <h2>Appeals process overview</h2>

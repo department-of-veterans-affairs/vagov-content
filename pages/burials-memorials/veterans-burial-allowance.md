@@ -9,11 +9,6 @@ order: 3
 spoke: Get benefits
 collection: burials
 children: burialsAllowance
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 ---
 
 <div class="va-introtext">
@@ -78,8 +73,24 @@ For burial in a national cemetery, you'll receive an allowance for:
 ## As a surviving spouse, do I need to file a claim for burial costs?
 No, you don't need to file a claim as a surviving spouse. When we receive notice of the Veteran’s death, we automatically pay a set amount to eligible surviving spouses of record to help cover burial and funeral costs. But you'll need to file a claim for additional benefits to help pay for the plot, the cost of interment, or transportation of the remains to the cemetery.
 
-<div id="react-applicationStatus" data-widget-type="burials-app-status" class="static-page-widget">
-  <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
+<div data-widget-type="burials-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+    <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
+  </span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
