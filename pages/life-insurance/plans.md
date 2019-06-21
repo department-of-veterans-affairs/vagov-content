@@ -57,10 +57,10 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 <br>
 <br>
 
-<div id="5-year-level-premium-term">
+<span id="5-year-level-premium-term">
 
 ## 5-year level premium term
-</div>
+</span>
 
 **Plan details:**
 
@@ -76,10 +76,10 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 
 [Learn more about capped term policies](/life-insurance/closed-programs/)
 
-<div id="modified-life-at-age-65">
+<span id="modified-life-at-age-65">
 
 ## Modified life at age 65
-</div>
+</span>
 
 **Plan details:**
 
@@ -90,10 +90,10 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 - "Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 65th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)" (I cannot decipher this--LW)
 - Has loan and cash value
 
-<div id="modified-life-at-age-70">
+<span id="modified-life-at-age-70">
 
 ## Modified life at age 70
-</div>
+</span>
 
 **Plan details:**
 
@@ -104,10 +104,10 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 - "Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 70th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)" (I cannot decipher this--LW)
 - Has loan and cash value
 
-<div id="special-ordinary-life">
+<span id="special-ordinary-life">
 
 ## Special ordinary life
-</div>
+</span>
 
 If you have a Modified Life insurance policy, your policy values decreases by 50% (1/2) on your 65th or 70th birthday. When this happens, your life insurance policy automatically turns into a Special Ordinary plan. Your premium payments will stay the same. 
 
@@ -118,10 +118,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - You must make premium payments for your lifetime
 - Has loan and cash value
 
-<div id="ordinary-life">
+<span id="ordinary-life">
 
 ## Ordinary life
-</div>
+</span>
 
 **Plan details:**
 
@@ -130,10 +130,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - "Premiums remain constant" (I can't decipher how this is different from the above bullet point--LW)
 - Has loan and cash value
 
-<div id="30-payment-life">
+<span id="30-payment-life">
 
 ## 30 payment life
-</div>
+</span>
 
 **Plan details:**
 
@@ -142,10 +142,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - Has slightly higher premium payments than an Ordinary Life policy
 - Has loan and cash value
 
-<div id="20-payment-life">
+<span id="20-payment-life">
 
 ## 20 payment life
-</div>
+</span>
 
 **Plan details:**
 
@@ -154,10 +154,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - Has slightly higher premium payments than a a 30 Payment Life policy
 - Has loan and cash value
 
-<div id="20-year-endowment">
+<span id="20-year-endowment">
 
 ## 20 year endowment
-</div>
+</span>
 
 **Plan details:**
 
@@ -167,10 +167,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - Has policy proceeds (payments to you) paid  in one lump sum in installments
 - Has loan and cash value
 
-<div id="endowment-at-age-60">
+<span id="endowment-at-age-60">
 
 ## Endowment at age 60
-</div>
+</span>
 
 **Plan details:**
 
@@ -178,10 +178,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - Face-value of policy is paid to you on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
 - Has loan and cash value
 
-<div id="endowment-at-age-65">
+<span id="endowment-at-age-65">
 
 ## Endowment at age 65
-</div>
+</span>
 
 **Plan details:**
 
@@ -189,10 +189,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 - Face-value of policy is paid to you on the policy anniversary date that is closest to your 65th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
 - Has loan and cash value
 
-<div id="endowment-at-age-96">
+<span id="endowment-at-age-96">
 
 ## Endowment at age 96
-</div>
+</span>
 **Note:** This plan is only available if you're over 65 years old and have a term life insurance policy. 
 
 **Plan details:**
