@@ -54,7 +54,7 @@ You may be eligible for protected rates if you began receiving VA disability or 
 <span id="eligibility"></span>
 ## How we determine if you're eligible for protected rates
 
-To qualify for protected rates, your yearly income for 2018 must be at or below a certain amount. This is called the income limit. We count as income any money you earn in a year, including your salary, investment and retirement payments, and any income from your dependents. Some expenses, like non-reimbursable medical expenses (paid medical expenses not covered by your insurance provider), may reduce your countable income.
+To qualify for protected rates, your yearly income for 2018 must be at or below a certain amount. This is called the income limit. We count as income any money you earn in a year, including your salary, investment and retirement payments, and any income from your dependents. Some expenses, like non-reimbursable medical expenses (paid medical expenses not covered by your insurance provider), may work in your favor to reduce your countable income.
 
 **We base your income limit on:**
 - The specific pension benefits you're eligible to receive (including added amounts for Aid and Attendance), **and**
@@ -68,9 +68,9 @@ Eligible dependents may include your spouse. We recognize same-sex and common-la
 Dependents may also include any biological, step, or adopted children you may have who are unmarried and meet at least one of the requirements listed below.
 
 **At least one of these must be true for a dependent child. The child is unmarried and:**
-- Under 18 years old, **or**
-- Between 18 and 23 years and enrolled in a qualifying school full-time, **or**
-- Was seriously disabled before the age of 18 and is unable to care for themselves
+- Is under 18 years old, **or**
+- Is between 18 and 23 years old and enrolled in a qualifying school full time, **or**
+- Was seriously disabled before age 18 and is unable to care for themselves
 
 ------
 <span id="306-disability"></span>
@@ -180,6 +180,6 @@ If you're the beneficiary of an old law death pension Survivor Benefit Plan (als
 
 Review protected pension rates from past years:
 
-[Rates effective December, 2017](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen17.asp)
-[Rates effective December 1, 2016](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen16.asp)
+[Rates effective December, 2017](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen17.asp)<br>
+[Rates effective December 1, 2016](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen16.asp)<br>
 [Rates effective December 1, 2014, and earlier](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen14.asp)
