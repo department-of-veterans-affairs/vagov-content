@@ -149,7 +149,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">5 year level premium term rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">Modified life at age 65 rates</button>
 <div id="modified-65" class="usa-accordion-content">
 
 
