@@ -19,7 +19,7 @@ Find out if your school takes part in the Yellow Ribbon Program. This program ca
 
 Click on the state or territory where your school is located to find the list of current Yellow Ribbon Program participating schools.
 
-#### States beginning with A to D
+##### States beginning with A to D
 
 [Alabama](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/al.asp)<br>
 [Alaska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ak.asp)<br>
@@ -31,7 +31,7 @@ Click on the state or territory where your school is located to find the list of
 [Delaware](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/de.asp)<br>
 [District of Columbia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/dc.asp)<br>
 
-#### States beginning with F to K
+##### States beginning with F to K
 
 [Florida](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/fl.asp)<br>
 [Georgia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ga.asp)<br>
@@ -44,7 +44,7 @@ Click on the state or territory where your school is located to find the list of
 [Kentucky](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ky.asp)<br>
 
 
-#### States beginning with L to M
+##### States beginning with L to M
 
 [Louisiana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/la.asp)<br>
 [Maine](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/me.asp)<br>
@@ -56,7 +56,7 @@ Click on the state or territory where your school is located to find the list of
 [Missouri](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mo.asp)<br>
 [Montana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mt.asp)<br>
 
-#### States beginning with N 
+##### States beginning with N 
 
 [Nebraska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ne.asp)<br>
 [Nevada](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nv.asp)<br>
@@ -67,7 +67,7 @@ Click on the state or territory where your school is located to find the list of
 [North Carolina](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nc.asp)<br>
 [North Dakota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nd.asp)<br>
 
-#### States beginning with 0 to T
+##### States beginning with 0 to T
 
 [Ohio](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/oh.asp)<br>
 [Oklahoma](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ok.asp)<br>
@@ -79,7 +79,7 @@ Click on the state or territory where your school is located to find the list of
 [Tennessee](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tn.asp)<br>
 [Texas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tx.asp)<br>
 
-#### States beginning with U to W
+##### States beginning with U to W
 
 [Utah](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ut.asp)<br>
 [Vermont](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/vt.asp)<br>
@@ -89,6 +89,6 @@ Click on the state or territory where your school is located to find the list of
 [Wisconsin](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wi.asp)<br>
 [Wyoming](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wy.asp)<br>
 
-#### U.S territories
+##### U.S territories
 [Puerto Rico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pr.asp)<br>
 [Overseas Campus Locations of U.S. Schools](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/overseas.asp)<br>
