@@ -21,7 +21,6 @@ Get information about Alabama schools participating in the Yellow Ribbon program
 
 ### Birmingham
 
-| Name of college | Degree level | Division or school | Number of students | Max school contribution amt
-(per student/per year) |
-|-----|-----|-----|-----|-----|
+| Name of college | Degree level | Division or school | Number of students | Max school contribution amt |
+| ----- | ----- | ----- | ----- | ----- |
 | Birmingham Southern College | Undergraduate | All |	Unlimited |	Unlimited |
