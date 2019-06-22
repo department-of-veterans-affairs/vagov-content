@@ -19,58 +19,76 @@ Find out if your school takes part in the Yellow Ribbon Program. This program ca
 
 Click on the state or territory where your school is located to find the list of current Yellow Ribbon Program participating schools.
 
-#### States beginning with TK to TK
+#### States beginning with A to D
 
 [Alabama](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/al.asp)<br>
 [Alaska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ak.asp)<br>
-[Arizona](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/az.asp)
-[Arkansas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ar.asp)
-[California](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ca.asp)
-[Colorado](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/co.asp)
-[Connecticut](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ct.asp)
-[Delaware](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/de.asp)
-[District of Columbia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/dc.asp)
-[Florida](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/fl.asp)
-[Georgia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ga.asp)
-[Hawaii](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/hi.asp)
-[Idaho](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/id.asp)
-[Illinois](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/il.asp)
-[Indiana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/in.asp)
-[Iowa](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ia.asp)
-[Kansas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ks.asp)
-[Kentucky](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ky.asp)
-[Louisiana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/la.asp)
-[Maine](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/me.asp)
-[Maryland](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/md.asp)
-[Massachusetts](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ma.asp)
-[Michigan](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mi.asp)
-[Minnesota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mn.asp)
-[Mississippi](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ms.asp)
-[Missouri](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mo.asp)
-[Montana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mt.asp)
-[Nebraska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ne.asp)
-[Nevada](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nv.asp)
-[New Hampshire](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nh.asp)
-[New Jersey](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nj.asp)
-[New Mexico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nm.asp)
-[New York](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ny.asp)
-[North Carolina](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nc.asp)
-[North Dakota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nd.asp)
-[Ohio](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/oh.asp)
-[Oklahoma](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ok.asp)
-[Oregon](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/or.asp)
-[Pennsylvania](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pa.asp)
-[Rhode Island](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ri.asp)
-[South Carolina](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/sc.asp)
-[South Dakota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/sd.asp)
-[Tennessee](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tn.asp)
-[Texas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tx.asp)
-[Utah](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ut.asp)
-[Vermont](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/vt.asp)
-[Virginia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/va.asp)
-[Washington](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wa.asp)
-[West Virginia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wv.asp)
-[Wisconsin](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wi.asp)
-[Wyoming](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wy.asp)
-[Puerto Rico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pr.asp)
-[Overseas Campus Locations of U.S. Schools](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/overseas.asp)
+[Arizona](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/az.asp)<br>
+[Arkansas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ar.asp)<br>
+[California](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ca.asp)<br>
+[Colorado](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/co.asp)<br>
+[Connecticut](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ct.asp)<br>
+[Delaware](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/de.asp)<br>
+[District of Columbia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/dc.asp)<br>
+
+#### States beginning with F to K
+
+[Florida](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/fl.asp)<br>
+[Georgia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ga.asp)<br>
+[Hawaii](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/hi.asp)<br>
+[Idaho](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/id.asp)<br>
+[Illinois](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/il.asp)<br>
+[Indiana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/in.asp)<br>
+[Iowa](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ia.asp)<br>
+[Kansas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ks.asp)<br>
+[Kentucky](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ky.asp)<br>
+
+
+#### States beginning with L to M
+
+[Louisiana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/la.asp)<br>
+[Maine](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/me.asp)<br>
+[Maryland](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/md.asp)<br>
+[Massachusetts](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ma.asp)<br>
+[Michigan](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mi.asp)<br>
+[Minnesota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mn.asp)<br>
+[Mississippi](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ms.asp)<br>
+[Missouri](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mo.asp)<br>
+[Montana](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/mt.asp)<br>
+
+#### States beginning with N 
+
+[Nebraska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ne.asp)<br>
+[Nevada](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nv.asp)<br>
+[New Hampshire](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nh.asp)<br>
+[New Jersey](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nj.asp)<br>
+[New Mexico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nm.asp)<br>
+[New York](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ny.asp)<br>
+[North Carolina](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nc.asp)<br>
+[North Dakota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/nd.asp)<br>
+
+#### States beginning with 0 to T
+
+[Ohio](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/oh.asp)<br>
+[Oklahoma](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ok.asp)<br>
+[Oregon](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/or.asp)<br>
+[Pennsylvania](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pa.asp)<br>
+[Rhode Island](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ri.asp)<br>
+[South Carolina](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/sc.asp)<br>
+[South Dakota](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/sd.asp)<br>
+[Tennessee](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tn.asp)<br>
+[Texas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/tx.asp)<br>
+
+#### States beginning with U to W
+
+[Utah](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ut.asp)<br>
+[Vermont](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/vt.asp)<br>
+[Virginia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/va.asp)<br>
+[Washington](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wa.asp)<br>
+[West Virginia](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wv.asp)<br>
+[Wisconsin](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wi.asp)<br>
+[Wyoming](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wy.asp)<br>
+
+#### U.S Territories
+[Puerto Rico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pr.asp)<br>
+[Overseas Campus Locations of U.S. Schools](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/overseas.asp)<br>
