@@ -30,9 +30,11 @@ The first chart shows payments covering training you receive in institutions lik
 The second chart shows payments covering apprenticeships and on-the-job training. The amounts are based on the time you’re 
 attending school or training.
 
-### Schools and other institutional training
+### Colleges, universities, trade schools, and other learning institutions
+
 All rates in $ U.S. dollars
-| **Training time** | **Monthly rate** |
+
+| **If you're enrolled...** | **We'll pay you this amount each month** |
 |--|--|
 | Full-time | 384.00 |
 | 3/4 time | 287.00 |
@@ -40,24 +42,25 @@ All rates in $ U.S. dollars
 | Less than 1/2 time | 96.00 |
 
 ### Apprenticeships and on-the-job training
+
 All rates in $ U.S. dollars
-| **Training period** | **Monthly rate** |
+
+| **If you're at this point in your training...** | **We'll pay you this amount each month** |
 |--|--|
 | First 6 months of training | 288.00 |
 | Second 6 months of training | 211.20 |
 | Remaining training | 134.40 |
 
-### Other education benefit rates
-The MGIB-SR pays for other education and training programs. The rates for these benefits are:
-
-**Correspondence and flight schools.** Entitlement charged at the rate of one month for each $384.00 paid.
-
-**Cooperative training.** The cooperative training program lets you go to school full-time for a period, and then work 
-full-time for a period. If you’re participating in this program, your monthly benefit rate is **$384.00**.
+### Correspondence and flight schools
 
 **Correspondence payments.** We’ll pay **55%** of the approved charges.
 
 **Flight payments.** We’ll pay **60%** of the approved charges.
+
+### Cooperative training
+
+The cooperative training program lets you go to school full-time for a period, and then work 
+full-time for a period. If you’re participating in this program, your monthly benefit rate is **$384.00**.
 
 ### Can I use the $600 Buy-Up program?
 If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly payments. Learn how it works, and what the current rates are.
