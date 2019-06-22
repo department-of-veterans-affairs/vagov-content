@@ -85,3 +85,31 @@ Get information about Alabama schools participating in the Yellow Ribbon program
 | Name of college | Location | Degree level | Division or school | Number of students | Max school contribution amt (Per student/per year) |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Athens State University	| Athens | Undergraduate | All | Unlimited | Unlimited |
+| Auburn University	| Auburn | Undergraduate | All | 75	| Unlimited |
+| Columbia College | Redstone Arsenal	| All |	All	| Unlimited	| Unlimited |
+| Columbia Southern University | Orange Beach	| All	| All	| Unlimited	| Unlimited |
+| Concordia College	| Selma	| Undergraduate	| All	| 20 | $4,000.00 |
+| Embry-Riddle Aeronautical University - Ft. Rucker |	Ft. Rucker | All | All | 20	| $20,000.00 |
+| Heritage Christian University	| Florence | All | All | Unlimited | Unlimited |
+| Jacksonville State University	| Jacksonville | Graduate	| All	| Unlimited	| $1,000.00 |
+| Jacksonville State University	| Jacksonville | Doctoral	| All	| Unlimited	| $1,000.00 |
+| Judson College | Marion	| Undergraduate	| All	| 200	| $2,600.00 |
+| Marion Military Institute	| Marion | Undergraduate | All | 10	| $4,000.00 |
+| Selma University | Selma | All | All | 7 | Unlimited |
+| Stillman College | Tuscaloosa	| Undergraduate	| All	| 50 | $4,000.00 |
+| Troy University - Dothan | Dothan	| All |	All	| Unlimited	| Unlimited |
+| Troy University - Phenix City	| Phenix City	| All	| All	| Unlimited |	Unlimited |
+| Troy University - eCampus	| Troy | All | All | Unlimited | Unlimited |
+| Tuskegee Institute | Tuskegee	| Undergraduate	| All	| 100	| Unlimited |
+| United States Sports Academy | Daphne	| Graduate | All | Unlimited | $2,700.00 |
+| The University of Alabama - Tuscaloosa | Tuscaloosa	| All |	All	| Unlimited	| Unlimited |
+| University of Montevallo | Montevallo	| All	| All	| 10 | $2,700.00 |
+| Wallace State Community College	| Hanceville | Undergraduate | All | 20	| $1,100.00 |
+
+## Participating schools in past years
+
+Learn what Alabama schools participated in the Yellow Ribbon Program in past years:
+
+[Yellow Ribbon schools in Alabama in 2017 to 2018](https://www.benefits.va.gov/gibill/yellow_ribbon/2017/states/al.asp)
+[Yellow Ribbon schools in Alabama in 2016 to 2017](https://www.benefits.va.gov/gibill/yellow_ribbon/2016/states/al.asp)
+[Yellow Ribbon schools in all states in 2015 to 2016, and earlier](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2015.asp)
