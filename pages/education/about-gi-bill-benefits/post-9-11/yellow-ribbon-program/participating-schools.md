@@ -22,7 +22,9 @@ Click on the state or territory where your school is located to find the list of
 #### States beginning with TK to TK
 
 [Alabama](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/al.asp)
+
 [Alaska](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ak.asp)
+
 [Arizona](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/az.asp)
 [Arkansas](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ar.asp)
 [California](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/ca.asp)
