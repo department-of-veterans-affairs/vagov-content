@@ -89,6 +89,6 @@ Click on the state or territory where your school is located to find the list of
 [Wisconsin](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wi.asp)<br>
 [Wyoming](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/wy.asp)<br>
 
-#### U.S Territories
+#### U.S territories
 [Puerto Rico](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/pr.asp)<br>
 [Overseas Campus Locations of U.S. Schools](https://www.benefits.va.gov/gibill/yellow_ribbon/2018/states/overseas.asp)<br>
