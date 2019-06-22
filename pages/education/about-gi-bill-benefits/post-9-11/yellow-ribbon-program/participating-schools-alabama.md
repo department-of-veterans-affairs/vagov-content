@@ -110,6 +110,6 @@ Get information about Alabama schools participating in the Yellow Ribbon program
 
 Learn what Alabama schools participated in the Yellow Ribbon Program in past years:
 
-[Yellow Ribbon schools in Alabama in 2017 to 2018](https://www.benefits.va.gov/gibill/yellow_ribbon/2017/states/al.asp)
-[Yellow Ribbon schools in Alabama in 2016 to 2017](https://www.benefits.va.gov/gibill/yellow_ribbon/2016/states/al.asp)
+[Yellow Ribbon schools in Alabama in 2017 to 2018](https://www.benefits.va.gov/gibill/yellow_ribbon/2017/states/al.asp)<br>
+[Yellow Ribbon schools in Alabama in 2016 to 2017](https://www.benefits.va.gov/gibill/yellow_ribbon/2016/states/al.asp)<br>
 [Yellow Ribbon schools in all states in 2015 to 2016, and earlier](https://www.benefits.va.gov/GIBILL/yellow_ribbon/yrp_list_2015.asp)
