@@ -1,11 +1,12 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors’ and Dependents’ Educational Assistance (Chapter 35) Rates
-heading: Survivors’ and Dependents’ Educational Assistance (Chapter 35) rates
+title: Chapter 35 Rates for Survivors and Dependents
+heading: Chapter 35 Rates for Survivors and Dependents
 display title:
 description: 
 concurrence:
+keywords: chapter 35 rates, chapter 35 benefits rates, dependents educational assistance rates, chapter 35 pay rates
 spoke: More information and resources
 order: 5
 relatedlinks:
@@ -19,9 +20,7 @@ relatedlinks:
 
 <div class="va-introtext">
   
-If you’re a survivor or a dependent of a Veteran, you may qualify for education benefits. These benefits cover institutional
-training, like colleges and universities and correspondence schools. They also cover special restorative training, which helps
-a survivor or dependent with physical or mental disabilities so that they’ll be better able to pursue an educational program.
+View 2019 Survivors' and Dependents' Educational Assistance (Chapter 35) rates. These benefits cover training at colleges, universities, and other type of schools as well as special restorative training for , which helps a survivor or dependent with physical or mental disabilities so that they’ll be better able to pursue an educational program.
 
 The rates on this page are effective **October 1, 2018**.
 
@@ -34,21 +33,20 @@ Note: On **August 1, 2018**, we’ll announce rates for three new educational pr
 
 Please check back then to learn what these new benefits will be.
 
-## Schools and other institutional training
+## Rates for colleages, universities, trade schools, and other types of institutional training
 
 We base these benefits on the amount of time you’re attending school.
 
 All rates in $ U.S. dollars.
-| Training time | Monthly rate |
+| If you're enrolled in school... | We'll pay this amount... |
 | --- | ---: |
 | Full-time | 1,224.00 |
 | ¾ time | 967.00 |
 | ½ time | 710.00 |
-| Less than ½ time and more than ¼ time | 710.00\* |
-| ¼ time or less | 306.00\* |
+| Between ¼ and ½ time | 710.00 |
+| ¼ time or less | 306.00 |
 
-\* Note: If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees,
-not for anything else like housing, supplies, etc. Payment can’t exceed the listed amount.
+**Note:** If you’re attending school less than half-time, you’ll be able to use this benefit only to pay for tuition and fees, not for anything else like housing, supplies, etc. Payment can’t exceed the listed amount.
 
 ### Correspondence schools
 
@@ -56,11 +54,11 @@ If you attend a correspondence school, we’ll charge you an entitlement at the 
 
 ### Special restorative training
 
-We base these benefits on the amount of time you’re getting the training, and several other factors.
+If you’re attending special restorative training full-time, you’ll receive **a monthly payment of $1,224.00**.
 
--	If you’re attending special restorative training full-time, you’ll receive **a monthly payment of $1,224.00**.
--	If you’re eligible for accelerated charges, you’ll receive **a monthly payment for any tuition costs and fees over $322.00 per month**.
--	Your entitlement may be reduced one day for each **monthly payment of $40.80**, which is 1/30th of the full-time rate.
+If you’re eligible for accelerated charges, you’ll receive **a monthly payment for any tuition costs and fees over $322.00 per month**.
+
+Your entitlement may be reduced one day for each **monthly payment of $40.80**, which is 1/30th of the full-time rate.
 
 
 
