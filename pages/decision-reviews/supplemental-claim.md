@@ -9,13 +9,13 @@ hidesidenav: true
 <br>
 
 <div itemprop="description" class="va-introtext">
-When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision. 
+When you choose to file a Supplemental Claim, you’re adding new evidence that’s relevant to your case or identifying new evidence for review. A reviewer will determine whether the new evidence changes the decision.
 </div>
 
 <span class="heading-level-3" style="margin-right: 1.5rem"><i class="far fa-copy"></i></span> You must add evidence VA didn’t have before that’s relevant to your case.
 
 <div class="feature" markdown="0">
-  
+
 ### Can I file a Supplemental Claim?
 
 You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence, unless one of these rare situations applies to you. You have a: <br>
@@ -39,7 +39,7 @@ You can submit evidence yourself, or you can ask VA to get evidence, like medica
 
 ## How do I file a Supplemental Claim with new evidence?
 To file a Supplemental Claim, fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
-<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (PDF)</a> 
+<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (PDF)</a>
 
 <ol class="process">
 <li class="process-step list-one">
@@ -61,7 +61,7 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 ### Gather new and relevant evidence to submit
 
-<span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review. 
+<span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review.
 
 **List the location(s) of VA evidence in Part III**. <br>
 VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
@@ -95,14 +95,14 @@ Janesville, WI 53547-4444<br>
 
 <ul class="usa-accordion process-accordion">
   <li>
-  <button class="usa-button-unstyled usa-accordion-button" 
+  <button class="usa-button-unstyled usa-accordion-button"
     aria-controls="VA-other-benefit-addresses">Find addresses for other benefit types</button>
     <div id="VA-other-benefit-addresses" class="usa-accordion-content" >
 
 <div class="vads-l-row medium-screen:vads-u-margin-x--neg2">
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors benefits</h4>
-      <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX, 
+      <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX,
       UT, WA, WY, Mexico, Central America, South America, or the Caribbean</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
@@ -139,7 +139,7 @@ Janesville, WI 53547-4444<br>
         Fax: 844-655-1604<br>
       </p>
   </div>
-  
+
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>National Cemetery Administration</h4>
       <p class="va-address-block">
@@ -221,7 +221,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar 
+      Mark your calendar
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to file a Supplemental Claim.
@@ -234,11 +234,11 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 You don’t need to do anything while you’re waiting unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim</a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim</a>
 
 
 ## What if I need help?
-A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. 
+A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
 <br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 

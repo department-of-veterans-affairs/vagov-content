@@ -81,7 +81,7 @@ There's no time limit to file for a service-connected burial, plot, or interment
     </span>
   </div>
   <span class="static-widget-content vads-u-display--none" aria-hidden="true">
-    <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
+    <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for burial benefits</a>
   </span>
   <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
     <div class="usa-alert-body">

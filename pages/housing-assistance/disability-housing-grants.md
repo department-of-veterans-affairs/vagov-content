@@ -80,5 +80,5 @@ You can apply online right now by going to our eBenefits website.
 
 You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium account. If you don’t have a <b>DS Logon</b> account, you can register for one on the site.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to apply</a>
 

@@ -4,10 +4,10 @@ template: level2-index
 title: Change Your VA Direct Deposit Information
 heading: Change your VA direct deposit information
 display_title: Change your VA direct deposit information
-description: Change VA direct deposit information for your VA disability compensation, pension, or education benefits online. Sign in or register for a Premium account to update your information. 
+description: Change VA direct deposit information for your VA disability compensation, pension, or education benefits online. Sign in or register for a Premium account to update your information.
 keywords: va direct deposit, change va direct deposit
 lastupdate:
-      
+
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -22,7 +22,7 @@ Change VA direct deposit and contact information for certain benefits online.
     <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to change your VA direct deposit and contact information online.</h4>
   <p class="usa-alert-text"><br>
     To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to Change Your Information</a>
+      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to change your information</a>
     </p>
   </div>
 </div>
