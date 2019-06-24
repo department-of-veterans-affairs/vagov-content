@@ -238,7 +238,7 @@ Send your payment to:
     Topeka, KS 66683-3591
 </p>
 
-## What payment types do you accept?
+## What payment types can I use? 
 
 **We accept these payment types:**
 
