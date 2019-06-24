@@ -53,7 +53,7 @@ You must pay your premiums for supplemental S-DVI.
 
 ## Premium rates by plan 
 
-### 5 year level premium term
+### 5 year level term
 
 - Gives you low-cost life insurance when you're young. As you age, your premium payments for this policy increase. 
 - Available on all programs except those that start with "J," "JR," "JS"
@@ -66,7 +66,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year">5 year level premium term rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year">5 year level term premium rates</button>
 <div id="5-year" class="usa-accordion-content">
 
 
@@ -149,7 +149,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">Modified life at age 65 rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">Modified life at age 65 premium rates</button>
 <div id="modified-65" class="usa-accordion-content">
 
 
@@ -223,7 +223,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70">Modified life 70 rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70">Modified life 70 premium rates</button>
 <div id="modified-70" class="usa-accordion-content">
   
   | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
@@ -302,7 +302,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary">5 year level premium term rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary">Ordinary life premium rates</button>
 <div id="ordinary" class="usa-accordion-content">
   
   | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
@@ -385,7 +385,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment">5 year level premium term rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment">20 payment life premium rates</button>
 <div id="20-payment" class="usa-accordion-content">
 
 | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
@@ -468,7 +468,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment">5 year level premium term rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment">30 payment life premium rates</button>
 <div id="30-payment" class="usa-accordion-content">
 
 
@@ -533,6 +533,11 @@ You must pay your premiums for supplemental S-DVI.
 
 3.47 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $34.70 / month. 
 
+</div>
+</li>
+</ul>
+
+
 ### 20 year endowment
 
 - Available on all programs
@@ -542,12 +547,149 @@ You must pay your premiums for supplemental S-DVI.
 - Has loan and cash value
 - Coverage ends after 20 years 
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-endow">20 year endowment premium rates</button>
+<div id="20-endow" class="usa-accordion-content">
+
+| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
+| 19       | 3.44            | 10.30             | 20.54               | 40.86                   |
+| 20       | 3.45            | 10.33             | 20.60               | 40.98                   |
+| 21       | 3.46            | 10.36             | 20.66               | 41.10                   |
+| 22       | 3.46            | 10.36             | 20.66               | 41.10                   |
+| 23       | 3.47            | 10.39             | 20.72               | 41.22                   |
+| 24       | 3.48            | 10.42             | 20.78               | 41.34                   |
+| 25       | 3.49            | 10.45             | 20.84               | 41.46                   |
+| 26       | 3.50            | 10.48             | 20.90               | 41.57                   |
+| 27       | 3.51            | 10.51             | 20.96               | 41.69                   |
+| 28       | 3.52            | 10.54             | 21.02               | 41.81                   |
+| 29       | 3.53            | 10.57             | 21.08               | 41.93                   |
+| 30       | 3.55            | 10.63             | 21.20               | 42.17                   |
+| 31       | 3.56            | 10.66             | 21.26               | 42.29                   |
+| 32       | 3.58            | 10.72             | 21.38               | 42.52                   |
+| 33       | 3.59            | 10.75             | 21.44               | 42.64                   |
+| 34       | 3.61            | 10.81             | 21.56               | 42.88                   |
+| 35       | 3.63            | 10.87             | 21.68               | 43.12                   |
+| 36       | 3.66            | 10.96             | 21.86               | 43.48                   |
+| 37       | 3.68            | 11.02             | 21.98               | 43.71                   |
+| 38       | 3.71            | 11.11             | 22.16               | 44.07                   |
+| 39       | 3.74            | 11.20             | 22.34               | 44.43                   |
+| 40       | 3.77            | 11.29             | 22.52               | 44.78                   |
+| 41       | 3.81            | 11.41             | 22.75               | 45.26                   |
+| 42       | 3.85            | 11.53             | 22.99               | 45.73                   |
+| 43       | 3.89            | 11.65             | 23.23               | 46.21                   |
+| 44       | 3.93            | 11.77             | 23.47               | 46.68                   |
+| 45       | 3.98            | 11.92             | 23.77               | 47.28                   |
+| 46       | 4.04            | 12.10             | 24.13               | 47.99                   |
+| 47       | 4.10            | 12.28             | 24.49               | 48.70                   |
+| 48       | 4.16            | 12.46             | 24.84               | 49.41                   |
+| 49       | 4.23            | 12.67             | 25.26               | 50.25                   |
+| 50       | 4.31            | 12.91             | 25.74               | 51.20                   |
+| 51       | 4.40            | 13.18             | 26.28               | 52.27                   |
+| 52       | 4.49            | 13.45             | 26.82               | 53.33                   |
+| 53       | 4.59            | 13.74             | 27.41               | 54.52                   |
+| 54       | 4.70            | 14.07             | 28.07               | 55.83                   |
+| 55       | 4.82            | 14.43             | 28.79               | 57.25                   |
+| 56       | 4.96            | 14.85             | 29.62               | 58.92                   |
+| 57       | 5.10            | 15.27             | 30.46               | 60.58                   |
+| 58       | 5.26            | 15.75             | 31.41               | 62.48                   |
+| 59       | 5.43            | 16.26             | 32.43               | 64.50                   |
+| 60       | 5.62            | 16.83             | 33.56               | 66.76                   |
+| 61       | 5.82            | 17.43             | 34.76               | 69.13                   |
+| 62       | 6.05            | 18.12             | 36.13               | 71.86                   |
+| 63       | 6.29            | 18.84             | 37.57               | 74.72                   |
+| 64       | 6.56            | 19.64             | 39.18               | 77.92                   |
+| 65       | 6.85            | 20.51             | 40.91               | 81.37                   |
+| 66       | 7.17            | 21.47             | 42.82               | 85.17                   |
+| 67       | 7.52            | 22.52             | 44.91               | 89.33                   |
+| 68       | 7.89            | 23.63             | 47.12               | 93.72                   |
+| 69       | 8.30            | 24.85             | 49.57               | 98.59                   |
+| 70       | 8.75            | 26.20             | 52.26               | 103.94                  |
+| 71       | 9.23            | 27.64             | 56.12               | 109.64                  |
+| 72       | 9.75            | 29.20             | 58.23               | 115.82                  |
+| 73       | 10.32           | 30.90             | 61.63               | 122.59                  |
+| 74       | 10.93           | 32.73             | 65.28               | 129.83                  |
+
+
+**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
+
+4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
+
+</div>
+</li>
+</ul>
+
+
 ### Endowment at age 60
 
 - Available on all programs except those that start with "K"
 - Premium payment is the same for the entire time you hold the policy
 - Face-value of policy is paid to you (and coverage ends) on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
 - Has loan and cash value
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow">Endowment at age 60 premium rates</button>
+<div id="60-endow" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
+| 15       | $1.30           | $3.89             | $7.76               | $15.44                  |
+| 16       | 1.34            | 4.01              | 8.00                | 15.92                   |
+| 17       | 1.39            | 4.16              | 8.30                | 16.51                   |
+| 18       | 1.44            | 4.31              | 8.60                | 17.11                   |
+| 19       | 1.49            | 4.46              | 8.90                | 17.70                   |
+| 20       | 1.54            | 4.61              | 9.20                | 18.29                   |
+| 21       | 1.60            | 4.79              | 9.56                | 19.01                   |
+| 22       | 1.66            | 4.97              | 9.91                | 19.72                   |
+| 23       | 1.72            | 5.15              | 10.27               | 20.43                   |
+| 24       | 1.79            | 5.36              | 10.69               | 21.26                   |
+| 25       | 1.86            | 5.57              | 11.11               | 22.09                   |
+| 26       | 1.93            | 5.78              | 11.53               | 22.93                   |
+| 27       | 2.01            | 6.02              | 12.00               | 23.88                   |
+| 28       | 2.10            | 6.29              | 12.54               | 24.94                   |
+| 29       | 2.19            | 6.56              | 13.08               | 26.01                   |
+| 30       | 2.28            | 6.83              | 13.62               | 27.08                   |
+| 31       | 2.39            | 7.16              | 14.27               | 28.39                   |
+| 32       | 2.50            | 7.49              | 14.93               | 29.70                   |
+| 33       | 2.62            | 7.85              | 15.65               | 31.12                   |
+| 34       | 2.74            | 8.20              | 16.36               | 32.56                   |
+| 35       | 2.88            | 8.62              | 17.20               | 34.21                   |
+| 36       | 3.03            | 9.07              | 18.10               | 35.99                   |
+| 37       | 3.19            | 9.55              | 19.06               | 37.89                   |
+| 38       | 3.37            | 10.09             | 20.13               | 40.03                   |
+| 39       | 3.56            | 10.66             | 21.26               | 42.29                   |
+| 40       | 3.77            | 11.29             | 22.52               | 44.78                   |
+| 41       | 4.01            | 12.01             | 23.95               | 47.63                   |
+| 42       | 4.26            | 12.76             | 25.44               | 50.60                   |
+| 43       | 4.55            | 13.62             | 27.17               | 54.06                   |
+| 44       | 4.87            | 14.58             | 29.09               | 57.86                   |
+| 45       | 5.24            | 15.69             | 31.29               | 62.24                   |
+| 46       | 5.66            | 16.95             | 33.80               | 67.23                   |
+| 47       | 6.13            | 18.36             | 36.61               | 72.82                   |
+| 48       | 6.69            | 20.03             | 39.95               | 79.47                   |
+| 49       | 7.34            | 21.98             | 43.84               | 87.19                   |
+| 50       | 8.12            | 24.31             | 48.49               | 96.45                   |
+| 51       | 9.07            | 27.16             | 54.17               | 107.74                  |
+| 52       | 10.25           | 30.69             | 61.22               | 121.75                  |
+| 53       | 11.77           | 35.24             | 70.29               | 139.81                  |
+| 54       | 13.78           | 41.26             | 82.30               | 163.89                  |
+| 55       | 16.58           | 49.65             | 99.02               | 196.95                  |
+| 56       | 20.78           | 62.22             | 124.10              | 246.84                  |
+| 57       | 27.74           | 83.07             | 165.67              | 329.51                  |
+| 58       | 41.64           | 124.69            | 248.69              | 494.62                  |
+| 59       | 83.27           | 249.35            | 497.31              | 989.12                  |
+
+**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
+
+4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
+
+</div>
+</li>
+</ul>
 
 ### Endowment at age 65
 
@@ -558,8 +700,69 @@ You must pay your premiums for supplemental S-DVI.
 
 
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="65-endow">Endowment at age 65 premium rates</button>
+<div id="65-endow" class="usa-accordion-content">
 
-For each plan type (listed on pg. 6 of the pdf), we'll structure as:
-H3: Plan type
-A brief, bulleted list of plan features (from the table on page 6)
-Accordions for premium tables chunked into age groups (see https://www.va.gov/life-insurance/options-eligibility/vgli/ as an examples). Within each accordion, the user should see the table and then, underneath, a reminder of how to find/determine their specific premium rate...we should explain the idea of "if you pay monthly vs. twice a year, etc." as well as the calculation based on coverage amount.
+| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
+| 15       | $1.17           | $3.50             | $6.99               | $13.90                  |
+| 16       | 1.21            | 3.62              | 7.23                | 14.37                   |
+| 17       | 1,24            | 3.71              | 7.41                | 14.73                   |
+| 18       | 1.28            | 3.83              | 7.64                | 15.20                   |
+| 19       | 1.33            | 3.98              | 7.94                | 15.80                   |
+| 20       | 1.37            | 4.10              | 8.18                | 16.27                   |
+| 21       | 1.42            | 4.25              | 8.48                | 16.87                   |
+| 22       | 1.47            | 4.40              | 8.78                | 17.46                   |
+| 23       | 1.52            | 4.55              | 9.08                | 18.06                   |
+| 24       | 1.57            | 4.70              | 9.38                | 18.65                   |
+| 25       | 1.63            | 4.88              | 9.73                | 19.36                   |
+| 26       | 1.69            | 5.06              | 10.09               | 20.07                   |
+| 27       | 1.75            | 5.24              | 10.45               | 20.79                   |
+| 28       | 1.82            | 5.45              | 10.87               | 21.62                   |
+| 29       | 1.89            | 5.66              | 11.29               | 22.45                   |
+| 30       | 1.97            | 5.90              | 11.77               | 23.40                   |
+| 31       | 2.05            | 6.14              | 12.24               | 24.35                   |
+| 32       | 2.13            | 6.38              | 12.72               | 25.30                   |
+| 33       | 2.22            | 6.65              | 13.26               | 26.37                   |
+| 34       | 2.32            | 6.95              | 13.86               | 27.56                   |
+| 35       | 2.42            | 7.25              | 14.45               | 28.75                   |
+| 36       | 2.53            | 7.58              | 15.11               | 30.05                   |
+| 37       | 2.64            | 7.91              | 15.77               | 31.36                   |
+| 38       | 2.77            | 8.29              | 16.54               | 32.90                   |
+| 39       | 2.90            | 8.68              | 17.32               | 34.45                   |
+| 40       | 3.05            | 9.13              | 18.22               | 36.23                   |
+| 41       | 3.21            | 9.61              | 19.17               | 38.13                   |
+| 42       | 3.38            | 10.12             | 20.19               | 40.15                   |
+| 43       | 3.56            | 10.66             | 21.26               | 42.29                   |
+| 44       | 3.76            | 11.26             | 22.46               | 44.66                   |
+| 45       | 3.98            | 11.92             | 23.77               | 47.28                   |
+| 46       | 4.23            | 12.67             | 25.26               | 50.25                   |
+| 47       | 4.50            | 13.48             | 26.88               | 53.45                   |
+| 48       | 4.80            | 14.37             | 28.67               | 57.02                   |
+| 49       | 5.13            | 15.36             | 30.64               | 60.94                   |
+| 50       | 5.51            | 16.50             | 32.91               | 65.45                   |
+| 51       | 5.94            | 17.79             | 35.48               | 70.56                   |
+| 52       | 6.43            | 19.25             | 38.40               | 76.38                   |
+| 53       | 7.00            | 20.96             | 41.81               | 83.15                   |
+| 54       | 7.66            | 22.94             | 45.75               | 90.99                   |
+| 55       | 8.46            | 25.33             | 50.53               | 100.49                  |
+| 56       | 9.43            | 28.24             | 56.32               | 112.01                  |
+| 57       | 10.62           | 31.80             | 63.43               | 126.15                  |
+| 58       | 12.15           | 36.38             | 72.56               | 144.32                  |
+| 59       | 14.18           | 42.46             | 84.69               | 168.44                  |
+| 60       | 17.00           | 50.91             | 101.53              | 201.93                  |
+| 61       | 21.21           | 63.51             | 126.67              | 251.94                  |
+| 62       | 28.19           | 84.41             | 168.36              | 334.83                  |
+| 63       | 42.11           | 126.10            | 251.49              | 500.20                  |
+| 64       | 83.73           | 250.73            | 500.06              | 994.59                  |
+
+
+**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
+
+4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
+
+</div>
+</li>
+</ul>
