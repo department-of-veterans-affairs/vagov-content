@@ -138,14 +138,6 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
   <li>Include your Social Security Number</li>
 </ul>
 
-<b>Acceptable forms of payment include:</b>
-
-<ul style="list-style-type:square;">
-  <li>Personal check</li>
-  <li>Cashier's check</li>
-  <li>Money order</li>
-</ul>
-
 Send your payment to:
 
 <br>
@@ -181,14 +173,6 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
   <li>Include your Social Security Number</li>
 </ul>
 
-**Acceptable forms of payment include:**
-
-<ul style="list-style-type:square;">
-  <li>Personal check</li>
-  <li>Cashier's check</li>
-  <li>Money order</li>
-</ul>
-
 Send your payment to:
 
 <br>
@@ -213,14 +197,6 @@ Call the Marine Forces Reserve Customer Service Center at <a href="tel:+18002555
   <li>Include your Social Security Number</li>
 </ul>
 
-**Acceptable forms of payment include:**
-
-<ul style="list-style-type:square;">
-  <li>Personal check</li>
-  <li>Cashier's check</li>
-  <li>Money order</li>
-</ul>
-
 Send your payment to:
 
 <br>
@@ -240,14 +216,13 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 **Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
 <br>
 <br>
-**If you make a payment by phone, we only accept:** 
+**If you make a payment by phone, we only accept these payment types:** 
 
 <ul style="list-style-type:square;">
   <li>Debit</li>
   <li>Credit</li>
 </ul>
 
-<br>
 
 <b>To pay premiums by mail:</b>
 
@@ -256,14 +231,6 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
   <li>Include "SGLI payment" in the description</li>
   <li>Include your name and Employee ID number</li>
   <li>Include your Social Security Number</li>
-</ul>
-
-**Acceptable forms of payment include:**
-
-<ul style="list-style-type:square;">
-  <li>Personal check</li>
-  <li>Cashier's check</li>
-  <li>Money order</li>
 </ul>
 
 Send your payment to:
@@ -276,6 +243,16 @@ Send your payment to:
     444 SE Quincy Street <br>
     Topeka, KS 66683-3591
 </p>
+
+## What payment types do you accept?
+
+**We accept these payment types:**
+
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 
 
