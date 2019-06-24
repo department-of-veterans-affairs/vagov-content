@@ -85,7 +85,7 @@ If you qualify for the protected rate for a specific pension benefit, we'll pay 
 
 ### Section 306 disability pension yearly income limits
 
-#### Determine eligibility for Veterans without dependents
+#### Determine your eligibility if you're a Veteran without dependents
 
 All income limits are in U.S. $
 | Pension benefit | 2018 yearly income limit |
@@ -96,7 +96,7 @@ All income limits are in U.S. $
 
 **Note:** The hospital reduction rate is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
-#### Determine eligiblity for Veterans with dependents
+#### Determine your eligiblity if you're a Veteran with dependents
 
 All income limits are in U.S. $
 | Pension benefit | 2018 yearly income limit |
@@ -111,9 +111,9 @@ All income limits are in U.S. $
 
 ### Section 306 death pension yearly income limits
 
-#### Determine eligibility
+#### Determine your eligibility
 
-All income limits in U.S. $
+All income limits are in U.S. $
 | Survivor status | 2018 yearly income limit |
 | --- | ---: |
 | **Surviving spouse alone** (no dependent children) | 15,394 | 
@@ -132,15 +132,15 @@ An annuity is a fixed sum of money paid to the plan's beneficiary each year. If 
 
 These pension programs were available before July 1, 1960. 
 
-### Old law disability pension
+### Old law disability pension yearly income limits
 
-#### Yearly income limits to determine eligibility
+#### Determine your eligibility
 
 All income limits are in U.S. $
 | Veteran status | 2018 yearly income limit |
 | --- | ---: |
 | **Veteran alone** (no spouse or dependent children) | 13,480 | 
-| **Veteran with spouse or one or more dependent children** | 19,429 |
+| **Veteran with a spouse or one or more dependent children** | 19,429 |
 
 #### Monthly payments
 
@@ -150,13 +150,13 @@ All rates are in U.S. $
 | Pension benefit | Monthly payment | 
 |--- | ---: | 
 | **Basic Veteran pension** | 66.15 |
-| **Pension for Veteran with 10 years of service or who is 65 years or older** | 78.75 | 
+| **Pension for Veteran with 10 years of service or who is at least 65 years old** | 78.75 | 
 | **Aid and Attendance** <br> (if entitled) | 135.45 |
 | **Housebound allowance** <br> (if entitled) | 100 |
 
-### Old law death pension
+### Old law death pension yearly income limits
 
-#### Yearly income limits to determine eligibility
+#### Determine your eligibility
 
 All income limits are in U.S. $
 | Survivor status | Income limit <br> (yearly income at or below this amount) | 
@@ -167,7 +167,7 @@ All income limits are in U.S. $
 
 #### Monthly payments
 
-If you're eligible for the protected rate for a specific pension benefit, we'll pay the rate you were entitled to on December 31, 1978 plus a cost-of-living increase. The cost-of-living increase for this year is <strong>2.8%</strong>.
+If you're eligible for the protected rate for a specific pension benefit, we'll pay the rate you were entitled to on December 31, 1978, plus a cost-of-living increase. The cost-of-living increase for this year is <strong>2.8%</strong>.
 
 ### Old law Survivor Benefit Plan (SBP) or minimum income widow annuity limitation
 
@@ -182,6 +182,6 @@ If you're the beneficiary of an old law death pension Survivor Benefit Plan (als
 
 Review protected pension rates from past years:
 
-[Rates effective December, 2017](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen17.asp)<br>
+[Rates effective December 1, 2017](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen17.asp)<br>
 [Rates effective December 1, 2016](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen16.asp)<br>
 [Rates effective December 1, 2014, and earlier](https://www.benefits.va.gov/PENSION/protected_pension_rate_tables_pen14.asp)
