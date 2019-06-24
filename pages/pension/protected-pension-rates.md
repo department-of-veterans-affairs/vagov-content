@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-You may be eligible for protected rates if you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program. If you qualify for protected rates, it means you're able to continue receiving payments at the rates under the old program as well as a cost-of-living increase. 
+You may be eligible for protected rates if you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program. This means you'll be able to continue receiving payments at the rates under the old program as well as a cost-of-living increase. 
 
 </div>
 
@@ -79,13 +79,11 @@ Dependents may also include any biological, step, or adopted children you may ha
 
 These pensions were available from July 1, 1960, through December 31, 1978. 
 
-### Monthly payments
-
-If you qualify for the protected rate for a specific pension benefit, we'll pay you the monthly payment amount you were entitled to on December 31, 1978, plus a cost-of-living increase. The cost-of-living increase for this year is <strong>2.8%</strong>.
-
 ### Section 306 disability pension yearly income limits
 
-#### Determine your eligibility if you're a Veteran without dependents
+We use the income limits below to determine your eligibility for protected Section 306 disability pension rates.
+
+#### If you're a Veteran without dependents
 
 All income limits are in U.S. $
 | Pension benefit | 2018 yearly income limit |
@@ -96,7 +94,7 @@ All income limits are in U.S. $
 
 **Note:** The hospital reduction rate is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
-#### Determine your eligiblity if you're a Veteran with dependents
+#### If you're a Veteran with dependents
 
 All income limits are in U.S. $
 | Pension benefit | 2018 yearly income limit |
@@ -111,7 +109,7 @@ All income limits are in U.S. $
 
 ### Section 306 death pension yearly income limits
 
-#### Determine your eligibility
+We use the income limits below to determine your eligibility for protected Section 306 death pension rates.
 
 All income limits are in U.S. $
 | Survivor status | 2018 yearly income limit |
@@ -119,6 +117,10 @@ All income limits are in U.S. $
 | **Surviving spouse alone** (no dependent children) | 15,394 | 
 | **Surviving spouse with one or more dependent children** | 20,692 |
 | **Each surviving dependent child,** if the Veteran has no surviving spouse | 12,587 | 
+
+### Monthly payments
+
+If you qualify for the protected rate for a specific pension benefit, we'll pay you the monthly payment amount you were entitled to on December 31, 1978, plus a cost-of-living increase each year. The cost-of-living increase for this year is <strong>2.8%</strong>.
 
 ### Survivor Benefit Plan (SBP) or minimum income widow annuity limitation
 
@@ -134,7 +136,7 @@ These pension programs were available before July 1, 1960.
 
 ### Old law disability pension yearly income limits
 
-#### Determine your eligibility
+We use the income limits below to determine your eligibility for protected old law disability pension rates.
 
 All income limits are in U.S. $
 | Veteran status | 2018 yearly income limit |
@@ -156,7 +158,7 @@ All rates are in U.S. $
 
 ### Old law death pension yearly income limits
 
-#### Determine your eligibility
+We use the income limits below to determine your eligibility for protected old law death pension rates.
 
 All income limits are in U.S. $
 | Survivor status | Income limit <br> (yearly income at or below this amount) | 
@@ -167,7 +169,7 @@ All income limits are in U.S. $
 
 #### Monthly payments
 
-If you're eligible for the protected rate for a specific pension benefit, we'll pay the rate you were entitled to on December 31, 1978, plus a cost-of-living increase. The cost-of-living increase for this year is <strong>2.8%</strong>.
+If you're eligible for the protected rate for a specific pension benefit, we'll pay the rate you were entitled to on December 31, 1978, plus a cost-of-living increase each year. The cost-of-living increase for this year is <strong>2.8%</strong>.
 
 ### Old law Survivor Benefit Plan (SBP) or minimum income widow annuity limitation
 
