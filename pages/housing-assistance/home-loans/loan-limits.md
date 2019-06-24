@@ -61,7 +61,7 @@ This will depend on your entitlement, and on the location of the property for wh
 
 - **Bonus entitlement:** You may want to buy a home that costs more than $144,000. To help you do this, we offer what's called bonus (or Tier 2) entitlement. To determine your bonus entitlement, we'll look at the Federal Housing Finance Agency's (FHFA's) current national conventional financing confirming limit and your state's county loan limits. We'll guarantee 25% of your loan amount, based on these loan limits. 
 
-If you have questions about your entitlement, talk to your lender or call us at <a href="tel:+18778273702">877-827-3702</a> to find the nearest VA regional office with loan guaranty staff. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
+If you have questions about your entitlement, talk to your lender or call us at <a href="tel:+18778273702">877-827-3702</a> to find the nearest VA regional loan center. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
 
 ### What if I don't use all of my entitlement on my first home loan?
 
