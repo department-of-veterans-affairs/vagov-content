@@ -52,12 +52,6 @@ Or, you can email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX
 - Include "SGLI payment" in the description
 - Include your Social Security Number
 
-**Acceptable forms of payment include:**
-
-- Personal check
-- Cashier's check
-- Money order
-
 
 <ul class="usa-accordion">
 <li>
