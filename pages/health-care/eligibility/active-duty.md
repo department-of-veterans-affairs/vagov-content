@@ -27,12 +27,14 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you're serving on active duty, including as a returning OEF/OIF/OND service member, find out how to apply for VA health care once you've received your separation or retirement orders.
+If you're serving on active duty, including as a returning OEF/OIF/OND service member, find out how to apply for VA health care once you've received your separation or retirement orders. Your eligibility for VA health care and other health care coverage depends on your service history and other factors.
 
 </div>
 
 <h3>On this page</h3>
-- [Eligibility for health care after separation or retirement](#eligibility)
+- [Enhanced eligibility for returning OEF/OIF/OND combat Veterans](#oef-oif-ond)
+- [Eligibility after separation (including active National Guard and Reserve members)](#separating)
+- [Eligibility after retirement](#retiring)
 - [Getting started with VA health care](#starting)
 
 <div class="usa-alert usa-alert-info">
@@ -49,7 +51,7 @@ If you need support for a specific mental health problem—or if you’re having
 <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest VA health facility</a>
 - **Call or walk in to any Vet Center** during clinic hours. <br>
 <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest Vet Center</a>
-- **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
+- **Call us at <a href="tel:+18772228387">877-222-8387</a>.** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 800-877-8339.
 
 You don’t need to be enrolled in VA health care to get care.
 
@@ -63,21 +65,12 @@ You don’t need to be enrolled in VA health care to get care.
 </div>
 </div>
 
-<span id="eligibility"></span>
-<h2>Eligibility for health care after separation or retirement</h2>
-
-Your eligibility for VA health care and other health care coverage depends on your service history and other factors. Learn more about what health benefits you may qualify for and how to apply if you're:
-- [Returning from OEF/OIF/OND combat](#oef-oif-ond)
-- [Separating from active duty (including active National Guard and Reserve)](#separating)
-- [Retiring from active duty](#retiring)
-- [Being medically retired from active duty](#medically-retired)
-
 <span id="oef-oif-ond"></span>
-<h3>If you're returning from OEF/OIF/OND combat</h3>
+<h2>Enhanced eligibility for returning OEF/OIF/OND combat Veterans</h2>
 
 You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operation Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is called an enhanced eligibility period.
 
-<h4>We encourage you to apply right away</h4> 
+<h3>We encourage you to apply right away</h3> 
 If you wait to apply for VA health care until after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
 [Find out how to apply for VA health care](/health-care/how-to-apply/)
 
@@ -129,7 +122,7 @@ You may be eligible for one-time dental care for any needed conditions. Be sure 
 </div>
 
 <span id="separating"></span>
-<h3>If you're separating from active duty (including active National Guard and Reserve)</h3>
+<h2>Eligibility after separation (including active National Guard and Reserve members)</h2>
 
 You may be eligible for VA health care for all or some of your health care needs. We'll determine your eligibility based on your service history, VA disability rating, income, and other factors. If you had active-duty status for training purposes only, you don’t qualify for VA health care.<br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
@@ -137,16 +130,14 @@ You may be eligible for VA health care for all or some of your health care needs
 
 You and your family may also qualify for temporary health coverage through the Department of Defense's TRICARE program. If you're a member of the National Guard and Reserve, your coverage options will depend on your military status before you separate. You'll have 90 days from your separation date to change your health plan.
 
-Learn more about how to enroll for temporary coverage after separation. <br>
-[Go to the TRICARE website page about separating](https://tricare.mil/LifeEvents/Separating)
+Visit the TRICARE website to learn more about [how to enroll for temporary TRICARE coverage after separation](https://tricare.mil/LifeEvents/Separating). <br>
 
 <span id="retiring"></span>
-<h3>If you're retiring from active duty</h3>
+<h2>Eligibility after retirement</h2>
 
 You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 days after your retirement date even if you're already enrolled in TRICARE on active duty.
 
-Learn more about how to enroll in TRICARE as a military retiree. <br>
-[Go to the TRICARE website page about retiring](https://tricare.mil/LifeEvents/Retiring)
+Visit the TRICARE website to learn more about [how to enroll in TRICARE as a military retiree](https://tricare.mil/LifeEvents/Retiring).
 
 You may also be eligible for certain VA health care benefits. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
@@ -159,7 +150,7 @@ You may be eligible to receive care through VA for any service-connected disabil
 
 To learn more about your options, talk with a VA benefits counselor. Your counselor will help you determine what your military and VA medical board ratings mean and how they affect your options. Your counselor will also help you apply for benefits.
 
-Call our health benefits hotline at 1-877-222-VETS (<a href="tel:+18778387">1-877-8387</a>) to connect with a benefits counselor.  If you have hearing loss, call TTY: 1-800-877-8339. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
+Call our health benefits hotline at <a href="tel:+18778387">877-8387</a> to connect with a benefits counselor.  If you have hearing loss, call TTY: 800-877-8339. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
 [Find a VA medical center near you](/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType)
 
 ------
