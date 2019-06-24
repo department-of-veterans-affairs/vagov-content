@@ -6,8 +6,6 @@ heading: SGLI contact info for National Guard and Reserve
 display_title: SGLI contact info for National Guard and Reserve
 description: If you're a National Guard member or reservist drilling for points, find out how to contact your branch of service to ask questions about your Servicemembers Group Life Insurance (SGLI) policy and pay your premiums.
 keywords: n/a
-concurrence: 
-order: 1
 relatedlinks:
   - heading: More information about your benefits
     links:
