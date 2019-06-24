@@ -529,7 +529,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment-49">Age 20 - 49</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment-49">Age 30 - 49</button>
 <div id="20-payment-49" class="usa-accordion-content">
 
   
@@ -611,7 +611,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-29">30 payment life premium rates</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-29">Age 29 and below</button>
 <div id="30-payment-29" class="usa-accordion-content">
 
 
@@ -884,8 +884,8 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-49">Age 30 - 49</button>
-<div id="60-endow-49" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-59">Age 50 - 59</button>
+<div id="60-endow-59" class="usa-accordion-content">
 
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
