@@ -75,7 +75,7 @@ You must pay your premiums for supplemental S-DVI.
 - Ends if you stop making premium payments
 - No cash or loan value
 
-#### 5 year level term premium rates
+#### Premium rates
 
 
 
@@ -110,7 +110,7 @@ You must pay your premiums for supplemental S-DVI.
   
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year-49">Age 30 to 49</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year-49">Age 30 - 49</button>
 <div id="5-year-49" class="usa-accordion-content">
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
@@ -143,7 +143,7 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year-70">Age 50 to 70</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year-70">Age 50 - 70</button>
 <div id="5-year-70" class="usa-accordion-content">
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
@@ -175,72 +175,6 @@ You must pay your premiums for supplemental S-DVI.
 </li>
 </ul>
 
-| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
-|----------|-----------------|-------------------|---------------------|-------------------------|
-| 16       | 0.19            | 0.57              | 1.13                | 2.26                    |
-| 17       | 0.2             | 0.6               | 1.19                | 2.38                    |
-| 18       | 0.2             | 0.6               | 1.19                | 2.38                    |
-| 19       | 0.21            | 0.63              | 1.25                | 2.49                    |
-| 20       | 0.21            | 0.63              | 1.25                | 2.49                    |
-| 21       | 0.22            | 0.66              | 1.31                | 2.61                    |
-| 22       | 0.23            | 0.69              | 1.37                | 2.73                    |
-| 23       | 0.24            | 0.72              | 1.43                | 2.85                    |
-| 24       | 0.25            | 0.75              | 1.49                | 2.97                    |
-| 25       | 0.26            | 0.78              | 1.55                | 3.09                    |
-| 26       | 0.27            | 0.81              | 1.61                | 3.21                    |
-| 27       | 0.28            | 0.84              | 1.67                | 3.33                    |
-| 28       | 0.29            | 0.87              | 1.73                | 3.44                    |
-| 29       | 0.31            | 0.93              | 1.85                | 3.68                    |
-| 30       | 0.32            | 0.96              | 1.91                | 3.8                     |
-| 31       | 0.34            | 1.02              | 2.03                | 4.04                    |
-| 32       | 0.36            | 1.08              | 2.15                | 4.28                    |
-| 33       | 0.38            | 1.14              | 2.27                | 4.51                    |
-| 34       | 0.4             | 1.2               | 2.39                | 4.75                    |
-| 35       | 0.43            | 1.29              | 2.57                | 5.11                    |
-| 36       | 0.45            | 1.35              | 2.69                | 5.35                    |
-| 37       | 0.48            | 1.44              | 2.87                | 5.7                     |
-| 38       | 0.51            | 1.53              | 3.05                | 6.06                    |
-| 39       | 0.54            | 1.62              | 3.23                | 6.41                    |
-| 40       | 0.58            | 1.74              | 3.46                | 6.89                    |
-| 41       | 0.62            | 1.86              | 3.7                 | 7.36                    |
-| 42       | 0.67            | 2.01              | 4                   | 7.96                    |
-| 43       | 0.71            | 2.13              | 4.24                | 8.43                    |
-| 44       | 0.76            | 2.28              | 4.54                | 9.03                    |
-| 45       | 0.82            | 2.46              | 4.9                 | 9.74                    |
-| 46       | 0.88            | 2.64              | 5.26                | 10.45                   |
-| 47       | 0.95            | 2.84              | 5.67                | 11.28                   |
-| 48       | 1.02            | 3.05              | 6.09                | 12.12                   |
-| 49       | 1.1             | 3.29              | 6.57                | 13.07                   |
-| 50       | 1.19            | 3.56              | 7.11                | 14.14                   |
-| 51       | 1.28            | 3.83              | 7.64                | 15.2                    |
-| 52       | 1.38            | 4.13              | 8.24                | 16.39                   |
-| 53       | 0.149           | 4.46              | 8.9                 | 17.7                    |
-| 54       | 1.61            | 4.82              | 9.62                | 19.12                   |
-| 55       | 1.75            | 5.24              | 10.45               | 20.79                   |
-| 56       | 1.89            | 5.66              | 11.29               | 22.45                   |
-| 57       | 2.04            | 6.11              | 12.18               | 24.23                   |
-| 58       | 2.21            | 6.62              | 13.2                | 26.25                   |
-| 59       | 2.4             | 7.19              | 14.33               | 28.51                   |
-| 60       | 2.6             | 7.79              | 15.53               | 30.88                   |
-| 61       | 2.82            | 8.44              | 16.84               | 33.5                    |
-| 62       | 3.05            | 9.13              | 18.22               | 36.23                   |
-| 63       | 3.31            | 9.91              | 19.77               | 39.32                   |
-| 64       | 3.59            | 10.75             | 21.44               | 42.64                   |
-| 65       | 3.9             | 11.68             | 23.29               | 46.33                   |
-| 66       | 4.23            | 12.67             | 25.26               | 50.25                   |
-| 67       | 4.59            | 13.74             | 27.41               | 54.52                   |
-| 68       | 4.98            | 14.91             | 29.74               | 59.15                   |
-| 69       | 5.41            | 16.2              | 32.31               | 64.26                   |
-| 70       | 5.87            | 17.58             | 35.06               | 69.73                   |
-
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-1.28 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $12.80 / month. 
-
-
-</div>
-</li>
-</ul>
 
 ### Modified life at age 65
 
@@ -252,13 +186,17 @@ You must pay your premiums for supplemental S-DVI.
 - When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $6.58 per month per $1000.00.
 - Has loan and cash value
 
+#### Premium rates
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65">Modified life at age 65 premium rates</button>
-<div id="modified-65" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65-29">Age 29 and below</button>
+<div id="modified-65-29" class="usa-accordion-content">
+  
 
 
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 15       | 0.75            | 2.25              | 4.48                | 8.91                    |
 | 16       | 0.77            | 2.31              | 4.6                 | 9.15                    |
@@ -275,6 +213,21 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 1.05            | 3.14              | 6.27                | 12.47                   |
 | 28       | 1.08            | 3.23              | 6.45                | 12.83                   |
 | 29       | 1.11            | 3.32              | 6.63                | 13.19                   |
+
+
+</div>
+</li>
+</ul>
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65-49">Age 30 - 49</button>
+<div id="modified-65-49" class="usa-accordion-content">
+  
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 1.15            | 3.44              | 6.87                | 13.66                   |
 | 31       | 1.18            | 3.53              | 7.05                | 14.02                   |
 | 32       | 1.22            | 3.65              | 7.29                | 14.49                   |
@@ -295,6 +248,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 2               | 5.99              | 11.94               | 23.76                   |
 | 48       | 2.07            | 6.2               | 12.36               | 24.59                   |
 | 49       | 2.14            | 6.41              | 12.78               | 25.42                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65-60">Age 50 - 60</button>
+<div id="modified-65-60" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 2.22            | 6.65              | 13.26               | 26.37                   |
 | 51       | 2.29            | 6.86              | 13.26               | 27.2                    |
 | 52       | 2.37            | 7.1               | 14.15               | 28.15                   |
@@ -306,10 +272,6 @@ You must pay your premiums for supplemental S-DVI.
 | 58       | 2.87            | 8.59              | 17.14               | 34.09                   |
 | 59       | 2.96            | 8.86              | 17.68               | 35.16                   |
 | 60       | 3.03            | 9.07              | 18.1                | 35.99                   |
-
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-2.29 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $22.90 / month.
 
 </div>
 </li>
@@ -325,13 +287,16 @@ You must pay your premiums for supplemental S-DVI.
 - When you turn 70 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $8.64 per month per $1000.00.
 - Has loan and cash value
 
+#### Premium rates
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70">Modified life 70 premium rates</button>
-<div id="modified-70" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70-29">Age 29 and below</button>
+<div id="modified-70-29" class="usa-accordion-content">
   
-  | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 15       | 0.81            | 2.43              | 4.84                | 9.62                    |
 | 16       | 0.83            | 2.49              | 4.96                | 9.86                    |
@@ -348,6 +313,18 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 1.13            | 3.38              | 6.75                | 13.42                   |
 | 28       | 1.17            | 3.5               | 6.93                | 13.9                    |
 | 29       | 1.2             | 3.59              | 7.17                | 14.25                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70-49">Age 30 - 49</button>
+<div id="modified-70-49" class="usa-accordion-content">
+
+  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 1.24            | 3.71              | 7.41                | 14.73                   |
 | 31       | 1.28            | 3.83              | 7.64                | 15.2                    |
 | 32       | 1.32            | 3.95              | 7.88                | 15.68                   |
@@ -368,6 +345,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 2.22            | 6.65              | 13.26               | 26.37                   |
 | 48       | 2.3             | 6.83              | 13.74               | 27.32                   |
 | 49       | 2.39            | 7.16              | 14.27               | 28.39                   |
+
+</div>
+</li>
+</ul>
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-70-65">Age 50 - 65</button>
+<div id="modified-70-65" class="usa-accordion-content">
+
+  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 2.48            | 7.43              | 14.81               | 29.46                   |
 | 51       | 2.57            | 7.7               | 15.35               | 30.53                   |
 | 52       | 2.67            | 8                 | 15.95               | 31.72                   |
@@ -386,11 +376,6 @@ You must pay your premiums for supplemental S-DVI.
 | 65       | 4.14            | 12.4              | 24.73               | 49.18                   |
 
 
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-2.57 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $25.70 / month. 
-
-
 </div>
 </li>
 </ul>
@@ -405,12 +390,15 @@ You must pay your premiums for supplemental S-DVI.
 - Premium payments stay the same over your lifetime 
 - Has loan and cash value
 
+
+#### Premium rates
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary">Ordinary life premium rates</button>
-<div id="ordinary" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary-29">Age 29 and below</button>
+<div id="ordinary-29" class="usa-accordion-content">
   
-  | Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 17       | 1.02            | 3.05              | 6.09                | 12.12                   |
 | 18       | 1.05            | 3.14              | 6.27                | 12.47                   |
@@ -425,6 +413,19 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 1.38            | 4.13              | 8.24                | 16.39                   |
 | 28       | 1.43            | 4.26              | 8.54                | 16.99                   |
 | 29       | 1.47            | 4.40              | 8.78                | 17.46                   |
+
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary-49">Age 30 - 49</button>
+<div id="ordinary-49" class="usa-accordion-content">
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 1.52            | 4.55              | 9.08                | 18.06                   |
 | 31       | 1.57            | 4.70              | 9.38                | 18.65                   |
 | 32       | 1.63            | 4.88              | 9.73                | 19.36                   |
@@ -445,6 +446,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 2.85            | 8.53              | 17.02               | 33.85                   |
 | 48       | 2.97            | 8.89              | 17.74               | 35.28                   |
 | 49       | 3.09            | 9.25              | 18.45               | 36.70                   |
+
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="ordinary-74">Age 50 - 74</button>
+<div id="ordinary-74" class="usa-accordion-content">
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 3.23            | 9.67              | 19.29               | 38.37                   |
 | 51       | 3.37            | 10.09             | 20.13               | 40.03                   |
 | 52       | 3.52            | 10.54             | 21.02               | 41.81                   |
@@ -471,10 +485,6 @@ You must pay your premiums for supplemental S-DVI.
 | 73       | 10.27           | 30.75             | 61.34               | 121.99                  |
 | 74       | 10.90           | 32.64             | 65.10               | 129.48                  |
 
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-3.37 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $33.70 / month. 
-
 
 </div>
 </li>
@@ -488,12 +498,15 @@ You must pay your premiums for supplemental S-DVI.
 - Has slightly higher premium payments than a a 30 Payment Life policy
 - Has loan and cash value
 
+#### Premium rates
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment">20 payment life premium rates</button>
-<div id="20-payment" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment-29">Age 29 and below</button>
+<div id="20-payment-29" class="usa-accordion-content">
 
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 17       | 1.87            | 5.60              | 11.17               | 22.21                   |
 | 18       | 1.91            | 5.72              | 11.41               | 22.69                   |
@@ -508,6 +521,20 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 2.28            | 6.83              | 13.62               | 27.08                   |
 | 28       | 2.33            | 6.98              | 13.92               | 27.88                   |
 | 29       | 2.38            | 7.13              | 14.21               | 28.27                   |
+
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment-49">Age 20 - 49</button>
+<div id="20-payment-49" class="usa-accordion-content">
+
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 2.43            | 7.28              | 14.51               | 28.86                   |
 | 31       | 2.48            | 7.43              | 14.81               | 29.46                   |
 | 32       | 2.53            | 7.58              | 15.11               | 30.05                   |
@@ -528,6 +555,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 3.59            | 10.75             | 21.44               | 42.64                   |
 | 48       | 3.69            | 11.05             | 22.04               | 43.83                   |
 | 49       | 3.79            | 11.35             | 22.63               | 45.02                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-payment-74">Age 50 - 74</button>
+<div id="20-payment-74" class="usa-accordion-content">
+
+  
+ | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 3.90            | 11.68             | 23.29               | 46.33                   |
 | 51       | 4.02            | 12.04             | 24.01               | 47.75                   |
 | 52       | 4.14            | 12.40             | 24.73               | 49.18                   |
@@ -554,14 +594,10 @@ You must pay your premiums for supplemental S-DVI.
 | 73       | 10.31           | 30.87             | 61.57               | 122.47                  |
 | 74       | 10.92           | 32.70             | 65.22               | 129.71                  |
 
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-4.02 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $40.20 / month. 
-
-
 </div>
 </li>
 </ul>
+
 
 
 ### 30 payment life
@@ -571,13 +607,15 @@ You must pay your premiums for supplemental S-DVI.
 - Has slightly higher premium payments than an Ordinary Life policy
 - Has loan and cash value
 
+#### Premium rates
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment">30 payment life premium rates</button>
-<div id="30-payment" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-29">30 payment life premium rates</button>
+<div id="30-payment-29" class="usa-accordion-content">
 
 
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 15       | $1.35           | $4.04             | $8.06               | $16.04                  |
 | 16       | 1.38            | 4.13              | 8.24                | 16.39                   |
@@ -594,6 +632,20 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 1.74            | 5.21              | 10.39               | 20.67                   |
 | 28       | 1.78            | 5.33              | 10.63               | 21.14                   |
 | 29       | 1.82            | 5.45              | 10.87               | 21.62                   |
+
+</div>
+</li>
+</ul>
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-49">Age 30 - 49</button>
+<div id="30-payment-49" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 1.86            | 5.57              | 11.11               | 22.09                   |
 | 31       | 1.90            | 5.69              | 11.35               | 22.57                   |
 | 32       | 1.95            | 5.84              | 11.65               | 23.16                   |
@@ -614,6 +666,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 3.00            | 8.98              | 17.92               | 35.64                   |
 | 48       | 3.10            | 9.28              | 18.51               | 36.82                   |
 | 49       | 3.22            | 9.64              | 19.23               | 38.25                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-68">Age 50 - 68</button>
+<div id="30-payment-68" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 3.34            | 10.00             | 19.95               | 39.67                   |
 | 51       | 3.47            | 10.39             | 20.72               | 41.22                   |
 | 52       | 3.60            | 10.78             | 21.50               | 42.76                   |
@@ -634,9 +699,6 @@ You must pay your premiums for supplemental S-DVI.
 | 67       | 7.32            | 21.92             | 43.72               | 86.95                   |
 | 68       | 7.73            | 23.15             | 46.17               | 91.82                   |
 
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-3.47 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $34.70 / month. 
 
 </div>
 </li>
@@ -652,12 +714,14 @@ You must pay your premiums for supplemental S-DVI.
 - Has loan and cash value
 - Coverage ends after 20 years 
 
+#### Premium rates
+
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-endow">20 year endowment premium rates</button>
-<div id="20-endow" class="usa-accordion-content">
-
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-endow-29">Age 29 and below</button>
+<div id="20-endow-29" class="usa-accordion-content">
+  
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 19       | 3.44            | 10.30             | 20.54               | 40.86                   |
 | 20       | 3.45            | 10.33             | 20.60               | 40.98                   |
@@ -670,6 +734,18 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 3.51            | 10.51             | 20.96               | 41.69                   |
 | 28       | 3.52            | 10.54             | 21.02               | 41.81                   |
 | 29       | 3.53            | 10.57             | 21.08               | 41.93                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-endow-49">Age 30 - 49</button>
+<div id="20-endow-49" class="usa-accordion-content">
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 3.55            | 10.63             | 21.20               | 42.17                   |
 | 31       | 3.56            | 10.66             | 21.26               | 42.29                   |
 | 32       | 3.58            | 10.72             | 21.38               | 42.52                   |
@@ -690,6 +766,19 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 4.10            | 12.28             | 24.49               | 48.70                   |
 | 48       | 4.16            | 12.46             | 24.84               | 49.41                   |
 | 49       | 4.23            | 12.67             | 25.26               | 50.25                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="20-endow-74">Age 50 - 74</button>
+<div id="20-endow-74" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 4.31            | 12.91             | 25.74               | 51.20                   |
 | 51       | 4.40            | 13.18             | 26.28               | 52.27                   |
 | 52       | 4.49            | 13.45             | 26.82               | 53.33                   |
@@ -716,14 +805,10 @@ You must pay your premiums for supplemental S-DVI.
 | 73       | 10.32           | 30.90             | 61.63               | 122.59                  |
 | 74       | 10.93           | 32.73             | 65.28               | 129.83                  |
 
-
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
-
 </div>
 </li>
 </ul>
+
 
 
 ### Endowment at age 60
@@ -733,14 +818,15 @@ You must pay your premiums for supplemental S-DVI.
 - Face-value of policy is paid to you (and coverage ends) on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
 - Has loan and cash value
 
+#### Premium rates
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow">Endowment at age 60 premium rates</button>
-<div id="60-endow" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-29">Age 29 and below</button>
+<div id="60-endow-29" class="usa-accordion-content">
 
 
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 15       | $1.30           | $3.89             | $7.76               | $15.44                  |
 | 16       | 1.34            | 4.01              | 8.00                | 15.92                   |
@@ -757,6 +843,19 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 2.01            | 6.02              | 12.00               | 23.88                   |
 | 28       | 2.10            | 6.29              | 12.54               | 24.94                   |
 | 29       | 2.19            | 6.56              | 13.08               | 26.01                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-49">Age 30 - 49</button>
+<div id="60-endow-49" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 2.28            | 6.83              | 13.62               | 27.08                   |
 | 31       | 2.39            | 7.16              | 14.27               | 28.39                   |
 | 32       | 2.50            | 7.49              | 14.93               | 29.70                   |
@@ -777,6 +876,20 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 6.13            | 18.36             | 36.61               | 72.82                   |
 | 48       | 6.69            | 20.03             | 39.95               | 79.47                   |
 | 49       | 7.34            | 21.98             | 43.84               | 87.19                   |
+
+</div>
+</li>
+</ul>
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-49">Age 30 - 49</button>
+<div id="60-endow-49" class="usa-accordion-content">
+
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 50       | 8.12            | 24.31             | 48.49               | 96.45                   |
 | 51       | 9.07            | 27.16             | 54.17               | 107.74                  |
 | 52       | 10.25           | 30.69             | 61.22               | 121.75                  |
@@ -788,13 +901,10 @@ You must pay your premiums for supplemental S-DVI.
 | 58       | 41.64           | 124.69            | 248.69              | 494.62                  |
 | 59       | 83.27           | 249.35            | 497.31              | 989.12                  |
 
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
-
 </div>
 </li>
 </ul>
+
 
 ### Endowment at age 65
 
@@ -807,10 +917,10 @@ You must pay your premiums for supplemental S-DVI.
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="65-endow">Endowment at age 65 premium rates</button>
-<div id="65-endow" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="65-endow-29">Age 29 and below</button>
+<div id="65-endow-29" class="usa-accordion-content">
 
-| Your age | Monthly payment | Quarterly payment | Semi-annual payment | Annual (yearly) payment |
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 15       | $1.17           | $3.50             | $6.99               | $13.90                  |
 | 16       | 1.21            | 3.62              | 7.23                | 14.37                   |
@@ -827,6 +937,18 @@ You must pay your premiums for supplemental S-DVI.
 | 27       | 1.75            | 5.24              | 10.45               | 20.79                   |
 | 28       | 1.82            | 5.45              | 10.87               | 21.62                   |
 | 29       | 1.89            | 5.66              | 11.29               | 22.45                   |
+
+</div>
+</li>
+</ul>
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="65-endow-49">Age 30 - 49</button>
+<div id="65-endow-49" class="usa-accordion-content">
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 30       | 1.97            | 5.90              | 11.77               | 23.40                   |
 | 31       | 2.05            | 6.14              | 12.24               | 24.35                   |
 | 32       | 2.13            | 6.38              | 12.72               | 25.30                   |
@@ -848,6 +970,19 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 4.80            | 14.37             | 28.67               | 57.02                   |
 | 49       | 5.13            | 15.36             | 30.64               | 60.94                   |
 | 50       | 5.51            | 16.50             | 32.91               | 65.45                   |
+
+</div>
+</li>
+</ul>
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="65-endow-64">Age 50 - 64</button>
+<div id="65-endow-64" class="usa-accordion-content">
+
+| Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
+|----------|-----------------|-------------------|---------------------|-------------------------|
 | 51       | 5.94            | 17.79             | 35.48               | 70.56                   |
 | 52       | 6.43            | 19.25             | 38.40               | 76.38                   |
 | 53       | 7.00            | 20.96             | 41.81               | 83.15                   |
@@ -863,11 +998,7 @@ You must pay your premiums for supplemental S-DVI.
 | 63       | 42.11           | 126.10            | 251.49              | 500.20                  |
 | 64       | 83.73           | 250.73            | 500.06              | 994.59                  |
 
-
-**Note:** To get your monthly rate, multiply the amount of your insurance by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of insurance, you'll make this calculation to determine your premium payment:  <br>
-
-4.40 (Age 51 rate) x 10 (amount of insurance per $1000.00) = $44.00 / month. 
-
 </div>
 </li>
 </ul>
+
