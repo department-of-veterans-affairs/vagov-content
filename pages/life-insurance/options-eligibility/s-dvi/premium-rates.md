@@ -48,9 +48,9 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 
 **To calculate your premium rate:**
 
-Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000.00 worth of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$1.28 (Age 51 rate) x 10 (amount of insurance / 1000) = $12.80 / month. 
+$1.28 (Age 51 monthly rate) x 10 (amount of insurance / 1000) = $12.80 / month. 
 
 ### Should I compare these premium rates to other insurance companies? 
 
@@ -102,6 +102,14 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 0.29            | 0.87              | 1.73                | 3.44                    |
 | 29       | 0.31            | 0.93              | 1.85                | 3.68                    |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
+<br>
+
 </div>
 </li>
 </ul>
@@ -137,6 +145,13 @@ You must pay your premiums for supplemental S-DVI.
 | 49       | 1.1             | 3.29              | 6.57                | 13.07                   |
 
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
+
 </div>
 </li>
 </ul>
@@ -170,6 +185,11 @@ You must pay your premiums for supplemental S-DVI.
 | 69       | 5.41            | 16.2              | 32.31               | 64.26                   |
 | 70       | 5.87            | 17.58             | 35.06               | 69.73                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -214,6 +234,12 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 1.08            | 3.23              | 6.45                | 12.83                   |
 | 29       | 1.11            | 3.32              | 6.63                | 13.19                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 
 </div>
 </li>
@@ -249,6 +275,12 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 2.07            | 6.2               | 12.36               | 24.59                   |
 | 49       | 2.14            | 6.41              | 12.78               | 25.42                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -272,6 +304,13 @@ You must pay your premiums for supplemental S-DVI.
 | 58       | 2.87            | 8.59              | 17.14               | 34.09                   |
 | 59       | 2.96            | 8.86              | 17.68               | 35.16                   |
 | 60       | 3.03            | 9.07              | 18.1                | 35.99                   |
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 
 </div>
 </li>
@@ -314,6 +353,12 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 1.17            | 3.5               | 6.93                | 13.9                    |
 | 29       | 1.2             | 3.59              | 7.17                | 14.25                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -346,6 +391,12 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 2.3             | 6.83              | 13.74               | 27.32                   |
 | 49       | 2.39            | 7.16              | 14.27               | 28.39                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -375,6 +426,11 @@ You must pay your premiums for supplemental S-DVI.
 | 64       | 4.03            | 12.07             | 24.07               | 47.87                   |
 | 65       | 4.14            | 12.4              | 24.73               | 49.18                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -414,6 +470,11 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 1.43            | 4.26              | 8.54                | 16.99                   |
 | 29       | 1.47            | 4.40              | 8.78                | 17.46                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -447,6 +508,11 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 2.97            | 8.89              | 17.74               | 35.28                   |
 | 49       | 3.09            | 9.25              | 18.45               | 36.70                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -485,6 +551,11 @@ You must pay your premiums for supplemental S-DVI.
 | 73       | 10.27           | 30.75             | 61.34               | 121.99                  |
 | 74       | 10.90           | 32.64             | 65.10               | 129.48                  |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -522,6 +593,12 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 2.33            | 6.98              | 13.92               | 27.88                   |
 | 29       | 2.38            | 7.13              | 14.21               | 28.27                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 
 </div>
 </li>
@@ -555,6 +632,13 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 3.59            | 10.75             | 21.44               | 42.64                   |
 | 48       | 3.69            | 11.05             | 22.04               | 43.83                   |
 | 49       | 3.79            | 11.35             | 22.63               | 45.02                   |
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 
 </div>
 </li>
@@ -593,6 +677,12 @@ You must pay your premiums for supplemental S-DVI.
 | 72       | 9.74            | 29.17             | 58.17               | 115.70                  |
 | 73       | 10.31           | 30.87             | 61.57               | 122.47                  |
 | 74       | 10.92           | 32.70             | 65.22               | 129.71                  |
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -633,6 +723,13 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 1.78            | 5.33              | 10.63               | 21.14                   |
 | 29       | 1.82            | 5.45              | 10.87               | 21.62                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -667,6 +764,13 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 3.10            | 9.28              | 18.51               | 36.82                   |
 | 49       | 3.22            | 9.64              | 19.23               | 38.25                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -699,6 +803,11 @@ You must pay your premiums for supplemental S-DVI.
 | 67       | 7.32            | 21.92             | 43.72               | 86.95                   |
 | 68       | 7.73            | 23.15             | 46.17               | 91.82                   |
 
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -735,6 +844,13 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 3.52            | 10.54             | 21.02               | 41.81                   |
 | 29       | 3.53            | 10.57             | 21.08               | 41.93                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -766,6 +882,13 @@ You must pay your premiums for supplemental S-DVI.
 | 47       | 4.10            | 12.28             | 24.49               | 48.70                   |
 | 48       | 4.16            | 12.46             | 24.84               | 49.41                   |
 | 49       | 4.23            | 12.67             | 25.26               | 50.25                   |
+
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -804,6 +927,13 @@ You must pay your premiums for supplemental S-DVI.
 | 72       | 9.75            | 29.20             | 58.23               | 115.82                  |
 | 73       | 10.32           | 30.90             | 61.63               | 122.59                  |
 | 74       | 10.93           | 32.73             | 65.28               | 129.83                  |
+
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -844,6 +974,13 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 2.10            | 6.29              | 12.54               | 24.94                   |
 | 29       | 2.19            | 6.56              | 13.08               | 26.01                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -877,6 +1014,13 @@ You must pay your premiums for supplemental S-DVI.
 | 48       | 6.69            | 20.03             | 39.95               | 79.47                   |
 | 49       | 7.34            | 21.98             | 43.84               | 87.19                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -900,6 +1044,13 @@ You must pay your premiums for supplemental S-DVI.
 | 57       | 27.74           | 83.07             | 165.67              | 329.51                  |
 | 58       | 41.64           | 124.69            | 248.69              | 494.62                  |
 | 59       | 83.27           | 249.35            | 497.31              | 989.12                  |
+
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
@@ -938,6 +1089,13 @@ You must pay your premiums for supplemental S-DVI.
 | 28       | 1.82            | 5.45              | 10.87               | 21.62                   |
 | 29       | 1.89            | 5.66              | 11.29               | 22.45                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -971,6 +1129,13 @@ You must pay your premiums for supplemental S-DVI.
 | 49       | 5.13            | 15.36             | 30.64               | 60.94                   |
 | 50       | 5.51            | 16.50             | 32.91               | 65.45                   |
 
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+
 </div>
 </li>
 </ul>
@@ -997,6 +1162,13 @@ You must pay your premiums for supplemental S-DVI.
 | 62       | 28.19           | 84.41             | 168.36              | 334.83                  |
 | 63       | 42.11           | 126.10            | 251.49              | 500.20                  |
 | 64       | 83.73           | 250.73            | 500.06              | 994.59                  |
+
+
+**To calculate your premium rate:**
+
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 </div>
 </li>
