@@ -169,7 +169,7 @@ After closing, you’re ready to move into your new home. Congratulations!
 
 ## What if I need help or more information?
 
-Call us at <a href="tel:+18778273702">877-827-3702</a> to find the nearest VA regional loan center with loan guaranty staff. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
+Call us at <a href="tel:+18778273702">877-827-3702</a> to find the nearest VA regional loan center. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET.
 
 You can also use the resources below to learn more about the VA home loan program and the home-buying process.
 
