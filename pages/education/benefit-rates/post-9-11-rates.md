@@ -17,7 +17,7 @@ relatedlinks:
       description: Learn about education programs and compare benefits by school.
     - url: /education/other-va-education-benefits/veap/
       title: Veterans’ Educational Assistance Program (VEAP)
-      description: You may be able to continue your education by using part of your military pay to cover the cost of school. Find out if you can get benefits through the Veterans’ Educational Assistance Program (VEAP). Through this program, we’ll match $2 for every $1 you contribute for education expenses.
+      description: Find out if you can continue your education by using part of your military pay to cover the cost of school. Through this program, we’ll match $2 for every $1 you contribute.
 
 ---
 <div class="va-introtext">
@@ -36,23 +36,23 @@ Review Post-9/11 GI Bill rates for the 2019 academic year (August 1, 2019, to Ju
 <span id="works"></span>
 ## How Post-9/11 GI Bill payment rates work
 
-The Post-9/11 GI Bill program offers several different payments for tuition and other types of allowances. We base your actual benefit amount for these payments on how long you served on active duty after September 10, 2001. 
+The Post-9/11 GI Bill program offers several different payments for tuition and other types of allowances. We base your actual benefit rate on how long you served on active duty after September 10, 2001. 
 
 ### Am I eligible to receive the full benefit rates?
 
-You’ll receive **100% of the benefit rates** you're eligible for if one of the below descriptions is true for you. 
+You’ll receive **100% of the benefit rates** if one of the below descriptions is true for you. 
 
-**At least one of these must be true. You served at least:**
+**At least one of these must be true. After September 10, 2001, you served at least:**
 
 - 36 months on active duty, **or**
-- 30 days on active duty all at once, without a break (called "continuous"), and were discharged due to service-connected disability
+- 30 days on active duty all at once, without a break (called "continuous"), and were discharged due to a service-connected disability
 
 ### What if I don't meet the requirements for full benefits?
 
-We’ll calculate your payment amount based on a percentage of the maximum benefit.
+We'll give you a percentage of the full benefit, based on how long you served on active duty after September 10, 2001.
 
 | If you served at least... | But less than... | You’ll get this percentage of the full benefit rate | 
-| --- | --- | --- |
+| --- | --- | ---: |
 | 30 months | 36 months | 90% | 
 | 24 months | 30 months | 80% | 
 | 18 months | 24 months | 70% | 
@@ -60,9 +60,9 @@ We’ll calculate your payment amount based on a percentage of the maximum benef
 | 6 months | 12 months | 50% |
 | 90 days | 6 months | 40% |
 
-**For example:** If you had 90 days of active service since September 10, 2001, you would qualify for 40% of the maximum amount. If you served for 3 years, you would qualify for 100% of the benefit. So if your school charges $22,000 for in-state tuition and fees, you would receive $8,800 if you had 90 days of active service and the full $22,000 if you had 3 years of active service.
+**For example:** If you served on active duty for 90 days after September 10, 2001, you'd qualify for 40% of the full benefit rate. So if your school charged $22,000 for in-state tuition and fees, you'd receive $8,800 (or 40% of $22,000).
 
-Note that this will change August 1, 2020. In this example, 90 days of active service would qualify you for 50% of the maximum amount as of August 1, 2020.
+**Note:** The way we calculate your percentage of benefits will change on August 1, 2020. Please check back then for updated information.
 
 ------
 <span id="school"></span>
@@ -73,21 +73,20 @@ Note that this will change August 1, 2020. In this example, 90 days of active se
 
 | Type of school | 2019 full benefit rate |
 | --- | --- |
-| Public college or university <br> (called an institution of higher learning) | All tuition and fees based on the in-state student rate |
-| Private or foreign college or university <br> (called an institution of higher learning) | Actual net costs up to **$24,476.79** |
-| Non-college degree granting institution <br> (specific training programs like HVAC repair, truck driving, or Emergency Medical Technician, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
-| Vocational flight school | Actual net costs up to **$13,986.72** |
-| Correspondence school <br> (for independent and distance learning) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
+| **Public college, university, or other institution of higher learning** <br> | All tuition and fees based on the in-state student rate |
+| **Private college, university, or other institution of higher learning** <br> | Actual net costs up to **$24,476.79** |
+| **Foreign college, university, or other institution of higher learning** <br> | Actual net costs up to **$24,476.79** |
+| **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, or Emergency Medical Technician, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
+| **Vocational flight school** | Actual net costs up to **$13,986.72** |
+| **Correspondence school** <br> (for independent and distance learning) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
 
 We pay all tuition and fees directly to your school or training program.
 
-**Note for out-of-state students:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
+**Note for out-of-state students at institutions of higher learning:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
 
 ### Monthly housing allowance
 
-In addition to the payments for tuition and fees at your school, you may be eligible for money to help pay for your housing while you’re 
-studying. This is called your monthly housing allowance (or MHA). It's similar to the basic allowance 
-for housing (BAH) you may have received while serving on active duty. 
+You may be eligible for money to help pay for your housing while you’re studying. This is called your monthly housing allowance. It's similar to the basic allowance for housing (BAH) you may have received while serving on active duty. 
 
 We pay this allowance to you at the end of each month. <br>
 [Learn about monthly housing allowance rates](/education/benefit-rates/monthly-housing-allowance-rates/)
@@ -98,17 +97,17 @@ You may be eligible for up to **$1,000** each academic year for books and suppli
 
 We pay this money to you at the beginning of each term.
 
-### Monday to help you move if you live in a rural area
+### Money to help you move from a highly rural area
 
-If you need to relocate from a highly rural area so you can attend school, we may pay a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill Rural Grant. You may be eligible for this grant if the below descriptions are true for you.
+If you need to relocate from a highly rural area so you can attend school, we may give you a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill rural grant. You may be eligible for this grant if the below descriptions are true for you.
 
 **This must be true:**
 
 You live in a county with 6 people or fewer per square mile, as determined by the most recent census. 
 
 **And one of these must also be true. You need to:**
-- Physically relocate at least 500 miles away from your home to attend an educational institution, **or**
-- Travel by air to physically attend an educational institution if no other land-based transportation exists
+- Physically relocate at least 500 miles away from your home to attend school, **or**
+- Travel by air to physically attend school because you don't have the option to travel by car, train, bus, or other ground transportation
 
 ### Added payments 
 
