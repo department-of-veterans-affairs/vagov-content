@@ -146,7 +146,7 @@ Send your payment to:
 
 If you're a sailor, you can pay your premiums online at <a href="https://www.pay.gov">www.pay.gov</a>.
 
-**If you make a payment online, we only accept:** 
+**If you make a payment online, we only accept these payment types:** 
 
 <ul style="list-style-type:square;">
   <li>Debit</li>
