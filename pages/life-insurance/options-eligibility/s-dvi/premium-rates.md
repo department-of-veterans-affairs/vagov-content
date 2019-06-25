@@ -878,7 +878,6 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 - All programs
 
-
 **This plan:**
 
 - Requires that you make premium payments for 20 years. Once you've made all your payments, the face value of the policy is paid to you. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
