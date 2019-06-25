@@ -19,7 +19,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Review S-DVI premium rates and find out how calculate how much you'll pay. Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service members.
+Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service members. Review S-DVI premium rates and find out how calculate how much you'll pay. 
 </div>
 
 
