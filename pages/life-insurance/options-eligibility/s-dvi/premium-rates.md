@@ -4,14 +4,14 @@ template: detail-page
 title: S-DVI Premium Rates
 heading: S-DVI Premium Rates
 display_title: S-DVI Premium Rates
-description: Review S-DVI premium rates and find out how to calculate yours. 
+description: Review S-DVI premium rates and find out how to calculate how much you'll pay. 
 concurrence:
 relatedlinks:
   - heading: More information about your benefits
     links:
     - url: /life-insurance/options-eligbility/s-dvi
       title: Service-Disabled Veterans Life Insurance (S-DVI)
-      description:  Learn out how to apply for S-DVI if you have a disability that we’ve determined was caused—or made worse—by your active service.
+      description:  Learn how to apply for S-DVI if you have a disability that we’ve determined was caused—or made worse—by your active service.
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
@@ -19,8 +19,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service members. Review S-DVI premium rates and find out how to calculate yours. 
-
+Review S-DVI premium rates and find out how calculate how much you'll pay. Service-Disabled Veterans’ Life Insurance (S-DVI) provides low-cost coverage to eligible service members.
 </div>
 
 
@@ -48,9 +47,9 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 
 **To calculate your premium rate:**
 
-Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 51 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$1.28 (Age 51 monthly rate) x 10 (amount of insurance / 1000) = $12.80 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
 
 ### Should I compare these premium rates to other insurance companies? 
 
@@ -67,17 +66,18 @@ You must pay your premiums for supplemental S-DVI.
 
 ### 5 year level term
 
-- Gives you low-cost life insurance when you're young. As you age, your premium payments for this policy increase. 
 - Available on all programs except those that start with "J," "JR," "JS"
-- This is a term life insurance plan. A term life insurance plan means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage.  
+- This is a term life insurance plan. A term life insurance plan means that you're only covered for a specific amount of time (a "term"). As you age, your premium payments increase. After the term ends, you can choose to renew your coverage. 
 - Renews automatically every five years (5 year term)
 - Can be converted to a permanent plan
 - Ends if you stop making premium payments
 - No cash or loan value
 
+**Note:** If you have a capped NSLI or VSLI term policy, you will receive a termination dividend (payment) if you miss a premium payment om your 5 year level premium term policy. <br>
+
+[Learn more about capped term policies](/life-insurance/closed-programs/)
+
 #### Premium rates
-
-
 
 <ul class="usa-accordion">
 <li>
@@ -88,8 +88,8 @@ You must pay your premiums for supplemental S-DVI.
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
 | 16       | 0.19            | 0.57              | 1.13                | 2.26                    |
-| 17       | 0.2             | 0.6               | 1.19                | 2.38                    |
-| 18       | 0.2             | 0.6               | 1.19                | 2.38                    |
+| 17       | 0.20             | 0.6               | 1.19                | 2.38                    |
+| 18       | 0.20             | 0.6               | 1.19                | 2.38                    |
 | 19       | 0.21            | 0.63              | 1.25                | 2.49                    |
 | 20       | 0.21            | 0.63              | 1.25                | 2.49                    |
 | 21       | 0.22            | 0.66              | 1.31                | 2.61                    |
@@ -123,11 +123,11 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 0.32            | 0.96              | 1.91                | 3.8                     |
+| 30       | 0.32            | 0.96              | 1.91                | 3.80                     |
 | 31       | 0.34            | 1.02              | 2.03                | 4.04                    |
 | 32       | 0.36            | 1.08              | 2.15                | 4.28                    |
 | 33       | 0.38            | 1.14              | 2.27                | 4.51                    |
-| 34       | 0.4             | 1.2               | 2.39                | 4.75                    |
+| 34       | 0.40             | 1.20               | 2.39                | 4.75                    |
 | 35       | 0.43            | 1.29              | 2.57                | 5.11                    |
 | 36       | 0.45            | 1.35              | 2.69                | 5.35                    |
 | 37       | 0.48            | 1.44              | 2.87                | 5.7                     |
@@ -135,14 +135,14 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 | 39       | 0.54            | 1.62              | 3.23                | 6.41                    |
 | 40       | 0.58            | 1.74              | 3.46                | 6.89                    |
 | 41       | 0.62            | 1.86              | 3.7                 | 7.36                    |
-| 42       | 0.67            | 2.01              | 4                   | 7.96                    |
+| 42       | 0.67            | 2.01              | 4.0                   | 7.96                    |
 | 43       | 0.71            | 2.13              | 4.24                | 8.43                    |
 | 44       | 0.76            | 2.28              | 4.54                | 9.03                    |
 | 45       | 0.82            | 2.46              | 4.9                 | 9.74                    |
 | 46       | 0.88            | 2.64              | 5.26                | 10.45                   |
 | 47       | 0.95            | 2.84              | 5.67                | 11.28                   |
 | 48       | 1.02            | 3.05              | 6.09                | 12.12                   |
-| 49       | 1.1             | 3.29              | 6.57                | 13.07                   |
+| 49       | 1.10             | 3.29              | 6.57                | 13.07                   |
 
 
 **To calculate your premium rate:**
@@ -166,23 +166,23 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 | 50       | 1.19            | 3.56              | 7.11                | 14.14                   |
 | 51       | 1.28            | 3.83              | 7.64                | 15.2                    |
 | 52       | 1.38            | 4.13              | 8.24                | 16.39                   |
-| 53       | 0.149           | 4.46              | 8.9                 | 17.7                    |
+| 53       | 0.149           | 4.46              | 8.90                 | 17.70                    |
 | 54       | 1.61            | 4.82              | 9.62                | 19.12                   |
 | 55       | 1.75            | 5.24              | 10.45               | 20.79                   |
 | 56       | 1.89            | 5.66              | 11.29               | 22.45                   |
 | 57       | 2.04            | 6.11              | 12.18               | 24.23                   |
-| 58       | 2.21            | 6.62              | 13.2                | 26.25                   |
-| 59       | 2.4             | 7.19              | 14.33               | 28.51                   |
-| 60       | 2.6             | 7.79              | 15.53               | 30.88                   |
-| 61       | 2.82            | 8.44              | 16.84               | 33.5                    |
+| 58       | 2.21            | 6.62              | 13.20                | 26.25                   |
+| 59       | 2.40             | 7.19              | 14.33               | 28.51                   |
+| 60       | 2.60             | 7.79              | 15.53               | 30.88                   |
+| 61       | 2.82            | 8.44              | 16.84               | 33.50                    |
 | 62       | 3.05            | 9.13              | 18.22               | 36.23                   |
 | 63       | 3.31            | 9.91              | 19.77               | 39.32                   |
 | 64       | 3.59            | 10.75             | 21.44               | 42.64                   |
-| 65       | 3.9             | 11.68             | 23.29               | 46.33                   |
+| 65       | 3.90             | 11.68             | 23.29               | 46.33                   |
 | 66       | 4.23            | 12.67             | 25.26               | 50.25                   |
 | 67       | 4.59            | 13.74             | 27.41               | 54.52                   |
 | 68       | 4.98            | 14.91             | 29.74               | 59.15                   |
-| 69       | 5.41            | 16.2              | 32.31               | 64.26                   |
+| 69       | 5.41            | 16.20              | 32.31               | 64.26                   |
 | 70       | 5.87            | 17.58             | 35.06               | 69.73                   |
 
 **To calculate your premium rate:**
@@ -199,10 +199,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### Modified life at age 65
 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - Cheapest permanent plan
 - Must be purchased before you turn 61 years old
-- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments remain the same for your lifetime
+- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments stay the same for your lifetime
 - When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $6.58 per month per $1000.00.
 - Has loan and cash value
 
@@ -319,10 +319,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### Modified life at age 70
 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - Cheapest permanent plan
 - Must be purchased before you turn 69 years old
-- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments remain the same for your lifetime
+- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments stay the same for your lifetime
 - When you turn 70 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $8.64 per month per $1000.00.
 - Has loan and cash value
 
@@ -440,10 +440,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### Ordinary life
 
 - Available on all programs
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
-- Second lowest premium payments of any permanent plan, after Modified Life
-- Requires that you make premium payments over your lifetime
-- Premium payments stay the same over your lifetime 
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
+- Second lowest premium payments of any permanent plan (after Modified Life)
+- Requires that you make premium payments for your whole lifetime
+- Premium payments always stay the same 
 - Has loan and cash value
 
 
@@ -566,7 +566,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 - Available on all programs
 - You must make premium payments for 20 years. 
-- Has slightly higher premium payments than a a 30 Payment Life policy
+- Has slightly higher premium payments than a 30 Payment Life policy
 - Has loan and cash value
 
 #### Premium rates
@@ -819,9 +819,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 - Available on all programs
 - Requires that you make premium payments for 20 years
 - Face-value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
-- Has policy proceeds (payments to you) paid  in one lump sum or in installments
-- Has loan and cash value
 - Coverage ends after 20 years 
+- You can choose whether your policy payout is paid to you in one lump sum or installments
+- Has loan and cash value
 
 #### Premium rates
 
