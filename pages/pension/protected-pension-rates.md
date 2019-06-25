@@ -77,11 +77,11 @@ Dependents may also include any biological, step, or adopted children you may ha
 ## Section 306 protected pension rates
 **Effective December 1, 2018**
 
-These pensions were available from July 1, 1960, through December 31, 1978. 
+These non-service-connected pension programs were available from July 1, 1960, through December 31, 1978. 
 
 ### Section 306 disability pension yearly income limits
 
-We use the income limits below to determine your eligibility for protected Section 306 disability pension rates.
+We use the income limits below to determine your eligibility for protected Section 306 disability pension rates. To qualify for protected rates, your yearly income for 2018 must be at or below the limit. 
 
 #### If you're a Veteran without dependents
 
@@ -90,7 +90,7 @@ All income limits are in U.S. $
 | --- | ---: |
 | **Basic monthly payment** for a Veteran only (no spouse or dependent children) | 15,394 |
 | **Special Aid and Attendance allowance,** if your income is more than $15,398 | 15,948 |
-| **Hospital reduction rate for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | 15,394 |
+| **Hospital reduction rate for Special Aid and Attendance,** if you're hospitalized on or after January 1, 2018 | 15,948 |
 
 **Note:** The hospital reduction rate is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
 
@@ -109,7 +109,7 @@ All income limits are in U.S. $
 
 ### Section 306 death pension yearly income limits
 
-We use the income limits below to determine your eligibility for protected Section 306 death pension rates.
+We use the income limits below to determine your eligibility for protected Section 306 death pension rates. To qualify for protected rates, your yearly income for 2018 must be at or below the limit. 
 
 All income limits are in U.S. $
 | Survivor status | 2018 yearly income limit |
@@ -132,11 +132,11 @@ An annuity is a fixed sum of money paid to the plan's beneficiary each year. If 
 ## Old law protected pension rates
 **Effective December 1, 2018**
 
-These pension programs were available before July 1, 1960. 
+These non-service-connected pension programs were available before July 1, 1960. 
 
 ### Old law disability pension yearly income limits
 
-We use the income limits below to determine your eligibility for protected old law disability pension rates.
+We use the income limits below to determine your eligibility for protected old law disability pension rates. To qualify for protected rates, your yearly income for 2018 must be at or below the limit. 
 
 All income limits are in U.S. $
 | Veteran status | 2018 yearly income limit |
@@ -158,7 +158,7 @@ All rates are in U.S. $
 
 ### Old law death pension yearly income limits
 
-We use the income limits below to determine your eligibility for protected old law death pension rates.
+We use the income limits below to determine your eligibility for protected old law death pension rates. To qualify for protected rates, your yearly income for 2018 must be at or below the limit. 
 
 All income limits are in U.S. $
 | Survivor status | Income limit <br> (yearly income at or below this amount) | 
