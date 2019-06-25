@@ -73,7 +73,7 @@ You must pay your premiums for supplemental S-DVI.
 - Ends if you stop making premium payments
 - No cash or loan value
 
-**Note:** If you have a capped NSLI or VSLI term policy, you will receive a termination dividend (payment) if you miss a premium payment om your 5 year level premium term policy. <br>
+**Note:** If you have a capped NSLI or VSLI term policy, you will receive a termination dividend (payment) if you miss a premium payment on your 5 year level premium term policy. <br>
 
 [Learn more about capped term policies](/life-insurance/closed-programs/)
 
