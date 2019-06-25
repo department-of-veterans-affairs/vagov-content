@@ -105,12 +105,17 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 
 ## Special ordinary life 
 
-**Plan details:**
+**Available on:** 
 
 - This insurance can only be purchased when a Modified Life policy reduces by half (50%) on your 65th or 70th birthday. 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
-- You must make premium payments for your lifetime
+
+
+
+**This plan:**
+
+- Is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
+- Requires that you make premium payments for your whole lifetime
 - Has loan and cash value
 
 ## Ordinary life
@@ -195,12 +200,15 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 
 ## Endowment at age 96
 
-**Plan details:**
+**Available on:**
 
 - Available only if you have a policy that begins with "K" **and** are over 65 years old **and** still have term plan life insurance
-- This is a regular endowment plan that matures when you turn 96 years old
-- Premium payments never increase
-- This policy doesn't give you permanent and total disability benefits. If you become eligible for these disability benefits, you'll still need to make your premium payment.
+
+**This plan:**
+
+- Is a regular endowment plan that matures when you turn 96 years old
+- Has premium rates that never increase, so your payments will stay the same for as long as you have the policy
+- Doesn't give you permanent and total disability benefits. If you become eligible for these disability benefits, you'll still need to make your premium payment.
 - "Provides a waiver of premiums provision to be purchased for an additional premium at the time the insurance was exchanged" (I can't decipher this -LW)
 
 
