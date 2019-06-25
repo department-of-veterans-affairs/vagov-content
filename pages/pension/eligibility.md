@@ -4,8 +4,8 @@ template: detail-page
 title: Eligibility For Veterans Pension
 heading: Eligibility for Veterans Pension
 display_title: Eligibility
-description: The Veterans Pension program provides monthly payments to wartime Veterans based on need. Review VA pension eligibility requirements to find out if you qualify based on your age or a permanent and total non-service-connected disability, as well as your income and net worth. 
-keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility 
+description: The Veterans Pension program provides monthly payments to wartime Veterans based on need. Review VA pension eligibility requirements to find out if you qualify based on your age or a permanent and total non-service-connected disability, as well as your income and net worth.
+keywords: veterans pension, non service connected pension, non service connected pension eligibility, va pension eligibility
 concurrence:
 order: 1
 children: pensionEligibility
@@ -19,11 +19,6 @@ relatedlinks:
     - url: /pension/aid-attendance-housebound/
       title: Aid and Attendance benefits and Housebound allowance
       description: If you need help with daily activities or you're housebound, find out how to apply for extra VA pension benefits.
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
 ---
 
 <div class="va-introtext">
@@ -34,9 +29,9 @@ The Veterans Pension program provides monthly payments to wartime Veterans who m
 
 <div class="feature" markdown=“1”>
 
-### Am I eligible for Veterans Pension benefits from VA? 
+### Am I eligible for Veterans Pension benefits from VA?
 
-If you meet the VA pension eligibility requirements listed below, you may be eligible for the Veterans Pension program. 
+If you meet the VA pension eligibility requirements listed below, you may be eligible for the Veterans Pension program.
 
 **Both of these must be true:**
 
@@ -60,7 +55,7 @@ If you meet the VA pension eligibility requirements listed below, you may be eli
 
 </div>
 
-## How do I know if I served under an eligible wartime period? 
+## How do I know if I served under an eligible wartime period?
 Under current law, we recognize the following wartime periods to decide eligibility for VA pension benefits:
 
 
@@ -81,7 +76,22 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
 
-<div id="react-applicationStatus" data-widget-type="pension-app-status" class="static-page-widget">
-  <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans Pension Benefits</a>
+<div data-widget-type="pension-app-status" data-widget-show-learn-more data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+    <a class="usa-button-primary va-button-primary" href="/pension/application/527EZ">Apply for Veterans pension benefits</a>
+  </span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
 </div>
-
