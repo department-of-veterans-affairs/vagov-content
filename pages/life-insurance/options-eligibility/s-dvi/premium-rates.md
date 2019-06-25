@@ -84,6 +84,8 @@ You must pay your premiums for supplemental S-DVI.
 
 #### Premium rates
 
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="5-year-29">Age 29 and below</button>
@@ -217,6 +219,8 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 #### Premium rates
 
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="modified-65-29">Age 29 and below</button>
@@ -341,6 +345,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 
 #### Premium rates
+
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 
 <ul class="usa-accordion">
 <li>
@@ -467,6 +474,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 
 #### Premium rates
+
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 
 <ul class="usa-accordion">
 <li>
@@ -596,6 +606,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 
 #### Premium rates
+
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 
 <ul class="usa-accordion">
 <li>
@@ -730,6 +743,8 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 #### Premium rates
 
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="30-payment-29">Age 29 and below</button>
@@ -860,6 +875,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 - Has loan and cash value
 
 #### Premium rates
+
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
 
 <ul class="usa-accordion">
 <li>
@@ -994,6 +1012,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 #### Premium rates
 
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
+
+
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="60-endow-29">Age 29 and below</button>
@@ -1114,6 +1135,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 - Ends coverage on the policy anniversary date that is closest to your 65th birthday
 - Gets paid out to your beneficiary if you die before your 65th birthday
 - Has loan and cash value
+
+#### Premium rates
+
+Click on your age range. Then, find your current age in the table to find out how much you'll pay, depending on how you'd like to split up your payments throughout the year. Then, follow the instructions below the table to calculate your full premium rate based on the amount of insurance you want to buy.
 
 
 <ul class="usa-accordion">
