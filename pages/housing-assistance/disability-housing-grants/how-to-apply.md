@@ -1,12 +1,15 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a Specially Adapted Housing (SAH) Grant
-display_title: How to Apply
-description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
+title: How To Apply For A Specially Adapted Housing Grant
+heading: How to apply for a Specially Adapted Housing Grant
+display_title: How to apply
+description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability.
+keywords: specially adapted housing grant, sah grant
 concurrence:
 order: 1
 ---
+
 
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
@@ -15,31 +18,23 @@ Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adap
 
 </div>
 
-<div itemscope itemtype="http://schema.org/Question">
-<h2 itemprop="name">How do I prepare before starting my application?</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-<ul>
+<div class="feature">
 
-<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a>.</li>
+ ## How do I prepare before starting my application?
+
+<ul>
+<li><a href="/housing-assistance/disability-housing-grants/">Find out if you’re eligible for an SAH or SHA grant</a></li>
 
 <li>Make sure you have the information listed below that you’ll need to fill out an  Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant (VA Form 26-4555).</li>
-</div>
-</div>
-</div>
+</ul>
 
-<div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-
-<h3 itemprop="name">What documents do I need to apply?</h3>
-<div itemprop="itemListElement">
- <b>You'll need your:</b>
+### You'll need these documents to apply:
 <ul>
 <li>Social Security number</li>
 <li>VA file or claim number (if you have one)</li>
 </ul>
 
 
-</div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
@@ -50,7 +45,7 @@ You can apply online right now by going to our eBenefits website.
 
 You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium account. If you don’t have a <b>DS Logon</b> account, you can register for one on the site.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to Apply</a></div>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to apply</a></div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
