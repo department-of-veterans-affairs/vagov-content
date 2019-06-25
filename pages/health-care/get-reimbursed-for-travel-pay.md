@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Travel Pay For Health Care 
-heading: VA travel pay for health care 
-display_title: Get VA travel pay
-description: VA travel pay through the Beneficiary Travel program reimburses Veterans for mileage and other travel expenses to and from health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
+title: VA Travel Pay Reimbursement
+heading: VA travel pay reimbursement
+display_title: Get VA travel pay reimbursement
+description: VA travel pay reimbursement through the Beneficiary Travel program pays Veterans back for mileage and other travel expenses to and from approved health care appointments. Find out if you're eligible, and how to request reimbursement.
 keywords: va travel pay, va travel reimbursement
 concurrence: 
 spoke: 
@@ -28,25 +28,25 @@ relatedlinks:
 
 <div class="va-introtext">
   
-VA travel pay through the Beneficiary Travel program reimburses Veterans for mileage and other travel expenses to and from approved health care appointments. Find out if you're eligible, and how to request VA travel reimbursement.
+VA travel pay reimbursement through the Beneficiary Travel program pays Veterans back for mileage and other travel expenses to and from approved health care appointments. Find out if you're eligible, and how to request reimbursement.
 
 </div>
 
 ### On this page
 
 - [Eligibility](#eligibility)
-- [VA travel reimbursement benefits, rates, and deductibles](#reimbursement)
+- [Benefits, rates, and deductibles](#reimbursement)
 - [How to file a claim](#file-claim)
-- [More about VA travel pay](#more)
+- [More about VA travel pay reimbursement](#more)
 
 <span id="eligibility"></span>
 ## Eligibility
 
 <div class="feature" markdown="1">
 
-### Am I eligible to receive VA travel pay as a Veteran?
+### Am I eligible to receive VA travel pay reimbursement as a Veteran?
 
-You may be eligible for 1 or both of our 2 types of travel pay.
+You may be eligible for 1 or both of our 2 types of travel pay reimbursement.
 <br>
 <br>
 #### General health care travel reimbursement
@@ -79,7 +79,7 @@ You may be eligible for this benefit if you're traveling for care at a VA health
 
 </div>
 
-### Can my caregiver or other support people also get travel reimbursement?
+### Can my caregiver or other support people also get VA travel pay reimbursement?
 
 We may pay for transportation and related lodging and meals for non-Veterans if any of the below descriptions is true of that person.
 
@@ -94,7 +94,7 @@ We may also pay for care for an allied beneficiary when the appropriate foreign 
 ------
 
 <span id="reimbursement"></span>
-## VA travel reimbursement benefits, rates, and deductibles
+## Benefits, rates, and deductibles
 
 ### What travel expenses does VA reimburse?
 
@@ -128,7 +128,7 @@ In some cases, we may reimburse you for the actual cost, up to 50% of the local 
 
 Except in certain unusual cases, you can only get this reimbursement if we approve it before you travel. We won't reimburse you for lodging or meals if you chose to stop or take a less direct route to a VA or VA-authorized health facility. 
 
-### Will I have to pay a deductible before getting VA travel reimbursement?
+### Will I have to pay a deductible before getting VA travel pay reimbursement?
 
 Yes. The deductible is **$3** one-way or **$6** round-trip for each appointment, up to **$18** total each month. After you pay $18 within one month, we’ll pay the full cost of your approved travel for the rest of that month.
 
@@ -155,7 +155,7 @@ If we determine that you qualify for a waiver, we'll automatically waive your de
 <span id="file-claim"></span>
 ## How to file a claim
 
-### How do I get VA travel pay for scheduled appointments?
+### How do I get VA travel pay reimbursement for scheduled appointments?
 
 Follow the steps below to get reimbursed for travel after each appointment. Be sure to submit your claim within 30 days of your appointment. If you become eligible for travel reimbursement after your appointment, submit your claim within 30 days of when you become eligible.
 
@@ -208,7 +208,7 @@ For more information, please email us at <a href="mailto:VHABeneficiaryTravelQue
 
 <span id="more"></span>
 
-### More about VA travel pay 
+### More about VA travel pay reimbursement
 
 <ul class="usa-accordion">
 <li>
@@ -223,17 +223,17 @@ You can go to any VA health facility you choose to for care. But, if you choose 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="po-box">What if my official address is a PO Box?</button>
 <div id="po-box" class="usa-accordion-content">
 
-You'll need to establish an official place of residence so we can determine your travel pay to the closest VA or VA-authorized health facility that can provide the care you need. We may ask you to provide documentation confirming your home address.
+You'll need to establish an official place of residence. This is so we can determine your reimbursement amount based on the distance from your home to the closest VA or VA-authorized health facility that can provide the care you need. We may ask you to provide documentation confirming your home address.
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-residence">What if I change my residence while receiving VA or VA-approved care (such as during a lengthy hospital stay)?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="change-residence">What if I change my home address while receiving VA or VA-approved care (such as during a lengthy hospital stay)?</button>
 <div id="change-residence" class="usa-accordion-content">
 
-For your return trip home, we'll reimburse you for the distance (mileage) to your new residence. But we won't pay more than the amount that we'd pay from the VA health facility closest to your new residence that could have provided the care you needed.
+We'll reimburse you for your return trip home. But we'll only pay up to the amount based on the distance between your new home and the VA health facility closest to your new home that could have provided the care you needed.
 
-**For example:** If you lived in Baltimore, Maryland, when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan, during your hospital stay, we would reimburse you for travel up to the amount we'd pay for the distance from your new Detroit home to the nearest VA or VA-approved facility that could have provided your care.
+**For example:** If you lived in Baltimore, Maryland, when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan, during your hospital stay, we'd base your reimbursement on the distance from your new Detroit home to the closest VA or VA-approved facility that could have provided your care.
 
 </div>
 </li>
@@ -244,9 +244,9 @@ For your return trip home, we'll reimburse you for the distance (mileage) to you
 **We can provide travel in certain emergency situations:**
 
 - **If you have an emergency while receiving care at a VA health facility and the facility can't provide the care you need,** we can pay for your transport to a non-VA facility for emergency treatment and back to the VA facility. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for VA travel pay.
-- **If you have an emergency and you're anywhere other than at a VA health facility,** we can pay for your transport to a non-VA facility for emergency treatment. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for VA travel pay. But, once you're in a stable medical condition, you'll need to meet travel pay and medical expense eligibility requirements to receive any further reimbursement.
+- **If you have an emergency and you're anywhere other than at a VA health facility,** we can pay for your transport to a non-VA facility for emergency treatment. As long as we've approved the care at the non-VA facility, we'll pay for this transportation even if you're not eligible for VA travel pay. But, once you're in a stable medical condition, you'll need to meet reimbursement and medical expense eligibility requirements to receive any more reimbursement.
 
-Notify us as soon possible, but no later than 30 days from the date of emergency transport. 
+Be sure to notify us as soon possible, but no later than 30 days from the date of emergency transport. 
 
 </div>
 </li>
