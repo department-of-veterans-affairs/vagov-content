@@ -693,7 +693,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### 30 payment life
 
 - Available on all programs
-- Requres that you make premium payments for 30 years
+- Requires that you make premium payments for 30 years
 - Has slightly higher premium payments than an Ordinary Life policy
 - Has loan and cash value
 
