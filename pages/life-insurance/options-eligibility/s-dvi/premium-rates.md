@@ -64,7 +64,10 @@ You must pay your premiums for supplemental S-DVI.
 
 ## Premium rates by plan 
 
+<span id="5-year-level-term-premium-rates">
+
 ### 5 year level term
+</span>
 
 **Available on:**
 
@@ -204,8 +207,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </li>
 </ul>
 
+<span id="modified-life-at-age-65">
 
 ### Modified life at age 65
+</span>
 
 **Available on:**
 - All programs except those that start with "K"
@@ -333,7 +338,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </li>
 </ul>
 
+<span id="modified-life-at-age-70">
+
 ### Modified life at age 70
+</span>
 
 **Available on:**
 
@@ -598,8 +606,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </li>
 </ul>
 
+<span id="20-payment-life">
 
 ### 20 payment life
+</span>
 
 **Available on:**
 
@@ -738,8 +748,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </ul>
 
 
+<span id="30-payment-life">
 
 ### 30 payment life
+</span>
 
 **Available on:**
 - All programs
@@ -871,8 +883,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </li>
 </ul>
 
+<span id="20-year-endowment">
 
 ### 20 year endowment
+</span>
 
 **Available on:**
 
@@ -1005,8 +1019,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </ul>
 
 
+<span id="endowment-at-age-60">
 
 ### Endowment at age 60
+</span>
 
 **Available on:**
 
@@ -1134,8 +1150,10 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 </li>
 </ul>
 
+<span id="endowment-at-age-65">
 
 ### Endowment at age 65
+</span>
 
 **Available on:**
 
