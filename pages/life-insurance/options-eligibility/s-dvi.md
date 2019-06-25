@@ -11,6 +11,9 @@ order: 5
 relatedlinks:
   - heading: More information about your benefits
     links:
+    - url: /life-insurance/options-eligibility/s-dvi/premium-rates
+      title: S-DVI premium rates
+      description: View S-DVI premium rates and learn how calculate how much you'll pay. 
     - url: /life-insurance/manage-your-policy/
       title: Access your policy online
       description: Already have VA life insurance? Access your policy online.
@@ -103,8 +106,8 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 -	The amount of insurance you want, **and**
 - The coverage plan requested
 
-See the premium rates and a description of the plan options. <br>
-[Download Service-Disabled Veterans Insurance RH Information and Premium Rates (VA pamphlet 29-9)](https://benefits.va.gov/INSURANCE/forms/29-9.htm)
+View premium rates and learn how to calculate how much you'll pay. 
+[View S-DVI premium rates](/life-insurance/options-eligibility/s-dvi/premium-rates)
 
 ## Can I get a waiver so I don’t have to pay the premiums?
 
