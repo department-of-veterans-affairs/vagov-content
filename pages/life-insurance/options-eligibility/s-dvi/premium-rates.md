@@ -96,7 +96,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 16       | 0.19            | 0.57              | 1.13                | 2.26                    |
+| 16       | $0.19            | $0.57              | $1.13                | $2.26                    |
 | 17       | 0.20             | 0.6               | 1.19                | 2.38                    |
 | 18       | 0.20             | 0.6               | 1.19                | 2.38                    |
 | 19       | 0.21            | 0.63              | 1.25                | 2.49                    |
@@ -132,7 +132,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 0.32            | 0.96              | 1.91                | 3.80                     |
+| 30       | $0.32            | $0.96              | $1.91                | $3.80                     |
 | 31       | 0.34            | 1.02              | 2.03                | 4.04                    |
 | 32       | 0.36            | 1.08              | 2.15                | 4.28                    |
 | 33       | 0.38            | 1.14              | 2.27                | 4.51                    |
@@ -172,7 +172,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 1.19            | 3.56              | 7.11                | 14.14                   |
+| 50       | $1.19            | $3.56              | $7.11                | $14.14                   |
 | 51       | 1.28            | 3.83              | 7.64                | 15.2                    |
 | 52       | 1.38            | 4.13              | 8.24                | 16.39                   |
 | 53       | 0.149           | 4.46              | 8.90                 | 17.70                    |
@@ -235,7 +235,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 15       | 0.75            | 2.25              | 4.48                | 8.91                    |
+| 15       | $0.75            | $2.25              | $4.48                | $8.91                    |
 | 16       | 0.77            | 2.31              | 4.6                 | 9.15                    |
 | 17       | 0.79            | 2.37              | 4.72                | 9.38                    |
 | 18       | 0.81            | 2.43              | 4.84                | 9.62                    |
@@ -271,7 +271,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 1.15            | 3.44              | 6.87                | 13.66                   |
+| 30       | $1.15            | $3.44              | $6.87                | $13.66                   |
 | 31       | 1.18            | 3.53              | 7.05                | 14.02                   |
 | 32       | 1.22            | 3.65              | 7.29                | 14.49                   |
 | 33       | 1.26            | 3.77              | 7.53                | 14.97                   |
@@ -310,7 +310,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 2.22            | 6.65              | 13.26               | 26.37                   |
+| 50       | $2.22            | $6.65              | $13.26               | $26.37                   |
 | 51       | 2.29            | 6.86              | 13.26               | 27.2                    |
 | 52       | 2.37            | 7.1               | 14.15               | 28.15                   |
 | 53       | 2.45            | 7.34              | 14.63               | 29.1                    |
@@ -364,7 +364,7 @@ Click on your age range. Then, find your current age in the table to find out ho
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 15       | 0.81            | 2.43              | 4.84                | 9.62                    |
+| 15       | $0.81            | $2.43              | $4.84                | $9.62                    |
 | 16       | 0.83            | 2.49              | 4.96                | 9.86                    |
 | 17       | 0.85            | 2.55              | 5.03                | 10.1                    |
 | 18       | 0.87            | 2.61              | 5.2                 | 10.33                   |
@@ -397,7 +397,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
   | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 1.24            | 3.71              | 7.41                | 14.73                   |
+| 30       | $1.24            | $3.71              | $7.41                | $14.73                   |
 | 31       | 1.28            | 3.83              | 7.64                | 15.2                    |
 | 32       | 1.32            | 3.95              | 7.88                | 15.68                   |
 | 33       | 1.37            | 4.1               | 8.18                | 16.27                   |
@@ -436,7 +436,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
   | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 2.48            | 7.43              | 14.81               | 29.46                   |
+| 50       | $2.48            | $7.43              | $14.81               | $29.46                   |
 | 51       | 2.57            | 7.7               | 15.35               | 30.53                   |
 | 52       | 2.67            | 8                 | 15.95               | 31.72                   |
 | 53       | 2.77            | 8.29              | 16.54               | 32.9                    |
@@ -493,7 +493,7 @@ Click on your age range. Then, find your current age in the table to find out ho
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 17       | 1.02            | 3.05              | 6.09                | 12.12                   |
+| 17       | $1.02            | $3.05              | $6.09                | $12.12                   |
 | 18       | 1.05            | 3.14              | 6.27                | 12.47                   |
 | 19       | 1.08            | 3.23              | 6.45                | 12.83                   |
 | 20       | 1.11            | 3.32              | 6.63                | 13.19                   |
@@ -524,7 +524,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 1.52            | 4.55              | 9.08                | 18.06                   |
+| 30       | $1.52            | $4.55              | $9.08                | $18.06                   |
 | 31       | 1.57            | 4.70              | 9.38                | 18.65                   |
 | 32       | 1.63            | 4.88              | 9.73                | 19.36                   |
 | 33       | 1.68            | 5.03              | 10.03               | 19.96                   |
@@ -562,7 +562,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 3.23            | 9.67              | 19.29               | 38.37                   |
+| 50       | $3.23            | $9.67              | $19.29               | $38.37                   |
 | 51       | 3.37            | 10.09             | 20.13               | 40.03                   |
 | 52       | 3.52            | 10.54             | 21.02               | 41.81                   |
 | 53       | 3.68            | 11.02             | 21.88               | 43.71                   |
@@ -628,7 +628,7 @@ Click on your age range. Then, find your current age in the table to find out ho
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 17       | 1.87            | 5.60              | 11.17               | 22.21                   |
+| 17       | $1.87            | $5.60              | $11.17               | $22.21                   |
 | 18       | 1.91            | 5.72              | 11.41               | 22.69                   |
 | 19       | 1.95            | 5.84              | 11.65               | 23.16                   |
 | 20       | 1.99            | 5.96              | 11.88               | 23.64                   |
@@ -661,7 +661,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 2.43            | 7.28              | 14.51               | 28.86                   |
+| 30       | $2.43            | $7.28              | $14.51               | $28.86                   |
 | 31       | 2.48            | 7.43              | 14.81               | 29.46                   |
 | 32       | 2.53            | 7.58              | 15.11               | 30.05                   |
 | 33       | 2.58            | 7.73              | 15.41               | 30.65                   |
@@ -701,7 +701,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
   
  | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 3.90            | 11.68             | 23.29               | 46.33                   |
+| 50       | $3.90            | $11.68             | $23.29               | $46.33                   |
 | 51       | 4.02            | 12.04             | 24.01               | 47.75                   |
 | 52       | 4.14            | 12.40             | 24.73               | 49.18                   |
 | 53       | 4.27            | 12.79             | 25.50               | 50.72                   |
@@ -801,7 +801,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 1.86            | 5.57              | 11.11               | 22.09                   |
+| 30       | $1.86            | $5.57              | $11.11               | $22.09                   |
 | 31       | 1.90            | 5.69              | 11.35               | 22.57                   |
 | 32       | 1.95            | 5.84              | 11.65               | 23.16                   |
 | 33       | 2.00            | 5.99              | 11.94               | 23.76                   |
@@ -841,7 +841,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 3.34            | 10.00             | 19.95               | 39.67                   |
+| 50       | $3.34            | $10.00             | $19.95               | $39.67                   |
 | 51       | 3.47            | 10.39             | 20.72               | 41.22                   |
 | 52       | 3.60            | 10.78             | 21.50               | 42.76                   |
 | 53       | 3.75            | 11.23             | 22.40               | 44.54                   |
@@ -897,7 +897,7 @@ Click on your age range. Then, find your current age in the table to find out ho
   
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 19       | 3.44            | 10.30             | 20.54               | 40.86                   |
+| 19       | $3.44            | $10.30             | $20.54               | $40.86                   |
 | 20       | 3.45            | 10.33             | 20.60               | 40.98                   |
 | 21       | 3.46            | 10.36             | 20.66               | 41.10                   |
 | 22       | 3.46            | 10.36             | 20.66               | 41.10                   |
@@ -927,7 +927,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 3.55            | 10.63             | 21.20               | 42.17                   |
+| 30       | $3.55            | $10.63             | $21.20               | $42.17                   |
 | 31       | 3.56            | 10.66             | 21.26               | 42.29                   |
 | 32       | 3.58            | 10.72             | 21.38               | 42.52                   |
 | 33       | 3.59            | 10.75             | 21.44               | 42.64                   |
@@ -967,7 +967,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 4.31            | 12.91             | 25.74               | 51.20                   |
+| 50       | $4.31            | $12.91             | $25.74               | $51.20                   |
 | 51       | 4.40            | 13.18             | 26.28               | 52.27                   |
 | 52       | 4.49            | 13.45             | 26.82               | 53.33                   |
 | 53       | 4.59            | 13.74             | 27.41               | 54.52                   |
@@ -1071,7 +1071,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 2.28            | 6.83              | 13.62               | 27.08                   |
+| 30       | $2.28            | $6.83              | $13.62               | $27.08                   |
 | 31       | 2.39            | 7.16              | 14.27               | 28.39                   |
 | 32       | 2.50            | 7.49              | 14.93               | 29.70                   |
 | 33       | 2.62            | 7.85              | 15.65               | 31.12                   |
@@ -1112,7 +1112,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 50       | 8.12            | 24.31             | 48.49               | 96.45                   |
+| 50       | $8.12            | $24.31             | $48.49               | $96.45                   |
 | 51       | 9.07            | 27.16             | 54.17               | 107.74                  |
 | 52       | 10.25           | 30.69             | 61.22               | 121.75                  |
 | 53       | 11.77           | 35.24             | 70.29               | 139.81                  |
@@ -1197,7 +1197,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 30       | 1.97            | 5.90              | 11.77               | 23.40                   |
+| 30       | $1.97            | $5.90              | $11.77               | $23.40                   |
 | 31       | 2.05            | 6.14              | 12.24               | 24.35                   |
 | 32       | 2.13            | 6.38              | 12.72               | 25.30                   |
 | 33       | 2.22            | 6.65              | 13.26               | 26.37                   |
@@ -1238,7 +1238,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 | Your age | Monthly payment | Quarterly (4 times per year) payment | Semi-annual (2 times per year) payment | Annual (yearly) payment |
 |----------|-----------------|-------------------|---------------------|-------------------------|
-| 51       | 5.94            | 17.79             | 35.48               | 70.56                   |
+| 51       | $5.94            | $17.79             | $35.48               | $70.56                   |
 | 52       | 6.43            | 19.25             | 38.40               | 76.38                   |
 | 53       | 7.00            | 20.96             | 41.81               | 83.15                   |
 | 54       | 7.66            | 22.94             | 45.75               | 90.99                   |
