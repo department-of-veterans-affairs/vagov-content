@@ -215,7 +215,7 @@ For more information, please email us at <a href="mailto:VHABeneficiaryTravelQue
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="not-closest">What if I choose to go to a VA health facility that's not the closest one to my home?</button>
 <div id="not-closest" class="usa-accordion-content">
 
-You can go to any VA health facility you choose to for care. But, if you choose to go to a facility other than the one that's closest to your home with your VA health care provider determining the extra travel is needed, you'll need to pay for any costs above the amount for travel to your closest facility. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
+You can go to any VA health facility you choose to for care. But, if you choose to go to a facility other than the one that's closest to your home (without your VA health care provider determining the extra travel is needed), you'll need to pay for any added costs. We'll base your reimbursement amount on the distance from your home to the closest VA or VA-authorized facility that can provide the care you need. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
 
 </div>
 </li>
@@ -231,7 +231,7 @@ You'll need to establish an official place of residence. This is so we can deter
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="change-residence">What if I change my home address while receiving VA or VA-approved care (such as during a lengthy hospital stay)?</button>
 <div id="change-residence" class="usa-accordion-content">
 
-We'll reimburse you for your return trip home. But we'll only pay up to the amount based on the distance between your new home and the VA health facility closest to your new home that could have provided the care you needed.
+We'll reimburse you for your return trip home. But we'll base your reimbursement on the distance between your new home and the VA health facility closest to your new home that could have provided the care you needed.
 
 **For example:** If you lived in Baltimore, Maryland, when you entered a VA hospital for care, but then changed your home address to Detroit, Michigan, during your hospital stay, we'd base your reimbursement on the distance from your new Detroit home to the closest VA or VA-approved facility that could have provided your care.
 
