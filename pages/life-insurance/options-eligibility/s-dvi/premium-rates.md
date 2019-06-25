@@ -443,7 +443,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 - This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - Second lowest premium payments of any permanent plan (after Modified Life)
 - Requires that you make premium payments for your whole lifetime
-- Premium payments always stay the same 
+- Premium payments never increase
 - Has loan and cash value
 
 
@@ -565,7 +565,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### 20 payment life
 
 - Available on all programs
-- You must make premium payments for 20 years. 
+- Requires that you make premium payments for 20 years
 - Has slightly higher premium payments than a 30 Payment Life policy
 - Has loan and cash value
 
@@ -818,9 +818,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 - Available on all programs
 - Requires that you make premium payments for 20 years
-- Face-value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
+- Face value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
 - Coverage ends after 20 years 
-- You can choose whether your policy payout is paid to you in one lump sum or installments
+- You can choose whether your policy payout is paid in one lump sum or installments
 - Has loan and cash value
 
 #### Premium rates
@@ -944,8 +944,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### Endowment at age 60
 
 - Available on all programs except those that start with "K"
-- Premium payment is the same for the entire time you hold the policy
-- Face-value of policy is paid to you (and coverage ends) on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Premium payments never increase 
+- Face-value of policy is paid to you on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
+- Coverage ends on the policy anniversary date that is closest to your 60th birthday
 - Has loan and cash value
 
 #### Premium rates
@@ -1060,8 +1061,9 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 ### Endowment at age 65
 
 - Available on all programs except those that start with "K"
-- Premium payment is the same for the entire time you hold the policy
-- Face-value of policy is paid to you (and coverage ends) on the policy anniversary date that is closest to your 65th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Premium payments never increase 
+- Face-value of policy is paid to you on the policy anniversary date that is closest to your 65th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Coverage ends on the policy anniversary date that is closest to your 65th birthday
 - Has loan and cash value
 
 
