@@ -215,7 +215,7 @@ For more information, please email us at <a href="mailto:VHABeneficiaryTravelQue
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="not-closest">What if I choose to go to a VA health facility that's not the closest one to my home?</button>
 <div id="not-closest" class="usa-accordion-content">
 
-You can go to any VA health facility you choose to for care. But, if you choose to go to a facility other than the one that's closest to your home (without your VA health care provider determining the extra travel is needed), you'll need to pay for any added costs. We'll base your reimbursement amount on the distance from your home to the closest VA or VA-authorized facility that can provide the care you need. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
+You can go to any VA health facility you choose to for care. But, if you choose to go to a facility other than the one that's closest to your home (without your VA health care provider determining the extra travel is needed), you'll need to pay for any added travel costs. We'll base your reimbursement amount on the distance from your home to the closest VA or VA-authorized facility that can provide the care you need. This includes paying for any added mileage, public or private transportation costs, or special mode transportation.
 
 </div>
 </li>
