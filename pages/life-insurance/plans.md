@@ -60,10 +60,8 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 ## 5-year level premium term
 
 **Plan details:**
-
-- Gives you low-cost life insurance when you're young. As you age, your premium payments for this policy increase. 
 - Available on all programs except those that start with "J," "JR," "JS"
-- This is a term life insurance plan. A term life insurance plan means that you're only covered for a specific amount of time (a "term"). After the term ends, you can choose to renew your coverage.  
+- This is a term life insurance plan. A term life insurance plan means that you're only covered for a specific amount of time (a "term"). As you age, your premium payments increase. After the term ends, you can choose to renew your coverage. 
 - Renews automatically every five years (5 year term)
 - Can be converted to a permanent plan
 - Ends if you stop making premium payments
@@ -78,10 +76,10 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 **Plan details:**
 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - Cheapest permanent plan
 - Must be purchased before you turn 61 years old
-- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments remain the same for your lifetime
+- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments stay the same for your lifetime
 - When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $6.58 per month per $1000.00.
 - Has loan and cash value
 
@@ -91,20 +89,20 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 **Plan details:**
 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
-- Costs less per month than an Ordinary Life policy
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
+- Cheapest permanent plan
 - Must be purchased before you turn 69 years old
-- "Provides an automatic reduction by ? of the face amount of the insurance on the day before the policyholder's 70th birthday. (The premium remains the same. The decreased amount of insurance may, without medical examination, be replaced with an Ordinary Life policy at an additional premium by making application no later than the day before the policyholder's 65th birthday.)" (I cannot decipher this--LW)
+- Face amount of policy decreases by 50% the day before your 65th birthday, but your premium payments stay the same for your lifetime
+- When you turn 70 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $8.64 per month per $1000.00.
 - Has loan and cash value
 
-## Special ordinary life
-
-If you have a Modified Life insurance policy, your policy values decreases by 50% (1/2) on your 65th or 70th birthday. When this happens, your life insurance policy automatically turns into a Special Ordinary plan. Your premium payments will stay the same. 
+## Special ordinary life 
 
 **Plan details:**
 
+- This insurance can only be purchased when a Modified Life policy reduces by half (50%) on your 65th or 70th birthday. 
 - Available on all programs except those that start with "K"
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - You must make premium payments for your lifetime
 - Has loan and cash value
 
@@ -113,10 +111,10 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 **Plan details:**
 
 - Available on all programs
-- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan doesn't expire.
-- Second lowest premium payments of any permanent plan, after Modified Life
-- Requires that you make premium payments over your lifetime
-- Premium payments stay the same over your lifetime 
+- This is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
+- Premium payments never increase 
+- Second lowest premium payments of any permanent plan (after Modified Life)
+- Requires that you make premium payments for your whole lifetime
 - Has loan and cash value
 
 
@@ -135,7 +133,7 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 
 - Available on all programs
 - Requires that you make premium payments for 20 years
-- Has slightly higher premium payments than a a 30 Payment Life policy
+- Has slightly higher premium payments than a 30 Payment Life policy
 - Has loan and cash value
 
 
@@ -145,18 +143,20 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 
 - Available on all programs
 - Requires that you make premium payments for 20 years
-- Face-value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
-- Has policy proceeds (payments to you) paid  in one lump sum or in installments
+- Face value of policy is paid to you at the end of 20 years. If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
+- Coverage ends after 20 years 
+- You can choose whether your policy payout is paid in one lump sum or installments
 - Has loan and cash value
-- Coverage ends after 20 years
+
 
 ## Endowment at age 60
 
 **Plan details:**
 
 - Available on all programs except those that start with "K"
-- Premium payment is the same for the entire time you hold the policy
-- Face-value of policy is paid to you (and coverage ends) on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Premium payments never increase
+- Face-value of policy is paid to you on the policy anniversary date that is closest to your 60th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out. 
+- Coverage ends on the policy anniversary date that is closest to your 60th birthday
 - Has loan and cash value
 
 ## Endowment at age 65
@@ -164,8 +164,11 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 **Plan details:**
 
 - Available on all programs except those that start with "K"
+- Premium payments never increase 
 - Face-value of policy is paid to you on the policy anniversary date that is closest to your 65th birthday (e.g. if your policy anniversary is September 1 and your birthday October 1, you'll receive your policy pay out on September 1). If you took out a loan against this policy and still owe money, that amount will be subtracted from your policy pay out.
+- Coverage ends on the policy anniversary date that is closest to your 65th birthday
 - Has loan and cash value
+
 
 ## Endowment at age 96
 
@@ -173,8 +176,8 @@ If you have a Modified Life insurance policy, your policy values decreases by 50
 
 - Available only if you have a policy that begins with "K" **and** are over 65 years old **and** still have term plan life insurance
 - This is a regular endowment plan that matures when you turn 96 years old
-- Your premium payments stay the same as long as your policy is active
-- Doesn't give you permanent and total disability benefits. If you become eligible for these disability benefits, you'll still need to make your premium payment.
+- Premium payments never increase
+- This policy doesn't give you permanent and total disability benefits. If you become eligible for these disability benefits, you'll still need to make your premium payment.
 - "Provides a waiver of premiums provision to be purchased for an additional premium at the time the insurance was exchanged" (I can't decipher this -LW)
 
 
