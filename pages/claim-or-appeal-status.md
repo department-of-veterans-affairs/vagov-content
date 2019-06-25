@@ -1,11 +1,13 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: Check Your VA Claim or Appeal Status
-display_title: Check Claim or Appeal Status
-description:
+title: Check Your VA Claim Or Appeal Status
+heading: Check your VA claim or appeal status
+display_title: Check claim or appeal status
+description: Check your VA claim status or VA appeal status online to find out where your claim or appeal is in our review process. You'll see the date we think we'll complete our review, and view evidence you've filed online and any additional evidence we've requested from you.
+keywords: va claim status, va appeal status, check va claim status, va appeal status check  
 concurrence:
-lastupdate: 2018-09-20
+lastupdate: 2019-04-24
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
@@ -20,7 +22,7 @@ Find out how to check the status of a VA claim or appeal online.
 
 <b>You can use this tool to check the status of a VA claim or appeal for compensation. Track your:</b>
 - Disability compensation (including claims based on special needs like an automobile or clothing allowance)
-- Veteran or survivor pension benefits
+- Veterans or Survivors Pension benefits
 - Special monthly compensation (such as Aid and Attendance)
 - Dependency and Indemnity Compensation (DIC)
 - Burial allowance to help pay for a Veteran's burial and funeral expenses
@@ -55,7 +57,7 @@ Find out how to check the status of a VA claim or appeal online.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Once I'm signed in, how do I check my claim or appeal status?</h2>
+<h2 itemprop="name">Once I'm signed in, how do I check my VA claim or appeal status?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -74,7 +76,7 @@ Find out how to check the status of a VA claim or appeal online.
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What kind of information will I learn about my claim or appeal?</h2>
+<h2 itemprop="name">What kind of information will I learn about my VA claim or appeal?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -118,6 +120,18 @@ This may be because certain documents won't appear online.
 Yes. This is a secure website. We follow strict security policies and practices to protect your personal health information.
 
 If you print or download anything from the website, you’ll need to take responsibility for protecting that information. <br>
+
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="http://schema.org/Question">
+  
+  <h2 itemprop="name">What if I have more questions?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+<div itemprop="text">
+  
+You can call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 </div>
 </div>

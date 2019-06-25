@@ -5,7 +5,7 @@ title: Pre-need Eligibility Determination for Burial in a VA National Cemetery
 display_title: Pre-need Burial Eligibility Determination
 collection: burials
 children: burialsPreNeed
-spoke: Get Benefits
+spoke: Get benefits
 order: 2
 majorlinks:
   - heading:
@@ -19,8 +19,6 @@ relatedlinks:
     - url:
       title:
       description:
-aliases:
-  - /burials-and-memorials/pre-need/
 ---
 
 <div class="va-introtext">
@@ -106,7 +104,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 ## How do I apply?
 You can apply online right now.
 
-<a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for Pre-need Eligibility</a>
+<a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for pre-need eligibility</a>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 <h4 itemprop="name">You can also apply:</h4>

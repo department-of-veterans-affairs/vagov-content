@@ -1,15 +1,14 @@
 ---
 layout: page-breadcrumbs.html
-title: Disability Benefits for Former Prisoners of War (POWs)
+title: Benefits For Former Prisoners Of War (POWs)
+heading: Benefits for former prisoners of war (POWs)
 display_title: Former POWs
-description: Learn about VA disability compensation and other benefits for former Prisoners of War (POWs). Learn which conditions these benefits cover and how to file your claim.
+description: Learn about VA disability compensation and other benefits for former prisoners of war (POWs). Learn which conditions these benefits cover and how to file your claim.
 concurrence: complete
 source: http://www.benefits.va.gov/COMPENSATION/claims-postservice-pow.asp
 plainlanguage: 10-28-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 2
-aliases:
-  - /disability-benefits/conditions/pow/
 ---
 
 <div class="va-introtext">
@@ -45,8 +44,8 @@ These benefits cover conditions that we believe were caused by time spent as a P
 -	Hypertensive vascular disease, including hypertensive heart disease, and related problems (such as a stroke, blood clots, or other serious issues)
 
 **Conditions that affect your mind, including:**
--	A neuropsychiatric condition 
--	Psychosis 
+-	A neuropsychiatric condition
+-	Psychosis
 -	Dysthymic disorder (also called "persistent depressive disorder")
 -	Any of the anxiety states (such as PTSD)
 
@@ -56,18 +55,18 @@ These benefits cover conditions that we believe were caused by time spent as a P
 
 **Conditions that affect your body, including:**
 -	Osteoporosis (if you filed your claim on or after September 28, 2009; no PTSD diagnosis required)
--	Helminthiasis 
+-	Helminthiasis
 -	Peripheral neuropathy, except where directly related to an illness caused by an infection
--	Peptic ulcer disease 
--	Chronic dysentery 
--	Irritable bowel syndrome 
--	Cirrhosis of the liver 
+-	Peptic ulcer disease
+-	Chronic dysentery
+-	Irritable bowel syndrome
+-	Cirrhosis of the liver
 
 **Any nutritional deficiency, including:**
--	Avitaminosis 
--	Beriberi, including beriberi heart disease 
+-	Avitaminosis
+-	Beriberi, including beriberi heart disease
 -	Malnutrition, including optic atrophy connected to malnutrition
--	Pellagra 
+-	Pellagra
 <br>
 
 ### Who’s covered?
@@ -75,14 +74,14 @@ These benefits cover conditions that we believe were caused by time spent as a P
 Veterans
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 -	Health care
 - Compensation (monthly payments)
 
 --------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. When you file, please include any documents that confirm you spent time as a POW. You’ll also need to include a doctor’s report stating that you have 1 or more of the conditions listed here—and that the condition is at least 10% disabling. <br>
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/).
+[Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)

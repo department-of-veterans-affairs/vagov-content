@@ -1,7 +1,7 @@
 ---
-title: Protected Pension Rates
+title: Protected pension rates
 href: https://www.benefits.va.gov/PENSION/current_protected_pension_rate_tables.asp
-spoke: More Resources
+spoke: More resources
 order: 3
 private: true
 ---

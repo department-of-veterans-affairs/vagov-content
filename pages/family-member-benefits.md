@@ -41,7 +41,7 @@ social:
           label: VA email updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: https://www.twitter.com/DeptVetAffairs/
           label: Veterans Affairs Twitter
@@ -122,7 +122,6 @@ hublinks:
       - url: https://www.mirecc.va.gov/coaching/
         label: Coaching into Care
         description: Connect with a licensed psychologist or social worker for guidance on how to support a Veteran who's readjusting to civilian life, dealing with mental health problems, or wanting to find services through VA or the community.
-
 ---
 
 <p class="va-introtext">
@@ -139,9 +138,9 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">How do I get help for a Veteran who's in crisis?</h4>
-      <a id="crisis-expander-link">Find out how to get support anytime, day or night</a>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed">
-      <div class="expander-content-inner usa-alert-text">
+    <div data-analytics="nav-crisis-get-support-247" class="form-expanding-group borderless-alert additional-info-container">
+      <span class="additional-info-title">Find out how to get support anytime, day or night</span>
+      <div class="additional-info-content usa-alert-text" hidden>
         <p>If you're concerned about a Veteran in crisis, connect with our caring, qualified Veterans Crisis Line responders for confidential help. Many of them are Veterans themselves. This service is private, free, and available 24/7.</p>
         <p><strong>To connect with a Veterans Crisis Line responder anytime, day or night:</strong></p>
         <ul>
@@ -152,15 +151,7 @@ As the spouse or dependent child of a Veteran or service member, you may qualify
         </ul>
         <p><strong>If you're concerned about a Veteran who's homeless or at risk of becoming homeless</strong></p>
 	      <p>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week. You or the Veteran can talk privately with a trained VA counselor for free.</p>
-	  </div>
-  	</div>
+      </div>
+    </div>
   </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>

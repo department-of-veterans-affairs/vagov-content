@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to Apply for a VA Home Loan Certificate of Eligibility (COE)
-display_title: How to Apply
-description: Find out how to apply for a VA home loan Certificate of Eligibility (COE). To get a VA-backed home loan, you'll give this COE to your lender to show that you qualify for this benefit based on your service history and duty status. Learn more about the rest of the loan application process.
+title: How To Apply For A VA Home Loan Certificate Of Eligibility
+heading: How to apply for a VA home loan Certificate of Eligibility
+display_title: How to apply
+description: Find out how to apply for a VA home loan Certificate of Eligibility (COE) to prove to your lender that you qualify for a VA direct or VA-backed home loan based on your service history and duty status. Then, learn more about the rest of the loan application process.
+keywords: how to apply for a va home loan, va certificate of eligibility, va loan certificate of eligibility, va home loan certificate of eligibility
 concurrence:
 order: 3
 relatedlinks:
@@ -21,13 +23,11 @@ relatedlinks:
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-Out Refinance Loan
       description: Learn how to get cash from your home equity to pay off debts, pay for school, or take care of other needs.
-aliases:
-  - /housing-assistance/home-loans/apply-for-certificate-of-eligibility/
 ---
 
 <div class="va-introtext">
 
-The first step in getting a VA direct or VA-backed home loan is to apply for a Certificate of Eligibility (COE). This confirms for your lender that you qualify for the VA home loan benefit. Find out how to apply for a COE. Then, choose your loan type and learn about the rest of the loan application process.
+Learn how to apply for a VA home loan Certificate of Eligibility (COE). This is the first step in getting a VA direct or VA-backed home loan. It confirms for your lender that you qualify for the VA home loan benefit. Then, choose your loan type and learn about the rest of the loan application process.
 
 </div>
 
@@ -37,7 +37,7 @@ Gather the information you'll need to apply for your COE. Click on the descripti
 
 <br>
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-veteran">Veteran</button>
 <div id="apply-coe-veteran" class="usa-accordion-content">
@@ -119,11 +119,11 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 
 <br>
 
-### How do I apply for my COE?
+### How do I apply for my VA home loan Certificate of Eligibility?
 
 You can apply online right now.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to apply</a>
 
 #### You can also apply:
 

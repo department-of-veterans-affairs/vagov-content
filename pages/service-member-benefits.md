@@ -41,7 +41,7 @@ social:
           label: VA email updates
           external: true
           icon: fa-envelope
-      - subhead: Follow Us
+      - subhead: Follow us
         links:
         - url: "https://twitter.com/DeptVetAffairs/"
           label: Veterans Affairs Twitter
@@ -84,7 +84,12 @@ hublinks:
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
         description: Get support transitioning to a civilian career with free educational and career counseling (also called Chapter 36). You'll need to apply between 6 months before and 1 year after separation. <br> <b>Open to active-duty service members and Veterans only</b>
+<<<<<<< HEAD
       - url: "/health-care/eligibility/active-duty/"        
+=======
+      - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
+        external: true
+>>>>>>> master
         label: Active duty service members and VA health care
         description: Learn about your health care options after separation or retirement and how to apply for VA health care when you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility. <br> <b>Open to active-duty service members and Veterans only</b>
       - url: "/careers-employment/vocational-rehabilitation/"
@@ -118,7 +123,7 @@ hublinks:
 ---
 
 <p class="va-introtext">
-If you're serving on active duty in the United States uniformed services, including active National Guard and Reserve with federal pay, you may be eligible for VA benefits both during service and after separation or retirement. If you're a traditional or technical member of the National Guard and Reserve, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply. You'll also learn about these benefits in your required Transition Assistance Program (TAP) briefing.
+  If you're serving on active duty in the United States uniformed services, including active National Guard and Reserve with federal pay, you may be eligible for VA benefits both during service and after separation or retirement. If you're a traditional or technical member of the National Guard and Reserve, you may also be eligible for some VA benefits. Find out which benefits you may qualify for—and when to apply. You'll also learn about these benefits in your required Transition Assistance Program (TAP) briefing.
 </p>
 
 <h3>On this page</h3>
@@ -132,36 +137,28 @@ If you're serving on active duty in the United States uniformed services, includ
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Get free mental health care for a year after separation—no matter your discharge status, service history, or eligibility for VA health care.</h4>
-    <a id="crisis-expander-link">Get care now</a>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed" style="max-height: 100em;">
-      <div class="expander-content-inner usa-alert-text">
+    <div data-analytics="nav-crisis-get-care-now" class="form-expanding-group borderless-alert additional-info-container">
+      <span class="additional-info-title">Get care now</span>
+        <div class="additional-info-content usa-alert-text" hidden>
 <br>
-If you need support for a specific mental health problem—or if you’re having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
+  If you need support for a specific mental health problem—or if you’re having problems sleeping, controlling your anger, or readjusting to civilian life—you are not alone. And we can help.
 
-**To access free VA mental health services right away:**
-- **Call or walk in to any VA medical center**—anytime, day or night. <br>
-<a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest VA health facility</a>
-- **Call or walk in to any Vet Center** during clinic hours. <br>
-<a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest Vet Center</a>
-- **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
+  **To access free VA mental health services right away:**
+  - **Call or walk in to any VA medical center**—anytime, day or night. <br>
+  <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest VA health facility</a>
+  - **Call or walk in to any Vet Center** during clinic hours. <br>
+  <a href="https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType">Find your nearest Vet Center</a>
+  - **Call us at 1-877-222-VETS (<a href="tel:+18772228387">1-877-222-8387</a>).** We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 1-800-877-8339.
 
-You don’t need to be enrolled in VA health care to get care. <br>
-<a href="https://www.va.gov/health-care/health-needsconditions/mental-health/">Learn more about accessing VA mental health services</a>
+  You don’t need to be enrolled in VA health care to get care. <br>
+  <a href="https://www.va.gov/health-care/health-needs-conditions/mental-health/">Learn more about accessing VA mental health services</a>
 
-**To connect with other resources for Veterans and transitioning service members:**
-- <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
-- <a href="https://www.mentalhealth.va.gov/transitioningservice/programs.asp">Visit our mental health site for transitioning service members</a>
-- <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veteranstransition-uniformed-service-civilian-life/">Read about our commitment to supporting transitioning Veterans</a>
+  **To connect with other resources for Veterans and transitioning service members:**
+  - <a href="https://www.militaryonesource.mil/">Visit the Department of Defense (DoD) Military OneSource website</a>
+  - <a href="https://www.mentalhealth.va.gov/transitioning-service/programs.asp">Visit our mental health site for transitioning service members</a>
+  - <a href="https://www.whitehouse.gov/presidential-actions/presidential-executive-order-supporting-veterans-transition-uniformed-service-civilian-life/">Read about our commitment to supporting transitioning Veterans</a>
 
-   </div>
+      </div>
+    </div>
   </div>
- </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>
