@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Find a cemetery
-display_title: Find a cemetery
+title: Find a Veterans cemetery
+display_title: Find a Veterans cemetery
 description: Find a VA national cemetery or Veterans state cemetery. 
 keywords: private cemetery
 collection: burials
