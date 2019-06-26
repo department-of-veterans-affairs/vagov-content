@@ -36,7 +36,7 @@ Learn about VA national cemeteries and state Veterans cemeteries. Find out how t
 
 ## VA national cemeteries
 
-The National Cemetery Administration (NCA) maintains 136 national cemeteries in 40 states and Puerto Rico, as well as 33 soldiers’ lots and monument sites. 
+The National Cemetery Administration (NCA) maintains 136 national cemeteries in 40 states and Puerto Rico and 33 soldiers’ lots and monument sites. 
 
 ### How do I find a VA national cemetery?
 
@@ -45,7 +45,7 @@ The National Cemetery Administration (NCA) maintains 136 national cemeteries in 
 Or, [view a list a of all national cemeteries](https://www.cem.va.gov/cems/allnational.asp).
 
 
-## Department of the Army National Cemeteries
+## Department of the Army national cemeteries
  
 The Department of the Army maintains 2 national cemeteries:
 
@@ -167,8 +167,9 @@ If you're overseas, call <a href="tel:+330140752700">+33-0-1-40-75-27-00</a>.
 
 ## Veterans state cemeteries
 
-Most states have cemeteries for Veterans. Eligibility for burial in Veterans state cemeteries is determined by each state. Some states require state residency in order to be buried in a state Veterans cemetery. 
-If you need more information, please contact a Veterans state cemetery office directly. 
+Most states have state-run Veterans cemeteries, which are different from VA national cemeteries. Eligibility for burial in a Veterans state cemetery is determined by each state. Some states might require legal proof that the Veteran lived in the state (also called "residency") in order to be eligible for burial in a Veterans state cemetery. 
+
+If you need more information, please contact a Veterans state cemetery office directly. [Use our facility locator tool](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=cemetery&serviceType) to find contact information for Veterans state cemeteries. 
 
 ### How do I find a Veterans state cemetery?
 
