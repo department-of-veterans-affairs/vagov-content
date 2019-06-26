@@ -105,7 +105,7 @@ All income limits are in U.S. $
 
 **Notes:**
 - **The hospital reduction rate** is a reduced rate of Special Aid and Attendance that we pay if you're hospitalized and meet certain requirements. <br> [Read the full Title 38 regulations for hospital reduction rates](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1552)
-- **If you're married,** we also include some of your spouse's income when we determine if your yearly income is at or below the income limit. The current Section 306 disability pension spouse income exclusion limit is <strong>$4,916</strong>. This means that we won't include the first $4,916 of your spouse's yearly income, but we'll include any amount above this. <br> [Read the full Title 38 regulations for the spouse income exclusion](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_126)
+- **If you're married,** we also include some of your spouse's income when we determine if your yearly income is at or below the income limit. The current Section 306 disability pension spouse income exclusion limit is <strong>$4,916</strong>. This means that we won't include the first $4,916 of your spouse's yearly income, but we'll include any amount above this unless you provide evidence that you don't have access to this income or that including it would cause you financial hardship. <br> [Read the full Title 38 regulations for the spouse income exclusion](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad275643432556b9dda942343fb89296&mc=true&node=pt38.1.3&rgn=div58#se38.1.3_1262)
 
 ### Section 306 death pension yearly income limits
 
