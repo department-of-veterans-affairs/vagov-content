@@ -71,8 +71,7 @@ You don’t need to be enrolled in VA health care to get care.
 You can receive free VA health care for up to 5 years after discharge or release for any condition related to your service in Operation Enduring Freedom (OEF) in Afghanistan or Operation Iraqi Freedom (OIF) or Operation New Dawn (OND) in Iraq. This is called an enhanced eligibility period.
 
 <h3>We encourage you to apply right away</h3> 
-If you wait to apply for VA health care until after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to apply for VA health care right away to take advantage of this enhanced eligibility period. <br>
-[Find out how to apply for VA health care](/health-care/how-to-apply/)
+If you wait to apply for VA health care until after your enhanced eligibility period ends, we won't factor your OEF/OIF/OND combat Veteran status into our decision on your enrollment. Instead, we'll base your eligibility on factors such as your income and VA disability rating. So even if you don't think you need medical care right now, we encourage you to [apply for VA health care](/health-care/how-to-apply/) right away to take advantage of this enhanced eligibility period. <br>
 
 <div class="usa-accordion">
 <ul class="usa-unstyled-list">
@@ -105,7 +104,6 @@ You may qualify for enhanced eligibility if you meet all of the requirements lis
 [Learn more about how we determine your health care costs](https://www.va.gov/HEALTHBENEFITS/cost/index.asp) <br>
 [View current copay rates](https://www.va.gov/HEALTHBENEFITS/cost/copays.asp)
 - <b>You'll stay enrolled in VA health care even after your OEF/OIF/OND enhanced eligibility period ends.</b> We’ll reassign you to the highest priority group you qualify for at that time. <br>
-[Learn more about priority groups](/health-care/eligibility/#priority-groups)
 
 </div>
 </li>
@@ -130,14 +128,14 @@ You may be eligible for VA health care for all or some of your health care needs
 
 You and your family may also qualify for temporary health coverage through the Department of Defense's TRICARE program. If you're a member of the National Guard and Reserve, your coverage options will depend on your military status before you separate. You'll have 90 days from your separation date to change your health plan.
 
-Visit the TRICARE website to learn more about [how to enroll for temporary TRICARE coverage after separation](https://tricare.mil/LifeEvents/Separating). <br>
+[Visit the TRICARE website](https://tricare.mil/LifeEvents/Separating) to learn more about how to enroll for temporary TRICARE coverage after separation. <br>
 
 <span id="retiring"></span>
 <h2>Eligibility after retirement</h2>
 
 You may be eligible for the Department of Defense's TRICARE program as a military retiree. Your family members may also qualify for care. You'll need to enroll within 90 days after your retirement date even if you're already enrolled in TRICARE on active duty.
 
-Visit the TRICARE website to learn more about [how to enroll in TRICARE as a military retiree](https://tricare.mil/LifeEvents/Retiring).
+[Visit the TRICARE website](https://tricare.mil/LifeEvents/Retiring) to learn more about how to enroll in TRICARE as a military retiree.
 
 You may also be eligible for certain VA health care benefits. <br>
 [Learn more about VA health care eligibility](/health-care/eligibility) <br>
