@@ -23,7 +23,7 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Review information on the Navy burial at sea program and find out if you can plan a burial at sea for a Veteran.  
+Learn about Navy's burial at sea program and find out if you can plan a burial at sea for a Veteran.  
 </div>
 
 ## Who provides a burial at sea?
@@ -36,9 +36,9 @@ A burial at sea is provided by the U.S. Navy Mortuary Affairs office. A burial a
 
 Call the U.S. Navy Mortuary Affairs office toll free at <a href="tel:18667870081">866-787-0081</a>, Monday through Friday, 8:30 a.m. to 5:00 p.m. (ET).
 
-### Are burial items available to Veterans who have already been buried at sea?
+## Can I get a memorial item for a Veteran who has already been buried at sea? 
 
 Yes. Active duty members and Veterans buried at sea may be eligible for a headstone or marker. 
 
-[Learn more about eligibility for burial items.](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Learn more about eligibility for memorial items.](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/)
 
