@@ -62,12 +62,12 @@ Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. Our hours of
 
 - The headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. The cemetery is repsonsible for paying all replacement costs. 
 
-## Will the replacement headstone or marker be the same style as the original?
+## Will the replacement headstone or marker look the same as the original?
 
-Yes. If we replace a historic (greater than 50 years old) headstone or marker, we'll provide an item that has the same type and style as the original (sometimes called "replacing in kind"). 
+Yes. If we replace a historic (more than 50 years old) headstone or marker, we'll provide an item that has the same type and style as the original (sometimes called "replacing in kind"). 
   
 ## What happens to headstones and markers after they're replaced? 
 
-Marble and granite headstones or markers removed from a grave must be destroyed so that the inscription can no longer be read. Bronze markers must be returned to the contractor. 
+If a marble or granite headstone or marker is removed from a grave, it must be destroyed so that the inscription can no longer be read. Bronze markers must be returned to the contractor. 
 
 
