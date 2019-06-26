@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
-title: Discharge documents for National Cemetery burial 
-heading: Discharge documents for National Cemetery burial 
-display_title: Discharge documents for National Cemetery burial 
-description: Find out which military discharge documents the National Cemetery Association accepts for burial in a national cemetery. 
+title: Discharge documents for burials
+heading: Discharge documents for burials
+display_title: Discharge documents for burials
+description: Find out which military discharge documents you'll need to provide the National Cemetery Association in order to  show proof of honorable active military service. 
 keywords: n/a
 template: detail-page
 order: 6
@@ -12,7 +12,7 @@ spoke: Get records
 
 <div class='va-introtext'>
   
-To be buried in a national cemetery, you'll need to show the National Cemetery Association (NCA) proof of honorable active military service. Find out which documents the NCA accepts.
+If you want to be buried in a national cemetery or get memorial items, you'll need to show the National Cemetery Association (NCA) proof of honorable active military service. Find out which documents the NCA accepts.
 
 </div>
 
