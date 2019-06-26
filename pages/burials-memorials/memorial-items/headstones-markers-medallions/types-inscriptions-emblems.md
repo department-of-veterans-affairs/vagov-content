@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Selecting types, inscriptions, emblems
-display_title: Selecting types, inscriptions, emblems
-description: Find out about different types of memorial items, and learn about selecting different inscriptions and emblems. 
+title: Selecting a memorial item, inscription, and emblem
+display_title: Selecting a memorial item, inscription, and emblem
+description: Find out about the different types of memorial items, and learn about selecting different inscriptions and emblems. 
 order: 6
 relatedlinks:
   - heading: Other helpful information
@@ -26,20 +26,20 @@ relatedlinks:
 Find out about different types of memorial items, and learn about what types of inscriptions and emblems are available. 
 </div>
 
-## What types of memorial items are there?
+## What types of memorial items are available?
 
-Memorial items include:
+You can choose one of these types of memorial items:
 
 - Headstones
 - Grave markers
+- Niche markers
 - Medallions
-- Pre-World War I headstones and markers
 
-[See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 ## How do I apply for a memorial item? 
 
-[Follow these instructions to apply for a headstone, marker, or medallion.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Follow these instructions to apply for a headstone, marker, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 ## Headstones
 
@@ -54,7 +54,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 - **Material:** Marble or granite
 - **Color:** The stone color will vary. The marble may have light to medium veining (lines).
 
-[See an example of an upright marble headstone.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See an example of an upright marble headstone](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 **Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
@@ -65,7 +65,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 A marker is a piece of bronze, granite, or marble with an inscription that is placed flat on the ground or mounted on a wall. 
 
-[See what each marker type looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ### What does a marker look like and what types of markers are available?
 
@@ -75,7 +75,7 @@ A marker is a piece of bronze, granite, or marble with an inscription that is pl
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
-[See an example of a flat granite or marble marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See an example of a flat granite or marble marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ##### Flat bronze
 
@@ -83,7 +83,7 @@ A marker is a piece of bronze, granite, or marble with an inscription that is pl
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
 
-[See an example of a flat bronze marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See an example of a flat bronze marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 
 ##### Bronze niche (for mounting on a wall)
@@ -92,7 +92,7 @@ A marker is a piece of bronze, granite, or marble with an inscription that is pl
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mountin bolts and washers
 
-[See an example of a bronze niche marker.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See an example of a bronze niche marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -125,7 +125,7 @@ The inscription on a Veteran's headstone or grave marker can include:
 
 An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
 
-[View the official list of emblems of belief.](https://www.cem.va.gov/cem/hmm/emblems.asp)
+[View the official list of emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
 
 #### Who can request an emblem of belief? 
 
@@ -147,7 +147,7 @@ Yes. Follow the directions below to request an image that isn't included on the 
 
 #### Check the Veteran's eligibility for memorial items
 <br>
-[Find out if the Veteran is eligible for a memorial item.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Find out if the Veteran is eligible for a memorial item](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 
  </li>
@@ -190,7 +190,7 @@ A medallion is an inscribed piece of bronze that can be attached to an existing,
 
 ### What does a medallion look like?
 
-[See an example of a medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+[See an example of a medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
 ### Why should I choose a medallion?
 
@@ -223,7 +223,7 @@ Medallions are for Veterans who:
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
 
-[See an example of a bronze medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+[See an example of a bronze medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
 ##### Medal of Honor (MOH)
 
@@ -233,7 +233,7 @@ Medallions are for Veterans who:
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
-[See an example of a Medal of Honor medallion.](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+[See an example of a Medal of Honor medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
 ### What happens after I apply for a medallion?
 
