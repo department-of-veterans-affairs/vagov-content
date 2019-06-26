@@ -44,7 +44,7 @@ Yes. Veterans buried in a private cemetery may be eligible for these memorial it
 
 [See if you’re eligible for a memorial item and learn how to apply.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-### Can I find out which memorial items I can get in a private cemetery burial before I need them? 
+### If I'm planning my own burial in a private cemetery, can I find out which memorial items I'm eligible for? 
 
 Yes. You can find out which burial benefits you're eligible for by filling out the [Pre-need Eligibility application](https://www.va.gov/burials-memorials/pre-need-eligibility/). This application can be used to determine if you can get a VA headstone or marker. 
 
@@ -55,9 +55,9 @@ If you want to be buried in a private cemetery, the Pre-need Eligibility applica
 
 ### Is a family member buried in a private cemetery eligible for memorial items?
 
-No, a family member buried in a private cemetery isn't eligible for VA memorial items. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. <br>
+No. A family member buried in a private cemetery isn't eligible for VA memorial items. Only an eligible Veteran can receive a headstone, marker or medallion for burial in a private cemetery. <br>
 
-Additionally, we can't pay to have a family member's date of birth or death inscribed on the Veteran's headstone or marker if the Veteran is buried at a private cemetery. 
+Additionally, if a Veteran is buried at a private cemetery, we can't pay to have a family member's date of birth or death inscribed on their headstone or marker. 
 
 ## Costs
 
@@ -67,7 +67,9 @@ It depends. We provide memorial items to you and your family at no extra cost. B
 
 ### Can VA help with the cost of a Veteran's burial in a private cemetery?
 
-Yes. We can help you with the cost of a Veteran's burial with a burial allowance. [Learn more about burial allowances and find out how to apply.](https://www.va.gov/burials-memorials/veterans-burial-allowance/)
+Yes. We can help you with the cost of a Veteran's burial with a burial allowance. 
+
+[Learn more about burial allowances and find out how to apply.](https://www.va.gov/burials-memorials/veterans-burial-allowance/)
 
 
 ## How do I request a memorial item for a private cemetery burial?
@@ -98,6 +100,8 @@ Fill out a [Claim for Government Medallion for Placement in a Private Cemetery (
 
 Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. Don’t send the originals, because we can’t return them.
 
+[Learn more about which discharge documents we'll accept.](/records/discharge-documents/) 
+
  </li>
  
  <li class="process-step list-three">
@@ -123,10 +127,9 @@ Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
  
  </li>
 </ol>
-
 **Note:** Only the National Cemetery Administration (NCA) can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
-[Find out more about requesting memorial items](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Find out more about requesting memorial items.](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 #### Need help?
 
@@ -144,7 +147,7 @@ If you’re planning a burial in a private cemetery, you may want to ask these q
 - Can you give me a written list of what information or resources I need to give you in order to plan the burial? 
 - Do you offer a trust fund to protect buyers? 
 - Are there any requirements or restrictions on headstones or gravemarkers in your cemetery?
-- Do I need to buy a special marker base before ordering a headstone from VA?
+- Do I need to buy a special marker base before ordering a VA headstone?
 - Does it cost money to place, set, or take care of a VA headstone or marker? If yes, will this cost more than if I buy a private headstone or marker?
 - Do I need to buy an outside container (sometimes called a “vault” or a “grave liner”)? If yes, how much will this cost?
 
