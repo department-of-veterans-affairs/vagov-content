@@ -37,17 +37,10 @@ You can choose one of these types of memorial items:
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-## How do I apply for a memorial item? 
 
-[Follow these instructions to apply for a headstone, marker, or medallion](/burials-memorials/memorial-items/headstones-markers-medallions/)
-
-## Headstones
-
-### What is a headstone? 
+### Headstones
 
 A headstone is a piece of upright stone that is specially carved and inscribed.
-
-### What does a headstone look like?
 
 - **Dimensions:** 42 inches tall x 13 inches wide x 4 inches thick 
 - **Weight:** About 230 pounds
@@ -59,40 +52,43 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 **Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
 
-## Markers
+### Markers
 
-### What is a marker? 
+Markers are made of different materials and are different sizes depending on where they will be placed. A gravesite marker is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. A niche marker is made of bronze and is attached to the wall of the columbarium at the location of the urn. Learn more about the size, weight, and other details below.<br>
 
-A marker is a piece of bronze, granite, or marble with an inscription that is placed flat on the ground or mounted on a wall. 
+#### Types of markers
 
-[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
-
-### What does a marker look like and what types of markers are available?
-
-##### Flat granite or marble
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-granite-marble">Flat granite or marble (gravesite marker)</button>
+<div id="flat-granite-marble" class="usa-accordion-content">
 
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
-
-[See an example of a flat granite or marble marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
-
-##### Flat bronze
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-bronze">Flat bronze (gravesite marker)</button>
+<div id="flat-bronze" class="usa-accordion-content">
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
-
-[See an example of a flat bronze marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
-
-
-##### Bronze niche (for mounting on a wall)
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (for mounting on a wall)</button>
+<div id="bronze-niche" class="usa-accordion-content">
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
-- **Additional details:** We provide you mountin bolts and washers
+- **Additional details:** We provide you mounting bolts and washers
+</div>
+</li>
+</ul>
 
-[See an example of a bronze niche marker](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -183,8 +179,6 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
 </li>
 
 ## Medallions
-
-### What is a medallion? 
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
@@ -297,25 +291,5 @@ To apply for a pre-World War I headstone or marker, you'll need to show proof of
 
 [Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records) Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
 
-The fee for requesting records is between $25.00 and $75.00. Records ship 60-90 days from the date of your request. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The fee for requesting records is between $25 and $75. Records ship 60-90 days from the date of your request. 
 
