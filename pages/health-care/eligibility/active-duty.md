@@ -148,7 +148,7 @@ You may be eligible to receive care through VA for any service-connected disabil
 
 To learn more about your options, talk with a VA benefits counselor. Your counselor will help you determine what your military and VA medical board ratings mean and how they affect your options. Your counselor will also help you apply for benefits.
 
-Call our health benefits hotline at <a href="tel:+18778387">877-8387</a> to connect with a benefits counselor.  If you have hearing loss, call TTY: 800-877-8339. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
+Call our health benefits hotline at <a href="tel:+18778387">877-222-8387</a> to connect with a benefits counselor.  If you have hearing loss, call TTY: 800-877-8339. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Or contact your nearest VA medical center. <br>
 [Find a VA medical center near you](/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType)
 
 ------
