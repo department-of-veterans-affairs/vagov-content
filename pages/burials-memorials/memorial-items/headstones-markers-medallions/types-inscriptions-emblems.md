@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Selecting a memorial item, inscription, and emblem
-display_title: Selecting a memorial item, inscription, and emblem
-description: Find out about the different types of memorial items, and learn about selecting different inscriptions and emblems. 
+title: Selecting a memorial item, inscription, or emblem
+display_title: Selecting a memorial item, inscription, or emblem
+description: Learn what different types of memorial items look like. Find out how to select different inscriptions and emblems. 
 order: 6
 relatedlinks:
   - heading: Other helpful information
@@ -23,8 +23,8 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Find out about different types of memorial items, and learn about what types of inscriptions and emblems are available. 
-</div>
+  
+Learn what different types of memorial items look like. Find out how to select different inscriptions and emblems. </div>
 
 ## What types of memorial items are available?
 
@@ -54,7 +54,9 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ### Markers
 
-Markers are made of different materials and are different sizes depending on where they will be placed. A gravesite marker is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. A niche marker is made of bronze and is attached to the wall of the columbarium at the location of the urn. Learn more about the size, weight, and other details below.<br>
+Gravesite markers are made of different materials and are different sizes. Their size depends on where they will be placed. 
+
+[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 #### Types of markers
 
@@ -63,32 +65,46 @@ Markers are made of different materials and are different sizes depending on whe
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-granite-marble">Flat granite or marble (gravesite marker)</button>
 <div id="flat-granite-marble" class="usa-accordion-content">
 
+**A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
+
 - **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
+
+[See what a granite or mrable marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-bronze">Flat bronze (gravesite marker)</button>
 <div id="flat-bronze" class="usa-accordion-content">
+  
+  **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
+
 
 - **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
+
+[See what a flat bronze gravesite marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+
 </div>
 </li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (for mounting on a wall)</button>
 <div id="bronze-niche" class="usa-accordion-content">
+  
+  **A niche marker** is made of bronze and is attached to the wall of the columbarium where the Veteran's burial urn is located. 
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mounting bolts and washers
+
+[See what a bronze niche marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+
 </div>
 </li>
 </ul>
-
-[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ## What can be inscribed on a Veteran's headstone or grave marker?
 
@@ -143,8 +159,8 @@ Yes. Follow the directions below to request an image that isn't included on the 
 
 #### Check the Veteran's eligibility for memorial items
 <br>
-[Find out if the Veteran is eligible for a memorial item](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
+<a href="/burials-memorials/memorial-items/headstones-markers-medallions/">Find out if the Veteran is eligible for a memorial item.</a>
 
  </li>
 
@@ -160,12 +176,14 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
  
  #### Submit an image of the emblem of belief
  
- Send us a picture of the emblem of belief you want on the Veteran's headstone or grave marker. The picture must:
+ Send us a picture of the emblem of belief you want on the Veteran's headstone or grave marker. 
+ 
+ **The picture must:**
  
  - Be 3 inches in diameter
- - Printed in black and white
+ - Be printed in black and white
  - Have no copyright or trademark restrictions
- - Must be able to be inscribed in a stone or bronze production environment without losing image quality
+ - Be able to be inscribed in a stone or bronze production environment without losing its quality
  
  ##### By mail: 
  <br>
