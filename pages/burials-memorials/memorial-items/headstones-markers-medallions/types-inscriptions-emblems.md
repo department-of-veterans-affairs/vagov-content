@@ -71,7 +71,7 @@ Gravesite markers are made of different materials and are different sizes. Their
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
-[See what a granite or mrable marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See what a granite or marble marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 </div>
 </li>
