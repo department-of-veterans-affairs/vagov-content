@@ -94,7 +94,7 @@ Gravesite markers are made of different materials and are different sizes. Their
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (for mounting on a wall)</button>
 <div id="bronze-niche" class="usa-accordion-content">
   
-  **A niche marker** is made of bronze and is attached to the wall of the columbarium where the Veteran's burial urn is located. 
+  **A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
 
 - **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
