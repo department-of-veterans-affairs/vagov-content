@@ -1,10 +1,10 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Protected Pension Rates
-heading: VA protected pension rates
+title: VA Protected Disability And Death Pension Rates
+heading: VA protected disability and death pension rates
 display_title: Protected pension rates
-description: If you began receiving VA disability or death pension payments before December 31, 1978, you may be able to continue receiving payments at the rates under the old programs as well as a cost-of-living increase. Find out if you're eligible for protected pension rates.
+description: You may be eligible for protected rates if you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program. Find out if you're eligible, and view 2019 rates.
 spoke: More resources
 order: 3
 relatedlinks:
@@ -26,7 +26,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-You may be eligible for protected rates if you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program. This means you'll be able to continue receiving payments at the rates under the old program as well as a cost-of-living increase. 
+You may be eligible for protected rates if you began receiving VA disability or death pension payments before December 31, 1978, and you haven't elected to change to the current, improved pension program. This means you'll be able to continue receiving payments at the rates under the old program as well as a cost-of-living increase. Find out if you're eligible, and view 2019 rates.
 
 </div>
 
