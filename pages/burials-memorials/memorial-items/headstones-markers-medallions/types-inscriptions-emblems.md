@@ -47,7 +47,12 @@ You can choose one of these types of memorial items:
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
 
+<span id="headstones">
+  
 ### Headstones
+  
+  </span>
+
 
 A headstone is a piece of upright stone that is specially carved and inscribed.
 
@@ -61,7 +66,12 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 **Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
 
+<span id="markers">
+  
 ### Markers
+  
+  </span>
+
 
 **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
 
@@ -113,7 +123,13 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 </li>
 </ul>
 
+
+<span id="what-can-be-inscribed-on-a-veteran's-headstone-or-grave-marker?">
+  
 ## What can be inscribed on a Veteran's headstone or grave marker?
+  
+  </span>
+
 
 The inscription on a Veteran's headstone or grave marker can include:
 - An abbreviated description of their service. The inscription varies depending on the Veteran's branch of service, war service, awards, and rank. 
@@ -203,7 +219,13 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
 </ol>
 </li>
 
+
+<span id="medallions">
+  
 ## Medallions
+  
+  </span>
+
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
@@ -283,7 +305,13 @@ Once a request for a medallion is received and approved, we'll mail your medalli
 
 ------
 
+
+<span id="pre-world-war-I-headstones-and-markers">
+  
 ## Pre-World War I headstones and markers
+  
+  </span>
+
 
 ### What is a pre-World War I headstone or marker?
 
