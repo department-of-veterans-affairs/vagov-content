@@ -279,7 +279,7 @@ Medallions are for Veterans who:
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="moh-2">Medal of Honor</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="moh-2">Medal of Honor (MOH)</button>
 <div id="moh-2" class="usa-accordion-content">
 
 
@@ -287,7 +287,7 @@ Medallions are for Veterans who:
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
 **Medium:** 3-3/4 inches wide  by 2-7/8 inch tall by 1/4 inch diameter <br>
 - **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
+- **Inscription:** Each medallion is inscribed with the phrase "Medal of Honor" (in all caps) at the top and the Veteran's branch of service on the bottom
 
 [See an example of a Medal of Honor](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
@@ -336,8 +336,8 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="granite">Granite pre-World War I headstone</button>
-<div id="granite" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="granite-1">Granite pre-World War I headstone</button>
+<div id="granite-1" class="usa-accordion-content">
 
 - **Dimensions**: <br>
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
