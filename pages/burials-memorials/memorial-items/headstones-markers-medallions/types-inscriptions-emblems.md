@@ -36,12 +36,8 @@ You can choose one of these types of memorial items:
 - Medallions
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
-  
-## Information about headstones, markers, and their inscriptions 
 
-Find out what options are available and what decisions you'll need to make when you choose to honor the deceased with a headstone or marker.
-
-### Headstones
+## What does a headstone look like?
 
 A headstone is a piece of upright stone that is specially carved and inscribed.
 
@@ -54,7 +50,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 **Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
-### Markers
+## What does a marker look like?
 
 **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
 
@@ -63,7 +59,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 [See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
-#### Types of markers
+### Types of markers
 
 <ul class="usa-accordion">
 <li>
@@ -106,13 +102,13 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 </li>
 </ul>
 
-### Inscriptions on a Veteran's headstone or marker
+## What information is used for an inscription on a Veteran's headstone or marker?
 
 The inscription on a Veteran's headstone or marker can include:
 - An abbreviated description of their service, including their branch of service, war service, awards, and rank
 - An emblem of belief (a symbol that represents religious or other beliefs)
 
-#### List of abbreviations for the inscription
+### List of abbreviations for the inscription
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="service">Service</button>
@@ -140,15 +136,11 @@ The inscription on a Veteran's headstone or marker can include:
 </li>
 </ul>
 
-### Emblems of belief for a Veteran's headstone or marker
+## What's an emblem of belief?
 
-#### What's an emblem of belief?
-
-An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
+An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief can be inscribed on a Veteran's headstone or grave marker. 
 
 [View the official list of emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
-
-#### Who can request an emblem of belief? 
 
 These people can request an emblem of belief for a Veteran:
 
@@ -156,7 +148,7 @@ These people can request an emblem of belief for a Veteran:
 - A person authorized by the Veteran's next of kin
 - A person authorized by the Veteran
 
-#### Can I request an emblem of belief that isn't included on the official list? 
+### How to request an emblem of belief that isn't included on the official list
 
 Yes. Make sure that the emblem of belief you're requesting reflects the Veteran's religious beliefs or other belief system. 
 
@@ -182,17 +174,10 @@ Send the printed picture here:
 </ol>
 </li>
 
-## Information about Medallions
+## What's a medallion?
 
-A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
-
-### What does a medallion look like?
-
+A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker to show Veteran status. A medallion shows that a gravesite or memorial site belongs to a Veteran. <br>
 [See an example of a medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
-
-### Why should I choose a medallion?
-
-If you have a privately purchased headstone or marker, a medallion shows Veteran status. 
 
 Medallions are: 
 
