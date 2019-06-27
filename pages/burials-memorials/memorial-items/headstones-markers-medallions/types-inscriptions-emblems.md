@@ -26,6 +26,15 @@ relatedlinks:
 
 Find out how to select different types of memorial items, inscriptions and emblems and see examples of what they look like. </div>
 
+<h3>On this page</h3>
+
+- [Headstones](#headstones)
+- [Markers](#markers)
+- [Inscriptions](#what-can-be-inscribed-on-a-veteran's-headstone-or-grave-marker?)
+- [Medallions](#medallions)
+- [Pre-World War I](#pre-world-war-I-headstones-and-markers) 
+
+
 ## What types of memorial items are available?
 
 You can choose one of these types of memorial items:
@@ -54,7 +63,10 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ### Markers
 
-Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
+**A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
+
+**A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
+
 
 [See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
@@ -65,8 +77,6 @@ Gravesite markers are made of different materials and are different sizes. A mar
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-granite-marble">Flat granite or marble (gravesite marker)</button>
 <div id="flat-granite-marble" class="usa-accordion-content">
 
-**A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
-
 - **Dimensions:** 24 inches long by 12 inches wide by 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
@@ -75,12 +85,11 @@ Gravesite markers are made of different materials and are different sizes. A mar
 
 </div>
 </li>
+
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="flat-bronze">Flat bronze (gravesite marker)</button>
 <div id="flat-bronze" class="usa-accordion-content">
   
-  **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
-
 
 - **Dimensions:** 24 inches long by 12 inches wide by 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
@@ -94,8 +103,6 @@ Gravesite markers are made of different materials and are different sizes. A mar
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (for mounting on a wall)</button>
 <div id="bronze-niche" class="usa-accordion-content">
   
-  **A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
-
 - **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mounting bolts and washers
@@ -228,6 +235,12 @@ Medallions are for Veterans who:
 
 ##### Bronze medallions
 
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-med">Bronze medallion</button>
+<div id="bronze-med" class="usa-accordion-content">
+
+
 - **Dimensions**: <br>
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
 **Medium:** 3-3/4 inches wide  by 2-7/8 inches tall by 1/4 inch diameter <br>
@@ -237,7 +250,20 @@ Medallions are for Veterans who:
 
 [See an example of a bronze medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
+
+</div>
+</li>
+
+
+
 ##### Medal of Honor (MOH)
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="moh-2">Medal of Honor</button>
+<div id="moh-2" class="usa-accordion-content">
+
 
 - **Dimensions**: <br>
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
@@ -245,11 +271,17 @@ Medallions are for Veterans who:
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
-[See an example of a Medal of Honor medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+[See an example of a Medal of Honor](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
+
+</div>
+</li>
+
 
 ### What happens after I apply for a medallion?
 
 Once a request for a medallion is received and approved, we'll mail your medallion to you. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+
+------
 
 ## Pre-World War I headstones and markers
 
@@ -262,6 +294,13 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 
 ##### Marble
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="marble-2">Marble pre-World War I headstone</button>
+<div id="marble-2" class="usa-accordion-content">
+
 - **Dimensions**: <br>
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 **B:** 13 inches wide by 42 inches tall by 3 inches thick <br>
@@ -270,13 +309,28 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 **Note:** If you're requesting a pre-World War I marble headstone, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
 
+</div>
+</li>
+
+
 ##### Granite
+
+
+
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="granite">Granite pre-World War I headstone</button>
+<div id="granite" class="usa-accordion-content">
 
 - **Dimensions**: <br>
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 - **Lettering:** Lettering is raised inside a recessed shield
 
 **Note:** If you're requesting a pre-World War I granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
+
+</div>
+</li>
+
 
 ### What can be inscribed on a pre-World War I headstone or marker?
 
