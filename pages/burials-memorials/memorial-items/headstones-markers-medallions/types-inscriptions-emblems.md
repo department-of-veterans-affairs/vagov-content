@@ -26,15 +26,6 @@ relatedlinks:
 
 Find out how to select different types of memorial items, inscriptions and emblems and see examples of what they look like. </div>
 
-<h3>On this page</h3>
-
-- [Headstones](#headstones)
-- [Markers](#markers)
-- [Inscriptions](#what-can-be-inscribed-on-a-veteran's-headstone-or-grave-marker?)
-- [Medallions](#medallions)
-- [Pre-World War I](#pre-world-war-I-headstones-and-markers) 
-
-
 ## What types of memorial items are available?
 
 You can choose one of these types of memorial items:
@@ -45,14 +36,12 @@ You can choose one of these types of memorial items:
 - Medallions
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
-
-
-<span id="headstones">
   
+## Information about headstones and markers
+
+Find out what options are available and what decisions you'll need to make when you choose to honor the deceased with a headstone or marker.
+
 ### Headstones
-  
-  </span>
-
 
 A headstone is a piece of upright stone that is specially carved and inscribed.
 
@@ -65,13 +54,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 **Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
-
-<span id="markers">
-  
 ### Markers
-  
-  </span>
-
 
 **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
 
@@ -110,7 +93,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (for mounting on a wall)</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (to mark the location of the urn)</button>
 <div id="bronze-niche" class="usa-accordion-content">
   
 - **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inch thick (rise)
@@ -123,26 +106,26 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 </li>
 </ul>
 
+### Inscriptions on a Veteran's headstone or marker
 
-<span id="what-can-be-inscribed-on-a-veteran's-headstone-or-grave-marker?">
-  
-## What can be inscribed on a Veteran's headstone or grave marker?
-  
-  </span>
+The inscription on a Veteran's headstone or marker can include:
+- An abbreviated description of their service, including their branch of service, war service, awards, and rank
+- An emblem of belief (a symbol that represents religious or other beliefs)
 
+#### List of abbreviations for the inscription
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="service">Service</button>
+<div id="service" class="usa-accordion-content">
 
-The inscription on a Veteran's headstone or grave marker can include:
-- An abbreviated description of their service. The inscription varies depending on the Veteran's branch of service, war service, awards, and rank. 
-- An emblem (image) of belief (faith)
-
-### List of Abbreviations 
-
-#### Service
 - [Branch of Service](https://www.cem.va.gov/CEM/docs/abbreviations/Branch_of_Service.pdf)
 - [War Service](https://www.cem.va.gov/CEM/docs/abbreviations/War_Service_Abbreviations.pdf)
 - [Awards](https://www.cem.va.gov/CEM/docs/abbreviations/Awards.pdf)
-
-#### Ranks
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="rank">Ranks</button>
+<div id="rank" class="usa-accordion-content">
 
 - [Air Force](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Air_Force.pdf)
 - [Army](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Army.pdf)
@@ -153,6 +136,9 @@ The inscription on a Veteran's headstone or grave marker can include:
 - [Merchant Marines](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Merchant_Marine.pdf)
 - [Navy](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_Navy.pdf)
 - [Other](https://www.cem.va.gov/CEM/docs/abbreviations/Ranks_All_Other.pdf)
+</div>
+</li>
+</ul>
 
 ### Emblems of belief
 
@@ -199,16 +185,17 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
  
  #### Submit an image of the emblem of belief
  
- Send us a picture of the emblem of belief you want on the Veteran's headstone or grave marker. 
+Send us a printed picture of the emblem of belief you want on the Veteran's headstone or grave marker. Please follow the requirements listed below. 
  
  **The picture must:**
+ - Show an emblem that's 3 inches in diameter
+ - Be black and white
+ - Be digitally created, not hand drawn
+ - Not have copyright or trademark restrictions
+ - Be able to be inscribed in stone or bronze using an automated system without losing quality
+
  
- - Be 3 inches in diameter
- - Be printed in black and white
- - Have no copyright or trademark restrictions
- - Be able to be inscribed in a stone or bronze production environment without losing its quality
- 
- ##### By mail: 
+Send the printed picture here:
  <br>
  <p class="va-address-block">
     Memorial Products Service (41B)<br>
@@ -219,13 +206,7 @@ Make sure that the emblem of belief you're requesting portrays the Veteran's rel
 </ol>
 </li>
 
-
-<span id="medallions">
-  
 ## Medallions
-  
-  </span>
-
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
@@ -271,11 +252,8 @@ Medallions are for Veterans who:
 
 [See an example of a bronze medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
-
 </div>
 </li>
-
-
 
 <ul class="usa-accordion">
 <li>
@@ -301,14 +279,8 @@ Once a request for a medallion is received and approved, we'll mail your medalli
 
 ------
 
-
-<span id="pre-world-war-I-headstones-and-markers">
-  
 ## Pre-World War I headstones and markers
   
-  </span>
-
-
 ### What is a pre-World War I headstone or marker?
 
 A pre-World War I headstone or marker is a memorial item used for the gravesite of a Civil War or Spanish American War Veteran. The style and inscription of a pre-World War I headstone or marker is different from the style of a current headstone or marker.
