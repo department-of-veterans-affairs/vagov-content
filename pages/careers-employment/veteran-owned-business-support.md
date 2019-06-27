@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: topic-landing
+template: detail-page
 title: Get Support For Your Veteran-Owned Small Business
 heading: Get support for your Veteran-Owned Small Business
 display_title: Veteran-owned business support
