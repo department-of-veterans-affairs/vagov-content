@@ -42,7 +42,7 @@ You can choose one of these types of memorial items:
 
 A headstone is a piece of upright stone that is specially carved and inscribed.
 
-- **Dimensions:** 42 inches tall x 13 inches wide x 4 inches thick 
+- **Dimensions:** 42 inches tall by 13 inches wide by 4 inches thick 
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
 - **Color:** The stone color will vary. The marble may have light to medium veining (lines).
@@ -67,7 +67,7 @@ Gravesite markers are made of different materials and are different sizes. A mar
 
 **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
 
-- **Dimensions:** 24 inches long x 12 inches wide x 4 inches thick
+- **Dimensions:** 24 inches long by 12 inches wide by 4 inches thick
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
@@ -82,7 +82,7 @@ Gravesite markers are made of different materials and are different sizes. A mar
   **A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
 
 
-- **Dimensions:** 24 inches long x 12 inches wide x 3/4 inch thick (rise)
+- **Dimensions:** 24 inches long by 12 inches wide by 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
 
@@ -96,7 +96,7 @@ Gravesite markers are made of different materials and are different sizes. A mar
   
   **A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
 
-- **Dimensions:** 8 1/2 inches long x 5 1/2 inches wide x 7/16 inch thick (rise)
+- **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you mounting bolts and washers
 
@@ -229,9 +229,9 @@ Medallions are for Veterans who:
 ##### Bronze medallions
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inches wide x 4-3/4 inches tall x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inches wide  x 2-7/8 inches tall x 1/4 inch diameter <br>
-**Small:** 2 inches wide x 1-1/2 inches tall x 1/3 inch diameter <br>
+**Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
+**Medium:** 3-3/4 inches wide  by 2-7/8 inches tall by 1/4 inch diameter <br>
+**Small:** 2 inches wide by 1-1/2 inches tall by 1/3 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
 
@@ -240,8 +240,8 @@ Medallions are for Veterans who:
 ##### Medal of Honor (MOH)
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inches wide x 4-3/4 inches tall x 1/2 inch diameter <br>
-**Medium:** 3-3/4 inches wide  x 2-7/8 inch tall x 1/4 inch diameter <br>
+**Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
+**Medium:** 3-3/4 inches wide  by 2-7/8 inch tall by 1/4 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with the phrase "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom
 
@@ -263,9 +263,9 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 ##### Marble
 - **Dimensions**: <br>
-**A:** 12 inches wide x 42 inches tall x 3 inches thick <br>
-**B:** 13 inches wide x 42 inches tall x 3 inches thick <br>
-**C:** 10 inches wide x 39 inches tall x 3 inches thick
+**A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
+**B:** 13 inches wide by 42 inches tall by 3 inches thick <br>
+**C:** 10 inches wide by 39 inches tall by 3 inches thick
 - **Lettering:** Lettering is raised inside a recessed shield
 
 **Note:** If you're requesting a pre-World War I marble headstone, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
@@ -273,7 +273,7 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 ##### Granite
 
 - **Dimensions**: <br>
-**A:** 12 inches wide x 42 inches tall x 3 inches thick <br>
+**A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 - **Lettering:** Lettering is raised inside a recessed shield
 
 **Note:** If you're requesting a pre-World War I granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
