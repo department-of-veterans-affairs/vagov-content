@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Selecting a memorial item, inscription, or emblem
-display_title: Selecting a memorial item, inscription, or emblem
+title: Selecting types, inscriptions, and emblems
+display_title: Selecting types, inscriptions, and emblems
 description: Learn what different types of memorial items look like. Find out how to select different inscriptions and emblems. 
 order: 6
 relatedlinks:
@@ -23,8 +23,8 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-  
-Learn what different types of memorial items look like. Find out how to select different inscriptions and emblems. </div>
+
+Find out how to select different types of memorial items, inscriptions and emblems and see examples of what they look like. </div>
 
 ## What types of memorial items are available?
 
@@ -54,7 +54,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ### Markers
 
-Gravesite markers are made of different materials and are different sizes. Their size depends on where they will be placed. 
+Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
 
 [See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
