@@ -24,7 +24,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to select different types of memorial items, inscriptions and emblems and see examples of what they look like. </div>
+Find out how to select from the different types of memorial items, inscriptions, and emblems of belief. </div>
 
 ## What types of memorial items are available?
 
@@ -37,7 +37,7 @@ You can choose one of these types of memorial items:
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
   
-## Information about headstones and markers
+## Information about headstones, markers, and their inscriptions 
 
 Find out what options are available and what decisions you'll need to make when you choose to honor the deceased with a headstone or marker.
 
@@ -140,9 +140,9 @@ The inscription on a Veteran's headstone or marker can include:
 </li>
 </ul>
 
-### Emblems of belief
+### Emblems of belief for a Veteran's headstone or marker
 
-#### What is an emblem of belief?
+#### What's an emblem of belief?
 
 An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief are inscribed on a Veteran's headstone or grave marker. 
 
@@ -152,39 +152,16 @@ An emblem of belief is an image that represents a Veteran's religious faith or b
 
 These people can request an emblem of belief for a Veteran:
 
-- Veteran's next-of-kin (NOK)
-- A person authorized by the Veteran's NOK
+- Veteran's next of kin
+- A person authorized by the Veteran's next of kin
 - A person authorized by the Veteran
-
 
 #### Can I request an emblem of belief that isn't included on the official list? 
 
-Yes. Follow the directions below to request an image that isn't included on the official list of emblems of belief. 
+Yes. Make sure that the emblem of belief you're requesting reflects the Veteran's religious beliefs or other belief system. 
 
 **Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that contains abusive or sexually explicit language or images. 
 
-<ol class="process">
-<li class="process-step list-one">
-
-#### Check the Veteran's eligibility for memorial items
-<br>
-
-<a href="/burials-memorials/memorial-items/headstones-markers-medallions/">Find out if the Veteran is eligible for a memorial item.</a>
-
- </li>
-
- <li class="process-step list-two">
-
-#### Certify that the emblem of belief you request represents the Veteran's religious or other beliefs
-<br> 
-
-Make sure that the emblem of belief you're requesting portrays the Veteran's religious or other equivalent (equal) belief system. 
- </li>
- 
- <li class="process-step list-three">
- 
- #### Submit an image of the emblem of belief
- 
 Send us a printed picture of the emblem of belief you want on the Veteran's headstone or grave marker. Please follow the requirements listed below. 
  
  **The picture must:**
@@ -193,7 +170,6 @@ Send us a printed picture of the emblem of belief you want on the Veteran's head
  - Be digitally created, not hand drawn
  - Not have copyright or trademark restrictions
  - Be able to be inscribed in stone or bronze using an automated system without losing quality
-
  
 Send the printed picture here:
  <br>
@@ -206,7 +182,7 @@ Send the printed picture here:
 </ol>
 </li>
 
-## Medallions
+## Information about Medallions
 
 A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker. A medallion shows that a gravesite or memorial site belongs to a Veteran. 
 
@@ -216,7 +192,7 @@ A medallion is an inscribed piece of bronze that can be attached to an existing,
 
 ### Why should I choose a medallion?
 
-If you have a privately purchased headstone or marker, a medallion shows Vetearn status. 
+If you have a privately purchased headstone or marker, a medallion shows Veteran status. 
 
 Medallions are: 
 
@@ -235,7 +211,6 @@ Medallions are for Veterans who:
 **Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
 
 ### What does a medallion look like and what kinds are available?
-
 
 <ul class="usa-accordion">
 <li>
@@ -279,19 +254,17 @@ Once a request for a medallion is received and approved, we'll mail your medalli
 
 ------
 
-## Pre-World War I headstones and markers
-  
-### What is a pre-World War I headstone or marker?
+## Headstones for Civil War and Spanish-American War Veterans
 
-A pre-World War I headstone or marker is a memorial item used for the gravesite of a Civil War or Spanish American War Veteran. The style and inscription of a pre-World War I headstone or marker is different from the style of a current headstone or marker.
+The shape of these headstones and the inscription is in a special, historical style. They look different from the traditional, current style.
 
-### What does a pre-World War I headstone look like and what types are available?
+**Note:** We sometimes called these pre-World War I headstones.
 
-
+### What do Civil War and Spanish-American War headstones look like?
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="marble-2">Marble pre-World War I headstone</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="marble-2">Marble headstone</button>
 <div id="marble-2" class="usa-accordion-content">
 
 - **Dimensions**: <br>
@@ -300,7 +273,7 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 **C:** 10 inches wide by 39 inches tall by 3 inches thick
 - **Lettering:** Lettering is raised inside a recessed shield
 
-**Note:** If you're requesting a pre-World War I marble headstone, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
+**Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
 
 </div>
 </li>
@@ -308,20 +281,20 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="granite-1">Granite pre-World War I headstone</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="granite-1">Granite headstone</button>
 <div id="granite-1" class="usa-accordion-content">
 
 - **Dimensions**: <br>
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 - **Lettering:** Lettering is raised inside a recessed shield
 
-**Note:** If you're requesting a pre-World War I granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
+**Note:** If you're requesting a granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
 
 </div>
 </li>
 
 
-### What can be inscribed on a pre-World War I headstone or marker?
+### What can be inscribed on a Civil War headstone or marker?
 
 Inscriptions for Union and Confederate soldiers are different. 
 
@@ -340,9 +313,9 @@ Inscriptions for Union and Confederate soldiers are different.
 - Dates of birth and death
 
 
-### How do I apply for a pre-World War I headstone or marker? 
+### How do I apply for a Civil War and Spanish-American War headstone? 
 
-To apply for a pre-World War I headstone or marker, you'll need to show proof of the Veteran's military service. 
+To apply for a headstone or marker in a historical style, you'll need to show proof of the Veteran's military service. 
 
 **To show proof of pre-World War I military service, you'll need to provide this information in your headstone or marker claim:**
 
