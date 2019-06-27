@@ -255,7 +255,6 @@ Medallions are for Veterans who:
 
 ### What does a medallion look like and what kinds are available?
 
-##### Bronze medallions
 
 <ul class="usa-accordion">
 <li>
@@ -276,9 +275,6 @@ Medallions are for Veterans who:
 </div>
 </li>
 
-
-
-##### Medal of Honor (MOH)
 
 
 <ul class="usa-accordion">
@@ -321,9 +317,6 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 
 
-##### Marble
-
-
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="marble-2">Marble pre-World War I headstone</button>
@@ -339,10 +332,6 @@ A pre-World War I headstone or marker is a memorial item used for the gravesite 
 
 </div>
 </li>
-
-
-##### Granite
-
 
 
 <ul class="usa-accordion">
