@@ -300,18 +300,18 @@ Inscriptions for Union and Confederate soldiers are different.
 
 **Note:** No emblem or belief or additional inscription can be included on either a Union or Confederate headstone or marker. 
 
-##### A Union inscription includes:
+#### A Union inscription includes:
+
 - A shield with the Veteran's name inscribed inside, in an arched style
 - Abbreviated military organization
 - Dates of birth and death (inscribed below shield)
 
-##### A Confederate inscription includes:
+#### A Confederate inscription includes:
 
 - A Southern Cross of Honor at the top
 - Veteran's name, in an arched style
 - Abbreviated military organization
 - Dates of birth and death
-
 
 ### How do I apply for a Civil War and Spanish-American War headstone? 
 
@@ -325,5 +325,5 @@ To apply for a headstone or marker in a historical style, you'll need to show pr
 
 [Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records) Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
 
-The fee for requesting records is between $25 and $75. Records ship 60-90 days from the date of your request. 
+The fee for requesting records is between $25 and $75. Records get sent 60-90 days from the date of your request. 
 
