@@ -37,14 +37,14 @@ You can choose one of these types of memorial items:
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-## What does a headstone look like?
+## What does a government headstone look like?
 
-A headstone is a piece of upright stone that is specially carved and inscribed.
+A headstone stands upright and is specially carved and inscribed with details about the deceased. 
 
 - **Dimensions:** 42 inches tall by 13 inches wide by 4 inches thick 
 - **Weight:** About 230 pounds
 - **Material:** Marble or granite
-- **Color:** The stone color will vary. The marble may have light to medium veining (lines).
+- **Color:** The color of the granite varies. The marble may have light to medium veining (lines).
 
 [See an example of an upright marble headstone](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
@@ -52,10 +52,9 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 ## What does a marker look like?
 
-**A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. Gravesite markers are made of different materials and are different sizes. A marker's size depends on where it'll be placed. 
+**A gravesite marker** is a piece of bronze, granite, or marble with an inscription that's placed flat on the ground at the gravesite. 
 
 **A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
-
 
 [See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
@@ -70,8 +69,6 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 - **Weight:** About 130 pounds
 - **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
 
-[See what a granite or marble marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
-
 </div>
 </li>
 
@@ -82,9 +79,7 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
 
 - **Dimensions:** 24 inches long by 12 inches wide by 3/4 inch thick (rise)
 - **Weight:** About 18 pounds
-- **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching a marker to its base
-
-[See what a flat bronze gravesite marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+- **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching the marker to its base.
 
 </div>
 </li>
@@ -94,19 +89,15 @@ A headstone is a piece of upright stone that is specially carved and inscribed.
   
 - **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inch thick (rise)
 - **Weight:** About 3 pounds
-- **Additional details:** We provide you mounting bolts and washers
-
-[See what a bronze niche marker looks like.](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+- **Additional details:** We provide you with mounting bolts and washers.
 
 </div>
 </li>
 </ul>
 
-## What information is used for an inscription on a Veteran's headstone or marker?
+## What information can be inscribed on a Veteran's headstone or marker?
 
-The inscription on a Veteran's headstone or marker can include:
-- An abbreviated description of their service, including their branch of service, war service, awards, and rank
-- An emblem of belief (a symbol that represents religious or other beliefs)
+An inscription can include an abbreviated description of the Veteran's service, including their branch of service, war service, awards, and rank. You can also choose an emblem of belief (a symbol that represents religious or other beliefs).
 
 ### List of abbreviations for the inscription
 <ul class="usa-accordion">
@@ -138,19 +129,12 @@ The inscription on a Veteran's headstone or marker can include:
 
 ## What's an emblem of belief?
 
-An emblem of belief is an image that represents a Veteran's religious faith or belief system. Emblems of belief can be inscribed on a Veteran's headstone or grave marker. 
+An emblem of belief is a symbol that represents a religious faith or belief system. The Veteran's next of kin, a person authorized by the Veteran's next of kin, or a person authorized by the Veteran can request an emblem of belief for the headstone or marker. <br>
+[View the list of available emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
 
-[View the official list of emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
+### Emblems of belief that aren't on the list
 
-These people can request an emblem of belief for a Veteran:
-
-- Veteran's next of kin
-- A person authorized by the Veteran's next of kin
-- A person authorized by the Veteran
-
-### How to request an emblem of belief that isn't included on the official list
-
-Yes. Make sure that the emblem of belief you're requesting reflects the Veteran's religious beliefs or other belief system. 
+If you want to request a symbol that's not listed as an . Make sure that the emblem of belief you're requesting reflects the Veteran's religious beliefs or other belief system. 
 
 **Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that contains abusive or sexually explicit language or images. 
 
