@@ -53,6 +53,22 @@ $10,000 to $400,000 in life insurance benefits, based on the amount of SGLI cove
 
 **Note:** When you leave the military, you can sign up through VGLI for coverage up to the amount you had through SGLI. You can also increase your coverage by $25,000 every 5 years—up to $400,000—until you’re 60 years old.
 
+## Why might I want to consider VGLI over commercial insurance options?
+
+Depending on your life insurance needs, you may want to compare VGLI benefits to those of commercial policy options. When you consider one or more private, commercial life insurance options, you can compare them against the benefits you’d get through VGLI. You can use the worksheet on this page to make direct comparisons.</br>
+
+Here are some of the key benefits of choosing VGLI over many commercial life insurance policies. VGLI gives you:
+
+-	The ability to get life insurance approved **without any health review**, regardless of how serious your health conditions might be. To be eligible, however, you’ll need to apply within 240 days after separating from your service. Many commercial plans will ask you for a health review, and if you have certain medical conditions, you may not be approved for the commercial plan. [Learn what conditions may make you uninsurable under a private plan](https://www.benefits.va.gov/INSURANCE/uninsurable.asp)
+- Coverage for mental health, PTSD, and traumatic brain injury (TBI)
+-	The same premium rates for men and women
+-	The same premium rates for smokers and nonsmokers
+-	Coverage for your entire life, unless you opt out
+
+You can print out this chart to compare what VGLI offers next to any commercial policy you’re considering. </br>
+
+[Print out VGLI life insurance comparison worksheet]
+
 ## How do I get these benefits?
 
 You’ll need to apply for VGLI within one year and 120 days of leaving the military.
