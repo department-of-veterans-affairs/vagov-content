@@ -227,7 +227,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month.
 - Is the cheapest permanent plan
 - Must be purchased before you turn 61 years old
 - Has premium rates that never increase, so your payments will stay the same for as long as you have the policy
-- Loses 50% of its face value on the day before your 65th birthday. When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $6.58 per month per $1000.00.
+- Loses 50% of its face value on the day before your 65th birthday. When you turn 65 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance for this plan costs $6.58 per month per $1000.00.
 - Has loan and cash value
 
 #### Premium rates
@@ -358,7 +358,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month.
 - Is a permanent plan. A permanent life insurance plan means that as long as you continue making your premium payments, your plan stays active.
 - Must be purchased before you turn 69 years old
 - Has premium rates that never increase, so your payments will stay the same for as long as you have the policy
-- Loses 50% of its face value on the day before your 70th birthday. When you turn 70 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance costs $8.64 per month per $1000.00.
+- Loses 50% of its face value on the day before your 70th birthday. When you turn 70 and your policy face value decreases, you can buy additional insurance to replace what you lost. Additional insurance for this plan costs $8.64 per month per $1000.00.
 - Has loan and cash value
 
 
@@ -623,7 +623,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month.
 
 **This plan:**
 
-- Requires that you make premium payments for 20 years. Once you've made all of your payments, you'll have life insurance coverage under this policy for the rest of your life. 
+- Requires that you make premium payments for 20 years. Once you've made all your payments, you'll have life insurance coverage under this policy for the rest of your life. 
 - Has a face value that never changes
 - Has slightly higher premium payments than a 30 Payment Life policy
 - Has loan and cash value
@@ -764,7 +764,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month.
 
 **This plan:**
 
-- Requires that you make premium payments for 30 years. Once you've made all of your payments, you'll have life insurance coverage under this policy for the rest of your life. 
+- Requires that you make premium payments for 30 years. Once you've made all your payments, you'll have life insurance coverage under this policy for the rest of your life. 
 - Has a face value that never changes
 - Has slightly higher premium payments than an Ordinary Life policy
 - Has loan and cash value
