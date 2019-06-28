@@ -35,9 +35,8 @@ You can choose one of these types of memorial items:
 - Niche markers
 - Medallions
 
-[See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
-
-Find out 
+[See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
+[Find out about special headstones and markers for Civil War and Spanish-American War Veterans](#civil-and-spanish-american-war)
 
 ## What does a government headstone look like?
 
@@ -218,7 +217,7 @@ Veterans can get a medallion if both of these are true. They:
 Once we receive your request for a medallion and approve the request, we'll mail it to you. We'll also send a kit that helps you attach the medallion to the Veteran's headstone or marker. 
 
 ------
-
+<span id="civil-and-spanish-american-war"></span>
 ## Headstones and markers for Civil War and Spanish-American War Veterans
 
 These headstones and markers, and their inscriptions, are in a special, historical style. They look different from the traditional, current style.
