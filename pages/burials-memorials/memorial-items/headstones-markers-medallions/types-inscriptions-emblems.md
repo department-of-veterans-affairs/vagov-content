@@ -100,7 +100,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 
 An inscription can include an abbreviated description of the Veteran's service, including their branch of service, war service, awards, and rank. You can also choose an emblem of belief (a symbol that represents religious or other beliefs).
 
-### List of abbreviations for the inscription
+### Abbreviations for the inscription
 <ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="service">Service</button>
@@ -166,7 +166,7 @@ Send the printed picture here:
 A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker to show Veteran status. A medallion shows that a gravesite or memorial site belongs to a Veteran. They're easy to attach, long-lasting, and durable.<br>
 [See an example of a medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
-### Veterans eligible for a medallion
+### Eligibility for a medallion
 
 Veterans can get a medallion if both of these are true. They: 
 - Served on or after April 6, 1917, **and** 
