@@ -1,9 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Selecting types, inscriptions, and emblems
-display_title: Selecting types, inscriptions, and emblems
-description: Learn what different types of memorial items look like. Find out how to select different inscriptions and emblems. 
+title: Selecting a memorial item, inscription, and emblem
+display_title: Selecting a memorial item, inscription, and emblem
+description: Learn what different types of memorial items look like. Find out how to select an inscription and emblem. 
 order: 6
 relatedlinks:
   - heading: Other helpful information
@@ -255,7 +255,7 @@ These headstones and markers, and their inscriptions, are in a special, historic
 
 ### What's inscribed on a Civil War headstone or marker?
 
-Inscriptions for Union and Confederate soldiers are different. 
+Inscriptions for Union and Confederate soldiers are different.
 
 **A Union inscription includes:**
 
