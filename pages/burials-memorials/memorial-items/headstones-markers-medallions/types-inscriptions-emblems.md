@@ -68,7 +68,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 
 - **Dimensions:** 24 inches long by 12 inches wide by 4 inches thick
 - **Weight:** About 130 pounds
-- **Additional details:** The stone color will vary. The marble may have light to medium veining (lines).
+- **Additional details:** The color of the granite varies. The marble may have light to medium veining (lines).
 
 </div>
 </li>
