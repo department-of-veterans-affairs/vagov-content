@@ -95,7 +95,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 </li>
 </ul>
 
-## What information can be inscribed on a Veteran's headstone or marker?
+## What can be inscribed on a Veteran's headstone or marker?
 
 An inscription can include an abbreviated description of the Veteran's service, including their branch of service, war service, awards, and rank. You can also choose an emblem of belief (a symbol that represents religious or other beliefs).
 
@@ -127,20 +127,22 @@ An inscription can include an abbreviated description of the Veteran's service, 
 </li>
 </ul>
 
-## What's an emblem of belief?
+### An emblem of belief
 
 An emblem of belief is a symbol that represents a religious faith or belief system. The Veteran's next of kin, a person authorized by the Veteran's next of kin, or a person authorized by the Veteran can request an emblem of belief for the headstone or marker. <br>
-[View the list of available emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
+[See the National Cemetery Administration's list of available emblems of belief](https://www.cem.va.gov/cem/hmm/emblems.asp)
 
-### Emblems of belief that aren't on the list
+#### Request a symbol that's not on the list of available emblems of belief
 
-If you want to request a symbol that's not listed as an . Make sure that the emblem of belief you're requesting reflects the Veteran's religious beliefs or other belief system. 
+Send us a picture of the symbol you're requesting. Please follow all the requirements listed below.
 
-**Note:** Emblems of belief don't include social, cultural, ethnic, civic, fraternal, trade, commercial (logos), political, professional or military images. We also won't inscribe an emblem that contains abusive or sexually explicit language or images. 
+**The symbol must:**
 
-Send us a printed picture of the emblem of belief you want on the Veteran's headstone or grave marker. Please follow the requirements listed below. 
+- Reflect the Veteran's religious beliefs or other belief system
+- Not be a social, cultural, ethnic, civic, fraternal, trade, commercial (like a logo), political, professional, or military image
+- Not contain abusive or sexually explicit language or images
  
- **The picture must:**
+**The picture must:**
  - Show an emblem that's 3 inches in diameter
  - Be black and white
  - Be digitally created, not hand drawn
@@ -160,26 +162,18 @@ Send the printed picture here:
 
 ## What's a medallion?
 
-A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker to show Veteran status. A medallion shows that a gravesite or memorial site belongs to a Veteran. <br>
+A medallion is an inscribed piece of bronze that can be attached to an existing, privately purchased headstone or marker to show Veteran status. A medallion shows that a gravesite or memorial site belongs to a Veteran. They're easy to attach, long-lasting, and durable.<br>
 [See an example of a medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
-Medallions are: 
+### Veterans eligible for a medallion
 
-- Easy to attach to different kinds of headstones and markers
-- Free. There are no headstone or marker setting fees.
-- Long-lasting and durable
-- A way to show Veteran status in a private cemetery
-
-
-### Who can get a medallion? 
-
-Medallions are for Veterans who: 
+Veterans can get a medallion if both of these are true. They: 
 - Served on or after April 6, 1917, **and** 
-- Have a grave in a private cemetery and a privately purchased headstone or marker can get a medallion
+- Have a grave in a private cemetery and a privately purchased headstone or marker
 
-**Note:** If you're eligible for both a VA headstone and a medallion, you may only choose one.
+**Note:** If you're eligible for both a VA headstone and a medallion, you may choose only one.
 
-### What does a medallion look like and what kinds are available?
+### Types of medallions
 
 <ul class="usa-accordion">
 <li>
@@ -192,7 +186,7 @@ Medallions are for Veterans who:
 **Medium:** 3-3/4 inches wide  by 2-7/8 inches tall by 1/4 inch diameter <br>
 **Small:** 2 inches wide by 1-1/2 inches tall by 1/3 inch diameter <br>
 - **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the word "VETERAN" at the top and the Veteran's branch of service on the bottom
+- **Inscription:** Each medallion is inscribed with "VETERAN" at the top and the Veteran's branch of service on the bottom.
 
 [See an example of a bronze medallion](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
@@ -209,7 +203,7 @@ Medallions are for Veterans who:
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
 **Medium:** 3-3/4 inches wide  by 2-7/8 inch tall by 1/4 inch diameter <br>
 - **Material:** Bronze
-- **Inscription:** Each medallion is inscribed with the phrase "Medal of Honor" (in all caps) at the top and the Veteran's branch of service on the bottom
+- **Inscription:** Each medallion is inscribed with "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom.
 
 [See an example of a Medal of Honor](https://www.cem.va.gov/cem/docs/factsheets/Bronze_MOH_Medallion.pdf)
 
@@ -217,9 +211,9 @@ Medallions are for Veterans who:
 </li>
 
 
-### What happens after I apply for a medallion?
+### After you apply for a medallion
 
-Once a request for a medallion is received and approved, we'll mail your medallion to you. We include a kit that helps you attach the medallion to the Veteran's headstone, marker, mausoleum, or columbarium niche cover. 
+Once we receive your request for a medallion and approve the request, we'll mail it to you. We'll also send a kit that helps you attach the medallion to the Veteran's headstone or marker. 
 
 ------
 
@@ -240,7 +234,7 @@ The shape of these headstones and the inscription is in a special, historical st
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 **B:** 13 inches wide by 42 inches tall by 3 inches thick <br>
 **C:** 10 inches wide by 39 inches tall by 3 inches thick
-- **Lettering:** Lettering is raised inside a recessed shield
+- **Lettering:** Lettering is raised inside a recessed shield.
 
 **Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
 
@@ -255,13 +249,13 @@ The shape of these headstones and the inscription is in a special, historical st
 
 - **Dimensions**: <br>
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
-- **Lettering:** Lettering is raised inside a recessed shield
+- **Lettering:** Lettering is raised inside a recessed shield.
 
 **Note:** If you're requesting a granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
 
 </div>
 </li>
-
+</ul>
 
 ### What can be inscribed on a Civil War headstone or marker?
 
@@ -282,7 +276,7 @@ Inscriptions for Union and Confederate soldiers are different.
 - Abbreviated military organization
 - Dates of birth and death
 
-### How do I apply for a Civil War and Spanish-American War headstone? 
+### How do I apply for a Civil War or Spanish-American War headstone? 
 
 To apply for a headstone or marker in a historical style, you'll need to show proof of the Veteran's military service. 
 
