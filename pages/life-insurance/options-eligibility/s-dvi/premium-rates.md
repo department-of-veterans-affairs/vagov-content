@@ -52,7 +52,7 @@ Multiply the amount of your insurance per (divided by) $1000 by the rate for you
 
 $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
-**Note:** You'll save money if you pay more of your life insurance premium up front. For example, if you're 29 years old, want to buy $10,000 of 5 year level term insurance, and want to make one annual (yearly) payment, you'd make this calculation to determine your annual (yearly) premium: 
+**You'll save money if you pay more of your life insurance premium up front.** For example, if you're 29 years old, want to buy $10,000 of 5 year level term insurance, and choose to make only one annual (yearly) payment, you'd make this calculation to determine your annual (yearly) premium: 
 
 $3.68 (age 29 annual rate) x 10 (amount of insurance / 1000) = $36.80 per year. 
 
