@@ -37,6 +37,8 @@ You can choose one of these types of memorial items:
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
+Find out 
+
 ## What does a government headstone look like?
 
 A headstone stands upright and is specially carved and inscribed with details about the deceased. 
@@ -217,13 +219,11 @@ Once we receive your request for a medallion and approve the request, we'll mail
 
 ------
 
-## Headstones for Civil War and Spanish-American War Veterans
+## Headstones and markers for Civil War and Spanish-American War Veterans
 
-The shape of these headstones and the inscription is in a special, historical style. They look different from the traditional, current style.
+These headstones and markers, and their inscriptions, are in a special, historical style. They look different from the traditional, current style.
 
-**Note:** We sometimes called these pre-World War I headstones.
-
-### What do Civil War and Spanish-American War headstones look like?
+### What do Civil War and Spanish-American War headstones and markers look like?
 
 <ul class="usa-accordion">
 <li>
@@ -236,13 +236,9 @@ The shape of these headstones and the inscription is in a special, historical st
 **C:** 10 inches wide by 39 inches tall by 3 inches thick
 - **Lettering:** Lettering is raised inside a recessed shield.
 
-**Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA", "XB" or "XC" to choose your headstone size.
-
+**Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA," "XB," or "XC" to choose your headstone size.
 </div>
 </li>
-
-
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="granite-1">Granite headstone</button>
 <div id="granite-1" class="usa-accordion-content">
@@ -257,36 +253,29 @@ The shape of these headstones and the inscription is in a special, historical st
 </li>
 </ul>
 
-### What can be inscribed on a Civil War headstone or marker?
+### What's inscribed on a Civil War headstone or marker?
 
 Inscriptions for Union and Confederate soldiers are different. 
 
-**Note:** No emblem or belief or additional inscription can be included on either a Union or Confederate headstone or marker. 
-
-#### A Union inscription includes:
+**A Union inscription includes:**
 
 - A shield with the Veteran's name inscribed inside, in an arched style
-- Abbreviated military organization
-- Dates of birth and death (inscribed below shield)
+- The abbreviated military organization
+- Dates of birth and death (inscribed below the shield)
 
-#### A Confederate inscription includes:
+**A Confederate inscription includes:**
 
 - A Southern Cross of Honor at the top
-- Veteran's name, in an arched style
-- Abbreviated military organization
+- The Veteran's name, in an arched style
+- The abbreviated military organization
 - Dates of birth and death
+
+**Note:** No emblem of belief or additional inscription can be included on either a Union or Confederate headstone or marker. 
 
 ### How do I apply for a Civil War or Spanish-American War headstone? 
 
-To apply for a headstone or marker in a historical style, you'll need to show proof of the Veteran's military service. 
+To apply for a headstone or marker in a historical style, you'll need to show proof of the Veteran's military service with detailed primary documentation. This can include Compiled Military Service Records (CMSR), details from official state files, federal pension documents, or land warrants. 
 
-**To show proof of pre-World War I military service, you'll need to provide this information in your headstone or marker claim:**
-
-- Detailed primary documentation. Primary documentation may include Compiled Military Service Records (CMSR), details from official State files, Federal pension documents, or land warrants. 
-
-###### If you don't have detailed primary documentation, you can request it through National Archives and Records Administration (NARA):
-
-[Follow the instructions on the NARA website to order pre-World War I records.](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records) Copies of CMSRs, Federal pension records, and other primary documentation can be ordered through NARA. <br>
+If you don't have detailed primary documentation, you can request it through the [National Archives and Records Administration (NARA)](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). 
 
 The fee for requesting records is between $25 and $75. Records get sent 60-90 days from the date of your request. 
-
