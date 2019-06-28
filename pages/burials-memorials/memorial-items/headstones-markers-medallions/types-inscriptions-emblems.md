@@ -30,10 +30,10 @@ Find out how to select from the different types of memorial items, inscriptions,
 
 You can choose one of these types of memorial items:
 
-- Headstones
-- Grave markers
-- Niche markers
-- Medallions
+- Headstone
+- Grave marker
+- Niche marker
+- Medallion
 
 [See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)<br>
 [Find out about special headstones and markers for Civil War and Spanish-American War Veterans](#civil-and-spanish-american-war)
@@ -57,7 +57,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 
 **A niche marker** is made of bronze and attaches to the wall of the columbarium where the Veteran's burial urn is located. 
 
-[See what each marker type looks like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
+[See what gravesite markers and niche markers look like](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
 ### Types of markers
 
@@ -181,7 +181,6 @@ Veterans can get a medallion if both of these are true. They:
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-med">Bronze medallion</button>
 <div id="bronze-med" class="usa-accordion-content">
 
-
 - **Dimensions**: <br>
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
 **Medium:** 3-3/4 inches wide  by 2-7/8 inches tall by 1/4 inch diameter <br>
@@ -193,12 +192,9 @@ Veterans can get a medallion if both of these are true. They:
 
 </div>
 </li>
-
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="moh-2">Medal of Honor (MOH)</button>
 <div id="moh-2" class="usa-accordion-content">
-
 
 - **Dimensions**: <br>
 **Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
@@ -210,7 +206,7 @@ Veterans can get a medallion if both of these are true. They:
 
 </div>
 </li>
-
+</ul>
 
 ### After you apply for a medallion
 
