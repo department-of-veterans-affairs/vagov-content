@@ -48,13 +48,14 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 
 **To calculate your premium rate:**
 
-Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
+Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. Here's how would calculate your premium payment if you're 29 years old and want to buy $10,000 of 5 year level term insurance:
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
+**Note:** You'll save money if you pay more of your life insurance premium up front. 
 
-**You'll save money if you pay more of your life insurance premium up front.** For example, if you're 29 years old, want to buy $10,000 of 5 year level term insurance, and choose to make only one annual (yearly) payment, you'd make this calculation to determine your annual (yearly) premium: 
-
-$3.68 (age 29 annual rate) x 10 (amount of insurance / 1000) = $36.80 per year. 
+- **Monthly payment:** $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month
+- **Quarterly (paying 4 times per year) payment:** $0.93 (age 29 quarterly rate) x 10 (amount of insurance / 1000) = $9.30 per quarter (every 3 months)
+- **Semi-annual (paying 2 times per year) payment:** $1.85 (age 29 semi-annual rate) x 10 (amount of insurance / 1000) = $11.85 per half year (every 6 months)
+- **Annual (yearly) payment:** $3.68 (age 29 annual rate) x 10 (amount of insurance / 1000) = $36.80 per year 
 
 ### Should I compare these premium rates to other insurance companies? 
 
