@@ -236,7 +236,7 @@ These headstones and markers, and their inscriptions, are in a special, historic
 **C:** 10 inches wide by 39 inches tall by 3 inches thick
 - **Lettering:** Lettering is raised inside a recessed shield.
 
-**Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA," "XB," or "XC" to choose your headstone size.
+**Note:** If you're requesting a marble headstone in this special style, check "Upright Marble" in block 11 and write "XA," "XB," or "XC" to choose your headstone size when you fill out the Claim for Standard Government Headstone or Marker.
 </div>
 </li>
 <li>
@@ -247,7 +247,7 @@ These headstones and markers, and their inscriptions, are in a special, historic
 **A:** 12 inches wide by 42 inches tall by 3 inches thick <br>
 - **Lettering:** Lettering is raised inside a recessed shield.
 
-**Note:** If you're requesting a granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size.
+**Note:** If you're requesting a granite headstone, check "Granite" in block 11 and write "YA" to choose your headstone size when you fill out the Claim for Standard Government Headstone or Marker.
 
 </div>
 </li>
@@ -272,10 +272,10 @@ Inscriptions for Union and Confederate soldiers are different.
 
 **Note:** No emblem of belief or additional inscription can be included on either a Union or Confederate headstone or marker. 
 
-### How do I apply for a Civil War or Spanish-American War headstone? 
+### What documents do I need to apply for a Civil War or Spanish-American War headstone? 
 
 To apply for a headstone or marker in a historical style, you'll need to show proof of the Veteran's military service with detailed primary documentation. This can include Compiled Military Service Records (CMSR), details from official state files, federal pension documents, or land warrants. 
 
 If you don't have detailed primary documentation, you can request it through the [National Archives and Records Administration (NARA)](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). 
 
-The fee for requesting records is between $25 and $75. Records get sent 60-90 days from the date of your request. 
+The fee for requesting records is between $25 and $75. The National Archives will send your records 60-90 days from the date of your request. 
