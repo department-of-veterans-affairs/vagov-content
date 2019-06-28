@@ -50,7 +50,11 @@ Your premium rate (the amount you’ll pay each month for your coverage) depends
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
+
+**Note:** You'll save money if you pay more of your life insurance premium up front. For example, if you're 29 years old, want to buy $10,000 of 5 year level term insurance, and want to make one annual (yearly) payment, you'd make this calculation to determine your annual (yearly) premium: 
+
+$3.68 (age 29 annual rate) x 10 (amount of insurance / 1000) = $36.80 per year. 
 
 ### Should I compare these premium rates to other insurance companies? 
 
@@ -119,7 +123,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 <br>
 
@@ -162,7 +166,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 
 </div>
@@ -202,7 +206,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -261,7 +265,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 
 </div>
@@ -302,7 +306,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -332,7 +336,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 
 </div>
@@ -393,7 +397,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -431,7 +435,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -466,7 +470,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -520,7 +524,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -601,7 +605,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -657,7 +661,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 
 </div>
@@ -697,7 +701,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 
 </div>
@@ -742,7 +746,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -799,7 +803,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -840,7 +844,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -878,7 +882,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -929,7 +933,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -968,7 +972,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1013,7 +1017,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1074,7 +1078,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1114,7 +1118,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1145,7 +1149,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1203,7 +1207,7 @@ Click on your age range. Then, find your current age in the table to find out ho
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1243,7 +1247,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
@@ -1277,7 +1281,7 @@ $0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month.
 
 Multiply the amount of your insurance per (divided by) $1000 by the rate for your age and plan type. For example, if you're 29 years old and want to buy $10,000 of 5 year level term insurance, you'd make this calculation to determine your monthly premium payment: <br>
 
-$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 / month. 
+$0.31 (age 29 monthly rate) x 10 (amount of insurance / 1000) = $3.10 per month. 
 
 </div>
 </li>
