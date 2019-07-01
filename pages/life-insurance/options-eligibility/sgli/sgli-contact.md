@@ -60,7 +60,6 @@ Or, you can email the Army about your SGLI policy at <a href="mailto:USARMY.KNOX
 
 Send your payment to: 
 
-<br>
  <p class="va-address-block">
     DFAS-IN Disbursing Operations<br>
     Attn: Collection Department 3292<br>
@@ -94,7 +93,6 @@ Your USPFO will give you an address to send your premium payment to.
 Your Human Resources Command (HRC) will send you an individual billing notice for your SGLI policy. <br>
 
 Send your payment to: 
-<br>
  <p class="va-address-block">
     U.S. Army Human Resources Command <br>
     Special Compensation Branch/SGLI<br>
@@ -134,14 +132,13 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
 
 Send your payment to:
 
-<br>
  <p class="va-address-block">
     DFAS Cleveland Center <br>
     ATTN: SGLI Processing - Code ADBC<br>
     1240 East 9th Street<br>
     Cleveland, OH 44199-2056
 </p>
-
+<br>
 **To pay premiums online:**
 
 If you're a sailor, you can pay your premiums online at <a href="https://www.pay.gov">www.pay.gov</a>.
@@ -169,14 +166,13 @@ Call the Defense Account Service (DFAS) at <a href="tel:+18883327411">888-332-74
 
 Send your payment to:
 
-<br>
  <p class="va-address-block">
     Disbursing Operation Directorate <br>
     3801 Center Collections<br>
     PO Box 269490<br>
     Indianapolis, IN  46249
 </p>
-
+<br>
 ### Marine Corps SGLI contact information
 
 **For coverage status and questions about premium payments:**
@@ -193,24 +189,20 @@ Call the Marine Forces Reserve Customer Service Center at <a href="tel:+18002555
 
 Send your payment to:
 
-<br>
  <p class="va-address-block">
     MARFORRES, Finance Office <br>
     ATTN: FISCAL <br>
     2000 Opelousas Ave<br>
     New Orleans, LA  70146
 </p>
-
+<br>
 ### Coast Guard SGLI contact info
 
 **For coverage status and questions about premium payments:**
 
 Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
 
-**Note:** The Coast Guard Personnel and Pay Center allows you to make a premium payment by phone. 
-<br>
-<br>
-**If you make a payment by phone, we only accept these payment types:** 
+**Note:** The Coast Guard Personnel and Pay Center allows you to make payments by phone. If you make a payment by phone, we only accept these payment types:
 
 <ul style="list-style-type:square;">
   <li>Debit</li>
@@ -229,7 +221,6 @@ Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-
 
 Send your payment to:
 
-<br>
  <p class="va-address-block">
     Commanding Officer (FAR) <br>
     USCG Pay & Personnel Center <br>
@@ -237,7 +228,7 @@ Send your payment to:
     444 SE Quincy Street <br>
     Topeka, KS 66683-3591
 </p>
-
+<br>
 ## What payment types can I use? 
 
 **We accept these payment types:**
