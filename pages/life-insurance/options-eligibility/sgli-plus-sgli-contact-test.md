@@ -415,7 +415,7 @@ Send your payment to:
 
 ### Coast Guard <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="coast-guard-1">Marine Corps SGLI contact and payment information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="coast-guard-1">Coast Guard SGLI contact and payment information</button>
 <div id="coast-guard-1" class="usa-accordion-content">
 
 **For coverage status and questions about premium payments:**
