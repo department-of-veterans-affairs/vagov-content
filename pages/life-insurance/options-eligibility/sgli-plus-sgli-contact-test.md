@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Servicemembers’ Group Life Insurance (SGLI)
 heading: Servicemembers’ Group Life Insurance (SGLI)
-display_title: Servicemembers’ Group (SGLI)
+display_title: Servicemembers’ Group (SGLI) (TEST)
 description: Servicemembers’ Group Life Insurance (SGLI) offers low-cost term coverage to eligible service members. Find out if you're eligible, and learn how to manage your SGLI coverage while you're serving—and convert it when you separate or retire. 
 keywords: sgli, sgli coverage, servicemembers group life insurance
 concurrence: 
