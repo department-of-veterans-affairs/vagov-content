@@ -183,7 +183,7 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 temprop="name" id="location-based">What is the Location-Based Housing Allowance (Section 107)?</h2>
+<h2 temprop="name">What is the Location-Based Housing Allowance (Section 107)?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
