@@ -187,13 +187,21 @@ If you pay the premium, you’ll be able to keep your life insurance coverage fo
 If you have questions about Servicemembers' or Veterans' Group Life Insurance, you can call the Office of Servicemembers' Group Life Insurance (OSGLI) at <a href="tel:+18004191473">800-419-1473</a>, or <a href="mailto:osgli.osgli@prudential.com">email the Prudential Insurance Company</a>.
 
 
-## If you're a National Guard member or Reservist drilling for points, when should I contact my branch of service about my SGLI policy?
+## If I'm a National Guard member or Reservist drilling for points, when should I contact my branch of service about my SGLI policy?
 
 You should contact your branch of service about your SGLI policy if:
 
 - You want to know more about your coverage status
 - You have a question about your premium payment
 - You want to make a premium payment
+
+**We accept these payment types:**
+
+<ul style="list-style-type:square;">
+  <li>Personal check</li>
+  <li>Cashier's check</li>
+  <li>Money order</li>
+</ul>
 
 In some cases, you can also make premium payments over the phone with a debit or credit card. 
 
@@ -445,9 +453,6 @@ Send your payment to:
 <br>
 
 
-</div>
-</li>
-
 **For coverage status and questions about premium payments:**
 
 Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
@@ -480,15 +485,8 @@ Send your payment to:
 </p>
 <br>
 
-## What payment types can I use? 
-
-**We accept these payment types:**
-
-<ul style="list-style-type:square;">
-  <li>Personal check</li>
-  <li>Cashier's check</li>
-  <li>Money order</li>
-</ul>
+</div>
+</li>
 
 
 
