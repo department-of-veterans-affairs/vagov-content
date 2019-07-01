@@ -451,39 +451,6 @@ Send your payment to:
 <br>
 
 
-**For coverage status and questions about premium payments:**
-
-Call the Coast Guard Personnel and Pay Center at <a href="tel:+17853393706">785-339-3706</a>.
-
-**Note:** The Coast Guard Personnel and Pay Center allows you to make payments by phone. If you make a payment by phone, we only accept these payment types:
-
-<ul style="list-style-type:square;">
-  <li>Debit</li>
-  <li>Credit</li>
-</ul>
-
-
-<b>To pay premiums by mail:</b>
-
-<ul style="list-style-type:square;">
-  <li>Make your payment out to "U.S. Treasury"</li>
-  <li>Include "SGLI payment" in the description</li>
-  <li>Include your name and Employee ID number</li>
-  <li>Include your Social Security Number</li>
-</ul>
-
-Send your payment to:
-
- <p class="va-address-block">
-    Commanding Officer (FAR) <br>
-    USCG Pay & Personnel Center <br>
-    ATTN: SGLI/Cashier <br>
-    444 SE Quincy Street <br>
-    Topeka, KS 66683-3591
-</p>
-<br>
-
-
 </div>
 </li>
 
