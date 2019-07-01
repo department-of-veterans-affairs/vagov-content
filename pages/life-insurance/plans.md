@@ -107,8 +107,9 @@ We offer other life insurance options aside from SGLI, VGLI, TSGLI, and FSGLI. L
 
 **Available on:** 
 
+- All programs except those that start with "K"
+
 - This insurance can only be purchased when a Modified Life policy reduces by half (50%) on your 65th or 70th birthday. 
-- Available on all programs except those that start with "K"
 
 
 
