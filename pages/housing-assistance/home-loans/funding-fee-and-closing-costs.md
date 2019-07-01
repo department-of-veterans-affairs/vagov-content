@@ -43,8 +43,6 @@ Learn about the VA funding fee and other closing costs you may need to pay on yo
 
 The VA funding fee is a one-time payment that the Veteran, service member, or survivor pays on a VA-backed or VA direct home loan. This fee helps to lower the cost of the loan for U.S. taxpayers since the VA home loan program doesn't require down payments or monthly mortgage insurance.
 
-<div class="feature" markdown="1">
-
 <h3>Will I have to pay the VA funding fee?</h3>
 
 If you're using a VA home loan to buy, build, improve, or repair a home or to refinance a mortgage, you'll need to pay the VA funding fee unless you meet certain requirements.
@@ -53,8 +51,6 @@ If you're using a VA home loan to buy, build, improve, or repair a home or to re
 - Receiving VA compensation for a service-connected disability, <strong>or</strong>
 - Eligible to receive VA compensation for a service-connected disability, but you're receiving retirement or active-duty pay instead, <strong>or</strong>
 - The surviving spouse of a Veteran who died in service or from a service-connected disability
-
-</div>
 
 <h3>How will I pay this fee?</h3>
 
