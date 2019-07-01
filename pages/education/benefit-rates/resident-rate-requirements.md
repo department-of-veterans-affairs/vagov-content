@@ -10,7 +10,7 @@ concurrence:
 spoke: More information and resources
 order: 8
 relatedlinks:
-  -heading:
+  -heading: Other helpful tools and information
    links:
    - url: /gi-bill-comparison-tool/
      title: GI Bill Comparison Tool
