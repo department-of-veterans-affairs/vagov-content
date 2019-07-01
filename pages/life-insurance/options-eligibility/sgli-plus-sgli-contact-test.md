@@ -208,13 +208,13 @@ In some cases, you can also make premium payments over the phone with a debit or
 <b>Note:</b> If you're an active-duty service member, your premium is automatically deducted from your base pay.
 
 
-## Contact information by branch of service
+## Contact and payment information by branch of service
 
 ### Army
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="army">Army SGLI contact information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="army">Army SGLI contact and payment information</button>
 <div id="army" class="usa-accordion-content">
 
 **For coverage status and questions about premium payments:**
@@ -300,7 +300,7 @@ Send your payment to:
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="navy">Navy SGLI contact information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="navy">Navy SGLI contact and payment information</button>
 <div id="navy" class="usa-accordion-content">
 
 
@@ -348,7 +348,7 @@ If you're a sailor, you can pay your premiums online at <a href="https://www.pay
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="air-force">Air Force SGLI contact information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="air-force">Air Force SGLI contact and payment information</button>
 <div id="air-force" class="usa-accordion-content">
 
 **For coverage status and questions about premium payments:** 
@@ -383,7 +383,7 @@ Send your payment to:
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="marines">Marine Corps SGLI contact information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="marines">Marine Corps SGLI contact and payment information</button>
 <div id="marines" class="usa-accordion-content">
 
 **For coverage status and questions about premium payments:**
@@ -415,7 +415,7 @@ Send your payment to:
 
 ### Coast Guard <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="coast-guard-1">Marine Corps SGLI contact information</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="coast-guard-1">Marine Corps SGLI contact and payment information</button>
 <div id="coast-guard-1" class="usa-accordion-content">
 
 **For coverage status and questions about premium payments:**
