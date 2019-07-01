@@ -10,20 +10,20 @@ concurrence:
 spoke: More information and resources
 order: 8
 relatedlinks:
-  -heading: Other helpful tools and information
-   links:
-   - url: /gi-bill-comparison-tool/
-     title: GI Bill Comparison Tool
-     description: Learn about education programs and compare benefits by school.
-   - url: /education/how-to-apply/
-     title: How to apply for the GI Bill and other education benefits
-     description: Haven't applied yet? Find out how to apply for VA education benefits as a Veteran, service member, or qualified family member.
-   - url: /education/gi-bill/post-9-11/ch-33-benefit
-     title: Check your Post-9/11 GI Bill benefits
-     description: Review how much of your GI Bill benefits you have left to help pay for school or training.     
-   - url: /education/about-gi-bill-benefits/how-to-use-benefits/
-     title: How to use your GI Bill benefits 
-     description: Find out how to use your benefits to earn a degree, train for a specific trade, or work toward other career goals.
+  - heading: Other helpful tools and information
+    links:
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.
+    - url: /education/how-to-apply/
+      title: How to apply for the GI Bill and other education benefits
+      description: Haven't applied yet? Find out how to apply for VA education benefits as a Veteran, service member, or qualified family member.
+    - url: /education/gi-bill/post-9-11/ch-33-benefit
+      title: Check your Post-9/11 GI Bill benefits
+      description: Review how much of your GI Bill benefits you have left to help pay for school or training.     
+    - url: /education/about-gi-bill-benefits/how-to-use-benefits/
+      title: How to use your GI Bill benefits 
+      description: Find out how to use your benefits to earn a degree, train for a specific trade, or work toward other career goals.
      
 ---
 
