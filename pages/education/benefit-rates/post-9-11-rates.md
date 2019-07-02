@@ -22,7 +22,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
   
-Review Post-9/11 GI Bill (Chapter 33) rates for the 2019 academic year (August 1, 2019, to July 31, 2020). The Marine Gunnery Seargant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
+Review Post-9/11 GI Bill (Chapter 33) rates for the 2019 academic year (August 1, 2019, to July 31, 2020). The Marine Gunnery Sergeant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
 
 </div>
 
@@ -67,18 +67,18 @@ We'll pay a percentage of the full benefit, based on how long you served on acti
 ------
 <span id="school"></span>
 ## Full rates for school and training programs
-**Effective August 1, 2019 to July 31, 2020**
+**Effective August 1, 2019, to July 31, 2020**
 
 ### Tuition and fees
 
 | Type of school | 2019 full benefit rate |
 | --- | --- |
 | **Public institution of higher learning** <br>(like a public college, university, or trade school) | All tuition and fees based on the in-state student rate |
-| **Private institution of higher learning** <br>(like a private college, university, or trade school)| Actual net costs up to **$24,476.79** |
-| **Foreign institution of higher learning** <br>(a college, university, or trade school in a country outside the U.S.) | Actual net costs up to **$24,476.79** |
+| **Private institution of higher learning** <br>(like a private college, university, or trade school)| Actual net cost up to **$24,476.79** |
+| **Foreign institution of higher learning** <br>(a college, university, or trade school in a country outside the U.S.) | Actual net cost up to **$24,476.79** |
 | **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, EMT, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
-| **Vocational flight school** <br> (a non-degree certificate or rating program)| Actual net costs up to **$13,986.72** |
-| **Correspondence school** <br> (independent and distance learning programs) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
+| **Vocational flight school** <br> (a non-degree certificate or rating program)| Actual net cost up to **$13,986.72** |
+| **Correspondence school** <br> (independent and distance learning programs) | Actual net cost up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
 
 We pay all tuition and fees directly to your school or training program.
 
@@ -99,7 +99,7 @@ We pay this money to you at the beginning of each term.
 
 ### Money to help you move from a highly rural area
 
-If you need to relocate from a highly rural area so you can attend school, we may give you a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill rural grant. You may be eligible for this grant if the below descriptions are true for you.
+If you need to relocate from a highly rural area so you can attend school, we may give you a one-time payment of **$500** to help with your moving expenses. This is called the Post-9/11 GI Bill rural grant. You may be eligible for this grant if the below descriptions are true for you.
 
 **This must be true:** <br>
 You live in a county with 6 people or fewer per square mile, as determined by the most recent census. 
@@ -123,7 +123,7 @@ If you have questions about your payments, or would like to ask about changing y
 ------
 <span id="apprenticeship"></span>
 ## Full rates for apprenticeships and on-the-job training programs
-**Effective August 1, 2019 to July 31, 2020**
+**Effective August 1, 2019, to July 31, 2020**
 
 ### Monthly housing allowance
 
@@ -148,7 +148,7 @@ If you have questions about your payments, or would like to ask about changing y
 ------
 <span id="testing"></span>
 ## Full rates for testing fees
-**Effective August 1, 2019 to July 31, 2020**
+**Effective August 1, 2019, to July 31, 2020**
 
 We’ll pay up to **$2,000** for qualifying tests and certifications. We cover only [tests approved for the GI Bill](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/), so be sure to check before you take any tests.
 
