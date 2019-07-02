@@ -191,11 +191,11 @@ Previously, GI Bill beneficiaries were paid Monthly Housing Allowance (MHA) base
 
 Now, the MHA is based on the campus location where the student physically attends the majority of his or her classes.
 
-**The VA defines a campus as one of the following:**
+The VA defines a campus as one of the following:
 
-- **Main campus:** A location where the primary teaching facilities of an educational institution are located.
-- **Branch campus:** A location of an educational institution that is geographically apart from and operationally independent of the main campus of the educational institution.
-- **Extension campus:** A location that is geographically apart from the main or branch campus but is operationally dependent on that campus for the performance of administrative tasks. <br>
+- Main campus: A location where the primary teaching facilities of an educational institution are located.
+- Branch campus: A location of an educational institution that is geographically apart from and operationally independent of the main campus of the educational institution.
+- Extension campus: A location that is geographically apart from the main or branch campus but is operationally dependent on that campus for the performance of administrative tasks. <br>
 
 <h2 itemprop="name">Get more information</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
