@@ -34,7 +34,7 @@ majorlinks:
 
 <div class="va-introtext">
 
-The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in Vietnam during the Vietnam Era—or in certain related jobs—you may have had contact with this herbicide. We refer to this as having a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+The U.S. military used Agent Orange to clear plants and trees during the Vietnam War. If you served in Vietnam or in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era—or in certain related jobs—you may have had contact with this herbicide. We refer to this as having a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -45,7 +45,7 @@ The U.S. military used Agent Orange to clear plants and trees during the Vietnam
 You may be able to get disability benefits if the below descriptions are true for you.
 
 **This must be true:**
- - You have an illness believed to be caused by Agent Orange
+ - You have an illness believed to be caused by Agent Orange (called a presumptive disease)
 
 **And at least one of these must also be true. You:**
  - Came into contact with Agent Orange while serving in the military, **or**
