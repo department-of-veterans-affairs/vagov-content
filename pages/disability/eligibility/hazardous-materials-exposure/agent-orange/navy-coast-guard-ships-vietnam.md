@@ -63,9 +63,11 @@ You won’t need to show that the problem started during—or got worse because 
       View the evidence requirements
     </button>
     <div id="evidence-1" class="usa-accordion-content">
-      <strong>When you file your claim, you'll need to submit this evidence:</strong> <br>
+      <strong>When you file your claim, you'll need to submit:</strong> <br>
       <br>
-      A medical record that shows you have an Agent Orange‒related illness <br>
+      <ul>
+        <li>A medical record that shows you have an Agent Orange‒related illness</li>
+      </ul>
       <br>
       <strong>And you'll need to submit a military record that shows you either:</strong>
       <ul>        
@@ -93,12 +95,12 @@ Scientific proof may include an article from a medical journal or a published re
       View the evidence requirements
     </button>
     <div id="evidence-2" class="usa-accordion-content">
-      <strong>When you file your claim, you'll need to submit your medical record showing that:</strong> <br>
+      <strong>When you file your claim, you'll need to submit a medical record that shows:</strong> <br>
       <ul>
         <li>You have an Agent Orange‒related illness, <strong>and</strong></li>
         <li>There's a connection between Agent Orange exposure and your current disability</li>
       </ul>          
-      <strong>And you'll need to submit your military record that shows you either:</strong>      
+      <strong>And you'll need to submit a military record that shows you either:</strong>      
       <ul>
         <li>Were aboard one of the U.S. Navy or Coast Guard ships that entered the inland waterways, <strong>or</strong></li>
         <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This service may include serving aboard a vessel on the inland waterways, or on a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019).</li>
