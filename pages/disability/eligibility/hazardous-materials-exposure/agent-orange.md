@@ -48,7 +48,7 @@ You may be able to get disability benefits if you meet the requirements listed b
  - You have an illness believed to be caused by Agent Orange
 
 **And at least one of these must also be true. You:**
- - Came into contact with Agent Orange while serving in the military, **or**
+ - Came in contact with Agent Orange while serving in the military, **or**
  - Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971, **or
  - Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This may include serving aboard a vessel on the inland waterways, or  on a vessel operating not more than 12-nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019).<br>
 
