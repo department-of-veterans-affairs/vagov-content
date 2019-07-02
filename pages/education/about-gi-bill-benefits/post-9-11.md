@@ -195,8 +195,8 @@ Now, MHA is based on the campus location **where the student physically attends 
 VA’s campus definitions:
 
 - **Main campus:** A location where the _primary teaching facilities_ of an educational institution are located.
-- **Branch campus:** A location of an educational institution that is _geographically apart_ from and operationally independent of the main campus of the educational institution.
-- **Extension campus:** A location that is _geographically apart_ from the main or branch campus but is operationally dependent on that campus for the performance of administrative tasks. <br>
+- **Branch campus:** A location of an educational institution that is _geographically apart_ from and _operationally independent_ of the main campus of the educational institution.
+- **Extension campus:** A location that is _geographically apart_ from the main or branch campus but is _operationally dependent_ on that campus for the performance of administrative tasks. <br>
 
 <h2 itemprop="name">Get more information</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
