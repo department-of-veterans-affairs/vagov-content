@@ -53,7 +53,7 @@ You may be able to get disability benefits if you meet the requirements listed b
  - Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This may include serving aboard a vessel on the inland waterways, or  on a vessel operating not more than 12-nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019).<br>
 
 [Review the list of illnesses believed to be caused by Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/) <br>
-[Learn about what kinds of service may have put you in contact with Agent Orange](#kinds-of-service)
+[Learn what kinds of service may have put you in contact with Agent Orange](#kinds-of-service)
 
 #### Who’s covered?
 
@@ -62,10 +62,11 @@ You may be able to get disability benefits if you meet the requirements listed b
 
 </div>
 
-## What kind of disability benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
+- [An Agent Orange Registry health exam](/disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/)
 
 ## How do I get these benefits?
 
@@ -91,8 +92,9 @@ You won’t need to show that the problem started during—or got worse because 
       </ul>
       <strong>And you'll need to submit a military record that shows you:</strong>
       <ul>        
-        <li>Served on duty or visited the Republic of Vietnam or in or near the Korean Demilitarized Zone, <strong>or</strong></li>
-        <li>Were aboard one of the U.S. Navy or Coast Guard ships that entered the inland waterways of Vietnam, <strong>or</strong></li>
+        <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975, <strong>or</strong></li>
+        <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971</li>
+        <li>Were aboard a U.S. military vessel that entered the inland waterways of Vietnam, <strong>or</strong></li>
         <li>Served aboard a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019), <strong>or</strong></li>
         <li>Were exposed to herbicides in a location other than Vietnam or the Korean Demilitarized Zone</li>
       </ul>
@@ -123,10 +125,10 @@ Scientific proof may include an article from a medical journal or a published re
         <li>There's a connection between Agent Orange exposure and your current disability</li>
       </ul>          
       <strong>And you'll need to submit a military record that shows you:</strong>      
-      <ul>
-        <li>Came into contact with Agent Orange in a location other than Vietnam or the Korean Demilitarized Zone, <strong>or</strong></li>
+      <ul>       
         <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975, <strong>or</strong></li>
-        <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971.</li>
+        <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971, <strong>or</strong></li>
+         <li>Came into contact with Agent Orange in a location other than Vietnam or the Korean Demilitarized Zone</li>
       </ul>
       <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
     </div>
