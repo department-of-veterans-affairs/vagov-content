@@ -4,7 +4,7 @@ template: detail-page
 title: 2019 VA Education Benefit Rates
 heading: 2019 VA education benefit rates
 display_title: Benefit rates
-description:
+description: Review current VA education benefits rates to find out how much support you can get to help pay for school or training. In some cases, you may also be eligible for money to help pay for housing, books, and supplies while you study.
 keywords: va education benefits rates, va education payment rates
 order: 2
 spoke: More resources
