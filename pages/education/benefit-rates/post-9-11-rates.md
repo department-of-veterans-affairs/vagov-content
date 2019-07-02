@@ -22,7 +22,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
   
-Review Post-9/11 GI Bill (Chapter 33) rates for the 2019 academic year (August 1, 2019, to July 31, 2019). The Marine Gunnery Seargant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
+Review Post-9/11 GI Bill (Chapter 33) rates for the 2019 academic year (August 1, 2019, to July 31, 2020). The Marine Gunnery Seargant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
 
 </div>
 
@@ -73,16 +73,16 @@ We'll give you a percentage of the full benefit, based on how long you served on
 
 | Type of school | 2019 full benefit rate |
 | --- | --- |
-| **Public institution of higher learning** <br> (like a public college, university, or trade school) | All tuition and fees based on the in-state student rate |
-| **Private institution of higher learning** <br> <br> (like a private college, university, or trade school)| Actual net costs up to **$24,476.79** |
-| **Foreign institution of higher learning** <br> <br> (a college, university, or trade school in a country outside the U.S.) | Actual net costs up to **$24,476.79** |
-| **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, or Emergency Medical Technician, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
+| **Public institution of higher learning** <br>(like a public college, university, or trade school) | All tuition and fees based on the in-state student rate |
+| **Private institution of higher learning** <br>(like a private college, university, or trade school)| Actual net costs up to **$24,476.79** |
+| **Foreign institution of higher learning** <br>(a college, university, or trade school in a country outside the U.S.) | Actual net costs up to **$24,476.79** |
+| **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, EMT, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
 | **Vocational flight school** <br> (a non-degree certificate or rating program)| Actual net costs up to **$13,986.72** |
 | **Correspondence school** <br> (for independent and distance learning) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
 
 We pay all tuition and fees directly to your school or training program.
 
-**Note for out-of-state students at U.S. institutions of higher learning:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
+**Note for out-of-state students at U.S. institutions of higher learning:** If you live in the state where you're going to school, even if it's not your official state of residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
 
 ### Monthly housing allowance
 
@@ -137,7 +137,7 @@ For the first 6 months of training, we'll pay you the full [monthly housing allo
 | 7 to 12 months | 80% |
 | 13 to 18 months | 60% |
 | 19 to 24 months | 40% |
-| Remaining time after 24 months | 20% |
+| After 24 months | 20% |
 
 ### Money for books and supplies
 
@@ -150,8 +150,7 @@ If you have questions about your payments, or would like to ask about changing y
 ## Full rates for testing fees
 **Effective August 1, 2019 to July 31, 2020**
 
-We’ll pay up to **$2,000** for qualifying tests and certifications. We cover only tests approved for the GI Bill, so 
-[find out what’s approved before you take any tests](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/).
+We’ll pay up to **$2,000** for qualifying tests and certifications. We cover only [tests approved for the GI Bill](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/), so be sure to check before you take any tests.
 
 If you have questions about your payments, or would like to ask about changing your benefits, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
 
