@@ -9,16 +9,6 @@ keywords: chapter 1607 rates, reap
 concurrence: 
 spoke: More information and resources
 order: 6 
-relatedlinks:
-  - heading: Other helpful education benefit resources
-    links:
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/ 
-      title: How to use your benefits
-      description: Learn all the types of educational benefits you can use with your GI Bill coverage.
-    - url: /gi-bill-comparison-tool/
-      title: GI Bill Comparison Tool
-      description: Learn about education programs and compare benefits by school.
-
 ---
 
 <div class="va-introtext">
@@ -33,6 +23,7 @@ Review 2019 rates for the Reserve Educational Assistance Program (also called RE
 - [Rates for flight school training](#flight)
 - [Rates for apprenticeships and on-the-job training](#apprenticeship)
 - [Rates for cooperative training](#cooperative)
+- [Historic rates](#historic)
 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
@@ -78,7 +69,7 @@ All rates in U.S. $
 | Between ¼-time and ½-time | 598.20	| 
 | ¼-time or less | 199.40 |
 
-### If you served at least 2 years
+### If you served 2 years or more
 
 All rates in U.S. $
 | If you're enrolled in school... | We'll pay this amount each month | 
@@ -95,26 +86,30 @@ All rates in U.S. $
 ## Rates for correspondence training
 **Effective October 1, 2018 to November 25, 2019**
 
-We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break). We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
+We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
+
+We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
 
 | If you served... | Your benefit level is... | And we'll pay |
 |--|--|--:|
 | <ul><li>Between 90 days and 1 year, **or** </li><li>You were discharged due to a service-connected disability before your 90th day of service</li></ul> | 40% | 22% of the cost of your approved course  |
 | Between 1 and 2 years | 60% | 33% of the cost of your approved course |
-| <ul><li>At least 2 years continuously, **or** </li></ul> 3 years total (cumulative), with or without breaks</li></ul> | 80% | 44% of the cost of your approved course |
+| <ul><li>2 years or more continuously, **or** </li></li>3 years total (cumulative), with or without breaks</li></ul> | 80% | 44% of the cost of your approved course |
 
 ------
 <span id="flight"></span>
 ## Rates for flight school training 
 **Effective October 1, 2018 to November 25, 2019**
 
-We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break). We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
+We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
+
+We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
 
 | If you served... | Your benefit level is... | And we'll pay |
 |--|--|--:|
 | <ul><li>Between 90 days and 1 year, **or**</li><li>You were discharged due to a service-connected disability before your 90th day of service</li></ul> | 40% | 24% of the cost of your approved course |
 | Between 1 and 2 years | 60% | 36% of the cost of your approved course |
-| <ul><li>At least 2 years continuously, **or**</li><li> 3 years total (cumulative), with or without breaks </li></ul> | 80% | 48% of the cost of your approved course |
+| <ul><li>2 years or more continuously, **or**</li><li>3 years total (cumulative), with or without breaks </li></ul> | 80% | 48% of the cost of your approved course |
 
 ------
 <span id="apprenticeship"></span>
@@ -145,7 +140,7 @@ All rates in U.S. $
 | 6 to 12 months | 658.02 |
 | After 12 months |	418.74 |	
 
-### If you served at least 2 years
+### If you served 2 years or more
 
 All rates in U.S. $
 | If you're at this point in your training... | We'll pay this amount each month |
@@ -155,7 +150,7 @@ All rates in U.S. $
 | After 12 months |	558.32 |
 
 ------
-
+<span id="cooperative"></span>
 ### Rates for cooperative training
 **Effective October 1, 2018 to November 25, 2019**
 
@@ -166,4 +161,14 @@ All rates in U.S. $
 |---|---|
 | Between 90 days and 1 year | 797.60	| 
 | Between 1 and 2 years | 1,196.40 |
-| 2 or more years | 1,595.20 |
+| 2 years or more | 1,595.20 |
+
+------
+<span id="historic"></span>
+## Historic rates
+
+Review REAP (Chapter 1607) rates for past years.
+
+- [Rates effective October 1, 2017](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch1607/ch1607rates100117.asp)
+- [Rates effective October 1, 2016](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch1607/ch1607rates100116.asp)
+- [Rates effective October 1, 2015, and earlier](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch1607/ch1607rates100115.asp)
