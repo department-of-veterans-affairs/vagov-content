@@ -43,7 +43,7 @@ This includes rates for colleges, universities, trade schools, and other institu
 - How long you served on active duty continuously (all at once, without a break) after September 10, 2001, **and**
 - How many courses you're taking, up to full-time enrollment
 
-**Note:** If you’re attending school less than ½-time, you can only use this benefit to pay for tuition and fees. You can't use the money for anything else, like housing, books, or supplies. Payment can’t exceed the listed amount.
+**Note:** If you’re attending school less than half-time, you can only use this benefit to pay for tuition and fees. You can't use the money for anything else, like housing, books, or supplies. Payment can’t exceed the listed amount.
 
 ### If you served between 90 days and 1 year
 
