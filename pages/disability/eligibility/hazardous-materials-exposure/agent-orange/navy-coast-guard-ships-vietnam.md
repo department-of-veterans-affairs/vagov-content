@@ -64,11 +64,9 @@ You won’t need to show that the problem started during—or got worse because 
     </button>
     <div id="evidence-1" class="usa-accordion-content">
       <strong>When you file your claim, you'll need to submit:</strong> <br>
-      <br>
       <ul>
         <li>A medical record that shows you have an Agent Orange‒related illness</li>
       </ul>
-      <br>
       <strong>And you'll need to submit a military record that shows you either:</strong>
       <ul>        
         <li>Were aboard one of the U.S. Navy or Coast Guard ships that entered the inland waterways, <strong>or</strong></li>
