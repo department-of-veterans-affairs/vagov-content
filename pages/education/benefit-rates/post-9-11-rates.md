@@ -111,8 +111,8 @@ You live in a county with 6 people or fewer per square mile, as determined by th
 ### Added payments 
 
 **If your college or university tuition costs more than the maximum payment,** you may be eligible for added payments through:
-- [The Yellow Ribbon program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/), **or**
-- [Tuition assistance top-up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
+- [The Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/), **or**
+- [Tuition Assistance Top-Up](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
 
 **If you're enrolled in a high-technology program,** you may be able to get a [single higher payment](/education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/) to help cover the cost of your program.
 
