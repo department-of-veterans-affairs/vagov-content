@@ -35,7 +35,7 @@ Review 2019 rates for the Reserve Educational Assistance Program (also called RE
 
 <span id="higher-learning"></span>
 ## Rates for institutions of higher learning
-**Effective October 1, 2018 to November 25, 2019**
+**Effective October 1, 2018, to November 25, 2019**
 
 This includes rates for colleges, universities, trade schools, and other institutions of higher learning.
 
@@ -84,7 +84,7 @@ All rates in U.S. $
 
 <span id="correspondence"></span>
 ## Rates for correspondence training
-**Effective October 1, 2018 to November 25, 2019**
+**Effective October 1, 2018, to November 25, 2019**
 
 We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
 
@@ -99,7 +99,7 @@ We charge entitlement based on the rate of one month for a benefit amount equal 
 ------
 <span id="flight"></span>
 ## Rates for flight school training 
-**Effective October 1, 2018 to November 25, 2019**
+**Effective October 1, 2018, to November 25, 2019**
 
 We base your REAP benefit level on how long you've served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
 
@@ -114,7 +114,7 @@ We charge entitlement based on the rate of one month for a benefit amount equal 
 ------
 <span id="apprenticeship"></span>
 ## Rates for apprenticeships and on-the-job training
-**Effective October 1, 2018 to November 25, 2019**
+**Effective October 1, 2018, to November 25, 2019**
 
 **We base your monthly rate on:**
 - How long you've served on active duty continuously (all at once, without a break), after September 10, 2001, **and**
@@ -152,7 +152,7 @@ All rates in U.S. $
 ------
 <span id="cooperative"></span>
 ### Rates for cooperative training
-**Effective October 1, 2018 to November 25, 2019**
+**Effective October 1, 2018, to November 25, 2019**
 
 We base your rate on how long you served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
 
