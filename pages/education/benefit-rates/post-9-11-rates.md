@@ -1,11 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: 2019 Post-9/11 GI Bill And Fry Scholarship Rates
-heading: 2019 Post-9/11 GI Bill and Fry Scholarship rates
-display_title: Post-9/11 GI Bill and Fry Scholarship rates
+title: 2019 Post-9/11 GI Bill (Chapter 33) Rates
+heading: 2019 Post-9/11 GI Bill (Chapter 33) rates
+display_title: Post-9/11 GI Bill rates
 description: 
-keywords: post 911 gi bill rates
+keywords: post 911 gi bill rates, chatper 33 rates
 concurrence: 
 spoke: More information and resources
 order: 1
@@ -22,7 +22,7 @@ relatedlinks:
 ---
 <div class="va-introtext">
   
-Review Post-9/11 GI Bill rates for the 2019 academic year (August 1, 2019, to July 31, 2019). The Marine Gunnery Seargant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
+Review Post-9/11 GI Bill (Chapter 33) rates for the 2019 academic year (August 1, 2019, to July 31, 2019). The Marine Gunnery Seargant John David Fry Scholarship also offers these same rates. Learn what your payments will cover, and what percentage of the full benefit rates you may be eligible to receive.
 
 </div>
 
@@ -73,16 +73,16 @@ We'll give you a percentage of the full benefit, based on how long you served on
 
 | Type of school | 2019 full benefit rate |
 | --- | --- |
-| **Public college, university, or other institution of higher learning** <br> | All tuition and fees based on the in-state student rate |
-| **Private college, university, or other institution of higher learning** <br> | Actual net costs up to **$24,476.79** |
-| **Foreign college, university, or other institution of higher learning** <br> | Actual net costs up to **$24,476.79** |
+| **Public institution of higher learning** <br> (like a public college, university, or trade school) | All tuition and fees based on the in-state student rate |
+| **Private institution of higher learning** <br> <br> (like a private college, university, or trade school)| Actual net costs up to **$24,476.79** |
+| **Foreign institution of higher learning** <br> <br> (a college, university, or trade school in a country outside the U.S.) | Actual net costs up to **$24,476.79** |
 | **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, or Emergency Medical Technician, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
-| **Vocational flight school** | Actual net costs up to **$13,986.72** |
+| **Vocational flight school** <br> (a non-degree certificate or rating program)| Actual net costs up to **$13,986.72** |
 | **Correspondence school** <br> (for independent and distance learning) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
 
 We pay all tuition and fees directly to your school or training program.
 
-**Note for out-of-state students at institutions of higher learning:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
+**Note for out-of-state students at U.S. institutions of higher learning:** If you live in the state where you're going to school, even if it's not your official state if residence, [you may still qualify for the in-state fees](/education/benefit-rates/resident-rate-requirements).
 
 ### Monthly housing allowance
 
@@ -102,7 +102,6 @@ We pay this money to you at the beginning of each term.
 If you need to relocate from a highly rural area so you can attend school, we may give you a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill rural grant. You may be eligible for this grant if the below descriptions are true for you.
 
 **This must be true:**
-
 You live in a county with 6 people or fewer per square mile, as determined by the most recent census. 
 
 **And one of these must also be true. You need to:**
@@ -159,7 +158,6 @@ If you have questions about your payments, or would like to ask about changing y
 ------
 <span id="historic"></span>
 ### Historic rates
-
 Review Post-9/11 GI Bill rates for past years:
 
 - [Rates effective August 1, 2018](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080118.asp)
