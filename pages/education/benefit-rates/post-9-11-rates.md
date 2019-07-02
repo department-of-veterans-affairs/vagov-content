@@ -49,9 +49,9 @@ You’ll receive **100% of the benefit rates** if one of the below descriptions 
 
 ### What if I don't meet the requirements for full benefits?
 
-We'll give you a percentage of the full benefit, based on how long you served on active duty after September 10, 2001.
+We'll pay a percentage of the full benefit, based on how long you served on active duty after September 10, 2001.
 
-| If you served at least... | But less than... | You’ll get this percentage of the full benefit rate | 
+| If you served at least... | But less than... | We'll pay this percentage of the full benefit rate | 
 | --- | --- | ---: |
 | 30 months | 36 months | 90% | 
 | 24 months | 30 months | 80% | 
@@ -78,7 +78,7 @@ We'll give you a percentage of the full benefit, based on how long you served on
 | **Foreign institution of higher learning** <br>(a college, university, or trade school in a country outside the U.S.) | Actual net costs up to **$24,476.79** |
 | **Non-college degree granting institution** <br> (specific training programs like HVAC repair, truck driving, EMT, or beautician school) | Actual net cost of tuition and fees based on the in-state student rate, up to **$24,476.79** |
 | **Vocational flight school** <br> (a non-degree certificate or rating program)| Actual net costs up to **$13,986.72** |
-| **Correspondence school** <br> (for independent and distance learning) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
+| **Correspondence school** <br> (independent and distance learning programs) | Actual net costs up to **$11,888.70** <br> (including all classes and enrollments beginning during the academic year, even if you don't complete them that year) |
 
 We pay all tuition and fees directly to your school or training program.
 
@@ -91,7 +91,7 @@ You may be eligible for money to help pay for your housing while you’re studyi
 We pay this allowance to you at the end of each month. <br>
 [Learn about monthly housing allowance rates](/education/benefit-rates/monthly-housing-allowance-rates/)
 
-### Education books and supplies allowance
+### Money for books and supplies
 
 You may be eligible for up to **$1,000** each academic year for books and supplies. We base your payment on how many courses you're enrolled in for the year.
 
@@ -101,7 +101,7 @@ We pay this money to you at the beginning of each term.
 
 If you need to relocate from a highly rural area so you can attend school, we may give you a one-time payment of **$500** to help with your moving expenses. This is called the Post 9/11 GI Bill rural grant. You may be eligible for this grant if the below descriptions are true for you.
 
-**This must be true:**
+**This must be true:** <br>
 You live in a county with 6 people or fewer per square mile, as determined by the most recent census. 
 
 **And one of these must also be true. You need to:**
