@@ -12,7 +12,9 @@ order: 7
 
 <div class="va-introtext">
 
-Did you serve in Vietnam, including aboard a vessel on the inland waterways or within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era? If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+Did you serve in Vietnam, including aboard a vessel on the inland waterways or within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era? 
+
+If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -23,7 +25,7 @@ Did you serve in Vietnam, including aboard a vessel on the inland waterways or w
 You may be able to get disability benefits if the below descriptions are true for you.
 
 **This must be true:**
- - You have an illness believed to be caused by Agent Orange
+ - You have an illness believed to be caused by Agent Orange (called a presumptive disease)
 
 **And at least one of these must also be true. You:**
  - Came into contact with Agent Orange while serving in the military, **or**
