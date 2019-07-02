@@ -21,7 +21,7 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">Blue Water Navy Veterans and Agent Orange</h3>
-    <p>Blue Water Navy Veterans are now entitled to a presumption of service connection for conditions related to Agent Orange exposure. This is a result of <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
+    <p>Blue Water Navy Veterans are now entitled to a presumption of service connection for illnesses related to Agent Orange exposure. This is a result of <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
 You may be able to get disability benefits if the below descriptions are true for you.
 
 **This must be true:**
- - You have an illness believed to be caused by Agent Orange
+ - You have an illness believed to be caused by Agent Orange (called a presumptive disease)
 
 **And at least one of these must also be true. Your military record must show that between January 9, 1962, and May 7, 1975, you:**
 - Were aboard a U.S. military vessel that operated in the inland waterways of Vietnam, **or**
@@ -49,7 +49,7 @@ You may be able to get disability benefits if the below descriptions are true fo
 
 </div>
 
-## What kind of disability benefits can I get?
+## What kind of benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -107,7 +107,7 @@ Scientific proof may include an article from a medical journal or a published re
     <div id="evidence-2" class="usa-accordion-content">
       <strong>When you file your claim, you'll need to submit a medical record that shows:</strong> <br>
       <ul>
-        <li>You have an Agent Orange‒related illness, <strong>and</strong></li>
+        <li>You have a current disability, <strong>and</strong></li>
         <li>There's a connection between Agent Orange exposure and your current disability</li>
       </ul>          
       <strong>And you'll need to submit a military record that shows you either:</strong>      
