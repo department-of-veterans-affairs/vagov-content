@@ -9,7 +9,7 @@ keywords: va education benefits rates, va education payment rates
 order: 2
 spoke: More resources
 majorlinks:
-  - heading: Current rates for GI Bill and other VA education benefits
+  - heading: Current payment rates for GI Bill and other VA education benefits
     links:
     - url: /education/benefit-rates/post-9-11-rates/
       title: Post-9/11 GI Bill (Chapter 33) rates
