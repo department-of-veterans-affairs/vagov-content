@@ -31,7 +31,6 @@ You may be able to get disability benefits if the below descriptions are true fo
  - Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This may include serving aboard a vessel on the inland waterways, or  on a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019).<br>
 
 [Review the list of illnesses believed to be caused by Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/) <br>
-[Learn what kinds of service may have put you in contact with Agent Orange](#kinds-of-service)
 
 ### Who’s covered?
 
