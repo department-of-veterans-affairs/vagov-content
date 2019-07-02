@@ -93,7 +93,7 @@ You won’t need to show that the problem started during—or got worse because 
       <strong>And you'll need to submit a military record that shows you:</strong>
       <ul>        
         <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975, <strong>or</strong></li>
-        <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971</li>
+        <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971, <strong>or</strong></li>
         <li>Were aboard a U.S. military vessel that entered the inland waterways of Vietnam, <strong>or</strong></li>
         <li>Served aboard a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019), <strong>or</strong></li>
         <li>Were exposed to herbicides in a location other than Vietnam or the Korean Demilitarized Zone</li>
