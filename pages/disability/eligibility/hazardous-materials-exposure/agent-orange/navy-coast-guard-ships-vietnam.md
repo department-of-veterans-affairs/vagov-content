@@ -7,7 +7,7 @@ description: If you served on a Navy or Coast Guard ship in or around Vietnam du
 concurrence: complete
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 template: detail-page
-order: 9
+order: 4
 ---
 
 <div class="va-introtext">
