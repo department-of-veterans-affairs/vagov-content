@@ -18,8 +18,8 @@ If you had regular security duty on the fenced-in perimeters of a U.S. military 
 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Update for children of Veterans who served in Thailand</h3>
-    <p>The children of Veterans who served in Thailand during the Vietnam War, and who've been diagnosed with spina bifida (except occulta) may now be eligible for disability compensation. This is a result of Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
+    <h3 class="usa-alert-heading">New information for the children of Veterans who served in Thailand</h3>
+    <p>Children of U.S. Veterans who served in Thailand during the Vietnam War, and who've been diagnosed with spina bifida (except spina bifida occulta), may now be eligible to receive compensation and other benefits. This is a result of Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
     <p><a href="/disability/eligibility/special-claims/birth-defects/">Find out if your child may be eligible for benefits</p>
   </div>
 </div>
