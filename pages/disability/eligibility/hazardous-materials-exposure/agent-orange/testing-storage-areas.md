@@ -7,7 +7,7 @@ description: If you were part of testing or storing Agent Orange on military bas
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 template: detail-page
-order: 10
+order: 7
 ---
 
 <div class="va-introtext">
