@@ -1,10 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Montgomery GI Bill for Active Duty Benefit Rates
-heading: Montgomery GI Bill for Active Duty benefit rates
-display_title:
+title: 2019 Montgomery GI Bill Active Duty (MGIB-AD) Rates
+heading: 2019 Montgomery GI Bill Active Duty (MGIB-AD) rates
+display_title: MGIB-AD rates
 description: 
+keywords: montgomery gi bill rates, mgib rates, chapter 30 gi bill rates
 concurrence: 
 spoke: More information and resources
 order: 1
@@ -21,42 +22,26 @@ relatedlinks:
 ---
 <div class="va-introtext">
   
-The Montgomery GI Bill for Active Duty military members (MGIB-AD/Chapter 30) is probably the most common GI Bill plan. 
-This is the GI Bill plan you can buy into for $1,200 during basic training. You typically have 10 years to use your 
-MGIB-AD benefits after you separate from military service.
+Review Montgomery GI Bill Active Duty (also called MGIB-AD or Chapter 30) rates for the 2019 academic year. If you're a trainee on active duty, we'll pay you back only the tuition and fees for the training you've taken.
 
-You can use your MGIB-AD benefits while you’re on active duty or after you separate. Unlike the Post-9/11 GI Bill, 
-which pays the school or institution, the MGIB-AD pays you directly. Also unlike the Post-9/11 GI Bill, the MGIB-AD 
-program does not give you a housing allowance. 
-
-If you’re a trainee on active duty, you’ll be paid back for your tuition and fees. If you’re a trainee using military tuition 
-assistance (TA), your payments will make up the difference between the tuition assistance and your remaining tuition and fees.
-
-[Learn more about the military tuition assistance (TA) program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)
-
-[Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
-On this page, you’ll learn the monthly payment rates for the MGIB-AD, **effective August 
-2018**.
+</div>
 
 ### On this page
-- [Rates if you served at least 3 years on active duty](#3-years)
-- [Rates if you served between 2 and 3 years on active duty](#2-3-years)
-- [Rates for remaining entitlement for certain Vietnam Era Veterans](#remaining-entitlement)
+- [MGIB-AD rates if you served at least 3 years on active duty](#3-years)
+- [MGIB-AD rates if you served between 2 and 3 years on active duty](#2-3-years)
+- [MGIB-AD rates for remaining entitlement for certain Vietnam Era Veterans](#remaining-entitlement)
 - [Historic rates](#historic)
 
-
-[Learn more about how to qualify for the Montgomery GI Bill Active Duty program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
-
-------
 <span id="3-years"></span>
-## Rates if you served at least 3 years on active duty
+## MGIB-AD rates if you served at least 3 years on active duty
+**Effective October 1, 2018**
 
-### Colleges, universities, trade schools, and other learning institutions
+### For colleges, universities, trade schools, and other institutions of higher learning
 
-We base your monthly rate (or payment amount) on how much of a course load you're taking, up to full-time.
+We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're enrolled...** | **You're entitled to this amount each month** |
+| **If you're enrolled...** | **We'll pay this amount each month** |
 |--|--|
 | Full-time | 1,994.00 |
 | ¾ time | 1,495.50 |
@@ -64,39 +49,39 @@ All rates in $ U.S. dollars
 | Between ¼ and ½ time | 997.00 |
 | ¼ time or less | 498.50 |
 
-**Note:** If you're enrolled less than half-time, we'll only pay tuition and fees. Your payment can't me more than the listed amount.
+**Note:** If you're enrolled less than half-time, we'll pay for your tuition and fees only. You can't receive more than the listed amount.
 
-### Apprenticeships and on-the-job training
+### For apprenticeships and on-the-job training
 
-We base your monthly rate (or payment amount) on where you're at in your training.
+We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're at this point in your training...** | **You're entitled to this amount each month** |
+| **If you're at this point in your training...** | **We'll pay this amount each month** |
 |--|--|
-| First 6 months of training | 1,495.50 |
-| Second 6 months of training | 1,096.70 |
-| Remainder of training | 697.90 |
+| First 6 months | 1,495.50 |
+| 6 to 12 months | 1,096.70 |
+| After 12 months (1 year) | 697.90 |
 
 ### Correspondence and flight schools
 
-We charge your entitlement at the rate of 1 month for each $1,994.00 paid.
+We charge your entitlement at the rate of 1 month for each **$1,994.00** paid.
 
 ### Cooperative training
 
 The cooperative training program lets you go to school full-time for a period, and then work 
-full-time for a period. If you’re participating in this program, your benefit rate is **$1,994.00**.
+full-time for a period. If you’re participating in this program, you'll receive **$1,994.00** each month.
 
 ------
 
 <span id="2-3-years"></span>
-## Rates if you served between 2 to 3 years on active duty
+## MGIB-AD rates if you served between 2 to 3 years on active duty
 
-### Colleges, universities, trade schools, and other learning institutions
+### For colleges, universities, trade schools, and other institutions of higher learning
 
-We base your monthly rate (or payment amount) on how much of a course load you're taking, up to full-time.
+We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're enrolled...** | **You're entitled to this amount each month** |
+| **If you're enrolled...** | **We'll pay this amount each month** |
 |--|--|
 | Full-time | 1,619.00 |
 | ¾ time | 1,214.25 |
@@ -104,34 +89,36 @@ All rates in $ U.S. dollars
 | Between ¼ and ½ time | 809.50 |
 | ¼ time or less | 404.75 |
 
-**Note:** If you're enrolled less than half-time, we'll only pay tuition and fees. Your payment can't me more than the listed amount.
+**Note:** If you're enrolled less than half-time, we'll pay for your tuition and fees only. You can't receive more than the listed amount.
 
-### Apprenticeships and on-the-job training
+### For apprenticeships and on-the-job training
 
-We base your monthly rate (or payment amount) on where you're at in your training.
+We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're at this point in your training...** | **You're entitled to this amount each month** |
+| **If you're at this point in your training...** | **We'll pay this amount each month** |
 |--|--|
-| First 6 months of training | 1,214.25 |
-| Second 6 months of training | 890.45 |
-| Remainder of training | 566.65 |
+| First 6 months | 1,214.25 |
+| 6 to 12 months | 890.45 |
+| After 12 months (1 year) | 566.65 |
 
-### Correspondence and flight schools
+### For correspondence and flight schools
 
 We charge your entitlement at the rate of 1 month for each $1,619.00 paid.
 
-### Cooperative training
+### For cooperative training
 
 The cooperative training program lets you go to school full-time for a period, and then 
-work full-time for a period. If you’re participating in this program, your benefit rate is **$1,619.00**.
+work full-time for a period. 
+
+We'll pay up to **$1,619.00** each month, depending on the type of approved school you're attending.
 
 ------
-<span id="remaining-entitlement"></span>
-## Rates for remaining entitlement for certain Vietnam Era Veterans 
 
-If you’re a Vietnam War era Veteran, you may be entitled to additional benefits. You’ll qualify for this “remaining 
-entitlement” under the Vietnam Era GI Bill (Chapter 34, Title 38) if **one** of the below descriptions is true for you. 
+<span id="remaining-entitlement"></span>
+## MGIB-AD rates for remaining entitlement for certain Vietnam Era Veterans 
+
+If you’re a Vietnam War era Veteran, you may be eligible for added benefits under the Vietnam Era GI Bill (Chapter 34, Title 38) if at least one of the below descriptions is true for you. 
 
 **One of these must be true. You:**
 
@@ -146,10 +133,24 @@ $1,687.00, and add $12.00 for your third dependent, for a total monthly payment 
 The rates are effective **October 1, 2017**. 
 [Learn more about remaining entitlement programs](https://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf)
 
-### Schools and other institutional training
+### For schools and other institutional training
+
+#### Veterans with no dependents
+
 All rates in $ U.S. dollars
+| **If you're enrolled...** | **We'll pay this amount each month** |
 
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
+|---|---|---|---|---|
+| Full-time | 2,182.00 | 2,218.00 | 2,249.00 | 16.00 |
+| ¾ time | 1,637.00 | 1,663.50 | 1,687.00 | 12.00 |
+| ½ time | 1,091.00 | 1,109.00 | 1,124.50 | 8.50 
+| Less than ½ time more than ¼ time | 1,091.00* | | | | 
+| ¼ time or less | 545.50* | | | | 
+
+#### Veterans with dependents
+
+| **Training period** | | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
 |---|---|---|---|---|
 | Full-time | 2,182.00 | 2,218.00 | 2,249.00 | 16.00 |
 | ¾ time | 1,637.00 | 1,663.50 | 1,687.00 | 12.00 |
