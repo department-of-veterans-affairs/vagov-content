@@ -11,24 +11,21 @@ order: 2
 majorlinks:
   - heading: You may have had contact with Agent Orange if you served in any of these ways
     links:
-    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
-      title: On C-123 airplanes
+    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/service-in-vietnam-korea/
+      title: In Vietnam or Korea
+      description: Between January 9, 1962, and May 7, 1975, in Vietnam, or between September 1, 1967, and August 31, 1971, in or near the Korean Demilitarized Zone
+    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/
+      title: On U.S. Navy and Coast Guard ships or other vessels in or near Vietnam
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/thailand-military-bases/
       title: On Thailand military bases
       description: Between January 9, 1962, and May 7, 1975
-    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/service-in-vietnam-korea/
-      title: In Vietnam or Korea
-      description: Between January 9, 1962, and May 7, 1975, in Vietnam, or between September 1, 1967, and August 31, 1971, in or near the Korean Demilitarized Zone
-    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/service-outside-vietnam-korea/
-      title: Outside of Vietnam or Korea
+    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
+      title: On C-123 airplanes
       description: Between January 9, 1962, and May 7, 1975
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/testing-storage-areas/
       title: In testing and storage areas outside of Vietnam
       description: Between 1944 and a yet-to-be-determined date
-    - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/
-      title: On U.S. Navy and Coast Guard ships or other vessels in or near Vietnam
-      description: Between January 9, 1962, and May 7, 1975
 
 ---
 
