@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Diseases Related To Agent Orange
-heading: Diseases related to Agent Orange
+title: Diseases Related To Agent Orange (Presumptives)
+heading: Diseases related to Agent Orange (presumptives)
 display_title: Related diseases
 description: Learn about certain cancers and other diseases we believe are related to Agent Orange exposure (called "presumptive diseases"). If you have an illness or other condition and were exposed to Agent Orange, find out if you're eligible for VA disability pay and health care benefits.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
@@ -11,7 +11,7 @@ order: 2
 
 <div class="va-introtext">
 
-We believe that contact with Agent Orange, an herbicide used to clear trees and plants during the Vietnam War, likely causes several illnesses. We refer to these as presumptive diseases. Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have one or more of the illnesses listed below.
+We believe that contact with Agent Orange, an herbicide used to clear trees and plants during the Vietnam War, likely causes several illnesses. We refer to these as Agent Orange presumptive diseases. Find out if you can get disability compensation or benefits if you had contact with Agent Orange while serving in the military and now have one or more of the illnesses listed below.
 
 </div>
 
