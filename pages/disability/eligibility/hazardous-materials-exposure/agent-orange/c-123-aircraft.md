@@ -33,7 +33,7 @@ You may be able to get disability benefits if the below descriptions are true fo
 - Your flight, ground, or medical duties put you in regular and repeated contact with C-123 aircraft that had traces of Agent Orange
 
 **If you have an illness we believe is caused by Agent Orange,** you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[Review our list of diseases related to agent orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Review our list of diseases related to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
 [View the list of codes (PDF)](https://www.benefits.va.gov/compensation/docs/AO_C123_AFSpecialityCodesUnits.pdf)
@@ -53,10 +53,10 @@ You may be able to get disability benefits if the below descriptions are true fo
 
 - **Lockbourne/Rickenbacker Air Force Base** in Ohio, 1969-1986 (906th and 907th Tactical Air Groups or 355th and 356th Tactical Airlift Squadrons), **or**
 - **Westover Air Force Base** in Massachusetts, 1972-1982 (731st Tactical Air Squadron and 74th Aeromedical Evacuation Squadron, or 901st Organizational Maintenance Squadron), **or**
-- **Pittsburgh, Pennsylvania International Airport**, 1972-1982 (758th Airlift Squadron)
+- **Pittsburgh International Airport** in Pennsylvania, 1972-1982 (758th Airlift Squadron)
 
 If you have an illness we believe is caused by Agent Orange, you won’t need to show the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as "presumptive diseases."<br>
-[Review our list of diseases related to agent orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Review our list of diseases related to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 
 Check our list of military units and Air Force specialty codes to see if your unit had contact with affected C-123 aircraft. <br>
