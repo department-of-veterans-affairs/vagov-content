@@ -14,7 +14,7 @@ order: 9
 
 Did you serve on a Blue Water Navy vessel offshore of the Republic of Vietnam, or on another U.S. Navy or Coast Guard ship operating in the coastal waterways of Vietnam, between January 9, 1962, and May 7, 1975? 
 
-If yes, you may have had contact with Agent Orange, an herbicide used to clear trees and plants during the war. We refer to this as a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+If yes, you may have had contact with Agent Orange, an herbicide used to clear trees and plants during the war. We refer to this as a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
@@ -22,6 +22,7 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">Blue Water Navy Veterans and Agent Orange</h3>
     <p>Blue Water Navy Veterans are now entitled to a presumption of service connection for illnesses related to Agent Orange exposure. This is a result of <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
+    <p>Read below to learn more about eligibility requirements and how to file a claim.</p>
   </div>
 </div>
 
