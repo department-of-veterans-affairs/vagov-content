@@ -184,7 +184,7 @@ If you disagree with the Board’s decision and have new and relevant evidence t
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Appeal </a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your appeal </a>
 
 ## What if I need help?
 

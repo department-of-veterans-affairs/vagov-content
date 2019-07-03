@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: topic-landing
+template: detail-page
 title: Resources For Military And Veteran Family Members
 heading: Resources for military and Veteran family members
 display_title: Family resources

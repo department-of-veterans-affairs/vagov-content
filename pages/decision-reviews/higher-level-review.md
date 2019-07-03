@@ -7,28 +7,28 @@ hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error. 
+If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
 </div>
 <br>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
-  <div class="vads-u-flex--1">    
+  <div class="vads-u-flex--1">
       You can’t submit any evidence.
   </div>
-</div>      
+</div>
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">
-    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>  
+    <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
     You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
   </div>
-</div>    
+</div>
 
 <div class="feature" markdown="0">
-  
+
 ### Can I request a Higher-Level Review?
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board Appeal. It’s also not available if you’re one of multiple people claiming the same benefit (this is rare).
@@ -42,7 +42,7 @@ You can request a Higher-Level Review of an initial claim or Supplemental Claim 
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail. 
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail.
 
 During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
 
@@ -66,12 +66,12 @@ The most common benefit type is compensation, but if you’re unsure, check your
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
       You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
   </div>
 </div>
-<br>      
-To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request. 
+<br>
+To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request.
 
 </li>
 
@@ -86,16 +86,16 @@ You can include all or just some of the issues VA has decided. You’ll need to 
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-ban"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
      You can’t submit any evidence.
   </div>
-</div>      
+</div>
 <br>
 
 **What if I have new and relevant evidence?**
 <br>
 If you have evidence to submit, please select another review option.
-<br> 
+<br>
 [Learn more about the review options](/decision-reviews/)
 </li>
 
@@ -121,14 +121,14 @@ Janesville, WI 53547-4444<br>
 
 <ul class="usa-accordion process-accordion">
   <li>
-  <button class="usa-button-unstyled usa-accordion-button" 
+  <button class="usa-button-unstyled usa-accordion-button"
     aria-controls="VA-other-benefit-addresses">Find addresses for other benefit types</button>
     <div id="VA-other-benefit-addresses" class="usa-accordion-content" >
 
 <div class="vads-l-row medium-screen:vads-u-margin-x--neg2">
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors benefits</h4>
-      <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX, 
+      <p>If you live in AK, AZ, CA, CO, HI, ID, IA, KS, MN, MT, NB, NV, NM, ND, OK, OR, SD, TX,
       UT, WA, WY, Mexico, Central America, South America, or the Caribbean</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
@@ -234,7 +234,7 @@ form.<br>
 
 **In person**
 <br>
-Bring your completed form to a regional benefit office. 
+Bring your completed form to a regional benefit office.
 <br>
 [Find a regional benefit office near you](/find-locations/)
 <br>
@@ -250,7 +250,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar 
+      Mark your calendar
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to file a Higher-Level Review.
@@ -263,7 +263,7 @@ You can also ask a regional benefit office for a copy of this form to fill out. 
 
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim </a>
 
 ## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review. <br>

@@ -95,7 +95,7 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 
 ### Ready to apply?
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to apply</a>
 
 [Find out how to apply if you haven’t yet received a disability rating](/careers-employment/vocational-rehabilitation/how-to-apply/#servicemember-not-received-rating)
 
@@ -117,3 +117,5 @@ If you're eligible, we'll invite you to an orientation session at your nearest V
 [See our list of external resources](/careers-employment/veteran-resources/)<br>
 - If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
 [Contact your VR&E counselor for more information](/find-locations/)
+
+You may also want to consider registering with the Office of Small & Disadvantaged Business Utilization (OSDBU) to [get support for your Veteran-owned small business](/careers-employment/veteran-owned-business-support/).

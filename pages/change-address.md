@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Change Your Address On File With VA | Veterans Affairs
+title: Change Your Address On File With VA
 display_title: Change your address
 heading: Change your address on file with VA
 description: Find out how to change your address on file with VA, and update other contact information in your VA.gov profile. This will update your information across several VA benefits and services, including VA health care, disability compensation, and pension benefits.
@@ -60,7 +60,7 @@ When you change the address and other contact information in your VA.gov profile
 <div itemprop="text">
 
 <ol class="process">
-  <li class="process-step list-one"><strong><button type="button" class="signin-signup-modal-trigger va-button-link">Sign in to VA.gov</button></strong><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
+  <li class="process-step list-one"><a class="login-required" href="/change-address">Sign in to VA.gov</a><br> You can sign in with your DS Logon, My HealtheVet, or ID.me account. If you don't have an account, you can create one now.</li>
   <li class="process-step list-two"><strong>Verify your identity when prompted</strong> <br> We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft. <br> <a href="/sign-in-faq/#verify">Read FAQs about verifying your identity</a></li>
   <li class="process-step list-three"><strong><a href="/profile/">Go to your VA.gov profile</a></strong> <br> Once you're signed in, you can find your profile by clicking on the icon with your name in the top right corner of any VA.gov page.</li>
   <li class="process-step list-four"><strong>Edit your address</strong> <br> Click <strong>Edit</strong> next to each address you'd like to change, including your mailing and home address. Or if you haven't yet added an address, click on the link to add your address. Then fill out the form and click <strong>Update</strong> to save your changes. You can also add or edit other contact, personal, and military service information.
