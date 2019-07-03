@@ -14,7 +14,7 @@ order: 3
 
 Did you serve in Vietnam, including aboard a vessel on the inland waterways or within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era? 
 
-If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses believed to be caused by Agent Orange.
+If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses we believe are caused by Agent Orange.
 
 </div>
 
@@ -25,7 +25,7 @@ If you served in either of these locations, you may have had contact with Agent 
 You may be able to get disability benefits if the below descriptions are true for you.
 
 **This must be true:**
- - You have an illness believed to be caused by Agent Orange (called a presumptive disease)
+ - You have an illness we believe is caused by Agent Orange (called a presumptive disease)
 
 **And at least one of these must also be true. You:**
  - Came into contact with Agent Orange while serving in the military, **or**
@@ -53,11 +53,11 @@ You may be able to get disability benefits if the below descriptions are true fo
 
 You’ll need to file a claim for disability compensation. 
 
-### If you have an illness believed to be caused by Agent Orange
+### If you have an illness we believe is caused by Agent Orange
 
 You won’t need to show that the problem started during—or got worse because of—your military service. This is because we believe that certain illnesses are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
 
-[Review the list of presumptive Agent Orange diseases](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Review our list of diseases related to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -84,7 +84,7 @@ You won’t need to show that the problem started during—or got worse because 
   </li>
   </ul>
 
-### If you have an illness that’s not on the list of Agent Orange‒related illnesses, but you believe was caused by Agent Orange
+### If you have an illness that’s not on the list of Agent Orange‒related diseases, but you believe was caused by Agent Orange
 
 **You’ll need to:**
 - Provide scientific and medical evidence that the condition is related to exposure to Agent Orange, **or** <br>
@@ -118,6 +118,8 @@ Scientific proof may include an article from a medical journal or a published re
 
 ## What if I need help filing my claim?
 
-You can get help from a trained professional trusted to help with VA-related claims. <br>
-[Get help filing your claim](/disability/get-help-filing-claim/)
+You can get help from us in one of these ways:
+- Call <a href="tel:+1-800-827-1000">800-827-1000</a> or TTY <a href="tel:+18008778339">800-877-8339</a>, **or**
+- [Go to your nearest VA regional benefit office](/find-locations/), **or**
+- [Get help from a trained professional trusted to help with VA-related claims](/disability/get-help-filing-claim/)
 
