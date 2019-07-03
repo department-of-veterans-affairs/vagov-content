@@ -40,14 +40,14 @@ Review Montgomery GI Bill Active Duty (also called MGIB-AD or Chapter 30) rates 
 
 We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
-All rates in $ U.S. dollars
+All rates in U.S. $
 | **If you're enrolled...** | **We'll pay this amount each month** |
 |--|--|
 | Full-time | 1,994.00 |
-| ¾ time | 1,495.50 |
-| ½ time | 997.00 |
-| Between ¼ and ½ time | 997.00 |
-| ¼ time or less | 498.50 |
+| ¾-time | 1,495.50 |
+| ½-time | 997.00 |
+| Between ¼- and ½-time | 997.00 |
+| ¼-time or less | 498.50 |
 
 **Note:** If you're enrolled less than half-time, we'll pay for your tuition and fees only. You can't receive more than the listed amount.
 
@@ -55,7 +55,7 @@ All rates in $ U.S. dollars
 
 We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
-All rates in $ U.S. dollars
+All rates in U.S. $
 | **If you're at this point in your training...** | **We'll pay this amount each month** |
 |--|--|
 | First 6 months | 1,495.50 |
@@ -80,14 +80,14 @@ full-time for a period. If you’re participating in this program, you'll receiv
 
 We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
-All rates in $ U.S. dollars
+All rates in U.S. $
 | **If you're enrolled...** | **We'll pay this amount each month** |
 |--|--|
 | Full-time | 1,619.00 |
-| ¾ time | 1,214.25 |
-| ½ time | 809.50 |
-| Between ¼ and ½ time | 809.50 |
-| ¼ time or less | 404.75 |
+| ¾-time | 1,214.25 |
+| ½-time | 809.50 |
+| Between ¼- and ½-time | 809.50 |
+| ¼-time or less | 404.75 |
 
 **Note:** If you're enrolled less than half-time, we'll pay for your tuition and fees only. You can't receive more than the listed amount.
 
@@ -95,7 +95,7 @@ All rates in $ U.S. dollars
 
 We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
-All rates in $ U.S. dollars
+All rates in U.S. $
 | **If you're at this point in your training...** | **We'll pay this amount each month** |
 |--|--|
 | First 6 months | 1,214.25 |
@@ -104,7 +104,7 @@ All rates in $ U.S. dollars
 
 ### For correspondence and flight schools
 
-We charge your entitlement at the rate of 1 month for each $1,619.00 paid.
+We charge your entitlement at the rate of 1 month for each **$1,619.00** paid.
 
 ### For cooperative training
 
@@ -137,7 +137,7 @@ The rates are effective **October 1, 2017**.
 
 #### Veterans with no dependents
 
-All rates in $ U.S. dollars
+All rates in U.S. $ 
 | **If you're enrolled...** | **We'll pay this amount each month** |
 
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
@@ -173,7 +173,7 @@ All rates in $ U.S. dollars
 The cooperative training program lets you go to school full-time for a period, and then work full-time for a period. 
 This chart shows you what you’ll receive under this program according to how many dependents you have.
 
-All rates in $ U.S. dollars
+All rates in U.S. $
 
 | **Training period** | **Monthly rate, no dependents** | **Monthly rate, 1 dependent** | **Monthly rate, 2 dependents** | **Monthly rate, each additional dependent** |
 |---|---|---|---|---|
