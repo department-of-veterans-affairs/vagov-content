@@ -7,7 +7,7 @@ description: If you served in Vietnam or in the Korean DMZ during the Vietnam Er
 concurrence: incomplete
 plainlanguage: 10-26-16 certified in compliance with the Plain Language Act
 template: detail-page
-order: 1
+order: 3
 ---
 
 <div class="va-introtext">
