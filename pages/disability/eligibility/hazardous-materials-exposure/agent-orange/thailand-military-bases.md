@@ -12,15 +12,27 @@ order: 5
 
 <div class="va-introtext">
 
-If you had regular security duty on the fenced-in perimeters of a U.S. military base in Thailand or Royal Thai Air Force Bases between January 9, 1962, and May 7, 1975, you may have had contact with Agent Orange. The U.S. military used this herbicide to clear trees and plants during the Vietnam War. Find out if you can get disability compensation or benefits for illnesses believed to be caused by contact with Agent Orange.
+If you had regular security duty on the fenced-in perimeters of a U.S. military base in Thailand or Royal Thai Air Force Bases between January 9, 1962, and May 7, 1975, you may have had contact with Agent Orange. The U.S. military used this herbicide to clear trees and plants during the Vietnam War. We refer to this as a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses we believe are caused by contact with Agent Orange.
 
+</div>
+
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Update for children of Veterans who served in Thailand</h3>
+    <p>The children of Veterans who served in Thailand during the Vietnam War, and who've been diagnosed with spina bifida (except occulta) may now be eligible for disability compensation. This is a result of Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
+    <p><a href="/disability/eligibility/special-claims/birth-defects/">Find out if your child may be eligible for benefits</p>
+  </div>
 </div>
 
 <div class="feature" markdown="1">
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have an illness believed to be caused by Agent Orange and you served perimeter duty in at least one of the places listed below.
+You may be able to get disability benefits if the below descriptions are true for you.
+
+**Both of these must be true. You:**
+- Have an illness we believe is caused by Agent Orange (called a presumptive disease), **and**
+- Served perimeter duty in at least one of the places listed below
 
 **You must have served perimeter duty in at least one of these places:**
 - On RTAF bases in Thailand (including U-Tapao, Ubon, Nakhon Phanom, Udorn, Takhli, Korat, or Don Muang), **or**
@@ -55,6 +67,6 @@ You can get help from a trained professional trusted to help with VA-related cla
 [Get help filing your claim](/disability/get-help-filing-claim/)
 
 ## Get more information
-Want to know more about benefits for Veterans with illnesses believed to be caused by contact with Agent Orange? <br>
+Want to know more about benefits for Veterans with illnesses we believe are caused by contact with Agent Orange? <br>
 [Learn about Agent Orange benefits](https://www.publichealth.va.gov/exposures/agentorange/benefits/index.asp)
 
