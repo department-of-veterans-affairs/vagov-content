@@ -22,7 +22,7 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">Blue Water Navy Veterans and Agent Orange</h3>
     <p>Blue Water Navy Veterans are now entitled to a presumption of service connection for illnesses related to Agent Orange exposure. This is a result of <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
-    <p>Read below to learn more about eligibility requirements and how to file a claim.</p>
+    <p>Read below to learn more about eligibility requirements and how to file a claim, or a decision review request if we denied your claim in the past.</p>
   </div>
 </div>
 
@@ -33,13 +33,13 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
 You may be able to get disability benefits if the below descriptions are true for you.
 
 **This must be true:**
- - You have an illness believed to be caused by Agent Orange (called a presumptive disease)
+ - You have an illness we believe is caused by Agent Orange (called a presumptive disease)
 
 **And at least one of these must also be true. Your military record must show that between January 9, 1962, and May 7, 1975, you:**
 - Were aboard a U.S. military vessel that operated in the inland waterways of Vietnam, **or**
 - Served on a vessel not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in [Public Law 116-23](https://www.congress.gov/bill/116th-congress/house-bill/299/text), the Blue Water Navy Vietnam Veterans Act of 2019)
 
-[Review the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Review our list of diseases related to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <br>
 
@@ -62,11 +62,11 @@ You may be able to get disability benefits if the below descriptions are true fo
 
 You’ll need to file a claim for disability compensation and submit your evidence (supporting documents).<br>
 
-### If you have an illness believed to be caused by Agent Orange
+### If you have an illness we believe is caused by Agent Orange
 
 You won’t need to show that the problem started during—or got worse because of—your military service. This is because we believe that certain diseases are the result of exposure to herbicides. We refer to these as presumptive diseases. <br>
 
-[Review the list of Agent Orange‒related illnesses](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
+[Review our list of diseases related to Agent Orange](/disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/)
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -90,7 +90,7 @@ You won’t need to show that the problem started during—or got worse because 
   </li>
   </ul>
 
-### If you have an illness that’s not on the list of Agent Orange‒related illnesses, but you believe was caused by Agent Orange
+### If you have an illness that’s not on the list of Agent Orange‒related diseases, but you believe was caused by Agent Orange
 
 **You’ll need to:**
 - Provide scientific and medical evidence that the condition is related to exposure to Agent Orange, **or** <br>
@@ -120,6 +120,15 @@ Scientific proof may include an article from a medical journal or a published re
     </div>
   </li>
   </ul>
+
+## What if I'm a Blue Water Navy Veteran, and VA denied my claim in the past?
+
+If we denied your claim because we determined that your disability wasn't caused—or made worse by—your active-duty service, you can file a Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
+[Download VA Form 20-0995](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
+
+If we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment.
+
+**Note:** Survivors and estates can file a claim on behalf of a Blue Water Navy Veteran whose claim was denied in the past.
 
 ## What if I need help filing my claim?
 You can get help from us in one of these ways:
