@@ -26,10 +26,11 @@ In addition to tuition and fee payments, you may be eligible for money to help y
 </div>
 
 ### On this page
-- [How we determine your monthly housing allowance](#determine)
+- [How we determine your monthly housing allowance](#determine-mha)
 - [How rates may change each year](#change)
 
-<span id="determine"></span>
+
+<span id="determine-mha"></span>
 
 ## How we determine your monthly housing allowance
 
@@ -39,7 +40,9 @@ In addition to tuition and fee payments, you may be eligible for money to help y
 - An enlisted personnel with a pay grade of E-5 who has dependents, **and**
 - The zip code of the school campus where you physically attend most of your classes
 
-We'll pay you the full amount each month.
+**Then, we adjust your payment based on how long you served on active duty after September 10, 2001.**
+
+[Use our GI Bill comparison tool](/gi-bill-comparison-tool/) to find out how much money you may be eligible to receive to help pay for housing, depending on your school, benefit program, and service history. You can also find out how much we'll pay for tuition and books.
 
 ### If you're enrolled half-time or more in an approved school located in the United States
 
@@ -49,21 +52,21 @@ We'll pay you the full amount each month.
 
 **Then, we adjust your rate based on your training time (also called your "rate of pursuit"):**
 
-- **For undergraduate programs:** Your school will send us your term dates and credit hours. We'll use this to calculate your rate of pursuit time as a percentage of full-time enrollment (12 semester or quarter hours for most undergraduate programs). For example, if you took two 3-credit classes and a 1-credit lab, your rate of pursuit would be 58% (7 credits taken ÷ 12 credit requirement for full-time enrollment). <br> Some schools offer classes in terms that are shorter than a semester or quarter. This is especially true for online classes and summer enrollments. Other schools offer accelerated terms at brick-and-mortar campuses year-round. In these cases, we
-calculate weighted "equivalent credit hours" so that fewer credits are required for full-time (and more than half-time)
-training.
+- **For undergraduate programs:** Your school will send us your term dates and credit hours. We'll use this to calculate your rate of pursuit time as a percentage of full-time enrollment (12 semester or quarter hours for most undergraduate programs). For example, if you took two 3-credit classes and a 1-credit lab, your rate of pursuit would be 58% (7 credits taken ÷ 12 credit requirement for full-time enrollment). <br> Some schools offer classes in terms that are shorter than a semester or quarter. This is especially true for online classes, summer enrollments. Other schools offer accelerated terms year-round. In these cases, we calculate weighted "equivalent credit hours" so that you'll need fewer credits to qualify for full-time (and more than half-time) enrollment.
 
 - **For graduate programs:** Because graduate-level programs vary in the amount of credits needed for full-time training, the school provides the training time information to us. They also tell us your term dates and credit hours.
 
-**We'll pay you the monthly housing allowance at the nearest 10% level**
+**Then, we round the monthly housing allowance to the nearest 10% level**
 
-Once we calculate your rate of pursuit, we’ll pay you the MHA at the nearest 10% level.
+Once we calculate your rate of pursuit, we round the allowance to the nearest 10% level.
 
 **For example** If your rate of pursuit is 58%, we'll pay you **60% of the applicable housing allowance**. If your rate of pursuit is 84%, we'll pay you **80% of the applicable housing allowance**.
 
+**Then, we adjust your payment based on how long you served on active duty after September 10, 2001.**
+
 ### If you're enrolled at least half-time in an online program or a school in a U.S. territory or foreign country
 
-We'll pay you a specific rate based on the type of school.
+We'll pay you a specific rate based on the type of school. We'll adjust your payment based on how long you served on active duty after September 10, 2001.
 
 All rates in $ U.S. dollars
 | **Type of school** | **Monthly payment** |
@@ -71,6 +74,8 @@ All rates in $ U.S. dollars
 | Foreign school | 1,789.00 |
 | Schools in U.S. territories | Equal to the current Department of Defense overseas housing allowance (OHA) based on: <ul><li>An enlisted personnel with E-5 pay grade, **and**</li><li>Your school's location</li></ul> |
 | Online training with no classroom instruction | 894.50 |
+
+[Use our GI Bill comparison tool](/gi-bill-comparison-tool/) to find out how much money you may be eligible to receive to help pay for housing, depending on your school, benefit program, and service history. You can also find out how much we'll pay for tuition and books.
 
 ------
 
