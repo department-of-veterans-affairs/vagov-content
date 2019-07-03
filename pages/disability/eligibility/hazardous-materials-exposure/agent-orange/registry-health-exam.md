@@ -44,7 +44,7 @@ To schedule your exam, contact your local VA environmental health coordinator. I
 
 ## What should I expect at the exam?
 
-The exam will include:
+**The exam will include:**
 
 - Your history of contact with Agent Orange and other herbicides
 - Your health history (including any major illnesses or surgeries you may have had)
@@ -55,7 +55,7 @@ A VA health care provider will go over your exam and test results with you. You�
 
 ## What else should I know about the exam?
 
-Please note that:
+**You should know that:**
 
 - This exam isn’t a VA claim exam (also known as a compensation and pension, or C&P, exam). And you don’t need to have this exam to get other VA benefits. To get disability benefits, you’ll need to file a claim. <br>
 [Find out how to file a claim for disability compensation](/disability/how-to-file-claim/)
