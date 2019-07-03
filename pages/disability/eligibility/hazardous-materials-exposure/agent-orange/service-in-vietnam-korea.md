@@ -14,7 +14,7 @@ order: 7
 
 Did you serve in Vietnam, including aboard a vessel on the inland waterways or within the 12-mile territorial seas? Did you serve in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era? 
 
-If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation or benefits for illnesses believed to be caused by Agent Orange.
+If you served in either of these locations, you may have had contact with Agent Orange, an herbicide the U.S. military used to clear plants and trees during the war. We refer to this as having a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses believed to be caused by Agent Orange.
 
 </div>
 
