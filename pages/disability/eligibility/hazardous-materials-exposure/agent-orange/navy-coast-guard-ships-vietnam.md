@@ -14,7 +14,7 @@ order: 4
 
 Did you serve on a Blue Water Navy vessel offshore of the Republic of Vietnam, or on another U.S. Navy or Coast Guard ship operating in the coastal waterways of Vietnam, between January 9, 1962, and May 7, 1975? 
 
-If yes, you may have had contact with Agent Orange, an herbicide used to clear trees and plants during the war. We refer to this as a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses believed to be caused by Agent Orange.
+If yes, you may have had contact with Agent Orange, an herbicide used to clear trees and plants during the war. We refer to this as a presumption of contact. Find out if you can get disability compensation and other benefits for illnesses we believe are caused by Agent Orange.
 
 </div>
 
