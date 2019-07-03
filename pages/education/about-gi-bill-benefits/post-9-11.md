@@ -187,15 +187,16 @@ You can use your GI Bill benefits in many ways to advance your education and tra
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-Previously, GI Bill beneficiaries were paid a monthly housing allowance (MHA) based on the main or branch campus of the school they were enrolled. If a student attended classes at more than one location, they were paid the rate that was most advantageous.<br>
+**What is Section 107 (Location-Based Housing Allowance)?**\
+Previously, GI Bill beneficiaries were paid Monthly Housing Allowance (MHA) based on the main or branch campus of the school they were enrolled. If a student attended classes at more than one location, they were paid the rate that was most advantageous.<br>
 
-Now, the MHA is based on the campus location where the student physically attends the majority of his or her classes.
+Now, MHA is based on the campus location **where the student physically attends the majority of his or her classes.**
 
-The VA defines a campus as one of the following:
+VA’s campus definitions:
 
-- Main campus: A location where the primary teaching facilities of an educational institution are located
-- Branch campus: A location of an educational institution that is geographically apart from and operationally independent of the main campus of the educational institution
-- Extension campus: A location that is geographically apart from the main or branch campus but is operationally dependent on that campus for the performance of administrative tasks <br>
+- **Main campus:** A location where the _primary teaching facilities_ of an educational institution are located.
+- **Branch campus:** A location of an educational institution that is _geographically apart_ from and _operationally independent_ of the main campus of the educational institution.
+- **Extension campus:** A location that is _geographically apart_ from the main or branch campus but is _operationally dependent_ on that campus for the performance of administrative tasks. <br>
 
 <h2 itemprop="name">Get more information</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
