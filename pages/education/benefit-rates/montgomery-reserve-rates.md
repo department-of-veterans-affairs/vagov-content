@@ -1,10 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Montgomery GI Bill Selected Reserve Benefit Rates
-heading: Montgomery GI Bill Selected Reserve (Chapter 1606) benefit rates
-display_title:
+title: 2019 Montgomery GI Bill Selected Reserve Rates
+heading: 2019 Montgomery GI Bill Selected Reserve rates
+display_title: MGIB-SR rates
 description: 
+keywords: reserve gi bill rates, chapter 1606 rates, mgib sr rates
 concurrence: 
 spoke: Benefit rates
 order: 3
@@ -22,48 +23,54 @@ relatedlinks:
 
 <div class="va-introtext">
   
-If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National 
-Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve
-(MGIB-SR or Chapter 1606) program. On this page, you’ll learn the monthly payment rates for the MGIB-SR, **effective October 1, 2018**.
+Review Montgomery GI Bill Selected Reserve (MGIB-SR) rates for the 2019 academic year. We also refer to this benefit program as Chapter 1606.
 
-The first chart shows payments covering training you receive in institutions like colleges, universities, and trade schools.
-The second chart shows payments covering apprenticeships and on-the-job training. The amounts are based on the time you’re 
-attending school or training.
+</div>
 
-### Colleges, universities, trade schools, and other learning institutions
+## MGIB-SR rates for colleges, universities, trade schools, and other institutions of higher learning
+**Effective October 1, 2018**
+
+We base your monthly rate (or payment amount) on how many courses you’re taking, up to full-time enrollment. We’ll pay you directly each month.
 
 All rates in $ U.S. dollars
-
-| **If you're enrolled...** | **We'll pay you this amount each month** |
+| **If you're enrolled...** | **We'll pay this amount each month** |
 |--|--|
 | Full-time | 384.00 |
-| 3/4 time | 287.00 |
-| 1/2 time | 191.00 |
-| Less than 1/2 time | 96.00 |
+| 3/4-time | 287.00 |
+| 1/2-time | 191.00 |
+| Less than 1/2-time | 96.00 |
 
-### Apprenticeships and on-the-job training
+## MGIB-SR rates for apprenticeships and on-the-job training
+**Effective October 1, 2018**
 
 All rates in $ U.S. dollars
-
-| **If you're at this point in your training...** | **We'll pay you this amount each month** |
+| **If you're at this point in your training...** | **We'll pay this amount each month** |
 |--|--|
-| First 6 months of training | 288.00 |
-| Second 6 months of training | 211.20 |
-| Remaining training | 134.40 |
+| First 6 month | 288.00 |
+| 6 to 12 months | 211.20 |
+| After 12 months (1 year) | 134.40 |
 
-### Correspondence and flight schools
+## MGIB-SR rates for correspondence schools
+**Effective October 1, 2018**
 
-**Correspondence payments.** We’ll pay **55%** of the approved charges.
+We’ll pay **55%** of the approved charges.
 
-**Flight payments.** We’ll pay **60%** of the approved charges.
+## MGIB-SR rates for flight schools
+**Effective October 1, 2018**
 
-### Cooperative training
+We’ll pay **60%** of the approved charges.
+
+## MGIB-SR rates for cooperative training
 
 The cooperative training program lets you go to school full-time for a period, and then work 
 full-time for a period. If you’re participating in this program, your monthly benefit rate is **$384.00**.
 
-### Can I use the $600 Buy-Up program?
+------
+
+## More information
+
+### Can I get more money each month to help pay for school or training?
 If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly payments. Learn how it works, and what the current rates are.
 
-### I still have questions about my benefits.
+### What if I still have questions about my benefits?
 You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
