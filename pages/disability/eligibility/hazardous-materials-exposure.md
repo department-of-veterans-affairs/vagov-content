@@ -46,7 +46,7 @@ majorlinks:
 
 <div class="va-introtext">
 
-Find out if you can get disability compensation or benefits for illnesses or other conditions, like the ones listed below, believed to be caused by contact with harmful chemicals or other hazardous materials while serving in the military.
+Find out if you can get disability compensation (monthly payments) and other benefits for illnesses or other conditions, like the ones listed below. These are illnesses and conditions we believe may be caused by contact with harmful chemicals or other hazardous materials while serving in the military.
 </div>
 
 <div class="feature" markdown="1">
