@@ -133,7 +133,7 @@ In certain cases, if we approve your claim, we'll pay you back to the date when 
 
 <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
-If you have more questions about this change in law, please read our fact sheet on [Blue Water Navy Veterans and Agent Orange (PDF)](/assets/BWN%20one%20pager%207-5-2019%20V4.pdf).
+If you have more questions about this change in law, please read our fact sheet on <a href="BWN-one-pager-7-5-2019-V4.pdf">Blue Water Navy Veterans and Agent Orange (PDF)</a>.
 
 ## What if I need help filing my claim?
 
