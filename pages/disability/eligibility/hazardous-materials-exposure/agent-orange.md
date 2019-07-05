@@ -95,7 +95,7 @@ You won’t need to show that the problem started during—or got worse because 
         <li>Served aboard a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019), <strong>or</strong></li>
         <li>Were exposed to herbicides in a location other than Vietnam or the Korean Demilitarized Zone</li>
       </ul>
-      <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+      <a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
     </div>
   </li>
   </ul>
@@ -127,7 +127,7 @@ Scientific proof may include an article from a medical journal or a published re
         <li>Served in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971, <strong>or</strong></li>
          <li>Came into contact with Agent Orange in a location other than Vietnam or the Korean Demilitarized Zone</li>
       </ul>
-      <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+      <a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
     </div>
   </li>
   </ul>
