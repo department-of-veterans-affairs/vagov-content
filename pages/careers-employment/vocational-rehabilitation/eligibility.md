@@ -4,7 +4,7 @@ title: Eligibility For VA Vocational Rehab And Employment
 heading: Eligibility for VA Vocational Rehab and Employment
 display_title: Eligibility
 description: Review VA Vocational Rehab and Employment (VR&amp;E) eligibility requirements for Veterans and active-duty service members. If you have a service-connected disability that limits your ability, you may be eligible for vocational rehabilitation services.
-keywords: vocational rehab, vocational rehabilitation eligibility, vocational rehab services, vocational rehab va eligibility 
+keywords: vocational rehab, vocational rehabilitation eligibility, vocational rehab services, vocational rehab va eligibility
 order: 2
 template: detail-page
 majorlinks:
@@ -80,7 +80,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 
 You can apply online right now.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to Apply</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to apply</a>
 
 [Learn more about how to apply for VR&E](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
 **Note:** You can apply even if you're a service member without a disability rating yet.
