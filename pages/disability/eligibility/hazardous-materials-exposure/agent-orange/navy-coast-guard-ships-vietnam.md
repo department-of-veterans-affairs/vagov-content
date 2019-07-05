@@ -133,8 +133,11 @@ In certain cases, if we approve your claim, we'll pay you back to the date when 
 
 **Note:** Survivors and estates can file a claim on behalf of a Blue Water Navy Veteran whose claim we denied in the past.
 
+If you have more questions about this change in law, please read our fact sheet on [Blue Water Navy Veterans and Agent Orange](https://www.documentcloud.org/documents/2706057-Blue-Water-Navy-Fact-Sheet.html).
+
 ## What if I need help filing my claim?
-You can get help from us in one of these ways:
+
+**You can get help from us in one of these ways:**
 - Call <a href="tel:+1-800-827-1000">800-827-1000</a> or TTY <a href="tel:+18008778339">800-877-8339</a>, **or**
 - [Go to your nearest VA regional benefit office](/find-locations/), **or**
 - [Get help from a trained professional trusted to help with VA-related claims](/disability/get-help-filing-claim/)
