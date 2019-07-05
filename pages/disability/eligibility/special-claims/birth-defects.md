@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Birth Defects (Spina Bifida) Linked To Agent Orange
-heading: Birth defects (spina bifida) linked to Agent Orange
+title: Birth Defects Linked To Agent Orange
+heading: Birth defects linked to Agent Orange
 display_title: Birth defects
 description: Learn about VA disability compensation and other benefits for children of Veterans with birth defects related to Agent Orange exposure. If you served in South Vietnam or the Republic of Korea, and your child has spina bifida or certain other birth defects, find out if they qualify for benefits.
 concurrence: complete
@@ -13,7 +13,7 @@ order: 2
 
 <div class="va-introtext">
 
-Spina bifida is a spinal cord birth defect. A baby develops spina bifida while still in the womb. In some cases, a parent’s past contact with specific chemicals causes this birth defect. If you served in South Vietnam or the Republic of Korea—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits. Find out if your child qualifies for benefits.
+Spina bifida is a spinal cord birth defect. A baby develops spina bifida while still in the womb. In some cases, a parent’s past contact with specific chemicals causes this birth defect. If you served in Vietnam or Thailand, or in or near the Korean Demilitarized Zone (DMZ)—and your child has spina bifida or certain other birth defects—your child may be able to get disability benefits. Find out if your child qualifies for benefits.
 
 </div>
 
@@ -26,18 +26,16 @@ Spina bifida is a spinal cord birth defect. A baby develops spina bifida while s
 
 #### For spina bifida
 
-Your child may be able to get disability benefits if they were diagnosed with a form of spina bifida other than spina bifida occulta and the below descriptions are true.
+Your child may be able to get disability benefits if the below descriptions are true.
 
-**One of these descriptions must be true:**
+**One of these must be true. The child’s biological mother or father served in:**
 
-The child’s biological mother or father served in:
+- The Republic of Vietnam or in Thailand for any length of time between January 9, 1962, and May 7, 1975, **or**
+- A unit in or near the Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
 
-- South Vietnam (the Republic of Vietnam) any time from January 9, 1962, through May 7, 1975, **or**
-- Certain units in the Korean Demilitarized Zone (DMZ) any time from April 1, 1968, through August 31, 1971
-
-**And this must be true:**
-
-The child was conceived after the parent served in either South Vietnam or the Republic of Korea.
+**And both of these must be true. The child was:**
+- Diagnosed with a form of spina bifida other than spina bifida occulta, **and**
+- Conceived after the parent first entered the Republic of Vietnam, Thailand, or the Korean Demilitarized Zone during the qualifying time periods listed above
 
 **Note**: Your character of discharge and length of service don't affect your child's eligibility for disability benefits relating to spina bifida.
 
@@ -48,8 +46,8 @@ The child was conceived after the parent served in either South Vietnam or the R
 Your child may be able to get disability benefits if they have a covered birth defect that caused a permanent physical or mental disability (a disability that doesn’t go away) and both of the below descriptions are true.
 
 **Both of these must be true:**
-- The child’s biological mother served in South Vietnam any time from January 9, 1962, through May 7, 1975, **and**
-- The child was conceived after the mother served in South Vietnam
+- The child’s biological mother served in Vietnam any time from January 9, 1962, through May 7, 1975, **and**
+- The child was conceived after the mother first entered the Republic of Vietnam during the time period listed above
 
 [See the list of covered birth defects](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/children-women-vietnam-vets.asp)
 
@@ -62,20 +60,19 @@ Your child may be able to get disability benefits if they have a covered birth d
 
 </div>
 
-## What kind of disability benefits can my child get?
+## What kind of benefits can my child get?
 
 -	Health care
 -	Compensation (payments)
--	Job training
+-	Job training (also called Vocational Rehabilitation and Employment, or VR&E)
 
 --------
 
 ## How do I get these benefits for my child?
 
-
 **You'll need to file a claim on behalf of your child and submit this evidence:**
 - A document showing the biological relationship between the child and the Veteran parent, **and**
-- Service records that prove the Veteran served in Vietnam or Korea during the qualifying dates listed above, **and**
+- Service records that prove the Veteran served in Vietnam or Thailand, or in or near the Korean Demilitarized Zone during the qualifying dates listed above, **and**
 - The child's birth certificate, **and**
 - Medical records with the diagnosis of spina bifida or another covered birth defect
 
