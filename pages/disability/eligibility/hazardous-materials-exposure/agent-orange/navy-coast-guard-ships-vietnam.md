@@ -22,7 +22,7 @@ If yes, you may have had contact with Agent Orange, an herbicide used to clear t
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">Blue Water Navy Veterans and Agent Orange</h3>
     <p>Blue Water Navy Veterans are now entitled to a presumption of service connection for illnesses related to Agent Orange exposure. This is a result of <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019. The law was signed on June 25, 2019, and takes effect on January 1, 2020.</p>
-    <p>Read below to learn more about eligibility requirements and how to file a claim, or a decision review request if we denied your claim in the past.</p>
+    <p>Read below to learn more about eligibility requirements and how to file a claim. If we denied your claim in the past, you can file a new claim based on this change in law.</p>
   </div>
 </div>
 
@@ -89,6 +89,8 @@ You won’t need to show that the problem started during—or got worse because 
     </div>
   </li>
   </ul>
+  
+<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
 ### If you have an illness that’s not on the list of Agent Orange‒related diseases, but you believe was caused by Agent Orange
 
@@ -121,12 +123,13 @@ Scientific proof may include an article from a medical journal or a published re
   </li>
   </ul>
 
+<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+
 ## What if I'm a Blue Water Navy Veteran, and VA denied my claim in the past?
 
-If we denied your claim because we determined that your disability wasn't caused—or made worse—by your active-duty service, you can file a Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
-[Download VA Form 20-0995 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
+If we denied your claim because we determined that your disability wasn't caused—or made worse—by your active-duty service, you can file a new claim based on the change in law. 
 
-If we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment.
+In certain cases, if we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment.
 
 **Note:** Survivors and estates can file a claim on behalf of a Blue Water Navy Veteran whose claim we denied in the past.
 
