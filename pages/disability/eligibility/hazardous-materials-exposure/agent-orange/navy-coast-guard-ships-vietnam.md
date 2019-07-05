@@ -123,7 +123,7 @@ Scientific proof may include an article from a medical journal or a published re
 
 ## What if I'm a Blue Water Navy Veteran, and VA denied my claim in the past?
 
-If we denied your claim because we determined that your disability wasn't caused—or made worse by—your active-duty service, you can file a Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
+If we denied your claim because we determined that your disability wasn't caused—or made worse—by your active-duty service, you can file a Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
 [Download VA Form 20-0995 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
 
 If we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment.
