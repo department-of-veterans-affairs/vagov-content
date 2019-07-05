@@ -131,7 +131,9 @@ If we denied your claim because we determined that your disability wasn't caused
 
 In certain cases, if we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment.
 
-**Note:** Survivors and estates can file a claim on behalf of a Blue Water Navy Veteran whose claim we denied in the past.
+**Note:** Survivors and estates can file a claim on behalf of a Blue Water Navy Veteran whose claim we denied in the past. <br>
+
+<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
 If you have more questions about this change in law, please read our fact sheet on [Blue Water Navy Veterans and Agent Orange](https://www.documentcloud.org/documents/2706057-Blue-Water-Navy-Fact-Sheet.html).
 
