@@ -13,13 +13,13 @@ majorlinks:
     links:
     - url: /disability/eligibility/hazardous-materials-exposure/agent-orange/
       title: Agent Orange
-      description: If you served in or near Vietnam during the Vietnam Era—or in certain related jobs—you may have had contact with Agent Orange, an herbicide used to clear plants and trees during the war.
+      description: If you served in the Republic of Vietnam or in or near the Korean Demilitarized Zone (DMZ) during the Vietnam Era—or in certain related jobs—you may have had contact with Agent Orange, an herbicide used to clear plants and trees during the war.
     - url: /disability/eligibility/hazardous-materials-exposure/asbestos/
       title: Asbestos
       description: If you worked in certain military jobs, you may have had contact with asbestos (toxic fibers once used in many buildings and products).
     - url: /disability/eligibility/special-claims/birth-defects/
       title: Birth defects like spina bifida
-      description: If you served in South Vietnam or the Republic of Korea during certain time periods, you may have had contact with chemicals like Agent Orange believed to cause birth defects in the children of Veterans.
+      description: If you served in the Republic of Vietnam, in Thailand, or in or near the Korean Demilitarized Zone during the Vietnam Era—and your child has spina bifida or certain other birth defects—your child may be eligible for disability benefits.
     - url: /disability/eligibility/hazardous-materials-exposure/mustard-gas-lewisite/
       title: Contact with mustard gas or lewisite
       description: If you served at the German bombing of Bari, Italy, in World War II or worked in certain other jobs, you may have had contact with mustard gas.
