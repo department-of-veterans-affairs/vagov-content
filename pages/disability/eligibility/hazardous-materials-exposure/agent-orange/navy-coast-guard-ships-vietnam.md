@@ -85,12 +85,12 @@ You won’t need to show that the problem started during—or got worse because 
         <li>Were aboard one of the U.S. Navy or Coast Guard ships that entered the inland waterways, <strong>or</strong></li>
         <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This may include serving aboard a vessel on the inland waterways, or on a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019).</li>
       </ul>
-      <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+      <a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
     </div>
   </li>
   </ul>
   
-<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+<a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
 ### If you have an illness that’s not on the list of Agent Orange‒related diseases, but you believe was caused by Agent Orange
 
@@ -118,12 +118,12 @@ Scientific proof may include an article from a medical journal or a published re
         <li>Were aboard one of the U.S. Navy or Coast Guard ships that entered the inland waterways, <strong>or</strong></li>
         <li>Served in the Republic of Vietnam for any length of time between January 9, 1962, and May 7, 1975. This may include serving aboard a vessel on the inland waterways, or on a vessel operating not more than 12 nautical miles seaward from the demarcation line of the waters of Vietnam and Cambodia (as detailed in <a href="https://www.congress.gov/bill/116th-congress/house-bill/299/text">Public Law 116-23</a>, the Blue Water Navy Vietnam Veterans Act of 2019).</li>
       </ul>
-      <a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+      <a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
     </div>
   </li>
   </ul>
 
-<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+<a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
 ## What if I'm a Blue Water Navy Veteran, and VA denied my claim in the past?
 
@@ -131,7 +131,7 @@ If we denied your claim because we determined that your disability wasn't caused
 
 In certain cases, if we approve your claim, we'll pay you back to the date when you submitted your original claim. We refer to this as retroactive payment. <br>
 
-<a href="https://vagov-content-pr-407.herokuapp.com/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
+<a href="/disability/how-to-file-claim/">Find out how to file a claim for disability compensation</a>
 
 If you have more questions about this change in law, please read our fact sheet on <a href="/BWN-one-pager-7-5-2019-V4.pdf">Blue Water Navy Veterans and Agent Orange (PDF)</a>.
 
