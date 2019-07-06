@@ -10,24 +10,7 @@ concurrence: incomplete
 spoke: More Resources
 order: 10
 relatedlinks:
-  - heading: Types of VA Education Benefits
-    links:
-    - url: /education/about-gi-bill-benefits/post-9-11
-      title: Post-9/11 GI Bill (Chapter 33)
-      description: If you need help paying for school or job training and you’ve served on active duty after September 10, 2001, you may qualify for the Post-9/11 GI Bill. 
-    - url: /education/about-gi-bill-benefits/montgomery-active-duty
-      title: Montgomery GI Bill Active Duty (MGIB-AD)
-      description: If you've served at least 2 years on active duty, find out if you qualify for the Montgomery GI Bill Active Duty (MGIB-AD) program.
-    - url: /education/about-gi-bill-benefits/montgomery-selected-reserve
-      title: Montgomery GI Bill Selected Reserve (MGIB-SR)
-      description: If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. 
-    - url: /education/other-va-education-benefits/veap
-      title: Veterans’ Educational Assistance Program (VEAP)
-      description: You may be able to continue your education by using part of your military pay to help cover the cost of school. 
-    - url: /education/survivor-dependent-benefits/dependents-education-assistance
-      title: Survivors’ and Dependents’ Educational Assistance Program (DEA)
-      description: If you’re the child or spouse of a Veteran or Servicemember who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
-  - heading: Benefit Rates and Ways You Can Use Your Benefits
+  - heading: More helpful information
     links:
     - url: /education/benefit-rates/
       title: Rates
@@ -65,18 +48,19 @@ VA education benefits are available to:
 
 <h2>Compare eligibility requirements</h2>
 
-| Eligibility criteria | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
+| Eligibility requirement | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
 | --- | ---- | ---- | ---- | ---- | ---- |
 | <strong>Qualifying service period</strong> | On or after September 10, 2001 | Varies | After June 30, 1985 | between December 31, 1976 and July 1, 1985 | None |
-| <strong>Minimum length of active-duty service</strong> | 90 days total, <strong>or</strong><br> 30 days without a break if honorably discharged with service-connected disability | 2 to 4 years <br> (varies by service period, branch, and other factors) | 6 years | 181 days without a break <br> (varies by service period) | None |
+| <strong>Minimum length of active-duty service</strong> | <ul><li>90 days total, <strong>or</strong></li><li>30 days without a break if honorably discharged with service-connected disability</li></ul> | 2 to 4 years <br> (varies by service period, branch, and other factors) | 6 years | 181 days without a break <br> (varies by service period) | None |
 
 <h2>Compare benefit payment terms</h2>
 
 | Payment terms | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
 | --- | ---- | ---- | ---- | ---- | ---- |
 | <strong>How long you can get this benefit</strong> <br><br><strong>Note:</strong> If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
-| <strong>How we pay these benefits</strong> | <strong>Tuition:</strong> Paid to school directly <br> <strong>Housing allowance:</strong> Paid to student monthly<br><strong>Books and supplies stipend:</strong> Paid to student at the beginning of school term | Paid to student monthly | Paid to student monthly | Paid to student | Paid to student monthly |
-| <strong>How much time you have to claim this benefit</strong> | <strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day,<strong>or</strong><br><strong>If last day of active duty was on or after January 1, 2013:</strong> No time limit | 10 years from last day of active duty (may vary) | Eligibility ends the day you leave Selected Reserve (with some exceptions) | 10 years from last day of active duty | <strong>Spouses:</strong> 10-20 years (may vary)<br><strong>Children:</strong> Qualify on their 18th birthday, and can use this benefit until their 26th birthday (may vary). |
+| <strong>How we pay benefits for tuition and fees</strong> | Paid to school directly | Paid to student monthly | Paid to student monthly | Paid to student monthly | Paid to student monthly |
+| <strong>Added payments</strong> | <ul><li><strong>Housing allowance:</strong> Paid to student monthly</li><li><strong>Books and supplies stipend:</strong> Paid to student at the beginning of school term</li></ul> | None | None | None | None |
+| <strong>How much time you have to claim this benefit</strong> | <ul><li>strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day,<strong>or</strong></li><li><strong>If last day of active duty was on or after January 1, 2013:</strong> No time limit</li></ul> | 10 years from last day of active duty (may vary) | Eligibility ends the day you leave Selected Reserve (with some exceptions) | 10 years from last day of active duty | <strong>Spouses:</strong> 10-20 years (may vary)<br><strong>Children:</strong> Qualify on their 18th birthday, and can use this benefit until their 26th birthday (may vary). |
   
 <h2>Compare how you can use your education and training benefits</h2>
 
@@ -90,12 +74,12 @@ VA education benefits are available to:
 | <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> We can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
+| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> We can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military. | Yes | Yes | Yes | Yes | Yes |
 
 
 <h2>Get more details about specific benefit programs</h2>
 
-Learn more about the:
+**Learn more about the:**
 - [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)
 - [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)
 - [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)
