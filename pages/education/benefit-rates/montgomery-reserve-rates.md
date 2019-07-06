@@ -4,20 +4,26 @@ template: detail-page
 title: 2019 Montgomery GI Bill Selected Reserve Rates
 heading: 2019 Montgomery GI Bill Selected Reserve rates
 display_title: MGIB-SR rates
-description: 
+description: Review Montgomery GI Bill Selected Reserve (MGIB-SR) rates for the 2019 academic year. We also refer to this benefit program as Chapter 1606.
 keywords: reserve gi bill rates, chapter 1606 rates, mgib sr rates
 concurrence: 
 spoke: Benefit rates
 order: 3
 relatedlinks:
-  - heading: Other helpful education benefit resources
+  - heading: More helpful tools and information
     links:
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/
-      title: How to use your benefits
-      description: Learn all the types of educational benefits you can use with your GI Bill coverage. 
+    - url: /education/about-gi-bill-benefits/montgomery-active-duty/buy-up/
+      title: $600 Montgomery GI Bill Buy-Up program
+      description: Find out how to get more money each month with your GI Bill benefits.      
     - url: /gi-bill-comparison-tool/
       title: GI Bill Comparison Tool
       description: Learn about education programs and compare benefits by school.
+    - url: /va-payment-history/
+      title: Review your VA payment history    
+      description: Review your payment history for VA education and other benefits.    
+    - url: /change-direct-deposit/
+      description: Change your VA direct deposit information
+      description: Find out how to change your GI Bill direct deposit and contact information.  
 
 ---
 
@@ -40,8 +46,13 @@ All rates in $ U.S. dollars
 | 1/2-time | 191.00 |
 | Less than 1/2-time | 96.00 |
 
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+
+------
 ## MGIB-SR rates for apprenticeships and on-the-job training
 **Effective October 1, 2018**
+
+We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
 | **If you're at this point in your training...** | **We'll pay this amount each month** |
@@ -50,27 +61,20 @@ All rates in $ U.S. dollars
 | 6 to 12 months | 211.20 |
 | After 12 months (1 year) | 134.40 |
 
-## MGIB-SR rates for correspondence schools
-**Effective October 1, 2018**
-
-We’ll pay **55%** of the approved charges.
-
-## MGIB-SR rates for flight schools
-**Effective October 1, 2018**
-
-We’ll pay **60%** of the approved charges.
-
-## MGIB-SR rates for cooperative training
-
-The cooperative training program lets you go to school full-time for a period, and then work 
-full-time for a period. If you’re participating in this program, your monthly benefit rate is **$384.00**.
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
 
 ------
+## MGIB-SR rates for other types of education and training
+**Effective October 1, 2018**
 
-## More information
+### Correspondence schools
+We’ll pay **55%** of the approved charges for distance-learning courses.
 
-### Can I get more money each month to help pay for school or training?
-If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly payments. Learn how it works, and what the current rates are.
+### Flight schools
+We’ll pay **60%** of the approved charges for flight training.
 
-### What if I still have questions about my benefits?
-You can call <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. (ET). 
+### Cooperative training
+The cooperative training program lets you go to school full-time for a period, and then work 
+full-time for a period. If you’re participating in this program, we'll pay up to **$384.00** each month for courses at approved schools.
+
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
