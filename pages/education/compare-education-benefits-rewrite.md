@@ -63,14 +63,25 @@ VA education benefits are available to:
 - If you’re eligible for the Post-9/11 GI Bill and 2 or more additional education benefits, you must give up one of the additional education benefits. However, you may remain eligible for the benefit or benefits you didn't give up.
 
 
-<h2>Compare Education Benefits</h2>
+<h2>Compare eligibility requirements</h2>
 
-|  | [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) | [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/) | [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) | [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/) | [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) |
-| --- | --- | --- | --- | --- | --- |
-| <strong>Minimum length of service you need to get this benefit</strong> | <ul><li>90 days active duty (either all at once or with breaks in service) on or after September 11, 2001 <br><br><strong>or</strong></ul></li> <br> <ul><li>30 days continuous (without a break) service if honorably discharged with service-connected disability on or after September 11, 2001</ul></li> | 2-4 years (minimum duty may vary) | 6-year service obligation (you agreed to serve 6 years) after June 30, 1985 | 181 continuous (without a break) days active service between December 31, 1976 and July 1, 1985 (minimum duty may vary) | N/A |
+| Eligibility criteria | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
+| --- | ---- | ---- | ---- | ---- | ---- |
+| <strong>Qualifying service period</strong> | On or after September 10, 2001  |  | After June 30, 1985 | between December 31, 1976 and July 1, 1985 |
+| <strong>Minimum length of active-duty service</strong> | <ul><li>90 days total <br><strong>or</strong></ul></li> <br> <ul><li>30 days continuous if honorably discharged with service-connected disability</ul></li> | 2 to 4 years <br> (minimum duty may vary) | 6 years | 181 continuous <br> (minimum duty may vary) | N/A |
+
+<h2>Compare length of benefits</h2>
+
+|  | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
 | <strong>How long you can get this benefit</strong> <br><br><strong>Note:</strong> If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
 | <strong>How we pay these benefits</strong> | <ul><li><strong>Tuition:</strong> Paid to school directly</ul></li> <br> <ul><li><strong>Housing stipend:</strong> Paid to student monthly</ul></li><br><ul><li><strong>Books & supplies:</strong> Paid to student at the beginning of school term | Paid to student monthly | Paid to student monthly | Paid to student | Paid to student monthly |
   | <strong>How much time you have to claim this benefit</strong> | <ul><li><strong>15 years</strong> from last day of active duty if last day was before January 1, 2013</ul></li> <br><strong>or</strong><br><br> <ul><li><strong>No time limit</strong> if last day of active duty was on or after January 1, 2013</ul></li> | 10 years from last day of active duty (may vary) | Eligibility ends the day you leave Selected Reserve (with some exceptions) | 10 years from last day of active duty | <ul><li><strong>Spouses:</strong> 10-20 years (may vary)</ul></li><br> <ul><li> <strong>Children:</strong> Qualify on their 18th birthday, and can use this benefit until their 26th birthday (may vary). |
+  
+<h2>Compare how you can use your education and training benefits</h2>
+
+| Type of school or training | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
+| --- | --- | --- | --- | --- | --- |
+
 | <strong>Degree training</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Non-college degree draining</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>On-the-job & apprenticeship training</strong> | Yes | Yes | Yes | Yes | Yes |
@@ -79,8 +90,17 @@ VA education benefits are available to:
 | <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
 | <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> VA can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
-| <strong>Learn more</strong> | [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) | [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/) | [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) | [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/) | [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) |
+| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> We can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military) | Yes | Yes | Yes | Yes | Yes |
+
+
+<h2>Get more details about specific benefit programs</h2>
+
+Learn more about the:
+- [Post-9/11 GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)
+- [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)
+- [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)
+- [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/)
+- [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) |
 
 
 
