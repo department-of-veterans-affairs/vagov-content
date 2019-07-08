@@ -22,14 +22,14 @@ We assign you a disability rating based on the severity of your disability. We u
 
 ## What does VA use to decide my disability rating?
 
-We base your rating on:
+**We base your rating on:**
 
 - The evidence you give us (like a doctor’s report or medical test results), **and**
 - The results of your VA claim (C&P) exam (if we determine you need this exam), **and**
 - Other information we may get from other sources (like federal agencies)
 
-If you have more than one disability, we use a combined ratings table to calculate your disability percentage. <br>
-[View the combined ratings table](https://www.benefits.va.gov/COMPENSATION/rates-index.asp#combinedRatingsTable1)
+### If you have 2 or more disabilities
+We use a combined ratings table to calculate your disability percentage. To determine your combined rating, [review our combined ratings table](https://www.benefits.va.gov/COMPENSATION/rates-index.asp#combinedRatingsTable1), or use our combined disability rating calculator below.
 
 To learn more about how disability ratings work, you can watch our video about how we decide your rating: <br>
 [Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg)
@@ -47,7 +47,6 @@ Yes. We may increase your monthly payments if one or more of these is true for y
 - Very severe disability or loss of limb, **or**
 - Spouse, child, or dependent parent and your combined disability is 30% or greater, **or**
 - Spouse with a serious disability
-
 
 ## Is there anything else that might affect my compensation amount?
 
