@@ -27,10 +27,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-If you were receiving GI Bill education benefits, but your school either closed or it was removed from eligibility (also 
-called “disapproving”), you may be able to get your benefits again. The Harry W. Colmery Veterans Educational Assistance Act 
-of 2017, also called the Forever GI Bill, lets us restore these benefits to you. This page will help you understand how to get
-these education benefits restored.
+If you were receiving GI Bill education benefits, but your school either closed or lost its approval to receive payments from us (also called disapproved), you may be able to get your benefits again. Find out how we may be able to restore your benefits based on the The Harry W. Colmery Veterans Educational Assistance Act of 2017 (also called the Forever GI Bill).
 
 </div>
 
@@ -44,13 +41,11 @@ and those whose school terms began after July 1, 2017.
 To remain approved for VA’s GI Bill programs, schools must charge in-state tuition and fee amounts to Veterans 
 receiving these benefits.
 
-[Learn more about how programs are approved and disapproved.](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/application%20approval%20or%20disapproval/session/L3RpbWUvMTU1NDY4Mjk3MS9zaWQvaHNVbmxIYm8%3D)
+[Learn more about how programs are approved and disapproved](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/application%20approval%20or%20disapproval/session/L3RpbWUvMTU1NDY4Mjk3MS9zaWQvaHNVbmxIYm8%3D)
 
 ### Do I qualify to get these benefits reinstated?
 
-If you attended a college or university (also called an institution of higher learning) from January 1, 2015, to August 16, 
-2017, using your GI Bill benefits, and you haven’t transferred any of your credits to another college, you may qualify. We 
-may be able to restore the entitlement you used for the term you were attending that stopped before its scheduled end date.
+If you attended a college or university (also called an institution of higher learning) from January 1, 2015, to August 16, 2017, using your GI Bill benefits, and you haven’t transferred any of your credits to another college, you may qualify. We may be able to restore the entitlement you used for the term you were attending that stopped before its scheduled end date.
 This may have happened because the program or school closed or was disapproved. Or the school may have been removed from 
 the program.
 
