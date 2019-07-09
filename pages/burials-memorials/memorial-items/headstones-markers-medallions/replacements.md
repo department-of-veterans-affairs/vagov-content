@@ -57,7 +57,7 @@ We'll replace a government-issued headstone or marker, at no cost to you, for an
 - It was damaged during shipping
 - It doesn't meet the contract requirements
 
-**We won't cover the cost of replacing a government-issued headstone or marker if** the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case the private cemetery is responsible for paying all replacement costs. 
+**We won't cover the cost of replacing a government-issued headstone or marker if** the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case, the private cemetery is responsible for paying all replacement costs. 
 
 ## Will the replacement headstone or marker look the same as the original?
 
