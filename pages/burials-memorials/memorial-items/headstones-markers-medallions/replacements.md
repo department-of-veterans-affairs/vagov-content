@@ -10,20 +10,20 @@ relatedlinks:
   - heading: Other helpful information
     links:
     - url: /burials-memorials/plan-a-burial/
-      title: Plan a burial
+      title: Schedule a burial
       description: Find out what steps to take to plan a burial for a Veteran, spouse, or dependent family member.
     - url: /burials-memorials/pre-need-eligibility/
       title: Pre-need eligibility
       description: Find out in advance if you can be buried in a VA national cemetery. 
     - url: /burials-memorials/memorial-items/headstones-markers-medallions/
-      title: Request Veterans Headstones, Grave Markers, and Medallions
-      description: Find out how to apply for a headstone, grave marker, or medallion to honor a Veteran or eligible family member.
+      title: Request Veterans headstones, markers, and medallions
+      description: Find out how to apply for a headstone, marker, or medallion to honor a Veteran or eligible family member.
     - url: /burials-memorials/veterans-burial-allowance/
-      title: How to Apply for a Veterans Burial Allowance
+      title: How to apply for a Veterans burial allowance
       description: Learn how to apply for help paying for a Veteran's burial and funeral costs.
     - url: /burials-memorials/dependency-indemnity-compensation/
-      title: Compensation for Surviving Spouses and Dependents
-      description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
+      title: Compensation for surviving spouse and dependents
+      description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (VA DIC).
 ---
 
 <div class="va-introtext">
@@ -32,28 +32,28 @@ Learn how to request a replacement headstone or gravemarker.
 
 ## How do I request a replacement headstone or marker? 
 
-Contact the Memorial Products Service Application Assistance Unit. You'll need to give us this information:
+Contact the Memorial Products Service Application Assistance Unit. You'll need to provide this information about the Veteran:
 
-- Veteran's name
-- Veteran's Social Security Number or service number
+- Name
+- Social Security number or service number
 - Date of death 
 
-##### By phone
+### By phone
 
 Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. Our hours of operation are Monday - Friday, 8:00 a.m. to 5:00 p.m. ET.
 
-##### Online
+### Online
 
-[Submit a question to us online.](https://iris.custhelp.va.gov/app/ask)
+[Submit a question to us online](https://iris.custhelp.va.gov/app/ask)
 
-## Under what circumstances will the government replace a headstone or marker?
+## When can a govenment headstone or marker replaced?
 
-###### We'll cover the cost of replacing a government-issued headstone or marker if:
+You can get a government-issued headstone or marker replaced, at no cost to you, if:
 
-- Its condition has worsened over time 
-- The inscription cannot be read
-- The inscription is incorrect
-- It has been stolen or vandalized
+- Its condition has gotten worse over time 
+- The inscription is no longer clearly visible
+- The inscription isn't correct
+- It was stolen or vandalized
 - It was damaged during shipping
 - It doesn't meet the contract requirements
 
