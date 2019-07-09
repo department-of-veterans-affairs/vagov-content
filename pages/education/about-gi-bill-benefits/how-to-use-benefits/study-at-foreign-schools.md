@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Foreign Programs
 heading: Foreign programs
+display_title: Foreign programs
 plainlanguage: 11-28-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
