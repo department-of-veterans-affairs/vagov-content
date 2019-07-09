@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Entrepreneurship Training
 heading: Entrepreneurship training
+display_title: Entrepreneurship training
 order: 10
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 template: detail-page
