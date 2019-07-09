@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Co-op Training
 heading: Co-op training
+display_title: Co-op training
 concurrence: complete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 12
