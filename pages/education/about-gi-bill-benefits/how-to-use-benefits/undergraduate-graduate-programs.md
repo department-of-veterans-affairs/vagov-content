@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Undergraduate And Graduate Degrees
 heading: Undergraduate and graduate degrees
+display_title: Undergraduate and graduate degrees
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 1
