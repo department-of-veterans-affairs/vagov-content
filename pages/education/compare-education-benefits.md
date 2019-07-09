@@ -12,66 +12,70 @@ order: 10
 relatedlinks:
   - heading: More helpful information
     links:
-    - url: /education/benefit-rates/
-      title: VA education benefit rates
-      description: Learn more about education benefit rates for tuition and books for qualifying Veterans and their family members.
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/study-at-foreign-schools/
-      title: Foreign Programs
-      description: If you plan to study at a foreign school, find out how you can use VA benefits to cover your tuition and fees.
-    - url: /education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/
-      title: Undergraduate and Graduate Degrees from Institutions of Higher Learning
-      description: If you’re looking to earn an undergraduate or graduate degree, find out if you can get VA benefits to help pay for courses.
+    - url: /gi-bill-comparison-tool/
+      title: GI Bill Comparison Tool
+      description: Learn about education programs and compare benefits by school.    
+    - url: /education/how-to-apply/
+      title: How to apply
+      description: Learn how to apply for VA education benefits as a Veteran, service member, or qualified family member.      
+    - url: /education/choosing-a-school/
+      title: Choosing GI Bill approved schools
+      description: Get links to VA and non-VA resources for guidance in choosing a college or training program.
+    - url: /careers-employment/education-and-career-counseling/
+      title: Educational and career counseling
+      description: Find out if you're eligible for free counseling to help you find a training program or job.  
 
 ---
 
 <div class="va-introtext">
 
-Compare VA education benefits using the table below. Learn about the different types of VA education benefits and find out which ones you may be eligible for.
+Compare VA education benefits to decide which program may be right for you.
 </div>
 
 <h2>What you should know when comparing VA education benefits</h2>
 
 - You can only choose one education benefit to use, even if you're eligible for 2.
-- Once you choose which benefit you’ll use, you can't change your mind
+- Once you choose a benefit program, we consider your decision final. You can't change your mind.
 - If you’re eligible for the Post-9/11 GI Bill and 2 or more other VA education benefits, you must give up one of the other education benefits. You may still be eligible for the benefit or benefits you didn't give up.
+
+If you have questions about your options, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. Or go to our [GI Bill customer service website](https://gibill.custhelp.va.gov/) to read frequently asked questions or sign in to ask your own question online.
 
 <h2>Compare eligibility requirements</h2>
 
 | Eligibility requirement | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
-| --- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | <strong>Qualifying service period</strong> | On or after September 10, 2001 | Varies | After June 30, 1985 | between December 31, 1976 and July 1, 1985 | None |
-| <strong>Minimum service requirement</strong> | <ul><li>90 days total active-duty service, <strong>or</strong></li><li>30 days active-duty service without a break if you were honorably discharged with a service-connected disability, <strong>or</strong></li><li>No minimum requirement if you received a Purple Heart and were honorably discharged</li></ul> | 2 to 4 years active-duty service <br> (varies by service period, branch, and other factors) | <ul><li>6-year obligation, <strong>or</li></li>6 years of service in addition to initial service obligation if you're an officer</li></ul> | 181 days active-duty service without a break <br> (varies by service period) | None |
+| <strong>Minimum service requirement</strong> | <ul><li>90 days total active-duty service, <strong>or</strong></li><li>30 days active-duty service without a break if you were honorably discharged with a service-connected disability, <strong>or</strong></li><li>No minimum requirement if you received a Purple Heart and were honorably discharged</li></ul> | 2 to 4 years active-duty service <br> (varies by service period, branch, and other factors) | <ul><li>6-year obligation, <strong>or</strong></li></li>6 years of service in addition to initial service obligation if you're an officer</li></ul> | 181 days active-duty service without a break <br> (varies by service period) | None |
 | <strong>Other eligibility requirements</strong> | None | Yes <br> [Review requirements](/education/about-gi-bill-benefits/montgomery-active-duty/) | Yes <br> [Review requirements](/education/about-gi-bill-benefits/montgomery-selected-reserve/) | Yes <br> [Review requirements](/education/other-va-education-benefits/veap/) | Yes <br> [Review requirements](/education/survivor-dependent-benefits/)  |    
 
 <h2>Compare benefit payment terms</h2>
 
 | Payment terms | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
-| --- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | <strong>How many months of benefits you can get</strong> <br><br><strong>Note:</strong> If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 45 months |
-| <strong>How much time you have to claim this benefit</strong> | <ul><li>strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day,<strong>or</strong></li><li><strong>If last day of active duty was on or after January 1, 2013:</strong> No time limit</li></ul> | 10 years from last day of active duty (may vary) | Eligibility ends the day you leave Selected Reserve (with some exceptions) | 10 years from last day of active duty | <strong>Spouses:</strong> 10 to 20 years (varies)<br><strong>Children:</strong> Between the ages of 18 and 26 (with some exceptions). |
-| <strong>How we pay benefits for tuition and fees</strong> | Paid to school directly | Paid to student monthly | Paid to student monthly | Paid to student monthly | Paid to student monthly |
+| <strong>How much time you have to claim this benefit</strong> | <ul><li><strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day,<strong>or</strong></li><li><strong>If last day of active duty was on or after January 1, 2013:</strong> No time limit</li></ul> | 10 years from last day on active duty <br> (may vary) | Eligibility ends the day you leave the Selected Reserve <br> (with some exceptions) | 10 years from last day of active duty | <strong>Spouses:</strong> 10 to 20 years <br> (varies based on situation)<br><strong>Children:</strong> Between the ages of 18 and 26 <br> (with some exceptions) |
+| <strong>How we pay benefits for tuition and fees</strong> | Paid to school directly <br> [Review payments rates](/education/benefit-rates/post-9-11-rates/)| Paid to student monthly <br> [Review payment rates](/education/benefit-rates/montgomery-active-duty-rates/) | Paid to student monthly <br> [Review payment rates](/education/benefit-rates/montgomery-reserve-rates/) | Paid to student monthly <br> [Rate depends on money put into account](/education/other-va-education-benefits/veap/) | Paid to student monthly <br> [Review payment rates](/education/benefit-rates/dea-rates/)|
 | <strong>Separate payments for housing, books, and supplies</strong> | Yes <br> <ul><li><strong>Housing allowance:</strong> Paid to student monthly</li><li><strong>Books and supplies stipend:</strong> Paid to student at the beginning of school term</li></ul> | None | None | None | None |
-| <strong>Ways to get more funding</strong> | <ul><li>[Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/), <strong>or</strong></li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/</li></ul> | <ul><li>[$600 Montgomery GI Bill Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)</li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/</li></ul> | <ul><li>[$600 Montgomery GI Bill Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)</li></ul> | None | None |
-
+| <strong>Ways to get more funding</strong> | <ul><li>[Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/), <strong>or</strong></li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)</li></ul> | <ul><li>[$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)</li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)</li></ul> | <ul><li>[$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)</li></ul> | None | None |
   
 <h2>Compare how you can use your benefits</h2>
 
 | Type of school or training | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
 | --- | --- | --- | --- | --- | --- |
-| <strong>Undergraduate and graduate degrees</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Foreign school programs</strong> | Yes | Yes | Yes | Yes | Only in the Philippines |
-| <strong>Independent and distance learning</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Accelerated payments for high-technology programs</strong> | No | Yes | Yes | No | No |
-| <strong>Correspondence training</strong> | Yes | Yes | Yes | Yes | No |
-| <strong>Non-college degree draining</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>On-the-job and apprenticeship training</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Flight training</strong> | Yes | Yes | Yes | Yes | No |
-
-| <strong>Licensing and certification</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>National testing programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Work-study programs</strong> | Yes | Yes | Yes | Yes | Yes |
-| <strong>Tutorial assistance</strong> <br><br><strong>Note:</strong> We can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military. | Yes | Yes | Yes | Yes | Yes |
-
+| <strong>[Undergraduate and graduate degrees](/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/)</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[Foreign school programs](/education/about-gi-bill-benefits/how-to-use-benefits/study-at-foreign-schools/)</strong> | Yes | Yes | Yes | Yes | Only in the Philippines |
+| <strong>[Independent and distance learning](/education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning/)</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[Accelerated payments for high-tech programs](/education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/)</strong> | No | Yes | Yes | No | No |
+| <strong>[Correspondence training](/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/)</strong> | Yes | Yes | Yes | Yes | Spouses only |
+| <strong>[Tutorial assistance](/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/)</strong> <br><br><strong>Note:</strong> We can pay the difference between the total cost of tuition and fees and the amount of tutorial assistance paid by the military. | Yes | Yes | Yes | Yes | Yes |
+| <strong>[Test fees](/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/)(</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[Non-college degree programs](/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/)</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[High-tech skills training through VET TEC](/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/)</strong> | Yes | Yes | Yes | Yes | No |
+| <strong>[Flight training](/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/)</strong> | Yes | Yes | Yes | Yes | No |
+| <strong>[Entrepreneurship training](/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/)</strong> | Yes | Yes | Yes | Yes | No |
+| <strong>[Work-study programs](/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)<strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[Co-op training](/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/)</strong> | Yes | Yes | Yes | Yes | Yes |
+| <strong>[On-the-job training and apprenticeships](/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/)</strong> | Yes <br> (spouses using transferred benefits aren't eligible) | Yes <br> (not while still on active duty) | Yes <br> (not while still on active duty) | Yes <br> (not while still on active duty) | Yes |
 
 <h2>Get more details about specific benefit programs</h2>
 
@@ -80,4 +84,5 @@ Compare VA education benefits using the table below. Learn about the different t
 - [Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)
 - [Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)
 - [Veterans' Educational Assistance Program (VEAP)](https://www.va.gov/education/other-va-education-benefits/veap/)
-- [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) 
+- [Survivors’ and Dependents’ Educational Assistance Program (DEA)](https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/) and how this program [compares to the Fry Scholarship for survivors]((/education/survivor-dependent-benefits/) 
+- [Vocational Rehabilitation and Employment program](/careers-employment/vocational-rehabilitation/)
