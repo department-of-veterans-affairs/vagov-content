@@ -24,7 +24,7 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out how to select from the different types of memorial items, inscriptions, and emblems of belief. </div>
+Find out about the different types of memorial items and what you can choose to inscribe on them. </div>
 
 ## What types of memorial items are available?
 
