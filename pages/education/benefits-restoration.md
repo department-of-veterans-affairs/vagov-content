@@ -14,7 +14,7 @@ relatedlinks:
     links:    
     - url: /va-payment-history/
       title: View your VA payment history online
-      description: Review your payment history for VA education and other benefits you may have like disability compensation and pension.
+      description: Review your payment history for VA education and other benefits you may have, like disability compensation and pension.
     - url: /education/gi-bill/post-9-11/ch-33-benefit/
       title: Check your Post-9/11 GI Bill benefits
       description: Learn how much of your GI Bill benefits you have left to help pay for school or training.
@@ -78,14 +78,14 @@ Find out how we may be able to restore your GI Bill benefits through the Harry W
 <h2> How do I get my GI Bill benefits restored? </h2>
 
 You'll need to apply using an Education Benefit Entitlement Restoration Request Due to School Closure or Withdrawal form (VA Form 22-0989). <br>
-[Download VA Form 22-0989](https://www.vba.va.gov/pubs/forms/VBA-22-0989-ARE.pdf)
+[Download VA Form 22-0989 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-22-0989-ARE.pdf)
 
 When we approve your claim, we’ll tell you whether you'll receive a special application or regular restoration of entitlement.
 
 **You can apply in any of these ways:**
 
 <h3>Online</h3>
-Submit your completed online through the “Submit a Question” button on the [GI Bill website](https://www.benefits.va.gov/gibill/).
+Submit your completed form online through the “Submit a Question” button on the [GI Bill website](https://www.benefits.va.gov/gibill/).
 
 <h3>By mail</h3>
 
