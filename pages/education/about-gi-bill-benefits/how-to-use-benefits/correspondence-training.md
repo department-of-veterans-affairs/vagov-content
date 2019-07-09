@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Correspondence Training
 heading: Correspondence training
+display_title: Correspondence training
 order: 4
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
