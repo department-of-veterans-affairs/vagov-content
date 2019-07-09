@@ -6,6 +6,7 @@ display_title: Your VA Welcome Kit
 order: 1
 plainlanguage:
 template: detail-page
+hidesidenav: true
 majorlinks:
   - heading: Explore VA.gov to learn about your benefits
     links:
