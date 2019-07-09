@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 title: Flight Training
 heading: Flight training
+display_title: Flight training
 order: 9
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
