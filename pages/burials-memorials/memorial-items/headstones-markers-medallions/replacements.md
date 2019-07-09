@@ -40,15 +40,15 @@ Contact the Memorial Products Service Application Assistance Unit. You'll need t
 
 ### By phone
 
-Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. Our hours of operation are Monday - Friday, 8:00 a.m. to 5:00 p.m. ET.
+Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. We're here Monday through Friday, 8:00 a.m. to 5:00 p.m. ET.
 
 ### Online
 
 [Submit a question to us online](https://iris.custhelp.va.gov/app/ask)
 
-## When can a govenment headstone or marker replaced?
+## When can a govenment headstone or marker get replaced at no cost to me?
 
-You can get a government-issued headstone or marker replaced, at no cost to you, if:
+You can get a government-issued headstone or marker replaced for free if:
 
 - Its condition has gotten worse over time 
 - The inscription is no longer clearly visible
@@ -57,16 +57,12 @@ You can get a government-issued headstone or marker replaced, at no cost to you,
 - It was damaged during shipping
 - It doesn't meet the contract requirements
 
-###### We won't cover the cost of replacing a government-issued headstone or marker if:
-
-- The headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. The cemetery is repsonsible for paying all replacement costs. 
+**We won't cover the cost of replacing a government-issued headstone or marker if** the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case the private cemetery is responsible for paying all replacement costs. 
 
 ## Will the replacement headstone or marker look the same as the original?
 
-Yes. If we replace a historic (more than 50 years old) headstone or marker, we'll provide an item that has the same type and style as the original (sometimes called "replacing in kind"). 
+Yes. When we replace a historic (more than 50 years old) headstone or marker, the replacement is the same type and style as the original (called "replacing in kind").
   
-## What happens to headstones and markers after they're replaced? 
+## What happens to a headstone or marker after it's replaced? 
 
-If a marble or granite headstone or marker is removed from a grave, it must be destroyed so that the inscription can no longer be read. Bronze markers must be returned to the contractor. 
-
-
+If a marble or granite headstone or marker is removed from a grave, it must be destroyed so the inscription can no longer be read. Bronze markers must be returned to the contractor.
