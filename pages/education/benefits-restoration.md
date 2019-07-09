@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Apply To Restore GI Bill Benefits
+title: Apply To Restore Your GI Bill Benefits
 heading: Apply to restore your GI Bill benefits
 display_title: Apply to restore GI Bill benefits
 description: Learn how we may be able to restore your GI Bill benefits through the Forever GI Bill law of 2017. You can apply for a VA education benefit restoration of entitlement if your school closed, or if we took away its approval to receive GI Bill payments (also called disapproved) or removed it from the GI Bill program.
