@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Change Your GI Bill School or Program
+title: Change Your GI Bill School Or Program
 heading: Change your GI Bill school or program
 display title: Change GI Bill school or program
 children: educationChangeGIBillBenefits
