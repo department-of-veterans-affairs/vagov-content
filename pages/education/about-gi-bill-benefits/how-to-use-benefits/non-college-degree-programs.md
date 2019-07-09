@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Non-College Degree Programs
 heading: Non-college degree programs
+display_title: Non-college degree programs
 concurrence: incomplete
 plainlanguage: 11-22-16 certified in compliance with the Plain Writing Act
 order: 7
