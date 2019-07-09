@@ -44,9 +44,12 @@ If you have questions about your options, please call us at <a href="tel:+188844
 
 | Eligibility requirement | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | Survivors’ and Dependents’ Educational Assistance Program |
 | ---- | ---- | ---- | ---- | ---- | ---- |
+| <strong>Character of discharge</strong> | Honorable | Honorable | Honorable | Other than dishonorable <br> (including honorable, underhonorable conditions, and general) | Other than dishonorable <br> (including honorable, underhonorable conditions, and general) |
 | <strong>Qualifying service period</strong> | On or after September 10, 2001 | Varies | After June 30, 1985 | between December 31, 1976 and July 1, 1985 | None |
 | <strong>Minimum service requirement</strong> | <ul><li>90 days total active-duty service, <strong>or</strong></li><li>30 days active-duty service without a break if you were honorably discharged with a service-connected disability, <strong>or</strong></li><li>No minimum requirement if you received a Purple Heart and were honorably discharged</li></ul> | 2 to 4 years active-duty service <br> (varies by service period, branch, and other factors) | <ul><li>6-year obligation, <strong>or</strong></li></li>6 years of service in addition to initial service obligation if you're an officer</li></ul> | 181 days active-duty service without a break <br> (varies by service period) | None |
 | <strong>Other eligibility requirements</strong> | None | Yes <br> [Review requirements](/education/about-gi-bill-benefits/montgomery-active-duty/) | Yes <br> [Review requirements](/education/about-gi-bill-benefits/montgomery-selected-reserve/) | Yes <br> [Review requirements](/education/other-va-education-benefits/veap/) | Yes <br> [Review requirements](/education/survivor-dependent-benefits/)  |    
+
+**Note:** If your character of discharge isn't high enough to make you eligible to receive VA education benefits, [find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/).
 
 <h2>Compare benefit payment terms</h2>
 
