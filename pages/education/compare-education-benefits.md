@@ -37,9 +37,9 @@ Compare VA education benefits  to decide which program may be right for you. Rev
 
 <h2>What you should know when comparing VA education benefits</h2>
 
-- You can only choose one education benefit to use, even if you're eligible for 2.
+- You can only choose 1 education benefit to use, even if you're eligible for 2.
 - Once you choose a benefit program, we consider your decision final. You can't change your mind.
-- If you’re eligible for the Post-9/11 GI Bill and 2 or more other VA education benefits, you must give up one of the other education benefits. You may still be eligible for the benefit or benefits you didn't give up.
+- If you’re eligible for the Post-9/11 GI Bill and 2 or more other VA education benefits, you must give up 1 of the other education benefits. You may still be eligible for the benefit or benefits you didn't give up.
 
 If you have questions about your options, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. Or go to our [GI Bill customer service website](https://gibill.custhelp.va.gov/) to read frequently asked questions or sign in to ask your own question online.
 
@@ -48,7 +48,7 @@ If you have questions about your options, please call us at <a href="tel:+188844
 | Eligibility requirement | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | 
 | ----- | ----- | ----- | ----- | ----- | 
 | <strong>Character of discharge</strong> | Honorable | Honorable | Honorable | All, except dishonorable | All, except dishonorable |
-| <strong>Service start date</strong> | On or after September 10, 2001 | Varies | After June 30, 1985 | Between December 31, 1976 and July 1, 1985 | 
+| <strong>Service start date</strong> | On or after September 10, 2001 | Varies | After June 30, 1985 | Between December 31, 1976, and July 1, 1985 | 
 | <strong>Minimum service requirement</strong> | <ul><li>90 days total active-duty service, <strong>or</strong></li><li>30 days active-duty service, without a break, if discharged with a service-connected disability, <strong>or</strong></li><li>No minimum requirement if  Purple Heart recipient</li></ul> | 2 to 4 years active-duty service <br> (varies by service period, branch, and other factors) | <ul><li>6-year obligation, <strong>or</strong></li><li>6 years of service in addition to initial service obligation for officers</li></ul> | 181 days active-duty service without a break <br> (varies by service period) | 
 | <strong>Other eligibility requirements</strong> | None | [Review requirements](/education/about-gi-bill-benefits/montgomery-active-duty/) | [Review requirements](/education/about-gi-bill-benefits/montgomery-selected-reserve/) | [Review requirements](/education/other-va-education-benefits/veap/) |     
 
@@ -59,8 +59,8 @@ If you have questions about your options, please call us at <a href="tel:+188844
 | Payment terms | Post-9/11 GI Bill | Montgomery GI Bill Active Duty | Montgomery GI Bill Selected Reserve| Veterans' Educational Assistance Program | 
 | ----- | ---- | ----- | ----- | ----- | 
 | <strong>How many months of benefits you can get</strong> <br><br><strong>Note:</strong> If you’re eligible for 2 or more programs, you can get a total of up to 48 months of benefits. | 36 months | 36 months | 36 months | 36 months | 
-| <strong>How much time you have to use your benefits</strong> | <ul><li><strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day</li><li><strong>If last day on active duty was on or after January 1, 2013:</strong> No time limit</li></ul> | 10 years from last day on active duty <br> (may vary) | Eligibility ends at separation <br> (with some exceptions) | 
-| <strong>How we pay benefits</strong> | <strong>3 possible payments:</strong> <ul><li>Tuition and fees (paid to school directly)</li><li>Housing allowance (paid to student monthly)</li><li>Books and supplies stipend (paid to student at start of school term)</li></ul> [Review rates](/education/benefit-rates/post-9-11-rates/)| Single payment, paid to student monthly <br> [Review rates](/education/benefit-rates/montgomery-active-duty-rates/) | Single payment, paid to student monthly <br> [Review rates](/education/benefit-rates/montgomery-reserve-rates/) | Single payment, paid to student monthly <br> [Review rate rules](/education/other-va-education-benefits/veap/) |
+| <strong>How much time you have to use your benefits</strong> | <ul><li><strong>If last day on active duty was before January 1, 2013:</strong> 15 years from last day</li><li><strong>If last day on active duty was on or after January 1, 2013:</strong> No time limit</li></ul> | 10 years from last day on active duty <br> (may vary) | Eligibility ends at separation <br> (with some exceptions) | 10 years from last day on active duty |
+| <strong>How we pay benefits</strong> | <strong>3 possible payments:</strong> <ul><li>Tuition and fees (paid to school directly)</li><li>Housing allowance (paid to student monthly)</li><li>Books and supplies stipend (paid to student at start of school term)</li></ul> [Review rates](/education/benefit-rates/post-9-11-rates/)| Single payment, paid to student monthly <br> [Review rates](/education/benefit-rates/montgomery-active-duty-rates/) | Single payment, paid to student monthly <br> [Review rates](/education/benefit-rates/montgomery-reserve-rates/) | Single payment, paid to student monthly <br> [Find out how payments work](/education/other-va-education-benefits/veap/) |
 | <strong>Ways to get added payments</strong> | <ul><li>[Yellow Ribbon Program](/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)</li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)</li></ul> | <ul><li>[$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)</li><li>[Tuition Assistance Top-Up program](/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/)</li></ul> | [$600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/) | None | 
 | <strong>Option to transfer benefits to dependents</strong> | [Yes](/education/transfer-post-9-11-gi-bill-benefits/) | No | No | No | 
 
