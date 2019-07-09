@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Selecting a memorial item, inscription, and emblem
-display_title: Selecting a memorial item, inscription, and emblem
+display_title: Selecting a type of memorial item
 description: Learn what different types of memorial items look like. Find out how to select an inscription and emblem. 
 order: 6
 relatedlinks:
