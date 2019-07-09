@@ -46,11 +46,11 @@ Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. We're here M
 
 [Submit a question to us online](https://iris.custhelp.va.gov/app/ask)
 
-## When can a government headstone or marker get replaced at no cost to me?
+## Who pays for a replacement headstone or marker?
 
-You can get a government-issued headstone or marker replaced for free if:
+We'll replace a government-issued headstone or marker, at no cost to you, for any of these reasons:
 
-- Its condition has gotten worse over time 
+- Its condition has gotten worse over time
 - The inscription is no longer clearly visible
 - The inscription isn't correct
 - It was stolen or vandalized
