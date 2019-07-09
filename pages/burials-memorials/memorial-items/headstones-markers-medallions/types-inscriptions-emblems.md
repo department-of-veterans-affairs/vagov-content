@@ -36,7 +36,7 @@ You can choose one of these types of memorial items:
 - Medallion
 
 Find out how to [request Veterans headstones, markers, and medallions](/burials-memorials/memorial-items/headstones-markers-medallions/).<br>
-Find out about special [headstones and markers for Civil War and Spanish-American War Veterans](#civil-and-spanish-american-war).
+Learn about special [headstones and markers for Civil War and Spanish-American War Veterans](#civil-and-spanish-american-war).
 
 ## What does a government headstone look like?
 
