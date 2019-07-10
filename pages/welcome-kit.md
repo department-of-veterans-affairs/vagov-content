@@ -59,9 +59,9 @@ Feel free to share this guide with friends or family members who need help with 
 
 ## See our guides to specific VA benefits and services
 
-[Apply for VA health care](#)
-[Get started with mental health services](#)
-[Apply for a disability rating](#)
-[Apply for education benefits (#)
-[Get started with caregiver benefits](#)
-[Apply for survivor benefits](#)
+[Apply for VA health care](/health-care-quick-start-guide.pdf)
+[Get started with mental health services](/mental-health-quick-start-guide.pdf)
+[Apply for a disability rating](/disability-quick-start-guide.pdf)
+[Apply for education benefits (/education-quick-start-guide.pdf)
+[Get started with caregiver benefits](/caregiver-quick-start-guide.pdf)
+[Apply for survivor benefits](/survivor-quick-start-guide.pdf)
