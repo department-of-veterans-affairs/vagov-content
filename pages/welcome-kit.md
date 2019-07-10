@@ -62,6 +62,6 @@ Feel free to share this guide with friends or family members who need help with 
 [Apply for VA health care (PDF)](/health-care-quick-start-guide.pdf)<br>
 [Get started with mental health services (PDF)](/mental-health-quick-start-guide.pdf)<br>
 [Apply for a disability rating (PDF)](/disability-quick-start-guide.pdf)<br>
-[Apply for education benefits (PDF)] (/education-quick-start-guide.pdf)<br>
+[Apply for education benefits (PDF)](/education-quick-start-guide.pdf)<br>
 [Get started with caregiver benefits (PDF)](/caregiver-quick-start-guide.pdf)<br>
 [Apply for survivor benefits (PDF)](/survivor-quick-start-guide.pdf)
