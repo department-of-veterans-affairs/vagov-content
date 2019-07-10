@@ -32,6 +32,8 @@ We assign you a disability rating based on the severity of your disability. We u
 ### If you have 2 or more disabilities
 We use a combined rating table to calculate your disability percentage. To determine your VA disability rating, [review our combined rating table](https://www.benefits.va.gov/COMPENSATION/rates-index.asp#combinedRatingsTable1), or use our calculator below.
 
+<div data-widget-type="disability-rating-calculator"></div>
+
 To learn more about how disability ratings work, you can watch our video about how we decide your rating: <br>
 [Compensation 101: How did I get this rating?](https://www.youtube.com/watch?v=oM7oYzL2DCg)
 
