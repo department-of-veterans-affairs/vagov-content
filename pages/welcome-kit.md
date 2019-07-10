@@ -38,7 +38,7 @@ majorlinks:
         title: Records
         description: Apply for a printed Veteran ID card, get your VA benefit letters and medical records, and learn how to apply for a discharge upgrade.
       - url: #
-        title: Family and Caregiver Benefits
+        title: Benefits for spouses, dependents, survivors, and family caregivers
         description: Learn about benefits for spouses and dependents of a Veteran or Servicemember, including added support if you're caring for a Veteran with a service-connected disability.
 ---
 
