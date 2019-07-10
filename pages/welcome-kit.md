@@ -59,7 +59,7 @@ Feel free to share this guide with friends or family members who need help with 
 
 [Your VA Welcome Kit in color (PDF)](/va-welcome-kit-color.pdf)
 
-## Download our guides to specific VA benefits and services
+## Download our guides to VA benefits and services
 
 ### For Veterans
 [Apply for VA health care (PDF)](/health-care-quick-start-guide.pdf)<br>
