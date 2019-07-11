@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors’ and Dependents’ Educational Assistance program
+title: Survivors’ And Dependents’ Educational Assistance Program
+heading: Survivors’ and Dependents’ Educational Assistance program 
 display_title: Dependents Education Assistance (DEA)
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete

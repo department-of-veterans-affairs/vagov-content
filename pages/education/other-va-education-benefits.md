@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Other VA education benefits
+title: Other VA Education Benefits
+heading: Other VA education benefits
 display_title: Other education benefits
 concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act

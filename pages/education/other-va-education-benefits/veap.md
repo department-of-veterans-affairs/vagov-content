@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Veterans’ Educational Assistance Program (VEAP)
+heading: Veterans’ Educational Assistance Program (VEAP)
 display_title: VEAP
 concurrence: complete
 plainlanguage: 12-12-16 certified in compliance with the Plain Writing Act

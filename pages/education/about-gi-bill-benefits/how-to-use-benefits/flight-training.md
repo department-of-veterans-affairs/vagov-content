@@ -1,6 +1,8 @@
 ---
 layout: page-breadcrumbs.html
-title: Flight training
+title: Flight Training
+heading: Flight training
+display_title: Flight training
 order: 9
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -32,7 +34,8 @@ You can get benefits for flight training if you meet all of the requirements lis
 
 </div>
 </div>
-</div>
+</div> 
+  
 
 <div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">What benefits can I get?</h2>
