@@ -110,7 +110,7 @@ You can work with a trained professional called an accredited representative to 
 You can’t make changes to your application, but if you have questions about VA education benefits, please call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.
 
 If we’ve asked you for documents, please upload them through the GI Bill website.
-<a class="usa-button-primary" href="https://gibill.custhelp.com/app/home">Go to the GI Bill Website</a>
+<a class="usa-button-primary" href="https://gibill.custhelp.com/app/home">Go to the GI Bill website</a>
 
 </div>
 </div>

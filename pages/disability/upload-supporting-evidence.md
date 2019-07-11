@@ -57,6 +57,7 @@ We’ll remove your disability claim from the Fully Developed Claims program and
 If we decide your claim earlier than one year from the date we received the claim, you’ll still have the rest of the year to provide any additional information or evidence.
 </div>
 </div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 

@@ -44,7 +44,7 @@ Please call us at <a href="tel:+18008271000">800-827-1000</a>. We're here Monday
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">You’ll need to sign in to eBenefits to change your VA direct deposit and contact information online.</h4>
   <p class="usa-alert-text">To use this feature, you'll need a Premium <b>DS Logon</b> account. Your My HealtheVet or ID.me credentials won’t work on the eBenefits website. Go to eBenefits to sign in, register, or upgrade your <b>DS Logon</b> account to Premium.<br>
-      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to Change Your Information</a>
+      <a class="usa-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information">Go to eBenefits to change your information</a>
     </p>
   </div>
 </div>

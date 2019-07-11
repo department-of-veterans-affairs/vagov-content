@@ -35,8 +35,8 @@ Find out what happens to your claim after you file for disability compensation.
 ## How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">111.5 days</span>
-<span class="description">Average number of days to complete disability-related claims in April 2019</span>
+<span class="number">104.1 days</span>
+<span class="description">Average number of days to complete disability-related claims in June 2019</span>
 </div>
 
 ## The amount of time it takes to review your claim depends on:
@@ -49,7 +49,7 @@ Find out what happens to your claim after you file for disability compensation.
 
 You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them. You can check the status of your claim online. The time frame you see there may vary based on how complex your claim is.
 
-<a class="usa-button-primary" href="/claim-or-appeal-status">Track the Status of Your Claim</a>
+<a class="usa-button-primary" href="/claim-or-appeal-status">Track the status of your claim</a>
 
 <div markdown="0"><br></div>
 
