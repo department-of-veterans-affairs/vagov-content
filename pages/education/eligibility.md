@@ -30,9 +30,11 @@ You may be able to get benefits through the Post-9/11 GI Bill if you've served o
 
 ## Can I get VA education benefits through the Montgomery GI Bill?
 
-You may be able to get benefits through one of our 2 Montgomery GI Bill programs: the Montgomery GI Bill Active Duty (MGIB-AD) or the Montgomery GI Bill Selected Reserve (MGIB-SR).
+You may be able to get benefits through one of our 2 Montgomery GI Bill programs. 
 
-**You can get benefits through MGIB-AD** if you served at least 2 years on active duty and you meet all of the requirements listed below.
+### Montgomery GI Bill Active Duty (MGIB-AD)
+
+You can get benefits through MGIB-AD if you served at least 2 years on active duty and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 
@@ -42,7 +44,9 @@ You may be able to get benefits through one of our 2 Montgomery GI Bill programs
 
 [Learn more about MGIB-AD](/education/about-gi-bill-benefits/montgomery-active-duty/)
 
-**You can get benefits through MGIB-SR** if you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserves, Army National Guard, or Air National Guard, and you meet all of the requirements listed below.
+### Montgomery GI Bill Selected Reserve (MGIB-SR)
+
+You can get benefits through MGIB-SR if you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserves, Army National Guard, or Air National Guard, and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
 - Have either a 6-year service obligation (you agreed to serve 6 years) in the Selected Service, **or**
