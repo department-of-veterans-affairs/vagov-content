@@ -3,6 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Privacy, Policies, And Legal Information
 heading: Privacy, policies, and legal information
+hidesidenav: true
 ---
 
 <p class="va-introtext">

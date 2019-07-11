@@ -1,8 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Change your GI Bill school or program
-display title: Change GI Bill school or program
+title: Change Your GI Bill School Or Program
+heading: Change your GI Bill school or program
+display_title: Change GI Bill school or program
 children: educationChangeGIBillBenefits
 collection: education
 order: 4
@@ -37,8 +38,7 @@ You'll need to submit a Request for Change of Program or Place of Training (VA F
 You'll need to submit a Dependent's Request for Change of Program or Place of Training (VA Form 22-5495). You can complete this form online now.<br>
 [Complete VA Form 22-5495 online](/education/apply-for-education-benefits/application/5495/introduction)
 
-<div class="feature" markdown=“1”>
-<h3>What information do I need to complete my request?</h3>
+<h2>What information do I need to complete my request?</h2>
 
 <b>You'll need your:</b>
 - Social Security number
@@ -53,8 +53,6 @@ You'll need to submit a Dependent's Request for Change of Program or Place of Tr
 <b>If you're the dependent of a Veteran or service member, you'll also need that person's:</b>
 - Social Security number or VA file number
 - Basic service history information
-
-</div>
 
 <h2>Are there other ways to submit my request?</h2>
 
