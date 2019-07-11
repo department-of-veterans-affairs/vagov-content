@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Montgomery GI Bill Selected Reserve (MGIB-SR)
+heading: Montgomery GI Bill Selected Reserve (MGIB-SR)
 display_title: Montgomery GI Bill Selected Reserve
 concurrence: complete
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act

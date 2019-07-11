@@ -2,6 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Montgomery GI Bill Active Duty (MGIB-AD)
+heading: Montgomery GI Bill Active Duty (MGIB-AD)
 display_title: Montgomery GI Bill Active Duty
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -21,8 +22,6 @@ You can get education benefits through this program if you were honorably discha
 
 ### One of these categories must describe you
 
-<div class="feature" markdown="1">
-
 #### Category I
 
 **All of these are true. You:**
@@ -35,10 +34,6 @@ You can get education benefits through this program if you were honorably discha
 - 2 years if that was your agreement when you enlisted, **or**
 - 4 years if you entered the Selected Reserve within a year of leaving active duty (called the 2 by 4 program)
 
-</div>
-
-<div class="feature" markdown="1">
-
 #### Category II
 
 **All of these are true. You:**
@@ -46,10 +41,6 @@ You can get education benefits through this program if you were honorably discha
 - Entered active duty before January 1, 1977 (or before January 2, 1978, under a delayed enlistment program contracted before January 1, 1977), **and**
 - Served at least 1 day between October 19, 1984, and June 30, 1985, and stayed on active duty through June 30, 1988 (or through June 30, 1987, if you entered the Selected Reserve within 1 year of leaving active duty and served 4 years), **and**
 - Had at least 1 day of entitlement left under the Vietnam Era GI Bill (Chapter 34) as of December 31, 1989
-
-</div>
-
-<div class="feature" markdown="1">
 
 #### Category III
 
@@ -63,10 +54,6 @@ You can get education benefits through this program if you were honorably discha
 - Involuntarily separated on or after November 30, 1993, **or**
 - Chose to voluntarily separate under either the Voluntary Separation Incentive (VSI) program or the Special Separation Benefit (SSB) program
 
-</div>
-
-<div class="feature" markdown="1">
-
 #### Category IV
 
 **Both of these are true. You:**
@@ -76,8 +63,6 @@ You can get education benefits through this program if you were honorably discha
 **And one of these is true. You:**
 - Were on active duty on October 9, 1996, had money left in a VEAP account on that date, and chose MGIB before October 9, 1997, **or**
 - Entered full-time National Guard duty under title 32, USC, between July 1, 1985, and November 28, 1989, and chose MGIB between October 9, 1996, and July 9, 1997
-
-</div>
 
 ## What benefits can I get?
 

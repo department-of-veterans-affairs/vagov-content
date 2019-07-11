@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to apply for the GI Bill and other education benefits
+title: How To Apply For The GI Bill And Other Education Benefits
+heading: How to apply for the GI Bill and other education benefits
 display_title: How to apply
 description: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member. You can apply online, by mail, in person, or with the help of a trained professional.
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act.
@@ -45,20 +46,13 @@ Find out how to apply for VA education benefits as a Veteran, service member, or
 [Find out how to apply for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
 [Learn more about Educational and Career Counseling](/careers-employment/education-and-career-counseling/)
 
-<div markdown="0"><br></div>
-
-<div class="feature" markdown="1">
-
-### What documents and information do I need to apply?
+## What documents and information do I need to apply?
 
 - Social Security number
 - Bank account direct deposit information
 - Education and military history
 - Basic information about the school or training facility you want to attend or are attending now
 
-</div>
-</div>
-</div>
 
 <div data-widget-type="education-app-status" data-widget-timeout="20">
   <div class="loading-indicator-container">

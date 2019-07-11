@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About GI Bill benefits
+title: About GI Bill Benefits
+heading: About GI Bill benefits
 display_title: GI Bill
 description: Learn how GI Bill benefits work and explore your options to pay for school or training. You may qualify for VA GI Bill benefits if you're a Veteran, service member, or the family member of a Veteran or service member.
 concurrence: incomplete
