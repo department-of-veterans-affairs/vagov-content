@@ -4,7 +4,7 @@ template: detail-page
 title: 2019 VA Education Benefit Rates
 heading: 2019 VA education benefit rates
 display_title: Benefit rates
-description: Review VA education benefits rates for the 2019 academic year to find out how much support you can get to help pay for school or training. In some cases, you may also be eligible for money to help pay for housing, books, and supplies while you study.
+description: Review VA education benefit rates for the 2019 academic year to find out how much support you can get to help pay for school or training. In some cases, you may also be eligible for money to help pay for housing, books, and supplies while you study.
 keywords: va education benefits rates, va education payment rates
 order: 2
 spoke: More resources
@@ -27,7 +27,7 @@ majorlinks:
       title: DEA (Chapter 35) rates for survivors and dependents
       description: Review the current rates for the Survivors' and Dependents' Educational Assistance Program (DEA). 
     - url: /education/benefit-rates/600-buy-up-rates/
-      title: Montgomery GI Bill $600 buy-up program
+      title: Montgomery GI Bill $600 Buy-Up program
       description: Find out how much you can increase your Montgomery GI Bill or REAP monthly payments when you buy into this program.
     - url: /education/benefit-rates/monthly-housing-allowance-rates/
       title: Monthly housing allowance
@@ -55,6 +55,6 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Review VA education benefits rates for the 2019 academic year to find out how much support you can get to help pay for school or training. In some cases, you may also be eligible for money to help pay for housing, books, and supplies while you study.
+Review VA education benefit rates for the 2019 academic year to find out how much support you can get to help pay for school or training. In some cases, you may also be eligible for money to help pay for housing, books, and supplies while you study.
 
 </div>
