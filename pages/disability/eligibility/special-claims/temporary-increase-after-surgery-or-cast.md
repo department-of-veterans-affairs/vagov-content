@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Temporary Disability Rating After Surgery Or Getting A Cast
-heading: Temporary disability rating after surgery or getting a cast
+title: Temporary Disability Rating After Surgery Or Cast
+heading: Temporary disability rating after surgery or cast
 display_title: Increase after surgery or cast
 description: Find out if you can get temporary VA disability after surgery for a service-connected disability, or after getting a cast that's left you unable to move. You may be able to get a temporary 100% disability rating and increased compensation during your recovery (called convalescence).
 concurrence: complete
