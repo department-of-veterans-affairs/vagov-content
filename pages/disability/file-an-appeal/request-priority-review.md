@@ -14,9 +14,10 @@ template: detail-page
 If you need to have your appeal moved to the front of the line due to serious illness, financial distress, or other reasons, find out how to request a priority review.
 </div>
 
+<div class="feature">
+
 <h2>Can my appeal get a priority review?</h2>
 You can request to have your appeal Advanced on Docket, or moved to the front of the line, for any of the below reasons.
-<div class="feature">
 
 **One of these must be true. You:**
 - Are 75 years old or older, **or**
@@ -47,10 +48,10 @@ You or your representative will need to write a letter to the Board of Veterans�
 
 
 #### By fax
-Fax your request to <a href="tel:+12024956803">202-495-6803</a>.
+Fax your request to 844-678-8979.
 
 
 ## Who can I contact if I need more information?
 
-Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at 800-923-8387.
+Contact your Veterans Service Organization or representative, or call the Board of Veterans’ Appeals at <a href="tel:+18008271000">800-827-1000</a>.
 

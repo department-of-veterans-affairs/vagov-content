@@ -1,8 +1,10 @@
 ---
 layout: page-breadcrumbs.html
-title: Accessing VR&E Through The Integrated Disability Evaluation System (IDES)
-heading: Accessing VR&E through the Integrated Disability Evaluation System (IDES)
-display_title: Accessing VR&E through IDES
+title: Accessing Vocational Rehabilitation Through IDES 
+heading: Accessing Vocational Rehabilitation through IDES 
+display_title: Accessing Voc Rehab through IDES
+description: If you’re wounded, injured, or fall ill while serving and can't perform your duties, you'll be referred to the Integrated Disability Evaluation System (IDES). Learn how we'll work with the Department of Defense to give you a proposed VA disability rating and Voc Rehab entitlement before separation.
+keywords: integrated disability evaluation system, ides
 template: detail-page
 order: 4
 relatedlinks:

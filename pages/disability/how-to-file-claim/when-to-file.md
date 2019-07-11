@@ -121,19 +121,19 @@ You can file a special claim to request compensation for special needs.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental claim—provide new evidence to support a disability claim that was denied.</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="claim-new-evidence">Supplemental Claim—provide new evidence to support a disability claim that was denied.</button>
 <div id="claim-new-evidence" class="usa-accordion-content">
 
-You can file a supplemental claim if you meet all of the requirements listed below.
+You can file a Supplemental Claim if you meet all of the requirements listed below.
 
 **All of these must be true:**
 - We denied your disability claim, **and**
 - You didn’t file an appeal at that time, **and**
 - You have new and material evidence (new supporting documents like a doctor’s report or medical test results) that we haven’t seen before and that's directly related to your claim
 
-For example, you might file a supplemental claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
+For example, you might file a Supplemental Claim if you were treated for pain in your elbow while on active duty, but you were denied disability benefits because your VA health exam didn't find a problem. Then 2 years later, an X-ray of your elbow showed signs of arthritis (a painful swelling and sometimes wearing down of a joint). In this case, you would need to send your new exam and X-ray results to us as new evidence related to the claim.<br>
 
-[Learn more about supplemental claims](/decision-reviews/supplemental-claim/)
+[Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/)
 
 </div>
 </li>

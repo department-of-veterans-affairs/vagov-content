@@ -74,7 +74,7 @@ If you applied for and were awarded Post-9/11 GI Bill education benefits, your G
 The GI Bill Comparison Tool and Veterans Service Organizations can help you explore options and find out what benefits you can get. [Find a Veterans service organization](https://www.va.gov/vso/).
 
 
-<a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for Education Benefits</a><br>
+<a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for education benefits</a><br>
 
 </div>
 

@@ -18,14 +18,15 @@ spoke: Manage benefits
 You have the right to appeal any benefits decision made by the Veterans Benefits Administration. The VA appeals process is set in law and is different from other judicial appeals processes. Find out how to file an appeal.
 </div>
 
-<div class="feature" markdown="0">
-
-### Have you already filed an appeal?
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Have you already filed an appeal?</h3>
 
 When the regional office for the Veterans Benefits Administration receives your Notice of Disagreement, you’ll be able to check the status of your appeal online.
 
-<a class="usa-button-primary" href="/track-claims">Track Your Appeal</a>
+<a class="usa-button-primary" href="/track-claims">Track your appeal</a>
 
+ </div>
 </div>
 
 <h2>Appeals process overview</h2>
@@ -55,8 +56,8 @@ After the Veterans Benefits Administration makes a decision on your claim, you c
       <div>
         <h4>File a Notice of Disagreement (NOD)</h4>
         <p>
-        By filing a Notice of Disagreement, you begin the appeals process. You’ll need to file a Notice of Disagreement within one year of the date on the letter notifying you of the claim decision. <br> 
-        <a href="https://www.vba.va.gov/pubs/forms/VBA-21-0958-ARE.pdf">Download a Notice of Disagreement, VA Form 21-0958 (PDF)</a> 
+        By filing a Notice of Disagreement, you begin the appeals process. You’ll need to file a Notice of Disagreement within one year of the date on the letter notifying you of the claim decision. <br>
+        <a href="https://www.vba.va.gov/pubs/forms/VBA-21-0958-ARE.pdf">Download a Notice of Disagreement, VA Form 21-0958 (PDF)</a>
         </p>
         <p>
         Fill out your Notice of Disagreement and mail it to the address provided on the VA claim decision notice letter you received, or bring it to your local regional office. An accredited representative can help you file a Notice of Disagreement. <a href="/disability/get-help-filing-claim/">Get help filing your appeal</a>

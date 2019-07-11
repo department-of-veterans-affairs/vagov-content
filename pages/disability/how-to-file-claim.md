@@ -72,7 +72,23 @@ You should also know that you have up to a year from the date we receive your cl
 </div>
 
 
-<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
+<div data-widget-type="disability-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
@@ -118,14 +134,14 @@ If you have a power of attorney and need to update their information, please cal
 
 You don’t need to do anything while you’re waiting unless we send you a letter asking for more information. If we schedule exams for you, be sure not to miss them.
 
-<a class="usa-button-primary" href="/track-claims">Track the Status of Your Claim</a>
+<a class="usa-button-primary" href="/track-claims">Track the status of your claim</a>
 
 <span id="days-to-complete-claim"></span>
 ### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">111.5 days</span>
-<span class="description">Average number of days to complete disability-related claims in April 2019</span>
+<span class="number">104.1 days</span>
+<span class="description">Average number of days to complete disability-related claims in June 2019</span>
 </div>
 </div>
 </div>
