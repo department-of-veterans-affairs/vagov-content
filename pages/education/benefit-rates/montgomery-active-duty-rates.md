@@ -110,7 +110,7 @@ We base your monthly rate (or payment amount) on where you're at in your trainin
 
 All rates in U.S. $
 | **If you're at this point in your training...** | **We'll pay this amount each month** |
-|---:|---:|
+|---|---:|
 | First 6 months | 1,214.25 |
 | 6 to 12 months | 890.45 |
 | After 12 months (1 year) | 566.65 |
@@ -221,7 +221,6 @@ We'll add **$16** to your monthly payment for each additional dependent.
 
 ------
 <span id="historic"></span>
-
 ## Historic rates
 
 Review MGIB-AD rates for past years:
