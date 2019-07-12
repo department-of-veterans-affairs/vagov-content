@@ -50,7 +50,7 @@ If you have questions about your rates, please call us at <a href="tel:+18884424
 We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
 All rates in U.S. $
-| **If you're enrolled...** | **We'll pay this amount each month** |
+| **If you're enrolled...** | **We'll pay you this amount each month** |
 |---|---:|
 | Full-time | 1,994.00 |
 | ¾-time | 1,495.50 |
@@ -67,7 +67,7 @@ All rates in U.S. $
 We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in U.S. $
-| **If you're at this point in your training...** | **We'll pay this amount each month** |
+| **If you're at this point in your training...** | **We'll pay you this amount each month** |
 |---|---:|
 | First 6 months | 1,495.50 |
 | 6 to 12 months | 1,096.70 |
@@ -79,8 +79,7 @@ We charge your entitlement at the rate of 1 month for each **$1,994.00** paid.
 
 ### Cooperative training
 
-The cooperative training program lets you go to school full-time for a period, and then work 
-full-time for a period. If you’re participating in this program, you'll receive up to **$1,994.00** each month for courses at approved schools.
+With the cooperative training program, you can alternate periods of going to school full-time with periods of training at a business or industrial company full-time. If you’re participating in this program, you'll receive up to **$1,994.00** each month for courses at approved schools.
 
 ------
 
@@ -94,7 +93,7 @@ If you have questions about your rates, please call us at <a href="tel:+18884424
 We base your monthly rate (or payment amount) on how many courses you're taking, up to full-time enrollment. We'll pay you directly each month.
 
 All rates in U.S. $
-| **If you're enrolled...** | **We'll pay this amount each month** |
+| **If you're enrolled...** | **We'll pay you this amount each month** |
 |---:|---:|
 | Full-time | 1,619.00 |
 | ¾-time | 1,214.25 |
@@ -109,7 +108,7 @@ All rates in U.S. $
 We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in U.S. $
-| **If you're at this point in your training...** | **We'll pay this amount each month** |
+| **If you're at this point in your training...** | **We'll pay you this amount each month** |
 |---|---:|
 | First 6 months | 1,214.25 |
 | 6 to 12 months | 890.45 |
@@ -121,8 +120,7 @@ We charge your entitlement at the rate of 1 month for each **$1,619.00** paid.
 
 ### For cooperative training
 
-The cooperative training program lets you go to school full-time for a period, and then 
-work full-time for a period. 
+With the cooperative training program, you can alternate periods of going to school full-time with periods of training at a business or industrial company full-time. 
 
 We'll pay up to **$1,619.00** each month, depending on the type of approved school you're attending.
 
@@ -147,7 +145,7 @@ We'll pay you directly each month. If you're enrolled less than half-time, we'll
 #### Basic rates for monthly payments
 
 All rates in U.S. $ 
-| **Enrollment status** | **Veteran alone** <br> (no dependents) | **With 1 dependent** | **With 2 dependents** |
+| **Enrollment status** | **Veteran with no dependents** | **With 1 dependent** | **With 2 dependents** |
 |---|---:|---:|---:|
 | Full-time | 2,182 | 2,218 | 2,249 |
 | ¾ time | 1,637 | 1,663.50 | 1,687 |
@@ -175,7 +173,7 @@ A dependent may be your spouse or a child who is under the age of 18, between th
 We'll pay you directly each month.
 
 All rates in U.S. $ 
-| **Training period** | **Veteran alone** <br> (no dependents) | **With 1 dependent** | **With 2 dependents** | **With 3 dependents** |
+| **Training period** | **Veteran with no dependents** | **With 1 dependent** | **With 2 dependents** | **With 3 dependents** |
 |---|---:|---:|---:|---:|
 | First 6 months | 1,598.25 | 1,610.63 | 1,621.50 | 5.25 |
 | 6 to 12 months | 1,153.08 | 1,162.43 | 1,170.13 | 3.85 |
@@ -202,7 +200,7 @@ We’ll pay **60%** of the approved charges for flight training. We'll pay you d
 
 ### Cooperative training
 
-The cooperative training program lets you go to school full-time for a period, and then work full-time for a period. 
+With the cooperative training program, you can alternate periods of going to school full-time with periods of training at a business or industrial company full-time.
 
 We base your monthly rate (or payment amount) on how many dependents you have. A dependent may be your spouse or a child who is under the age of 18, between the ages of 18 and 23 and enrolled in a qualifying school program, or a child of any age who became permanently disabled and unable to care for themselves before turning 18. We'll pay you directly each month.
 
@@ -211,7 +209,7 @@ We base your monthly rate (or payment amount) on how many dependents you have. A
 All rates in U.S. $
 | **Dependent status** | **Monthly payment** |
 |---|---:|
-| **Veteran alone** <br> (no dependents) | 2,182.00 |
+| **Veteran with no dependents** | 2,182.00 |
 | **With 1 dependent** | 2,218.00 |
 | **With 2 depedents** | 2,249.00 |
 
