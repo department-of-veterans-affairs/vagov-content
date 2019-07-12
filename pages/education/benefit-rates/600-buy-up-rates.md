@@ -9,7 +9,7 @@ concurrence:
 spoke: Benefit rates
 order: 4
 relatedlinks:
-  - heading: Other helpful education benefit resources
+  - heading: Other helpful tools and information
     links:
     - url: /education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/
       title: How to use your benefits
@@ -21,17 +21,13 @@ relatedlinks:
 
 <div class="va-introtext">
   
-If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your GI Bill monthly
-payments. The rate tables below show the current payment rates based on the amount you’ve put in. The program applies only to
-those covered by the Montgomery GI Bill or REAP.
+If you take part in the $600 Montgomery GI Bill Buy-Up program, you’ll get more money each month through your monthly payments. Find the current payment rates based on the amount you'd paid into the program. You can only use this program if you receive benefits through the Montgomery GI Bill program or the Reserve Educational Assistance Program (REAP).
 
 </div>
 
-[Learn more about the $600 Buy-Up program](/education/about-gi-bill-benefits/montgomery-active-duty/buy-up/)
-
 ## How we determine your added payment
 
-We base your payment on:
+**We base your payment on:**
 - How many courses you're taking, up to full-time enrollment, **and**
 - How much you paid into the program
 
@@ -39,8 +35,9 @@ We base your payment on:
 
 ### If you're enrolled in school full time
 
-| **If you paid...** | **We’ll added this amount to your monthly payment** | 
-|------|------|
+All rates in U.S. $
+| **If you paid...** | **We’ll add this amount to your monthly payment** | 
+|---|---:|
 | **20** | 5 |	
 | **40** | 10 | 
 | **60** | 15 | 
@@ -72,11 +69,10 @@ We base your payment on:
 | **580**	| 145 | 
 | **600**	| 150 | 
 
-
 ### If you're enrolled in school ¾-time
 
 | **If you paid...** | **We’ll add this amount to your monthly payment** |
-|------|------|------|------|------|------|
+|---|---:|
 | **20** | 3.75 | 
 | **40** | 7.50	| 
 | **60** | 11.25 |
@@ -142,10 +138,10 @@ We base your payment on:
 | **580**	| 72.50	| 
 | **600**	| 75.00	| 
 
-## Rates if you're enrolled in school between 1/4 and 1/2 time
+## If you're enrolled in school between 1/4 and 1/2 time
 
 | **If you paid...** | **We’ll add this amount to your monthly payment** | 
-|------|------|------|------|------|------|
+|---|---:|
 | **20** | 2.50 | 
 | **40** | 5	| 
 | **60** | 7.50 | 
@@ -177,10 +173,10 @@ We base your payment on:
 | **580**	| 72.50	| 
 | **600**	| 75	| 
 
-## Rates if you're enrolled in school 1/4 time
+## If you're enrolled in school 1/4 time
 
 | **If you paid...** | **We’ll add this amount to your monthly payment** | 
-|------|------|------|------|------|------|
+|---|---:|
 | **20** | 1.25 |
 | **40** | 2.50 |
 | **60** | 3.75 |
@@ -212,4 +208,4 @@ We base your payment on:
 | **580**	| 36.25 |
 | **600**	| 37.50 |
 
-If you have any questions about this program or payment rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+If you have any questions about this program or payment rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
