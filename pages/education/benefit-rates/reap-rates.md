@@ -50,7 +50,7 @@ This includes rates for colleges, universities, trade schools, and other institu
 These rates also apply if you were discharged due to a service-connected disability before your 90th day of service.
 
 All rates in U.S. $
-| If you're enrolled in school... | We'll pay this amount each month | 
+| If you're enrolled in school... | We'll pay you this amount each month | 
 |---|---:|
 | Full-time |	797.60	| 
 | ¾-time | 598.20 | 
@@ -61,7 +61,7 @@ All rates in U.S. $
 ### If you served between 1 and 2 years
 
 All rates in U.S. $
-| If you're enrolled in school... | We'll pay this amount each month | 
+| If you're enrolled in school... | We'll pay you this amount each month | 
 |---|---:|
 | Full-time |	1,196.40	|
 | ¾-time | 897.30 |
@@ -72,7 +72,7 @@ All rates in U.S. $
 ### If you served 2 years or more
 
 All rates in U.S. $
-| If you're enrolled in school... | We'll pay this amount each month | 
+| If you're enrolled in school... | We'll pay you this amount each month | 
 |---|---:|
 | Full-time |	1,595.20 |
 | ¾-time | 1,196.40 |
@@ -90,7 +90,7 @@ We base your REAP benefit level on how long you've served on active duty after S
 
 We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
 
-| If you served... | Your benefit level is... | And we'll pay |
+| If you served... | This is your benefit level | We'll pay |
 |--|--|--:|
 | <ul><li>Between 90 days and 1 year, **or** </li><li>You were discharged due to a service-connected disability before your 90th day of service</li></ul> | 40% | 22% of the cost of your approved course  |
 | Between 1 and 2 years | 60% | 33% of the cost of your approved course |
@@ -105,7 +105,7 @@ We base your REAP benefit level on how long you've served on active duty after S
 
 We charge entitlement based on the rate of one month for a benefit amount equal to the full-time institutional rate.
 
-| If you served... | Your benefit level is... | And we'll pay |
+| If you served... | This is your benefit level | We'll pay |
 |--|--|--:|
 | <ul><li>Between 90 days and 1 year, **or**</li><li>You were discharged due to a service-connected disability before your 90th day of service</li></ul> | 40% | 24% of the cost of your approved course |
 | Between 1 and 2 years | 60% | 36% of the cost of your approved course |
@@ -125,7 +125,7 @@ We charge entitlement based on the rate of one month for a benefit amount equal 
 These rates also apply if you were discharged due to a service-connected disability before your 90th day of service.
 
 All rates in U.S. $
-| If you're at this point in your training... | We'll pay this amount each month |
+| If you're at this point in your training... | We'll pay you this amount each month |
 |---|---:|
 | First 6 months | 598.20 |
 | 6 to 12 months | 438.68 |	
@@ -157,8 +157,8 @@ All rates in U.S. $
 We base your rate on how long you served on active duty after September 10, 2001. We count service that was continuous (meaning you served this amount of time all at once, without a break).
 
 All rates in U.S. $
-| If you served... | We'll pay this amount each month |
-|---|---|
+| If you served... | We'll pay you this amount each month |
+|---|---:|
 | Between 90 days and 1 year | 797.60	| 
 | Between 1 and 2 years | 1,196.40 |
 | 2 years or more | 1,595.20 |
