@@ -58,7 +58,9 @@ When you get your picture taken, you'll need to show a current form of primary i
 
 - State-issued driver’s license, **or**
 - U.S. passport or passport card, **or**
-- Other government ID issued by a federal, state, or local government agency <br> **Note:** This ID must show your picture and date of birth. If it doesn't also show your address, you'll need to bring another document to confirm your address. This may include your electric bill, cable bill, 
+- Other government ID issued by a federal, state, or local government agency <br>
+
+**Note:** This ID must show your picture and date of birth. If it doesn't also show your address, you'll need to bring another document to confirm your address. This may include your electric bill, cable bill, 
 or voter registration card, or another mailed document.
 
 After we take your picture, we'll process your VHIC and send it to you by mail. You should receive your card within  10 days.
