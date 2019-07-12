@@ -40,7 +40,7 @@ Contact the Memorial Products Service Application Assistance Unit. You'll need t
 
 ### By phone
 
-Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. We're here Monday through Friday, 8:00 a.m. to 5:00 p.m. ET.
+Call us toll-free at <a href="tel:+18006976947">800-697-6947</a>. We're here Monday through Friday, 8:00 a.m. to 5:00 p.m. ET.
 
 ### Online
 
@@ -50,12 +50,12 @@ Call us toll-free at <a href="tel:+18006976947">1-800-697-6947</a>. We're here M
 
 We'll replace a government-issued headstone or marker, at no cost to you, for any of these reasons:
 
-- Its condition has gotten worse over time
-- The inscription can no longer be easily read
-- The inscription isn't correct
-- It was stolen or vandalized
-- It was damaged during shipping
-- It doesn't meet the contract requirements
+- Its condition has gotten worse over time.
+- The inscription can no longer be easily read.
+- The inscription isn't correct.
+- It was stolen or vandalized.
+- It was damaged during shipping.
+- It doesn't meet the contract requirements.
 
 **Note:** We won't cover the cost if the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case, the private cemetery is responsible for paying all replacement costs. 
 
