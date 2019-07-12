@@ -39,14 +39,14 @@ Review Montgomery GI Bill Selected Reserve (MGIB-SR) rates for the 2019 academic
 We base your monthly rate (or payment amount) on how many courses you’re taking, up to full-time enrollment. We’ll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're enrolled...** | **We'll pay this amount each month** |
+| **If you're enrolled...** | **We'll pay you this amount each month** |
 |--|--|
 | Full-time | 384.00 |
 | 3/4-time | 287.00 |
 | 1/2-time | 191.00 |
 | Less than 1/2-time | 96.00 |
 
-If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 ------
 ## MGIB-SR rates for apprenticeships and on-the-job training
@@ -55,7 +55,7 @@ If you have questions about your rates, please call us at <a href="tel:+18884424
 We base your monthly rate (or payment amount) on where you're at in your training. We'll pay you directly each month.
 
 All rates in $ U.S. dollars
-| **If you're at this point in your training...** | **We'll pay this amount each month** |
+| **If you're at this point in your training...** | **We'll pay you this amount each month** |
 |--|--|
 | First 6 month | 288.00 |
 | 6 to 12 months | 211.20 |
@@ -74,7 +74,8 @@ We’ll pay **55%** of the approved charges for distance-learning courses.
 We’ll pay **60%** of the approved charges for flight training.
 
 ### Cooperative training
-The cooperative training program lets you go to school full-time for a period, and then work 
-full-time for a period. If you’re participating in this program, we'll pay up to **$384.00** each month for courses at approved schools.
+With the cooperative training program, you can alternate periods of going to school full-time with periods of training at a business or industrial company full-time. 
 
-If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+We'll pay up to **$384.00** each month, depending on the type of approved school you're attending.
+
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>. We're here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
