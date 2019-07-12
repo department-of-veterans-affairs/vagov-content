@@ -43,7 +43,7 @@ Review Montgomery GI Bill Active Duty (also called MGIB-AD) rates for the 2019 a
 ## MGIB-AD rates if you served at least 3 years on active duty
 **Effective October 1, 2018**
 
-If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 ### For colleges, universities, trade schools, and other institutions of higher learning
 
@@ -86,7 +86,7 @@ With the cooperative training program, you can alternate periods of going to sch
 <span id="2-3-years"></span>
 ## MGIB-AD rates if you served between 2 to 3 years on active duty
 
-If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 ### For colleges, universities, trade schools, and other institutions of higher learning
 
@@ -130,7 +130,7 @@ We'll pay up to **$1,619.00** each month, depending on the type of approved scho
 ## MGIB-AD rates for remaining entitlement for certain Vietnam Era Veterans 
 **Effective October 1, 2017**
 
-If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. 
+If you have questions about your rates, please call us at <a href="tel:+18884424551">888-442-4551</a>, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 
 ### For schools and other institutional training
 
