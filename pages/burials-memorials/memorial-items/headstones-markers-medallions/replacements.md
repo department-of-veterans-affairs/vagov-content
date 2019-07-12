@@ -57,12 +57,12 @@ We'll replace a government-issued headstone or marker, at no cost to you, for an
 - It was damaged during shipping
 - It doesn't meet the contract requirements
 
-**We won't cover the cost if** the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case, the private cemetery is responsible for paying all replacement costs. 
+**Note:** We won't cover the cost if the headstone or marker is located in a private cemetery and has been damaged by cemetery personnel. In this case, the private cemetery is responsible for paying all replacement costs. 
 
 ## Will the replacement headstone or marker look the same as the original?
 
 Yes. When we replace a historic (more than 50 years old) headstone or marker, the replacement is the same type and style as the original (called "replacing in kind").
   
-## What happens to a headstone or marker after it's replaced? 
+## What happens to a headstone or marker that's been removed? 
 
 If a marble or granite headstone or marker is removed from a grave, it must be destroyed so the inscription can no longer be read. Bronze markers must be returned to the contractor.
