@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Replacement headstones and markers
 display_title: Replacement headstones and markers
-description: Learn how to request a replacement headstone or gravemarker. 
+description: Learn how to request a replacement headstone or grave marker. 
 keywords: n/a
 order: 7
 relatedlinks:
@@ -27,7 +27,7 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Learn how to request a replacement headstone or gravemarker. 
+Learn how to request a replacement headstone or grave marker. 
 </div>
 
 ## How do I request a replacement headstone or marker? 
