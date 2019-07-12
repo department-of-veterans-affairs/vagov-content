@@ -2,8 +2,8 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Burial At Sea
-heading: Burial at Sea
-display_title: Burial at Sea
+heading: Burial at sea
+display_title: Burial at sea
 description: Review Navy burial at sea information and find contact information for the U.S. Navy Mortuary Affairs office. 
 keywords: burial at sea, navy burial at sea
 collection: burials
