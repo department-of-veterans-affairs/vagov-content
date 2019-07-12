@@ -65,13 +65,13 @@ After we take your picture, we'll process your VHIC and send it to you by mail. 
 
 ## What should I do if I don't receive my VHIC in the mail? 
 
-If it's been more than 10 days since you've had your picture taken and you haven’t received your card, please call the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+If it's been more than 10 days since you've had your picture taken and you haven’t received your card, please call the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. Or call us at <a href="tel:+18772228387">877-222-8387</a>. We're here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 711. 
 
 ## What should I do if my VHIC is lost or stolen?
 
-Contact the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken to ask for a new card. Or call us at <a href="tel:+18772228387">877-222-8387</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. 
+You can request a replacement card at the [VA medical center](https://www.va.gov/find-locations/?zoomLevel=4&page=1&address=&facilityType=health&serviceType) where you had your picture taken. You'll need to bring your driver's license, passport, or other government ID or be able to answer a series of challenge questions so we can verify your identity before we give you a new card.
 
-**Note:** You’ll need to bring your driver's license, passport, or other government ID again when you go to get a replacement card.
+If you've changed your medical center since getting your original card, you can contact the medical center where you currently receive care. Or, call us at <a href="tel:+18772228387">877-222-8387</a>, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. Our staff will need to verify your identity with a series of challenge questions before we can send a new card.
 
 ## What should I do with my old Veterans identification card?
 
