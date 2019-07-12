@@ -22,7 +22,7 @@ relatedlinks:
       title: Review your VA payment history    
       description: Review your payment history for VA education and other benefits.    
     - url: /change-direct-deposit/
-      description: Change your VA direct deposit information
+      title: Change your VA direct deposit information
       description: Find out how to change your GI Bill direct deposit and contact information.  
 
 ---
