@@ -49,7 +49,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 
 [See an example of an upright marble headstone](https://www.cem.va.gov/cem/docs/factsheets/HeadstoneMarkerMedallion_Brochure.pdf)
 
-**Note:** Civil War and Spanish American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
+**Note:** Civil War and Spanish-American War Veterans who served in either Union or Confederate forces can get special headstones. To request one of these headstones, follow the instructions for [applying for a headstone or marker](/burials-memorials/memorial-items/headstones-markers-medallions/). Fill out block 27 of the [Claim for Headstone or Marker application](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf). 
 
 ## What does a marker look like?
 
@@ -78,7 +78,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 <div id="flat-bronze" class="usa-accordion-content">
   
 
-- **Dimensions:** 24 inches long by 12 inches wide by 3/4 inch thick (rise)
+- **Dimensions:** 24 inches long by 12 inches wide by 3/4 inches thick (rise)
 - **Weight:** About 18 pounds
 - **Additional details:** We don't provide you with a base, but we do give you anchor bolts, nuts, and washers for attaching the marker to its base.
 
@@ -88,7 +88,7 @@ A headstone stands upright and is specially carved and inscribed with details ab
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="bronze-niche">Bronze niche (to mark the location of the urn)</button>
 <div id="bronze-niche" class="usa-accordion-content">
   
-- **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inch thick (rise)
+- **Dimensions:** 8 1/2 inches long by 5 1/2 inches wide by 7/16 inches thick (rise)
 - **Weight:** About 3 pounds
 - **Additional details:** We provide you with mounting bolts and washers.
 
@@ -182,9 +182,9 @@ Veterans can get a medallion if both of these are true. They:
 <div id="bronze-med" class="usa-accordion-content">
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
-**Medium:** 3-3/4 inches wide  by 2-7/8 inches tall by 1/4 inch diameter <br>
-**Small:** 2 inches wide by 1-1/2 inches tall by 1/3 inch diameter <br>
+**Large:** 6 3/8 inches wide by 4 3/4 inches tall by 1/2 inch diameter <br>
+**Medium:** 3 3/4 inches wide  by 2 7/8 inches tall by 1/4 inch diameter <br>
+**Small:** 2 inches wide by 1 1/2 inches tall by 1/3 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with "VETERAN" at the top and the Veteran's branch of service on the bottom.
 
@@ -197,8 +197,8 @@ Veterans can get a medallion if both of these are true. They:
 <div id="moh-2" class="usa-accordion-content">
 
 - **Dimensions**: <br>
-**Large:** 6-3/8 inches wide by 4-3/4 inches tall by 1/2 inch diameter <br>
-**Medium:** 3-3/4 inches wide  by 2-7/8 inch tall by 1/4 inch diameter <br>
+**Large:** 6 3/8 inches wide by 4 3/4 inches tall by 1/2 inch diameter <br>
+**Medium:** 3 3/4 inches wide  by 2 7/8 inch tall by 1/4 inch diameter <br>
 - **Material:** Bronze
 - **Inscription:** Each medallion is inscribed with "MEDAL OF HONOR" at the top and the Veteran's branch of service on the bottom.
 
@@ -273,4 +273,4 @@ To apply for a headstone or marker in a historical style, you'll need to show pr
 
 If you don't have detailed primary documentation, you can request it through the [National Archives and Records Administration (NARA)](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records). 
 
-The fee for requesting records is between $25 and $75. The National Archives will send your records 60-90 days from the date of your request. 
+The fee for requesting records is between $25 and $75. The National Archives will send your records 60 to 90 days from the date of your request. 
