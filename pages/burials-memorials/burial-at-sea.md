@@ -27,9 +27,9 @@ relatedlinks:
 Learn about Navy's burial at sea program and find out if you can plan a burial at sea for a Veteran.  
 </div>
 
-## Is burial at sea a Navy or National Cemetery Administration program?
+## Is burial at sea provided by the Navy or the National Cemetery Administration?
 
-The U.S. Navy provides burial at sea. The National Cemetery Administration can't provide this type of committal service. 
+The U.S. Navy provides burial at sea. The National Cemetery Administration can't perform this type of committal service. 
 
 Learn more about [the Navy's burial at sea program](https://www.navy.mil/navydata/questions/burial.html).
 
