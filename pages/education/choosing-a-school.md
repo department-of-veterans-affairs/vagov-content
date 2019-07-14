@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Choosing GI Bill approved schools
+title: Choosing GI Bill Approved Schools
+heading: Choosing GI Bill approved schools
 display_title: Choosing a school
 plainlanguage: 11-27-16 certified in compliance with the Plain Writing Act
 children: educationChooseSchool

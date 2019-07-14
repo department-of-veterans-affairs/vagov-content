@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors’ and Dependents’ Educational Assistance program
+title: Survivors’ And Dependents’ Educational Assistance Program
+heading: Survivors’ and Dependents’ Educational Assistance program 
 display_title: Dependents Education Assistance (DEA)
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
@@ -56,7 +57,7 @@ We’ll send you a monthly payment to help you cover the cost of:
 
 **Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on or after August 1, 2018, you can get benefits for up to 36 months.
 
-[View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp)
+[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)
 
 ### What if I qualify for both DEA and the Fry Scholarship?
 
