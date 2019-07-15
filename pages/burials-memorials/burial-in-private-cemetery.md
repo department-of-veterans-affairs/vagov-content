@@ -43,16 +43,13 @@ Yes. Veterans buried in a private cemetery may be eligible for these memorial it
 - Burial flag
 - Presidential Memorial Certificate
 
-[See if you’re eligible for a memorial item and learn how to apply](/burials-memorials/memorial-items/headstones-markers-medallions/)
+[Learn more about eligibility for a memorial item](/burials-memorials/memorial-items/headstones-markers-medallions/)
 
-### If I'm planning my own burial in a private cemetery, can I find out which memorial items I'm eligible for? 
+### If I'm planning in advance for my own burial in a private cemetery, how can I find out which memorial items I'm eligible for? 
 
-Yes. You can find out which burial benefits you're eligible for by filling out the [Pre-need Eligibility application](https://www.va.gov/burials-memorials/pre-need-eligibility/). This application can be used to determine if you can get a VA headstone or marker. 
+You can fill out a pre-need eligibility application to determine if you can get a VA headstone or marker. Learn more about [pre-need eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/).
 
-If you want to be buried in a private cemetery, the Pre-need Eligibility application will help your family as they plan your burial. **Note:** When a family member submits a [Claim for Standard Government Headstone or Marker](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf), please include this note in box 27: "Decedent has a VA pre-need decision letter."
-
-**Please note:** “Pre-need” means before the time of need. This application is for planning for your own burial in advance. Please don’t complete the Pre-need eligibility application if you’re requesting burial at the time of need.
-[Find out how to plan a burial](https://www.va.gov/burials-memorials/plan-a-burial/)
+**Note:** In their time of need, when a family member submits a [Claim for Standard Government Headstone or Marker](https://www.va.gov/vaforms/va/pdf/va40-1330.pdf), they should include this note in block 27: "Decedent has a VA pre-need decision letter."
 
 ### Is a family member buried in a private cemetery eligible for memorial items?
 
@@ -64,13 +61,13 @@ And if a Veteran is buried at a private cemetery, we can't pay to have a family 
 
 ### How much does a burial in a private cemetery cost?
 
-It depends. We provide memorial items to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend you ask about these additional costs when planning a burial in a private cemetery. 
+It depends. We provide memorial items to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend that you ask about these additional costs when planning a burial in a private cemetery. 
 
 ### Can VA help with the cost of a Veteran's burial in a private cemetery?
 
 Yes. If a Veteran is eligible, we can help you with the cost of their burial. 
 
-[Learn more about burial allowance and find out how to apply](https://www.va.gov/burials-memorials/veterans-burial-allowance/)
+Learn more about [burial allowance] and find out how to apply(/burials-memorials/veterans-burial-allowance/).
 
 
 ## How do I request a memorial item for a private cemetery burial?
@@ -83,12 +80,14 @@ Yes. If a Veteran is eligible, we can help you with the cost of their burial.
 <b>For a headstone, grave marker, or niche cover:</b>
 <br>
 
-Fill out a [Claim for Standard Government Headstone or Marker (VA Form 40-1330)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf).
+Fill out a Claim for Standard Government Headstone or Marker (VA Form 40-1330).<br>
+[Download VA Form 40-1330 (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330.pdf)
 
-<b>Note:</b> If this is your second request, or if you’re requesting a [replacement](https://www.cem.va.gov/cem/hmm/replacements.asp), please explain this in block 27 of the form.
+<b>Note:</b> If this is your second request, or if you’re requesting a [replacement](/burials-memorials/memorial-items/headstones-markers-medallions/replacements/), please explain this in block 27 of the form.
 
 **For a medallion to be placed on a privately purchased headstone or marker:** <br>
-Fill out a [Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf). 
+Fill out a Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M).<br>
+[Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf) 
 
 <b>Note:</b> If you're requesting an MOH medallion, check "Other" in block 11 of the form and write "MOH." 
 
@@ -99,9 +98,9 @@ Fill out a [Claim for Government Medallion for Placement in a Private Cemetery (
 #### Make a copy of the Veteran's DD214 or other discharge documents
 <br> 
 
-Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. Don’t send the originals, because we can’t return them.
+Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. Don’t send the originals since we can’t return them.
 
-[Learn more about which discharge documents we'll accept.](/records/discharge-documents/) 
+[Learn more about which discharge documents we'll accept](/records/discharge-documents/)
 
  </li>
  
@@ -124,17 +123,15 @@ Prepare a copy of the Veteran's DD214 or other discharge papers to send to us. D
 
 ##### By fax
 
-Fax the documents to <a href="tel:+18004557143">1-800-455-7143</a>.
+Fax the documents to <a href="tel:+18004557143">800-455-7143</a>.
  
  </li>
 </ol>
-**Note:** Only the National Cemetery Administration (NCA) can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
-[Find out more about requesting memorial items.](/burials-memorials/memorial-items/headstones-markers-medallions/)
+**Note:** Only the National Cemetery Administration can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
-#### Need help?
-
-Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">1-800-697-6947</a>.
+Find out more about [requesting memorial items](/burials-memorials/memorial-items/headstones-markers-medallions/).
+Get help applying for a headstone, marker, niche cover, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
 
 ## More information about burial in a private cemetery
 ### What questions should I ask to prepare for a private cemetery burial? 
@@ -167,11 +164,3 @@ Contact the cemetery, funeral home, or other party responsible for accepting del
 
 If you have a complaint about a private cemetery policy, there are organizations that can help you resolve it. 
 [Get help resolving your complaint (PDF).](https://www.cem.va.gov/cem/docs/factsheets/cando.pdf)
-
-
-
-
-
-
-
-
