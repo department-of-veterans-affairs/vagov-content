@@ -93,7 +93,7 @@ When you file a disability claim, you'll also need to fill out one of these addi
 **Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for disability benefits. We won't offer you treatment during this process.
 
 **If you’re looking for treatment options,** please talk with your health care provider or learn more about accessing VA services for PTSD. <br>
-[Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#access-services)
+[Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#how-do-i-access-va-services-fo)
 
 **If you're in crisis and need to talk with someone right now,** you can connect with a Veterans Crisis Line responder any time, day or night. <br>
 [Find out how to get support now](#get-help-now)
