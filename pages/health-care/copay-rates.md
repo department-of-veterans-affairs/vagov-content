@@ -23,16 +23,36 @@ relatedlinks:
 
 <h3>Effective January 1, 2019</h3>
 
-<b>View rates for:</b>
+<b>Review rates for:</b>
+- [Urgent care](#urgent)
 - [Outpatient care](#outpatient)
 - [Inpatient care](#inpatient)
 - [Medications](#medications)
 - [Geriatric and extended care](#geriatrics)
 
-[View services that don't require a copay](#exempt)
+[Review services that don't require a copay](#exempt)
 
 <b>Note:</b> Some Veterans don't have to pay copays (they're "exempt") due to their disability rating, income level, or special eligibility factors. <br>
 [Learn how we determine whether you'll pay copays](/health-care/about-va-health-benefits/health-care-costs/)
+
+------
+<span id="urgent"></span>
+<h2>Urgent care copay rates</h2>
+<b>(Care for minor illnesses and injuries)</b>
+
+To be eligible for urgent care benefits, including through our network of approved community providers, you must:
+- Be enrolled in the VA health care system, **and**
+- Have received care from us within the past 24 months (2 years), **and**
+- Agree to pay any copays related to your care
+
+<h4>2019 urgent care copay rates</h4>
+| Your priority group | Copay amount | 
+| ---------- | --------------- | 
+| <strong>1 through 5</strong>  | <strong>First 3 visits in each calendar year:</strong> $0 (no copay) <br> <strong>Each additional visit in the same calendar year:</strong> $30 | 
+| <strong>6</strong>     | <strong>If related to a condition that's covered by a special authority:</strong> <ul><li><strong>First 3 visits in each calendar year:</strong> $0 (no copay)</li><li><strong>Each additional visit in the same calendar year:</strong> $30</li></ul> <br> <strong>If related to a condition that's covered by a special authority:</strong> $30 for each visit                | 
+| <strong>7 to 8</strong>       | $30 for each visit                | 
+
+**Note:** You won't have to pay any copay for a visit where you're only getting a flu shot, no matter your priority group.
 
 ------
 <span id="outpatient"></span>
