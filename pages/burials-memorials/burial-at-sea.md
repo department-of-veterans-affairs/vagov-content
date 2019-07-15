@@ -4,7 +4,7 @@ template: detail-page
 title: Burial At Sea
 heading: Burial at sea
 display_title: Burial at sea
-description: Review Navy burial at sea information and find contact information for the U.S. Navy Mortuary Affairs office. 
+description: Learn about the Navy's Burial at Sea program and find out how to contact the U.S. Navy Mortuary Affairs office. 
 keywords: burial at sea, navy burial at sea
 collection: burials
 spoke: More resources
@@ -24,14 +24,14 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Learn about Navy's burial at sea program and find out if you can plan a burial at sea for a Veteran.  
+Learn about the Navy's Burial at Sea program and find out if you can plan a burial at sea for a Veteran.  
 </div>
 
 ## Is burial at sea provided by the Navy or the National Cemetery Administration?
 
 The U.S. Navy provides burial at sea. The National Cemetery Administration can't perform this type of committal service. 
 
-Learn more about [the Navy's burial at sea program](https://www.navy.mil/navydata/questions/burial.html).
+Learn more about [the Navy's Burial at Sea program](https://www.navy.mil/navydata/questions/burial.html).
 
 For more information, call the U.S. Navy Mortuary Affairs office at <a href="tel:18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. ET.
 
