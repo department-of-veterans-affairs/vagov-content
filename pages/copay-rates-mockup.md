@@ -9,10 +9,10 @@ lastupdate: 2019-02-07
 relatedlinks:
   - heading: Other information you may need
     links:
-    - url: /health-care/pay-copay-bill/
+    - url: /disability/
       title: Pay your copay bill
       description: Find out how to pay your copay bill—and what to do if you disagree with the charges or are having trouble making payments.
-    - url: /health-care/about-va-health-benefits/health-care-costs/
+    - url: /disability/
       title: Your health care costs
       description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
       
@@ -30,7 +30,7 @@ relatedlinks:
 [Review services that don't require a copay](#exempt)
 
 <b>Note:</b> Some Veterans don't have to pay copays (they're "exempt") due to their disability rating, income level, or special eligibility factors. <br>
-[Learn how we determine whether you'll pay copays](/health-care/about-va-health-benefits/health-care-costs/)
+[Learn how we determine whether you'll pay copays](/disability/)
 
 ------
 <span id="urgent"></span>
@@ -130,7 +130,7 @@ The amount you’ll pay for these medications will depend on the “tier” of t
 
 <b>If you have a service-connected rating of 40% or less and your income falls at or below the national income limits for receiving free medications,</b> you may want to provide your income information to us to determine if you qualify for free medications. <br>
 [View the current VA national income limits](http://nationalincomelimits.vaftl.us/) <br>
-[Find out how we determine your health care costs](/health-care/about-va-health-benefits/health-care-costs/)
+[Find out how we determine your health care costs](/disability/)
 
 ------
 
@@ -149,7 +149,7 @@ You won't need to pay a copay for geriatric care (also called elder care) or ext
 |<b>Outpatient care</b> | <li>Adult day health care (care in your home or at a facility that provides daytime social activities, companionship, recreation, care, and support)</li><li>Daily respite care (in-home or onsite care designed to give family caregivers a break, available up to 30 days each calendar year)</li><li>Geriatric evaluations that don't require an overnight stay (evaluations by a team of health care providers to help you and your family decide on a care plan)</li></ul> | Up to $15 |
 |<b>Domiciliary care for homeless Veterans</b> | <ul><li>Short-term rehabilitation</li><li>Long-term maintenance care</li></ul> | Up to $5 |
 
-[Learn more about long-term care options](https://vagov-content-pr-246.herokuapp.com/health-care/about-va-health-benefits/long-term-care/)
+[Learn more about long-term care options](/disability/)
 
 ------
 
