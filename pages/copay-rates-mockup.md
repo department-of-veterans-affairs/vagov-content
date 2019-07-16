@@ -28,7 +28,7 @@ lastupdate: 2019-02-07
 <h2>Urgent care copay rates</h2>
 <b>(Care for minor illnesses and injuries)</b>
 
-To be eligible for urgent care benefits, including through our network of approved community providers, you must:
+To be eligible for [urgent care benefits](https://www.va.gov/COMMUNITYCARE/programs/veterans/Urgent_Care.asp), including through our network of approved community providers, you must:
 - Be enrolled in the VA health care system, **and**
 - Have received care from us within the past 24 months (2 years), **and**
 - Agree to pay any copays related to your care
