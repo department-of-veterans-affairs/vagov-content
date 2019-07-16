@@ -6,15 +6,6 @@ display_title: Copay Rates
 description: Review VA health care eligibility criteria. Find out if you qualify for VA health care, how VA priority groups may affect you, and how to apply.
 plainlanguage: 
 lastupdate: 2019-02-07
-relatedlinks:
-  - heading: Other information you may need
-    links:
-    - url: /disability/
-      title: Pay your copay bill
-      description: Find out how to pay your copay bill—and what to do if you disagree with the charges or are having trouble making payments.
-    - url: /disability/
-      title: Your health care costs
-      description: Learn how we assess and verify your income to help determine if you're eligible for VA health care and whether you'll need to pay copays for certain types of care, tests, and medications.
       
 ---
 
@@ -43,10 +34,10 @@ To be eligible for urgent care benefits, including through our network of approv
 - Agree to pay any copays related to your care
 
 <h4>2019 urgent care copay rates</h4>
-| Your priority group | Copay amount for first 3 visits in each calendar year | Copay amount for each additional visit each year | 
+| Priority group | Copay amount for first 3 visits in each calendar year | Copay amount for each additional visit in the same year | 
 | ---------- | --------------- | --------------- | 
-| <strong>1 through 5</strong>  | $0 (no copay) | $30 | 
-| <strong>6</strong> | <ul><li><strong>If related to a condition that's covered by a special authority:</strong> $0 (no copay)</li><li><strong>If not related to a condition covered by a special authority: $30 each visit</strong> | $30 |  
+| <strong>1 to 5</strong>  | $0 (no copay) | $30 | 
+| <strong>6</strong> | <strong>If related to a condition that's covered by a special authority:</strong> $0 (no copay) <br> <br> <strong>If not related to a condition covered by a special authority:</strong> $30 each visit | $30 |  
 | <strong>7 to 8</strong>       | $30 | 
 
 **Note:** You won't have to pay any copay for a visit where you're only getting a flu shot, no matter your priority group.
