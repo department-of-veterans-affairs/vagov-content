@@ -58,6 +58,12 @@ social:
           title: "Call MyVA311 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
+  - heading: Not a Veteran?
+    subsections:
+      - subhead: "Get education and training information for:"
+        links:
+        - url: https://www.benefits.va.gov/gibill/school_resources.asp
+          label: School administrators
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
