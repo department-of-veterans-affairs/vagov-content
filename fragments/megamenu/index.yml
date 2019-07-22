@@ -305,7 +305,7 @@
       - text: Veterans Choice Program
         href: https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp
       - text: VA open data
-        href: https://www.va.gov/data/
+        href: https://www.data.va.gov
         target: _blank
       - text: Veterans analysis and statistics
         href: https://www.va.gov/VETDATA/index.asp
