@@ -1,0 +1,133 @@
+---
+layout: page-breadcrumbs.html
+title: Eligibility For VA Vocational Rehab And Employment
+heading: Eligibility for VA Vocational Rehab and Employment
+display_title: Eligibility
+description: Review VA Vocational Rehab and Employment (VR&amp;E) eligibility requirements for Veterans and active-duty service members. If you have a service-connected disability that limits your ability, you may be eligible for vocational rehabilitation services.
+keywords: vocational rehab, vocational rehabilitation eligibility, vocational rehab services, vocational rehab va eligibility
+order: 2
+template: detail-page
+majorlinks:
+  - heading: More information about VR&E benefits and services
+    links:
+    - url: /careers-employment/vocational-rehabilitation/programs/
+      title: Vocational Rehab programs for service members and Veterans
+      description: Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job.
+    - url: /careers-employment/vocational-rehabilitation/how-to-apply/
+      title: How to apply for VA Vocational Rehab and Employment
+      description: Find out how to apply for VR&E benefits and services as a service member or Veteran.
+    - url: /careers-employment/dependent-benefits/
+      title: Dependent family members
+      description: If you're the dependent family member of a service member or Veteran with a service-connected disability, find out if you may be eligible for certain counseling services, training, and education benefits.
+---
+
+<div class="va-introtext">
+
+Review VA Vocational Rehab and Employment (VR&amp;E) eligibility requirements for Veterans and active-duty service members. If you have a disability that was caused—or made worse—by your active-duty service and that limits your ability to work or prevents you from working, you may be able to get employment support or services to help you live as independently as possible.
+
+</div>
+
+<div class="feature" markdown="1">
+
+### If I'm a Veteran, am I eligible for Vocational Rehab and Employment?
+
+You may be eligible for VR&amp;E benefits and services if you’re a Veteran, and you meet all of the requirements listed below.
+
+**All of these must be true. You:**
+
+- Didn't receive a dishonorable discharge, **and**
+- Have a service-connected disability rating of at least 10% from VA, **and**
+- [Apply for VR&amp;E services](/careers-employment/vocational-rehabilitation/how-to-apply/)
+
+<br>
+
+#### Basic period of eligibility
+
+**Your basic period of eligibility ends 12 years from the date you received notice of your:**
+- Date of separation from active military service, **or**
+- First VA service-connected disability rating
+
+**Please note:** The basic period of eligibility may be extended if a Vocational Rehabilitation Counselor (VRC) finds that you have a serious employment handicap (SEH). Having an employment handicap means your service-connected disability limits your ability to prepare for, obtain, and maintain suitable employment (a job that doesn’t make your disability worse, is stable, and matches your abilities, aptitudes, and interests).
+
+<br>
+
+### If I'm still on active duty, am I eligible for Vocational Rehab and Employment?
+
+You may be eligible for VR&amp;E benefits and services if you're a service member and you meet at least one of the requirements listed below.
+
+**At least one of these must be true. You:**
+
+- Have a 20% or higher pre-discharge disability rating (memorandum rating) and will soon leave the military, **or**
+- Are participating in the Integrated Disability Evaluation System (IDES) process or awaiting discharge due to a medical condition resulting from a serious injury or illness that occurred in the line of duty. <br>
+[Learn more about accessing VR&E services through IDES](/careers-employment/vocational-rehabilitation/ides/)
+
+**Please note:** Severely injured active-duty service members can automatically receive VR&E benefits before VA issues a disability rating, because of Sec. 1631(b) of the National Defense Authorization Act (PL 110-181).
+
+<br>
+
+### What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+
+If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+
+**There are 2 ways you can try to qualify:**
+
+[Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
+[Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
+
+</div>
+
+## How do I apply?
+
+You can apply online right now.
+
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vocational-rehabilitation-and-employment">Go to eBenefits to apply</a>
+
+[Learn more about how to apply for VR&E](/careers-employment/vocational-rehabilitation/how-to-apply/) <br>
+**Note:** You can apply even if you're a service member without a disability rating yet.
+
+
+## What kind of VR&E services can I get?
+
+**Depending on your needs and goals, services may include:**
+
+- A complete evaluation to determine your abilities, skills, and interests for employment
+- Vocational counseling and rehabilitation planning for employment services
+- Employment services such as job training, resume development, and other work-readiness support
+- Help finding and keeping a job, including the use of special employer incentives and job accommodations
+- On-the-job training (OJT), apprenticeships, and non-paid work experiences
+- Post-secondary training at a college, vocational, technical, or business school
+- Supportive rehabilitation services including case management, counseling, and medical referrals
+- Independent living services if you're unable to work due to the severity of your disabilities
+
+## If I'm eligible for GI Bill benefits, can I get paid the Post-9/11 GI Bill subsistence rate for my VR&E program?
+If you're participating in a VR&E program and also qualify for Post-9/11 GI Bill benefits, you can choose to get paid the GI Bill subsistence rate instead of the Chapter 31 subsistence allowance rate. In most cases the GI Bill rate is higher.
+
+You'll need to officially choose the GI Bill subsistence rate. Your VRC can help you with this.<br>
+[Contact your VRC for more information](/find-locations/)<br>
+[View the current Chapter 31 subsistence allowance rates](https://benefits.va.gov/VOCREHAB/subsistence_allowance_rates.asp?_ga=2.203704281.836500684.1545080344-1582256389.1508352376)<br>
+[View the current Post-9/11 GI Bill benefit rates](/education/benefit-rates/)
+
+
+## Get more information
+
+**We offer opportunities to get training and practical hands-on work experience at the same time through programs like:**
+- **The VR&E Special Employer Incentives (SEI) program** for eligible Veterans who face challenges getting a job. <br>
+  [Download the SEI program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/SpecialEmployerIncentive.pdf)
+- **The VR&E Non-Paid Work Experience (NPWE) program** for eligible Veterans and service members who have an established career goal and learn easily in a hands-on environment—or are having trouble getting a job due to lack of work experience. <br>
+  [Download the NPWE program fact sheet (PDF)](https://benefits.va.gov/BENEFITS/factsheets/vocrehab/Non-paidWorkExperience.pdf)<br>
+  [Watch this video to learn more about the NPWE program](https://www.youtube.com/watch?v=t2J3RPQOiuM)
+
+**We also offer:**
+- VR&E employment coordinators—located at our VA regional offices and many of our out-based locations—who can help you access the employment services available to you. <br>
+[Find an employment coordinator near you](https://www.benefits.va.gov/VOCREHAB/docs/EmploymentCoordinators.xlsx)
+- Counselors to help you transition from military to college life. <br>
+[Learn about VetSuccess on Campus](/careers-employment/vetsuccess-on-campus/)
+- Links to more resources outside VA that can help you in your job search. <br>
+[See our list of external resources](/careers-employment/veteran-resources/)
+- If you're participating in a VR&E employment program and lost your housing because of a natural or other disaster, you may qualify for 2 more months of the Employment Adjustment Allowance.<br>
+[Contact your VRC for more information](/find-locations/)
+
+**Watch these videos to learn more about VR&E:**<br>
+[VR&E Chapter 31 services](https://www.youtube.com/watch?v=pq1eDxZv1Zk&feature=youtu.be)<br>
+[VR&E's 5 tracks to employment](https://www.youtube.com/watch?v=iWjc8aYPqqg&feature=youtu.be)
+<br>
