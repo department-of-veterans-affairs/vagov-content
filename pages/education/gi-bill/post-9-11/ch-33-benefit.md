@@ -1,7 +1,7 @@
 ---
 layout: page-react-sidebar.html
-title: Check your Post-9/11 GI Bill benefits status
-heading: Check Your Post-9/11 GI Bill Benefits Status
+title: Check Your Post-9/11 GI Bill Benefits Status
+heading: Check your Post-9/11 GI Bill benefits status
 display_title: Check Post-9/11 GI Bill benefits
 collection: education
 spoke: Manage benefits
