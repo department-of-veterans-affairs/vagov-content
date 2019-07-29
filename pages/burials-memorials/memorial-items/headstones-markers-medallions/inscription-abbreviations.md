@@ -1,5 +1,5 @@
 ---
-title: Inscription Abbreviations
+title: Inscription abbreviations
 href: https://www.cem.va.gov/cem/hmm/abbreviations.asp
 order: 4
 private: true
