@@ -15,7 +15,7 @@ aliases:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-Find out if you can use GI Bill benefits for college as a Veteran, service member, or qualified dependent. Learn about payment rates for undergraduate and graduate degree courses at institutions of higher learning-- like a 4-year university, community college, or graduate school. 
+Find out if you can use GI Bill benefits for college as a Veteran, service member, or qualified dependent. Learn about payment rates for undergraduate and graduate degree courses at institutions of higher learning&mdash;like a 4-year university, community college, or graduate school. 
 
 </div>
 
