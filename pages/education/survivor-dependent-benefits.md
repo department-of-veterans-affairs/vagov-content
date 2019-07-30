@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivor And Dependent Benefits 
+title: Survivor And Dependent Benefits
 heading: VA education benefits for survivors and dependents
 display_title: Survivor and dependent benefits
 description: Find out if you're eligible and how to apply for GI Bill and other VA education benefits for dependents and survivors. You can also compare the benefits offered through the Survivors' and Dependents' Educational Assistance (DEA) program and the Fry Scholarship.
@@ -10,14 +10,12 @@ concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 children: educationGIBillSurvivors
 order: 8
-spoke: Get Benefits
-aliases:
-  - /education/gi-bill/survivors-dependent-assistance/
+spoke: Get benefits
 ---
 
 <div class="va-introtext">
 
-Find out if you're eligible for VA education benefits for dependents and survivors (also called Chapter 35 benefits). If you’re a dependent spouse or child—or the surviving spouse or child—of a Veteran, you may qualify for Chapter 35 benefits or job training through a GI Bill program. 
+Find out if you're eligible for VA education benefits for dependents and survivors (also called Chapter 35 benefits). If you’re a dependent spouse or child—or the surviving spouse or child—of a Veteran, you may qualify for Chapter 35 benefits or job training through a GI Bill program.
 
 </div>
 
@@ -28,7 +26,7 @@ Find out if you're eligible for VA education benefits for dependents and survivo
 
 **You may qualify for VA education benefits (Chapter 35 benefits) if you’re the child or spouse of a service member** and one of the below descriptions is true of the service member.
 
-**One of these must be true. The Servicemember:**
+**One of these must be true. The service member:**
 
 - Died in the line of duty after September 10, 2001, **or**
 - Is missing in action or was captured in the line of duty by a hostile force, **or**
@@ -42,11 +40,11 @@ Find out if you're eligible for VA education benefits for dependents and survivo
 -	Died while on active duty or as a result of a service-connected disability
 
 If you’re a dependent who doesn’t meet the above criteria, you may still qualify for VA education benefits if the Veteran or service member transferred some or all of their Post-9/11 GI Bill entitlement to you while they were on active duty. <br>
-[Learn about transferred benefits](/education/transfer-post-9-11-gi-bill-benefits/).
+[Learn about transferred benefits](/education/transfer-post-9-11-gi-bill-benefits/)
 
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 - Education and training
 - Money for tuition
@@ -55,24 +53,24 @@ If you’re a dependent who doesn’t meet the above criteria, you may still qua
 
 --------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to apply. <br>
 [Apply for VA education benefits (Chapter 35 benefits)](/education/how-to-apply/).
 
 There are 2 main GI Bill programs offering educational assistance to survivors and dependents of Veterans:
 
-- The Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship) is for children and spouses of Servicemembers who died in the line of duty after September 10, 2001. <br>
-[Get more information about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/).
+- The Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship) is for children and spouses of service members who died in the line of duty after September 10, 2001. <br>
+[Get more information about the Fry Scholarship](/education/survivor-dependent-benefits/fry-scholarship/)
 - The Survivors' and Dependents' Educational Assistance (DEA) program offers education and training to qualified dependents of Veterans who are permanently and totally disabled because of a service-related condition or who died while on active duty or as a result of a service-related condition. <br>
-[Get more information about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/).
+[Get more information about the DEA program](/education/survivor-dependent-benefits/dependents-education-assistance/)
 
 **Note:** You may qualify for both the Fry Scholarship and the DEA program, but you can use only one of them. You’ll have to pick one when you apply. Once you’ve made this decision, you can’t switch to the other program.
 
 
 <div class="va-table-overflow">
 <table class="va-table-explanatory">
-<caption>Compare DEA and Fry Scholarship Benefits</caption>
+<caption>Compare DEA and Fry Scholarship benefits</caption>
 <thead>
   <tr>
     <td colspan="1"></td>
@@ -82,43 +80,43 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
 </thead>
 <tbody>
   <tr>
-    <th scope="row"><strong>Benefit Payments</strong></th>
+    <th scope="row"><strong>Benefit payments</strong></th>
     <td>We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224.</td>
     <td>
     <ul>
-      <li><strong>Tuition and Fee Payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
-      <li><strong>Money for Books and Supplies (paid to the student)</strong>:
+      <li><strong>Tuition and fee payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
+      <li><strong>Money for books and supplies (paid to the student)</strong>:
     We cover up to $1,000 a year, divided up equally among the terms, for books and supplies.<br /><br /></li>
-      <li><strong>Monthly Housing Allowance (paid to the student)</strong>:
+      <li><strong>Monthly housing allowance (paid to the student)</strong>:
       We base this amount on the local Basic Allowance for Housing (BAH) for E-5 with dependents and pay it monthly. Online students get half of the BAH national average.</li>
     </ul>
     </td>
   </tr>
 
   <tr>
-    <th scope="row"><strong>Duration of Benefits</strong></th>
-    <td><strong>Spouses:</strong> 20 years from the Servicemember’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). <br />
+    <th scope="row"><strong>Duration of benefits</strong></th>
+    <td><strong>Spouses:</strong> 20 years from the service member’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). <br />
     <strong>Children:</strong> May use benefits between ages 18 and 26 (there may be exceptions).
   </td>
-  <td><strong>Spouses:</strong> 15 years from the Servicemember’s date of death (but spouses lose this benefit if they remarry). <br />
+  <td><strong>Spouses:</strong> 15 years from the service member’s date of death (but spouses lose this benefit if they remarry). <br />
   <strong>Children:</strong> Qualify as of their 18th birthday, and can use this benefit until their 33rd birthday.
   </td>
   </tr>
 
   <tr>
-    <th scope="row"><strong>Maximum Months of Benefits</strong></th>
+    <th scope="row"><strong>Maximum months of benefits</strong></th>
     <td>45 months</td>
     <td>36 months</td>
   </tr>
 
   <tr>
-    <th scope="row"><strong>Spouse Gets Both DIC and Education Benefits at the Same Time</strong></th>
+    <th scope="row"><strong>Spouse gets both DIC and education benefits at the same time</strong></th>
     <td>Yes</td>
     <td>Yes</td>
   </tr>
 
   <tr>
-    <th scope="row"><strong>Programs Covered</strong></th>
+    <th scope="row"><strong>Programs covered</strong></th>
     <td>
       <ul>
         <li>College, business, technical, or vocational programs</li>

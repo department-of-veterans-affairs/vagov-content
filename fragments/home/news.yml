@@ -1,14 +1,14 @@
-- img: /img/homepage/hp-img-secva-graphic.jpg
-  alt: Video of VA Secretary Robert Wilkie's video announcing the new VA.gov.
-  title: Welcome to the new VA.gov!
-  href: 'https://youtu.be/DEfRlL63nCg'
-  description: VA Secretary Robert Wilkie talks about the redesign intentionally built with Veterans, for Veterans.  
+- img: /img/homepage/hp-vamissionact-550x320.jpg
+  alt: Image of an a smiling Veteran.
+  title: VA MISSION Act
+  href: 'https://www.missionact.va.gov/'
+  description: Learn about new eligibility criteria for community care under the VA MISSION Act.  
   
-- img: /img/homepage/access-to-care.jpg
-  alt: Graphic of elderly Veteran being examined by a health care practitioner.
-  title: Access and quality in VA health care
-  href: 'https://www.accesstocare.va.gov/'
-  description: Get wait times and compare quality and patient-satisfaction data for VA health facilities.
+- img: /img/homepage/Borne-the-Battle-WhiteBG-552X360.png
+  alt: “Borne the Battle” logo
+  title: VA's official podcast 
+  href: 'https://podcasts.apple.com/us/podcast/id1171416564'
+  description: “Borne the Battle” spotlights inspiring Veteran stories, important resources, offices, and VA benefits.
   
 - img: /img/homepage/hp-vantage.jpg
   alt: Graphic for the VAntage Point

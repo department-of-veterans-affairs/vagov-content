@@ -1,10 +1,12 @@
 ---
 layout: page-breadcrumbs.html
 title: Print Out Your VA Welcome Kit
+heading: Print out your VA Welcome Kit
 display_title: Your VA Welcome Kit
 order: 1
 plainlanguage:
 template: detail-page
+hidesidenav: true
 majorlinks:
   - heading: Explore VA.gov to learn about your benefits
     links:
@@ -25,7 +27,7 @@ majorlinks:
         description: Apply for vocational rehabilitation services, get support for your Veteran-owned small business, and access other career resources.
       - url: /life-insurance/
         title: Life Insurance
-        description: Explore VA life insurance options for Veterans, Servicemembers, and families. Manage your policy online, file claims for benefits, and access helpful resources.
+        description: Explore VA life insurance options for Veterans, service members, and families. Manage your policy online, file claims for benefits, and access helpful resources.
       - url: /pension/
         title: Pension
         description: Apply for monthly payments for wartime Veterans and survivors with limited or no income who meet certain age and disability requirements.
@@ -35,9 +37,9 @@ majorlinks:
       - url: /records/
         title: Records
         description: Apply for a printed Veteran ID card, get your VA benefit letters and medical records, and learn how to apply for a discharge upgrade.
-      - url: #
-        title: Family and Caregiver Benefits
-        description: Learn about benefits for spouses and dependents of a Veteran or Servicemember, including added support if you're caring for a Veteran with a service-connected disability.
+      - url: /family-member-benefits/
+        title: Benefits for spouses, dependents, survivors, and family caregivers
+        description: Learn about benefits for spouses and dependents of a Veteran or service member, including added support if you're caring for a Veteran with a service-connected disability.
 ---
 
 <div itemscope itemtype ="http://schema.org/HowTo">
@@ -47,10 +49,24 @@ Whether you're just getting out of the service or you've been a civilian for yea
 
 Based on where you are in life, your VA benefits and services can support you in different ways. Keep your welcome kit handy so you can turn to it throughout your life—like when it’s time to go to school, get a job, buy a house, get health care, retire, or make plans for your care as you age.
 
-Feel free to share this guide with friends or family members who need help with their benefits too. Download your VA Welcome Kit and print out copies for yourself and others:
-
-[Download your VA Welcome Kit in black and white](/va-welcome-kit-bw.pdf).
-
-[Download your VA Welcome Kit in color](/va-welcome-kit-color.pdf).
-
 </div>
+
+## Download your VA Welcome Kit
+
+Feel free to share this guide with friends or family members who need help with their benefits too. You can print out copies for yourself and others:
+
+[Your VA Welcome Kit in black and white (PDF)](/va-welcome-kit-bw.pdf)
+
+[Your VA Welcome Kit in color (PDF)](/va-welcome-kit-color.pdf)
+
+## Download our guides to VA benefits and services
+
+### For Veterans
+[Apply for VA health care (PDF)](/health-care-quick-start-guide.pdf)<br>
+[Get started with mental health services (PDF)](/mental-health-quick-start-guide.pdf)<br>
+[Apply for a disability rating (PDF)](/disability-quick-start-guide.pdf)<br>
+[Apply for education benefits (PDF)](/education-quick-start-guide.pdf)<br>
+
+### For family members
+[Get started with caregiver benefits (PDF)](/caregiver-quick-start-guide.pdf)<br>
+[Apply for survivor benefits (PDF)](/survivor-quick-start-guide.pdf)

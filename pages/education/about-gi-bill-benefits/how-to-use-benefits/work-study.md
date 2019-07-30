@@ -4,12 +4,10 @@ template: detail-page
 title: Work Study
 heading: Work study
 display_title: Work study
-description: Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program. You'll earn an hourly minimum wage for working at a nearby VA facility or in a VA-related role at your school. 
+description: Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program. You'll earn an hourly minimum wage for working at a nearby VA facility or in a VA-related role at your school.
 keywords: Veteran work study
 concurrence: incomplete
 order: 11
-aliases:
-  - /education/work-learn/workstudy/
 ---
 
 <div class="va-introtext">
@@ -45,19 +43,19 @@ You can take part in our work-study program if you meet all of the requirements 
 
 </div>
 
-## What kind of benefits can I get? 
+## What kind of benefits can I get?
 
 You can get paid to work a part-time job while you study.
 
 -----
 
-## How do I get these benefits? 
+## How do I get these benefits?
 
 You’ll need to apply for the work-study program by filling out an Application for Work-Study Allowance (VA Form 22-8691). <br>
-[Download VA Form 22-8691](https://www.vba.va.gov/pubs/forms/VBA-22-8691-ARE.pdf). 
+[Download VA Form 22-8691 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-22-8691-ARE.pdf)
 
 If you have any questions about the program, contact the VA regional processing office that handles your claim. <br>
-[Contact your VA regional processing office](https://www.benefits.va.gov/gibill/regional_processing.asp). <br>
+[Contact your VA regional processing office](https://www.benefits.va.gov/gibill/regional_processing.asp) <br>
 
 If you have questions about other sources of financial assistance, contact your school's financial aid office.
 
@@ -85,6 +83,6 @@ You may elect to be paid in advance for 40% of the hours in your work-study agre
 
 You can work during or between enrollment periods.
 
-You can't work more hours total than 25 times the number of weeks in your enrollment period. 
+You can't work more hours total than 25 times the number of weeks in your enrollment period.
 
 **For example:** If you're enrolled for a semester that lasts for 15 weeks, you can work up to 375 hours for that enrollment period.

@@ -1,47 +1,45 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Disability Compensation for Posttraumatic Stress Disorder (PTSD)
+title: VA Disability Compensation For Posttraumatic Stress Disorder (PTSD)
+heading: VA disability compensation for posttraumatic stress disorder (PTSD)
 display_title: PTSD
-description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PSTD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
+description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PTSD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
 concurrence: complete
 source: http://www.va.gov/opa/issues/ptsd.asp
 plainlanguage: 11-14-16 certified in compliance with the Plain Language Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/conditions/ptsd/
 ---
 <div class="va-introtext">
-  
+
 Posttraumatic stress can happen after someone goes through a traumatic event such as combat, an assault, or a disaster. Most people have some stress reactions following trauma. But if the reactions don’t go away over time or they disrupt your life, you may have PTSD. Find out if you can get disability compensation or benefits if you have symptoms of PTSD. <br>
 
 [Learn more about PTSD](https://www.ptsd.va.gov/)
 
 </div>
 
-<span id="get-help-now"></span>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-	<h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
-	<a id="crisis-expander-link">Find out how to get support any time day or night.</a></h4>
-	<div id="crisis-expander-content" class="expander-content expander-content-closed">
-	  <div class="expander-content-inner usa-alert-text">
-	    <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
-	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>	  
+    <h4 class="usa-alert-heading">How do I talk to someone right now?</h4>
+    <div data-analytics="nav-crisis-get-support-247" class="form-expanding-group borderless-alert additional-info-container">
+      <span class="additional-info-title">Find out how to get support anytime, day or night</span>
+      <div class="additional-info-content usa-alert-text" hidden>
+        <p>Whatever you’re struggling with—chronic pain, anxiety, depression, trouble sleeping, anger, or even homelessness—we can support you. Our Veterans Crisis Line is confidential (private), free, and available 24/7.</p>
+	    <p><strong>To connect with a Veterans Crisis Line responder any time day or night:</strong></p>
 	    <ul>
-              <li>Call <a href="tel:+1-800-273-8255">1-800-273-8255</a>, then press 1.</li>
-	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon" >Start a confidential Veterans Chat</a>.</li>
+              <li>Call <a href="tel:+1-800-273-8255">800-273-8255</a>, then press 1.</li>
+	      <li><a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat/" class="no-external-icon" >Start a confidential Veterans chat</a>.</li>
   	      <li>Text <a href="sms:838255">838255</a>.</li>
             </ul>
-     	    <p><strong>You can also:</strong></p>	  
+     	    <p><strong>You can also:</strong></p>
             <ul>
               <li>Call <a href="tel:911">911</a>.</li>
 	      <li>Go to the nearest emergency room.</li>
 	    </ul>
-	  </div>
-  	</div>
       </div>
     </div>
+  </div>
+</div>
 
 
 <div class="feature" markdown="1">
@@ -50,7 +48,7 @@ Posttraumatic stress can happen after someone goes through a traumatic event suc
 
 ### Can I get disability benefits from VA?
 
-You may be able to get disability benefits if you have symptoms related to a traumatic event (the “stressor”) or your experience with the stressor is related to the PTSD symptoms, and you meet all of the requirements listed below. 
+You may be able to get disability benefits if you have symptoms related to a traumatic event (the “stressor”) or your experience with the stressor is related to the PTSD symptoms, and you meet all of the requirements listed below.
 
 **All of these must be true:**
 - The stressor happened during your service, **and**
@@ -61,7 +59,7 @@ You may be able to get disability benefits if you have symptoms related to a tra
 
 We consider any of these to be a traumatic event:
 
-- You suffered a serious injury, personal or sexual trauma, or sexual violation, **or** 
+- You suffered a serious injury, personal or sexual trauma, or sexual violation, **or**
 - You were threatened with injury, sexual assault, or death
 
 <br>
@@ -71,7 +69,7 @@ We consider any of these to be a traumatic event:
 Veterans
 </div>
 
-### What kind of disability benefits can I get?
+## What kind of disability benefits can I get?
 
 - Health care
 - Compensation (payments)
@@ -79,7 +77,7 @@ Veterans
 
 --------
 
-### How do I get these benefits?
+## How do I get these benefits?
 
 You’ll need to file a claim for disability compensation. <br>
 
@@ -87,28 +85,21 @@ You’ll need to file a claim for disability compensation. <br>
 
 When you file a disability claim, you'll also need to fill out one of these additional forms:
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder (VA Form 21-0781).<br>
-[Download VA Form 21-0781](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF)<br>
+[Download VA Form 21-0781 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781-ARE.PDF)<br>
  **or**<br>
 - A Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder Secondary to Personal Assault (VA Form 21-0781a).<br>
-[Download VA Form 21-0781a](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
+[Download VA Form 21-0781a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-0781a-ARE.PDF)
 
 **Note:** In our screening process, we'll focus on getting a full understanding of your PTSD to help determine your eligibility for disability benefits. We won't offer you treatment during this process.
 
 **If you’re looking for treatment options,** please talk with your health care provider or learn more about accessing VA services for PTSD. <br>
-[Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#access-services)
+[Find out how to access VA services for PTSD](/health-care/health-needs-conditions/mental-health/ptsd/#how-do-i-access-va-services-fo)
 
 **If you're in crisis and need to talk with someone right now,** you can connect with a Veterans Crisis Line responder any time, day or night. <br>
 [Find out how to get support now](#get-help-now)
 
-### Get more information 
+
+## Get more information
+
 We’ve made great progress in treating PTSD and have brought more mental health providers to VA medical centers to help give the best care to Veterans with PTSD. <br>
 [Learn about our PTSD programs](https://www.mentalhealth.va.gov/PTSD.asp)
-
-<script type="text/javascript">
-
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>

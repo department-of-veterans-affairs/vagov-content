@@ -4,12 +4,10 @@ template: detail-page
 title: REAP
 heading: REAP
 display_title: REAP
-description: If you're currently using REAP benefits, find out if you can switch to Post-9/11 GI Bill benefits. You may qualify for Post 9/11-GI Bill education benefits if you're a National Guard or Reserve member called to active duty on or after September 11, 2001.  
+description: If you're currently using REAP benefits, find out if you can switch to Post-9/11 GI Bill benefits. You may qualify for Post 9/11-GI Bill education benefits if you're a National Guard or Reserve member called to active duty on or after September 11, 2001.
 keywords: n/a
 concurrence: incomplete
 order: 1
-aliases:
-  - /education/other-educational-assistance-programs/reap/
 ---
 
 <div class="va-introtext">
@@ -31,12 +29,12 @@ You can keep using your REAP benefits until November 25, 2019.
 ### If you applied for REAP benefits, but you didn't start school until after November 24, 2015
 
 You're no longer eligible to receive REAP benefits, but you may be eligible for Post-9/11 GI Bill benefits. <br>
-[Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/).
+[Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 
 ### If you applied for REAP benefits after November 24, 2015
 
 You're not eligible to receive REAP benefits, but you may be eligible for Post-9/11 GI Bill benefits. We'll review your application and give you the benefits you qualify for.<br>
-[Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/).
+[Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 
 ### If we determined you were eligible for REAP benefits, but you lost your benefits when the program ended
 
@@ -51,4 +49,4 @@ You can credit your REAP eligibility toward your Post-9/11 GI Bill eligibility i
 - Will not be eligible for 48 months of entitlement based on your previous eligibility for REAP and your new eligibility under the Post-9/11 GI Bill
 - Will be entitled to the 60% payment tier under the Post-9/11 GI Bill regardless of the length of your Post-9/11 active-duty service
 
-If you'd like to switch your benefits, call 1-888-GI-BILL-1 (<a href="tel:+18884424551">1-888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. (<abbr title="eastern time">ET</abbr>).
+If you'd like to switch your benefits, call 888-GI-BILL-1 (<a href="tel:+18884424551">888-442-4551</a>), Monday through Friday, 8:00 a.m. to 7:00 p.m. <abbr title="eastern time">ET</abbr>.

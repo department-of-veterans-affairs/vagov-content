@@ -1,5 +1,6 @@
 ---
-title: Opt Out of Sharing VA Education Benefits Information
+title: Opt Out Of Sharing VA Education Benefits Information
+heading: Opt out of sharing VA education benefits information
 entryname: 0993-edu-benefits
 layout: page-react.html
 description: Use your VA education benefits to pay for college or training programs. Find out which documents you’ll need to apply for benefits, and start your online application today.

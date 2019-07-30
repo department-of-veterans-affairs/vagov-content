@@ -8,7 +8,7 @@ description: Check Post-9/11 GI Bill rates, Montgomery GI Bill rates, and other 
 keywords: post 911 gi bill rates, gi bill bah rates
 concurrence: incomplete
 order: 2
-spoke: More Resources
+spoke: More resources
 ---
 
 <div class="va-introtext">
@@ -17,6 +17,6 @@ Check Post-9/11 GI Bill rates, Montgomery GI Bill rates, and other benefit amoun
 
 </div>
 
-Use our rate tables to see how much money you’ll get. [View the Rate Tables](http://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp#ch33).
+Use our rate tables to see how much money you’ll get. <br> [View the rate tables](http://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp#ch33)
 <br>
-Use the GI Bill Comparison Tool to compare estimated benefits by school. [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool).
+Use the GI Bill Comparison Tool to compare estimated benefits by school. <br>[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)

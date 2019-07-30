@@ -1,7 +1,7 @@
 ---
-title: Download VA Benefit Letters
+title: Download VA benefit letters
 href: /records/download-va-letters/
 order: 9
-spoke: Manage Benefits
+spoke: Manage benefits
 private: true
 ---

@@ -4,13 +4,11 @@ template: detail-page
 title: Correspondence Training
 heading: Correspondence training
 display_title: Correspondence training
-description: Find out how you can use your Post-9/11 Bill benefits to pay for up to half the cost of correspondence training classes at an in-state school. You may consider completing correspondence courses by mail if you live far from a school or want to take classes from home. 
+description: Find out how you can use your Post-9/11 Bill benefits to pay for up to half the cost of correspondence training classes at an in-state school. You may consider completing correspondence courses by mail if you live far from a school or want to take classes from home.
 keywords: n/a
 order: 4
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
-aliases:
-  - /education/work-learn/non-traditional/correspondence-training/
 ---
 
 <div class="va-introtext">
@@ -33,19 +31,19 @@ You can if you qualify for any GI Bill program.
 **Exception:** Children using the Survivors’ and Dependents’ Educational Assistance program may not enroll in correspondence training.
 </div>
 
-### What benefits can I get?
+## What benefits can I get?
 
 We’ll pay you back for the cost of your correspondence training classes if you’re using the Post-9/11 GI Bill at an in-state school. If you’re using other GI Bill programs, we’ll pay you back for 55% of the approved costs.
 
 
 -----
 
-### How do I get these benefits?
+## How do I get these benefits?
 
-- You’ll need to apply for benefits. [Apply for education benefits](/education/how-to-apply/).
+- You’ll need to apply for benefits. <br>[Apply for education benefits](/education/how-to-apply/)
 
 - We base payment amounts on the specific GI Bill program you’re using. If you’re enrolled in correspondence training, we decide your payment amount and then pay it quarterly after your school lets us know that you’ve finished your course of study.
 
-- If you’re covered under the Post-9/11 GI Bill, we pay you back for the actual costs of the school’s in-state tuition and fees, up to the maximum amount allowed by law. For all other GI Bill recipients, we reimburse 55% of the approved costs. [View the current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
+- If you’re covered under the Post-9/11 GI Bill, we pay you back for the actual costs of the school’s in-state tuition and fees, up to the maximum amount allowed by law. For all other GI Bill recipients, we reimburse 55% of the approved costs. <br>[View the current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)
 
 
