@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 title: What to Expect After You Get a Rating | Veterans Affairs
-heading: What to Expect after You Get a Disability Rating
-display_title: After You Get a Rating
+heading: What to expect after you get a disability rating
+display_title: After you get a rating
 description: Find out when you'll receive your first VA disability check and what to expect after you get a disability rating for a service-connected condition.
 keywords: when will i receive my va disability check, va disability check schedule, va disability pay schedule, when does va disability pay start
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
