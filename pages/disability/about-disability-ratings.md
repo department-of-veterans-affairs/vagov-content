@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 title: About VA Disability Ratings | Veterans Affairs
-heading: About VA Disability Ratings
-display_title: About Disability Ratings
+heading: About VA disability ratings
+display_title: About disability ratings
 description: Learn about VA disability ratings and how we decide your rating. Plus, get a link to the VA disability rating chart, called the Combined Ratings table, which shows how we calculate disability rating percentages for Veterans with more than one service-connected condition. 
 keywords: va disability ratings, va disability rating chart, va disability percentages for conditions, va disability rating
 template: detail-page
