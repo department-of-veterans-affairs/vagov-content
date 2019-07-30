@@ -30,7 +30,7 @@ You'll need to request changes to your benefits if any of the descriptions below
 
 <h2>How do I request changes to my GI Bill or other VA education benefits?</h2>
 
-<h3>If you're a Veteran or Servicemember</h3>
+<h3>If you're a Veteran or service member</h3>
 
 You'll need to submit a Request for Change of Program or Place of Training (VA Form 22-1995). You can complete this form online now.<br>
 [Complete VA Form 22-1995 online](/education/apply-for-education-benefits/application/1995/introduction).
