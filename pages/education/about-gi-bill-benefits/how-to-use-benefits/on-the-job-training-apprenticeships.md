@@ -1,13 +1,12 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: On-the-Job Training and Apprenticeships
-display_title: On-the-Job Training
+title: On-The-Job Training And Apprenticeships
+heading: On-the-job training and apprenticeships
+display_title: On-the-job training
 concurrence: incomplete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 13
-aliases:
-  - /education/work-learn/job-and-apprenticeship/
 ---
 
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -38,10 +37,10 @@ You can get benefits if you qualify for the GI Bill and want to work in an indus
 
  - Veterans
  - Spouses and children getting benefits through either the Fry Scholarship or the Survivors' and Dependents' Educational Assistance (DEA) Program
- - Children getting transferred benefits under the Post-9/11 GI Bill (also called chapter 33)
+ - Children getting transferred benefits under the Post-9/11 GI Bill (also called Chapter 33)
 
 **Exception:**
-You can’t get OJT if you’re an active-duty Servicemember or a spouse using a transferred benefit.
+You can’t get OJT if you’re an active-duty service member or a spouse using a transferred benefit.
 
 </div>
 </div>
@@ -49,7 +48,7 @@ You can’t get OJT if you’re an active-duty Servicemember or a spouse using a
 </div>
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">What benefits can I get?</h3>
+<h2 itemprop="name">What benefits can I get?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -62,21 +61,21 @@ You can’t get OJT if you’re an active-duty Servicemember or a spouse using a
 -----
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">How do I get these benefits?</h3>
+<h2 itemprop="name">How do I get these benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
 You’ll need to make sure the program is approved for VA education benefits. <br>
-[Check with your nearest VA regional benefit office](/find-locations/?facilityType=benefits). 
+[Check with your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
 You’ll most likely need to enter into a training contract for a set amount of time with an employer or union. During training, you’ll probably get a salary from the employer or union, which can go up as you gain more skills. When you finish your training, you’ll get a job certification or journeyman status.
 
 If you’re a Veteran in an approved program, you can use your GI Bill benefit and get tax-free money for books and supplies. The Post-9/11 GI Bill offers you a monthly housing allowance (MHA) in addition to your entry-level wage. We issue GI Bill payments each month after your employer or union reports your hours to us.
 
 Your payment depends on which GI Bill program you’re using. <br>
-[View the payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp).
+[View the payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)
 
-#### Post-9/11 GI Bill MHA Payment Rates
+### Post-9/11 GI Bill MHA payment rates
 You’ll get 100% of your applicable MHA during the first 6 months of training. Then you’ll get this percentage of your MHA until your benefits run out:
 
 - 80% of your applicable MHA during the second 6 months of training
@@ -86,14 +85,14 @@ You’ll get 100% of your applicable MHA during the first 6 months of training. 
 
 **Note:** If you completed at least 90 days, but less than 3 years, of active-duty service after September 10, 2001, your applicable MHA benefit will be lower than the full amount shown in the rate tables. Depending on how long you served, you’ll start with an amount that's between 40% to 90% of the full benefit.
 
-#### All other GI Bill Programs Payment Rates
+### All other GI Bill Programs payment rates
 You’ll get this percentage of your GI Bill rate until your benefits run out:
 
 - 75% of the full-time GI Bill rate for the first 6 months of training
 - 55% of the full-time GI Bill rate for the second 6 months of training
 - 35% of the full-time GI Bill rate for the rest of the training period
 
-[Get more information about on-the-job and apprenticeship training programs](https://www.benefits.va.gov/gibill/docs/factsheets/OJT_Factsheet.pdf).
+[Get more information about on-the-job and apprenticeship training programs (PDF)](https://www.benefits.va.gov/gibill/docs/factsheets/OJT_Factsheet.pdf)
 
 </div>
 </div>

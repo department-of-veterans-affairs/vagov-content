@@ -65,9 +65,9 @@
     - url: /records/download-va-letters/
       title: Download your benefit letters
       nav_path: Download your benefit letters
-    - url: /housing-assistance/home-loans/how-to-apply/
-      title: Apply for a home loan COE
-      nav_path: Apply for a home loan COE
+    - url: /change-address/
+      title: Change your address
+      nav_path: Change your address
     - url: /records/get-military-service-records/
       title: Request your military records (DD214)
       nav_path: Request your military records

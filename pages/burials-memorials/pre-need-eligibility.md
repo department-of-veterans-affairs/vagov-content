@@ -8,7 +8,7 @@ description: Find out in advance if you're eligible to be buried in a VA nationa
 keywords: n/a
 collection: burials
 children: burialsPreNeed
-spoke: Get Benefits
+spoke: Get benefits
 order: 2
 majorlinks:
   - heading:
@@ -109,7 +109,7 @@ We base our decision of whether or not you qualify for burial in a VA national c
 ## How do I apply?
 You can apply online right now.
 
-<a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for Pre-need Eligibility</a>
+<a class="usa-button-primary va-button-primary" href="/burials-and-memorials/pre-need/form-10007-apply-for-eligibility">Apply for pre-need eligibility</a>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 <h4 itemprop="name">You can also apply:</h4>

@@ -19,8 +19,6 @@ relatedlinks:
     - url:
       title:
       description:
-aliases:
-  - /burials-and-memorials/pre-need/after-you-apply/
 ---
 
 <div class="va-introtext">
@@ -46,7 +44,7 @@ You don’t need to do anything while you wait. We'll contact you if we need mor
 
 ## If I qualify for burial, how will VA notify me of the decision?
 
-You’ll receive a VA burial and memorial benefits folder from us in the mail. 
+You’ll receive a VA burial and memorial benefits folder from us in the mail.
 
 **Your folder will include:**
 

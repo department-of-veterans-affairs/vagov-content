@@ -9,8 +9,6 @@ keywords: veterans grave markers, veterans headstones, va headstone, veterans me
 order: 1
 concurrence: incomplete
 children: burialsHeadstoneMarkersMedallions
-aliases:
-  - /burials-and-memorials/honor/headstones-markers-medallions/
 ---
 
 <div class="va-introtext">

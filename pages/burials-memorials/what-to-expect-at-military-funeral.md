@@ -10,7 +10,7 @@ collection: burials
 order: 8
 alias:
   - /burials-memorials/what-to-expect-at-military-funeral/
-spoke: More Resources
+spoke: More resources
 ---
 
 <div class="va-introtext">
@@ -23,7 +23,7 @@ Find out what happens at a military funeral for a Veteran or service member and 
 
 There may be a brief ceremony, including any readings or military honors, led by someone of the family's choice. This ceremony will take place at a special area called a committal shelter (not at the gravesite). A cemetery official will be there to help guide guests and family members.
 
-The family may also choose to have military funeral honors performed during the ceremony. 
+The family may also choose to have military funeral honors performed during the ceremony.
 
 **Military funeral honors include:**
 - The playing of “Taps”

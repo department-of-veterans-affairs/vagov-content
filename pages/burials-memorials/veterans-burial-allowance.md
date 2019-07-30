@@ -7,16 +7,9 @@ display_title: Burial Allowance
 description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
 keywords: veterans burial, veterans death benefits, va death benefits, veteran funeral, va funeral benefits, if a veteran dies who pays for the funeral, does the military pay for funerals for veterans, does the va pay for cremation, va burial benefits cremation, burial benefits for veterans, what does the military pay for a funeral, free burial services for veterans, funeral benefits for veterans spouses, burial and plot internment allowance, burial allowance for veterans, veterans burial assistance, burial allowance va, va reimbursement for burial expenses, va burial allowance
 order: 3
-spoke: Get Benefits
+spoke: Get benefits
 collection: burials
 children: burialsAllowance
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
-aliases:
-  - /burials-and-memorials/survivor-and-dependent-benefits/burial-costs/
 ---
 
 <div class="va-introtext">
@@ -79,8 +72,24 @@ There's no time limit to file for a service-connected burial, plot, or interment
 
 </div>
 
-<div id="react-applicationStatus" data-widget-type="burials-app-status" class="static-page-widget">
-  <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for Burial Benefits</a>
+<div data-widget-type="burials-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+    <a class="usa-button-primary va-button-primary" href="/burials-and-memorials/application/530">Apply for burial benefits</a>
+  </span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">

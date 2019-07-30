@@ -1,14 +1,13 @@
 ---
 layout: page-breadcrumbs.html
-title: File a Pre-discharge Claim While Overseas
-display_title: File While Overseas
+title: File a pre-discharge claim while overseas
+heading: File a pre-discharge claim while overseas
+display_title: File while overseas
 concurrence: incomplete
 source: http://www.benefits.va.gov/COMPENSATION/claims-special-1151.asp,http://www.benefits.va.gov/PREDISCHARGE/claims-pre-discharge-overseas-intake-sites.asp
 plainlanguage: 11-8-16 certified in compliance with the Plain Writing Act
 template: detail-page
 order: 3
-aliases:
-  - /disability-benefits/apply/claim-types/predischarge-claim/overseas/
 ---
 
 <div class="va-introtext">
@@ -18,7 +17,7 @@ You can file a disability claim through the Benefits Delivery at Discharge (BDD)
 
 </div>
 
-### In Germany
+## In Germany
 You can get in touch with the Landstuhl BDD office:
 - **By email** at <a href="mailto:GermanyBDD.vbapit@va.gov">GermanyBDD.vbapit@va.gov</a>, **or**
 - **In person** by going to the office located in building 3724 at the Landstuhl Regional Medical Center. It's open Monday through Friday, 9:00 a.m. to 12:00 p.m., and 1:00 p.m. to 3:00 p.m. You don't need an appointment.
@@ -32,7 +31,7 @@ To complete the process, you'll need to:
 
 <spand id="stationed-korea">
 
-### In Korea
+## In Korea
 You can get in touch with the Camp Humphreys office:
 - **By phone** at DSN 757-2914 (or commercial 050-3357-2914), **or**
 - **In person** by going to the Korea BDD office located in the One-Stop Building on Camp Humphreys. The Korea BDD office is next to the SFL-TAP office and is open Monday through Friday, 8:00 a.m. to 4:00 p.m.
@@ -53,6 +52,6 @@ To complete the process, you'll need to:
 
 <spand id="stationed-emea">
 
-### In Europe, Africa, or the Middle East
+## In Europe, Africa, or the Middle East
 If you're separating from any station in Europe, Africa, or the Middle East, please contact our office at <a href="mailto:GermanyBDD.vbapit@va.gov">GermanyBDD.vbapit@va.gov</a> for detailed instructions based on your location.
 

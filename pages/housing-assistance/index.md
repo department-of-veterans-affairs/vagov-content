@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Housing Assistance
+title: VA Housing Assistance 
+heading: VA housing assistance
 display_title: Housing
-description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veterans housing assistance, including VA-backed home loans and grants for Veterans with service-connected disabilities. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.
+description: Find out if you're eligible and how to apply for VA housing assistance. We offer Veteran housing assistance programs, including VA-backed home loans for Veterans, service members, and surviving spouses as well as grants for Veterans with service-connected disabilities. 
+keywords: va housing, va housing assistance, veteran housing
 concurrence: complete
 lastupdate:
 order: 1
@@ -29,13 +31,13 @@ crosslinks:
       title: <b>Life Insurance</b>
       description: Explore your life insurance options and find out how to apply as a Servicemember, Veteran, or family member.
 social:
-  - heading: Ask Questions
+  - heading: Ask questions
     subsections:
-      - subhead: Message Us
+      - subhead: Message us
         links:
         - url: https://iris.custhelp.va.gov/app/ask
           label: "Ask a question online"
-      - subhead: Call Us
+      - subhead: Call us
         links:
         - url: tel:1-800-827-1000
           number: 1-800-827-1000
@@ -50,7 +52,7 @@ social:
           title: "If you have hearing loss, call TTY: 711."
   - heading: Not a Veteran?
     subsections:
-      - subhead: "Get Home Loan Information for:"
+      - subhead: "Get home loan information for:"
         links:
         - url: https://www.benefits.va.gov/homeloans/appraiser.asp
           label: "Appraisers and Staff Appraisal Reviewers (SARs)"
@@ -60,11 +62,11 @@ social:
           label: "Real Estate Professionals"
         - url: https://www.benefits.va.gov/homeloans/servicers.asp
           label: "Servicers of VA Loans"
-  - heading: Connect with Us
+  - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
     subsections:
-      - subhead: Get Updates
+      - subhead: Get updates
         links:
         - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
           label: Veterans Benefits Email Updates
@@ -99,7 +101,7 @@ hublinks:
     - url: "/housing-assistance/home-loans/eligibility/"
       label: Eligibility
       description: Find out if you're eligible for a VA direct or VA-backed home loan,
-        based on your service history and duty status. 
+        based on your service history and duty status.
       external: false
     - url: "/housing-assistance/home-loans/how-to-apply/"
       label: How to Apply for Your Certificate of Eligibility
@@ -164,18 +166,19 @@ hublinks:
       external: false
 ---
 <p class="va-introtext">
-VA housing assistance can help Servicemembers, Veterans, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, repair, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
+VA housing assistance can help Veterans, service members, and their surviving spouses to buy a home or refinance a loan. We also offer benefits and services to help you build, improve, or keep your current home. This includes grants for Veterans with service-connected disabilities who need to adapt their home to live as independently as possible. Find out how to apply for and manage the Veterans housing assistance benefits you've earned.</p>
 
-<h3>On This Page</h3>
+<h3>On this page</h3>
 <ul>
   <li><a href="#get">Get VA Home Loan Benefits</a></li>
   <li><a href="#manage">Get Veterans Housing Assistance Grants</a></li>
 </ul>
 <div class="usa-alert usa-alert-warning">
   <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?<br><a id="crisis-expander-link" onClick="recordEvent({event: 'nav-crisis-homelessness-expander'});">We may be able to help</a>.</h4>
-    <div id="crisis-expander-content" class="expander-content expander-content-closed">
-      <div class="expander-content-inner usa-alert-text">
+    <h4 class="usa-alert-heading">How do I get help if I'm homeless or at risk of becoming homeless?</h4>
+		<div data-analytics="nav-crisis-homelessness-expander" class="form-expanding-group borderless-alert additional-info-container">
+			<span class="additional-info-title">We may be able to help.</span>
+			<div class="additional-info-content usa-alert-text" hidden>
 
 We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
 
@@ -192,11 +195,3 @@ We offer many programs and services that may help—including free health care a
   </div>
  </div>
 </div>
-
-<script type="text/javascript">
-  // Toggle the expandable crisis info
-  document.getElementById('crisis-expander-link')
-    .addEventListener('click', function () {
-      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
-    });
-</script>

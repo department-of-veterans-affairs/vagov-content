@@ -87,7 +87,7 @@
         - text: Change your GI Bill school or program
           href: https://www.va.gov/education/change-gi-bill-benefits/
         - text: Change your direct deposit information
-          href: https://www.va.gov/change-direct-deposit-and-contact-information/
+          href: https://www.va.gov/change-direct-deposit/
       fragments:
         columnThree: promotions/education
       seeAllLink:
@@ -145,8 +145,10 @@
           href: https://www.va.gov/claim-or-appeal-status/
         - text: View your VA payment history
           href: https://www.va.gov/va-payment-history/
-        - text: Change your direct deposit and contact information
-          href: https://www.va.gov/change-direct-deposit-and-contact-information/
+        - text: Change your address
+          href: https://www.va.gov/change-address/
+        - text: Change your direct deposit information
+          href: https://www.va.gov/change-direct-deposit/
       fragments:
         columnThree: promotions/pension
       seeAllLink:
@@ -249,10 +251,13 @@
         - text: Get Veteran ID cards
           href: https://www.va.gov/records/get-veteran-id-cards/
       columnTwo:
-        title: VA
+        # No title property for this section -
+        # https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17695
         links:
         - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
+        - text: Change your address
+          href: https://www.va.gov/change-address/
         - text: How to apply for a discharge upgrade
           href: https://www.va.gov/discharge-upgrade-instructions
         - text: View your VA payment history
@@ -267,10 +272,10 @@
         href: https://www.va.gov/records/
   - title: Service member benefits
     text: Service member benefits
-    href: /service-member-benefits/
+    href: https://www.va.gov/service-member-benefits/
   - title: Family member benefits
     text: Family member benefits
-    href: /family-member-benefits/
+    href: https://www.va.gov/family-member-benefits/
 - title: About VA
   menuSections:
     mainColumn:
@@ -300,8 +305,7 @@
       - text: Veterans Choice Program
         href: https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp
       - text: VA open data
-        href: https://www.data.va.gov
-        target: _blank
+        href: https://www.va.gov/data/
       - text: Veterans analysis and statistics
         href: https://www.va.gov/VETDATA/index.asp
       - text: Appeals modernization

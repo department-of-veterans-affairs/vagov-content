@@ -1,12 +1,9 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Accelerated Payments for High-Technology Programs
-display_title: Accelerated Payments
+title: Accelerated payments for high-technology programs
+display_title: Accelerated payments
 concurrence: incomplete
-aliases:
-  - /education/work-learn/non-traditional/accelerated-payments/
-  - /education/about-gi-bill-benefits/how-to-use-benefits/high-tech-programs/
 order: 4
 ---
 
@@ -32,7 +29,7 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech degree or non-degree program, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Find out if you're eligible for the MGIB-AD program](/education/about-gi-bill-benefits/montgomery-active-duty/).
+[Find out if you're eligible for the MGIB-AD program](/education/about-gi-bill-benefits/montgomery-active-duty/)
 
 ### If you're in the Reserves
 
@@ -44,24 +41,24 @@ You can get this benefit if you meet all of the requirements listed below.
 - You're enrolled in a qualifying high-tech, non-degree program that lasts for 2 years or less, **and**
 -	Your tuition and fees cost more than 200% of the monthly amount of educational assistance you would otherwise qualify to get during the certified enrollment period
 
-[Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/).
+[Learn more about the MGIB-SR program](/education/about-gi-bill-benefits/montgomery-selected-reserve/)
 
 <br>
 
-**Note:** 
+**Note:**
 You can’t get this benefit under the Post-9/11 GI Bill, Dependents’ Educational Assistance (DEA) program, or the Veterans' Educational Assistance Program (VEAP).
 
 </div>
 
 ## What does this benefit include?
 
-Accelerated payments of 60% of tuition and fees for high-cost high-tech programs. These single, lump-sum payments replace the monthly benefits you would otherwise get through the GI Bill. 
+Accelerated payments of 60% of tuition and fees for high-cost high-tech programs. These single, lump-sum payments replace the monthly benefits you would otherwise get through the GI Bill.
 
 -----
 
 ## How do I get this benefit?
 
-Ask your school to include your request for accelerated payment when they send your enrollment information to us. 
+Ask your school to include your request for accelerated payment when they send your enrollment information to us.
 
 **You must be enrolled in one of these categories:**
 
@@ -106,7 +103,7 @@ These programs are approved only for active-duty GI Bill recipients:
 01.1002 Food Technology and Processing <br>
 01.1099 Food Science and Technology <br>
 
-**01.11 Plant Sciences**
+**01.11 Plant Sciences** <br>
 01.1101 Plant Sciences General <br>
 01.1102 Agronomy and Crop Science <br>
 01.1103 Horticultural Science <br>

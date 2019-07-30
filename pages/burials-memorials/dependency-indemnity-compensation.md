@@ -8,9 +8,7 @@ description: Find out how to apply for VA Dependent and Indemnity Compensation (
 keywords: va dic, dependency and indemnity compensation, dependency indemnity compensation, veterans benefits for widows, va benefits for spouses, what are survivor benefits, va widow benefits, va benefits for widows, va benefits for surviving spouse, military widows benefits, veterans disability benefits surviving spouse, dic benefits, va survivor benefit rates, veteran spouse benefits after death, veterans death benefits for spouse, benefits for spouses of deceased veterans, disabled veterans survivor benefits
 order: 5
 collection: burials
-spoke: Get Benefits
-aliases:
-  - /burials-and-memorials/survivor-and-dependent-benefits/compensation/
+spoke: Get benefits
 ---
 
 <div class="va-introtext">
@@ -21,7 +19,7 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
 
-<ul class="usa-accordion" aria-multiselectable="true">
+<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">As a surviving spouse</button>
 <div id="VA-burials-survivor-spouse" class="usa-accordion-content">

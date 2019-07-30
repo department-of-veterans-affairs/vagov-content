@@ -8,8 +8,6 @@ description: Find out how to apply for a presidential memorial certificate (PMC)
 keywords: presidential memorial certificate 
 order: 3
 concurrence: incomplete
-aliases:
-  - /burials-and-memorials/honor/flags-and-memorial-certificates/
 relatedlinks:
   - header: Other Memorial Items
   - url: /burials-memorials/memorial-items/burial-flags/

@@ -8,7 +8,7 @@ description: Find out how to make burial plans for a Veteran, spouse, or depende
 keywords: veterans burial, burial plans, what to do when a veteran dies
 collection: burials
 children: burialsPlanABurial
-spoke: Plan a Burial
+spoke: Plan a burial
 order: 7
 relatedlinks:
   - heading: Other helpful information
@@ -22,8 +22,6 @@ relatedlinks:
     - url: /burials-memorials/dependency-indemnity-compensation/
       title: Compensation for Surviving Spouses and Dependents
       description: Find out if you can get a tax-free monetary benefit called Dependency and Indemnity Compensation (DIC).
-aliases:
-  - /burials-and-memorials/burial-planning/
 ---
 
 <div class="va-introtext">

@@ -16,8 +16,6 @@ relatedlinks:
   - url: /burials-memorials/memorial-items/headstones-markers-medallions/
     title: Headstones, Markers, Niche Covers, and Medallions
     description: Apply for one of these memorial items to identify the burial place of a Veteran or eligible family member.
-aliases:
-  - /burials-and-memorials/honor/flags-and-memorial-certificates/
 ---
 
 <div class="va-introtext">
