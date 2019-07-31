@@ -123,6 +123,8 @@ Mail the application and other documents listed above to your nearest VA regiona
 [Find your nearest VA regional benefit office](/find-locations/?facilityType=benefits)
 
 If you have questions, call <a href="tel:+1-800-827-1000">800-827-1000</a>. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. <abbr title="eastern time">ET</abbr>. Our TTY number for people with hearing impairments is 711. Or call your VA regional benefit office.
+</div>
+</div>
 
 ------
 ## Burial allowance amounts
