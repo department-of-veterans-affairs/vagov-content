@@ -82,9 +82,7 @@ If both you and your spouse are applying, you’ll each need to fill out your ow
 </li>
 </ol>
 
-<div class="feature" markdown=“1”>
-
-### You'll need this information
+### What information do I need to apply? 
 
 To apply, you'll need your (or your sponsor's):
 
@@ -95,8 +93,6 @@ To apply, you'll need your (or your sponsor's):
 **Note:** If you don't have discharge papers, [find out how to request the DD214](/records/get-military-service-records/).
 
 <br>
-
-### More information needed for certain applicants
 
 **If you’re applying as a spouse, surviving spouse, or unmarried adult child,** you’ll also need your personal information, including your Social Security number.
 
@@ -111,9 +107,6 @@ To apply, you'll need your (or your sponsor's):
 
 **If you're applying for an unmarried adult child of a Veteran or service member,** you'll also need to provide supporting documents with information about the child's disability.
 
-</div>
-
-<div markdown="0">
 
 ## How do I apply?
 You can apply online right now.
