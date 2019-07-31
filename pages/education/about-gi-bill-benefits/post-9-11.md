@@ -200,9 +200,12 @@ VA’s campus definitions:
 - **Branch campus:** A location of an educational institution that is _geographically apart_ from and _operationally independent_ of the main campus of the educational institution.
 - **Extension campus:** A location that is _geographically apart_ from the main or branch campus but is _operationally dependent_ on that campus for the performance of administrative tasks. <br>
 
-<h2 itemprop="name">Get more information</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+</div>
+</div>
+</div>
+</div>
+
+<h2>Get more information</h2>
 
 - Compare benefits by school. <br>
   [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
@@ -210,10 +213,6 @@ VA’s campus definitions:
 - [Read the Post-9/11 GI Bill pamphlet (PDF)](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)
 - [See Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/list)
 
-</div>
-</div>
-</div>
-</div>
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
 [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp)
