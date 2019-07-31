@@ -82,7 +82,7 @@ If both you and your spouse are applying, you’ll each need to fill out your ow
 </li>
 </ol>
 
-### What information do I need to apply? 
+## What information do I need to apply? 
 
 To apply, you'll need your (or your sponsor's):
 
