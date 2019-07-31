@@ -87,7 +87,10 @@ You can get qualifications, including:
 - Dual engine
 - Flight engineer
 
+</div>
+
 -----
+
 
 <div itemscope itemtype="http://schema.org/Question">
 <h2 itemprop="name">How do I get these benefits?</h2>
@@ -97,7 +100,6 @@ You can get qualifications, including:
 You’ll need to apply for benefits. <br>
 [Apply for education benefits](/education/how-to-apply/)
 
-</div>
 </div>
 </div>
 </div>
