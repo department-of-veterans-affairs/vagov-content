@@ -48,10 +48,7 @@ Find out how to file a claim for disability compensation or increased disability
 - [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/additional-forms/) <br>
 
 
-<div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
-
-<h3 itemprop="name">What evidence will I need to provide to support my claim?</h3>
-<div itemprop="itemListElement">
+<h2 itemprop="name">What evidence will I need to provide to support my claim?</h2>
 
 **You can help to support your claim by providing documents, such as:**
 
@@ -68,8 +65,6 @@ We'll also review your discharge papers (DD214 or other separation documents) an
 **Please note**: You don’t have to submit any evidence to support your claim, but we may need to schedule a claim exam so we can learn more about your condition.
 
 You should also know that you have up to a year from the date we receive your claim to turn in any evidence. If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days.
-</div>
-</div>
 
 
 <div data-widget-type="disability-app-status" data-widget-timeout="20">
