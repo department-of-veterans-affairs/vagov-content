@@ -3,7 +3,8 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Principles Of Excellence Program
 heading: Principles of Excellence program
-display_title: Principles of Excellence
+display_title: Principles of Excellence program
+description: Learn about guidelines for programs that receive federal funding through programs like the GI Bill. Some foreign schools, high schools, internships, residencies, and apprenticeships don't have to follow these guidelines.
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 collection: educationChooseSchool
@@ -11,6 +12,7 @@ order: 1
 ---
 
 <div class="va-introtext">
+
 The Principles of Excellence program requires schools that get federal funding through programs such as the GI Bill to follow certain guidelines. Learn about these guidelines.
 </div>
 

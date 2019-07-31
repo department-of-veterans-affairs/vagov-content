@@ -4,6 +4,8 @@ template: detail-page
 title: Tutorial Assistance
 heading: Tutorial assistance
 display_title: Tutorial assistance
+description: Learn how you may be able to get money to help pay a tutor if you're a Veteran enrolled at least half-time in an educational program and having trouble with a difficult class required for your degree.
+keywords: n/a
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 5
@@ -18,7 +20,7 @@ If you’re using VA educational assistance, and you’re struggling with the co
 
 <div class="feature" markdown="1">
 
-### Can I get this benefit?
+### Am I eligible for this benefit?
 You can get this benefit if you’re using VA educational assistance and you meet all of the requirements listed below.
 
 **All of these must be true:**

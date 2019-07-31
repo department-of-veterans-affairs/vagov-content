@@ -4,6 +4,8 @@ template: detail-page
 title: Co-op Training
 heading: Co-op training
 display_title: Co-op training
+description: Learn about college co-op programs that might be able to help you get full-time work experience in between periods of going to school full-time. Co-op programs may also be able to help cover costs for books, tuition, and housing. The amount you get depends on what type of GI Bill benefits you use.
+keywords: n/a
 concurrence: complete
 plainlanguage: 11-26-16 certified in compliance with the Plain Writing Act
 order: 12

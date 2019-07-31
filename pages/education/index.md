@@ -1,10 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: level2-index
-title: VA Education And Training Benefits
+title: VA Education Benefits
 heading: VA education and training benefits
 display_title: Education and training
 description: Find out if you're eligible and how to apply for VA education benefits for Veterans, service members, and their qualified family members. VA education and training benefits can help you pay for college tuition, find the right school or training program, get career counseling, and more.
+keywords: va education benefits, va education, va education number, va education benefits number, va education phone number, va benefits education, veterans education benefits
 concurrence: complete
 lastupdate:
 order: 1

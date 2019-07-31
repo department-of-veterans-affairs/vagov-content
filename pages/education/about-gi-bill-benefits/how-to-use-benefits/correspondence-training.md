@@ -4,6 +4,8 @@ template: detail-page
 title: Correspondence Training
 heading: Correspondence training
 display_title: Correspondence training
+description: Find out how you can use your Post-9/11 Bill benefits to pay for up to half the cost of correspondence training classes at an in-state school. You may consider completing correspondence courses by mail if you live far from a school or want to take classes from home.
+keywords: n/a
 order: 4
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
