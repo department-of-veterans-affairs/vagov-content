@@ -46,9 +46,8 @@ No. Board hearings are always optional.
 [Prepare for your Board hearing](#preparing)<br>
 [Find out what to expect at your Board hearing](#expect)
 
-<section id="scheduling">
 
-  ## Schedule your Board hearing
+  <h2 id="scheduling">Schedule your Board hearing</h2>
 
   ### How do I request a Board hearing?
 
@@ -105,11 +104,9 @@ Or you can contact your Veterans Service Organization at any time during the app
   PO Box 27063<br>
   Washington, DC 20038<br>
   </p>
-</section>
 
-<section id="preparing">
 
-  ## Prepare for your Board hearing
+  <h2 id="preparing">Prepare for your Board hearing</h2>
 
   ### What new evidence should I bring to my hearing?
 
@@ -120,11 +117,9 @@ Or you can contact your Veterans Service Organization at any time during the app
   Yes. You can get a representative to help you prepare for the hearing and present your information to the judge. This person may be a lawyer, a claims agent, or someone from a Veterans Service Organization (VSO).
 
   [Get help from a representative](/disability/get-help-filing-claim/)
-</section>
 
-<section id="expect">
 
-  ## Find out what to expect at your Board hearing
+  <h2 id="expect">Find out what to expect at your Board hearing<h2>
 
   ### What will happen at my hearing?
 
@@ -146,4 +141,3 @@ Or you can contact your Veterans Service Organization at any time during the app
   No. The Board reviews cases in the order they’re received. The judge will begin work on your appeal when it’s among the oldest appeals ready for their review.
 
   The Board will create a transcript of your hearing and add this to your appeal file. The Board will ask if you’d like a copy of the transcript for your personal records. The judge will review the hearing transcript along with all the other evidence in your file when they make a decision on your appeal.
-</section>
