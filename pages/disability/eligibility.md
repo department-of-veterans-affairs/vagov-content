@@ -4,6 +4,7 @@ title: Eligibility For VA Disability Benefits
 heading: Eligibility for VA disability benefits
 display_title: Eligibility
 description: Read VA disability benefits eligibility criteria to see if you qualify for compensation for a presumptive disability or other service-connected conditions. A presumptive disability is an illness or injury we believe is related to military service. You can also learn more about dependent eligibility.
+keywords: va disability benefits eligibility, va disability benefits, presumptive disability
 order: 1
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -31,18 +32,18 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description"  class="va-introtext">
 
-Find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care.
+Review VA disability benefits eligibility criteria to find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care. Learn more about VA disability benefits. 
 
 </div>
 
 <div class="feature" markdown="1">
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get disability compensation from VA?</h3>
+<h3 itemprop="name">Am I eligible for disability compensation?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may be able to get disability compensation if you have a current illness or injury (known as a condition) that affects your body or mind and you meet at least one of the requirements listed below.
+You may be able to get VA disability benefits or compensation if you have a current illness or injury (known as a condition) that affects your body or mind and you meet at least one of the requirements listed below.
 
 <b>Both of these must be true. You:</b>
 - Served on active duty, active duty for training, or inactive duty training, <b>and</b>
@@ -71,7 +72,7 @@ If you have a disability that's been diagnosed by a doctor and that we consider 
 
 ## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+If you've received one of these discharge statuses, you may not be eligible for VA disability benefits.
 
 **There are 2 ways you can try to qualify:**
 
@@ -104,7 +105,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-**You may be able to get benefits for conditions such as:**
+**You may be able to get VA disability benefits for conditions such as:**
 - Chronic (long-lasting) back pain resulting in a current diagnosed back disability
 - Breathing problems resulting from a current lung condition or lung disease
 - Severe hearing loss
@@ -113,7 +114,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 - Ulcers
 - Cancers caused by contact with toxic chemicals or other dangers
 
-**You may also be able to get benefits for:**
+**You may also be able to get VA disability benefits for:**
 - Traumatic brain injury (TBI)
 - Posttraumatic stress disorder (PTSD)
 - Depression
