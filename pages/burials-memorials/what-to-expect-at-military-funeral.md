@@ -3,6 +3,8 @@ layout: page-breadcrumbs.html
 title: Military Funeral Honors And The Committal Service
 heading: Military funeral honors and the committal service
 display_title: Military funeral honors and committal service
+description: Find out what to expect at a military funeral ceremony for a Veteran or service member. Learn about military funeral etiquette and how families can choose to have burial honors like the playing of "Taps", a rifle detail, a color guard, and uniformed service members to present the burial flag. 
+keywords: military funeral, military burial, veteran funeral, military funeral etiquette
 template: detail-page
 collection: burials
 order: 8
@@ -13,7 +15,7 @@ spoke: More resources
 
 <div class="va-introtext">
 
-We carry out memorial services at national cemeteries with dignity and respect. Find out what happens at a military funeral for a Veteran or service member.
+Find out what happens at a military funeral for a Veteran or service member. We carry out memorial services at national cemeteries with dignity and respect. 
 
 </div>
 
