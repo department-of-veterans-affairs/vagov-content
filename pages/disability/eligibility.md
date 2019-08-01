@@ -60,7 +60,7 @@ If you have a disability that's been diagnosed by a doctor and that we consider 
 - [An illness caused by your time spent as a prisoner of war (POW)](/disability/eligibility/former-pows/)
 
 
-<h4>Who's covered?</h4>
+<h3>Who's covered?</h3>
 - Veterans
 - Qualified dependents
 
