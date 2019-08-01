@@ -4,6 +4,8 @@ template: detail-page
 title: Independent And Distance Learning
 heading: Independent and distance learning
 display_title: Independent and distance learning
+description: View current payment rates for online and distance learning courses you can get money for under the Post-9/11 GI Bill. If you're using GI Bill benefits to pay for online or distance learning courses, you can also get a housing allowance based on 50% of the national average.
+keywords: n/a
 order: 3
 plainlanguage: 11-21-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete

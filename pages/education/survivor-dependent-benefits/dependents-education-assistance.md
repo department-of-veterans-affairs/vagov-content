@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Survivors’ And Dependents’ Educational Assistance Program
-heading: Survivors’ and Dependents’ Educational Assistance program 
+title: Survivors’ And Dependents’ Educational Assistance 
+heading: Survivors’ and Dependents’ Educational Assistance 
 display_title: Dependents Education Assistance (DEA)
+description: Find out if you're eligible for the Survivors' and Dependents' Educational Assistance program for children and spouses of Veterans who have died or been disabled. View current payment rates for college degree programs, career-training certificate courses, apprenticeships, and on-the-job training.
+keywords: dependents educational assistance, dependents educational assistance program
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: incomplete
 order: 2
@@ -11,13 +13,13 @@ order: 2
 
 <div class="va-introtext">
 
-If you’re the child or spouse of a Veteran or service member who has died, is captured or missing, or has disabilities, find out if you can get help paying for school or job training through the Survivors’ and Dependents’ Educational Assistance (DEA) program—also called Chapter 35.
+Learn about the Survivors' and Dependents' Educational Assistance (DEA) program. If you’re the child or spouse of a Veteran or service member who has died, is captured or missing, or has disabilities, you may be able to get help paying for school or job training through the DEA program—also called Chapter 35. Find out if you're eligible for this benefit.
 
 </div>
 
 <div class="feature">
 
-### Can I get education benefits through the DEA program?
+### Am I eligible for education benefits through the DEA program?
 
 You may be able to get these benefits if both you and the Veteran or service member meet certain eligibility requirements.
 
@@ -57,7 +59,7 @@ We’ll send you a monthly payment to help you cover the cost of:
 
 **Note:** If you began using this program to pay for your school or training before August 1, 2018, you can get benefits for up to 45 months. If you began using the program on or after August 1, 2018, you can get benefits for up to 36 months.
 
-[View current payment rates](https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch35/ch35rates100115.asp)
+[View current payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)
 
 ### What if I qualify for both DEA and the Fry Scholarship?
 

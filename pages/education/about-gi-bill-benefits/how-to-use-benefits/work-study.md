@@ -4,20 +4,22 @@ template: detail-page
 title: Work Study
 heading: Work study
 display_title: Work study
+description: Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, vocational, or professional training program. You'll earn an hourly minimum wage for working at a nearby VA facility or in a VA-related role at your school.
+keywords: Veteran work study
 concurrence: incomplete
 order: 11
 ---
 
 <div class="va-introtext">
 
-Find out if you can earn money while you go to school through our work-study program.
+Find out how our Veterans work-study program can help you earn money while you're enrolled in a college, a vocational school, or professional training program.
 
 </div>
 
 
 <div class="feature" markdown="1">
 
-### Can I take part in the VA work-study program?
+### Can I take part in the Veterans work-study program?
 
 You can take part in our work-study program if you meet all of the requirements listed below.
 

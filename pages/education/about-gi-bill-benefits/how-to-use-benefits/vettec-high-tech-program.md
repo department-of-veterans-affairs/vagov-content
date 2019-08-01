@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Veteran Employment Through Technology Education Courses (VET TEC) Program
-heading: Veteran Employment Through Technology Education Courses (VET TEC) program
+title: Veterans Technology Education Courses
+heading: Veterans technology education courses
 display_title: VET TEC program
 description:
 concurrence: incomplete
@@ -11,7 +11,7 @@ order: 8
 
 <div class="va-introtext">
 
-If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new VET TEC program.
+If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new Veteran Employment Through Technology Education Courses (VET TEC) program.
 
 </div>
 

@@ -1,10 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Post-9/11 GI Bill (Chapter 33)
+title: Post-9/11 GI Bill
 heading: Post-9/11 GI Bill (Chapter 33)
 display_title: Post-9/11 GI Bill
-description: Find out if you can help paying for school or job training through the Post-9/11 GI Bill (Chapter 33). You may qualify if you served on active duty after September 10, 2001, or if you're the qualified spouse or dependent child of a Veteran who meets these service requirements.
+description: Find out if you can get help paying for school or job training through the Post-9/11 GI Bill (Chapter 33). You may qualify if you served on active duty after September 10, 2001, or if you're the qualified spouse or dependent child of a Veteran who meets these service requirements.
+keywords: chapter 33
 plainlanguage: 12-01-16 certified in compliance with the Plain Writing Act now
 concurrence: complete
 gibsAlert: false
@@ -15,14 +16,14 @@ order: 1
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description" class="va-introtext">
 
-If you need help paying for school or job training and you’ve served on active duty after September 10, 2001, you may qualify for the Post-9/11 GI Bill. Find out if you can get education benefits through the Post-9/11 GI Bill.
+The Post-9/11 GI Bill (Chapter 33) helps you pay for school or job training. If you’ve served on active duty after September 10, 2001, you may qualify for the Post-9/11 GI Bill (Chapter 33). Find out if you can get this education benefit.
 
 </div>
 
 <div class="feature" markdown="0">
 <div itemscope itemtype="http://schema.org/Question">
 
-<h3 itemprop="name">Can I get Post-9/11 GI Bill benefits?</h3>
+<h3 itemprop="name">Am I eligible for Post-9/11 GI Bill (Chapter 33) benefits?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -57,7 +58,7 @@ You’ll have to pick which benefit you'd like to use. This is an irrevocable de
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">What benefits can I get through the Post-9/11 GI Bill?</h2>
+<h2 itemprop="name">What benefits can I get through the Post-9/11 GI Bill (Chapter 33)?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -89,7 +90,7 @@ Note that this will change August 1, 2020. In this example, 90 days of active se
 
 This depends on when you were discharged from active duty.
 
-**If your service ended before January 1, 2013,** your Post-9/11 GI Bill benefits will expire 15 years after your last separation date from active service. You must use all of your benefits by that time or you’ll lose whatever’s left.
+**If your service ended before January 1, 2013,** your Post-9/11 GI Bill (Chapter 33) benefits will expire 15 years after your last separation date from active service. You must use all of your benefits by that time or you’ll lose whatever’s left.
 
 **If your service ended on or after January 1, 2013,** your benefits won't expire thanks to a new law called the Forever GI Bill - Harry W. Colmery Veterans Educational Assistance Act. Some letters you receive from us may not yet reflect this change. Thank you for your patience as we work to update our systems.<br>
 [Learn more about this new law](https://www.benefits.va.gov/GIBILL/ForeverGIBill.asp)
@@ -129,7 +130,7 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">Can my family members or I get any additional benefits through the Post-9/11 GI Bill?</h2>
+<h2 itemprop="name">Can my family members or I get any additional benefits through the Post-9/11 GI Bill (Chapter 33)?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -148,7 +149,7 @@ If you already applied for and were awarded Post-9/11 GI Bill education benefits
 
 <div itemscope itemtype="http://schema.org/Question">
 
-<h2 itemprop="name">How can I use my Post-9/11 GI Bill benefits?</h2>
+<h2 itemprop="name">How can I use my Post-9/11 GI Bill (Chapter 33) benefits?</h2>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
@@ -199,9 +200,12 @@ VA’s campus definitions:
 - **Branch campus:** A location of an educational institution that is _geographically apart_ from and _operationally independent_ of the main campus of the educational institution.
 - **Extension campus:** A location that is _geographically apart_ from the main or branch campus but is _operationally dependent_ on that campus for the performance of administrative tasks. <br>
 
-<h2 itemprop="name">Get more information</h2>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
+</div>
+</div>
+</div>
+</div>
+
+<h2>Get more information</h2>
 
 - Compare benefits by school. <br>
   [Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
@@ -209,10 +213,6 @@ VA’s campus definitions:
 - [Read the Post-9/11 GI Bill pamphlet (PDF)](https://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)
 - [See Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/list)
 
-</div>
-</div>
-</div>
-</div>
 
 GI Bill&reg; is a registered trademark of the United States Department of Veterans Affairs (VA). The absence of the registration symbol &reg; does not constitute a waiver of VA’s trademark rights in that phrase. <br>
 [Read our Terms of Use](https://www.benefits.va.gov/GIBILL/Trademark_Terms_of_Use.asp)

@@ -4,6 +4,8 @@ template: detail-page
 title: Montgomery GI Bill Selected Reserve (MGIB-SR)
 heading: Montgomery GI Bill Selected Reserve (MGIB-SR)
 display_title: Montgomery GI Bill Selected Reserve
+description: Learn about Montgomery GI Bill Selected Reserve benefits (MGIB-SR) available for education and training. Service members may be able to get up to 36 months of benefits as part of the MGIB-SR program.
+keywords: montgomery gi bill, montgomery gi bill reserve, selected reserve, mgib-sr, mgib sr
 concurrence: complete
 plainlanguage: 12-05-16 certified in compliance with the Plain Writing Act
 order: 3
@@ -11,13 +13,13 @@ order: 3
 
 <div class="va-introtext">
 
-If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be able to get up to 36 months of education and training benefits under the Montgomery GI Bill Selected Reserve (MGIB-SR) program. Find out if you qualify.
+The Montgomery GI Bill Selected Reserve (MGIB-SR) program offers up to 36 months of education and training benefits. If you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, you may be eligible for this benefit. Find out if you qualify.
 
 </div>
 
 <div class="feature" markdown="1">
 
-### Can I get education benefits under the MGIB-SR program?
+### Am I eligible for education benefits under the MGIB-SR program?
 
 You can get education benefits under this program if you meet the requirements listed below.
 
