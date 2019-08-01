@@ -4,6 +4,7 @@ template: detail-page
 title: After You Apply For A Pre-Need Eligibility Determination
 heading: After you apply for a pre-need eligibility determination
 display_title: After you apply
+description: Learn more about what to expect after you apply for a pre-need eligibility determination for burial in a VA national cemetery. Find out how long you can expect to wait for the VA to make a decision, what your family needs to do, and how to appeal a decision you disagree with.
 order: 3
 majorlinks:
   - heading:
