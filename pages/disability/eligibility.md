@@ -39,7 +39,7 @@ Review VA disability benefits eligibility criteria to find out if you can get di
 <div class="feature" markdown="1">
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Am I eligible for disability compensation?</h3>
+<h3 itemprop="name">Am I eligible for VA disability compensation?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
