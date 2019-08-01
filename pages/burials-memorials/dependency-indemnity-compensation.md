@@ -5,6 +5,7 @@ title: Compensation For Surviving Spouse And Dependents (VA DIC)
 heading: Compensation for surviving spouse and dependents (VA DIC)
 display_title: Survivor and dependent compensation (DIC)
 description: Find out how to apply for VA Dependent and Indemnity Compensation (VA DIC). These VA benefits for spouses, children, and parents of Veterans and service members who died in the line of duty or from a service-related injury or illness give a tax-free monthly payment to eligible survivors.
+keywords: va dic, dependency and indemnity compensation, dependency indemnity compensation, veterans benefits for widows, va benefits for spouses, what are survivor benefits, va widow benefits, va benefits for widows, va benefits for surviving spouse, military widows benefits, veterans disability benefits surviving spouse, dic benefits, va survivor benefit rates, veteran spouse benefits after death, veterans death benefits for spouse, benefits for spouses of deceased veterans, disabled veterans survivor benefits
 order: 5
 collection: burials
 spoke: Get benefits
@@ -12,7 +13,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, you may be able to get a tax-free monetary benefit called VA Dependency and Indemnity Compensation (VA DIC). Find out if you can get compensation.
+If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, you may be able to get a tax-free monetary benefit called VA Dependency and Indemnity Compensation (VA DIC). Find out if you can get VA benefits or compensation.
 
 </div>
 
@@ -23,7 +24,7 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="VA-burials-survivor-spouse">As a surviving spouse</button>
 <div id="VA-burials-survivor-spouse" class="usa-accordion-content">
 
-You may be able to get compensation as a surviving spouse if you meet the requirements listed below. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or service member. Evidence may include documents like military service records, doctor's reports, and medical test results.
+You may be eligible for VA benefits or compensation for surviving spouses if you meet the requirements listed below. You'll also need to provide evidence with your claim showing that one of the descriptions below is true for the Veteran or service member. Evidence may include documents like military service records, doctor's reports, and medical test results.
 
 **One of these must be true. You:**
 - Married the Veteran or service member before January 1, 1957, **or**
