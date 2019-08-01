@@ -25,7 +25,7 @@ We provide a United States flag to drape on a casket (or coffin) or place with a
 
 <div class="feature">
 
-### Can I get a burial flag?
+### Am I eligible for a burial flag?
 
 You can get a burial flag if you’re the next of kin or a close friend of the Veteran or Reservist and any one of the descriptions below is true for that person.
 
