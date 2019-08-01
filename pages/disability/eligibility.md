@@ -32,7 +32,7 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description"  class="va-introtext">
 
-Review VA disability benefits eligibility criteria to find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care. Learn more about VA disability benefits. 
+Review VA disability benefits eligibility criteria to find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care. 
 
 </div>
 
