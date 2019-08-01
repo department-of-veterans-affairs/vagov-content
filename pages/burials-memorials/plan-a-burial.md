@@ -4,6 +4,8 @@ template: detail-page
 title: Schedule A Burial For A Veteran, Spouse, Or Dependent Family Member
 heading: Schedule a burial for a Veteran, spouse, or dependent family member
 display_title: Schedule a burial
+description: Find out how to make burial plans for a Veteran, spouse, or dependent family member. Find out how to choose a funeral director, get information about Burial at Sea, and apply for financial support to help with burial costs. Learn what to do when a Veteran dies.
+keywords: veterans burial, burial plans, what to do when a veteran dies
 collection: burials
 children: burialsPlanABurial
 spoke: Plan a burial
@@ -23,7 +25,7 @@ relatedlinks:
 ---
 
 <div class="va-introtext">
-Find out what steps to take to schedule a burial for a Veteran, spouse, or dependent family member.
+Find out how to make burial plans for a Veteran, spouse, or dependent family member. 
 </div>
 
 <br>
