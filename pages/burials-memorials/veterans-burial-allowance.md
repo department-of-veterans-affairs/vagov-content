@@ -5,6 +5,7 @@ title: How To Apply For A Veterans Burial Allowance
 heading: How to apply for a Veterans burial allowance
 display_title: Burial allowance
 description: Find out how to apply for a Veterans burial allowance to help cover burial, funeral, and transportation costs (sometimes called "Veterans death benefits"). Find out what costs VA pays for, and review current burial allowance amounts, depending on the Veteran's service and medical history.
+keywords: veterans burial, veterans death benefits, va death benefits, veteran funeral, va funeral benefits, if a veteran dies who pays for the funeral, does the military pay for funerals for veterans, does the va pay for cremation, va burial benefits cremation, burial benefits for veterans, what does the military pay for a funeral, free burial services for veterans, funeral benefits for veterans spouses, burial and plot internment allowance, burial allowance for veterans, veterans burial assistance, burial allowance va, va reimbursement for burial expenses, va burial allowance
 order: 3
 spoke: Get benefits
 collection: burials
@@ -18,7 +19,7 @@ widgets:
 
 <div class="va-introtext">
 
-Find out how to get Veterans burial allowances to help cover burial, funeral, and transportation costs.
+Find out how to get Veterans burial allowances (sometimes called "Veterans death benefits") to help cover burial, funeral, and transportation costs. 
 
 </div>
 
@@ -26,7 +27,7 @@ Find out how to get Veterans burial allowances to help cover burial, funeral, an
 
 ### Can I get allowances to help pay for a Veteran's burial and funeral costs?
 
-You may be able to get burial allowances if you're paying for the burial and funeral costs and you won't be reimbursed by any other organization, like another government agency or the Veteran's employer. The requirements listed below must also be true.
+You may be able to get Veterans burial allowances if you're paying for the burial and funeral costs and you won't be reimbursed by any other organization, like another government agency or the Veteran's employer. The requirements listed below must also be true.
 
 **One of these relationships or professional roles describes your connection to the Veteran. You’re:**
 
@@ -66,7 +67,7 @@ You must file a claim for a non-service-connected burial allowance within 2 year
 
 There's no time limit to file for a service-connected burial, plot, or interment allowance.
 
-## What kind of benefits can I get?
+## What kind of burial benefits can I get?
 
 For burial in a national cemetery, you'll receive an allowance for:
 
