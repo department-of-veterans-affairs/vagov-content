@@ -73,7 +73,7 @@ If we determine that you're eligible for VET TEC, you'll then apply to the VA-ap
 
 ## VET TEC training providers
 
-To see the list of VA-approved VET TEC training providers, go to the [GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool/). 
+Browse the [list of VA-approved VET TEC training providers](https://www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp).
 
 A provider is considered "preferred" if the training facility agrees to refund tuition and fees if a student doesn't find meaningful employment within 180 days of completing the program.
 
