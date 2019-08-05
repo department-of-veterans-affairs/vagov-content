@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Agent Orange Exposure From Testing And Storage Areas Outside Vietnam
-heading: Agent Orange exposure from testing and storage areas outside Vietnam
+title: Agent Orange Testing And Storage Outside Vietnam
+heading: Agent Orange testing and storage outside Vietnam
 display_title: Testing and storage
 description: If you were part of testing or storing Agent Orange on military bases in the U.S. or elsewhere, you may have been exposed to this herbicide. Find out if you're eligible for VA disability pay and other benefits for illnesses related to contact with Agent Orange.
 plainlanguage: 10-26-16 certified in compliance with the Plain Writing Act
