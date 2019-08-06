@@ -317,7 +317,7 @@
     columnTwo:
       title: Learn about VA
       links:
-      - text: VA mission, vision, and values
+      - text: About VA
         href: https://www.va.gov/ABOUT_VA/index.asp
       - text: History of VA
         href: https://www.va.gov/about_va/vahistory.asp
