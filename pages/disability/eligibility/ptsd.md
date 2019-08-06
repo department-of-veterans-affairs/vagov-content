@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: VA Disability Compensation For Posttraumatic Stress Disorder (PTSD)
-heading: VA disability compensation for posttraumatic stress disorder (PTSD)
+title: VA Disability Compensation For PTSD
+heading: VA disability compensation for PTSD
 display_title: PTSD
 description: Find out if you're eligible for VA disability compensation for posttraumatic stress disorder (PTSD). Learn how to file your claim for PTSD disability payments, and get more information about our PTSD programs.
 concurrence: complete
@@ -12,7 +12,7 @@ order: 3
 ---
 <div class="va-introtext">
 
-Posttraumatic stress can happen after someone goes through a traumatic event such as combat, an assault, or a disaster. Most people have some stress reactions following trauma. But if the reactions don’t go away over time or they disrupt your life, you may have PTSD. Find out if you can get disability compensation or benefits if you have symptoms of PTSD. <br>
+Posttraumatic stress can happen after someone goes through a traumatic event such as combat, an assault, or a disaster. Most people have some stress reactions following trauma. But if the reactions don’t go away over time or they disrupt your life, you may have posttraumatic stress disorder (PTSD). Find out if you can get disability compensation or benefits if you have symptoms of PTSD. <br>
 
 [Learn more about PTSD](https://www.ptsd.va.gov/)
 
