@@ -62,8 +62,8 @@ display_title: Frequently asked questions
              <h2>Common issues with signing in to VA.gov</h2>
               <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="sign-in-issue" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
-                    <div id="sign-in-issue" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-signinissue-0" itemprop="name">When I try to sign in to VA.gov, I see an error message that something went wrong. What should I do? </button>
+                    <div id="faq-signinissue-0" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p><strong>If you're seeing the message “We're sorry. Something went wrong on our end,” try taking these steps:</strong>
                           <ul>
@@ -327,18 +327,18 @@ display_title: Frequently asked questions
                       </div>
                     </div>
                   </li>
-                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="why-verify" itemprop="name">
+                  <li id="why-verify" markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-security-1" itemprop="name">
                       Why do I need to verify my identity to use advanced tools and services on VA.gov?
                     </button>
-                    <div id="why-verify" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                    <div id="faq-security-1" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft.</p>
                       </div>
                     </div>
-                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
-                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="what-is-idme" itemprop="name">What’s ID.me, and why should I trust them? </button>
-                    <div id="what-is-idme" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
+                  <li id="what-is-idme" markdown="1" itemscope itemtype="http://schema.org/Question">
+                    <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-security-2" itemprop="name">What’s ID.me, and why should I trust them? </button>
+                    <div id="faq-security-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">
                         <p>ID.me is a digital identity platform that helps people like you easily prove your identity so you can access advanced online services—while keeping your personal information safe.</p>
                         <p>ID.me is a trusted VA partner and one of only 4 Single Sign-On providers that meet the U.S. government’s most rigorous requirements for online identity proofing and authentication. ID.me provides the strongest identity verification system available to prevent fraud and identity theft. This service uses bank-grade encryption to keep your personal information safe. And they give you control over which services and businesses can share your information.</p>
@@ -379,17 +379,21 @@ display_title: Frequently asked questions
 
 <script type="text/javascript">
 (function() {
-  function openAccordion(id) {
+  var openAccordion = function(id) {
     document.querySelector('[aria-controls="' + id + '"]').setAttribute('aria-expanded', true);
     document.getElementById(id).setAttribute('aria-hidden', false);
   }
 
-  var hashValue = window.location.hash;
-  var accordionId = null;
-
-  if (window.location.hash) {
-    accordionId = hashValue.slice(1);
-    openAccordion(accordionId);
+  switch(window.location.hash) {
+    case '#why-verify':
+      openAccordion('faq-security-1');
+      break;
+    case '#what-is-idme':
+      openAccordion('faq-security-2');
+      break;
+    case '#sign-in-issue':
+      openAccordion('faq-signinissue-0');
+      break;
   }
 })();
 </script>
