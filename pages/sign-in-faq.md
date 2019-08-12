@@ -124,10 +124,12 @@ display_title: Frequently asked questions
                           <li>A smartphone (or a landline or mobile phone and a computer with an Internet connection), <strong>and</strong></li>
                           <li>Your Social Security number, <strong>and</strong></li>
                           <li>Proof of your identity, either:</li>
-                          <ul>
-                            <li>Your driver’s license or passport, <strong>or</strong></li>
-                            <li>The ability to answer questions based on private and public data (like your credit report) to prove you’re you</li>
-                          </ul>
+                          <li>
+                            <ul>
+                              <li>Your driver’s license or passport, <strong>or</strong></li>
+                              <li>The ability to answer questions based on private and public data (like your credit report) to prove you’re you</li>
+                            </ul>
+                          </li>
                         </ul>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a></p>
                       </div>
