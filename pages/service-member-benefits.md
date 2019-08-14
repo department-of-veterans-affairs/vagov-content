@@ -84,8 +84,12 @@ hublinks:
       - url: "/careers-employment/education-and-career-counseling/"
         label: Educational and career counseling
         description: Get support transitioning to a civilian career with free educational and career counseling (also called Chapter 36). You'll need to apply between 6 months before and 1 year after separation. <br> <b>Open to active-duty service members and Veterans only</b>
+<<<<<<< HEAD
+      - url: "/health-care/eligibility/active-duty/"        
+=======
       - url: "https://www.va.gov/HEALTHBENEFITS/apply/active_duty.asp"
         external: true
+>>>>>>> master
         label: Active duty service members and VA health care
         description: Learn about your health care options after separation or retirement and how to apply for VA health care when you receive your separation or retirement orders. If you're a combat Veteran, apply right away to take advantage of 5 years of enhanced eligibility. <br> <b>Open to active-duty service members and Veterans only</b>
       - url: "/careers-employment/vocational-rehabilitation/"
