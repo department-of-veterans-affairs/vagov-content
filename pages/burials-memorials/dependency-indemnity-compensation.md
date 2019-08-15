@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Compensation For Surviving Spouse And Dependents (VA DIC)
-heading: Compensation for surviving spouse and dependents (VA DIC)
+heading: Benefits for spouse and dependents (VA DIC)
 display_title: Survivor and dependent compensation (DIC)
 description: Find out how to apply for VA Dependent and Indemnity Compensation (VA DIC). These VA benefits for spouses, children, and parents of Veterans and service members who died in the line of duty or from a service-related injury or illness give a tax-free monthly payment to eligible survivors.
 keywords: va dic, dependency and indemnity compensation, dependency indemnity compensation, veterans benefits for widows, va benefits for spouses, what are survivor benefits, va widow benefits, va benefits for widows, va benefits for surviving spouse, military widows benefits, veterans disability benefits surviving spouse, dic benefits, va survivor benefit rates, veteran spouse benefits after death, veterans death benefits for spouse, benefits for spouses of deceased veterans, disabled veterans survivor benefits
