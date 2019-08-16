@@ -76,11 +76,36 @@ Your child may be able to get disability benefits if they have a covered birth d
 - The child's birth certificate, **and**
 - Medical records with the diagnosis of spina bifida or another covered birth defect
 
-[Find out how to file a claim for disability compensation](/disability/how-to-file-claim)</br>
-[View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp)
+**You can file a claim in one of these ways:**
+
+#### By mail
+
+File your spina bifida claim by mail using an Application for Benefits for Certain Children with Disabilities Born of Vietnam and Certain Korea Service Veterans (VA Form 21-0304). <br>
+[Download VA Form 21-0304 (PDF)](https://www.vba.va.gov/pubs/forms/vba-21-0304-are.pdf)
+
+Print the form, fill it out, and send it to this address:
+
+<p class="va-address-block">
+VA Regional Office Veterans Service Center (339/21)<br>
+PO Box 25126<br>
+Denver, CO 80225<br>
+</p>
+
+#### In person
+
+Bring your application to a VA regional benefit office near you.<br>
+[Find a VA regional benefit office near you](/find-locations/?facilityType=benefits)
+
+#### With the help of a trained professional
+
+You can work with a trained professional called an accredited representative to get help filing a claim for disability compensation. <br>
+[Get help filing your claim](/disability/get-help-filing-claim/)
+
+If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
 
 ## Get more information 
 
-Does your child have spina bifida? <br>
+[View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp)<br>
 [Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp)<br>
 [Learn more about VR&E benefits for children with spina bifida and other birth defects](https://www.benefits.va.gov/VOCREHAB/Ben_for_Children_with_Disabilities_Chapter_18.asp)
