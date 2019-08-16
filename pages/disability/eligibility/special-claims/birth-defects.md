@@ -101,16 +101,11 @@ Bring your application to a VA regional benefit office near you.<br>
 You can work with a trained professional called an accredited representative to get help filing a claim for disability compensation. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/)
 
-<br>
 If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-
-</div>
-</div>
 
 
 ## Get more information 
 
 [View the current payment rates](https://www.benefits.va.gov/compensation/sb2017.asp)<br>
-
 [Learn more about spina bifida and Agent Orange](https://www.publichealth.va.gov/exposures/agentorange/birth-defects/spina-bifida.asp)<br>
 [Learn more about VR&E benefits for children with spina bifida and other birth defects](https://www.benefits.va.gov/VOCREHAB/Ben_for_Children_with_Disabilities_Chapter_18.asp)
