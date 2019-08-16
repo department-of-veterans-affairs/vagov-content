@@ -101,7 +101,7 @@ Bring your application to a VA regional benefit office near you.<br>
 You can work with a trained professional called an accredited representative to get help filing a claim for disability compensation. <br>
 [Get help filing your claim](/disability/get-help-filing-claim/)
 
-If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+If you have a power of attorney and need to update their information, please call Veterans Benefits Assistance at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 
 ## Get more information 
