@@ -11,15 +11,9 @@ order: 8
 
 <div class="va-introtext">
 
-If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new Veteran Employment Through Technology Education Courses (VET TEC) program.
+If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new Veteran Employment Through Technology Education Courses (VET TEC) program that matches you with a leading training provider to help you develop high-tech skills.
 
 </div>
-
-## What's VET TEC?
-
-VET TEC is a new program that matches you with a leading training provider who can help you develop high-tech skills. You can start or advance your career in the high-tech industry with a training program that'll take months—or just weeks—to complete.
-
-VET TEC is a five-year pilot program. You can participate as long as the funding is available.
 
 <div class="feature" markdown="1">
 
@@ -65,9 +59,11 @@ With VET TEC, you can get:
 
 First, you'll need to apply for the VET TEC program by filling out an Application for Veteran Employment Through Technology Education Course (VA Form 22-0994).
 
-If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment.
+If we determine that you're eligible for VET TEC, you'll then apply to the VA-approved training provider of your choice. Your training provider may review your qualifications to assess whether they think you'll be able to successfully complete their training program and find meaningful, relevant employment. 
 
-**Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).<br>
+VET TEC is a five-year pilot program. You can participate as long as the funding is available.
+
+**Note:** If you haven’t already applied for VA education benefits, you’ll also need to fill out an Application for VA Education Benefits (VA Form 22-1990).
 
 [Apply for education benefits](/education/how-to-apply/)<br>
 
