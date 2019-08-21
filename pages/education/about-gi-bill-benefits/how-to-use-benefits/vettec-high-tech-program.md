@@ -11,7 +11,7 @@ order: 8
 
 <div class="va-introtext">
 
-If you want to gain computer skills and experience to start or advance your career in the high-technology industry, find out if you're eligible for our new Veteran Employment Through Technology Education Courses (VET TEC) program that matches you with a leading training provider to help you develop high-tech skills.
+If you want to gain computer experience to start or advance your career in the high-technology industry, find out if you're eligible for our new Veteran Employment Through Technology Education Courses (VET TEC) program that matches you with a leading training provider to help you develop high-tech skills.
 
 </div>
 
