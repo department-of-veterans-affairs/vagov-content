@@ -88,6 +88,8 @@ You can get qualifications, including:
 - Flight engineer
 
 </div>
+</div>
+</div>
 
 -----
 
@@ -100,6 +102,7 @@ You can get qualifications, including:
 You’ll need to apply for benefits. <br>
 [Apply for education benefits](/education/how-to-apply/)
 
+</div>
 </div>
 </div>
 </div>
