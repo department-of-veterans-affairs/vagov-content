@@ -31,7 +31,7 @@ Your child may be able to get disability benefits if the below descriptions are 
 **One of these must be true. The child’s biological mother or father served in:**
 
 - The Republic of Vietnam or in Thailand for any length of time between January 9, 1962, and May 7, 1975, **or**
-- A unit in or near the Korean Demilitarized Zone for any length of time between April 1, 1968, and August 31, 1971
+- A unit in or near the Korean Demilitarized Zone for any length of time between September 1, 1967, and August 31, 1971
 
 **And both of these must be true. The child was:**
 - Diagnosed with a form of spina bifida other than spina bifida occulta, **and**
