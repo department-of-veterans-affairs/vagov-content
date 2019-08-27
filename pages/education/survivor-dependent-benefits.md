@@ -72,6 +72,16 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
 <table class="va-table-explanatory">
 <caption>Compare DEA and Fry Scholarship benefits</caption>
 <thead>
+  
+  | DEA | Fry Scholarship |
+  |---|---|
+  | **Benefit payments:** We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224. | **Benefit payments:** <br><li><strong>Tuition and fee payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
+      <li><strong>Money for books and supplies (paid to the student)</strong>:
+    We cover up to $1,000 a year, divided up equally among the terms, for books and supplies.<br /><br /></li>
+      <li><strong>Monthly housing allowance (paid to the student)</strong>:
+      We base this amount on the local Basic Allowance for Housing (BAH) for E-5 with dependents and pay it monthly. Online students get half of the BAH national average.</li>
+
+  
   <tr>
     <td colspan="1"></td>
     <th colspan="1" scope="col">DEA</th>
