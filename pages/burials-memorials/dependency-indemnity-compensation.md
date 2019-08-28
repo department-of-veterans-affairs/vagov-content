@@ -11,7 +11,7 @@ spoke: Get benefits
 
 <div class="va-introtext">
 
-If you’re the surviving spouse, child, or parent of a Servicemember who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, you may be able to get a tax-free monetary benefit called VA Dependency and Indemnity Compensation (VA DIC). Find out if you can get compensation.
+If you’re the surviving spouse, child, or parent of a service member who died in the line of duty, or the survivor of a Veteran who died from a service-related injury or illness, you may be able to get a tax-free monetary benefit called VA Dependency and Indemnity Compensation (VA DIC). Find out if you can get compensation.
 
 </div>
 
