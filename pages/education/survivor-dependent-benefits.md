@@ -78,9 +78,7 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
 | **Duration of benefits for spouses:** 20 years from the service member’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). <br> **Duration of benefits for children:** May use benefits between ages 18 and 26 (there may be exceptions). | **Duration of benefits for spouses:** 15 years from the service member’s date of death (but spouses lose this benefit if they remarry). <br> **Duration of benefits for children:** Qualify as of their 18th birthday, and can use this benefit until their 33rd birthday. |
 | **Maximum months of benefits:** 45 months | **Maximum months of benefits:** 36 months |
 | **Spouse gets both DIC and education benefits at the same time:** Yes | **Spouse gets both DIC and education benefits at the same time:** Yes |
-| **Programs covered:** <br> - College, business, technical, or vocational programs <br> - Certification tests <br> - Apprenticeships and on-the-job training <br> - Tutorial assistance <br> - Work study | **Programs covered:** <br> - College, business, technical, or vocational programs <br> - Certification tests <br> - Apprenticeships and on-the-job training <br> - Vocational flight training <br> - Tutorial assistance <br> - Work study |
-
-
+| **Programs covered:** <ul><li>College, business, technical, or vocational programs</li><li>Certification tests</li><li>Apprenticeships and on-the-job training</li><li>Tutorial assistance</li><li>Work study</ul> | **Programs covered:** <ul><li>College, business, technical, or vocational programs</li><li>Certification tests</li><li>Apprenticeships and on-the-job training</li><li>Vocational flight training</li><li>Tutorial assistance</li><li>Work study</li></ul> |
 
 <thead>
   
