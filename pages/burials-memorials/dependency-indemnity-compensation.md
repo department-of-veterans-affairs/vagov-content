@@ -18,13 +18,12 @@ If you’re the surviving spouse, child, or parent of a service member who died 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">DIC eligibility for survivors of Blue Water Navy Vietnam Veterans</h3>
-    <p>Veterans who served on a Blue Water Navy vessel offshore of the Republic of Vietnam, or on another U.S. Navy or Coast Guard ship operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, are now entitled to a presumption of <a href="/disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/">service connection for illnesses related to Agent Orange exposure</a>. This is a result of Public Law 116-23, the Blue Water Navy Vietnam Veterans Act of 2019.</p>
+<p>If we denied your Blue Water Navy Veteran’s service-connected disability claim in the past, you may be eligible for DIC benefits based on the Blue Water Navy Vietnam Veterans Act of 2019.</p>
+    
+    <p>Veterans who served on a Blue Water Navy vessel offshore of the Republic of Vietnam, or on another U.S. Navy or Coast Guard ship operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, are now entitled to a presumption of <a href="/disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/">service connection for illnesses related to Agent Orange exposure</a>. This is a result of Public Law 116-23, also known as the Blue Water Navy Vietnam Veterans Act of 2019.</p>
 
-<b>What this means for you as a survivor</b></p>
-<p>If we denied your Blue Water Navy Veteran’s service-connected disability claim in the past, you may be eligible for DIC benefits based on this change in law.</p>
-
-<p>Read below to learn more about eligibility requirements and how to file a claim. If we denied your claim in the past, you can file a new claim based on this change in law.</p>
-  </div>
+<p>See DIC eligibility information and how to apply. [ANCHOR LINK DOWN TO SECTIONS ON THIS PG]</p>
+ 
 </div>
 
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
