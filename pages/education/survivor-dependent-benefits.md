@@ -75,6 +75,24 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
   
   | DEA | Fry Scholarship |
   |---|---|
+  | **Duration of benefits, spouses:** 20 years from the service member’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). <br> **Duration of benefits, children:** May use benefits between ages 18 and 26 (there may be exceptions). | **Duration of benefits, spouses:** 15 years from the service member’s date of death (but spouses lose this benefit if they remarry). <br> **Duration of benefits, children:** Qualify as of their 18th birthday, and can use this benefit until their 33rd birthday. |
+| **Maximum months of benefits:** 45 months | **Maximum months of benefits:** 36 months |
+| **Spouse gets both DIC and education benefits at the same time:** Yes | **Spouse gets both DIC and education benefits at the same time:** Yes |
+| **Programs covered:** <ul>
+        <li>College, business, technical, or vocational programs</li>
+        <li>Certification tests</li>
+        <li>Apprenticeships and on-the-job training</li>
+        <li>Tutorial assistance</li>
+        <li>Work study
+      </ul> |
+| **Programs covered:** <ul>
+        <li>College, business, technical, or vocational programs</li>
+        <li>Certification tests</li>
+        <li>Apprenticeships and on-the-job training</li>
+        <li>Vocational flight training</li>
+        <li>Tutorial assistance</li>
+        <li>Work study</li>
+      </ul> |
   | **Benefit payments:** We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224. | **Benefit payments:** <br><li><strong>Tuition and fee payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
       <li><strong>Money for books and supplies (paid to the student)</strong>:
     We cover up to $1,000 a year, divided up equally among the terms, for books and supplies.<br /><br /></li>
