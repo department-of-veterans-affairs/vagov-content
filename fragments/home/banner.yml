@@ -19,8 +19,11 @@
 #   '
 #
 
-visible: false
+visible: true
 type: warning
-title: You may have trouble signing in or using some tools or services on VA.gov
-content: >
-    We’re sorry. We’re working to fix a problem that's affecting some parts of our site. If you're having trouble signing in or using any tools or services, please check back soon.
+title: Hurricane Dorian
+content: '
+    For the latest on how Hurricane Dorian is affecting VA facilities in the Caribbean Healthcare System, visit our <a href="https://www.caribbean.va.gov/emergency/index.asp">website</a> for updates as well as pharmacy and counseling information.
+    
+    Veterans within the Sunshine Healthcare Network can also get facility updates <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">here</a>.
+    '
