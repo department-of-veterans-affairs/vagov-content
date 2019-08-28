@@ -108,8 +108,7 @@ display_title: Frequently asked questions
           </ul>
                 <br/>
         <span id="verify"></a>
-                <a name="verifying-your-identity"></a>
-                <h2>Verifying your identity on VA.gov</h2>
+                <h2 id="verifying-your-identity">Verifying your identity on VA.gov</h2>
                 <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-verify-0" itemprop="name">How do I verify my identity online? </button>
@@ -125,10 +124,12 @@ display_title: Frequently asked questions
                           <li>A smartphone (or a landline or mobile phone and a computer with an Internet connection), <strong>and</strong></li>
                           <li>Your Social Security number, <strong>and</strong></li>
                           <li>Proof of your identity, either:</li>
-                          <ul>
-                            <li>Your driver’s license or passport, <strong>or</strong></li>
-                            <li>The ability to answer questions based on private and public data (like your credit report) to prove you’re you</li>
-                          </ul>
+                          <li>
+                            <ul>
+                              <li>Your driver’s license or passport, <strong>or</strong></li>
+                              <li>The ability to answer questions based on private and public data (like your credit report) to prove you’re you</li>
+                            </ul>
+                          </li>
                         </ul>
                         <p><a href="/sign-in-faq/" class="login-required">Sign in now</a></p>
                       </div>
@@ -316,8 +317,6 @@ display_title: Frequently asked questions
                   </li>
                 </ul>
                 <br/>
-                <a name="why-verify"></a>
-                <a name="what-is-idme"></a>
                 <h2>Privacy and security on VA.gov</h2>
                 <ul class="usa-accordion">
                   <li markdown="1" itemscope itemtype="http://schema.org/Question">
@@ -330,7 +329,7 @@ display_title: Frequently asked questions
                       </div>
                     </div>
                   </li>
-                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                  <li id="why-verify" markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-security-1" itemprop="name">
                       Why do I need to verify my identity to use advanced tools and services on VA.gov?
                     </button>
@@ -339,7 +338,7 @@ display_title: Frequently asked questions
                         <p>We need to make sure you’re you—and not someone pretending to be you—before we give you access to your personal and health-related information. This helps to keep your information safe, and prevent fraud and identity theft.</p>
                       </div>
                     </div>
-                  <li markdown="1" itemscope itemtype="http://schema.org/Question">
+                  <li id="what-is-idme" markdown="1" itemscope itemtype="http://schema.org/Question">
                     <button class="usa-button-unstyled usa-accordion-button" aria-controls="faq-security-2" itemprop="name">What’s ID.me, and why should I trust them? </button>
                     <div id="faq-security-2" class="usa-accordion-content" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
                       <div itemprop="text">

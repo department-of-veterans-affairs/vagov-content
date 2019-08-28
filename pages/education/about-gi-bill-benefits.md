@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: About GI Bill benefits
+title: GI Bill
+heading: About GI Bill benefits
 display_title: GI Bill
 description: Learn how GI Bill benefits work and explore your options to pay for school or training. You may qualify for VA GI Bill benefits if you're a Veteran, service member, or the family member of a Veteran or service member.
+keywords: gi, gi bill, gi bill benefits, va gi bill
 concurrence: incomplete
 plainlanguage: 11-29-16 certified in compliance with the Plain Writing Act.
 collection: education
@@ -66,14 +68,13 @@ majorlinks:
 
 <div class="va-introtext">
 
-Since 1944, the GI Bill has helped millions of Veterans pay for college, graduate school, and training programs. Under this bill, qualifying Veterans and their family members can get money to cover all or some of the costs for school or training. Learn more about these benefits below—and how to apply for them.
+GI Bill benefits help you pay for college, graduate school, and training programs. Since 1944, the GI Bill has helped qualifying Veterans and their family members get money to cover all or some of the costs for school or training. Learn more about GI Bill benefits below—and how to apply for them.
 
 If you applied for and were awarded Post-9/11 GI Bill education benefits, your GI Bill Statement of Benefits will show you how much of your benefits you’ve used and how much you have left to use. [View your GI Bill Statement of Benefits](/education/gi-bill/post-9-11/ch-33-benefit).
 
 The GI Bill Comparison Tool and Veterans Service Organizations can help you explore options and find out what benefits you can get. [Find a Veterans service organization](https://www.va.gov/vso/).
 
 
-<a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for Education Benefits</a><br>
+<a class="usa-button-primary va-button-secondary" href="/gi-bill-comparison-tool">Use the GI Bill Comparison Tool</a> <a class="usa-button-primary va-button-primary" href="/education/how-to-apply/">Apply for education benefits</a><br>
 
 </div>
-

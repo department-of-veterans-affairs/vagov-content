@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: How to use your GI Bill benefits
+title: How To Use Your GI Bill Benefits
+heading: How to use your GI Bill benefits
 display_title: How to use your benefits
-description: Find out how to use GI Bill benefits to advance your education and training. You can use your benefits many ways, including paying for college or graduate tuition, funding your training for a specific trade or job or to start your own business, paying for fees to take licensing tests, and more.
+description: Find out how to use GI Bill benefits to advance your education and training. You can use your GI Bill benefits in many ways, including paying for college or graduate tuition, funding your training for a specific trade or job or to start your own business, paying for fees to take licensing tests, and more.
+keywords: how to use gi bill, using gi bill, how to use your gi bill
 children: educationHowToUseBenefits
 order: 4
 plainlanguage:
@@ -66,6 +68,6 @@ majorlinks:
 
 <div class="va-introtext">
 
-You can use your GI Bill benefits in many ways to advance your education and training. Find out how to use your benefits to earn a degree, train for a specific trade, or work toward other career goals.
+Find out how to use your GI Bill benefits to advance your education and training. Learn how to use your benefits to earn a degree, train for a specific trade, or work toward other career goals.
 
 </div>

@@ -2,6 +2,10 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Tuition Assistance Top-Up
+heading: Tuition Assistance Top-Up
+display_title: Tuition Assistance Top-Up
+description: Find out if the Tuition Assistance Top-Up program can help you pay for tuition that's more than what's covered by Tuition Assistance (TA). Check current rates and apply if you're a Veteran covered by the Montgomery GI Bill Active Duty or Post-9/11 GI Bill.
+keywords: n/a
 concurrence: incomplete
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 order: 14
@@ -16,7 +20,7 @@ Does your college tuition cost more than what’s covered by the Tuition Assista
 
 <div class="feature" markdown="1">
 
-### Can I get tuition assistance?
+### Am I eligible for tuition assistance?
 You can get tuition assistance if you’re approved for federal TA and you meet both of the requirements listed below.
 
 **Both of these must be true:**

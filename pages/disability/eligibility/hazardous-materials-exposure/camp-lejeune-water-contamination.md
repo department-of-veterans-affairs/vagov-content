@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Health Issues Related To Camp Lejeune Water Contamination
-heading: Health issues related to Camp Lejeune water contamination
+title: Camp Lejeune Water Contamination Health Issues
+heading: Camp Lejeune water contamination health issues
 display_title: Camp Lejeune water contamination
 description: Find out if you can get VA disability pay and other benefits for illnesses related to Camp Lejeune water contamination. Learn how to file Camp Lejeune water contamination claims for Veterans or family members.
 source: http://benefits.va.gov/compensation/claims-postservice-exposures-camp_lejeune_water.asp
@@ -64,7 +64,7 @@ You’ll need to file a claim for disability compensation and provide the eviden
 
 **Note:** When you file, be sure to state that you’re applying for one or more of the presumed Camp Lejeune illnesses, and upload evidence (like a doctor’s report or medical test results).
 
-### Are Veterans and their family members covered for health care?
+## Are Veterans and their family members covered for health care?
 
 Yes. Veterans who served at Camp Lejeune or MCAS New River for at least 30 cumulative days from August 1953 through December 1987—and their family members—can get health care benefits. We may pay you back for your out-of-pocket health care costs that were related to any of these 15 conditions:
 
@@ -104,7 +104,7 @@ You'll need to ask your doctor to fill out and sign this form before submitting 
 [Download VA Form 10-10068b](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068b)
 
 
-### File a claim
+## File a claim
 
 Fill out the Camp Lejeune Family Member Program Application (VA Form 10-10068).<br>
 [Download VA Form 10-10068](https://www.clfamilymembers.fsc.va.gov/Home/DownloadForm/10-10068)
@@ -120,9 +120,9 @@ Austin, TX 78714-9200<br>
 </p>
 
 If you need help with your application, call our Camp Lejeune Family Member program staff at <a href="tel:+18663721144">866-372-1144</a>. <br>
-<div class="feature" markdown="1">
 
-### What was in the drinking water?
+
+## What was in the drinking water at Camp Lejeune?
 
 Two on-base water wells that were shut down in 1985 had these chemicals:
 
@@ -132,7 +132,6 @@ Two on-base water wells that were shut down in 1985 had these chemicals:
 - Vinyl chloride
 - Other compounds
 
-</div>
 
 ## Get more information
 

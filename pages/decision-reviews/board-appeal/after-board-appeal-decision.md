@@ -15,7 +15,7 @@ If you disagree with the Board’s decision, you have 2 options. You can file a 
 ### Add new and relevant evidence
 
 If you have new and relevant evidence, you can file a Supplemental Claim (VA Form 20-0995) to continue your review.
-<br> 
+<br>
 [Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/) <br>
 [Download VA Form 20-0995 (PDF)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
 
@@ -23,15 +23,15 @@ If you have new and relevant evidence, you can file a Supplemental Claim (VA For
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--1">  
+  <div class="vads-u-flex--1">
       You must add new evidence that VA didn’t have before that supports your case.
   </div>
-</div>  
+</div>
 
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar 
+      Mark your calendar
     </h4>
     <p class="usa-alert-text">
       You have <b>1 year</b> from the date on your decision to file a Supplemental Claim.
@@ -56,10 +56,10 @@ You can request a review of the Board’s decision from the U.S. Court of Appeal
 <div class="usa-alert usa-alert-info">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">
-      Mark your calendar 
+      Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      You have <b>120 days</b> from the date on your decision to file a Court Appeal. 
+      You have <b>120 days</b> from the date on your decision to file a Court Appeal.
       <br>
       <b>Note:</b> A Court Appeal must be filed with the Court, not with VA.
     </p>
@@ -71,11 +71,11 @@ You can request a review of the Board’s decision from the U.S. Court of Appeal
 
 You don’t need to do anything while you wait unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
 
-<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the Status of Your Claim </a>
+<a href="/claim-or-appeal-status/" class="usa-button-primary">Track the status of your claim </a>
 
 ## What if I need help?
 A Veterans Service Organization or VA-accredited attorney or agent can help you request a decision review.
-<br> 
+<br>
 [Get help requesting a decision review](/decision-reviews/get-help-with-review-request/)
 
 ## What if I have more questions?

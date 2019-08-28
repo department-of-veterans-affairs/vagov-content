@@ -251,7 +251,8 @@
         - text: Get Veteran ID cards
           href: https://www.va.gov/records/get-veteran-id-cards/
       columnTwo:
-        title: Manage your records
+        # No title property for this section -
+        # https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17695
         links:
         - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
@@ -304,8 +305,7 @@
       - text: Veterans Choice Program
         href: https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp
       - text: VA open data
-        href: https://www.data.va.gov
-        target: _blank
+        href: https://www.va.gov/data/
       - text: Veterans analysis and statistics
         href: https://www.va.gov/VETDATA/index.asp
       - text: Appeals modernization
@@ -317,7 +317,7 @@
     columnTwo:
       title: Learn about VA
       links:
-      - text: VA mission, vision, and values
+      - text: About VA
         href: https://www.va.gov/ABOUT_VA/index.asp
       - text: History of VA
         href: https://www.va.gov/about_va/vahistory.asp

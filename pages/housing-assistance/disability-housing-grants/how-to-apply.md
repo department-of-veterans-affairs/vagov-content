@@ -5,7 +5,7 @@ template: detail-page
 title: How To Apply For A Specially Adapted Housing Grant
 heading: How to apply for a Specially Adapted Housing Grant
 display_title: How to apply
-description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability. 
+description: Find out how to apply for a Specially Adapted Housing (SAH) grant or a Special Home Adaptation (SHA) grant. These grants offer financial help so you can make changes to your home to live more independently with a service-connected disability.
 keywords: specially adapted housing grant, sah grant
 concurrence:
 order: 1
@@ -14,13 +14,13 @@ order: 1
 
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
- 
+
 Find out how to apply for a Specially Adapted Housing (SAH) or Special Home Adaptation (SHA) grant on our eBenefits website. You can also check the status of an open SAH claim on the site.
 
 </div>
 
 <div class="feature">
- 
+
  ## How do I prepare before starting my application?
 
 <ul>
@@ -45,7 +45,7 @@ You can apply online right now by going to our eBenefits website.
 
 You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium account. If you don’t have a <b>DS Logon</b> account, you can register for one on the site.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to Apply</a></div>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to apply</a></div>
 </div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">

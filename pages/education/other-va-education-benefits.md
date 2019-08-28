@@ -1,8 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Other VA education benefits
-display_title: Other education benefits
+title: Other VA Education Benefits
+heading: Other VA education benefits
+display_title: Other VA education benefits
+description: Learn about other VA education benefits programs if you don't qualify for the Post-9/11 GI Bill. You may still be eligible for education assistance programs like the Montgomery GI Bill and the post-Vietnam era Veterans' Educational Assistance Program.
+keywords: va education benefits, va education, dependents educational assistance program, education assistance program, veterans educational assistance program, veterans education assistance program, department of veterans affairs education programs, veterans education programs
 concurrence: incomplete
 plainlanguage: 12-02-16 certified in compliance with the Plain Writing Act
 collection: education
@@ -14,7 +17,7 @@ majorlinks:
 
 <div class="va-introtext">
 
-If you’re a Guardsman, Reservist, or Veteran who doesn’t qualify for the Post-9/11 GI Bill, you can apply for education benefits through these other programs:
+Learn about other VA education benefits if you don't qualify for the Post-9/11 GI Bill. If you’re a Guardsman, Reservist, or Veteran and you're not eligible for the Post-9/11 GI Bill, you may be able to get other VA education benefits through these programs:
 
 </div>
 
@@ -25,6 +28,6 @@ If you’re a Guardsman, Reservist, or Veteran who doesn’t qualify for the Pos
 
 An accredited representative (a trained professional trusted to help with VA-related claims) who works with a Veterans Service Organization (VSO) can help you pick the right program. <br>[Get help from an accredited representative](/disability/get-help-filing-claim/)
 
-The GI Bill Comparison Tool shows you what benefits you’ll get at different schools. <br>[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
+The GI Bill Comparison Tool shows you what VA education benefits you’ll get at different schools. <br>[Use the GI Bill Comparison Tool](/gi-bill-comparison-tool)
 
-**Note:** The Post-9/11 GI Bill has replaced the Reserve Educational Assistance Program (REAP) for Reserve and National Guard members called to active duty on or after September 11, 2001. But if you applied for REAP on or after November 25, 2015, you may still qualify for benefits. <br>[Learn more about REAP](/education/other-va-education-benefits/reap/)
+**Note:** The Post-9/11 GI Bill has replaced the Reserve Educational Assistance Program (REAP) for Reserve and National Guard members called to active duty on or after September 11, 2001. But if you applied for REAP on or after November 25, 2015, you may still qualify for VA education benefits. <br>[Learn more about REAP](/education/other-va-education-benefits/reap/)

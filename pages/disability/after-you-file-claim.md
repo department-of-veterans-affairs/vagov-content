@@ -4,6 +4,7 @@ title: The VA Claim Process After You File Your Claim
 heading: The VA claim process after you file your claim
 display_title: After you file your claim
 description: Find out what happens in the VA claim process after you file your claim. Learn about the steps in the VA disability claim processing timeline and how long it takes, on average, to get your VA disability rating.
+keywords: va claim process, how long does it take to get your va disability rating, how long does a VA claim take, va disability claim processing time, va disability claim timeline, va claim process timeline, va claims process timeline, va claim pending decision approval
 order: 3
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -28,18 +29,18 @@ relatedlinks:
 
 <div class="va-introtext">
 
-Find out what happens to your claim after you file for disability compensation.
+Learn about the VA claim process and what happens after you file your claim. Find out how long it takes, on average, to process a VA disability claim. 
 
 </div>
 
 ## How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">111.5 days</span>
-<span class="description">Average number of days to complete disability-related claims in April 2019</span>
+<span class="number">109 days</span>
+<span class="description">Average number of days to complete disability-related claims in July 2019</span>
 </div>
 
-## The amount of time it takes to review your claim depends on:
+## The amount of time it takes to review your VA disability claim depends on:
 
 - The type of claim you filed
 - How many injuries or disabilities you claimed and how complex they are
@@ -47,21 +48,21 @@ Find out what happens to your claim after you file for disability compensation.
 
 ## What should I do while I wait?
 
-You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them. You can check the status of your claim online. The time frame you see there may vary based on how complex your claim is.
+You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them. You can check the status of your claim online. The timeline you see there may vary based on how complex your claim is.
 
-<a class="usa-button-primary" href="/claim-or-appeal-status">Track the Status of Your Claim</a>
+<a class="usa-button-primary" href="/claim-or-appeal-status">Track the status of your claim</a>
 
 <div markdown="0"><br></div>
 
-## What happens after I file a claim?
+## What happens after I file a VA disability claim?
 
 <ol class="process">
 <li class="process-step list-one">
 
 ### Claim received
-We’ll let you know when we receive your disability claim.
-- **If you file your disability claim online,** you’ll get an on-screen message from us after you submit the form. <br>
-- **If you file your disability claim on eBenefits,** you’ll see a notice from us in your claims list within about one hour of applying.<br>
+We’ll let you know when we receive your VA disability claim.
+- **If you file your claim online,** you’ll get an on-screen message from us after you submit the form. <br>
+- **If you file your claim on eBenefits,** you’ll see a notice from us in your claims list within about one hour of applying.<br>
 - **If you mail your application,** we’ll send you a letter to let you know we have your claim. You should get this letter about one week, plus mailing time, after we receive your claim.
 
 
@@ -106,14 +107,14 @@ We’ll send you a packet by U.S. mail that includes details of the decision on 
 </li>
 </ol>
 
-## What should I do if I disagree with your decision on my disability claim?
+## What should I do if I disagree with your decision on my VA disability claim?
 
 If you disagree with our decision, you can appeal it.
 
 **If you received your decision before February 19, 2019,** you can start the appeals process by filing a Notice of Disagreement. <br>
 [Learn how to appeal your decision](/disability/file-an-appeal/)
 
-**If you received your decision on or after February 19, 2019,** you'll need to follow our new process for getting your decision reviewed. <br>
+**If you received your decision on or after February 19, 2019,** you'll need to follow our new VA claim process for getting your decision reviewed. <br>
 [Learn how to get your decision reviewed](/decision-reviews/)
 
 <div markdown="0"><br></div>

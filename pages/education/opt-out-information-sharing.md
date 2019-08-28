@@ -1,6 +1,7 @@
 ---
 layout: page-breadcrumbs.html
-title: Opt out of sharing VA education benefits information
+title: Opt Out Of Sharing Education Benefits Information
+heading: Opt out of sharing education benefits information
 display_title: Opt out of information sharing
 description:
 concurrence: Incomplete
@@ -9,12 +10,6 @@ template: detail-page
 collection: education
 children: educationInformationSharingOptOut
 order: 15
-widgets:
-  - root: react-applicationStatus
-    timeout: 20
-    loadingMessage: Checking your application status.
-    errorMessage: <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br/>Please try refreshing your browser in a few minutes.
-    description: Find the right VA education benefits for you, and apply to start getting help paying tuition. We can also help you find the right school or training program.
 hideFromSidebar: true
 spoke: More resources
 ---
@@ -48,7 +43,23 @@ No. Your education benefits will stay the same if you decide to opt out. You won
 
 You’ll need to fill out a short form to tell us you want to opt out of sharing this information. You can get started right now.
 
-<div id="react-applicationStatus" data-widget-type="opt-out-app-status" class="static-page-widget"></div>
+<div data-widget-type="opt-out-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 <b>Note</b>: If you’re signed in to your account, we can prefill part of your application based on your account details.
 

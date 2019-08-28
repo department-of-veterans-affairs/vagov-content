@@ -4,6 +4,7 @@ title: How To File A VA Disability Claim
 heading: How to file a VA disability claim
 display_title: How to file a claim
 description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
+keywords: how to file a va disability claim, apply for disability, filing a va disability claim, file a va disability claim 
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -35,25 +36,22 @@ relatedlinks:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation or increased disability compensation.
+Find out how to file a claim for disability compensation or increased disability compensation. 
 
 </div>
 
 ## How do I prepare before starting my application?
 
 - [Find out if you're eligible for VA disability compensation](/disability/eligibility/) <br>
-- Gather any evidence (supporting documents) you'll submit yourself when you file your disability claim.
+- Gather any evidence (supporting documents) you'll submit yourself when you file your VA disability claim.
 - Be sure your claim is filled out completely and you have all the supporting documents ready to send in along with your claim. This will help us process your claim quickly. <br>
 [Learn about fully developed claims](/disability/how-to-file-claim/evidence-needed/fully-developed-claims) <br>
 - [Find out if you’ll need to turn in any additional forms with your claim](/disability/how-to-file-claim/additional-forms/) <br>
 
 
-<div class="feature" markdown="1" itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
+<h2 itemprop="name">What evidence will I need to provide to support my claim?</h2>
 
-<h3 itemprop="name">What evidence will I need to provide to support my claim?</h3>
-<div itemprop="itemListElement">
-
-**You can help to support your claim by providing documents, such as:**
+**You can help to support your VA disability claim by providing documents, such as:**
 
 - VA medical records and hospital records that relate to your claimed illnesses or injuries or that show your rated disability has gotten worse
 - Private medical records and hospital reports that relate to your claimed illnesses or injuries or that show your disability has gotten worse
@@ -68,15 +66,29 @@ We'll also review your discharge papers (DD214 or other separation documents) an
 **Please note**: You don’t have to submit any evidence to support your claim, but we may need to schedule a claim exam so we can learn more about your condition.
 
 You should also know that you have up to a year from the date we receive your claim to turn in any evidence. If you start your application and need time to gather more supporting documents, you can save your application and come back later to finish it. We'll recognize the date you started your application as your date of claim as long as you complete it within 365 days.
-</div>
-</div>
 
 
-<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
+<div data-widget-type="disability-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h3 itemprop="name">You can also file your claim:</h3>
+<h3 itemprop="name">You can also file your VA disability claim:</h3>
 <div itemprop="itemListElement">
 
 #### By mail
@@ -111,21 +123,21 @@ If you have a power of attorney and need to update their information, please cal
 
 <div itemprop="steps" itemscope itemtype ="http://schema.org/HowToSection">
 
-<h2 itemprop="name">What happens after I file my claim?</h2>
+<h2 itemprop="name">What happens after I file my VA disability claim?</h2>
 <div itemprop="itemListElement">
 
 [Find out what happens after you file](/disability/after-you-file-claim/)
 
 You don’t need to do anything while you’re waiting unless we send you a letter asking for more information. If we schedule exams for you, be sure not to miss them.
 
-<a class="usa-button-primary" href="/track-claims">Track the Status of Your Claim</a>
+<a class="usa-button-primary" href="/track-claims">Track the status of your claim</a>
 
 <span id="days-to-complete-claim"></span>
 ### How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">111.5 days</span>
-<span class="description">Average number of days to complete disability-related claims in April 2019</span>
+<span class="number">109 days</span>
+<span class="description">Average number of days to complete disability-related claims in July 2019</span>
 </div>
 </div>
 </div>

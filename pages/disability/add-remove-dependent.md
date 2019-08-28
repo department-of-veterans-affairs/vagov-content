@@ -18,10 +18,10 @@ relatedlinks:
     - url: /life-insurance/
 
       title: Life insurance
-      description: Explore your VA life insurance options, manage your policy, and file claims.  
+      description: Explore your VA life insurance options, manage your policy, and file claims.
     - url: /education/survivor-dependent-benefits/
       title: Transfer your Post-9/11 GI Bill benefits to your spouse and dependents
-      description: If you have unused Post-9/11 GI Bill benefits, find out if you can transfer your benefits to your spouse or dependent children.     
+      description: If you have unused Post-9/11 GI Bill benefits, find out if you can transfer your benefits to your spouse or dependent children.
 
 ---
 <div itemscope itemtype="http://schema.org/FAQPage">
@@ -99,13 +99,13 @@ You can file a claim for additional compensation for a child or spouse online ri
 
 **Note:** You may need to provide more information or forms along with your claim.
 
-<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to Add a Dependent Child or Spouse</a>
+<a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation">Go to eBenefits to add a dependent child or spouse</a>
 
 **If you’re claiming your child who became permanently disabled before they turned 18,** you’ll need to turn in all private medical records relating to the child’s disabilities with your application.
 
 **If your dependent is a child who’s between 18 and 23 years old and attending school full time,** you’ll also need to submit a Request for Approval of School Attendance (VA Form 21-674) with your application. <br>
 
-[Download VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) 
+[Download VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 ### To file a claim for additional disability compensation for a dependent parent
 
@@ -125,11 +125,11 @@ Janesville, WI 53547-4444 <br>
 
  <a href="tel:+18445317817">844-531-7817</a> if you live in the U.S., **or** <br>
  <a href="tel:+12485244260">+1-248-524-4260</a> if you live outside of the U.S.
- 
+
 ## What if I need help with my claim?
- 
+
 You can work with an accredited Veterans Service Officer (VSO). We trust these professionals because they’re trained and certified in the VA claims and appeals process. A VSO can answer your questions or even file your claim for you.<br>
-[Get help filing your claim](/disability/get-help-filing-claim/) 
+[Get help filing your claim](/disability/get-help-filing-claim/)
 
 ## More questions about adding a dependent to your VA disability compensation
 

@@ -1,9 +1,11 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Transfer your Post-9/11 GI Bill benefits
+title: Transfer Your Post-9/11 GI Bill Benefits
+heading: Transfer your Post-9/11 GI Bill benefits
 display_title: Transfer Post-9/11 GI Bill benefits
-description: Find out if you can transfer any of your unused Post-9/11 GI Bill benefits to your spouse or dependent children. And learn how to apply for a transfer online or by mail.
+description: Find out if you can transfer any of your unused Post-9/11 GI Bill benefits (sometimes called a "Post 9/11 GI Bill transfer") to your spouse or dependent children. Learn how to apply for a transfer online or by mail.
+keywords: gi bill transfer, post 911 gi bill transfer, transfer of education benefits, transfer post 911 gi bill, transfer post 911 gi bill
 plainlanguage: 12-07-16 certified in compliance with the Plain Writing Act
 concurrence: complete
 order: 3
@@ -16,7 +18,7 @@ spoke: Manage benefits
 
 Find out if you can transfer any of your unused Post-9/11 GI Bill benefits to your spouse or dependent children.
 
-**Note:** The Department of Defense (DoD) decides whether you can transfer benefits to your family.
+**Note:** The Department of Defense (DoD) decides whether you can transfer GI Bill benefits to your family.
 
 </div>
 
@@ -28,7 +30,7 @@ Find out if you can transfer any of your unused Post-9/11 GI Bill benefits to yo
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You can transfer benefits if you’re on active duty or in the Selected Reserve and you meet the requirements listed below.
+You can transfer education benefits if you’re on active duty or in the Selected Reserve and you meet the requirements listed below.
 
 **At least one of these must be true:**
  - You have completed at least 6 years of service on the date your request is approved and you agree to add 4 more years of service, **or**

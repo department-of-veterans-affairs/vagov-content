@@ -4,6 +4,7 @@ title: Eligibility For VA Disability Benefits
 heading: Eligibility for VA disability benefits
 display_title: Eligibility
 description: Read VA disability benefits eligibility criteria to see if you qualify for compensation for a presumptive disability or other service-connected conditions. A presumptive disability is an illness or injury we believe is related to military service. You can also learn more about dependent eligibility.
+keywords: va disability benefits eligibility, va disability benefits, presumptive disability
 order: 1
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -31,18 +32,18 @@ relatedlinks:
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div itemprop="description"  class="va-introtext">
 
-Find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care.
+Review VA disability benefits eligibility criteria to find out if you can get disability compensation for an illness or injury that was caused by—or got worse because of—your active military service. Compensation may include financial support and other benefits like health care. 
 
 </div>
 
 <div class="feature" markdown="1">
 
 <div itemscope itemtype="http://schema.org/Question">
-<h3 itemprop="name">Can I get disability compensation from VA?</h3>
+<h3 itemprop="name">Am I eligible for VA disability compensation?</h3>
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-You may be able to get disability compensation if you have a current illness or injury (known as a condition) that affects your body or mind and you meet at least one of the requirements listed below.
+You may be able to get VA disability benefits or compensation if you have a current illness or injury (known as a condition) that affects your body or mind and you meet at least one of the requirements listed below.
 
 <b>Both of these must be true. You:</b>
 - Served on active duty, active duty for training, or inactive duty training, <b>and</b>
@@ -60,7 +61,7 @@ If you have a disability that's been diagnosed by a doctor and that we consider 
 - [An illness caused by your time spent as a prisoner of war (POW)](/disability/eligibility/former-pows/)
 
 
-<h4>Who's covered?</h4>
+<h3>Who's covered?</h3>
 - Veterans
 - Qualified dependents
 
@@ -69,28 +70,34 @@ If you have a disability that's been diagnosed by a doctor and that we consider 
 </div>
 </div>
 
-<div class="feature" markdown="1">
+## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
 
-<div itemscope itemtype="http://schema.org/Question">
-
-<h3 itemprop="name">What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?</h3>
-<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-<div itemprop="text">
-
-If you've received one of these discharge statuses, you may not be eligible for VA benefits.
+If you've received one of these discharge statuses, you may not be eligible for VA disability benefits.
 
 **There are 2 ways you can try to qualify:**
 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA character of discharge review process](/discharge-upgrade-instructions/#other-options)
 
-</div>
-</div>
-</div>
-</div>
 
 <div markdown="0"><br></div>
-<div id="react-applicationStatus" data-widget-type="disability-app-status"></div>
+<div data-widget-type="disability-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true"></span>
+  <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+    <div class="usa-alert-body">
+      <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+    </div>
+  </div>
+</div>
 
 <div itemscope itemtype="http://schema.org/Question">
 
@@ -98,7 +105,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-**You may be able to get benefits for conditions such as:**
+**You may be able to get VA disability benefits for conditions such as:**
 - Chronic (long-lasting) back pain resulting in a current diagnosed back disability
 - Breathing problems resulting from a current lung condition or lung disease
 - Severe hearing loss
@@ -107,7 +114,7 @@ If you've received one of these discharge statuses, you may not be eligible for 
 - Ulcers
 - Cancers caused by contact with toxic chemicals or other dangers
 
-**You may also be able to get benefits for:**
+**You may also be able to get VA disability benefits for:**
 - Traumatic brain injury (TBI)
 - Posttraumatic stress disorder (PTSD)
 - Depression
