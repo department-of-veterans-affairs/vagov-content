@@ -29,7 +29,7 @@ If you’re the surviving spouse, child, or parent of a Servicemember who died i
 
 <div class="feature" markdown="1">
 
-<span id="See-DIC-eligibility-information-and-how-to-apply"></span>`
+<span id="See-DIC-eligibility-information-and-how-to-apply"></span>
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
 
 <ul class="usa-accordion">
