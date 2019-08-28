@@ -22,14 +22,12 @@ If you’re the surviving spouse, child, or parent of a Servicemember who died i
 <b>What this means for you as a survivor</b></p>
 <p>If we denied your Blue Water Navy Veteran’s service-connected disability claim in the past, you may be eligible for DIC benefits based on this change in law.</p>
 
-(#See-DIC-eligibility-information-and-how-to-apply)[See DIC eligibility information and how to apply]. </p>
 <p>Read below to learn more about eligibility requirements and how to file a claim. If we denied your claim in the past, you can file a new claim based on this change in law.</p>
   </div>
   </div>
 
 <div class="feature" markdown="1">
 
-<span id="See-DIC-eligibility-information-and-how-to-apply"></span>
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
 
 <ul class="usa-accordion">
