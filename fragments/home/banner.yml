@@ -23,7 +23,7 @@ visible: true
 type: warning
 title: Hurricane Dorian
 content: '
-    For the latest on how Hurricane Dorian is affecting VA facilities in the Caribbean Healthcare System, visit our <a href="https://www.caribbean.va.gov/emergency/index.asp">website</a> for updates as well as pharmacy and counseling information.
-    
-    Veterans within the Sunshine Healthcare Network can also get facility updates <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">here</a>.
-    '
+    For the latest on how Hurricane Dorian is affecting VA facilities in the Sunshine Healthcare Network, visit our <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">website</a> for updates. <br>
+ 
+    The Caribbean Healthcare System has resumed normal operations. Veterans can get facility updates <a href="https://www.caribbean.va.gov/emergency/index.asp">here</a> as well as pharmacy and counseling information.
+   '
