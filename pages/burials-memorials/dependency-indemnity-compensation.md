@@ -22,7 +22,7 @@ If you’re the surviving spouse, child, or parent of a service member who died 
     
 <p>Veterans who served on a Blue Water Navy vessel offshore of the Republic of Vietnam, or on another U.S. Navy or Coast Guard ship operating in the coastal waterways of Vietnam between January 9, 1962, and May 7, 1975, are now entitled to a presumption of <a href="/disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/">service connection for illnesses related to Agent Orange exposure</a>. This is a result of Public Law 116-23, also known as the Blue Water Navy Vietnam Veterans Act of 2019.</p>
 
-<p>See [DIC eligibility information](#DIC-eligibility) information and [how to apply](#how-to-apply). 
+<p>See [DIC eligibility information](#DIC-eligibility) and [how to apply](#how-to-apply). 
 </div>
 <span id="DIC-eligibility"></span>
 ## Am I eligible for VA DIC as a surviving spouse or dependent?
