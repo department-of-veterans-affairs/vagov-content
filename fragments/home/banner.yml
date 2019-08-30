@@ -4,7 +4,7 @@
 # visible: if set to true, the banner will become visible on the homepage.
 # type: One of the following - info, success, warning, error
 # title: The title of the banner that will be visible to the user
-# content: The actual content of the banner. Because of the format of .yml files, this should start and end with a single quote so that you can write on multiple lines.
+# content: The actual content of the banner. Because of the format of .yml files, this should start and end with a "|" so that you can write on multiple lines.
 #
 # ---------------------
 # Example banner
