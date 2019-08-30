@@ -5,7 +5,7 @@
 # type: One of the following - info, success, warning, error
 # title: The title of the banner that will be visible to the user
 # content: The actual content of the banner. Because of the format of .yml files, this should start and end with a single quote so that you can write on multiple lines.
-# 
+#
 # ---------------------
 # Example banner
 # ---------------------
@@ -23,7 +23,9 @@ visible: true
 type: warning
 title: Hurricane Dorian
 content: '
-    For the latest on how Hurricane Dorian is affecting VA facilities in the Caribbean Healthcare System, visit our <a href="https://www.caribbean.va.gov/emergency/index.asp">website</a> for updates as well as pharmacy and counseling information.
-    
-    Veterans within the Sunshine Healthcare Network can also get facility updates <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">here</a>.
-    '
+    <p>For the latest on how Hurricane Dorian is affecting VA facilities in the <strong>Sunshine Healthcare Network</strong> and the <strong>Caribbean Healthcare System</strong>, <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">visit our website</a> for facility updates, pharmacy and counseling information.</p>
+
+    <p>Veterans who have questions may also contact the Veteran Disaster Hotline at <a href="tel:18005074571">800-507-4571</a>.</p>
+
+    <p>VA Employees impacted by the storm can contact the Employee Disaster Response Line at <a href="tel:18662330152">866-233-0152</a> to report their status and to obtain resource information.</p>
+   '
