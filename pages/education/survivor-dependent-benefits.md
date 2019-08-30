@@ -70,72 +70,14 @@ There are 2 main GI Bill programs offering educational assistance to survivors a
 
 <div class="va-table-overflow">
 <table class="va-table-explanatory">
-<caption>Compare DEA and Fry Scholarship benefits</caption>
-<thead>
-  <tr>
-    <td colspan="1"></td>
-    <th colspan="1" scope="col">DEA</th>
-    <th colspan="1" scope="col">Fry Scholarship</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <th scope="row"><strong>Benefit payments</strong></th>
-    <td>We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224.</td>
-    <td>
-    <ul>
-      <li><strong>Tuition and fee payment (paid to the school)</strong>: We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /></li>
-      <li><strong>Money for books and supplies (paid to the student)</strong>:
-    We cover up to $1,000 a year, divided up equally among the terms, for books and supplies.<br /><br /></li>
-      <li><strong>Monthly housing allowance (paid to the student)</strong>:
-      We base this amount on the local Basic Allowance for Housing (BAH) for E-5 with dependents and pay it monthly. Online students get half of the BAH national average.</li>
-    </ul>
-    </td>
-  </tr>
+<caption>Compare DEA and Fry Scholarship benefits</caption> 
+ 
+| DEA | Fry Scholarship |
+|---|---|
+| **How payments are made** <br /><br />**Benefit payment:** <br>We pay the monthly amount directly to the student. The current monthly payment for full-time training is $1,224. | **How payments are made** <br /><br />**Tuition and fee payment (paid to the school)**: <br>We cover the full in-state tuition costs for training at public schools and up to $23,671.94 per year at private or foreign schools.<br /><br /> **Money for books and supplies (paid to the student)**: <br>We cover up to $1,000 a year, divided up equally among the terms, for books and supplies.<br /><br /> **Monthly housing allowance (paid to the student)**: <br>We base this amount on the local Basic Allowance for Housing (BAH) for E-5 with dependents and pay it monthly. Online students get half of the BAH national average.</li> |
+| **Duration of benefits for spouses:** <br>20 years from the service member’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). | **Duration of benefits for spouses:** <br>15 years from the service member’s date of death (but spouses lose this benefit if they remarry). |
+| **Duration of benefits for children:** <br>May use benefits between ages 18 and 26 (there may be exceptions). | **Duration of benefits for children:** <br>Qualify as of their 18th birthday, and can use this benefit until their 33rd birthday. |
+| **Maximum months of benefits:** <br>45 months | **Maximum months of benefits:** <br>36 months |
+| **Spouse can get both DIC and education benefits at the same time:** <br>Yes | **Spouse can get both DIC and education benefits at the same time:** <br>Yes |
+| **Programs covered:** <ul><li>College, business, technical, or vocational programs</li><li>Certification tests</li><li>Apprenticeships and on-the-job training</li><li>Tutorial assistance</li><li>Work study</ul> | **Programs covered:** <ul><li>College, business, technical, or vocational programs</li><li>Certification tests</li><li>Apprenticeships and on-the-job training</li><li>Vocational flight training</li><li>Tutorial assistance</li><li>Work study</li></ul> |
 
-  <tr>
-    <th scope="row"><strong>Duration of benefits</strong></th>
-    <td><strong>Spouses:</strong> 20 years from the service member’s date of death if they died on active duty, or 10 years from the date we determine they qualify or from the Veteran’s date of death (there may be exceptions). <br />
-    <strong>Children:</strong> May use benefits between ages 18 and 26 (there may be exceptions).
-  </td>
-  <td><strong>Spouses:</strong> 15 years from the service member’s date of death (but spouses lose this benefit if they remarry). <br />
-  <strong>Children:</strong> Qualify as of their 18th birthday, and can use this benefit until their 33rd birthday.
-  </td>
-  </tr>
-
-  <tr>
-    <th scope="row"><strong>Maximum months of benefits</strong></th>
-    <td>45 months</td>
-    <td>36 months</td>
-  </tr>
-
-  <tr>
-    <th scope="row"><strong>Spouse gets both DIC and education benefits at the same time</strong></th>
-    <td>Yes</td>
-    <td>Yes</td>
-  </tr>
-
-  <tr>
-    <th scope="row"><strong>Programs covered</strong></th>
-    <td>
-      <ul>
-        <li>College, business, technical, or vocational programs</li>
-        <li>Certification tests</li>
-        <li>Apprenticeships and on-the-job training</li>
-        <li>Tutorial assistance</li>
-        <li>Work study
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>College, business, technical, or vocational programs</li>
-        <li>Certification tests</li>
-        <li>Apprenticeships and on-the-job training</li>
-        <li>Vocational flight training</li>
-        <li>Tutorial assistance</li>
-        <li>Work study</li>
-      </ul>
-    </td>
-  </tr>
-</tbody>
-</table>
