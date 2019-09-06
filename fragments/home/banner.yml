@@ -22,7 +22,11 @@ visible: true
 type: warning
 title: Hurricane Dorian
 content: |
-    <p>For the latest on how Hurricane Dorian is affecting VA facilities in the <strong>Sunshine Healthcare Network</strong> and the <strong>Caribbean Healthcare System</strong>, <a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">visit our website</a> for facility updates, pharmacy and counseling information.</p>
-    <p>Veterans within the Southeast Healthcare Network can find facility updates <a href="https://www.southeast.va.gov/SOUTHEAST/emergency/index.asp">here</a>.</p>
-    <p>Veterans who have questions may also contact the Veteran Disaster Hotline at <a href="tel:18005074571">800-507-4571</a>.</p>
-    <p>VA Employees impacted by the storm can contact the Employee Disaster Response Line at <a href="tel:18662330152">866-233-0152</a> to report their status and to obtain resource information.</p>
+    <p>The <strong>Veteran Disaster Hotline</strong> at <strong><a href="tel:18005074571">800-507-4571</a></strong> is available to Veterans impacted by Hurricane Dorian who have questions about prescription drugs, resource information or any other healthcare concerns.</p>
+    <p><strong>For the latest updates on VA facilities, visit:</strong></p>
+    <ul>
+    <li><a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">Florida, Puerto Rico and the US Virgin Islands</a></li>
+    <li><a href="https://www.southeast.va.gov/SOUTHEAST/emergency/index.asp">Georgia, South Carolina</a></li>
+    <li><a href="https://www.visn6.va.gov/emergency/index.asp">North Carolina, Virginia</a></li>
+    </ul>
+    <p><strong>VA Employees</strong> impacted by the storm can contact the <strong>Employee Disaster Response Line</strong> at <strong><a href="tel:18662330152">866-233-0152</a></strong> to report their status and to obtain resource information.</p>
