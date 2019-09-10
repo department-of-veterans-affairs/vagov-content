@@ -33,7 +33,7 @@ Learn about VA home loan eligibility requirements for a VA direct or VA-backed l
 
 <div class="feature" markdown="1">
 
-### Can I get a Certificate of Eligibility for a VA direct or VA-backed home loan?
+### Can I get a COE for a VA direct or VA-backed home loan?
 
 You may be able to get a COE if you didn't receive a dishonorable discharge and you meet the minimum active-duty service requirement based on when you served.
 
