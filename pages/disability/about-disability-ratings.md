@@ -323,7 +323,7 @@ We’ll round that combined value to the nearest 10% to find your combined disab
 We’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
   <br>
   <strong>For example:</strong> If we added a third disability rated at 10% disabling to our original example, we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row—and find the number where the left column and top row meet. In this example, that number would be 69. <br>
-<br>  
+ 
 |    | *10* | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | **60** | 64 | 68 | 72 | 76 | 80 | 84 | 88 | 92 | 96 |
@@ -333,7 +333,6 @@ We’ll repeat the process for each additional disability. This means we’ll ta
 | **64** | 68 | 71 | 75 | 78 | 82 | 86 | 89 | 93 | 96 |
 | ***65*** | ***69*** | 72 | 76 | 79 | 83 | 86 | 90 | 93 | 97 |
 
-<br>
 We would then round this number up to 70%, and this would be your combined disability rating.
 
 <h2>Get more information</h2>
