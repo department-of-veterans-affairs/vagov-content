@@ -347,7 +347,6 @@ To make this table easier to use online, we’ve separated it into smaller table
 
 <br>
 We would then round this number up to 70%, and this would be your combined disability rating.
-
   </li>
 </ol>
 
