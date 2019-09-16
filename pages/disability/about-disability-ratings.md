@@ -289,13 +289,19 @@ To make this table easier to use online, we’ve separated it into smaller table
 
 <strong>We’ll follow these steps to calculate your combined rating:</strong>
   
-<h4>Step 1:</h4>
-We’ll start by putting your disability ratings in order, from highest to lowest percentage. <br>
+<ol class="process" markdown="1">
+
+  <li class="process-step list-one">
+  
+  We’ll start by putting your disability ratings in order, from highest to lowest percentage. <br>
   <br>
   <strong>For example:</strong> If you had 2 disabilities rated as 50% disabling and 30% disabling, we’d rank them in this order: 50%, then 30%.
 
-<h4>Step 2:</h4>
-Next, we’ll look for your highest rating in the left column of the combined ratings table, and the next highest rating in the top row of the combined ratings table. <br>
+  </li>
+
+  <li class="process-step list-two">
+  
+  Next, we’ll look for your highest rating in the left column of the combined ratings table, and the next highest rating in the top row of the combined ratings table. <br>
   <br>
   <strong>In our example:</strong> We’d look for 50 in the left column and 30 in the top row.
   
@@ -303,8 +309,10 @@ Next, we’ll look for your highest rating in the left column of the combined ra
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | ***50*** | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 |
 
-<h4>Step 3:</h4>  
-Then, we’ll look across from the 50 in the left column and down from the 30 in the top row to find the number that appears where the left column and top row meet. This is the combined value of the 2 ratings. <br>
+  </li>
+  <li class="process-step list-three">
+
+  Then, we’ll look across from the 50 in the left column and down from the 30 in the top row to find the number that appears where the left column and top row meet. This is the combined value of the 2 ratings. <br>
   <br>
   <strong>In our example:</strong> This would be 65.
   
@@ -312,15 +320,19 @@ Then, we’ll look across from the 50 in the left column and down from the 30 in
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | ***50*** | 55 | 60 | ***65*** | 70 | 75 | 80 | 85 | 90 | 95 |
   
-<h4>Step 4:</h4>
-<strong>If you have 2 disabilities</strong><br>
-We’ll round that combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
+  </li>
+  <li class="process-step list-four">
+
+  <strong>If you have 2 disabilities</strong><br>
+  We’ll round that combined value to the nearest 10% to find your combined disability rating. We’ll round combined values ending in 1 to 4 down, and those ending in 5 to 9 up. <br>
   <br>
   <strong>In our example:</strong> Your combined disability rating would be 70%.
   
-<h4>Step 5:</h4>
-<strong>If you have more than 2 disabilities</strong>
-We’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
+  </li>
+  <li class="process-step list-five">
+
+  <strong>If you have more than 2 disabilities</strong>
+  We’ll repeat the process for each additional disability. This means we’ll take the combined value (before rounding) of the first 2 disability ratings and then combine that with the third highest rating, and so on until we’ve added all disability ratings. We’ll round the final value to the nearest 10% to find your combined disability rating. <br>
   <br>
   <strong>For example:</strong> If we added a third disability rated at 10% disabling to our original example, we would take your combined value of 65 and look for that number in the left column of the combined ratings table. We would then look for 10 in the top row—and find the number where the left column and top row meet. In this example, that number would be 69. <br>
 <br>  
@@ -335,6 +347,9 @@ We’ll repeat the process for each additional disability. This means we’ll ta
 
 <br>
 We would then round this number up to 70%, and this would be your combined disability rating.
+
+  </li>
+</ol>
 
 <h2>Get more information</h2>
 
