@@ -39,7 +39,7 @@ private: true
     <div class="small-12 usa-width-one-half medium-6 columns">
       <ul class="plain">
         <li>
-          <a href="/disability/how-to-file-claim/">How do I file for disability benefits?</a>
+          <a href="/disability/how-to-file-claim/">How do I file a claim for disability benefits?</a>
         </li>
         <li>
           <a href="/education/how-to-apply/">How do I apply for education benefits?</a>
