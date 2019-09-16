@@ -335,8 +335,6 @@ We’ll repeat the process for each additional disability. This means we’ll ta
 
 <br>
 We would then round this number up to 70%, and this would be your combined disability rating.
-  </li>
-</ol>
 
 <h2>Get more information</h2>
 
