@@ -79,7 +79,7 @@ Read below to find out more about how we’ll calculate your combined disability
 <div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
 <div itemprop="text">
 
-If you get disability benefits for a preservice claim, we’ll base your monthly compensation amount on the level of aggravation. This means how much worse your disability got because of your service.
+If you get disability benefits for a preservice disability, we’ll base your monthly compensation amount on the level of aggravation. Level of aggravation means how much worse your preservice disability got because of your military service.
 
 <strong>For example:</strong> If you had an illness or injury (also known as a condition) that was rated as 10% disabling when you entered the military, and it became 20% disabling due to the effects of your service, then the level of aggravation would be 10%.
 
@@ -114,7 +114,7 @@ Yes. We may increase or decrease your compensation amount in certain situations.
 
 ------
 <span id="combined"></a>
-<h2>How we determine combined VA disability ratings</h2>
+<h2>How we determine combined VA disability ratings</h2> (not rounded)
 
 If you have more than one disability, we’ll use the combined ratings table below to calculate your combined disability rating. 
 
