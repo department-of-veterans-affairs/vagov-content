@@ -333,6 +333,7 @@ We’ll repeat the process for each additional disability. This means we’ll ta
 | **64** | 68 | 71 | 75 | 78 | 82 | 86 | 89 | 93 | 96 |
 | ***65*** | ***69*** | 72 | 76 | 79 | 83 | 86 | 90 | 93 | 97 |
 
+<br>
 We would then round this number up to 70%, and this would be your combined disability rating.
 
 <h2>Get more information</h2>
