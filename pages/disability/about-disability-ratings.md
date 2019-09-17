@@ -122,7 +122,7 @@ To make this table easier to use online, we’ve separated it into smaller table
 
 <strong>Note:</strong> If you have 2 disabilities, each rated at 10% disabling, your combined disability rating is 19%. 
 
-<h3>Combined ratings table</h3>(not rounded)
+<h3>Combined ratings table (not rounded)</h3>
 
 <ul class="usa-accordion" aria-multiselectable="true">
 <li>
