@@ -36,8 +36,8 @@ Learn about the VA claim process and what happens after you file your claim. Fin
 ## How long does it take VA to make a decision?
 
 <div class="card information" markdown="0">
-<span class="number">109 days</span>
-<span class="description">Average number of days to complete disability-related claims in July 2019</span>
+<span class="number">82.5 days</span>
+<span class="description">Average number of days to complete disability-related claims in August 2019</span>
 </div>
 
 ## The amount of time it takes to review your VA disability claim depends on:
