@@ -55,7 +55,7 @@ This depends on the type of claim you’re filing. Find out what evidence you'll
 
 **Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. <br>
 
-For your convenience, the information below is a summary of evidence requirements (called "section 5103 notice"). You can view the [official evidence requirements in VA Form 21-526EZ (PDF).](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
+For your convenience, the information below is a summary of evidence requirements (called "section 5103 notice"). You can view the [official evidence requirements in VA Form 21-526EZ (PDF)].(https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
 
 <ul class="usa-accordion">
 <li>
