@@ -109,6 +109,10 @@ hublinks:
       label: Check your VA claim or appeal status
       description: Track the status of your disability claim or appeal.
       external: false
+    - url: "/disability/my-rated-disabilities"
+      label: View your rated disabilities
+      description: View your rated disabilities, pending disabilities, and total combined disability rating.
+      external: false
     - url: "/disability/how-to-file-claim"
       label: File for a VA disability increase
       description: If your service-connected disability has gotten worse, find out how
