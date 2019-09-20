@@ -29,7 +29,7 @@
       fragments:
         columnThree: promotions/health-care
       seeAllLink:
-        text: health care
+        text: View all in health care
         href: https://www.va.gov/health-care/
   - title: Disability
     links:
@@ -58,7 +58,7 @@
       fragments:
         columnThree: promotions/disability
       seeAllLink:
-        text: disability
+        text: View all in disability
         href: https://www.va.gov/disability/
   - title: Education and training
     links:
@@ -91,7 +91,7 @@
       fragments:
         columnThree: promotions/education
       seeAllLink:
-        text: education
+        text: View all in education
         href: https://www.va.gov/education/
   - title: Careers and employment
     links:
@@ -121,7 +121,7 @@
       fragments:
         columnThree: promotions/careers
       seeAllLink:
-        text: careers and employment
+        text: View all in careers and employment
         href: https://www.va.gov/careers-employment/
   - title: Pension
     links:
@@ -152,7 +152,7 @@
       fragments:
         columnThree: promotions/pension
       seeAllLink:
-        text: pension
+        text: View all in pension
         href: https://www.va.gov/pension/
   - title: Housing assistance
     links:
@@ -177,7 +177,7 @@
       fragments:
         columnThree: promotions/housing
       seeAllLink:
-        text: housing assistance
+        text: View all in housing assistance
         href: https://www.va.gov/housing-assistance/
   - title: Life insurance
     links:
@@ -204,7 +204,7 @@
       fragments:
         columnThree: promotions/life-insurance
       seeAllLink:
-        text: life insurance
+        text: View all in life insurance
         href: https://www.va.gov/life-insurance/
   - title: Burials and memorials
     links:
@@ -235,7 +235,7 @@
       fragments:
         columnThree: promotions/burials
       seeAllLink:
-        text: burials and memorials
+        text: View all in burials and memorials
         href: https://www.va.gov/burials-memorials/
   - title: Records
     links:
@@ -268,7 +268,7 @@
       fragments:
         columnThree: promotions/records
       seeAllLink:
-        text: records
+        text: View all in records
         href: https://www.va.gov/records/
   - title: Service member benefits
     text: Service member benefits
