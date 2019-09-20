@@ -53,7 +53,9 @@ We require certain documents to support all claims for disability benefits.
 ## What should the evidence show to support my disability claim?
 This depends on the type of claim you’re filing. Find out what evidence you'll need for the different claim types listed below.
 
-**Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. The information below serves as this notification (called “section 5103 notice”).<br>
+**Notice to Veterans and service members of evidence needed:** We’re required by law to tell you what evidence you’ll need to provide to support your disability claim. <br>
+
+For your convenience, the information below is a summary of evidence requirements (called "section 5103 notice"). You can view the [official evidence requirements in VA Form 21-526EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf).<br>
 
 <ul class="usa-accordion">
 <li>
@@ -247,5 +249,5 @@ You'll need to submit medical evidence that shows the child became permanently d
 
 <br>
 
-[View the evidence requirements listed on the 21-526EZ paper form for disability claims (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-526ez-ARE.pdf)<br>
+
 
