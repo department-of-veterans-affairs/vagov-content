@@ -251,8 +251,7 @@
         - text: Get Veteran ID cards
           href: https://www.va.gov/records/get-veteran-id-cards/
       columnTwo:
-        # No title property for this section -
-        # https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17695
+        title: Manage your records
         links:
         - text: Request your military records (DD214)
           href: https://www.va.gov/records/get-military-service-records/
