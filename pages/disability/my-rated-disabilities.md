@@ -2,7 +2,7 @@
 title: Your disability rating
 layout: page-react-sidebar.html
 template: detail-page
-entryname: disability/my-rated-disabilities
+entryname: disability-my-rated-disabilities
 display_title: Your Disability Rating
 description: View your total combined disability rating, your individual rated disabilities, and see a list of any pending disabilities you might have.
 collection: disability
