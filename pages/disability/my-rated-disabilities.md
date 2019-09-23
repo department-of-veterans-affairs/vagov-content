@@ -1,6 +1,7 @@
 ---
 title: Your disability rating
-layout: page-react-sidebar.html
+layout: page-breadcrumbs.html
+custom_react_root: true
 template: detail-page
 entryname: disability/my-rated-disabilities
 display_title: Your Disability Rating
@@ -11,8 +12,6 @@ order: 11
 ---
 
 <!-- Below is content for mocking static screen -->
-
-<h1>Your disability rating</h1>
 
 <div class="va-introtext">
 If you got a decision notice from us that confirms your disability
@@ -37,3 +36,5 @@ need to do this within 1 year of getting your decision notice.
 [Learn how to file an appeal](#)
 
 </div>
+
+<div id="react-root"></div>
