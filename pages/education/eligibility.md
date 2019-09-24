@@ -12,6 +12,7 @@ spoke: Get benefits
 order: 2
 gibsAlert: false
 ---
+
 <div itemscope itemtype="http://schema.org/FAQPage">
 <div class="va-introtext" itemprop="description" >
 
@@ -19,12 +20,22 @@ Learn about GI Bill eligibility requirements and find out if you can get these b
 
 </div>
 
-## Can I get VA education benefits through the Post-9/11 GI Bill?
+<div itemProp="mainEntity" itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Can I get VA education benefits through the Post-9/11 GI Bill?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 You may be able to get benefits through the Post-9/11 GI Bill if you've served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001. <br>
 [Learn more about the Post-9/11 GI Bill](/education/about-gi-bill-benefits/post-9-11/)
 
-## Can I get VA education benefits through the Montgomery GI Bill?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Can I get VA education benefits through the Montgomery GI Bill?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 You may be eligible for benefits through one of our 2 Montgomery GI Bill programs.
 
@@ -45,13 +56,21 @@ You can get benefits through MGIB-AD if you served at least 2 years on active du
 You can get benefits through MGIB-SR if you’re a member of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserves, Army National Guard, or Air National Guard, and you meet all of the requirements listed below.
 
 **All of these must be true. You:**
+
 - Have either a 6-year service obligation (you agreed to serve 6 years) in the Selected Service, **or**
 - Are an officer in the Selected Reserve who agreed to serve 6 years in addition to your initial service obligation, **and**
 - Meet other requirements
 
 [Learn more about MGIB-SR](/education/about-gi-bill-benefits/montgomery-selected-reserve/)
 
-## Can I get VA education benefits through other programs?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Can I get VA education benefits through other programs?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 You may be able to get help paying for school tuition, testing fees, and advanced licensing and certifications through other VA educational assistance programs. You may also be able to get entrepreneurship training to help start or improve a small business.
 
@@ -59,18 +78,39 @@ You may be able to get help paying for school tuition, testing fees, and advance
 
 [Learn about other educational assistance programs](/education/other-va-education-benefits/)
 
-## Can I get Educational and Career Counseling through VA?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Can I get Educational and Career Counseling through VA?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 You may be able to get Educational and Career Counseling (also called Chapter 36) if you’ll be discharged from active duty within 6 months. You may also qualify for these services if you separated from active duty not more than 1 year ago, didn’t receive a dishonorable discharge, and qualify as a Veteran for educational assistance under a VA educational program. <br>
 [Learn more about Educational and Career Counseling](/careers-employment/education-and-career-counseling/)
 
-## Are there any related benefits I may also be able to get?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Are there any related benefits I may also be able to get?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 If you have a service-connected disability that limits your ability to work or prevents you from working, you may be eligible for Vocational Rehabilitation and Employment benefits and services—like help exploring employment options and getting more training if required. <br>
 
 [Find out if you qualify for Vocational Rehab and Employment](/careers-employment/vocational-rehabilitation/eligibility/)
 
-## What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">What should I do if I received an other than honorable, bad conduct, or dishonorable discharge?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 If you've received one of these discharge statuses, you may not be eligible for VA benefits.
 
@@ -79,7 +119,14 @@ If you've received one of these discharge statuses, you may not be eligible for 
 [Find out how to apply for a discharge upgrade](/discharge-upgrade-instructions/)<br/>
 [Learn about the VA Character of Discharge review process](/discharge-upgrade-instructions/#other-options)
 
-## Can my spouse or dependent children get VA education benefits?
+</div>
+</div>
+</div>
+
+<div itemscope itemtype="https://schema.org/Question">
+<h2 itemprop="name">Can my spouse or dependent children get VA education benefits?</h2>
+<div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+<div itemprop="text">
 
 In some cases, the dependent or surviving spouse and children of a Veteran can get educational assistance through a GI Bill program. <br> [Learn more about Survivors’ and Dependents’ Assistance](/education/survivor-dependent-benefits/)
 
