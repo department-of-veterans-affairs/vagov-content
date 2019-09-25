@@ -3,8 +3,8 @@ layout: page-breadcrumbs.html
 title: How To File A VA Disability Claim
 heading: How to file a VA disability claim
 display_title: How to file a claim
-description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to apply for VA disability, what documents you'll need, and how to get help filing your claim.
-keywords: how to file a va disability claim, apply for disability, filing a va disability claim, file a va disability claim 
+description: Find out how to file a VA disability claim for a service-connected disability online, by mail, in person, or with the help of a trained professional. Learn how to prepare to file for VA disability, what documents you'll need, and how to get help filing your claim.
+keywords: how to file a va disability claim, apply for disability, filing a va disability claim, file a va disability claim, file for disability
 order: 2
 plainlanguage: 11-02-16 certified in compliance with the Plain Writing Act
 template: detail-page
@@ -36,7 +36,7 @@ relatedlinks:
 <div itemscope itemtype ="http://schema.org/HowTo">
 <div class="va-introtext" itemprop="description">
 
-Find out how to file a claim for disability compensation or increased disability compensation. 
+Find out how to file a claim for disability compensation or increased disability compensation.
 
 </div>
 

@@ -15,8 +15,8 @@ relatedlinks:
       title: Fully developed claim
       description: "File a fully developed claim and get a faster decision on your disability benefits claim."
     - url: /disability/how-to-file-claim/
-      title: How to apply for disability benefits
-      description: "Apply online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
+      title: How to file for disability benefits
+      description: "File online now, or find out how to file a claim in person, by mail, or with the help of a trained professional."
     - url: /disability/get-help-filing-claim/
       title: Get help filing your claim
       description: "Learn how an accredited representative with a Veterans Service Organization can help you file a disability claim."
