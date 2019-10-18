@@ -13,7 +13,7 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 **[SCO Handbook](/pages/education/sco-handbook/)** | **[VA-ONCE](/pages/education/va-once/)** | **[VA-ONCE Quick Reference](/pages/education/va-once-quick-reference/)** | **[WEAMS](/pages/education/weams/)** | **[Find your ELR](/pages/education/find-your-elr/)**
 
 <div class="card information">
-## Latest announcements from VA
+  <h2>Latest announcements from VA</h2>
 
 **[10/1/2019 - VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**
 **[10/19/2019 - Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**
