@@ -28,7 +28,8 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 
 ***
 
-# Training and guides {#training-and-guides}
+<div>
+  <h2 id="training-and-guides">Training and guides</h2>
 
 Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
 
