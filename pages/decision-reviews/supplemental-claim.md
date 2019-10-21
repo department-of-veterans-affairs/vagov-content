@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: File a Supplemental Claim with new evidence
+title: File A VA Supplemental Claim With New Evidence
+heading: File a Supplemental Claim with new evidence
 display_title: File a Supplemental Claim with new evidence
 hidesidenav: true
 ---
@@ -18,24 +19,23 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 ### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence, unless one of these rare situations applies to you. You have a: <br>
-[Fiduciary claim](/decision-reviews/fiduciary-claims/), <b>or</b> <br>
-[Multiple party claim](/decision-reviews/multiple-party-claims/)
+You can file a Supplemental Claim anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This locks in the most advantageous effective date for you, if your appeal is successful and you receive any potential retroactive payments.  <br>
+**Note:** You can’t file a Supplemental Claim if you have a [fiduciary claim](/decision-reviews/fiduciary-claims/) or a [multiple party claim](/decision-reviews/multiple-party-claims/).
 </div>
 
 ## How long does it take VA to make a decision?
 
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
-  <span class="description">VA’s goal for completing Supplemental Claims is 125 days.</span>
+  <span class="description">VA’s goal for completing Supplemental Claims is an average of 125 days.</span>
 </div>
 
 ## What’s considered new and relevant evidence?
 
 **New evidence** is information that VA didn’t have before the last decision.<br>
-**Relevant evidence** is information that could prove or disprove something about your case.
+**Relevant evidence** is information that could prove or disprove something in your claim.
 
-You can submit evidence yourself, or you can ask VA to get evidence, like medical records, that’s at a VA medical center or other federal facility. VA can’t accept your Supplemental Claim without new and relevant evidence.
+You can submit evidence yourself or ask VA to get evidence, like medical records from a VA medical center, other federal facility, or your private health care provider. VA can’t accept your Supplemental Claim without new and relevant evidence.
 
 ## How do I file a Supplemental Claim with new evidence?
 To file a Supplemental Claim, fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
@@ -218,16 +218,6 @@ Fax your completed form and any supporting documents to 844-531-7818.
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
 </li>
 </ol>
-<div class="usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">
-      Mark your calendar
-    </h4>
-    <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision to file a Supplemental Claim.
-    </p>
-  </div>
-</div>
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/)<br>
