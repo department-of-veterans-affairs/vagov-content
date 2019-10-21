@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: detail-page
 title: Request A VA Higher-Level Review
 heading: Request a Higher-Level Review
-display_title: Request A VA Higher-Level Review
+display_title: Request a Higher-Level Review
 hidesidenav: true
 ---
 <br>
