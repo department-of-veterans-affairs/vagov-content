@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Decision Reviews And Appeals
-display_title: VA decision reviews and appeals
+title: VA decision reviews and appeals
+display_title: VA Decision Reviews And Appeals
 decision_reviews_banner: true
 hidesidenav: true
 relatedlinks:
