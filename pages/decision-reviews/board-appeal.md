@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Board Appeal
+title: Request A Board Appeal
+heading: Request a Board Appeal
 display_title: Request a Board Appeal
 hidesidenav: true
 ---
@@ -32,7 +33,9 @@ You also have the option to request a hearing with a judge, either in person in 
 
 ### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request two Board Appeals in a row.
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request 2 Board Appeals in a row.<br>
+
+You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party claim](https://www.va.gov/decision-reviews/multiple-party-claims/).
 </div>
 
 ## Can I add new evidence?
@@ -163,16 +166,6 @@ Fax your completed form to 844-678-8979.
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
 </li>
 </ol>
-<div class="usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">
-      Mark your calendar
-    </h4>
-    <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision to request a Board Appeal. If you’re one of multiple people claiming the same benefit (this is rare), you have 60 days.
-    </p>
-  </div>
-</div>
 
 ## After a Board decision
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims.
