@@ -145,7 +145,7 @@ Janesville, WI 53547-4444<br>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors benefits</h4>
-      <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
+      <p>If you live in CT, DE, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
         Claims Intake Center<br>
