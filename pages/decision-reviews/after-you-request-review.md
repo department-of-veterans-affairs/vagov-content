@@ -31,8 +31,6 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 **To switch from a Board Appeal:** You can’t select a different lane if you already submitted evidence or had a hearing for your Board Appeal. If you haven’t submitted evidence or had your hearing yet, you can submit a new [Board Appeal form (PDF)](https://www.va.gov/decision-reviews/forms/board-appeal-10182.pdf) with a different lane selected. You can switch from a Board Appeal within 1 year from the date on your VA decision letter or 60 days from the date you submitted your original Board Appeal form, whichever is later.
 
-You can’t select a new review option if you’ve already submitted evidence or had a hearing.
-
 ## What if I have more questions?
 
 Get answers to frequently asked questions about decision reviews.
