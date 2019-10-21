@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA decision reviews and appeals
+title: VA Decision Reviews And Appeals
 display_title: VA decision reviews and appeals
 decision_reviews_banner: true
 hidesidenav: true
@@ -31,9 +31,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision to request a decision review,
-      unless you have a fiduciary claim or a multiple party claim. <br>
-      <a href="#rare-situations">See if one of these rare situations applies to you</a>
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a> or a <a href="/decision-reviews/multiple-party-claims/">multiple party claim</a>, or you’re filing a Supplemental Claim.     
     </p>
   </div>
 </div>
@@ -68,14 +66,14 @@ determine whether it changes the decision. <br>
 <!-- Todo: Implement updated number component -->
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
-  <span class="description">VA’s goal for completing Supplemental Claims is 125 days. </span>
+  <span class="description">VA’s goal for completing Supplemental Claims is an average of 125 days. </span>
 </div>
 
 #### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim within <b>1 year</b> of a decision if you have new evidence.
+You can file a Supplemental Claim anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This locks in the most advantageous effective date for you, if your appeal is successful and you receive any potential retroactive payments. 
 
-But you can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
+**Note** You can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
 <a href="#rare-situations">See if one of these rare situations applies to you</a>
 
 <br>
@@ -113,14 +111,15 @@ whether the decision can be changed based on a difference of opinion or an error
 <!-- Todo: Implement updated number component -->
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
-  <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
+  <span class="description">VA’s goal for completing Higher-Level Reviews is an average of 125 days. </span>
 </div>
 
 #### Can I request a Higher-Level Review?
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim
-decision. This option isn't available after a Higher-Level Review or Board Appeal.
+decision. This option isn't available after a Higher-Level Review or Board Appeal. <br>
 
+You have one year from the date on your decision letter to request a Higher-Level Review.
 <br>
 <br>
 
@@ -169,7 +168,9 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 
 #### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row.
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row. <br>
+
+You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party claim](/decision-reviews/multiple-party-claims/).
 
 <br>
 
