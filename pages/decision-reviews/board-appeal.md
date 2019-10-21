@@ -65,7 +65,7 @@ To request a Board Appeal, fill out the Decision Review Request: Board Appeal (V
 <ol class="process">
 <li class="process-step list-one">
 
-### Choose one of 3 options to appeal to a Veterans Law Judge
+### Choose 1 of 3 options to appeal to a Veterans Law Judge
 
 **Direct Review**
 <br>
