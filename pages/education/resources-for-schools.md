@@ -51,7 +51,7 @@ social:
         - url: 
           title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
         - url: 
-          title: "See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information."
+          title: "See <a href='https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8='>FAQ</a> for more information."
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
