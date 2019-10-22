@@ -1,3 +1,33 @@
+---
+layout: page-breadcrumbs.html
+template: topic-landing
+title: Resources for schools
+display_title:
+heading: 
+permalink:
+source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
+lastupdated:
+show_git_lastupdate:
+concurrence:
+plainlanguage:
+collection:
+children:
+order:
+majorlinks:
+  - heading:
+    links:
+    - url:
+      title:
+      description:
+relatedlinks:
+  - heading:
+    links:
+    - url:
+      title:
+      description:
+vagovprod: false
+---
+
 # Resources for schools
 
 If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.
