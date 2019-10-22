@@ -13,6 +13,12 @@ plainlanguage:
 collection:
 children:
 order:
+hub: education
+promo:
+  - image: /img/hub-illustrations/education.png
+    heading: GI Bill® Comparison Tool
+    url: "/gi-bill-comparison-tool"
+    description: Learn about education programs and compare benefits by school.
 majorlinks:
   - heading:
     links:
