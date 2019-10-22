@@ -36,7 +36,7 @@ vagovprod: false
 
 If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.
 
-## On this page
+### On this page
 
 [Training and guides](#training-and-guides)
 
@@ -44,12 +44,12 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 
 [Policies and procedures](#policies-and-procedures)
 
-## Key Resources for SCOs
+### Key Resources for SCOs
 
 **[SCO Handbook](/pages/education/sco-handbook/)** | **[VA-ONCE](/pages/education/va-once/)** | **[VA-ONCE Quick Reference](/pages/education/va-once-quick-reference/)** | **[WEAMS](/pages/education/weams/)** | **[Find your ELR](/pages/education/find-your-elr/)**
 
 <div class="card information">
-  <h2>Latest announcements from VA</h2>
+  <h3>Latest announcements from VA</h3>
 
 **[10/1/2019 - VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**
 
