@@ -36,6 +36,22 @@ social:
           external: true
         - url:
           title: "Ask a question about GI Bill benefits."
+  - heading: Average processing times
+    subsections:
+      - subhead: 
+        links:
+        - url: 
+          label: "First time applications:"
+        - url:
+          title: "**24 days**"
+        - url: 
+          label: "Supplemental claims:"
+        - url:
+          title: "**10 days**"
+        - url: 
+          label: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
+        - url: 
+          label: "See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information."
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
