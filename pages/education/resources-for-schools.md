@@ -16,7 +16,7 @@ order:
 hub: education
 promo:
   - image: /img/hub-illustrations/education.png
-    heading: GI Bill® Comparison Tool
+    heading: School Certifying Official (SCO) Handbook
     url: "/gi-bill-comparison-tool"
     description: Learn about education programs and compare benefits by school.
 majorlinks:
