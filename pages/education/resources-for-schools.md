@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: topic-landing
+template: level2-index
 title: Resources for schools
 display_title:
 heading: 
