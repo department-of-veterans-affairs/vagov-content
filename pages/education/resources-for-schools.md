@@ -31,16 +31,6 @@ social:
         links:
         - url: https://gibill.custhelp.va.gov/
           label: "Submit a question"
-  - heading: Average processing times
-    subsections:
-      - subhead: "First time applications"
-        links:
-          label: 24 days
-      - subhead: "Supplemental claims:"
-        links:
-          label: 10 days
-      -subhead: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
-      -subhead: See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information.
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
