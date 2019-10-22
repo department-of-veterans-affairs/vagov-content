@@ -74,7 +74,7 @@ determine whether it changes the decision. <br>
 
 You can file a Supplemental Claim anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This locks in the most advantageous effective date for you, if your appeal is successful and you receive any potential retroactive payments. 
 
-**Note** You can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
+**Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
 <a href="#rare-situations">See if one of these rare situations applies to you</a>
 
 <br>
