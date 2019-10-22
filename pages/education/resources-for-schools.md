@@ -25,15 +25,17 @@ social:
       - subhead: 
         links:
         - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
-          description: "Search the FAQs to find answers to popular questions."
           label: "FAQs for GI Bill"
           external: true
+        - url:
+          title: "Search the FAQs to find answers to popular questions."
       - subhead: 
         links:
         - url: https://gibill.custhelp.va.gov/
-          description: "Ask a question about GI Bill benefits."
           label: "Submit a question"
           external: true
+        - url:
+          title: "Ask a question about GI Bill benefits."
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
