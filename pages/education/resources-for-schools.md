@@ -41,17 +41,17 @@ social:
       - subhead: 
         links:
         - url: 
-          label: "First time applications:"
+          title: "First time applications:"
         - url:
-          title: "**24 days**"
+          title: "<b>24 days</b>"
         - url: 
-          label: "Supplemental claims:"
+          title: "Supplemental claims:"
         - url:
-          title: "**10 days**"
+          title: "<b>10 days</b>"
         - url: 
-          label: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
+          title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
         - url: 
-          label: "See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information."
+          title: "See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information."
   - heading: Connect with us
     admin: Veterans Benefits Administration
     url: https://www.benefits.va.gov/benefits/
