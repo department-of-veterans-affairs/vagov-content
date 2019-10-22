@@ -17,8 +17,8 @@ hub: education
 promo:
   - image: /img/hub-illustrations/education.png
     heading: School Certifying Official (SCO) Handbook
-    url: "/gi-bill-comparison-tool"
-    description: Learn about education programs and compare benefits by school.
+    url: "/SCO_Handbook.pdf"
+    description: Access revision 5.6.4, current as of September 27, 2019.
 majorlinks:
   - heading:
     links:
