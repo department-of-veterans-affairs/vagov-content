@@ -19,6 +19,55 @@ promo:
     heading: School Certifying Official (SCO) Handbook
     url: "/SCO_Handbook.pdf"
     description: Access revision 5.6.4, current as of September 27, 2019.
+social:
+  - heading: Ask questions
+    subsections:
+      - subhead: FAQs for GI Bill
+        description: Search the FAQs to find answers to popular questions.
+        links:
+        - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
+          label: "FAQs for GI Bill"
+      - subhead: Submit a question
+        links:
+        - url: https://gibill.custhelp.va.gov/
+          label: "Submit a question"
+  - heading: Average processing times
+    subsections:
+      - subhead: "First time applications"
+        links:
+          label: 24 days
+      - subhead: "Supplemental claims:"
+        links:
+          label: 10 days
+      -subhead: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
+      -subhead: See [FAQ](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=) for more information.
+  - heading: Connect with us
+    admin: Veterans Benefits Administration
+    url: https://www.benefits.va.gov/benefits/
+    subsections:
+      - subhead: Get updates
+        links:
+        - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
+          label: Veterans Benefits email updates
+          external: true
+          icon: fa-envelope
+      - subhead: Follow us
+        links:
+        - url: https://twitter.com/VAVetBenefits
+          label: Veterans Benefits Twitter
+          external: true
+          icon: fa-twitter
+        - url: https://www.facebook.com/VeteransBenefits
+          label: Veterans Benefits Facebook
+          external: true
+          icon: fa-facebook
+        - url: https://www.youtube.com/channel/UCANDE7C7UST9HOzvLVtN_yg
+          label: Veterans Benefits YouTube
+          external: true
+          icon: fa-youtube
+        - url: "https://www.instagram.com/vabenefits/"
+          label: Veterans Benefits Instagram
+          icon: fa-instagram
 majorlinks:
   - heading:
     links:
