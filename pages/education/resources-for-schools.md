@@ -28,8 +28,6 @@ relatedlinks:
 vagovprod: false
 ---
 
-# Resources for schools
-
 If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.
 
 ## On this page
