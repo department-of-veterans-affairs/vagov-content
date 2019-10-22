@@ -85,7 +85,7 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 
 ### Key Resources for SCOs
 
-**[SCO Handbook](/pages/education/sco-handbook/)** | **[VA-ONCE](/pages/education/va-once/)** | **[VA-ONCE Quick Reference](/pages/education/va-once-quick-reference/)** | **[WEAMS](/pages/education/weams/)** | **[Find your ELR](/pages/education/find-your-elr/)**
+**[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
 <div class="card information">
   <h3>Latest announcements from VA</h3>
@@ -106,6 +106,6 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 
 Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
 
-[Required 2019 training for School Certifying Officials (SCOs) >](/pages/education/required-2019-training-for-scos)
+[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
 
 Required if your school has 20 or more GI Bill students
