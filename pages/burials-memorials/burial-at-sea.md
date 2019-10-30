@@ -33,7 +33,7 @@ The U.S. Navy provides burial at sea. The National Cemetery Administration can't
 
 Learn more about [the Navy's Burial at Sea program](https://www.navy.mil/navydata/questions/burial.html).
 
-For more information, call the U.S. Navy Mortuary Affairs office at <a href="tel:18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. ET.
+For information, call the U.S. Navy Mortuary Affairs office at <a href="tel:18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. ET.
 
 ## Can I get a memorial item for a Veteran who has already been buried at sea? 
 
