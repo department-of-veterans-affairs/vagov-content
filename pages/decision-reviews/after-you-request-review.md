@@ -27,9 +27,11 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I want to choose a different review option after I’ve submitted a form?
 
-**To switch from a Higher-Level Review or a Supplemental Claim:** If your original request hasn’t been decided yet—and you’re still within one year from the date on your VA decision letter—you can switch to a different review option (also called a decision review “lane”). You must include a letter with your new form that says you want to withdraw your existing decision review request and switch to a different lane.
+**To switch from a Higher-Level Review or a Supplemental Claim** 
+You can switch if your original request hasn’t been decided yet, and you’re still within one year from the date on your VA decision letter. You must include a letter with your new form that says you want to withdraw your existing decision review request.
 
-**To switch from a Board Appeal:** You can’t select a different lane if you already submitted evidence or had a hearing for your Board Appeal. If you haven’t submitted evidence or had your hearing yet, you can submit a new [Board Appeal form (PDF)](https://www.va.gov/decision-reviews/forms/board-appeal-10182.pdf) with a different lane selected. You can switch from a Board Appeal within 1 year from the date on your VA decision letter or 60 days from the date you submitted your original Board Appeal form, whichever is later.
+**To switch from one Board Appeal option to another Board Appeal option** 
+You can’t select a new review option if you already submitted evidence or had a hearing. If you haven’t submitted evidence or had your hearing yet and you want to switch to a different Board Appeal option, submit a new [Board Appeal form (PDF)](https://www.va.gov/decision-reviews/forms/board-appeal-10182.pdf) with a different option selected. You can switch Board Appeal options within 1 year from the date on your VA decision letter for the claim you want reviewed or 60 days from the date you submitted your original Board Appeal form, whichever is later.
 
 ## What if I have more questions?
 
