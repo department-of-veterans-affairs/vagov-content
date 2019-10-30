@@ -32,7 +32,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a> or a <a href="/decision-reviews/multiple-party-claims/">multiple party claim</a>, or you’re filing a Supplemental Claim.     
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a [Supplemental Claim](#supplemental-claim).     
     </p>
   </div>
 </div>
@@ -72,10 +72,11 @@ determine whether it changes the decision. <br>
 
 #### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This locks in the most advantageous effective date for you, if your appeal is successful and you receive any potential retroactive payments. 
+You can file a Supplemental Claim anytime if you have new evidence. **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a multiple party or contested claim (this is rare). <a href="#rare-situations">See if one of these rare situations applies to you</a>
 
-**Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or you’re one of multiple people claiming the same benefit (this is rare). <br>
-<a href="#rare-situations">See if one of these rare situations applies to you</a>
+#### Is there a deadline for filing a Supplemental Claim?
+
+You can file anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments. 
 
 <br>
 <br>
@@ -119,6 +120,8 @@ whether the decision can be changed based on a difference of opinion or an error
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim
 decision. This option isn't available after a Higher-Level Review or Board Appeal. <br>
+
+#### Is there a deadline for requesting a Higher-Level Review?
 
 You have one year from the date on your decision letter to request a Higher-Level Review.
 <br>
@@ -171,7 +174,9 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row. <br>
 
-You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party claim](/decision-reviews/multiple-party-claims/).
+#### Is there a deadline for requesting a Higher-Level Review?
+
+You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
 
 <br>
 
