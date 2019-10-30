@@ -19,9 +19,9 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 ### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This locks in the most advantageous effective date for you, if your appeal is successful and you receive any potential retroactive payments.  <br>
+You can file a Supplemental Claim anytime if you have new and relevant evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments. <br>
 
-**Note:** You can’t file a Supplemental Claim if you have a [fiduciary claim](/decision-reviews/fiduciary-claims/) or a [multiple party claim](/decision-reviews/multiple-party-claims/).
+**Note:** You can’t file a Supplemental Claim if you have a [fiduciary claim](/decision-reviews/fiduciary-claims/) or a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
 </div>
 
 ## How long does it take VA to make a decision?
@@ -64,8 +64,13 @@ You can include all or just some of the issues VA decided. You must list the iss
 
 <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span> You must add new and relevant evidence (supporting documents) or identify evidence you’d like VA to gather for review.
 
-**List the location(s) of VA evidence in Part III**. <br>
-VA can help you get evidence if it’s at a VA medical center or other federal facility. For more details, see the instructions for completing the form.
+We can help you gather evidence from a VA medical center, other federal facility, or your private health care provider.<br>
+
+**For evidence at a VA or other federal facility**<br>
+List the location(s) of VA evidence in Part III. For more details, see the instructions for completing the form.
+
+**For evidence at a private or non-VA source, like a private doctor or employer**<br>
+If you want us to gather your evidence from a private provider, fill out and sign [VA Form 21-4142 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf). Be sure to include it with your Supplemental Claim form (VA Form 20-0995). 
 
 **What if I don’t have any new and relevant evidence?**  <br>
 If you don’t have evidence to submit, please select another review option.
