@@ -31,13 +31,13 @@ Learn about the Navy's Burial at Sea program and find out if you can plan a buri
 
 The U.S. Navy provides burial at sea. The National Cemetery Administration can't perform this type of committal service. 
 
-Learn more about [the Navy's Burial at Sea program](https://www.navy.mil/navydata/questions/burial.html).
+[Learn more about the Navy's Burial at Sea program](https://www.navy.mil/navydata/questions/burial.html)
 
 For information, call the U.S. Navy Mortuary Affairs office at <a href="tel:18667870081">866-787-0081</a>. We're here Monday through Friday, 8:30 a.m. to 5:00 p.m. ET.
 
-## Can I get a memorial item for a Veteran who has already been buried at sea? 
+## Can I get a memorial item for a Veteran who's already been buried at sea? 
 
 Yes. Active-duty service members and Veterans who were buried at sea may be eligible for a headstone or marker. 
 
-Learn more about [eligibility for memorial items](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/).
+[Learn more about eligibility for memorial items](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/)
 
