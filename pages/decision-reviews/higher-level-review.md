@@ -74,7 +74,7 @@ The most common benefit type is compensation, but if you’re unsure, check your
   </div>
 </div>
 <br>
-To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request.
+To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2 to 4 weeks after VA processes your request.
 
 </li>
 
@@ -247,7 +247,7 @@ Bring your completed form to a regional benefit office.
 Fax your completed form and any supporting documents to 844-531-7818.
 <br>
 <br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
 </li>
 </ol>
 
