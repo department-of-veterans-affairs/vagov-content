@@ -175,7 +175,6 @@ You can request a Board Appeal after an initial claim, Supplemental Claim, or Hi
 
 You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
 
-<br>
 
 ## After a Board decision
 
