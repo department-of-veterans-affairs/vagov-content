@@ -124,7 +124,6 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 
 You have one year from the date on your decision letter to request a Higher-Level Review.
 <br>
-<br>
 
 
 <div id="board-appeal">
