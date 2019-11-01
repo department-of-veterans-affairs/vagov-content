@@ -78,7 +78,6 @@ You can file a Supplemental Claim anytime if you have new evidence. **Note:** Yo
 
 You can file anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments. 
 
-<br>
 
 <div id="higher-level-review">
 
