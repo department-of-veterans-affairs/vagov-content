@@ -6,6 +6,7 @@ display_title:
 heading: 
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
+vagovprod: false
 lastupdated:
 show_git_lastupdate:
 concurrence:
@@ -91,10 +92,9 @@ relatedlinks:
     - url:
       title:
       description:
-vagovprod: false
 ---
 
-If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.
+Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
 
 ### On this page
 
@@ -103,6 +103,8 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 [Upcoming events](#upcoming-events)
 
 [Policies and procedures](#policies-and-procedures)
+
+[Resources to support students](#resources-to-support-students)
 
 ### Key Resources for SCOs
 
@@ -130,3 +132,43 @@ Get training and boost your skills using these resources fro School Certifying O
 [Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
 
 Required if your school has 20 or more GI Bill students
+</div>
+
+
+***
+
+<div>
+  <h2 id="upcoming-events">Upcoming events</h2>
+
+Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
+
+[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
+
+Required if your school has 20 or more GI Bill students
+</div>
+
+
+***
+
+<div>
+  <h2 id="policies-and-procedures">Policies and procedures</h2>
+
+Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
+
+[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
+
+Required if your school has 20 or more GI Bill students
+</div>
+
+
+***
+
+<div>
+  <h2 id="resources-to-support-students">Resources to support students</h2>
+
+Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
+
+[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
+
+Required if your school has 20 or more GI Bill students
+</div>
