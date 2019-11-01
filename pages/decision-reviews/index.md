@@ -32,7 +32,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a [Supplemental Claim](#supplemental-claim).     
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a <span id="supplemental-claim">Supplemental Claim</span>.     
     </p>
   </div>
 </div>
