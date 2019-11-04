@@ -1,6 +1,6 @@
 ---
 layout: page-breadcrumbs.html
-template: level2-index
+template: education-sco
 title: School Resources
 display_title:
 heading: 
