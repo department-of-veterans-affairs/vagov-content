@@ -7,7 +7,7 @@ heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
 vagovprod: false
-lastupdated:
+lastupdate: 2019-09-27
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -67,14 +67,16 @@ social:
         - url: 
           title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
         - url: 
-          title: "See <a href='https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8='>FAQ</a> for more information."
+          title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp'>FAQ</a> for more information."
+        - url:
+          title: "Last updated: October 30, 2019." 
   - heading: Connect with us
     admin: Find your Education Liaison
-    url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
+    url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
     subsections:
       - subhead: Email us
         links: 
-        - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
+        - url: mailto:support@vbatraining.org
           label: Email VBA Support Team
           external: true
           icon: fa-envelope
