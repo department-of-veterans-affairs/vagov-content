@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: detail-page
 title: Yellow Ribbon Schools
-heading: Yellow ribbon schools
+heading: Yellow Ribbon schools
 display_title: 
 description: 
 concurrence: 
