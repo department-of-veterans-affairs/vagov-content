@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: education-sco
-title: School Resources
+title: Resources for schools
 display_title:
 heading: 
 permalink:
@@ -14,9 +14,8 @@ plainlanguage:
 collection:
 children:
 order:
-hub: education
 promo:
-  - image: /img/hub-illustrations/education.png
+  - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
     url: "/SCO_Handbook.pdf"
     description: Access revision 5.6.4, current as of September 27, 2019.
