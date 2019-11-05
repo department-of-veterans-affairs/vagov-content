@@ -144,6 +144,8 @@ relatedlinks:
 
 </div>
 
+---
+
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
