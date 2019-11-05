@@ -113,7 +113,7 @@ relatedlinks:
 
 <div>
   <p class="va-introtext">
-    If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.
+    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
   <p>
 </div>
 
