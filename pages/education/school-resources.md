@@ -155,6 +155,8 @@ Get training and boost your skills using these resources fro School Certifying O
 
 Required if your school has 20 or more GI Bill students
 
+</div>
+
 ---
 
 <div>
