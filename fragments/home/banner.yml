@@ -18,8 +18,8 @@
 #     If you have hearing loss, call TTY: 711.
 #
 
-visible: false
-type: warning
-title: Tropical Storm Karen
+visible: true
+type: info
+title: READ
 content: |
-    <p>For the latest Tropical Storm Karen-related facility, pharmacy and resource updates, visit <a href="https://www.caribbean.va.gov/emergency/index.asp">here</a>.</p>
+    <p>President Donald J. Trump’s <a href="https://www.va.gov/opa/vetsday/docs/National_Veterans_and_Military_Families_Month_Proclamation_2019.pdf">National Veterans and Military Families Month Proclamation</a>.</p>
