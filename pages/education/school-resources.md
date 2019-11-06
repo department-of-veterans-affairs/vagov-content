@@ -137,9 +137,10 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 **[7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year](https://www.benefits.va.gov/gibill/news.asp)**
 
 [See past updates](https://www.benefits.va.gov/gibill/news.asp)
+
 </div>
 
-***
+---
 
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
@@ -152,29 +153,29 @@ Required if your school has 20 or more GI Bill students
 
 </div>
 
-
-***
+---
 
 <div>
-  <h2 id="upcoming-events">Upcoming events</h2>
+
+<h2 id="upcoming-events">Upcoming events</h2>
+
+<ul id="get" class="hub-page-link-list"> 
   
-<b>[Arizona Veterans Program Association-2019 Fall Mini-Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></a><br>   
+November 1, 2019 — Mesa, AZ</b><li>
 
-November 1, 2019 -- Mesa, AZ
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></a><br> 
+November 4–6, 2019 — Stillwater, OK</b></li>
 
-<b>[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></a><br> 
+December 19 & 20, 2019 — Online</b></li>
 
-November 4-6, 2019 -- Stillwater, OK
+See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
-<b>[VBA Education Service 1st Quarter Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
-
-December 19 & 20, 2019 -- Online
-
-See full list of [Conferences and Events]((https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
+</ul>
 </div>
 
-
-***
+---
 
 <div>
   <h2 id="policies-and-procedures">Policies and procedures</h2>
@@ -183,8 +184,6 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
 
 [VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)
 
-
 </div>
 
-
-***
+---
