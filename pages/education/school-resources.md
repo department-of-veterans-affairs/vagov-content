@@ -204,7 +204,7 @@ See full list of [Conferences and Events]((https://www.benefits.va.gov/gibill/re
                    </p>
                    <ul>
                     <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp">Foreign school program approval</a></li>
-                    <li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/ca-approvals@va.gov">California</a></li>
+                    <li><a href="mailto:ca-approvals@va.gov">California</a></li>
                    </ul>
                    <a href="https://benefits.va.gov/gibill/foreign_schools.asp" style="text-decoration: none;"><b>Information for students wishing to attend foreign schools ></b></a>
                </div>
