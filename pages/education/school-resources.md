@@ -127,16 +127,21 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-<div class="card information">
-  <h3>Latest announcements from VA</h3>
 
-**[10/1/2019 - VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**
+<div class="information" style="background-color: #E1F3F8; margin: 0; padding: 1em; margin-top: 4em;">
+  <h3 style="margin: 0; font-size: 22px">Latest announcements from VA</h3>
+  <hr style="display: block; height: 1px; border: 0; border-top: 1px solid #000000; margin: .5em 0; padding: 0;" />
+  <p>
+    <a style="font-weight: bold; font-size: 20px; text-decoration: none;" href="https://www.benefits.va.gov/gibill/news.asp">10/1/2019 - VA now serving as State-Approving Agency for California</a>
+  </p>
+  <p>
+    <a style="font-weight: bold; font-size: 20px; text-decoration: none;" href="https://www.benefits.va.gov/gibill/news.asp">10/19/2019 - Release of revised School Certifying Official Handbook</a>
+  </p>
+  <p>
+    <a style="font-weight: bold; font-size: 20px; text-decoration: none;" href="https://www.benefits.va.gov/gibill/news.asp">7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year</a>
+  </p>
 
-**[10/19/2019 - Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**
-
-**[7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year](https://www.benefits.va.gov/gibill/news.asp)**
-
-[See past updates](https://www.benefits.va.gov/gibill/news.asp)
+  <a style="text-decoration: none;" href="https://www.benefits.va.gov/gibill/news.asp">See past updates...</a>
 </div>
 
 ***
