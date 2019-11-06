@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: education-sco
-title: School Resources
+title: Resources for schools
 display_title:
 heading: 
 permalink:
@@ -111,17 +111,21 @@ relatedlinks:
       description:
 ---
 
-Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+<div>
+  <p class="va-introtext">
+    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+  <p>
+</div>
 
 ### On this page
 
-[Training and guides](#training-and-guides)
+- [Training and guides](#training-and-guides)
 
-[Upcoming events](#upcoming-events)
+- [Upcoming events](#upcoming-events)
 
-[Policies and procedures](#policies-and-procedures)
+- [Policies and procedures](#policies-and-procedures)
 
-[Resources to support students](#resources-to-support-students)
+- [Resources to support students](#resources-to-support-students)
 
 ### Key Resources for SCOs
 
@@ -137,9 +141,10 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 **[7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year](https://www.benefits.va.gov/gibill/news.asp)**
 
 [See past updates](https://www.benefits.va.gov/gibill/news.asp)
+
 </div>
 
-***
+---
 
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
@@ -150,10 +155,7 @@ Get training and boost your skills using these resources fro School Certifying O
 
 Required if your school has 20 or more GI Bill students
 
-</div>
-
-
-***
+---
 
 <div>
   <h2 id="upcoming-events">Upcoming events</h2>
@@ -170,11 +172,11 @@ November 4-6, 2019 -- Stillwater, OK
 
 December 19 & 20, 2019 -- Online
 
-See full list of [Conferences and Events]((https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
+See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)>) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
+
 </div>
 
-
-***
+---
 
 <div>
   <h2 id="policies-and-procedures">Policies and procedures</h2>
@@ -183,8 +185,6 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
 
 [VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)
 
-
 </div>
 
-
-***
+---
