@@ -47,7 +47,7 @@ social:
       - subhead: 
         links:
         - url: https://gibill.custhelp.va.gov/
-          label: "<b>Submit a question</b>"
+          label: "<b>Submit a Question</b>"
           external: true
         - url:
           title: "Ask a question about GI Bill benefits."
@@ -66,7 +66,7 @@ social:
         - url: 
           title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
         - url: 
-          title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp'>FAQ</a> for more information."
+          title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a> for more information."
         - url:
           title: "Last updated: October 30, 2019." 
   - heading: Connect with us
