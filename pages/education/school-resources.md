@@ -47,7 +47,7 @@ social:
       - subhead: 
         links:
         - url: https://gibill.custhelp.va.gov/
-          label: "<b>Submit a Question</b>"
+          label: "<b>Submit a question</b>"
           external: true
         - url:
           title: "Ask a question about GI Bill benefits."
@@ -70,7 +70,7 @@ social:
         - url:
           title: "Last updated: October 30, 2019." 
   - heading: Connect with us
-    admin: Find your Education Liaison
+    admin: Find your Education Liaison Representative (ELR)
     url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
     subsections:
       - subhead: Email us
