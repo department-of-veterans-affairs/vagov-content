@@ -161,14 +161,14 @@ Required if your school has 20 or more GI Bill students
 
 <ul id="get" class="hub-page-link-list"> 
   
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></a><br>   
-November 1, 2019 — Mesa, AZ</b><li>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></b></a><br>   
+<b>November 1, 2019 — Mesa, AZ</b><li>
 
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></a><br> 
-November 4–6, 2019 — Stillwater, OK</b></li>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></b></a><br> 
+<b>November 4–6, 2019 — Stillwater, OK</b></li>
 
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></a><br> 
-December 19 & 20, 2019 — Online</b></li>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></b></a><br> 
+<b>December 19 & 20, 2019 — Online</b></li>
 
 See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
