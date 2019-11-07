@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Help To Avoid Mortgage Foreclosure
-heading: VA help to avoid mortgage foreclosure
+title: VA Help To Avoid Foreclosure
+heading: VA help to avoid foreclosure
 display_title: Trouble making payments? 
 description: Having trouble making your mortgage payments? If you're a Veteran or surviving spouse, find out how our VA loan technicians can work with you, and your lender, to help you avoid foreclosure and keep your home.
 keywords: va mortgage
@@ -30,7 +30,7 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 ## What should I do if I’m having trouble paying my mortgage?
 
-If you’re late with a mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
+If you're having difficulty making your mortgage payment, contact your loan servicer right away. This is your chance to find a solution that might work for your scenario.
 
 If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA loan technician at <a href="tel:+18778273702">877-827-3702</a>.
 
