@@ -20,13 +20,6 @@
 
 visible: false
 type: warning
-title: Hurricane Dorian
+title: Tropical Storm Karen
 content: |
-    <p>The <strong>Veteran Disaster Hotline</strong> at <strong><a href="tel:18005074571">800-507-4571</a></strong> is available to Veterans impacted by Hurricane Dorian who have questions about prescription drugs, resource information or any other healthcare concerns.</p>
-    <p><strong>For the latest updates on VA facilities, visit:</strong></p>
-    <ul>
-    <li><a href="https://www.visn8.va.gov/VISN8/emergency/index.asp">Florida, Puerto Rico and the US Virgin Islands</a></li>
-    <li><a href="https://www.southeast.va.gov/SOUTHEAST/emergency/index.asp">Georgia, South Carolina</a></li>
-    <li><a href="https://www.visn6.va.gov/emergency/index.asp">North Carolina, Virginia</a></li>
-    </ul>
-    <p><strong>VA Employees</strong> impacted by the storm can contact the <strong>Employee Disaster Response Line</strong> at <strong><a href="tel:18662330152">866-233-0152</a></strong> to report their status and to obtain resource information.</p>
+    <p>For the latest Tropical Storm Karen-related facility, pharmacy and resource updates, visit <a href="https://www.caribbean.va.gov/emergency/index.asp">here</a>.</p>
