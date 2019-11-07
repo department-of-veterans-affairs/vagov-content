@@ -66,7 +66,7 @@ You may be able to get a COE if you didn't receive a dishonorable discharge and 
 
 | When did you serve? | You meet the minimum active-duty service requirement if you served for at least this amount of time: |
 | --- | --- |
-| Between August 2, 1990, and the present (Gulf War) | 90 continuous days of active service |
+| Between August 2, 1990, and the present (Gulf War) | 90 continuous days of active-duty service |
 | Any time period | 6 creditable years in the Selected Reserve or National Guard, and one of the descriptions below is true for you<br><br>**At least one of these must be true. You:**<br><ul><li>Were discharged honorably, **or**</li><li>Were placed on the retired list, **or**</li><li>Were transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service characterized as honorable, **or**</li><li>Continue to serve in the Selected Reserve</li></ul> |
 
 
@@ -93,7 +93,8 @@ You may still be able to get a COE if you were discharged for one of the reasons
 **You must have been discharged for one of these reasons:**
 
 * Hardship, **or**
-* The convenience of the government, **or**
+* The convenience of the government (you must have served at least 20 months of a 2-year enlistment), **or**
+* Early out (you must have served at least 21 months of a 2-year enlistment), **or**
 * Reduction in force, **or**
 * Certain medical conditions, **or**
 * A service-connected disability (a disability related to your military service)
