@@ -69,7 +69,7 @@ We can help you gather evidence from a VA medical center, other federal facility
 **For evidence at a VA or other federal facility**<br>
 List the location(s) of VA evidence in Part III. For more details, see the instructions for completing the form.
 
-**For evidence at a private or non-VA source, like a private doctor or employer**<br>
+**For evidence at a private or non-VA source, like a private doctor**<br>
 If you want us to gather your evidence from a private provider, fill out and sign [VA Form 21-4142 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf). Be sure to include it with your Supplemental Claim form (VA Form 20-0995). 
 
 **What if I don’t have any new and relevant evidence?**  <br>
