@@ -131,7 +131,7 @@ relatedlinks:
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-<div class="field_related_links bluecard">
+<div class="field_related_links sco-card">
   <h3 class="va-nav-linkslist-heading">Latest announcements from VA</h3>
   <ul class="va-nav-linkslist-list">
     <li>
