@@ -171,7 +171,7 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 
 You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row. <br>
 
-#### Is there a deadline for requesting a Higher-Level Review?
+#### Is there a deadline for requesting a Board Appeal?
 
 You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
 
