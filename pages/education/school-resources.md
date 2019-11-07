@@ -438,7 +438,6 @@ Get training and boost your skills using these resources for School Certifying O
         </ul>
     </div>
 </div>
-
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
@@ -448,7 +447,6 @@ Get training and boost your skills using these resources for School Certifying O
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
-
 <div>
     <h2 id="policies-and-procedures">Policies and procedures</h2>
     <p>
