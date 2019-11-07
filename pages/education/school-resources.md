@@ -1,7 +1,7 @@
 ---
 layout: page-breadcrumbs.html
 template: education-sco
-title: School Resources
+title: Resources for schools
 display_title:
 heading: 
 permalink:
@@ -111,17 +111,21 @@ relatedlinks:
       description:
 ---
 
-Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+<div>
+  <p class="va-introtext">
+    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+  <p>
+</div>
 
 ### On this page
 
-[Training and guides](#training-and-guides)
+- [Training and guides](#training-and-guides)
 
-[Upcoming events](#upcoming-events)
+- [Upcoming events](#upcoming-events)
 
-[Policies and procedures](#policies-and-procedures)
+- [Policies and procedures](#policies-and-procedures)
 
-[Resources to support students](#resources-to-support-students)
+- [Resources to support students](#resources-to-support-students)
 
 ### Key Resources for SCOs
 
@@ -172,18 +176,120 @@ Required if your school has 20 or more GI Bill students
 
 See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
-</ul>
+See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)>) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
+
 </div>
 
 ---
 
 <div>
-  <h2 id="policies-and-procedures">Policies and procedures</h2>
-
-Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits.
-
-[VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)
-
+    <h2 id="policies-and-procedures">Policies and procedures</h2>
+    <p>
+        <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" style="text-decoration: none;"><b>VA education forms, brochures and factsheets ></b></a>
+    </p>
+    <ul class="usa-accordion-bordered">
+        <li>
+            <button class="usa-accordion-button usa-accordion-button-dark rail-heading"
+              aria-expanded="false"
+              aria-controls="pnp-1">
+              GI Bill program approval process
+            </button>
+            <div id="pnp-1" class="usa-accordion-content">
+               <div>
+                   <h4 class='va-nav-linkslist-list'>Where does a facility begin the process of GI Bill program approval?</h4>
+                   <p>
+                       The approval authority for GI Bill programs generally begins with the individual states via the <a href="http://www.nasaa-vetseducation.com/Contacts.aspx">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
+                   </p>
+                   <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/1481" style="text-decoration: none;"><b>Education program approval guidelines ></b></a>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>When is VA responsible for approval of education and training programs?</h4>
+                   <p>
+                       VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
+                   </p>
+                   <ul>
+                    <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp">Foreign school program approval</a></li>
+                    <li><a href="mailto:ca-approvals@va.gov">California</a></li>
+                   </ul>
+                   <a href="https://benefits.va.gov/gibill/foreign_schools.asp" style="text-decoration: none;"><b>Information for students wishing to attend foreign schools ></b></a>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):</h4>
+                   <ul>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf">New application for approval — accredited institutions</a></li>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf">New application for approval — non-accredited institutions</a></li>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf">Renewal or program amendment application — accredited institutions</a></li>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf">Renewal or program amendment application — non-accredited institutions</a></li>
+                   </ul>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>How do you receive approval for on-the-job training programs?</h4>
+                   <p>
+                    See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf">Approval of On-the-Job Training Programs factsheet</a> addressing the following requirements: programs, wages, and facilities.
+                   </p>
+               </div>
+            </div>            
+        </li>
+        <li>
+            <button class="usa-accordion-button usa-accordion-button-dark rail-heading"
+              aria-expanded="false"
+              aria-controls="pnp-2">
+              GI Bill benefits and programs
+            </button>
+            <div id="pnp-2" class="usa-accordion-content">
+               <div>
+                  <a href="https://www.va.gov/education/about-gi-bill-benefits/" style="text-decoration: none;"><b>About GI Bill benefits ></b></a>
+               </div>
+              <br>
+               <div>
+                  <h4 class='va-nav-linkslist-list'>Forever GI Bill:</h4>
+                   <ul>
+                     <li><a href="https://www.benefits.va.gov/gibill/forevergibill.asp">Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act</a></li>
+                     <li><a href="https://benefits.va.gov/gibill/fgib/stem.asp">Edith Nourse Rogers STEM Scholarship</a></li>
+                     <li><a href="https://www.benefits.va.gov/gibill/fgib/vettec.asp">Veteran Employment Through Technology Education Courses (VET TEC)</a></li>
+                   </ul>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>Benefits by chapter:</h4>
+                   <ul>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/">Post-9/11 GI Bill (Chapter 33)</a></li>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/">Montgomery GI Bill — Active Duty (MGIB-AD, Chapter 30)</a></li>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/">Montgomery GI Bill — Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
+                     <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/">Vocational Rehabilitation and Employment (VR&E, Chapter 31)</a></li>
+                     <li><a href="https://www.va.gov/education/survivor-dependent-benefits/">Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)</a></li>
+                     <li><a href="https://www.va.gov/education/other-va-education-benefits/reap/">Reserve Educational Assistance Program (REAP, Chapter 1607)</a></li>
+                     <li><a href="https://www.va.gov/education/other-va-education-benefits/veap/">Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)</a></li>
+                     <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/">Educational and Career Counseling (Chapter 36)</a></li>
+                   </ul>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>Tuition and housing:</h4>
+                   <ul>
+                     <li><a href="https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp">Tuition and housing rate tables</a></li>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf">MHA will be updated based on ZIP code (9/7/2018)</a></li>
+                     <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf">Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)</a></li>
+                   </ul>
+               </div>
+               <br>
+               <div>
+                   <h4 class='va-nav-linkslist-list'>Other programs and benefits:</h4>
+                   <ul>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/">Yellow Ribbon Program</a></li>
+                     <li><a href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/">Principles of Excellence</a></li>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/">Tuition Assistance (TA) Top Up</a></li>
+                     <li><a href="https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/">National Call to Service Program</a></li>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/">Work study</a></li>
+                     <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/">Co-op training</a></li>
+                   </ul>
+               </div>
+            </div>            
+        </li>
+    </ul>
 </div>
 
 ---
