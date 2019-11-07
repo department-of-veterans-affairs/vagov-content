@@ -109,6 +109,9 @@ relatedlinks:
     - url:
       title:
       description:
+scoEvents:
+  - name: test 1
+  - name: test 2
 ---
 
 Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
@@ -155,24 +158,7 @@ Required if your school has 20 or more GI Bill students
 
 ***
 
-<div>
-  <h2 id="upcoming-events">Upcoming events</h2>
-  
-<b>[Arizona Veterans Program Association-2019 Fall Mini-Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
-
-November 1, 2019 -- Mesa, AZ
-
-<b>[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
-
-November 4-6, 2019 -- Stillwater, OK
-
-<b>[VBA Education Service 1st Quarter Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
-
-December 19 & 20, 2019 -- Online
-
-See full list of [Conferences and Events]((https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
-</div>
-
+<div data-widget-type="sco-event-list"></div>
 
 ***
 
