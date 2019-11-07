@@ -323,6 +323,11 @@ Get training and boost your skills using these resources for School Certifying O
                             </a>
                         </li>
                         <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf">
+                                Certification for distance hours at an extension campus
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_3.pdf">
                                 Reduction of hours at an extension campus
                             </a>
