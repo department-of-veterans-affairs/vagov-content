@@ -131,30 +131,25 @@ relatedlinks:
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-
-<div class="field_related_links card" style="background-color: #E1F3F8;">
+<div class="field_related_links bluecard">
   <h3 class="va-nav-linkslist-heading">Latest announcements from VA</h3>
   <ul class="va-nav-linkslist-list">
-  <li>
-    <a href="https://www.benefits.va.gov/gibill/news.asp">
-      <b>10/1/2019 - VA now serving as State-Approving Agency for California</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.benefits.va.gov/gibill/news.asp">
-      <b>10/19/2019 - Release of revised School Certifying Official Handbook</b>
-  </li>
-  <li>
-    <a href="https://www.benefits.va.gov/gibill/news.asp">
-      <b>7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year</b>
-    </a>
-  </li>
-</ul>
-
-
-
-
-<a style="text-decoration: none;" href="https://www.benefits.va.gov/gibill/news.asp">See past updates...</a>
+    <li>
+      <a href="https://www.benefits.va.gov/gibill/news.asp">
+        <b>10/1/2019 - VA now serving as State-Approving Agency for California</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.benefits.va.gov/gibill/news.asp">
+        <b>10/19/2019 - Release of revised School Certifying Official Handbook</b>
+    </li>
+    <li>
+      <a href="https://www.benefits.va.gov/gibill/news.asp">
+        <b>7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year</b>
+      </a>
+    </li>
+  </ul>
+  <a class="simple-link" href="https://www.benefits.va.gov/gibill/news.asp">See past updates...</a>
 </div>
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
@@ -163,6 +158,7 @@ relatedlinks:
   <h2 id="training-and-guides">Training and guides</h2>
 
 Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
+
 <ul id="get" class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon">
