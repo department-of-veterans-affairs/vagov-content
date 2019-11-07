@@ -143,22 +143,304 @@ relatedlinks:
 [See past updates](https://www.benefits.va.gov/gibill/news.asp)
 
 </div>
-
----
-
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
-Get training and boost your skills using these resources fro School Certifying Officials (SCOs) serving military connected students.
-
-[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)
-
-Required if your school has 20 or more GI Bill students
-
+Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
+<ul id="get" class="usa-unstyled-list">
+    <li class="hub-page-link-list__item">
+        <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon">
+            <span class="hub-page-link-list__header">
+                Required 2019 training for School Certifying Officials (SCOs)
+                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+            </span>
+        </a>
+        <br>
+        Required if your school has 20 or more GI Bill students
+    </li>
+</ul>
+<br>
+    <div class="usa-accordion" data-multiselectable="false">
+        <ul class="usa-unstyled-list">
+            <li>
+                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_1">
+                    Essentials for School Certifying Officials
+                </button>
+                <div id="t_1" class="usa-accordion-content">
+                    <ul id="get" class="usa-unstyled-list">
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                School Official’s Handbook
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                VA-ONCE quick reference guide
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Find your Education Liaison Representative (ELR)
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Training webinars
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                WEAMS Public
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://benefits.va.gov/atoz/" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Benefits A to Z 
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Check your status as a Covered Institution 
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                    </ul>
+                    <p><b>Reporting:</b></p>
+                    <ul>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf">
+                                General school responsibility factsheet
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://gibill.custhelp.com/app/answers/detail/a_id/1436/">
+                                Process for reporting students on academic probation
+                            </a>                          
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_2">
+                    VA-ONCE information
+                </button>
+                <div id="t_2" class="usa-accordion-content">
+                    <ul id="get" class="usa-unstyled-list">
+                        <li class="hub-page-link-list__item">
+                            <a href="https://vaonce.vba.va.gov/vaonce_student/default.asp" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Launch VA-ONCE
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                          <p class="hub-page-link-list__description">
+                            Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
+                          </p>
+                        </li>            
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                VA-ONCE quick reference guide
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Memorandum of Understanding (MOU)
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                          <p class="hub-page-link-list__description">
+                            To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp">Education Liaison Representative (ELR)</a>.
+                          </p>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                VA-ONCE P042 - Training on enhancements in newest version
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                User tips for VA-ONCE
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Top ten list of what not to report in VA-ONCE
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Colmery extension campus update webinar (July 2019)
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                    </ul>
+                    <p><b>Extension campus certification scenarios:</b></p>
+                    <ul>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_1.pdf">
+                                Certification at a main and extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf">
+                                Certification for distance hours at an extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_3.pdf">
+                                Reduction of hours at an extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_4.pdf">
+                                All credit hours dropped at an extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf">
+                                Certification at a main and two extension campuses with non-standard terms
+                            </a>
+                        </li>
+                    </ul>
+                    <p><b>VA-ONCE demo recordings:</b></p>
+                    <ul>
+                        <li>
+                            <a href="https://youtu.be/QuE8tecwGo4">
+                                Overview of VA ONCE: Certifying an enrollment at an extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/1QWwQ_s0jwE">
+                                Certifying at a main and multiple extension campuses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/watch?v=rZrd2vt_LD0&feature=youtu.be">
+                                Certifying distance hours and hours at an extension campus
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://youtu.be/XlYQa_-6_qs">
+                                Reduction of hours for student taking courses at main and extension campus
+                            </a>
+                        </li>
+                    </ul>
+                    <p><b>Non-traditional schools:</b></p>
+                    <ul>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf">
+                                How-to guide for On-the-Job Training (OJT) and Apprenticeship schools
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf">
+                                VA-ONCE how-to guide for flight schools
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_3">
+                    Payment and debt              
+                </button>     
+                <div id="t_3" class="usa-accordion-content">
+                    <ul id="get" class="usa-unstyled-list">
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Payment and debt information resources
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Direct deposit information for schools
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                School overpayments and using Dual Certification Process to avoid them
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                The Treasury Offset Program: How to receive your state and federal funding
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Payment fees updated with correct tuition and fees caps (9/17/2018)
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                    </ul>               
+                </div>
+            </li>
+        </ul>
+    </div>
 </div>
-
----
-
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
 <div>
   <h2 id="upcoming-events">Upcoming events</h2>
   
@@ -177,9 +459,9 @@ December 19 & 20, 2019 -- Online
 See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)>) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
 </div>
-
----
-
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
 <div>
     <h2 id="policies-and-procedures">Policies and procedures</h2>
     <p>
@@ -289,5 +571,6 @@ See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/r
         </li>
     </ul>
 </div>
-
----
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
