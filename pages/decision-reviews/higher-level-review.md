@@ -1,7 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Request a Higher-Level Review
+title: Request A VA Higher-Level Review
+heading: Request a Higher-Level Review
 display_title: Request a Higher-Level Review
 hidesidenav: true
 ---
@@ -31,20 +32,22 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 
 ### Can I request a Higher-Level Review?
 
-You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. This option isn’t available after a Higher-Level Review or Board Appeal. It’s also not available if you’re one of multiple people claiming the same benefit (this is rare).
+You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. You have one year from the date on your decision letter to request a Higher-Level Review. <br>
+
+This option isn’t available after a Higher-Level Review or Board Appeal on the same claim. It’s also not available if you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/) (this is rare).
 </div>
 
 ## How long does it take VA to make a decision?
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
-  <span class="description">VA’s goal for completing Higher-Level Reviews is 125 days. A review may take longer if VA needs to get records or schedule a new exam to correct an error.</span>
+  <span class="description">VA’s goal for completing Higher-Level Reviews is an average of 125 days.</span>
 </div>
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. The senior reviewer will try to reach you or your representative by phone twice. If no one answers, they’ll leave a voice mail.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
 
-During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors. There won’t be transcripts of this call.
+**Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
 ## How do I request a Higher-Level Review?
 
@@ -71,7 +74,7 @@ The most common benefit type is compensation, but if you’re unsure, check your
   </div>
 </div>
 <br>
-To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2-4 weeks after VA processes your request.
+To schedule an informal conference, select times and list a phone number in Part II of the form. A reviewer will call 2 to 4 weeks after VA processes your request.
 
 </li>
 
@@ -142,7 +145,7 @@ Janesville, WI 53547-4444<br>
 
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Pension/Survivors benefits</h4>
-      <p>If you live in CT, DL, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
+      <p>If you live in CT, DE, FL, GA, ME, MD, MA, NH, NJ, NY, NC, PA, RI, SC, VT, VA, WV, DC, Puerto Rico, or Canada</p>
       <p class="va-address-block">
         Department of Veterans Affairs<br>
         Claims Intake Center<br>
@@ -244,19 +247,10 @@ Bring your completed form to a regional benefit office.
 Fax your completed form and any supporting documents to 844-531-7818.
 <br>
 <br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
 </li>
 </ol>
-<div class="usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h4 class="usa-alert-heading">
-      Mark your calendar
-    </h4>
-    <p class="usa-alert-text">
-      You have <b>1 year</b> from the date on your decision to file a Higher-Level Review.
-    </p>
-  </div>
-</div>
+
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
@@ -271,4 +265,4 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I have more questions?
 Get answers to frequently asked questions about decision reviews. <br>
-[Go to FAQs](/decision-reviews/faq/).
+[Go to FAQs](/decision-reviews/faq/)
