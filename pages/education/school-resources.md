@@ -443,19 +443,21 @@ Get training and boost your skills using these resources for School Certifying O
     <div class="va-h-ruled--stars"></div>
 </section>
 <div>
-  <h2 id="upcoming-events">Upcoming events</h2>
+
+<h2 id="upcoming-events">Upcoming events</h2>
+
+<ul id="get" class="hub-page-link-list"> 
   
-<b>[Arizona Veterans Program Association-2019 Fall Mini-Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></b></a><br>   
+<b>November 1, 2019 — Mesa, AZ</b><li>
 
-November 1, 2019 -- Mesa, AZ
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></b></a><br> 
+<b>November 4–6, 2019 — Stillwater, OK</b></li>
 
-<b>[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></b></a><br> 
+<b>December 19 & 20, 2019 — Online</b></li>
 
-November 4-6, 2019 -- Stillwater, OK
-
-<b>[VBA Education Service 1st Quarter Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)</b>
-
-December 19 & 20, 2019 -- Online
+See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
 See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)>) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
