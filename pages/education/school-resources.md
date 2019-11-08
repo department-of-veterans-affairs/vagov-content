@@ -20,7 +20,7 @@ promo:
     url: "/SCO_Handbook.pdf"
     description: Access revision 5.6.4, current as of September 27, 2019.
 crosslinks:
-  - heading: Resources to support students
+  - heading: Other resources to support your students
     links:
     - url: /education/how-to-apply/
       title: <b>How to apply for education benefits</b>
