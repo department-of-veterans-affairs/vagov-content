@@ -145,7 +145,7 @@ relatedlinks:
     </li>
     <li>
       <a href="https://www.benefits.va.gov/gibill/news.asp">
-        <b>7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year</b>
+        <b>7/10/2019 - Yellow Ribbon Program information available for 2019-2020 academic year</b>
       </a>
     </li>
   </ul>
