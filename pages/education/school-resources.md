@@ -151,6 +151,7 @@ relatedlinks:
   <h2 id="training-and-guides">Training and guides</h2>
 
 Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
+
 <ul id="get" class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon">
@@ -458,8 +459,6 @@ Get training and boost your skills using these resources for School Certifying O
 <b>December 19 & 20, 2019 — Online</b></li>
 
 See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
-
-See full list of [Conferences and Events](<(https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)>) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
 </div>
 <section class="usa-grid">
