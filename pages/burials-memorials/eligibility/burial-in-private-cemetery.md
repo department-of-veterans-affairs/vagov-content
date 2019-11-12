@@ -126,7 +126,7 @@ Fax the documents to <a href="tel:+18004557143">800-455-7143</a>.
 
 **Note:** Only the National Cemetery Administration can inscribe a memorial item. This is to protect the condition and consistency of memorial items. We don't allow private or local contractors to inscribe memorial items.  
 
-Find out more about [requesting memorial items](/burials-memorials/memorial-items/headstones-markers-medallions/). <br>
+[Find out more about requesting memorial items](/burials-memorials/memorial-items/headstones-markers-medallions/). <br>
 Get help applying for a headstone, marker, or medallion by calling <a href="tel:+8006976947">800-697-6947</a>.
 
 ## More information about burial in a private cemetery
