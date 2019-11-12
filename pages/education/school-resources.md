@@ -132,21 +132,12 @@ relatedlinks:
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-<div class="card information">
-  <h3>Latest announcements from VA</h3>
+<div data-widget-type="sco-announcements"></div>
 
-**[10/1/2019 - VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**
-
-**[10/19/2019 - Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**
-
-**[7/10/2019 - Yellow Ribbon Program information available for 2019-2020 acedemic year](https://www.benefits.va.gov/gibill/news.asp)**
-
-[See past updates](https://www.benefits.va.gov/gibill/news.asp)
-
-</div>
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
+
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
