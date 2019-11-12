@@ -61,7 +61,7 @@ And if a Veteran is buried at a private cemetery, we can't pay to have a family 
 
 ### How much does a burial in a private cemetery cost?
 
-It depends. We provide memorial items to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend that you ask about these additional costs when planning a burial in a private cemetery. 
+It depends. We provide memorial items related to the burial to you and your family at no extra cost. But a private cemetery may charge setting, placement, maintenance, or other fees. We recommend that you ask about these additional costs when planning a burial in a private cemetery. 
 
 ### Can VA help with the cost of a Veteran's burial in a private cemetery?
 
