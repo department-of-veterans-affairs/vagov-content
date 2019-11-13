@@ -83,7 +83,7 @@ Learn more about [burial allowance](/burials-memorials/veterans-burial-allowance
 <b>Note:</b> If this is your second request, or if you’re requesting a [replacement](/burials-memorials/memorial-items/headstones-markers-medallions/replacements/), please explain this in block 27 of the form.
 
 <b>For a medallion to be placed on a privately purchased headstone or marker,</b> fill out a Claim for Government Medallion for Placement in a Private Cemetery (VA Form 40-1330M).<br>
-[Download VA Form 40-1330M (PDF)](https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf) 
+<a href="https://www.va.gov/vaforms/va/pdf/VA40-1330M.pdf">Download VA Form 40-1330M (PDF)</a> 
 
 <b>Note:</b> If you're requesting an MOH medallion, check "Other" in block 11 of the form and write "MOH." 
 
