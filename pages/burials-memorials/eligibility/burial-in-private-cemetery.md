@@ -78,7 +78,7 @@ Learn more about [burial allowance](/burials-memorials/veterans-burial-allowance
 #### Fill out a claim for a memorial item
 <br>
 <b>For a headstone, grave marker, or niche cover,</b> fill out a Claim for Standard Government Headstone or Marker (VA Form 40-1330).<br>
-[Download VA Form 40-1330 (PDF)](https://va.gov/vaforms/va/pdf/VA40-1330.pdf)
+<a href="https://va.gov/vaforms/va/pdf/VA40-1330.pdf">Download VA Form 40-1330 (PDF)</a>
 
 <b>Note:</b> If this is your second request, or if you’re requesting a [replacement](/burials-memorials/memorial-items/headstones-markers-medallions/replacements/), please explain this in block 27 of the form.
 
