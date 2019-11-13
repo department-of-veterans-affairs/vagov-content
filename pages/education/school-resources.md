@@ -132,29 +132,12 @@ relatedlinks:
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-<div class="field_related_links vads-u-background-color--primary-alt-lightest vads-u-padding--1p5 vads-u-margin-top--6">
-  <h3 class="va-nav-linkslist-heading">Latest announcements from VA</h3>
-  <ul class="va-nav-linkslist-list">
-    <li>
-      <a href="https://www.benefits.va.gov/gibill/news.asp">
-        <b>10/1/2019 - VA now serving as State-Approving Agency for California</b>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.benefits.va.gov/gibill/news.asp">
-        <b>10/19/2019 - Release of revised School Certifying Official Handbook</b>
-    </li>
-    <li>
-      <a href="https://www.benefits.va.gov/gibill/news.asp">
-        <b>7/10/2019 - Yellow Ribbon Program information available for 2019-2020 academic year</b>
-      </a>
-    </li>
-  </ul>
-  <a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/news.asp">See past updates...</a>
-</div>
+<div data-widget-type="sco-announcements"></div>
+
 <section class="usa-grid">
-    <div class="va-h-ruled--stars"></div>
+  <div class="va-h-ruled--stars"></div>
 </section>
+
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
