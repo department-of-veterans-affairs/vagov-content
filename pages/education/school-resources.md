@@ -20,7 +20,7 @@ promo:
     url: "/SCO_Handbook.pdf"
     description: Access revision 5.6.4, current as of September 27, 2019.
 crosslinks:
-  - heading: Resources to support students
+  - heading: Other resources to support your students
     links:
     - url: /education/how-to-apply/
       title: <b>How to apply for education benefits</b>
@@ -434,9 +434,24 @@ Get training and boost your skills using these resources for School Certifying O
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
+<div>
 
-<div data-widget-type="sco-events"></div>
+<h2 id="upcoming-events">Upcoming events</h2>
 
+<ul id="get" class="hub-page-link-list"> 
+  
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></b></a><br>   
+<b>November 1, 2019 — Mesa, AZ</b><li>
+
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></b></a><br> 
+<b>November 4–6, 2019 — Stillwater, OK</b></li>
+
+<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></b></a><br> 
+<b>December 19 & 20, 2019 — Online</b></li>
+
+See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
+
+</div>
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
