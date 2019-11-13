@@ -135,7 +135,7 @@ relatedlinks:
 <div data-widget-type="sco-announcements"></div>
 
 <section class="usa-grid">
-    <div class="va-h-ruled--stars"></div>
+  <div class="va-h-ruled--stars"></div>
 </section>
 
 <div>
@@ -435,7 +435,7 @@ Get training and boost your skills using these resources for School Certifying O
     <div class="va-h-ruled--stars"></div>
 </section>
 
-<div data-widget-type="sco-event-list"></div>
+<div data-widget-type="sco-events"></div>
 
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
