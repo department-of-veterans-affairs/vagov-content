@@ -129,7 +129,7 @@ relatedlinks:
 
 ### Key Resources for SCOs
 
-**[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
+<a class="vads-u-text-decoration--none" href="/SCO_Handbook.pdf"><b>SCO Handbook</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp"><b>VA-ONCE</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf"><b>VA-ONCE Quick Reference</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"><b>WEAMS</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp"><b>Find your ELR</b></a>
 
 <div class="field_related_links vads-u-background-color--primary-alt-lightest vads-u-padding--1p5 vads-u-margin-top--6">
   <h3 class="va-nav-linkslist-heading">Latest announcements from VA</h3>
