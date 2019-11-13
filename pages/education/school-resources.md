@@ -120,12 +120,14 @@ relatedlinks:
 
 ### On this page
 
-<ul>
-  <li><a href="#training-and-guides">Training and guides</a></li>
-  <li><a href="#upcoming-events">Upcoming events</a></li>
-  <li><a href="#policies-and-procedures">Policies and procedures</a></li>
-  <li><a href="#resources-to-support-students">Resources to support students</a></li>
-</ul>
+<div class="vads-u-padding-bottom--0p5">
+  <ul>
+    <li><a href="#training-and-guides">Training and guides</a></li>
+    <li><a href="#upcoming-events">Upcoming events</a></li>
+    <li><a href="#policies-and-procedures">Policies and procedures</a></li>
+    <li><a href="#resources-to-support-students">Resources to support students</a></li>
+  </ul>
+</div>
 
 ### Key Resources for SCOs
 
@@ -133,6 +135,7 @@ relatedlinks:
 
 <div class="field_related_links vads-u-background-color--primary-alt-lightest vads-u-padding--1p5 vads-u-margin-top--6">
   <h3 class="va-nav-linkslist-heading">Latest announcements from VA</h3>
+  <hr />
   <ul class="va-nav-linkslist-list">
     <li>
       <a href="https://www.benefits.va.gov/gibill/news.asp">
