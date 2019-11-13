@@ -120,13 +120,12 @@ relatedlinks:
 
 ### On this page
 
-- [Training and guides](#training-and-guides)
-
-- [Upcoming events](#upcoming-events)
-
-- [Policies and procedures](#policies-and-procedures)
-
-- [Resources to support students](#resources-to-support-students)
+<ul>
+  <li><a href="#training-and-guides">Training and guides</a></li>
+  <li><a href="#upcoming-events">Upcoming events</a></li>
+  <li><a href="#policies-and-procedures">Policies and procedures</a></li>
+  <li><a href="#resources-to-support-students">Resources to support students</a></li>
+</ul>
 
 ### Key Resources for SCOs
 
