@@ -17,8 +17,8 @@ order:
 promo:
   - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
-    url: "/SCO_Handbook.pdf"
-    description: Access revision 5.6.4, current as of September 27, 2019.
+    url: "https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf"
+    description: Revision 5.6.4, current as of September 27, 2019
 crosslinks:
   - heading: Other resources to support your students
     links:
@@ -39,12 +39,12 @@ social:
     subsections:
       - subhead:
         links:
-          - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
-            label: "<b>FAQs for GI Bill</b>"
-            external: true
-          - url:
-            title: "Search the FAQs to find answers to popular questions."
-      - subhead:
+        - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
+          label: "<b>FAQs for the GI Bill</b>"
+          external: true
+        - url:
+          title: "Search the FAQs to find answers to popular questions."
+      - subhead: 
         links:
           - url: https://gibill.custhelp.va.gov/
             label: "<b>Submit a question</b>"
@@ -56,7 +56,7 @@ social:
       - subhead:
         links:
           - url:
-            title: "First time applications:"
+            title: "First-time applications:"
           - url:
             title: "<h4>24 days</h4>"
           - url:
@@ -64,9 +64,9 @@ social:
           - url:
             title: "<h4>10 days</h4>"
           - url:
-            title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
+            title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
           - url:
-            title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a> for more information."
+            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a>s for more information."
           - url:
             title: "Last updated: October 30, 2019."
   - heading: Connect with us
@@ -87,17 +87,17 @@ social:
             icon: fa-envelope
       - subhead: Call us
         links:
-          - url: tel:1-888-GIBILL-1 (888-442-4551)
-            number: 888-GIBILL-1 (888-442-4551)
-            title: "VA Education Call Center:"
-          - url: tel:001-918-781-5678
-            number: +1-918-781-5678
-            title: "Outside the U.S.:"
-          - url: tel:1-844-698-2311
-            number: 844-698-2311
-            title: "Call MyVA311 for help:"
-          - url:
-            title: "If you have hearing loss, call TTY: 711."
+        - url: tel:1-888-442-4551
+          number: 888-442-4551
+          title: "VA Education Call Center:"
+        - url: tel:1-918-781-5678
+          number: +1-918-781-5678
+          title: "Outside the U.S.:"
+        - url: tel:1-844-698-2311
+          number: 844-698-2311
+          title: "Call MyVA311 for help:"
+        - url:
+          title: "If you have hearing loss, call TTY: 711."
 majorlinks:
   - heading:
     links:
@@ -114,7 +114,7 @@ relatedlinks:
 
 <div>
   <p class="va-introtext">
-    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students who are using their VA benefits to pursue education and training programs. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
   <p>
 </div>
 
@@ -129,9 +129,9 @@ relatedlinks:
   </ul>
 </div>
 
-### Key Resources for SCOs
+### Key resources for SCOs
 
-<a class="vads-u-text-decoration--none" href="/SCO_Handbook.pdf"><b>SCO Handbook</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp"><b>VA-ONCE</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf"><b>VA-ONCE Quick Reference</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"><b>WEAMS</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp"><b>Find your ELR</b></a>
+<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf"><b>SCO Handbook</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp"><b>VA-ONCE</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"><b>WEAMS</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp"><b>Find your ELR</b></a>
 
 <div data-widget-type="sco-announcements"></div>
 
@@ -142,13 +142,13 @@ relatedlinks:
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
-Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
+Use these resources to get training and boost your skills to help support military-connected students.
 
 <ul class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon">
             <span class="hub-page-link-list__header">
-                Required 2019 training for School Certifying Officials (SCOs)
+                Required 2019 training for SCOs
             </span>
             <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
         </a>
@@ -161,14 +161,14 @@ Get training and boost your skills using these resources for School Certifying O
         <ul class="usa-unstyled-list">
             <li>
                 <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_1">
-                    Essentials for School Certifying Officials
+                    Essentials for SCOs
                 </button>
                 <div id="t_1" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                School Official’s Handbook
+                                School Certifying Official Handbook
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -176,7 +176,7 @@ Get training and boost your skills using these resources for School Certifying O
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                VA-ONCE quick reference guide
+                                VA-ONCE Quick Reference Guide
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -216,7 +216,7 @@ Get training and boost your skills using these resources for School Certifying O
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                Check your status as a Covered Institution 
+                                Check your status as a covered institution 
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -226,7 +226,7 @@ Get training and boost your skills using these resources for School Certifying O
                     <ul>
                         <li>
                             <a href="https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf">
-                                General school responsibility factsheet
+                                General school responsibility fact sheet
                             </a>
                         </li>
                         <li>
@@ -257,7 +257,7 @@ Get training and boost your skills using these resources for School Certifying O
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                VA-ONCE quick reference guide
+                                VA-ONCE Quick Reference Guide
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -270,13 +270,13 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                           <p class="hub-page-link-list__description">
-                            To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp">Education Liaison Representative (ELR)</a>.
+                            To gain access to VA-ONCE, start the MOU online, print it, and gather the appropriate signatures, then mail it to your <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp">ELR</a>.
                           </p>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                VA-ONCE P042 - Training on enhancements in newest version
+                                VA-ONCE P042—Training on enhancements in newest version
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -300,7 +300,7 @@ Get training and boost your skills using these resources for School Certifying O
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                Top ten list of what not to report in VA-ONCE
+                                Top 10 list of what not to report in VA-ONCE
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -338,7 +338,7 @@ Get training and boost your skills using these resources for School Certifying O
                         </li>
                         <li>
                             <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf">
-                                Certification at a main and two extension campuses with non-standard terms
+                                Certification at a main and 2 extension campuses with non-standard terms
                             </a>
                         </li>
                     </ul>
@@ -351,7 +351,7 @@ Get training and boost your skills using these resources for School Certifying O
                         </li>
                         <li>
                             <a href="https://youtu.be/1QWwQ_s0jwE">
-                                Certifying at a main and multiple extension campuses
+                                Certifying at a main and multiple-extension campus
                             </a>
                         </li>
                         <li>
@@ -361,7 +361,7 @@ Get training and boost your skills using these resources for School Certifying O
                         </li>
                         <li>
                             <a href="https://youtu.be/XlYQa_-6_qs">
-                                Reduction of hours for student taking courses at main and extension campus
+                                Reduction of hours for student taking courses at a main and extension campus
                             </a>
                         </li>
                     </ul>
@@ -369,7 +369,7 @@ Get training and boost your skills using these resources for School Certifying O
                     <ul>
                         <li>
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf">
-                                How-to guide for On-the-Job Training (OJT) and Apprenticeship schools
+                                How-to guide for on-the-job training (OJT) and apprenticeship schools
                             </a>
                         </li>
                         <li>
@@ -405,7 +405,7 @@ Get training and boost your skills using these resources for School Certifying O
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                School overpayments and using Dual Certification Process to avoid them
+                                School overpayments and using dual certification process to avoid them
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -453,7 +453,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" class="no-external-icon">
             <span class="hub-page-link-list__header">
-                VA education forms, brochures and factsheets
+                VA education forms, brochures, and fact sheets
             </span>
             <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
         </a>
@@ -469,9 +469,9 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
         </button>
         <div id="pnp-1" class="usa-accordion-content">
            <div>
-               <h4 class='va-nav-linkslist-list'>Where does a facility begin the process of GI Bill program approval?</h4>
+               <h4 class='va-nav-linkslist-list'>How does a facility begin the process of GI Bill program approval?</h4>
                <p>
-                   The approval authority for GI Bill programs generally begins with the individual states via the <a href="http://www.nasaa-vetseducation.com/Contacts.aspx">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
+                  The approval process for GI Bill programs generally begins with the <a href="http://www.nasaa-vetseducation.com/Contacts.aspx">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.
                </p>
               <ul class="usa-unstyled-list">
                   <li class="hub-page-link-list__item">
@@ -488,7 +488,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            <div>
                <h4 class='va-nav-linkslist-list'>When is VA responsible for approval of education and training programs?</h4>
                <p>
-                   VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
+                  VA will approve schools in some circumstances and for some states that don’t have an SAA assigned. If you fall into one of these groups, VA will review your application.
                </p>
                <ul>
                 <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp">Foreign school program approval</a></li>
@@ -507,19 +507,19 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            </div>
            <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):</h4>
+               <h4 class='va-nav-linkslist-list'>Applications for jurisdictions where VA is acting as SAA:</h4>
                <ul>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf">New application for approval — accredited institutions</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf">New application for approval — non-accredited institutions</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf">Renewal or program amendment application — accredited institutions</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf">Renewal or program amendment application — non-accredited institutions</a></li>
+                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf">New application for approval—accredited institutions</a></li>
+                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf">New application for approval—non-accredited institutions</a></li>
+                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf">Renewal or program amendment application—accredited institutions</a></li>
+                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf">Renewal or program amendment application—non-accredited institutions</a></li>
                </ul>
            </div>
            <br>
            <div>
                <h4 class='va-nav-linkslist-list'>How do you receive approval for on-the-job training programs?</h4>
                <p>
-                See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf">Approval of On-the-Job Training Programs factsheet</a> addressing the following requirements: programs, wages, and facilities.
+                See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.
                </p>
            </div>
         </div>            
@@ -545,7 +545,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            <div>
               <h4 class='va-nav-linkslist-list'>Forever GI Bill:</h4>
                <ul>
-                 <li><a href="https://www.benefits.va.gov/gibill/forevergibill.asp">Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act</a></li>
+                 <li><a href="https://www.benefits.va.gov/gibill/forevergibill.asp">Forever GI Bill—Harry W. Colmery Veterans Educational Assistance Act</a></li>
                  <li><a href="https://benefits.va.gov/gibill/fgib/stem.asp">Edith Nourse Rogers STEM Scholarship</a></li>
                  <li><a href="https://www.benefits.va.gov/gibill/fgib/vettec.asp">Veteran Employment Through Technology Education Courses (VET TEC)</a></li>
                </ul>
@@ -555,8 +555,8 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                <h4 class='va-nav-linkslist-list'>Benefits by chapter:</h4>
                <ul>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/">Post-9/11 GI Bill (Chapter 33)</a></li>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/">Montgomery GI Bill — Active Duty (MGIB-AD, Chapter 30)</a></li>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/">Montgomery GI Bill — Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/">Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/">Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
                  <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/">Vocational Rehabilitation and Employment (VR&E, Chapter 31)</a></li>
                  <li><a href="https://www.va.gov/education/survivor-dependent-benefits/">Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)</a></li>
                  <li><a href="https://www.va.gov/education/other-va-education-benefits/reap/">Reserve Educational Assistance Program (REAP, Chapter 1607)</a></li>
@@ -569,7 +569,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                <h4 class='va-nav-linkslist-list'>Tuition and housing:</h4>
                <ul>
                  <li><a href="https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp">Tuition and housing rate tables</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf">MHA will be updated based on ZIP code (9/7/2018)</a></li>
+                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf">MHA will be updated based on zip code (9/7/2018)</a></li>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf">Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)</a></li>
                </ul>
            </div>
@@ -579,8 +579,8 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                <ul>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/">Yellow Ribbon Program</a></li>
                  <li><a href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/">Principles of Excellence</a></li>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/">Tuition Assistance (TA) Top Up</a></li>
-                 <li><a href="https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/">National Call to Service Program</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/">Tuition Assistance (TA) Top-Up</a></li>
+                 <li><a href="https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/">National Call to Service program</a></li>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/">Work study</a></li>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/">Co-op training</a></li>
                </ul>
