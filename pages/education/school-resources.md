@@ -3,7 +3,7 @@ layout: page-breadcrumbs.html
 template: education-sco
 title: Resources for schools
 display_title:
-heading: 
+heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
 vagovprod: false
@@ -22,94 +22,94 @@ promo:
 crosslinks:
   - heading: Other resources to support your students
     links:
-    - url: /education/how-to-apply/
-      title: <b>How to apply for education benefits</b>
-    - url:  https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid
-      title: <b>Scholarships and financial aid</b>
-    - url: https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf
-      title: <b>Adult College Completion Toolkit</b>
-    - url: https://www.benefits.va.gov/vow/
-      title: <b>Employment assistance</b>
-    - url: https://www.benefits.va.gov/GIBILL/careerscope.asp
-      title: <b>CareerScope aptitude assessment</b>
-    - url: /gi-bill-comparison-tool/
-      title: <b>GI Bill Comparison Tool</b>
+      - url: /education/how-to-apply/
+        title: <b>How to apply for education benefits</b>
+      - url: https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid
+        title: <b>Scholarships and financial aid</b>
+      - url: https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf
+        title: <b>Adult College Completion Toolkit</b>
+      - url: https://www.benefits.va.gov/vow/
+        title: <b>Employment assistance</b>
+      - url: https://www.benefits.va.gov/GIBILL/careerscope.asp
+        title: <b>CareerScope aptitude assessment</b>
+      - url: /gi-bill-comparison-tool/
+        title: <b>GI Bill Comparison Tool</b>
 social:
   - heading: Ask questions
     subsections:
-      - subhead: 
+      - subhead:
         links:
-        - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
-          label: "<b>FAQs for GI Bill</b>"
-          external: true
-        - url:
-          title: "Search the FAQs to find answers to popular questions."
-      - subhead: 
+          - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
+            label: "<b>FAQs for GI Bill</b>"
+            external: true
+          - url:
+            title: "Search the FAQs to find answers to popular questions."
+      - subhead:
         links:
-        - url: https://gibill.custhelp.va.gov/
-          label: "<b>Submit a question</b>"
-          external: true
-        - url:
-          title: "Ask a question about GI Bill benefits."
+          - url: https://gibill.custhelp.va.gov/
+            label: "<b>Submit a question</b>"
+            external: true
+          - url:
+            title: "Ask a question about GI Bill benefits."
   - heading: Average processing times
     subsections:
-      - subhead: 
+      - subhead:
         links:
-        - url: 
-          title: "First time applications:"
-        - url:
-          title: "<b>24 days</b>"
-        - url: 
-          title: "Supplemental claims:"
-        - url:
-          title: "<b>10 days</b>"
-        - url: 
-          title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
-        - url: 
-          title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a> for more information."
-        - url:
-          title: "Last updated: October 30, 2019." 
+          - url:
+            title: "First time applications:"
+          - url:
+            title: "<b>24 days</b>"
+          - url:
+            title: "Supplemental claims:"
+          - url:
+            title: "<b>10 days</b>"
+          - url:
+            title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
+          - url:
+            title: "See <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a> for more information."
+          - url:
+            title: "Last updated: October 30, 2019."
   - heading: Connect with us
     admin: Find your Education Liaison Representative (ELR)
     url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
     subsections:
       - subhead: Email us
-        links: 
-        - url: mailto:support@vbatraining.org
-          label: Email VBA Support Team
-          external: true
-          icon: fa-envelope
+        links:
+          - url: mailto:support@vbatraining.org
+            label: Email VBA Support Team
+            external: true
+            icon: fa-envelope
       - subhead: Get updates
         links:
-        - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
-          label: Veterans Benefits email updates
-          external: true
-          icon: fa-envelope
+          - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
+            label: Veterans Benefits email updates
+            external: true
+            icon: fa-envelope
       - subhead: Call us
         links:
-        - url: tel:1-888-GIBILL-1 (888-442-4551)
-          number: 888-GIBILL-1 (888-442-4551)
-          title: "VA Education Call Center:"
-        - url: tel:001-918-781-5678
-          number: +1-918-781-5678
-          title: "Outside the U.S.:"
-        - url: tel:1-844-698-2311
-          number: 844-698-2311
-          title: "Call MyVA311 for help:"
-        - url:
-          title: "If you have hearing loss, call TTY: 711."
+          - url: tel:1-888-GIBILL-1 (888-442-4551)
+            number: 888-GIBILL-1 (888-442-4551)
+            title: "VA Education Call Center:"
+          - url: tel:001-918-781-5678
+            number: +1-918-781-5678
+            title: "Outside the U.S.:"
+          - url: tel:1-844-698-2311
+            number: 844-698-2311
+            title: "Call MyVA311 for help:"
+          - url:
+            title: "If you have hearing loss, call TTY: 711."
 majorlinks:
   - heading:
     links:
-    - url:
-      title:
-      description:
+      - url:
+        title:
+        description:
 relatedlinks:
   - heading:
     links:
-    - url:
-      title:
-      description:
+      - url:
+        title:
+        description:
 ---
 
 <div>
@@ -441,14 +441,35 @@ Get training and boost your skills using these resources for School Certifying O
 
 <ul id="get" class="hub-page-link-list"> 
   
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Arizona Veterans Program Association-2019 Fall Mini-Conference ></b></a><br>   
-<b>November 1, 2019 — Mesa, AZ</b><li>
+  <li class="hub-page-link-list__item">
+    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp" class="no-external-icon">
+      <span class="hub-page-link-list__header">
+        Arizona Veterans Program Association-2019 Fall Mini-Conference
+      </span>
+      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+    </a><br>   
+      <span style="color:#5B616B"><b>November 1, 2019 — Mesa, AZ</b></span>
+  <li>
 
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp"><b>Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference ></b></a><br> 
-<b>November 4–6, 2019 — Stillwater, OK</b></li>
+  <li class="hub-page-link-list__item">
+    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp" class="no-external-icon">
+      <span class="hub-page-link-list__header">
+        Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference
+      </span>
+      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+    </a><br>   
+      <span style="color:#5B616B"><b>November 4–6, 2019 — Stillwater, OK</b></span>
+  <li>
 
-<li class="hub-page-link-list__item"><a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"><b>VBA Education Service 1st Quarterly Webinar ></b></a><br> 
-<b>December 19 & 20, 2019 — Online</b></li>
+  <li class="hub-page-link-list__item">
+    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp" class="no-external-icon">
+      <span class="hub-page-link-list__header">
+        VBA Education Service 1st Quarterly Webinar
+      </span>
+      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+    </a><br>   
+      <span style="color:#5B616B"><b>December 19 & 20, 2019 — Online</b></span>
+  <li>
 
 See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp) | [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)
 
