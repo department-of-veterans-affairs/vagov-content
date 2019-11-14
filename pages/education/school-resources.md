@@ -432,53 +432,18 @@ Get training and boost your skills using these resources for School Certifying O
         </ul>
     </div>
 </div>
+
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
 <div>
 
-<h2 id="upcoming-events">Upcoming events</h2>
+<div data-widget-type="sco-events"></div>
 
-<ul class="hub-page-link-list"> 
-  
-  <li class="hub-page-link-list__item">
-    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp" class="no-external-icon">
-      <span class="hub-page-link-list__header">
-        Arizona Veterans Program Association-2019 Fall Mini-Conference
-      </span>
-      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-    </a><br>   
-      <span style="color:#5B616B"><b>November 1, 2019 — Mesa, AZ</b></span>
-  <li>
-
-  <li class="hub-page-link-list__item">
-    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp" class="no-external-icon">
-      <span class="hub-page-link-list__header">
-        Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference
-      </span>
-      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-    </a><br>   
-      <span style="color:#5B616B"><b>November 4–6, 2019 — Stillwater, OK</b></span>
-  <li>
-
-  <li class="hub-page-link-list__item">
-    <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp" class="no-external-icon">
-      <span class="hub-page-link-list__header">
-        VBA Education Service 1st Quarterly Webinar
-      </span>
-      <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-    </a><br>   
-      <span style="color:#5B616B"><b>December 19 & 20, 2019 — Online</b></span>
-  <li>
-</ul>
-<p class="vads-u-margin-bottom--0">
-See full list of <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp">Conferences and Events</a>   |   <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp">Training Webinars</a>
-</p>
-
-</div>
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
+
 <div>
     <h2 id="policies-and-procedures">Policies and procedures</h2>
     
