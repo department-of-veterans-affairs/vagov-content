@@ -58,11 +58,11 @@ social:
           - url:
             title: "First time applications:"
           - url:
-            title: "<b>24 days</b>"
+            title: "<h4>24 days</h4>"
           - url:
             title: "Supplemental claims:"
           - url:
-            title: "<b>10 days</b>"
+            title: "<h4>10 days</h4>"
           - url:
             title: "A supplemental claim is a re-enrollment or other change that impacts VA benefits."
           - url:
