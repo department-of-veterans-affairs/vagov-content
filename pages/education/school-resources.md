@@ -134,15 +134,6 @@ relatedlinks:
 
 <div data-widget-type="sco-announcements"></div>
 
-**[10/19/2019—Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**
-
-**[10/1/2019—VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**
-
-**[7/10/2019—Yellow Ribbon Program information available for 2019-2020 acedemic year](https://www.benefits.va.gov/gibill/news.asp)**
-
-[See past updates](https://www.benefits.va.gov/gibill/news.asp)
-
-</div>
 <section class="usa-grid">
   <div class="va-h-ruled--stars"></div>
 </section>
