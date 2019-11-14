@@ -165,7 +165,7 @@ Get training and boost your skills using these resources for School Certifying O
                 </button>
                 <div id="t_1" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 School Official’s Handbook
@@ -173,7 +173,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 VA-ONCE quick reference guide
@@ -181,7 +181,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Find your Education Liaison Representative (ELR)
@@ -189,7 +189,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Training webinars
@@ -197,7 +197,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 WEAMS Public
@@ -205,7 +205,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://benefits.va.gov/atoz/" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Benefits A to Z 
@@ -213,7 +213,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Check your status as a Covered Institution 
@@ -254,7 +254,7 @@ Get training and boost your skills using these resources for School Certifying O
                             Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
                           </p>
                         </li>            
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 VA-ONCE quick reference guide
@@ -262,7 +262,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0  vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Memorandum of Understanding (MOU)
@@ -273,7 +273,7 @@ Get training and boost your skills using these resources for School Certifying O
                             To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp">Education Liaison Representative (ELR)</a>.
                           </p>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 VA-ONCE P042 - Training on enhancements in newest version
@@ -281,7 +281,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 User tips for VA-ONCE
@@ -289,7 +289,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks
@@ -297,7 +297,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Top ten list of what not to report in VA-ONCE
@@ -305,7 +305,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Colmery extension campus update webinar (July 2019)
@@ -386,7 +386,7 @@ Get training and boost your skills using these resources for School Certifying O
                 </button>     
                 <div id="t_3" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Payment and debt information resources
@@ -394,7 +394,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Direct deposit information for schools
@@ -402,7 +402,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 School overpayments and using Dual Certification Process to avoid them
@@ -410,7 +410,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 The Treasury Offset Program: How to receive your state and federal funding
@@ -418,7 +418,7 @@ Get training and boost your skills using these resources for School Certifying O
                             </span>
                           </a>
                         </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 Payment fees updated with correct tuition and fees caps (9/17/2018)
