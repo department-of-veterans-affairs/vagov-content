@@ -20,7 +20,7 @@ promo:
     url: "/SCO_Handbook.pdf"
     description: Revision 5.6.4, current as of September 27, 2019
 crosslinks:
-  - heading: Resources to support students
+  - heading: Other resources to support your students
     links:
     - url: /education/how-to-apply/
       title: <b>How to apply for education benefits</b>
@@ -132,8 +132,7 @@ relatedlinks:
 
 **[SCO Handbook](/SCO_Handbook.pdf)** | **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)** | **[VA-ONCE Quick Reference Guide](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)** | **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)** | **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)**
 
-<div class="card information">
-  <h3>Latest announcements from VA</h3>
+<div data-widget-type="sco-announcements"></div>
 
 **[10/19/2019—Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**
 
@@ -145,8 +144,9 @@ relatedlinks:
 
 </div>
 <section class="usa-grid">
-    <div class="va-h-ruled--stars"></div>
+  <div class="va-h-ruled--stars"></div>
 </section>
+
 <div>
   <h2 id="training-and-guides">Training and guides</h2>
 
