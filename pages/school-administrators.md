@@ -6,7 +6,6 @@ display_title:
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-vagovprod: false
 lastupdate: 2019-09-27
 show_git_lastupdate:
 concurrence:
