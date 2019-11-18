@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: education-sco
 title: Resources for schools
-display_title:
+display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
@@ -118,20 +118,20 @@ relatedlinks:
   <p>
 </div>
 
-### On this page
+<h2 class="vads-u-font-size--h3">On this page</h2>
 
 <div class="vads-u-padding-bottom--0p5">
   <ul>
     <li><a href="#training-and-guides">Training and guides</a></li>
     <li><a href="#upcoming-events">Upcoming events</a></li>
     <li><a href="#policies-and-procedures">Policies and procedures</a></li>
-    <li><a href="#resources-to-support-students">Resources to support students</a></li>
+    <li><a href="#other-resources-to-support-you">Resources to support students</a></li>
   </ul>
 </div>
 
 ### Key resources for SCOs
 
-<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf"><b>SCO Handbook</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp"><b>VA-ONCE</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"><b>WEAMS</b></a>&nbsp; &nbsp; | &nbsp; &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp"><b>Find your ELR</b></a>
+<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp"><b>VA-ONCE</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"><b>WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp"><b>Find your ELR</b></a>
 
 <div data-widget-type="sco-announcements"></div>
 
@@ -274,9 +274,9 @@ Use these resources to get training and boost your skills to help support milita
                           </p>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt" class="no-external-icon">
+                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VAONCE_Training.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                VA-ONCE P042—Training on enhancements in newest version
+                                Training on VA-ONCE newest enhancements, version P059
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
