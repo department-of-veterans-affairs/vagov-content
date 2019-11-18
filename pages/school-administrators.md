@@ -2,7 +2,7 @@
 layout: page-breadcrumbs.html
 template: education-sco
 title: Resources for schools
-display_title:
+display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
