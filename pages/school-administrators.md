@@ -118,7 +118,7 @@ relatedlinks:
   <p>
 </div>
 
-### On this page
+<h2 class="vads-u-font-size--h3">On this page</h2>
 
 <div class="vads-u-padding-bottom--0p5">
   <ul>
