@@ -62,7 +62,7 @@ social:
           - url:
             title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
           - url:
-            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a>s for more information."
+            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQs</a> for more information."
           - url:
             title: "Last updated: October 30, 2019."
   - heading: Connect with us
@@ -136,7 +136,7 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="training-and-guides">Training and guides</h2>
+  <h2 id="training-and-guides" tabindex="-1">Training and guides</h2>
 
 Use these resources to get training and boost your skills to help support military-connected students.
 
@@ -441,7 +441,7 @@ Use these resources to get training and boost your skills to help support milita
 </section>
 
 <div>
-    <h2 id="policies-and-procedures">Policies and procedures</h2>
+    <h2 id="policies-and-procedures" tabindex="-1">Policies and procedures</h2>
     
 Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits. 
     
