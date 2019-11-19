@@ -56,13 +56,9 @@ social:
       - subhead:
         links:
           - url:
-            title: "First-time applications:"
+            title: "<p class='vads-u-margin--0'>First-time applications:</p><h4 class='vads-u-margin--0'>24 days</h4>"
           - url:
-            title: "<h4>24 days</h4>"
-          - url:
-            title: "Supplemental claims:"
-          - url:
-            title: "<h4>10 days</h4>"
+            title: "<p class='vads-u-margin--0'>Supplemental claims:</p><h4 class='vads-u-margin--0'>10 days</h4>"
           - url:
             title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
           - url:
