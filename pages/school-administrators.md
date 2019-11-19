@@ -62,7 +62,7 @@ social:
           - url:
             title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
           - url:
-            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a>s for more information."
+            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQs</a> for more information."
           - url:
             title: "Last updated: October 30, 2019."
   - heading: Connect with us
