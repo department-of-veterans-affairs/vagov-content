@@ -118,10 +118,10 @@ relatedlinks:
 
 <div class="vads-u-padding-bottom--0p5">
   <ul>
-    <li><a href="#training-and-guides">Training and guides</a></li>
-    <li><a href="#upcoming-events">Upcoming events</a></li>
-    <li><a href="#policies-and-procedures">Policies and procedures</a></li>
-    <li><a href="#other-resources-to-support-you">Resources to support students</a></li>
+    <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
+    <li><a href="#upcoming-events" onClick="recordEvent({ event: 'nav-jumplink-click'});">Upcoming events</a></li>
+    <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
+    <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
   </ul>
 </div>
 
