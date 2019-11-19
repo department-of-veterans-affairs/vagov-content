@@ -136,7 +136,7 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="training-and-guides">Training and guides</h2>
+  <h2 id="training-and-guides" tabindex="-1">Training and guides</h2>
 
 Use these resources to get training and boost your skills to help support military-connected students.
 
@@ -441,7 +441,7 @@ Use these resources to get training and boost your skills to help support milita
 </section>
 
 <div>
-    <h2 id="policies-and-procedures">Policies and procedures</h2>
+    <h2 id="policies-and-procedures" tabindex="-1">Policies and procedures</h2>
     
 Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits. 
     
