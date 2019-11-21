@@ -40,7 +40,7 @@ If you want to be buried in a national cemetery or get memorial items, you'll ne
 | DD 1300                         | Report of Casualty                                                                            |
 
 
-#### Department of Defense documents that must show a period of active duty service dates
+#### Department of Defense documents that must show a period of active-duty service dates
 
 
 | Form     | Title                           |
@@ -56,14 +56,14 @@ If you want to be buried in a national cemetery or get memorial items, you'll ne
 | DD 257MC | General Discharge Certificate   |
 | DD 257N  | General Discharge Certificate   |
 
-####  Documents that must show active duty service dates
+####  Documents that must show active-duty service dates
 
 | Form     | Title                           |
 |----------|---------------------------------|
 | Bureau of Investigation No. 213	Discharge from U. S. Naval Reserve Force  | Honorable Discharge Certificate |
 
 
-#### Documents that must show previous active Federal service for something other than training, or a minimum of 20 years total service (for pay)
+#### Documents that must show previous active federal service for something other than training, or a minimum of 20 years total service (for pay)
 
 | Form     | Title                           |
 |----------|---------------------------------|
