@@ -55,17 +55,13 @@ social:
       - subhead:
         links:
           - url:
-            title: "First-time applications:"
+            title: "<p class='vads-u-margin--0'>First-time applications:</p><h4 class='vads-u-margin--0'>24 days</h4>"
           - url:
-            title: "<h4>24 days</h4>"
-          - url:
-            title: "Supplemental claims:"
-          - url:
-            title: "<h4>10 days</h4>"
+            title: "<p class='vads-u-margin--0'>Supplemental claims:</p><h4 class='vads-u-margin--0'>10 days</h4>"
           - url:
             title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
           - url:
-            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQ</a>s for more information."
+            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQs</a> for more information."
           - url:
             title: "Last updated: October 30, 2019."
   - heading: Connect with us
@@ -121,10 +117,10 @@ relatedlinks:
 
 <div class="vads-u-padding-bottom--0p5">
   <ul>
-    <li><a href="#training-and-guides">Training and guides</a></li>
-    <li><a href="#upcoming-events">Upcoming events</a></li>
-    <li><a href="#policies-and-procedures">Policies and procedures</a></li>
-    <li><a href="#other-resources-to-support-you">Resources to support students</a></li>
+    <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
+    <li><a href="#upcoming-events" onClick="recordEvent({ event: 'nav-jumplink-click'});">Upcoming events</a></li>
+    <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
+    <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
   </ul>
 </div>
 
@@ -139,7 +135,7 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="training-and-guides">Training and guides</h2>
+  <h2 id="training-and-guides" tabindex="-1">Training and guides</h2>
 
 Use these resources to get training and boost your skills to help support military-connected students.
 
@@ -444,7 +440,7 @@ Use these resources to get training and boost your skills to help support milita
 </section>
 
 <div>
-    <h2 id="policies-and-procedures">Policies and procedures</h2>
+    <h2 id="policies-and-procedures" tabindex="-1">Policies and procedures</h2>
     
 Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits. 
     
@@ -468,7 +464,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
         </button>
         <div id="pnp-1" class="usa-accordion-content">
            <div>
-               <h4 class='va-nav-linkslist-list'>How does a facility begin the process of GI Bill program approval?</h4>
+               <strong>How does a facility begin the process of GI Bill program approval?</strong>
                <p>
                   The approval process for GI Bill programs generally begins with the <a href="http://www.nasaa-vetseducation.com/Contacts.aspx">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.
                </p>
@@ -485,7 +481,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            </div>
            <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>When is VA responsible for approval of education and training programs?</h4>
+               <strong>When is VA responsible for approval of education and training programs?</strong>
                <p>
                   VA will approve schools in some circumstances and for some states that don’t have an SAA assigned. If you fall into one of these groups, VA will review your application.
                </p>
@@ -506,7 +502,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            </div>
            <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>Applications for jurisdictions where VA is acting as SAA:</h4>
+               <strong>Applications for jurisdictions where VA is acting as SAA:</strong>
                <ul>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf">New application for approval—accredited institutions</a></li>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf">New application for approval—non-accredited institutions</a></li>
@@ -516,7 +512,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            </div>
            <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>How do you receive approval for on-the-job training programs?</h4>
+               <strong>How do you receive approval for on-the-job training programs?</strong>
                <p>
                 See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.
                </p>
@@ -530,8 +526,8 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
           GI Bill benefits and programs
         </button>
         <div id="pnp-2" class="usa-accordion-content">
-         <ul class="usa-unstyled-list">
-             <li class="hub-page-link-list__item">
+         <ul class="usa-unstyled-list vads-u-margin-bottom--2">
+             <li class="hub-page-link-list__item vads-u-margin-top--0">
                  <a href="https://www.va.gov/education/about-gi-bill-benefits/" class="no-external-icon">
                      <span class="hub-page-link-list__header">
                          About GI Bill benefits
@@ -540,18 +536,16 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  </a>
              </li>
          </ul>
-          <br>
            <div>
-              <h4 class='va-nav-linkslist-list'>Forever GI Bill:</h4>
+              <strong>Forever GI Bill:</strong>
                <ul>
                  <li><a href="https://www.benefits.va.gov/gibill/forevergibill.asp">Forever GI Bill—Harry W. Colmery Veterans Educational Assistance Act</a></li>
                  <li><a href="https://benefits.va.gov/gibill/fgib/stem.asp">Edith Nourse Rogers STEM Scholarship</a></li>
                  <li><a href="https://www.benefits.va.gov/gibill/fgib/vettec.asp">Veteran Employment Through Technology Education Courses (VET TEC)</a></li>
                </ul>
            </div>
-           <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>Benefits by chapter:</h4>
+               <strong>Benefits by chapter:</strong>
                <ul>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/">Post-9/11 GI Bill (Chapter 33)</a></li>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/">Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)</a></li>
@@ -563,18 +557,16 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/">Educational and Career Counseling (Chapter 36)</a></li>
                </ul>
            </div>
-           <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>Tuition and housing:</h4>
+               <strong>Tuition and housing:</strong>
                <ul>
                  <li><a href="https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp">Tuition and housing rate tables</a></li>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf">MHA will be updated based on zip code (9/7/2018)</a></li>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf">Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)</a></li>
                </ul>
            </div>
-           <br>
            <div>
-               <h4 class='va-nav-linkslist-list'>Other programs and benefits:</h4>
+               <strong>Other programs and benefits:</strong>
                <ul>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/">Yellow Ribbon Program</a></li>
                  <li><a href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/">Principles of Excellence</a></li>
