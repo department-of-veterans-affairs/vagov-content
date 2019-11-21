@@ -114,12 +114,16 @@ hublinks:
       description: Get step-by-step guidance on how to request and apply for a burial
         in a VA national cemetery, or in a state or tribal government Veterans cemetery.
       external: false
+    - url: /burials-memorials/burial-in-private-cemetery/
+      label: VA burial in a private cemetery
+      description: Learn more about having a burial in a private cemetery.
+      external: false
     - url: https://www.cem.va.gov/cem/burial_benefits/need.asp
       label: Schedule a Burial in a VA National Cemetery
       description: Learn how to work with the VA National Cemetery Scheduling Office
         to schedule a burial.
       external: false
-    - url: https://www.cem.va.gov/cems/listcem.asp
+    - url: /burials-memorials/find-a-cemetery/
       label: Find a National, State, or Tribal Government Veterans Cemetery
       description: Search for national, state, or tribal government Veterans cemeteries.
       external: false
@@ -161,6 +165,10 @@ hublinks:
       label: Veteran Grave Locator
       description: Find a Veteran's or family member's grave in a VA national cemetery,
         or in a state or tribal Veterans cemetery.
+      external: false
+    - url: /burials-memorials/burial-at-sea/
+      label: Burial at Sea
+      description: Find out how to request a burial at sea.
       external: false
     - url: https://www.cem.va.gov/cem/faq.asp
       label: VA Burial Benefits FAQ
