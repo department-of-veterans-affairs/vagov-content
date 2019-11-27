@@ -77,7 +77,7 @@ social:
       - subhead: Get updates
         links:
           - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
-            label: Veterans Benefits email updates
+            label: Veteran Benefits email or text updates
             external: true
             icon: fa-envelope
       - subhead: Call us
@@ -113,7 +113,7 @@ relatedlinks:
   <p>
 </div>
 
-<h2 class="vads-u-font-size--h3">On this page</h2>
+### On this page
 
 <div class="vads-u-padding-bottom--0p5">
   <ul>
@@ -169,7 +169,15 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf" class="no-external-icon">
+                            <span class="hub-page-link-list__header">
+                                Vocational Rehabilitation and Employment (VR&E) SCO Handbook
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
                                 VA-ONCE Quick Reference Guide
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
@@ -195,7 +203,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                WEAMS Public
+                                WEAMS
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -246,7 +254,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                           <p class="hub-page-link-list__description">
-                            Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
+                            Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, 22-6553c and 22-6553d online.
                           </p>
                         </li>            
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
@@ -303,10 +311,23 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Colmery extension campus update webinar (July 2019)
+                                Colmery extension campus update webinar slides (July 2019)
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
+                        </li>
+                    </ul>
+                    <p><b>Non-traditional schools:</b></p>
+                    <ul>
+                        <li>
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf">
+                                How-to guide for on-the-job training (OJT) and apprenticeship schools
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf">
+                                VA-ONCE how-to guide for flight schools
+                            </a>
                         </li>
                     </ul>
                     <p><b>Extension campus certification scenarios:</b></p>
@@ -317,8 +338,8 @@ Use these resources to get training and boost your skills to help support milita
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certification for distance hours at an extension campus
+                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf">
+                                Certification for distance hours at a main campus and in-residence hours at an extension campus
                             </a>
                         </li>
                         <li>
@@ -357,19 +378,6 @@ Use these resources to get training and boost your skills to help support milita
                         <li>
                             <a href="https://youtu.be/XlYQa_-6_qs" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                                 Reduction of hours for student taking courses at a main and extension campus
-                            </a>
-                        </li>
-                    </ul>
-                    <p><b>Non-traditional schools:</b></p>
-                    <ul>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                How-to guide for on-the-job training (OJT) and apprenticeship schools
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                VA-ONCE how-to guide for flight schools
                             </a>
                         </li>
                     </ul>
@@ -414,9 +422,9 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://www.tungsten-network.com/media/16605538/faqs-for-e-auth-and-e-invoicing-service-providers-09252019-v2.pdf" class="no-external-icon">
                             <span class="hub-page-link-list__header">
-                                Payment fees updated with correct tuition and fees caps (9/17/2018)
+                                FAQs for VR&E service providers for e-authorization and e-invoicing
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -547,22 +555,20 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            <div>
                <strong>Benefits by chapter:</strong>
                <ul>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Post-9/11 GI Bill (Chapter 33)</a></li>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)</a></li>
-                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
-                 <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Vocational Rehabilitation and Employment (VR&E, Chapter 31)</a></li>
-                 <li><a href="https://www.va.gov/education/survivor-dependent-benefits/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)</a></li>
-                 <li><a href="https://www.va.gov/education/other-va-education-benefits/reap/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Reserve Educational Assistance Program (REAP, Chapter 1607)</a></li>
-                 <li><a href="https://www.va.gov/education/other-va-education-benefits/veap/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)</a></li>
-                 <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Educational and Career Counseling (Chapter 36)</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/">Post-9/11 GI Bill (Chapter 33)</a></li>
+                 <li><a href="https://www.va.gov/education/survivor-dependent-benefits/">Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/">Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/">Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
+                 <li><a href="https://www.va.gov/education/other-va-education-benefits/veap/">Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)</a></li>
+                 <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/">Vocational Rehabilitation and Employment (VR&E, Chapter 31)</a></li>
+                 <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/">Educational and Career Counseling (Chapter 36)</a></li>
                </ul>
            </div>
            <div>
                <strong>Tuition and housing:</strong>
                <ul>
-                 <li><a href="https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Tuition and housing rate tables</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">MHA will be updated based on zip code (9/7/2018)</a></li>
-                 <li><a href="https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)</a></li>
+                 <li><a href="https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp">Tuition and housing rate tables</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/post-9-11/#location-based107">Post-9/11 monthly housing is now based on campus where student attends majority of classes</a></li>
                </ul>
            </div>
            <div>
