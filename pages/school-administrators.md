@@ -34,7 +34,7 @@ crosslinks:
       - url: /gi-bill-comparison-tool/
         title: <b>GI Bill Comparison Tool</b>
       - url: https://benefits.va.gov/gibill//docs/fgib/Sample_MHA_Rate_Letters.pdf
-        title: <b>Sample letters to students about the Colmery Act updates and how it will affect them</b>
+        title: <b>Colmery Act update sample letters</b>
 social:
   - heading: Ask questions
     subsections:
