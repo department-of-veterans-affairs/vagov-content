@@ -33,6 +33,8 @@ crosslinks:
         title: <b>CareerScope aptitude assessment</b>
       - url: /gi-bill-comparison-tool/
         title: <b>GI Bill Comparison Tool</b>
+      - url: https://benefits.va.gov/gibill//docs/fgib/Sample_MHA_Rate_Letters.pdf
+        title: <b>Colmery Act update sample letters</b>
 social:
   - heading: Ask questions
     subsections:
