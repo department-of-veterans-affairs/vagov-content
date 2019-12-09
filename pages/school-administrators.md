@@ -143,7 +143,7 @@ Use these resources to get training and boost your skills to help support milita
 
 <ul class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
-        <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon">
+        <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});">
             <span class="hub-page-link-list__header">
                 Required 2019 training for SCOs
             </span>
@@ -456,7 +456,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
     
 <ul class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
-        <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" class="no-external-icon">
+        <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Policies and procedures'});">
             <span class="hub-page-link-list__header">
                 VA education forms, brochures, and fact sheets
             </span>
