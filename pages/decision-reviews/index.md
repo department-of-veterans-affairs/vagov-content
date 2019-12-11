@@ -129,7 +129,7 @@ You have one year from the date on your decision letter to request a Higher-Leve
 
 ### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182: Board Appeal (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182: Board Appeal (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 
 A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal)

@@ -75,7 +75,7 @@ You can request a Higher-Level Review of an initial claim. This option isn’t a
 
 ### Appeal to a Veterans Law Judge
 
-[Download VA Form 10182: Board Appeal (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182: Board Appeal (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 <br>
 
 A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case.
