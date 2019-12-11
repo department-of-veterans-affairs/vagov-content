@@ -50,7 +50,7 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that 
 
 ### Ask for a new look from a senior reviewer
 
-[Download VA Form 20-0996: Higher-Level Review (PDF)](/decision-reviews/forms/higher-level-review-20-0996.pdf)
+[Download VA Form 20-0996: Higher-Level Review (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf)
 <br>
 
 When you choose to request a Higher-Level Review, you’re asking for another review of the same evidence. A senior reviewer will take another look at your case and determine whether the decision can be changed based on a difference of opinion or an error.

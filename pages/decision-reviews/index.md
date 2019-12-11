@@ -83,7 +83,7 @@ You can file anytime if you have new evidence, but we recommend you file within 
 
 ### Ask for a new look from a senior reviewer
 
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996: Higher-Level Review (PDF)</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996: Higher-Level Review (PDF)</a>
 
 When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
 reviewer will take another look at your case and determine
