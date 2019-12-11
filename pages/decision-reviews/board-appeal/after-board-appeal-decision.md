@@ -17,7 +17,7 @@ If you disagree with the Board’s decision, you have 2 options. You can file a 
 If you have new and relevant evidence, you can file a Supplemental Claim (VA Form 20-0995) to continue your review.
 <br>
 [Learn more about Supplemental Claims](/decision-reviews/supplemental-claim/) <br>
-[Download VA Form 20-0995 (PDF)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
+[Download VA Form 20-0995 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
   <div class="vads-u-flex--auto">

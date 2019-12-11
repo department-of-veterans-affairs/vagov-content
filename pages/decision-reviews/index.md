@@ -32,7 +32,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.     
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.
     </p>
   </div>
 </div>
@@ -47,7 +47,7 @@ relatedlinks:
 
 ### Add new and relevant evidence
 
-<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995: Supplemental Claim (PDF)</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf">Download VA Form 20-0995: Supplemental Claim (PDF)</a>
 
 
 When you choose to file a Supplemental Claim, you're adding new evidence that supports
@@ -76,7 +76,7 @@ You can file a Supplemental Claim anytime if you have new evidence. **Note:** Yo
 
 #### Is there a deadline for filing a Supplemental Claim?
 
-You can file anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments. 
+You can file anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments.
 
 
 <div id="higher-level-review">

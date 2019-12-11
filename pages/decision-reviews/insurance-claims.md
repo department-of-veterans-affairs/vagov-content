@@ -25,7 +25,7 @@ If you disagree with a VA decision on an insurance claim, you can choose one of 
 
 ### Add new and relevant evidence
 
-[Download VA Form 20-0995: Supplemental Claim (PDF)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
+[Download VA Form 20-0995: Supplemental Claim (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
 
 When you choose to file a Supplemental Claim, you’re adding new evidence that supports your case or identifying evidence for review. A reviewer will determine whether the new evidence changes the decision.
 <br>
