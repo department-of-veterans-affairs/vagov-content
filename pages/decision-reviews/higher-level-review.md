@@ -52,7 +52,7 @@ If you request an informal conference with a senior reviewer, they’ll call the
 ## How do I request a Higher-Level Review?
 
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (PDF)</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
 <ol class="process">
 <li class="process-step list-one">
@@ -107,7 +107,7 @@ If you have evidence to submit, please select another review option.
 ### Apply
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
-<a href="/decision-reviews/forms/higher-level-review-20-0996.pdf">Download VA Form 20-0996 (PDF)</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
 **By mail**
 
