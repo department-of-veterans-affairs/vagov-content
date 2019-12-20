@@ -46,7 +46,7 @@ This option isn’t available after a Higher-Level Review or Board Appeal on the
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided (either on the Higher-Level Review form or in the online tool) to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provide to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
 
 **Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
@@ -66,8 +66,10 @@ Sign in or create an account
 
 **By mail, fax, or in person**
 
-Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). You can use the paper form for all types of benefit claims, including disability claims. <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
+
+**Steps for submitting the form**
 
 <ol class="process">
 <li class="process-step list-one">
@@ -126,7 +128,7 @@ Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br
 
 **By mail**
 
-Send the completed form to the benefit office. See benefit office addresses below. 
+Send the completed form to one of the benefit office addresses below. 
 
 **In person**
 <br>
