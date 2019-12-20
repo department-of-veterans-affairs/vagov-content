@@ -45,7 +45,7 @@ This option isn’t available after a Higher-Level Review or Board Appeal on the
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided (either on the Higher-Level Review form or in the online tool) to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
 
 **Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
