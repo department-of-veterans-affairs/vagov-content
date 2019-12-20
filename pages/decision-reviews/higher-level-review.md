@@ -51,14 +51,24 @@ If you request an informal conference with a senior reviewer, they’ll call the
 
 ## How do I request a Higher-Level Review?
 
-To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+Depending on the type of benefit claim, you can use our online request tool, submit a paper form by mail, or fax, or drop it off in person at a regional benefit office near you. 
+
+**Online**
+To request a Higher-Level Review for a disability claim, you can use our online request tool. This online option is currently available only for disability claims.
+
+**Please sign in to request a Higher-Level Review online**
+Try signing in with your DS Logon, My HealtheVet, or ID.me account. If you don't have any of those accounts, you can create one. 
+Sign in or create an account
+
+**By mail, fax, or in person**
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
 <ol class="process">
 <li class="process-step list-one">
 
 ### Select a benefit type in Part I of the form
-The most common benefit type is compensation, but if you’re unsure, check your VA decision. You can’t select multiple benefit types. You have to complete a separate form for each type.
+The most common benefit type is compensation, but if you’re unsure, check your VA decision letter. You can’t select multiple benefit types. You have to complete a separate form for each type.
 
 </li>
 
@@ -250,7 +260,6 @@ Fax your completed form and any supporting documents to 844-531-7818.
 You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
 </li>
 </ol>
-
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
