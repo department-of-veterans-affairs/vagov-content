@@ -109,6 +109,28 @@ If you have evidence to submit, please select another review option.
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
+<!-- Widget code -->
+<div data-widget-type="education-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+  </span>
+    <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+      <div class="usa-alert-body">
+        <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+      </div>
+    </div>
+</div>
+
+<!-- End of widget code -->
+
 **By mail**
 
 Send the completed form to the benefit office that matches the benefit type you selected on the form.
