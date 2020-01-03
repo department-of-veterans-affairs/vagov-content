@@ -57,7 +57,7 @@ Depending on the type of benefit claim, you can use our online Higher-Level Revi
 TO request a Higher-Level Review for compensation or pension claims, you can use our online request tool. This online option is only available for compensation and pension claims. 
 
 <!-- Widget code -->
-<div data-widget-type="education-app-status" data-widget-timeout="20">
+<div data-widget-type="higher-level-review-status" data-widget-timeout="20">
   <div class="loading-indicator-container">
     <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
     <span class="loading-indicator-message loading-indicator-message--normal">
