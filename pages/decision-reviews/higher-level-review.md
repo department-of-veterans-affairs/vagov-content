@@ -51,6 +51,35 @@ If you request an informal conference with a senior reviewer, they’ll call the
 
 ## How do I request a Higher-Level Review?
 
+Depending on the type of benefit claim, you can use our online Higher-Level Review request tool, submit a paper form by mail or fax, or drop it off in person at a regional benefit office near you.
+
+### Online
+TO request a Higher-Level Review for compensation or pension claims, you can use our online request tool. This online option is only available for compensation and pension claims. 
+
+<!-- Widget code -->
+<div data-widget-type="education-app-status" data-widget-timeout="20">
+  <div class="loading-indicator-container">
+    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
+    <span class="loading-indicator-message loading-indicator-message--normal">
+      Checking your application status.
+    </span>
+    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
+      Sorry, this is taking longer than expected.
+    </span>
+  </div>
+  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
+  </span>
+    <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
+      <div class="usa-alert-body">
+        <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
+      </div>
+    </div>
+</div>
+
+<!-- End of widget code -->
+
+### By mail, fax, or in person
+
 To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
@@ -108,28 +137,6 @@ If you have evidence to submit, please select another review option.
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
-
-<!-- Widget code -->
-<div data-widget-type="education-app-status" data-widget-timeout="20">
-  <div class="loading-indicator-container">
-    <div class="loading-indicator" role="progressbar" aria-valuetext="Checking your application status."></div>
-    <span class="loading-indicator-message loading-indicator-message--normal">
-      Checking your application status.
-    </span>
-    <span class="loading-indicator-message loading-indicator-message--slow vads-u-display--none" aria-hidden="true">
-      Sorry, this is taking longer than expected.
-    </span>
-  </div>
-  <span class="static-widget-content vads-u-display--none" aria-hidden="true">
-  </span>
-    <div class="usa-alert usa-alert-error sip-application-error vads-u-display--none" aria-hidden="true">
-      <div class="usa-alert-body">
-        <strong>We’re sorry. Something went wrong when we tried to load your saved application.</strong><br>Please try refreshing your browser in a few minutes.
-      </div>
-    </div>
-</div>
-
-<!-- End of widget code -->
 
 **By mail**
 
