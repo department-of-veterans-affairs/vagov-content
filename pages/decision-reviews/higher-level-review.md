@@ -45,16 +45,16 @@ This option isn’t available after a Higher-Level Review or Board Appeal on the
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provide to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
 
 **Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
 ## How do I request a Higher-Level Review?
 
-Depending on the type of benefit claim, you can use our online Higher-Level Review request tool, submit a paper form by mail or fax, or drop it off in person at a regional benefit office near you.
+Depending on the type of benefit claim, you can use our online request tool, submit a paper form by mail or fax, or drop it off in person at a regional office near you.
 
 ### Online
-TO request a Higher-Level Review for compensation or pension claims, you can use our online request tool. This online option is only available for compensation and pension claims. 
+TO request a Higher-Level Review for a disability claim, you can use our online request tool. This online option is only available for disability claims. 
 
 <!-- Widget code -->
 <div data-widget-type="higher-level-review-status" data-widget-timeout="20">
