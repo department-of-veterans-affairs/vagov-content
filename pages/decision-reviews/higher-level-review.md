@@ -54,7 +54,7 @@ If you request an informal conference with a senior reviewer, they’ll call the
 Depending on the type of benefit claim, you can use our online request tool, submit a paper form by mail or fax, or drop it off in person at a regional office near you.
 
 ### Online
-TO request a Higher-Level Review for a disability claim, you can use our online request tool. This online option is only available for disability claims. 
+You can use our online tool to request a Higher-Level Review for disability compensation claims. This online option is availalbe only for disability claims at this time.  
 
 <!-- Widget code -->
 <div data-widget-type="higher-level-review-status" data-widget-timeout="20">
@@ -80,8 +80,12 @@ TO request a Higher-Level Review for a disability claim, you can use our online 
 
 ### By mail, fax, or in person
 
-To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). You can use the paper form for all types of benefit claims, including disability claims. <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
+Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form. 
+Find my benefit claims intake center address
+
+## Steps for submitting the form by mail, fax, or in person.
 
 <ol class="process">
 <li class="process-step list-one">
@@ -137,10 +141,26 @@ If you have evidence to submit, please select another review option.
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
+You can also ask for a copy of this form at a regional office, or by calling the VA toll-free hotline, 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m.
 
 **By mail**
 
-Send the completed form to the benefit office that matches the benefit type you selected on the form.
+Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
+Find benefit claims intake center address
+
+**In person**
+<br>
+Bring your completed form to a regional office.
+<br>
+[Find a regional office near you](/find-locations/)
+<br>
+
+**By fax**
+<br>
+Fax your completed form and any supporting documents to 844-531-7818.
+
+### Benefit claims intake center addresses
+Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -263,23 +283,6 @@ form.<br>
     </div>
     </li>
 </ul>
-
-**In person**
-<br>
-Bring your completed form to a regional benefit office.
-<br>
-[Find a regional benefit office near you](/find-locations/)
-<br>
-
-**By fax**
-<br>
-Fax your completed form and any supporting documents to 844-531-7818.
-<br>
-<br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
-</li>
-</ol>
-
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
