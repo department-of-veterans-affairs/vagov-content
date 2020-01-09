@@ -85,7 +85,7 @@ Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). You
 
 Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form. 
 
-Find benefit claims intake center address
+[Find benefit claims intake center address](#Benefit-claims-intake-center-addresses)
 
 ## Steps for submitting the form by mail, fax, or in person.
 
@@ -150,7 +150,7 @@ You can also ask for a copy of this form at a regional office, or by calling the
 
 Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
 
-Find benefit claims intake center address
+[Find benefit claims intake center address](#Benefit-claims-intake-center-addresses)
 
 **In person**
 <br>
@@ -163,6 +163,7 @@ Bring your completed form to a regional office.
 <br>
 Fax your completed form and any supporting documents to 844-531-7818.
 
+<span id="Benefit-claims-intake-center-addresses"></span>
 ### Benefit claims intake center addresses
 Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
 
