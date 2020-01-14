@@ -139,7 +139,7 @@ If you have evidence to submit, please select another review option.
 
 <li class="process-step list-four">
 
-### Apply
+### Mail, fax, or drop off the form
 
 Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
