@@ -88,7 +88,7 @@ Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
 
 **By mail**
 
-Send the completed form and any supporting documents to the benefit office that matches the benefit type you selected on the form.
+Send the completed form and any supporting documents to the VA regional office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -214,14 +214,14 @@ form.<br>
 
 **In person**
 <br>
-Bring your completed form and any supporting documents to a regional benefit office. <br>
-[Find a regional benefit office near you](/find-locations/)
+Bring your completed form and any supporting documents to a VA regional office. <br>
+[Find a VA regional office near you](/find-locations/)
 
 **By fax**
 <br>
 Fax your completed form and any supporting documents to 844-531-7818.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
+You can also ask a regional office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
 </li>
 </ol>
 
