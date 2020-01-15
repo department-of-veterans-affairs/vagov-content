@@ -286,7 +286,7 @@ form.<br>
 
 </div>
     </div>
-   
+</li>   
 </ul>
 
 ## What happens next?
