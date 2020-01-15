@@ -289,7 +289,7 @@ form.<br>
 </li>   
 </ul>
 
-## What happens next?
+<h2>What happens next?</h2>
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
 
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
