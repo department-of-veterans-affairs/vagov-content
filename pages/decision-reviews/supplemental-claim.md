@@ -40,7 +40,7 @@ You can submit evidence yourself or ask VA to get evidence, like medical records
 
 ## How do I file a Supplemental Claim with new evidence?
 To file a Supplemental Claim, fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
-<a href="/decision-reviews/forms/supplemental-claim-20-0995.pdf">Download VA Form 20-0995 (PDF)</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf">Download VA Form 20-0995 (PDF)</a>
 
 <ol class="process">
 <li class="process-step list-one">
@@ -70,7 +70,7 @@ We can help you gather evidence from a VA medical center, other federal facility
 List the location(s) of VA evidence in Part III. For more details, see the instructions for completing the form.
 
 **For evidence at a private or non-VA source, like a private doctor or hospital**<br>
-If you want us to gather your evidence from a private provider, fill out and sign [VA Form 21-4142 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf). Be sure to include it with your Supplemental Claim form (VA Form 20-0995). 
+If you want us to gather your evidence from a private provider, fill out and sign [VA Form 21-4142 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf). Be sure to include it with your Supplemental Claim form (VA Form 20-0995).
 
 **What if I don’t have any new and relevant evidence?**  <br>
 If you don’t have evidence to submit, please select another review option.
@@ -84,11 +84,11 @@ If you don’t have evidence to submit, please select another review option.
 ### Apply
 
 Fill out the Decision Review Request: Supplemental Claim (VA Form 20-0995). <br>
-[Download VA Form 20-0995 (PDF)](/decision-reviews/forms/supplemental-claim-20-0995.pdf)
+[Download VA Form 20-0995 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf)
 
 **By mail**
 
-Send the completed form and any supporting documents to the benefit office that matches the benefit type you selected on the form.
+Send the completed form and any supporting documents to the VA regional office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -214,14 +214,14 @@ form.<br>
 
 **In person**
 <br>
-Bring your completed form and any supporting documents to a regional benefit office. <br>
-[Find a regional benefit office near you](/find-locations/)
+Bring your completed form and any supporting documents to a VA regional office. <br>
+[Find a VA regional office near you](/find-locations/)
 
 **By fax**
 <br>
 Fax your completed form and any supporting documents to 844-531-7818.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
+You can also ask a regional office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
 </li>
 </ol>
 

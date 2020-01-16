@@ -45,7 +45,7 @@ The hearing will be transcribed and added to your appeal file. You can add new a
 
 To request a Board Appeal, fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182 (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182 (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 
 <ol class="process">
   <li class="process-step list-one">
@@ -126,7 +126,7 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 Fill out the Decision Review Request: Board Appeal (VA Form 10182).
 <br>
-[Download VA Form 10182 (PDF)](/decision-reviews/forms/board-appeal-10182.pdf)
+[Download VA Form 10182 (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 
 **By mail**
 
@@ -139,15 +139,15 @@ Washington, D.C. 20038<br>
 
 **In person**
 
-Bring your completed form to a regional benefit office.
+Bring your completed form to a regional office.
 <br>
-[Find a regional benefit office near you](/find-locations/)
+[Find a regional office near you](/find-locations/)
 
 **By fax**
 
 Fax your completed form to 844-678-8979.
 
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
+You can also ask a regional office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. - 9:00 p.m. ET, to request a form.
 </p>
   </li>
 </ol>

@@ -27,11 +27,11 @@ A Veterans Service Organization or VA-accredited attorney or agent can help you 
 
 ## What if I want to choose a different review option after I’ve submitted a form?
 
-**To switch from a Higher-Level Review or a Supplemental Claim**<br> 
+**To switch from a Higher-Level Review or a Supplemental Claim**<br>
 You can switch if your original request hasn’t been decided yet, and you’re still within one year from the date on your VA decision letter. You must include a letter with your new form that says you want to withdraw your existing decision review request.
 
 **To switch from one Board Appeal option to another Board Appeal option** <br>
-You can’t select a new review option if you already submitted evidence or had a hearing. If you haven’t submitted evidence or had your hearing yet and you want to switch to a different Board Appeal option, submit a new [Board Appeal form (PDF)](https://www.va.gov/decision-reviews/forms/board-appeal-10182.pdf) with a different option selected. You can switch Board Appeal options within 1 year from the date on your VA decision letter for the claim you want reviewed or 60 days from the date you submitted your original Board Appeal form, whichever is later.
+You can’t select a new review option if you already submitted evidence or had a hearing. If you haven’t submitted evidence or had your hearing yet and you want to switch to a different Board Appeal option, submit a new [Board Appeal form (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf) with a different option selected. You can switch Board Appeal options within 1 year from the date on your VA decision letter for the claim you want reviewed or 60 days from the date you submitted your original Board Appeal form, whichever is later.
 
 ## What if I have more questions?
 
