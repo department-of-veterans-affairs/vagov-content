@@ -163,6 +163,7 @@ Bring your completed form to a regional office.
 <br>
 Fax your completed form and any supporting documents to 844-531-7818.
 </li>
+</ol>
 <span id="Benefit-claims-intake-center-addresses"></span>
 ### Benefit claims intake center addresses
 Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
@@ -289,7 +290,7 @@ form.<br>
 </li>   
 </ul>
 
-<h2>What happens next?</h2>
+## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
 
 You don’t need to do anything while you wait, unless VA sends you a letter asking for more information. If VA schedules exams for you, be sure not to miss them.
