@@ -164,6 +164,7 @@ Bring your completed form to a regional office.
 Fax your completed form and any supporting documents to 844-531-7818.
 </li>
 </ol>
+
 <span id="Benefit-claims-intake-center-addresses"></span>
 ### Benefit claims intake center addresses
 Send your completed VA Form 20-0996 to the benefit claims intake center that matches the benefit type you selected on the form.
