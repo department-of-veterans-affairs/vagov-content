@@ -18,7 +18,7 @@
 #     If you have hearing loss, call TTY: 711.
 #
 
-visible: ture
+visible: true
 type: warning
 title: Coronavirus
 content: |
