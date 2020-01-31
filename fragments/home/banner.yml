@@ -18,9 +18,9 @@
 #     If you have hearing loss, call TTY: 711.
 #
 
-visible: false
+visible: ture
 type: warning
-title: Puerto Rico Earthquake
+title: Coronavirus
 content: |
-    <p>Veterans affected by recent earthquake activity within VA’s Caribbean Healthcare System can go <a href="https://www.caribbean.va.gov/emergency/index.asp#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Puerto%20Rico%20Earthquake">here</a> for operational updates and resource information.</p>
-    <p>A Family Support Hotline has been established for health care questions at 787-641-4591.</p>
+    <p>The CDC is closely monitoring the Novel Coronavirus (2019-nCoV) outbreak.</p>
+    <p>VA will provide information about the illness as it comes available <a href="https://www.blogs.va.gov/VAntage/70999/cdc-coronavirus-information-and-resources/">here</a>.</p>
