@@ -18,7 +18,7 @@
 #     If you have hearing loss, call TTY: 711.
 #
 
-visible: true
+visible: false
 type: warning
 title: Puerto Rico Earthquake
 content: |
