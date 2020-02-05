@@ -17,7 +17,7 @@ promo:
   - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
     url: "https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf"
-    description: Revision 5.6.4, current as of September 27, 2019
+    description: Revision 5.6.5, current as of January 31, 2020
 crosslinks:
   - heading: Other resources to support your students
     links:
