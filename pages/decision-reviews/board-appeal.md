@@ -33,9 +33,9 @@ You also have the option to request a hearing with a judge, either in person in 
 
 ### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request 2 Board Appeals in a row.<br>
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request 2 Board Appeals in a row for the same claim.<br>
 
-You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
+You have one year from the date on your decision letter to request a Board Appeal, unless you have a [claim contested by multiple parties](/decision-reviews/multiple-party-claims/).
 </div>
 
 ## Can I add new evidence?
