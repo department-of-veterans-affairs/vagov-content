@@ -22,5 +22,5 @@ visible: true
 type: warning
 title: Coronavirus
 content: |
-    <p>The CDC is closely monitoring the Novel Coronavirus (2019-nCoV) outbreak.</p>
-    <p>VA will provide information about the illness as it comes available <a href="https://www.blogs.va.gov/VAntage/70999/cdc-coronavirus-information-and-resources/">here</a>.</p>
+    <p>Centers for Disease Control (CDC) is closely monitoring the novel coronavirus (2019-nCoV). VA continues to provide <a href="https://www.blogs.va.gov/VAntage/70999/cdc-coronavirus-information-and-resources/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus">updates</a> as information becomes available.</p>
+    <p>Call your <a href="https://www.blogs.va.gov/VAntage/70999/cdc-coronavirus-information-and-resources/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link2">local VA medical center</a> if you have symptoms of fever, cough and shortness of breath and have recently returned from China or have been exposed to others diagnosed.</p>
