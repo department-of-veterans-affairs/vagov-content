@@ -23,4 +23,4 @@ type: warning
 title: Coronavirus
 content: |
     <p>Centers for Disease Control (CDC) is closely monitoring the novel coronavirus (2019-nCoV). VA continues to provide <a href="https://www.blogs.va.gov/VAntage/70999/cdc-coronavirus-information-and-resources/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus">updates</a> as information becomes available.</p>
-    <p>Call your <a https://www.va.gov/find-locations" VA medical center</a> if you have symptoms of fever, cough and shortness of breath and have recently returned from China or have been exposed to others diagnosed.</p>
+    <p>Call your <a href="/find-locations/">VA medical center</a> if you have symptoms of fever, cough and shortness of breath and have recently returned from China or have been exposed to others diagnosed.</p>
