@@ -9,8 +9,8 @@ relatedlinks:
   - heading: Rare situations that may apply to you
     links:
     - url: "/decision-reviews/multiple-party-claims/"
-      title: Multiple party or contested claims
-      description: If you're one of multiple people claiming the same benefit, find out how to request a decision review.
+      title: Claim contested by multiple parties
+      description: If you're one of multiple people claiming a benefit that only one party has a right to, find out how to request a decision review.
     - url: "/decision-reviews/insurance-claims/"
       title: Insurance claims
       description: If you have an insurance claim, find out how to request a decision review.
