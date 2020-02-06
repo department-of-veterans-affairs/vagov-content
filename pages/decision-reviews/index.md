@@ -79,16 +79,17 @@ You can file a Supplemental Claim anytime if you have new evidence. **Note:** Yo
 
 You can file anytime if you have new evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments.
 
+#### What if I get a Supplemental Claim decision that I don't agree with?
+
+You can then request a Higher-Level Review of the Supplemental Claim decision, or file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge. 
 
 <div id="higher-level-review">
 
-### Ask for a new look from a senior reviewer
+### Get a senior reviewer by requesting a Higher-Level Review
 
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996: Higher-Level Review (PDF)</a>
 
-When you choose to request a Higher-Level Review, you're asking for another review of the same evidence. A senior
-reviewer will take another look at your case and determine
-whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
+When you request a Higher-Level Review, you're asking to have a more senior, experience reviewer take a look at your case and evidence you already provided. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
 [Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/)
 
 <div class ="vads-u-display--flex vads-u-margin-y--1">
@@ -125,14 +126,19 @@ decision. This option isn't available after a Higher-Level Review or Board Appea
 You have one year from the date on your decision letter to request a Higher-Level Review.
 <br>
 
+#### What if I get a Higher-Level Review decision that I don't agree with?
+
+You can then file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge.
+<br>
 
 <div id="board-appeal">
 
-### Appeal to a Veterans Law Judge
+### Appeal to a Veterans Law Judge by requesting a Board Appeal
 
-[Download VA Form 10182: Board Appeal (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
+To file your request, you'll need Decision Review Request: Board Appeal (VA Form 10182).
+[Download VA Form 10182 (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 
-A judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
+A Veterans Law Judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
 [Learn more about how to request a Board Appeal](/decision-reviews/board-appeal)
 
 <!-- Todo: Implement updated number component -->
@@ -170,14 +176,13 @@ A judge at the Board of Veterans’ Appeals in Washington, D.C., will review you
 
 #### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row. <br>
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can't request 2 Board Appeals in a row for the same claim. <br>
 
 #### Is there a deadline for requesting a Board Appeal?
 
 You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
 
-
-## After a Board decision
+#### What if I get a Board Appeal decision that I don't agree with?
 
 If you disagree with the Board’s decision and have new and relevant evidence that supports your case, you can file a Supplemental Claim. You can also appeal to the U.S. Court of Appeals for Veterans Claims. <br>
 [Learn more about your options after a Board decision](/decision-reviews/board-appeal/after-board-appeal-decision)
