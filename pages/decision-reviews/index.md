@@ -23,7 +23,7 @@ relatedlinks:
 <div itemprop="description" class="va-introtext">
   If you disagree with a VA decision, you can choose one of the
   following review options to continue your case. If you aren't
-  satisfied with that review, you can try another option.
+  satisfied with that review, you can try another eligible option.
 </div>
 
 <div class="usa-alert usa-alert-info">
@@ -32,7 +32,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">multiple party or contested claim</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">claim contested by multiple parties</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.
     </p>
   </div>
 </div>
@@ -45,13 +45,14 @@ relatedlinks:
 
 <div id="supplemental-claim">
 
-### Add new and relevant evidence
+### Add new and relevant evidence with a Supplemental Claim
 
-<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf">Download VA Form 20-0995: Supplemental Claim (PDF)</a>
+To file, you'll need Decision Review Request: Supplemental Claim (VA Form 20-0995).  
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0995-ARE.pdf">Download VA Form 20-0995 (PDF)</a>
 
 
-When you choose to file a Supplemental Claim, you're adding new evidence that supports
-your case or identifying evidence for review. A reviewer will look at all the evidence and
+When you choose to file a Supplemental Claim, you're adding new and relevant evidence that supports
+your case or identifying evidence for VA to locate and consider. A reviewer will look at all the evidence and
 determine whether it changes the decision. <br>
 [Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/)
 
@@ -60,7 +61,7 @@ determine whether it changes the decision. <br>
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
   <div class="vads-u-flex--1">
-     You must submit evidence that VA didn't have before that supports your case.
+     You must submit new evidence that VA didn't have when making our previous claim decision.
   </div>
 </div>
 
