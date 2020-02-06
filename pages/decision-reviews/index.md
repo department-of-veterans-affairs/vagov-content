@@ -52,7 +52,7 @@ To file, you'll need Decision Review Request: Supplemental Claim (VA Form 20-099
 
 
 When you choose to file a Supplemental Claim, you're adding new and relevant evidence that supports
-your case or identifying evidence for VA to locate and consider. A reviewer will look at all the evidence and
+your case or you're identifying evidence for VA to locate and consider. A reviewer will look at all the evidence and
 determine whether it changes the decision. <br>
 [Learn how to file a Supplemental Claim](/decision-reviews/supplemental-claim/)
 
