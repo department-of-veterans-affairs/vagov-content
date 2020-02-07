@@ -84,7 +84,7 @@ You can then request a Higher-Level Review of the Supplemental Claim decision, o
 
 <div id="higher-level-review">
 
-### Get a senior reviewer by requesting a Higher-Level Review
+### Ask a senior reviewer to do a Higher-Level Review
 
 To make a request, you'll need Decision Review Request: Higher-Level Review (VA Form 20-0996).  
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
