@@ -86,7 +86,8 @@ You can then request a Higher-Level Review of the Supplemental Claim decision, o
 
 ### Get a senior reviewer by requesting a Higher-Level Review
 
-<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996: Higher-Level Review (PDF)</a>
+To make a request, you'll need Decision Review Request: Higher-Level Review (VA Form 20-0996).  
+<a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
 When you request a Higher-Level Review, you're asking to have a more senior, experience reviewer take a look at your case and evidence you already provided. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
 [Learn how to request a Higher-Level Review](/decision-reviews/higher-level-review/)
@@ -118,7 +119,7 @@ When you request a Higher-Level Review, you're asking to have a more senior, exp
 #### Can I request a Higher-Level Review?
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim
-decision. This option isn't available after a Higher-Level Review or Board Appeal. <br>
+decision. This option isn't available after a previous Higher-Level Review or Board Appeal on the same claim. <br>
 
 #### Is there a deadline for requesting a Higher-Level Review?
 
