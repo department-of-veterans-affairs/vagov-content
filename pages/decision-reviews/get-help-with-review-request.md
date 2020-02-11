@@ -73,7 +73,7 @@ Choose one of these ways:
 <br>
 [Download VA Form 21-22a (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-22A-ARE.pdf?_ga=2.164333946.432161254.1549749081-1632380512.1525475597)
 
-If you’re filling out one of the forms, you’ll need to mail it to your nearest VA regional benefit office. Please speak to the service organization or representative before you send your request.
+If you’re filling out one of the forms, you’ll need to mail it to your nearest VA regional office. Please speak to the service organization or representative before you send your request.
 <br>
-[Find a regional benefit office near you](/find-locations/)
+[Find a regional office near you](/find-locations/)
 
