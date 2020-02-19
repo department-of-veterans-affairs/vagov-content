@@ -34,7 +34,7 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. You have one year from the date on your decision letter to request a Higher-Level Review. <br>
 
-This option isn’t available after a previous Higher-Level Review or Board Appeal on the same claim. It’s also not available if you have a [claim contested by multiple parties](/decision-reviews/multiple-party-claims/) (this is rare).
+This option isn’t available after a previous Higher-Level Review or Board Appeal on the same claim. It’s also not available if you have a [contested claim](/decision-reviews/multiple-party-claims/) (this is rare).
 </div>
 
 ## How long does it take VA to make a decision?
