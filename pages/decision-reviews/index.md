@@ -31,7 +31,7 @@ relatedlinks:
       Mark your calendar
     </h4>
     <p class="usa-alert-text">
-      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">claim contested by multiple parties</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.
+      In most situations you have <b>one year</b> from the date on your decision letter to request a decision review. The deadline to file may be different if you have a <a href="/decision-reviews/fiduciary-claims/">fiduciary claim</a>, a <a href="/decision-reviews/multiple-party-claims/">contested claim</a>, or you’re filing a <a href="#supplemental-claim">Supplemental Claim</a>.
     </p>
   </div>
 </div>
@@ -80,7 +80,7 @@ You can file anytime if you have new evidence, but we recommend you file within 
 
 #### What if I get a Supplemental Claim decision that I don't agree with?
 
-You can then request a Higher-Level Review of the Supplemental Claim decision, or file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge. 
+You can then request a Higher-Level Review of the Supplemental Claim decision, or file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge. You may also file another Supplemental Claim if you have additional evidence you want to submit for review. 
 
 <div id="higher-level-review">
 
@@ -106,7 +106,7 @@ When you request a Higher-Level Review, you're asking to have a more senior, exp
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="fas fa-phone"></i></span>
   </div>
   <div class="vads-u-flex--1">
-  You and/or your representative can speak with the reviewer on the phone. You can tell them why you think the decision should be changed and identify errors.
+  You and/or your representative can request an informal conference so that you can speak with the reviewer by phone. You can tell them why you think the decision should be changed and identify errors.
   </div>
 </div>
 
@@ -128,7 +128,7 @@ You have one year from the date on your decision letter to request a Higher-Leve
 
 #### What if I get a Higher-Level Review decision that I don't agree with?
 
-You can then file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge.
+You can then file for a Board Appeal, which means your case gets reviewed by a Veterans Law Judge. You also have the option to file a Supplemental Claim if you have additional evidence you want to submit for review. 
 <br>
 
 <div id="board-appeal">
