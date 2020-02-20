@@ -20,7 +20,7 @@ relatedlinks:
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-  The VA appeals process has changed. To appeal a claim decision dated on or after February 19, 2019, you must choose from 3 "decision review" options. The options are described below. If you aren't satisfied with the results of a decision review, you can choose another eligbile option. 
+  The VA appeals process has changed to the “decision reviews” process. To disagree or ‘appeal’ a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options  described below.  
 </div>
 
 <div class="usa-alert usa-alert-info">
@@ -84,7 +84,7 @@ You can then request a Higher-Level Review of the Supplemental Claim decision, o
 
 ### Ask a senior reviewer to do a Higher-Level Review
 
-To make a request, you'll need Decision Review Request: Higher-Level Review (VA Form 20-0996).  
+To make a request, you'll need to submit Decision Review Request: Higher-Level Review (VA Form 20-0996).  
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
 
 When you request a Higher-Level Review, you're asking to have a more senior, experienced reviewer take a look at your case and evidence you already provided. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error that VA made. <br>
