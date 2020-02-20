@@ -20,9 +20,7 @@ relatedlinks:
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-  If you disagree with a VA decision, you can choose one of the
-  following review options to continue your case. If you aren't
-  satisfied with that review, you can try another eligible option.
+  The VA appeals process has changed. To appeal a claim decision dated on or after February 19, 2019, you must choose from 3 "decision review" options. The options are described below. If you aren't satisfied with the results of a decision review, you can choose another eligbile option. 
 </div>
 
 <div class="usa-alert usa-alert-info">
