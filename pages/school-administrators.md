@@ -180,8 +180,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                      
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Vocational Rehabilitation and Employment (VR&E) Tungsten Invoicing
@@ -189,8 +188,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                        
-                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_SCO_Tips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Vocational Rehabilitation and Employment (VR&E) Tungsten SCO Tips
@@ -198,7 +196,6 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
