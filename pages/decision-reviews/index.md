@@ -20,7 +20,7 @@ relatedlinks:
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-  The VA appeals process has changed to the “decision reviews” process. To disagree or ‘appeal’ a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options  described below.  
+  The VA appeals process has changed to the “decision reviews” process. To disagree or "appeal" a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options  described below.  
 </div>
 
 <div class="usa-alert usa-alert-info">
