@@ -40,25 +40,42 @@ This option isn’t available after a Higher-Level Review or Board Appeal on the
 ## How long does it take VA to make a decision?
 <div class="card information">
   <span class="number"><span class="heading-level-3"><i class="far fa-clock vads-u-margin-right--1p5"></i>4-5 months</span></span>
-  <span class="description">VA’s goal for completing Higher-Level Reviews is an average of 125 days.</span>
+  <span class="description">
+    VA’s goal for completing Higher-Level Reviews is an average of 125 days.</span>
 </div>
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provide to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
 
 **Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
 ## How do I request a Higher-Level Review?
 
-To request a Higher-Level Review, fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br>
+Depending on the type of benefit claim, you can use our online request tool, submit a paper form by mail or fax, or drop it off in person at a regional benefit office near you. 
+
+**Online**
+
+To request a Higher-Level Review for a disability claim, you can use our online request tool. This online option is currently available only for disability claims.
+
+**Please sign in to request a Higher-Level Review online**
+
+Try signing in with your DS Logon, My HealtheVet, or ID.me account. If you don't have any of those accounts, you can create one. 
+
+Sign in or create an account
+
+**By mail, fax, or in person**
+
+Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). You can use the paper form for all types of benefit claims, including disability claims. <br>
 <a href="https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf">Download VA Form 20-0996 (PDF)</a>
+
+**Steps for submitting the form**
 
 <ol class="process">
 <li class="process-step list-one">
 
 ### Select a benefit type in Part I of the form
-The most common benefit type is compensation, but if you’re unsure, check your VA decision. You can’t select multiple benefit types. You have to complete a separate form for each type.
+The most common benefit type is compensation, but if you’re unsure, check your VA decision letter. You can’t select multiple benefit types. You have to complete a separate form for each type.
 
 </li>
 
@@ -111,7 +128,26 @@ Fill out the Decision Review Request: Higher-Level Review (VA Form 20-0996). <br
 
 **By mail**
 
-Send the completed form to the benefit office that matches the benefit type you selected on the form.
+Send the completed form to one of the benefit office addresses below. 
+
+**In person**
+<br>
+Bring your completed form to a regional benefit office.
+<br>
+[Find a regional benefit office near you](/find-locations/)
+<br>
+
+**By fax**
+<br>
+Fax your completed form and any supporting documents to 844-531-7818.
+<br>
+<br>
+You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
+</li>
+</ol>
+
+**Benefit office addresses**
+Send your completed VA Form 20-0996 to the benefit office that matches the benefit type you selected on the form.
 
 <b>Compensation</b>
 <p class="va-address-block">
@@ -209,7 +245,6 @@ form.<br>
       </p>
   </div>
 
-
   <div class="vads-l-col--12 medium-screen:vads-l-col--6 medium-screen:vads-u-padding-x--2">
     <h4>Insurance</h4>
       <p class="va-address-block">
@@ -234,23 +269,6 @@ form.<br>
     </div>
     </li>
 </ul>
-
-**In person**
-<br>
-Bring your completed form to a regional benefit office.
-<br>
-[Find a regional benefit office near you](/find-locations/)
-<br>
-
-**By fax**
-<br>
-Fax your completed form and any supporting documents to 844-531-7818.
-<br>
-<br>
-You can also ask a regional benefit office for a copy of this form to fill out. Or you can call the VA toll-free hotline at <a href="tel:+18008271000">800-827-1000</a>, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET, to request a form.
-</li>
-</ol>
-
 
 ## What happens next?
 [Find out what happens after you request a decision review](/decision-reviews/after-you-request-review/) <br>
