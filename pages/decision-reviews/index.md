@@ -20,7 +20,7 @@ relatedlinks:
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-  The VA appeals process has changed to the “decision reviews” process. To disagree or "appeal" a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options  described below.  
+  The VA legacy appeals process has changed to a decision review process. To disagree or appeal a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options described below. If you aren't satisfied with that review, you can try another eligible option.  
 </div>
 
 <div class="usa-alert usa-alert-info">
@@ -133,7 +133,7 @@ You can then file for a Board Appeal, which means your case gets reviewed by a V
 
 ### Appeal to a Veterans Law Judge by requesting a Board Appeal
 
-To file your request, you'll need Decision Review Request: Board Appeal (VA Form 10182).
+To file your request, you'll need Decision Review Request: Board Appeal (VA Form 10182).<br>
 [Download VA Form 10182 (PDF)](https://www.va.gov/vaforms/va/pdf/VA10182.pdf)
 
 A Veterans Law Judge at the Board of Veterans’ Appeals in Washington, D.C., will review your case. <br>
