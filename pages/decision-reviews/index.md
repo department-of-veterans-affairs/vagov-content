@@ -20,7 +20,7 @@ relatedlinks:
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-  The VA legacy appeals process has changed to a decision review process. To disagree or appeal a VA decision dated on or after February 19, 2019, you now choose from 3 decision review options described below. If you aren't satisfied with that review, you can try another eligible option.  
+  The VA legacy appeals process has changed to a decision review process. If you disagree with a VA decision dated on or after February 19, 2019, you can choose one of the following decision review options to continue your case. If you aren't satisfied with that review, you can try another eligible option.  
 </div>
 
 <div class="usa-alert usa-alert-info">
@@ -70,7 +70,7 @@ determine whether it changes the decision. <br>
 
 #### Can I file a Supplemental Claim?
 
-You can file a Supplemental Claim anytime if you have new evidence. **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a multiple party or contested claim (this is rare). <a href="#rare-situations">See if one of these rare situations applies to you</a>
+You can file a Supplemental Claim anytime if you have new evidence. **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim (this is rare). <a href="#rare-situations">See if one of these rare situations applies to you</a>
 
 #### Is there a deadline for filing a Supplemental Claim?
 
