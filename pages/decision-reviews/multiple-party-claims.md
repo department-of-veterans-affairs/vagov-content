@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Multiple party or contested claims
-display_title: Multiple party or contested claims
+title: Contested claims
+display_title: Contested claims
 hidesidenav: true
 ---
 <br>
