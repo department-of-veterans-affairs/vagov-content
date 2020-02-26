@@ -97,9 +97,9 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 **What if I have new and relevant evidence?**
 <br>
-If you have evidence to submit, please select another review option.
+If you have evidence to submit, please select another decision review option.
 <br>
-[Learn more about the review options](/decision-reviews/)
+[Learn more about the decision review options](/decision-reviews/)
 </li>
 
 <li class="process-step list-four">
