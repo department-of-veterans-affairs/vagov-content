@@ -21,7 +21,7 @@ When you choose to file a Supplemental Claim, you’re adding new evidence that�
 
 You can file a Supplemental Claim anytime if you have new and relevant evidence, but we recommend you file within one year from the date on your decision letter. This protects the most advantageous effective date for you, if your claim is successful and you may be eligible for retroactive benefit payments. <br>
 
-**Note:** You can’t file a Supplemental Claim if you have a [fiduciary claim](/decision-reviews/fiduciary-claims/) or a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
+**Note:** You can’t file a Supplemental Claim if you have a [fiduciary claim](/decision-reviews/fiduciary-claims/) or a [contested claim](/decision-reviews/multiple-party-claims/).
 </div>
 
 ## How long does it take VA to make a decision?
@@ -69,13 +69,13 @@ We can help you gather evidence from a VA medical center, other federal facility
 **For evidence at a VA or other federal facility**<br>
 List the location(s) of VA evidence in Part III. For more details, see the instructions for completing the form.
 
-**For evidence at a private or non-VA source, like a private doctor or hospital**<br>
+**For evidence at a private or non-VA provider, like a private doctor or hospital**<br>
 If you want us to gather your evidence from a private provider, fill out and sign [VA Form 21-4142 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-4142-ARE.pdf). Be sure to include it with your Supplemental Claim form (VA Form 20-0995).
 
 **What if I don’t have any new and relevant evidence?**  <br>
-If you don’t have evidence to submit, please select another review option.
+If you don’t have evidence to submit, please select another decision review option.
 <br>
-[Learn more about the review options](/decision-reviews/)
+[Learn more about the decision review options](/decision-reviews/)
 
 </li>
 
