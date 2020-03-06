@@ -22,8 +22,8 @@ visible: true
 type: warning
 title: Coronavirus
 content: |
-<p>Read VA’s latest coronavirus information <a href="https://www.publichealth.va.gov/n-coronavirus/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link1">here</a>.</p>
-<p>Veterans, if you have flu-like symptoms such as fever, cough and shortness of breath, call before you visit your <a href="https://www.va.gov/find-locations/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link2">local medical center</a> or clinic. In addition to calling first, consider using virtual care options such as <a href="https://telehealth.va.gov/type/home">telehealth</a> or My HealtheVet <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link3">Secure Messaging</a>.</p>
-<p>Non-patient visitors, if you do not feel well, please postpone your visit to VA facilities.</p>
+  <p>Read VA’s latest coronavirus information <a href="https://www.publichealth.va.gov/n-coronavirus/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link1">here</a>.</p>
+  <p>Veterans, if you have flu-like symptoms such as fever, cough and shortness of breath, call before you visit your <a href="https://www.va.gov/find-locations/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link2">local medical center</a> or clinic. In addition to calling first, consider using virtual care options such as <a href="https://telehealth.va.gov/type/home">telehealth</a> or My HealtheVet <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link3">Secure Messaging</a>.</p>
+  <p>Non-patient visitors, if you do not feel well, please postpone your visit to VA facilities.</p>
 
 
