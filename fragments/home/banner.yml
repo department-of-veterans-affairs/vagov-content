@@ -22,7 +22,10 @@ visible: true
 type: warning
 title: Coronavirus
 content: |
-  <p>Call your <a href="https://www.va.gov/find-locations/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20locator">VA medical center</a> before going to a clinic, urgent care, or emergency room, especially if you have symptoms of fever, cough and shortness of breath. Calling first helps us protect you, medical staff, and other patients. Ask your VA health care team about the option of care by phone or video instead of an in-person visit. We also ask that visitors who feel unwell postpone their visits to VA facilities.</p>
-  <p>Visit the <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20CDC">Centers for Disease Control (CDC)</a> for the latest coronavirus information. You can also read about VA's <a href="https://www.publichealth.va.gov/n-coronavirus/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20VA%20Public%20Health%20page">public health response</a>.</p>
+      <p>To get answers to questions you have about coronavirus and how VA is responding, visit our <a href="https://www.va.gov/coronavirus-veteran-frequently-asked-questions/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=CORONAVIRUS&utm_content=FAQ">Coronavirus FAQs page</a> or read<a href="<a href="https://www.publichealth.va.gov/n-coronavirus/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20VA%20Public%20Health%20page"> VA's public health response</a>.</p>
+ 
+      <p>If you have symptoms of fever, cough, and shortness of breath, call your <a href="https://www.va.gov/find-locations/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20locator">VA medical center</a> before going to a clinic, urgent care center, or emergency room. Calling first helps us protect you, medical staff, and other patients.</p>
+ 
+      <p>For the latest information about coronavirus, visit the <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20CDC">Centers for Disease Control (CDC)</a>.</p>
 
 
