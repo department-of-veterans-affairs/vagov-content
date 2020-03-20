@@ -16,7 +16,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--auto">
+  <div class="vads-u-flex--1">
     You have the option to add new evidence that a judge will review.
   </div>
 </div>
