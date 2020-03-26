@@ -22,8 +22,10 @@ visible: true
 type: warning
 title: Coronavirus
 content: |
-  <p>Read VA’s latest coronavirus information <a href="https://www.publichealth.va.gov/n-coronavirus/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link1">here</a>.</p>
-  <p>Veterans, if you have flu-like symptoms such as fever, cough and shortness of breath, call before you visit your <a href="https://www.va.gov/find-locations/#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link2">local medical center</a> or clinic. In addition to calling first, consider using virtual care options such as <a href="https://telehealth.va.gov/type/home">telehealth</a> or My HealtheVet <a href="https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight#utm_source=VA%20Alerts&utm_medium=banner&utm_campaign=Coronavirus&utm_content=link3">Secure Messaging</a>.</p>
-  <p>Non-patient visitors, if you do not feel well, please postpone your visit to VA facilities.</p>
+      <p>To get answers to questions you have about coronavirus and how VA is responding, visit our <a href="https://www.va.gov/coronavirus-veteran-frequently-asked-questions/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=CORONAVIRUS&utm_content=FAQ">Coronavirus FAQs page</a> or read <a href="https://www.publichealth.va.gov/n-coronavirus/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20VA%20Public%20Health%20page"> VA's public health response</a>.</p>
+ 
+      <p>If you have symptoms of fever, cough, and shortness of breath, call your <a href="https://www.va.gov/find-locations/?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20locator">VA medical center</a> before going to a clinic, urgent care center, or emergency room. Calling first helps us protect you, medical staff, and other patients.</p>
+ 
+      <p>For the latest information about coronavirus, visit the <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?utm_source=VA%20Alert&utm_medium=Banner&utm_campaign=Coronavirus&utm_content=link%20to%20CDC">Centers for Disease Control (CDC)</a>.</p>
 
 
