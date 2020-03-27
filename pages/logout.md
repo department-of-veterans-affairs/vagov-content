@@ -21,6 +21,8 @@ private: true
   window.sessionStorage.removeItem('shouldRedirectExpiredSession');
   window.localStorage.removeItem('hasSession');
   window.localStorage.removeItem('sessionExpiration');
+  window.localStorage.removeItem('hasSessionSSO');
+  window.localStorage.removeItem('sessionExpirationSSO');
   window.localStorage.removeItem('userFirstName');
   window.location = '/';
 </script>
