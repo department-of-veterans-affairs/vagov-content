@@ -1,13 +1,13 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: Multiple party or contested claims
-display_title: Multiple party or contested claims
+title: Contested claims
+display_title: Contested claims
 hidesidenav: true
 ---
 <br>
 <div itemprop="description" class="va-introtext">
-If you’re one of multiple people claiming the right to the same benefit, you have 60 days to appeal to a Veterans Law Judge at the Board of Veterans’ Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case.
+If you’re one of multiple people claiming the right to a benefit that only one party has a right to, you have 60 days to appeal to a Veterans Law Judge at the Board of Veterans’ Appeals in Washington, D.C. A judge who’s an expert in Veterans law will review your case.
 </div>
 
 <div class="usa-alert usa-alert-info">

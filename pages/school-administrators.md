@@ -130,7 +130,7 @@ relatedlinks:
 
 ### Key resources for SCOs
 
-<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Find your ELR</b></a>
+<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Public WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Find your ELR</b></a>
 
 <div data-widget-type="sco-announcements"></div>
 
@@ -180,8 +180,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                      
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Vocational Rehabilitation and Employment (VR&E) Tungsten Invoicing
@@ -189,8 +188,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                        
-                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_SCO_Tips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Vocational Rehabilitation and Employment (VR&E) Tungsten SCO Tips
@@ -198,7 +196,6 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">

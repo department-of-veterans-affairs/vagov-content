@@ -34,7 +34,7 @@ If you disagree with VA’s decision, you can request to have a senior reviewer 
 
 You can request a Higher-Level Review of an initial claim or Supplemental Claim decision. You have one year from the date on your decision letter to request a Higher-Level Review. <br>
 
-This option isn’t available after a Higher-Level Review or Board Appeal on the same claim. It’s also not available if you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/) (this is rare).
+This option isn’t available after a previous Higher-Level Review or Board Appeal on the same claim. It’s also not available if you have a [contested claim](/decision-reviews/multiple-party-claims/) (this is rare).
 </div>
 
 ## How long does it take VA to make a decision?
@@ -45,7 +45,7 @@ This option isn’t available after a Higher-Level Review or Board Appeal on the
 
 ## What should I expect if I request a call with a senior reviewer?
 
-If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors.
+If you request an informal conference with a senior reviewer, they’ll call the phone number that you or your representative provided on the Higher-Level Review form to schedule a time to discuss your case with you. During the call, you and/or your representative can talk about why you think the decision should be changed and identify errors, but you cannot submit new evidence.
 
 **Note:** The senior reviewer will try to reach you or your representative by phone, and if no one answers, they’ll leave a voicemail. If the senior reviewer is unable to leave a message or make contact after 2 attempts, they'll proceed with their review and issue a decision.
 
@@ -97,9 +97,9 @@ You can include all or just some of the issues VA has decided. You’ll need to 
 
 **What if I have new and relevant evidence?**
 <br>
-If you have evidence to submit, please select another review option.
+If you have evidence to submit, please select another decision review option.
 <br>
-[Learn more about the review options](/decision-reviews/)
+[Learn more about the decision review options](/decision-reviews/)
 </li>
 
 <li class="process-step list-four">

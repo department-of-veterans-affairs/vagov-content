@@ -16,7 +16,7 @@ When you choose this option, you’re appealing to a Veterans Law Judge at the B
   <div class="vads-u-flex--auto">
     <span class="heading-level-3 vads-u-margin-right--1p5"><i class="far fa-copy"></i></span>
   </div>
-  <div class="vads-u-flex--auto">
+  <div class="vads-u-flex--1">
     You have the option to add new evidence that a judge will review.
   </div>
 </div>
@@ -33,9 +33,9 @@ You also have the option to request a hearing with a judge, either in person in 
 
 ### Can I request a Board Appeal?
 
-You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request 2 Board Appeals in a row.<br>
+You can request a Board Appeal after an initial claim, Supplemental Claim, or Higher-Level Review decision. You can’t request 2 Board Appeals in a row for the same claim.<br>
 
-You have one year from the date on your decision letter to request a Board Appeal, unless you have a [multiple party or contested claim](/decision-reviews/multiple-party-claims/).
+You have one year from the date on your decision letter to request a Board Appeal, unless you have a [contested claim](/decision-reviews/multiple-party-claims/).
 </div>
 
 ## Can I add new evidence?
