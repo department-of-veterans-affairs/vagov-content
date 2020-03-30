@@ -223,7 +223,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                WEAMS
+                                Public WEAMS
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
