@@ -147,7 +147,7 @@ Use these resources to get training and boost your skills to help support milita
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});">
             <span class="hub-page-link-list__header">
-                Required 2019 training for SCOs
+                Required training for SCOs
             </span>
             <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
         </a>
@@ -223,7 +223,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                WEAMS
+                                Public WEAMS
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
