@@ -15,6 +15,7 @@ concurrence:
 
 <div class="va-introtext">
 
+
 We offer housing grants for Veterans and service members with certain service-connected disabilities so they can buy or change a home to meet their needs and live more independently. Changing a home might involve installing ramps or widening doorways. Find out if you're eligible for a disability housing grant—and how to apply.
 
 </div>
@@ -38,8 +39,6 @@ For FY 2019, you may be able to get up to 3 grants—for a total of up to $85,64
 
 <a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
-<br>
-
 ## Can I get a Special Housing Adaptation (SHA) grant—and how much funding does this grant offer?
 
 You may be able to get an SHA grant if you’re using the grant money to buy, build, or change your permanent home (a home you plan to live in for a long time) and you meet both of the requirements listed below.
@@ -55,7 +54,7 @@ You may be able to get an SHA grant if you’re using the grant money to buy, bu
 - Certain severe burns
 - Certain respiratory or breathing injuries
 
-For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program.
+For FY 2019, you may be able to get up to 3 grants—for a total of up to $17,130—through the SHA grant program. <br>
 
 <a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
 
@@ -82,3 +81,11 @@ You’ll need to sign in to eBenefits with your <b>DS Logon</b> basic or premium
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant">Go to eBenefits to apply</a>
 
+<a href="/housing-assistance/disability-housing-grants/how-to-apply/">Learn more about how to apply for a housing grant</a>
+
+## Get more information
+
+Watch these videos to learn more about the SAH and SHA grant program:
+- [Eligibility requirements for VA's adaptive housing grant program](https://www.youtube.com/watch?v=AKZjGmvJJ6c) <br>
+- [Specially adapted housing program for disabled Veterans](https://www.youtube.com/watch?v=gbJSFFS4z3o) <br>
+- [VA's adaptive housing grants for disabled Veterans](https://www.youtube.com/watch?v=EN5QMihyuhY) <br>

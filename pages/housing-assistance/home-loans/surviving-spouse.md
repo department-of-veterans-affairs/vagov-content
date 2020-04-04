@@ -14,7 +14,7 @@ relatedlinks:
       title: Purchase loan
       description: Looking to buy a home? Find out if you can get a VA-backed purchase loan and get better terms than with a private lender loan.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
-      title: Interest rate reduction refinance loan (IRRRL)
+      title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Have an existing VA home loan? Find out if you can get a VA-backed IRRRL to help reduce your monthly payments or make them more stable.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
       title: Cash-out refinance loan
@@ -37,7 +37,7 @@ You may be able to get a COE if you’re the spouse of a Veteran, and at least o
 **At least one of these must be true. The Veteran:**
 
 - Is missing in action, **or**
-- Is a Prisoner of War (POW), **or**
+- Is a prisoner of war (POW), **or**
 - Died while in service or from a service-connected disability and you didn’t remarry, **or**
 - Died while in service or from a service-connected disability and you didn’t remarry before you were 57 years old or before December 16, 2003, **or**
 - Had been totally disabled and then died, but their disability may not have been the cause of death (in certain situations)
@@ -54,7 +54,7 @@ This depends on whether or not you're receiving Dependency & Indemnity Compensat
 ### If you’re receiving DIC benefits
 
 You’ll need to fill out a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817</a> <br>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf?_ga=2.200716908.311206835.1546861480-1173244138.1525894550">Download VA Form 26-1817 (PDF)</a> <br>
 
 You'll also need the Veteran's DD214 (or other separation papers) if available. <br>
 [Get military service records online](https://www.archives.gov/veterans/military-service-records)
@@ -64,11 +64,10 @@ You'll also need the Veteran's DD214 (or other separation papers) if available. 
 - The VA regional loan center that serves your state <br>
 [Find a VA regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp?_ga=2.207010963.1014173115.1552847440-1173244138.1525894550) <br>
 
-
 ### If you’re not receiving DIC benefits
 
 You’ll first need to fill out an Application for DIC, Survivors Pension and/or Accrued Benefits (VA Form 21P-534EZ). <br>
-<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ</a>
+<a href="https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf?_ga=2.233853660.311206835.1546861480-1173244138.1525894550">Download VA Form 21P-534EZ (PDF)</a>
 
 <b>You'll also need:</b>
 - The Veteran's DD214 (or other separation papers) if available, **and**
@@ -82,8 +81,8 @@ Submit the form and documents to the VA pension management center that serves yo
 
 ## Next steps for getting a VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender. <br>
+Applying for your COE is only one part of the process for getting a VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on the private bank or mortgage company that's serving as your lender.
 
-**Note:** If you already have a VA-backed loan and you're having trouble making your mortgage payments, we can help you avoid foreclosure and keep your house. <br>
-[Learn about VA financial counseling](/housing-assistance/home-loans/trouble-making-payments/)
+The lender will appraise (assess the value) of the house. An appraisal is an estimate of the house’s market value at the time of inspection. The lender reviews the appraisal, your credit information, and your income, then decides if they should grant you the loan.
 
+If they decide to grant you the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close on the house (transfer ownership).

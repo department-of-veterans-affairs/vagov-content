@@ -1,6 +1,6 @@
 ---
-title: Check Appeal Status
+title: Check appeal status
 href: /claim-or-appeal-status/
-order: 4
+order: 5
 private: true
 ---

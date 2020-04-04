@@ -9,19 +9,19 @@ keywords: how to apply for a va home loan, va certificate of eligibility, va loa
 concurrence:
 order: 3
 relatedlinks:
-  - heading: Loan Options
+  - heading: Loan options
     links:
     - url: /housing-assistance/home-loans/loan-types/purchase-loan/
-      title: Purchase Loan
+      title: Purchase loan
       description: Find out how to get a VA-backed purchase loan to buy a home.
     - url: /housing-assistance/home-loans/loan-types/native-american-direct-loan/
       title: Native American Direct Loan (NADL)
-      description: Find out if you can get a NADL loan to buy, build, or improve a home on Federal Trust Land.
+      description: Find out if you can get a NADL loan to buy, build, or improve a home on federal trust land.
     - url: /housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/
       title: Interest Rate Reduction Refinance Loan (IRRRL)
       description: Find out how to get an IRRRL loan to refinance an existing loan.
     - url: /housing-assistance/home-loans/loan-types/cash-out-loan/
-      title: Cash-Out Refinance Loan
+      title: Cash-out refinance loan
       description: Learn how to get cash from your home equity to pay off debts, pay for school, or take care of other needs.
 ---
 
@@ -31,7 +31,7 @@ Learn how to apply for a VA home loan Certificate of Eligibility (COE). This is 
 
 </div>
 
-### How do I prepare before starting my application?
+## How do I prepare before starting my application?
 
 Gather the information you'll need to apply for your COE. Click on the description below that matches you best to find out what you'll need:
 
@@ -47,18 +47,16 @@ If you’re a **Veteran**, you’ll need a copy of your discharge or separation 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Servicemember</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-active-duty">Service member</button>
 <div id="apply-coe-active-duty" class="usa-accordion-content">
 
-If you’re an **active-duty Servicemember**, you’ll need:
-
-* A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
-  * Your full name
-  * Your Social Security number
-  * Your date of birth
-  * The date you entered duty
-  * The duration of any lost time
-  * The name of the command providing the information
+If you’re an **active-duty service member**, you’ll need a statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
+* Your full name
+* Your Social Security number
+* Your date of birth
+* The date you entered duty
+* The duration of any lost time
+* The name of the command providing the information
 
 </div>
 </li>
@@ -74,16 +72,14 @@ If you’re a **current or former activated National Guard or Reserve member**, 
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-not-activated">Current member of the National Guard or Reserves who has never been activated</button>
 <div id="apply-coe-not-activated" class="usa-accordion-content">
 
-If you’re a **current member of the National Guard or Reserves**, and have **never been activated**, you’ll need:
-
-* A statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
-  * Your full name
-  * Your Social Security number
-  * Your date of birth
-  * The date you entered duty
-  * Your total number of creditable years of service
-  * The duration of any lost time
-  * The name of the command providing the information
+If you’re a **current member of the National Guard or Reserves**, and have **never been activated**, you’ll need a statement of service—signed by your commander, adjutant, or personnel officer—showing this information:
+* Your full name
+* Your Social Security number
+* Your date of birth
+* The date you entered duty
+* Your total number of creditable years of service
+* The duration of any lost time
+* The name of the command providing the information
 
 </div>
 </li>
@@ -109,6 +105,30 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="apply-coe-survivor">Surviving spouse of a Veteran who died on active duty or who had a service-connected disability</button>
+<div id="apply-coe-survivor" class="usa-accordion-content">
+
+If you’re a **surviving spouse** who qualifies for home loan benefits, you’ll need the Veteran’s discharge documents (DD214)—if available—and:
+
+**If you’re receiving Dependency &amp; Indemnity Compensation (DIC),** you’ll need to fill out and send us a Request for Determination of Loan Guaranty Eligibility—Unmarried Surviving Spouses (VA Form 26-1817). <br>
+[Download VA Form 26-1817 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-26-1817-ARE.pdf) 
+
+**Or**
+
+**If you’re not receiving DIC benefits,** you’ll need to send us all of these:
+- A completed Application for DIC, Death Pension and/or Accrued Benefits (VA Form 21P-534EZ), **and**
+- A copy of your marriage license, **and**
+- The Veteran’s death certificate
+
+[Download VA Form 21P-534EZ (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21P-534EZ-ARE.pdf)
+<br/>
+[Find out if you qualify for home loan benefits](/housing-assistance/home-loans/eligibility/)
+<br/>
+[Get military service records online](https://www.archives.gov/veterans/military-service-records/)
+
+</div>
+</li>
 </ul>
 
 [Find out how to apply for a COE as a surviving spouse](/housing-assistance/home-loans/surviving-spouse/)
@@ -119,26 +139,36 @@ If you're a **discharged member of the Reserves** and were **never activated**, 
 
 <br>
 
-### How do I apply for my VA home loan Certificate of Eligibility?
+## How do I apply for my COE?
 
 You can apply online right now.
 
 <a class="usa-button-primary va-button-primary" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan" target="_blank">Go to eBenefits to apply</a>
 
-#### You can also apply:
+### You can also apply:
 
-##### Through our Web LGY system
+#### Through our Web LGY system
 In some cases, you can get your COE through your lender using our Web LGY system. Ask your lender about this option.
 
-##### By mail
+#### By mail
 To apply by mail, fill out a Request for a Certificate of Eligibility (VA Form 26-1880) and mail it to the address listed on the form. Please keep in mind that this may take longer than applying online or through our Web LGY system. <br>
-[Download VA Form 26-1880](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf).
+[Download VA Form 26-1880 (PDF)](https://www.vba.va.gov/pubs/forms/vba-26-1880-are.pdf)
 
 <!-- </li>
 </ol> -->
 
 <br>
 
-### Next steps for getting a VA direct or VA-backed home loan
+## Next steps for getting a VA direct or VA-backed home loan
 
-Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender. For most loans, the lender will be a private bank or mortgage company. For the Native American Direct Loan, we’ll be your lender.
+Applying for your COE is only one part of the process for getting a VA direct or VA-backed home loan. Your next steps will depend on the type of loan you’re looking to get—and on your lender (for most loans, the lender will be a private bank or mortgage company; for the Native American Direct Loan, we’ll be your lender).
+
+The lender will appraise (assess the value) of the house. An appraisal estimates the house's market value at the time of inspection. The lender reviews the appraisal and your credit and income information and decides if they should grant you the loan.
+
+If they decide to grant you the loan, the lender then chooses a title company, an attorney, or someone from the lending company to close (transfer ownership) on the house.
+
+## What if I have questions about the loan process?
+If you have any questions that your lender can't answer, please call your VA regional loan center at <a href="tel:+18778273702">877-827-3702</a>. We're here Monday through Friday, 8:00 a.m. to 6:00 p.m. ET. <br>
+[Find your regional loan center](https://www.benefits.va.gov/HOMELOANS/contact_rlc_info.asp)
+
+[Watch a video about VA home loans and how to apply](https://www.youtube.com/watch?v=h3gR_BmMP7A) <br>

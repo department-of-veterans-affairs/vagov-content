@@ -1,8 +1,8 @@
 ---
 layout: page-breadcrumbs.html
 template: detail-page
-title: VA Help To Avoid Mortgage Foreclosure
-heading: VA help to avoid mortgage foreclosure
+title: VA Help To Avoid Foreclosure
+heading: VA help to avoid foreclosure
 display_title: Trouble making payments? 
 description: Having trouble making your mortgage payments? If you're a Veteran or surviving spouse, find out how our VA loan technicians can work with you, and your lender, to help you avoid foreclosure and keep your home.
 keywords: va mortgage
@@ -20,25 +20,25 @@ If you fall far behind on your mortgage payments, your mortgage servicer (the co
 
 ### Can I get VA financial counseling to help avoid foreclosure?
 
-- **If you’re a Veteran or the surviving spouse of a Veteran**, we’ll provide financial counseling—even if your loan isn’t a VA direct or VA-backed loan.
+- **If you’re a Veteran or the surviving spouse of a Veteran,** we’ll provide financial counseling—even if your loan isn’t a VA direct or VA-backed loan.
 
-- **If you have a VA direct or VA-backed loan**, you can contact us anytime to request that we assign a VA Loan Technician to your loan. Our technicians can offer you financial counseling and help you deal with your servicer (or work with you directly in the case of a VA direct loan).
+- **If you have a VA direct or VA-backed loan,** you can contact us anytime to request that we assign a VA loan technician to your loan. Our technicians can offer you financial counseling and help you deal with your servicer (or work with you directly in the case of a VA direct loan).
 
-- **If you have a VA direct or VA-backed loan and it’s 61 days past due**, we’ll automatically assign a VA Loan Technician to your loan.
+- **If you have a VA direct or VA-backed loan and it’s 61 days past due,** we’ll automatically assign a VA loan technician to your loan.
 
 </div>
 
-<br>
+## What should I do if I’m having trouble paying my mortgage?
 
-### What should I do if I’m having trouble paying my mortgage?
+If you're having difficulty making your mortgage payment, contact your loan servicer right away. This is your chance to find a solution that might work for your scenario.
 
-If you’re late with a mortgage payment, or think you might be late with your next payment, contact your loan servicer right away. The sooner you contact them, the sooner they can help you find a solution.
+If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA loan technician at <a href="tel:+18778273702">877-827-3702</a>.
 
-If you’re nervous about contacting your servicer, or if you’d like our help and advice, please contact a VA Loan Technician at <a href="tel:+18778273702">1-877-827-3702</a>.
+### Be careful about offers to help you make up back payments 
 
-<br>
+If you're behind on your mortgage payments and you get this type of offer from someone you don't know, contact the servicer of your mortgage or your nearest VA regional loan center for advice. They can let you know if it's an honest offer.
 
-### How can I avoid foreclosure?
+## How can I avoid foreclosure?
 
 **There are 6 general ways you can try to avoid a foreclosure:**
 
@@ -54,4 +54,16 @@ If you’re nervous about contacting your servicer, or if you’d like our help 
 
 6. **Deed in lieu of foreclosure:** This plan lets you avoid the foreclosure process by signing over the deed to the home to your servicer. The home will then belong to the servicer.
 
-Our VA Loan Technicians can help you figure out which option is best for you. Contact a VA Loan Technician at <a href="tel:+18778273702">1-877-827-3702</a>.
+Our VA loan technicians can help you figure out which option is best for you. Contact a VA loan technician at <a href="tel:+18778273702">877-827-3702</a>.
+
+## If I can't avoid foreclosure, will I have to pay back my loan?
+
+**If your loan closed before January 1, 1990,** and we have to pay back the amount of your loan to the servicer, you'll need to pay this amount back to the government.
+
+**If your loan closed on or after January 1, 1990,** you'll have to pay back the amount of your loan if we find evidence of fraud, misrepresentation, or bad faith on your part.
+
+## What if I need help or more information?
+
+- Talk to a [housing counselor](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
+- Read HUD's [homeowner's guide to success (PDF)](https://www.hud.gov/sites/dfiles/Housing/documents/RevUpdHmownSuc121518fnl.pdf)
+- Read the Consumer Financial Protection Bureau's advisory on [how to spot a foreclosure relief scam](https://www.consumerfinance.gov/about-us/blog/consumer-advisory-dont-fall-for-a-foreclosure-relief-scam-or-bogus-legal-help/)
