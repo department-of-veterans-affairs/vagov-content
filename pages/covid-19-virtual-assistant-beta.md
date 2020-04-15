@@ -2,6 +2,7 @@
 # Page setup.
 layout: page-breadcrumbs.html
 template: detail-page
+hidesidenav: true
 
 # The title of the tab.
 title: COVID-19 virtual assistant
