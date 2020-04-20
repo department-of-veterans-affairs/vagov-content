@@ -20,4 +20,4 @@ vagovprod: false
   The "widget-type" should be registered at
   https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/widgetTypes.js>
 -->
-<div data-widget-type="va-coronavirus-chatbot"></div>
+<div id="webchat" data-widget-type="va-coronavirus-chatbot"></div>
