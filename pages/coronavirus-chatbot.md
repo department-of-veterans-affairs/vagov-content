@@ -53,6 +53,17 @@ vagovprod: false
     opacity: 1.0;
 }
 
+/* labels for checkboxes */
+#webchat label.ac-textBlock {
+    font-size: 16px !important;
+    margin-top: 0 !important;
+    margin-left: 16px !important;
+}
+
+#webchat div.ac-input-container {
+    margin-bottom: 15px !important;
+}
+
 .webchat__bubble__content {
     border: 0 !important;
     border-radius: 5px !important;
