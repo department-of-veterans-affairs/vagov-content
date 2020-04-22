@@ -162,6 +162,10 @@ button.ac-pushButton.style-default:hover {
     /* $color-primary-darkest from design.va.gov */
     background: #112e51 !important;
 }
+
+.css-1t62idy {
+    flex-direction: row;
+}
 </style>
 <div class="va-introtext">
   Get answers to your questions about the coronavirus and VA benefits and services below.
