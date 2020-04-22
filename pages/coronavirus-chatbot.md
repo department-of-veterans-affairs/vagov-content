@@ -51,6 +51,7 @@ vagovprod: false
     -webkit-appearance: checkbox;
     -moz-appearance: checkbox;
     opacity: 1.0;
+    width: auto;
 }
 
 /* labels for checkboxes */
