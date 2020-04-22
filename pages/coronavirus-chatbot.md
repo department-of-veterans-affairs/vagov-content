@@ -51,6 +51,18 @@ vagovprod: false
     -webkit-appearance: checkbox;
     -moz-appearance: checkbox;
     opacity: 1.0;
+    width: auto;
+}
+
+/* labels for checkboxes */
+#webchat label.ac-textBlock {
+    font-size: 16px !important;
+    margin-top: 0 !important;
+    margin-left: 16px !important;
+}
+
+#webchat div.ac-input-container {
+    margin-bottom: 15px !important;
 }
 
 .webchat__bubble__content {
