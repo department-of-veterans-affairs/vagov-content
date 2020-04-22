@@ -53,6 +53,7 @@ vagovprod: true
     opacity: 1.0;
     width: auto;
     height: 1.6rem;
+    margin-top: 5px !important;
 }
 
 /* labels for checkboxes */
@@ -66,6 +67,10 @@ vagovprod: true
 
 #webchat div.ac-input.ac-choiceSetInput-multiSelect {
     margin-bottom: 15px;
+}
+
+#webchat div.ac-input.ac-choiceSetInput-multiSelect > div {
+    align-items: flex-start !important;
 }
 
 .webchat__bubble__content {
