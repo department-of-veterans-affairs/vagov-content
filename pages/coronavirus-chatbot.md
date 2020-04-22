@@ -60,6 +60,8 @@ vagovprod: true
     font-size: 16px !important;
     margin-top: 0 !important;
     margin-left: 16px !important;
+    text-overflow: unset !important;
+    white-space: unset !important;
 }
 
 #webchat div.ac-input.ac-choiceSetInput-multiSelect {
