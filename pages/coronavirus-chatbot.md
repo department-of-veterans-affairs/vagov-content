@@ -8,7 +8,7 @@ hidesidenav: true
 title: VA coronavirus chatbot
 
 # This line indicates that this page is not to be built to production (www.va.gov)
-vagovprod: false
+vagovprod: true
 ---
 <script src="https://cdn.botframework.com/botframework-webchat/4.8.0/webchat.js"></script>
 <style>
