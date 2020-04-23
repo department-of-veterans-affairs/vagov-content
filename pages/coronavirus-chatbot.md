@@ -10,8 +10,12 @@ title: VA coronavirus chatbot
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: true
 ---
-<script src="https://cdn.botframework.com/botframework-webchat/latest/webchat-es5.gzip.js"></script>
+<script src="https://cdn.botframework.com/botframework-webchat/4.8.1/webchat-es5.gzip.js"></script>
 <style>
+#webchat {
+    margin-top: 20px;
+}
+
 #webchat button {
     justify-content: left !important;
     text-align: left !important;
