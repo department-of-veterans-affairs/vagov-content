@@ -10,4 +10,4 @@ Welcome to the VA.gov Interim CMS :writing_hand:
 ### Resources
 - [Tour the content repository](docs/index.md)
 - [How to create and edit content](docs/how-to-edit-content.md)
-- [Understanding "frontmatter"](docs/front-matter.md) 
+- [Understanding "frontmatter"](docs/front-matter.md)
