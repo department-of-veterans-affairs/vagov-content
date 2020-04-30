@@ -181,3 +181,6 @@ button.ac-pushButton.style-default:hover {
   https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/widgetTypes.js>
 -->
 <div id="webchat" data-widget-type="va-coronavirus-chatbot"></div>
+<div class="last-updated usa-content">
+          Last updated: <time datetime="2020-04-28">April 28, 2020</time>
+</div>
