@@ -77,6 +77,13 @@ vagovprod: true
     align-items: flex-start !important;
 }
 
+#webchat .ac-input.ac-multichoiceInput.ac-choiceSetInput-compact {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-right: 2.5rem;
+}
+
 .webchat__bubble__content {
     border: 0 !important;
     border-radius: 5px !important;
@@ -86,7 +93,7 @@ vagovprod: true
 
 /* side vertical container with avatar in it */
 .webchat__stackedLayout__avatar {
-    margin: 0 8px !important;
+    margin: 7px 8px 0 !important;
 }
 
 /* horizontal container with chat bubbles */
