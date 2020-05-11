@@ -16,25 +16,42 @@ vagovprod: true
     margin-top: 20px;
 }
 
-#webchat button {
-    justify-content: left !important;
-    text-align: left !important;
-    overflow: visible !important;
-}
-
 #webchat button div {
     overflow: visible !important;
     white-space: pre-wrap !important;
     text-overflow: unset !important;
 }
 
+/* divs between buttons in button container */
+.ac-actionSet > div {
+    display: none;
+}
+
+/* button style in answers before being selected */
+button.ac-pushButton {
+    justify-content: left !important;
+    text-align: left !important;
+    overflow: visible !important;
+    margin: 4px !important;
+    font-weight: 700 !important;
+    /* $color-primary from design.va.gov */
+    color: #0071bb;
+    border: 2px solid #0071bb !important;
+}
+
+button.ac-pushButton:hover {
+    /* $color-primary-darker from design.va.gov */
+    color: #003e73;
+    border: 2px solid #003e73 !important;
+    background: white;
+}
+
 #webchat button:disabled {
-    margin: 0 !important;
     padding: 10px !important;
     min-height: 38px !important;
     background: #d6d7d9 !important;
     color: #ffffff !important;
-    border: 0;
+    border: 0 !important;
 }
 
 #webchat[watermark="true"] [role="complementary"] ul[role="list"]::after {
@@ -120,23 +137,6 @@ vagovprod: true
 /* padding around answer chat bubbles */
 div.ac-container.ac-adaptiveCard {
     padding: 16px 8px !important;
-}
-
-/* button style in answers before being selected */
-button.ac-pushButton.style-default {
-    margin: 0 !important;
-    /* $color-primary from design.va.gov */
-    color: #0071bb;
-    border: 2px solid #0071bb;
-    font-weight: 700 !important;
-}
-
-button.ac-pushButton.style-default:hover {
-    /* $color-primary-darker from design.va.gov */
-    color: #003e73;
-    border: 2px solid #003e73 !important;
-    background: white;
-    font-weight: 700 !important;
 }
 
 /* additional padding around answer chat bubbles
