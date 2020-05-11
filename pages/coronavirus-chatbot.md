@@ -27,12 +27,17 @@ vagovprod: true
     display: none;
 }
 
+/* ancestor container of buttons */
+div.ac-container.ac-adaptiveCard > div > div {
+    overflow: unset !important;
+}
+
 /* button style in answers before being selected */
 button.ac-pushButton {
     justify-content: left !important;
     text-align: left !important;
     overflow: visible !important;
-    margin: 4px !important;
+    margin: 4px 0 !important;
     font-weight: 700 !important;
     /* $color-primary from design.va.gov */
     color: #0071bb;
