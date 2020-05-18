@@ -4,23 +4,28 @@
 # visible: if set to true, the banner will become visible on the homepage.
 # type: One of the following - info, success, warning, error
 # title: The title of the banner that will be visible to the user
-# content: The actual content of the banner. Because of the format of .yml files, this should start and end with a single quote so that you can write on multiple lines.
-# 
+# content: The actual content of the banner. Because of the format of .yml files, this should start and end with a "|" so that you can write on multiple lines.
+#
 # ---------------------
 # Example banner
 # ---------------------
 # visible: false
 # type: warning
 # title: Some VA.gov tools and features may not be working as expected
-# content: '
+# content: |
 #     We’re sorry. We’re working to fix some problems with DS Logon right now.
 #     Please check back later or call MyVA311 for help: <a href="tel:18446982311">1-844-698-2311</a>.
 #     If you have hearing loss, call TTY: 711.
-#   '
 #
 
-visible: false
+visible: true
 type: warning
-title: You may have trouble signing in or using some tools or services on VA.gov
-content: >
-    We’re sorry. We’re working to fix a problem that's affecting some parts of our site. If you're having trouble signing in or using any tools or services, please check back soon.
+title: Coronavirus
+content: |
+  <p>For questions about COVID-19 and how it affects VA health care and benefit services, visit our <a href="/coronavirus-veteran-frequently-asked-questions/">coronavirus FAQs</a> or read <a href="https://www.publichealth.va.gov/n-coronavirus/">VA’s public health response</a>.</p>
+
+  <p>Please contact us first before going to any <a href="/find-locations">VA location</a>. Contacting us first helps us keep you safe.</p>
+
+  <p>For the latest coronavirus information, visit the <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html">CDC website</a>.</p>
+
+
