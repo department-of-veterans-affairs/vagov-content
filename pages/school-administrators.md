@@ -260,12 +260,7 @@ Use these resources to get training and boost your skills to help support milita
                                 General school responsibility fact sheet
                             </a>
                         </li>
-                        <li>
-                            <a href="https://gibill.custhelp.com/app/answers/detail/a_id/1436/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Process for reporting students on academic probation
-                            </a>                          
-                        </li>
-                    </ul>
+                     </ul>
                 </div>
             </li>
             <li>
