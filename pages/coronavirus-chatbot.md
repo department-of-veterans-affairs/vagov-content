@@ -11,7 +11,7 @@ botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.9.1/webcha
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: true
 ---
-<div class="va-introtext">
+<div class="va-introtext vads-u-margin-bottom--2">
   Get answers to your questions about the coronavirus and VA benefits and services below.
 </div>
 
