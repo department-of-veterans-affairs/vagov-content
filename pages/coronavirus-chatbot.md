@@ -15,6 +15,7 @@ vagovprod: true
   Get answers to your questions about the coronavirus and VA benefits and services below.
 </div>
 
+**Note:** If you don't respond to the chatbot at least once every 60 minutes, you'll need to restart it to ask more questions.
 
 <!--
   The "widget-type" should be registered at
@@ -22,5 +23,5 @@ vagovprod: true
 -->
 <div id="webchat" data-widget-type="va-coronavirus-chatbot"></div>
 <div class="last-updated usa-content">
-          Last updated: <time datetime="2020-06-12">June 12, 2020</time>
+  Last updated: <time datetime="2020-06-12">June 12, 2020</time>
 </div>
