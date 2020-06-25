@@ -7,6 +7,7 @@ Welcome to the VA.gov Interim CMS :writing_hand:
 2. [Open a request for access](https://github.com/department-of-veterans-affairs/vagov-content/issues/new?title=Requesting+Access+to+Interim-CMS&assignee=ncksllvn&template=request-access.md) to the Interim CMS.
 3. Check your email for a GitHub notification. Someone will follow up with you within 2 days.
 
+
 ### Resources
 - [Tour the content repository](docs/index.md)
 - [How to create and edit content](docs/how-to-edit-content.md)
