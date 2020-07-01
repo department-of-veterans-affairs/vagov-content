@@ -523,7 +523,6 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                </p>
                <ul>
                 <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Foreign school program approval</a></li>
-                <li><a href="mailto:ca-approvals@va.gov" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">California</a></li>
                </ul>
                <ul class="usa-unstyled-list">
                    <li class="hub-page-link-list__item">
