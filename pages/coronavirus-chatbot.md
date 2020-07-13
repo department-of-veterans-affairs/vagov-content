@@ -6,15 +6,16 @@ hidesidenav: true
 
 # The title of the tab.
 title: VA coronavirus chatbot
-botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.8.1/webchat-es5.gzip.js
+botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.9.1/webchat-es5.js
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: true
 ---
-<div class="va-introtext">
+<div class="va-introtext vads-u-margin-bottom--2">
   Get answers to your questions about the coronavirus and VA benefits and services below.
 </div>
 
+**Note:** If you don't respond to the chatbot at least once every 60 minutes, you'll need to restart it to ask more questions.
 
 <!--
   The "widget-type" should be registered at
@@ -22,5 +23,5 @@ vagovprod: true
 -->
 <div id="webchat" data-widget-type="va-coronavirus-chatbot"></div>
 <div class="last-updated usa-content">
-          Last updated: <time datetime="2020-05-06">May 6, 2020</time>
+  Last updated: <time datetime="2020-07-02">July 2, 2020</time>
 </div>

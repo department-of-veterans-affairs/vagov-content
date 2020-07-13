@@ -17,7 +17,7 @@ promo:
   - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
     url: "https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf"
-    description: Revision 5.6.5, current as of January 31, 2020
+    description: Revision 6, current as of June 5, 2020
 crosslinks:
   - heading: Other resources to support your students
     links:
@@ -523,7 +523,6 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                </p>
                <ul>
                 <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Foreign school program approval</a></li>
-                <li><a href="mailto:ca-approvals@va.gov" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">California</a></li>
                </ul>
                <ul class="usa-unstyled-list">
                    <li class="hub-page-link-list__item">
