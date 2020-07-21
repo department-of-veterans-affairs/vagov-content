@@ -6,7 +6,7 @@ hidesidenav: true
 
 # The title of the tab.
 title: VA coronavirus chatbot
-botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.9.1/webchat-es5.js
+botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.9.2/webchat-es5.js
 
 # This line indicates that this page is not to be built to production (www.va.gov)
 vagovprod: true
