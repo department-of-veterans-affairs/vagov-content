@@ -175,7 +175,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Vocational Rehabilitation and Employment (VR&E) SCO Handbook
+                                Veteran Readiness and Employment (VR&E) SCO Handbook
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -183,7 +183,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Vocational Rehabilitation and Employment (VR&E) Tungsten Invoicing
+                                Veteran Readiness and Employment (VR&E) Tungsten Invoicing
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -191,7 +191,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_SCO_Tips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Vocational Rehabilitation and Employment (VR&E) Tungsten SCO Tips
+                                Veteran Readiness and Employment (VR&E) Tungsten SCO Tips
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -587,7 +587,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)</a></li>
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
                  <li><a href="https://www.va.gov/education/other-va-education-benefits/veap/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)</a></li>
-                 <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Vocational Rehabilitation and Employment (VR&E, Chapter 31)</a></li>
+                 <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Veteran Readiness and Employment (VR&E, Chapter 31)</a></li>
                  <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'})">Educational and Career Counseling (Chapter 36)</a></li>
                </ul>
            </div>
