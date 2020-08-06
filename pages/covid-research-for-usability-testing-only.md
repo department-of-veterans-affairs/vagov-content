@@ -21,7 +21,7 @@ As one of the nation's leaders in health research, we're joining the efforts to 
 
 <div class="feature">
   
-## Why might I want to be part of this research?
+## Why should I consider volunteering to be part of this research?
 
 COVID-19 is caused by a new virus. So we have a lot to learn about how it affects different people and how to best prevent and treat it. We can't learn without doing research. And we can't do research without volunteers to help.
 
