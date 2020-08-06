@@ -32,13 +32,16 @@ As one of the nation's leaders in health research, we're working to help find wa
 
 You can sign up for our research volunteer list. If we think you may be eligible for a study, we'll contact you to tell you more about it so you can decide if you want to join.
 
-<p><a class="usa-button" href="https://preview.uxpin.com/5521dc071a06a238c2efffd575d5d79a3694f2fa#/pages/131029738/simulate/no-panels">Sign up for our volunteer list</a></p>
+**To participate, you:**
+- Must be at least 18 years old
+- Don't have to be a Veteran
+- Don't have to be enrolled in VA health care
 
-**Note:** You must be at least 18 years old to volunteer. You don't have to be a Veteran or enrolled in VA health care.
+<p><a class="usa-button" href="https://preview.uxpin.com/5521dc071a06a238c2efffd575d5d79a3694f2fa#/pages/131029738/simulate/no-panels">Sign up for our volunteer list</a></p>
 
 </div>
 
-## Information to help you decide if you want to participate in COVID-19 research at VA
+## Information to help you decide if you'd like to participate
 
 When it comes to research, our highest priority is protecting you. Part of this means giving you all the information you need to decide if volunteering for a research study is right for you.
 
@@ -70,7 +73,7 @@ Because COVID-19 is so new, we have a lot to learn. We can't learn without doing
 
 No one can predict the exact outcome of a research study. You may or may not see a direct benefit to your health. But your participation does matter.
 
-## Why should I consider participating in a study at VA?
+### Why should I consider participating in a study at VA?
 
 We're the nation's largest integrated health system and one of the top leaders in health research. We lead thousands of studies each year.
 
@@ -80,7 +83,10 @@ We're the nation's largest integrated health system and one of the top leaders i
 
 <p>The first thing you should know is that signing up doesn't mean you're committing to join a research study. It just means you want to learn more. Here's what to expect if you decide to sign up, and if we think you may be eligible for a specific study.</p>
 
-#### Before the study
+<ul class="usa-accordion">
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="before"Before the study</button>
+<div id="before" class="usa-accordion-content">
 
 If we contact you about a study, we'll give you written information about the study. We'll also discuss all of the details of the study, including possible risks, with you to help you decide whether you want to join. This process is called informed consent.
 
@@ -91,8 +97,12 @@ If you decide you want to join the study, our researchers will determine if you'
  - Get a physical exam
  - Get a blood test
 
-#### During the study
- 
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="during"Before the study</button>
+<div id="during" class="usa-accordion-content">
+
 If you're eligible, you can then join the study. Remember, it's always your choice and you can decide to leave a study at any time.
   
 **During the study, we may ask you to:**
@@ -102,11 +112,19 @@ If you're eligible, you can then join the study. Remember, it's always your choi
   
 **Note:** We won't expose you to the virus that causes COVID-19 as part of any studies. If you do get sick during the study, we'll work with you to make sure you get the care you need.
 
-#### After the study
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="after"Before the study</button>
+<div id="after" class="usa-accordion-content">
 
 We the study iscomplete, we may ask you if we can contact you again for another study. You can say no if you'd prefer.
   
 We'll also share the results of the study with you and your community. We won't include your or any other participants' name or any information that can be used to identify you.
+
+</div>
+</li>
+</ul>
  
 ### What are the risks of joining a research study? 
 
@@ -136,8 +154,8 @@ We're working to find the best ways to prevent and treat COVID-19 in all people.
 
 We especially want to make sure that any vaccines or treatments work in the people who data shows are most affected by COVID-19. This includes people over age 65, people with chronic (long-term) health conditions, and Black, Latino, and indigenous populations.
 
+</div>
 </li>
-<ul class="usa-accordion">
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="protect-safety"How will VA protect my safety during a study?</button>
 <div id="protect" class="usa-accordion-content">
@@ -151,13 +169,15 @@ To reach more about changes to U.S. laws on clinical trial safety, visit the CDC
 - **VA research and development (R&D) committee.** At VA,  we also have an R&D committee reviews the work and recommendations of the IRB and must also approve the research before our researchers can ask you to take part.
 - **Informed consent.** Before you join a study, the staff will explain all you need to know to decide if you want to join. They'll share information, including how the study will work, any possible risks, and how often you'll need to visit the study location. They'll also answer any questions you may have about the study. You must then sign an "informed consent" document confirming that you received and understood this information before agreeing to join.
 
-<ul class="usa-accordion">
+</div>
+</li>
 <li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="protect-privacy">How will VA protect my privacy?</button>
 <div id="protect-privacy" class="usa-accordion-content">
 
 Like your medical record, the information in your research record will be kept confidential.
-We protect your privacy, including your person and health information, by:
+
+**We protect your privacy, including your person and health information, by:**
 - Ensuring that our researchers only have access to the specific information they need to complete each study. The institutional review board (IRB) determines what information is needed for each study. The IRB is a group of people such as doctors, nurses, pharmacists, scientists, ethicists, and people from the local community who make sure that human research is well-planned and ethical. 
 
 TO BE FILLED IN
@@ -197,4 +217,6 @@ Joining a study won't affect your eligibility for VA health care in any way.
 Your research informed consent form will have points of contact for the facility and your research project. Start with those contacts to answer your research study specific questions.
 If you have questions, concerns, or complaints about VA research, or if you would like to talk to someone about the VA Research program, please contact: VA Office Of Research Protections, Policy and Education 1-877-254-3130 VHACOORDRegulatory@va.gov
 
+</div>
 </li>
+</ul>
