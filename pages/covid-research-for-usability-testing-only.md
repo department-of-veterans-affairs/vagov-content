@@ -15,32 +15,34 @@ vagovprod: false
 
 <div class="va-introtext">
 
-As one of the nation's leaders in health research, we're joining the efforts to find ways to better prevent and treat COVID-19. Find out how you can help and what to expect if you volunteer.
+As one of the nation's leaders in health research, we're working to help find ways to better prevent and treat COVID-19. Find out how you can participate and what to expect if you volunteer.
 
 </div>
 
 <div class="feature">
   
-## Why should I consider volunteering to be part of this research?
+## Why should I consider being a participant in a VA COVID-19 research study?
 
-COVID-19 is caused by a new virus. So we have a lot to learn about how it affects different people and how to best prevent and treat it. We can't learn without doing research. And we can't do research without volunteers to help.
+Because COVID-19 is so new, we have a lot to learn. We can't learn without doing research. And we can't do research without people who volunteer to participate in research studies.
 
-**By being part of this research, you can help us:**
-- Better understand the unique needs of Veterans when it comes to COVID-19
-- Find ways to prevent or treat COVID-19 for you, your family, and your community
-- Make sure vaccines and treatments work well in people of different ages, genders, races, and ethnicities
+**As a research study participant, you can help us:**
+- Better understand how COVID-19 affects different people
+- Find ways to prevent and treat COVID-19 for you, your family, and your community
+- Make sure vaccines and treatments are safe and effective in people of all ages, genders, races, and ethnicities
 
 **You may also:**
-- Get access to a new vaccine or treatment before it's available to most people
-- Learn more about your health so you can better understand your risks and how to improve your health
-- Receive more regular health check-ins with providers as part of your study visits
+- Get early access to a new vaccine or treatment 
+- Learn more about your own health
+- Receive more regular health check-ins as part of your study visits
 
-### Sign up for our COVID-19 research volunteer list
+### Sign up for our volunteer list
 
-If you're at least 18 years old, you can sign up for our COVID-19 research volunteer list. You don't need to be a Veteran or enrolled in VA health care. If we think you may be eligible for a study, we'll contact you to tell you more about it so you can decide if you want to join. 
+If we think you may be eligible for a study, we'll contact you to tell you more about it so you can decide if you want to join. 
  
- <p><a class="usa-button" href="https://preview.uxpin.com/5521dc071a06a238c2efffd575d5d79a3694f2fa#/pages/131029738/simulate/no-panels">Sign up for our volunteer list</a></p>
- 
+<p><a class="usa-button" href="https://preview.uxpin.com/5521dc071a06a238c2efffd575d5d79a3694f2fa#/pages/131029738/simulate/no-panels">Sign up for our volunteer list</a></p>
+
+**Note:** You must be at least 18 years old to participate. You don't have to be a Veteran or enrolled in VA health care.
+
 </div>
 
 ## What is health research, and why is it important?
@@ -54,11 +56,6 @@ Research is an organized process to gather information so we can better understa
 - Learn what health care practices work best
 
 The medicines many of us rely today come from health research.
-
-## Why should I consider volunteering for resarch with VA instead of with other organizations or companies?
-
-
-
 
 
 ## What can I expect if I sign up for VA's COVID-19 volunteer list?
