@@ -25,10 +25,14 @@ As one of the nation's leaders in health research, we're joining the efforts to 
 
 COVID-19 is caused by a new virus. So we have a lot to learn about how it affects different people and how to best prevent and treat it. We can't learn without doing research. And we can't do research without volunteers to help.
 
-**By being part of this research, you may:**
-- Help find ways to prevent or treat COVID-19 for you, your family, and your community
-- Help us understand how COVID-19 affects people of different ages, genders, races, and ethnicities
+**By being part of this research, you can help us:**
+- Better understand the unique needs of Veterans when it comes to COVID-19
+- Find ways to prevent or treat COVID-19 for you, your family, and your community
+- Make sure vaccines and treatments work well in people of different ages, genders, races, and ethnicities
+
+**You may also:**
 - Get access to a new vaccine or treatment before it's available to most people
+- Learn more about your health so you can better understand your risks and how to improve your health
 - Receive more regular health check-ins with providers as part of your study visits
 
 ### Sign up for our COVID-19 research volunteer list
@@ -51,7 +55,10 @@ Research is an organized process to gather information so we can better understa
 
 The medicines many of us rely today come from health research.
 
-## Why should I consider participating in a VA research study?
+## Why should I consider volunteering for resarch with VA instead of with other organizations or companies?
+
+
+
 
 
 ## What can I expect if I sign up for VA's COVID-19 volunteer list?
@@ -111,23 +118,18 @@ The medicines many of us rely today come from health research.
 
 ## What are the risks of joining a research study? 
 
-The research study staff will explain in detail all of the possible risks of a specific study before you agree to join. But some common risks include:
 
-- **Possible side effects.** If you join a study that's testing a new vaccine or treatment, you may experience side effects. Some side effects could be severe. 
+When it comes to research, our highest priority is protecting you. Part of this means giving you all the information you need to decide if volunteering for a research study is right for you. The research study staff will explain in detail all of the possible risks of a specific study before you agree to join. 
 
-This also depends on the specific study you may join.
-When you join a study, you may:
-	Have side effects from the vaccine or treatment being tested. Most side effects of vaccines are minor (like a sore arm, low fever, or muscle aches) and go away after 1 or 2 days.
-	Not receive the vaccine or treatment being tested. For example, in a trial to determine if a vaccine or treatment works, we need to compare 2 groups: a group that receives the vaccine or treatment we're testing and a group that receives a placebo (a sterile liquid that doesn't have any active ingredients). 
-	Need to spend time traveling to the VA health facility where research will take place 
+**Some common risks include:**
 
-
+- **Possible side effects.** If you join a study that's testing a new vaccine or treatment, you may experience side effects. Most side effects of vaccines are minor (like a sore arm, low fever, or muscle aches) and go away after 1 or 2 days. The study staff will monitor your health. If you do experience more severe side effects, they'll work with you to make sure you get the care you need.
+- **Not receiving the vaccine or treatment being tested.** For example, in a trial to determine if a vaccine or treatment works, we need to compare 2 groups: a group that receives the vaccine or treatment we're testing and a group that receives a placebo (a sterile liquid that doesn't have any active ingredients). 
+- **Inconvenience or disruption to your work or home schedule.** You may need to spend time traveling to the VA health facility where research will take place.
 
 ------
 
 ## More information about research studies at VA 
-
-When it comes to research, our highest priority is protecting you. Part of this means giving you all the information you need to decide if volunteering for a research study is right for you.
 
 ### Questions about participating in a study
 
