@@ -48,7 +48,7 @@ When it comes to research, our highest priority is protecting you. Part of this 
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-is-health-research">What is health research, and why is it important?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-is-health-research">What's health research, and why is it important?</button>
 <div id="what-is-health-research" class="usa-accordion-content">
 
 Research is an organized process to gather information so we can better understand a specific problem. Health (or medical) research helps us answer big questions about human health, like "How does COVID-19 affect different groups of people?" and "How can we find an effective vaccine?" 
@@ -59,7 +59,7 @@ Research is an organized process to gather information so we can better understa
 - Find the best way to prevent or treat an illness 
 - Learn what health care practices work best
 
-The treatments and medicines that people rely today come from health research. In fact, research studies we've conducted here at VA have contributed to health advances like the first successful liver transplant and new treatments for Alzheimer's, diabetes, and HIV/AIDS.
+The treatments and medicines that people rely on today come from health research. In fact, research studies we've conducted here at VA have contributed to health advances like the first successful liver transplant and new treatments for Alzheimer's, diabetes, and HIV/AIDS.
 
 </div>
 </li>
@@ -69,7 +69,7 @@ The treatments and medicines that people rely today come from health research. I
 
 A research study participant is a person who volunteers to take part in a research study. 
 
-For health research studies, this means that researchers will observe the participant to learn more about the specific question the study is trying to answer. Health research studies try to answer many different questions. A study may try to answer a question about how different eating or exercising habits affect people's health over time, how different approaches to health care work compared to each other.
+For health research studies, this means that researchers will observe the participant to learn more about the specific question the study is trying to answer. Health research studies try to answer many different questions. A study may try to answer a question about how different eating or exercising habits affect people's health over time, or how different approaches to health care work compared to each other.
 
 Some studies try to answer the question of whether a new vaccine or treatment works and is safe for people of different ages, genders, races, and ethnicities. Research participants in these types of studies may receive the vaccine or treatment, and researchers will monitor them closely to find out if it works as intended and if it has any side effects. Other participants may receive a placebo (a sterile liquid that doesn't contain the real vaccine or treatment) so researchers can compare the groups of participants. 
 
@@ -171,7 +171,7 @@ If you're eligible, you can then join the study. Remember, it's always your choi
 
 #### After the study
 
-We the study is complete, we may ask you if we can contact you again for another study. You can say no if you'd prefer.
+When the study is complete, we may ask you if we can contact you again for another study. You can say no if you'd prefer.
   
 We'll also share the results of the study with you and your community. We won't include your or any other participants' name or any information that can be used to identify you.
 
@@ -186,8 +186,8 @@ Today, strong laws are in place in the U.S. to protect the safety of every perso
 **Safety measures for VA research include:**
 
 - **Ethical guidelines and training.** We work to make sure that all members of our research teams act professionally at all times and follow the highest standards of quality and ethics in their work.
-- **Institutional review boards (IRBs).** Like all clinical research studies in the U.S., each VA study must go to an IRB before it can start. This is a group of people such as doctors, nurses, pharmacists, scientists, ethicists, and people from the local community who make sure that human research is well-planned and ethical. The IRB also reviews each study while it is going on to make sure volunteers are protected.
-- **VA research and development (R&D) committee.** At VA,  we also have an R&D committee reviews the work and recommendations of the IRB and must also approve the research before our researchers can ask you to take part.
+- **Institutional review boards (IRBs).** Like all clinical research studies in the U.S., each VA study must go to an IRB before it can start. This is a group of people such as doctors, nurses, pharmacists, scientists, ethicists, and people from the local community who make sure that human research is well-planned and ethical. The IRB also reviews each study while it's going on to make sure volunteers are protected.
+- **VA research and development (R&D) committee.** At VA,  we also have an R&D committee that reviews the work and recommendations of the IRB and must also approve the research before our researchers can ask you to take part.
 - **Informed consent.** Before you join a study, the staff will explain all you need to know to decide if you want to join. They'll share information, including how the study will work, any possible risks, and how often you'll need to visit the study location. They'll also answer any questions you may have about the study. You must then sign an "informed consent" document confirming that you received and understood this information before agreeing to join.
 
 </div>
@@ -198,9 +198,9 @@ Today, strong laws are in place in the U.S. to protect the safety of every perso
 
 Like your medical record, we'll keep the information in your research record confidential (or private). 
 
-**To protect your privacy, including your person and health information, we:**
+**To protect your privacy, including your personal and health information, we:**
 
-- Make sure that our researchers only have access to the specific information they need to complete each study. The institutional review board (IRB) determines what information is needed for each study. The IRB is a group of people such as doctors, nurses, pharmacists, scientists, ethicists, and people from the local community who make sure that human research is well-planned and ethical. 
+- Make sure that our researchers have access to only the specific information they need to complete each study. The institutional review board (IRB) determines what information is needed for each study. The IRB is a group of people such as doctors, nurses, pharmacists, scientists, ethicists, and people from the local community who make sure that human research is well-planned and ethical. 
 - Store all information in our secure electronic systems, and encrypt all sensitive data.
 - Require all VA employees who handle sensitive data to take required training and ongoing education courses on privacy and data security
 
@@ -216,7 +216,7 @@ No.
 
 Joining a study won't affect your benefits or the care you receive in any way.
 
-Your research study visits will be separate from your regular health care appointments. If you get sick during the study, your VA health care team will care for you in the same way they would if you weren't part of research.
+Your research study visits will be separate from your regular health care appointments. If you get sick during the study, your VA health care team will care for you in the same way they would if you weren't part of this research.
 
 ##### If you're a service member or Veteran and you're not currently enrolled in VA health care
 
