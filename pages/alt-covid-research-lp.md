@@ -40,6 +40,7 @@ You can sign up for our research volunteer list. If we think you may be eligible
 <p><a class="usa-button" href="https://preview.uxpin.com/5521dc071a06a238c2efffd575d5d79a3694f2fa#/pages/131029738/simulate/no-panels">Sign up for our volunteer list</a></p>
 
 </div>
+
 ## Information to help you decide if you'd like to participate
 
 When it comes to research, our highest priority is protecting you. Part of this means giving you all the information you need to decide if volunteering to be a participant in a research study is right for you.
@@ -48,8 +49,8 @@ When it comes to research, our highest priority is protecting you. Part of this 
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-is-health-research">What's health research, and why is it important?</button>
-<div id="what-is-health-research" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="research">What's health research, and why is it important?</button>
+<div id="research" class="usa-accordion-content">
 
 Research is an organized process to gather information so we can better understand a specific problem. Health (or medical) research helps us answer big questions about human health, like "How does COVID-19 affect different groups of people?" and "How can we find an effective vaccine?" 
 
@@ -64,8 +65,8 @@ The treatments and medicines that people rely on today come from health research
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-does-it-mean-to-be-a-research-study-participant">What does it mean to be a research study participant?</button>
-<div id="what-does-it-mean-to-be-a-research-study-participant" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="participant">What does it mean to be a research study participant?</button>
+<div id="participant" class="usa-accordion-content">
 
 A research study participant is a person who volunteers to take part in a research study. 
 
@@ -78,8 +79,8 @@ In all health research studies, participants are volunteers who have the right t
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="why-participate">Why should I consider participating in COVID-19 research?</button>
-<div id="what-does-it-mean-to-be-a-research-study-participant" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="why">Why should I consider participating in COVID-19 research?</button>
+<div id="why" class="usa-accordion-content">
 
 Because COVID-19 is so new, we have a lot to learn. We can't learn without doing research. And we can't do research without people who participate in research studies.
 
@@ -98,7 +99,7 @@ No one can predict the exact outcome of a research study. You may or may not see
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="diverse">Why is it important for people of different ages, races, ethnicities, and gender identities to participate in this research?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="diverse">Why is it important to have a diverse range of people participate in this research?</button>
 <div id="diverse" class="usa-accordion-content">
 
 When research involves a group of people who are similar in age, gender, race, and ethnicity, the results for that group may not be true for everyone.
@@ -134,16 +135,16 @@ As part of our informed consent process, the study staff will discuss the possib
 
 <ul class="usa-accordion">
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="risks">What COVID-19 studies might I be eligible for at VA?</button>
-<div id="risks" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="studies">What COVID-19 studies might I be eligible for at VA?</button>
+<div id="studies" class="usa-accordion-content">
  
  [TBD - need info]
 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="what-to-expect">What should I expect if I'm eligible for a study?</button>
-<div id="what-to-expect" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="expect">What should I expect if I'm eligible for a study?</button>
+<div id="expect" class="usa-accordion-content">
 
 The first thing you should know is that signing up doesn't mean you're committing to join a research study. It just means you want to learn more. Here's what to expect if you decide to sign up, and if we think you may be eligible for a specific study.
 
@@ -178,8 +179,22 @@ We'll also share the results of the study with you and your community. We won't 
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="protect-safety"How will VA protect my safety during a study?</button>
-<div id="protect" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="covid">Will I be given the virus that causes COVID-19 as part of a study?</button>
+<div id="covid" class="usa-accordion-content">
+
+No. That type of study design is known as a challenge study.
+
+For vaccine studies, we'll use a design known as “randomized, blinded, placebo-controlled” studies.
+
+We'll enroll people who are more likely to be exposed to the virus that causes COVID-19. We'll then give some participants the vaccine we're testing and some participants a placebo (a sterile liquid that doesn't have any vaccine in it).
+
+Participants may be exposed to the virus in their everyday lives. So we'll compare the 2 groups to determine if fewer people in the vaccine group get sick than in the placebo group. This is how we'll know if the vaccine works.
+
+</div>
+</li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="safety">How will VA protect my safety during a study?</button>
+<div id="safety" class="usa-accordion-content">
 
 Today, strong laws are in place in the U.S. to protect the safety of every person who joins a study. 
 
@@ -193,8 +208,8 @@ Today, strong laws are in place in the U.S. to protect the safety of every perso
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="protect-privacy">How will VA protect my privacy?</button>
-<div id="protect-privacy" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="privacy">How will VA protect my personal and health information?</button>
+<div id="privacy" class="usa-accordion-content">
 
 Like your medical record, we'll keep the information in your research record confidential (or private). 
 
@@ -207,8 +222,8 @@ Like your medical record, we'll keep the information in your research record con
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="affect-health-care">Will joining a VA COVID-19 research study affect my VA health care?</button>
-<div id="affect-health-care" class="usa-accordion-content">
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="affect">Will joining a VA COVID-19 research study affect my VA health care?</button>
+<div id="affect" class="usa-accordion-content">
 
 No. 
 
@@ -226,7 +241,7 @@ Joining a study won't affect your eligibility for VA health care in any way.
 </div>
 </li>
 <li>
-<button class="usa-button-unstyled usa-accordion-button" aria-controls="say-no">Will I be paid for joining a study?</button>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="paid">Will I be paid for joining a study?</button>
 <div id="paid" class="usa-accordion-content">
 
 [TBD - need info]
@@ -242,7 +257,22 @@ If you have questions, concerns, or complaints about VA research, or if you woul
 
 </div>
 </li>
+<li>
+<button class="usa-button-unstyled usa-accordion-button" aria-controls="leave">Can I leave a study if I want to?</button>
+<div id="leave" class="usa-accordion-content">
+
+Yes.
+
+##### Before the study starts
+
+The study staff will explain all you need to know to decide if you want to join the study. They'll share information, including how the study will work, any possible risks, and how often you'll need to visit the study location. They'll also answer any questions you may have about the study. 
+
+Once you have all the information about the study, you can decide if you want to join.
+
+##### During the study
+
+You can decide you want to leave the study at any time. We may ask you why you've decided to leave. But you don't need to share your reason unless you want to.
+
+</div>
+</li>
 </ul>
- 
-
-
