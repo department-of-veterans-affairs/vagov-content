@@ -22,6 +22,7 @@ visible: true
 type: warning
 title: Coronavirus
 content: |
+  <p><strong>Hurricane in your area?</strong> Use the <a href="https://www.va.gov/find-locations">Find VA locations</a> to check the status and operating hours of your local VA facility.</p>
   <p>For questions about COVID-19 and how it affects VA health care and benefit services, visit our <a href="/coronavirus-veteran-frequently-asked-questions/">coronavirus FAQs</a> or read <a href="https://www.publichealth.va.gov/n-coronavirus/">VA’s public health response</a>.</p>
 
   <p>Please contact us first before going to any <a href="/find-locations">VA location</a>. Contacting us first helps us keep you safe.</p>
