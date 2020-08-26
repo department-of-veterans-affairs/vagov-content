@@ -22,7 +22,7 @@ visible: true
 type: warning
 title: Hurricane in your area?
 content: |
-  <p> Use the <a href="https://www.va.gov/find-locations">Find VA locations</a> to check the status and operating hours of your local VA facility.</p>
+  <p> Use the <a href="https://www.va.gov/find-locations">Find VA locations tool</a> to check the status and operating hours of your local VA facility.</p>
   
   <p><strong>Coronavirus</strong></p>
   
