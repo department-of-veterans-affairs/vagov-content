@@ -150,6 +150,7 @@ Yes. We'll provide all the health care you may need related to the study, even i
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="questions">Who can I contact if I have more questions about a study?</button>
 <div id="questions" class="usa-accordion-content">
  
