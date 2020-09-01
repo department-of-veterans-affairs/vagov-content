@@ -37,7 +37,7 @@ You can sign up for our research volunteer list. If we think you may be eligible
 - Don't have to be a Veteran
 - Don't have to be enrolled in VA health care
 
-<p><a class="usa-button" href="/coronavirus-research/volunteer">Sign up for our volunteer list</a></p>
+<p><a class="usa-button" href="staging.va.gov/coronavirus-research/volunteer">Sign up for our volunteer list</a></p>
 
 **Note:** Your decision to join a study or not won’t affect your VA health care or any of your VA benefits or services in any way.
 
@@ -92,7 +92,7 @@ If we contact you about a study, we’ll give you written information about the 
 - Who reviewed or approved this study? 
 - What could happen to my health, good or bad, if I take part in this study?
 
-Get more questions to ask in our [Volunteering in Research](https://www.research.va.gov/resources/pubs/docs/volunteering-in-research-brochure.pdf) brochure.
+Get more questions to ask in our [Volunteering in Research (PDF)](https://www.research.va.gov/resources/pubs/docs/volunteering-in-research-brochure.pdf) brochure.
 
 If you decide you want to join the study, our researchers will determine if you’re eligible to participate.
 
@@ -134,7 +134,7 @@ Joining a study won’t affect your benefits or the care you receive in any way.
 
 Your research study visits will be separate from your regular health care appointments. If you get sick during the study, your VA health care team will care for you in the same way they would if you weren’t part of this research.
 
-####If you’re a service member or Veteran and you’re not currently enrolled in VA health care
+#### If you’re a service member or Veteran and you’re not currently enrolled in VA health care
 
 Joining a study won’t affect your eligibility for VA health care in any way.
 
@@ -142,6 +142,7 @@ Joining a study won’t affect your eligibility for VA health care in any way.
 
 </div>
 </li>
+<li>
 <button class="usa-button-unstyled usa-accordion-button" aria-controls="care">Will VA care for me if I get sick during a study?</button>
 <div id="care" class="usa-accordion-content">
  
@@ -162,7 +163,7 @@ You can start with the points of contact for that study. These points of contact
 
 #### If you have more general questions, concerns, or complaints about VA research
 
-You can contact the VA Office of Research Protections, Policy, and Education by email at VHACOORDRegulatory@va.gov or by phone at 877-254-3130. If you have hearing loss, call TTY: 711.
+You can contact the VA Office of Research Protections, Policy, and Education by email at VHACOORDRegulatory@va.gov or by phone at <a href="tel:+18772543130" aria-label="8 7 7. 2 5 4. 3 1 3 0.">877-254-3130</a>. If you have hearing loss, call TTY: <a href="tel:711" aria-label="TTY. 7 1 1.">711</a>.
 
 </div>
 </li>
@@ -224,6 +225,7 @@ Like your medical record, we’ll keep the information in your research record c
 
 </div>
 </li>
+</ul>
 
 ## What's health research, and why is it important?
 
