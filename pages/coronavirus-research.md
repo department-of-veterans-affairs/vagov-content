@@ -37,7 +37,7 @@ You can sign up for our research volunteer list. If we think you may be eligible
 - Don't have to be a Veteran
 - Don't have to be enrolled in VA health care
 
-<p><a class="usa-button" href="staging.va.gov/coronavirus-research/volunteer">Sign up for our volunteer list</a></p>
+<p><a class="usa-button" href="/coronavirus-research/volunteer">Sign up for our volunteer list</a></p>
 
 **Note:** Your decision to join a study or not won’t affect your VA health care or any of your VA benefits or services in any way.
 
