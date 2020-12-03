@@ -1,5 +1,5 @@
 ---
-title: My Messages
+title: My messages
 entryname: messages
 layout: page-react.html
 includeBreadcrumbs: true
