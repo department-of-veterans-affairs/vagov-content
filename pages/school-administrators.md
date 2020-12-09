@@ -596,7 +596,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)</a></li>
                  <li><a href="https://www.va.gov/education/other-va-education-benefits/veap/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)</a></li>
                  <li><a href="https://www.va.gov/careers-employment/vocational-rehabilitation/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Veteran Readiness and Employment (VR&E, Chapter 31)</a></li>
-                 <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'})">Educational and Career Counseling (Chapter 36)</a></li>
+                 <li><a href="https://www.va.gov/careers-employment/education-and-career-counseling/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'})">Personalized Career Planning and Guidance (Chapter 36)</a></li>
                </ul>
            </div>
            <div>
