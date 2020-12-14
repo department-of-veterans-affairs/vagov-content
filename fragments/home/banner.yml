@@ -20,11 +20,8 @@
 
 visible: true
 type: warning
-title: VA facility and status updates
+title: Coronavirus information
 
 content: |
-    <p><strong>Natural disaster</strong> in your area: Use the <a href="/find-locations">Find VA locations tool</a> to check the status and operating hours of your local VA facility.</p>
-
-    <p><strong>Coronavirus:</strong> For questions about how COVID-19 may affect your VA health care and benefit services, visit our <a href="/coronavirus-veteran-frequently-asked-questions/">coronavirus FAQS</a> or read <a href="https://www.publichealth.va.gov/n-coronavirus/">VA’s public health response</a>. Please contact us first before going to any <a href="/find-locations">VA location</a>. Contacting us first helps us keep you safe.</p>
-
-
+    <p>To get the latest updates and sign up to stay informed about COVID-19 vaccines, visit our <a href="/health-care/covid-19-vaccine/">vaccine information page</a>.</p>
+    <p>For questions about how COVID-19 may affect your VA health care and benefit services, visit our <a href="/coronavirus-veteran-frequently-asked-questions/">coronavirus FAQS</a> or read <a href="https://www.publichealth.va.gov/n-coronavirus/">VA’s public health response</a>.</p>
