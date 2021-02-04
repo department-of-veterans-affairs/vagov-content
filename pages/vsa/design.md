@@ -29,6 +29,20 @@ private: true
   <ul class="usa-unstyled-list"></ul>
 </nav>
 
+## Hint text
+
+Hint text can be used to explain to a veteran why we are asking for a specific piece of information. If the explanation is long, instead use the [Additional Info component](https://design.va.gov/components/additional-info), below the field.  
+
+<details>
+
+<summary>Example hint text</summary>
+
+<code>
+Can we have devs on the debt team put code here?
+</code>
+
+</details>
+
 ## Tabs
 
 Tabs are useful for list that expresses an filtered or unfiltered state of another list.
