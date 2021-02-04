@@ -13,6 +13,10 @@ vagovprod: false
 # This line indicates whether it should become the "index" page of it's own directory.
 # Specifying "false" will build the build at /example.html instead of /example/index.html
 permalink: false
+
+# Excludes this page from the sitemap. This isn't really important because we aren't publishing to prod anyway,
+# but still good to do.
+private: true
 ---
 <div class="va-introtext vads-u-margin-bottom--2">
 
