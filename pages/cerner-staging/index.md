@@ -1,5 +1,7 @@
 ---
 title: Cerner staging
+layout: page-breadcrumbs.html
+template: detail-page
 vagovprod: false
 ---
-<!-- Placeholder -->
+This file is a placeholder.
