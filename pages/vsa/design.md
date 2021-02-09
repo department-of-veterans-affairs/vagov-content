@@ -17,6 +17,8 @@ permalink: false
 # Excludes this page from the sitemap. This isn't really important because we aren't publishing to prod anyway,
 # but still good to do.
 private: true
+
+includeBreadcrumbs: false
 ---
 <div class="va-introtext vads-u-margin-bottom--2">
 
@@ -31,7 +33,7 @@ private: true
 
 ## Hint text
 
-Hint text can be used to explain to a veteran why we are asking for a specific piece of information. If the explanation is long, instead use the [Additional Info component](https://design.va.gov/components/additional-info), below the field.  
+Hint text can be used to explain to a veteran why we are asking for a specific piece of information. If the explanation is long, instead use the [Additional Info component](https://design.va.gov/components/additional-info), below the field.
 
 <details>
 
@@ -99,11 +101,11 @@ The blue boxes are useful for listing likely tasks deeper within the main subjec
 
 ## Conditional Questions in a form
 
-When including conditional questions on a form (e.g. questions that only show up depending on how a user answers a previous question), our default should be to gather the answer to the first question, have the user click "continue," and then see the additional questions in a following page.  Previously, we had a pattern where we would "reveal" further questions based on a user's selection of a radio option or checkbox.  This can cause accessibility issues with focus and problems for folks with cognitive disabilities. Therefore, we would like to avoid that pattern when possible.  
+When including conditional questions on a form (e.g. questions that only show up depending on how a user answers a previous question), our default should be to gather the answer to the first question, have the user click "continue," and then see the additional questions in a following page.  Previously, we had a pattern where we would "reveal" further questions based on a user's selection of a radio option or checkbox.  This can cause accessibility issues with focus and problems for folks with cognitive disabilities. Therefore, we would like to avoid that pattern when possible.
 
 There are some examples where a single field is revealed, which could still be an acceptable pattern, although consider making that single field visible at all times.
 
-This does not apply necessarily to the "list loop" pattern - where the user intentionally clicks a button to answer additional questions. 
+This does not apply necessarily to the "list loop" pattern - where the user intentionally clicks a button to answer additional questions.
 
 <details>
 
