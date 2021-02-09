@@ -118,5 +118,5 @@ TBD
 </details>
 
 <div class="last-updated usa-content">
-  Last updated: <time datetime="2020-11-20">February 3, 2021</time>
+  Last updated: <time datetime="2020-02-09">February 9, 2021</time>
 </div>
