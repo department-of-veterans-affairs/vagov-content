@@ -120,3 +120,28 @@ TBD
 <div class="last-updated usa-content">
   Last updated: <time datetime="2020-11-20">February 3, 2021</time>
 </div>
+
+## Hint text
+
+When a detailed form input label is not enough to convey the meaning or purpose of the input, we have three options for including additional information:
+1. **Inline with the label**, in the case where the needed clarification is very short, for example:
+    -  Date (MM/DD/YYY)
+    -  Post-9/11 GI Bill (Chapter 33)
+2. **As subtext beneath the label**, in the case where the needed clarification is a little longer, but less than two sentences. These should likely not wrap more than twice for a total of three lines. For example:
+    - Phone number / We will only call you if we need more information about your application
+    - Utility / For example: electricity, gas, water, sewer
+3. **Within an additional information component beneath the label**, in cases where the needed clarification is long or complex, requiring more than two sentences, multiple paragraphs, or special formatting, such as bullet points or links.
+
+<details>
+
+<summary>Example hint text</summary>
+
+<code>
+TBD
+</code>
+
+</details>
+
+<div class="last-updated usa-content">
+  Last updated: <time datetime="2020-11-20">February 3, 2021</time>
+</div>
