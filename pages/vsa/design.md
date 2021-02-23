@@ -104,10 +104,6 @@ TBD
 
 </details>
 
-<div class="last-updated usa-content">
-  Last updated: <time datetime="2020-11-20">February 3, 2021</time>
-</div>
-
 ## Hint text
 
 When a detailed form input label is not enough to convey the meaning or purpose of the input, we have three options for including additional information:
@@ -130,5 +126,5 @@ TBD
 </details>
 
 <div class="last-updated usa-content">
-  Last updated: <time datetime="2020-11-20">February 3, 2021</time>
+  Last updated: <time datetime="2020-11-20">February 23rd, 2021</time>
 </div>
