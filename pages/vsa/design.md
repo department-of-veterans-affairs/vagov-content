@@ -31,19 +31,6 @@ includeBreadcrumbs: false
   <ul class="usa-unstyled-list"></ul>
 </nav>
 
-## Hint text
-
-Hint text can be used to explain to a veteran why we are asking for a specific piece of information. If the explanation is long, instead use the [Additional Info component](https://design.va.gov/components/additional-info), below the field.
-
-<details>
-
-<summary>Example hint text</summary>
-
-<code>
-Can we have devs on the debt team put code here?
-</code>
-
-</details>
 
 ## Tabs
 
@@ -130,7 +117,7 @@ When a detailed form input label is not enough to convey the meaning or purpose 
 2. **As subtext beneath the label**, in the case where the needed clarification is a little longer, but less than two sentences. These should likely not wrap more than twice for a total of three lines. For example:
     - Phone number / We will only call you if we need more information about your application
     - Utility / For example: electricity, gas, water, sewer
-3. **Within an additional information component beneath the label**, in cases where the needed clarification is long or complex, requiring more than two sentences, multiple paragraphs, or special formatting, such as bullet points or links.
+3. **Within an [Additional Info component](https://design.va.gov/components/additional-info) beneath the label**, in cases where the needed clarification is long or complex, requiring more than two sentences, multiple paragraphs, or special formatting, such as bullet points or links.
 
 <details>
 
