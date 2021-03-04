@@ -531,6 +531,8 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                </p>
                <ul>
                 <li><a href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Foreign school program approval</a></li>
+                <li><a href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Federal Agency program approval</a></li>
+                <li><a href="https://www.benefits.va.gov/GIBILL/fgib/VetTec_Providers.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">VET TEC program approval</a></li>
                </ul>
                <ul class="usa-unstyled-list">
                    <li class="hub-page-link-list__item">
@@ -557,7 +559,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            <div>
                <strong>How do you receive approval for on-the-job training programs?</strong>
                <p>
-                See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.
+                See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.  See information for <a href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Federal Agency program approval</a>.
                </p>
            </div>
         </div>            
