@@ -17,7 +17,7 @@ promo:
   - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
     url: "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
-    description: Revision 6.2.2, current as of March 5, 2021
+    description: Revision 6.2.3, current as of July 1, 2021
 crosslinks:
   - heading: Other resources to support your students
     links:
