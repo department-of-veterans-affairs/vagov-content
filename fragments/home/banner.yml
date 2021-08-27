@@ -19,7 +19,7 @@
 #
 
 visible: true
-type: info
+type: warning
 title: VA facility and status updates
 
 content: |
