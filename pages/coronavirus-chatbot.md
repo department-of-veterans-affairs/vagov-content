@@ -12,7 +12,7 @@ botframework_cdn: https://cdn.botframework.com/botframework-webchat/4.11.0/webch
 vagovprod: true
 ---
 <div class="va-introtext vads-u-margin-bottom--2">
-  Get answers to your questions about the coronavirus and VA benefits and services below.
+  Get answers to your questions about the coronavirus and VA benefits and services below...
 </div>
 
 **Note:** If you don't respond to the chatbot at least once every 60 minutes, you'll need to restart it to ask more questions.
