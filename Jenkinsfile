@@ -1,5 +1,5 @@
 import org.kohsuke.github.GitHub
-
+// comment to remove
 IS_MASTER = env.BRANCH_NAME == 'master'
 GITHUB_ORG = 'department-of-veterans-affairs'
 APP_CODE_REPO = 'vets-website'
