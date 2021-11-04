@@ -40,17 +40,11 @@ crosslinks:
 social:
   - heading: Ask questions
     subsections:
-      - subhead:
-        links:
-        - url: https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8=
-          label: "<b>FAQs for the GI Bill</b>"
-          external: true
-        - url:
-          title: "Search the FAQs to find answers to popular questions."
+     
       - subhead: 
         links:
-          - url: https://gibill.custhelp.va.gov/
-            label: "<b>Submit a question</b>"
+          - url: https://ask.va.gov/
+            label: "<b>Ask a Question (AVA)</b>"
             external: true
           - url:
             title: "Ask a question about GI Bill benefits."
