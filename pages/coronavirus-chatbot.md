@@ -23,5 +23,5 @@ vagovprod: true
 -->
 <div id="webchat" data-widget-type="va-coronavirus-chatbot"></div>
 <div class="last-updated usa-content">
-  Last updated: <time datetime="2022-01-05">January 5, 2022</time>
+  Last updated: <time datetime="2022-01-10">January 10, 2022</time>
 </div>
