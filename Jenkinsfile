@@ -2,8 +2,8 @@ import org.kohsuke.github.GitHub
 
 IS_MASTER = env.BRANCH_NAME == 'master'
 GITHUB_ORG = 'department-of-veterans-affairs'
-APP_CODE_REPO = 'content-build'
-CONTENT_REPO = 'vagov-content'
+APP_CODE_REPO = 'vets-website' //
+CONTENT_REPO = 'vagov-content' //
 
 def checkoutAppCode = {
   final scmOptions = [
