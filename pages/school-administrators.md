@@ -174,6 +174,14 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
+                       <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Ask VA (AVA) Business Dashboard Guide
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
