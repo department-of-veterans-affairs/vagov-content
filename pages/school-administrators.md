@@ -524,7 +524,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                </p>
               <ul class="usa-unstyled-list">
                   <li class="hub-page-link-list__item">
-                      <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/1481" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                      <a href="https://benefits.va.gov/gibill/School_Program_Approval.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                           <span class="hub-page-link-list__header">
                               Education program approval guidelines
                           </span>
