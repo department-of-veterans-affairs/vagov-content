@@ -277,12 +277,7 @@ Use these resources to get training and boost your skills to help support milita
                             <a href="https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                                 General school responsibility fact sheet
                             </a>
-                        </li>
-                        <li>
-                            <a href="https://gibill.custhelp.com/app/answers/detail/a_id/1436/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Process for reporting students on academic probation
-                            </a>                          
-                        </li>
+                      </li>
                     </ul>
                 </div>
             </li>
