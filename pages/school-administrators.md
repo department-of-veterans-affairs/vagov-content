@@ -31,7 +31,7 @@ crosslinks:
         title: <b>Employment assistance</b>
       - url: https://www.benefits.va.gov/GIBILL/careerscope.asp
         title: <b>CareerScope aptitude assessment</b>
-      - url: /gi-bill-comparison-tool/
+      - url: /education/gi-bill-comparison-tool/
         title: <b>GI Bill Comparison Tool</b>
       - url: https://benefits.va.gov/gibill//docs/fgib/Sample_MHA_Rate_Letters.pdf
         title: <b>Colmery Act update sample letters</b>
@@ -124,7 +124,7 @@ relatedlinks:
 
 ### Key resources for SCOs
 
-<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Public WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Find your ELR</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/covid19faqs.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>COVID-19 FAQs for SCOs</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/vrrap_educational_institutions.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VRRAP For Schools</b></a>
+<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids//SCO_Handbook.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://vaonce.vba.va.gov/vaonce_student/default.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA-ONCE Quick Reference Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Public WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Find your ELR</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/covid19faqs.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>COVID-19 FAQs for SCOs</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/vrrap_educational_institutions.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VRRAP For Schools</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Foreign Program Approval Information</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/85_15_faqs.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>85/15 FAQs</b></a>
 
 <div data-widget-type="sco-announcements"></div>
 
@@ -170,6 +170,14 @@ Use these resources to get training and boost your skills to help support milita
                             <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Veteran Readiness and Employment (VR&E) SCO Handbook
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                       <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Ask VA (AVA) Business Dashboard Guide
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -516,7 +524,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                </p>
               <ul class="usa-unstyled-list">
                   <li class="hub-page-link-list__item">
-                      <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/1481" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                      <a href="https://benefits.va.gov/gibill/School_Program_Approval.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                           <span class="hub-page-link-list__header">
                               Education program approval guidelines
                           </span>
