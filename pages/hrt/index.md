@@ -1,6 +1,6 @@
 ---
 # Page setup.
-layout: page-breadcrumbs.html
+layout: page.html
 template: detail-page
 hidesidenav: true
 
@@ -11,7 +11,7 @@ title: Harassment Report Tool
 vagovprod: false
 includeBreadcrumbs: false
 ---
-<div class="vads-l-grid-container" role="main">
+<div class="vads-l-grid-container vads-u-padding-top--5" role="main">
   <div>
     <h1>Report harassment as a Veteran or visitor to VA</h1>
     <div class="va-introtext">
@@ -30,22 +30,9 @@ includeBreadcrumbs: false
 
   <nav id="table-of-contents" aria-labelledby="on-this-page">
     <h2 class="vads-u-margin-bottom--2 vads-u-font-size--lg" id="on-this-page">On this page</h2>
-    <ul class="usa-unstyled-list" role="list"><li class="vads-u-margin-bottom--2"><a href="#what-harassment-is-and-when-to" onclick="recordEvent({ event: 'nav-jumplink-click', heading: 'what-harassment-is-and-when-to' });" class="vads-u-display--flex vads-u-text-decoration--none">
-      <i class="fas fa-arrow-down va-c-font-size--xs vads-u-margin-top--1 vads-u-margin-right--1" aria-hidden="true">
-      </i>What harassment is and when to report it</a></li><li class="vads-u-margin-bottom--2"><a href="#how-to-report-harassment-as-a-" onclick="recordEvent({ event: 'nav-jumplink-click', heading: 'how-to-report-harassment-as-a-' });" class="vads-u-display--flex vads-u-text-decoration--none">
-      <i class="fas fa-arrow-down va-c-font-size--xs vads-u-margin-top--1 vads-u-margin-right--1" aria-hidden="true">
-      </i>How to report harassment as a Veteran or visitor to VA</a></li><li class="vads-u-margin-bottom--2"><a href="#what-to-expect-after-you-repor" onclick="recordEvent({ event: 'nav-jumplink-click', heading: 'what-to-expect-after-you-repor' });" class="vads-u-display--flex vads-u-text-decoration--none">
-      <i class="fas fa-arrow-down va-c-font-size--xs vads-u-margin-top--1 vads-u-margin-right--1" aria-hidden="true">
-      </i>What to expect after you report harassment</a></li><li class="vads-u-margin-bottom--2"><a href="#questions-you-may-have-about-r" onclick="recordEvent({ event: 'nav-jumplink-click', heading: 'questions-you-may-have-about-r' });" class="vads-u-display--flex vads-u-text-decoration--none">
-      <i class="fas fa-arrow-down va-c-font-size--xs vads-u-margin-top--1 vads-u-margin-right--1" aria-hidden="true">
-      </i>Questions you may have about reporting harassment at VA</a></li><li class="vads-u-margin-bottom--2"><a href="#more-helpful-information" onclick="recordEvent({ event: 'nav-jumplink-click', heading: 'more-helpful-information' });" class="vads-u-display--flex vads-u-text-decoration--none">
-      <i class="fas fa-arrow-down va-c-font-size--xs vads-u-margin-top--1 vads-u-margin-right--1" aria-hidden="true">
-      </i>
-      More helpful information
-      </a></li>
-    </ul>
+    <ul class="usa-unstyled-list" role="list"><li class="vads-u-margin-bottom--2"></ul>
   </nav>
-  
+
   <div class="feature">
     <div data-template="paragraphs/wysiwyg" data-entity-id="86851" class="processed-content">
       <div itemprop="text">
