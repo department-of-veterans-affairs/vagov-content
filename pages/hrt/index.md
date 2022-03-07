@@ -34,29 +34,6 @@ includeBreadcrumbs: false
     <h2 class="vads-u-margin-bottom--2 vads-u-font-size--lg" id="on-this-page">On this page</h2>
     <ul class="usa-unstyled-list" role="list"><li class="vads-u-margin-bottom--2"></ul>
   </nav>
-<<<<<<< HEAD
-=======
-
-  <div class="feature">
-    <div data-template="paragraphs/wysiwyg" data-entity-id="86851" class="processed-content">
-      <div itemprop="text">
-          <h2 id="what-harassment-is-and-when-to">What harassment is and when to report it</h2>
-          <p>Harassment is any unwelcome behavior that intimidates, offends, or creates a hostile space.&nbsp;It can sometimes be sexual in nature. And it can&nbsp;come in many forms:</p>
-          <ul>
-            <li>Verbal comments or threats</li>
-            <li>Physical gestures or threats</li>
-            <li>Images, emails, text messages, or written messages</li>
-          </ul>
-          <p>We encourage you to tell us right away if either of these situations happens to you:</p>
-          <ul>
-            <li><strong>Someone makes you feel uncomfortable or unsafe at VA. </strong>This can include at a VA location, during a phone or video call, or in written communications. We’ll support you through each step of the reporting and resolution process. And we’ll connect you with any counseling or other support you may need.</li>
-            <li><strong>You see or hear harassment of someone else at VA. </strong>We’re committed to making VA a comfortable and safe place for all. And we need your help.</li>
-          </ul>
-          <p>If someone touches your body in a sexual way without your consent, call the VA police at <a aria-label="X X X.X X X.X X X X." href="tel:+1XXXXXXXXXX">XXX-XXX-XXXX</a> or&nbsp;<a aria-label="9 1 1." href="tel:+911">911</a>&nbsp;to get help right away.</p>
-        </div>
-    </div>
-  </div>
->>>>>>> e6f6ed4b91400a05cc051ccc41f39cf6b78c08c4
 
   <div data-template="paragraphs/wysiwyg" data-entity-id="80755" class="processed-content">
     <div itemprop="text">
