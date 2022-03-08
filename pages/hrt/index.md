@@ -18,31 +18,29 @@ includeBreadcrumbs: false
       <p>Everyone has the right to safety and respect at VA. Harassment is any unwanted behavior that creates a hostile space. It’s not your fault. And it can happen to anyone. Read this page to learn how to report harassment and what to expect when you do. We’ll support you, and respect your need for confidentiality, at every step of the process.</p>
     </div>
   </div>
-
-  <div class="alert info vads-u-margin-top--3" role="alert">
+  <va-alert data-template="blocks/alert" data-entity-id="110" status="info" class="vads-u-margin-top--3 hydrated" role="alert">
     <i aria-hidden="true" role="img"></i>
-    <div class="body" role="presentation">
-      <h2 slot="headline" class="vads-u-font-size--h3" id="how-to-quickly-get-the-help-yo">
+    <div class="body vads-u-margin-top--0" role="presentation">
+      <h2 slot="headline" class="vads-u-font-size--h3 vads-u-margin-top--0" id="how-to-quickly-get-the-help-yo">
         How to quickly get the help you need
       </h2>
       <ul>
         <li>
-          <strong>If you’ve been sexually assaulted or you’re at risk of harm now:</strong> 
+          <strong>If you’ve been sexually assaulted or you’re at risk of harm now:</strong>
           Call <a aria-label="9 1 1." href=tel:+911>911</a> or the VA police to get help right away.
         </li>
         <li>
-          <strong>If you want to file a harassment report:</strong> 
+          <strong>If you want to file a harassment report:</strong>
           Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href=tel:+18004888244>800-488-8244</a> (TTY: <a aria-label="7 1 1." href=tel:711>711</a>).
           We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we’re here 9:00 a.m. to 1:00 p.m. ET.
         </li>
         <li>
-          <strong>If you’re in crisis and need to talk with someone now:</strong> 
+          <strong>If you’re in crisis and need to talk with someone now:</strong>
           Call our Veterans Crisis Line at <a href=tel:18002738255>800-273-8255</a> and select 1 (TTY: <a aria-label="8 0 0. 7 9 9. 4 8 8 9." href=tel:+18007994889>800-799-4889</a>). Or text <a href="sms:838255" hreflang="en">838255</a>. Our caring, qualified responders offer confidential help anytime day or night—24/7. Many of them are Veterans themselves.
         </li>
       </ul>
-    </div>
   </div>
-
+</va-alert>
   <nav id="table-of-contents" aria-labelledby="on-this-page">
     <h2 class="vads-u-margin-bottom--2 vads-u-font-size--lg" id="on-this-page">On this page</h2>
     <ul class="usa-unstyled-list" role="list"><li class="vads-u-margin-bottom--2"></ul>
@@ -249,15 +247,15 @@ includeBreadcrumbs: false
 
   <div data-template="paragraphs/collapsible_panel" data-entity-id="80751" data-multiselectable="false" class="vads-u-padding-bottom--5">
     <va-accordion class="hydrated">
-      <va-accordion-item 
-        header="What if I’m not comfortable giving my name with my report?" 
-        id="what-if-im-not-comfortable-giv-80747" 
+      <va-accordion-item
+        header="What if I’m not comfortable giving my name with my report?"
+        id="what-if-im-not-comfortable-giv-80747"
         class="hydrated"
       >
-        <div 
-          id="80747" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="80747" 
+        <div
+          id="80747"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="80747"
           data-analytics-faq-text="What if I’m not comfortable giving my name with my report?"
         >
           <div id="collapsible_panel_item-80747">
@@ -281,15 +279,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="What if I only want to talk with a woman staff member at VA?" 
-        id="what-if-i-only-want-to-talk-wi-104475" 
+      <va-accordion-item
+        header="What if I only want to talk with a woman staff member at VA?"
+        id="what-if-i-only-want-to-talk-wi-104475"
         class="hydrated"
       >
-        <div 
-          id="104475" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="104475" 
+        <div
+          id="104475"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="104475"
           data-analytics-faq-text="What if I only want to talk with a woman staff member at VA?"
         >
           <div id="collapsible_panel_item-104475">
@@ -314,15 +312,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="Can I change my mind after I file a report?" 
-        id="can-i-change-my-mind-after-i-f-80749" 
+      <va-accordion-item
+        header="Can I change my mind after I file a report?"
+        id="can-i-change-my-mind-after-i-f-80749"
         class="hydrated"
       >
-        <div 
-          id="80749" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="80749" 
+        <div
+          id="80749"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="80749"
           data-analytics-faq-text="Can I change my mind after I file a report?"
         >
           <div id="collapsible_panel_item-80749">
@@ -334,15 +332,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="What happens if I don’t agree with the outcome of this process?" 
-        id="what-happens-if-i-dont-agree-w-80887" 
+      <va-accordion-item
+        header="What happens if I don’t agree with the outcome of this process?"
+        id="what-happens-if-i-dont-agree-w-80887"
         class="hydrated"
       >
-        <div 
-          id="80887" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="80887" 
+        <div
+          id="80887"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="80887"
           data-analytics-faq-text="What happens if I don’t agree with the outcome of this process?"
         >
           <div id="collapsible_panel_item-80887">
@@ -361,15 +359,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="What should I do if the harassment continues?" 
-        id="what-should-i-do-if-the-harass-82731" 
+      <va-accordion-item
+        header="What should I do if the harassment continues?"
+        id="what-should-i-do-if-the-harass-82731"
         class="hydrated"
       >
-        <div 
-          id="82731" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="82731" 
+        <div
+          id="82731"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="82731"
           data-analytics-faq-text="What should I do if the harassment continues?"
         >
           <div id="collapsible_panel_item-82731">
@@ -391,15 +389,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="If I’m a VA employee, contractor, or volunteer, how do I report harassment at VA?" 
-        id="if-im-a-va-employee-contractor-80748" 
+      <va-accordion-item
+        header="If I’m a VA employee, contractor, or volunteer, how do I report harassment at VA?"
+        id="if-im-a-va-employee-contractor-80748"
         class="hydrated"
       >
-        <div 
-          id="80748" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="80748" 
+        <div
+          id="80748"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="80748"
           data-analytics-faq-text="If I’m a VA employee, contractor, or volunteer, how do I report harassment at VA?"
         >
           <div id="collapsible_panel_item-80748">
@@ -418,15 +416,15 @@ includeBreadcrumbs: false
           </div>
         </div>
       </va-accordion-item>
-      <va-accordion-item 
-        header="What if I’m a Veteran who also works as a VA employee, contractor, or volunteer?" 
-        id="what-if-im-a-veteran-who-also--84958" 
+      <va-accordion-item
+        header="What if I’m a Veteran who also works as a VA employee, contractor, or volunteer?"
+        id="what-if-im-a-veteran-who-also--84958"
         class="hydrated"
       >
-        <div 
-          id="84958" 
-          data-template="paragraphs/collapsible_panel__panel" 
-          data-entity-id="84958" 
+        <div
+          id="84958"
+          data-template="paragraphs/collapsible_panel__panel"
+          data-entity-id="84958"
           data-analytics-faq-text="What if I’m a Veteran who also works as a VA employee, contractor, or volunteer?"
         >
           <div id="collapsible_panel_item-84958">
@@ -461,10 +459,10 @@ includeBreadcrumbs: false
               More helpful information
             </h2>
             <ul class="va-nav-linkslist-list">
-              <li 
-                data-template="paragraphs/linkTeaser" 
-                data-entity-id="81825" 
-                data-links-list-header="VA mental health services" 
+              <li
+                data-template="paragraphs/linkTeaser"
+                data-entity-id="81825"
+                data-links-list-header="VA mental health services"
                 data-links-list-section-header="More helpful information"
               >
                 <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="va-mental-health-services">
@@ -472,10 +470,10 @@ includeBreadcrumbs: false
                 </h3>
                 <p class="va-nav-linkslist-description">Find out how to get support for post-traumatic stress disorder (PTSD) and other mental health needs. You can use some services even if you’re not enrolled in VA health care.</p>
             </li>
-            <li 
-              data-template="paragraphs/linkTeaser" 
-              data-entity-id="81826" 
-              data-links-list-header="Military sexual trauma (MST)" 
+            <li
+              data-template="paragraphs/linkTeaser"
+              data-entity-id="81826"
+              data-links-list-header="Military sexual trauma (MST)"
               data-links-list-section-header="More helpful information"
             >
               <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="military-sexual-trauma-mst">
@@ -483,10 +481,10 @@ includeBreadcrumbs: false
               </h3>
               <p class="va-nav-linkslist-description">We provide free treatment for any physical or mental health conditions related to your experiences of MST. You don’t need documentation of the MST experiences or a VA disability rating to get care. Find out how to get support now.</p>
             </li>
-            <li 
-              data-template="paragraphs/linkTeaser" 
-              data-entity-id="81827" 
-              data-links-list-header="Your civil rights and how to file a discrimination complaint" 
+            <li
+              data-template="paragraphs/linkTeaser"
+              data-entity-id="81827"
+              data-links-list-header="Your civil rights and how to file a discrimination complaint"
               data-links-list-section-header="More helpful information"
             >
               <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="your-civil-rights-and-how-to-f">
@@ -501,7 +499,7 @@ includeBreadcrumbs: false
   </div>
 
   <va-back-to-top class="hydrated" style="--undocked-width:0px;"></va-back-to-top>
-  
+
   <!-- Last updated & feedback button-->
   <div class="last-updated usa-content vads-u-padding-x--1 large-screen:vads-u-padding-x--0">
     <div class="vads-u-display--flex above-footer-elements-container">
