@@ -18,6 +18,7 @@ includeBreadcrumbs: false
       <p>Everyone has the right to safety and respect at VA. Harassment is any unwanted behavior that creates a hostile space. It’s not your fault. And it can happen to anyone. Read this page to learn how to report harassment and what to expect when you do. We’ll support you, and respect your need for confidentiality, at every step of the process.</p>
     </div>
   </div>
+
   <va-alert data-template="blocks/alert" data-entity-id="110" status="info" class="vads-u-margin-top--3 hydrated" role="alert">
     <i aria-hidden="true" role="img"></i>
     <div class="body vads-u-margin-top--0" role="presentation">
@@ -39,8 +40,9 @@ includeBreadcrumbs: false
           Call our Veterans Crisis Line at <a href=tel:18002738255>800-273-8255</a> and select 1 (TTY: <a aria-label="8 0 0. 7 9 9. 4 8 8 9." href=tel:+18007994889>800-799-4889</a>). Or text <a href="sms:838255" hreflang="en">838255</a>. Our caring, qualified responders offer confidential help anytime day or night—24/7. Many of them are Veterans themselves.
         </li>
       </ul>
-  </div>
-</va-alert>
+    </div>
+  </va-alert>
+  
   <nav id="table-of-contents" aria-labelledby="on-this-page">
     <h2 class="vads-u-margin-bottom--2 vads-u-font-size--lg" id="on-this-page">On this page</h2>
     <ul class="usa-unstyled-list" role="list"><li class="vads-u-margin-bottom--2"></ul>
@@ -55,7 +57,7 @@ includeBreadcrumbs: false
 
   <div data-template="paragraphs/wysiwyg" data-entity-id="103734" class="processed-content">
     <div itemprop="text">
-      <h2 id="report-harassment-by-phone">Report harassment by phone</h2>
+      <h3 id="report-harassment-by-phone">Report harassment by phone</h3>
       <p>Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href=tel:+18004888244>800-488-8244</a>.</p>    
       <p>We’re here Mondays, Tuesdays, Wednesdays, and Fridays, 9:00 a.m. to 4:00 p.m. ET and Thursdays, 9:00 a.m. to 1:00 p.m. ET.</p>      
       <p>If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href=tel:711>711</a>.</p>    
@@ -209,7 +211,7 @@ includeBreadcrumbs: false
 
   <div data-template="paragraphs/wysiwyg" data-entity-id="82185" class="processed-content">
     <div itemprop="text">
-      <h2 id="what-to-expect-after-you-file-">What to expect after you file your report</h2>
+      <h3 id="what-to-expect-after-you-file-">What to expect after you file your report</h3>
     </div>
   </div>
 
@@ -249,6 +251,7 @@ includeBreadcrumbs: false
     <va-accordion class="hydrated">
       <va-accordion-item
         header="What if I’m not comfortable giving my name with my report?"
+        level="3"
         id="what-if-im-not-comfortable-giv-80747"
         class="hydrated"
       >
@@ -281,6 +284,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="What if I only want to talk with a woman staff member at VA?"
+        level="3"
         id="what-if-i-only-want-to-talk-wi-104475"
         class="hydrated"
       >
@@ -314,6 +318,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="Can I change my mind after I file a report?"
+        level="3"
         id="can-i-change-my-mind-after-i-f-80749"
         class="hydrated"
       >
@@ -334,6 +339,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="What happens if I don’t agree with the outcome of this process?"
+        level="3"
         id="what-happens-if-i-dont-agree-w-80887"
         class="hydrated"
       >
@@ -361,6 +367,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="What should I do if the harassment continues?"
+        level="3"
         id="what-should-i-do-if-the-harass-82731"
         class="hydrated"
       >
@@ -391,6 +398,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="If I’m a VA employee, contractor, or volunteer, how do I report harassment at VA?"
+        level="3"
         id="if-im-a-va-employee-contractor-80748"
         class="hydrated"
       >
@@ -418,6 +426,7 @@ includeBreadcrumbs: false
       </va-accordion-item>
       <va-accordion-item
         header="What if I’m a Veteran who also works as a VA employee, contractor, or volunteer?"
+        level="3"
         id="what-if-im-a-veteran-who-also--84958"
         class="hydrated"
       >
@@ -505,7 +514,7 @@ includeBreadcrumbs: false
     <div class="vads-u-display--flex above-footer-elements-container">
       <div class="vads-u-flex--auto">
         <span class="vads-u-text-align--justify">
-          <p>Last updated: <time datetime="2022-02-24">February 24, 2022</time></p>
+          <p>Last updated: <time datetime="2022-02-24">March 09, 2022</time></p>
         </span>
       </div>
       <div class="vads-u-flex--1 vads-u-text-align--right">
