@@ -73,7 +73,7 @@ includeBreadcrumbs: false
     </button>
     <span id="additional-info-0">
       <div class="additional-info-content">
-        <p>First, please know that we respect your privacy. We ask fory our name and contact information so we canconduct a full inquiry and follow up with you when we’re done.</p>
+        <p>First, please know that we respect your privacy. We ask for your name and contact information so we can conduct a full inquiry and follow up with you when we’re done.</p>
         <p>Here are your options for confidential or anonymous reporting:</p>        
         <ul>
           <li>
@@ -191,7 +191,7 @@ includeBreadcrumbs: false
        </button>
      <span id="additional-info-2">
        <div class="additional-info-content">
-        <p>First, please know that we respect your privacy. We ask foryour name and contact informationso we canconduct a full inquiry and follow up with you when we’re done.</p>
+        <p>First, please know that we respect your privacy. We ask for your name and contact information so we can conduct a full inquiry and follow up with you when we’re done.</p>
         <p>Here are your options for confidential or anonymous reporting:</p>
         <ul>
           <li>
