@@ -28,16 +28,16 @@ includeBreadcrumbs: false
       <ul>
         <li>
           <strong>If you’ve been sexually assaulted or you’re at risk of harm now:</strong>
-          Call <a aria-label="9 1 1." href=tel:+911>911</a> or the VA police to get help right away.
+          Call <a aria-label="9 1 1." href="tel:911">911</a> or the VA police to get help right away.
         </li>
         <li>
           <strong>If you want to file a harassment report:</strong>
-          Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href=tel:+18004888244>800-488-8244</a> (TTY: <a aria-label="7 1 1." href=tel:711>711</a>).
+          Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href="tel:18004888244">800-488-8244</a> (TTY: <a aria-label="7 1 1." href="tel:711">711</a>).
           We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we’re here 9:00 a.m. to 1:00 p.m. ET.
         </li>
         <li>
           <strong>If you’re in crisis and need to talk with someone now:</strong>
-          Call our Veterans Crisis Line at <a href=tel:18002738255>800-273-8255</a> and select 1 (TTY: <a aria-label="8 0 0. 7 9 9. 4 8 8 9." href=tel:+18007994889>800-799-4889</a>). Or text <a href="sms:838255" hreflang="en">838255</a>. Our caring, qualified responders offer confidential help anytime day or night—24/7. Many of them are Veterans themselves.
+          Call our Veterans Crisis Line at <a href="tel:18002738255">800-273-8255</a> and select 1 (TTY: <a aria-label="8 0 0. 7 9 9. 4 8 8 9." href="tel:18007994889">800-799-4889</a>). Or text <a href="sms:838255">838255</a>. Our caring, qualified responders offer confidential help anytime day or night—24/7. Many of them are Veterans themselves.
         </li>
       </ul>
     </div>
@@ -58,9 +58,9 @@ includeBreadcrumbs: false
   <div data-template="paragraphs/wysiwyg" data-entity-id="103734" class="processed-content">
     <div itemprop="text">
       <h3 id="report-harassment-by-phone">Report harassment by phone</h3>
-      <p>Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href=tel:+18004888244>800-488-8244</a>.</p>    
+      <p>Call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href="tel:18004888244">800-488-8244</a>.</p>    
       <p>We’re here Mondays, Tuesdays, Wednesdays, and Fridays, 9:00 a.m. to 4:00 p.m. ET and Thursdays, 9:00 a.m. to 1:00 p.m. ET.</p>      
-      <p>If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href=tel:711>711</a>.</p>    
+      <p>If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href="tel:711">711</a>.</p>    
     </div>
   </div>
 
@@ -73,7 +73,7 @@ includeBreadcrumbs: false
     </button>
     <span id="additional-info-0">
       <div class="additional-info-content">
-        <p>First, please know that we respect your privacy. We ask foryour name and contact informationso we canconduct a full inquiry and follow up with youwhen we’re done.</p>
+        <p>First, please know that we respect your privacy. We ask fory our name and contact information so we canconduct a full inquiry and follow up with you when we’re done.</p>
         <p>Here are your options for confidential or anonymous reporting:</p>        
         <ul>
           <li>
@@ -84,7 +84,7 @@ includeBreadcrumbs: false
           </li>
           <li>
             <strong>If you don’t want to give your name at all,</strong> you can file an anonymous report with the Office of the Inspector General (OIG). The OIG office will then lead the investigation. We won’t be involved and can’t offer support during the process.
-            <br><a href=https://www.va.gov/oig/hotline/hreflang="en">Learn more about filing a report with the OIG</a>
+            <br><a href="https://www.va.gov/oig/hotline/">Learn more about filing a report with the OIG</a>
           </li>
         </ul>
       </div>
@@ -100,7 +100,7 @@ includeBreadcrumbs: false
           <strong>VA health facility:</strong> Tell a VA patient advocate, police officer, or building security professional.
         </li>
         <li>
-          <strong>VA Vet Center:</strong> Tell the center’s supervisor.They’ll connect you with the local VA harassment prevention coordinator.
+          <strong>VA Vet Center:</strong> Tell the center’s supervisor. They’ll connect you with the local VA harassment prevention coordinator.
         </li>
         <li>
           <strong>VA regional office:</strong> Tell a VA police officer or building security professional. They’ll connect you with the local VA harassment prevention coordinator.</p>
@@ -123,19 +123,19 @@ includeBreadcrumbs: false
         <p>To report harassment at a VA national cemetery, call any of our district offices:</p>
         <ul>
           <li>
-            <strong>Pacific District:</strong> Call Ronny Alvarez at <a aria-label="5 1 0. 6 3 7. 6 2 8 3." href=tel:+15106376283>510-637-6283</a>.
+            <strong>Pacific District:</strong> Call Ronny Alvarez at <a aria-label="5 1 0. 6 3 7. 6 2 8 3." href="tel:15106376283">510-637-6283</a>.
           </li>
           <li>
-            <strong>Southeast District:</strong> Call Mia Colemon at <a aria-label="4 0 4. 9 2 9. 5 8 9 9." href=tel:+14049295899>404-929-5899</a>.
+            <strong>Southeast District:</strong> Call Mia Colemon at <a aria-label="4 0 4. 9 2 9. 5 8 9 9." href="tel:14049295899">404-929-5899</a>.
           </li>
           <li>
-            <strong>North Atlantic District:</strong> Call Maria Garza at <a aria-label="2 1 5. 3 8 1. 3 7 8 7." href=tel:+12153813787>215-381-3787</a>.
+            <strong>North Atlantic District:</strong> Call Maria Garza at <a aria-label="2 1 5. 3 8 1. 3 7 8 7." href="tel:12153813787">215-381-3787</a>.
           </li>
           <li>
-            <strong>Midwest District:</strong> Call Jennie Baudendistel at <a aria-label="3 1 7. 9 1 6. 3 7 9 0." href=tel:+13179163790>317-916-3790</a>.
+            <strong>Midwest District:</strong> Call Jennie Baudendistel at <a aria-label="3 1 7. 9 1 6. 3 7 9 0." href="tel:13179163790">317-916-3790</a>.
           </li>
           <li>
-            <strong>Continental District:</strong> Call Dave Zimmerman at <a aria-label="3 0 3. 9 1 4. 5 7 2 0." href=tel:+13039145720>303-914-5720</a>.
+            <strong>Continental District:</strong> Call Dave Zimmerman at <a aria-label="3 0 3. 9 1 4. 5 7 2 0." href="tel:13039145720">303-914-5720</a>.
           </li>
         </ul>
       </div>
@@ -161,7 +161,7 @@ includeBreadcrumbs: false
           <strong>You see or hear harassment of someone else at VA.</strong> We’re committed to making VA a comfortable and safe place for all. And we need your help.
         </li>
       </ul>
-      <p>If someone touches your body in a sexual way without your consent, call <a aria-label="9 1 1." href=tel:+911>911</a> or the VA police to get help right away.</p>
+      <p>If someone touches your body in a sexual way without your consent, call <a aria-label="9 1 1." href="tel:911">911</a> or the VA police to get help right away.</p>
     </div>
   </div>
 
@@ -202,7 +202,7 @@ includeBreadcrumbs: false
           </li>
           <li>
             <strong>If you don’t want to give your name at all,</strong> you can file an anonymous report with the Office of the Inspector General (OIG). The OIG office will then lead the investigation. We won’t be involved and can’t offer support during the process.
-            <br><a href=https://www.va.gov/oig/hotline/hreflang="en">Learn more about filing a report with the OIG</a>
+            <br><a href="https://www.va.gov/oig/hotline/">Learn more about filing a report with the OIG</a>
           </li>
         </ul>
       </div>
@@ -274,7 +274,7 @@ includeBreadcrumbs: false
                     <strong>If you don’t want us to share your name with anyone,</strong> you can tell us this when you file your report. Only our main office staff will then have access to your name. We won’t share it with the team who conducts the inquiry or anyone else. We’ll conduct as full of an inquiry as we can with the information we have.</li>
                   <li>
                     <strong>If you don’t want to give your name at all,</strong> you can file an anonymous report with the Office of the Inspector General (OIG). The OIG office will then lead the investigation. We won’t be involved and can’t offer support during the process.
-                    <br><a href=https://www.va.gov/oig/hotline/hreflang="en">Learn more about filing a report with the OIG</a>
+                    <br><a href="https://www.va.gov/oig/hotline/">Learn more about filing a report with the OIG</a>
                   </li>
                 </ul>
               </div>
@@ -300,15 +300,15 @@ includeBreadcrumbs: false
                 <p>If you experienced harassment at a VA health care facility, you can contact a Women Veterans program manager. All of our program managers are women.</p>
                 <ul>
                   <li>
-                    Contact your local medical center and ask for the Women Veterans program manager .
-                    <br><a href=https://www.va.gov/find-locations/hreflang="en">Find a VA medical center near you</a>
+                    Contact your local medical center and ask for the Women Veterans program manager.
+                    <br><a href="https://www.va.gov/find-locations/">Find a VA medical center near you</a>
                   </li>
                   <li>
                     Call our Women Veterans Call Center at <a aria-label="8 5 5. 8 2 9. 6 6 3 6." href=tel:+18558296636>855-829-6636</a>, Monday through Friday, 8:00 a.m. to 10:00 p.m. ET, and Saturday, 8:00 a.m. to 6:30 p.m. ET. We’ll connect you with your local manager.
                   </li>
                   <li>
                     Chat online with a trained Women Veterans Call Center representative Monday through Friday, 8:00 a.m. to 10:00 p.m. ET. This chat function is private and anonymous. Please don’t include any personal information, like your Social Security number.
-                    <br><a href=https://productionchat.vrm.vba.va.gov/system/templates/chat/wvcc/chat.html?entryPointId=1009&amp;templateName=wvcc&amp;languageCode=en&amp;countryCode=US&amp;ver=v11hreflang="en">Start a chat with the Women Veterans Call Center</a>
+                    <br><a href="https://productionchat.vrm.vba.va.gov/system/templates/chat/wvcc/chat.html?entryPointId=1009&amp;templateName=wvcc&amp;languageCode=en&amp;countryCode=US&amp;ver=v11">Start a chat with the Women Veterans Call Center</a>
                   </li>
                 </ul>
               </div>
@@ -412,12 +412,12 @@ includeBreadcrumbs: false
             <div data-template="paragraphs/wysiwyg" data-entity-id="80748" class="processed-content">
               <div itemprop="text">
                 <p>You can report harassment to a VA manager or harassment prevention coordinator.</p>
-                <p>You can also call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href=tel:+18004888244>800-488-8244</a>. We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we're here 9:00 a.m. to 1:00 p.m. ET.If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href=tel:711>711</a>.</p>
+                <p>You can also call us at <a aria-label="8 0 0. 4 8 8. 8 2 4 4." href="tel:+18004888244">800-488-8244</a>. We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we're here 9:00 a.m. to 1:00 p.m. ET. If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href="tel:711">711</a>.</p>
                 <p>
-                  <a href=https://www.va.gov/ORMDI/HPP.asphreflang="en">Learn more about reporting harassment as a VA employee</a>
+                  <a href="https://www.va.gov/ORMDI/HPP.asp">Learn more about reporting harassment as a VA employee</a>
                 </p>
                 <p>
-                  <a href=https://www.va.gov/ORMDI/docs/EEO_Policy.pdfhreflang="en">Read our VA Equal Employment Opportunity, Diversity, and Inclusion, No FEAR, and Whistleblower Rights and Protection Policy Statement (PDF)</a>
+                  <a href="https://www.va.gov/ORMDI/docs/EEO_Policy.pdf">Read our VA Equal Employment Opportunity, Diversity, and Inclusion, No FEAR, and Whistleblower Rights and Protection Policy Statement (PDF)</a>
                 </p>
               </div>
             </div>
@@ -445,12 +445,12 @@ includeBreadcrumbs: false
                 <p><a href="#how-to-report-harassment-as-a-">Go to the instructions for how to report harassment as a Veteran</a></p>
                 <h4>If the harassment happened while you were doing your work as a VA employee, contractor, or volunteer</h4>
                 <p>You can report harassment to a VA manager or harassment prevention coordinator.</p>
-                <p>You can also call us at <a href=tel:8004888244target="_blank">800-488-8244</a>. We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we’re here 9:00 a.m. to 1:00 p.m. ET.If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href=tel:711>711</a>.</p>
+                <p>You can also call us at <a href="tel:8004888244" target="_blank">800-488-8244</a>. We’re here Monday through Wednesday and Friday, 9:00 a.m. to 4:00 p.m. ET. On Thursday we’re here 9:00 a.m. to 1:00 p.m. ET. If you have hearing loss and need help to make a TTY call, call <a aria-label="7 1 1." href="tel:711">711</a>.</p>
                 <p>
-                  <a href=https://www.va.gov/ORMDI/HPP.asphreflang="en">Learn more about reporting harassment as a VA employee</a>
+                  <a href="https://www.va.gov/ORMDI/HPP.asp">Learn more about reporting harassment as a VA employee</a>
                 </p>
                 <p>
-                  <a href=https://www.va.gov/ORMDI/docs/EEO_Policy.pdfhreflang="en">Read our VA Equal Employment Opportunity, Diversity, and Inclusion, No FEAR, and Whistleblower Rights and Protection Policy Statement (PDF)</a>
+                  <a href="https://www.va.gov/ORMDI/docs/EEO_Policy.pdf">Read our VA Equal Employment Opportunity, Diversity, and Inclusion, No FEAR, and Whistleblower Rights and Protection Policy Statement (PDF)</a>
                 </p>
               </div>
             </div>
@@ -475,7 +475,7 @@ includeBreadcrumbs: false
                 data-links-list-section-header="More helpful information"
               >
                 <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="va-mental-health-services">
-                  <a href="/health-care/health-needs-conditions/mental-health" class="vads-u-text-decoration--underline" hreflang="en">VA mental health services</a>
+                  <a href="/health-care/health-needs-conditions/mental-health" class="vads-u-text-decoration--underline">VA mental health services</a>
                 </h3>
                 <p class="va-nav-linkslist-description">Find out how to get support for post-traumatic stress disorder (PTSD) and other mental health needs. You can use some services even if you’re not enrolled in VA health care.</p>
             </li>
@@ -486,7 +486,7 @@ includeBreadcrumbs: false
               data-links-list-section-header="More helpful information"
             >
               <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="military-sexual-trauma-mst">
-                <a href="/health-care/health-needs-conditions/military-sexual-trauma" class="vads-u-text-decoration--underline" hreflang="en">Military sexual trauma (MST)</a>
+                <a href="/health-care/health-needs-conditions/military-sexual-trauma" class="vads-u-text-decoration--underline">Military sexual trauma (MST)</a>
               </h3>
               <p class="va-nav-linkslist-description">We provide free treatment for any physical or mental health conditions related to your experiences of MST. You don’t need documentation of the MST experiences or a VA disability rating to get care. Find out how to get support now.</p>
             </li>
@@ -497,7 +497,7 @@ includeBreadcrumbs: false
               data-links-list-section-header="More helpful information"
             >
               <h3 class="va-nav-linkslist-title vads-u-font-size--h4" id="your-civil-rights-and-how-to-f">
-                <a href="/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint" class="vads-u-text-decoration--underline" hreflang="en">Your civil rights and how to file a discrimination complaint</a>
+                <a href="/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint" class="vads-u-text-decoration--underline">Your civil rights and how to file a discrimination complaint</a>
               </h3>
               <p class="va-nav-linkslist-description">Learn about your civil rights at VA. And find out how to file a complaint if you feel you’ve experienced discrimination.</p>
             </li>
