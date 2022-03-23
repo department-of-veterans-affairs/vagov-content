@@ -19,7 +19,7 @@ promo:
     url: "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
     description: Revision 6.3, current as of October 29, 2021
 crosslinks:
-  - heading: Other resources to support your students
+  - heading: Other resources to support your students.
     links:
       - url: /education/how-to-apply/
         title: <b>How to apply for education benefits</b>
