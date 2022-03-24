@@ -15,83 +15,82 @@ concurrency:
   cancel-in-progress: ${{ github.ref != 'refs/heads/master' }}
 
 jobs:
-  # start-runner:
-  #   runs-on: ubuntu-latest
-  #   outputs:
-  #     vagovprod: ${{ steps.start-ec2-runner-name.outputs.vagovprod }}
-  #     vagovprod-id: ${{ steps.start-ec2-runner-id.outputs.vagovprod }}
-  #   env:
-  #     INSTANCE_TYPE: c5.4xlarge
+  start-runner:
+    runs-on: ubuntu-latest
+    outputs:
+      vagovprod: ${{ steps.start-ec2-runner-name.outputs.vagovprod }}
+      vagovprod-id: ${{ steps.start-ec2-runner-id.outputs.vagovprod }}
+    env:
+      INSTANCE_TYPE: c5.4xlarge
 
-  #   strategy:
-  #     fail-fast: true
-  #     matrix:
-  #       buildtype: [vagovprod]
+    strategy:
+      fail-fast: true
+      matrix:
+        buildtype: [vagovprod]
 
-  #   steps:
-  #     - name: Configure AWS Credentials
-  #       uses: aws-actions/configure-aws-credentials@v1
-  #       with:
-  #         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-  #         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-  #         aws-region: us-gov-west-1
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-gov-west-1
 
-  #     - name: Get bot token from Parameter Store
-  #       uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
-  #       with:
-  #         ssm_parameter: /devops/VA_VSP_BOT_GITHUB_TOKEN
-  #         env_variable_name: VA_VSP_BOT_GITHUB_TOKEN
+      - name: Get bot token from Parameter Store
+        uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
+        with:
+          ssm_parameter: /devops/VA_VSP_BOT_GITHUB_TOKEN
+          env_variable_name: VA_VSP_BOT_GITHUB_TOKEN
 
-  #     - name: Get latest GHA Runner AMI ID # AMI images are rebuilt every 15 days, use the latest one
-  #       run: |
-  #         echo "RUNNER_AMI_ID=$(aws ec2 describe-images \
-  #         --owners 008577686731 \
-  #         --filters Name=state,Values=available \
-  #         --filters Name=name,Values=packer-gha-runner-ubuntu2004* \
-  #         --query 'sort_by(Images,&CreationDate)[-1].ImageId' \
-  #         --output text)" >> $GITHUB_ENV
+      - name: Get latest GHA Runner AMI ID # AMI images are rebuilt every 15 days, use the latest one
+        run: |
+          echo "RUNNER_AMI_ID=$(aws ec2 describe-images \
+          --owners 008577686731 \
+          --filters Name=state,Values=available \
+          --filters Name=name,Values=packer-gha-runner-ubuntu2004* \
+          --query 'sort_by(Images,&CreationDate)[-1].ImageId' \
+          --output text)" >> $GITHUB_ENV
 
-  #     - name: Get Subnet with the most free IPs # We will run these in the dsva-vagov-utility-2x subnet, so filter for those
-  #       run: |
-  #         echo "SUBNET_ID=$(aws ec2 describe-subnets \
-  #         --filters "Name=tag:Name,Values=dsva-vagov-utility-subnet-2*" \
-  #         --query 'sort_by(Subnets,&AvailableIpAddressCount)[-1].SubnetId' \
-  #         --output text)" >> $GITHUB_ENV
+      - name: Get Subnet with the most free IPs # We will run these in the dsva-vagov-utility-2x subnet, so filter for those
+        run: |
+          echo "SUBNET_ID=$(aws ec2 describe-subnets \
+          --filters "Name=tag:Name,Values=dsva-vagov-utility-subnet-2*" \
+          --query 'sort_by(Subnets,&AvailableIpAddressCount)[-1].SubnetId' \
+          --output text)" >> $GITHUB_ENV
 
-  #     - name: Start EC2 Runner
-  #       id: start-ec2-runner
-  #       uses: department-of-veterans-affairs/ec2-github-runner@main
-  #       with:
-  #         mode: start
-  #         github-token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
-  #         ec2-image-id: ${{ env.RUNNER_AMI_ID }}
-  #         ec2-instance-type: ${{ env.INSTANCE_TYPE }}
-  #         subnet-id: ${{ env.SUBNET_ID }}
-  #         security-group-id: sg-0e23b56be3798e3a1
-  #         max_attempts: 3
-  #         aws-resource-tags: >
-  #           [
-  #             {"Key": "Name", "Value": "dsva-vagov-vets-website-on-demand-runner"},
-  #             {"Key": "project", "Value": "vagov"},
-  #             {"Key": "office", "Value": "dsva"},
-  #             {"Key": "application", "Value": "on-demand-gha-runner"},
-  #             {"Key": "VAECID", "Value": "AWG20180517003"},
-  #             {"Key": "environment", "Value": "utility"}
-  #           ]
+      - name: Start EC2 Runner
+        id: start-ec2-runner
+        uses: department-of-veterans-affairs/ec2-github-runner@main
+        with:
+          mode: start
+          github-token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
+          ec2-image-id: ${{ env.RUNNER_AMI_ID }}
+          ec2-instance-type: ${{ env.INSTANCE_TYPE }}
+          subnet-id: ${{ env.SUBNET_ID }}
+          security-group-id: sg-0e23b56be3798e3a1
+          max_attempts: 3
+          aws-resource-tags: >
+            [
+              {"Key": "Name", "Value": "dsva-vagov-vets-website-on-demand-runner"},
+              {"Key": "project", "Value": "vagov"},
+              {"Key": "office", "Value": "dsva"},
+              {"Key": "application", "Value": "on-demand-gha-runner"},
+              {"Key": "VAECID", "Value": "AWG20180517003"},
+              {"Key": "environment", "Value": "utility"}
+            ]
 
-  #     - name: EC2 Runner Name
-  #       id: start-ec2-runner-name
-  #       run: echo ::set-output name=${{ matrix.buildtype }}::${{ steps.start-ec2-runner.outputs.label }}
+      - name: EC2 Runner Name
+        id: start-ec2-runner-name
+        run: echo ::set-output name=${{ matrix.buildtype }}::${{ steps.start-ec2-runner.outputs.label }}
 
-  #     - name: EC2 Runner ID
-  #       id: start-ec2-runner-id
-  #       run: echo ::set-output name=${{ matrix.buildtype }}::${{ steps.start-ec2-runner.outputs.ec2-instance-id }}
+      - name: EC2 Runner ID
+        id: start-ec2-runner-id
+        run: echo ::set-output name=${{ matrix.buildtype }}::${{ steps.start-ec2-runner.outputs.ec2-instance-id }}
 
   build:
     name: Build
-    # needs: start-runner
-    # runs-on: ${{ needs.start-runner.outputs[matrix.buildtype] }}
-    runs-on: ubuntu-latest
+    needs: start-runner
+    runs-on: ${{ needs.start-runner.outputs[matrix.buildtype] }}
     timeout-minutes: 60
 
     defaults:
@@ -179,18 +178,6 @@ jobs:
           ssm_parameter: /cms/prod/drupal_api_users/content_build_api/username
           env_variable_name: DRUPAL_USERNAME
 
-      # - name: Get buildtime
-      #   id: buildtime
-      #   run: |
-      #     BUILDTIME=$(date +%s)
-      #     echo ::set-output name=buildtime::$BUILDTIME
-      #     echo "${{ matrix.buildtype }}_buildtime=$BUILDTIME" >> $GITHUB_ENV
-
-      # - name: Wait for the CMS to be ready
-      #   uses: ./content-build/.github/workflows/wait-for-cms-ready
-      #   with:
-      #     base_url: ${{ matrix.drupal-address }}
-
       - name: Build
         run: yarn build --buildtype=${{ matrix.buildtype }} --asset-source=local --drupal-address=${{ env.DRUPAL_ADDRESS }} --drupal-user=${{ env.DRUPAL_USERNAME }} --drupal-password="${{ env.DRUPAL_PASSWORD }}" --pull-drupal --drupal-max-parallel-requests=15 --no-drupal-proxy --verbose
         env:
@@ -203,72 +190,6 @@ jobs:
 
       - name: Prearchive
         run: node ./script/prearchive.js --buildtype=${{ matrix.buildtype }}
-
-      # - name: Compress build
-      #   run: tar -C build/${{ matrix.buildtype }} -cvf ${{ matrix.buildtype }}.tar.bz2 .
-
-      # - name: Persist compressed build and drupal cache
-      #   run: |
-      #     mkdir -p /tmp/${{ github.run_id }}
-      #     rm -rf /tmp/${{ github.run_id }}/${{ matrix.buildtype }}
-      #     mv ${{ matrix.buildtype }}.tar.bz2 /tmp/${{ github.run_id }}
-      #     mv .cache /tmp/${{ github.run_id }}
-
-      # Only will get called if error in workflow
-      # - name: Configure AWS credentials
-      #   uses: aws-actions/configure-aws-credentials@v1
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   with:
-      #     aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      #     aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      #     aws-region: us-gov-west-1
-
-      # - name: Get Slack app token
-      #   uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   with:
-      #     ssm_parameter: /devops/github_actions_slack_socket_token
-      #     env_variable_name: SLACK_APP_TOKEN
-
-      # - name: Get Slack bot token
-      #   uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   with:
-      #     ssm_parameter: /devops/github_actions_slack_bot_user_token
-      #     env_variable_name: SLACK_BOT_TOKEN
-
-      # - name: Get role from Parameter Store
-      #   uses: marvinpinto/action-inject-ssm-secrets@v1.2.1
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   with:
-      #     ssm_parameter: /frontend-team/github-actions/parameters/AWS_FRONTEND_NONPROD_ROLE
-      #     env_variable_name: AWS_FRONTEND_NONPROD_ROLE
-
-      # - name: Configure AWS Credentials
-      #   uses: aws-actions/configure-aws-credentials@v1
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   with:
-      #     aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      #     aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      #     aws-region: us-gov-west-1
-      #     role-to-assume: ${{ env.AWS_FRONTEND_NONPROD_ROLE }}
-      #     role-duration-seconds: 900
-      #     role-session-name: vsp-frontendteam-githubaction
-
-      # - name: Upload broken links file
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   run: aws s3 cp ./logs/${{ matrix.buildtype }}-broken-links.json s3://vetsgov-website-builds-s3-upload/broken-link-reports/${{ matrix.buildtype }}-broken-links.json --acl public-read --region us-gov-west-1
-
-      # - name: Notify Slack about broken links
-      #   uses: slackapi/slack-github-action@v1.18.0
-      #   if: ${{ steps.get-broken-link-info.outputs.UPLOAD_AND_NOTIFY == '1' && always() }}
-      #   continue-on-error: true
-      #   env:
-      #     SSL_CERT_DIR: /etc/ssl/certs
-      #     SLACK_BOT_TOKEN: ${{ env.SLACK_BOT_TOKEN }}
-      #   with:
-      #     payload: ${{ steps.get-broken-link-info.outputs.SLACK_ATTACHMENTS }}
-      #     channel-id: ${{ env.CHANNEL_ID }}
 
   stop-runner:
     name: Stop on-demand-runner
