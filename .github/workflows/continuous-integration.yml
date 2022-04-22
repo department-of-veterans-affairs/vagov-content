@@ -42,7 +42,7 @@ jobs:
         uses: nick-invision/retry@v2
         with:
           # command: cd content-build && yarn install --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
-          command: pwd && ls && cd content-build && ls
+          command: cd content-build && yarn
           max_attempts: 3
           timeout_minutes: 7
         env:
