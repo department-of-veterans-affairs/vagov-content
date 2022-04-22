@@ -187,7 +187,7 @@ jobs:
       #     base_url: ${{ matrix.drupal-address }}
 
       - name: Build
-        run: cd /content-build && yarn && yarn fetch-drupal-cache && yarn build --buildtype=${{ matrix.buildtype }} --asset-source=local
+        run:  cd content-build && yarn fetch-drupal-cache && yarn build --buildtype=${{ matrix.buildtype }} --asset-source=local
         env:
           NODE_ENV: production
 
