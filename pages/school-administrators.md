@@ -520,7 +520,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
            <div>
                <strong>How does a facility begin the process of GI Bill program approval?</strong>
                <p>
-                  The approval process for GI Bill programs generally begins with the <a href="http://www.nasaa-vetseducation.com/Contacts.aspx" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.
+                  The approval process for GI Bill programs generally begins with the <a href="https://nasaa-vetseducation.com/nasaa-contacts/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.
                </p>
               <ul class="usa-unstyled-list">
                   <li class="hub-page-link-list__item">
