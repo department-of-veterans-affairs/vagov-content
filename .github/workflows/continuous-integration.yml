@@ -41,7 +41,8 @@ jobs:
       - name: Install dependencies & Build
         uses: nick-invision/retry@v2
         with:
-          command: pwd && ls && cd content-build && yarn install --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
+          # command: cd content-build && yarn install --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
+          command: pwd && ls && cd content-build && ls
           max_attempts: 3
           timeout_minutes: 7
         env:
