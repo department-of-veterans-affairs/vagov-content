@@ -54,7 +54,7 @@ jobs:
       - name: Install dependencies and build content-build
         uses: nick-invision/retry@v2
         with:
-          command: cd content-build && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build
+          command: cd content-build && cp .env.example .env && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build
           max_attempts: 3
           timeout_minutes: 45
   
