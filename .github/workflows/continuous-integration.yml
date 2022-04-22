@@ -29,6 +29,12 @@ jobs:
           repository: department-of-veterans-affairs/content-build
           path: content-build
 
+      - name: Checkout vets-website
+        uses: actions/checkout@v2
+        with:
+          repository: department-of-veterans-affairs/vets-website
+          path: vets-website
+
       - name: Get Node version
         id: get-node-version
         run: echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
@@ -38,15 +44,22 @@ jobs:
         with:
           node-version: ${{ steps.get-node-version.outputs.NODE_VERSION }}
 
-      - name: Install dependencies & Build
+      - name: Install dependencies for vets-website
         uses: nick-invision/retry@v2
         with:
-          command: cd content-build && yarn install --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache
+          command: cd vets-website && yarn --frozen-lockfile --prefer-offline
+          max_attempts: 3
+          timeout_minutes: 7
+
+      - name: Install dependencies for content-build
+        uses: nick-invision/retry@v2
+        with:
+          command: cd content-build && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache
           max_attempts: 3
           timeout_minutes: 7
 
       - name: Build
-        run:  pwd && cd content-build && yarn build
+        run:  pwd && ls && cd content-build && yarn build
   
   security-audit:
     name: Security Audit
