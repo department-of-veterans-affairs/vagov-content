@@ -44,22 +44,19 @@ jobs:
         with:
           node-version: ${{ steps.get-node-version.outputs.NODE_VERSION }}
 
-      - name: Install dependencies for vets-website
+      - name: Install dependencies and build vets-website
         uses: nick-invision/retry@v2
         with:
-          command: cd vets-website && yarn --frozen-lockfile --prefer-offline
+          command: cd vets-website && yarn --frozen-lockfile --prefer-offline && yarn build
           max_attempts: 3
-          timeout_minutes: 7
+          timeout_minutes: 15
 
-      - name: Install dependencies for content-build
+      - name: Install dependencies and build content-build
         uses: nick-invision/retry@v2
         with:
-          command: cd content-build && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache
+          command: cd content-build && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build
           max_attempts: 3
-          timeout_minutes: 7
-
-      - name: Build
-        run:  pwd && ls && cd content-build && yarn build
+          timeout_minutes: 45
   
   security-audit:
     name: Security Audit
