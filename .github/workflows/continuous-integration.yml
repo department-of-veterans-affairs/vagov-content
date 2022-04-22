@@ -38,17 +38,19 @@ jobs:
         with:
           node-version: ${{ steps.get-node-version.outputs.NODE_VERSION }}
 
-      - name: Install dependencies
+      - name: Install dependencies & Build
         uses: nick-invision/retry@v2
         with:
-          command: cd content-build && yarn install --frozen-lockfile --prefer-offline
+          command: cd content-build && yarn install --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
           max_attempts: 3
           timeout_minutes: 7
-
-      - name: Build
-        run:  cd content-build && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
         env:
           NODE_ENV: production
+
+      # - name: Build
+      #   run:  cd content-build && yarn fetch-drupal-cache && yarn build --buildtype=vagovprod --asset-source=local
+      #   env:
+      #     NODE_ENV: production
   
   security-audit:
     name: Security Audit
