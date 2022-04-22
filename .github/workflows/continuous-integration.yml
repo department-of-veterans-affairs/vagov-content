@@ -239,7 +239,7 @@ jobs:
 
   stop-runner:
     name: Stop on-demand-runner
-    needs: [start-runner, cypress-tests, archive, cache-drupal-content]
+    needs: [start-runner]
     runs-on: ubuntu-latest
     if: ${{ always() }} # Even if an error happened, let's stop the runner
     env:
