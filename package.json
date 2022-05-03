@@ -1,7 +1,7 @@
 {
   "name": "vagov-content",
   "version": "0.0.1",
-  "license" : "See license in ./LICENSE file.",
+  "license": "CC0-1.0",
   "description": "Content files for VA.gov",
   "engines": {
     "node": ">=14.15.0",
@@ -12,11 +12,11 @@
     "vagov-apps:install": "cd ../vagov-apps; yarn install --production=false; node script/drupal-aws-cache.js --fetch",
     "vagov-apps:build": "INSTALL_HOOKS=no; CONTENT_DIR=${PWD}; cd ../vagov-apps; npm run build -- --content-directory=${CONTENT_DIR}/pages --entry static-pages",
     "move-output": "mv ../vagov-apps/build build",
-    "preinstall": "npm run vagov-apps:clone && npm run vagov-apps:install && npm run vagov-apps:build && npm run move-output",
-    "security-check": "node ./script/security-check.js",
+    "security-check": "yarn vagov-dependency-check",
     "start": "http-server build/localhost"
   },
   "dependencies": {
+    "@department-of-veterans-affairs/vagov-platform": "^0.0.1",
     "http-server": "^13.0.2"
   }
 }
