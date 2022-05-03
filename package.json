@@ -1,7 +1,7 @@
 {
   "name": "vagov-content",
   "version": "0.0.1",
-  "license" : "See license in ./LICENSE file.",
+  "license": "CC0-1.0",
   "description": "Content files for VA.gov",
   "engines": {
     "node": ">=14.15.0",
