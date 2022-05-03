@@ -12,7 +12,6 @@
     "vagov-apps:install": "cd ../vagov-apps; yarn install --production=false; node script/drupal-aws-cache.js --fetch",
     "vagov-apps:build": "INSTALL_HOOKS=no; CONTENT_DIR=${PWD}; cd ../vagov-apps; npm run build -- --content-directory=${CONTENT_DIR}/pages --entry static-pages",
     "move-output": "mv ../vagov-apps/build build",
-    "preinstall": "npm run vagov-apps:clone && npm run vagov-apps:install && npm run vagov-apps:build && npm run move-output",
     "security-check": "yarn vagov-dependency-check",
     "start": "http-server build/localhost"
   },
