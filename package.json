@@ -16,6 +16,7 @@
     "start": "http-server build/localhost"
   },
   "dependencies": {
+    "@department-of-veterans-affairs/vagov-platform": "^0.0.1",
     "http-server": "^13.0.2"
   }
 }
