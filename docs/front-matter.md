@@ -125,7 +125,7 @@ Content can be grouped into collections, which are used to populate side navigat
 
 (collectionName would be replaced by the name of the child collection that's defined in `/script/build.js`)
 
-See the detailed guide on [adding a collection of related links](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/HowtoCreateCollectionsOrRelatedLinksInMetalsmith.md)
+See the detailed guide on [adding a collection of related links](https://github.com/department-of-veterans-affairs/vets-website/blob/main/docs/HowtoCreateCollectionsOrRelatedLinksInMetalsmith.md)
 
 **Order** allows custom control over how the pages within a collection are ordered in the side navigation and previous/next page navigation.
 
