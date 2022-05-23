@@ -1,7 +1,7 @@
 # How to edit content
 
 ## Where to find the correct page to edit
-The [`pages`](https://github.com/department-of-veterans-affairs/vagov-content/tree/master/pages) directory of the Interim CMS reflects the structure (information architecture) of the published website. 
+The [`pages`](https://github.com/department-of-veterans-affairs/vagov-content/tree/main/pages) directory of the Interim CMS reflects the structure (information architecture) of the published website. 
 
 Each markdown file (files with the `.md` file extension) is compiled into an HTML page with a corresponding (matching) location on the website. In other words, the url for a webpage shows you the location of that page's file in github. <br>
 [Learn how to write content with markdown](https://www.markdownguide.org).
