@@ -40,8 +40,8 @@ crosslinks:
 social:
   - heading: Ask questions
     subsections:
-     
-      - subhead: 
+
+      - subhead:
         links:
           - url: https://ask.va.gov/
             label: "<b>Ask a Question (AVA)</b>"
@@ -166,8 +166,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                        
-                       <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Ask VA (AVA) Business Dashboard Guide
@@ -234,7 +233,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://benefits.va.gov/atoz/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Benefits A to Z 
+                                Benefits A to Z
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -242,7 +241,7 @@ Use these resources to get training and boost your skills to help support milita
                       <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Yellow Ribbon Information for Schools 
+                                Yellow Ribbon Information for Schools
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -250,7 +249,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Check your status as a covered institution 
+                                Check your status as a covered institution
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -258,7 +257,7 @@ Use these resources to get training and boost your skills to help support milita
                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://benefits.va.gov/gibill/docs/sco/SCO_Post911_study_abroad.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Post-9/11 Study Abroad Programs 
+                                Post-9/11 Study Abroad Programs
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
@@ -274,7 +273,7 @@ Use these resources to get training and boost your skills to help support milita
                         <li>
                             <a href="https://gibill.custhelp.com/app/answers/detail/a_id/1436/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                                 Process for reporting students on academic probation
-                            </a>                          
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -295,7 +294,7 @@ Use these resources to get training and boost your skills to help support milita
                           <p class="hub-page-link-list__description">
                             Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, 22-6553c and 22-6553d online.
                           </p>
-                        </li>            
+                        </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
@@ -424,8 +423,8 @@ Use these resources to get training and boost your skills to help support milita
             </li>
             <li>
                 <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_3">
-                    Payment and debt              
-                </button>     
+                    Payment and debt
+                </button>
                 <div id="t_3" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
@@ -468,7 +467,7 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
-                    </ul>               
+                    </ul>
                 </div>
             </li>
         </ul>
@@ -488,9 +487,9 @@ Use these resources to get training and boost your skills to help support milita
 
 <div>
     <h2 id="policies-and-procedures" tabindex="-1">Policies and procedures</h2>
-    
-Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits. 
-    
+
+Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits.
+
 <ul class="usa-unstyled-list">
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Policies and procedures'});">
@@ -565,7 +564,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                 See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.  See information for <a href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Federal Agency program approval</a>.
                </p>
            </div>
-        </div>            
+        </div>
     </li>
     <li>
         <button class="usa-accordion-button usa-accordion-button-dark rail-heading"
@@ -622,7 +621,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Co-op training</a></li>
                </ul>
            </div>
-        </div>            
+        </div>
     </li>
 </ul>
 </div>
