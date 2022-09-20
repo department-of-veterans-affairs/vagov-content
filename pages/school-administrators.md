@@ -323,22 +323,6 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                User tips for VA-ONCE
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Top 10 list of what not to report in VA-ONCE
