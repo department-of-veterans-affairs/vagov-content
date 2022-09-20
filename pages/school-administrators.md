@@ -428,7 +428,7 @@ Use these resources to get training and boost your skills to help support milita
                 <div id="t_3" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://www.va.gov/manage-va-debt/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Payment and debt information resources
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
@@ -452,9 +452,9 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://www.fiscal.treasury.gov/TOP/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                The Treasury Offset Program: How to receive your state and federal funding
+                                The Treasury Offset Program
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
