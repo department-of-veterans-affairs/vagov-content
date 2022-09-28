@@ -418,15 +418,7 @@ Use these resources to get training and boost your skills to help support milita
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Direct deposit information for schools
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
+                      </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
