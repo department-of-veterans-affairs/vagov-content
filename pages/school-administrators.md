@@ -29,8 +29,8 @@ crosslinks:
         title: <b>Adult College Completion Toolkit</b>
       - url: https://www.benefits.va.gov/vow/
         title: <b>Employment assistance</b>
-      - url: https://www.benefits.va.gov/GIBILL/careerscope.asp
-        title: <b>CareerScope aptitude assessment</b>
+      - url: https://www.va.gov/resources/onet-interest-profiler-career-assessment/
+        title: <b>O*NET Interest Profiler career assessment</b>
       - url: /education/gi-bill-comparison-tool/
         title: <b>GI Bill Comparison Tool</b>
       - url: https://benefits.va.gov/gibill//docs/fgib/Sample_MHA_Rate_Letters.pdf
