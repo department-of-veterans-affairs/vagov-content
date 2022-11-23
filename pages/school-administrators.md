@@ -230,6 +230,18 @@ Use these resources to get training and boost your skills to help support milita
                             </span>
                           </a>
                         </li>
+                      
+                      
+                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://www.youtube.com/watch?v=bOeEFrVOoLE" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Colmery MHA Scenarios Video  
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                      
+          
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://benefits.va.gov/atoz/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
