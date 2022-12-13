@@ -68,7 +68,7 @@ social:
     subsections:
       - subhead: Email us
         links:
-          - url: mailto:support@vbatraining.org
+          - url: mailto:edutraining.vbaco@va.gov
             label: Email VBA Support Team
             external: true
             icon: fa-envelope
