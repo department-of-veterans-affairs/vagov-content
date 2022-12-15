@@ -18,6 +18,9 @@ promo:
     heading: School Certifying Official (SCO) Handbook
     url: "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
     description: Revision 6.5, current as of June 28, 2022
+  - image: /img/hub-illustrations/education-sco.png
+    heading: OJT/APP School Certifying Official (SCO) Handbook
+    url: "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000208001/Employers-Certification-Handbook-On-The-Job-Training-Apprenticeship-Programs"
 crosslinks:
   - heading: Other resources to support your students
     links:
