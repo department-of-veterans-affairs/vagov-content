@@ -69,7 +69,7 @@ social:
       - subhead: Email us
         links:
           - url: mailto:edutraining.vbaco@va.gov
-            label: Email VBA Support Team
+            label: Email National Training Team - Schools
             external: true
             icon: fa-envelope
       - subhead: Get updates
