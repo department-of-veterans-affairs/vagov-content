@@ -191,9 +191,33 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                VA-ONCE Quick Reference Guide
+                                Enrollment Manager Quick Start Guide - Flight
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                      </li>
+                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Enrollment Manager Quick Start Guide - Institutions of Higher Learning
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                      </li>
+                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Enrollment Manager Quick Start Guide - Non-College Degree Programs
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                      </li>
+                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Enrollment Manager Quick Start Guide - On-the-Job Training/Apprenticeship
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
