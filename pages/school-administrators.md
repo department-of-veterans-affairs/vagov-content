@@ -191,38 +191,6 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Flight
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                      </li>
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Institutions of Higher Learning
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                      </li>
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Non-College Degree Programs
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                      </li>
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - On-the-Job Training/Apprenticeship
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                      </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
                             <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Find your Education Liaison Representative (ELR)
@@ -296,129 +264,62 @@ Use these resources to get training and boost your skills to help support milita
             </li>
             <li>
                 <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_2">
-                    VA-ONCE information
+                    Enrollment Manager information
                 </button>
                 <div id="t_2" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://vaonce.vba.va.gov/vaonce_student/default.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://iam.education.va.gov/auth/realms/dgib/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=apigw&redirect_uri=https://iam.education.va.gov:443/_codexch&nonce=ahr_u4pFHEcUAlXSHbKYjL72lLYnklBxnY4IjR1faIY&state=0" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Launch VA-ONCE
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                          <p class="hub-page-link-list__description">
-                            Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, 22-6553c and 22-6553d online.
-                          </p>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                VA-ONCE Quick Reference Guide
+                                VA Education Platform Portal
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/enrollment-manager-sco-user-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Memorandum of Understanding (MOU)
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                          <p class="hub-page-link-list__description">
-                            To gain access to VA-ONCE, start the MOU online, print it, and gather the appropriate signatures, then mail it to your <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">ELR</a>.
-                          </p>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/VAONCE_Training.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Training on VA-ONCE newest enhancements, version P059
+                                Enrollment Manager User Guide
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Top 10 list of what not to report in VA-ONCE
+                                Enrollment Manager Quick Start Guide - Flight
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                          
+                        </li>
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Enrollment Manager Quick Start Guide - Institutions of Higher Learning
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
                         </li>
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
-                                Colmery extension campus update webinar slides (July 2019)
+                                Enrollment Manager Quick Start Guide - Non-College Degree Programs
+                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
+                            </span>
+                          </a>
+                        </li>
+                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
+                            <a href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <span class="hub-page-link-list__header">
+                                Enrollment Manager Quick Start Guide - On-the-Job Training/Apprenticeship
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
                             </span>
                           </a>
                         </li>
                     </ul>
-                    <p><b>Non-traditional schools:</b></p>
-                    <ul>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                How-to guide for on-the-job training (OJT) and apprenticeship schools
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                VA-ONCE how-to guide for flight schools
-                            </a>
-                        </li>
-                    </ul>
-                    <p><b>Extension campus certification scenarios:</b></p>
-                    <ul>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_1.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certification at a main and extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certification for distance hours at a main campus and in-residence hours at an extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_3.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Reduction of hours at an extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_4.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                All credit hours dropped at an extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certification at a main and 2 extension campuses with non-standard terms
-                            </a>
-                        </li>
-                    </ul>
-                    <p><b>VA-ONCE demo recordings:</b></p>
-                    <ul>
-                        <li>
-                            <a href="https://youtu.be/QuE8tecwGo4" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Overview of VA ONCE: Certifying an enrollment at an extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://youtu.be/1QWwQ_s0jwE" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certifying at a main and multiple-extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/watch?v=rZrd2vt_LD0&feature=youtu.be" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Certifying distance hours and hours at an extension campus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://youtu.be/XlYQa_-6_qs" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Reduction of hours for student taking courses at a main and extension campus
-                            </a>
-                        </li>
-                    </ul>
+                    
+                        
                 </div>
             </li>
             <li>
