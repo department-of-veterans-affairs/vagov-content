@@ -317,8 +317,6 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                     </ul>
-                    
-                        
                 </div>
             </li>
             <li>
