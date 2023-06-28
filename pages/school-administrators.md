@@ -57,11 +57,7 @@ social:
             title: "<p class='vads-u-margin--0'>Supplemental claims:</p><h4 class='vads-u-margin--0'>10 days</h4>"
           - url:
             title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
-          - url:
-            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQs</a> for more information."
-          - url:
-            title: "Last updated: October 30, 2019."
-  - heading: Connect with us
+          - heading: Connect with us
     admin: Find your Education Liaison Representative (ELR)
     url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
     subsections:
@@ -158,7 +154,7 @@ Use these resources to get training and boost your skills to help support milita
                 <div id="t_1" class="usa-accordion-content">
                     <ul class="usa-unstyled-list">
                         <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 School Certifying Official Handbook
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
@@ -476,8 +472,8 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
               <strong>Forever GI Bill:</strong>
                <ul>
                  <li><a href="https://www.benefits.va.gov/gibill/forevergibill.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Forever GI Bill—Harry W. Colmery Veterans Educational Assistance Act</a></li>
-                 <li><a href="https://benefits.va.gov/gibill/fgib/stem.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Edith Nourse Rogers STEM Scholarship</a></li>
-                 <li><a href="https://www.benefits.va.gov/gibill/fgib/vettec.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Veteran Employment Through Technology Education Courses (VET TEC)</a></li>
+                 <li><a href="https://www.va.gov/education/other-va-education-benefits/stem-scholarship/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Edith Nourse Rogers STEM Scholarship</a></li>
+                 <li><a href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Veteran Employment Through Technology Education Courses (VET TEC)</a></li>
                </ul>
            </div>
            <div>
