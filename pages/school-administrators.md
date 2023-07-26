@@ -85,9 +85,9 @@ social:
         - url: tel:1-918-781-5678
           number: +1-918-781-5678
           title: "Outside the U.S.:"
-        - url: tel:1-844-698-2311
-          number: 844-698-2311
-          title: "Call MyVA311 for help:"
+        - url: tel:1-800-698-2411
+          number: 800-698-2411
+          title: "Call MyVA411 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
 majorlinks:
