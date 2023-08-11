@@ -238,7 +238,7 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/sco/SCO_Post911_study_abroad.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
+                            <a href="https://benefits.va.gov/GIBILL/study-abroad.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
                             <span class="hub-page-link-list__header">
                                 Post-9/11 Study Abroad Programs
                                 <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
