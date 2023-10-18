@@ -6,7 +6,7 @@ display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2019-11-21
+lastupdate: 2023-10-18
 show_git_lastupdate:
 concurrence:
 plainlanguage:
