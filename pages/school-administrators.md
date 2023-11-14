@@ -6,7 +6,7 @@ display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2023-10-18
+lastupdate: 2023-11-14
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -47,20 +47,6 @@ social:
             external: true
           - url:
             title: "Ask a question about GI Bill benefits."
-  - heading: Average processing times
-    subsections:
-      - subhead:
-        links:
-          - url:
-            title: "<p class='vads-u-margin--0'>First-time applications:</p><h4 class='vads-u-margin--0'>24 days</h4>"
-          - url:
-            title: "<p class='vads-u-margin--0'>Supplemental claims:</p><h4 class='vads-u-margin--0'>10 days</h4>"
-          - url:
-            title: "Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits."
-          - url:
-            title: "See our <a href='https://www.benefits.va.gov/gibill/navigatinggib.asp' style='display:inline;'>FAQs</a> for more information."
-          - url:
-            title: "Last updated: October 30, 2019."
   - heading: Connect with us
     admin: Find your Education Liaison Representative (ELR)
     url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
