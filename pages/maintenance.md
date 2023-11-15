@@ -3,6 +3,9 @@ layout: page.html
 title: Maintenance
 permalink: false
 private: true
+noNavOrLogin: true
+minimalFooter: true
+noMegamenu: true
 ---
 
 <!-- Maintenance Page Start -->
@@ -12,13 +15,11 @@ private: true
     <div class="row">
       <div class="small-12 columns">
         <div style="padding: 2em 0;">
-        <h3>We’re sorry. The page you’re looking for is currently down while we fix a few things. We’ll be back online as soon as we can.</h3>
-        <h4>In the meantime, please try the search box above or one of the options listed below to find more information.</h4>
+        <h3>We're sorry. The page you're looking for is currently down while we fix a few things. We'll be back online as soon as we can.</h3>
         </div>
       </div>
     </div>
   </div>
-   {% include src/site/includes/common-and-popular.html %}
 </div>
 
 <!-- Maintenance Page End -->
