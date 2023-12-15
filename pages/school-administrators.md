@@ -6,7 +6,7 @@ display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2023-11-20
+lastupdate: 2023-12-18
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -76,6 +76,20 @@ social:
           title: "Call MyVA411 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
+      - subhead: Follow us
+        links:
+        - url: https://www.facebook.com/VeteransBenefits
+          title: "VBA on Facebook"
+          icon: fa-facebook
+        - url: https://www.instagram.com/vabenefits
+          title: "VBA on Instagram"
+          icon: fa-instagram
+        - url: https://www.youtube.com/@VAVetBenefits
+          title: "VBA on YouTube"
+          icon: fa-youtube
+        - url: https://twitter.com/VAVetBenefits
+          title: "VBA on X"
+          icon: fa-twitter
 majorlinks:
   - heading:
     links:
