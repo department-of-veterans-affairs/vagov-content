@@ -6,7 +6,7 @@ display_title: School administrators
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2023-12-18
+lastupdate: 2023-12-22
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -106,7 +106,7 @@ relatedlinks:
 
 <div>
   <p class="va-introtext">
-    Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students who are using their VA benefits to pursue education and training programs. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.
+    Trainings, resources, guides, and information on GI Bill® programs geared towards School Certifying Officials (SCOs) and school administrators.
   <p>
 </div>
 
