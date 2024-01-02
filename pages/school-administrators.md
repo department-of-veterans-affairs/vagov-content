@@ -17,25 +17,6 @@ promo:
   - image: /img/hub-illustrations/education-sco.png
     heading: School Certifying Official (SCO) Handbook
     url: "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
-crosslinks:
-  - heading: Other resources to support your students
-    links:
-      - url: /education/how-to-apply/
-        title: <b>How to apply for education benefits</b>
-      - url: https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid
-        title: <b>Scholarships and financial aid</b>
-      - url: https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf
-        title: <b>Adult College Completion Toolkit</b>
-      - url: https://www.benefits.va.gov/vow/
-        title: <b>Employment assistance</b>
-      - url: https://www.va.gov/resources/onet-interest-profiler-career-assessment/
-        title: <b>O*NET Interest Profiler career assessment</b>
-      - url: /education/gi-bill-comparison-tool/
-        title: <b>GI Bill Comparison Tool</b>
-      - url: https://benefits.va.gov/gibill//docs/fgib/Sample_MHA_Rate_Letters.pdf
-        title: <b>Colmery Act update sample letters</b>
-      - url: https://benefits.va.gov/gibill/fgibsummaries.asp#MHARelief
-        title: <b>Assistance for students impacted by Colmery Act MHA changes</b>
 social:
   - heading: Ask questions
     subsections:
@@ -508,6 +489,49 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
     </li>
 </ul>
 </div>
-<section class="usa-grid">
-    <div class="va-h-ruled--stars"></div>
+
+<section class="merger-majorlinks va-nav-linkslist va-nav-linkslist--related">
+  <section class="field_related_links">
+    <h2 class="va-nav-linkslist-heading" tabindex="-1">
+      Learn about Veteran education benefits
+    </h2>
+  <ul class="va-nav-linkslist-list">
+    <li>
+      <a href="https://www.va.gov/education/about-gi-bill-benefits/" class="vads-u-text-decoration--underline">
+        <b>About GI Bill Benefits</b>
+      </a>
+      <p class="va-nav-linkslist-description">Learn how the GI Bill works and explore your options to pay for school or training.</p>
+    </li>
+    <li>
+      <a href="https://www.va.gov/education/gi-bill-comparison-tool/" class="vads-u-text-decoration--underline">
+        <b>Choosing GI Bill approved schools</b>
+      </a>
+      <p class="va-nav-linkslist-description">Find GI Bill approved schools and compare benefits with the GI Bill Comparison Tool.</p>
+    </li>
+    <li>
+      <a href="https://www.va.gov/education/choosing-a-school/">
+        <b>How to use your GI Bill benefits</b>
+      </a>
+      <p class="va-nav-linkslist-description">Find out how to use your GI bill benefits to advance your education and training.</p>
+    </li>
+    <li>
+      <a href="https://www.va.gov/education/other-va-education-benefits/">
+        <b>Other educational assistance programs</b>
+      </a>
+      <p class="va-nav-linkslist-description">Find out if you’re eligible for programs that provide added GI Bill benefits. If you’re not eligible for the Post-9/11 GI Bill, learn about other VA education benefit programs for Veterans and National Guard or Reserve members.</p>
+    </li>
+    <li>
+      <a href="https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/">
+        <b>Post-9/11 GI Bill and other VA education benefits rates</b>
+      </a>
+      <p class="va-nav-linkslist-description">Check rate tables for the Post-9/11 GI Bill and other Veterans education benefits programs.</p>
+    </li>
+    <li>
+      <a href="https://benefits.va.gov/GIBILL/study-abroad.asp">
+        <b>Study Abroad</b>
+      </a>
+      <p class="va-nav-linkslist-description">Explore Post-9/11 GI Bill study abroad, covering tuition, fees, stipends, and exclusions like third-party fees and airfare.</p>
+    </li>
+  </ul>
+  </section>
 </section>
