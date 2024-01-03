@@ -509,25 +509,25 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
       <p class="va-nav-linkslist-description">Find GI Bill approved schools and compare benefits with the GI Bill Comparison Tool.</p>
     </li>
     <li>
-      <a href="https://www.va.gov/education/choosing-a-school/">
+      <a href="https://www.va.gov/education/choosing-a-school/"class="vads-u-text-decoration--underline">
         <b>How to use your GI Bill benefits</b>
       </a>
       <p class="va-nav-linkslist-description">Find out how to use your GI bill benefits to advance your education and training.</p>
     </li>
     <li>
-      <a href="https://www.va.gov/education/other-va-education-benefits/">
+      <a href="https://www.va.gov/education/other-va-education-benefits/"class="vads-u-text-decoration--underline">
         <b>Other educational assistance programs</b>
       </a>
       <p class="va-nav-linkslist-description">Find out if you’re eligible for programs that provide added GI Bill benefits. If you’re not eligible for the Post-9/11 GI Bill, learn about other VA education benefit programs for Veterans and National Guard or Reserve members.</p>
     </li>
     <li>
-      <a href="https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/">
+      <a href="https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/"class="vads-u-text-decoration--underline">
         <b>Post-9/11 GI Bill and other VA education benefits rates</b>
       </a>
       <p class="va-nav-linkslist-description">Check rate tables for the Post-9/11 GI Bill and other Veterans education benefits programs.</p>
     </li>
     <li>
-      <a href="https://benefits.va.gov/GIBILL/study-abroad.asp">
+      <a href="https://benefits.va.gov/GIBILL/study-abroad.asp" class="vads-u-text-decoration--underline">
         <b>Study Abroad</b>
       </a>
       <p class="va-nav-linkslist-description">Explore Post-9/11 GI Bill study abroad, covering tuition, fees, stipends, and exclusions like third-party fees and airfare.</p>
