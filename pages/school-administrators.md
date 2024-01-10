@@ -93,7 +93,7 @@ relatedlinks:
 
 ### On this page
 
-<div class="vads-u-padding-bottom--0p5">
+<div class="vads-u-padding-bottom--2p5">
   <ul>
     <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
@@ -101,9 +101,17 @@ relatedlinks:
   </ul>
 </div>
 
-### Key resources for SCOs
-
-<a class="vads-u-text-decoration--none" href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"><b>SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000208001/Employers-Certification-Handbook-On-The-Job-Training-Apprenticeship-Programs" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>OJT/APP SCO Handbook</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-sco-user-guide.pptx" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Enrollment Manager User Guide</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://iam.education.va.gov/auth/realms/dgib/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=apigw&redirect_uri=https://iam.education.va.gov:443/_codexch&nonce=ahr_u4pFHEcUAlXSHbKYjL72lLYnklBxnY4IjR1faIY&state=0" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VA Education Platform Portal</b></a>&nbsp; |&nbsp;<a class="vads-u-text-decoration--none" href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Public WEAMS</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Find your ELR</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/vrrap_educational_institutions.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>VRRAP For Schools</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Foreign Program Approval Information</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://benefits.va.gov/gibill/85_15_faqs.asp" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>85/15 FAQs</b></a>&nbsp; | &nbsp;<a class="vads-u-text-decoration--none" href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf" onClick="recordEvent({ event: 'nav-pipe-delimited-list-click', 'pipe-delimited-list-header': 'Key resources for SCOs'});"><b>Veteran Readiness and Employment (VR&E) SCO Handbook</b></a>
+<va-featured-content uswds>
+  <h3 slot="headline">Upload documents to VA</h3>
+  <p>
+    The Education File Upload Portal is for certifying officials to upload documents supporting compliance actions, designating or removing certifying officials, and more. The full list of accepted documents is found in the upload portal.
+  </p>
+  <va-link
+    active
+    href="https://www.my.va.gov/EducationFileUploads/s/"
+    text="Education File Upload Portal"
+  />
+</va-featured-content>
 
 <div data-widget-type="sco-announcements"><a href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp">Education Service Yellow Ribbon Program Open Season</a></div>
 
