@@ -57,6 +57,12 @@ social:
           title: "Call MyVA411 for help:"
         - url:
           title: "If you have hearing loss, call TTY: 711."
+      - subhead: Get GovDelivery updates
+        links:
+          - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
+            title: "Subscribe to the GovDelivery mailing list"
+            external: false
+            icon: fa-envelope
       - subhead: Follow us
         links:
         - url: https://www.facebook.com/VeteransBenefits
