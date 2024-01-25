@@ -101,6 +101,7 @@ relatedlinks:
 
 <div class="vads-u-padding-bottom--2p5">
   <ul>
+    <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
     <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
     <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
@@ -118,6 +119,30 @@ relatedlinks:
     text="Education File Upload Portal"
   />
 </va-featured-content>
+
+<section class="usa-grid">
+  <div class="va-h-ruled--stars"></div>
+</section>
+
+<h2 id="handbooks" tabindex="-1">Handbooks</h2>
+<ul class="va-nav-linkslist-list">
+  <li>
+    <span><va-link
+      active
+      href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
+      text="School Certifying Official Handbook"
+    /></span>
+    <p class="va-nav-linkslist-description">Access the School Certifying Official Handbook online for valuable information and guidance on effectively managing VA education benefits.</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000208001/Employers-Certification-Handbook-On-The-Job-Training-Apprenticeship-Programs"
+      text="Employer’s Certification Handbook On-The-Job Training & Apprenticeship Programs"
+    /></span>
+    <p class="va-nav-linkslist-description">Access the Employer’s Certification Handbook for OJT/APP Programs.</p>
+  </li>
+</ul>
 
 <div data-widget-type="sco-announcements"><a href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp">Education Service Yellow Ribbon Program Open Season</a></div>
 
