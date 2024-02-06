@@ -24,7 +24,7 @@ social:
       - subhead:
         links:
           - url: https://ask.va.gov/
-            label: "<b>Ask a Question (AVA)</b>"
+            label: "Ask a Question (AVA)"
             external: true
           - url:
             title: "Ask a question about GI Bill benefits."
@@ -155,19 +155,17 @@ relatedlinks:
 
 Use these resources to get training and boost your skills to help support military-connected students.
 
-<ul class="usa-unstyled-list">
-    <li class="hub-page-link-list__item">
-        <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});">
-            <span class="hub-page-link-list__header">
-                Required training for SCOs
-            </span>
-            <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-        </a>
-        <br>
-        Required if your school has 20 or more GI Bill students
-    </li>
+<ul class="usa-unstyled-list vads-u-padding-bottom--2">
+    <li>
+    <span><va-link
+      active
+      href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
+      text="Required training for SCOs"
+      onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});"
+    /></span>
+    <p class="va-nav-linkslist-description">Required if your school has 20 or more GI Bill students.</p>
+  </li>
 </ul>
-<br>
     <div class="usa-accordion" data-multiselectable="false">
         <ul class="usa-unstyled-list">
             <li>
@@ -265,7 +263,7 @@ Use these resources to get training and boost your skills to help support milita
                           </a>
                         </li>
                    </ul>
-                    <p><b>Reporting:</b></p>
+                    <p>Reporting:</p>
                     <ul>
                         <li>
                             <a href="https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
@@ -400,7 +398,7 @@ Use these resources to get training and boost your skills to help support milita
 
 Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits.
 
-<ul class="usa-unstyled-list">
+<ul class="usa-unstyled-list vads-u-margin-bottom--2">
     <li class="hub-page-link-list__item">
         <a href="https://www.benefits.va.gov/GIBILL/handouts_forms.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Policies and procedures'});">
             <span class="hub-page-link-list__header">
@@ -410,7 +408,6 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
         </a>
     </li>
 </ul>
-<br>
 <ul class="usa-accordion">
     <li>
         <button class="usa-accordion-button usa-accordion-button-dark rail-heading"
@@ -419,7 +416,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
           GI Bill program approval process
         </button>
         <div id="pnp-1" class="usa-accordion-content">
-           <div>
+           <div class="vads-u-margin-bottom--2">
                <strong>How does a facility begin the process of GI Bill program approval?</strong>
                <p>
                   The approval process for GI Bill programs generally begins with the <a href="https://nasaa-vetseducation.com/nasaa-contacts/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">State Approving Agency (SAA)</a> of jurisdiction. Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.
@@ -435,8 +432,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                   </li>
               </ul>
            </div>
-           <br>
-           <div>
+           <div class="vads-u-margin-bottom--2">
                <strong>When is VA responsible for approval of education and training programs?</strong>
                <p>
                   VA will approve schools in some circumstances and for some states that don’t have an SAA assigned. If you fall into one of these groups, VA will review your application.
@@ -457,8 +453,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                    </li>
                </ul>
            </div>
-           <br>
-           <div>
+           <div class="vads-u-margin-bottom--2">
                <strong>Applications for jurisdictions where VA is acting as SAA:</strong>
                <ul>
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">New application for approval—accredited institutions</a></li>
@@ -467,8 +462,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
                  <li><a href="https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Renewal or program amendment application—non-accredited institutions</a></li>
                </ul>
            </div>
-           <br>
-           <div>
+           <div class="vads-u-margin-bottom--2">
                <strong>How do you receive approval for on-the-job training programs?</strong>
                <p>
                 See our <a href="https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Approval of On-the-Job Training Programs fact sheet</a>, which addresses the following requirements: programs, wages, and facilities.  See information for <a href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">Federal Agency program approval</a>.
@@ -544,37 +538,37 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
   <ul class="va-nav-linkslist-list">
     <li>
       <a href="https://www.va.gov/education/about-gi-bill-benefits/" class="vads-u-text-decoration--underline">
-        <b>About GI Bill Benefits</b>
+        About GI Bill Benefits
       </a>
       <p class="va-nav-linkslist-description">Learn how the GI Bill works and explore your options to pay for school or training.</p>
     </li>
     <li>
       <a href="https://www.va.gov/education/gi-bill-comparison-tool/" class="vads-u-text-decoration--underline">
-        <b>Choosing GI Bill approved schools</b>
+        Choosing GI Bill approved schools
       </a>
       <p class="va-nav-linkslist-description">Find GI Bill approved schools and compare benefits with the GI Bill Comparison Tool.</p>
     </li>
     <li>
       <a href="https://www.va.gov/education/choosing-a-school/"class="vads-u-text-decoration--underline">
-        <b>How to use your GI Bill benefits</b>
+        How to use your GI Bill benefits
       </a>
       <p class="va-nav-linkslist-description">Find out how to use your GI bill benefits to advance your education and training.</p>
     </li>
     <li>
       <a href="https://www.va.gov/education/other-va-education-benefits/"class="vads-u-text-decoration--underline">
-        <b>Other educational assistance programs</b>
+        Other educational assistance programs
       </a>
       <p class="va-nav-linkslist-description">Find out if you’re eligible for programs that provide added GI Bill benefits. If you’re not eligible for the Post-9/11 GI Bill, learn about other VA education benefit programs for Veterans and National Guard or Reserve members.</p>
     </li>
     <li>
       <a href="https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/"class="vads-u-text-decoration--underline">
-        <b>Post-9/11 GI Bill and other VA education benefits rates</b>
+        Post-9/11 GI Bill and other VA education benefits rates
       </a>
       <p class="va-nav-linkslist-description">Check rate tables for the Post-9/11 GI Bill and other Veterans education benefits programs.</p>
     </li>
     <li>
       <a href="https://benefits.va.gov/GIBILL/study-abroad.asp" class="vads-u-text-decoration--underline">
-        <b>Study Abroad</b>
+        Study Abroad
       </a>
       <p class="va-nav-linkslist-description">Explore Post-9/11 GI Bill study abroad, covering tuition, fees, stipends, and exclusions like third-party fees and airfare.</p>
     </li>
