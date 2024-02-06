@@ -25,7 +25,6 @@ social:
         links:
           - url: https://ask.va.gov/
             label: "Ask a Question (AVA)"
-            external: true
           - url:
             title: "Ask a question about GI Bill benefits."
   - heading: Connect with us
@@ -36,13 +35,11 @@ social:
         links:
           - url: mailto:edutraining.vbaco@va.gov
             label: Email National Training Team - Schools
-            external: true
             icon: fa-envelope
       - subhead: Get updates
         links:
           - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
             label: Veteran Benefits email or text updates
-            external: true
             icon: fa-envelope
       - subhead: Call us
         links:
@@ -61,7 +58,6 @@ social:
         links:
           - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
             title: "Subscribe to the GovDelivery mailing list"
-            external: false
             icon: fa-envelope
       - subhead: Follow us
         links:
