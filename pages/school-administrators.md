@@ -99,6 +99,7 @@ relatedlinks:
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
     <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
+    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program Approvals</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
     <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
   </ul>
@@ -388,6 +389,62 @@ Use these resources to get training and boost your skills to help support milita
     <div class="va-h-ruled--stars"></div>
 </section>
 <div>
+
+
+<h2 id="program-approvals" tabindex="-1">Program Approvals</h2>
+<ul class="va-nav-linkslist-list">
+  <li>
+    <span><va-link
+      active
+      href="https://benefits.va.gov/gibill/School_Program_Approval.asp"
+      text="Domestic School Program Approvals"
+    /></span>
+    <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education broken down by various types of training programs.</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp"
+      text="Foreign School Approval Process"
+    /></span>
+    <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education offered at foreign institutions.</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp"
+      text="Federal On The Job Training/ Apprenticeship Approval"
+    /></span>
+    <p class="va-nav-linkslist-description">Discover the process and criteria for VA approval of on-the-job training and apprenticeship programs</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/"
+      text="Principles of Excellence"
+    /></span>
+    <p class="va-nav-linkslist-description">Explore the VA's Principles of Excellence webpage to identify if your organization must follow these guidelines.</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://nasaa-vetseducation.com/nasaa-contacts/"
+      text="State Approving Agency Contact Information"
+    /></span>
+    <p class="va-nav-linkslist-description">Find out how you can contact your State Approving Agency.</p>
+  </li>
+  <li>
+    <span><va-link
+      active
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"
+      text="WEAMS Institution Search"
+    /></span>
+    <p class="va-nav-linkslist-description">Use WEAMS Public to identify educational institutions offering programs approved for Veterans training.</p>
+  </li>
+</ul>
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
 
 <div>
     <h2 id="policies-and-procedures" tabindex="-1">Policies and procedures</h2>
