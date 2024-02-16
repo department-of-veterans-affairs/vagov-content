@@ -98,7 +98,7 @@ relatedlinks:
 <div class="vads-u-padding-bottom--2p5">
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
-    <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
+    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
     <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
   </ul>
@@ -147,241 +147,45 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="training-and-guides" tabindex="-1">Training and guides</h2>
-
-Use these resources to get training and boost your skills to help support military-connected students.
-
-<ul class="usa-unstyled-list vads-u-padding-bottom--2">
+  <h2 id="trainings-and-webinars" tabindex="-1">Trainings and Webinars</h2>
+  <ul class="va-nav-linkslist-list">
     <li>
-    <span><va-link
-      active
-      href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
-      text="Required training for SCOs"
-      onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});"
-    /></span>
-    <p class="va-nav-linkslist-description">Required if your school has 20 or more GI Bill students.</p>
-  </li>
-</ul>
-    <div class="usa-accordion" data-multiselectable="false">
-        <ul class="usa-unstyled-list">
-            <li>
-                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_1">
-                    Essentials for SCOs
-                </button>
-                <div id="t_1" class="usa-accordion-content">
-                    <ul class="usa-unstyled-list">
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                School Certifying Official Handbook
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Ask VA (AVA) Business Dashboard Guide
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Veteran Readiness and Employment (VR&E) Tungsten Invoicing
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_SCO_Tips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Veteran Readiness and Employment (VR&E) Tungsten SCO Tips
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Find your Education Liaison Representative (ELR)
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Training webinars
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Public WEAMS
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/atoz/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Benefits A to Z
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                      <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Yellow Ribbon Information for Schools
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Check your status as a covered institution
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                       <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/GIBILL/study-abroad.asp" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Post-9/11 Study Abroad Programs
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                   </ul>
-                    <p>Reporting:</p>
-                    <ul>
-                        <li>
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                General school responsibility fact sheet
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://gibill.custhelp.com/app/answers/detail/a_id/1436/" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                                Process for reporting students on academic probation
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-            <li>
-                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_2">
-                    Enrollment Manager information
-                </button>
-                <div id="t_2" class="usa-accordion-content">
-                    <ul class="usa-unstyled-list">
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://iam.education.va.gov/auth/realms/dgib/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=apigw&redirect_uri=https://iam.education.va.gov:443/_codexch&nonce=ahr_u4pFHEcUAlXSHbKYjL72lLYnklBxnY4IjR1faIY&state=0" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                VA Education Platform Portal
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-sco-user-guide.pptx" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager User Guide
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Flight
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Institutions of Higher Learning
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - Non-College Degree Programs
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Enrollment Manager Quick Start Guide - On-the-Job Training/Apprenticeship
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://benefits.va.gov/GIBILL/enrollment-manager/paper-based-enrollment-manager-crosswalk.pptx" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                VA Paper-Based Forms to Enrollment Manager Crosswalk
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-            <li>
-                <button class="usa-accordion-button usa-button-unstyled" aria-controls="t_3">
-                    Payment and debt
-                </button>
-                <div id="t_3" class="usa-accordion-content">
-                    <ul class="usa-unstyled-list">
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.va.gov/manage-va-debt/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                Student payment and debt information resources
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                      </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                School overpayments and using dual certification process to avoid them
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.fiscal.treasury.gov/TOP/" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                The Treasury Offset Program
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                        <li class="hub-page-link-list__item vads-u-margin-top--0 vads-u-padding-bottom--1">
-                            <a href="https://www.tungsten-network.com/media/16605538/faqs-for-e-auth-and-e-invoicing-service-providers-09252019-v2.pdf" class="no-external-icon" onClick="recordEvent({ event: 'nav-accordion-embedded-link-click'});">
-                            <span class="hub-page-link-list__header">
-                                FAQs for VR&E service providers for e-authorization and e-invoicing
-                                <img class="all-link-arrow" src="/img/arrow-right-blue.svg" alt="right-arrow">
-                            </span>
-                          </a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
-    </div>
+      <span><va-link
+        active
+        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
+        text="Training Requirements"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+      /></span>
+      <p class="va-nav-linkslist-description">Essential training for VA student enrollment certifications and compliance.</p>
+    </li>
+    <li>
+      <span><va-link
+        active
+        href="https://vba-tpss.vbatraining.org/assess/trkSignIn?refid=XSCO"
+        text="SCO Training Portal"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+      /></span>
+      <p class="va-nav-linkslist-description">Access to the VA Training Portal for school officials.</p>
+    </li>
+    <li>
+      <span><va-link
+        active
+        href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp"
+        text="Covered Institution Status"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+      /></span>
+      <p class="va-nav-linkslist-description">Find out if your organization is a covered educational institution.</p>
+    </li>
+    <li>
+      <span><va-link
+        active
+        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"
+        text="Education Service Webinars and Training"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+      /></span>
+      <p class="va-nav-linkslist-description">Join our Office Hours and webinars for information on the GI Bill, related legislation, and processes.</p>
+    </li>
+  </ul>
 </div>
 
 <section class="usa-grid">
