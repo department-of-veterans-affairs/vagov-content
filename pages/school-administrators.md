@@ -415,7 +415,7 @@ Use these resources to get training and boost your skills to help support milita
       href="https://benefits.va.gov/gibill/federalemployerOJTandApprenticeshipProgramApprovalInformation.asp"
       text="Federal On The Job Training/ Apprenticeship Approval"
     /></span>
-    <p class="va-nav-linkslist-description">Discover the process and criteria for VA approval of on-the-job training and apprenticeship programs</p>
+    <p class="va-nav-linkslist-description">Discover the process and criteria for VA approval of on-the-job training and apprenticeship programs.</p>
   </li>
   <li>
     <span><va-link
