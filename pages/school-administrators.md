@@ -100,7 +100,7 @@ relatedlinks:
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
     <li><a href="#training-and-guides" onClick="recordEvent({ event: 'nav-jumplink-click'});">Training and guides</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
-    <li><a href="#other-resources-to-support-you" onClick="recordEvent({ event: 'nav-jumplink-click'});">Resources to support students</a></li>
+    <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
   </ul>
 </div>
 
@@ -110,7 +110,6 @@ relatedlinks:
     The Education File Upload Portal is for certifying officials to upload documents supporting compliance actions, designating or removing certifying officials, and more. The full list of accepted documents is found in the upload portal.
   </p>
   <va-link
-    active
     href="https://www.my.va.gov/EducationFileUploads/s/"
     text="Education File Upload Portal"
   />
@@ -124,7 +123,6 @@ relatedlinks:
 <ul class="va-nav-linkslist-list">
   <li>
     <span><va-link
-      active
       href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
       text="School Certifying Official Handbook"
     /></span>
@@ -132,7 +130,6 @@ relatedlinks:
   </li>
   <li>
     <span><va-link
-      active
       href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000208001/Employers-Certification-Handbook-On-The-Job-Training-Apprenticeship-Programs"
       text="Employer’s Certification Handbook On-The-Job Training & Apprenticeship Programs"
     /></span>
@@ -154,7 +151,6 @@ Use these resources to get training and boost your skills to help support milita
 <ul class="usa-unstyled-list vads-u-padding-bottom--2">
     <li>
     <span><va-link
-      active
       href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
       text="Required training for SCOs"
       onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Training and guides'});"
@@ -526,6 +522,282 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
 </ul>
 </div>
 
+
+<section class="usa-grid">
+  <div class="va-h-ruled--stars"></div>
+</section>
+
+<h2 id="other-resources" tabindex="-1">Other resources for schools</h2>
+
+<va-accordion bordered id="other-resources-accordion">
+  <va-accordion-item
+    id="enrollment-manager"
+    open="true"
+    header="Enrollment Manager"
+    subheader="Access Enrollment Manager  and essential training for VA student enrollment certifications and compliance."
+    >
+    Access Enrollment Manager
+    <ul>
+      <li>
+       <span><va-link
+          href="https://iam.education.va.gov/auth/realms/dgib/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=apigw&redirect_uri=https://iam.education.va.gov:443/_codexch&nonce=GtVNXpMNDc0rQreRf8kTvzlqvDM-zVIsBcz4n2gCn-E&state=0"
+          text="Launch VA Education Platform"
+        /></span>
+      </li>
+    </ul>
+    User guides and essential information
+    <ul>
+      <li>
+       <span><va-link
+          href="https://www.figma.com/exit?url=https%3A%2F%2Fbenefits.va.gov%2Fgibill%2Fenrollment-manager%2Fenrollment-manager-sco-user-guide.pptx"
+          text="Enrollment Manager User Guide"
+          download
+          filetype="PPTX"
+          pages="315"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=905F1007A503BEC289E3A5790DA0502F1B63E1E7A7DB7812%2DE840CFCE5B98B41ECB45F0981B49F04C5A9E58387AC0FEB3CD059376A6F335D5&redirect%5Furi=https%3A%2F%2Fdvagov%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=c2450da1%2D302d%2D4000%2De987%2Df5955d8801ea"
+          text="Enrollment Manger Course Catalog"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-frequently-asked-questions.asp"
+          text="Enrollment Manager FAQs"
+        /></span>
+      </li>
+    </ul>
+    Quick Start Guides
+    <ul>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf"
+          text="Flight - Enrollment Manager Quick Start Guide"
+          download
+          filetype="PDF"
+          pages="4"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf"
+          text="Institutions of Higher Learning - Enrollment Manager Quick Start Guide"
+          download
+          filetype="PDF"
+          pages="3"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf"
+          text="Non-College Degree Programs - Enrollment Manager Quick Start Guide"
+          download
+          filetype="PDF"
+          pages="3"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf"
+          text="On-the-Job Training/Apprenticeship - Enrollment Manager Quick Start Guide"
+          download
+          filetype="PDF"
+          pages="4"
+        /></span>
+      </li>
+    </ul>
+    Updates
+    <ul>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/enrollment-manager/enrollment-manager-system-updates.asp"
+          text="Enrollment Manager System Updates"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.figma.com/exit?url=https%3A%2F%2Fbenefits.va.gov%2FGIBILL%2Fenrollment-manager%2Fpaper-based-enrollment-manager-crosswalk.pptx"
+          text="VA Paper Based Forms to Enrollment Manager Crosswalk"
+          download
+          filetype="PPTX"
+          pages="124"
+        /></span>
+      </li>
+    </ul>
+  </va-accordion-item>
+  <va-accordion-item
+    id="payment-and-debt"
+    open="true"
+    header="Payment and debt"
+    subheader="Find information about managing debt related to VA education benefits."
+    >
+    For schools
+    <ul>
+      <li>
+       <span><va-link
+          href="https://www.benefits.va.gov/gibill/resources/education_resources/debt_info.asp"
+          text="GI Bill Overpayments and Debt"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf"
+          text="Benefits of the dual certification process"
+          download
+          filetype="PDF"
+          pages="1"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.fiscal.treasury.gov/TOP/"
+          text="Treasury Offset Program"
+        /></span>
+      </li>
+    </ul>
+    Resources to share with students
+    <ul>
+      <li>
+       <span><va-link
+          href="https://www.va.gov/manage-va-debt/"
+          text="Manage your VA debt"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.va.gov/resources/va-debt-management/"
+          text="VA Debt Management Center"
+        /></span>
+      </li>
+    </ul>
+  </va-accordion-item>
+  <va-accordion-item
+    id="vet-readiness"
+    open="true"
+    header="Veteran Readiness and Employment (VR&E) Chapter 31"
+    subheader="The Veteran Readiness and Employment program assists Veterans with service-connected disabilities to explore employment options and address education and/or training needs."
+    >
+    For schools
+    <ul>
+      <li>
+       <span><va-link
+          href="https://drive.google.com/file/d/1U6silOZM0aOzpEQXhzcQdQCM5AC-y2x9/view"
+          text="VR&E School Certifying Official Handbook"
+          download
+          filetype="PDF"
+          pages="19"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://authentication.tungsten-network.com/login"
+          text="Login to Tungsten"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf"
+          text="VR&E Tungsten Invoicing"
+          download
+          filetype="PDF"
+          pages="14"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.tungsten-network.com/customer-campaigns/vre/"
+          text="VR&E Tungsten Customer Campaign"
+        /></span>
+      </li>
+    </ul>
+    Resources to share with students
+    <ul>
+      <li>
+       <span><va-link
+          href="https://www.va.gov/careers-employment/vocational-rehabilitation/"
+          text="Veteran Readiness and Employment (Chapter 31)"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
+          text="Eligibility for VR&E"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/"
+          text="How to apply for VR&E"
+        /></span>
+      </li>
+    </ul>
+  </va-accordion-item>
+  <va-accordion-item
+    id="eighty-five-fifteen"
+    open="true"
+    header="85/15"
+    subheader="Information on the 85 percent rule, or 85/15 rule, which requires that at least 15 percent of students enrolled in an approved program are self-supported."
+    >
+    <ul>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/85_15_homepage.asp"
+          text="The 85/15 Rule"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/Reporting_Requirements.asp"
+          text="Reporting Requirements"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/35_percent_exemption.asp"
+          text="35 Percent Exemption"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/dod_exemption.asp"
+          text="Department of Defense (DoD) Exemption"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/education_service_waiver.asp"
+          text="Education Service Waiver"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/supported_non_supported_students.asp"
+          text="Supported and Non-Supported Students"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/restricted_aid.asp"
+          text="Restricted Aid"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/GIBILL/85_15/Suspension_and_Review.asp"
+          text="Suspension and Review"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://benefits.va.gov/gibill/85_15_faqs.asp"
+          text="85/15 FAQs"
+        /></span>
+      </li>
+    </ul>
+  </va-accordion-item>
+</va-accordion>
 <section class="merger-majorlinks va-nav-linkslist va-nav-linkslist--related">
   <section class="field_related_links">
     <h2 class="va-nav-linkslist-heading" tabindex="-1">
@@ -571,3 +843,15 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
   </ul>
   </section>
 </section>
+<script>
+  // Set the accordion's button to "Collapse all", since we're defaulting to having all accordion items open
+  (() => {
+    const body = document.querySelector('body');
+    body.onload = (event) => {
+      const accordionElement = document.querySelector('#other-resources-accordion');
+      const button = accordionElement.shadowRoot.querySelector('.va-accordion__button');
+      button.click();
+      button.blur();
+    }
+  })();
+</script>
