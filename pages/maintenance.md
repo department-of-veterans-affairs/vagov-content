@@ -23,7 +23,7 @@ noMegamenu: true
           <p>
             During this time, you won’t be able to sign in, use tools, or visit VA.gov webpages. Thank you for your patience.
           </p>
-          <p><strong>Date:</strong> Wednesday, January 31, 2024</p>
+          <p><strong>Date:</strong> Wednesday, March 13, 2024</p>
           <p><strong>Start and end time:</strong> 2:00 a.m. to 5 a.m. ET</p>
           <h2>Need help during this time?</h2>
           <ul>
