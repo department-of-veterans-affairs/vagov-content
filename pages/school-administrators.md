@@ -390,45 +390,37 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
 <section class="merger-majorlinks va-nav-linkslist va-nav-linkslist--related">
   <section class="field_related_links">
     <h2 class="va-nav-linkslist-heading" tabindex="-1">
-      Learn about Veteran education benefits
+      Understanding Veteran education benefits
     </h2>
-  <ul class="va-nav-linkslist-list">
-    <li>
-      <a href="https://www.va.gov/education/about-gi-bill-benefits/" class="vads-u-text-decoration--underline">
-        About GI Bill Benefits
-      </a>
-      <p class="va-nav-linkslist-description">Learn how the GI Bill works and explore your options to pay for school or training.</p>
-    </li>
-    <li>
-      <a href="https://www.va.gov/education/gi-bill-comparison-tool/" class="vads-u-text-decoration--underline">
-        Choosing GI Bill approved schools
-      </a>
-      <p class="va-nav-linkslist-description">Find GI Bill approved schools and compare benefits with the GI Bill Comparison Tool.</p>
-    </li>
-    <li>
-      <a href="https://www.va.gov/education/choosing-a-school/"class="vads-u-text-decoration--underline">
-        How to use your GI Bill benefits
-      </a>
-      <p class="va-nav-linkslist-description">Find out how to use your GI bill benefits to advance your education and training.</p>
-    </li>
-    <li>
-      <a href="https://www.va.gov/education/other-va-education-benefits/"class="vads-u-text-decoration--underline">
-        Other educational assistance programs
-      </a>
-      <p class="va-nav-linkslist-description">Find out if you’re eligible for programs that provide added GI Bill benefits. If you’re not eligible for the Post-9/11 GI Bill, learn about other VA education benefit programs for Veterans and National Guard or Reserve members.</p>
-    </li>
-    <li>
-      <a href="https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/"class="vads-u-text-decoration--underline">
-        Post-9/11 GI Bill and other VA education benefits rates
-      </a>
-      <p class="va-nav-linkslist-description">Check rate tables for the Post-9/11 GI Bill and other Veterans education benefits programs.</p>
-    </li>
-    <li>
-      <a href="https://benefits.va.gov/GIBILL/study-abroad.asp" class="vads-u-text-decoration--underline">
-        Study Abroad
-      </a>
-      <p class="va-nav-linkslist-description">Explore Post-9/11 GI Bill study abroad, covering tuition, fees, stipends, and exclusions like third-party fees and airfare.</p>
-    </li>
-  </ul>
+    <ul class="va-nav-linkslist-list">
+      <li>
+        <span><va-link
+          href="https://www.va.gov/education/about-gi-bill-benefits/"
+          text="About GI Bill Benefits"
+        /></span>
+        <p class="va-nav-linkslist-description">Learn how the GI Bill works and explore options Veterans have to pay for school or training.</p>
+      </li>
+      <li>
+        <span><va-link
+          href="https://www.va.gov/education/gi-bill-comparison-tool/"
+          text="GI Bill Comparison Tool"
+        /></span>
+        <p class="va-nav-linkslist-description">Compare and calculate GI Bill benefits at VA approved schools.</p>
+      </li>
+      <li>
+        <span><va-link
+          href="https://www.va.gov/education/benefit-rates/"
+          text="Current VA education benefit rates"
+        /></span>
+        <p class="va-nav-linkslist-description">Check program rate tables and determine how much of the full benefit rate Veterans can receive.</p>
+      </li>
+      <li>
+        <span><va-link
+          href="https://www.va.gov/education/other-va-education-benefits/"
+          text="Other VA education benefits"
+        /></span>
+        <p class="va-nav-linkslist-description">Explore additional GI Bill benefits and alternative programs for Veterans, National Guard, and Reserve members ineligible for the Post-9/11 GI Bill.</p>
+      </li>
+    </ul>
   </section>
 </section>
