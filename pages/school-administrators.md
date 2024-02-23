@@ -136,6 +136,16 @@ relatedlinks:
     /></span>
     <p class="va-nav-linkslist-description">Access the Employer’s Certification Handbook for OJT/APP Programs.</p>
   </li>
+    <li>
+    <span><va-link
+      href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf"
+      text="VR&E School Certifying Official Handbook"
+      download
+      filetype="PDF"
+      pages="15"
+    /></span>
+    <p class="va-nav-linkslist-description">Access the Veteran Readiness And Employment’s Certifying Official Handbook.</p>
+  </li>
 </ul>
 
 <div data-widget-type="sco-announcements"><a href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp">Education Service Yellow Ribbon Program Open Season</a></div>
@@ -401,7 +411,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
     <ul>
       <li>
        <span><va-link
-          href="https://www.figma.com/exit?url=https%3A%2F%2Fbenefits.va.gov%2Fgibill%2Fenrollment-manager%2Fenrollment-manager-sco-user-guide.pptx"
+          href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-sco-user-guide.pptx"
           text="Enrollment Manager User Guide"
           download
           filetype="PPTX"
@@ -470,7 +480,7 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
       </li>
       <li>
        <span><va-link
-          href="https://www.figma.com/exit?url=https%3A%2F%2Fbenefits.va.gov%2FGIBILL%2Fenrollment-manager%2Fpaper-based-enrollment-manager-crosswalk.pptx"
+          href="https://benefits.va.gov/GIBILL/enrollment-manager/paper-based-enrollment-manager-crosswalk.pptx"
           text="VA Paper Based Forms to Enrollment Manager Crosswalk"
           download
           filetype="PPTX"
