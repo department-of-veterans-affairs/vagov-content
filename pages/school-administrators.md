@@ -98,7 +98,7 @@ relatedlinks:
 <div class="vads-u-padding-bottom--2p5">
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
-    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
+    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and webinars</a></li>
     <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program Approvals</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
     <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
@@ -155,13 +155,13 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="trainings-and-webinars" tabindex="-1">Trainings and Webinars</h2>
+  <h2 id="trainings-and-webinars" tabindex="-1">Trainings and webinars</h2>
   <ul class="va-nav-linkslist-list">
     <li>
       <span><va-link
         href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
         text="Training Requirements"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
       <p class="va-nav-linkslist-description">Essential training for VA student enrollment certifications and compliance.</p>
     </li>
@@ -169,25 +169,25 @@ relatedlinks:
       <span><va-link
         href="https://vba-tpss.vbatraining.org/assess/trkSignIn?refid=XSCO"
         text="SCO Training Portal"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
       <p class="va-nav-linkslist-description">Access to the VA Training Portal for school officials.</p>
     </li>
     <li>
       <span><va-link
-        href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp"
-        text="Covered Institution Status"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"
+        text="Office Hours and Webinars"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Find out if your organization is a covered educational institution.</p>
+      <p class="va-nav-linkslist-description">Join our office hours and webinars for information on the GI Bill, related legislation, and processes.</p>
     </li>
     <li>
       <span><va-link
-        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"
-        text="Education Service Webinars and Training"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        href="https://public.govdelivery.com/accounts/USVAVBA/subscriber/new"
+        text="Sign up for for trainings, webinar, and office hour updates"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Join our Office Hours and webinars for information on the GI Bill, related legislation, and processes.</p>
+      <p class="va-nav-linkslist-description">Subscribe to the GovDelivery mailing list to receive updates and other routine communications from Education Service about trainings, office hours, and more.</p>
     </li>
   </ul>
 </div>
