@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2023-12-22
+lastupdate: 2024-01-25
 show_git_lastupdate:
 concurrence:
 plainlanguage:
