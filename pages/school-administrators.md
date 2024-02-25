@@ -98,8 +98,8 @@ relatedlinks:
 <div class="vads-u-padding-bottom--2p5">
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
-    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and webinars</a></li>
-    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program Approvals</a></li>
+    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
+    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program approvals information</a></li>
     <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
     <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
   </ul>
@@ -198,19 +198,40 @@ relatedlinks:
 <div>
 
 
-<h2 id="program-approvals" tabindex="-1">Program Approvals</h2>
+<h2 id="program-approvals" tabindex="-1">Program approvals information</h2>
 <ul class="va-nav-linkslist-list">
   <li>
     <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"
+      text="WEAMS Institution Search"
+    /></span>
+    <p class="va-nav-linkslist-description">Use the Web Enabled Approval Management System (WEAMS) to identify educational institutions offering programs approved for Veterans training.</p>
+  </li>
+  <li>
+    <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do"
+      text="Licensing and Certification"
+    /></span>
+    <p class="va-nav-linkslist-description">Search for WEAMS for approved Licensing and Certifications by category type, country, and state.</p>
+  </li>
+  <li>
+    <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchNE.do"
+      text="National Exams"
+    /></span>
+    <p class="va-nav-linkslist-description">Search WEAMS to identify approved National Exams such as ACT, CLEP, MCAT, and more.</p>
+  </li>
+  <li>
+    <span><va-link
       href="https://benefits.va.gov/gibill/School_Program_Approval.asp"
-      text="Domestic School Program Approvals"
+      text="Program Approvals"
     /></span>
     <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education broken down by various types of training programs.</p>
   </li>
   <li>
     <span><va-link
       href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp"
-      text="Foreign School Approval Process"
+      text="Foreign Program Approvals"
     /></span>
     <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education offered at foreign institutions.</p>
   </li>
@@ -226,7 +247,7 @@ relatedlinks:
       href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/"
       text="Principles of Excellence"
     /></span>
-    <p class="va-nav-linkslist-description">Explore the VA's Principles of Excellence webpage to identify if your organization must follow these guidelines.</p>
+    <p class="va-nav-linkslist-description">Understand the guidelines required by schools that receive federal funding through the GI Bill.</p>
   </li>
   <li>
     <span><va-link
@@ -234,13 +255,6 @@ relatedlinks:
       text="State Approving Agency Contact Information"
     /></span>
     <p class="va-nav-linkslist-description">Find out how you can contact your State Approving Agency.</p>
-  </li>
-  <li>
-    <span><va-link
-      href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"
-      text="WEAMS Institution Search"
-    /></span>
-    <p class="va-nav-linkslist-description">Use WEAMS Public to identify educational institutions offering programs approved for Veterans training.</p>
   </li>
 </ul>
 <section class="usa-grid">
