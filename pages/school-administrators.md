@@ -95,26 +95,15 @@ relatedlinks:
 
 ### On this page
 
-<div class="vads-u-padding-bottom--2p5">
+<div>
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
     <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
     <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program approvals information</a></li>
-    <li><a href="#policies-and-procedures" onClick="recordEvent({ event: 'nav-jumplink-click'});">Policies and procedures</a></li>
+    <li><a href="#upload-files" onClick="recordEvent({ event: 'nav-jumplink-click'});">Upload files to VA</a></li>
     <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
   </ul>
 </div>
-
-<va-featured-content uswds>
-  <h3 slot="headline">Upload documents to VA</h3>
-  <p>
-    The Education File Upload Portal is for certifying officials to upload documents supporting compliance actions, designating or removing certifying officials, and more. The full list of accepted documents is found in the upload portal.
-  </p>
-  <va-link
-    href="https://www.my.va.gov/EducationFileUploads/s/"
-    text="Education File Upload Portal"
-  />
-</va-featured-content>
 
 <section class="usa-grid">
   <div class="va-h-ruled--stars"></div>
@@ -257,6 +246,85 @@ relatedlinks:
     <p class="va-nav-linkslist-description">Find out how you can contact your State Approving Agency.</p>
   </li>
 </ul>
+
+<section class="usa-grid">
+    <div class="va-h-ruled--stars"></div>
+</section>
+
+<h2 id="upload-files" tabindex="-1">Upload files to VA</h2>
+    <ul class="va-nav-linkslist-list">
+      <li>
+        <span><va-link
+          href="https://www.my.va.gov/EducationFileUploads/s/"
+          text="Education File Upload Portal"
+        /></span>
+        <p class="va-nav-linkslist-description">Upload forms and other accepted documents supporting compliance actions, designating or removing certifying officials, and more.</p>
+      </li>
+</ul>
+<va-accordion bordered id="upload-files-accordion">
+  <va-accordion-item
+    id="forms-library"
+    open="true"
+    header="Forms library and other accepted documents"
+    subheader="Check out the forms and documents which you can submit to VA via the Education File Upload Portal."
+    >
+    Accepted forms
+    <ul>
+      <li>
+       <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/VBA-22-8794-ARE.pdf"
+          text="Designation of Certifying Official(s) - VA Form 22-8794"
+          download
+          filetype="PDF"
+          pages="3"
+        /></span>
+      </li>
+      <li>
+        <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/vba-22-10215-are.pdf"
+          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios - VA Form 22-10215"
+          download
+          filetype="PDF"
+          pages="4"
+         /></span>
+       </li>
+       <li>
+        <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/vba-22-10215a-are.pdf"
+          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios Continuation Sheet - VA Form 22-10215a"
+          download
+          filetype="PDF"
+          pages="2"
+         /></span>
+       </li>
+       <li>
+        <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/vba-22-10216-are.pdf"
+          text="35% Exemption Request from 85/15 Reporting Requirement - VA Form 22-10216"
+          download
+          filetype="PDF"
+          pages="2"
+         /></span>
+       </li>
+       <li>
+        <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/VBA-22-1919-ARE.pdf"
+          text="Conflicting Interests Certification for Proprietary Schools - VA Form 22-1919"
+          download
+          filetype="PDF"
+          pages="1"
+         /></span>
+       </li>
+    </ul>
+    Other accepted documents
+    <ul>
+      <li>Compliance documents requested to support a scheduled compliance activity at your institution</li>
+      <li>Electronic Fund Transfer and Tax ID Updates</li>
+      <li>Requests for centralized certification</li>
+    </ul>
+  </va-accordion-item>
+</va-accordion>
+
 <section class="usa-grid">
     <div class="va-h-ruled--stars"></div>
 </section>
@@ -712,14 +780,17 @@ Learn about policies and procedures that apply to GI Bill legislation and VA edu
   </section>
 </section>
 <script>
-  // Set the accordion's button to "Collapse all", since we're defaulting to having all accordion items open
+  // Set the accordions' buttons to "Collapse all", since we're defaulting to having all accordion items open
   (() => {
     const body = document.querySelector('body');
+    const accordionSelectors = ['#other-resources-accordion', '#upload-files-accordion'];
     body.onload = (event) => {
-      const accordionElement = document.querySelector('#other-resources-accordion');
-      const button = accordionElement.shadowRoot.querySelector('.va-accordion__button');
-      button.click();
-      button.blur();
+      accordionSelectors.forEach( accordionSelector => { 
+        const accordionElement = document.querySelector(accordionSelector);
+        const button = accordionElement.shadowRoot.querySelector('.va-accordion__button');
+        button.click();
+        button.blur();
+      });
     }
   })();
 </script>
