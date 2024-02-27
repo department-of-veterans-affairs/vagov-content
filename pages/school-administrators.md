@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2023-12-22
+lastupdate: 2024-01-25
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -99,7 +99,7 @@ relatedlinks:
   <ul>
     <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
     <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
-    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program Approvals</a></li>
+    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program approvals information</a></li>
     <li><a href="#upload-files" onClick="recordEvent({ event: 'nav-jumplink-click'});">Upload files to VA</a></li>
     <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
   </ul>
@@ -144,13 +144,13 @@ relatedlinks:
 </section>
 
 <div>
-  <h2 id="trainings-and-webinars" tabindex="-1">Trainings and Webinars</h2>
+  <h2 id="trainings-and-webinars" tabindex="-1">Trainings and webinars</h2>
   <ul class="va-nav-linkslist-list">
     <li>
       <span><va-link
         href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp"
         text="Training Requirements"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
       <p class="va-nav-linkslist-description">Essential training for VA student enrollment certifications and compliance.</p>
     </li>
@@ -158,25 +158,25 @@ relatedlinks:
       <span><va-link
         href="https://vba-tpss.vbatraining.org/assess/trkSignIn?refid=XSCO"
         text="SCO Training Portal"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
       <p class="va-nav-linkslist-description">Access to the VA Training Portal for school officials.</p>
     </li>
     <li>
       <span><va-link
-        href="https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp"
-        text="Covered Institution Status"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"
+        text="Office Hours and Webinars"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Find out if your organization is a covered educational institution.</p>
+      <p class="va-nav-linkslist-description">Join our office hours and webinars for information on the GI Bill, related legislation, and processes.</p>
     </li>
     <li>
       <span><va-link
-        href="https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp"
-        text="Education Service Webinars and Training"
-        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and Webinars'});"
+        href="https://public.govdelivery.com/accounts/USVAVBA/subscriber/new"
+        text="Sign up for for trainings, webinar, and office hour updates"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Join our Office Hours and webinars for information on the GI Bill, related legislation, and processes.</p>
+      <p class="va-nav-linkslist-description">Subscribe to the GovDelivery mailing list to receive updates and other routine communications from Education Service about trainings, office hours, and more.</p>
     </li>
   </ul>
 </div>
@@ -187,19 +187,40 @@ relatedlinks:
 <div>
 
 
-<h2 id="program-approvals" tabindex="-1">Program Approvals</h2>
+<h2 id="program-approvals" tabindex="-1">Program approvals information</h2>
 <ul class="va-nav-linkslist-list">
   <li>
     <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"
+      text="WEAMS Institution Search"
+    /></span>
+    <p class="va-nav-linkslist-description">Use the Web Enabled Approval Management System (WEAMS) to identify educational institutions offering programs approved for Veterans training.</p>
+  </li>
+  <li>
+    <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do"
+      text="Licensing and Certification"
+    /></span>
+    <p class="va-nav-linkslist-description">Search for WEAMS for approved Licensing and Certifications by category type, country, and state.</p>
+  </li>
+  <li>
+    <span><va-link
+      href="https://inquiry.vba.va.gov/weamspub/buildSearchNE.do"
+      text="National Exams"
+    /></span>
+    <p class="va-nav-linkslist-description">Search WEAMS to identify approved National Exams such as ACT, CLEP, MCAT, and more.</p>
+  </li>
+  <li>
+    <span><va-link
       href="https://benefits.va.gov/gibill/School_Program_Approval.asp"
-      text="Domestic School Program Approvals"
+      text="Program Approvals"
     /></span>
     <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education broken down by various types of training programs.</p>
   </li>
   <li>
     <span><va-link
       href="https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp"
-      text="Foreign School Approval Process"
+      text="Foreign Program Approvals"
     /></span>
     <p class="va-nav-linkslist-description">Identify general approval guidelines for programs of education offered at foreign institutions.</p>
   </li>
@@ -215,7 +236,7 @@ relatedlinks:
       href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/"
       text="Principles of Excellence"
     /></span>
-    <p class="va-nav-linkslist-description">Explore the VA's Principles of Excellence webpage to identify if your organization must follow these guidelines.</p>
+    <p class="va-nav-linkslist-description">Understand the guidelines required by schools that receive federal funding through the GI Bill.</p>
   </li>
   <li>
     <span><va-link
@@ -223,13 +244,6 @@ relatedlinks:
       text="State Approving Agency Contact Information"
     /></span>
     <p class="va-nav-linkslist-description">Find out how you can contact your State Approving Agency.</p>
-  </li>
-  <li>
-    <span><va-link
-      href="https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do"
-      text="WEAMS Institution Search"
-    /></span>
-    <p class="va-nav-linkslist-description">Use WEAMS Public to identify educational institutions offering programs approved for Veterans training.</p>
   </li>
 </ul>
 
