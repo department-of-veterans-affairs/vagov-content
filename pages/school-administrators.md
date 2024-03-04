@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2024-02-28
+lastupdate: 2024-03-04
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -17,31 +17,16 @@ promo:
   - image: /img/hub-illustrations/education-sco.jpg
     heading: Access Enrollment Manager
     url: "https://iam.education.va.gov/"
-    description: "via the VA Education Platform"
+    description: "via the VA Education Platform Portal"
 social:
   - heading: Ask questions
     subsections:
-
-      - subhead:
+      - subhead: Message us
         links:
           - url: https://ask.va.gov/
-            label: "Ask a Question (AVA)"
-          - url:
-            title: "Ask a question about GI Bill benefits."
-  - heading: Connect with us
-    admin: Find your Education Liaison Representative (ELR)
-    url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
-    subsections:
-      - subhead: Email us
-        links:
-          - url: mailto:edutraining.vbaco@va.gov
-            label: Email National Training Team - Schools
-            icon: fa-envelope
-      - subhead: Get updates
-        links:
-          - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
-            label: Veteran Benefits email or text updates
-            icon: fa-envelope
+            title: "Contact us through Ask VA (AVA)"
+          - url: https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf
+            label: "Ask VA (AVA) Guide"
       - subhead: Call us
         links:
         - url: tel:1-888-442-4551
@@ -52,9 +37,18 @@ social:
           title: "Outside the U.S.:"
         - url: tel:1-800-698-2411
           number: 800-698-2411
-          title: "Call MyVA411 for help:"
-        - url:
-          title: "If you have hearing loss, call TTY: 711."
+          title: "MyVA411 for main information line:"
+        - url: tel:711
+          title: "Telecommunications Relay Services"
+          number: "TTY: 711"
+      - subhead: Additional Contacts
+        links:
+        - url: https://www.benefits.va.gov/gibill/regional_processing.asp
+          label: Regional Processing Offices (RPOs)
+        - url: https://nasaa-vetseducation.com/nasaa-contacts/
+          label: State Approving Agency Contacts
+  - heading: Connect with us
+    subsections:
       - subhead: Get GovDelivery updates
         links:
           - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
@@ -71,9 +65,6 @@ social:
         - url: https://www.youtube.com/@VAVetBenefits
           title: "VBA on YouTube"
           icon: fa-youtube
-        - url: https://twitter.com/VAVetBenefits
-          title: "VBA on X"
-          icon: fa-twitter
 majorlinks:
   - heading:
     links:
@@ -90,23 +81,13 @@ relatedlinks:
 
 <div>
   <p class="va-introtext">
-    Trainings, resources, guides, and information on GI Bill® programs geared towards School Certifying Officials (SCOs) and school administrators.
+    Trainings, resources, guides, and information on GI Bill® programs created for school administrators and certifying officials.
   <p>
 </div>
 
-### On this page
+<div><va-on-this-page class="vads-u-margin-left--1 vads-u-margin-bottom--0 vads-u-padding-bottom--0" /></div>
 
-<div>
-  <ul>
-    <li><a href="#handbooks" onClick="recordEvent({ event: 'nav-jumplink-click'});">Handbooks</a></li>
-    <li><a href="#trainings-and-webinars" onClick="recordEvent({ event: 'nav-jumplink-click'});">Trainings and Webinars</a></li>
-    <li><a href="#program-approvals" onClick="recordEvent({ event: 'nav-jumplink-click'});">Program approvals information</a></li>
-    <li><a href="#upload-files" onClick="recordEvent({ event: 'nav-jumplink-click'});">Upload files to VA</a></li>
-    <li><a href="#other-resources" onClick="recordEvent({ event: 'nav-jumplink-click'});">Other resources for schools</a></li>
-  </ul>
-</div>
-
-<section class="usa-grid">
+<section>
   <div class="va-h-ruled--stars"></div>
 </section>
 
@@ -138,7 +119,7 @@ relatedlinks:
   </li>
 </ul>
 
-<section class="usa-grid">
+<section>
   <div class="va-h-ruled--stars"></div>
 </section>
 
@@ -159,7 +140,7 @@ relatedlinks:
         text="SCO Training Portal"
         onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Access to the VA Training Portal for school officials.</p>
+      <p class="va-nav-linkslist-description">Access to the training portal for school officials.</p>
     </li>
     <li>
       <span><va-link
@@ -180,7 +161,7 @@ relatedlinks:
   </ul>
 </div>
 
-<section class="usa-grid">
+<section>
     <div class="va-h-ruled--stars"></div>
 </section>
 <div>
@@ -246,7 +227,7 @@ relatedlinks:
   </li>
 </ul>
 
-<section class="usa-grid">
+<section>
     <div class="va-h-ruled--stars"></div>
 </section>
 
@@ -324,7 +305,7 @@ relatedlinks:
   </va-accordion-item>
 </va-accordion>
 
-<section class="usa-grid">
+<section>
     <div class="va-h-ruled--stars"></div>
 </section>
 
@@ -601,9 +582,9 @@ relatedlinks:
 </va-accordion>
 <section class="merger-majorlinks va-nav-linkslist va-nav-linkslist--related">
   <section class="field_related_links">
-    <h2 class="va-nav-linkslist-heading" tabindex="-1">
+    <h3 class="va-nav-linkslist-heading" tabindex="-1">
       Understanding Veteran education benefits
-    </h2>
+    </h3>
     <ul class="va-nav-linkslist-list">
       <li>
         <span><va-link
