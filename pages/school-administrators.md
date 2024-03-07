@@ -129,10 +129,7 @@ relatedlinks:
     <li>
     <span><va-link
       href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf"
-      text="VR&E School Certifying Official Handbook"
-      download
-      filetype="PDF"
-      pages="15"
+      text="VR&E School Certifying Official Handbook (PDF, 15 pages)"
     /></span>
     <p class="va-nav-linkslist-description">Access the Veteran Readiness And Employment’s Certifying Official Handbook.</p>
   </li>
@@ -272,46 +269,31 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://www.vba.va.gov/pubs/forms/VBA-22-8794-ARE.pdf"
-          text="Designation of Certifying Official(s) - VA Form 22-8794"
-          download
-          filetype="PDF"
-          pages="3"
+          text="Designation of Certifying Official(s) - VA Form 22-8794 (PDF, 3 pages)"
         /></span>
       </li>
       <li>
         <span><va-link
           href="https://www.vba.va.gov/pubs/forms/vba-22-10215-are.pdf"
-          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios - VA Form 22-10215"
-          download
-          filetype="PDF"
-          pages="4"
+          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios - VA Form 22-10215 (PDF, 4 pages)"
          /></span>
        </li>
        <li>
         <span><va-link
           href="https://www.vba.va.gov/pubs/forms/vba-22-10215a-are.pdf"
-          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios Continuation Sheet - VA Form 22-10215a"
-          download
-          filetype="PDF"
-          pages="2"
+          text="Statement of Assurance of Compliance with 85 Percent Enrollment Ratios Continuation Sheet - VA Form 22-10215a (PDF, 2 pages)"
          /></span>
        </li>
        <li>
         <span><va-link
           href="https://www.vba.va.gov/pubs/forms/vba-22-10216-are.pdf"
-          text="35% Exemption Request from 85/15 Reporting Requirement - VA Form 22-10216"
-          download
-          filetype="PDF"
-          pages="2"
+          text="35% Exemption Request from 85/15 Reporting Requirement - VA Form 22-10216 (PDF, 2 pages)"
          /></span>
        </li>
        <li>
         <span><va-link
           href="https://www.vba.va.gov/pubs/forms/VBA-22-1919-ARE.pdf"
-          text="Conflicting Interests Certification for Proprietary Schools - VA Form 22-1919"
-          download
-          filetype="PDF"
-          pages="1"
+          text="Conflicting Interests Certification for Proprietary Schools - VA Form 22-1919 (PDF, 1 page)"
          /></span>
        </li>
     </ul>
@@ -351,16 +333,13 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-sco-user-guide.pptx"
-          text="Enrollment Manager User Guide"
-          download
-          filetype="PPTX"
-          pages="315"
+          text="Enrollment Manager User Guide (PPTX, 315 pages)"
         /></span>
       </li>
       <li>
        <span><va-link
           href="https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=905F1007A503BEC289E3A5790DA0502F1B63E1E7A7DB7812%2DE840CFCE5B98B41ECB45F0981B49F04C5A9E58387AC0FEB3CD059376A6F335D5&redirect%5Furi=https%3A%2F%2Fdvagov%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=c2450da1%2D302d%2D4000%2De987%2Df5955d8801ea"
-          text="Enrollment Manger Course Catalog"
+          text="Enrollment Manager Course Catalog"
         /></span>
       </li>
       <li>
@@ -375,37 +354,25 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://benefits.va.gov/gibill/docs/guides/flight-quick-start-guide.pdf"
-          text="Flight - Enrollment Manager Quick Start Guide"
-          download
-          filetype="PDF"
-          pages="4"
+          text="Flight - Enrollment Manager Quick Start Guide (PDF, 4 pages)"
         /></span>
       </li>
       <li>
        <span><va-link
           href="https://benefits.va.gov/gibill/docs/guides/ihl-quick-start-guide.pdf"
-          text="Institutions of Higher Learning - Enrollment Manager Quick Start Guide"
-          download
-          filetype="PDF"
-          pages="3"
+          text="Institutions of Higher Learning - Enrollment Manager Quick Start Guide (PDF, 3 pages)"
         /></span>
       </li>
       <li>
        <span><va-link
           href="https://benefits.va.gov/gibill/docs/guides/ncd-quick-start-guide.pdf"
-          text="Non-College Degree Programs - Enrollment Manager Quick Start Guide"
-          download
-          filetype="PDF"
-          pages="3"
+          text="Non-College Degree Programs - Enrollment Manager Quick Start Guide (PDF, 3 pages)"
         /></span>
       </li>
       <li>
        <span><va-link
           href="https://benefits.va.gov/gibill/docs/guides/ojtapp-quick-start-guide.pdf"
-          text="On-the-Job Training/Apprenticeship - Enrollment Manager Quick Start Guide"
-          download
-          filetype="PDF"
-          pages="4"
+          text="On-the-Job Training/Apprenticeship - Enrollment Manager Quick Start Guide (PDF, 4 pages)"
         /></span>
       </li>
     </ul>
@@ -420,10 +387,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://benefits.va.gov/GIBILL/enrollment-manager/paper-based-enrollment-manager-crosswalk.pptx"
-          text="VA Paper Based Forms to Enrollment Manager Crosswalk"
-          download
-          filetype="PPTX"
-          pages="124"
+          text="VA Paper Based Forms to Enrollment Manager Crosswalk (PPTX, 124 pages)"
         /></span>
       </li>
     </ul>
@@ -445,10 +409,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf"
-          text="Benefits of the dual certification process"
-          download
-          filetype="PDF"
-          pages="1"
+          text="Benefits of the dual certification process (PDF, 1 page)"
         /></span>
       </li>
       <li>
@@ -485,10 +446,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://drive.google.com/file/d/1U6silOZM0aOzpEQXhzcQdQCM5AC-y2x9/view"
-          text="VR&E School Certifying Official Handbook"
-          download
-          filetype="PDF"
-          pages="19"
+          text="VR&E School Certifying Official Handbook (PDF, 19 pages)"
         /></span>
       </li>
       <li>
@@ -500,10 +458,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_Tungsten_Invoicing.pdf"
-          text="VR&E Tungsten Invoicing"
-          download
-          filetype="PDF"
-          pages="14"
+          text="VR&E Tungsten Invoicing (PDF, 14 pages)"
         /></span>
       </li>
       <li>
