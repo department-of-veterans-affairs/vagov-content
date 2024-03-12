@@ -15,3 +15,7 @@ Welcome to the VA.gov Interim CMS :writing_hand:
 
 ### Repo Permissions
 Teams building on VA.gov may have write access to this repository, requiring only 1 review which can come from a peer. Teams are still expected to follow platform (VSP)'s [content review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md). More in [decisions](docs/decisions.md)
+
+### Not a member of the repository and want to be added?
+- If you're on a VA.gov Platform team, contact your Program Manager.
+- If you're on a VFS team, you must complete [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation) to be added to this repository. This includes completing your Platform Orientation ticket(s) in GitHub.
