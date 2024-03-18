@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2024-03-04
+lastupdate: 2024-03-18
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -45,6 +45,8 @@ social:
         links:
         - url: https://www.benefits.va.gov/gibill/regional_processing.asp
           label: Regional Processing Offices (RPOs)
+        - url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
+          label: Education Liaison Representative (ELR) Contacts
         - url: https://nasaa-vetseducation.com/nasaa-contacts/
           label: State Approving Agency Contacts
   - heading: Connect with us
@@ -56,6 +58,9 @@ social:
             icon: fa-envelope
       - subhead: Follow us
         links:
+        - url: https://www.facebook.com/gibillEducation/
+          title: Education Service GI Bill®
+          icon: fa-facebook
         - url: https://www.facebook.com/VeteransBenefits
           title: "VBA on Facebook"
           icon: fa-facebook
@@ -109,8 +114,8 @@ relatedlinks:
   </li>
     <li>
     <span><va-link
-      href="https://www.benefits.va.gov/GIBILL/docs/job_aids/VRE_SCO_Handbook.pdf"
-      text="VR&E School Certifying Official Handbook (PDF, 15 pages)"
+      href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000260919/VRE-School-Certifying-Official-Handbook"
+      text="VR&E School Certifying Official Handbook"
     /></span>
     <p class="va-nav-linkslist-description">Access the Veteran Readiness And Employment’s Certifying Official Handbook.</p>
   </li>
@@ -271,12 +276,6 @@ relatedlinks:
           text="35% Exemption Request from 85/15 Reporting Requirement - VA Form 22-10216 (PDF, 2 pages)"
          /></span>
        </li>
-       <li>
-        <span><va-link
-          href="https://www.vba.va.gov/pubs/forms/VBA-22-1919-ARE.pdf"
-          text="Conflicting Interests Certification for Proprietary Schools - VA Form 22-1919 (PDF, 1 page)"
-         /></span>
-       </li>
     </ul>
     Other accepted documents
     <ul>
@@ -389,12 +388,6 @@ relatedlinks:
       </li>
       <li>
        <span><va-link
-          href="https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf"
-          text="Benefits of the dual certification process (PDF, 1 page)"
-        /></span>
-      </li>
-      <li>
-       <span><va-link
           href="https://www.fiscal.treasury.gov/TOP/"
           text="Treasury Offset Program"
         /></span>
@@ -402,12 +395,6 @@ relatedlinks:
     </ul>
     Resources to share with students
     <ul>
-      <li>
-       <span><va-link
-          href="https://www.va.gov/manage-va-debt/"
-          text="Manage your VA debt"
-        /></span>
-      </li>
       <li>
        <span><va-link
           href="https://www.va.gov/resources/va-debt-management/"
