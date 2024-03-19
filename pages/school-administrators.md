@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2024-03-18
+lastupdate: 2024-03-19
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -222,6 +222,13 @@ relatedlinks:
   </li>
   <li>
     <span><va-link
+      href="https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp"
+      text="Yellow Ribbon Program"
+    /></span>
+    <p class="va-nav-linkslist-description">Find information for schools considering initial or continued participation in the Yellow Ribbon Program.</p>
+  </li>
+  <li>
+    <span><va-link
       href="https://nasaa-vetseducation.com/nasaa-contacts/"
       text="State Approving Agency Contact Information"
     /></span>
@@ -378,7 +385,6 @@ relatedlinks:
     header="Payment and debt"
     subheader="Find information about managing debt related to VA education benefits."
     >
-    For schools
     <ul>
       <li>
        <span><va-link
@@ -388,17 +394,14 @@ relatedlinks:
       </li>
       <li>
        <span><va-link
-          href="https://www.fiscal.treasury.gov/TOP/"
-          text="Treasury Offset Program"
-        /></span>
-      </li>
-    </ul>
-    Resources to share with students
-    <ul>
-      <li>
-       <span><va-link
           href="https://www.va.gov/resources/va-debt-management/"
           text="VA Debt Management Center"
+        /></span>
+      </li>
+      <li>
+       <span><va-link
+          href="https://www.fiscal.treasury.gov/TOP/"
+          text="Treasury Offset Program (TOP)"
         /></span>
       </li>
     </ul>
