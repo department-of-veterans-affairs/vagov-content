@@ -1,6 +1,6 @@
 ---
 # Page setup.
-layout: accredited_representative_portal.html
+layout: representative.html
 template: detail-page
 hidesidenav: true
 
@@ -36,7 +36,7 @@ includeBreadcrumbs: false
     <div class="vads-u-display--flex above-footer-elements-container">
       <div class="vads-u-flex--auto">
         <span class="vads-u-text-align--justify">
-          <p>Last updated: <time datetime="2022-02-24">Mar 14, 2024</time></p>
+          <p>Last updated: <time datetime="2024-03-20">Mar 20, 2024</time></p>
         </span>
       </div>
       <div class="vads-u-flex--1 vads-u-text-align--right">
