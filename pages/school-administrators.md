@@ -6,7 +6,7 @@ display_title: Resources for schools
 heading:
 permalink:
 source: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/sco_info.asp
-lastupdate: 2024-03-21
+lastupdate: 2024-05-07
 show_git_lastupdate:
 concurrence:
 plainlanguage:
@@ -26,7 +26,7 @@ social:
           - url: https://ask.va.gov/
             title: "Contact us through Ask VA (AVA)"
           - url: https://benefits.va.gov/gibill/docs/ava_external_dashboard_guide.pdf
-            label: "Ask VA (AVA) Guide"
+            label: "Ask VA (AVA) Guide (PDF, 13 pages)"
       - subhead: Call us
         links:
         - url: tel:1-888-442-4551
@@ -46,20 +46,20 @@ social:
         - url: https://www.benefits.va.gov/gibill/regional_processing.asp
           label: Regional Processing Offices (RPOs)
         - url: https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp
-          label: Education Liaison Representative (ELR) Contacts
+          label: Education Liaison Representatives (ELRs)
         - url: https://nasaa-vetseducation.com/nasaa-contacts/
-          label: State Approving Agency Contacts
+          label: State Approving Agency (SAA)
   - heading: Connect with us
     subsections:
       - subhead: Get GovDelivery updates
         links:
           - url: https://public.govdelivery.com/accounts/USVAVBA/subscriber/new
-            title: "Subscribe to the GovDelivery mailing list"
+            title: "Subscribe to GovDelivery"
             icon: fa-envelope
       - subhead: Follow us
         links:
         - url: https://www.facebook.com/gibillEducation/
-          title: Education Service GI Bill®
+          title: Education Service on Facebook
           icon: fa-facebook
         - url: https://www.facebook.com/VeteransBenefits
           title: "VBA on Facebook"
@@ -103,7 +103,7 @@ relatedlinks:
       href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line"
       text="School Certifying Official Handbook"
     /></span>
-    <p class="va-nav-linkslist-description">Access the School Certifying Official Handbook online for valuable information and guidance on effectively managing VA education benefits.</p>
+    <p class="va-nav-linkslist-description">Access the School Certifying Official Handbook online.</p>
   </li>
   <li>
     <span><va-link
@@ -155,7 +155,7 @@ relatedlinks:
     <li>
       <span><va-link
         href="https://public.govdelivery.com/accounts/USVAVBA/subscriber/new"
-        text="Sign up for for trainings, webinar, and office hour updates"
+        text="Sign up for trainings, webinars, and office hour updates"
         onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
       <p class="va-nav-linkslist-description">Subscribe to the GovDelivery mailing list to receive updates and other routine communications from Education Service about trainings, office hours, and more.</p>
@@ -169,7 +169,7 @@ relatedlinks:
 <div>
 
 
-<h2 id="program-approvals" tabindex="-1">Program approvals information</h2>
+<h2 id="program-approval" tabindex="-1">Program approval information</h2>
 <ul class="va-nav-linkslist-list">
   <li>
     <span><va-link
@@ -183,7 +183,7 @@ relatedlinks:
       href="https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do"
       text="Licensing and Certification"
     /></span>
-    <p class="va-nav-linkslist-description">Search for WEAMS for approved Licensing and Certifications by category type, country, and state.</p>
+    <p class="va-nav-linkslist-description">Search WEAMS for approved Licensing and Certifications and Test Prep Courses by country and state.</p>
   </li>
   <li>
     <span><va-link
@@ -218,7 +218,7 @@ relatedlinks:
       href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/"
       text="Principles of Excellence"
     /></span>
-    <p class="va-nav-linkslist-description">Understand the guidelines required by schools that receive federal funding through the GI Bill.</p>
+    <p class="va-nav-linkslist-description">Understand the guidelines required by schools receiving federal funding through the GI Bill.</p>
   </li>
   <li>
     <span><va-link
@@ -283,6 +283,12 @@ relatedlinks:
           text="35% Exemption Request from 85/15 Reporting Requirement - VA Form 22-10216 (PDF, 2 pages)"
          /></span>
        </li>
+       <li>
+        <span><va-link
+          href="https://www.vba.va.gov/pubs/forms/VBA-22-1919-ARE.pdf"
+          text="Conflicting Interests Certification for Proprietary Schools - VA Form 22-1919 (PDF, 1 page)"
+         /></span>
+       </li>
     </ul>
     Other accepted documents
     <ul>
@@ -311,7 +317,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://iam.education.va.gov/auth/realms/dgib/protocol/openid-connect/auth?response_type=code&scope=openid+profile+email&client_id=apigw&redirect_uri=https://iam.education.va.gov:443/_codexch&nonce=GtVNXpMNDc0rQreRf8kTvzlqvDM-zVIsBcz4n2gCn-E&state=0"
-          text="Launch VA Education Platform"
+          text="Launch VA Education Platform Portal"
         /></span>
       </li>
     </ul>
@@ -321,12 +327,6 @@ relatedlinks:
        <span><va-link
           href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-sco-user-guide.pptx"
           text="Enrollment Manager User Guide (PPTX, 315 pages)"
-        /></span>
-      </li>
-      <li>
-       <span><va-link
-          href="https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=905F1007A503BEC289E3A5790DA0502F1B63E1E7A7DB7812%2DE840CFCE5B98B41ECB45F0981B49F04C5A9E58387AC0FEB3CD059376A6F335D5&redirect%5Furi=https%3A%2F%2Fdvagov%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=c2450da1%2D302d%2D4000%2De987%2Df5955d8801ea"
-          text="Enrollment Manager Course Catalog"
         /></span>
       </li>
       <li>
@@ -416,8 +416,8 @@ relatedlinks:
     <ul>
       <li>
        <span><va-link
-          href="https://drive.google.com/file/d/1U6silOZM0aOzpEQXhzcQdQCM5AC-y2x9/view"
-          text="VR&E School Certifying Official Handbook (PDF, 19 pages)"
+          href="https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000260919/VRE-School-Certifying-Official-Handbook"
+          text="VR&E School Certifying Official Handbook"
         /></span>
       </li>
       <li>
