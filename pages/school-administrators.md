@@ -21,6 +21,10 @@ promo:
 social:
   - heading: Ask questions
     subsections:
+      - subhead: SCO Resource Matrix
+        links:
+          - url: https://vbatraining.adobeconnect.com/scocontactmatrix/default/index.html
+            title: "SCO Resource Matrix"
       - subhead: Message us
         links:
           - url: https://ask.va.gov/
