@@ -164,6 +164,14 @@ relatedlinks:
       /></span>
       <p class="va-nav-linkslist-description">Subscribe to the GovDelivery mailing list to receive updates and other routine communications from Education Service about trainings, office hours, and more.</p>
     </li>
+    <li>
+      <span><va-link
+        href="https://benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/gov-delivery.asp"
+        text="GovDelivery Message Archive"
+        onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
+      /></span>
+      <p class="va-nav-linkslist-description">Access past GovDelivery messages on the archive app.</p>
+    </li>
   </ul>
 </div>
 
