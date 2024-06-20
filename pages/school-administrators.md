@@ -170,7 +170,7 @@ relatedlinks:
         text="GovDelivery Message Archive"
         onClick="recordEvent({ event: 'nav-linkslist', 'links-list-header': 'Trainings and webinars'});"
       /></span>
-      <p class="va-nav-linkslist-description">Access past GovDelivery messages on the archive app.</p>
+      <p class="va-nav-linkslist-description">Access past GovDelivery messages on the archive page.</p>
     </li>
   </ul>
 </div>
