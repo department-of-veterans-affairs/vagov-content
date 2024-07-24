@@ -330,7 +330,7 @@ relatedlinks:
       <li>
        <span><va-link
           href="https://vbatraining.adobeconnect.com/pz0f1ckt4nrh/default/index.html"
-          text="Enrollment Manager User Guide "
+          text="Enrollment Manager User Guide"
         /></span>
       </li>
       <li>
