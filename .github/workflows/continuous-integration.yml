@@ -51,12 +51,26 @@ jobs:
           max_attempts: 3
           timeout_minutes: 15
 
-      - name: Install dependencies and build content-build
+      - name: Install dependencies
         uses: nick-invision/retry@v2
         with:
-          command: cd content-build && cp .env.example .env && yarn --frozen-lockfile --prefer-offline && yarn fetch-drupal-cache && yarn build
+          command: cd content-build && cp .env.example .env && yarn --frozen-lockfile --prefer-offline
           max_attempts: 3
-          timeout_minutes: 45
+          timeout_minutes: 15
+
+      - name: Fetch Drupal cache
+        uses: nick-invision/retry@v2
+        with:
+          command: cd content-build && yarn fetch-drupal-cache
+          max_attempts: 3
+          timeout_minutes: 15
+
+      - name: Build content-build
+        uses: nick-invision/retry@v2
+        with:
+          command: cd content-build && yarn build
+          max_attempts: 3
+          timeout_minutes: 15
   
   security-audit:
     name: Security Audit
