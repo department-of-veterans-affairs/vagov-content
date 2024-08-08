@@ -178,7 +178,7 @@ relatedlinks:
 <section>
     <div class="va-h-ruled--stars"></div>
 </section>
-<div>
+
 
 
 <h2 id="program-approval" tabindex="-1">Program approval information</h2>
@@ -471,6 +471,14 @@ relatedlinks:
           text="How to apply for VR&E"
         /></span>
       </li>
+      <li>
+         <span>
+              <va-link
+                href="https://www.benefits.va.gov/vocrehab/vsoc.asp"
+                text="VetSuccess on Campus (VSOC)"
+              />
+        </span>
+      </li>
     </ul>
   </va-accordion-item>
   <va-accordion-item
@@ -570,6 +578,13 @@ relatedlinks:
           text="Other VA education benefits"
         /></span>
         <p class="va-nav-linkslist-description">Explore additional GI Bill benefits and alternative programs for Veterans, National Guard, and Reserve members ineligible for the Post-9/11 GI Bill.</p>
+      </li>
+      <li>
+        <span><va-link
+          href="https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/"
+          text="How to Use GI Bill Benefits"
+        /></span>
+        <p class="va-nav-linkslist-description">Learn how students may use their GI Bill benefits to advance their education and training.</p>
       </li>
     </ul>
   </section>
