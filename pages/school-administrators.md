@@ -343,7 +343,7 @@ relatedlinks:
       </li>
       <li>
        <span><va-link
-          href="https://benefits.va.gov/gibill/enrollment-manager/enrollment-manager-frequently-asked-questions.asp"
+          href="https://vbatraining.adobeconnect.com/ptgxzsnw11w7/default/index.html"
           text="Enrollment Manager FAQs"
         /></span>
       </li>
