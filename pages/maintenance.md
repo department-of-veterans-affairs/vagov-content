@@ -23,8 +23,8 @@ noMegamenu: true
           <p>
             During this time, you won’t be able to sign in, use tools, or visit VA.gov webpages. Thank you for your patience.
           </p>
-          <p><strong>Date:</strong> Wednesday, March 20, 2024</p>
-          <p><strong>Start and end time:</strong> 2:00 a.m. to 5 a.m. ET</p>
+          <p><strong>Date:</strong> Wednesday, May 7-8, 2025</p>
+          <p><strong>Start and end time:</strong> 10:00 p.m. to 2:00 a.m. ET</p>
           <h2>Need help during this time?</h2>
           <ul>
             <li><strong>If you need help managing your VA benefits or connecting with your local VA medical center,</strong> call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a><a href="tel:711" aria-label="TTY. 7 1 1."> (TTY: 711)</a>. We're here 24/7.</li>
